@@ -1,0 +1,45 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** nuke inbound ***": {
+    "translation": "*** nuke inbound ***"
+  },
+  "** The final area has been reached! Keep the zombies behind the suspiciously convenient caution line! **": {
+    "translation": "**最后的区域已经到达，不要让僵尸靠近**"
+  },
+  "** Final teleport will be enabled in 15 seconds... **": {
+    "translation": "**最终传送将在15秒后开启**"
+  },
+  "** Access to the nuke room will open in 20 seconds! **": {
+    "translation": "**进入核弹室的通道将在20秒后开启! **"
+  },
+  "** The temple has been reached... **": {
+    "translation": "**已经到达神殿了……**"
+  },
+  "** Slowfart teleport will be enabled in 30 seconds... **": {
+    "translation": "**传送将在30秒后开启**"
+  },
+  "** Someone reached the end of the maze... **": {
+    "translation": "**有人到达了迷宫的尽头**"
+  },
+  "** Teleport will be enabled in 30 seconds! Temple gates will open soon... **": {
+    "translation": "**传送将在30秒后开启**"
+  },
+  "** Welcome to TRAP ESCAPE **": {
+    "translation": "**欢迎来到陷阱逃亡**"
+  },
+  "** Please do NOT get MAD! This map is JUST A TRIM!!! **": {
+    "translation": "**请不要生气!**"
+  },
+  "** The TRAP ESCAPE doors will open soon! **": {
+    "translation": "**门即将打开!**"
+  }
+}

@@ -1,0 +1,123 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** GO TO WHERE THE GREEN LIGHT IS SHINING! ***": {
+    "translation": "***快进闪闪绿光的通道***"
+  },
+  "*** ELEVATOR LEAVING IN 15 SECONDS ***": {
+    "translation": "***电梯将在15s后离开!防守僵尸***"
+  },
+  "*** ELEVATOR LEAVING IN 5 SECONDS ***": {
+    "translation": "***电梯将在5s后离开!防守僵尸***"
+  },
+  "*** THIS MAP HAS BEEN CREATED BY  --- FuTuRe ---": {
+    "translation": "***地图作者: FuTuRe 地图翻译:Sakura@风云社"
+  },
+  "*** THERE 3 GUNS THAT GIVE A COLOURED TRAIL, GL FINDING THEM ***": {
+    "translation": "***地图里有3把彩色枪, 你可以摸索并试图找到它们***"
+  },
+  "*** THERE IS ALSO A SPECIAL SKIN THANKS TO [Pompje] ***": {
+    "translation": "***你可以找到一个地图皮肤(特别感谢 Pompje)***"
+  },
+  "*** ZOMBIES WILL BE RELEASED SOON, SURF AWAY! ***": {
+    "translation": "***僵尸马上追上来了, 快点!***"
+  },
+  "*** ELEVATOR ACTIVATED, LEAVING IN 30 SECONDS ***": {
+    "translation": "***电梯将在30s后离开!坚守电梯!***"
+  },
+  "*** ELEVATOR LEAVING IN 20 SECONDS ***": {
+    "translation": "***电梯将在20s后离开!快了!***"
+  },
+  "*** ELEVATOR LEAVING IN 10 SECONDS ***": {
+    "translation": "***电梯将在10s后离开!开枪!***"
+  },
+  "*** ELEVATOR LEAVING IN 3 SECONDS ***": {
+    "translation": "***电梯将在3s后离开!快上电梯!***"
+  },
+  "*** PRESS BUTTON ON THE CONSOLE TO ENABLE THE ELEVATOR ***": {
+    "translation": "***按下开关启动电梯***"
+  },
+  "*** BOXES SHORTCUT WILL OPEN IN 10 SECONDS ***": {
+    "translation": "***10s后开启箱子侧路***"
+  },
+  "*** HOLD HERE FOR 25 SECONDS UNTIL GLASS WALL APPEARS ***": {
+    "translation": "***守住25s***"
+  },
+  "*** GO GO GO, ZOMBIES RELEASED SHORTLY ***": {
+    "translation": "***快跑, 僵尸即将释放***"
+  },
+  "*** ZOMBIES RELEASED ***": {
+    "translation": "***僵尸已出笼!来了他们来了!***"
+  },
+  "*** GATE ON RAMP WILL OPEN SOON ***": {
+    "translation": "***栅栏门即将打开***"
+  },
+  "*** EXPLOSIVES HAVE BEEN SET, DETONATION WILL FOLLOW SOON! ***": {
+    "translation": "***C4已经激活!很快就爆炸了!***"
+  },
+  "*** 5 SECONDS LEFT UNTIL DETONATION! ***": {
+    "translation": "***再守5s!加油!***"
+  },
+  "*** C4 DETONATED, GO GO GO! ***": {
+    "translation": "***门开了!老板丢雷啊!***"
+  },
+  "*** ACTIVATE THE CONSOLE AFTER THE LAVA***": {
+    "translation": "***快去触发开关!别等!***"
+  },
+  "*** WALL WILL BREAK DOWN IN 30 SECONDS *** DEFEND THE LAVA ***": {
+    "translation": "***路将在30s后打开, 守住这里!不要让僵尸冲过来!***"
+  },
+  "*** WALL BREAKS IN 5 SECONDS ***": {
+    "translation": "***5s后门开!准备撤退!***"
+  },
+  "*** WALL HAS BROKEN DOWN, RUN TO THE TELEPORT ***": {
+    "translation": "***路开了, 快进传送点!gkd!***"
+  },
+  "*** ACTIVATE C4 ON THE DOOR TO CONTINUE ***": {
+    "translation": "***门上面有个c4快按E***"
+  },
+  "*** WOODEN BLOCK WILL BE DESTROYED SOON, ACTIVATE C4 WHEN POSSIBLE! ***": {
+    "translation": "***破坏木门需要等一会!, 守住这里***"
+  },
+  "*** PLAYER HAS PICKED UP RED TRAIL ***": {
+    "translation": "***玩家发现了红色彩线枪***"
+  },
+  "*** PLAYER HAS PICKED UP GREEN TRAIL ***": {
+    "translation": "***玩家发现了绿色彩线枪 ***"
+  },
+  "*** SOMEONE HAS PICKED UP [Pompje's Pizza Boye] ***": {
+    "translation": "*** SOMEONE HAS PICKED UP [Pompje's Pizza Boye] ***"
+  },
+  "*** PLAYER HAS PICKED UP BLUE TRAIL ***": {
+    "translation": "***玩家发现了蓝色彩线枪***"
+  },
+  "*** ZOMBIE TELEPORT INCOMING SHORTLY! ***": {
+    "translation": "***僵尸即将抵达***"
+  },
+  "*** DOORS BREAK IN 30 SECONDS ***": {
+    "translation": "***30s后门开!守住这里!***"
+  },
+  "*** DOORS BREAK IN 5 SECONDS ***": {
+    "translation": "***5s后门开!准备撤退!***"
+  },
+  "*** LAST DOOR WILL CLOSE IN 30 SECONDS ***": {
+    "translation": "***将在30s后最终的大门!嘿!***"
+  },
+  "*** ZOMBIE TELEPORT IN 8 SECONDS ***": {
+    "translation": "***僵尸将在8s后抵达战场***"
+  },
+  "*** HOLD UNTIL WE GET TELEPORTED ***": {
+    "translation": "***坚守住!很快传送!***"
+  },
+  "*** ZOMBIE TELEPORT IN 16 SECONDS ***": {
+    "translation": "***僵尸将在16s后传送***"
+  }
+}

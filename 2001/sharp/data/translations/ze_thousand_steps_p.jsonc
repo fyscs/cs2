@@ -1,0 +1,168 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "++Set next level to : EASY++": {
+    "translation": "新难度:简单"
+  },
+  "++Set next level to : NORMAL++": {
+    "translation": "新难度:普通"
+  },
+  "++Set next level to : HARD++": {
+    "translation": "新难度:困难"
+  },
+  "++Admin press Kill everyone++": {
+    "translation": "管理员处死了所有人"
+  },
+  "++3++": {
+    "translation": "3"
+  },
+  "++2++": {
+    "translation": "2"
+  },
+  "++1++": {
+    "translation": "1"
+  },
+  "++Difficulty level: EASY++": {
+    "translation": "难度:简单"
+  },
+  "++Reaching the end will raise the difficulty++": {
+    "translation": "到达终点会增加难度"
+  },
+  "++Difficulty level: NORMAL++": {
+    "translation": "难度:普通"
+  },
+  "++This is the highest difficulty, good luck++": {
+    "translation": "这是最高难度，祝你好运"
+  },
+  "++Difficulty level: HARD++": {
+    "translation": "难度:困难"
+  },
+  "++Zombies have made it past the cargo entrance, new spawn opening++": {
+    "translation": "僵尸已通过,传送点已更新"
+  },
+  "++Hold them back!++": {
+    "translation": "阻止他们"
+  },
+  "++Zombies have made it past the high tower++": {
+    "translation": "僵尸已经通过了高塔"
+  },
+  "++Cut them off before they reach the tunnel!++": {
+    "translation": "在他们到达隧道之前阻止他们！"
+  },
+  "++Zombies have made it to the bridge, new spawn opening++": {
+    "translation": "僵尸已通过,传送点已更新"
+  },
+  "++Cut them off!++": {
+    "translation": "把它们打掉!"
+  },
+  "++Don't let them get any further!++": {
+    "translation": "不要让他们再得逞!"
+  },
+  "++Zombies have gotten past the middle gate, new spawn opening++": {
+    "translation": "僵尸已通过,传送点已更新"
+  },
+  "++The two gates are lowering++": {
+    "translation": "门正在降下"
+  },
+  "++We're overriding the gates, should take about 15 seconds++": {
+    "translation": "我们正在通过大门，大约需要15秒"
+  },
+  "++We're overriding the gates, should take about 25 seconds++": {
+    "translation": "我们正在通过大门，大约需要25秒"
+  },
+  "++The second bridge can now be broken++": {
+    "translation": "第二座桥现在可以被破坏"
+  },
+  "++The third bridge can now be broken++": {
+    "translation": "第三座桥现在可以被破坏"
+  },
+  "++The first bridge can now be broken++": {
+    "translation": "第一座桥现在可以被破坏"
+  },
+  "++The big gate is opening- fall back if you are on the walkways++": {
+    "translation": "大门正在打开,请向后退"
+  },
+  "++The sliding gate is open, keep moving forward++": {
+    "translation": "门已打开"
+  },
+  "++Try to find a good chokepoint so some of you can hold while the rest advance++": {
+    "translation": "找到新的路"
+  },
+  "++We can see zombies behind you in the train station++": {
+    "translation": "我们可以在火车站看到你身后的僵尸"
+  },
+  "++Don't let them get too far or they'll open new spawn points!++": {
+    "translation": "不要让僵尸冲的太快,否则会开启新的传送点！"
+  },
+  "++We see you, we're triggering the override++": {
+    "translation": "我们看到你了"
+  },
+  "++Door One opening in 10 seconds++": {
+    "translation": "一号门在10秒后打开"
+  },
+  "++Tunnel Door One is opening++": {
+    "translation": "一号门即将打开"
+  },
+  "++Door One will open in 20 seconds++": {
+    "translation": "一号门将在20秒后打开"
+  },
+  "++Hold the ledge until the door is open++": {
+    "translation": "守住直到门打开"
+  },
+  "++Door One will open in 25 seconds++": {
+    "translation": "一号门将在25秒后打开"
+  },
+  "++Door One will open in 40 seconds++": {
+    "translation": "一号门将在40秒后打开"
+  },
+  "++Door One will open in 45 seconds++": {
+    "translation": "一号门将在45秒后打开"
+  },
+  "++The sliding gate is opening++": {
+    "translation": "门正在打开"
+  },
+  "++That gate will take about half a minute to fully open++": {
+    "translation": "那扇门大约需要半分钟才能完全打开"
+  },
+  "++The gate is lowering++": {
+    "translation": "门正在下降"
+  },
+  "++The gate switch will be inside the building++": {
+    "translation": "门开关在建筑里面"
+  },
+  "++We can see you out there. Those doors will take about 20 seconds to lower++": {
+    "translation": "门需要20秒才能放下"
+  },
+  "++We hear you. We're overriding Tunnel Door Six++": {
+    "translation": "我们听到你的声音,我们正在通过隧道"
+  },
+  "++Airstrike hits in 5 seconds++": {
+    "translation": "5秒后空袭"
+  },
+  "++4++": {
+    "translation": "4"
+  },
+  "++Airstrike has hit. Welcome home++": {
+    "translation": "空袭已经结束,欢迎回家"
+  },
+  "++Clear out any remaining runners and it'll be over++": {
+    "translation": "杀死剩余的僵尸"
+  },
+  "++Map created by Officer_B++": {
+    "translation": "地图作者:Officer_B"
+  },
+  "++Tunnel Door Five is Opening++": {
+    "translation": "隧道五号门已打开"
+  },
+  "++Tunnel Door Two is opening++": {
+    "translation": "隧道二号门已打开"
+  }
+}

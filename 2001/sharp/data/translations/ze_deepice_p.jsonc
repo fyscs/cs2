@@ -1,0 +1,75 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** TO BE CONTINUED ***": {
+    "translation": "*** TO BE CONTINUED ***"
+  },
+  "*** Alien Reactor Overload 100% *** ": {
+    "translation": "*** Alien Reactor Overload 100% *** "
+  },
+  "*** Second gate stuck ***": {
+    "translation": "*** Second gate stuck ***"
+  },
+  "*** Defend yourself until we get it open ***": {
+    "translation": "*** Defend yourself until we get it open ***"
+  },
+  "*** Co-Mapper: starbucks ***": {
+    "translation": "*** Co-Mapper: starbucks ***"
+  },
+  "*** Mapper: yardy ***": {
+    "translation": "*** Mapper: yardy ***"
+  },
+  "*** STEAMGAMERS.COM ***": {
+    "translation": "*** STEAMGAMERS.COM ***"
+  },
+  "*** Sea Hawk arrival immediately ***": {
+    "translation": "*** Sea Hawk arrival immediately ***"
+  },
+  "*** Alien Reactor Overload 50% *** ": {
+    "translation": "*** Alien Reactor Overload 50% *** "
+  },
+  "*** Sea Hawk arrival soon ***": {
+    "translation": "*** Sea Hawk arrival soon ***"
+  },
+  "*** Lift 1 is leaving soon ***": {
+    "translation": "*** Lift 1 is leaving soon ***"
+  },
+  "*** Lift 2 is leaving soon ***": {
+    "translation": "*** Lift 2 is leaving soon ***"
+  },
+  "*** ALIEN shield has been activated ***": {
+    "translation": "*** ALIEN shield has been activated ***"
+  },
+  "*** Oh my god jump off the train before it squeezes you ***": {
+    "translation": "*** Oh my god jump off the train before it squeezes you ***"
+  },
+  "*** Hold back the ALIENS while calling the chopper ***": {
+    "translation": "*** Hold back the ALIENS while calling the chopper ***"
+  },
+  "*** Door is being fixed defend yourself ***": {
+    "translation": "*** Door is being fixed defend yourself ***"
+  },
+  "*** Gate opens soon defend yourself ***": {
+    "translation": "*** Gate opens soon defend yourself ***"
+  },
+  "*** Train is leaving soon ***": {
+    "translation": "*** Train is leaving soon ***"
+  },
+  "*** Alienshield disabled ***": {
+    "translation": "*** Alienshield disabled ***"
+  },
+  "*** Defend the area until train leaves ***": {
+    "translation": "*** Defend the area until train leaves ***"
+  },
+  "*** Train departing ***": {
+    "translation": "*** Train departing ***"
+  }
+}

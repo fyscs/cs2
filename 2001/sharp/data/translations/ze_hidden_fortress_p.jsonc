@@ -1,0 +1,33 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Map by Soft Serve ***": {
+    "translation": "***地图作者:Soft Serve ***"
+  },
+  "*** 5 seconds left ***": {
+    "translation": "***剩余5秒***"
+  },
+  "*** Nuke in 10 seconds ***": {
+    "translation": "***核弹10秒后降临***"
+  },
+  "*** Nuke in 30 seconds ***": {
+    "translation": "***核弹30秒后降临***"
+  },
+  "*** Nuke in 20 seconds ***": {
+    "translation": "***核弹20秒后降临***"
+  },
+  "*** Humans have failed to escape! ***": {
+    "translation": "***逃脱失败! ***"
+  },
+  "*** Humans have escaped! ***": {
+    "translation": "***逃脱成功! ***"
+  }
+}

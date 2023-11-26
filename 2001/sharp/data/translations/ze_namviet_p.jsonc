@@ -1,0 +1,45 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<< Helicopter take off in 60 seconds. >>": {
+    "translation": "<<直升机在60秒后起飞>>"
+  },
+  "<< Cover bridge and cars!!! >>": {
+    "translation": "<<桥和汽车!!! >>"
+  },
+  "<< Helicopter take off in 5 seconds. >>": {
+    "translation": "<<直升机5秒后起飞. >>"
+  },
+  "<< Map made by Lup4n. >>": {
+    "translation": "<<地图制作:Lup4n. >>"
+  },
+  "<< Cover here! >>": {
+    "translation": "<<路在这里! >>"
+  },
+  "<< Chopper and Boat are ready to leave! >>": {
+    "translation": "<<准备离开! >>"
+  },
+  "<< Follow the pipe, to dodge anti personal mine!!! >>": {
+    "translation": "<<小心地雷,顺着管道走!!! >>"
+  },
+  "<< Defend until the door blows! >>": {
+    "translation": "<<守到大门开启! >>"
+  },
+  "<< Blast charge activated - It'll open soon !!! >>": {
+    "translation": "<<充电器已激活!!! >>"
+  },
+  "<< Defend this spot !!! >>": {
+    "translation": "<<守住这里!!! >>"
+  },
+  "<< Fall Back !!! >>": {
+    "translation": "<<撤退!!! >>"
+  }
+}

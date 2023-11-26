@@ -1,0 +1,48 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "TRAIN IS LEAVING IN 15 SECONDS.": {
+    "translation": "火车15秒后撤离."
+  },
+  "INCOMING AIRSTRIKE!!": {
+    "translation": "核弹来袭!!"
+  },
+  "DOOR WILL OPEN IN 60 SECONDS.": {
+    "translation": "大门60秒后打开."
+  },
+  "DOOR WILL OPEN IN 30 SECONDS.": {
+    "translation": "大门30秒后打开."
+  },
+  "DOOR IS NOW OPEN!!": {
+    "translation": "门开了!!"
+  },
+  "TRAIN IS LEAVING IN 5 SECONDS.": {
+    "translation": "火车5秒后撤离."
+  },
+  "DOOR WILL OPEN IN 15 SECONDS.": {
+    "translation": "大门15秒后打开."
+  },
+  "DOOR WILL OPEN IN 10 SECONDS.": {
+    "translation": "大门10秒后打开."
+  },
+  "TRAIN IS LEAVING NOW!!": {
+    "translation": "火车正在撤离中!!"
+  },
+  "DOOR WILL OPEN IN 80 SECONDS.": {
+    "translation": "门将在 80 秒后打开."
+  },
+  "TRAIN IS LEAVING IN 10 SECONDS.": {
+    "translation": "火车10秒后撤离."
+  },
+  "MAP MADE BY GARGANTUA": {
+    "translation": "地图制作:GARGANTUA 汉化:小三@風雲社"
+  }
+}

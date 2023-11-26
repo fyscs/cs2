@@ -1,0 +1,54 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Cargo Door Opens in 10 Seconds***": {
+    "translation": "***货舱门在十秒后打开***"
+  },
+  "***Main Testlab Door Opens in 10 Seconds***": {
+    "translation": "***10秒后打开实验室主门***"
+  },
+  "***Testlab Door2 Opens in 5 Seconds***": {
+    "translation": "***实验室2号门在5秒后开启***"
+  },
+  "***Testlab Door3 Opens in 5 Seconds***": {
+    "translation": "***实验室3号门在5秒后打开***"
+  },
+  " ***Water Flow 5 Seconds***": {
+    "translation": " ***等待5秒***"
+  },
+  "***Cart Control Door closes in 5 Seconds***": {
+    "translation": "***车的控制门在5秒后关闭***"
+  },
+  "***Rail Cart leaves in 5 seconds***": {
+    "translation": "***轨道车在5秒后离开***"
+  },
+  "***CartControl Door Opens in 5 Seconds***": {
+    "translation": "***车的控制门在5秒后打开(WTF)***"
+  },
+  "***Refinery hatches opening***": {
+    "translation": "***炼油厂的舱口打开了***"
+  },
+  "***Error Overflow dangerous chemicals detected***": {
+    "translation": "***检测到错误 危险化学品溢出***"
+  },
+  "***Tram Tunnel Door opens in 1 Minute***": {
+    "translation": "***电车隧道门在60秒后开启***"
+  },
+  "***Tram Starts in 5 Seconds***": {
+    "translation": "***电车在5秒后开动***"
+  },
+  "***Bridge Activated***": {
+    "translation": "***桥激活了***"
+  },
+  "***Bridge Deactivated***": {
+    "translation": "***桥失效了***"
+  }
+}

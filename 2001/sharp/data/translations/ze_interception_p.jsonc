@@ -1,0 +1,90 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***HACKING SECURITY BLASTDOOR...***": {
+    "translation": "***黑客安全防爆门...***"
+  },
+  "***ESTIMATED TIME IS 20 SECONDS***": {
+    "translation": "***预估时间为20秒***"
+  },
+  "***HACKING 100% COMPLETE***": {
+    "translation": "***黑客攻击完成***"
+  },
+  "***SECURITY BLASTDOOR IS OPEN***": {
+    "translation": "***安全防爆门已打开***"
+  },
+  "***FALL BACK***": {
+    "translation": "***撤退***"
+  },
+  "***DOUBLE ELEVATOR IS LEAVING IN 10 SECONDS***": {
+    "translation": "***双电梯在10秒后离开***"
+  },
+  "***DOUBLE ELEVATOR IS LEAVING IN 5 SECONDS***": {
+    "translation": "***双电梯在5秒后离开***"
+  },
+  "***ELEVATOR LEAVING IN 20 SECONDS***": {
+    "translation": "***电梯在20秒后离开***"
+  },
+  "***ELEVATOR LEAVING IN 10 SECONDS***": {
+    "translation": "***电梯在10秒后离开***"
+  },
+  "***ELEVATOR LEAVING IN 5 SECONDS***": {
+    "translation": "***电梯在5秒后离开***"
+  },
+  "***OPENING FINAL DOOR***": {
+    "translation": "***打开最终的大门***"
+  },
+  "***DUAL DOORS ARE OPENING IN 30 SECONDS***": {
+    "translation": "***双门在30秒后打开***"
+  },
+  "***DUAL DOORS ARE OPENING IN 10 SECONDS***": {
+    "translation": "***双门在10秒后打开***"
+  },
+  "***DUAL DOORS ARE OPENING IN 5 SECONDS***": {
+    "translation": "***双门在5秒后打开***"
+  },
+  "***DUAL DOORS ARE OPENING***": {
+    "translation": "***双门正在打开***"
+  },
+  "***DOOR IS OPENING IN 15 SECONDS***": {
+    "translation": "***门在15秒后打开***"
+  },
+  "***DOOR IS OPENING IN 5 SECONDS***": {
+    "translation": "***门在5秒后打开***"
+  },
+  "***DOOR IS OPENING IN 10 SECONDS***": {
+    "translation": "***门在10秒后打开***"
+  },
+  "***OPENING BLASTDOOR TO INNER COMPLEX***": {
+    "translation": "***打开内部建筑群的防爆门***"
+  },
+  "***FINAL DOOR IS CLOSING***": {
+    "translation": "***最后的大门正在关闭***"
+  },
+  "***FENCE OPENING IN 15 SECONDS***": {
+    "translation": "***围栏在15秒后打开***"
+  },
+  "***FENCE OPENING IN 5 SECONDS***": {
+    "translation": "***围栏在5秒后打开***"
+  },
+  "***SEWER OPENING IN 20 SECONDS***": {
+    "translation": "***下水道在20秒内打开***"
+  },
+  "***SEWER OPENING IN 5 SECONDS***": {
+    "translation": "***下水道在5秒内打开***"
+  },
+  "***COMPLEX GATE OPENING IN 20 SECONDS***": {
+    "translation": "***门将在20秒后开启***"
+  },
+  "***COMPLEX GATE OPENING IN 5 SECONDS***": {
+    "translation": "***门将在5秒后开启***"
+  }
+}

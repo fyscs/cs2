@@ -1,0 +1,99 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Gate opening in 75secs.***": {
+    "translation": "***门将在75秒后开启.***"
+  },
+  "***Gate opening in 5secs.***": {
+    "translation": "***门将在5秒后开启.***"
+  },
+  "***Gate opening in 30secs.***": {
+    "translation": "***门将在30秒后开启.***"
+  },
+  "***Start up the Helicopter.***": {
+    "translation": "***启动直升机.***"
+  },
+  "***Ice Wall breaking in 10secs.***": {
+    "translation": "***冰墙将在10秒后碎掉.***"
+  },
+  "***Boat 2 leaving in 5secs.***": {
+    "translation": "***2号船在5秒内离开.***"
+  },
+  "***Boat 1 leaving in 10secs.***": {
+    "translation": "***1号船在10秒内离开.***"
+  },
+  "***Tram leaving in 10secs.***": {
+    "translation": "***有轨电车10秒后离开.***"
+  },
+  "***Bobsled leaving in 5secs.***": {
+    "translation": "***雪橇在5秒内离开.***"
+  },
+  "***Boat 4 leaving in 10secs.***": {
+    "translation": "***4号船在10秒内离开.***"
+  },
+  "***Boat 3 leaving in 10secs.***": {
+    "translation": "***3号船在10秒内离开.***"
+  },
+  "***...WashTub leaving in 3secs...***": {
+    "translation": "***...洗脸盆在3秒内离开...***"
+  },
+  "***1***": {
+    "translation": "***1***"
+  },
+  "***2***": {
+    "translation": "***2***"
+  },
+  "***3***": {
+    "translation": "***3***"
+  },
+  "***4***": {
+    "translation": "***4***"
+  },
+  "***5***": {
+    "translation": "***5***"
+  },
+  "***Nuke in 10secs.***": {
+    "translation": "***核弹将在10秒后降临.***"
+  },
+  "***Final Boat leaving in 75secs.***": {
+    "translation": "***最后一艘船在75秒内离开.***"
+  },
+  "***WashTub leaving in 30secs.***": {
+    "translation": "***洗脸盆将在30秒后离开.***"
+  },
+  "***WashTub leaving in 5secs.***": {
+    "translation": "***洗脸盆将在5秒后离开.***"
+  },
+  "***Final Boat leaving in 30secs.***": {
+    "translation": "***最后一艘船在30秒内离开.***"
+  },
+  "***Final Boat leaving in 5secs.***": {
+    "translation": "***最后一艘船在5秒内离开.***"
+  },
+  "***WashTub leaving in 65secs.***": {
+    "translation": "***洗脸盆将在65秒后离开.***"
+  },
+  "***Helicopter leaving in 5secs.***": {
+    "translation": "***直升机在5秒后起飞.***"
+  },
+  "***...WashBucket leaving in 5secs...Seriously?***": {
+    "translation": "***...洗脸盆将在5秒后离开***"
+  },
+  "***Armory open.***": {
+    "translation": "***武器库开放.***"
+  },
+  "***First shortcuts opening in 15secs.***": {
+    "translation": "***近路①将在15后开启.***"
+  },
+  "***Second shortcuts opening in 15secs.***": {
+    "translation": "***近路②将在15后开启.***"
+  }
+}

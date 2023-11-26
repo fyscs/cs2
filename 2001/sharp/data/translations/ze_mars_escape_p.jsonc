@@ -1,0 +1,72 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Security airlock closing.": {
+    "translation": "安全门关闭."
+  },
+  "Marslab self-destructing in...": {
+    "translation": "古娜拉黑暗之神-乌呼啦呼-僵尸给我死"
+  },
+  "Bunker closing in 5 secs": {
+    "translation": "魔仙堡5秒后关闭"
+  },
+  "Bunker closing in 10 secs": {
+    "translation": "魔仙堡10秒后关闭"
+  },
+  "Bunker closing in 20 secs": {
+    "translation": "魔仙堡20秒后关闭"
+  },
+  "Bunker closing in 60 secs": {
+    "translation": "魔仙堡60秒后关闭"
+  },
+  "Bunker closing in 40 secs": {
+    "translation": "魔仙堡40秒后关闭"
+  },
+  "Map made by Xquality.": {
+    "translation": "**地图制作:Xquality  汉化:小三@风云社**"
+  },
+  "After a long trip to mars you finally land but something strange has happend...": {
+    "translation": "火星之旅是如此的漫长!!!等等...这里貌似发生了可怕的事情..."
+  },
+  "Power Generator Online.": {
+    "translation": "发电机重启完毕."
+  },
+  "Airlock opening in 20 secs.": {
+    "translation": "气闸门20秒后打开."
+  },
+  "Airlock opening in 15 secs.": {
+    "translation": "铁门将在15秒后打开."
+  },
+  "Airlock opening in 10 secs.": {
+    "translation": "铁门将在10秒后打开."
+  },
+  "Airlock opening in 5 secs.": {
+    "translation": "铁门将在5秒后打开."
+  },
+  "Airlock opening.": {
+    "translation": "溜了溜了!!!."
+  },
+  "Power generator Offline.": {
+    "translation": "发电机离线中."
+  },
+  "Power generator waiting for restart.": {
+    "translation": "发电机等待重启中...."
+  },
+  "Pole doors closing.": {
+    "translation": "大门正在关闭."
+  },
+  "Mini airlock opening in 5.": {
+    "translation": "气闸门5秒后打开."
+  },
+  "Elevator broken.": {
+    "translation": "电梯坏了."
+  }
+}

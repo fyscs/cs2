@@ -1,0 +1,93 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Press emergency sequence and set this place on lockdown!***": {
+    "translation": "***Press emergency sequence and set this place on lockdown!***"
+  },
+  "***Upstairs window malfunction in lit room***": {
+    "translation": "***窗户坏了***"
+  },
+  "***Upstairs window malfunction in dark room***": {
+    "translation": "***窗户坏了***"
+  },
+  "***Upstairs window malfunction in both rooms***": {
+    "translation": "***窗户坏了***"
+  },
+  "***Someone is getting in through the roof***": {
+    "translation": "***屋顶可以进来***"
+  },
+  "***Keep it steady***": {
+    "translation": "***守住***"
+  },
+  "***Hold this position until we break it***": {
+    "translation": "***守住这里一部分人开路***"
+  },
+  "***The windows are barricaded off***": {
+    "translation": "***窗户被挡住了***"
+  },
+  "***The window barricades are broken through***": {
+    "translation": "***窗户被打开了***"
+  },
+  "***RUN!***": {
+    "translation": "***快跑!***"
+  },
+  "***Truck leaving in 10 seconds***": {
+    "translation": "***卡车10秒后出发***"
+  },
+  "***DEFEND! The door is locked***": {
+    "translation": "***守到门开***"
+  },
+  "***Hold it for a bit more***": {
+    "translation": "***在守一会***"
+  },
+  "***Fall back***": {
+    "translation": "***撤退!!!***"
+  },
+  "***Tram leaving in 15 seconds***": {
+    "translation": "***电车15秒后出发***"
+  },
+  "***Tram leaving in 5 seconds***": {
+    "translation": "***电车5秒后出发***"
+  },
+  "***Emergency sequence enabled***": {
+    "translation": "***紧急预备措施启动***"
+  },
+  "***Nerve Gas release inbound***": {
+    "translation": "***神经毒素已释放***"
+  },
+  "***Get to the lab for safety***": {
+    "translation": "***去实验室***"
+  },
+  "***Nerve Gas in 30 seconds***": {
+    "translation": "***神经毒素30秒后施放***"
+  },
+  "***Nerve Gas in 15 seconds***": {
+    "translation": "***神经毒素15秒后施放***"
+  },
+  "***Nerve Gas imminent!!! CLOSE THE DOOR!!!!***": {
+    "translation": "***关门!!!!***"
+  },
+  "***Nerve Gas in 5 seconds***": {
+    "translation": "***神经毒素5秒后施放***"
+  },
+  "***Nerve Gas in 90 seconds***": {
+    "translation": "***神经毒素90秒后施放***"
+  },
+  "***Downstairs window malfunction***": {
+    "translation": "***楼下窗户坏了***"
+  },
+  "***Lockdown sequence enable***": {
+    "translation": "***Lockdown sequence enable***"
+  },
+  "***Nerve Gas release in 90 seconds***": {
+    "translation": "***神经毒素90秒后施放***"
+  }
+}

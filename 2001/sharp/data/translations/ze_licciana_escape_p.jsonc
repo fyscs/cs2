@@ -1,0 +1,69 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "MAP MADE BY GARGANTUA": {
+    "translation": "地图作者: GARGANTUA"
+  },
+  "++ ESCAPE LIFT 1 ARRIVING IN 20 SECONDS ++": {
+    "translation": "电梯1到达在20秒后!防守!"
+  },
+  "++ ESCAPE LIFT 1 ARRIVED ++": {
+    "translation": "电梯1到达!准备撤退!"
+  },
+  "++ LIFT DOOR 1 OPENING UP ++": {
+    "translation": "电梯1门开了++"
+  },
+  "++ ESCAPE LIFT 1 LEAVING IN 30 SECONDS ++": {
+    "translation": "电梯1到达在30秒后!防守!++"
+  },
+  "++ ESCAPE LIFT 1 LEAVING IN 15 SECONDS ++": {
+    "translation": "电梯1到达在15秒后!防守!"
+  },
+  "++ ESCAPE LIFT 1 IS LEAVING IN 5 SECONDS ++": {
+    "translation": "电梯1到达在5秒后!防守!"
+  },
+  "++ TOXIC MINE GAS IN AIR !! ++": {
+    "translation": "空气中弥漫着毒气"
+  },
+  "++ 30 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++": {
+    "translation": "还剩30秒到达安全地点++"
+  },
+  "++ TOXIC MINE GAS HAS BEEN RELEASED!! ++": {
+    "translation": "有瓦斯气体已经释放!!!是毒气!++"
+  },
+  "++ ESCAPE LIFT 2 ARRIVING IN 30 SECONDS ++": {
+    "translation": "电梯2到达在30秒后!防守!"
+  },
+  "++ ESCAPE LIFT 2 ARRIVED ++": {
+    "translation": "电梯1到达!准备撤退!"
+  },
+  "++ LIFT DOOR 2 OPENING UP ++": {
+    "translation": "电梯2门开了!进电梯!"
+  },
+  "++ ESCAPE LIFT 2 LEAVING IN 30 SECONDS ++": {
+    "translation": "电梯2离开在30秒后!防守这里!"
+  },
+  "++ ESCAPE LIFT 2 LEAVING IN 15 SECONDS ++": {
+    "translation": "逃生电梯2在15秒后离开!准备撤离!"
+  },
+  "++ ESCAPE LIFT 2 IS LEAVING IN 5 SECONDS ++": {
+    "translation": "逃生电梯2在5秒后离开!准备撤离!"
+  },
+  "++ SECRET LIFT IS LEAVING!! ++": {
+    "translation": "隐藏电梯即将离开"
+  },
+  "++ GARGANTUA'S BOAT LEAVING IN 3 SECONDS ++": {
+    "translation": "船在3秒后离开"
+  },
+  "++ GARGANTUA'S BOAT IS LEAVING!! ++": {
+    "translation": "船要走了!!"
+  }
+}

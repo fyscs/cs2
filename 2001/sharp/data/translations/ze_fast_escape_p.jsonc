@@ -1,0 +1,66 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Great job... hold for 15 sec***": {
+    "translation": "***干得漂亮!守住15秒***"
+  },
+  "***GOGOGO!!!***": {
+    "translation": "***快跑!!!***"
+  },
+  "***Break all red block to continue***": {
+    "translation": "***摧毁所有的红色方块***"
+  },
+  "***Good... Now climb on the towers and wait for rescue***": {
+    "translation": "***奈斯!现在爪巴上塔楼等待救援***"
+  },
+  "***Elevator leaving in 15 sec***": {
+    "translation": "***电梯在15秒后离开***"
+  },
+  "***Hold for 30 sec***": {
+    "translation": "***防守30秒***"
+  },
+  "***Hold for 5 sec***": {
+    "translation": "***防守5秒***"
+  },
+  "***wait 10 sec***": {
+    "translation": "***等待10秒***"
+  },
+  "***Rescue is here... Jump on!!!***": {
+    "translation": "***救援来了!跳!***"
+  },
+  "***Survive for 1 min***": {
+    "translation": "***生存1分钟***"
+  },
+  "***Break 7 red targets to continue***": {
+    "translation": "***打破7个红色目标***"
+  },
+  "***Map by Taskuvaras***": {
+    "translation": "***地图作者: Taskuvaras***"
+  },
+  "***Human door opening in 15s***": {
+    "translation": "***大门在15秒后开启***"
+  },
+  "***Zombie door opening in 6 sec***": {
+    "translation": "***僵尸大门在6秒后开启***"
+  },
+  "***Elevator door opening!!!***": {
+    "translation": "***电梯开了!!!***"
+  },
+  "***Zombies locked to cage***": {
+    "translation": "***僵尸传送至尸笼***"
+  },
+  "***Survive for 10 sec***": {
+    "translation": "***生存10秒***"
+  },
+  "***Survive for 30 sec***": {
+    "translation": "***生存30秒***"
+  }
+}

@@ -1,0 +1,39 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** Power has been lost to Jurassic Park **": {
+    "translation": "**侏罗纪公园的电源已被切断**"
+  },
+  "** Generator override enabled **": {
+    "translation": "**已启用覆盖发生器**"
+  },
+  "** Wait for other survivors 25  seconds **": {
+    "translation": "**等待其他人25秒**"
+  },
+  "** Get Ready **": {
+    "translation": "**准备好了吗**"
+  },
+  "** Run! **": {
+    "translation": "**快跑!!!**"
+  },
+  "** Call the mainland - Tell them to send the damn helicopters! **": {
+    "translation": "**信号已发送, 直升机很快就会抵达! **"
+  },
+  "** Biosyn Huey inbound - ETA 15 seconds **": {
+    "translation": "**预计还需要15秒**"
+  },
+  "** Nerve gas released ** ": {
+    "translation": "**已释放神经毒气** "
+  },
+  "** SECURE THE LZ ** ": {
+    "translation": "**保护LZ** "
+  }
+}

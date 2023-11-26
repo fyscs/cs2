@@ -1,0 +1,168 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Zombie ladder is down***": {
+    "translation": "***僵尸梯子倒了***"
+  },
+  "***Lift is leaving***": {
+    "translation": "***缆车离开***"
+  },
+  "***Wait for the exterior doors to open, 20 seconds***": {
+    "translation": "***门还有20秒打开,守住***"
+  },
+  "***Exterior doors are opening, 8 seconds till bunker door opens***": {
+    "translation": "***门还有8秒打开,守住***"
+  },
+  "***Bunker doors are opening***": {
+    "translation": "***大门已打开***"
+  },
+  "***Press the button to call for the nuke!***": {
+    "translation": "***按下按钮呼叫核弹打击!***"
+  },
+  "***Helicopter is leaving in 5 seconds***": {
+    "translation": "***直升机5秒后起飞***"
+  },
+  "__The boats hatch can only be opened from this side__": {
+    "translation": "***船上的甲板只能从内打开,小心内鬼***"
+  },
+  "***Special Thanks to Sleepy and Neuro Toxin***": {
+    "translation": "***特别感谢Thanks和Neuro Toxin***"
+  },
+  "[***Map made by AttenseFX***]": {
+    "translation": "[***地图作者:AttenseFX***]"
+  },
+  "--------Get out and fight you cowards!--------": {
+    "translation": "***出去和你们这些胆小鬼战斗***"
+  },
+  "***Shoot a path through the wall or we will crash!***": {
+    "translation": "***朝冰墙上开枪,轰开一条路!***"
+  },
+  "[Melon]": {
+    "translation": "[[西瓜]"
+  },
+  "=--[Get off the Helicopter and help defend]--=": {
+    "translation": "***下直升机守住***"
+  },
+  "***Shoot the rock sticking out of the wall!***": {
+    "translation": "***直升机:打掉前方的石头,我们要撞机了!***"
+  },
+  "***Teleport past the course is now enabled***": {
+    "translation": "***传送装置已开启***"
+  },
+  "***Shoot at the tree or we will crash!***": {
+    "translation": "***直升机:打掉前方的大树,不然我们要撞机了!***"
+  },
+  "***Speed Boats have left***": {
+    "translation": "***快艇已经离开***"
+  },
+  "***Speed Boats are leaving in 8 seconds***": {
+    "translation": "***快艇8秒后出发***"
+  },
+  "--------Laser initiating (Crouch!)--------": {
+    "translation": "--------准备蹲下跳刀(从你们来的方向出刀)--------"
+  },
+  "***Nuclear bomb on it's way doors closing in 20 seconds***": {
+    "translation": "***核打击已部署,堡垒20秒后关闭***"
+  },
+  "***Nuclear bomb has been sent***": {
+    "translation": "***核弹已发射***"
+  },
+  "***Detonation in 3***": {
+    "translation": "***爆炸!3!***"
+  },
+  "***2***": {
+    "translation": "***2***"
+  },
+  "***1***": {
+    "translation": "***1***"
+  },
+  "***Hold here for 45 seconds***": {
+    "translation": "***守住45秒***"
+  },
+  "***Drawbridge is down***": {
+    "translation": "***吊桥已关闭***"
+  },
+  "***Hold here for 35 seconds while the boats refuel***": {
+    "translation": "***快艇需要35秒加油,守住***"
+  },
+  "***Zombies are blocked for 10 seconds. get on the boats!***": {
+    "translation": "***僵尸被阻挡10秒,人类快点上船!***"
+  },
+  "***Washtub 5 will leave in 5 seconds***": {
+    "translation": "***五号澡盆将在5秒后离开***"
+  },
+  "***Washtub 4 will leave in 5 seconds***": {
+    "translation": "***四号澡盆将在5秒后离开***"
+  },
+  "***Washtub 3 will leave in 5 seconds***": {
+    "translation": "***三号澡盆将在5秒后离开***"
+  },
+  "***Washtub 2 will leave in 5 seconds***": {
+    "translation": "***二号澡盆将在5秒后离开***"
+  },
+  "***Washtub 1 will leave in 5 seconds***": {
+    "translation": "***一号澡盆将在5秒后离开***"
+  },
+  "***Teleport to other island available in 20 seconds***": {
+    "translation": "***将在20秒后传送到下一个岛屿***"
+  },
+  "***Teleport to other island is now available***": {
+    "translation": "***现在可以传送到其他岛屿***"
+  },
+  "***Second Main Lift is leaving in 10 seconds***": {
+    "translation": "***缆车将在10秒后离开***"
+  },
+  "***Second Main Lift has left***": {
+    "translation": "***缆车已离开***"
+  },
+  "***Boat is almost here begin to FALL BACK***": {
+    "translation": "***船要坠下瀑布了,准备撤退***"
+  },
+  "***Water after waterfall is very hazardous Instant-death***": {
+    "translation": "***瀑布后方的水面,人类触碰就会秒杀***"
+  },
+  "*** Oh god, get out. GET OUT OF THE BOAT NOW!": {
+    "translation": "***天啦撸!快下船,再不走要死啦!"
+  },
+  "***Small boat 1 leaving in 5 seconds***": {
+    "translation": "***小船一号5秒后出发***"
+  },
+  "***Small boat 2 leaving in 5 seconds***": {
+    "translation": "***小船二号5秒后出发***"
+  },
+  "***Raft leaving in 5 seconds***": {
+    "translation": "***木筏5秒后离开***"
+  },
+  "***Wall has collapsed***": {
+    "translation": "***第二堵墙塌了***"
+  },
+  "***The boat must reach the walls in order to continue***": {
+    "translation": "***必须等到船只航行到墙我们才能继续前进***"
+  },
+  "***Main Boat has left***": {
+    "translation": "***大船已经离开了***"
+  },
+  "***Main Lift is leaving in 15 seconds***": {
+    "translation": "***缆车15秒后离开***"
+  },
+  "***Main Lift has left***": {
+    "translation": "***缆车已离开***"
+  },
+  "***Second wall has collapsed***": {
+    "translation": "***第二堵墙塌了***"
+  },
+  "***Zombies are held for 10 seconds***": {
+    "translation": "***僵尸被封锁住10秒***"
+  },
+  "***Zombies are blocked for 7 seconds***": {
+    "translation": "***僵尸被阻挡7秒钟***"
+  }
+}

@@ -1,0 +1,30 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** 30 seconds left ***": {
+    "translation": "***还剩30秒***"
+  },
+  "*** 15 seconds left ***": {
+    "translation": "***还剩15秒***"
+  },
+  "*** 5 seconds left ***": {
+    "translation": "***还剩5秒***"
+  },
+  "*** Hold 30 seconds ***": {
+    "translation": "***防守30秒***"
+  },
+  "*** 25 seconds left ***": {
+    "translation": "***还剩25秒***"
+  },
+  "*** 35 seconds left ***": {
+    "translation": "***还剩30秒***"
+  }
+}

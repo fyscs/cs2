@@ -1,0 +1,36 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "===hold here while guy gets pay check====": {
+    "translation": "等那家伙拿到工资"
+  },
+  "===ok guy got cash===": {
+    "translation": "好多现金"
+  },
+  "===defend until big mac ready===": {
+    "translation": "防守到巨无霸准备好"
+  },
+  "===ok big mac ready grab it===": {
+    "translation": "巨无霸准备好抓住它"
+  },
+  "===we got food we win===": {
+    "translation": "我们赢得了食物"
+  },
+  "===get the cash on table===": {
+    "translation": "拿走桌子上的现金"
+  },
+  "===ze paycheck===": {
+    "translation": "他们发工资了"
+  },
+  "===we got cash  jump on table===": {
+    "translation": "我们有好多的现金"
+  }
+}

@@ -1,0 +1,42 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Wait some more secs***": {
+    "translation": "***守到门关!不要开假枪!***"
+  },
+  "***Btw. Unlimited ammo time :3***": {
+    "translation": "***现在是无限子弹时间哦***"
+  },
+  "***Defend for 20secs***": {
+    "translation": "***守住僵尸20秒***"
+  },
+  "***Prefinal Hold 50secs***": {
+    "translation": "***防守僵尸50秒***"
+  },
+  "***ZOMBIES TELEPORTED! COVER ALL THREE SIDES!***": {
+    "translation": "***僵尸传送了! 守住所有通道!***"
+  },
+  "***Zombies teleporting in 15 secs. Get ready.***": {
+    "translation": "***僵尸将会在15s后传送, 准备好.***"
+  },
+  "***Zombies teleporting in 10 secs!***": {
+    "translation": "***僵尸将会在10s后传送, 准备好!***"
+  },
+  "***Zombies teleporting in 5 secs!!!***": {
+    "translation": "***僵尸将会在5s后传送, 准备好!!!***"
+  },
+  "***RUUUUUUUUUN!!!***": {
+    "translation": "***冲冲冲冲!!!***"
+  },
+  "***RUN INTO THE HOLE!***": {
+    "translation": "***快冲到中间的洞里!***"
+  }
+}

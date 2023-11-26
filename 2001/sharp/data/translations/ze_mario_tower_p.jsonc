@@ -1,0 +1,60 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Middle Wall opens in 10 seconds***": {
+    "translation": "***中侧墙梯将于10秒后开启***"
+  },
+  "*** Angry sun and chainchomps hate AFKS": {
+    "translation": "***处理AFKS挂机人员"
+  },
+  "*** Bowser and his minions are attacking!! ***": {
+    "translation": "***鲍瑟和他的小黄人正在进攻!! ***"
+  },
+  "*** Angry Sun will scorch everything in his reach in 90 seconds!! ***": {
+    "translation": "***90秒后愤怒的比利太阳将燃烧世界!! ***"
+  },
+  "*** Scorch in 30 seconds!!***": {
+    "translation": "***FFF燃烧大地之术施法时间还有30秒!!***"
+  },
+  "*** Right Ladder Wall opens in 5 seconds***": {
+    "translation": "*** 右侧墙梯将于5秒后开启***"
+  },
+  "*** Thomp will open in 20 seconds!!***": {
+    "translation": "***墙将于20秒后开启请注意防守***"
+  },
+  "*** Clouds will raise in 30 seconds ***": {
+    "translation": "***云还有30秒升起***"
+  },
+  "*** Clouds will raise in 10 seconds ***": {
+    "translation": "***云升起还有10秒请注意防守***"
+  },
+  "*** Left Ladder wall opens in 5 seconds***": {
+    "translation": "***左侧墙梯将于5秒后开启***"
+  },
+  "***BlockWall Breaks in 30 seconds!***": {
+    "translation": "***两侧门墙将于30秒后开启注意防守!***"
+  },
+  "***BlockWall is open***": {
+    "translation": "***两侧门墙已开启请注意菊花***"
+  },
+  "*** Star Door opens in 20 seconds ***": {
+    "translation": "***大门将于20秒后开启请注意防守***"
+  },
+  "*** Star Door opens in 10 seconds ***": {
+    "translation": "***大门将于10秒后开启请注意防守***"
+  },
+  "*** Star Door open ***": {
+    "translation": "***大门已开请速撤***"
+  },
+  "*** Get to the top of the tower before it is too late!! ***": {
+    "translation": "***你身法太差了为时已晚!! ***"
+  }
+}

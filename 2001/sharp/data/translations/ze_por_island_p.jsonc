@@ -1,0 +1,45 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** Door opening in 15 sec **": {
+    "translation": "** 大门15秒后打开 **"
+  },
+  "** Second door opening in 10 seconds **": {
+    "translation": "** 第二扇门还有10秒打开 **"
+  },
+  "** Boat leaving in 20 sec **": {
+    "translation": "** 距离船只启动还有20秒 **"
+  },
+  "** Door opening in 15 sec. **": {
+    "translation": "** 大门15秒后打开. **"
+  },
+  "**Elevator leaving in 30 sec **": {
+    "translation": "**电梯30秒后启动 **"
+  },
+  "** Door opening in 25 sec **": {
+    "translation": "** 大门25秒后 **"
+  },
+  "** Door opening in 20 sec **": {
+    "translation": "** 大门20秒后 **"
+  },
+  "** Final door opening in 50 sec!!! **": {
+    "translation": "** 最后的大门将在50秒后打开!!! **"
+  },
+  "** Be ready! Zombies in bunker are coming!!! **": {
+    "translation": "** Be ready! Zombies in bunker are coming!!! **"
+  },
+  "** Bridge will be destroyed after 30 sec .**": {
+    "translation": "** 木桥30秒后摧毁 .**"
+  },
+  "**USE THE BUTTON IN THE CONTROL PANNEL!**": {
+    "translation": "**快去控制台按下按钮!**"
+  }
+}

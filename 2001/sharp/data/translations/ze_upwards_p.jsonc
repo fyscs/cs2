@@ -1,0 +1,42 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***BUNKER DOORS CLOSING IN 30 SECONDS***": {
+    "translation": "***地堡门将在30秒后关闭***"
+  },
+  "***NUKE INCOMING***": {
+    "translation": "***核弹降临***"
+  },
+  "***BUNKER DOORS WILL OPEN IN 30 SECONDS***": {
+    "translation": "***地堡门将在30秒后打开***"
+  },
+  "***BRIDGE DOORS OPEN IN 30 SECONDS***": {
+    "translation": "***门在30秒后打开***"
+  },
+  "***ELEVATORS LEAVING IN 20 SECONDS***": {
+    "translation": "***电梯20秒后离开***"
+  },
+  "***LOWER LEFT ELEVATOR LEAVES IN 15 SECONDS***": {
+    "translation": "***电梯15秒后离开***"
+  },
+  "***UPPER LEFT ELEVATOR LEAVES IN 15 SECONDS***": {
+    "translation": "***电梯15秒后离开***"
+  },
+  "***CENTRAL LEFT ELEVATOR LEAVES IN 15 SECONDS***": {
+    "translation": "***电梯15秒后离开***"
+  },
+  "***CENTRAL RIGHT ELEVATOR LEAVES IN 15 SECONDS***": {
+    "translation": "***电梯15秒后离开***"
+  },
+  "***TUNNEL DOORS OPEN IN 30 SECONDS***": {
+    "translation": "***隧道门在30秒后打开***"
+  }
+}

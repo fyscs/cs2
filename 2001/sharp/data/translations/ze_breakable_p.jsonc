@@ -1,0 +1,72 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>>RUN TO THE OTHER SIDE OF THE BRIDGE<<<": {
+    "translation": ">>>道桥的另一边<<<"
+  },
+  ">>>ZOMBIES PROTECTION ACTIVATED ! HURRY UP<<<": {
+    "translation": ">>>僵尸传送<<<"
+  },
+  ">>>FIND GREEN LIGHT DOOR<<<<": {
+    "translation": ">>>找到绿色灯的门<<<<"
+  },
+  ">>>RUN<<<<": {
+    "translation": ">>>快跑<<<<"
+  },
+  ">>>COVER 35s<<<<": {
+    "translation": ">>>防守35秒<<<<"
+  },
+  ">>>PREPARE TO RUN - TAKE THE RIGHT DOOR<<<": {
+    "translation": ">>>对面的门是路<<<"
+  },
+  ">>>PREPARE TO RUN - TAKE THE MIDDLE DOOR<<<": {
+    "translation": ">>>中间的门是路<<<"
+  },
+  ">>>BREAK THE BLOCKING PILLAR OR COVER 1 MINUTE<<<": {
+    "translation": ">>>打破障碍或防守1分钟<<<"
+  },
+  ">>>BREAK THE CORRECT WALLS<<<": {
+    "translation": ">>>打破正确的墙<<<"
+  },
+  ">> BRIDGES BROKEN BEFORE THE COUNTDOWN <<": {
+    "translation": ">>倒计时结束桥会断开<<"
+  },
+  ">> ENDING NOW <<": {
+    "translation": ">>结束<<"
+  },
+  ">>>30s LEFT<<<": {
+    "translation": ">>>还剩30秒<<<"
+  },
+  ">>>SHOOT THE BRIDGE<<<": {
+    "translation": ">>>守住大桥<<<"
+  },
+  ">>>OR COVER 1 MINUTE<<<": {
+    "translation": ">>>防守1分钟<<<"
+  },
+  ">>>5s LEFT<<<": {
+    "translation": ">>>还剩5秒<<<"
+  },
+  ">>>PREPARE TO RUN - TAKE THE LEFT DOOR<<<": {
+    "translation": ">>>左边的门是路<<<"
+  },
+  ">>>RUN<<<": {
+    "translation": ">>>快跑<<<"
+  },
+  ">>>COVER 30s<<<": {
+    "translation": ">>>防守30秒<<<"
+  },
+  ">>>MAP BY LeGrem<<<": {
+    "translation": ">>>地图由 LeGrem 提供<<<"
+  },
+  ">>>BREAK CRATES AND GET ON IT TO ESCAPE FROM MOTHER ZOMBIE<<<": {
+    "translation": ">>>打破箱子<<<"
+  }
+}

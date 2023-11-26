@@ -1,0 +1,36 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Nuke has been launched!! 10 seconds until explosion**": {
+    "translation": "**核弹已发射10秒后降临**"
+  },
+  "**The quarantine platform will begin its ascent in 40 seconds!**": {
+    "translation": "**平台将在40秒后上升!**"
+  },
+  "**The quarantine platform will begin to rise in 5 seconds!**": {
+    "translation": "**平台将在5秒后上!**"
+  },
+  "**Teleporter activating in 7 seconds...**": {
+    "translation": "**传送器在7秒后开启...**"
+  },
+  "**Ladder blockade breaking in 7 seconds...**": {
+    "translation": "**梯子将在7秒后开启...**"
+  },
+  "**The other ladder blockade will break in 15 seconds...**": {
+    "translation": "**梯子将在15秒后开启...**"
+  },
+  "**Teleporting bottom area in 10 seconds!**": {
+    "translation": "**10秒后传送下层区域!**"
+  },
+  "**Teleporting bottom area!**": {
+    "translation": "**传送下层区域!**"
+  }
+}

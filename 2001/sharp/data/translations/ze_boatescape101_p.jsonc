@@ -1,0 +1,48 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***TRAM LEAVES 10 SECONDS***": {
+    "translation": "***电车10秒后出发***"
+  },
+  "***AFK TELEPORTING 20 SECONDS***": {
+    "translation": "***挂机者将在20秒后传送***"
+  },
+  "***AFK TELEPORTING 10 SECONDS***": {
+    "translation": "***挂机者将在40秒后传送***"
+  },
+  "*** AFK & HUNTERS HAVE BEEN TELEPORTED***": {
+    "translation": "***挂机者和僵尸以传送***"
+  },
+  "***RESCUE BOAT & HELI INBOUND 60 SECONDS***": {
+    "translation": "***船和直升机60秒后出发***"
+  },
+  "***HELI LEAVING 20 SECONDS***": {
+    "translation": "***直升机20秒后出发***"
+  },
+  "***HELI LEAVING 10 SECONDS***": {
+    "translation": "***直升机10秒后出发***"
+  },
+  "***BOAT LEAVING 15 SECONDS***": {
+    "translation": "***船15秒后出发***"
+  },
+  "***NUKE IN 10 SECONDS***": {
+    "translation": "***核弹10后降临***"
+  },
+  "***NUKE IN 5 SECONDS***": {
+    "translation": "***核弹5后降临***"
+  },
+  "***MAP BY thegregster101***": {
+    "translation": "***地图由 thegregster101 提供***"
+  },
+  "***USE RADIO TO CALL FOR HELP!***": {
+    "translation": "***使用无线电呼救！***"
+  }
+}

@@ -1,0 +1,30 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Defend the temple of Zeus for 45s!***": {
+    "translation": "***保卫宙斯神庙45秒!***"
+  },
+  "***Zeus's lightning will strike greece in 10s!***": {
+    "translation": "***宙斯的闪电将在10秒后劈下!***"
+  },
+  "***Gate will close in 10s! Defend your position against the zombies!***": {
+    "translation": "***10秒后开门!保护自己不受僵尸的伤害!***"
+  },
+  "***Gate will open in 30s! Defend yourself against the zombies!***": {
+    "translation": "***30秒后开门!保护自己不受僵尸的伤害!***"
+  },
+  "***Gate will open in 15s! Defend yourself against the zombies!***": {
+    "translation": "***15秒后开门!保护自己不受僵尸的伤害!***"
+  },
+  "***Boat is leaving in 30s! Get on quick!!!***": {
+    "translation": "***船还有30秒启动!快上!!!***"
+  }
+}

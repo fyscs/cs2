@@ -1,0 +1,87 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "[There's fumes going through the vents! Get out of there!]": {
+    "translation": "[有烟雾从通风口流出!从那里离开!"
+  },
+  "**[1]**": {
+    "translation": "**[1]**"
+  },
+  "**[2]**": {
+    "translation": "**[2]**"
+  },
+  "**[3]**": {
+    "translation": "**[3]**"
+  },
+  "**[4]**": {
+    "translation": "**[4]**"
+  },
+  "**[5]**": {
+    "translation": "**[5]**"
+  },
+  "[Get in that hole behind the boxes!]": {
+    "translation": "[钻进箱子后面的那个洞里!"
+  },
+  "[Suicide Bombers Inbound: ETA 1 Minute.]": {
+    "translation": "[炸弹预计1分后到达.]"
+  },
+  "[Airstrike Inbound: ETA 1 minute.]": {
+    "translation": "[空气预计1分钟后到达.]"
+  },
+  "[Remember! No man gets left behind.]": {
+    "translation": "[不要掉队跟上.]"
+  },
+  "[Grab a gun from the armory! We need to move.]": {
+    "translation": "[武装好自己.]"
+  },
+  "[Don't let them through! Get into the freezer ASAP.]": {
+    "translation": "[不要让僵尸通过这里.]"
+  },
+  "[And make sure you close it!]": {
+    "translation": "[关闭它!]"
+  },
+  "[Keep them back while I open this door.]": {
+    "translation": "[守到这扇门开启.]"
+  },
+  "[Don't touch those lasers!]": {
+    "translation": "[不要碰到激光!]"
+  },
+  "[Shit! This is going to take some time. Hold them off!]": {
+    "translation": "[守住这里!]"
+  },
+  "[Somebody turn right and get us an airstrike!]": {
+    "translation": "[空袭预警!]"
+  },
+  "[Spare rifles on that wall for anybody unarmed.]": {
+    "translation": "[墙上有武器.]"
+  },
+  "[Somebody get through that hole and let the rest of us through.]": {
+    "translation": "[从洞口通过.]"
+  },
+  "[Open them crazy cells and get us out of here!]": {
+    "translation": "[打开牢房门!]"
+  },
+  "[Grab some 'nades and blow the limbs off 'em.]": {
+    "translation": "[Grab some 'nades and blow the limbs off 'em.]"
+  },
+  "[And we need to find a way out of here before that airstrike comes! Hold them off until the door closes.]": {
+    "translation": "[在空袭来之前逃离这里.]"
+  },
+  "[Get through that gate up ahead and don't let them in.]": {
+    "translation": "[守住这里!不要让僵尸进来]"
+  },
+  "[Freezer's Open!]": {
+    "translation": "[门开了,守到门关]"
+  },
+  "[Freezer's Closed!]": {
+    "translation": "[门关闭了!]"
+  }
+}

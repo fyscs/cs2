@@ -1,0 +1,84 @@
+﻿// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***10 seconds till gates will open. prepare to run***": {
+    "translation": "***还有10秒打开大门.准备开溜!fallback!***"
+  },
+  "***the gates are open and the zombies have been trapped for 25 seconds. GOGOGO***": {
+    "translation": "***大门已经打开, 僵尸会在笼子里待上25秒. 溜溜溜!!!快走啊!***"
+  },
+  "***Defend this island for 1.5 minutes***": {
+    "translation": "***在岛上生存90秒!不用多说了开黑!***"
+  },
+  "***boat leaves in 8 seconds***": {
+    "translation": "***船在8秒后离开!上船!***"
+  },
+  "*** boat has taken off***": {
+    "translation": "***船已经离开!byebye!***"
+  },
+  "*** well done humans. you survived the first island.***": {
+    "translation": "***做得好!你在第一个岛上活了下来!***"
+  },
+  "*** now survive this one for another 1.5 minutes and the teleporter to the next island is activated***": {
+    "translation": "***现在你要在第二个岛上生存90秒, 直到传送器被激活!是要去哪里..防守呢..***"
+  },
+  "*** 10 seconds left till zombies are trapped. prepare to run to the teleporter***": {
+    "translation": "***尸笼还有10秒开启.***"
+  },
+  "*** the zombies have been trapped for 25 seconds and the teleporter to the next island have been activated. GOGOGO***": {
+    "translation": "***传送器已被激活, 僵尸又得在笼子里待上25秒. 赶快前往下一个岛!僵尸们出不来咯!***"
+  },
+  "***floating boxes will activate in 17 seconds***": {
+    "translation": "***悬浮台将在17秒后激活!快上去!***"
+  },
+  "***floating boxes are activated. GOGOGO***": {
+    "translation": "***悬浮台已经激活!快快快!走了!***"
+  },
+  "*** well you made it to heaven. beatiful isnt it?***": {
+    "translation": "***你终于来到了天堂, 是不是很美?so!beautiful!***"
+  },
+  "*** take a look around and explore and enjoy your stay***": {
+    "translation": "***四处看看, 欣赏下这里的美景!看看周围有Sakura么***"
+  },
+  "*** hey wait what is this?***": {
+    "translation": "***等等这是什么?***"
+  },
+  "*** oh shit!!!***": {
+    "translation": "***哦!不. . . 我简直爱上了他！***"
+  },
+  "*** youve made it to the final island.***": {
+    "translation": "***你来到了最后的岛屿.***"
+  },
+  "*** survive here for 1.5 minutes and the voodoo master will take you to the escape route to heaven***": {
+    "translation": "***在这个岛生存90秒, 90秒后巫师会带你前往天堂之路!走向人生巅峰!赢取白富美!***"
+  },
+  "***entrance to escape route is now open and the zombies have been trapped for 20 seconds. GOGOGO***": {
+    "translation": "***传送器已经打开, 僵尸会被困住20秒. 溜溜溜!gkd!***"
+  },
+  "***10 seconds till escape route opens***": {
+    "translation": "***传送器还有10秒开启!准备走了!***"
+  },
+  "*** teleporter activates in 30 seconds!!!***": {
+    "translation": "***传送器将在30秒后激活!等待传送!***"
+  },
+  "*** teleporter activates in 15 seconds!!!***": {
+    "translation": "***传送器将在15秒后激活!等待传送!***"
+  },
+  "*** teleporter activates in 5 seconds!!!***": {
+    "translation": "***传送器将在5秒后激活!等待传送!***"
+  },
+  "***voodoo master has created a force field from preventing you from falling off island***": {
+    "translation": "***巫师从外界创造了一个力场, 防止你失足掉出这个岛!内鬼巫师!shit!***"
+  },
+  "*** god hates zombies. only humans allowed in heaven***": {
+    "translation": "***神憎恨僵尸, 只有人类才能到达天堂!Sakura也能!***"
+  }
+}
