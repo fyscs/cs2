@@ -1,0 +1,162 @@
+// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** YOU HAVE SLAYED ANCHELION***": {
+    "translation": "***你结束掉了冰龙的生命***"
+  },
+  "*** THE CURSE IS BROKEN***": {
+    "translation": "***一切都结束了**"
+  },
+  "***YOU DID IT***": {
+    "translation": "***你做到了***"
+  },
+  "***ESCAPE TOWARDS THE END***": {
+    "translation": "***快到最后面去***"
+  },
+  "***JUMP***": {
+    "translation": "***跳***"
+  },
+  "***YOU WON***": {
+    "translation": "***我们胜利了***"
+  },
+  "***THANK YOU FOR PLAYING***": {
+    "translation": "***谢谢你的游玩***"
+  },
+  "***MAP MADE BY LUFFAREN***": {
+    "translation": "***地图制作:LUFFAREN 汉化:余清茗染@風雲社***"
+  },
+  "***THE ZOMBIE CAGE IS OPEN***": {
+    "translation": "***尸笼开启***"
+  },
+  "***MAKE SURE TO HOLD THEM OFF DURING THE BATTLE***": {
+    "translation": "***我们要阻止他们***"
+  },
+  "***IT'S COMING***": {
+    "translation": "***它来了***"
+  },
+  "***PREPARE YOURSELF***": {
+    "translation": "***做好准备***"
+  },
+  "***FALL BACK TOWARDS THE TOP***": {
+    "translation": "***向后退至顶部***"
+  },
+  "***HOLD FOR 15 SECONDS***": {
+    "translation": "***守住15秒***"
+  },
+  "***THE GATES ARE OPENING***": {
+    "translation": "***大门开启***"
+  },
+  "***FALL BACK***": {
+    "translation": "***撤退***"
+  },
+  "***THE GATES WILL OPEN IN 10 SECONDS***": {
+    "translation": "***大门将在10秒后开启***"
+  },
+  "***THE GATE WILL OPEN IN 10 SECONDS***": {
+    "translation": "***大门将在10秒后开启***"
+  },
+  "***THE GATE IS OPENING***": {
+    "translation": "***门开了***"
+  },
+  "***THE TOWER GATE IS OPEN***": {
+    "translation": "***高塔的大门开启了***"
+  },
+  "***THE TOWER GATE WILL OPEN IN 15 SECONDS***": {
+    "translation": "***高塔大门将在15秒后开启***"
+  },
+  "***THE UPPER TOWER GATE IS OPEN***": {
+    "translation": "***门开了***"
+  },
+  "***THE UPPER TOWER GATE WILL OPEN IN 20 SECONDS***": {
+    "translation": "***门将在20秒后开启***"
+  },
+  "***THE GATE IS OPEN***": {
+    "translation": "***大门开了***"
+  },
+  "***THE GATE WILL OPEN IN 15 SECONDS***": {
+    "translation": "***大门将在15秒后开启***"
+  },
+  "***ELEVATOR IS LEAVING***": {
+    "translation": "***电梯要离开了***"
+  },
+  "***ELEVATOR IS LEAVING IN 5 SECONDS***": {
+    "translation": "***电梯将在5秒后离开***"
+  },
+  "***ELEVATOR IS LEAVING IN 10 SECONDS***": {
+    "translation": "***电梯将在10秒后离开***"
+  },
+  "***THE OUTER GATE IS OPENING***": {
+    "translation": "***外门打开了***"
+  },
+  "***THE OUTER GATE WILL OPEN IN 10 SECONDS***": {
+    "translation": "***外门将在15秒后开启***"
+  },
+  "***HOLD FOR 20 SECONDS***": {
+    "translation": "***守住20秒***"
+  },
+  "***THE GATE WILL OPEN IN 60 SECONDS***": {
+    "translation": "***道路将在60秒后开启***"
+  },
+  "***FIND A HIDING SPOT AND HOLD OUT UNTIL THEN***": {
+    "translation": "***找到一个和队友的开黑点***"
+  },
+  "***10 SECONDS LEFT***": {
+    "translation": "***还剩10秒坚持住***"
+  },
+  "***HOLD HERE UNTIL THE DOORS OPEN***": {
+    "translation": "***等待门的开启***"
+  },
+  "***THE ELEVATOR IS LEAVING***": {
+    "translation": "***电梯走喽***"
+  },
+  "***THE ELEVATOR IS LEAVING IN 15 SECONDS***": {
+    "translation": "***电梯将在15秒后跑路***"
+  },
+  "***THE FIRST LEVER HAS BEEN PRESSED***": {
+    "translation": "***第一个操作杆已被拉下***"
+  },
+  "***THE SECOND LEVER HAS BEEN PRESSED***": {
+    "translation": "***第二个操作杆已被拉下***"
+  },
+  "***THE GATES ARE OPENING IN 30 SECONDS***": {
+    "translation": "***门将于30秒后开启***"
+  },
+  "***FALL BACK TOWARDS THE TOWER***": {
+    "translation": "***向后推向塔楼***"
+  },
+  "***ONE MORE TO GO...***": {
+    "translation": "***还有一个...***"
+  },
+  "***ALL LEVERS HAVE BEEN PRESSED***": {
+    "translation": "***所有拉杆已被拉下***"
+  },
+  "***PRESS ALL 3 LEVERS TO OPEN THE GATES UP AHEAD***": {
+    "translation": "***找到三个操纵杆拉下开启闸门***"
+  },
+  "***ONE LEVER HAS BEEN PRESSED***": {
+    "translation": "***拉下了一个操纵杆***"
+  },
+  "***BOTH LEVERS HAVE BEEN PRESSED***": {
+    "translation": "***两个操纵杆都被拉下了***"
+  },
+  "***THE GATE WILL OPEN IN 30 SECONDS***": {
+    "translation": "***大门将于30秒后开启***"
+  },
+  "***NOW FIND THE FINAL LEVER***": {
+    "translation": "***找到最后一个操纵杆***"
+  },
+  "***FIND A HIDING SPOT AND HOLD OUT FOR 60 SECONDS***": {
+    "translation": "***找到一个不错的点位防守60秒***"
+  },
+  "***CLIMB THE TOWER***": {
+    "translation": "***爬上那座塔***"
+  }
+}
