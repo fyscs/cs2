@@ -1,0 +1,7 @@
+* text=auto
+
+*.cfg   eol=lf
+*.txt   eol=lf
+*.kv    eol=lf
+*.json  eol=lf
+*.jsonc eol=lf
