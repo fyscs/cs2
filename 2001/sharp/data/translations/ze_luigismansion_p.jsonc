@@ -1,0 +1,76 @@
+// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+  {
+    "*** All those still in the courtyard will be banished to the pit in 30 seconds! ***": {
+      "translation": "*** 所有在大厅的单位将在30秒后传放逐到地穴 ***"
+    },
+    "*** All those in the tower will be banished to the pit in 15 seconds! ***": {
+      "translation": "*** 所有在高塔的单位将在15秒后传放逐到地穴 ***"
+    },
+    "*** We must escape the mansion before it take us with it! ***": {
+      "translation": "*** 所有在庭院的单位将在15秒后传放逐到地穴! ***"
+    },
+    "*** Bowser has ambushed and cut you all off from the exit! ***": {
+      "translation": "*** 库巴伏击了你们而且断了你们所有的退路! ***"
+    },
+    "*** Defend yourselfs and hope that Luigi can rescue you in time ! ***": {
+      "translation": "*** 守住这个地方等待路易吉来营救你们! ***"
+    },
+    "*** Beware of Bowser's Fire Breath! ***": {
+      "translation": "*** 当心鲍泽的火焰呼吸! ***"
+    },
+    "*** Get across the bridge before it breaks! ***": {
+      "translation": "*** 在桥坏之前离开这里!! ***"
+    },
+    "*** GET OUT NOW ***": {
+      "translation": "*** **快离开这个鬼地方!!!!! ***"
+    },
+    "*** Find the entrance to the Mansion and then locate and Destroy its ghostly power source! ***": {
+      "translation": "*** 找到宅邸的入口,然后找到并摧毁其幽灵般的电源! ***"
+    },
+    "*** Star Door will open in 35 seconds ***": {
+      "translation": "*** 大门将在35秒后开启 ***"
+    },
+    "*** The Haunted Dimension has become unstable ***": {
+      "translation": "*** 鬼屋的结构开始不稳定了 ***"
+    },
+    "*** Locate 1 of the 4 hidden Safe Zones and Hold off til the way to the tower is open ***": {
+      "translation": "*** 找到4个隐藏的安全区直到通往塔的道路开启 ***"
+    },
+    "*** Safe zone exits will open in 60 seconds ***": {
+      "translation": "*** 安全区通往塔的道路将在60秒后开启 ***"
+    },
+    "*** Destroy the Rouge Luma ***": {
+      "translation": "*** 破坏Rouge Luma(头顶上的星星) ***"
+    },
+    "*** All those in the Lobby will be banished to the pit in 30 seconds! ***": {
+      "translation": "*** 所有在黑暗森林的单位将在30秒后传放逐到地穴! ***"
+    },
+    "*** Luigi has done it!! ***": {
+      "translation": "*** 路易吉到达!! ***"
+    },
+    "*** Luigi will now help by lowering the bridge ***": {
+      "translation": "*** 路易吉现在帮你们把桥降下 ***"
+    },
+    "*** Luigi has arrived ***": {
+      "translation": "*** 路易吉到达 ***"
+    },
+    "*** Hold Off Zombies for 20 seconds ***": {
+      "translation": "*** 防守僵尸20秒 ***"
+    },
+    "*** Gate Open!!! ***": {
+      "translation": "*** 大门开了!!! ***"
+    },
+    "*** All those still in the dark forest will be banished to the pit in 30 seconds ***": {
+      "translation": "*** 所有在黑暗森林的单位将在30秒后传放逐到地穴 ***"
+    }
+  }
+  
