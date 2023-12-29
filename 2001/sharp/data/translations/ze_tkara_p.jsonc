@@ -1,0 +1,148 @@
+// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+  {
+    "*** We got a winner ***": {
+      "translation": "*** 胜利! ***"
+    },
+    "*** Losers shall die! ***": {
+      "translation": "*** 失败! ***"
+    },
+    "*** What is this? ***": {
+      "translation": "*** 那是什么? ***"
+    },
+    "*** What is happening? ***": {
+      "translation": "*** 发生了什么? ***"
+    },
+    "*** TIMES UP ***": {
+      "translation": "*** 时间到了 ***"
+    },
+    ">>> Door Opens in 25 seconds <<<": {
+      "translation": ">>> 大门开启需要25秒 <<<"
+    },
+    ">>> Hold until the City Doors Open! <<<": {
+      "translation": ">>> 大门将在30秒后打开 <<<"
+    },
+    ">>> Door Opens in 15 seconds <<<": {
+      "translation": ">>> 大门开启还需要15秒 <<<"
+    },
+    "*** MAP BY P'A'SS ***": {
+      "translation": "*** 地图作者:P'A'SS ***"
+    },
+    ">>> Elevator Leaves in 10 seconds !! <<": {
+      "translation": ">>> 电梯将在10秒后离开 !! <<"
+    },
+    "*** Door opens in 20 seconds ***": {
+      "translation": "*** 门将在20秒后开启 ***"
+    },
+    "*** Facility door opens in 25 seconds ***": {
+      "translation": "*** 工厂大门25秒后开启 ***"
+    },
+    "*** Silo doors open in 25 seconds ***": {
+      "translation": "*** 门25秒后开启 ***"
+    },
+    "*** STARTING THE REACTORS... ***": {
+      "translation": "*** 启动反应堆... ***"
+    },
+    "*** THE REACTOR CORES ARE GOING UNSTABLE ***": {
+      "translation": "*** 反应堆堆芯不稳定 ***"
+    },
+    "*** OH NO ***": {
+      "translation": "*** OH!!NO!!! ***"
+    },
+    "*** Cover the windows until we find a way out of here ***": {
+      "translation": "*** 守住这道门和窗户直到我们找到一个出口 ***"
+    },
+    "*** Bathroom and living room windows are broken! ***": {
+      "translation": "*** 浴室和卧室的窗户被打破了.守住30秒! ***"
+    },
+    "*** RESIST ***": {
+      "translation": "*** 扔雷撤退 ***"
+    },
+    "*** GET DOWN IN THE BASEMENT NOW ***": {
+      "translation": "*** 我们快到地下室去 ***"
+    },
+    "*** Kitchen and living room windows are broken! ***": {
+      "translation": "*** 厨房和客厅的窗户被打破了.守住30秒! ***"
+    },
+    "*** TRAIN IS LEAVING NOW ***": {
+      "translation": "*** 火车离开了 ***"
+    },
+    "*** TRY TO ESCAPE THROUGH THE CARGO AREA ***": {
+      "translation": "*** 我们需要逃离这个地方 ***"
+    },
+    "*** THIS PLACE IS GOING TO BLOW UP IN 30 SECONDS ***": {
+      "translation": "*** THIS PLACE IS GOING TO BLOW UP IN 30 SECONDS ***"
+    },
+    "*** RESIST! ***": {
+      "translation": "*** 坚持住！地堡即将关闭 ***"
+    },
+    "*** LAST TRAIN OUT OF HERE LEAVES IN 70 SECONDS ***": {
+      "translation": "*** 距离末班车离开还有70秒 ***"
+    },
+    "*** CARGO AREA DOOR SHOULD OPEN SOON! ***": {
+      "translation": "*** 击僵尸!火车大门将在33秒开启! ***"
+    },
+    "*** THIS PLACE IS GOING TO BLOW UP IN 2 MINUTES ***": {
+      "translation": "*** 这里120秒后就要爆炸了! ***"
+    },
+    "*** YOU NEED TO MAKE YOUR WAY TO THE BUNKER BELOW SECTOR 1 ***": {
+      "translation": "*** 找到一条通往堡垒的路 ***"
+    },
+    "*** SECTOR 1 DOORS SHOULD OPEN SOON! ***": {
+      "translation": "*** 一号控制室的地堡大门将在33秒后开启 ***"
+    },
+    "*** ZOMBIE ON THE TRAIN ***": {
+      "translation": "*** 僵尸在火车上!! ***"
+    },
+    "*** HUMANS LOSE ***": {
+      "translation": "*** 人类失败 ***"
+    },
+    "*** Door opens in 25 seconds ***": {
+      "translation": "*** 门将在25秒后开启 ***"
+    },
+    "*** ELEVATOR DOORS OPEN IN 40 SECONDS ***": {
+      "translation": "*** 电梯大门将在40秒后开启 ***"
+    },
+    "*** DOORS ARE OPENING ***": {
+      "translation": "*** 电梯门开启 ***"
+    },
+    "*** ELEVATOR LEAVES IN 5 SECONDS ***": {
+      "translation": "*** 电梯大将在5秒后离开 ***"
+    },
+    "*** IN 1 MINUTE THIS WHOLE PLACE BLOWS UP ***": {
+      "translation": "*** 还有60秒就爆炸了 ***"
+    },
+    "*** THERE SHOULD BE A PLANE LEAVING SOON ***": {
+      "translation": "*** 有一架飞机即将离开 ***"
+    },
+    "*** MAKE YOUR WAY TO THE AIRFIELD ***": {
+      "translation": "*** 找到一条去机场的路! ***"
+    },
+    "*** THE WHOLE UNDERGROUND COMPLEX SEEMS TO EXPLODE SOON ***": {
+      "translation": "*** 整个地下似乎就快要爆炸了! ***"
+    },
+    "*** THAT DIDNT SOUND GOOD ***": {
+      "translation": "*** 这种声音听起来很吊!我好喜欢啊! ***"
+    },
+    "*** PLANE IS READY TO LEAVE ***": {
+      "translation": "*** 飞机准备离开 ***"
+    },
+    "*** GET ON NOW ***": {
+      "translation": "*** 飞机准备离开 ***"
+    },
+    "*** ZOMBIE ON THE PLANE ***": {
+      "translation": "*** 僵尸冲上了飞机! ***"
+    },
+    "*** INVALID VICTORY ***": {
+      "translation": "*** GG! ***"
+    }
+  }
+  
