@@ -1,0 +1,306 @@
+// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***HOLD FOR A BIT , THE DOOR SHOULD OPEN SOON***": {
+    "translation": "***稍等一下门,很快就要开了***"
+  },
+  "***THAT SHOULD OPEN THE DOOR IN 25 SECONDS. DEFEND***": {
+    "translation": "***门将会在25秒后打开,继续防守***"
+  },
+  "***10 SECONDS LEFT***": {
+    "translation": "***还剩10秒***"
+  },
+  "***5 SECONDS. PREPARE TO RUN***": {
+    "translation": "***还剩5秒,准备撤退***"
+  },
+  "*** WELL DONE. THAT SHOULD OPEN THE DOOR***": {
+    "translation": "*** 干得好,门马上就开了***"
+  },
+  "*** THE DOOR IS OPENING. RUN***": {
+    "translation": "*** 门开了,撤退***"
+  },
+  "*** WATCH OUT THE BUTTON OPENED ALL THE DOORS IN THE AREA***": {
+    "translation": "*** 注意按钮打开了该区域所有的门***"
+  },
+  "***5 SECONDS LEFT. PREPARE TO RUN***": {
+    "translation": "***还剩5秒,准备撤退***"
+  },
+  "***HOLD HERE A FEW SECONDS WHILE WE UNLOCK THE DOOR***": {
+    "translation": "***稍等几秒钟,门马上开***"
+  },
+  "*** HOLD THEM OFF! THE OTHER TEAM NEEDS TIME TO OPEN THE DOOR***": {
+    "translation": "*** 挡住他们!我们的队伍需要时间来打开这道门***"
+  },
+  "***UNLOCKING SIDE DOOR...***": {
+    "translation": "***侧边的门打开了...***"
+  },
+  "*** THIS IS THE ENTRANCE TO THE TEMPLE...***": {
+    "translation": "*** 这是殿堂的入口...***"
+  },
+  "***HOLD THEM OFF WHILE WE FIGURE OUT HOW TO OPEN IT***": {
+    "translation": "***拖住他们,直到让我们想办法打开它***"
+  },
+  "***ALMOST THERE...***": {
+    "translation": "***就快到了...***"
+  },
+  "*** DONE. ITS OPENING. RUN ***": {
+    "translation": "*** 做得好.它打开了.撤退 ***"
+  },
+  "<<MAP BY TORMACOY>>": {
+    "translation": "<<MAP BY TORMACOY>>"
+  },
+  "***THIS THE LOCATION OUR AGENTS REPORTED. THERE SHOULD BE AN ENEMY FACILITY SOMEWHERE INSIDE THIS TEMPLE***": {
+    "translation": "***这是我们特工报告的位置.这座殿堂里应该有敌人的设施***"
+  },
+  "*** WE MUST FIND AND DESTROY IT. WATCH OUT FOR ZOMBIES, THIS PLACE IS INFESTED WITH THEM***": {
+    "translation": "*** 我们必须找到并且摧毁它.小心僵尸,这里到处都是僵尸***"
+  },
+  "***NOW LET'S MOVE ON***": {
+    "translation": "***现在让我们继续***"
+  },
+  "*** HOLD A FEW SECONDS WHILE THE DOOR OPENS***": {
+    "translation": "*** 稍等一会直到门打开***"
+  },
+  " ***KEEP IT UP***": {
+    "translation": " ***继续保持***"
+  },
+  "***ITS GONNA OPEN PREPARE TO RUN***": {
+    "translation": "***它马上会打开准备走***"
+  },
+  "***UNLOCKING THE FRONT DOOR...***": {
+    "translation": "***前门解锁了...***"
+  },
+  "***THIS PLATFORM SEEM LIKE AN ELEVATOR...***": {
+    "translation": "***这个平台看起来像个电梯...***"
+  },
+  "*** WE SHOULD SPLIT UP HERE AND CHECK BOTH PATHS***": {
+    "translation": "*** 我们应该在这里分开并检查这两条路径***"
+  },
+  "***HOLD THE LINE WHILE THE OTHERS INVESTIGATE THE AREA***": {
+    "translation": "***守住防线,其他人继续调查该地区***"
+  },
+  "***THAT BUTTON ON THE FLOOR SHOULD OPEN THE DOOR***": {
+    "translation": "***地板上的按钮应该能够打开门***"
+  },
+  "***WE ARE CLOSE THE EXIT TEAM. THE DOORS SHOULD OPEN SOON. HOLD THEM OFF***": {
+    "translation": "***我们正在接近出口,门应该马上就会打开了,拖住他们***"
+  },
+  "***DOORS OPEN IN 10 SECONDS***": {
+    "translation": "***门将在10秒后打开***"
+  },
+  "***CRACKING ELEVATOR SYSTEM...***": {
+    "translation": "***破解电梯系统...***"
+  },
+  "***ELEVATOR LEAVES IN 10 SECONDS. GET IN TEAM!!!***": {
+    "translation": "***电梯将在10秒后离开,全队进去!!!***"
+  },
+  "*** MISSION COMPLETE. NICE WORK TEAM***": {
+    "translation": "*** 任务完成.干得漂亮***"
+  },
+  "***HOLD THEM OFF, THESE DOORS WILL TAKE SOME TIME TO OPEN...***": {
+    "translation": "***阻挡他们,这些门需要一些时间才能打开...***"
+  },
+  "***SHOOT THOSE THINGS. THAT WILL DESTROY THE REACTOR*** ": {
+    "translation": "***射击这些东西,这样就可以摧毁反应堆*** "
+  },
+  "***ONCE DONE ESCAPE THROUGH THE DOOR ON THE OTHER SIDE OF THE ROOM***": {
+    "translation": "***完成后从房间另一侧的门逃生***"
+  },
+  "***LEFT SIDE BUTTON PRESSED. CRACKING...***": {
+    "translation": "***左侧按钮已按下.解开中...***"
+  },
+  "***LEFT SIDE CRACKED***": {
+    "translation": "***左侧解开***"
+  },
+  "***BOTH SIDES HAVE BEEN CRACKED. USE THE CENTRAL COMPUTER TO GAIN ACCESS TO THE CORE***": {
+    "translation": "***两边都解开了. 使用中央计算机获得进入核心的权限***"
+  },
+  "***RIGHT SIDE BUTTON PRESSED. CRACKING...***": {
+    "translation": "***右侧按钮已按下.解开中...***"
+  },
+  "***RIGHT SIDE CRACKED***": {
+    "translation": "***右侧解开***"
+  },
+  "***THE DOOR SHOULD OPEN SOON...***": {
+    "translation": "***门马上就要开了...***"
+  },
+  "***THE DOOR TO ACCESS THE CORE IS LOCKED...***": {
+    "translation": "***进入核心的门被锁上了...***"
+  },
+  "***TO OPEN IT GO TO THOSE DOORS ON THE SIDE OF THIS ROOM AND FIND SOME COMPUTERS TO CRACK THE SYSTEM***": {
+    "translation": "***要打开它,需要去房间侧面的那些门里,找一些电脑来破解系统***"
+  },
+  "***THEN USE THE COMPUTER IN THE MIDDLE ROOM TO UNLOCK IT***": {
+    "translation": "***然后使用中间房间的电脑来解锁它***"
+  },
+  "***THIS MUST BE THE LAST DOOR BEFORE THE REACTOR AREA. GET READY....***": {
+    "translation": "***这一定是通往反应堆区域的最后一道门.做好准备....***"
+  },
+  "***HOLD FOR A MOMENT HERE...***": {
+    "translation": "***在这里稍等一会...***"
+  },
+  "***OPENING DOOR...***": {
+    "translation": "***门开了...***"
+  },
+  "***TRAM ACTIVATED. IT WILL LEAVE IN 30 SECONDS***": {
+    "translation": "***列车启动了,它将在30秒后离开***"
+  },
+  "***TRAM LEAVES IN 10 SECONDS***": {
+    "translation": "***列车将在10秒后离开***"
+  },
+  "***ELEVATOR LEAVING IN 25 SECONDS***": {
+    "translation": "***电梯将在20秒后离开***"
+  },
+  "***ELEVATOR LEAVING IN 10 SECONDS***": {
+    "translation": "***电梯将在10秒后离开***"
+  },
+  "***ELEVATOR LEAVING IN 5 SECONDS***": {
+    "translation": "***电梯将在5秒后离开***"
+  },
+  "***CANT ACCESS THOSE DOORS, FIND A COMPUTER AND OPEN THEM***": {
+    "translation": "***无法进入这些门,找一台电脑打开它们***"
+  },
+  "***THE TRAM STATION IS AHEAD. HOLD YOUR GROUND WHILE OTHERS GO AHEAD TO POWER IT ON***": {
+    "translation": "***前面就是列车车站. 坚守阵地,同时其他人继续去打开电源***"
+  },
+  "***Cracking sewer doors...***": {
+    "translation": "***下水道门解开了...***"
+  },
+  "*** 10 SECONDS LEFT***": {
+    "translation": "*** 还剩10秒***"
+  },
+  "***UPPER DOOR OPENS IN 10 SECONDS***": {
+    "translation": "***上层门将在10秒后打开***"
+  },
+  "***BOTTOM DOOR OPENS IN 10 SECONDS***": {
+    "translation": "***底部门将在10秒后打开***"
+  },
+  "***THIS LEADS TO THE REACTOR AREA.USE THAT COMPUTER TO GIVE ME ACCESS TO THE DOOR SYSTEM AND CRACK INTO IT***": {
+    "translation": "***这里通向反应堆区.用那台电脑让我进入大门系统并破解它***"
+  },
+  "***CRACKING INTO THE DOOR SYSTEM...***": {
+    "translation": "***破解大门系统中...***"
+  },
+  "***25%...***": {
+    "translation": "***25%...***"
+  },
+  "***50%...***": {
+    "translation": "***50%...***"
+  },
+  "***75%...***": {
+    "translation": "***75%...***"
+  },
+  "***CRACK COMPLETED. GO NOW TEAM!***": {
+    "translation": "***破解完成.现在开始行动!***"
+  },
+  "***DEPLOYING BRIDGE IN A FEW SECONDS...***": {
+    "translation": "***部署桥梁需要一点时间...***"
+  },
+  "***FUCK! THAT DOOR HAS SOME EXTRA SECURITY. GIVE ME A FEW SECONDS***": {
+    "translation": "***该死! 这个门有额外的安全措施,给我一点时间***"
+  },
+  "***SHIIIT!! SECURITY IS REALLY STRONG ON THIS ONE!! NEED MORE TIME TEAM! RESIST THERE!***": {
+    "translation": "***该死的!! 这里的安全措施真的很强!! 我们需要更多的时间! 在这里坚持住!***"
+  },
+  "*** ITS OPEN . MOVE TEAM!! GO!!": {
+    "translation": "*** 它打开了.我们走!! 出发!!"
+  },
+  "***ANOTHER WAREHOUSE...DOESNT SEEM TO HAVE AN EXIT***": {
+    "translation": "***另外一个仓库...似乎没有出口***"
+  },
+  "***OUR INFO POINTS THAT THE CORE IS STILL FAR FROM US. WE NEED TO KEEP GOING.***": {
+    "translation": "***我们的消息指出,核心离我们仍然很远.我们需要继续前进.***"
+  },
+  "*** MAYBE WE CAN TAKE THAT VENT ON SIDE TO SEE WHERE IT TAKES US***": {
+    "translation": "*** 也许我们可以试试那个通风管道,看它会把我们带到哪里***"
+  },
+  "*** LIFT WARMING UP. HOLD THEM***": {
+    "translation": "*** 电梯预热. 保持队伍***"
+  },
+  "*** LIFT LEAVING IN 10 SECONDS ***": {
+    "translation": "*** 电梯将在10秒后离开 ***"
+  },
+  "*** THIS DOOR MAY TAKE SOME TIME TO OPEN. HOLD YOUR GROUND ! ***": {
+    "translation": "*** 这扇门可能需要一点时间才能打开.坚守阵地! ***"
+  },
+  "*** 5 MORE SECONDS***": {
+    "translation": "*** 再过5秒***"
+  },
+  "***FUCK!! THERES A SECOND DOOR!! GIVE ME 10 MORE SECONDS TO OPEN IT ***": {
+    "translation": "***该死!! 还有一扇门!! 再给我10秒来打开它 ***"
+  },
+  "***KEEP GOING. I WILL OPEN THE DOORS FOR YOU***": {
+    "translation": "***继续前进. 我将为你打开门***"
+  },
+  "*** FIRST DOOR OPENS IN 5 SECONDS***": {
+    "translation": "*** 第一扇门5秒后打开***"
+  },
+  "*** SECOND DOOR OPENS IN 10 SECONDS***": {
+    "translation": "*** 第二扇门10秒后打开***"
+  },
+  "*** THIRD DOOR OPENS IN 10 SECONDS ***": {
+    "translation": "*** 第三扇门10秒后打开 ***"
+  },
+  "***WE WILL USE THIS ELEVATOR TO MAKE OUR WAY TO THE CORE***": {
+    "translation": "***我们将使用这个电梯到达核心***"
+  },
+  "***SHIT!! THE SYSTEM IS PROTECTED!. GIVE ME SOME TIME TO CRACK INTO IT***": {
+    "translation": "***该死!! 系统被锁住了!给我一点时间去破解它***"
+  },
+  "***IT'S NOT WORKING...***": {
+    "translation": "***它已经不能工作了...***"
+  },
+  "***HALF WAY THERE...***": {
+    "translation": "***到一半了...***"
+  },
+  "***CRACKED!! THE ELEVATOR LEAVES IN 10 SECONDS. GET IN TEAM!!": {
+    "translation": "***终于好了!! 电梯将在10秒后离开.全队进入!!"
+  },
+  "***THIS IS THE ENEMY FACILITY. NOW WE NEED TO MAKE OUR WAY TO THE CORE AND DESTROY IT***": {
+    "translation": "***这是敌人的设施.现在我们需要找到核心并摧毁它***"
+  },
+  "***SEND A TEAM AHEAD TO EXPLORE , WHILE THE REST KEEPS WINNING TIME!!!***": {
+    "translation": "***先派一支队伍去探索,其他人继续为他们赢得时间!!!***"
+  },
+  "***THE STAIRS ARE BLOCKED. BREAK THROUGH THE CAVE ***": {
+    "translation": "***楼梯被堵住了.从洞穴进行突破 ***"
+  },
+  "*** THE ENEMY FACILITY SHOULD BE AT THE OTHER SIDE OF THIS CAVE. SET UP A C4 IN THAT WALL.***": {
+    "translation": "*** 敌人的设施应该在洞穴的另外一边.在那堵墙上安装一个c4***"
+  },
+  "**C4 ARMED. IT WILL EXPLODE IN 20 SECONDS.***": {
+    "translation": "**C4 已安装.它将在20秒后爆炸***"
+  },
+  "*** 10 SECONDS LEFT!***": {
+    "translation": "*** 还剩10秒!***"
+  },
+  "*** GET OUT IT'S GOING TO EXPLODE ***": {
+    "translation": "*** 快出去,它要爆炸了 ***"
+  },
+  "***THAT SOULD OPEN THE BARS***": {
+    "translation": "***我们应该去打开栅栏***"
+  },
+  "***KEEP DEFENDING. WE DONT KNOW HOW MUCH TIME IT WILL TAKE TO OPEN**": {
+    "translation": "***保持防御. 我们不知道需要多少时间才能打开它**"
+  },
+  "***THE BARS ARE OPENING! GO GO GO!***": {
+    "translation": "***栅栏打开了! GO GO GO!***"
+  },
+  "***SEEMS LIKE THE LEFT SIDE IS BLOCKED, GO TO THE RIGHT***": {
+    "translation": "***左边似乎被堵住了,去右边***"
+  },
+  "***THE WAY IS BLOCKED TOO, WE MUST FIND A WAY TO UNLOCK THOSE BARS***": {
+    "translation": "***这边也被堵住了,我们必须想办法打开这些栅栏***"
+  },
+  "***WE NEED TO KEEP GOING. WATCH OUT FOR THE TRAPS HERE!***": {
+    "translation": "***我们必须继续前进.小心这里的陷阱!***"
+  }
+}
