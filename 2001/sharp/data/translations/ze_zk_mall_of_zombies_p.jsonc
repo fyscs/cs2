@@ -1,0 +1,66 @@
+// Console SayText i18n file generator.
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** The fence will break when the door is fully closed! ***": {
+    "translation": "*** 当门关上后阻挡将会损坏! ***"
+  },
+  "*** The blast door will close after 30 seconds ***": {
+    "translation": "*** 防爆门将于30秒后关闭 ***"
+  },
+  "*** The Train will leave in 30 seconds ***": {
+    "translation": "*** 火车将在30秒后启动 ***"
+  },
+  "*** The backend door will open in 30 seconds ***": {
+    "translation": "*** 门将于30秒之后打开 ***"
+  },
+  "*** Stair grid is now accessible ***": {
+    "translation": "*** 楼梯路阻挡被打开了 ***"
+  },
+  "*** Elevator is activated ***": {
+    "translation": "*** 电梯要跑路了 ***"
+  },
+  "*** Elevator doors opens in 30 sec ***": {
+    "translation": "*** 电梯将在30秒后跑路 ***"
+  },
+  "*** Ladder grid will break in 10 seconds ***": {
+    "translation": "*** 阻碍将于10秒后损坏 ***"
+  },
+  "*** Last elevator is leaving in 15 seconds ***": {
+    "translation": "*** 最后一部电梯将于15秒后跑路 ***"
+  },
+  "*** Elevator doors closes in 15 seconds ***": {
+    "translation": "*** 电梯将在15秒后禁止进入 ***"
+  },
+  "*** TIPS and HELP from Kim [pF] and Mikey-Muse  ***": {
+    "translation": "*** TIPS and HELP from Kim [pF] and Mikey-Muse  ***"
+  },
+  "*** Map created by dAllas ***": {
+    "translation": "*** Map created by dAllas汉化:余清茗染@風雲社 ***"
+  },
+  "*** The TNT will blow in 40 seconds ***": {
+    "translation": "*** 炸弹将要在40秒后爆炸 ***"
+  },
+  "*** 3 ***": {
+    "translation": "*** 3 ***"
+  },
+  "*** 2 ***": {
+    "translation": "*** 2 ***"
+  },
+  "*** 1 ***": {
+    "translation": "*** 1 ***"
+  },
+  "*** BOOM ***": {
+    "translation": "*** BOOM ***"
+  },
+  "*** GO GO GO ***": {
+    "translation": "*** GO GO GO ***"
+  }
+}
