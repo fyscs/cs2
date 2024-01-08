@@ -8,3 +8,5 @@
   // clearText  (bool) -> 清除所有HUD文本
   // clearTimer (bool) -> 清除所有倒计时
   // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
