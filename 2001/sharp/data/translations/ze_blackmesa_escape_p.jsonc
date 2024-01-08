@@ -65,9 +65,10 @@
     "translation": "***在5秒后开车***"
   },
   "Map By: Bill Smauz": {
-    "translation": "地图作者： Bill Smauz"
+    "translation": "地图作者: Bill Smauz"
   },
   "Map For: www.zombiemurder.com": {
-    "translation": "地图： www.zombiemurder.com"
+    "translation": "地图: www.zombiemurder.com",
+    "blocked": true
   }
 }

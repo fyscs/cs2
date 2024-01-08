@@ -53,7 +53,8 @@
     "translation": ">>>地图作者: Explay    地图汉化: 大明<<<"
   },
   ">>>Visit www.nextwin.ru<<<": {
-    "translation": ">>>地图作者广告: 欢迎浏览www.nextwin.ru<<<"
+    "translation": ">>>地图作者广告: 欢迎浏览www.nextwin.ru<<<",
+    "blocked": true
   },
   ">>>Door open in 5 sec<<<": {
     "translation": ">>>5秒后门开<<<"

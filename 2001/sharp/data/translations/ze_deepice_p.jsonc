@@ -29,7 +29,8 @@
     "translation": "*** Mapper: yardy ***"
   },
   "*** STEAMGAMERS.COM ***": {
-    "translation": "*** STEAMGAMERS.COM ***"
+    "translation": "*** STEAMGAMERS.COM ***",
+    "blocked": true
   },
   "*** Sea Hawk arrival immediately ***": {
     "translation": "*** Sea Hawk arrival immediately ***"

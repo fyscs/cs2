@@ -32,16 +32,16 @@
     "translation": "1"
   },
   "++Difficulty level: EASY++": {
-    "translation": "难度:简单"
+    "translation": "难度: 简单"
   },
   "++Reaching the end will raise the difficulty++": {
     "translation": "到达终点会增加难度"
   },
   "++Difficulty level: NORMAL++": {
-    "translation": "难度:普通"
+    "translation": "难度: 普通"
   },
   "++This is the highest difficulty, good luck++": {
-    "translation": "这是最高难度，祝你好运"
+    "translation": "这是最高难度, 祝你好运"
   },
   "++Difficulty level: HARD++": {
     "translation": "难度:困难"
@@ -56,7 +56,7 @@
     "translation": "僵尸已经通过了高塔"
   },
   "++Cut them off before they reach the tunnel!++": {
-    "translation": "在他们到达隧道之前阻止他们！"
+    "translation": "在他们到达隧道之前阻止他们!"
   },
   "++Zombies have made it to the bridge, new spawn opening++": {
     "translation": "僵尸已通过,传送点已更新"
@@ -74,10 +74,10 @@
     "translation": "门正在降下"
   },
   "++We're overriding the gates, should take about 15 seconds++": {
-    "translation": "我们正在通过大门，大约需要15秒"
+    "translation": "我们正在通过大门, 大约需要15秒"
   },
   "++We're overriding the gates, should take about 25 seconds++": {
-    "translation": "我们正在通过大门，大约需要25秒"
+    "translation": "我们正在通过大门, 大约需要25秒"
   },
   "++The second bridge can now be broken++": {
     "translation": "第二座桥现在可以被破坏"
@@ -101,7 +101,7 @@
     "translation": "我们可以在火车站看到你身后的僵尸"
   },
   "++Don't let them get too far or they'll open new spawn points!++": {
-    "translation": "不要让僵尸冲的太快,否则会开启新的传送点！"
+    "translation": "不要让僵尸冲的太快,否则会开启新的传送点!"
   },
   "++We see you, we're triggering the override++": {
     "translation": "我们看到你了"
