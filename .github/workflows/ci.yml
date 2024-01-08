@@ -1,0 +1,31 @@
+name: GitHub Action
+
+on: 
+  push:
+    branches:
+     - master
+  pull_request:
+    branches:
+     - master
+
+jobs:
+  Worker:
+    runs-on: ubuntu-latest
+    continue-on-error: false
+    strategy:
+      fail-fast: true
+    steps:
+
+      # CheckOut
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # .NET
+      - name: Install .NET Core
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.x'
+
+      # Run
+      - name: Run
+        run: chmod +x ./.fys/ConfigValidator && ./.fys/ConfigValidator ./.fys/loader.json
