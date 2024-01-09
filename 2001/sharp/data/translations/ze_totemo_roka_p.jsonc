@@ -9,114 +9,114 @@
   // clearTimer (bool) -> 清除所有倒计时
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
-  {
-    "** A SEAL WAS TAINTED BY THE INFECTED! THE GODS ARE ANGERED! **": {
-      "translation": "** 一只海豹被僵尸感染了叫兽很生气! **"
-    },
-    "** YOU ARE DONE! **": {
-      "translation": "** 你胜利了! **"
-    },
-    "** We have finally reached the Karuga archipelago... **": {
-      "translation": "** 我们终于抵达了这座神圣之地... **"
-    },
-    "** Totemo Roka lies ahead -- and beyond, the sacred city of Totghul Ka! **": {
-      "translation": "** 叫兽就在前方或者更远的地方不远处就是叫兽的家! **"
-    },
-    "** Swim to the shore! We must reach the top! **": {
-      "translation": "** 快游上去! 我们必须登顶! **"
-    },
-    "** Some sort of contraption is rising! Do not let them reach us! **": {
-      "translation": "** 某种东西正在苏醒! 不要让他们接近我们! **"
-    },
-    "** The temple seems to rely on elevators upon elevators... **": {
-      "translation": "** 这座圣地似乎依靠着四周的电梯运转... **"
-    },
-    "** Keep it up! We cannot afford to have them break through! **": {
-      "translation": "** 加把劲! 我们不能让他们突破! **"
-    },
-    "** We reached the first sacred seal! The path should clear soon! **": {
-      "translation": "** 我们到达了第一个神圣的封印!道路应该很快就会畅通! **"
-    },
-    "** The temple may become far more ruthless from this point on... **": {
-      "translation": "** 从这里开始我们后面的路将更加艰难... **"
-    },
-    "** HURRY BACK! The volcano is about to explode! **": {
-      "translation": "** 快回来!火山即将喷发! **"
-    },
-    "** We must get to the top! **": {
-      "translation": "** 我们必须登顶! **"
-    },
-    "** We are very close! Keep it up for the last bit! **": {
-      "translation": "** 已经很接近了加油兄弟们坚持到最后! **"
-    },
-    "** It shouldn't be hard to reach the summit! **": {
-      "translation": "** 登顶对于我们来说轻而易举! **"
-    },
-    "** We are almost on the summit! The sacred city of Tot-ghul Ka awaits in the horizon! **": {
-      "translation": "** 我们马上登顶了!叫兽在上面等着我们! **"
-    },
-    "** One more push! HOLD IT! **": {
-      "translation": "** 在推一次!抓住它!**"
-    },
-    "** This is the second seal! A way should appear for us to reach Tot-ghul Ka will open shortly! **": {
-      "translation": "** 这是第二枚纹章!我们应该找到了一条可以通过的路!很快就会开启 **"
-    },
-    "** The legend was true! A bridge slashes through the waters of an everblue sea! JUMP! **": {
-      "translation": "** 传说是真的!一座桥在蔚蓝的海面上呼啸而过!跳!!! **"
-    },
-    "** The gem only produced a faint sound, as if the effect was to be felt far away... **": {
-      "translation": "** 宝石只发出微弱的声音,仿佛要在远处感受到这种效果... **"
-    },
-    "** We need to find a way into the walled temple! Move it! **": {
-      "translation": "** 我们需要找到一条进入圣地的路!移动它! **"
-    },
-    "** This is the third seal! The gates will open soon! **": {
-      "translation": "** 这是第三枚印章!大门很快就会打开! **"
-    },
-    "** First the entrance will fold, then the inner plaza will show itself to us! **": {
-      "translation": "** 入口会先打开,然后内部广场展现在我们面前! **"
-    },
-    "** MOVE IT! THEY ARE EVERYWHERE! **": {
-      "translation": "** 有序移动! 他们到处都是! **"
-    },
-    "** Hold your ground! The inner court is behind these doors, waiting for us! **": {
-      "translation": "** 坚守阵地!圣地就在这些门后面等着我们! **"
-    },
-    "** C'mon get inside! We have to unlock the energy of the last gems before the volcano blows up! **": {
-      "translation": "** 快进去!我们必须在火山爆发前释放最后一颗宝石的能量 **"
-    },
-    "** YES! The final seal is right there! **": {
-      "translation": "** 没错! 最后的纹章就在那里! **"
-    },
-    "** RESIST! WE ARE ABOUT TO GO! **": {
-      "translation": "** 坚持住! 我们就要走了! **"
-    },
-    "** We cracked the last seal! Our escape pod should be here soon! **": {
-      "translation": "** 我们破解了最后一个封印!我们很快就可以撤离了! **"
-    },
-    "** Something moved upon touching the gem... **": {
-      "translation": "** 有东西碰到宝石就动了... **"
-    },
-    "** A relay of sorts seems to be moving in the back -- wait for something to happen! **": {
-      "translation": "** 某种力量似乎在背后移动,等待发生什么! **"
-    },
-    "** The way is clear! We must reach the top of Totemo Roka! **": {
-      "translation": "** 路开了!我们必须登上圣地的顶端! **"
-    },
-    "** We gotta hold our ground over here! **": {
-      "translation": "** 坚持住兄弟们! **"
-    },
-    "** This platform seems like some sort of lift -- do not let anything through!**": {
-      "translation": "** 这个平台看起来像某种升降机--不要让任何东西通过!**"
-    },
-    "** A secret passageway is opening! **": {
-      "translation": "** 一条秘密通道正在打开! **"
-    },
-    "** This is our chance to break free from the Totema Curse! **": {
-      "translation": "** 这是我们摆脱图腾诅咒的机会! **"
-    },
-    "** Touch the gem at the helm -- there can't be much time left! **": {
-      "translation": "** 碰一下掌舵的宝石--时间不多了! **"
-    }
+{
+  "** A SEAL WAS TAINTED BY THE INFECTED! THE GODS ARE ANGERED! **": {
+    "translation": "** 一只海豹被僵尸感染了叫兽很生气! **"
+  },
+  "** YOU ARE DONE! **": {
+    "translation": "** 你胜利了! **"
+  },
+  "** We have finally reached the Karuga archipelago... **": {
+    "translation": "** 我们终于抵达了这座神圣之地... **"
+  },
+  "** Totemo Roka lies ahead -- and beyond, the sacred city of Totghul Ka! **": {
+    "translation": "** 叫兽就在前方或者更远的地方不远处就是叫兽的家! **"
+  },
+  "** Swim to the shore! We must reach the top! **": {
+    "translation": "** 快游上去! 我们必须登顶! **"
+  },
+  "** Some sort of contraption is rising! Do not let them reach us! **": {
+    "translation": "** 某种东西正在苏醒! 不要让他们接近我们! **"
+  },
+  "** The temple seems to rely on elevators upon elevators... **": {
+    "translation": "** 这座圣地似乎依靠着四周的电梯运转... **"
+  },
+  "** Keep it up! We cannot afford to have them break through! **": {
+    "translation": "** 加把劲! 我们不能让他们突破! **"
+  },
+  "** We reached the first sacred seal! The path should clear soon! **": {
+    "translation": "** 我们到达了第一个神圣的封印!道路应该很快就会畅通! **"
+  },
+  "** The temple may become far more ruthless from this point on... **": {
+    "translation": "** 从这里开始我们后面的路将更加艰难... **"
+  },
+  "** HURRY BACK! The volcano is about to explode! **": {
+    "translation": "** 快回来!火山即将喷发! **"
+  },
+  "** We must get to the top! **": {
+    "translation": "** 我们必须登顶! **"
+  },
+  "** We are very close! Keep it up for the last bit! **": {
+    "translation": "** 已经很接近了加油兄弟们坚持到最后! **"
+  },
+  "** It shouldn't be hard to reach the summit! **": {
+    "translation": "** 登顶对于我们来说轻而易举! **"
+  },
+  "** We are almost on the summit! The sacred city of Tot-ghul Ka awaits in the horizon! **": {
+    "translation": "** 我们马上登顶了!叫兽在上面等着我们! **"
+  },
+  "** One more push! HOLD IT! **": {
+    "translation": "** 在推一次!抓住它!**"
+  },
+  "** This is the second seal! A way should appear for us to reach Tot-ghul Ka will open shortly! **": {
+    "translation": "** 这是第二枚纹章!我们应该找到了一条可以通过的路!很快就会开启 **"
+  },
+  "** The legend was true! A bridge slashes through the waters of an everblue sea! JUMP! **": {
+    "translation": "** 传说是真的!一座桥在蔚蓝的海面上呼啸而过!跳!!! **"
+  },
+  "** The gem only produced a faint sound, as if the effect was to be felt far away... **": {
+    "translation": "** 宝石只发出微弱的声音,仿佛要在远处感受到这种效果... **"
+  },
+  "** We need to find a way into the walled temple! Move it! **": {
+    "translation": "** 我们需要找到一条进入圣地的路!移动它! **"
+  },
+  "** This is the third seal! The gates will open soon! **": {
+    "translation": "** 这是第三枚印章!大门很快就会打开! **"
+  },
+  "** First the entrance will fold, then the inner plaza will show itself to us! **": {
+    "translation": "** 入口会先打开,然后内部广场展现在我们面前! **"
+  },
+  "** MOVE IT! THEY ARE EVERYWHERE! **": {
+    "translation": "** 有序移动! 他们到处都是! **"
+  },
+  "** Hold your ground! The inner court is behind these doors, waiting for us! **": {
+    "translation": "** 坚守阵地!圣地就在这些门后面等着我们! **"
+  },
+  "** C'mon get inside! We have to unlock the energy of the last gems before the volcano blows up! **": {
+    "translation": "** 快进去!我们必须在火山爆发前释放最后一颗宝石的能量 **"
+  },
+  "** YES! The final seal is right there! **": {
+    "translation": "** 没错! 最后的纹章就在那里! **"
+  },
+  "** RESIST! WE ARE ABOUT TO GO! **": {
+    "translation": "** 坚持住! 我们就要走了! **"
+  },
+  "** We cracked the last seal! Our escape pod should be here soon! **": {
+    "translation": "** 我们破解了最后一个封印!我们很快就可以撤离了! **"
+  },
+  "** Something moved upon touching the gem... **": {
+    "translation": "** 有东西碰到宝石就动了... **"
+  },
+  "** A relay of sorts seems to be moving in the back -- wait for something to happen! **": {
+    "translation": "** 某种力量似乎在背后移动,等待发生什么! **"
+  },
+  "** The way is clear! We must reach the top of Totemo Roka! **": {
+    "translation": "** 路开了!我们必须登上圣地的顶端! **"
+  },
+  "** We gotta hold our ground over here! **": {
+    "translation": "** 坚持住兄弟们! **"
+  },
+  "** This platform seems like some sort of lift -- do not let anything through!**": {
+    "translation": "** 这个平台看起来像某种升降机--不要让任何东西通过!**"
+  },
+  "** A secret passageway is opening! **": {
+    "translation": "** 一条秘密通道正在打开! **"
+  },
+  "** This is our chance to break free from the Totema Curse! **": {
+    "translation": "** 这是我们摆脱图腾诅咒的机会! **"
+  },
+  "** Touch the gem at the helm -- there can't be much time left! **": {
+    "translation": "** 碰一下掌舵的宝石--时间不多了! **"
   }
+}
   
