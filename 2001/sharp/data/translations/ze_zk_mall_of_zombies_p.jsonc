@@ -39,7 +39,7 @@
   },
   "*** Elevator doors closes in 15 seconds ***": {
     "translation": "*** 将在15秒后关闭电梯门 ***"
-    "blocked": true
+   ,"blocked": true
   },
   "*** TIPS and HELP from Kim [pF] and Mikey-Muse  ***": {
     "translation": "*** 感谢 Kim[pF]和Mikey-Muse的帮助和建议 ***"
