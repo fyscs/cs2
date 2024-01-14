@@ -1,0 +1,43 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***** HOLD THIS POSITION *****": {
+    "translation": "守住这里!!"
+  },
+  "*** ELEVATOR 1 & 2 OPENING ***": {
+    "translation": "两边的电梯都打开了"
+  },
+  "*** USE RADIO ***": {
+    "translation": "快使用无线电"
+  },
+  "*** NUCLEAR CORE UNSTABLE ***": {
+    "translation": "反应堆核心不稳定"
+  },
+  "*** MAP BY JB_GAMBLE ***": {
+    "translation": "地图作者:JB_GAMBLE"
+  },
+  "*** HOLD HERE! ***": {
+    "translation": "守住!!"
+  },
+  "*** FALL BACK ***": {
+    "translation": "撤退!!"
+  },
+  "*** 5 SECONDS ***": {
+    "translation": "还有5秒"
+  },
+  "*** SELF DESTRUCT ACTIVATED - 60 SECONDS ***": {
+    "translation": "自毁进程已启动,还有60秒"
+  },
+  "*** MAP CRASH FIXED BY 5UNZ ***": {
+    "translation": "地图bug由5UNZ修复"
+  }
+}

@@ -1,0 +1,100 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "[LEVEL 1] | Go to the Police car park next to the Police Station. |": {
+    "translation": "到警察局旁边的停车场那里去"
+  },
+  "[LEVEL 1] | Enter the Police Lower Tunnel Car Park. |": {
+    "translation": "到地下停车场那里去"
+  },
+  "[LEVEL 1] | FALL BACK! |": {
+    "translation": "第一关:撤退!!"
+  },
+  "[LEVEL 1] | Defend at door 2 for another 10 seconds. |": {
+    "translation": "还要在门二这里守10秒"
+  },
+  "[LEVEL 2] | Enter through the window on the 3 wooden boxes on the left (for zombies). |": {
+    "translation": "僵尸提示:穿过左边木箱上的窗户"
+  },
+  "[LEVEL 2] | Go to the STAFF ROOM, door will open in 20 seconds.": {
+    "translation": "到警员办公室去,门还有20秒开启"
+  },
+  "[LEVEL 2] | FALL BACK! |": {
+    "translation": "第二关:快撤退!!"
+  },
+  "[LEVEL 2] | Prepare to Enter the Secret Library Room. |": {
+    "translation": "准备进入图书馆密室"
+  },
+  "[LEVEL 3] | Turn right and defend for another 20 seconds. |": {
+    "translation": "右转!!再守20秒"
+  },
+  "[LEVEL 3] | FALL BACK! |": {
+    "translation": "第三关:快点走!!"
+  },
+  "[LEVEL 3] | Stick to the Door and defend for another 10 seconds. |": {
+    "translation": "把门贴紧咯!还有10秒!!"
+  },
+  "[LEVEL 3] | Turn on your flashlights because it can be scary, hold on for 10 seconds. |": {
+    "translation": "打开你的手电筒!守住10秒!"
+  },
+  "[LEVEL 3] | Go to the CHIEF CONSTABLE for 5 seconds. |": {
+    "translation": "还有5秒,快进去"
+  },
+  "[LEVEL 3] | 20 Seconds Strong Defend. |": {
+    "translation": "坚守20秒"
+  },
+  "[LEVEL 3] | The zombies have teleported away, go back and use the upper stairs. |": {
+    "translation": "僵尸被传送走了,回去快上楼"
+  },
+  "[LEVEL 4] | Zombies COMING from WC. |": {
+    "translation": "僵尸要从厕所里出来了"
+  },
+  "[LEVEL 4] | Defend the report room for 20 seconds. |": {
+    "translation": "在传达室坚持20秒"
+  },
+  "[LEVEL 4] | FALL BACK! |": {
+    "translation": "第四关:快点走咯!"
+  },
+  "[LEVEL 4] | Without touching the fire, continue from the boss room, there is no stopping. |": {
+    "translation": "别去碰火,搞快点.没时间了."
+  },
+  "[LEVEL 4] | The door will open soon. |": {
+    "translation": "门马上就要开了"
+  },
+  "[LEVEL 4] | Go to the QUESTIONING. Zombies Teleporting in SECRETARY Room. |": {
+    "translation": "快去问询室,僵尸马上就要传送了"
+  },
+  "[LEVEL 5] | 20 Second Defend in room. |": {
+    "translation": "在这里坚持20秒"
+  },
+  "[LEVEL 5] | FALL BACK! |": {
+    "translation": "第五关:准备开溜"
+  },
+  "[LEVEL 5] |+10 Seconds. :ujel: |": {
+    "translation": "还有10秒"
+  },
+  "[LEVEL 5] | 30 Second Defend in room. |": {
+    "translation": "在这里守30秒"
+  },
+  "[LEVEL 5] | From the fire escape, go left.. |": {
+    "translation": "去左边.."
+  },
+  "[LEVEL 5] | 20 Seconds... |": {
+    "translation": "还有20秒"
+  },
+  "[LEVEL FINAL] | Stay in the green and defend. 30 Seconds |": {
+    "translation": "在这里坚持30秒"
+  },
+  "[LEVEL FINAL] | GG! Everyone RTV! for ze_mars_escape <3 |": {
+    "translation": "地图已通关!该RTV了!"
+  }
+}
