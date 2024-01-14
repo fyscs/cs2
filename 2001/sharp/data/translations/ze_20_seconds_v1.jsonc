@@ -1,0 +1,82 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "20 SECOND | SURVIVAL | ARENA 13": {
+    "translation": "区域十三,还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 15": {
+    "translation": "区域十五,还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 12": {
+    "translation": "区域十二,还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 14": {
+    "translation": "区域十四,还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 18": {
+    "translation": "区域十八,还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 16": {
+    "translation": "区域十六,还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 19": {
+    "translation": "区域十九,还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 17": {
+    "translation": "区域十七,还有20秒"
+  },
+  "10 SECOND | STAY RED IN SURVIVAL | ARENA 20": {
+    "translation": "区域二十,还有10秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 11": {
+    "translation": "区域十一,还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 1": {
+    "translation": "区域一,还有20秒"
+  },
+  "10 SECOND | HUMANS WIN": {
+    "translation": "人类即将获胜,还有10秒"
+  },
+  "EVERYONE RTV | MAP FINISH": {
+    "translation": "地图已完成,是时候RTV了"
+  },
+  "10 SECOND | EVERYTHING TELEPORT": {
+    "translation": "全体已传送,还有10秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 2": {
+    "translation": "区域二还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 3": {
+    "translation": "区域三,还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 4": {
+    "translation": "区域四,还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 5": {
+    "translation": "区域五,还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 10": {
+    "translation": "区域十,还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 9": {
+    "translation": "区域九,还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 8": {
+    "translation": "区域八,还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 7": {
+    "translation": "区域七,还有20秒"
+  },
+  "20 SECOND | SURVIVAL | ARENA 6": {
+    "translation": "区域六,还有20秒"
+  }
+}
