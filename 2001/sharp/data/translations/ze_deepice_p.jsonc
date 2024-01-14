@@ -1,4 +1,4 @@
-﻿// Console SayText i18n file generator.
+// Console SayText i18n file generator.
 // i18n Version v21
 // Copyright 2024 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
@@ -11,67 +11,67 @@
 
 {
   "*** TO BE CONTINUED ***": {
-    "translation": "*** TO BE CONTINUED ***"
+    "translation": "*** 未完待续 ***"
   },
   "*** Alien Reactor Overload 100% *** ": {
-    "translation": "*** Alien Reactor Overload 100% *** "
+    "translation": "*** 外部反应堆过载已达100% *** "
   },
   "*** Second gate stuck ***": {
-    "translation": "*** Second gate stuck ***"
+    "translation": "*** 第二个门卡住了 ***"
   },
   "*** Defend yourself until we get it open ***": {
-    "translation": "*** Defend yourself until we get it open ***"
+    "translation": "*** 保护好自己直到我们打开它 ***"
   },
   "*** Co-Mapper: starbucks ***": {
-    "translation": "*** Co-Mapper: starbucks ***"
+    "translation": "*** 地图合作作者: starbucks ***"
   },
   "*** Mapper: yardy ***": {
-    "translation": "*** Mapper: yardy ***"
+    "translation": "*** 地图作者: yardy 地图翻译:夜里很饿@风云社***"
   },
   "*** STEAMGAMERS.COM ***": {
     "translation": "*** STEAMGAMERS.COM ***",
     "blocked": true
   },
   "*** Sea Hawk arrival immediately ***": {
-    "translation": "*** Sea Hawk arrival immediately ***"
+    "translation": "*** 飞机马上就来了 ***"
   },
   "*** Alien Reactor Overload 50% *** ": {
-    "translation": "*** Alien Reactor Overload 50% *** "
+    "translation": "*** 外部反应堆过载50% *** "
   },
   "*** Sea Hawk arrival soon ***": {
-    "translation": "*** Sea Hawk arrival soon ***"
+    "translation": "*** 飞机即将抵达 ***"
   },
   "*** Lift 1 is leaving soon ***": {
-    "translation": "*** Lift 1 is leaving soon ***"
+    "translation": "*** 电梯1马上润了 ***"
   },
   "*** Lift 2 is leaving soon ***": {
-    "translation": "*** Lift 2 is leaving soon ***"
+    "translation": "*** 电梯2马上润了 ***"
   },
   "*** ALIEN shield has been activated ***": {
-    "translation": "*** ALIEN shield has been activated ***"
+    "translation": "*** 外星防护罩已激活 ***"
   },
   "*** Oh my god jump off the train before it squeezes you ***": {
-    "translation": "*** Oh my god jump off the train before it squeezes you ***"
+    "translation": "*** 在火车把你带入二次元前赶紧跳下去 ***"
   },
   "*** Hold back the ALIENS while calling the chopper ***": {
-    "translation": "*** Hold back the ALIENS while calling the chopper ***"
+    "translation": "*** 呼叫飞机的时候挡住他们 ***"
   },
   "*** Door is being fixed defend yourself ***": {
-    "translation": "*** Door is being fixed defend yourself ***"
+    "translation": "*** 门被锁死了 保护自己 ***"
   },
   "*** Gate opens soon defend yourself ***": {
-    "translation": "*** Gate opens soon defend yourself ***"
+    "translation": "*** 门马上开了 保护自己 ***"
   },
   "*** Train is leaving soon ***": {
-    "translation": "*** Train is leaving soon ***"
+    "translation": "*** 火车要跑路咯 ***"
   },
   "*** Alienshield disabled ***": {
-    "translation": "*** Alienshield disabled ***"
+    "translation": "*** 外星防护盾已失效 ***"
   },
   "*** Defend the area until train leaves ***": {
-    "translation": "*** Defend the area until train leaves ***"
+    "translation": "*** 守住这里直到火车离开 ***"
   },
   "*** Train departing ***": {
-    "translation": "*** Train departing ***"
+    "translation": "*** 火车要走咯 ***"
   }
 }
