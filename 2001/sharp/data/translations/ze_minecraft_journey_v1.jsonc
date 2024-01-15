@@ -1,0 +1,127 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "= = = Zombie TP Activate = = =": {
+    "translation": "僵尸传送已启动!"
+  },
+  "= = = 5 Second Zombie TP Activating = = =": {
+    "translation": "僵尸还有5秒传送"
+  },
+  "= = = CURRENT ARENA 7 / 8  = = =": {
+    "translation": "当前区域:七"
+  },
+  "= = = 10 Second Door Opening = = =": {
+    "translation": "门还有10秒打开"
+  },
+  "= = = 10 Second Bar Opening = = =": {
+    "translation": "酒吧还有10秒开启"
+  },
+  "= = = Bar Open = = =": {
+    "translation": "酒吧门开了"
+  },
+  "= = = Boat Moving = = =": {
+    "translation": "小船开始移动"
+  },
+  "= = = Big Door Open = = =": {
+    "translation": "大门打开了"
+  },
+  "= = = 40 Second Big Door Opening = = =": {
+    "translation": "大门还有40秒打开"
+  },
+  "= = = You can now enter the water. = = =": {
+    "translation": "你现在可以下水了"
+  },
+  "= = = Go to the small cave. = = =": {
+    "translation": "到洞穴里面去"
+  },
+  "= = = ZM TP Activate = = =": {
+    "translation": "僵尸传送启动!"
+  },
+  "= = = ZM TP Activating = = =": {
+    "translation": "僵尸传送正在启动"
+  },
+  "= = = CURRENT ARENA 8 / 8  = = =": {
+    "translation": "当前区域:八"
+  },
+  "= = = 40 Second Cover Cave = = =": {
+    "translation": "在这里坚持40秒"
+  },
+  "= = = HUMANS WIN = = =": {
+    "translation": "人类胜利!!"
+  },
+  "= = = Dont worry, this not bug = = =": {
+    "translation": "不要担心,不是bug都是特性"
+  },
+  "= = = JUST SURVIVAL = = =": {
+    "translation": "只要在这里呆着就行"
+  },
+  "= = = Door Open = = =": {
+    "translation": "门开了"
+  },
+  "= = = 20 Second Door Opening = = =": {
+    "translation": "还有20秒开门"
+  },
+  "= = = CURRENT ARENA 4 / 8  = = =": {
+    "translation": "当前区域:四"
+  },
+  "= = = Portal Open = = =": {
+    "translation": "传送门已开启"
+  },
+  "= = = 20 Second Portal Opening = = =": {
+    "translation": "传送门还有20秒开启"
+  },
+  "= = = CURRENT ARENA 6 / 8  = = =": {
+    "translation": "当前区域:六"
+  },
+  "= = = 20 Second Bar Opening = = =": {
+    "translation": "酒吧还有20秒开门"
+  },
+  "= = = CURRENT ARENA 5 / 8  = = =": {
+    "translation": "当前区域:五"
+  },
+  "= = = Teleport Open = = =": {
+    "translation": "传送已开启"
+  },
+  "= = = 20 Second Crystal Teleporting = = =": {
+    "translation": "水晶传送还有20秒启动"
+  },
+  "= = = Wall Explode = = =": {
+    "translation": "墙炸开了"
+  },
+  "= = = 20 Second Wall Exploding = = =": {
+    "translation": "墙体还有20秒爆炸"
+  },
+  "= = = CURRENT ARENA 3 / 8  = = =": {
+    "translation": "当前区域:三"
+  },
+  "= = = Doors Open = = =": {
+    "translation": "门开了"
+  },
+  "= = = 10 Second Doors Opening = = =": {
+    "translation": "门还有10秒打开"
+  },
+  "= = = CURRENT ARENA 2 / 8  = = =": {
+    "translation": "当前区域:二"
+  },
+  "= = = Jump Down  = = =": {
+    "translation": "跳下来"
+  },
+  "= = = WARNING HUMANS 1/2 : You can't go never by water.  = = =": {
+    "translation": "警告:不要靠近水面"
+  },
+  "= = = WARNING HUMANS 2/2 : Only zombies can enter.  = = =": {
+    "translation": "警告:只有僵尸可以进入"
+  },
+  "= = = CURRENT ARENA 1 / 8  = = =": {
+    "translation": "当前区域:一"
+  }
+}
