@@ -24,5 +24,4 @@ jobs:
       - name: Run
         run: |
           wget https://github.com/fyscs/cs2-archive/raw/main/ConfigValidator -q -O ConfigValidator
-          ls -l
           chmod +x ./ConfigValidator && ./ConfigValidator ./.fys/loader.json

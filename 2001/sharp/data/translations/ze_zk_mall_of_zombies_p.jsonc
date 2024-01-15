@@ -9,7 +9,7 @@
   // clearTimer (bool) -> 清除所有倒计时
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
-  {
+{
   "*** The fence will break when the door is fully closed! ***": {
     "translation": "*** 当门关上后阻挡将会损坏! ***"
   },
@@ -51,15 +51,15 @@
   },
   "*** 3 ***": {
     "translation": "*** 3 ***",
-   "blocked": true
+    "blocked": true
   },
   "*** 2 ***": {
     "translation": "*** 2 ***",
-   "blocked": true
+    "blocked": true
   },
   "*** 1 ***": {
     "translation": "*** 1 ***",
-   "blocked": true
+    "blocked": true
   },
   "*** BOOM ***": {
     "translation": "*** 爆炸 ***"
