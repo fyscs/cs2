@@ -20,12 +20,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # .NET
-      - name: Install .NET Core
-        uses: actions/setup-dotnet@v3
-        with:
-          dotnet-version: '8.0.x'
-
       # Run
       - name: Run
-        run: chmod +x ./.fys/ConfigValidator && ./.fys/ConfigValidator ./.fys/loader.json
+        run: |
+          wget https://github.com/fyscs/cs2-archive/raw/main/ConfigValidator -q -O ConfigValidator
+          ls -l
+          chmod +x ./ConfigValidator && ./ConfigValidator ./.fys/loader.json
