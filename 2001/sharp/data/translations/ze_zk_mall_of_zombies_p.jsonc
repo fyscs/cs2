@@ -50,16 +50,16 @@
     "translation": "*** 炸弹将要在40秒后爆炸 ***"
   },
   "*** 3 ***": {
-    "translation": "*** 3 ***"
-   ,"blocked": true
+    "translation": "*** 3 ***",
+   "blocked": true
   },
   "*** 2 ***": {
-    "translation": "*** 2 ***"
-   ,"blocked": true
+    "translation": "*** 2 ***",
+   "blocked": true
   },
   "*** 1 ***": {
-    "translation": "*** 1 ***"
-   ,"blocked": true
+    "translation": "*** 1 ***",
+   "blocked": true
   },
   "*** BOOM ***": {
     "translation": "*** 爆炸 ***"
