@@ -3,7 +3,10 @@
     "2001/csgo/cfg/map-configs"
   ],
   "entwatch": [
-
+    "2001/sharp/data/entWatch"
+  ],
+  "boss": [
+    "2001/sharp/data/bosses"
   ],
   "translations": [
     "2001/sharp/data/translations"
