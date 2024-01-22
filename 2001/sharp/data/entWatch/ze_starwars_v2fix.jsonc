@@ -1,5 +1,5 @@
 // entWatch configuration file generator.
-// i18n Version v21
+// EntWatch Version v21
 // Copyright 2024 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
@@ -23,8 +23,8 @@
     "name": "玄水原力",
     "shortName": "水",
     "buttonClass": "func_button",
-    "hammerId": "1993",
-    "countdown": 60,
+    "hammerId": "2270",
+    "cooldown": 60,
     "team": 3,
     "knife": false,
     "mode": 2,
@@ -35,7 +35,7 @@
     "shortName": "奶",
     "buttonClass": "func_button",
     "hammerId": "2268",
-    "countdown": 60,
+    "cooldown": 60,
     "team": 3,
     "knife": false,
     "mode": 2,
@@ -46,7 +46,7 @@
     "shortName": "电",
     "buttonClass": "func_button",
     "hammerId": "2271",
-    "countdown": 60,
+    "cooldown": 60,
     "team": 3,
     "knife": false,
     "mode": 2,
@@ -56,8 +56,8 @@
     "name": "飓风原力",
     "shortName": "风",
     "buttonClass": "func_button",
-    "hammerId": "2209",
-    "countdown": 60,
+    "hammerId": "2266",
+    "cooldown": 60,
     "team": 3,
     "knife": false,
     "mode": 2,
@@ -67,8 +67,8 @@
     "name": "终极原力",
     "shortName": "危",
     "buttonClass": "func_button",
-    "hammerId": "1986",
-    "countdown": 60,
+    "hammerId": "2267",
+    "cooldown": 60,
     "team": 3,
     "knife": false,
     "mode": 2,
