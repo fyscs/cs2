@@ -1,16 +1,17 @@
 # 自定义实体IO
 
-## AddOutput  
+## ``AddOutput``  / ``CustomAddOutput`` / ``AddCustomOutput``
 
-***所有实体可用***
+***所有实体可用***  
+***``AddOutput``需要参数``ms_entity_io_addoutput`` ``true``***
 
 - ``targetname name``: ``name`` -> **string**
 - ``origin x y z``:  ``x``, ``y``, ``z`` -> **float**或 **int**
 - ``angles x y z``:  ``x``, ``y``, ``z`` -> **float**或 **int**
 - ``max_health value``: ``value`` -> **int**
 - ``health value``: ``value`` -> **int**
-- ``solid type``: ``type`` -> **int**
 - ``movetype type``: ``type`` -> **int**
+- ``EntityTemplate name``: ``name`` -> **string**
 
 ## AddEffects / RemoveEffects
 
@@ -53,12 +54,6 @@
 ***所有实体可用***
 
 - ``x y z``:  ``x``, ``y``, ``z`` -> **float**或 **int**
-
-## SetSolidType
-
-***BaseModelEntity***
-
-- ``type``: ``type`` -> **int**
 
 ## SetMoveType
 
