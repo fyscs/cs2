@@ -182,13 +182,13 @@
     "translation": ">> 还有40秒 <<"
   },
   ">> 30 SECONDS LEFT <<": {
-    "translation": ">> 还有40秒 <<"
+    "translation": ">> 还有30秒 <<"
   },
   ">> 20 SECONDS LEFT <<": {
-    "translation": ">> 还有40秒 <<"
+    "translation": ">> 还有20秒 <<"
   },
   ">> 10 SECONDS LEFT <<": {
-    "translation": ">> 还有40秒 <<"
+    "translation": ">> 还有10秒 <<"
   },
   ">> LEVEL: A NEW BEGINNING <<": {
     "translation": ">> 关卡: 新的征程 <<"
@@ -297,15 +297,6 @@
   },
   ">> 60 seconds left <<": {
     "translation": ">> 还有60秒 <<"
-  },
-  ">> 40 seconds left <<": {
-    "translation": ">> 还有40秒 <<"
-  },
-  ">> 20 seconds left <<": {
-    "translation": ">> 还有20秒 <<"
-  },
-  ">> 10 seconds left <<": {
-    "translation": ">> 还有10秒 <<"
   },
   ">> 5 seconds left <<": {
     "translation": ">> 还有5秒 <<"
