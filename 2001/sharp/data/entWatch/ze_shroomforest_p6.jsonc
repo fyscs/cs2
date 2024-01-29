@@ -20,7 +20,7 @@
 
 [
   {
-    "name": "终极",
+    "name": "终极菇",
     "shortName": "爆",
     "buttonClass": "func_button",
     "hammerId": "931",
@@ -31,7 +31,7 @@
     "count": 1
   },
   {
-    "name": "弹药",
+    "name": "弹药菇",
     "shortName": "射",
     "buttonClass": "func_button",
     "hammerId": "1080",
@@ -42,7 +42,7 @@
     "count": 1
   },
   {
-    "name": "土墙",
+    "name": "草墙菇",
     "shortName": "墙",
     "buttonClass": "func_button",
     "hammerId": "1184",
@@ -53,7 +53,7 @@
     "count": 1
   },
   {
-    "name": "烈火",
+    "name": "烈焰菇",
     "shortName": "火",
     "buttonClass": "func_button",
     "hammerId": "1207",
@@ -64,7 +64,7 @@
     "count": 1
   },
   {
-    "name": "重力",
+    "name": "重力菇",
     "shortName": "凝",
     "buttonClass": "func_button",
     "hammerId": "1217",
@@ -75,7 +75,7 @@
     "count": 1
   },
   {
-    "name": "治疗",
+    "name": "治愈菇",
     "shortName": "奶",
     "buttonClass": "func_button",
     "hammerId": "8899",
@@ -86,7 +86,7 @@
     "count": 1
   },
   {
-    "name": "冰块",
+    "name": "冰冻菇",
     "shortName": "冰",
     "buttonClass": "func_button",
     "hammerId": "1237",
@@ -97,18 +97,18 @@
     "count": 1
   },
   {
-    "name": "地雷",
+    "name": "地雷菇",
     "shortName": "坬",
     "buttonClass": "func_button",
     "hammerId": "8890",
-    "maxUses": 1,
+    "maxUses": 6,
     "team": 3,
     "knife": false,
     "mode": 3,
     "count": 1
   },
   {
-    "name": "强风",
+    "name": "飓风菇",
     "shortName": "风",
     "buttonClass": "func_button",
     "hammerId": "1225",

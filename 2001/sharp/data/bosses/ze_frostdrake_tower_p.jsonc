@@ -12,6 +12,7 @@
   // iterator   (string)   -> 计数器 (MathCounter only)
   // backup     (string)   -> 后备计数器 (MathCounter only)
   // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
 
 {
   "Breakable": [

@@ -1,0 +1,358 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Leaf 1 leaving in 7 seconds ***": {
+    "translation": "*** 树叶①将在7秒后驶离 ***"
+  },
+  "*** Leaf 2 leaving in 7 seconds ***": {
+    "translation": "*** 树叶②将在7秒后驶离 ***"
+  },
+  "*** HOLD FOR 10 seconds ***": {
+    "translation": "*** 坚持10秒钟 ***"
+  },
+  "*** DOOR IS OPEN! RUUUN! ***": {
+    "translation": "*** 门打开了!兄弟们快润! ***"
+  },
+  "*** HOLD FOR 30 seconds ***": {
+    "translation": "*** 守住30秒钟 ***"
+  },
+  "*** OH NO!! ITS SATAN!! ***": {
+    "translation": "*** 哦不!!是傻蛋!! ***"
+  },
+  "*** SHOOT IT OR YOU WILL BE HIS SLAVES FOREVER!! ***": {
+    "translation": "*** 如果你不想成为他的奴隶,就给我开枪打死他!! ***"
+  },
+  "*** THROW GRENADES TO KILL IT EASIER ***": {
+    "translation": "*** 手雷似乎对这个傻蛋不起效果 ***"
+  },
+  "*** BOARDS ARE BROKEN RUUUUUUN!! ***": {
+    "translation": "*** 木板打开了,快润兄弟们!!! ***"
+  },
+  "*** WAIT TILL BOMB BREAKS THOSE BOARDS ***": {
+    "translation": "*** 我们得想办法用炸弹炸开这些木板 ***"
+  },
+  "*** ELEVATOR LEAVING IN 20 seconds ***": {
+    "translation": "*** 电梯20秒后离开 ***"
+  },
+  "*** ELEVATOR LEAVING IN 10 seconds ***": {
+    "translation": "*** 电梯10秒后离开 ***"
+  },
+  "*** ELEVATOR LEAVING IN 5 seconds ***": {
+    "translation": "*** 电梯5秒后离开 ***"
+  },
+  "*** SHOOT IT BEFORE ITS TOO LATE!! ***": {
+    "translation": "*** 趁现在还来得及开枪!!! ***"
+  },
+  "*** OH NO Its an EVIL BUTTERFLY ***": {
+    "translation": "*** 哦不,是恶魔蝶!!!! ***"
+  },
+  "*** WALL IS BROKEN RUUUUUUN!! ***": {
+    "translation": "*** 墙已经碎了,快润!! ***"
+  },
+  "*** WAIT TILL THAT WALL BREAKS ***": {
+    "translation": "*** 你再急也要等着堵墙碎掉! ***"
+  },
+  "*** HOLD FOR 40 seconds ***": {
+    "translation": "*** 坚守40秒钟 ***"
+  },
+  "*** GO GO GO!!!! ***": {
+    "translation": "*** 冲冲冲!!!! ***"
+  },
+  "*** HOLD FOR 5 seconds ***": {
+    "translation": "*** 坚守5秒钟 ***"
+  },
+  ">> HOLD FOR 30 seconds <<": {
+    "translation": ">> 坚守30秒钟 <<"
+  },
+  ">> 5 more seconds <<": {
+    "translation": ">> 还有5秒 <<"
+  },
+  ">> GO! GO! GO! <<": {
+    "translation": ">> 冲! 冲! 冲! <<"
+  },
+  ">> PLAYER HAS CHOSEN: FLAT GRASS NORMAL <<": {
+    "translation": ">> 玩家已选择:草原关卡(普通模式) <<"
+  },
+  ">> PLAYER HAS CHOSEN: BIG TREE NORMAL <<": {
+    "translation": ">> 玩家已选择:巨树关卡(普通模式) <<"
+  },
+  ">> PLAYER HAS CHOSEN: HELL NORMAL <<": {
+    "translation": ">> 玩家已选择:地狱关卡(普通模式) <<"
+  },
+  ">> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<": {
+    "translation": ">> 皮卡丘发怒了!快开枪打死他!!!!!!!!! <<"
+  },
+  ">> BUTTERFLY LEAVING IN 30 seconds <<": {
+    "translation": ">> 蝴蝶还有30秒离开 <<"
+  },
+  ">> LEVEL COMPLETED!! <<": {
+    "translation": ">> 关卡通过!! <<"
+  },
+  ">> RESTARTING ROUND IN 5 SECONDS <<": {
+    "translation": ">> 回合将在5秒后重置 <<"
+  },
+  ">> WAIT FOR 10 SECONDS <<": {
+    "translation": ">> 请等待10秒 <<"
+  },
+  ">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<": {
+    "translation": ">> 你需要找把钥匙才能打开那把锁 <<"
+  },
+  ">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<": {
+    "translation": ">> 也许你能在旁边房间的箱子里 <<"
+  },
+  "*** HOLD FOR 20 seconds ***": {
+    "translation": "*** 守住20秒 ***"
+  },
+  "*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***": {
+    "translation": "*** 需要去两边的控制室同时按下两个按钮 ***"
+  },
+  ">> LEVEL COMPLETED <<": {
+    "translation": ">> 关卡通过 <<"
+  },
+  "*** GREAT DEFEND FOR 10 MORE SECONDS ***": {
+    "translation": "*** 再坚守10秒钟 ***"
+  },
+  "*** HOLD FOR ABOUT 30 SECONDS ***": {
+    "translation": "*** 我们大约还要守30秒 ***"
+  },
+  "*** OH NO!! ITS DRAGON!! ***": {
+    "translation": "*** 哦不!是地狱龙!! ***"
+  },
+  "*** SHOOT IT BEFORE ITS TOO LATE ***": {
+    "translation": "*** 趁我们还没死翘翘,快打死他!! ***"
+  },
+  ">> PLAYER HAS PICKED UP ULTIMATE WEAPON <<": {
+    "translation": ">> 一名玩家已获取终极菇 <<"
+  },
+  ">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<": {
+    "translation": ">> 我劝你们赶紧下电梯,否则你会后悔的 <<"
+  },
+  ">> ONE PLAYER NEED TO GO AND PRESS THE BUTTON!! <<": {
+    "translation": ">> 需要一名勇士去按下那个按钮!! <<"
+  },
+  ">> ZOMBIES ABOARD!! LEVEL FAILED!! <<": {
+    "translation": ">> 僵尸上来了!! 关卡失败!! <<"
+  },
+  ">> ZOMBIES INSIDE!! LEVEL FAILED!! <<": {
+    "translation": ">> 僵尸上来了!! 关卡失败!! <<"
+  },
+  "[Special Thanks to: Muro#[A] FT]": {
+    "translation": "[特别感谢:Muro#[A]FT]"
+  },
+  ">> Map by TaskuVaras <<": {
+    "translation": ">> 地图作者:TaskuVaras <<"
+  },
+  ">> IDEA: Sienestaja <<": {
+    "translation": ">> 创意: Sienestaja <<"
+  },
+  ">> Fixed by Moltard <<": {
+    "translation": ">> CS2地图移植:Sea_Sedge海苔@FyS <<"
+  },
+  ">> There is an error in the level system <<": {
+    "translation": ">> 关卡系统出错啦 <<"
+  },
+  ">> LEVEL: FLAT GRASS <<": {
+    "translation": ">> 关卡: 草原 <<"
+  },
+  ">> LEVEL: BIG TREE <<": {
+    "translation": ">> 关卡: 巨树 <<"
+  },
+  ">> LEVEL: HELL <<": {
+    "translation": ">> 关卡: 地狱 <<"
+  },
+  ">> LEVEL: CHOOSING LEVEL <<": {
+    "translation": ">> 关卡: 选关模式 <<"
+  },
+  ">> WARMUP ROUND <<": {
+    "translation": ">> 热身回合 <<"
+  },
+  ">> WARMUP ROUND END <<": {
+    "translation": ">> 热身回合结束 <<"
+  },
+  ">> 40 SECONDS LEFT <<": {
+    "translation": ">> 还有40秒 <<"
+  },
+  ">> 30 SECONDS LEFT <<": {
+    "translation": ">> 还有40秒 <<"
+  },
+  ">> 20 SECONDS LEFT <<": {
+    "translation": ">> 还有40秒 <<"
+  },
+  ">> 10 SECONDS LEFT <<": {
+    "translation": ">> 还有40秒 <<"
+  },
+  ">> LEVEL: A NEW BEGINNING <<": {
+    "translation": ">> 关卡: 新的征程 <<"
+  },
+  ">> PLAYER HAS CHOSEN: FLAT GRASS EXTREME <<": {
+    "translation": ">> 玩家已选择:草原关卡(困难模式) <<"
+  },
+  ">> PLAYER HAS CHOSEN: BIG TREE EXTREME <<": {
+    "translation": ">> 玩家已选择:巨树关卡(困难模式) <<"
+  },
+  ">> PLAYER HAS CHOSEN: HELL EXTREME <<": {
+    "translation": ">> 玩家已选择:地狱关卡(困难模式) <<"
+  },
+  "*** BUTTERFLY IS DEAD RESCUE IS COMING ***": {
+    "translation": "*** 恶魔蝶已死,救援已经在路上了 ***"
+  },
+  "*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***": {
+    "translation": "*** 皮卡丘死了!!快跑上蝴蝶! ***"
+  },
+  "*** SATAN IS HURT YOU ARE FREE TO LEAVE HELL ***": {
+    "translation": "*** 傻蛋负伤逃跑了,快趁现在离开地狱!! ***"
+  },
+  "*** DRAGON IS HURT YOU ARE FREE TO LEAVE HELL ***": {
+    "translation": "*** 地狱龙嗝屁了,快趁现在离开地狱 ***"
+  },
+  "*** PIKACHU WILL FALL DOWN. GO AWAY FROM HIM ***": {
+    "translation": "*** 远离皮卡丘,除非你想被砸成肉饼 ***"
+  },
+  "*** THIS PLACE WILL BE OUR NEW VILLAGE ***": {
+    "translation": "*** 这个地方将是我们新旅途的营地 ***"
+  },
+  "*** FIND A WAY TO CLOSE ELEVATOR ACCESS ***": {
+    "translation": "*** 想办法关闭升降门 ***"
+  },
+  "*** DONT LET ANY ZOMBIE ENTER !! ***": {
+    "translation": "*** 不要让任何僵尸进来 !! ***"
+  },
+  ">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<": {
+    "translation": ">> 皮卡丘使用了十万伏特,快淦死他!!!!!!!!!! <<"
+  },
+  ">> SECRET IS NOW OPEN <<": {
+    "translation": ">> 机密现在可以公开 <<"
+  },
+  ">> You have succesfully saved Shroomforest <<": {
+    "translation": ">> 你成功拯救了蘑菇庄园 <<"
+  },
+  ">> DEFEND YOUR VILLAGE FOR 30 SECONDS <<": {
+    "translation": ">> 保卫你的营地30秒 <<"
+  },
+  ">> EXTREME MODE ADDED <<": {
+    "translation": ">> 困难模式已开启 <<"
+  },
+  ">> BOSSES ON LEVEL II <<": {
+    "translation": ">> BOSS难度已升级 <<"
+  },
+  ">> BUTTERFLY LEAVING IN 10 seconds <<": {
+    "translation": ">> 蝴蝶10秒后离开 <<"
+  },
+  ">> BUTTERFLY LEAVING IN 15 seconds <<": {
+    "translation": ">> 蝴蝶15秒后离开 <<"
+  },
+  "*** THE ELEVATOR WILL FALL DOWN !!! ***": {
+    "translation": "*** 电梯快要掉下去了 !!! ***"
+  },
+  "*** GO INSIDE OR YOU WILL BE TRAPPED UP HERE !! ***": {
+    "translation": "*** 我劝你赶紧进去,否则就去和僵尸贴贴吧 !! ***"
+  },
+  ">> A WILD PIKACHU IS WAITING FOR US !! <<": {
+    "translation": ">> 一只野生的皮卡丘在等着我们 !! <<"
+  },
+  ">> CT GET OUT THE ELEVATOR AND FIGHT !! <<": {
+    "translation": ">> 幸存的人类快离开电梯准备战斗 !! <<"
+  },
+  ">> IT LOOK LIKE A NEW PLACE ... <<": {
+    "translation": ">> 它看起来像个新地方 ... <<"
+  },
+  ">> ZOMBIES DETECTED!! LEVEL FAILED!! <<": {
+    "translation": ">> 检测到僵尸!!关卡失败!! <<"
+  },
+  ">> You have successfully saved our new village <<": {
+    "translation": ">> 你成功地拯救了我们的新营地 <<"
+  },
+  ">> PLAYER HAS PICKED UP A GEAR MECANISM <<": {
+    "translation": ">> 一名勇士找到了这个齿轮!! <<"
+  },
+  ">> GOOD JOB <<": {
+    "translation": ">> 干得好牢弟 <<"
+  },
+  ">> THE GRID SHOULD START TO CLOSE <<": {
+    "translation": ">> 大门应该开始关闭了 <<"
+  },
+  ">> Play ShroomForest2 to continue the adventure <<": {
+    "translation": ">> 请期待在'蘑菇庄园2'继续新的冒险 <<"
+  },
+  ">> You beat the map ! <<": {
+    "translation": ">> 你征服了这张地图 ! <<"
+  },
+  ">> Congratulation ! <<": {
+    "translation": ">> 恭喜恭喜 ! <<"
+  },
+  ">> Find a place to hold and survive 1 minute and 30 seconds! <<": {
+    "translation": ">> 找到一个可以支撑并存活90秒的地方! <<"
+  },
+  ">> Quick ZM Mod <<": {
+    "translation": ">> 启动ZM模式 <<"
+  },
+  ">> 60 seconds left <<": {
+    "translation": ">> 还有60秒 <<"
+  },
+  ">> 40 seconds left <<": {
+    "translation": ">> 还有40秒 <<"
+  },
+  ">> 20 seconds left <<": {
+    "translation": ">> 还有20秒 <<"
+  },
+  ">> 10 seconds left <<": {
+    "translation": ">> 还有10秒 <<"
+  },
+  ">> 5 seconds left <<": {
+    "translation": ">> 还有5秒 <<"
+  },
+  ">> Map will reset after this current round <<": {
+    "translation": ">> 地图将在本轮之后重置 <<"
+  },
+  ">> NEW LEVEL UNLOCKED IN ADMIN ROOM <<": {
+    "translation": ">> 新的关卡已在调关房解锁 <<"
+  },
+  ">> NOBODY SURVIVED!! LEVEL FAILED!! <<": {
+    "translation": ">> 没有一个人活下来!!关卡失败!! <<"
+  },
+  ">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<": {
+    "translation": ">> 快朝野生的百变怪射击!!!!!!!!!! <<"
+  },
+  ">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<": {
+    "translation": ">> 野生的百变怪使用了变身!!!!!!!!! <<"
+  },
+  "Press Other Button!!!": {
+    "translation": "快按下另一个按钮!!!"
+  },
+  ">> PLAYER HAS PICKED UP UNLIMITED AMMO <<": {
+    "translation": "一名玩家已获取弹药菇"
+  },
+  ">> PLAYER HAS PICKED UP EARTH <<": {
+    "translation": "一名玩家已获取草墙菇"
+  },
+  "*** PLAYER FOUND A KEY ***": {
+    "translation": "一名玩家拿到了钥匙"
+  },
+  ">> PLAYER HAS PICKED UP FIRE <<": {
+    "translation": "一名玩家已获取烈焰菇"
+  },
+  ">> PLAYER HAS PICKED UP GRAVITY <<": {
+    "translation": "一名玩家已获取重力菇"
+  },
+  ">> PLAYER HAS PICKED UP WIND <<": {
+    "translation": "一名玩家已获取飓风菇"
+  },
+  ">> PLAYER HAS PICKED UP ICE <<": {
+    "translation": "一名玩家已获取冰冻菇"
+  },
+  ">> PLAYER HAS PICKED UP 6 MINES <<": {
+    "translation": "一名玩家已获取六个地雷菇"
+  },
+  ">> PLAYER HAS PICKED UP HEAL <<": {
+    "translation": "一名玩家已获取治愈菇"
+  }
+}
