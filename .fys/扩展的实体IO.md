@@ -12,6 +12,7 @@
 - ``health value``: ``value`` -> **int**
 - ``movetype type``: ``type`` -> **int**
 - ``EntityTemplate name``: ``name`` -> **string**
+- ``basevelocity x y z``: ``x``, ``y``, ``z`` -> **float**或 **int**
 
 ## AddEffects / RemoveEffects
 
@@ -59,4 +60,10 @@
 
 ***所有实体可用***
 
-- ``type``: ``type`` -> **int**
+- ``type``: ``type`` -> **int** (0 = none, 2 = walk)
+
+## ModifySpeed
+
+***BasePlayerPawn***
+
+- ``speed``: ``speed`` -> **float** (0.1~2.0)
