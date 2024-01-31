@@ -1,9 +1,8 @@
 # 自定义实体IO
 
-## ``AddOutput``  / ``CustomAddOutput`` / ``AddCustomOutput``
+## ``CustomAddOutput`` / ``AddCustomOutput``
 
 ***所有实体可用***  
-***``AddOutput``需要参数``ms_entity_io_addoutput`` ``true``***
 
 - ``targetname name``: ``name`` -> **string**
 - ``origin x y z``:  ``x``, ``y``, ``z`` -> **float**或 **int**
@@ -13,6 +12,9 @@
 - ``movetype type``: ``type`` -> **int**
 - ``EntityTemplate name``: ``name`` -> **string**
 - ``basevelocity x y z``: ``x``, ``y``, ``z`` -> **float**或 **int**
+- ``target name``: ``name`` -> **string**
+- ``filtername name``: ``name`` -> **string**
+- ``force speed``: ``speed`` -> **float** ***(需要先Deactivate)***
 
 ## AddEffects / RemoveEffects
 
