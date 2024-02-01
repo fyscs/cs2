@@ -29,5 +29,14 @@
     "knife": false,
     "mode": 3,
     "count": 1
+  },
+  {
+    "name": "火把",
+    "shortName": "火把",
+    "hammerId": "2643",
+    "team": 3,
+    "knife": false,
+    "mode": 0,
+    "count": 1
   }
 ]
