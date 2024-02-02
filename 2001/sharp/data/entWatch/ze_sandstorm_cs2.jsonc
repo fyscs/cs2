@@ -114,11 +114,7 @@
     "name": "蚁狮附体",
     "shortName": "蚁(ZM)",
     "buttonClass": "func_button",
-    "triggerId": [
-      "6072",
-      "6112",
-      "11304"
-    ],
+    "triggerId": ["6072", "6112", "11304"],
     "team": 2,
     "knife": false,
     "soulEvent": "OnStartTouch",
