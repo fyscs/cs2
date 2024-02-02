@@ -6,9 +6,9 @@
   // 可用字段:
   // display    (string)   -> 显示的名称
   // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
   // target     (string)   -> 目标名称 (Breakable only)
   // count      (int)      -> 血条格数 (Breakable only)
-  // stages     (int)      -> 阶段数 (Breakable only)
   // iterator   (string)   -> 计数器 (MathCounter only)
   // backup     (string)   -> 后备计数器 (MathCounter only)
   // counter    (string)   -> 血条计数器 (MathCounter only)

@@ -17,9 +17,12 @@
 {
   "Counters": [
     {
-      "iterator": "boss_hp",
-      "hitbox": "boss",
-      "display": "鬼脸"
+      "iterator": "St1_Boss_Hideous_Counter",
+      "display": "Hideous"
+    },
+    {
+      "iterator": "St2_Boss_Mindflayer_Counter",
+      "display": "Mindflayer"
     }
   ]
 }
