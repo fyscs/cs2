@@ -88,7 +88,7 @@
   },
   {
     "name": "火焰魔法",
-    "shortName": "火(ZM)",
+    "shortName": "火",
     "buttonClass": "func_button",
     "triggerId": ["11215"],
     "cooldown": 60,
@@ -100,7 +100,7 @@
   },
   {
     "name": "黑洞魔法",
-    "shortName": "吸(ZM)",
+    "shortName": "吸",
     "buttonClass": "func_button",
     "triggerId": ["11259"],
     "cooldown": 60,
@@ -112,7 +112,7 @@
   },
   {
     "name": "蚁狮附体",
-    "shortName": "蚁(ZM)",
+    "shortName": "蚁",
     "buttonClass": "func_button",
     "triggerId": ["6072", "6112", "11304"],
     "team": 2,

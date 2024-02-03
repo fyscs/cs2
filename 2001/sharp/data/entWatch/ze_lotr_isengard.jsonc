@@ -39,5 +39,35 @@
     "knife": false,
     "mode": 0,
     "count": 1
+  },
+  {
+    "name": "蜘蛛",
+    "shortName": "蜘蛛",
+    "triggerId": ["3097"],
+    "team": 2,
+    "knife": false,
+    "soulEvent": "OnStartTouch",
+    "mode": 0,
+    "count": 1
+  },
+  {
+    "name": "树人",
+    "shortName": "树人",
+    "triggerId": ["3483"],
+    "team": 3,
+    "knife": false,
+    "soulEvent": "OnStartTouch",
+    "mode": 0,
+    "count": 1
+  },
+  {
+    "name": "甘道夫",
+    "shortName": "阿甘",
+    "triggerId": ["3600"],
+    "team": 3,
+    "knife": false,
+    "soulEvent": "OnStartTouch",
+    "mode": 0,
+    "count": 1
   }
 ]
