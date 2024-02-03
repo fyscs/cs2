@@ -14,14 +14,13 @@
   // counter    (string)   -> 血条计数器 (MathCounter only)
   // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
 
-// TODO 4个阶段, BossHP尚未支持固定参数设置
-
 {
   "Counters": [
     {
       "iterator": "boss_hp",
       "hitbox": "boss_hitbox",
-      "display": "巴托莉"
+      "display": "巴托莉",
+      "stages": 4
     }
   ]
 }
