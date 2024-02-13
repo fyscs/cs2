@@ -1,0 +1,211 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** Hold for 10 seconds. **": {
+    "translation": "** Hold for 10 seconds. **"
+  },
+  "*** He's dead. Run. ***": {
+    "translation": "*** He's dead. Run. ***"
+  },
+  "** Kill the remaining zombies! **": {
+    "translation": "** Kill the remaining zombies! **"
+  },
+  "** YOU WON STAGE 3 **": {
+    "translation": "** YOU WON STAGE 3 **"
+  },
+  "|||||YOU LOSE|||||": {
+    "translation": "|||||YOU LOSE|||||"
+  },
+  "** AND NOW YOU WILL DIE! **": {
+    "translation": "** AND NOW YOU WILL DIE! **"
+  },
+  "** FALL BACK **": {
+    "translation": "** FALL BACK **"
+  },
+  "** 5 seconds left **": {
+    "translation": "** 5 seconds left **"
+  },
+  "** The doors will open in 20 seconds **": {
+    "translation": "** The doors will open in 20 seconds **"
+  },
+  "** The doors will open in 25 seconds **": {
+    "translation": "** The doors will open in 25 seconds **"
+  },
+  "** The doors will open in 15 seconds **": {
+    "translation": "** The doors will open in 15 seconds **"
+  },
+  "** The door will open in 30 seconds **": {
+    "translation": "** The door will open in 30 seconds **"
+  },
+  "** Hold zombies for 15 seconds **": {
+    "translation": "** Hold zombies for 15 seconds **"
+  },
+  "** Kill him or he kills you!!! **": {
+    "translation": "** Kill him or he kills you!!! **"
+  },
+  "** Hold Zombies for 10 seconds **": {
+    "translation": "** Hold Zombies for 10 seconds **"
+  },
+  "** Bomb explodes in 20 seconds **": {
+    "translation": "** Bomb explodes in 20 seconds **"
+  },
+  "*** Grenades do more damage. (8 SECONDS)***": {
+    "translation": "*** Grenades do more damage. (8 SECONDS)***"
+  },
+  "** Meteorite arrives in 17 seconds. **": {
+    "translation": "** Meteorite arrives in 17 seconds. **"
+  },
+  "** 5 seconds left. **": {
+    "translation": "** 5 seconds left. **"
+  },
+  "** Hold zombies for 10 seconds **": {
+    "translation": "** Hold zombies for 10 seconds **"
+  },
+  "** Hold for 20 seconds. **": {
+    "translation": "** Hold for 20 seconds. **"
+  },
+  "** Teleport will open in 20 seconds. **": {
+    "translation": "** Teleport will open in 20 seconds. **"
+  },
+  "** Hold for 15 seconds. **": {
+    "translation": "** Hold for 15 seconds. **"
+  },
+  "** Teleport will open in 15 seconds **": {
+    "translation": "** Teleport will open in 15 seconds **"
+  },
+  "*** Grenades do more damage (4 SECONDS). ***": {
+    "translation": "*** Grenades do more damage (4 SECONDS). ***"
+  },
+  "** Do not come to the edge of the platform! **": {
+    "translation": "** Do not come to the edge of the platform! **"
+  },
+  "*** YOU WON STAGE 5 ***": {
+    "translation": "*** YOU WON STAGE 5 ***"
+  },
+  "** Humans have become immortal!!! **": {
+    "translation": "** Humans have become immortal!!! **"
+  },
+  "** Zombies have 1 HP! **": {
+    "translation": "** Zombies have 1 HP! **"
+  },
+  "** Teleport will open in 20 seconds **": {
+    "translation": "** Teleport will open in 20 seconds **"
+  },
+  "*** YOU WON STAGE 1 ***": {
+    "translation": "*** YOU WON STAGE 1 ***"
+  },
+  "*** YOU WON STAGE 4 ***": {
+    "translation": "*** YOU WON STAGE 4 ***"
+  },
+  ">>*** THANKS FOR PLAYING! ***<<": {
+    "translation": ">>*** THANKS FOR PLAYING! ***<<"
+  },
+  ">>*** IT'S TIME TO CHOOSE A LEVEL! ***<<": {
+    "translation": ">>*** IT'S TIME TO CHOOSE A LEVEL! ***<<"
+  },
+  ">| ADMIN ROOM |< Level changed to ZM(6). Kill all in 5 seconds.": {
+    "translation": ">| ADMIN ROOM |< Level changed to ZM(6). Kill all in 5 seconds."
+  },
+  ">> ZM ROUND <<": {
+    "translation": ">> ZM ROUND <<"
+  },
+  "** Victory in 230 seconds. **": {
+    "translation": "** Victory in 230 seconds. **"
+  },
+  "** Victory in 200 seconds. **": {
+    "translation": "** Victory in 200 seconds. **"
+  },
+  "** Victory in 150 seconds. **": {
+    "translation": "** Victory in 150 seconds. **"
+  },
+  "** Victory in 100 seconds. **": {
+    "translation": "** Victory in 100 seconds. **"
+  },
+  "** Victory in 50 seconds. **": {
+    "translation": "** Victory in 50 seconds. **"
+  },
+  "** Victory in 10 seconds. **": {
+    "translation": "** Victory in 10 seconds. **"
+  },
+  ">> VICTORY <<": {
+    "translation": ">> VICTORY <<"
+  },
+  ">| ADMIN ROOM |< Level changed to 5. Kill all in 5 seconds.": {
+    "translation": ">| ADMIN ROOM |< Level changed to 5. Kill all in 5 seconds."
+  },
+  ">> STAGE 5 <<": {
+    "translation": ">> STAGE 5 <<"
+  },
+  "** Run into the center and break the crystal!!! **": {
+    "translation": "** Run into the center and break the crystal!!! **"
+  },
+  ">>> WARMUP ROUND <<<": {
+    "translation": ">>> WARMUP ROUND <<<"
+  },
+  ">| ADMIN ROOM |< Level changed to 4. Kill all in 5 seconds.": {
+    "translation": ">| ADMIN ROOM |< Level changed to 4. Kill all in 5 seconds."
+  },
+  ">| ADMIN ROOM |< Level changed to 3. Kill all in 5 seconds.": {
+    "translation": ">| ADMIN ROOM |< Level changed to 3. Kill all in 5 seconds."
+  },
+  ">| ADMIN ROOM |< Level changed to 2. Kill all in 5 seconds.": {
+    "translation": ">| ADMIN ROOM |< Level changed to 2. Kill all in 5 seconds."
+  },
+  ">| ADMIN ROOM |< Level changed to 1. Kill all in 5 seconds.": {
+    "translation": ">| ADMIN ROOM |< Level changed to 1. Kill all in 5 seconds."
+  },
+  ">> STAGE 4 <<": {
+    "translation": ">> STAGE 4 <<"
+  },
+  ">> STAGE 3 <<": {
+    "translation": ">> STAGE 3 <<"
+  },
+  ">> STAGE 2 <<": {
+    "translation": ">> STAGE 2 <<"
+  },
+  ">> STAGE 1 <<": {
+    "translation": ">> STAGE 1 <<"
+  },
+  ">>*** MAP BY STK ***<<": {
+    "translation": ">>*** MAP BY STK ***<<"
+  },
+  "*** Lua scripts not loaded ***": {
+    "translation": "*** Lua scripts not loaded ***"
+  },
+  "*** Bosses is disabled! ***": {
+    "translation": "*** Bosses is disabled! ***"
+  },
+  "** The doors will open in 10 seconds **": {
+    "translation": "** The doors will open in 10 seconds **"
+  },
+  "** Elevator leaves in 20 seconds **": {
+    "translation": "** Elevator leaves in 20 seconds **"
+  },
+  "** YOU WON STAGE 2 **": {
+    "translation": "** YOU WON STAGE 2 **"
+  },
+  "** Teleport will open on 10 seconds **": {
+    "translation": "** Teleport will open on 10 seconds **"
+  },
+  "*** Grenades do more damage. ***": {
+    "translation": "*** Grenades do more damage. ***"
+  },
+  "** Press on the 4 obelisks to open the door **": {
+    "translation": "** Press on the 4 obelisks to open the door **"
+  },
+  "** The doors will open on 15 seconds **": {
+    "translation": "** The doors will open on 15 seconds **"
+  },
+  "** 10 seconds left **": {
+    "translation": "** 10 seconds left **"
+  }
+}

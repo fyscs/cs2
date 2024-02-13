@@ -1,0 +1,295 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**HOLD 25 SECONDS**": {
+    "translation": "**HOLD 25 SECONDS**"
+  },
+  "**RUN**": {
+    "translation": "**RUN**"
+  },
+  "**Zombie ladder is enabled**": {
+    "translation": "**Zombie ladder is enabled**"
+  },
+  "**Zombie push will disable in 5 sec**": {
+    "translation": "**Zombie push will disable in 5 sec**"
+  },
+  "***Teleporting AFK's to wall in 20s***": {
+    "translation": "***Teleporting AFK's to wall in 20s***"
+  },
+  "**HOLD 30 SECONDS**": {
+    "translation": "**HOLD 30 SECONDS**"
+  },
+  "**GO GO**": {
+    "translation": "**GO GO**"
+  },
+  "*Zombie clip brush is disabled*": {
+    "translation": "*Zombie clip brush is disabled*"
+  },
+  "**DEFEND HERE**": {
+    "translation": "**DEFEND HERE**"
+  },
+  "**HOLD 90 SEC**": {
+    "translation": "**HOLD 90 SEC**"
+  },
+  "**Wait for water flow**": {
+    "translation": "**Wait for water flow**"
+  },
+  "***Jump on the rocks***": {
+    "translation": "***Jump on the rocks***"
+  },
+  "**Mass teleport Zombies and AFK's in 10 sec!!**": {
+    "translation": "**Mass teleport Zombies and AFK's in 10 sec!!**"
+  },
+  "***GO UP ON LADDER***": {
+    "translation": "***GO UP ON LADDER***"
+  },
+  "***Destroy DAM***": {
+    "translation": "***Destroy DAM***"
+  },
+  "***Stanchion 1/2 was broken***": {
+    "translation": "***Stanchion 1/2 was broken***"
+  },
+  "***Stanchion 2/2 was broken***": {
+    "translation": "***Stanchion 2/2 was broken***"
+  },
+  "***Teleporting Humans to the Dam in 5 sec***": {
+    "translation": "***Teleporting Humans to the Dam in 5 sec***"
+  },
+  "***Teleporting Zombies and AFK's to the Dam in 10 sec***": {
+    "translation": "***Teleporting Zombies and AFK's to the Dam in 10 sec***"
+  },
+  "**Meanwhile.......**": {
+    "translation": "**Meanwhile.......**"
+  },
+  "***Humans will die when music ends***": {
+    "translation": "***Humans will die when music ends***"
+  },
+  "***Teleporting to boss in 10 sec!!!***": {
+    "translation": "***Teleporting to boss in 10 sec!!!***"
+  },
+  "**Prepare to fight**": {
+    "translation": "**Prepare to fight**"
+  },
+  "***GO GO***": {
+    "translation": "***GO GO***"
+  },
+  "***HOLD 15 sec!!!***": {
+    "translation": "***HOLD 15 sec!!!***"
+  },
+  "***GO GO GO***": {
+    "translation": "***GO GO GO***"
+  },
+  "***LVL 2 COMPLETED***": {
+    "translation": "***LVL 2 COMPLETED***"
+  },
+  "***Map by Limon. Thanks for playing***": {
+    "translation": "***Map by Limon. Thanks for playing***"
+  },
+  "**Defend people which destroy dam**": {
+    "translation": "**Defend people which destroy dam**"
+  },
+  "**DESTROY All STANCHIONS!**": {
+    "translation": "**DESTROY All STANCHIONS!**"
+  },
+  "**GO HUMANS**": {
+    "translation": "**GO HUMANS**"
+  },
+  "***Elevator will go up in 20 sec***": {
+    "translation": "***Elevator will go up in 20 sec***"
+  },
+  "***Elevator will go up in 5 sec***": {
+    "translation": "***Elevator will go up in 5 sec***"
+  },
+  "*Mass zombie teleport after elevator activation*": {
+    "translation": "*Mass zombie teleport after elevator activation*"
+  },
+  "***RUN TO THE MAIN GATE***": {
+    "translation": "***RUN TO THE MAIN GATE***"
+  },
+  "***Key is found. Door open in 5 sec***": {
+    "translation": "***Key is found. Door open in 5 sec***"
+  },
+  "***NEED KEY***": {
+    "translation": "***NEED KEY***"
+  },
+  "***Find key in the room***": {
+    "translation": "***Find key in the room***"
+  },
+  "***Key is found. Door open in 10 sec***": {
+    "translation": "***Key is found. Door open in 10 sec***"
+  },
+  "***HOLD 20 SEC!!!***": {
+    "translation": "***HOLD 20 SEC!!!***"
+  },
+  "***HOLD 20 SEC***": {
+    "translation": "***HOLD 20 SEC***"
+  },
+  "***LEFT DOOR OPEN IN 10 SEC***": {
+    "translation": "***LEFT DOOR OPEN IN 10 SEC***"
+  },
+  "***LEFT DOOR OPEN. NEED KEY FOR RIGHT DOOR***": {
+    "translation": "***LEFT DOOR OPEN. NEED KEY FOR RIGHT DOOR***"
+  },
+  "***HOLD***": {
+    "translation": "***HOLD***"
+  },
+  "***ZOMBIES TELEPORT IN 5 SEC!***": {
+    "translation": "***ZOMBIES TELEPORT IN 5 SEC!***"
+  },
+  "***Teleporting AFK's in 10 sec!!***": {
+    "translation": "***Teleporting AFK's in 10 sec!!***"
+  },
+  "***GRIMA IS DEAD***": {
+    "translation": "***GRIMA IS DEAD***"
+  },
+  "***HOLD 15 SEC***": {
+    "translation": "***HOLD 15 SEC***"
+  },
+  "***Humans didnt kill grima***": {
+    "translation": "***Humans didnt kill grima***"
+  },
+  "**It is Grima!!! KILL HIM!**": {
+    "translation": "**It is Grima!!! KILL HIM!**"
+  },
+  "**Teleporting Zombies to spawn in 15 sec**": {
+    "translation": "**Teleporting Zombies to spawn in 15 sec**"
+  },
+  "***ADMIN CHOOSES 1 LEVEL***": {
+    "translation": "***ADMIN CHOOSES 1 LEVEL***"
+  },
+  "***ADMIN CHOOSES 3 LEVEL***": {
+    "translation": "***ADMIN CHOOSES 3 LEVEL***"
+  },
+  "***LVL1 ROAD TO ISENGARD***": {
+    "translation": "***LVL1 ROAD TO ISENGARD***"
+  },
+  "**Teleporting AFK's to cave in 30sec**": {
+    "translation": "**Teleporting AFK's to cave in 30sec**"
+  },
+  "***Map by Limon.***": {
+    "translation": "***Map by Limon.***"
+  },
+  "*GAME WILL START in 15 sec! GL HF*": {
+    "translation": "*GAME WILL START in 15 sec! GL HF*"
+  },
+  "***SPAWN ZONE***": {
+    "translation": "***SPAWN ZONE***"
+  },
+  "*Teleporting zombies to Zombie Room in 7 sec*": {
+    "translation": "*Teleporting zombies to Zombie Room in 7 sec*"
+  },
+  "***Go to middle-earth map to start playing***": {
+    "translation": "***Go to middle-earth map to start playing***"
+  },
+  "***LVL2 ISENGARD***": {
+    "translation": "***LVL2 ISENGARD***"
+  },
+  "**Teleporting AFK's to forest in 30sec**": {
+    "translation": "**Teleporting AFK's to forest in 30sec**"
+  },
+  "***LVL3 SARUMAN TOWER***": {
+    "translation": "***LVL3 SARUMAN TOWER***"
+  },
+  "**Teleporting AFK's to Saruman tower in 35sec**": {
+    "translation": "**Teleporting AFK's to Saruman tower in 35sec**"
+  },
+  "***ADMIN CHOOSES 2 LEVEL***": {
+    "translation": "***ADMIN CHOOSES 2 LEVEL***"
+  },
+  "*** Lua scripts not loaded ***": {
+    "translation": "*** Lua scripts not loaded ***"
+  },
+  "*** Bosses and items is disabled! ***": {
+    "translation": "*** Bosses and items is disabled! ***"
+  },
+  "OnStartTouch>consola>Command>***LVL 2 COMPLETED***>1.00>1": {
+    "translation": "OnStartTouch>consola>Command>***LVL 2 COMPLETED***>1.00>1"
+  },
+  "***NAZGUL IS DEAD***": {
+    "translation": "***NAZGUL IS DEAD***"
+  },
+  "***NUKE IN 1 SEC!!***": {
+    "translation": "***NUKE IN 1 SEC!!***"
+  },
+  "***NUKE IN 2 SEC!!***": {
+    "translation": "***NUKE IN 2 SEC!!***"
+  },
+  "***LVL 1 COMPLETED***": {
+    "translation": "***LVL 1 COMPLETED***"
+  },
+  "***Zombies on boat. Humans lose.***": {
+    "translation": "***Zombies on boat. Humans lose.***"
+  },
+  "**Defend this building for 50 sec**": {
+    "translation": "**Defend this building for 50 sec**"
+  },
+  "***Stairs will break in 10 sec***": {
+    "translation": "***Stairs will break in 10 sec***"
+  },
+  "***Get to the boats NOW***": {
+    "translation": "***Get to the boats NOW***"
+  },
+  "**Mass teleport zombies in 15 seconds***": {
+    "translation": "**Mass teleport zombies in 15 seconds***"
+  },
+  "***5***": {
+    "translation": "***5***"
+  },
+  "***4***": {
+    "translation": "***4***"
+  },
+  "***3***": {
+    "translation": "***3***"
+  },
+  "***2***": {
+    "translation": "***2***"
+  },
+  "***1***": {
+    "translation": "***1***"
+  },
+  "**HOLD 25 SEC**": {
+    "translation": "**HOLD 25 SEC**"
+  },
+  "**GO GO GO**": {
+    "translation": "**GO GO GO**"
+  },
+  "***Teleporting Zombies and AFK's in 6 sec!!***": {
+    "translation": "***Teleporting Zombies and AFK's in 6 sec!!***"
+  },
+  "***KILL NAZGUL***": {
+    "translation": "***KILL NAZGUL***"
+  },
+  "**GO**": {
+    "translation": "**GO**"
+  },
+  "**KILL the SPIDER NOW***": {
+    "translation": "**KILL the SPIDER NOW***"
+  },
+  "**Shoot in the head!**": {
+    "translation": "**Shoot in the head!**"
+  },
+  "***LOOK OUT FOR SPIDER TRAPS!!***": {
+    "translation": "***LOOK OUT FOR SPIDER TRAPS!!***"
+  },
+  "*If you wont kill spider in 2 min zombies will eat you*": {
+    "translation": "*If you wont kill spider in 2 min zombies will eat you*"
+  },
+  "**Resist 30s!**": {
+    "translation": "**Resist 30s!**"
+  },
+  "**Resist 20s!**": {
+    "translation": "**Resist 20s!**"
+  },
+  "**Random**": {
+    "translation": "**Random**"
+  }
+}

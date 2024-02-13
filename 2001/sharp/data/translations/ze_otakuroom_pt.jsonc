@@ -1,0 +1,145 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Map by Tenshi**": {
+    "translation": "**Map by Tenshi**"
+  },
+  "**Special Thanks:GemaYue , uuz , 银月筱瑶**": {
+    "translation": "**Special Thanks:GemaYue , uuz , 银月筱瑶**"
+  },
+  "**Original map : kz_otakuroom_v3 , by GemaYue**": {
+    "translation": "**Original map : kz_otakuroom_v3 , by GemaYue**"
+  },
+  "**It's my first map , thanks for playing**": {
+    "translation": "**It's my first map , thanks for playing**"
+  },
+  "**Model by uuz**": {
+    "translation": "**Model by uuz**"
+  },
+  ">>Wait for 15 seconds<<": {
+    "translation": ">>Wait for 15 seconds<<"
+  },
+  ">>Wait for 30 seconds<<": {
+    "translation": ">>Wait for 30 seconds<<"
+  },
+  ">>Hold on for 20 seconds<<": {
+    "translation": ">>Hold on for 20 seconds<<"
+  },
+  ">>5 seconds<<": {
+    "translation": ">>5 seconds<<"
+  },
+  "**Stage 1**": {
+    "translation": "**Stage 1**"
+  },
+  "**Stage 2**": {
+    "translation": "**Stage 2**"
+  },
+  "**[Admin]Stage 2**": {
+    "translation": "**[Admin]Stage 2**"
+  },
+  "**[Admin]Stage 1**": {
+    "translation": "**[Admin]Stage 1**"
+  },
+  "**[Admin]ZM**": {
+    "translation": "**[Admin]ZM**"
+  },
+  "**[ZM]**": {
+    "translation": "**[ZM]**"
+  },
+  "**Nuke in 1 min**": {
+    "translation": "**Nuke in 1 min**"
+  },
+  "**Nuke in 2 mins**": {
+    "translation": "**Nuke in 2 mins**"
+  },
+  "**Nuke in 3 mins**": {
+    "translation": "**Nuke in 3 mins**"
+  },
+  "**[Admin]Stage 3**": {
+    "translation": "**[Admin]Stage 3**"
+  },
+  "**全人类の绯想天**": {
+    "translation": "**全人类の绯想天**"
+  },
+  "**Kanameishi**": {
+    "translation": "**Kanameishi**"
+  },
+  "**Gasu**": {
+    "translation": "**Gasu**"
+  },
+  "**Sakai**": {
+    "translation": "**Sakai**"
+  },
+  "**Stage 3**": {
+    "translation": "**Stage 3**"
+  },
+  ">>Wait for 70 seconds<<": {
+    "translation": ">>Wait for 70 seconds<<"
+  },
+  ">>The paper plane will take off in 10 seconds<<": {
+    "translation": ">>The paper plane will take off in 10 seconds<<"
+  },
+  ">>Survive for 30 seconds<<": {
+    "translation": ">>Survive for 30 seconds<<"
+  },
+  "**Im defeated.Its impossable**": {
+    "translation": "**Im defeated.Its impossable**"
+  },
+  "**Wait 5 seconds**": {
+    "translation": "**Wait 5 seconds**"
+  },
+  "**Air leaves in 30 seconds**": {
+    "translation": "**Air leaves in 30 seconds**"
+  },
+  "**5 seconds**": {
+    "translation": "**5 seconds**"
+  },
+  "**Hold 10 seconds**": {
+    "translation": "**Hold 10 seconds**"
+  },
+  ">>Wait for 25 seconds<<": {
+    "translation": ">>Wait for 25 seconds<<"
+  },
+  "**Jump into the screen**": {
+    "translation": "**Jump into the screen**"
+  },
+  ">>Hold 30 seconds<<": {
+    "translation": ">>Hold 30 seconds<<"
+  },
+  ">>You failed<<": {
+    "translation": ">>You failed<<"
+  },
+  ">>Jump into the trash can<<": {
+    "translation": ">>Jump into the trash can<<"
+  },
+  "**ClearRobot leaving in 10 seconds**": {
+    "translation": "**ClearRobot leaving in 10 seconds**"
+  },
+  ">>Wait for 20 seconds<<": {
+    "translation": ">>Wait for 20 seconds<<"
+  },
+  ">>The batteries will be removed after 30 seconds<<": {
+    "translation": ">>The batteries will be removed after 30 seconds<<"
+  },
+  ">>The drawer will open in 30 seconds<<": {
+    "translation": ">>The drawer will open in 30 seconds<<"
+  },
+  ">>The sweeping robot will leave in 35 seconds<<": {
+    "translation": ">>The sweeping robot will leave in 35 seconds<<"
+  },
+  ">>The trash can lid will open in 15 seconds<<": {
+    "translation": ">>The trash can lid will open in 15 seconds<<"
+  },
+  ">>Nuke in 5 seconds<<": {
+    "translation": ">>Nuke in 5 seconds<<"
+  }
+}

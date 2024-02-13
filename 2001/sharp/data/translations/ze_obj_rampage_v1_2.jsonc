@@ -1,0 +1,133 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "The door opening in 15s": {
+    "translation": "The door opening in 15s"
+  },
+  "Welcome on Objective Rampage": {
+    "translation": "Welcome on Objective Rampage"
+  },
+  "Good Luck !": {
+    "translation": "Good Luck !"
+  },
+  "Special thanks to Zombieden for testing and people who guiding me on anything": {
+    "translation": "Special thanks to Zombieden for testing and people who guiding me on anything"
+  },
+  "Some of the zombie cage has placed portals to teleport between each zombie cage": {
+    "translation": "Some of the zombie cage has placed portals to teleport between each zombie cage"
+  },
+  "zombies, take advantage of it!": {
+    "translation": "zombies, take advantage of it!"
+  },
+  "Gas was turned off..": {
+    "translation": "Gas was turned off.."
+  },
+  "Find a way to turn off the gas": {
+    "translation": "Find a way to turn off the gas"
+  },
+  "Get in and keep holding until the door is closed!": {
+    "translation": "Get in and keep holding until the door is closed!"
+  },
+  "Objective Rampage": {
+    "translation": "Objective Rampage"
+  },
+  "Loading virus ...": {
+    "translation": "Loading virus ..."
+  },
+  "RUN": {
+    "translation": "RUN"
+  },
+  "Defend until virus get uploaded": {
+    "translation": "Defend until virus get uploaded"
+  },
+  "The virus is uploaded ! Defend until complete system corruption": {
+    "translation": "The virus is uploaded ! Defend until complete system corruption"
+  },
+  "Prepare..": {
+    "translation": "Prepare.."
+  },
+  "OMG everything is now fucked up, the laser was enabled !": {
+    "translation": "OMG everything is now fucked up, the laser was enabled !"
+  },
+  "STAY AWAY FROM THE BEAM !!!": {
+    "translation": "STAY AWAY FROM THE BEAM !!!"
+  },
+  "DOOR OPEN <<< 30 >>>": {
+    "translation": "DOOR OPEN <<< 30 >>>"
+  },
+  "DOOR OPEN <<< 20 >>>": {
+    "translation": "DOOR OPEN <<< 20 >>>"
+  },
+  "DOOR OPEN <<< 10 >>>": {
+    "translation": "DOOR OPEN <<< 10 >>>"
+  },
+  "DOOR OPEN <<< 00 >>>": {
+    "translation": "DOOR OPEN <<< 00 >>>"
+  },
+  "Power will be cut off in a few moments": {
+    "translation": "Power will be cut off in a few moments"
+  },
+  "Power is OFF": {
+    "translation": "Power is OFF"
+  },
+  "GET ON THE ELEVATOR": {
+    "translation": "GET ON THE ELEVATOR"
+  },
+  "Find a way to get into the room!": {
+    "translation": "Find a way to get into the room!"
+  },
+  "Watch out!": {
+    "translation": "Watch out!"
+  },
+  "BLAST DOORS <<< 30 >>>": {
+    "translation": "BLAST DOORS <<< 30 >>>"
+  },
+  "BLAST DOORS <<< 20 >>>": {
+    "translation": "BLAST DOORS <<< 20 >>>"
+  },
+  "BLAST DOORS <<< 10 >>>": {
+    "translation": "BLAST DOORS <<< 10 >>>"
+  },
+  "BLAST DOORS <<< 00 >>>": {
+    "translation": "BLAST DOORS <<< 00 >>>"
+  },
+  "Place the c4 to break the wall!": {
+    "translation": "Place the c4 to break the wall!"
+  },
+  "C4 has been planted": {
+    "translation": "C4 has been planted"
+  },
+  "Prepare for your LAST FIGHT": {
+    "translation": "Prepare for your LAST FIGHT"
+  },
+  "Trigger the BOMB and wait for helipoter to bring us out of this island !": {
+    "translation": "Trigger the BOMB and wait for helipoter to bring us out of this island !"
+  },
+  "GET ON THE HELICOPTER": {
+    "translation": "GET ON THE HELICOPTER"
+  },
+  "To be continute...": {
+    "translation": "To be continute..."
+  },
+  "Ported by TuPu": {
+    "translation": "Ported by TuPu"
+  },
+  "Map by Trazix": {
+    "translation": "Map by Trazix"
+  },
+  "Rampage Level": {
+    "translation": "Rampage Level"
+  },
+  "DEFEND 70 SECONDS": {
+    "translation": "DEFEND 70 SECONDS"
+  }
+}
