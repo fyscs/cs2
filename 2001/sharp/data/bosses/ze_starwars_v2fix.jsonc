@@ -14,11 +14,6 @@
   // counter    (string)   -> 血条计数器 (MathCounter only)
   // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
 
-  {
-    "Counters": [
-      {
-        "iterator": "fys_global_boss_health",
-        "display": "Boss"
-      }
-    ]
-  }
+{
+  "Proxy": true
+}
