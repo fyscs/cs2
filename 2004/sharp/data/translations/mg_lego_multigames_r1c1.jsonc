@@ -1,0 +1,184 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "[Game Manager] Scout": {
+    "translation": "[Game Manager] Scout"
+  },
+  "[Game Manager] Scout V2 (Custom game by bubblx)": {
+    "translation": "[Game Manager] Scout V2 (Custom game by bubblx)"
+  },
+  "[Game Manager] Long Jump V2 (Custom game by vedesh)": {
+    "translation": "[Game Manager] Long Jump V2 (Custom game by vedesh)"
+  },
+  "[Game Manager] Awp V2 (Custom game by vedesh)": {
+    "translation": "[Game Manager] Awp V2 (Custom game by vedesh)"
+  },
+  "[Game Manager] Awp": {
+    "translation": "[Game Manager] Awp"
+  },
+  "[Game Manager] Skate V2 (Custom game by DexKekcuk#13)": {
+    "translation": "[Game Manager] Skate V2 (Custom game by DexKekcuk#13)"
+  },
+  "[Game Manager] Blind Deagle V2 (Custom game by bubblx)": {
+    "translation": "[Game Manager] Blind Deagle V2 (Custom game by bubblx)"
+  },
+  "[Game Manager] Labyrinth (Custom game by vedesh)": {
+    "translation": "[Game Manager] Labyrinth (Custom game by vedesh)"
+  },
+  "[Game Manager] Knife (Custom mods by vedesh)": {
+    "translation": "[Game Manager] Knife (Custom mods by vedesh)"
+  },
+  "[Game Manager] Grenades": {
+    "translation": "[Game Manager] Grenades"
+  },
+  "[Game Manager] Shotguns": {
+    "translation": "[Game Manager] Shotguns"
+  },
+  "[Game Manager] Many Rooms": {
+    "translation": "[Game Manager] Many Rooms"
+  },
+  "[Game Manager] Long Jump": {
+    "translation": "[Game Manager] Long Jump"
+  },
+  "[Mod Manager] Normal Gravity": {
+    "translation": "[Mod Manager] Normal Gravity"
+  },
+  "[Mod Manager] Low Gravity": {
+    "translation": "[Mod Manager] Low Gravity"
+  },
+  "[Mod Manager] Nigh Gravity": {
+    "translation": "[Mod Manager] Nigh Gravity"
+  },
+  "[Game Manager] Skate": {
+    "translation": "[Game Manager] Skate"
+  },
+  "[Game Manager] Bhop": {
+    "translation": "[Game Manager] Bhop"
+  },
+  "[Game Manager] 2Rooms": {
+    "translation": "[Game Manager] 2Rooms"
+  },
+  "[Game Manager] Spawn Fight (Custom game by vedesh)": {
+    "translation": "[Game Manager] Spawn Fight (Custom game by vedesh)"
+  },
+  "[Mod Manager] Every man for himself": {
+    "translation": "[Mod Manager] Every man for himself"
+  },
+  "[Game Manager] Speed Jumps": {
+    "translation": "[Game Manager] Speed Jumps"
+  },
+  "[Game Manager] Blind Deagle": {
+    "translation": "[Game Manager] Blind Deagle"
+  },
+  "@[Map] 30 seconds ": {
+    "translation": "@[Map] 30 seconds "
+  },
+  "Map made by The_prodigy": {
+    "translation": "Map made by The_prodigy"
+  },
+  "Map ported by vedesh": {
+    "translation": "Map ported by vedesh"
+  },
+  "[Game Manager] Football": {
+    "translation": "[Game Manager] Football"
+  },
+  "[Mod Manager] Knife 1HP": {
+    "translation": "[Mod Manager] Knife 1HP"
+  },
+  "[Mod Manager] Normal Knife": {
+    "translation": "[Mod Manager] Normal Knife"
+  },
+  "[Mod Manager] Knife BackStap": {
+    "translation": "[Mod Manager] Knife BackStap"
+  },
+  "[Game Manager] Break Box": {
+    "translation": "[Game Manager] Break Box"
+  },
+  "[Game Manager] Skipping rope": {
+    "translation": "[Game Manager] Skipping rope"
+  },
+  "[Music Manager] Alan Walker - Alone (WildVibes Remix)": {
+    "translation": "[Music Manager] Alan Walker - Alone (WildVibes Remix)"
+  },
+  "[Music Manager] Imagine Dragons - Demons (Dzeko & Torres Remix)": {
+    "translation": "[Music Manager] Imagine Dragons - Demons (Dzeko & Torres Remix)"
+  },
+  "[Music Manager] Imagine Dragons - Thunder": {
+    "translation": "[Music Manager] Imagine Dragons - Thunder"
+  },
+  "[Music Manager] Nightcore - Dreams pt. II": {
+    "translation": "[Music Manager] Nightcore - Dreams pt. II"
+  },
+  "[Music Manager] The Chainsmokers - Roses": {
+    "translation": "[Music Manager] The Chainsmokers - Roses"
+  },
+  "[Music Manager] TheFatRat - Fly Away feat. Anjulie": {
+    "translation": "[Music Manager] TheFatRat - Fly Away feat. Anjulie"
+  },
+  "[Music Manager] Nightcore - BATTLECRY": {
+    "translation": "[Music Manager] Nightcore - BATTLECRY"
+  },
+  "[Music Manager] Nightcore - POPULAR MONSTER": {
+    "translation": "[Music Manager] Nightcore - POPULAR MONSTER"
+  },
+  "[Music Manager] Nightcore - Take It Off (Rock Version)": {
+    "translation": "[Music Manager] Nightcore - Take It Off (Rock Version)"
+  },
+  "[Music Manager] Fall Out Boy - Light Em Up": {
+    "translation": "[Music Manager] Fall Out Boy - Light Em Up"
+  },
+  "@2Rooms": {
+    "translation": "@2Rooms"
+  },
+  "@Grenades": {
+    "translation": "@Grenades"
+  },
+  "@Blind Deagle": {
+    "translation": "@Blind Deagle"
+  },
+  "@Shotgun": {
+    "translation": "@Shotgun"
+  },
+  "@Awp": {
+    "translation": "@Awp"
+  },
+  "@Knife": {
+    "translation": "@Knife"
+  },
+  "@Football": {
+    "translation": "@Football"
+  },
+  "@Skate": {
+    "translation": "@Skate"
+  },
+  "@BreakBox": {
+    "translation": "@BreakBox"
+  },
+  "@Long Jump": {
+    "translation": "@Long Jump"
+  },
+  "@Speed Jumps": {
+    "translation": "@Speed Jumps"
+  },
+  "@Scout": {
+    "translation": "@Scout"
+  },
+  "@Many Rooms": {
+    "translation": "@Many Rooms"
+  },
+  "@Skipping rope": {
+    "translation": "@Skipping rope"
+  },
+  "@Bhop": {
+    "translation": "@Bhop"
+  }
+}
