@@ -1,0 +1,178 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "[TERRORISTS NOW HAVE 2 BALLS]": {
+    "translation": "[TERRORISTS NOW HAVE 2 BALLS]"
+  },
+  "[COUNTER-TERRORISTS NOW HAVE 2 BALLS]": {
+    "translation": "[COUNTER-TERRORISTS NOW HAVE 2 BALLS]"
+  },
+  "[MAP] 1HP FOOTBALL": {
+    "translation": "[MAP] 1HP FOOTBALL"
+  },
+  "[MAP] Blocks breaking in 30 seconds": {
+    "translation": "[MAP] Blocks breaking in 30 seconds"
+  },
+  "[MAP] Blocks breaking in 10 seconds": {
+    "translation": "[MAP] Blocks breaking in 10 seconds"
+  },
+  "[MAP] Blocks breaking in 5 seconds": {
+    "translation": "[MAP] Blocks breaking in 5 seconds"
+  },
+  "[MAP] GRENADE HOLES": {
+    "translation": "[MAP] GRENADE HOLES"
+  },
+  "[MAP] AIM": {
+    "translation": "[MAP] AIM"
+  },
+  "[MAP] This Level By SOLIDSNAKE": {
+    "translation": "[MAP] This Level By SOLIDSNAKE"
+  },
+  "[COUNTER-TERRORISTS WIN]": {
+    "translation": "[COUNTER-TERRORISTS WIN]"
+  },
+  "[MAP] Fruits spawning in 5 seconds!": {
+    "translation": "[MAP] Fruits spawning in 5 seconds!"
+  },
+  "[MAP] Map begins in 3 seconds...": {
+    "translation": "[MAP] Map begins in 3 seconds..."
+  },
+  "[MAP] Map begins in 2 seconds...": {
+    "translation": "[MAP] Map begins in 2 seconds..."
+  },
+  "[MAP] Map begins in 1 second...": {
+    "translation": "[MAP] Map begins in 1 second..."
+  },
+  "[MAP] HOT POTATO": {
+    "translation": "[MAP] HOT POTATO"
+  },
+  "[MAP] You can now cross over to enemylines": {
+    "translation": "[MAP] You can now cross over to enemylines"
+  },
+  "[MUSIC] Smash Mouth - All Star": {
+    "translation": "[MUSIC] Smash Mouth - All Star"
+  },
+  "[MUSIC] Daft Punk - Get Lucky": {
+    "translation": "[MUSIC] Daft Punk - Get Lucky"
+  },
+  "[MUSIC] OPM - Heaven Is A Halfpipe": {
+    "translation": "[MUSIC] OPM - Heaven Is A Halfpipe"
+  },
+  "[MUSIC] Watsky - IDGAF": {
+    "translation": "[MUSIC] Watsky - IDGAF"
+  },
+  "[MUSIC] Lenny Kravitz - Fly Away": {
+    "translation": "[MUSIC] Lenny Kravitz - Fly Away"
+  },
+  "[MUSIC] Lou Bega - Mambo No 5": {
+    "translation": "[MUSIC] Lou Bega - Mambo No 5"
+  },
+  "[MUSIC] Macklemore - Cant Hold Us": {
+    "translation": "[MUSIC] Macklemore - Cant Hold Us"
+  },
+  "[MUSIC] Disclosure - White Noise": {
+    "translation": "[MUSIC] Disclosure - White Noise"
+  },
+  "[MAP] Winners get in position!": {
+    "translation": "[MAP] Winners get in position!"
+  },
+  "[MAP] Losers prepare to take balls to the face": {
+    "translation": "[MAP] Losers prepare to take balls to the face"
+  },
+  "[MAP] GOOOOOOAAAAAALLLLL": {
+    "translation": "[MAP] GOOOOOOAAAAAALLLLL"
+  },
+  "[MAP] ELEVATOR": {
+    "translation": "[MAP] ELEVATOR"
+  },
+  "[MAP] AWP": {
+    "translation": "[MAP] AWP"
+  },
+  "[MAP] CREEPER": {
+    "translation": "[MAP] CREEPER"
+  },
+  "[MAP] Objective = Dont be the person with the gun when the counter hits number 3!": {
+    "translation": "[MAP] Objective = Dont be the person with the gun when the counter hits number 3!"
+  },
+  "[MAP] Round Starting in 3 seconds!": {
+    "translation": "[MAP] Round Starting in 3 seconds!"
+  },
+  "[MAP] Try and eliminate players by tossing the gun to them": {
+    "translation": "[MAP] Try and eliminate players by tossing the gun to them"
+  },
+  "[MAP] FRUITS": {
+    "translation": "[MAP] FRUITS"
+  },
+  "[MAP] VOLLEYBALL": {
+    "translation": "[MAP] VOLLEYBALL"
+  },
+  "[MAP] Teleport trigger activating in 2 seconds...": {
+    "translation": "[MAP] Teleport trigger activating in 2 seconds..."
+  },
+  "[MAP] Teleport trigger activating in 1 second...": {
+    "translation": "[MAP] Teleport trigger activating in 1 second..."
+  },
+  "[MAP] Ice Skate Disabled": {
+    "translation": "[MAP] Ice Skate Disabled"
+  },
+  "[MAP] 30 seconds remaining!": {
+    "translation": "[MAP] 30 seconds remaining!"
+  },
+  "[MAP] 10 seconds remaining!": {
+    "translation": "[MAP] 10 seconds remaining!"
+  },
+  "[MAP] HEADSHOT": {
+    "translation": "[MAP] HEADSHOT"
+  },
+  "[MAP] PISTOLS": {
+    "translation": "[MAP] PISTOLS"
+  },
+  "[MAP] KNIFE": {
+    "translation": "[MAP] KNIFE"
+  },
+  "[MAP] Teleport trigger activating in 3 seconds...": {
+    "translation": "[MAP] Teleport trigger activating in 3 seconds..."
+  },
+  "[MAP] Teleport trigger activating in 5 seconds...": {
+    "translation": "[MAP] Teleport trigger activating in 5 seconds..."
+  },
+  "[MAP] FOOTBALL": {
+    "translation": "[MAP] FOOTBALL"
+  },
+  "[MAP] 1HP SMOKE-SKATE": {
+    "translation": "[MAP] 1HP SMOKE-SKATE"
+  },
+  "[TERRORISTS WIN]": {
+    "translation": "[TERRORISTS WIN]"
+  },
+  "[MAP] BLOCKS": {
+    "translation": "[MAP] BLOCKS"
+  },
+  "[MAP] Enabling bullet damage in 30 seconds": {
+    "translation": "[MAP] Enabling bullet damage in 30 seconds"
+  },
+  "[MAP] Enabling bullet damage in 10 seconds": {
+    "translation": "[MAP] Enabling bullet damage in 10 seconds"
+  },
+  "[MAP] Enabling bullet damage in 5 seconds": {
+    "translation": "[MAP] Enabling bullet damage in 5 seconds"
+  },
+  "[MAP] Bullet damage enabled": {
+    "translation": "[MAP] Bullet damage enabled"
+  },
+  "[MAP] Kill The Opposition With YOUR TEAMS COLOURED BLOCKS": {
+    "translation": "[MAP] Kill The Opposition With YOUR TEAMS COLOURED BLOCKS"
+  },
+  "[MAP] The Blocks Will Fly Towards You When You Shoot": {
+    "translation": "[MAP] The Blocks Will Fly Towards You When You Shoot"
+  }
+}

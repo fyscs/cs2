@@ -10,16 +10,22 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "*** HELICOPTER EVACUATION ***": {
-    "translation": "***直升机撤离***"
+  "Map made by Mathijs": {
+    "translation": "Map made by Mathijs"
   },
-  "*** TRUCK EVACUATION ***": {
-    "translation": "***卡车撤离***"
+  ">> 4 <<": {
+    "translation": ">> 4 <<"
   },
-  "*** TRAIN EVACUATION ***": {
-    "translation": "***列车撤离***"
+  ">> 3 <<": {
+    "translation": ">> 3 <<"
   },
-  "*** BOAT EVACUATION ***": {
-    "translation": "***船只撤离***"
+  ">> 2 << ": {
+    "translation": ">> 2 << "
+  },
+  ">> 1 <<": {
+    "translation": ">> 1 <<"
+  },
+  ">> HAVE FUN <<": {
+    "translation": ">> HAVE FUN <<"
   }
 }
