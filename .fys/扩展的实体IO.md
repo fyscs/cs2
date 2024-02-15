@@ -69,3 +69,9 @@
 ***BasePlayerPawn***
 
 - ``speed``: ``speed`` -> **float** (0.1~2.0)
+
+## IgniteLifeTime
+
+***BasePlayerPawn***
+
+- ``time``: ``time`` -> **float** (0.1~999.9)

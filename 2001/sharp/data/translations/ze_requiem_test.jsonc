@@ -1,0 +1,118 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "...": {
+    "translation": "..."
+  },
+  "此非汝等血肉之躯接近的地方.": {
+    "translation": "此非汝等血肉之躯接近的地方."
+  },
+  "回头吧.": {
+    "translation": "回头吧."
+  },
+  "..还是说，你和其他人一样.": {
+    "translation": "..还是说, 你和其他人一样."
+  },
+  "饱受罪孽,悔恨,痛苦的折磨.": {
+    "translation": "饱受罪孽,悔恨,痛苦的折磨."
+  },
+  "踏入炼狱,渴望获得救赎？..": {
+    "translation": "踏入炼狱,渴望获得救赎?.."
+  },
+  "< 5 >": {
+    "translation": "< 5 >"
+  },
+  "< 15 >": {
+    "translation": "< 15 >"
+  },
+  "你真的相信救赎吗.": {
+    "translation": "你真的相信救赎吗."
+  },
+  "或许,前方等待你的,会是更大的痛楚？..": {
+    "translation": "或许,前方等待你的,会是更大的痛楚?.."
+  },
+  "那么,但愿你做好了觉悟.": {
+    "translation": "那么,但愿你做好了觉悟."
+  },
+  "去面对由你的意识形成的阻碍.": {
+    "translation": "去面对由你的意识形成的阻碍."
+  },
+  "给我记好了,人类...": {
+    "translation": "给我记好了,人类..."
+  },
+  "所有的奇迹,都需要牺牲.": {
+    "translation": "所有的奇迹,都需要牺牲."
+  },
+  "< 20 >": {
+    "translation": "< 20 >"
+  },
+  "< ze_Requiem >": {
+    "translation": "< ze_Requiem >"
+  },
+  "去意已决呢,": {
+    "translation": "去意已决呢,"
+  },
+  "那么,让我们继续吧.": {
+    "translation": "那么,让我们继续吧."
+  },
+  "< 10 >": {
+    "translation": "< 10 >"
+  },
+  "< 就凭这个...也想得到救赎吗? >": {
+    "translation": "< 就凭这个...也想得到救赎吗? >"
+  },
+  "< 抬头看看吧,向我证明... >": {
+    "translation": "< 抬头看看吧,向我证明... >"
+  },
+  "< ..证明你的资格. >": {
+    "translation": "< ..证明你的资格. >"
+  },
+  "...她说的没错..": {
+    "translation": "...她说的没错.."
+  },
+  "你确实是个很特殊的人..": {
+    "translation": "你确实是个很特殊的人.."
+  },
+  "未完待续.": {
+    "translation": "未完待续."
+  },
+  "to be continued.": {
+    "translation": "to be continued."
+  },
+  "> ACT 1 SET BY ADMIN. <": {
+    "translation": "> ACT 1 SET BY ADMIN. <"
+  },
+  "< ACT 1 : 罪厅 >": {
+    "translation": "< ACT 1 : 罪厅 >"
+  },
+  "< Map by @Seth >": {
+    "translation": "< Map by @Seth >"
+  },
+  "< 地图作者 @Seth. >": {
+    "translation": "< 地图作者 @Seth. >"
+  },
+  "< ACT 2 : 霓渊 >": {
+    "translation": "< ACT 2 : 霓渊 >"
+  },
+  "> ACT 2 SET BY ADMIN. <": {
+    "translation": "> ACT 2 SET BY ADMIN. <"
+  },
+  "我靠 你是真的弹幕高手.": {
+    "translation": "我靠 你是真的弹幕高手."
+  },
+  "可惜这是训练模式 拜拜您嘞.": {
+    "translation": "可惜这是训练模式 拜拜您嘞."
+  },
+  "> 虹锥: 放置棱锥阻挡僵尸5秒,60秒CD. <": {
+    "translation": "> 虹锥: 放置棱锥阻挡僵尸5秒,60秒CD. <"
+  }
+}
