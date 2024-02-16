@@ -15,24 +15,29 @@
   },
   "** DOOR #6 OPENING IN 40 SECONDS **": {
     "translation": "**第六道门将在40秒后开启**"
+    "blocked": true
   },
   "** DOOR #6 OPENING IN 30 SECONDS **": {
     "translation": "**第六道门将在30秒后开启**"
+    "blocked": true
   },
   "** DOOR #6 OPENING IN 20 SECONDS **": {
     "translation": "**第六道门将在20秒后开启**"
+    "blocked": true
   },
   "** DOOR #6 OPENING IN 10 SECONDS **": {
     "translation": "**第六道门将在10秒后开启**"
+    "blocked": true
   },
   "** DOOR #6 OPENING IN 5 SECONDS **": {
     "translation": "**第六道门将在5秒后开启**"
+    "blocked": true
   },
   "** TELEPORT #5 ON **": {
-    "translation": "**传送器5开启**"
+    "translation": "**第五个传送开启**"
   },
   "** TELEPORT #5 ACTIVATE IN 10 SECONDS **": {
-    "translation": "**传送器5在10秒后开启**"
+    "translation": "**10秒后第五个传送开启**"
   },
   "** THE HUMANS HAVE DEFEATED THE GHOST DEMON. THEY ARE VICTORIOUS. **": {
     "translation": "**断后精英打败了BOSS!他们是最强的断后精英. **"
@@ -54,24 +59,28 @@
   },
   "** COVER !!! 30 SECONDS LEFT !!! **": {
     "translation": "**还剩30秒!!! **"
+    "blocked": true
   },
   "** COVER !!! 20 SECONDS LEFT !!! **": {
     "translation": "**还剩20秒!!! **"
+    "blocked": true
   },
   "** COVER !!! 10 SECONDS LEFT !!! **": {
     "translation": "**还剩10秒!!! **"
+    "blocked": true
   },
   "** COVER !!! 5 SECONDS LEFT !!! **": {
     "translation": "**还剩5秒!!! **"
+    "blocked": true
   },
   "** SHOOT !!! **": {
     "translation": "**开枪!!! **"
   },
   "** TELEPORT #6 ON **": {
-    "translation": "**传送器6开启**"
+    "translation": "**第六个传送开启**"
   },
   "** TELEPORT #6 ACTIVATE IN 10 SECONDS **": {
-    "translation": "**传送器6在10秒后开启**"
+    "translation": "**10秒后第六个传送开启**"
   },
   "** UNLIMITED AMMO ON **": {
     "translation": "**无限子弹**"
@@ -81,107 +90,130 @@
   },
   "** DOOR #1 OPENING IN 20 SECONDS **": {
     "translation": "**第一道门将在20秒后开启!**"
+    "blocked": true
   },
   "** DOOR #1 OPENING IN 10 SECONDS **": {
     "translation": "**第一道门将在10秒后开启!**"
+    "blocked": true
   },
   "** DOOR #1 OPENING IN 5 SECONDS **": {
     "translation": "**第一道门将在5秒后开启!**"
+    "blocked": true
   },
   "** DOOR #2 OPENING IN 50 SECONDS **": {
     "translation": "**第二道门将在50秒后开启!**"
   },
   "** DOOR #2 OPENING IN 40 SECONDS **": {
     "translation": "**第二道门将在40秒后开启!**"
+    "blocked": true
   },
   "** DOOR #2 OPENING IN 30 SECONDS **": {
     "translation": "**第二道门将在30秒后开启!**"
+    "blocked": true
   },
   "** DOOR #2 OPENING IN 20 SECONDS **": {
     "translation": "**第二道门将在20秒后开启!**"
+    "blocked": true
   },
   "** DOOR #2 OPENING IN 10 SECONDS **": {
     "translation": "**第二道门将在10秒后开启!**"
+    "blocked": true
   },
   "** DOOR #2 OPENING IN 5 SECONDS **": {
     "translation": "**第二道门将在5秒后开启!**"
+    "blocked": true
   },
   "** TELEPORT #1 ACTIVATE IN 10 SECONDS **": {
-    "translation": "**传送器1在10秒后开启**"
+    "translation": "**10秒后第一个传送开启**"
   },
   "** TELEPORT #1 ON **": {
-    "translation": "**传送器1开启**"
+    "translation": "**第一个传送开启**"
   },
   "** DOOR #3 OPENING IN 50 SECONDS **": {
     "translation": "**第三道门将在50秒后开启!**"
   },
   "** DOOR #3 OPENING IN 40 SECONDS **": {
     "translation": "**第三道门将在40秒后开启!**"
+    "blocked": true
   },
   "** DOOR #3 OPENING IN 30 SECONDS **": {
     "translation": "**第三道门将在30秒后开启!**"
+    "blocked": true
   },
   "** DOOR #3 OPENING IN 20 SECONDS **": {
     "translation": "**第三道门将在20秒后开启!**"
+    "blocked": true
   },
   "** DOOR #3 OPENING IN 10 SECONDS **": {
     "translation": "**第三道门将在10秒后开启!**"
+    "blocked": true
   },
   "** DOOR #3 OPENING IN 5 SECONDS **": {
     "translation": "**第三道门将在5秒后开启!**"
+    "blocked": true
   },
   "** TELEPORT #2 ON **": {
-    "translation": "**传送器2开启**"
+    "translation": "**第二个传送开启**"
   },
   "** TELEPORT #2 ACTIVATE IN 10 SECONDS **": {
-    "translation": "**传送器2在10秒后开启**"
+    "translation": "**10秒后第二个传送开启**"
   },
   "** DOOR #4 OPENING IN 50 SECONDS **": {
     "translation": "**第四道门将在50秒后开启**"
   },
   "** DOOR #4 OPENING IN 40 SECONDS **": {
     "translation": "**第四道门将在40秒后开启**"
+    "blocked": true
   },
   "** DOOR #4 OPENING IN 30 SECONDS **": {
     "translation": "**第四道门将在30秒后开启**"
+    "blocked": true
   },
   "** DOOR #4 OPENING IN 20 SECONDS **": {
     "translation": "**第四道门将在20秒后开启**"
+    "blocked": true
   },
   "** DOOR #4 OPENING IN 10 SECONDS **": {
     "translation": "**第四道门将在10秒后开启**"
+    "blocked": true
   },
   "** DOOR #4 OPENING IN 5 SECONDS **": {
     "translation": "**第四道门将在5秒后开启**"
+    "blocked": true
   },
   "** TELEPORT #3 ON **": {
-    "translation": "**传送器3开启**"
+    "translation": "**第三个传送开启**"
   },
   "** TELEPORT #3 ACTIVATE IN 10 SECONDS **": {
-    "translation": "**传送器3在10秒后开启**"
+    "translation": "**10秒后第三个传送开启**"
   },
   "** DOOR #5 OPENING IN 50 SECONDS **": {
     "translation": "**第五道门将在50秒后开启**"
   },
   "** DOOR #5 OPENING IN 40 SECONDS **": {
     "translation": "**第五道门将在40秒后开启**"
+    "blocked": true
   },
   "** DOOR #5 OPENING IN 30 SECONDS **": {
     "translation": "**第五道门将在30秒后开启**"
+    "blocked": true
   },
   "** DOOR #5 OPENING IN 20 SECONDS **": {
     "translation": "**第五道门将在20秒后开启**"
+    "blocked": true
   },
   "** DOOR #5 OPENING IN 10 SECONDS **": {
     "translation": "**第五道门将在10秒后开启**"
+    "blocked": true
   },
   "** DOOR #5 OPENING IN 5 SECONDS **": {
     "translation": "**第五道门将在5秒后开启**"
+    "blocked": true
   },
   "** TELEPORT #4 ON **": {
-    "translation": "**传送器4开启**"
+    "translation": "**第四个传送开启**"
   },
   "** TELEPORT #4 ACTIVATE IN 10 SECONDS **": {
-    "translation": "**传送器4在10秒后开启**"
+    "translation": "**10秒后开启第四个传送**"
   }
 }
