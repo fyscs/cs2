@@ -11,135 +11,140 @@
 
 {
   "**Map by Tenshi**": {
-    "translation": "**Map by Tenshi**"
+    "translation": "**地图作者 Tenshi**"
   },
   "**Special Thanks:GemaYue , uuz , 银月筱瑶**": {
-    "translation": "**Special Thanks:GemaYue , uuz , 银月筱瑶**"
+    "translation": "**特别鸣谢: GemaYue uuz 银月筱瑶**"
   },
   "**Original map : kz_otakuroom_v3 , by GemaYue**": {
-    "translation": "**Original map : kz_otakuroom_v3 , by GemaYue**"
+    "translation": "**地图基于:kz_otakuroom_v3 改版, 作者 GemaYue**"
   },
   "**It's my first map , thanks for playing**": {
-    "translation": "**It's my first map , thanks for playing**"
+    "translation": "**这是我的第一张地图,感谢游玩!**"
   },
   "**Model by uuz**": {
-    "translation": "**Model by uuz**"
+    "translation": "**模型: uuz**"
   },
   ">>Wait for 15 seconds<<": {
-    "translation": ">>Wait for 15 seconds<<"
+    "translation": ">>防守15秒<<"
   },
   ">>Wait for 30 seconds<<": {
-    "translation": ">>Wait for 30 seconds<<"
+    "translation": ">>防守30秒<<"
   },
   ">>Hold on for 20 seconds<<": {
-    "translation": ">>Hold on for 20 seconds<<"
+    "translation": ">>还需坚持20秒!<<"
   },
   ">>5 seconds<<": {
-    "translation": ">>5 seconds<<"
+    "translation": ">>还有5秒!<<",
+    "blocked": true
   },
   "**Stage 1**": {
-    "translation": "**Stage 1**"
+    "translation": "**关卡 1**"
   },
   "**Stage 2**": {
-    "translation": "**Stage 2**"
+    "translation": "**关卡 2**"
   },
   "**[Admin]Stage 2**": {
-    "translation": "**[Admin]Stage 2**"
+    "translation": "**载入第二关**"
   },
   "**[Admin]Stage 1**": {
-    "translation": "**[Admin]Stage 1**"
+    "translation": "**载入第一关**"
   },
   "**[Admin]ZM**": {
-    "translation": "**[Admin]ZM**"
+    "translation": "**载入生存关**"
   },
   "**[ZM]**": {
-    "translation": "**[ZM]**"
+    "translation": "**ZM关**"
   },
   "**Nuke in 1 min**": {
-    "translation": "**Nuke in 1 min**"
+    "translation": "**核弹60秒后发射**",
+    "blocked": true
   },
   "**Nuke in 2 mins**": {
-    "translation": "**Nuke in 2 mins**"
+    "translation": "**核弹120秒后发射**",
+    "blocked": true
   },
   "**Nuke in 3 mins**": {
-    "translation": "**Nuke in 3 mins**"
+    "translation": "**核弹180秒后发射**"
   },
   "**[Admin]Stage 3**": {
-    "translation": "**[Admin]Stage 3**"
+    "translation": "**载入第三关**"
   },
   "**全人类の绯想天**": {
     "translation": "**全人类の绯想天**"
   },
   "**Kanameishi**": {
-    "translation": "**Kanameishi**"
+    "translation": "**守护の要石(看天上躲避石头)**"
   },
   "**Gasu**": {
-    "translation": "**Gasu**"
+    "translation": "**Gasu, boss原地抬手按住W, boss上升按住S**"
   },
   "**Sakai**": {
-    "translation": "**Sakai**"
+    "translation": "**Sakai(无敌, 换子弹)**"
   },
   "**Stage 3**": {
-    "translation": "**Stage 3**"
+    "translation": "**第三关**"
   },
   ">>Wait for 70 seconds<<": {
-    "translation": ">>Wait for 70 seconds<<"
+    "translation": ">>坚持70秒<<"
   },
   ">>The paper plane will take off in 10 seconds<<": {
-    "translation": ">>The paper plane will take off in 10 seconds<<"
+    "translation": ">>纸飞机10秒后离开<<"
   },
   ">>Survive for 30 seconds<<": {
-    "translation": ">>Survive for 30 seconds<<"
+    "translation": ">>生存30秒!<<"
   },
   "**Im defeated.Its impossable**": {
-    "translation": "**Im defeated.Its impossable**"
+    "translation": "**我竟然失败了?? 这不可能!**"
   },
   "**Wait 5 seconds**": {
-    "translation": "**Wait 5 seconds**"
+    "translation": "**等待5秒**"
   },
   "**Air leaves in 30 seconds**": {
-    "translation": "**Air leaves in 30 seconds**"
+    "translation": "**纸飞机30秒后离开**"
   },
   "**5 seconds**": {
-    "translation": "**5 seconds**"
+    "translation": "**还剩5秒**",
+    "blocked": true
   },
   "**Hold 10 seconds**": {
-    "translation": "**Hold 10 seconds**"
+    "translation": "**还需防守10秒**"
   },
   ">>Wait for 25 seconds<<": {
-    "translation": ">>Wait for 25 seconds<<"
+    "translation": ">>坚持25秒<<"
   },
   "**Jump into the screen**": {
-    "translation": "**Jump into the screen**"
+    "translation": "**快点跳进屏幕**"
   },
   ">>Hold 30 seconds<<": {
-    "translation": ">>Hold 30 seconds<<"
+    "translation": ">>防守30秒<<"
   },
   ">>You failed<<": {
-    "translation": ">>You failed<<"
+    "translation": ">>你失败了!<<"
   },
   ">>Jump into the trash can<<": {
-    "translation": ">>Jump into the trash can<<"
+    "translation": ">>快跳进垃圾桶!<<"
   },
   "**ClearRobot leaving in 10 seconds**": {
-    "translation": "**ClearRobot leaving in 10 seconds**"
+    "translation": "**Clear机器人还有10秒离开**",
+    "blocked": true
   },
   ">>Wait for 20 seconds<<": {
-    "translation": ">>Wait for 20 seconds<<"
+    "translation": ">>等待20秒<<"
   },
   ">>The batteries will be removed after 30 seconds<<": {
-    "translation": ">>The batteries will be removed after 30 seconds<<"
+    "translation": ">>电池将会在30秒后消失<<"
   },
   ">>The drawer will open in 30 seconds<<": {
-    "translation": ">>The drawer will open in 30 seconds<<"
+    "translation": ">>抽屉还有30秒打开<<"
   },
   ">>The sweeping robot will leave in 35 seconds<<": {
-    "translation": ">>The sweeping robot will leave in 35 seconds<<"
+    "translation": ">>扫地机器人35秒后将会离开<<"
   },
   ">>The trash can lid will open in 15 seconds<<": {
-    "translation": ">>The trash can lid will open in 15 seconds<<"
+    "translation": ">>垃圾桶盖子还有15秒打开<<"
   },
   ">>Nuke in 5 seconds<<": {
-    "translation": ">>Nuke in 5 seconds<<"
+    "translation": ">>还剩5秒核爆!<<"
   }
 }
