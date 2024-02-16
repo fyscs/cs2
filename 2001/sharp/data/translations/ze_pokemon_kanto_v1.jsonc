@@ -8,7 +8,7 @@
   // clearText  (bool) -> 清除所有HUD文本
   // clearTimer (bool) -> 清除所有倒计时
   // countdown  (int)  -> 添加特殊的独立的倒计时
-
+  
   {
     "Map created by Bart": {
       "translation": "地图作者:bart地图翻译:余清茗染@Fys"
