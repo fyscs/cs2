@@ -11,7 +11,7 @@
 
 {
   "Map created by Bart": {
-      "translation": "地图作者:bart地图翻译:余清茗染@Fys"
+    "translation": "地图作者:bart地图翻译:余清茗染@Fys"
   },
   "Door will open in 15 seconds": {
     "translation": "门将在15秒后开启"
@@ -223,7 +223,7 @@
   "Zombies will TP in 15 seconds": {
     "translation": "僵尸将在15秒后传送" 
   },
-   "Gym will open in 60 seconds": {
+  "Gym will open in 60 seconds": {
     "translation": "道馆大门将在60秒后开启" 
   },
   "Gym is open": {
