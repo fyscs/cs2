@@ -15,23 +15,18 @@
   },
   "** DOOR #6 OPENING IN 40 SECONDS **": {
     "translation": "**第六道门将在40秒后开启**"
-    "blocked": true
   },
   "** DOOR #6 OPENING IN 30 SECONDS **": {
     "translation": "**第六道门将在30秒后开启**"
-    "blocked": true
   },
   "** DOOR #6 OPENING IN 20 SECONDS **": {
     "translation": "**第六道门将在20秒后开启**"
-    "blocked": true
   },
   "** DOOR #6 OPENING IN 10 SECONDS **": {
     "translation": "**第六道门将在10秒后开启**"
-    "blocked": true
   },
   "** DOOR #6 OPENING IN 5 SECONDS **": {
     "translation": "**第六道门将在5秒后开启**"
-    "blocked": true
   },
   "** TELEPORT #5 ON **": {
     "translation": "**第五个传送开启**"
@@ -59,19 +54,15 @@
   },
   "** COVER !!! 30 SECONDS LEFT !!! **": {
     "translation": "**还剩30秒!!! **"
-    "blocked": true
   },
   "** COVER !!! 20 SECONDS LEFT !!! **": {
     "translation": "**还剩20秒!!! **"
-    "blocked": true
   },
   "** COVER !!! 10 SECONDS LEFT !!! **": {
     "translation": "**还剩10秒!!! **"
-    "blocked": true
   },
   "** COVER !!! 5 SECONDS LEFT !!! **": {
     "translation": "**还剩5秒!!! **"
-    "blocked": true
   },
   "** SHOOT !!! **": {
     "translation": "**开枪!!! **"
@@ -90,38 +81,30 @@
   },
   "** DOOR #1 OPENING IN 20 SECONDS **": {
     "translation": "**第一道门将在20秒后开启!**"
-    "blocked": true
   },
   "** DOOR #1 OPENING IN 10 SECONDS **": {
     "translation": "**第一道门将在10秒后开启!**"
-    "blocked": true
   },
   "** DOOR #1 OPENING IN 5 SECONDS **": {
     "translation": "**第一道门将在5秒后开启!**"
-    "blocked": true
   },
   "** DOOR #2 OPENING IN 50 SECONDS **": {
     "translation": "**第二道门将在50秒后开启!**"
   },
   "** DOOR #2 OPENING IN 40 SECONDS **": {
     "translation": "**第二道门将在40秒后开启!**"
-    "blocked": true
   },
   "** DOOR #2 OPENING IN 30 SECONDS **": {
     "translation": "**第二道门将在30秒后开启!**"
-    "blocked": true
   },
   "** DOOR #2 OPENING IN 20 SECONDS **": {
     "translation": "**第二道门将在20秒后开启!**"
-    "blocked": true
   },
   "** DOOR #2 OPENING IN 10 SECONDS **": {
     "translation": "**第二道门将在10秒后开启!**"
-    "blocked": true
   },
   "** DOOR #2 OPENING IN 5 SECONDS **": {
     "translation": "**第二道门将在5秒后开启!**"
-    "blocked": true
   },
   "** TELEPORT #1 ACTIVATE IN 10 SECONDS **": {
     "translation": "**10秒后第一个传送开启**"
@@ -134,23 +117,18 @@
   },
   "** DOOR #3 OPENING IN 40 SECONDS **": {
     "translation": "**第三道门将在40秒后开启!**"
-    "blocked": true
   },
   "** DOOR #3 OPENING IN 30 SECONDS **": {
     "translation": "**第三道门将在30秒后开启!**"
-    "blocked": true
   },
   "** DOOR #3 OPENING IN 20 SECONDS **": {
     "translation": "**第三道门将在20秒后开启!**"
-    "blocked": true
   },
   "** DOOR #3 OPENING IN 10 SECONDS **": {
     "translation": "**第三道门将在10秒后开启!**"
-    "blocked": true
   },
   "** DOOR #3 OPENING IN 5 SECONDS **": {
     "translation": "**第三道门将在5秒后开启!**"
-    "blocked": true
   },
   "** TELEPORT #2 ON **": {
     "translation": "**第二个传送开启**"
@@ -163,23 +141,18 @@
   },
   "** DOOR #4 OPENING IN 40 SECONDS **": {
     "translation": "**第四道门将在40秒后开启**"
-    "blocked": true
   },
   "** DOOR #4 OPENING IN 30 SECONDS **": {
     "translation": "**第四道门将在30秒后开启**"
-    "blocked": true
   },
   "** DOOR #4 OPENING IN 20 SECONDS **": {
     "translation": "**第四道门将在20秒后开启**"
-    "blocked": true
   },
   "** DOOR #4 OPENING IN 10 SECONDS **": {
     "translation": "**第四道门将在10秒后开启**"
-    "blocked": true
   },
   "** DOOR #4 OPENING IN 5 SECONDS **": {
     "translation": "**第四道门将在5秒后开启**"
-    "blocked": true
   },
   "** TELEPORT #3 ON **": {
     "translation": "**第三个传送开启**"
@@ -192,23 +165,18 @@
   },
   "** DOOR #5 OPENING IN 40 SECONDS **": {
     "translation": "**第五道门将在40秒后开启**"
-    "blocked": true
   },
   "** DOOR #5 OPENING IN 30 SECONDS **": {
     "translation": "**第五道门将在30秒后开启**"
-    "blocked": true
   },
   "** DOOR #5 OPENING IN 20 SECONDS **": {
     "translation": "**第五道门将在20秒后开启**"
-    "blocked": true
   },
   "** DOOR #5 OPENING IN 10 SECONDS **": {
     "translation": "**第五道门将在10秒后开启**"
-    "blocked": true
   },
   "** DOOR #5 OPENING IN 5 SECONDS **": {
     "translation": "**第五道门将在5秒后开启**"
-    "blocked": true
   },
   "** TELEPORT #4 ON **": {
     "translation": "**第四个传送开启**"
