@@ -11,70 +11,70 @@
 
 {
   "**The bridge will open in 25 seconds**": {
-    "translation": "**桥梁将在 25 秒后开放**"
+    "translation": "**桥将在25秒后开放**"
   },
   "**The bridge will open in 5 seconds**": {
-    "translation": "**桥梁将在 5 秒后打开**"
+    "translation": "**桥将在5秒后开放**"
   },
   "**Fall back! The bridge has closed**": {
     "translation": "**撤退!桥已经关闭**"
   },
   "**The bridge will open in 15 seconds**": {
-    "translation": "**桥梁将在 15 秒后打开**"
+    "translation": "**桥将在15秒后开放**"
   },
   "**Fall back! The bridge open**": {
-    "translation": "**撤退!桥打开**"
+    "translation": "**撤退!桥开了**"
   },
   "**The barricade will explode in 10 seconds**": {
-    "translation": "**路障将在 10 秒内爆炸**"
+    "translation": "**路障将在10秒后爆炸**"
   },
   "**barricade exploded**": {
     "translation": "**路障爆炸**"
   },
   "**Destroy the barricade 15 second**": {
-    "translation": "**摧毁路障 15 秒**"
+    "translation": "**摧毁路障15秒**"
   },
   "**Destroy the barricade 5 second**": {
     "translation": "**摧毁路障5秒**"
   },
   "**The droids will be killed in 25 seconds**": {
-    "translation": "**机器人将在 25 秒内被杀死**"
+    "translation": "**门将在25秒后开放**"
   },
   "**The droids will be killed in 5 seconds**": {
-    "translation": "**机器人将在 5 秒内被杀死**"
+    "translation": "**门将在5秒后开放**"
   },
   "**Fall back! The doors are open**": {
     "translation": "**向后退!门打开了**"
   },
   "**Last door will open in 30 seconds**": {
-    "translation": "**最后一扇门将在 30 秒后打开**"
+    "translation": "**最后一扇门将在30秒后打开**"
   },
   "**FALL BACK**": {
     "translation": "**后退**"
   },
   "**Destroy the barricade in 20 second**": {
-    "translation": "**20秒内摧毁路障**"
+    "translation": "**20秒后摧毁路障**"
   },
   "**The palace doors will open in 30 seconds**": {
-    "translation": "**宫殿大门将在 30 秒后打开**"
+    "translation": "**大门将在30秒后打开**"
   },
   "**The palace doors will open in 5 seconds**": {
-    "translation": "**宫殿大门将在 5 秒后打开**"
+    "translation": "**大门将在5秒后打开**"
   },
   "AFK TELEPORT IN 5 SECOND": {
     "translation": "挂机将在5秒后传送"
   },
   "**The doors will open in 15 seconds**": {
-    "translation": "**门将在 15 秒后打开**"
+    "translation": "**门将在15秒后打开**"
   },
   "**The doors will open in 5 seconds**": {
-    "translation": "**门将在 5 秒后打开**"
+    "translation": "**门将在5秒后打开**"
   },
   "**The droids will be killed in 20 seconds**": {
-    "translation": "**机器人将在 20 秒内被杀死**"
+    "translation": "**门还有20秒打开**"
   },
   "**MAP BY MAKVI_ANKOM**": {
-    "translation": "**地图作者 MAKVI_ANKOM 地图翻译:睿睿@fys**"
+    "translation": "**地图作者 MAKVI_ANKOM 地图翻译:睿睿吖@fys**"
   },
   "**Ze_Star_wars**": {
     "translation": "**Ze_Star_wars**"
@@ -92,34 +92,34 @@
     "translation": "**级别更为正常** "
   },
   "**Fall back close door in 20 second**": {
-    "translation": "**20 秒后关门**"
+    "translation": "**门还有20秒后关闭**"
   },
   "**The droids will be killed in 30 seconds**": {
-    "translation": "**机器人将在 30 秒内被杀死**"
+    "translation": "**门将在30秒后开放**"
   },
   "**The doors will open in 3 seconds**": {
-    "translation": "**门将在 3 秒后打开**"
+    "translation": "**门将在3秒后开放**"
   },
   "**The droids will be killed in 10 seconds**": {
-    "translation": "**机器人将在 10 秒内被杀死**"
+    "translation": "**门将在10秒后开放**"
   },
   "**Fall back! Droids are killed**": {
-    "translation": "**撤退!!机器人被杀**"
+    "translation": "**撤退!!门已经开放**"
   },
   "**The doors will open in 30 seconds**": {
-    "translation": "**门将在 30 秒后打开**"
+    "translation": "**门将在30秒后打开**"
   },
   "**The doors will open in 20 seconds**": {
-    "translation": "**门将在 20 秒后打开**"
+    "translation": "**门将在20秒后打开**"
   },
   "**AFK TELEPORT IN 5 SECOND**": {
-    "translation": "**5 秒内传送离开**"
+    "translation": "**挂机将在5秒后传送**"
   },
   "**The hangar doors will open in 20 seconds**": {
-    "translation": "**机库门将在 20 秒内打开**"
+    "translation": "**机库门将在20秒后打开**"
   },
   "**The hangar doors will open in 5 seconds**": {
-    "translation": "**机库门将在 5 秒后打开**"
+    "translation": "**机库门将在5秒后打开**"
   },
   "**Activate the ship**": {
     "translation": "**激活飞船**"
@@ -131,10 +131,10 @@
     "translation": "**级别更改为困难** "
   },
   "**The ship will move in 15 seconds**": {
-    "translation": "**船将在 15 秒内移动**"
+    "translation": "**飞船将在15秒后移动**"
   },
   "**Fall back! The ship will move in 5 seconds**": {
-    "translation": "**后退!船将在 5 秒后移动**"
+    "translation": "**后退!飞船将在5秒后移动**"
   },
   "BOSS USE RAGE. BACK BACK BACK!!!!!!": {
     "translation": "BOSS 使用了终极快贴墙!!!!!!"
@@ -146,7 +146,7 @@
     "translation": "**管理员在管理室设置普通模式**"
   },
   "*Fall back door close in 15 second*": {
-    "translation": "*后门在 15 秒内关闭*"
+    "translation": "*大门在15秒后关闭*"
   },
   "**Level changes to EXTREME** ": {
     "translation": "**级别更改为 EXTREME** "
@@ -155,19 +155,19 @@
     "translation": "*抓住他!*"
   },
   "*The droids will be killed in 20 seconds*": {
-    "translation": "*机器人将在 20 秒内被杀死*"
+    "translation": "*门在20秒后开放*"
   },
   "*The droids will be killed in 5 seconds*": {
-    "translation": "*机器人将在 5 秒内被杀死*"
+    "translation": "*门在5秒后开放*"
   },
   "*The doors will open in 15 seconds*": {
-    "translation": "*门将在 15 秒后打开*"
+    "translation": "*门将在15秒后打开*"
   },
   "*The doors will open in 5 seconds*": {
-    "translation": "*门将在 5 秒后打开*"
+    "translation": "*门将在5秒后打开*"
   },
   "*The doors will open in 10 seconds*": {
-    "translation": "*门将在 10 秒后打开*"
+    "translation": "*门将在10秒后打开*"
   },
   "**Darth maul dead**": {
     "translation": "**达斯摩尔死了**"
@@ -185,25 +185,25 @@
     "translation": "BOSS 使用终极快贴墙"
   },
   "Boss fight in 5 second": {
-    "translation": "5秒内打Boss"
+    "translation": "5秒后打Boss"
   },
   "Boss fight in 10 second": {
-    "translation": "10秒内打Boss"
+    "translation": "10秒后打Boss"
   },
   "Boss fight in 25 second": {
-    "translation": "25秒内打Boss"
+    "translation": "25秒后打Boss"
   },
   "Boss Fight": {
     "translation": "Boss战"
   },
   "**The wall will explode in 30 second**": {
-    "translation": "**墙会在 30 秒内爆炸**"
+    "translation": "**墙会在 30 秒后爆炸**"
   },
   "**Admin set Jedi Knight MODE in the admin room**": {
     "translation": "**管理员在管理室设置困难模式**"
   },
   "The ship will fly away in 35 seconds": {
-    "translation": "船将在 35 秒后飞走"
+    "translation": "飞船将在 35 秒后飞走"
   },
   "Jumping on platform": {
     "translation": "跳上平台"
@@ -212,16 +212,16 @@
     "translation": "**管理员在管理室设置地狱模式**"
   },
   "First door will open in 10 seconds": {
-    "translation": "第一扇门将在 10 秒后打开"
+    "translation": "第一扇门将在10秒后打开"
   },
   "Second door will open in 10 seconds ": {
-    "translation": "第二扇门将在 10 秒后打开 "
+    "translation": "第二扇门将在10秒后打开 "
   },
   "Third door will open in 10 seconds": {
-    "translation": "第三扇门将在 10 秒后打开"
+    "translation": "第三扇门将在10秒后打开"
   },
   "Last door will open in 40 seconds": {
-    "translation": "最后一扇门将在 40 秒后打开"
+    "translation": "最后一扇门将在40秒后打开"
   },
   "BOSS USE RAGE": {
     "translation": "BOSS 使用了终极快贴墙"
@@ -230,31 +230,31 @@
     "translation": "BOSS 使用激光刀快蹲下!!!!!!"
   },
   "AFK TELEPORT 5 IN SECOND": {
-    "translation": "挂机将在5秒传送"
+    "translation": "挂机将在5秒后传送"
   },
   "**First door will open in 45 seconds** ": {
-    "translation": "**第一扇门将在 45 秒内打开** "
+    "translation": "**第一扇门将在45秒后打开** "
   },
   "Second door will open in 15 seconds": {
-    "translation": "第二扇门将在 15 秒后打开"
+    "translation": "第二扇门将在15秒后打开"
   },
   "Third door will open in 30 seconds": {
-    "translation": "第三扇门将在 30 秒后打开"
+    "translation": "第三扇门将在30秒后打开"
   },
   "FINAL ATTACK!!!!!!!!!!!! DESTROY DARTH MAUL!!!": {
     "translation": "最后的攻击!!!!!!!!! 摧毁达斯摩尔!!!"
   },
   "The ship will departs after in 20 second": {
-    "translation": "船将在 20 秒后出发"
+    "translation": "飞船将在20秒后出发"
   },
   "5 SECOND": {
     "translation": "5秒"
   },
   "The magnetic field will destroyed in 25 second": {
-    "translation": "磁场将在 25 秒内被破坏"
+    "translation": "磁场将在25秒后被破坏"
   },
   "The magnetic field will destroyed in 20 second": {
-    "translation": "磁场将在20秒内被破坏"
+    "translation": "磁场将在20秒后被破坏"
   },
   "FALL BACK!!!!!!!!!": {
     "translation": "向后退!!!!!!!!!"
@@ -263,10 +263,10 @@
     "translation": "向后退!!!!!!!!!"
   },
   "RATHER!!!!!!! Press button!!!!": {
-    "translation": "还是!!!!!按下按钮!!!"
+    "translation": "快!!!!!按下按钮!!!"
   },
   "AFK TELEPORT IN 10 SECOND ": {
-    "translation": "10 秒后离开传送 "
+    "translation": "挂机将在10秒后传送"
   },
   "Shoot in middle the station of droids!": {
     "translation": "站在中间射击!"
@@ -275,13 +275,13 @@
     "translation": "守住僵尸!!!"
   },
   "Teleport activates in 10 second": {
-    "translation": "传送在 10 秒内激活"
+    "translation": "传送在10秒后激活"
   },
   "OMG! It is ship of Darth Maul!": {
     "translation": "天哪!这是达斯摩尔的船!"
   },
   "Run!!! The ship will departs after in 20 second": {
-    "translation": "快跑!!!船将在20秒后出发"
+    "translation": "快跑!!!飞船将在20秒后出发"
   }
 }
   
