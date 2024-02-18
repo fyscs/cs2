@@ -11,123 +11,129 @@
 
 {
   "The door opening in 15s": {
-    "translation": "The door opening in 15s"
+    "translation": "门还有15秒开启"
   },
   "Welcome on Objective Rampage": {
-    "translation": "Welcome on Objective Rampage"
+    "translation": "欢迎来到横空出世:横冲直撞"
   },
   "Good Luck !": {
-    "translation": "Good Luck !"
+    "translation": "祝你们好运"
   },
   "Special thanks to Zombieden for testing and people who guiding me on anything": {
-    "translation": "Special thanks to Zombieden for testing and people who guiding me on anything"
+    "translation": "感谢Zed社区提供测试帮助,也感谢那些帮助过我的人"
   },
   "Some of the zombie cage has placed portals to teleport between each zombie cage": {
-    "translation": "Some of the zombie cage has placed portals to teleport between each zombie cage"
+    "translation": "部分尸笼放置了传送点,可传送至其他地点"
   },
   "zombies, take advantage of it!": {
-    "translation": "zombies, take advantage of it!"
+    "translation": "僵尸兄弟门,加油!"
   },
   "Gas was turned off..": {
-    "translation": "Gas was turned off.."
+    "translation": "阀门已关闭"
   },
   "Find a way to turn off the gas": {
-    "translation": "Find a way to turn off the gas"
+    "translation": "想办法关掉阀门"
   },
   "Get in and keep holding until the door is closed!": {
-    "translation": "Get in and keep holding until the door is closed!"
+    "translation": "快进来!门就要关了!"
   },
   "Objective Rampage": {
-    "translation": "Objective Rampage"
+    "translation": "横空出世:横冲直撞"
   },
   "Loading virus ...": {
-    "translation": "Loading virus ..."
+    "translation": "正在加载病毒..."
   },
   "RUN": {
-    "translation": "RUN"
+    "translation": "快跑"
   },
   "Defend until virus get uploaded": {
-    "translation": "Defend until virus get uploaded"
+    "translation": "在病毒完成上传之前守住这里!"
   },
   "The virus is uploaded ! Defend until complete system corruption": {
-    "translation": "The virus is uploaded ! Defend until complete system corruption"
+    "translation": "病毒已上传!在系统崩溃之前坚持住!"
   },
   "Prepare..": {
-    "translation": "Prepare.."
+    "translation": "准备好.."
   },
   "OMG everything is now fucked up, the laser was enabled !": {
-    "translation": "OMG everything is now fucked up, the laser was enabled !"
+    "translation": "tmd搞砸啦,激光器启动了!"
   },
   "STAY AWAY FROM THE BEAM !!!": {
-    "translation": "STAY AWAY FROM THE BEAM !!!"
+    "translation": "离激光远点!!!"
   },
   "DOOR OPEN <<< 30 >>>": {
-    "translation": "DOOR OPEN <<< 30 >>>"
+    "translation": "还有30秒"
   },
   "DOOR OPEN <<< 20 >>>": {
-    "translation": "DOOR OPEN <<< 20 >>>"
+    "translation": "DOOR OPEN <<< 20 >>>",
+    "blocked": true
   },
   "DOOR OPEN <<< 10 >>>": {
-    "translation": "DOOR OPEN <<< 10 >>>"
+    "translation": "DOOR OPEN <<< 10 >>>",
+    "blocked": true
   },
   "DOOR OPEN <<< 00 >>>": {
-    "translation": "DOOR OPEN <<< 00 >>>"
+    "translation": "DOOR OPEN <<< 00 >>>",
+    "blocked": true
   },
   "Power will be cut off in a few moments": {
-    "translation": "Power will be cut off in a few moments"
+    "translation": "电源将在一会之后切断"
   },
   "Power is OFF": {
-    "translation": "Power is OFF"
+    "translation": "电源已切断"
   },
   "GET ON THE ELEVATOR": {
-    "translation": "GET ON THE ELEVATOR"
+    "translation": "快上电梯"
   },
   "Find a way to get into the room!": {
-    "translation": "Find a way to get into the room!"
+    "translation": "想办法进去!"
   },
   "Watch out!": {
-    "translation": "Watch out!"
+    "translation": "当心!"
   },
   "BLAST DOORS <<< 30 >>>": {
-    "translation": "BLAST DOORS <<< 30 >>>"
+    "translation": "安全门还有30秒打开"
   },
   "BLAST DOORS <<< 20 >>>": {
-    "translation": "BLAST DOORS <<< 20 >>>"
+    "translation": "BLAST DOORS <<< 20 >>>",
+    "blocked": true
   },
   "BLAST DOORS <<< 10 >>>": {
-    "translation": "BLAST DOORS <<< 10 >>>"
+    "translation": "BLAST DOORS <<< 10 >>>",
+    "blocked": true
   },
   "BLAST DOORS <<< 00 >>>": {
-    "translation": "BLAST DOORS <<< 00 >>>"
+    "translation": "BLAST DOORS <<< 00 >>>",
+    "blocked": true
   },
   "Place the c4 to break the wall!": {
-    "translation": "Place the c4 to break the wall!"
+    "translation": "用炸药把墙炸开!"
   },
   "C4 has been planted": {
-    "translation": "C4 has been planted"
+    "translation": "炸药已放置"
   },
   "Prepare for your LAST FIGHT": {
-    "translation": "Prepare for your LAST FIGHT"
+    "translation": "准备好最后一战"
   },
   "Trigger the BOMB and wait for helipoter to bring us out of this island !": {
-    "translation": "Trigger the BOMB and wait for helipoter to bring us out of this island !"
+    "translation": "启动炸弹!等直升机过来带我们离开这里!"
   },
   "GET ON THE HELICOPTER": {
-    "translation": "GET ON THE HELICOPTER"
+    "translation": "快上直升机!"
   },
   "To be continute...": {
-    "translation": "To be continute..."
+    "translation": "未完待续..."
   },
   "Ported by TuPu": {
-    "translation": "Ported by TuPu"
+    "translation": "地图由TuPu移植"
   },
   "Map by Trazix": {
-    "translation": "Map by Trazix"
+    "translation": "地图作者:Trazix 文本翻译:Liastical"
   },
   "Rampage Level": {
-    "translation": "Rampage Level"
+    "translation": "决战之时"
   },
   "DEFEND 70 SECONDS": {
-    "translation": "DEFEND 70 SECONDS"
+    "translation": "坚守70秒"
   }
 }
