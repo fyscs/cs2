@@ -11,285 +11,290 @@
 
 {
   "**HOLD 25 SECONDS**": {
-    "translation": "**HOLD 25 SECONDS**"
+    "translation": "还有25秒"
   },
   "**RUN**": {
-    "translation": "**RUN**"
+    "translation": "快跑!"
   },
   "**Zombie ladder is enabled**": {
-    "translation": "**Zombie ladder is enabled**"
+    "translation": "僵尸梯子已开启"
   },
   "**Zombie push will disable in 5 sec**": {
-    "translation": "**Zombie push will disable in 5 sec**"
+    "translation": "僵尸Push还有5秒关闭"
   },
   "***Teleporting AFK's to wall in 20s***": {
-    "translation": "***Teleporting AFK's to wall in 20s***"
+    "translation": "AFK传送还有20秒启动"
   },
   "**HOLD 30 SECONDS**": {
-    "translation": "**HOLD 30 SECONDS**"
+    "translation": "坚持30秒"
   },
   "**GO GO**": {
-    "translation": "**GO GO**"
+    "translation": "快跑快跑"
   },
   "*Zombie clip brush is disabled*": {
-    "translation": "*Zombie clip brush is disabled*"
+    "translation": "僵尸已不受阻碍"
   },
   "**DEFEND HERE**": {
-    "translation": "**DEFEND HERE**"
+    "translation": "在这里守住!"
   },
   "**HOLD 90 SEC**": {
-    "translation": "**HOLD 90 SEC**"
+    "translation": "坚持90秒"
   },
   "**Wait for water flow**": {
-    "translation": "**Wait for water flow**"
+    "translation": "等待洪水到来"
   },
   "***Jump on the rocks***": {
-    "translation": "***Jump on the rocks***"
+    "translation": "跳到石头上去"
   },
   "**Mass teleport Zombies and AFK's in 10 sec!!**": {
-    "translation": "**Mass teleport Zombies and AFK's in 10 sec!!**"
+    "translation": "僵尸于10秒后集体传送"
   },
   "***GO UP ON LADDER***": {
-    "translation": "***GO UP ON LADDER***"
+    "translation": "爬上梯子!"
   },
   "***Destroy DAM***": {
-    "translation": "***Destroy DAM***"
+    "translation": "破坏大坝!"
   },
   "***Stanchion 1/2 was broken***": {
-    "translation": "***Stanchion 1/2 was broken***"
+    "translation": "还有一根支柱未破坏"
   },
   "***Stanchion 2/2 was broken***": {
-    "translation": "***Stanchion 2/2 was broken***"
+    "translation": "所有的支柱已破坏"
   },
   "***Teleporting Humans to the Dam in 5 sec***": {
-    "translation": "***Teleporting Humans to the Dam in 5 sec***"
+    "translation": "5秒后传送人类至大坝"
   },
   "***Teleporting Zombies and AFK's to the Dam in 10 sec***": {
-    "translation": "***Teleporting Zombies and AFK's to the Dam in 10 sec***"
+    "translation": "10秒后传送僵尸至大坝"
   },
   "**Meanwhile.......**": {
-    "translation": "**Meanwhile.......**"
+    "translation": "与此同时.......**"
   },
   "***Humans will die when music ends***": {
-    "translation": "***Humans will die when music ends***"
+    "translation": "战歌停止之时,既是终局"
   },
   "***Teleporting to boss in 10 sec!!!***": {
-    "translation": "***Teleporting to boss in 10 sec!!!***"
+    "translation": "10秒后传送至Boss!!"
   },
   "**Prepare to fight**": {
-    "translation": "**Prepare to fight**"
-  },
-  "***GO GO***": {
-    "translation": "***GO GO***"
+    "translation": "准备战斗!"
   },
   "***HOLD 15 sec!!!***": {
-    "translation": "***HOLD 15 sec!!!***"
+    "translation": "坚持15秒"
   },
   "***GO GO GO***": {
-    "translation": "***GO GO GO***"
+    "translation": "快走快走!"
   },
   "***LVL 2 COMPLETED***": {
-    "translation": "***LVL 2 COMPLETED***"
+    "translation": "第二关已完成!"
   },
   "***Map by Limon. Thanks for playing***": {
-    "translation": "***Map by Limon. Thanks for playing***"
+    "translation": "地图作者:Limon 文本翻译:Liastical"
   },
   "**Defend people which destroy dam**": {
-    "translation": "**Defend people which destroy dam**"
+    "translation": "守卫那些正在破坏支柱的人类!"
   },
   "**DESTROY All STANCHIONS!**": {
-    "translation": "**DESTROY All STANCHIONS!**"
+    "translation": "破坏掉所有的支柱!"
   },
   "**GO HUMANS**": {
-    "translation": "**GO HUMANS**"
+    "translation": "快走!"
   },
   "***Elevator will go up in 20 sec***": {
-    "translation": "***Elevator will go up in 20 sec***"
+    "translation": "平台还有20秒上升"
   },
   "***Elevator will go up in 5 sec***": {
-    "translation": "***Elevator will go up in 5 sec***"
+    "translation": "***Elevator will go up in 5 sec***",
+    "blocked": true
   },
   "*Mass zombie teleport after elevator activation*": {
-    "translation": "*Mass zombie teleport after elevator activation*"
+    "translation": "平台启动后僵尸就会传送"
   },
   "***RUN TO THE MAIN GATE***": {
-    "translation": "***RUN TO THE MAIN GATE***"
+    "translation": "快到大门那去"
   },
   "***Key is found. Door open in 5 sec***": {
-    "translation": "***Key is found. Door open in 5 sec***"
+    "translation": "钥匙找到了,还有5秒开门",
+    "blocked": true
   },
   "***NEED KEY***": {
-    "translation": "***NEED KEY***"
+    "translation": "需要钥匙"
   },
   "***Find key in the room***": {
-    "translation": "***Find key in the room***"
+    "translation": "钥匙就在这里"
   },
   "***Key is found. Door open in 10 sec***": {
-    "translation": "***Key is found. Door open in 10 sec***"
+    "translation": "钥匙找到了,还有10秒"
   },
   "***HOLD 20 SEC!!!***": {
-    "translation": "***HOLD 20 SEC!!!***"
+    "translation": "坚持20秒"
   },
   "***HOLD 20 SEC***": {
-    "translation": "***HOLD 20 SEC***"
+    "translation": "还有20秒"
   },
   "***LEFT DOOR OPEN IN 10 SEC***": {
-    "translation": "***LEFT DOOR OPEN IN 10 SEC***"
+    "translation": "左门还有10秒打开"
   },
   "***LEFT DOOR OPEN. NEED KEY FOR RIGHT DOOR***": {
-    "translation": "***LEFT DOOR OPEN. NEED KEY FOR RIGHT DOOR***"
+    "translation": "路开了,需要右边门的钥匙"
   },
   "***HOLD***": {
-    "translation": "***HOLD***"
+    "translation": "坚持一会"
   },
   "***ZOMBIES TELEPORT IN 5 SEC!***": {
-    "translation": "***ZOMBIES TELEPORT IN 5 SEC!***"
+    "translation": "僵尸还有5秒传送"
   },
   "***Teleporting AFK's in 10 sec!!***": {
-    "translation": "***Teleporting AFK's in 10 sec!!***"
+    "translation": "AFK传送还有10秒启动"
   },
   "***GRIMA IS DEAD***": {
-    "translation": "***GRIMA IS DEAD***"
+    "translation": "葛力马已死!"
   },
   "***HOLD 15 SEC***": {
-    "translation": "***HOLD 15 SEC***"
+    "translation": "还需要15秒"
   },
   "***Humans didnt kill grima***": {
-    "translation": "***Humans didnt kill grima***"
+    "translation": "你没能杀掉葛力马"
   },
   "**It is Grima!!! KILL HIM!**": {
-    "translation": "**It is Grima!!! KILL HIM!**"
+    "translation": "是葛力马!快杀了他!"
   },
   "**Teleporting Zombies to spawn in 15 sec**": {
-    "translation": "**Teleporting Zombies to spawn in 15 sec**"
+    "translation": "僵尸还有15秒传送至出生点"
   },
   "***ADMIN CHOOSES 1 LEVEL***": {
-    "translation": "***ADMIN CHOOSES 1 LEVEL***"
+    "translation": "管理员已选择第一关"
   },
   "***ADMIN CHOOSES 3 LEVEL***": {
-    "translation": "***ADMIN CHOOSES 3 LEVEL***"
+    "translation": "管理员已选择第三关"
   },
   "***LVL1 ROAD TO ISENGARD***": {
-    "translation": "***LVL1 ROAD TO ISENGARD***"
+    "translation": "第一关:通往艾辛格之路"
   },
   "**Teleporting AFK's to cave in 30sec**": {
-    "translation": "**Teleporting AFK's to cave in 30sec**"
+    "translation": "30秒后传送AFK玩家至洞穴"
   },
   "***Map by Limon.***": {
-    "translation": "***Map by Limon.***"
+    "translation": "地图由Limon制作"
   },
   "*GAME WILL START in 15 sec! GL HF*": {
-    "translation": "*GAME WILL START in 15 sec! GL HF*"
+    "translation": "游戏于15秒后开始"
   },
   "***SPAWN ZONE***": {
-    "translation": "***SPAWN ZONE***"
+    "translation": "这里是出生点"
   },
   "*Teleporting zombies to Zombie Room in 7 sec*": {
-    "translation": "*Teleporting zombies to Zombie Room in 7 sec*"
+    "translation": "僵尸7秒之后传送至起始点"
   },
   "***Go to middle-earth map to start playing***": {
-    "translation": "***Go to middle-earth map to start playing***"
+    "translation": "进入中土世界开始游玩吧"
   },
   "***LVL2 ISENGARD***": {
-    "translation": "***LVL2 ISENGARD***"
+    "translation": "第二关:艾辛格"
   },
   "**Teleporting AFK's to forest in 30sec**": {
-    "translation": "**Teleporting AFK's to forest in 30sec**"
+    "translation": "30秒后传送AFK玩家至森林"
   },
   "***LVL3 SARUMAN TOWER***": {
-    "translation": "***LVL3 SARUMAN TOWER***"
+    "translation": "第三关:萨鲁曼高塔"
   },
   "**Teleporting AFK's to Saruman tower in 35sec**": {
-    "translation": "**Teleporting AFK's to Saruman tower in 35sec**"
+    "translation": "30秒后传送AFK玩家至萨鲁曼之塔"
   },
   "***ADMIN CHOOSES 2 LEVEL***": {
-    "translation": "***ADMIN CHOOSES 2 LEVEL***"
+    "translation": "管理员已选择第二关"
   },
   "*** Lua scripts not loaded ***": {
-    "translation": "*** Lua scripts not loaded ***"
+    "translation": "Lua脚本未加载"
   },
   "*** Bosses and items is disabled! ***": {
-    "translation": "*** Bosses and items is disabled! ***"
+    "translation": "神器已禁用!"
   },
   "OnStartTouch>consola>Command>***LVL 2 COMPLETED***>1.00>1": {
-    "translation": "OnStartTouch>consola>Command>***LVL 2 COMPLETED***>1.00>1"
+    "translation": "第二关已完成"
   },
   "***NAZGUL IS DEAD***": {
-    "translation": "***NAZGUL IS DEAD***"
+    "translation": "已击败纳兹古尔"
   },
   "***NUKE IN 1 SEC!!***": {
-    "translation": "***NUKE IN 1 SEC!!***"
+    "translation": "***NUKE IN 1 SEC!!***",
+    "blocked": true
   },
   "***NUKE IN 2 SEC!!***": {
-    "translation": "***NUKE IN 2 SEC!!***"
+    "translation": "***NUKE IN 2 SEC!!***",
+    "blocked": true
   },
   "***LVL 1 COMPLETED***": {
-    "translation": "***LVL 1 COMPLETED***"
+    "translation": "第一关已完成"
   },
   "***Zombies on boat. Humans lose.***": {
-    "translation": "***Zombies on boat. Humans lose.***"
+    "translation": "僵尸上船了,人类失败"
   },
   "**Defend this building for 50 sec**": {
-    "translation": "**Defend this building for 50 sec**"
+    "translation": "在这里坚持50秒"
   },
   "***Stairs will break in 10 sec***": {
-    "translation": "***Stairs will break in 10 sec***"
+    "translation": "梯子还能坚持10秒"
   },
   "***Get to the boats NOW***": {
-    "translation": "***Get to the boats NOW***"
+    "translation": "现在到船上去!!"
   },
   "**Mass teleport zombies in 15 seconds***": {
-    "translation": "**Mass teleport zombies in 15 seconds***"
+    "translation": "僵尸15秒后集体传送"
   },
   "***5***": {
-    "translation": "***5***"
+    "translation": "还有5秒"
   },
   "***4***": {
-    "translation": "***4***"
+    "translation": "***4***",
+    "blocked": true
   },
   "***3***": {
-    "translation": "***3***"
+    "translation": "***3***",
+    "blocked": true
   },
   "***2***": {
-    "translation": "***2***"
+    "translation": "***2***",
+    "blocked": true
   },
   "***1***": {
-    "translation": "***1***"
+    "translation": "***1***",
+    "blocked": true
   },
   "**HOLD 25 SEC**": {
-    "translation": "**HOLD 25 SEC**"
+    "translation": "坚持25秒"
   },
   "**GO GO GO**": {
-    "translation": "**GO GO GO**"
+    "translation": "走走走!"
   },
   "***Teleporting Zombies and AFK's in 6 sec!!***": {
-    "translation": "***Teleporting Zombies and AFK's in 6 sec!!***"
+    "translation": "僵尸等AFK玩家6秒后传送"
   },
   "***KILL NAZGUL***": {
-    "translation": "***KILL NAZGUL***"
+    "translation": "击败纳兹古尔!"
   },
   "**GO**": {
-    "translation": "**GO**"
+    "translation": "前进!"
   },
   "**KILL the SPIDER NOW***": {
-    "translation": "**KILL the SPIDER NOW***"
+    "translation": "杀掉蜘蛛!"
   },
   "**Shoot in the head!**": {
-    "translation": "**Shoot in the head!**"
+    "translation": "打他的头!!"
   },
   "***LOOK OUT FOR SPIDER TRAPS!!***": {
-    "translation": "***LOOK OUT FOR SPIDER TRAPS!!***"
+    "translation": "当心蜘蛛的陷阱!"
   },
   "*If you wont kill spider in 2 min zombies will eat you*": {
-    "translation": "*If you wont kill spider in 2 min zombies will eat you*"
+    "translation": "你只有两分钟的时间"
   },
   "**Resist 30s!**": {
-    "translation": "**Resist 30s!**"
+    "translation": "坚持30秒"
   },
   "**Resist 20s!**": {
-    "translation": "**Resist 20s!**"
+    "translation": "坚持20秒"
   },
   "**Random**": {
-    "translation": "**Random**"
+    "translation": "正在随机路线"
   }
 }
