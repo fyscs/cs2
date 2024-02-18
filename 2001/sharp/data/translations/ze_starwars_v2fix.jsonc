@@ -17,7 +17,7 @@
     "translation": "**桥将在5秒后开放**"
   },
   "**Fall back! The bridge has closed**": {
-    "translation": "**撤退!桥已经关闭**"
+    "translation": "**撤退!桥已经打开**"
   },
   "**The bridge will open in 15 seconds**": {
     "translation": "**桥将在15秒后开放**"
@@ -140,7 +140,7 @@
     "translation": "BOSS 使用了终极快贴墙!!!!!!"
   },
   "get to the side GET TO THE SIDE": {
-    "translation": "抵抗推力快到另一边去"
+    "translation": "快站到两边去"
   },
   "**Admin set Jedi MODE in the admin room**": {
     "translation": "**管理员在管理室设置普通模式**"
@@ -173,7 +173,7 @@
     "translation": "**达斯摩尔死了**"
   },
   "BOSS USE  GRIP": {
-    "translation": "BOSS 使用吸力"
+    "translation": "BOSS 使用握力快远离他"
   },
   "BOSS USE THUNDER": {
     "translation": "BOSS 使用了电"
@@ -182,7 +182,7 @@
     "translation": "BOSS 使用风"
   },
   "BOSS USE ANGER": {
-    "translation": "BOSS 使用终极快贴墙"
+    "translation": "BOSS 使用愤怒别靠近他"
   },
   "Boss fight in 5 second": {
     "translation": "5秒后打Boss"
