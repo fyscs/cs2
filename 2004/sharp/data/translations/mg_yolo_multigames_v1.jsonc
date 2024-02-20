@@ -11,52 +11,52 @@
 
 {
   "[TERRORISTS NOW HAVE 2 BALLS]": {
-    "translation": "[TERRORISTS NOW HAVE 2 BALLS]"
+    "translation": "[T阵营现在有两个球]"
   },
   "[COUNTER-TERRORISTS NOW HAVE 2 BALLS]": {
-    "translation": "[COUNTER-TERRORISTS NOW HAVE 2 BALLS]"
+    "translation": "[CT阵营现在有两个球]"
   },
   "[MAP] 1HP FOOTBALL": {
-    "translation": "[MAP] 1HP FOOTBALL"
+    "translation": "[MAP] 1HP足球"
   },
   "[MAP] Blocks breaking in 30 seconds": {
-    "translation": "[MAP] Blocks breaking in 30 seconds"
+    "translation": "[MAP] 方块在30秒后碎裂"
   },
   "[MAP] Blocks breaking in 10 seconds": {
-    "translation": "[MAP] Blocks breaking in 10 seconds"
+    "translation": "[MAP] 方块在10秒后碎裂"
   },
   "[MAP] Blocks breaking in 5 seconds": {
-    "translation": "[MAP] Blocks breaking in 5 seconds"
+    "translation": "[MAP] 方块在5秒后碎裂"
   },
   "[MAP] GRENADE HOLES": {
-    "translation": "[MAP] GRENADE HOLES"
+    "translation": "[MAP] adeKing"
   },
   "[MAP] AIM": {
-    "translation": "[MAP] AIM"
+    "translation": "[MAP] 混战塔"
   },
   "[MAP] This Level By SOLIDSNAKE": {
-    "translation": "[MAP] This Level By SOLIDSNAKE"
+    "translation": "[MAP] 关卡创作者: SOLIDSNAKE  地图汉化: 亦浅"
   },
   "[COUNTER-TERRORISTS WIN]": {
-    "translation": "[COUNTER-TERRORISTS WIN]"
+    "translation": "[[CT阵营胜利]"
   },
   "[MAP] Fruits spawning in 5 seconds!": {
-    "translation": "[MAP] Fruits spawning in 5 seconds!"
+    "translation": "[MAP] 5秒后水果出现!"
   },
   "[MAP] Map begins in 3 seconds...": {
-    "translation": "[MAP] Map begins in 3 seconds..."
+    "translation": "[MAP] 地图将在3秒钟后开始"
   },
   "[MAP] Map begins in 2 seconds...": {
-    "translation": "[MAP] Map begins in 2 seconds..."
+    "translation": "[MAP] 地图将在2秒钟后开始"
   },
   "[MAP] Map begins in 1 second...": {
-    "translation": "[MAP] Map begins in 1 second..."
+    "translation": "[MAP] 地图将在1秒钟后开始"
   },
   "[MAP] HOT POTATO": {
-    "translation": "[MAP] HOT POTATO"
+    "translation": "[MAP] 烫手山芋"
   },
   "[MAP] You can now cross over to enemylines": {
-    "translation": "[MAP] You can now cross over to enemylines"
+    "translation": "[MAP] 你现在可以从中间过去对面了"
   },
   "[MUSIC] Smash Mouth - All Star": {
     "translation": "[MUSIC] Smash Mouth - All Star"
@@ -83,96 +83,96 @@
     "translation": "[MUSIC] Disclosure - White Noise"
   },
   "[MAP] Winners get in position!": {
-    "translation": "[MAP] Winners get in position!"
+    "translation": "[MAP] 赢家们各就各位!"
   },
   "[MAP] Losers prepare to take balls to the face": {
-    "translation": "[MAP] Losers prepare to take balls to the face"
+    "translation": "[MAP] 失败者准备用脸接球吧"
   },
   "[MAP] GOOOOOOAAAAAALLLLL": {
-    "translation": "[MAP] GOOOOOOAAAAAALLLLL"
+    "translation": "[MAP] 球进进进进进进了了了了了了"
   },
   "[MAP] ELEVATOR": {
-    "translation": "[MAP] ELEVATOR"
+    "translation": "[MAP] 电梯"
   },
   "[MAP] AWP": {
     "translation": "[MAP] AWP"
   },
   "[MAP] CREEPER": {
-    "translation": "[MAP] CREEPER"
+    "translation": "[MAP] 苦力怕"
   },
   "[MAP] Objective = Dont be the person with the gun when the counter hits number 3!": {
-    "translation": "[MAP] Objective = Dont be the person with the gun when the counter hits number 3!"
+    "translation": "[MAP] 目标=倒计时剩余3秒时,请勿持有武器!"
   },
   "[MAP] Round Starting in 3 seconds!": {
-    "translation": "[MAP] Round Starting in 3 seconds!"
+    "translation": "[MAP] 3秒后开始比赛!"
   },
   "[MAP] Try and eliminate players by tossing the gun to them": {
-    "translation": "[MAP] Try and eliminate players by tossing the gun to them"
+    "translation": "[MAP] 尝试通过向玩家扔枪来消灭他们m"
   },
   "[MAP] FRUITS": {
-    "translation": "[MAP] FRUITS"
+    "translation": "[MAP] 水果忍者"
   },
   "[MAP] VOLLEYBALL": {
-    "translation": "[MAP] VOLLEYBALL"
+    "translation": "[MAP] 排球"
   },
   "[MAP] Teleport trigger activating in 2 seconds...": {
-    "translation": "[MAP] Teleport trigger activating in 2 seconds..."
+    "translation": "[MAP] 2秒后激活传送"
   },
   "[MAP] Teleport trigger activating in 1 second...": {
-    "translation": "[MAP] Teleport trigger activating in 1 second..."
+    "translation": "[MAP] 1秒后激活传送"
   },
   "[MAP] Ice Skate Disabled": {
-    "translation": "[MAP] Ice Skate Disabled"
+    "translation": "[MAP] 滑冰残疾人"
   },
   "[MAP] 30 seconds remaining!": {
-    "translation": "[MAP] 30 seconds remaining!"
+    "translation": "[MAP] 还剩30秒!"
   },
   "[MAP] 10 seconds remaining!": {
-    "translation": "[MAP] 10 seconds remaining!"
+    "translation": "[MAP] 还剩10秒!"
   },
   "[MAP] HEADSHOT": {
-    "translation": "[MAP] HEADSHOT"
+    "translation": "[MAP] 爆头"
   },
   "[MAP] PISTOLS": {
-    "translation": "[MAP] PISTOLS"
+    "translation": "[MAP] 手枪"
   },
   "[MAP] KNIFE": {
-    "translation": "[MAP] KNIFE"
+    "translation": "[MAP] 刀战"
   },
   "[MAP] Teleport trigger activating in 3 seconds...": {
-    "translation": "[MAP] Teleport trigger activating in 3 seconds..."
+    "translation": "[MAP] 3秒后激活传送"
   },
   "[MAP] Teleport trigger activating in 5 seconds...": {
-    "translation": "[MAP] Teleport trigger activating in 5 seconds..."
+    "translation": "[MAP] 5秒后激活传送"
   },
   "[MAP] FOOTBALL": {
-    "translation": "[MAP] FOOTBALL"
+    "translation": "[MAP] 足球"
   },
   "[MAP] 1HP SMOKE-SKATE": {
-    "translation": "[MAP] 1HP SMOKE-SKATE"
+    "translation": "[MAP] 1HP烟雾弹滑冰"
   },
   "[TERRORISTS WIN]": {
-    "translation": "[TERRORISTS WIN]"
+    "translation": "[T阵营胜利]"
   },
   "[MAP] BLOCKS": {
-    "translation": "[MAP] BLOCKS"
+    "translation": "[MAP] 杀人方块"
   },
   "[MAP] Enabling bullet damage in 30 seconds": {
-    "translation": "[MAP] Enabling bullet damage in 30 seconds"
+    "translation": "[MAP] 30秒后子弹伤害开启"
   },
   "[MAP] Enabling bullet damage in 10 seconds": {
-    "translation": "[MAP] Enabling bullet damage in 10 seconds"
+    "translation": "[MAP] 10秒后子弹伤害开启"
   },
   "[MAP] Enabling bullet damage in 5 seconds": {
-    "translation": "[MAP] Enabling bullet damage in 5 seconds"
+    "translation": "[MAP] 5秒后子弹伤害开启"
   },
   "[MAP] Bullet damage enabled": {
-    "translation": "[MAP] Bullet damage enabled"
+    "translation": "[MAP] 子弹伤害已开启"
   },
   "[MAP] Kill The Opposition With YOUR TEAMS COLOURED BLOCKS": {
-    "translation": "[MAP] Kill The Opposition With YOUR TEAMS COLOURED BLOCKS"
+    "translation": "[MAP] 用你的队伍颜色的方块来消灭敌人"
   },
   "[MAP] The Blocks Will Fly Towards You When You Shoot": {
-    "translation": "[MAP] The Blocks Will Fly Towards You When You Shoot"
+    "translation": "[MAP] 方块可以被你的子弹击飞"
   }
 }
