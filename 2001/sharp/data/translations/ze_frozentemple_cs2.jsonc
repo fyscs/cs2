@@ -1,0 +1,107 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** WHAT WAS THAT THING? ***": {
+    "translation": "*** 这是什么东西? ***"
+  },
+  "*** OH WELL! WHATEVER IT IS IT'S GONE NOW! ***": {
+    "translation": "*** 不管是什么,现在都不见了! ***"
+  },
+  "*** WE BETTER RUN BEFORE THE TEMPLE COLLAPSES! ***": {
+    "translation": "*** 快跑!!!我们得在神庙倒塌前离开这里! ***"
+  },
+  "*** NUKE IN 1 MINUTE AND 30 SECONDS ***": {
+    "translation": "*** 还有九十秒核爆!!! ***"
+  },
+  "*** NUKE IN 1 MINUTE ***": {
+    "translation": "*** 还有六十秒核爆!!! ***"
+  },
+  "*** NUKE IN 30 SECONDS ***": {
+    "translation": "*** 还有三十秒核爆!!! ***"
+  },
+  "*** 5 ***": {
+    "translation": "*** 5 ***"
+  },
+  "*** 4 ***": {
+    "translation": "*** 4 ***",
+    "blocked": true
+  },
+  "*** 3 ***": {
+    "translation": "*** 3 ***",
+    "blocked": true
+  },
+  "*** 2 ***": {
+    "translation": "*** 2 ***",
+    "blocked": true
+  },
+  "*** 1 ***": {
+    "translation": "*** 1 ***",
+    "blocked": true
+  },
+  "*** CRYSTALLIZE ***": {
+    "translation": "*** 冰晶 ***"
+  },
+  "*** FROSTY BEAM ***": {
+    "translation": "*** 霜冻光线***"
+  },
+  "*** ICY WIND ***": {
+    "translation": "*** 暴风雪 ***"
+  },
+  "*** BLANKET FREEZE ***": {
+    "translation": "*** 寒冰笼罩 ***"
+  },
+  "*** MAP BY GEORGE ***": {
+    "translation": "*** 地图作者: GEORGE 汉化:Zeyu1@風雲社 ***"
+  },
+  "*** CRYSTAL RAIN ***": {
+    "translation": "*** 冰晶坠 ***"
+  },
+  "*** WELL DONE! DOOR OPENS IN 20 SECONDS ***": {
+    "translation": "*** 大门20秒后开启 ***"
+  },
+  "*** TEMPLE OPENS IN 5 SECONDS ***": {
+    "translation": "*** 神庙大门5秒后开启 ***"
+  },
+  "*** WHAT IS THIS PLACE? ***": {
+    "translation": "*** 这里是什么地方? ***"
+  },
+  "*** RESIST UNTIL SOMETHING HAPPENS ***": {
+    "translation": "*** 守住这里! ***"
+  },
+  "*** IT SEEMS LIKE THERE IS NO WAY OUT ***": {
+    "translation": "*** 看起来这里没有其他路了 ***"
+  },
+  "*** ZOMBIES MUST NOT ESCAPE THE TEMPLE! ***": {
+    "translation": "*** 不能让僵尸离开这个神庙! ***"
+  },
+  "*** IT SHOULD BE THAWED OUT BY NOW. LETS GO! ***": {
+    "translation": "*** 冰块融化了,快走! ***"
+  },
+  "*** WE HAVE TO HOLD OUT 1 MINUTE UNTIL IT THAWS. ***": {
+    "translation": "*** 守住60秒直到冰块融化 ***"
+  },
+  "*** WE CAN LIGHT THIS BRAZIER TO HELP THAW IT OUT ***": {
+    "translation": "*** 我们可以用这个火盆来融化冰 ***"
+  },
+  "*** IT LOOKS LIKE THE LEVER HAS FROZEN SOLID ***": {
+    "translation": "*** 开关似乎被冻住了 ***"
+  },
+  "*** DOORS OPEN IN 20 SECONDS ***": {
+    "translation": "*** 大门20秒后开启 ***"
+  },
+  "*** DOOR OPENS IN 40 SECONDS ***": {
+    "translation": "*** 大门40秒后开启 ***"
+  },
+  "*** DOOR OPENS IN 25 SECONDS ***": {
+    "translation": "*** 大门25秒后开启 ***"
+  }
+}
