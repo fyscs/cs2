@@ -20,13 +20,15 @@
     "translation": "*** 快跑!!!我们得在神庙倒塌前离开这里! ***"
   },
   "*** NUKE IN 1 MINUTE AND 30 SECONDS ***": {
-    "translation": "*** 还有九十秒核爆!!! ***"
+    "translation": "*** 还有90秒核爆!!! ***"
   },
   "*** NUKE IN 1 MINUTE ***": {
-    "translation": "*** 还有六十秒核爆!!! ***"
+    "translation": "*** 还有六十秒核爆!!! ***",
+    "blocked": true
   },
   "*** NUKE IN 30 SECONDS ***": {
-    "translation": "*** 还有三十秒核爆!!! ***"
+    "translation": "*** 还有三十秒核爆!!! ***",
+    "blocked": true
   },
   "*** 5 ***": {
     "translation": "*** 5 ***"
