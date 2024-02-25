@@ -1,4 +1,4 @@
-﻿// Console SayText i18n file generator.
+// Console SayText i18n file generator.
 // i18n Version v21
 // Copyright 2024 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
@@ -11,7 +11,7 @@
 
 {
   "Someone want a new race, run with your weapon in 10 seconds !": {
-    "translation": "Someone want a new race, run with your weapon in 10 seconds !"
+    "translation": "有人想要一场新的比赛,10秒后拿着你的武器跑!"
   },
   "Music : Poperotiq - Bitch plz": {
     "translation": "Music : Poperotiq - Bitch plz"
@@ -26,6 +26,6 @@
     "translation": "Music : Just Jack - Basement"
   },
   "No music": {
-    "translation": "No music"
+    "translation": "无音乐"
   }
 }
