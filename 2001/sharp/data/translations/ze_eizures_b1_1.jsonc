@@ -1,0 +1,144 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Door open in 15s": {
+    "translation": "门开剩余15秒"
+  },
+  "Breaking the door 20s": {
+    "translation": "20秒后门开"
+  },
+  "Doors open in 30s": {
+    "translation": "门将在30秒后开启"
+  },
+  "ZM tp in 4 seconds": {
+    "translation": "4秒后ZM传送"
+  },
+  "Gate open in 35s": {
+    "translation": "35秒后门开"
+  },
+  "Keep hold 45s": {
+    "translation": "守住45秒"
+  },
+  "ZM shortcut  in 5 seconds": {
+    "translation": "僵尸测路5秒后开",
+    "blocked": true
+  },
+  "Door open 30s": {
+    "translation": "门开还剩30秒"
+  },
+  "Watch out for the zm in the windows and stairs!": {
+    "translation": "小心窗户和楼梯上的僵尸!"
+  },
+  "Hold the defense 30s": {
+    "translation": "守住30秒"
+  },
+  "ZM shortcut in 5 seconds": {
+    "translation": "僵尸测路5秒后开",
+    "blocked": true
+  },
+  "ZM shortcut in 6 seconds": {
+    "translation": "僵尸测路6秒后开",
+    "blocked": true
+  },
+  "Defend 20s": {
+    "translation": "还有20秒"
+  },
+  "Door open in 20s": {
+    "translation": "门开还有20秒"
+  },
+  "Gate open in 40s": {
+    "translation": "门开还有40秒"
+  },
+  "Keep defend 40s": {
+    "translation": "守住40秒"
+  },
+  "Breaking the vent 15s": {
+    "translation": "通风管道还有15秒后开启"
+  },
+  "ZM shortcut in 4 seconds": {
+    "translation": "僵尸测路4秒后开",
+    "blocked": true
+  },
+  "Keep hold 15s": {
+    "translation": "守住15秒"
+  },
+  "Opening the door": {
+    "translation": "开门"
+  },
+  "Ah shit, it's stuck": {
+    "translation": "啊 草了,卡住了"
+  },
+  "Door open in 25s": {
+    "translation": "25秒后开门"
+  },
+  "Defend for 25s": {
+    "translation": "防守25秒"
+  },
+  "Breaking the door 15s": {
+    "translation": "门开还有15秒"
+  },
+  "Opening the door 20s": {
+    "translation": "开门20秒"
+  },
+  "ZM final tp incoming. Watch out!": {
+    "translation": "僵尸传送,小心"
+  },
+  "Last hold 15s": {
+    "translation": "最后守住15秒"
+  },
+  "Defense 20s": {
+    "translation": "守住20秒"
+  },
+  "Keep defending 50s": {
+    "translation": "继续防守50秒"
+  },
+  "Watch out for the zombies in the water": {
+    "translation": "小心水中僵尸"
+  },
+  "Keep holding 30s": {
+    "translation": "守住30秒"
+  },
+  "Watch out for the zombies in the ladders!": {
+    "translation": "小心楼梯上的僵尸"
+  },
+  "30s untill door open": {
+    "translation": "30秒后,门将缓缓打开"
+  },
+  "ZM tp in 5 seconds": {
+    "translation": "僵尸将在5秒后传送",
+    "blocked": true
+  },
+  "Keep defense 25s": {
+    "translation": "防守30秒"
+  },
+  "This is my first map, there'll be bugs": {
+    "translation": "作者:这是我的第一张图,做的可能不算太好"
+  },
+  "Map created by BlueGlue": {
+    "translation": "地图作者:BlueGlue地图翻译:余清茗染@Fys"
+  },
+  "This map is still incomplete": {
+    "translation": "这张地图仍不算完整"
+  },
+  "Special thanks to Keon, Lowmeng and Naraka for advices": {
+    "translation": "特别感谢Keon,Lowmeng和Naraka的建议"
+  },
+  "Well done boys": {
+    "translation": "干得好,伙计们"
+  },
+  "We are all safe for a moment here": {
+    "translation": "我们暂时安全了"
+  },
+  "Defend for 15 seconds": {
+    "translation": "防守15秒"
+  }
+}
