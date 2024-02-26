@@ -1,0 +1,109 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> 5 seconds left <<<": {
+    "translation": "还有5秒"
+  },
+  ">>> final portal opening in 30 seconds <<<": {
+    "translation": "最后的传送还有30秒启动"
+  },
+  ">>> time over! you failed <<<": {
+    "translation": "时间结束,你失败了!"
+  },
+  ">>> laser!!!! <<<": {
+    "translation": "跳刀!!!"
+  },
+  ">>> Map By Rio <<<": {
+    "translation": "地图由Rio制作"
+  },
+  ">>> Humans Win <<<": {
+    "translation": "人类获胜"
+  },
+  ">>> Escape 8 seconds left <<<": {
+    "translation": "还有最后8秒钟"
+  },
+  ">>> Good job! <<<": {
+    "translation": "打得漂亮!"
+  },
+  ">>> portal opening in 40 seconds <<<": {
+    "translation": "传送还有40秒启动"
+  },
+  ">>> door opening in 15 seconds <<<": {
+    "translation": "门还有15秒开启"
+  },
+  ">>> portal opening in 30 seconds <<<": {
+    "translation": "传送还有30秒启动"
+  },
+  ">>> door opening in 40 seconds <<<": {
+    "translation": "门还有40秒开启"
+  },
+  ">>> Special Thank Miceadf , Reflelia , Kizan <<<": {
+    "translation": "特别感谢:Miceadf,Reflelia,Kizan"
+  },
+  ">>> Welcome! Ze_Diamond_Cube <<<": {
+    "translation": "钻石魔方"
+  },
+  ">>> Map ported by Kuroki <<<": {
+    "translation": "地图由Kuroki移植"
+  },
+  ">>> EXTREME MODE <<<": {
+    "translation": "当前模式:EXTREME"
+  },
+  ">>>5 seconds left <<<": {
+    "translation": "还有5秒"
+  },
+  ">>> portal opening in 20 seconds <<<": {
+    "translation": "传送还有20秒启动"
+  },
+  ">>> ADMINROOM : EXTREME MODE  <<<": {
+    "translation": "管理员已选择模式:EXTREME"
+  },
+  ">>> ADMINROOM : ORIGINAL MODE <<<": {
+    "translation": "管理员已选择模式:EXTREME"
+  },
+  ">>> you failed <<<": {
+    "translation": "你失败了"
+  },
+  ">>> laser! <<<": {
+    "translation": "跳刀时间!"
+  },
+  ">>> door opening in 30 seconds <<< ": {
+    "translation": "门还有30秒开启"
+  },
+  ">>> door opening in 20 seconds <<<": {
+    "translation": "门还有20秒开启"
+  },
+  ">>> door opening 20 seconds <<<": {
+    "translation": "门还有20秒开启"
+  },
+  ">>> door opening in 10 seconds <<<": {
+    "translation": "门还有10秒开启"
+  },
+  ">>> door opening in 30 seconds <<<": {
+    "translation": "门还有30秒开启"
+  },
+  ">>> 15 seconds <<<": {
+    "translation": "还剩下15秒"
+  },
+  ">>> door opening in 25 seconds <<<": {
+    "translation": "还有25秒"
+  },
+  ">>> door opening in 25 seconds! <<<": {
+    "translation": "还有25秒"
+  },
+  ">>> left door opening in 15 seconds <<<": {
+    "translation": "左边的门还有15秒开启"
+  },
+  ">>> right door opening in 15 seconds <<<": {
+    "translation": "右边的门还有15秒开启"
+  }
+}
