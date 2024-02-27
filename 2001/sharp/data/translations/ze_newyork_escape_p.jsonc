@@ -1,0 +1,95 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Hold this position for a few seconds... ***": {
+    "translation": "在这里守一会..."
+  },
+  "*** The door will open for 30 secs ***": {
+    "translation": "门还有30秒打开"
+  },
+  "*** Door's are Open ***": {
+    "translation": "门开了,快走"
+  },
+  "*** The elevator is broken go upstairs ***": {
+    "translation": "电梯坏了!快走楼梯!!"
+  },
+  "*** You need to Activate C4 !!! ***": {
+    "translation": "你需要启动炸弹!!"
+  },
+  "*** Train doors will open in 40 secs ***": {
+    "translation": "这扇门将在40秒后打开"
+  },
+  "*** Train doors are Open ! ***": {
+    "translation": "车厢的门打开了!!"
+  },
+  "*** It seems that the helicopter is damaged ***": {
+    "translation": "看起来这架直升机损坏了"
+  },
+  "*** You have to go down to the subway ***": {
+    "translation": "你们得下去地铁那里"
+  },
+  "*** Damn this shit is heavy.... ***": {
+    "translation": "靠,真tm沉"
+  },
+  "*** C4 Explode in 20 secs ***": {
+    "translation": "*** C4 Explode in 20 secs ***",
+    "blocked": true
+  },
+  "*** C4 Explode in 5 secs ***": {
+    "translation": "*** C4 Explode in 5 secs ***",
+    "blocked": true
+  },
+  "*** 4... ***": {
+    "translation": "*** 4... ***",
+    "blocked": true
+  },
+  "*** 3...  ***": {
+    "translation": "*** 3...  ***",
+    "blocked": true
+  },
+  "*** 2... ***": {
+    "translation": "*** 2... ***",
+    "blocked": true
+  },
+  "*** 1... ***": {
+    "translation": "*** 1... ***",
+    "blocked": true
+  },
+  "*** C4 Explode in 40 secs ***": {
+    "translation": "炸弹还有40秒爆炸"
+  },
+  "*** C4 Explode in 10 secs ***": {
+    "translation": "*** C4 Explode in 10 secs ***",
+    "blocked": true
+  },
+  "*** Welcome in New York City Zombie Escape ***": {
+    "translation": "你已到达纽约市!是时候逃离尸潮了"
+  },
+  "*** Map by ziomekYOYO ***": {
+    "translation": "地图制作:ziomekYOYO 文本翻译:Lia"
+  },
+  "*** Fall back ! ***": {
+    "translation": "撤退!!"
+  },
+  "*** Run to the Roof !!! ***": {
+    "translation": "快去楼顶!!"
+  },
+  "*** Get to the Choppa !!! ***": {
+    "translation": "快上直升机!!"
+  },
+  "*** Stair is blocked ***": {
+    "translation": "楼梯被堵住了!!!"
+  },
+  "*** You need stay close to the elevator doors to open it... ***": {
+    "translation": "必须有人站在旁边打开电梯门!!!"
+  }
+}
