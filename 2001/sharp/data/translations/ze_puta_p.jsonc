@@ -9,4 +9,149 @@
   // clearTimer (bool) -> 清除所有倒计时
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
-{}
+{
+  "** Hold the crypt! The door to the hangar will open in 20 seconds! **": {
+    "translation": "守住这里!还需要等待20秒"
+  },
+  "** Just 5 more seconds! Hold it! **": {
+    "translation": "再等待5秒!守住!"
+  },
+  "** The last door will open in 20 seconds! **": {
+    "translation": "最后的门还有20秒开启"
+  },
+  "** Resist! 5 seconds left! **": {
+    "translation": "守住!还剩5秒"
+  },
+  "** 5 seconds left! **": {
+    "translation": "还有5秒"
+  },
+  "** The door will open in 20 seconds! **": {
+    "translation": "门还有20秒开启"
+  },
+  "** The door will open in 25 seconds! **": {
+    "translation": "门还有25秒开启"
+  },
+  "** 15 seconds left! Hold it! **": {
+    "translation": "还有15秒,守住!"
+  },
+  "** The door will open in 35 seconds! **": {
+    "translation": "门还有35秒开启"
+  },
+  "** 5 seconds! RESIST! **": {
+    "translation": "坚持一下!还有5秒"
+  },
+  "** Defend here! This door will open in 25 seconds! **": {
+    "translation": "守住这里!门还有25秒打开"
+  },
+  "** HOLD THEM! THE SECOND DOOR WILL OPEN IN 15 seconds! **": {
+    "translation": "守住1第二扇门15秒后开启"
+  },
+  "** 10 more seconds! HOLD IT! **": {
+    "translation": "还需要10秒"
+  },
+  "** The door will open in 30 seconds! **": {
+    "translation": "大门30秒后开启"
+  },
+  "** 10 more seconds to go! RESIST! **": {
+    "translation": "再坚持10秒!坚持住!"
+  },
+  "** Hold! The doors will open in 30 seconds! **": {
+    "translation": "坚持一会!还有30秒门才开!"
+  },
+  "** 10 more seconds to go! Keep it up! **": {
+    "translation": "跟紧了!还有10秒"
+  },
+  "** Hold! The doors will open in 20 seconds! **": {
+    "translation": "还有一会!还有20秒"
+  },
+  "** HOLD! 10 seconds left! **": {
+    "translation": "还有10秒钟!!!"
+  },
+  "** Hold! The tunnel doors will open in 30 seconds! **": {
+    "translation": "隧道的门还有30秒才能打开!!"
+  },
+  "** Keep it up! The tunnel doors will open in 20 seconds! **": {
+    "translation": "跟上了!隧道的门还有20秒打开!"
+  },
+  "** 5 more seconds! HOLD! **": {
+    "translation": "还有5秒钟!!"
+  },
+  "** Hold the crypt! We need to break the wall and reach the hangar! **": {
+    "translation": "守住这里!!我们得把墙炸开!!"
+  },
+  "** Just 10 more seconds! HOLD! **": {
+    "translation": "只需要10秒钟!!"
+  },
+  "** Hold right here! The rock piece will break in 25 seconds! **": {
+    "translation": "就在这里守住!石堆25秒后爆破!"
+  },
+  "** Last 5 seconds! GET ON IT! **": {
+    "translation": "只要5秒钟就可以了!"
+  },
+  "** 15 seconds left! RESIST! **": {
+    "translation": "还需要15秒!坚持一会!"
+  },
+  "** Hold! The lift will move in 35 seconds! **": {
+    "translation": "电梯35秒后开始移动,守住!"
+  },
+  "** 15 seconds left! Keep it up! **": {
+    "translation": "跟上队伍!还有15秒"
+  },
+  "** Hold! The lift will move in 25 seconds! **": {
+    "translation": "回头守住!电梯还有25秒才启动"
+  },
+  "** Current level: EASY**": {
+    "translation": "当前难度: 简简单单"
+  },
+  "** Current level: MODERATE **": {
+    "translation": "当前难度: 普普通通"
+  },
+  "** Current level: SAVAGE **": {
+    "translation": "当前难度: 疯狂杀戮"
+  },
+  "** Just 15 more seconds! Keep it up! **": {
+    "translation": "只是再需要15秒而已!"
+  },
+  "** Resist! This is our last stand! 35 seconds left! **": {
+    "translation": "坚持住!最后一个点了!还有35秒"
+  },
+  "** Just 10 more seconds! Keep it up! **": {
+    "translation": "再需要10秒而已!"
+  },
+  "** Resist! This elevator ends the cycle! 25 seconds left! **": {
+    "translation": "还有25秒"
+  },
+  "** RESIST! 20 SECONDS LEFT! **": {
+    "translation": "守住僵尸!还有20秒"
+  },
+  "** THIS IS THE END! 45 SECONDS! HOLD! **": {
+    "translation": "这里就是终点了!还有45秒"
+  },
+  "** GET READY TO GO! 5 SECONDS! HOP IN! **": {
+    "translation": "快进来!还有5秒"
+  },
+  "** LEVEL CHANGED TO MODERATE **": {
+    "translation": "关卡更换至: 普普通通"
+  },
+  "** ASTONISHING! WILL YOU BE ABLE TO BEAT THE SAVAGE MODE? **": {
+    "translation": "太tm牛逼了!这样说不定你能完成最终难度?"
+  },
+  "** LEVEL CHANGED TO SAVAGE **": {
+    "translation": "关卡更换至: 疯狂杀戮"
+  },
+  "** GREAT! THE CHALLENGE CONTINUES ON MODERATE MODE! **": {
+    "translation": "干得不错!继续挑战普通模式吧!"
+  },
+  "** FANTASTIC EFFORT! YOU'VE BEATEN THE MAP! **": {
+    "translation": "太Team了!你已经完成了地图!"
+  },
+  "** The map will go back to the first level now. **": {
+    "translation": "地图将重新回到第一关"
+  },
+  "** LEVEL CHANGED TO EASY **": {
+    "translation": "关卡更换至: 简简单单"
+  },
+  "** ZOMBIES DETECTED - INVALID VICTORY! **": {
+    "translation": "检测到僵尸了!人类的胜利无效!!!!"
+  }
+}

@@ -88,7 +88,7 @@
   "**ADMIN HAS PRESSED KILL ALL BUTTON**": {
     "translation": "**管理员处死所有玩家**"
   },
-  "**Level changes to NORMAL** ": {
+  "**Level changes to NORMAL**": {
     "translation": "**级别更为正常** "
   },
   "**Fall back close door in 20 second**": {
@@ -127,7 +127,7 @@
   "**OMG! This is Darth Vader! SHOOT!**": {
     "translation": "**天啊!这是达斯维达!开枪!**"
   },
-  "**Level changes to HARD** ": {
+  "**Level changes to HARD**": {
     "translation": "**级别更改为困难** "
   },
   "**The ship will move in 15 seconds**": {
@@ -148,7 +148,7 @@
   "*Fall back door close in 15 second*": {
     "translation": "*大门在15秒后关闭*"
   },
-  "**Level changes to EXTREME** ": {
+  "**Level changes to EXTREME**": {
     "translation": "**级别更改为 EXTREME** "
   },
   "*Droids cover the vicegerent. Capture him!*": {
@@ -214,7 +214,7 @@
   "First door will open in 10 seconds": {
     "translation": "第一扇门将在10秒后打开"
   },
-  "Second door will open in 10 seconds ": {
+  "Second door will open in 10 seconds": {
     "translation": "第二扇门将在10秒后打开 "
   },
   "Third door will open in 10 seconds": {
@@ -232,7 +232,7 @@
   "AFK TELEPORT 5 IN SECOND": {
     "translation": "挂机将在5秒后传送"
   },
-  "**First door will open in 45 seconds** ": {
+  "**First door will open in 45 seconds**": {
     "translation": "**第一扇门将在45秒后打开** "
   },
   "Second door will open in 15 seconds": {
@@ -265,7 +265,7 @@
   "RATHER!!!!!!! Press button!!!!": {
     "translation": "快!!!!!按下按钮!!!"
   },
-  "AFK TELEPORT IN 10 SECOND ": {
+  "AFK TELEPORT IN 10 SECOND": {
     "translation": "挂机将在10秒后传送"
   },
   "Shoot in middle the station of droids!": {
