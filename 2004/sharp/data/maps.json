@@ -1,0 +1,182 @@
+{
+  "mg_clouds_multigames_v2": {
+    "description": "*对枪* clouds对枪游戏",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_dream_xmas_edition_3": {
+    "description": "*游戏* 圣诞节游戏",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_fun_matrix_trilogie_rc2_fys": {
+    "description": "*对枪* 黑客帝国三部曲",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_lego_multigames_r1c1": {
+    "description": "*游戏* 乐高小游戏重制版v1",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_mikis_multigames": {
+    "description": "*游戏* mikis小游戏",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_multigames_devine_is_french": {
+    "description": "*对枪* devine小游戏合集",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_n64_goldeneye_go": {
+    "description": "*对枪* n64黄金眼",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_race_long_road_extended": {
+    "description": "*普通* 公路赛跑",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_rainbow_multigames_v1": {
+    "description": "*游戏* 彩虹小游戏",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_randomizer_reborn_v2": {
+    "description": "*游戏* 随机地图重制版",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_ski_mountain_v2_csgo": {
+    "description": "*普通* 滑雪山",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_skytower_v1": {
+    "description": "*普通* 天空塔",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_super_tower_v4": {
+    "description": "*普通* 超级塔",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_swag_multigames_v7_1_fys": {
+    "description": "*游戏* swag小游戏合集",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_warmcup_headshot_sfw_fys": {
+    "description": "*对枪* warmcup爆头图",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_weapon_case_arenas_v1_2": {
+    "description": "*对枪* 开箱竞技场",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_wl_multigames": {
+    "description": "*游戏* 战斗方块剧场",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "mg_yolo_multigames_v1": {
+    "description": "*游戏* yolo小游戏",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 12,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  }
+}
