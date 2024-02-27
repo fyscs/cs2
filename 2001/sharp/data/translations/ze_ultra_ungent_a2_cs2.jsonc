@@ -1,0 +1,173 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***YOU THE BEST***": {
+    "translation": "***你是天坠之王***"
+  },
+  "*** ULTRA UNGENT IS DEAD ***": {
+    "translation": "*** 跳刀王寄了 ***"
+  },
+  "*** SHOOT THE ULTRA UNGENT ***": {
+    "translation": "*** 快点干掉跳刀王 ***"
+  },
+  "*** 10 SECONDS LEFT ***": {
+    "translation": "*** 还剩10秒 ***",
+  },
+  "*** 20 SECONDS LEFT ***": {
+    "translation": "*** 还剩20秒 ***",
+  },
+  "*** 30 SECONDS LEFT ***": {
+    "translation": "*** 还剩30秒 ***",
+
+  },
+  "*** 40 SECONDS LEFT ***": {
+    "translation": "*** 还剩40秒 ***",
+  },
+  "*** 50 SECONDS LEFT ***": {
+    "translation": "*** 还剩50秒 ***",
+  },
+  "*** 60 SECONDS LEFT ***": {
+    "translation": "*** 还剩60秒 ***",
+  },
+  "*** 70 SECONDS LEFT ***": {
+    "translation": "*** 还剩70秒 ***",
+  },
+  "*** ALL PLAYER IS TELEPORT ***": {
+    "translation": "*** 所有玩家已传送 ***"
+  },
+  "*** SURVIVAL FOR 90 SECONDS ***": {
+    "translation": "*** 找地方开黑90秒 ***"
+  },
+  "*** FALL BACK ***": {
+    "translation": "*** 该润了 ***"
+  },
+  "*** 5 SECONDS LEFT ***": {
+    "translation": "*** 还剩5秒 ***",
+  },
+  "*** HOLD 25 SECONDS ***": {
+    "translation": "*** 坚守25秒 ***"
+  },
+  "*** HOLD 30 SECONDS ***": {
+    "translation": "*** 坚守30秒 ***"
+  },
+  "+= Stage 3 : EXTREME SHELTER =+": {
+    "translation": "+= 第三关 : 跳绳王 =+"
+  },
+  "+= Map Created By Rio =+": {
+    "translation": "+= 地图作者 Rio 翻译 夜里很饿@风云社=+"
+  },
+  "*** [MISSON] HOPE YOU KILL THE ULTRA UNGENT AND ESCAPE SAFELY ***": {
+    "translation": "*** [任务] 希望你能在跳刀之后活下来 ***"
+  },
+  "***ADMIN: SET STAGE 3***": {
+    "translation": "***管理选择第3关***"
+  },
+  "*** AIRSHIP MOVE IN 20 SECONDS ***": {
+    "translation": "*** 飞船还有20秒就润了哦 ***"
+  },
+  "***  5 SECONDS LEFT ***": {
+    "translation": "***  还剩5秒 ***",
+  },
+  "***  4 SECONDS LEFT ***": {
+    "translation": "***  还剩4秒 ***",
+  },
+  "***  3 SECONDS LEFT ***": {
+    "translation": "***  还剩3秒 ***",
+  },
+  "***  2 SECONDS LEFT ***": {
+    "translation": "***  还剩2秒 ***",
+  },
+  "***  1 SECONDS LEFT ***": {
+    "translation": "***  还剩1秒 ***",
+  },
+  "+= Stage 2 COMPLETE =+": {
+    "translation": "+= 第二关完成 =+"
+  },
+  "***ALL PLAYERS ARE TELEPORTED***": {
+    "translation": "***所有玩家已传送***"
+  },
+  "*** LAST DOOR OPENING IN 20 SECONDS ***": {
+    "translation": "*** 最后一道门20秒后开 ***"
+  },
+  "*** HOLD 20 SECONDS ***": {
+    "translation": "*** 守住20秒 ***"
+  },
+  "*** TELEPORT IN 50 SECONDS ***": {
+    "translation": "*** 传送在50秒后 ***"
+  },
+  "*** 10 SECONDS LEFT": {
+    "translation": "*** 还剩10秒 ***"
+  },
+  "*** DOOR OPENING IN 20 SECONDS ***": {
+    "translation": "*** 门在20秒后开 ***"
+  },
+  "*** ALL PLAYERS ARE TELEPORTED ***": {
+    "translation": "*** 所有玩家已传送 ***"
+  },
+  "*** LEAVING IN 30 SECONDS ***": {
+    "translation": "*** 还有30秒就走了 ***"
+  },
+  "+= Stage 2 : Base Escape =+": {
+    "translation": "+= 第二关:基地逃亡 =+"
+  },
+  "*** [MISSON] CHEAK THE AREA WHERE THE ULTRA UNGENT IS LOCATED AND ESCAPE SAFELY ***": {
+    "translation": "*** [任务] 检查跳刀王所在的区域然后顺利离开 ***"
+  },
+  "***ADMIN: SET STAGE 2***": {
+    "translation": "***管理选择第2关***"
+  },
+  "*** SIDE DOOR OPENING IN 20 SECONDS ***": {
+    "translation": "*** 两侧门在20秒后开启 ***"
+  },
+  "***ADMIN: SET STAGE 1***": {
+    "translation": "***管理选择第1关***"
+  },
+  "*** DOOR OPENING IN 40 SECONDS ***": {
+    "translation": "*** 门在40秒后开 ***"
+  },
+  "*** LEAVING IN 50 SECONDS ***": {
+    "translation": "*** 还有50秒就走了 ***"
+  },
+  "*** 25 SECONDS LEFT ***": {
+    "translation": "*** 还剩25秒 ***"
+  },
+  "*** LEAVING IN 10 SECONDS ***": {
+    "translation": "*** 还有10秒就走了 ***"
+  },
+  "*** ELEVATOR IS MOVE ***": {
+    "translation": "*** 电梯走了 ***"
+  },
+  "+= Stage 1 : Snow Shelter =+": {
+    "translation": "+= 第一关:雪地避难所 =+"
+  },
+  "+= Map ported by Kuroki =+": {
+    "translation": "+= 地图移植作者 Kuroki =+"
+  },
+  "+= Special thanks for the help in testing the Kotya Way =+": {
+    "translation": "+= 特别感谢 Kotya 在测试中的帮助 =+"
+  },
+  "***RTV***": {
+    "translation": "***RTV关***"
+  },
+  "+= Stage 0 : Warmup Round =+": {
+    "translation": "+= 热身回合 =+"
+  },
+  "*** Warm up Round ***": {
+    "translation": "*** 热身回合结束 ***"
+  },
+  "*** MAP STARTING... ***": {
+    "translation": "*** 地图正式开始... ***"
+  },
+  "***ADMIN: SET RTV STAGE***": {
+    "translation": "***管理选择RTV环节***"
+  }
+}

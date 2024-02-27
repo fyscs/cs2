@@ -11,100 +11,100 @@
 
 {
   "[Game Manager] Scout": {
-    "translation": "[Game Manager] Scout"
+    "translation": "[Game Manager] 鸟狙"
   },
   "[Game Manager] Scout V2 (Custom game by bubblx)": {
-    "translation": "[Game Manager] Scout V2 (Custom game by bubblx)"
+    "translation": "[Game Manager] 鸟狙 V2(定制游戏者: bubblx)"
   },
   "[Game Manager] Long Jump V2 (Custom game by vedesh)": {
-    "translation": "[Game Manager] Long Jump V2 (Custom game by vedesh)"
+    "translation": "[Game Manager] 长跳 V2(定制游戏者: vedesh)"
   },
   "[Game Manager] Awp V2 (Custom game by vedesh)": {
-    "translation": "[Game Manager] Awp V2 (Custom game by vedesh)"
+    "translation": "[Game Manager] 大狙 V2(定制游戏者: vedesh)"
   },
   "[Game Manager] Awp": {
-    "translation": "[Game Manager] Awp"
+    "translation": "[Game Manager] 大狙"
   },
   "[Game Manager] Skate V2 (Custom game by DexKekcuk#13)": {
-    "translation": "[Game Manager] Skate V2 (Custom game by DexKekcuk#13)"
+    "translation": "[Game Manager] 滑冰 V2(定制游戏者: DexKekcuk#13)"
   },
   "[Game Manager] Blind Deagle V2 (Custom game by bubblx)": {
-    "translation": "[Game Manager] Blind Deagle V2 (Custom game by bubblx)"
+    "translation": "[Game Manager] 沙鹰隐藏门 V2(定制游戏者: bubblx)"
   },
   "[Game Manager] Labyrinth (Custom game by vedesh)": {
-    "translation": "[Game Manager] Labyrinth (Custom game by vedesh)"
+    "translation": "[Game Manager] 小黑屋(定制游戏者: vedesh)"
   },
   "[Game Manager] Knife (Custom mods by vedesh)": {
-    "translation": "[Game Manager] Knife (Custom mods by vedesh)"
+    "translation": "[Game Manager] 刀战(定制游戏者: vedesh)"
   },
   "[Game Manager] Grenades": {
-    "translation": "[Game Manager] Grenades"
+    "translation": "[Game Manager] 手雷"
   },
   "[Game Manager] Shotguns": {
-    "translation": "[Game Manager] Shotguns"
+    "translation": "[Game Manager] 霰弹枪"
   },
   "[Game Manager] Many Rooms": {
-    "translation": "[Game Manager] Many Rooms"
+    "translation": "[Game Manager] 蜂巢"
   },
   "[Game Manager] Long Jump": {
-    "translation": "[Game Manager] Long Jump"
+    "translation": "[Game Manager] 长跳"
   },
   "[Mod Manager] Normal Gravity": {
-    "translation": "[Mod Manager] Normal Gravity"
+    "translation": "[Mod Manager] 正常重力"
   },
   "[Mod Manager] Low Gravity": {
-    "translation": "[Mod Manager] Low Gravity"
+    "translation": "[Mod Manager] 低重力"
   },
   "[Mod Manager] Nigh Gravity": {
-    "translation": "[Mod Manager] Nigh Gravity"
+    "translation": "[Mod Manager] 高重力"
   },
   "[Game Manager] Skate": {
-    "translation": "[Game Manager] Skate"
+    "translation": "[Game Manager] 滑冰"
   },
   "[Game Manager] Bhop": {
-    "translation": "[Game Manager] Bhop"
+    "translation": "[Game Manager] 连跳"
   },
   "[Game Manager] 2Rooms": {
-    "translation": "[Game Manager] 2Rooms"
+    "translation": "[Game Manager] 双房"
   },
   "[Game Manager] Spawn Fight (Custom game by vedesh)": {
-    "translation": "[Game Manager] Spawn Fight (Custom game by vedesh)"
+    "translation": "[Game Manager] 原地战(定制游戏者: vedesh)"
   },
   "[Mod Manager] Every man for himself": {
-    "translation": "[Mod Manager] Every man for himself"
+    "translation": "[Mod Manager] 各自为战"
   },
   "[Game Manager] Speed Jumps": {
-    "translation": "[Game Manager] Speed Jumps"
+    "translation": "[Game Manager] 快速旋转跳"
   },
   "[Game Manager] Blind Deagle": {
-    "translation": "[Game Manager] Blind Deagle"
+    "translation": "[Game Manager] 沙鹰隐藏墙"
   },
   "@[Map] 30 seconds ": {
-    "translation": "@[Map] 30 seconds "
+    "translation": "@[Map] 30秒"
   },
   "Map made by The_prodigy": {
-    "translation": "Map made by The_prodigy"
+    "translation": "地图创作者: The_prodigy"
   },
   "Map ported by vedesh": {
-    "translation": "Map ported by vedesh"
+    "translation": "地图移植人: vedesh  地图汉化: 亦浅 工具银"
   },
   "[Game Manager] Football": {
-    "translation": "[Game Manager] Football"
+    "translation": "[Game Manager] 足球"
   },
   "[Mod Manager] Knife 1HP": {
-    "translation": "[Mod Manager] Knife 1HP"
+    "translation": "[Mod Manager] 刀战1HP"
   },
   "[Mod Manager] Normal Knife": {
-    "translation": "[Mod Manager] Normal Knife"
+    "translation": "[Mod Manager] 正常刀战"
   },
   "[Mod Manager] Knife BackStap": {
-    "translation": "[Mod Manager] Knife BackStap"
+    "translation": "[Mod Manager] 背刺刀战"
   },
   "[Game Manager] Break Box": {
-    "translation": "[Game Manager] Break Box"
+    "translation": "[Game Manager] 拆箱子"
   },
   "[Game Manager] Skipping rope": {
-    "translation": "[Game Manager] Skipping rope"
+    "translation": "[Game Manager] 跳绳"
   },
   "[Music Manager] Alan Walker - Alone (WildVibes Remix)": {
     "translation": "[Music Manager] Alan Walker - Alone (WildVibes Remix)"
@@ -137,48 +137,49 @@
     "translation": "[Music Manager] Fall Out Boy - Light Em Up"
   },
   "@2Rooms": {
-    "translation": "@2Rooms"
+    "translation": "(旧)双房"
   },
   "@Grenades": {
-    "translation": "@Grenades"
+    "translation": "(旧)手雷"
   },
   "@Blind Deagle": {
-    "translation": "@Blind Deagle"
+    "translation": "(旧)沙鹰隐藏门"
   },
   "@Shotgun": {
-    "translation": "@Shotgun"
+    "translation": "(旧)霰弹枪"
   },
   "@Awp": {
-    "translation": "@Awp"
+    "translation": "(旧)大狙"
   },
   "@Knife": {
-    "translation": "@Knife"
+    "translation": "(旧)刀战"
   },
   "@Football": {
-    "translation": "@Football"
+    "translation": "(旧)足球"
   },
   "@Skate": {
-    "translation": "@Skate"
+    "translation": "(旧)滑冰"
   },
   "@BreakBox": {
-    "translation": "@BreakBox"
+    "translation": "(旧)拆箱子"
   },
   "@Long Jump": {
-    "translation": "@Long Jump"
+    "translation": "(旧)长跳"
   },
   "@Speed Jumps": {
-    "translation": "@Speed Jumps"
+    "translation": "(旧)快速旋转跳"
   },
   "@Scout": {
-    "translation": "@Scout"
+    "translation": "(旧)鸟狙"
   },
   "@Many Rooms": {
-    "translation": "@Many Rooms"
+    "translation": "(旧)蜂巢"
   },
   "@Skipping rope": {
-    "translation": "@Skipping rope"
+    "translation": "(旧)跳绳"
   },
   "@Bhop": {
-    "translation": "@Bhop"
+    "translation": "(旧)连跳"
   }
 }
+

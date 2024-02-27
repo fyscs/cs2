@@ -11,198 +11,203 @@
 
 {
   "** Hold for 10 seconds. **": {
-    "translation": "** Hold for 10 seconds. **"
+    "translation": "** 守住这10秒! **"
   },
   "*** He's dead. Run. ***": {
-    "translation": "*** He's dead. Run. ***"
+    "translation": "*** 它死了,快跑! ***"
   },
   "** Kill the remaining zombies! **": {
-    "translation": "** Kill the remaining zombies! **"
+    "translation": "** 杀死剩余的僵尸! **"
   },
   "** YOU WON STAGE 3 **": {
-    "translation": "** YOU WON STAGE 3 **"
+    "translation": "** 你通过了第三关 **"
   },
   "|||||YOU LOSE|||||": {
-    "translation": "|||||YOU LOSE|||||"
+    "translation": "|||||你输了|||||"
   },
   "** AND NOW YOU WILL DIE! **": {
-    "translation": "** AND NOW YOU WILL DIE! **"
+    "translation": "** 你会死的! **"
   },
   "** FALL BACK **": {
-    "translation": "** FALL BACK **"
+    "translation": "** 撤退 **"
   },
   "** 5 seconds left **": {
-    "translation": "** 5 seconds left **"
+    "translation": "** 剩余5秒 **"
   },
   "** The doors will open in 20 seconds **": {
-    "translation": "** The doors will open in 20 seconds **"
+    "translation": "** 门将在20秒后打开 **"
   },
   "** The doors will open in 25 seconds **": {
-    "translation": "** The doors will open in 25 seconds **"
+    "translation": "** 门将在25秒后打开 **"
   },
   "** The doors will open in 15 seconds **": {
-    "translation": "** The doors will open in 15 seconds **"
+    "translation": "** 门将在15秒后打开**"
   },
   "** The door will open in 30 seconds **": {
-    "translation": "** The door will open in 30 seconds **"
+    "translation": "** 门将在30秒后打开 **"
   },
   "** Hold zombies for 15 seconds **": {
-    "translation": "** Hold zombies for 15 seconds **"
+    "translation": "** 守住僵尸15秒 **"
   },
   "** Kill him or he kills you!!! **": {
-    "translation": "** Kill him or he kills you!!! **"
-  },
-  "** Hold Zombies for 10 seconds **": {
-    "translation": "** Hold Zombies for 10 seconds **"
+    "translation": "** 要么杀了它,要么我们死!!! **"
   },
   "** Bomb explodes in 20 seconds **": {
-    "translation": "** Bomb explodes in 20 seconds **"
+    "translation": "** 炸弹将在20秒后爆炸 **"
   },
   "*** Grenades do more damage. (8 SECONDS)***": {
-    "translation": "*** Grenades do more damage. (8 SECONDS)***"
+    "translation": "*** 手雷将对boss造成更高的伤害(8秒内)***"
   },
   "** Meteorite arrives in 17 seconds. **": {
-    "translation": "** Meteorite arrives in 17 seconds. **"
+    "translation": "** 陨石将在17秒后到达(远离该区域!). **"
   },
   "** 5 seconds left. **": {
-    "translation": "** 5 seconds left. **"
+    "translation": "** 剩余5秒. **"
+  },
+  "** Hold zombies for 10 seconds **": {
+    "translation": "** 守住僵尸10秒 **"
   },
   "** Hold for 20 seconds. **": {
-    "translation": "** Hold for 20 seconds. **"
+    "translation": "** 防守20秒. **"
   },
   "** Teleport will open in 20 seconds. **": {
-    "translation": "** Teleport will open in 20 seconds. **"
+    "translation": "** 传送将在20秒后打开. **"
   },
   "** Hold for 15 seconds. **": {
-    "translation": "** Hold for 15 seconds. **"
+    "translation": "** 守住15秒. **"
   },
   "** Teleport will open in 15 seconds **": {
-    "translation": "** Teleport will open in 15 seconds **"
+    "translation": "** 传送将在15秒后打开 **"
   },
   "*** Grenades do more damage (4 SECONDS). ***": {
-    "translation": "*** Grenades do more damage (4 SECONDS). ***"
+    "translation": "*** 手雷将对boss造成更高的伤害 (4秒内) ***"
   },
   "** Do not come to the edge of the platform! **": {
-    "translation": "** Do not come to the edge of the platform! **"
+    "translation": "** 不要站到平台的边缘上! **"
   },
   "*** YOU WON STAGE 5 ***": {
-    "translation": "*** YOU WON STAGE 5 ***"
+    "translation": "*** 你通过了第五关 ***"
   },
   "** Humans have become immortal!!! **": {
-    "translation": "** Humans have become immortal!!! **"
+    "translation": "** 人类将被歌颂,名垂千古!!! **"
   },
   "** Zombies have 1 HP! **": {
-    "translation": "** Zombies have 1 HP! **"
+    "translation": "** 僵尸将变得只剩1滴血! **"
   },
   "** Teleport will open in 20 seconds **": {
-    "translation": "** Teleport will open in 20 seconds **"
+    "translation": "** 传送将在20秒后打开 **"
   },
   "*** YOU WON STAGE 1 ***": {
-    "translation": "*** YOU WON STAGE 1 ***"
+    "translation": "*** 你通过了第一关 ***"
   },
   "*** YOU WON STAGE 4 ***": {
-    "translation": "*** YOU WON STAGE 4 ***"
+    "translation": "*** 你通过了第四关 ***"
   },
   ">>*** THANKS FOR PLAYING! ***<<": {
-    "translation": ">>*** THANKS FOR PLAYING! ***<<"
+    "translation": ">>*** 感谢你的游玩! ***<<"
   },
   ">>*** IT'S TIME TO CHOOSE A LEVEL! ***<<": {
-    "translation": ">>*** IT'S TIME TO CHOOSE A LEVEL! ***<<"
+    "translation": ">>*** 是时候选择一个关卡了! ***<<"
   },
   ">| ADMIN ROOM |< Level changed to ZM(6). Kill all in 5 seconds.": {
-    "translation": ">| ADMIN ROOM |< Level changed to ZM(6). Kill all in 5 seconds."
+    "translation": ">| 调关房 |< 关卡调至ZM关(六). 5秒后处死全体."
   },
   ">> ZM ROUND <<": {
-    "translation": ">> ZM ROUND <<"
+    "translation": ">> ZM关 <<"
   },
   "** Victory in 230 seconds. **": {
-    "translation": "** Victory in 230 seconds. **"
+    "translation": "** 230秒后获得胜利. **"
   },
   "** Victory in 200 seconds. **": {
-    "translation": "** Victory in 200 seconds. **"
+    "translation": "** 200秒后获得胜利. **",
+    "blocked": true
   },
   "** Victory in 150 seconds. **": {
-    "translation": "** Victory in 150 seconds. **"
+    "translation": "** 150秒后获得胜利. **",
+    "blocked": true
   },
   "** Victory in 100 seconds. **": {
-    "translation": "** Victory in 100 seconds. **"
+    "translation": "** 100秒后获得胜利. **",
+    "blocked": true
   },
   "** Victory in 50 seconds. **": {
-    "translation": "** Victory in 50 seconds. **"
+    "translation": "** 50秒后获得胜利. **",
+    "blocked": true
   },
   "** Victory in 10 seconds. **": {
-    "translation": "** Victory in 10 seconds. **"
+    "translation": "** 10秒后获得胜利. **",
+    "blocked": true
   },
   ">> VICTORY <<": {
-    "translation": ">> VICTORY <<"
+    "translation": ">> 胜利 <<"
   },
   ">| ADMIN ROOM |< Level changed to 5. Kill all in 5 seconds.": {
-    "translation": ">| ADMIN ROOM |< Level changed to 5. Kill all in 5 seconds."
+    "translation": ">| 调关房 |< 关卡调至第五关. 5秒后处死全体."
   },
   ">> STAGE 5 <<": {
-    "translation": ">> STAGE 5 <<"
+    "translation": ">> 关卡五 <<"
   },
   "** Run into the center and break the crystal!!! **": {
-    "translation": "** Run into the center and break the crystal!!! **"
+    "translation": "** 往中间金字塔顶奔跑,并且打碎头上的水晶!!! **"
   },
   ">>> WARMUP ROUND <<<": {
-    "translation": ">>> WARMUP ROUND <<<"
+    "translation": ">>> 热身关卡 <<<"
   },
   ">| ADMIN ROOM |< Level changed to 4. Kill all in 5 seconds.": {
-    "translation": ">| ADMIN ROOM |< Level changed to 4. Kill all in 5 seconds."
+    "translation": ">| 调关房 |< 关卡调至第四关. 5秒后处死全体."
   },
   ">| ADMIN ROOM |< Level changed to 3. Kill all in 5 seconds.": {
-    "translation": ">| ADMIN ROOM |< Level changed to 3. Kill all in 5 seconds."
+    "translation": ">| 调关房 |< 关卡调至第三关. 5秒后处死全体."
   },
   ">| ADMIN ROOM |< Level changed to 2. Kill all in 5 seconds.": {
-    "translation": ">| ADMIN ROOM |< Level changed to 2. Kill all in 5 seconds."
+    "translation": ">| 调关房 |< 关卡调至第二关. 5秒后处死全体."
   },
   ">| ADMIN ROOM |< Level changed to 1. Kill all in 5 seconds.": {
-    "translation": ">| ADMIN ROOM |< Level changed to 1. Kill all in 5 seconds."
+    "translation": ">| 调关房 |< 关卡调至第一关. 5秒后处死全体."
   },
   ">> STAGE 4 <<": {
-    "translation": ">> STAGE 4 <<"
+    "translation": ">> 关卡四 <<"
   },
   ">> STAGE 3 <<": {
-    "translation": ">> STAGE 3 <<"
+    "translation": ">> 关卡三 <<"
   },
   ">> STAGE 2 <<": {
-    "translation": ">> STAGE 2 <<"
+    "translation": ">> 关卡二 <<"
   },
   ">> STAGE 1 <<": {
-    "translation": ">> STAGE 1 <<"
+    "translation": ">> 关卡一 <<"
   },
   ">>*** MAP BY STK ***<<": {
-    "translation": ">>*** MAP BY STK ***<<"
+    "translation": ">>*** 地图作者:STK 地图翻译:小妖梦@风云社 ***<<"
   },
   "*** Lua scripts not loaded ***": {
-    "translation": "*** Lua scripts not loaded ***"
+    "translation": "*** 尚未加载Lua脚本 ***"
   },
   "*** Bosses is disabled! ***": {
-    "translation": "*** Bosses is disabled! ***"
+    "translation": "*** Bosses已禁用! ***"
   },
   "** The doors will open in 10 seconds **": {
-    "translation": "** The doors will open in 10 seconds **"
+    "translation": "** 门将在10秒后打开 **"
   },
   "** Elevator leaves in 20 seconds **": {
-    "translation": "** Elevator leaves in 20 seconds **"
+    "translation": "** 电梯将在20秒后离开 **"
   },
   "** YOU WON STAGE 2 **": {
-    "translation": "** YOU WON STAGE 2 **"
+    "translation": "** 你通过了第二关 **"
   },
   "** Teleport will open on 10 seconds **": {
-    "translation": "** Teleport will open on 10 seconds **"
+    "translation": "** 传送将在10秒后打开 **"
   },
   "*** Grenades do more damage. ***": {
-    "translation": "*** Grenades do more damage. ***"
+    "translation": "*** 手雷将对boss造成更高的伤害. ***"
   },
   "** Press on the 4 obelisks to open the door **": {
-    "translation": "** Press on the 4 obelisks to open the door **"
+    "translation": "** 对着四周的方尖碑触发开关开门 **"
   },
   "** The doors will open on 15 seconds **": {
-    "translation": "** The doors will open on 15 seconds **"
+    "translation": "** 门将在15秒后打开 **"
   },
   "** 10 seconds left **": {
-    "translation": "** 10 seconds left **"
+    "translation": "** 剩余10秒 **"
   }
 }
