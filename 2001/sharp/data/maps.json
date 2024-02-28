@@ -5,7 +5,7 @@
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 600,
     "cooldown": 80,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.3
   },
@@ -15,7 +15,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -25,7 +25,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -35,7 +35,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -45,7 +45,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -55,7 +55,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -65,7 +65,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -75,7 +75,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -85,7 +85,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -95,7 +95,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": true,
     "refund": 0.5
   },
@@ -105,7 +105,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -115,7 +115,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -125,7 +125,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -135,7 +135,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -145,7 +145,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -155,7 +155,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -165,7 +165,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -175,7 +175,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -185,7 +185,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -195,7 +195,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -205,7 +205,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -215,7 +215,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -225,7 +225,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -235,7 +235,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -245,7 +245,7 @@
     "certainTimes": [-1],
     "price": 600,
     "cooldown": 80,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.3
   },
@@ -255,7 +255,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -265,7 +265,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -275,7 +275,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -285,7 +285,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -295,7 +295,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -305,7 +305,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -315,7 +315,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -325,7 +325,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -335,7 +335,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -345,7 +345,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -355,7 +355,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -365,7 +365,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -375,7 +375,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -385,7 +385,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -395,7 +395,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -405,7 +405,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -415,7 +415,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -425,7 +425,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -435,7 +435,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -445,7 +445,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -455,7 +455,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -465,7 +465,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -475,7 +475,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -485,7 +485,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": true,
     "refund": 0.5
   },
@@ -495,7 +495,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": true,
     "refund": 0.5
   },
@@ -505,7 +505,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -515,7 +515,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -525,7 +525,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -535,7 +535,7 @@
     "certainTimes": [-1],
     "price": 800,
     "cooldown": 120,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.3
   },
@@ -545,7 +545,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -555,7 +555,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -565,7 +565,7 @@
     "certainTimes": [-1],
     "price": 500,
     "cooldown": 100,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -575,7 +575,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -585,7 +585,7 @@
     "certainTimes": [-1],
     "price": 500,
     "cooldown": 300,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -595,7 +595,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -605,7 +605,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -615,7 +615,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -625,7 +625,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -635,7 +635,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -645,7 +645,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 150,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -655,7 +655,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -665,7 +665,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -675,7 +675,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -685,7 +685,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -695,7 +695,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -705,7 +705,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -715,7 +715,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -725,7 +725,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -735,7 +735,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -745,7 +745,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": true,
     "refund": 0.5
   },
@@ -755,7 +755,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -765,7 +765,7 @@
     "certainTimes": [-1],
     "price": 500,
     "cooldown": 80,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -775,7 +775,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -785,7 +785,7 @@
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -795,7 +795,7 @@
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -805,7 +805,7 @@
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -815,7 +815,7 @@
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -825,7 +825,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -835,7 +835,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -845,7 +845,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -855,7 +855,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -865,7 +865,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -875,7 +875,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 300,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -885,7 +885,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 120,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -895,7 +895,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -905,7 +905,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -915,7 +915,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -925,7 +925,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -935,7 +935,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -945,7 +945,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -955,7 +955,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -965,7 +965,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": true,
     "refund": 0.5
   },
@@ -975,7 +975,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -985,7 +985,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -995,7 +995,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -1005,7 +1005,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -1015,7 +1015,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": true,
     "refund": 0.5
   },
@@ -1025,7 +1025,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -1035,7 +1035,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -1045,7 +1045,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -1055,7 +1055,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -1065,7 +1065,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -1075,7 +1075,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -1085,7 +1085,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -1095,7 +1095,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -1105,7 +1105,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -1115,7 +1115,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -1125,7 +1125,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -1135,7 +1135,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -1145,7 +1145,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -1155,7 +1155,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   }
