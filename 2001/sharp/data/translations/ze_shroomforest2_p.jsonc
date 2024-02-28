@@ -1,0 +1,127 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">> PLAYER HAS CHOSEN: RAVINE <<": {
+    "translation": ">> PLAYER HAS CHOSEN: RAVINE <<"
+  },
+  ">> PLAYER HAS CHOSEN: TV NORMAL <<": {
+    "translation": ">> PLAYER HAS CHOSEN: TV NORMAL <<"
+  },
+  ">> PLAYER HAS CHOSEN: HEAVEN NORMAL <<": {
+    "translation": ">> PLAYER HAS CHOSEN: HEAVEN NORMAL <<"
+  },
+  ">> RESTARTING ROUND IN 5 SECONDS <<": {
+    "translation": ">> RESTARTING ROUND IN 5 SECONDS <<"
+  },
+  ">> PLAYER HAS CHOSEN: TV EXTREME <<": {
+    "translation": ">> PLAYER HAS CHOSEN: TV EXTREME <<"
+  },
+  ">> PLAYER HAS CHOSEN: HEAVEN EXTREME <<": {
+    "translation": ">> PLAYER HAS CHOSEN: HEAVEN EXTREME <<"
+  },
+  "*** FLY LEAVING IN 30 SECONDS ***": {
+    "translation": "*** FLY LEAVING IN 30 SECONDS ***"
+  },
+  ">> There is an error in the level system <<": {
+    "translation": ">> There is an error in the level system <<"
+  },
+  ">> LEVEL: RAVINE <<": {
+    "translation": ">> LEVEL: RAVINE <<"
+  },
+  ">> LEVEL: TV <<": {
+    "translation": ">> LEVEL: TV <<"
+  },
+  ">> LEVEL: HEAVEN <<": {
+    "translation": ">> LEVEL: HEAVEN <<"
+  },
+  ">> EXTREME MODE ADDED <<": {
+    "translation": ">> EXTREME MODE ADDED <<"
+  },
+  ">> WARMUP ROUND <<": {
+    "translation": ">> WARMUP ROUND <<"
+  },
+  ">> WARMUP ROUND END <<": {
+    "translation": ">> WARMUP ROUND END <<"
+  },
+  ">> 40 SECONDS LEFT <<": {
+    "translation": ">> 40 SECONDS LEFT <<"
+  },
+  ">> 30 SECONDS LEFT <<": {
+    "translation": ">> 30 SECONDS LEFT <<"
+  },
+  ">> 20 SECONDS LEFT <<": {
+    "translation": ">> 20 SECONDS LEFT <<"
+  },
+  ">> LEVEL: THE END <<": {
+    "translation": ">> LEVEL: THE END <<"
+  },
+  ">> 10 SECONDS LEFT <<": {
+    "translation": ">> 10 SECONDS LEFT <<"
+  },
+  ">> PLAYER HAS CHOSEN: THE END <<": {
+    "translation": ">> PLAYER HAS CHOSEN: THE END <<"
+  },
+  ">> Map by Taskuvaras <<": {
+    "translation": ">> Map by Taskuvaras <<"
+  },
+  ">> Finished by Moltard <<": {
+    "translation": ">> Finished by Moltard <<"
+  },
+  "*** FLY LEAVING IN 15 SECONDS ***": {
+    "translation": "*** FLY LEAVING IN 15 SECONDS ***"
+  },
+  "*** FLY LEAVING IN 20 SECONDS ***": {
+    "translation": "*** FLY LEAVING IN 20 SECONDS ***"
+  },
+  ">> PLAYER HAS CHOSEN: RAVINE EXTREME <<": {
+    "translation": ">> PLAYER HAS CHOSEN: RAVINE EXTREME <<"
+  },
+  ">> ESCAPE BY THE LADDER <<": {
+    "translation": ">> ESCAPE BY THE LADDER <<"
+  },
+  ">> THE GROKE IS DEAD <<": {
+    "translation": ">> THE GROKE IS DEAD <<"
+  },
+  ">> ESCAPE BY THE WEB <<": {
+    "translation": ">> ESCAPE BY THE WEB <<"
+  },
+  ">> THE BUILDING WILL BLOW UP <<": {
+    "translation": ">> THE BUILDING WILL BLOW UP <<"
+  },
+  ">> THE TV HEART IS DESTROYED <<": {
+    "translation": ">> THE TV HEART IS DESTROYED <<"
+  },
+  ">> FAT SPIDER IS DEAD <<": {
+    "translation": ">> FAT SPIDER IS DEAD <<"
+  },
+  ">> RUN TO SAFETY <<": {
+    "translation": ">> RUN TO SAFETY <<"
+  },
+  ">> GOD HAS BEEN DEFEATED !!! <<": {
+    "translation": ">> GOD HAS BEEN DEFEATED !!! <<"
+  },
+  ">> CONTINUE TO DEFEND <<": {
+    "translation": ">> CONTINUE TO DEFEND <<"
+  },
+  ">> LET THE ANGELS ESCAPE FIRST <<": {
+    "translation": ">> LET THE ANGELS ESCAPE FIRST <<"
+  },
+  ">> FALLEN ANGEL HAS BEEN DEFEATED !!! <<": {
+    "translation": ">> FALLEN ANGEL HAS BEEN DEFEATED !!! <<"
+  },
+  ">> THE DRAGON HAS BEEN DEFEATED !!! <<": {
+    "translation": ">> THE DRAGON HAS BEEN DEFEATED !!! <<"
+  },
+  ">> SATAN IS FINALLY DEFEATED !!! <<": {
+    "translation": ">> SATAN IS FINALLY DEFEATED !!! <<"
+  }
+}
