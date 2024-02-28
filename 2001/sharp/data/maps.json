@@ -9,7 +9,7 @@
     "admin": false,
     "refund": 0.3
   },
-  "ze_shroomforest_p6": {
+  "ze_shroomforest_i": {
     "description": "蘑菇庄园",
     "tier": 3,
     "certainTimes": [-1],
@@ -19,7 +19,7 @@
     "admin": false,
     "refund": 0.5
   },
-  "ze_shroomforest2_p": {
+  "ze_shroomforest2_i": {
     "description": "蘑菇庄园2",
     "tier": 3,
     "certainTimes": [-1],

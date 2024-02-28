@@ -1,6 +1,6 @@
 {
   "mg_clouds_multigames_v2": {
-    "description": "*对枪* clouds对枪游戏",
+    "description": "*对枪* Clouds",
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
@@ -30,7 +30,7 @@
     "refund": 0.5
   },
   "mg_lego_multigames_r1c1": {
-    "description": "*游戏* 乐高小游戏重制版v1",
+    "description": "*游戏* 乐高重制版v1",
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
@@ -40,7 +40,7 @@
     "refund": 0.5
   },
   "mg_mikis_multigames": {
-    "description": "*游戏* mikis小游戏",
+    "description": "*游戏* Mikis",
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
@@ -50,7 +50,7 @@
     "refund": 0.5
   },
   "mg_multigames_devine_is_french": {
-    "description": "*对枪* devine小游戏合集",
+    "description": "*对枪* Devine",
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
@@ -60,7 +60,7 @@
     "refund": 0.5
   },
   "mg_n64_goldeneye_go": {
-    "description": "*对枪* n64黄金眼",
+    "description": "*对枪* N64黄金眼",
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
@@ -130,7 +130,7 @@
     "refund": 0.5
   },
   "mg_swag_multigames_v7_1_fys": {
-    "description": "*游戏* swag小游戏合集",
+    "description": "*游戏* Swag小游戏",
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
@@ -140,7 +140,7 @@
     "refund": 0.5
   },
   "mg_warmcup_headshot_sfw_fys": {
-    "description": "*对枪* warmcup爆头图",
+    "description": "*对枪* WarmCup",
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
@@ -170,7 +170,7 @@
     "refund": 0.5
   },
   "mg_yolo_multigames_v1": {
-    "description": "*游戏* yolo小游戏",
+    "description": "*游戏* Yolo小游戏",
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
