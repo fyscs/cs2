@@ -76,10 +76,10 @@
     "price": 300,
     "cooldown": 60,
     "nomination": false,
-    "admin": false,
+    "admin": true,
     "refund": 0.5
   },
-  "ze_artika_base": {
+  "ze_artika_base_p": {
     "description": "阿提卡基地",
     "tier": 3,
     "certainTimes": [-1],
@@ -1096,7 +1096,7 @@
     "price": 300,
     "cooldown": 60,
     "nomination": false,
-    "admin": false,
+    "admin": true,
     "refund": 0.5
   },
   "ze_titanic_sweet_dreams": {
@@ -1116,7 +1116,7 @@
     "price": 300,
     "cooldown": 60,
     "nomination": false,
-    "admin": false,
+    "admin": true,
     "refund": 0.5
   },
   "ze_onahole_p": {
@@ -1129,7 +1129,7 @@
     "admin": false,
     "refund": 0.5
   },
-  "ze_box_defend": {
+  "ze_box_defend_v1_3": {
     "description": "",
     "tier": 3,
     "certainTimes": [-1],
@@ -1149,7 +1149,7 @@
     "admin": false,
     "refund": 0.5
   },
-  "ze_mabinogi_cs2_pt1": {
+  "ze_mabinogi_f4_1_cs2": {
     "description": "",
     "tier": 3,
     "certainTimes": [-1],
