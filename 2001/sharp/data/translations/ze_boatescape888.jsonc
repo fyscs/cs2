@@ -1,0 +1,161 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "> Music: Listen Up - 3L <": {
+    "translation": ">正在播放: Listen Up - 3L <"
+  },
+  "**Shit Mode**": {
+    "translation": "搞笑模式"
+  },
+  "**Waiting 15 seconds**": {
+    "translation": "需要等待15秒"
+  },
+  "**How many can you pass?**": {
+    "translation": "说得好听,但是能过几个?"
+  },
+  "**Waiting 14 seconds**": {
+    "translation": "还需要等一会..."
+  },
+  "**Shit Mode Youth**": {
+    "translation": "搞笑模式青春版"
+  },
+  "**Random 6  from all**": {
+    "translation": "随机抽取六关"
+  },
+  "**The boat will depart in 25 seconds**": {
+    "translation": "小船将于25秒后离开"
+  },
+  "**The airboat will depart in 28 seconds**": {
+    "translation": "小飞机将于28秒后离开"
+  },
+  "**But......Pass the final one, good luck!!!**": {
+    "translation": "要活下去哦!祝你们好运!"
+  },
+  "**So how many did you pass**": {
+    "translation": "搞那么厉害,又能过几个?"
+  },
+  "> To the Milky Way <": {
+    "translation": "> 奔向银河 <"
+  },
+  "**The door will close in 10 seconds**": {
+    "translation": "这扇门10秒后关闭"
+  },
+  "**The jet boat will depart in 18 seconds**": {
+    "translation": "小飞船18秒后离开"
+  },
+  "**Map by Tsumugi**": {
+    "translation": "地图制作:Tsumugi"
+  },
+  "**Port by Tenshi.**": {
+    "translation": "地图移植:Tenshi 文本汉化:Lia"
+  },
+  "**Boatescape888 Ver: 1.00**": {
+    "translation": "**Boatescape888 Ver: 1.00**",
+    "blocked": true
+  },
+  "> Luciddream <": {
+    "translation": "> 清醒的白日梦 <"
+  },
+  "> Arcana Heart <": {
+    "translation": "> 阿卡娜之心 <"
+  },
+  "> Offliner <": {
+    "translation": "> 单机也要solo给你看 <"
+  },
+  "> Visualizer <": {
+    "translation": "> 深渊凝望者 <"
+  },
+  "> Deadcore <": {
+    "translation": "> 死亡核心 <"
+  },
+  "> Mist <": {
+    "translation": "> 雾城龙影 <"
+  },
+  "> Neochrome <": {
+    "translation": "> 幻狱影杀阵 <"
+  },
+  "> No Name <": {
+    "translation": "> 无名之地 <"
+  },
+  "> Xenovation <": {
+    "translation": "> 次元终点 <"
+  },
+  "**You are the initial legend!!!**": {
+    "translation": "你就是永恒的传奇!!"
+  },
+  "**You have passed all**": {
+    "translation": "我去,弹幕痴"
+  },
+  "**EndRound**": {
+    "translation": "回合结束!"
+  },
+  "**Airboats will depart in 30 seconds**": {
+    "translation": "小飞船30秒后离开"
+  },
+  "**The door will close in 20 seconds**": {
+    "translation": "小门20秒后关闭"
+  },
+  "**If you dont want to participate, go to the boat on the right**": {
+    "translation": "如果想要同台竞技,就去右边的船上"
+  },
+  "**Baka!!!**": {
+    "translation": "笨蛋!!"
+  },
+  "**Extreme Mode : On**": {
+    "translation": "已启用Extreme模式"
+  },
+  "**Super Run**": {
+    "translation": "超级跑跑"
+  },
+  "> Music: 優しさの記憶 - Kano <": {
+    "translation": "> 正在播放: 優しさの記憶 - Kano <"
+  },
+  "> Music: Hidden Heart - HOYO-MiX / Hanser <": {
+    "translation": "> 正在播放: Hidden Heart - HOYO-MiX / Hanser <"
+  },
+  "> Music: Avid - SawanoHiroyuki[nZk] / 瑞葵(mizuki) <": {
+    "translation": "> 正在播放: Avid - SawanoHiroyuki[nZk] / 瑞葵(mizuki) <"
+  },
+  "> Music: 回马枪 - 兰音Reine <": {
+    "translation": "> 正在播放: 回马枪 - 兰音Reine <"
+  },
+  "> Music: ラグトレイン - 稲葉曇 / 歌愛ユキ <": {
+    "translation": "> 正在播放: ラグトレイン - 稲葉曇 / 歌愛ユキ <"
+  },
+  "> Music: 境界線 - Amazarashi <": {
+    "translation": "> 正在播放: 境界線 - Amazarashi <"
+  },
+  "> Music: Resolution - 市松椿 <": {
+    "translation": "> 正在播放: Resolution - 市松椿 <"
+  },
+  "> Music: 朝が来る - Aimer <": {
+    "translation": "> 正在播放: 朝が来る - Aimer <"
+  },
+  "> Music: それを世界と言うんだね - かふ <": {
+    "translation": "> 正在播放: それを世界と言うんだね - かふ <"
+  },
+  "> Music: Linking Starlights - Murder Ground <": {
+    "translation": "> 正在播放: Linking Starlights - Murder Ground <"
+  },
+  "> Music: 始まりの星 - 出口陽 <": {
+    "translation": "> 正在播放: 始まりの星 - 出口陽 <"
+  },
+  "> Music: Unti-L <100S-R2> - ASCA / 瑞葵(mizuki) <": {
+    "translation": "> 正在播放: Unti-L <100S-R2> - ASCA / 瑞葵(mizuki) <"
+  },
+  "> Music: 一笑江湖 - 兰音Reine <": {
+    "translation": "> 正在播放: 一笑江湖 - 兰音Reine <"
+  },
+  "> Music: 繭色(まゆいろ) - Sajou no hana <": {
+    "translation": "> 正在播放: 繭色(まゆいろ) - Sajou no hana <"
+  }
+}
