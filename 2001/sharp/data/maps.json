@@ -535,7 +535,7 @@
     "certainTimes": [-1],
     "price": 800,
     "cooldown": 120,
-    "nomination": false,
+    "nomination": true,
     "admin": false,
     "refund": 0.3
   },
@@ -1005,7 +1005,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 80,
-    "nomination": false,
+    "nomination": true,
     "admin": false,
     "refund": 0.5
   },
