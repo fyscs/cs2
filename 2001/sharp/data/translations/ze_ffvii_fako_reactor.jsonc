@@ -1,0 +1,271 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "the iconic bahamut from ze_ffvii_mako_reactor_v5 is attacking!!!11!": {
+    "translation": "ze_ffvii_mako_reactorv5的标志性巴哈姆特正在进攻!!"
+  },
+  "we must destroy the fako reactor for some reason!11!!!1!": {
+    "translation": "出于某些原因我们必须摧毁fako反应堆"
+  },
+  "***GATE OPENING IN 45 SECONDS***": {
+    "translation": "***45秒后开门***"
+  },
+  "***GATE OPENING IN 5 SECONDS***": {
+    "translation": "***5秒后开门***"
+  },
+  "the fako looms near...": {
+    "translation": "fako正在靠近..."
+  },
+  "the fako dooms near...": {
+    "translation": "fako末日正在接近..."
+  },
+  "the fako blooms near...": {
+    "translation": "fako的爆炸正在接近..."
+  },
+  "the fako cooms near...": {
+    "translation": "foko正在附近嚎叫..."
+  },
+  "let there be barrels": {
+    "translation": "安置油桶"
+  },
+  "best song coming up ;)": {
+    "translation": "即将播放 全场最佳音乐 ;)"
+  },
+  "the iconic button of yore has been pressed": {
+    "translation": "过去标志性的按钮被按下了"
+  },
+  "***HOLD FOR 40 SECONDS***": {
+    "translation": "***守住40秒***"
+  },
+  "theres nothing": {
+    "translation": "啥都没有"
+  },
+  "to fear": {
+    "translation": "害怕"
+  },
+  "your saviors": {
+    "translation": "你的救世主"
+  },
+  "are here": {
+    "translation": "在这里"
+  },
+  "the ship is coming down": {
+    "translation": "船要沉了"
+  },
+  "coming down": {
+    "translation": "下来"
+  },
+  "*** surely that button on top of that tower unlocks something :clueless: ***": {
+    "translation": "*** 毫无疑问，那座塔顶部的按钮解锁了一些东西：毫无头绪: ***"
+  },
+  "the second iconic button of yore has been pressed": {
+    "translation": "过去第二个象征性的按钮已被触发"
+  },
+  "we'll start the epic journey of ze_ffvii_fako_reactor": {
+    "translation": "我们将开始ze_ffvii_fako_reactor的史诗之旅"
+  },
+  "***GATE OPENING IN 10 SECONDS***": {
+    "translation": "***10秒后开门***"
+  },
+  "we inch closer to fako reactor, the greatest zombie escape map that has ever zombie escaped": {
+    "translation": "我们离fako反应堆越来越近了,这是有史以来最伟大的僵尸逃生地图"
+  },
+  "aerith my beloved babe": {
+    "translation": "和我心爱的宝贝一起"
+  },
+  "the bridge doth disappear'eth...": {
+    "translation": "桥消失了..."
+  },
+  "thou must'eth find'eth le bridge": {
+    "translation": "你必须找到那座桥"
+  },
+  "oh me oh my, the fako, it cry": {
+    "translation": "哦哦哦哦我的假小子,它哭了"
+  },
+  "***FINAL HOLD***": {
+    "translation": "***最后...***"
+  },
+  "***GATE CLOSES IN 45 SECONDS***": {
+    "translation": "***闸门将在45秒后关闭***"
+  },
+  "***LOOK OUT***": {
+    "translation": "***小心***"
+  },
+  "this is the end for you...fako reactor...": {
+    "translation": "这是你的结局...fako的反应堆"
+  },
+  "the door closeth": {
+    "translation": "门关了"
+  },
+  "GET READY FOR LASERS": {
+    "translation": "为了激光做好准备"
+  },
+  "***END OF THE WORLD IN 50 SECONDS***": {
+    "translation": "***50秒后世界末日***"
+  },
+  "***END OF THE WORLD IN 40 SECONDS***": {
+    "translation": "***40秒后世界末日***"
+  },
+  "***END OF THE WORLD IN 30 SECONDS***": {
+    "translation": "***30秒后世界末日***"
+  },
+  "***END OF THE WORLD IN 20 SECONDS***": {
+    "translation": "***20秒后世界末日***"
+  },
+  "***END OF THE WORLD IN 10 SECONDS***": {
+    "translation": "***10秒后世界末日***"
+  },
+  "***YOU'VE BEATEN FAKO REACTOR!!!!!***": {
+    "translation": "***你炸毁了Fako反应堆!!!!!***"
+  },
+  "the fako is...": {
+    "translation": "fako是....."
+  },
+  "right behind that gate there!": {
+    "translation": "就在这扇门后面!"
+  },
+  "open it open it open it open it": {
+    "translation": "打开!打开!打开!"
+  },
+  "embrace the door and lord goober will open it...": {
+    "translation": "拥抱并期待吧!古柏勋爵会帮助你打开它!"
+  },
+  "i promise...": {
+    "translation": "我保证...."
+  },
+  "goober sees all": {
+    "translation": "古柏看到了一切"
+  },
+  "goober hears all": {
+    "translation": "古柏听得一清二楚"
+  },
+  "aaaaaaaaAAAAAAAAAA": {
+    "translation": "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"
+  },
+  "too late for laments": {
+    "translation": "哀叹为时已晚"
+  },
+  "send me ur teeth": {
+    "translation": "把你的牙齿给我"
+  },
+  "yippeeeeeeeeeeeeeeeeeeeeeeeeeeeee": {
+    "translation": "yippeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+  },
+  "yipppppeeeeeeeeeeeeeeeeeeee": {
+    "translation": "yipppppeeeeeeeeeeeeeeeeeeee"
+  },
+  "papa papa papa papa": {
+    "translation": "papa papa papa papa"
+  },
+  "no": {
+    "translation": "不"
+  },
+  "goober sees u": {
+    "translation": "古柏看到你了"
+  },
+  "bababooey": {
+    "translation": "证实"
+  },
+  "ill see you again. - sephiroth": {
+    "translation": "我们还会再见的. - 萨菲罗斯"
+  },
+  "the fako reactor is near...": {
+    "translation": "fako反应堆就在附近..."
+  },
+  "i can smell it...": {
+    "translation": "我能闻到到..."
+  },
+  "i can feel it...": {
+    "translation": "我能感觉到..."
+  },
+  "i can taste it...": {
+    "translation": "我能尝到..."
+  },
+  "i can be it...": {
+    "translation": "我可以..."
+  },
+  "papa": {
+    "translation": "papa"
+  },
+  "mama": {
+    "translation": "mama"
+  },
+  "we're getting closer...": {
+    "translation": "我们越来越接近了..."
+  },
+  "to the iconic map known as ze_ffvii_fako_reactor": {
+    "translation": "到达ze_ffvii_fako_reactor标志性的地方"
+  },
+  "electric boogaloo": {
+    "translation": "机械舞"
+  },
+  "im standing in your backyard": {
+    "translation": "我站在你的后面"
+  },
+  "***SOMEONE ENTERED THE BARREL PIT***": {
+    "translation": "***有人进入了桶坑***"
+  },
+  "oh my gah": {
+    "translation": "我,我的天哪"
+  },
+  "u belong to goober": {
+    "translation": "你属于古柏"
+  },
+  "***GATE OPENING IN 30 SECONDS***": {
+    "translation": "***30秒后开门***"
+  },
+  "i mean": {
+    "translation": "我是说"
+  },
+  "***GATE OPENING IN 30 MINUTEs***": {
+    "translation": "***30秒后开门***"
+  },
+  "***GATE OPENING IN 40 SECONDS***": {
+    "translation": "***40秒后开门***"
+  },
+  "t-tifa door #4, my love": {
+    "translation": "蒂..蒂法四号门,亲爱的"
+  },
+  "mama luigi": {
+    "translation": "路易吉妈妈"
+  },
+  "uncle": {
+    "translation": "叔叔"
+  },
+  "God saw that God saw that God saw that God saw that God saw that God saw that God saw that God saw that ": {
+    "translation": "上帝看到了上帝看到了上帝看到了 "
+  },
+  "oh sweet mama jesus": {
+    "translation": "天啊,亲爱的妈妈"
+  },
+  "sit on me": {
+    "translation": "坐在我身上"
+  },
+  "bring me a dream": {
+    "translation": "给我带来一个梦想"
+  },
+  "i hear you i feel you i smell you i taste you i love you": {
+    "translation": "我听到你我感觉到你我闻到你我尝到你我爱你"
+  },
+  "welcome...": {
+    "translation": "欢迎..........."
+  },
+  "to the greatest map": {
+    "translation": "到达最伟大的地图"
+  },
+  "EVER!1!!!1111!11!!!!11!!!!!": {
+    "translation": "永远!!!!!!!!!!!!!!"
+  },
+  "***Fako Reactor by Goober***": {
+    "translation": "***地图作者:Goober翻译余清茗染@Fys***"
+  }
+}
