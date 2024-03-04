@@ -1,0 +1,79 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "ZE Journey": {
+    "translation": "旅途"
+  },
+  "Created by Soft Serve": {
+    "translation": " 地图作者:Soft Serve地图翻译:余清茗染@Fys"
+  },
+  "*** All 4 levers activated ***": {
+    "translation": "*** 所有四个操作杆已经激活 ***"
+  },
+  "*** Gate opening in 15 seconds ***": {
+    "translation": "*** 15秒后开门 ***"
+  },
+  "*** 5 seconds left ***": {
+    "translation": "*** 还剩5秒 ***"
+  },
+  "*** Gate opening in 10 seconds ***": {
+    "translation": "*** 10秒后开门 ***"
+  },
+  "*** Gate opening ***": {
+    "translation": "*** 闸门开启 ***"
+  },
+  "*** Lift activated ***": {
+    "translation": "*** 升降机已激活 ***"
+  },
+  "*** Gate opening in 20 seconds ***": {
+    "translation": "*** 20秒后开门 ***"
+  },
+  "*** Door opening in 15 seconds ***": {
+    "translation": "*** 15秒后开门 ***"
+  },
+  "*** Boats departing in 20 seconds ***": {
+    "translation": "*** 船将在20秒后撤离 ***"
+  },
+  "*** Boats departing in 5 seconds ***": {
+    "translation": "*** 船将在5秒撤离 ***"
+  },
+  "*** Door opening in 20 seconds ***": {
+    "translation": "*** 20秒后开门 ***"
+  },
+  "*** Door opening in 5 seconds ***": {
+    "translation": "*** 5秒后开门 ***"
+  },
+  "*** Platform rising in 15 seconds ***": {
+    "translation": "*** 平台将在15秒上升 ***"
+  },
+  "*** Right lever activated ***": {
+    "translation": "*** 右操纵杆已激活 ***"
+  },
+  "*** Left lever activated ***": {
+    "translation": "*** 左操纵杆已激活 ***"
+  },
+  "*** Final door opening in 30 seconds ***": {
+    "translation": "*** 30秒后开门 ***"
+  },
+  "*** Final door opening in 5 seconds ***": {
+    "translation": "*** 5秒后开门 ***"
+  },
+  "*** Final door closing in 5 seconds ***": {
+    "translation": "*** 门将在5秒后关闭 ***"
+  },
+  "*** Humans win! ***": {
+    "translation": "*** 人类胜利! ***"
+  },
+  "*** Round failed! Zombies have reached the objective! ***": {
+    "translation": "*** GG!僵尸进来捅你屁股了 ***"
+  }
+}
