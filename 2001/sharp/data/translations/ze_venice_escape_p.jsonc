@@ -13,9 +13,6 @@
   "***AFK Teleport in 45 seconds!***": {
     "translation": "挂机传送还有45秒启动"
   },
-  "***Left bridge charges set for 15secs!*** ": {
-    "translation": "左边的桥15秒后炸毁!"
-  },
   "***Utility door will open in 15secs!***": {
     "translation": "物品房15秒后开门"
   },
@@ -27,7 +24,7 @@
   },
   "***Boat 4 leaving in 5secs!***": {
     "translation": "船四5秒后离开",
-    "blocked":true
+    "blocked": true
   },
   "***Boat 4 leaving in 45secs!***": {
     "translation": "船四45秒后离开"
@@ -91,12 +88,6 @@
   },
   "***Lift 1 leaving in 10secs!***": {
     "translation": "小船一还有10秒离开"
-  },
-  "***Boat house bridge charges set for 15secs!*** ": {
-    "translation": "船坞前的桥15秒后爆炸"
-  },
-  "***Bridge charges set for 15secs!*** ": {
-    "translation": "桥还有15秒爆炸!!"
   },
   "***Boat 5 leaving in 5secs!***": {
     "translation": "***Boat 5 leaving in 5secs!***",
