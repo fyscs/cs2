@@ -1,0 +1,34 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Spawn Prefab by Dawnter***": {
+    "translation": "*** 地图插件帮助:Dawnter ***"
+  },
+  "***Map by w6a7z99***": {
+    "translation": "*** 地图作者:w6a7z99地图翻译:余清茗染@Fys***"
+  },
+  "TIP: You should go to the roof in less than 30 seconds.": {
+    "translation": "提示: 你应该在三十秒后到达房顶."
+  },
+  "*** Helicopter Prefab by AuroraF ***": {
+    "translation": "*** 地图载具帮助:AuroraF ***"
+  },
+  "TIP: Roof entry is now open. Defend for 50 seconds!": {
+    "translation": "提示: 房顶入口现已打开,防守50秒"
+  },
+  "TIP: Prepare to fall back. Helicopter leaves in 20 seconds.": {
+    "translation": "提示: 准备撤退,直升机将在20秒后起飞."
+  },
+  "TIP: Helicopter departs in 10 seconds!": {
+    "translation": "提示: 直升机将在10秒后起飞!"
+  }
+}
