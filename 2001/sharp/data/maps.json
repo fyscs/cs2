@@ -1076,7 +1076,7 @@
     "price": 300,
     "cooldown": 50,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_mirrors_edge_reborn_p": {
@@ -1086,7 +1086,7 @@
     "price": 300,
     "cooldown": 50,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_inboxed_p": {
@@ -1096,7 +1096,7 @@
     "price": 300,
     "cooldown": 50,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_saw_p": {
@@ -1106,7 +1106,7 @@
     "price": 300,
     "cooldown": 50,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_venice_escape_p": {
@@ -1116,7 +1116,7 @@
     "price": 300,
     "cooldown": 50,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_only_up": {
@@ -1126,7 +1126,7 @@
     "price": 300,
     "cooldown": 50,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_surf_okitsu_shonyudo": {
@@ -1136,7 +1136,7 @@
     "price": 300,
     "cooldown": 50,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   }
 }
