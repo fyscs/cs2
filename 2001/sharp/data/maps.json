@@ -1120,7 +1120,7 @@
     "refund": 0.5
   },
   "ze_only_up": {
-    "description": "始终向上",
+    "description": "一直向上",
     "tier": 2,
     "certainTimes": [-1],
     "price": 300,
