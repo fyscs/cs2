@@ -1196,7 +1196,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false,
+    "admin": true,
     "refund": 0.5
   },
   "ze_box_defend_v1_3": {
