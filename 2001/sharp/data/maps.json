@@ -1138,5 +1138,85 @@
     "nomination": false,
     "admin": false,
     "refund": 0.5
+  },
+  "ze_goobers_basement": {
+    "description": "古伯斯地下室",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_ffvii_fako_reactor": {
+    "description": "法科反应堆",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_emerald": {
+    "description": "绿宝石",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_titanic_sweet_dreams": {
+    "description": "泰坦尼克号",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_umbrellazombiezmtr_v1": {
+    "description": "生化保护伞",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_onahole_p": {
+    "description": "黑洞之中",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_box_defend_v1_3": {
+    "description": "禁区防守",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_mabinogi_f4_1_cs2": {
+    "description": "马比诺吉",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
   }
 }
