@@ -1,0 +1,64 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "||| Gate opens in 15 seconds |||": {
+    "translation": "大门于15秒后打开"
+  },
+  "||| Temple opens in 30 seconds |||": {
+    "translation": "神庙于30秒后开启"
+  },
+  "||| Door opens in 15 seconds |||": {
+    "translation": "这扇门还有15秒打开"
+  },
+  "||| Gate opens in 20 seconds |||": {
+    "translation": "还有20秒"
+  },
+  "||| Bring the Emerald to the rescue zone |||": {
+    "translation": "将翡翠石带到安全区域"
+  },
+  "||| Survive for 20 seconds |||": {
+    "translation": "坚持20秒"
+  },
+  "||| Get in the Helicopter |||": {
+    "translation": "快进直升机"
+  },
+  "||| Round Failed |||": {
+    "translation": "回合失败"
+  },
+  "||| Missing Emerald |||": {
+    "translation": "翡翠石丢失..."
+  },
+  "||| Zombie Detected |||": {
+    "translation": "已监测到僵尸"
+  },
+  "||| Humans Win |||": {
+    "translation": "人类获胜"
+  },
+  "||| Emerald successfuly extracted |||": {
+    "translation": "翡翠石已成功带出!!"
+  },
+  "||| Crate explodes in 35 seconds |||": {
+    "translation": "还有35秒爆炸"
+  },
+  "||| Defend for 15 seconds |||": {
+    "translation": "坚守15秒"
+  },
+  "||| Helicopter arrives in 15 seconds |||": {
+    "translation": "直升机15秒后到达"
+  },
+  "||| Door opens in 30 seconds |||": {
+    "translation": "还有30秒开门"
+  },
+  "||| Map by Struppi |||": {
+    "translation": "地图制作:Struppi 文本翻译:Lia"
+  }
+}
