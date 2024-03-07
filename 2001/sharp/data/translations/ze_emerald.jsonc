@@ -11,54 +11,54 @@
 
 {
   "||| Gate opens in 15 seconds |||": {
-    "translation": "大门于15秒后打开"
+    "translation": "||| 15秒后开门 |||"
   },
   "||| Temple opens in 30 seconds |||": {
-    "translation": "神庙于30秒后开启"
+    "translation": "||| 寺庙30秒后开放 |||"
   },
   "||| Door opens in 15 seconds |||": {
-    "translation": "这扇门还有15秒打开"
+    "translation": "||| 15秒后开门 |||"
   },
   "||| Gate opens in 20 seconds |||": {
-    "translation": "还有20秒"
+    "translation": "||| 20秒后开门 |||"
   },
   "||| Bring the Emerald to the rescue zone |||": {
-    "translation": "将翡翠石带到安全区域"
+    "translation": "||| 把翡翠带到救援区 |||"
   },
   "||| Survive for 20 seconds |||": {
-    "translation": "坚持20秒"
+    "translation": "||| 存活20秒 |||"
   },
   "||| Get in the Helicopter |||": {
-    "translation": "快进直升机"
+    "translation": "||| 上直升机 |||"
   },
   "||| Round Failed |||": {
-    "translation": "回合失败"
+    "translation": "||| 失败 |||"
   },
   "||| Missing Emerald |||": {
-    "translation": "翡翠石丢失..."
+    "translation": "||| 翡翠失踪了 |||"
   },
   "||| Zombie Detected |||": {
-    "translation": "已监测到僵尸"
+    "translation": "||| 发现僵尸 |||"
   },
   "||| Humans Win |||": {
-    "translation": "人类获胜"
+    "translation": "||| 人类胜利 |||"
   },
   "||| Emerald successfuly extracted |||": {
-    "translation": "翡翠石已成功带出!!"
+    "translation": "||| 翡翠成功提取 |||"
   },
   "||| Crate explodes in 35 seconds |||": {
-    "translation": "还有35秒爆炸"
+    "translation": "||| 箱子35秒后爆炸 |||"
   },
   "||| Defend for 15 seconds |||": {
-    "translation": "坚守15秒"
+    "translation": "||| 防守15秒 |||"
   },
   "||| Helicopter arrives in 15 seconds |||": {
-    "translation": "直升机15秒后到达"
+    "translation": "||| 直升机15秒后到达 |||"
   },
   "||| Door opens in 30 seconds |||": {
-    "translation": "还有30秒开门"
+    "translation": "||| 30秒后开门 |||"
   },
   "||| Map by Struppi |||": {
-    "translation": "地图制作:Struppi 文本翻译:Lia"
+    "translation": "||| 地图作者Struppi地图翻译:睿睿吖 |||"
   }
 }
