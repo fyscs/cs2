@@ -1186,7 +1186,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false,
+    "admin": true,
     "refund": 0.5
   },
   "ze_onahole_p": {
