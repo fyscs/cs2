@@ -980,7 +980,7 @@
     "refund": 0.5
   },
   "ze_celestial_ops": {
-    "description": "天堂",
+    "description": "破碎末世",
     "tier": 2,
     "certainTimes": [-1],
     "price": 300,
@@ -1070,7 +1070,7 @@
     "refund": 0.5
   },
   "ze_forius_just_run_p": {
-    "description": "福里乌斯",
+    "description": "别打油桶",
     "tier": 2,
     "certainTimes": [-1],
     "price": 300,
@@ -1090,7 +1090,7 @@
     "refund": 0.5
   },
   "ze_inboxed_p": {
-    "description": "收件箱",
+    "description": "身法菜鸡的噩梦",
     "tier": 2,
     "certainTimes": [-1],
     "price": 300,
@@ -1130,7 +1130,7 @@
     "refund": 0.5
   },
   "ze_surf_okitsu_shonyudo": {
-    "description": "御津商道",
+    "description": "钟乳洞滑翔",
     "tier": 2,
     "certainTimes": [-1],
     "price": 300,
@@ -1146,21 +1146,21 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false,
+    "admin": true,
     "refund": 0.5
   },
   "ze_ffvii_fako_reactor": {
-    "description": "法科反应堆",
+    "description": "fako炉",
     "tier": 1,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false,
+    "admin": true,
     "refund": 0.5
   },
   "ze_emerald": {
-    "description": "绿宝石",
+    "description": "翡翠之心",
     "tier": 1,
     "certainTimes": [-1],
     "price": 300,
@@ -1210,7 +1210,7 @@
     "refund": 0.5
   },
   "ze_mabinogi_f4_1_cs2": {
-    "description": "马比诺吉",
+    "description": "洛奇历险记",
     "tier": 1,
     "certainTimes": [-1],
     "price": 300,
