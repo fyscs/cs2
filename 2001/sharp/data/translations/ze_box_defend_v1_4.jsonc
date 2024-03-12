@@ -1,0 +1,64 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>Map By Linyan<<": {
+    "translation": ">地图作者:Linyan地图翻译:余清茗染<<"
+  },
+  ">>Thank: 7ychu5, Hez, Nisa<<": {
+    "translation": ">>感谢: 7ychu5, Hez, Nisa<<"
+  },
+  ">>>Welcome To Take Our Test<<<": {
+    "translation": ">>>欢迎来到我们的测试<<<"
+  },
+  ">>>Have A Good Time<<<": {
+    "translation": ">>>玩的愉快<<<"
+  },
+  ">>>Serious Level<<<": {
+    "translation": ">>>困难<<<"
+  },
+  ">>>Zombie Teleport<<<": {
+    "translation": ">>>僵尸传送<<<"
+  },
+  ">>>Defend 50 Seconds<<<": {
+    "translation": ">>>防御50秒<<<"
+  },
+  ">>>Lethality Level<<<": {
+    "translation": ">>>梦魇<<<"
+  },
+  ">>>Defend Until We Finish The Test<<<": {
+    "translation": ">>>防守至我们通过测试<<<"
+  },
+  ">>>Casual Level<<<": {
+    "translation": ">>>休闲<<<"
+  },
+  ">>>Congratulation. You Complete The Test.<<<": {
+    "translation": ">>>祝贺你完成了测试.<<<"
+  },
+  ">>>Human Win<<<": {
+    "translation": ">>>人类胜利<<<"
+  },
+  ">>>1<<<": {
+    "translation": ">>>1<<<"
+  },
+  ">>>2<<<": {
+    "translation": ">>>2<<<"
+  },
+  ">>>3<<<": {
+    "translation": ">>>3<<<"
+  },
+  ">>>Decisive Level<<<": {
+    "translation": ">>>普通<<<"
+  },
+  ">>>Defend 60 Seconds<<<": {
+    "translation": ">>>防守60秒<<<"
+  }
+}
