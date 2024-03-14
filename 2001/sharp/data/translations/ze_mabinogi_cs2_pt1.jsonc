@@ -1,0 +1,103 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Door opens in 15 seconds .": {
+    "translation": "15秒后门开 ."
+  },
+  "DOOR OPENS IN 5 SECONDS .": {
+    "translation": "5秒后门开 ."
+  },
+  "DOOR OPENS IN 7 SECONDS .": {
+    "translation": "7秒后门开 ."
+  },
+  "Door opens in 20 seconds .": {
+    "translation": "20秒后门开 ."
+  },
+  "Door opens in 30 seconds .": {
+    "translation": "30秒后门开 ."
+  },
+  "15 seconds left before the portal closes.": {
+    "translation": "离传送门关闭还有15秒."
+  },
+  "5 seconds left before the portal closes.": {
+    "translation": "离传送门关闭还有5秒."
+  },
+  "DOOR CLOSES IN 15 SECONDS .": {
+    "translation": "15秒后关门 ."
+  },
+  "admun slay please :3": {
+    "translation": "admun slay please :3"
+  },
+  "::: Admin Room Episode 1 :::": {
+    "translation": "::: 第一关 :::"
+  },
+  "::: Admin Room Episode 2 :::": {
+    "translation": "::: 第二关 :::"
+  },
+  "::: Admin Room Episode 3 :::": {
+    "translation": "::: 第三关 :::"
+  },
+  "DOOR CLOSES IN 5 SECONDS .": {
+    "translation": "5秒后关门 ."
+  },
+  "Side Path will be open in 15 seconds .": {
+    "translation": "侧道还有15秒打开 ."
+  },
+  "SIDE PATH WILL BE OPEN IN 5 SECONDS .": {
+    "translation": "侧道还有5秒后打开 ."
+  },
+  "Side Doors open in 20 seconds .": {
+    "translation": "侧门20秒后打开 ."
+  },
+  "SIDE DOORS OPEN IN 5 SECONDS .": {
+    "translation": "侧门5秒后打开 ."
+  },
+  "Ladder for zombies will be open in 5 seconds .": {
+    "translation": "僵尸梯子5秒后开启 ."
+  },
+  "Paths will be open in 15 seconds .": {
+    "translation": "通道还有15秒打开 ."
+  },
+  "PATHS WILL BE OPEN IN 5 SECONDS .": {
+    "translation": "通道还有5秒打开 ."
+  },
+  "This is last hold , keep resisting !": {
+    "translation": "这是最后了,继续抵抗 !"
+  },
+  "Door opens in 25 seconds .": {
+    "translation": "25秒后门开 ."
+  },
+  "Door opens in 40 seconds .": {
+    "translation": "40秒后开门 ."
+  },
+  "Paths will be open in 20 seconds .": {
+    "translation": "通道还有20秒后打开 ."
+  },
+  "Paths will be open in 25 seconds .": {
+    "translation": "通道还有25秒后打开 ."
+  },
+  "Paths will be open in 10 seconds .": {
+    "translation": "还有10秒 ."
+  },
+  "Purple Orb is activated !": {
+    "translation": "紫球已激活 !"
+  },
+  "Fire Orb is activated !": {
+    "translation": "火球已激活 !"
+  },
+  "Lightning Orb is activated !": {
+    "translation": "电球已激活 !"
+  },
+  "Wind Orb is activated !": {
+    "translation": "风球已激活 !"
+  }
+}

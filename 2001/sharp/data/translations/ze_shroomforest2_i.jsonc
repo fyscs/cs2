@@ -1,0 +1,127 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">> PLAYER HAS CHOSEN: RAVINE <<": {
+    "translation": ">> 已选择关卡为: 峡谷 <<"
+  },
+  ">> PLAYER HAS CHOSEN: TV NORMAL <<": {
+    "translation": ">> 已选择关卡为: 电视 <<"
+  },
+  ">> PLAYER HAS CHOSEN: HEAVEN NORMAL <<": {
+    "translation": ">> 已选择关卡为: 天堂 <<"
+  },
+  ">> RESTARTING ROUND IN 5 SECONDS <<": {
+    "translation": ">> 5秒后重启回合 <<"
+  },
+  ">> PLAYER HAS CHOSEN: TV EXTREME <<": {
+    "translation": ">> 已选择关卡为: 电视EX <<"
+  },
+  ">> PLAYER HAS CHOSEN: HEAVEN EXTREME <<": {
+    "translation": ">> 已选择关卡为:天堂EX <<"
+  },
+  "*** FLY LEAVING IN 30 SECONDS ***": {
+    "translation": "*** 30秒后起飞 ***"
+  },
+  ">> There is an error in the level system <<": {
+    "translation": ">> 选择关卡出错 <<"
+  },
+  ">> LEVEL: RAVINE <<": {
+    "translation": ">> 关卡: 峡谷 <<"
+  },
+  ">> LEVEL: TV <<": {
+    "translation": ">> 关卡: 电视 <<"
+  },
+  ">> LEVEL: HEAVEN <<": {
+    "translation": ">> 关卡: 天堂 <<"
+  },
+  ">> EXTREME MODE ADDED <<": {
+    "translation": ">> EX配置启动 <<"
+  },
+  ">> WARMUP ROUND <<": {
+    "translation": ">> 热身 <<"
+  },
+  ">> WARMUP ROUND END <<": {
+    "translation": ">> 热身回合结束 <<"
+  },
+  ">> 40 SECONDS LEFT <<": {
+    "translation": ">> 剩余40秒 <<"
+  },
+  ">> 30 SECONDS LEFT <<": {
+    "translation": ">> 剩余30秒 <<"
+  },
+  ">> 20 SECONDS LEFT <<": {
+    "translation": ">> 剩余20秒 <<"
+  },
+  ">> LEVEL: THE END <<": {
+    "translation": ">> 关卡: 最终之战 <<"
+  },
+  ">> 10 SECONDS LEFT <<": {
+    "translation": ">> 剩余10秒 <<"
+  },
+  ">> PLAYER HAS CHOSEN: THE END <<": {
+    "translation": ">> 选择关卡: 最终之战 <<"
+  },
+  ">> Map by Taskuvaras <<": {
+    "translation": ">> 地图作者:Taskuvaras地图翻译:元帅@fys <<"
+  },
+  ">> Finished by Moltard <<": {
+    "translation": ">> 由Moltard完成 地图移植:海苔 <<"
+  },
+  "*** FLY LEAVING IN 15 SECONDS ***": {
+    "translation": "*** 15秒后起飞 ***"
+  },
+  "*** FLY LEAVING IN 20 SECONDS ***": {
+    "translation": "*** 20秒后起飞 ***"
+  },
+  ">> PLAYER HAS CHOSEN: RAVINE EXTREME <<": {
+    "translation": ">> 已选择关卡: 峡谷EX <<"
+  },
+  ">> ESCAPE BY THE LADDER <<": {
+    "translation": ">> 快爬上梯子逃跑 <<"
+  },
+  ">> THE GROKE IS DEAD <<": {
+    "translation": ">> GROKE已被击败 <<"
+  },
+  ">> ESCAPE BY THE WEB <<": {
+    "translation": ">> 快上蜘蛛网 <<"
+  },
+  ">> THE BUILDING WILL BLOW UP <<": {
+    "translation": ">> 小心,会爆炸 <<"
+  },
+  ">> THE TV HEART IS DESTROYED <<": {
+    "translation": ">> 电视的核心被我们破坏了 <<"
+  },
+  ">> FAT SPIDER IS DEAD <<": {
+    "translation": ">> 蜘蛛被我们击败了 <<"
+  },
+  ">> RUN TO SAFETY <<": {
+    "translation": ">> 撤离至安全地带 <<"
+  },
+  ">> GOD HAS BEEN DEFEATED !!! <<": {
+    "translation": ">> 上帝死了 !!! <<"
+  },
+  ">> CONTINUE TO DEFEND <<": {
+    "translation": ">> 继续防守 <<"
+  },
+  ">> LET THE ANGELS ESCAPE FIRST <<": {
+    "translation": ">> 让天使先跑 <<"
+  },
+  ">> FALLEN ANGEL HAS BEEN DEFEATED !!! <<": {
+    "translation": ">> 堕落的天使已被击败 !!! <<"
+  },
+  ">> THE DRAGON HAS BEEN DEFEATED !!! <<": {
+    "translation": ">> 成功击败恶龙 !!! <<"
+  },
+  ">> SATAN IS FINALLY DEFEATED !!! <<": {
+    "translation": ">> 撒旦被我们打败了,真的被打败了吗...... <<"
+  }
+}

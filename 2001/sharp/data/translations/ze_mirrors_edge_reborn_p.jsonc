@@ -1,0 +1,199 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<< SUITCASES MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>": {
+    "translation": "公文箱已被带上飞机,干得漂亮!"
+  },
+  "<<< SUITCASE MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>": {
+    "translation": "目标已完成,干得漂亮!!!"
+  },
+  "<<< WELL DONE YOU WIN >>>": {
+    "translation": "你们赢了!!!"
+  },
+  "<<< Heli leaves in 30 seconds >>>": {
+    "translation": "小飞机于30秒后起飞"
+  },
+  "<<< Heli leaves in 20 seconds >>>": {
+    "translation": "小飞机于20秒后起飞"
+  },
+  "<<< Heli leaves in 10 seconds >>>": {
+    "translation": "小飞机于10秒后起飞"
+  },
+  "<<< Heli is leaving hop on >>>": {
+    "translation": "直升机正在离开,快上来"
+  },
+  "<<< SUITCASE COLLECTED! RUN! >>>": {
+    "translation": "已收集到公文箱,快跑"
+  },
+  "<<< Hold For 25 secs >>>": {
+    "translation": "在这里等待25秒"
+  },
+  "<<< 10 Seconds Remaining >>>": {
+    "translation": "还有10秒"
+  },
+  "<<< HOLD HERE FOR 20 SEC >>>": {
+    "translation": "在这里守20秒"
+  },
+  "<<< RUN!!! >>>": {
+    "translation": "快跑"
+  },
+  "<<< Nuke launched>>>": {
+    "translation": "核弹已启动!"
+  },
+  "<<< 4 >>>": {
+    "translation": "<<< 4 >>>",
+    "blocked": true
+  },
+  "<<< 3 >>>": {
+    "translation": "<<< 3 >>>",
+    "blocked": true
+  },
+  "<<< 2 >>>": {
+    "translation": "<<< 2 >>>",
+    "blocked": true
+  },
+  "<<< 1 >>>": {
+    "translation": "<<< 1 >>>",
+    "blocked": true
+  },
+  "<<< ADMIN HAS PRESSED KILL ALL BUTTON >>>": {
+    "translation": "管理员使用了一键秒杀"
+  },
+  ">>>Map created by Dark Arrow<<<": {
+    "translation": "地图制作:Dark Arrow 文本翻译:Lia"
+  },
+  ">>>Edited first by [pF]Detonator<<<": {
+    "translation": "由Detonator编辑"
+  },
+  ">>>Finished by Hallucinogenic Troll<<<": {
+    "translation": "由Hallucinogenic Troll完善"
+  },
+  "<<< ZOMBIES MADE IT ON TO CHOPPER. YOU LOSE! >>>": {
+    "translation": "僵尸追上了直升机,你们输了!!"
+  },
+  "<<<TIME'S OUT!! YOU LOSE>>>": {
+    "translation": "时间耗尽,你们输了!!"
+  },
+  "<<< SUITCASE DOOR WILL OPEN IN 10 SECONDS>>>": {
+    "translation": "储物柜的门10秒后打开"
+  },
+  "<<<SUITCASE DOOR IS OPENING! PRESS THE BUTTON>>>": {
+    "translation": "储物柜的门打开了,快按下按钮!"
+  },
+  ">>>Hold more 25 seconds<<<": {
+    "translation": "还需要25秒"
+  },
+  ">>>HELICOPTER IS LEAVING<<<": {
+    "translation": "小飞机正在离开"
+  },
+  ">>>1<<<": {
+    "translation": ">>>1<<<",
+    "blocked": true
+  },
+  ">>>2<<<": {
+    "translation": ">>>2<<<",
+    "blocked": true
+  },
+  ">>>Helicopter will leave in 3 seconds...<<<": {
+    "translation": ">>>Helicopter will leave in 3 seconds...<<<",
+    "blocked": true
+  },
+  "<<< DOOR WILL BREAK IN 20 SECONDS >>>": {
+    "translation": "大门于20秒后打开"
+  },
+  "<<< DOOR WILL BREAK IN 10 SECONDS >>>": {
+    "translation": "大门于10秒后打开"
+  },
+  "<<< DOOR WILL BREAK IN 5 SECONDS >>>": {
+    "translation": "大门于5秒后打开"
+  },
+  "<<< DOOR ITS BROKEN!! RUN!!!! >>>": {
+    "translation": "大门开了,快跑"
+  },
+  "<<< DOOR IS FULLY OPENED!! PRESS THE BUTTON >>>": {
+    "translation": "门开了,摁下按钮!!"
+  },
+  "<<< BUTTON IS PRESSED! RUN!! >>>": {
+    "translation": "按钮按下了!快跑!!"
+  },
+  "<<< THE PATH IS BLOCKED!! WE NEED TO PRESS THE BUTTON!!": {
+    "translation": "去路被堵住了!快按下那个玩意!!"
+  },
+  "<<< Door Opens In 5 sec >>>": {
+    "translation": "<<< Door Opens In 5 sec >>>",
+    "blocked": true
+  },
+  "<<< Door Opens In 10 sec >>>": {
+    "translation": "<<< Door Opens In 10 sec >>>",
+    "blocked": true
+  },
+  "<<< Door Opens In 15 sec >>>": {
+    "translation": "<<< Door Opens In 15 sec >>>",
+    "blocked": true
+  },
+  "<<< Door Opens In 20 sec >>>": {
+    "translation": "<<< Door Opens In 20 sec >>>",
+    "blocked": true
+  },
+  "<<< Door Opens In 30 sec >>>": {
+    "translation": "还有30秒开门"
+  },
+  "<<< Door Opens In 35 sec >>>": {
+    "translation": "还有35秒开门"
+  },
+  "<<< SUITCASE DOOR OPENS IN 10 SECONDS >>>": {
+    "translation": "储物柜的门将于10秒后开启"
+  },
+  "<<< SUITCASE DOOR IS OPENING!>>>": {
+    "translation": "储物柜开了!!"
+  },
+  "<<< THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS >>>": {
+    "translation": "第一个按按钮的人,懂的都懂!"
+  },
+  "<<< DIFFICULTY LEVEL : EASY >>>": {
+    "translation": "当前难度: EASY"
+  },
+  "<<< OBJECTIVE : RUN TO THE CHOPPER >>>": {
+    "translation": "目标: 赶上直升机"
+  },
+  "<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>": {
+    "translation": "调整音频设置以调节音量"
+  },
+  "<<< DIFFICULTY LEVEL : NORMAL >>>": {
+    "translation": "当前难度: NORMAL"
+  },
+  "<<< OBJECTIVE : COLLECT 1 SUITCASE >>>": {
+    "translation": "目标: 收集一个手提箱"
+  },
+  "<<< DIFFICULTY LEVEL : HARD >>>": {
+    "translation": "当前难度: HARD"
+  },
+  "<<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>": {
+    "translation": "僵尸更快同时血量也更多"
+  },
+  "<<< OBJECTIVE: COLLECT 2 SUITCASES >>>": {
+    "translation": "目标: 收集两个手提箱"
+  },
+  "<<< DIFFICULTY LEVEL : EXTREME >>>": {
+    "translation": "当前难度: EXTREME"
+  },
+  "<<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>": {
+    "translation": "此模式下将无任何障碍物"
+  },
+  "<<< DIFFICULTY LEVEL : GOD / IMPOSSIBLE>>>": {
+    "translation": "当前难度: IMPOSSIBLE"
+  },
+  "OnGreaterThan server:Command:<<< YOU BEAT THE MAP!!! AMAZING!!! >>>:5:1": {
+    "translation": "OnGreaterThan server:Command:<<< YOU BEAT THE MAP!!! AMAZING!!! >>>:5:1",
+    "blocked": true
+  }
+}

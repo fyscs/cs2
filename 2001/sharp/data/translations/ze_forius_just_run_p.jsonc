@@ -1,0 +1,61 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Someone must make a climb!***": {
+    "translation": "***必须有人爬上去!***"
+  },
+  "***Once someone makes the climb the elevator will be accessible!***": {
+    "translation": "***一旦有人爬上电梯,道路即可畅通无阻!***"
+  },
+  "***Someone reached the top of the climb***": {
+    "translation": "***有人爬上去了***"
+  },
+  "***Elevator doors open***": {
+    "translation": "***电梯打开了***"
+  },
+  "**Door to Tunnels opens in 15 seconds!**": {
+    "translation": "**隧道将在15秒后开启!**"
+  },
+  "**Survive for 25 seconds!**": {
+    "translation": "**生存25秒**"
+  },
+  "**RUN!**": {
+    "translation": "**跑!**"
+  },
+  "**Hold for 30 seconds!**": {
+    "translation": "**守住30秒!**"
+  },
+  "**Humans have reached the mine field!**": {
+    "translation": "**人类已抵达矿场!**"
+  },
+  "**Map by TheIceTiger!**": {
+    "translation": "**地图作者:TheIceTiger地图翻译:余清茗染@Fys!**"
+  },
+  "***Wait 40 seconds***": {
+    "translation": "***等待40秒***"
+  },
+  "***LAST DOOR!!! HOLD 1 MINUTE!***": {
+    "translation": "***最后一扇门!守住一分钟***"
+  },
+  "***HOLD UNTIL DOOR CLOSES!!!***": {
+    "translation": "***守住!直到门完全关闭!!***"
+  },
+  "***NUKE LAUNCHED!!!***": {
+    "translation": "***核弹发射!!!***"
+  },
+  "***Humans reached the vent thingies***": {
+    "translation": "***人类已达到通风口***"
+  },
+  "**RUN!!**": {
+    "translation": "**跑!!**"
+  }
+}

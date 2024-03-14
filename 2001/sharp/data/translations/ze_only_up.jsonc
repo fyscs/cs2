@@ -1,0 +1,109 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Zombie Express will start working in 45 seconds**": {
+    "translation": "**僵尸快车将在45秒后启动**"
+  },
+  "**Hold 15 seconds**": {
+    "translation": "**坚守15秒**"
+  },
+  "**In 5 seconds, Zombie Express will have a new station**": {
+    "translation": "**再过5秒,僵尸快车将会迎来新的车站**"
+  },
+  "**Hold 30 seconds**": {
+    "translation": "**坚守30秒**"
+  },
+  "**Wait 10 seconds**": {
+    "translation": "**等待10秒**"
+  },
+  "**Hold 10 seconds**": {
+    "translation": "**坚守10秒**"
+  },
+  "**Hold 20 seconds**": {
+    "translation": "**坚守20秒**"
+  },
+  "**All tp at 5 seconds**": {
+    "translation": "**再过5秒传送**"
+  },
+  "**Go on the bus**": {
+    "translation": "**上车**"
+  },
+  "**Hold 45 seconds**": {
+    "translation": "**坚守45秒**"
+  },
+  "**Map By R1cko27 & Stepanof**": {
+    "translation": "**地图作者:R1cko27 & Stepanof 地图汉化:小妖梦@风云社**"
+  },
+  "**The map is in Beta version, if you find bugs, then write to me in Discord - r1cko27**": {
+    "translation": "**该图还在测试中,如果你发现关于地图的问题,请在Discord-r1cko27中私聊我**"
+  },
+  "**Stage 2 set**": {
+    "translation": "**设置关卡二**"
+  },
+  "**Stage 1 set**": {
+    "translation": "**设置关卡一**"
+  },
+  "**Zm tp at 15 seconds**": {
+    "translation": "**僵尸将于15秒后传送**"
+  },
+  "**The bars will break in 25 seconds!**": {
+    "translation": "**栅栏将在25秒后断裂!**"
+  },
+  "**Zombie tp at 10 seconds**": {
+    "translation": "**僵尸将于10秒后传送**"
+  },
+  "**Zm tp 10 seconds**": {
+    "translation": "**僵尸将于10秒后传送**"
+  },
+  "**Defend 20 seconds**": {
+    "translation": "**防守20秒**"
+  },
+  "**Level 2**": {
+    "translation": "**关卡二**"
+  },
+  "**Level 1**": {
+    "translation": "**关卡一**"
+  },
+  "**Zombie on the bus!!!**": {
+    "translation": "**僵尸公交车!!!**"
+  },
+  "**Good Job!**": {
+    "translation": "**干得漂亮!**"
+  },
+  "**SPEEDRUN ROUND!**": {
+    "translation": "**快跑!**"
+  },
+  "**Stage 3 set**": {
+    "translation": "**设置关卡三**"
+  },
+  "*Hold 30 seconds**": {
+    "translation": "*坚守30秒**"
+  },
+  "**The elevators will leave in 10 seconds!**": {
+    "translation": "**电梯将在10秒钟后离开!**"
+  },
+  "**Zm tp at 10 seconds**": {
+    "translation": "**僵尸将于10秒后传送**"
+  },
+  "**10 seconds**": {
+    "translation": "**10秒**"
+  },
+  "**THE WINNER IS THE ONE WHO GETS TO THE END FIRST!**": {
+    "translation": "**谁先到达终点谁就是赢家!**"
+  },
+  "**ALL TRIGGERS ARE DISABLED, IF YOU FALL, YOU WILL START ALL OVER AGAIN**": {
+    "translation": "**所有的TRIGGERS都已失效,如果你掉下去,你将会重新开始**"
+  },
+  "**GOOD LUCK!**": {
+    "translation": "**祝你好运!**"
+  }
+}

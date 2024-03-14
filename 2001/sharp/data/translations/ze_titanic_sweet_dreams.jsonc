@@ -1,0 +1,99 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "# 30 SECONDS GREEN GLOW IN DEFEND #": {
+    "translation": "坚持30秒"
+  },
+  "# 5 SECONDS HUMANS TELEPORTING... #": {
+    "translation": "人类还有5秒传送..."
+  },
+  "# ZOMBIES TELEPORTED! #": {
+    "translation": "僵尸传送了!!"
+  },
+  "# (1/5) Map Tip: Jump after the door opens, don't jump too early. #": {
+    "translation": "提示: 门开之后再跳,别跳太早了"
+  },
+  "# LAST 20 SECONDS #": {
+    "translation": "最后20秒"
+  },
+  "# (2/5) Map Tip: Defend in the area surrounded by white neon light, so, defend in the bright area.. #": {
+    "translation": "提示: 在白光区域内防守,一定要在白光区域内"
+  },
+  "# (3/5) Map Tip: Humans have to stand in the bright area, if you stand in the dark place, you cannot teleport. #": {
+    "translation": "提示: 人类得站在明亮区域内,如果你站在黑暗区域内,你将不能传送"
+  },
+  "# (4/5) Map Tip: If you are next to the defensive area, gravity becomes normal. If you are farther away, gravity decreases. #": {
+    "translation": "提示: 如果你就在防守区域内,重力会恢复正常.反之重力会削弱"
+  },
+  "# (5/5) Map Tip: Good Lucks! #": {
+    "translation": "提示: 祝你们好运!"
+  },
+  "# 30 SECONDS DEFEND #": {
+    "translation": "还需要30秒"
+  },
+  "# HUMANS FALL BACK - DOOR OPENING FOR 10 SECONDS #": {
+    "translation": "门还有10秒开,快走"
+  },
+  "# TOUCH THE WHITE NEON LIGHT WALL #": {
+    "translation": "紧贴白色光的墙"
+  },
+  "# ZOMBIES TELEPORTED!!! #": {
+    "translation": "僵尸传送了!!"
+  },
+  "# MAP: zombies are being helped. #": {
+    "translation": "僵尸被强化了"
+  },
+  "# 20 SECONDS DEFEND #": {
+    "translation": "坚守20秒"
+  },
+  "# 5 SECONDS DEFEND #": {
+    "translation": "# 5 SECONDS DEFEND #",
+    "blocked": true
+  },
+  "# ALL HUMANS FALL BACK #": {
+    "translation": "所有人类,撤退!!!"
+  },
+  "# MAP: zombies are being helped... #": {
+    "translation": "僵尸获得了加强..."
+  },
+  "# 20 Seconds For Door Opening... #": {
+    "translation": "门还有20秒打开"
+  },
+  "# 5 Seconds For Door Opening... #": {
+    "translation": "# 5 Seconds For Door Opening... #",
+    "blocked":  true
+  },
+  "# All Humans Fall Back! #": {
+    "translation": "人类撤退!!!"
+  },
+  "# 5 Seconds For Zombie Short TP [2nd room]. #": {
+    "translation": "僵尸还有5秒传送至第二个房间"
+  },
+  "# 5 Seconds For Zombie Short TP [4nd room]. #": {
+    "translation": "僵尸还有5秒传送至第四个房间"
+  },
+  "# 5 Seconds For Zombie Short TP [5nd room]. #": {
+    "translation": "僵尸还有5秒传送至第五个房间"
+  },
+  "# Zombies Teleporting... #": {
+    "translation": "僵尸正在传送..."
+  },
+  "# FINAL DEFEND - 30 SECONDS #": {
+    "translation": "最后的30秒"
+  },
+  "# STAY GREEN NEON LIGHT #": {
+    "translation": "在绿灯这里等待!"
+  },
+  "# MAP FINISHED! #": {
+    "translation": "地图已完成"
+  }
+}

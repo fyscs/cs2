@@ -1,0 +1,75 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Teleport activates in 20 seconds***": {
+    "translation": "传送将于20秒后启动"
+  },
+  "***shorcut open***": {
+    "translation": "侧路已开启"
+  },
+  "***Second teleport fixed in 30 seconds***": {
+    "translation": "还有30秒"
+  },
+  "***5 second left***": {
+    "translation": "***5 second left***",
+    "blocked": true
+  },
+  "***Try to find second button***": {
+    "translation": "想办法找到第二个按钮"
+  },
+  "***zombies are coming***": {
+    "translation": "尸潮来袭"
+  },
+  "***Resist for 60 seconds***": {
+    "translation": "在这里坚持60秒"
+  },
+  "***Find Another Button***": {
+    "translation": "找到另一个按钮"
+  },
+  "*** Resist 60 seconds ***": {
+    "translation": "在这里等待60秒"
+  },
+  "***Teleport error fixed in 30 seconds***": {
+    "translation": "传送错误,需要等待30秒"
+  },
+  "***Watermelon***": {
+    "translation": "西瓜炸了!!"
+  },
+  "***Zombies are coming!***": {
+    "translation": "僵尸要来了"
+  },
+  "***Resist 45 seconds***": {
+    "translation": "还需要45秒"
+  },
+  "***READY TO RUN***": {
+    "translation": "准备跑路"
+  },
+  "***Watch out!***": {
+    "translation": "当心!!!"
+  },
+  "***Resist for 30 seconds***": {
+    "translation": "还要等待30秒"
+  },
+  "***Ready for final surf***": {
+    "translation": "最后一程!!"
+  },
+  "***Map by Reflelia***": {
+    "translation": "地图制作:Reflelia 文本翻译:Lia"
+  },
+  "***5 seconds left***": {
+    "translation": "***5 seconds left***",
+    "blocked": true
+  },
+  "***Detonation in 3 seconds***": {
+    "translation": "最后三秒!!!"
+  }
+}
