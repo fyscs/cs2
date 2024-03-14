@@ -30,7 +30,7 @@
     "refund": 0.5
   },
   "mg_hype2": {
-    "description": "*游戏* hype2小游戏",
+    "description": "*游戏* Hype2",
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
@@ -40,7 +40,7 @@
     "refund": 0.5
   },
   "mg_lego_multigames_r1c1": {
-    "description": "*游戏* 乐高小游戏重制版v1",
+    "description": "*游戏* 乐高重制版v1",
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
@@ -60,7 +60,7 @@
     "refund": 0.5
   },
   "mg_multigames_devine_is_french": {
-    "description": "*对枪* devine小游戏合集",
+    "description": "*对枪* Devine合集",
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
