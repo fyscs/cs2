@@ -5,7 +5,7 @@
 > [!CAUTION]
 > 该功能为高风险操作, 一旦发生错误, 服务器会立即崩溃.
 
-## 该功能需要**ModSharp**客户端/服务端版本方可运行
+## 该功能需要 ***ModSharp*** 客户端/服务端方可运行
 
 - ``ms_list_strippers``: 查看当前已经加载的stripper
 - ``entity_lump_list``: 查看当前地图的Lump
@@ -14,8 +14,9 @@
 
 - 所有``SpawnGroup``都将加载一个全局配置文件``sharp/stripper/global.jsonc``
 - 针对特定的``SpawnGroup``需要遵循路径 ``sharp/stripper/maps/{map}/{path}.jsonc``
-  - 例如我在 ``ze_shroomforest2_i`` 中有 ``item_shroom_template2_50.vents_c``
-  - 那么我应该创建配置文件 ``sharp/stripper/maps/ze_shroomforest2_i/item_shroom_template2_50.jsonc``
+  - 例如 ``ze_shroomforest2_i`` 中有 ``item_shroom_template2_50.vents_c``
+  - 那么应该创建配置文件 ``sharp/stripper/maps/ze_shroomforest2_i/item_shroom_template2_50.jsonc``
+  - ``default_ents.vents_c`` 应使用 ``sharp/stripper/maps/ze_shroomforest2_i/default_ents.jsonc``
 - 文件结构如下
 
 ```jsonc
