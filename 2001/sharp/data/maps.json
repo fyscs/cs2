@@ -1121,7 +1121,7 @@
   },
   "ze_only_up": {
     "description": "始终向上",
-    "tier": 2,
+    "tier": 3,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
@@ -1141,7 +1141,7 @@
   },
   "ze_goobers_basement": {
     "description": "古伯斯地下室",
-    "tier": 1,
+    "tier": 2,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
@@ -1151,7 +1151,7 @@
   },
   "ze_ffvii_fako_reactor": {
     "description": "fako炉",
-    "tier": 1,
+    "tier": 2,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
@@ -1161,7 +1161,7 @@
   },
   "ze_emerald": {
     "description": "翡翠之心",
-    "tier": 1,
+    "tier": 2,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
@@ -1181,7 +1181,7 @@
   },
   "ze_umbrellazombiezmtr_v1": {
     "description": "生化保护伞",
-    "tier": 1,
+    "tier": 3,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
@@ -1191,7 +1191,7 @@
   },
   "ze_onahole_p": {
     "description": "黑洞之中",
-    "tier": 1,
+    "tier": 3,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
@@ -1201,7 +1201,7 @@
   },
   "ze_box_defend_v1_3": {
     "description": "禁区防守",
-    "tier": 1,
+    "tier": 2,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
@@ -1211,7 +1211,7 @@
   },
   "ze_mabinogi_f4_1_cs2": {
     "description": "洛奇历险记",
-    "tier": 1,
+    "tier": 3,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
