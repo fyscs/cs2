@@ -49,6 +49,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "mg_legospace_multigames_v2": {
+    "description": "*游戏* 乐高宇宙",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "mg_mikis_multigames": {
     "description": "*游戏* Mikis",
     "tier": 0,
@@ -196,7 +206,7 @@
     "price": 300,
     "cooldown": 10,
     "nomination": false,
-    "admin": false,
+    "admin": true,
     "refund": 0.5
   }
 }
