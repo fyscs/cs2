@@ -27,7 +27,7 @@
     "hammerId": "19560",
     "team": 3,
     "knife": false,
-    "maxuses": 1,
+    "maxUses": 1,
     "mode": 3,
     "count": 2
   },
@@ -60,7 +60,7 @@
     "hammerId": "19734",
     "team": 3,
     "knife": false,
-    "maxuses": 1,
+    "maxUses": 1,
     "mode": 3,
     "count": 2
   },
@@ -71,7 +71,7 @@
     "hammerId": "19465",
     "team": 3,
     "knife": false,
-    "maxuses": 10,
+    "maxUses": 10,
     "mode": 3,
     "count": 2
   },
@@ -82,7 +82,7 @@
     "hammerId": "19443",
     "team": 3,
     "knife": false,
-    "maxuses": 15,
+    "maxUses": 15,
     "cooldown": 3,
     "mode": 4,
     "count": 2
