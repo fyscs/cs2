@@ -1,4 +1,14 @@
 {
+  "ze_predator_ultimate_p":{
+    "description": "铁血",
+    "tier": 4,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 600,
+    "cooldown": 60,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.3
+  },
   "ze_frostdrake_tower_p": {
     "description": "冰龙",
     "tier": 4,

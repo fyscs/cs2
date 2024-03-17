@@ -1,0 +1,55 @@
+// BossHP configuration file generator.
+// Boss Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+
+{
+  "Counters": [
+    {
+      "iterator": "aztecboss_math_health",
+      "display": "铁血战士 1/2",
+      "hitbox": "predboss_2"
+    },
+    {
+      "iterator": "aztecboss_math_health_2",
+      "display": "铁血战士 2/2",
+      "hitbox": "predboss_2"
+    },
+    {
+      "iterator": "mob_grudge_math",
+      "display": "铁血战士",
+      "hitbox": "mob_grudge_model_1"
+    },
+    {
+      "iterator": "cboss_predatorhealth_counter",
+      "display": "铁血战士",
+      "hitbox": "cboss_predator"
+    },
+    {
+      "iterator": "fboss_math_1",
+      "display": "狂暴铁血",
+      "hitbox": "mob_grudge_model_1"
+    },
+    {
+      "iterator": "fboss_math_2",
+      "display": "铁血战士",
+      "hitbox": "mob_grudge_model_2"
+    },
+    {
+      "iterator": "fboss_ee_math",
+      "display": "异形",
+      "hitbox": "fboss_ee_d_model"
+    }
+  ]
+}
