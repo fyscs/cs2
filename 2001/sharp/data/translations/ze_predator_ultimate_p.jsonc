@@ -1,0 +1,298 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***ELEVATOR'S HERE***": {
+    "translation": "***电梯在这***"
+  },
+  "***YOU KILLED THE PREDATOR***": {
+    "translation": "***你杀死了铁血战士***"
+  },
+  "***ITS THE PREDATOR!***": {
+    "translation": "***铁血战士出现!***"
+  },
+  "***CHOPPER LEAVING IN 10 SECONDS***": {
+    "translation": "***直升机10秒后离开***"
+  },
+  "***CHOPPER LEAVING IN 5 SECONDS***": {
+    "translation": "***直升机5秒后离开***"
+  },
+  "***CHOPPER IS LEAVING***": {
+    "translation": "***直升机离开了***"
+  },
+  "***THIS IS YOUR FINAL STAND***": {
+    "translation": "***这是你的最后一站***"
+  },
+  "***HOLD YOUR GROUND***": {
+    "translation": "***坚守此处***"
+  },
+  "***KEEP FIRING WITH UNLIMITED AMMO***": {
+    "translation": "***用无限的弹药继续射击***"
+  },
+  "***ELEVATOR IS ON THE WAY***": {
+    "translation": "***电梯正在下降***"
+  },
+  "***ELEVATOR IS WARMING UP***": {
+    "translation": "***电梯开始运作***"
+  },
+  "***HOLD 30 SECONDS***": {
+    "translation": "***保持30秒***"
+  },
+  "***10 SECONDS LEFT***": {
+    "translation": "***还剩10秒***"
+  },
+  "***5***": {
+    "translation": "***5***"
+  },
+  "***4***": {
+    "translation": "***4***"
+  },
+  "***1***": {
+    "translation": "***1***"
+  },
+  "***2***": {
+    "translation": "***2***"
+  },
+  "***3***": {
+    "translation": "***3***"
+  },
+  "***GET INSIDE***": {
+    "translation": "***进入***"
+  },
+  "***IT'S RUNNING AWAY***": {
+    "translation": "***它逃跑了***"
+  },
+  "***WELL DONE***": {
+    "translation": "***做得好***"
+  },
+  "***IT LOOKS LIKE IT'S PREPARING FOR ANOTHER GROUNDSTOMP***": {
+    "translation": "***赶紧开枪***"
+  },
+  "***SHOOT IT BEFORE IT'S TOO LATE***": {
+    "translation": "***赶紧开枪打它***"
+  },
+  "***KILL IT***": {
+    "translation": "***杀死它***"
+  },
+  "***INFILTRATE AND DEFEND THE GUERILLA COMPOUND***": {
+    "translation": "***进围栏防守僵尸***"
+  },
+  "***HOLD FOR 50 SECONDS***": {
+    "translation": "***保持50秒***"
+  },
+  "***FALL BACK***": {
+    "translation": "***撤退***"
+  },
+  "***MOVE IT***": {
+    "translation": "***撤退***"
+  },
+  "***OH NO!     WATCH OUT!***": {
+    "translation": "***小心!***"
+  },
+  "***YOU COULD HAVE STOPPED THE ATTACK THOUGH...***": {
+    "translation": "***你本来可以阻止它的...***"
+  },
+  "***DODGE THE LASERS***": {
+    "translation": "***躲避激光***"
+  },
+  "***ITS A PREDATOR!***": {
+    "translation": "***铁血战士出现!***"
+  },
+  "***HOLD BOULDERAREA FOR 15 SECONDS***": {
+    "translation": "***守住这个区域15秒***"
+  },
+  "***HOLD THIS AREA FOR 10 SECONDS***": {
+    "translation": "***守住这个区域10秒***"
+  },
+  "***THE CHOPPER IS ON IT'S WAY!***": {
+    "translation": "***直升机马上就到了坚持住!***"
+  },
+  "***HOLD THIS AREA FOR 20 SECONDS***": {
+    "translation": "***坚持这个区域20秒***"
+  },
+  "***15 SECONDS LEFT***": {
+    "translation": "***还剩15秒***"
+  },
+  "***5 SECONDS LEFT***": {
+    "translation": "***还剩5秒***"
+  },
+  "***RUN***": {
+    "translation": "***撤退***"
+  },
+  "***4 SECONDS LEFT***": {
+    "translation": "***还剩4秒***"
+  },
+  "***3 SECONDS LEFT***": {
+    "translation": "***还剩3秒***"
+  },
+  "***2 SECONDS LEFT***": {
+    "translation": "***还剩2秒***"
+  },
+  "***1 SECONDS LEFT***": {
+    "translation": "***还剩1秒***"
+  },
+  "***GET INSIDE THE TRANSPORTER***": {
+    "translation": "***撤离至运输机***"
+  },
+  "***HOLD AZTEC-RUINS FOR 25 SECONDS***": {
+    "translation": "***在阿兹特克遗迹防守僵尸20秒***"
+  },
+  "***RUN !***": {
+    "translation": "***撤退 !***"
+  },
+  "***HOLD THIS AREA FOR 40 SECONDS***": {
+    "translation": "***守住这个区域40秒***"
+  },
+  "***20 SECONDS LEFT***": {
+    "translation": "***还剩20秒***"
+  },
+  "***CHOPPER IS ON IT'S WAY***": {
+    "translation": "***直升机正在赶来***"
+  },
+  "***THE CHOPPER IS HERE! MOVE IT!***": {
+    "translation": "***直升机已经到达!***"
+  },
+  "***CHOPPER LEAVES IN 10 SECONDS***": {
+    "translation": "***直升机10秒后离开***"
+  },
+  "***CHOPPER LEAVES IN 5 SECONDS***": {
+    "translation": "***直升机5秒后起飞***"
+  },
+  "***GET IN THE ELEVATOR***": {
+    "translation": "***上电梯***"
+  },
+  "***YOU FAILED***": {
+    "translation": "***你失败了***"
+  },
+  "***A ZOMBIE GOT INSIDE THE CHOPPER***": {
+    "translation": "***一只僵尸进了直升机***"
+  },
+  "***THE SPACESHIP IS STARTING TO COLLAPSE***": {
+    "translation": "***宇宙飞船开始坍塌***"
+  },
+  "***THE PREDATOR IS IN RAGEMODE***": {
+    "translation": "***帅哥进入狂暴模式***"
+  },
+  "***ZOMBIE BRIDGE ACTIVATED***": {
+    "translation": "***僵尸桥被激活***"
+  },
+  "***SOMEONE MUST JUMP INTO THE CORE***": {
+    "translation": "***必须有人跳刀核心***"
+  },
+  "ZOMBIES ARE RELEASED!": {
+    "translation": "僵尸被释放!"
+  },
+  "YOU TOOK TOO LONG!": {
+    "translation": "你花了太长的时间!"
+  },
+  "***RUN! GO BEFORE ITS TOO LATE!***": {
+    "translation": "***撤退! !***"
+  },
+  "***OH NO! THE NUKE EXPLODED!***": {
+    "translation": "***僵尸全都给我死!***"
+  },
+  "***THE NUKE HAS EXPLODED***": {
+    "translation": "***核弹发射***"
+  },
+  "***YOU INTERUPTED THE PREDATORS ATTACK***": {
+    "translation": "***做得好.你们成功打断了帅哥的攻击***"
+  },
+  "***TELEPORTING EVERYONE TO COMPOUND***": {
+    "translation": "***僵尸传送点刷新***"
+  },
+  "***TELEPORTING EVERYONE TO CLIFF HIDEOUT***": {
+    "translation": "***僵尸传送点刷新***"
+  },
+  "***TELEPORTING EVERYONE TO RUINS***": {
+    "translation": "***僵尸传送点刷新***"
+  },
+  "***DIFFICULTY --- HARD***": {
+    "translation": "***当前难度:咸鱼***"
+  },
+  "***DIFFICULTY --- ULTIMATE***": {
+    "translation": "***当前难得:老司机***"
+  },
+  "***DIFFICULTY --- HYPER***": {
+    "translation": "***当前难度:萌新司机***"
+  },
+  "***DIFFICULTY --- NORMAL***": {
+    "translation": "***当前难得:萌新***"
+  },
+  "***THANK YOU FOR PLAYING***": {
+    "translation": "***感谢你们的游玩***"
+  },
+  "***MAP BY --- PER30010 / LUFFAREN***": {
+    "translation": "***地图作者-PER30010/LUFFAREN 地图翻译:睿睿吖***"
+  },
+  "***YOU ARE THE ULTIMATE ZOMBIE ESCAPE MASTER***": {
+    "translation": "***你们是极限的僵尸逃跑大师***"
+  },
+  "***MAP RESET***": {
+    "translation": "***地图加载中***"
+  },
+  "***TELEPORTING EVERYONE TO COMPLEX ELEVATOR***": {
+    "translation": "***僵尸传送点刷新***"
+  },
+  "***TELEPORTING EVERYONE TO COMPLEX CORE***": {
+    "translation": "***僵尸传送点刷新***"
+  },
+  "***TELEPORTING EVERYONE TO SPACESHIP ENTRANCE***": {
+    "translation": "***僵尸传送点刷新***"
+  },
+  "***TELEPORTING EVERYONE TO SPACESHIP CORE***": {
+    "translation": "***僵尸传送点刷新***"
+  },
+  "***YOU COMPLETED NORMAL***": {
+    "translation": "***你们通关了萌新难度***"
+  },
+  "***MOVING ON TO HARD***": {
+    "translation": "***向咸鱼难度进发***"
+  },
+  "***MOVING ON TO HYPER***": {
+    "translation": "***下一关难度:萌新司机***"
+  },
+  "***YOU COMPLETED HARD***": {
+    "translation": "***你们征服了咸鱼难度***"
+  },
+  "***YOU COMPLETED HYPER***": {
+    "translation": "***萌新司机难度完成***"
+  },
+  "***MOVING ON TO ULTIMATE***": {
+    "translation": "***朝着最后的难度:老司机难度进发吧***"
+  },
+  "***GOOD LUCK...***": {
+    "translation": "***祝你们好运...***"
+  },
+  "***NUKE BUTTON PRESSED***": {
+    "translation": "***核按钮被按下***"
+  },
+  "***SOMEONE IS CHANGING DIFFICULTY INSIDE THE DEVROOM***": {
+    "translation": "***管理员正在选择难度***"
+  },
+  "Weather: Clear": {
+    "translation": "天气:晴朗"
+  },
+  "Weather: rain_normal": {
+    "translation": "天气:正常降雨"
+  },
+  "Weather: rain_heavy": {
+    "translation": "天气:大雨"
+  },
+  "Weather: night_normal": {
+    "translation": "天气:夜晚"
+  },
+  "Weather: night_rain": {
+    "translation": "天气:夜晚降雨"
+  },
+  "Weather: thunder": {
+    "translation": "天气:打雷"
+  }
+}
