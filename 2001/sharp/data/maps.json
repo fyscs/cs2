@@ -1229,4 +1229,64 @@
     "admin": false,
     "refund": 0.5
   }
+  "ze_backrooms_deathbed": {
+    "description": "后室:死眠",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  }
+  "ze_no_title_p": {
+    "description": "无名",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  }
+  "ze_luciddreams_cs2": {
+    "description": "清醒的白日梦",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  }
+  "ze_minecraft_sakura": {
+    "description": "mc樱花村",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  }
+  "ze_k19_escape_p": {
+    "description": "k19仓库",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  }
+  "ze_obj_encounter": {
+    "description": "行动代号:针锋相对",
+    "tier": 5,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 50,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  }
 }
