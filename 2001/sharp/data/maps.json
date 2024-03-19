@@ -1239,16 +1239,6 @@
     "admin": false,
     "refund": 0.5
   },
-  "ze_no_title_p": {
-    "description": "无名",
-    "tier": 2,
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 30,
-    "nomination": false,
-    "admin": false,
-    "refund": 0.5
-  },
   "ze_luciddreams_cs2": {
     "description": "清醒的白日梦",
     "tier": 3,
