@@ -32,6 +32,17 @@
     "count": 2
   },
   {
+    "name": "外星样本",
+    "shortName": "样本",
+    "buttonClass": "func_physbox",
+    "hammerId": "19535",
+    "team": 3,
+    "knife": false,
+    "maxUses": 1,
+    "mode": 3,
+    "count": 2
+  },
+  {
     "name": "推力枪",
     "shortName": "推力",
     "buttonClass": "func_physbox",
