@@ -1229,7 +1229,7 @@
     "admin": false,
     "refund": 0.5
   },
-  "ze_backrooms_deathbed": {
+  "ze_backrooms_deathbed_v1": {
     "description": "后室:死眠",
     "tier": 3,
     "certainTimes": [-1],
@@ -1269,7 +1269,7 @@
     "admin": false,
     "refund": 0.5
   },
-  "ze_obj_encounter": {
+  "ze_obj_encounter_a2": {
     "description": "行动代号:针锋相对",
     "tier": 5,
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
