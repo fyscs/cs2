@@ -96,7 +96,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_artika_base_p": {
@@ -116,7 +116,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_atix_panic_p": {
@@ -496,7 +496,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_mars_escape_xmas_p": {
@@ -506,7 +506,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_minecraft_journey_v1": {
@@ -736,7 +736,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_showdown_p": {
@@ -756,7 +756,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_stab_town_p": {
@@ -976,7 +976,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_diamond_cube_v1_cs2": {
@@ -1026,7 +1026,7 @@
     "price": 300,
     "cooldown": 50,
     "nomination": true,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_240s_survival_v1": {
@@ -1156,7 +1156,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_ffvii_fako_reactor": {
@@ -1166,7 +1166,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_emerald": {
@@ -1196,7 +1196,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "ze_onahole_p": {
@@ -1206,7 +1206,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": true,
+    "admin": true, 
     "refund": 0.5
   },
   "ze_box_defend_v1_3": {
