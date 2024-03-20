@@ -149,7 +149,7 @@
     "admin": false,
     "refund": 0.5
   },
-  "mg_swag_multigames_v7_1_fys": {
+  "mg_swag_multigames_v7_fys": {
     "description": "*游戏* Swag小游戏",
     "tier": 0,
     "certainTimes": [-1],
