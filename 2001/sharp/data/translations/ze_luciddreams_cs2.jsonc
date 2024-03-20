@@ -1,0 +1,67 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<< Stage Practice Mode >>": {
+    "translation": "<<练习关卡>>"
+  },
+  "*** 15sec ***": {
+    "translation": "*** 守住15秒 ***"
+  },
+  "< SOLO WINNER >": {
+    "translation": "< 各位注意,新的SOLO冠军诞生了! >"
+  },
+  "< CONGRATULATIONS >": {
+    "translation": "< 恭喜通关,无名的王者! >"
+  },
+  " << Stage Normal >>": {
+    "translation": " <<普通关>>"
+  },
+  "*** 35sec ***": {
+    "translation": "*** 守住35秒 ***"
+  },
+  "*** 10sec ***": {
+    "translation": "*** 守住10秒 ***"
+  },
+  "***Shield has been picked up***": {
+    "translation": "***盾神器已被拾取***"
+  },
+  "*** 20sec ***": {
+    "translation": "*** 守住20秒 ***"
+  },
+  "*** 5sec ***": {
+    "translation": "*** 还剩5秒 ***"
+  },
+  "*** 30sec ***": {
+    "translation": "*** 守住30秒 ***"
+  },
+  "Find the Trigger to break the door": {
+    "translation": "找到发光的球来开启大门"
+  },
+  "*** 25sec ***": {
+    "translation": "*** 守住25秒 ***"
+  },
+  "*** 55sec ***": {
+    "translation": "*** 守住55秒 ***"
+  },
+  "*** 20 sec ***": {
+    "translation": "*** 守住20秒 ***"
+  },
+  "*** 45sec ***": {
+    "translation": "*** 守住45秒 ***"
+  },
+  "***20sec ***": {
+    "translation": "***守住20秒 ***"
+  },
+  "***5sec ***": {
+    "translation": "***剩余5秒 ***"
+  }
+}
