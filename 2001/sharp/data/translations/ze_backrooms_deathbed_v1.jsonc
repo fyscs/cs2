@@ -1,0 +1,187 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "> Platform starts in 5 sec. <": {
+    "translation": "> 大门将在5秒后启动. <"
+  },
+  "|Speaker|: Portal is ready.": {
+    "translation": "|广播|: 入口已准备就绪."
+  },
+  "|Speaker|: Bring up the equipment you need.": {
+    "translation": "|广播|:带上你的装备准备出发."
+  },
+  "|Speaker|: and check the information of this Level before you enter.": {
+    "translation": "|广播|: 同时在进入之前检查检查该级别的信息."
+  },
+  "|Speaker|: Operation begin in 10 sec.": {
+    "translation": "|广播|: 10秒后开始操作."
+  },
+  "|Speaker|: Stay safe.": {
+    "translation": "|广播|: 请尽力活着."
+  },
+  "> Backrooms Deathbed < ver 1.3": {
+    "translation": "> 后室:死眠 < ver 1.3"
+  },
+  "> Map by @Seth <": {
+    "translation": "> 地图作者:@Seth 地图翻译:小妖梦@风云社 <"
+  },
+  ">> Warning <<": {
+    "translation": ">> 警告 <<"
+  },
+  ">> 警告:本地图包含跳杀元素(死亡时) <<": {
+    "translation": ">> 警告:本地图包含跳杀元素(死亡时) <<"
+  },
+  ">> This map contain Jumpscare Sence!(When die) <<": {
+    "translation": ">> 本地图包含跳杀元素!(死亡时) <<"
+  },
+  "< 15 >": {
+    "translation": "< 15 >"
+  },
+  "ZM TP < 10 >": {
+    "translation": "僵尸传送 < 10 >"
+  },
+  "Right Side < 15 >": {
+    "translation": "右侧 < 15 >"
+  },
+  "Right Side < 20 >": {
+    "translation": "右侧 < 20 >"
+  },
+  ">A barrier has shattered.<": {
+    "translation": ">一道屏障被打破了.<"
+  },
+  "< Wait for your Left Side team... >": {
+    "translation": "< 等待你左侧的小队... >"
+  },
+  "Left Side < 25 >": {
+    "translation": "左侧 < 25 >"
+  },
+  "< Wait for your Right Side team... >": {
+    "translation": "< 等待你右侧的小队... >"
+  },
+  "< Both team arrive,Hold 20 sec. >": {
+    "translation": "< 两队集合完毕,守住20秒. >"
+  },
+  "ZM TP < 15 >": {
+    "translation": "僵尸传送 < 15 >"
+  },
+  "< 25 >": {
+    "translation": "< 25 >"
+  },
+  "ZM TP < 5 >": {
+    "translation": "僵尸传送 < 5 >"
+  },
+  "[What was that on the wall?]": {
+    "translation": "[等等,墙上的是什么?]"
+  },
+  "[Is that...Blood?...]": {
+    "translation": "[这是...血吗?...]"
+  },
+  "[I got a bad feeling,Keep your eyes around here.]": {
+    "translation": "[我有一种不好的感觉,注意你的周围.]"
+  },
+  "Defend < 10 >": {
+    "translation": "防守 < 10 >"
+  },
+  "[...Don't move.]": {
+    "translation": "[...别动.]"
+  },
+  "[..Stay still...]": {
+    "translation": "[..呆着别动...]"
+  },
+  "[Oh fuxk,Something behind us!]": {
+    "translation": "[后礼谢,有些东西在我们身后!]"
+  },
+  "[Run!Just follow the damn LIGHT!We got no where to hide now!]": {
+    "translation": "[快跑!紧跟着那该死的光走!我们现在无处可藏了!]"
+  },
+  "[This thing is too fast!Use your gun to shoot it.]": {
+    "translation": "[这东西太快了!快使用你手中的枪对他射击.]"
+  },
+  "[Guns won't kill it,But will slow it down.]": {
+    "translation": "[枪没法杀死它,但是能缓解它的速度.]"
+  },
+  "[Hide,Don't let it find you...]": {
+    "translation": "[躲起来,不要让它找到你...]"
+  },
+  "< 20 >": {
+    "translation": "< 20 >"
+  },
+  "< 10 >": {
+    "translation": "< 10 >"
+  },
+  "[Listen to the sound,And pick the right one.]": {
+    "translation": "[仔细听声音,选择一个对的坑往下跳.]"
+  },
+  "[This is the only way.]": {
+    "translation": "[这是唯一的办法.]"
+  },
+  "[Those houses...is fake,just model..]": {
+    "translation": "[这些房子...都是假的,只是模型..]"
+  },
+  "[There has to be a real one,go find it.]": {
+    "translation": "[肯定有一座房子是真的,去找到它.]"
+  },
+  "< 30 >": {
+    "translation": "< 30 >"
+  },
+  "[We found the real house.]": {
+    "translation": "[我们找到了真正的房子.]"
+  },
+  "[Might take a while to open.]": {
+    "translation": "[也许需要一段时间才能打开它.]"
+  },
+  "|Skin Stealer?|: This,is a gift.": {
+    "translation": "|窃皮者?|: 是的,这是一份礼物."
+  },
+  "|Skin Stealer?|: to our friendly guest.": {
+    "translation": "|窃皮者?|: 致我们友好的客人们."
+  },
+  "|Skin Stealer?|: Relax,and Let's witness...": {
+    "translation": "|窃皮者?|: 放轻松,让我们共同见证..."
+  },
+  "|Skin Stealer?|: Your own new Rebirth.": {
+    "translation": "|窃皮者?|: 属于你的新生."
+  },
+  "|Skin Stealer Voice?|: I know i can't get though this now..": {
+    "translation": "|来自窃皮者的声音?|: 我知道你现在无法理解.."
+  },
+  "|Skin Stealer Voice?|: But YOU have to listen this,stranger!": {
+    "translation": "|来自窃皮者的声音?|: 但你必须听我说,陌生人!"
+  },
+  "|Skin Stealer Voice?|: RUN,RUN FOR YOUR LIFE!": {
+    "translation": "|来自窃皮者的声音?|: 为了活命,快跑!"
+  },
+  "|Speaker|: Welcome back.": {
+    "translation": "|窃皮者|: 欢迎回来."
+  },
+  "|Speaker|: Glad you still alive.": {
+    "translation": "|窃皮者|: 很高兴你还活着."
+  },
+  "> Something wicked has coming to you... <": {
+    "translation": "> 有什么邪恶的东西向你袭来... <"
+  },
+  "> Keep an eye on it,If you don't wanna die. <": {
+    "translation": "> 警戒它,如果你不想死的话. <"
+  },
+  "> Jumpscare been turnoff in this round. <": {
+    "translation": "> 本回合跳杀场景已被关闭. <"
+  },
+  "> lol B). <": {
+    "translation": "> lol B). <"
+  },
+  ">Tactical Flashlight< Press E to use,It could stop Smiler's movement.": {
+    "translation": ">战术手电筒<按E使用,它可以阻止笑魇的移动."
+  },
+  ">a flashlight run out of power,Must fully charge to usee it again.<": {
+    "translation": ">手电筒没电了，必须充满电才能再次使用.<"
+  }
+}
