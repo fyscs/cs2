@@ -1,6 +1,7 @@
 {
   "configs": [
-    "2001/csgo/cfg/map-configs"
+    "2001/csgo/cfg/map-configs",
+    "2004/csgo/cfg/map-configs"
   ],
   "entwatch": [
     "2001/sharp/data/entWatch"
@@ -9,9 +10,11 @@
     "2001/sharp/data/bosses"
   ],
   "translations": [
-    "2001/sharp/data/translations"
+    "2001/sharp/data/translations",
+    "2004/sharp/data/translations"
   ],
   "map_data": [
-
+    "2001/sharp/data/maps.json",
+    "2004/sharp/data/maps.json"
   ]
 }

@@ -1,0 +1,40 @@
+{
+  "remove": [
+    {
+      "classname": "item_defuser"
+    },
+    // Bullshit Message
+    {
+      "classname": "env_message"
+    }
+  ],
+  "modify": [
+    {
+      "match": {
+        "item_defuser": "1"
+      },
+      "delete": {
+        "item_defuser": "1"
+      }
+    },
+    {
+      "match": {
+        "classname": "game_player_equip",
+        "spawnflags": "1"
+      },
+      "delete": {
+        "spawnflags": "1"
+      },
+      "insert": {
+        "spawnflags": "5"
+      }
+    }
+  ],
+  "add": [
+    {
+      "targetname": "fys_servercmd",
+      "classname": "point_servercommand",
+      "hammeruniqueid": "1:1:4357"
+    }
+  ]
+}

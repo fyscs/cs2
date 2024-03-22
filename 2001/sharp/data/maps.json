@@ -1,0 +1,1282 @@
+{
+  "ze_predator_ultimate_p":{
+    "description": "铁血",
+    "tier": 4,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 600,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.3
+  },
+  "ze_frostdrake_tower_p": {
+    "description": "冰龙",
+    "tier": 4,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 600,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.3
+  },
+  "ze_shroomforest_i": {
+    "description": "蘑菇庄园",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 40,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_shroomforest2_i": {
+    "description": "蘑菇庄园2",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 40,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_20_seconds_v1": {
+    "description": "生死20秒",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_abandoned_industry_p": {
+    "description": "废弃工厂",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_icecap_escape_p": {
+    "description": "西瓜橘子",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_alien_mountain_escape_p": {
+    "description": "阿里山逃亡",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_anzalone_remake": {
+    "description": "安扎隆",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_arctic_escape_p": {
+    "description": "北极逃亡",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
+  "ze_artika_base_p": {
+    "description": "阿提卡基地",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_atix_apocalypse_p": {
+    "description": "末世生存",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
+  "ze_atix_panic_p": {
+    "description": "仓库生存",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_aztecnoob_p": {
+    "description": "阿兹特克神庙",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_blackmesa_escape_p": {
+    "description": "黑山基地",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_boatescape101_p": {
+    "description": "101坐船图",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_bp-infested-prison_p": {
+    "description": "越狱行动",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_breakable_p": {
+    "description": "易碎品",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_chicken_lords_tower_p": {
+    "description": "小鸡塔",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_chronus_p": {
+    "description": "保护者",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_colorlicouspilar_p": {
+    "description": "彩虹塔",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_colors_p": {
+    "description": "彩色世界",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_dangerous_waters_p": {
+    "description": "危险水域",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_deepice_p": {
+    "description": "深层冰域",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_defense3002_p": {
+    "description": "守点防御",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_descent_into_cerberon_p": {
+    "description": "深入冥府",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_eizures_b1_1": {
+    "description": "核子工厂",
+    "tier": 4,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 600,
+    "cooldown": 50,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.3
+  },
+  "ze_elevator_escape_p": {
+    "description": "电梯逃亡",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_exchange_innovation_p": {
+    "description": "交换创新",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_fast_escape_p": {
+    "description": "看谁跑得快",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_greece_escape_p": {
+    "description": "希腊逃亡",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_gtasa_police_station_remix_m": {
+    "description": "侠盗猎车手",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_haunted_lab_escape_p": {
+    "description": "闹鬼实验室",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_hazard_escape_p": {
+    "description": "危险逃亡",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_hidden_fortress_p": {
+    "description": "隐藏堡垒",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_hold_em_p": {
+    "description": "鬼脸长廊",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_hypernova_p": {
+    "description": "超星逃亡",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_iamlegend_p": {
+    "description": "我是英雄",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_interception_p": {
+    "description": "拦截",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_journey_p": {
+    "description": "旅途",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_jurassicpark_p": {
+    "description": "侏罗纪公园",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_otakuroom_pt": {
+    "description": "御宅房",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 50,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_kaffe_escape_p": {
+    "description": "地底逃亡",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_lazers_p": {
+    "description": "拉泽",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_licciana_escape_p": {
+    "description": "港湾逃离",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_lotr_isengard": {
+    "description": "魔戒:艾辛格",
+    "tier": 4,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 300,
+    "cooldown": 50,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_luigismansion_p": {
+    "description": "路易吉鬼屋",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_magala_castle_p": {
+    "description": "玛格拉城堡",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_mario_tower_p": {
+    "description": "马里奥高塔",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_mars_escape_p": {
+    "description": "逃离火星",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
+  "ze_mars_escape_xmas_p": {
+    "description": "逃离火星X",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
+  "ze_minecraft_journey_v1": {
+    "description": "MC旅途",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_namviet_p": {
+    "description": "越南踩雷王",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_noir_p": {
+    "description": "黑暗工厂",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_obj_rampage_v1_2": {
+    "description": "横空出世",
+    "tier": 5,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 800,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.3
+  },
+  "ze_ocean_base_escape_p": {
+    "description": "逃离深海基地",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_omega_p": {
+    "description": "欧米伽",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_oneiros_p": {
+    "description": "奥涅洛斯",
+    "tier": 4,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 500,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_panic_escape_p": {
+    "description": "仓库逃亡",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_paycheck_p": {
+    "description": "金拱门",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 500,
+    "cooldown": 300,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
+  "ze_percocet_p": {
+    "description": "止痛药",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_pokemon_kanto_v1": {
+    "description": "关东宝可梦",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_pools_p": {
+    "description": "池塘",
+    "tier": 4,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 300,
+    "cooldown": 50,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_por_island_p": {
+    "description": "岛屿大逃离",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_potc_p": {
+    "description": "加勒比海盗",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_purification_a1": {
+    "description": "提纯器",
+    "tier": 4,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_puta_p": {
+    "description": "普塔工厂",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_raccoon_facility_p": {
+    "description": "蜂巢",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_random_p": {
+    "description": "随机小游戏",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_requiem_test": {
+    "description": "安魂曲",
+    "tier": 4,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 300,
+    "cooldown": 50,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_rooftop_runaway1_p": {
+    "description": "屋顶大逃亡1",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_rooftop_runaway2_p": {
+    "description": "屋顶大逃亡2",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_sandstorm_cs2": {
+    "description": "沙尘暴",
+    "tier": 4,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 50,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_sex_mod_hentai_beachescape_camper_p": {
+    "description": "海滩逃生",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
+  "ze_showdown_p": {
+    "description": "大决战",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_sorrento_escape_p": {
+    "description": "索伦托逃亡",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
+  "ze_stab_town_p": {
+    "description": "突破小镇",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_starwars_v2fix": {
+    "description": "星球大战",
+    "tier": 4,
+    "certainTimes": [-1],
+    "price": 500,
+    "cooldown": 50,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_strange_escape_p": {
+    "description": "异乡逃离",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_surf_danger_p": {
+    "description": "危险滑翔",
+    "tier": 2,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_surf_gypt_p": {
+    "description": "吉普赛滑翔",
+    "tier": 3,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_surf_saltfish_v1_cs2": {
+    "description": "咸鱼滑翔",
+    "tier": 2,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_surf_vortex_p": {
+    "description": "漩涡滑翔",
+    "tier": 2,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_thousand_steps_p": {
+    "description": "只要一千步",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_tilex_escape_p": {
+    "description": "列车逃亡",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_tkara_p": {
+    "description": "塔卡拉基地",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_totemo_roka_p": {
+    "description": "最后的决议",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_traak_p": {
+    "description": "看脚下",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_trap_escape_p": {
+    "description": "陷阱逃离",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 300,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_ultra_ungent_a2_cs2": {
+    "description": "终极单兵",
+    "tier": 4,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_upwards_p": {
+    "description": "往上跑",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_voodoo_islands_p": {
+    "description": "巫毒岛",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_winter_warehouse_p": {
+    "description": "寒冬仓库",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_zk_mall_of_zombies_p": {
+    "description": "购物中心",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_zombierig_p": {
+    "description": "钻井平台",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_frozentemple_cs2": {
+    "description": "冰封神庙",
+    "tier": 3,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_biohazard2_rpd_004_p": {
+    "description": "生化危机2:浣熊市警察局",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_hlc_tsunami_v1": {
+    "description": "半条命:海啸",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
+  "ze_diamond_cube_v1_cs2": {
+    "description": "钻石立方",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 50,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_celestial_ops": {
+    "description": "破碎末世",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_newyork_escape_p": {
+    "description": "纽约逃亡",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_obf_filth_v1": {
+    "description": "怒火中烧",
+    "tier": 5,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 800,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_dystopia_p": {
+    "description": "反乌托邦",
+    "tier": 4,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 300,
+    "cooldown": 50,
+    "nomination": true,
+    "admin": true,
+    "refund": 0.5
+  },
+  "ze_240s_survival_v1": {
+    "description": "生存4分钟",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_dragonball_snakeway_p": {
+    "description": "龙珠",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_chronicle_a": {
+    "description": "编年史",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 50,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_townscapes": {
+    "description": "小城故事",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_boatescape888": {
+    "description": "坐船888",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_forius_just_run_p": {
+    "description": "别打油桶",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_mirrors_edge_reborn_p": {
+    "description": "镜之边缘",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_inboxed_p": {
+    "description": "身法菜鸡的噩梦",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_saw_p": {
+    "description": "电锯惊魂",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_venice_escape_p": {
+    "description": "威尼斯逃亡",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_only_up": {
+    "description": "始终向上",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_surf_okitsu_shonyudo": {
+    "description": "钟乳洞滑翔",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_goobers_basement": {
+    "description": "古伯斯地下室",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
+  "ze_ffvii_fako_reactor": {
+    "description": "fako炉",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
+  "ze_emerald": {
+    "description": "翡翠之心",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_titanic_sweet_dreams": {
+    "description": "泰坦尼克号",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_umbrellazombiezmtr_v1": {
+    "description": "生化保护伞",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
+  "ze_onahole_p": {
+    "description": "黑洞之中",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
+  "ze_box_defend_v1_3": {
+    "description": "禁区防守",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_mabinogi_f4_1_cs2": {
+    "description": "洛奇历险记",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_backrooms_deathbed_v1": {
+    "description": "后室:死眠",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_luciddreams_cs2": {
+    "description": "清醒的白日梦",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_minecraft_sakura": {
+    "description": "mc樱花村",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_k19_escape_p": {
+    "description": "k19仓库",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_obj_encounter_a2": {
+    "description": "行动代号:针锋相对",
+    "tier": 5,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 600,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  }
+}
