@@ -39,6 +39,9 @@
 - 实体名(``targetname``/``classname``), IO名(``output``), IO参数(``param``)允许使用通配符匹配, 通配符仅允许于最后一个字符
   - 例如 ``"targetname" "fys_*"`` 匹配所有targetname以``fys_``开头的实体, 且包含名为``fys_``的实体
 - 实体KeyValues都是成对的键值出现
+- ``targetname``使用的是vpk中编译好的值, 不一定与vmap匹配, 具体值请使用Source2View查看
+  - 例如: 非templdate实体``[PR#]fys_gs_3`` 
+  - 例如: templdate实体``[PR#]fys_vs_3&0000``
 
 ```jsonc
 "classname": "logic_auto"
@@ -148,5 +151,6 @@
 
 ## 有用的链接
 
+- [Source2Viewer (VRF)](https://valveresourceformat.github.io/)
 - [List of entities (Source 2)](https://developer.valvesoftware.com/wiki/List_of_entities_(Source_2))
 - [Valve Developer Community](https://developer.valvesoftware.com/wiki)
