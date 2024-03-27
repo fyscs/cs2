@@ -29,7 +29,7 @@
   {
     "id": "243",
     "cd": 240,
-    "mode": 150,
+    "mode": 0,
     "name": "大狙",
     "class": "func_button",
     "event": "OnPressed"
