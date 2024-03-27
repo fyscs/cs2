@@ -20,7 +20,7 @@
 [
   {
     "id": "554",
-    "cd": 240,
+    "cd": 360,
     "mode": 0,
     "name": "喷子",
     "class": "func_button",
@@ -28,7 +28,7 @@
   },
   {
     "id": "552",
-    "cd": 240,
+    "cd": 150,
     "mode": 0,
     "name": "沙鹰",
     "class": "func_button",
@@ -36,7 +36,7 @@
   },
   {
     "id": "47",
-    "cd": 240,
+    "cd": 150,
     "mode": 0,
     "name": "500hp内格夫",
     "class": "func_button",
@@ -44,7 +44,7 @@
   },
   {
     "id": "231",
-    "cd": 240,
+    "cd": 150,
     "mode": 0,
     "name": "对枪",
     "class": "func_button",
@@ -60,7 +60,7 @@
   },
   {
     "id": "35",
-    "cd": 240,
+    "cd": 150,
     "mode": 3,
     "name": "电击枪",
     "class": "func_button",
@@ -68,7 +68,7 @@
   },
   {
     "id": "547",
-    "cd": 240,
+    "cd": 180,
     "mode": 0,
     "name": "大狙",
     "class": "func_button",
@@ -76,7 +76,7 @@
   },
   {
     "id": "220",
-    "cd": 240,
+    "cd": 360,
     "mode": 5,
     "name": "bhop",
     "class": "func_button",
