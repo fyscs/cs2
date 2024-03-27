@@ -12,9 +12,14 @@
 - ``movetype type``: ``type`` -> **int**
 - ``EntityTemplate name``: ``name`` -> **string**
 - ``basevelocity x y z``: ``x``, ``y``, ``z`` -> **float**或 **int**
+- ``absvelocity x y z``: ``x``, ``y``, ``z`` -> **float**或 **int**
 - ``target name``: ``name`` -> **string**
 - ``filtername name``: ``name`` -> **string**
 - ``force speed``: ``speed`` -> **float** ***(需要先Deactivate)***
+- ``gravity value``: ``value`` -> **float**
+- ``friction value``: ``value`` -> **float**
+- ``speed value``: ``value`` -> **float** (0.1~2.0)
+- ``runspeed value``: ``value`` -> **float** (0.1~2.0)
 
 ## AddEffects / RemoveEffects
 
