@@ -20,7 +20,7 @@
 [
   {
     "id": "202",
-    "cd": 240,
+    "cd": 150,
     "mode": 0,
     "name": "对枪",
     "class": "func_button",
@@ -29,14 +29,14 @@
   {
     "id": "243",
     "cd": 240,
-    "mode": 0,
+    "mode": 150,
     "name": "大狙",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
     "id": "237",
-    "cd": 240,
+    "cd": 360,
     "mode": 2,
     "name": "1v1刀战",
     "class": "func_button",
@@ -44,7 +44,7 @@
   },
   {
     "id": "209",
-    "cd": 240,
+    "cd": 480,
     "mode": 6,
     "name": "climb",
     "class": "func_button",
@@ -52,7 +52,7 @@
   },
   {
     "id": "660",
-    "cd": 240,
+    "cd": 480,
     "mode": 5,
     "name": "bhop",
     "class": "func_button",
@@ -60,7 +60,7 @@
   },
   {
     "id": "233",
-    "cd": 240,
+    "cd": 150,
     "mode": 1,
     "name": "手雷",
     "class": "func_button",
@@ -68,7 +68,7 @@
   },
   {
     "id": "329",
-    "cd": 240,
+    "cd": 480,
     "mode": 5,
     "name": "跳绳",
     "class": "func_button",
@@ -76,7 +76,7 @@
   },
   {
     "id": "374",
-    "cd": 240,
+    "cd": 150,
     "mode": 0,
     "name": "爆头沙鹰",
     "class": "func_button",
@@ -84,7 +84,7 @@
   },
   {
     "id": "386",
-    "cd": 240,
+    "cd": 150,
     "mode": 0,
     "name": "鸟狙",
     "class": "func_button",
@@ -92,7 +92,7 @@
   },
   {
     "id": "474",
-    "cd": 240,
+    "cd": 150,
     "mode": 0,
     "name": "箱子有枪",
     "class": "func_button",
@@ -100,7 +100,7 @@
   },
   {
     "id": "317",
-    "cd": 240,
+    "cd": 180,
     "mode": 0,
     "name": "蹦床",
     "class": "func_button",
@@ -108,7 +108,7 @@
   },
   {
     "id": "1210",
-    "cd": 240,
+    "cd": 480,
     "mode": 6,
     "name": "长跳",
     "class": "func_button",
