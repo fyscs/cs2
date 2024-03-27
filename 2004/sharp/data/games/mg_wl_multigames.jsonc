@@ -1,0 +1,125 @@
+// MiniGames game mode configuration file generator.
+// MGGames Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // enum /* MiniGameMode */
+  //
+  // Invalid      = -1,
+  // Guns         = 0, // 对枪
+  // Nade         = 1, // 手雷
+  // Knife        = 2, // 拼刀
+  // Taser        = 3, // 电击枪
+  // Dodgeball    = 4, // 躲避球
+  // RaceCombat   = 5, // Race给枪    LongJump, Bhop, Race, Clmib, Combat
+  // RaceBonus    = 6, // Race刷分    LongJump, Bhop, Race, Clmib, 刷分
+  // Survival     = 7, // 生存        JumpRope, FallingBox etc...
+  // RaceSurvival = 8, // Race生存    LongJump, Bhop, Race, Clmib, Survival
+  // Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
+
+[
+  {
+    "id": "39092",
+    "cd": 240,
+    "mode": 3,
+    "name": "电击枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "",
+    "cd": 39419,
+    "mode": 0,
+    "name": "鸟狙",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "38667",
+    "cd": 240,
+    "mode": 0,
+    "name": "原地打架",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "39613",
+    "cd": 240,
+    "mode": 0,
+    "name": "1v1沙鹰100hp",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "38649",
+    "cd": 240,
+    "mode": 0,
+    "name": "沙鹰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "39614",
+    "cd": 240,
+    "mode": 0,
+    "name": "1v1 1hp沙鹰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "39615",
+    "cd": 240,
+    "mode": 0,
+    "name": "1v1爆头沙鹰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "39293",
+    "cd": 240,
+    "mode": 5,
+    "name": "跳远",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "39420",
+    "cd": 240,
+    "mode": 0,
+    "name": "大狙",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "38672",
+    "cd": 240,
+    "mode": 5,
+    "name": "bhop",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "38650",
+    "cd": 240,
+    "mode": 0,
+    "name": "刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "38939",
+    "cd": 240,
+    "mode": 5,
+    "name": "climb",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "38818",
+    "cd": 240,
+    "mode": 1,
+    "name": "手雷",
+    "class": "func_button",
+    "event": "OnPressed"
+  }
+]

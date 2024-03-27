@@ -1,0 +1,205 @@
+// MiniGames game mode configuration file generator.
+// MGGames Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // enum /* MiniGameMode */
+  //
+  // Invalid      = -1,
+  // Guns         = 0, // 对枪
+  // Nade         = 1, // 手雷
+  // Knife        = 2, // 拼刀
+  // Taser        = 3, // 电击枪
+  // Dodgeball    = 4, // 躲避球
+  // RaceCombat   = 5, // Race给枪    LongJump, Bhop, Race, Clmib, Combat
+  // RaceBonus    = 6, // Race刷分    LongJump, Bhop, Race, Clmib, 刷分
+  // Survival     = 7, // 生存        JumpRope, FallingBox etc...
+  // RaceSurvival = 8, // Race生存    LongJump, Bhop, Race, Clmib, Survival
+  // Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
+
+[
+  {
+    "id": "2112",
+    "cd": 240,
+    "mode": 0,
+    "name": "小黑屋",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "7779",
+    "cd": 240,
+    "mode": 8,
+    "name": "跳绳",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2094",
+    "cd": 240,
+    "mode": 5,
+    "name": "长跳v2",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2088",
+    "cd": 240,
+    "mode": 0,
+    "name": "鸟狙v2",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1679",
+    "cd": 240,
+    "mode": 0,
+    "name": "鸟狙v1",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2140",
+    "cd": 240,
+    "mode": 1,
+    "name": "手雷",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2142",
+    "cd": 240,
+    "mode": 0,
+    "name": "新星",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2144",
+    "cd": 240,
+    "mode": 0,
+    "name": "蜂巢",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2146",
+    "cd": 240,
+    "mode": 5,
+    "name": "长跳",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2138",
+    "cd": 240,
+    "mode": 2,
+    "name": "刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "6955",
+    "cd": 240,
+    "mode": 2,
+    "name": "足球",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "7751",
+    "cd": 240,
+    "mode": 0,
+    "name": "拆墙",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1528",
+    "cd": 240,
+    "mode": 2,
+    "name": "排球",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2168",
+    "cd": 240,
+    "mode": 5,
+    "name": "快速旋转跳",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2108",
+    "cd": 240,
+    "mode": 0,
+    "name": "沙鹰隐藏墙v2",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2106",
+    "cd": 240,
+    "mode": 2,
+    "name": "滑冰v2",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2096",
+    "cd": 240,
+    "mode": 0,
+    "name": "大狙v2",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2153",
+    "cd": 240,
+    "mode": 2,
+    "name": "滑冰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2157",
+    "cd": 240,
+    "mode": 0,
+    "name": "双房",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2098",
+    "cd": 240,
+    "mode": 0,
+    "name": "大狙",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2170",
+    "cd": 240,
+    "mode": 0,
+    "name": "沙鹰隐藏墙",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2155",
+    "cd": 240,
+    "mode": 5,
+    "name": "bhop",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2159",
+    "cd": 240,
+    "mode": 0,
+    "name": "原地打架",
+    "class": "func_button",
+    "event": "OnPressed"
+  }
+]
