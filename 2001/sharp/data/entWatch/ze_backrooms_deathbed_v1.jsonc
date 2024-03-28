@@ -21,14 +21,14 @@
 
 [
   {
-    "name": "手电筒",
+    "name": "手电筒1",
     "shortName": "闪",
     "buttonClass": "func_button",
     "hammerId": "5687",
-    "maxUses": 1,
+    "cooldown": 1,
     "team": 3,
     "knife": false,
-    "mode": 3,
+    "mode": 2,
     "count": 1
   },
   {
@@ -36,10 +36,10 @@
     "shortName": "闪",
     "buttonClass": "func_button",
     "hammerId": "5709",
-    "maxUses": 1,
+    "cooldown": 1,
     "team": 3,
     "knife": false,
-    "mode": 3,
+    "mode": 2,
     "count": 1
   }
 ]
