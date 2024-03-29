@@ -20,6 +20,7 @@ Copyright © 2019-2024 FyS. ALL RIGHTS RESERVED.
 ### 注意事项
 
 - 开始``PR``之前请先阅读 <a rel="readme" href="https://github.com/fyscs/cs2/blob/master/.fys/%E5%8F%82%E6%95%B0%E4%BF%AE%E6%94%B9%E5%85%AC%E7%BA%A6.md">参数修改公约</a>
+- 非使用MagicMacro情况下, 禁止一个PR修改多个地图的文件
 - 文本换行符统一为LF
 - 文本保存格式统一保存为UTF8-无BOM
 - 文本缩进为统一4空格缩进
