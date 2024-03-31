@@ -21,8 +21,8 @@ Copyright © 2019-2024 FyS. ALL RIGHTS RESERVED.
 - 禁止一个PR修改多个地图的文件
 - 文本换行符统一为LF
 - 文本保存格式统一保存为UTF8-无BOM
-- 文本缩进为统一4空格缩进
-- KeyValues文件禁止使用中文标点
+- 文本缩进为统一4空格缩进, JSON/JSONC为2空格缩进
+- 文件内容禁止使用中文标点
 - 地图名一律使用``小写``
 - PR标题匹配 (Regex)
   - ``^新增地图\:\s(ze|mg|ttt|jb|bhop|surf|kz|kzpro|vnl|skz|bkz|xc|dr|deathrun|de|cs)_[a-zA-Z0-9_]+$``
