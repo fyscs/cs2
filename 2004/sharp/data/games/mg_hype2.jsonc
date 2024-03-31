@@ -19,87 +19,87 @@
 
 [
   {
-    "id": "1508",
+    "id": "1031",
+    "cd": 240,
+    "mode": 9,
+    "name": "死跑",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "897",
+    "cd": 240,
+    "mode": 9,
+    "name": "打鸭子v1",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1052",
+    "cd": 240,
+    "mode": 9,
+    "name": "打鸭子v2",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1048",
     "cd": 240,
     "mode": 0,
-    "name": "大狙",
+    "name": "沙鹰",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "1609",
+    "id": "1050",
     "cd": 240,
-    "mode": 7,
-    "name": "1血足球",
+    "mode": 1,
+    "name": "手雷",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "1611",
+    "id": "1046",
     "cd": 240,
-    "mode": 7,
-    "name": "100血足球",
+    "mode": 1,
+    "name": "炸油桶",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "1512",
-    "cd": 240,
-    "mode": 2,
-    "name": "水果忍者",
-    "class": "func_button",
-    "event": "OnPressed"
-  },
-  {
-    "id": "1510",
+    "id": "1021",
     "cd": 240,
     "mode": 0,
-    "name": "爆头沙鹰",
+    "name": "m4a4",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "1520",
+    "id": "1484",
     "cd": 240,
-    "mode": 5,
-    "name": "精准投掷",
+    "mode": 0,
+    "name": "ak47",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "1518",
-    "cd": 240,
-    "mode": 7,
-    "name": "烫手山芋",
-    "class": "func_button",
-    "event": "OnPressed"
-  },
-  {
-    "id": "1516",
+    "id": "845",
     "cd": 240,
     "mode": 2,
-    "name": "刀战",
+    "name": "足球",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "1514",
+    "id": "1029",
     "cd": 240,
-    "mode": 7,
-    "name": "苦力怕",
+    "mode": 6,
+    "name": "bhop",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "1522",
-    "cd": 240,
-    "mode": 4,
-    "name": "方块",
-    "class": "func_button",
-    "event": "OnPressed"
-  },
-  {
-    "id": "1524",
+    "id": "1434",
     "cd": 240,
     "mode": 0,
     "name": "手枪对战",
@@ -107,34 +107,90 @@
     "event": "OnPressed"
   },
   {
-    "id": "1526",
-    "cd": 240,
-    "mode": 4,
-    "name": "躲避球",
-    "class": "func_button",
-    "event": "OnPressed"
-  },
-  {
-    "id": "1528",
+    "id": "1023",
     "cd": 240,
     "mode": 2,
-    "name": "排球",
+    "name": "35hp刀战",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "1532",
+    "id": "1027",
+    "cd": 240,
+    "mode": 2,
+    "name": "65hp刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1025",
+    "cd": 240,
+    "mode": 2,
+    "name": "100hp刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1436",
+    "cd": 240,
+    "mode": 2,
+    "name": "滑冰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "115",
     "cd": 240,
     "mode": 0,
-    "name": "塔图",
+    "name": "1v1对决",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "1530",
+    "id": "1012",
     "cd": 240,
-    "mode": 2,
-    "name": "电梯",
+    "mode": 0,
+    "name": "透视usp",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1010",
+    "cd": 240,
+    "mode": 0,
+    "name": "透视a1",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1012",
+    "cd": 240,
+    "mode": 0,
+    "name": "双枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "841",
+    "cd": 240,
+    "mode": 0,
+    "name": "新星",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1054",
+    "cd": 240,
+    "mode": 0,
+    "name": "鸟狙",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1393",
+    "cd": 240,
+    "mode": 0,
+    "name": "大狙",
     "class": "func_button",
     "event": "OnPressed"
   }
