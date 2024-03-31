@@ -20,7 +20,7 @@
 [
   {
     "id": "1031",
-    "cd": 240,
+    "cd": 480,
     "mode": 9,
     "name": "死跑",
     "class": "func_button",
@@ -28,7 +28,7 @@
   },
   {
     "id": "897",
-    "cd": 240,
+    "cd": 180,
     "mode": 9,
     "name": "打鸭子v1",
     "class": "func_button",
@@ -36,7 +36,7 @@
   },
   {
     "id": "1052",
-    "cd": 240,
+    "cd": 360,
     "mode": 9,
     "name": "打鸭子v2",
     "class": "func_button",
@@ -44,7 +44,7 @@
   },
   {
     "id": "1048",
-    "cd": 240,
+    "cd": 180,
     "mode": 0,
     "name": "沙鹰",
     "class": "func_button",
@@ -52,7 +52,7 @@
   },
   {
     "id": "1050",
-    "cd": 240,
+    "cd": 180,
     "mode": 1,
     "name": "手雷",
     "class": "func_button",
@@ -60,7 +60,7 @@
   },
   {
     "id": "1046",
-    "cd": 240,
+    "cd": 300,
     "mode": 1,
     "name": "炸油桶",
     "class": "func_button",
@@ -68,7 +68,7 @@
   },
   {
     "id": "1021",
-    "cd": 240,
+    "cd": 180,
     "mode": 0,
     "name": "m4a4",
     "class": "func_button",
@@ -76,7 +76,7 @@
   },
   {
     "id": "1484",
-    "cd": 240,
+    "cd": 180,
     "mode": 0,
     "name": "ak47",
     "class": "func_button",
@@ -92,7 +92,7 @@
   },
   {
     "id": "1029",
-    "cd": 240,
+    "cd": 360,
     "mode": 6,
     "name": "bhop",
     "class": "func_button",
@@ -108,7 +108,7 @@
   },
   {
     "id": "1023",
-    "cd": 240,
+    "cd": 300,
     "mode": 2,
     "name": "35hp刀战",
     "class": "func_button",
@@ -116,7 +116,7 @@
   },
   {
     "id": "1027",
-    "cd": 240,
+    "cd": 300,
     "mode": 2,
     "name": "65hp刀战",
     "class": "func_button",
@@ -124,7 +124,7 @@
   },
   {
     "id": "1025",
-    "cd": 240,
+    "cd": 300,
     "mode": 2,
     "name": "100hp刀战",
     "class": "func_button",
@@ -140,7 +140,7 @@
   },
   {
     "id": "115",
-    "cd": 240,
+    "cd": 300,
     "mode": 0,
     "name": "1v1对决",
     "class": "func_button",
