@@ -77,7 +77,7 @@
   {
     "id": "1608",
     "cd": 240,
-    "mode": 24,
+    "mode": 2,
     "name": "滑冰丢火",
     "class": "func_button",
     "event": "OnPressed"
