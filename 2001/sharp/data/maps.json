@@ -1278,5 +1278,75 @@
     "nomination": true,
     "admin": false,
     "refund": 0.5
+  },
+  "ze_firewall_laboratory_part1_p": {
+    "description": "防火墙实验室1",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_firewall_laboratory_part2_p": {
+    "description": "防火墙实验室2",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_azathoth_p": {
+    "description": "阿撒托斯",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_lotr_mirkwood_p": {
+    "description": "魔戒:幽暗森林",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_greencity_p": {
+    "description": "绿之城",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_vietnam_p": {
+    "description": "越南丛林大冒险",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_stalkermonolith": {
+    "description": "潜行者:异变",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
   }
 }
