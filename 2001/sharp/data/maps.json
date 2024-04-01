@@ -1278,5 +1278,15 @@
     "nomination": true,
     "admin": false,
     "refund": 0.5
+  },
+  "ze_baocceho": {
+    "description": "梦境大逃亡",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
   }
 }
