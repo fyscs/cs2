@@ -1278,5 +1278,15 @@
     "nomination": true,
     "admin": false,
     "refund": 0.5
+  },
+  "ze_azathoth_p": {
+    "description": "阿撒托斯",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
   }
 }
