@@ -1278,5 +1278,15 @@
     "nomination": true,
     "admin": false,
     "refund": 0.5
+  },
+  "ze_greencity_p": {
+    "description": "绿之城",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
   }
 }
