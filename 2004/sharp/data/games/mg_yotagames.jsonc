@@ -1,0 +1,149 @@
+// MiniGames game mode configuration file generator.
+// MGGames Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // enum /* MiniGameMode */
+  //
+  // Invalid      = -1,
+  // Guns         = 0, // 对枪
+  // Nade         = 1, // 手雷
+  // Knife        = 2, // 拼刀
+  // Taser        = 3, // 电击枪
+  // Dodgeball    = 4, // 躲避球
+  // RaceCombat   = 5, // Race给枪    LongJump, Bhop, Race, Clmib, Combat
+  // RaceBonus    = 6, // Race刷分    LongJump, Bhop, Race, Clmib, 刷分
+  // Survival     = 7, // 生存        JumpRope, FallingBox etc...
+  // RaceSurvival = 8, // Race生存    LongJump, Bhop, Race, Clmib, Survival
+  // Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
+
+[
+  {
+    "id": "2660",
+    "cd": 240,
+    "mode": 2,
+    "name": "滑冰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2682",
+    "cd": 240,
+    "mode": 0,
+    "name": "m4/ak对决",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2640",
+    "cd": 240,
+    "mode": 0,
+    "name": "AWP",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1258",
+    "cd": 360,
+    "mode": 5,
+    "name": "90只鸡",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2642",
+    "cd": 420,
+    "mode": 6,
+    "name": "bhop",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2644",
+    "cd": 420,
+    "mode": 6,
+    "name": "障碍赛",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2646",
+    "cd": 240,
+    "mode": 0,
+    "name": "新星",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1131",
+    "cd": 240,
+    "mode": 3,
+    "name": "电击枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2648",
+    "cd": 300,
+    "mode": 9,
+    "name": "打飞盘",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2652",
+    "cd": 240,
+    "mode": 2,
+    "name": "35hp刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1201",
+    "cd": 240,
+    "mode": 0,
+    "name": "买枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2654",
+    "cd": 240,
+    "mode": 0,
+    "name": "沙鹰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2656",
+    "cd": 240,
+    "mode": 4,
+    "name": "躲避球",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2658",
+    "cd": 240,
+    "mode": 0,
+    "name": "鸟狙",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1242",
+    "cd": 360,
+    "mode": 8,
+    "name": "跳绳",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1535",
+    "cd": 300,
+    "mode": 0,
+    "name": "m249",
+    "class": "func_button",
+    "event": "OnPressed"
+  }
+]
