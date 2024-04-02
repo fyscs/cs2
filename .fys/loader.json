@@ -16,5 +16,8 @@
   "map_data": [
     "2001/sharp/data/maps.json",
     "2004/sharp/data/maps.json"
+  ],
+  "button": [
+    "2004/sharp/data/games"
   ]
 }
