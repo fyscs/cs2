@@ -909,6 +909,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_vietnam_p": {
+    "description": "越南丛林大冒险",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_voodoo_islands_p": {
     "description": "巫毒岛",
     "tier": 1,
@@ -1276,16 +1286,6 @@
     "price": 600,
     "cooldown": 100,
     "nomination": true,
-    "admin": false,
-    "refund": 0.5
-  },
-  "ze_vietnam_p": {
-    "description": "越南丛林大冒险",
-    "tier": 1,
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 30,
-    "nomination": false,
     "admin": false,
     "refund": 0.5
   }
