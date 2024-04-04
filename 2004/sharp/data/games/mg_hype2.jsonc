@@ -1,0 +1,197 @@
+// MiniGames game mode configuration file generator.
+// MGGames Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // enum /* MiniGameMode */
+  //
+  // Invalid      = -1,
+  // Guns         = 0, // 对枪
+  // Nade         = 1, // 手雷
+  // Knife        = 2, // 拼刀
+  // Taser        = 3, // 电击枪
+  // Dodgeball    = 4, // 躲避球
+  // RaceCombat   = 5, // Race给枪    LongJump, Bhop, Race, Clmib, Combat
+  // RaceBonus    = 6, // Race刷分    LongJump, Bhop, Race, Clmib, 刷分
+  // Survival     = 7, // 生存        JumpRope, FallingBox etc...
+  // RaceSurvival = 8, // Race生存    LongJump, Bhop, Race, Clmib, Survival
+  // Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
+
+[
+  {
+    "id": "1031",
+    "cd": 480,
+    "mode": 9,
+    "name": "死跑",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "897",
+    "cd": 180,
+    "mode": 9,
+    "name": "打鸭子v1",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1052",
+    "cd": 360,
+    "mode": 9,
+    "name": "打鸭子v2",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1048",
+    "cd": 180,
+    "mode": 0,
+    "name": "沙鹰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1050",
+    "cd": 180,
+    "mode": 1,
+    "name": "手雷",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1046",
+    "cd": 300,
+    "mode": 1,
+    "name": "炸油桶",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1021",
+    "cd": 180,
+    "mode": 0,
+    "name": "m4a4",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1484",
+    "cd": 180,
+    "mode": 0,
+    "name": "ak47",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "845",
+    "cd": 240,
+    "mode": 2,
+    "name": "足球",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1029",
+    "cd": 360,
+    "mode": 6,
+    "name": "bhop",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1434",
+    "cd": 240,
+    "mode": 0,
+    "name": "手枪对战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1023",
+    "cd": 300,
+    "mode": 2,
+    "name": "35hp刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1027",
+    "cd": 300,
+    "mode": 2,
+    "name": "65hp刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1025",
+    "cd": 300,
+    "mode": 2,
+    "name": "100hp刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1436",
+    "cd": 240,
+    "mode": 2,
+    "name": "滑冰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "115",
+    "cd": 300,
+    "mode": 0,
+    "name": "1v1对决",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1012",
+    "cd": 240,
+    "mode": 0,
+    "name": "透视usp",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1010",
+    "cd": 240,
+    "mode": 0,
+    "name": "透视a1",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1012",
+    "cd": 240,
+    "mode": 0,
+    "name": "双枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "841",
+    "cd": 240,
+    "mode": 0,
+    "name": "新星",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1054",
+    "cd": 240,
+    "mode": 0,
+    "name": "鸟狙",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1393",
+    "cd": 240,
+    "mode": 0,
+    "name": "大狙",
+    "class": "func_button",
+    "event": "OnPressed"
+  }
+]
