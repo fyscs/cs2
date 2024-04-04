@@ -639,6 +639,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_postal_p": {
+    "description": "良好邮差",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_potc_p": {
     "description": "加勒比海盗",
     "tier": 2,
@@ -1275,16 +1285,6 @@
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 600,
     "cooldown": 100,
-    "nomination": true,
-    "admin": false,
-    "refund": 0.5
-  },
-  "ze_postal_p": {
-    "description": "良好邮差",
-    "tier": 3,
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 30,
     "nomination": true,
     "admin": false,
     "refund": 0.5
