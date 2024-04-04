@@ -1278,5 +1278,15 @@
     "nomination": true,
     "admin": false,
     "refund": 0.5
+  },
+  "ze_parkers_pit_p": {
+    "description": "帕克矿坑",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
   }
 }
