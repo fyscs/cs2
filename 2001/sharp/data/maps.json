@@ -459,6 +459,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_lotr_mirkwood_p": {
+    "description": "魔戒:幽暗森林",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_luigismansion_p": {
     "description": "路易吉鬼屋",
     "tier": 2,
@@ -1276,16 +1286,6 @@
     "price": 600,
     "cooldown": 100,
     "nomination": true,
-    "admin": false,
-    "refund": 0.5
-  },
-  "ze_lotr_mirkwood_p": {
-    "description": "魔戒:幽暗森林",
-    "tier": 3,
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 30,
-    "nomination": false,
     "admin": false,
     "refund": 0.5
   }
