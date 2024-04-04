@@ -129,6 +129,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_azathoth_p": {
+    "description": "阿撒托斯",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_aztecnoob_p": {
     "description": "阿兹特克神庙",
     "tier": 1,
@@ -1276,16 +1286,6 @@
     "price": 600,
     "cooldown": 100,
     "nomination": true,
-    "admin": false,
-    "refund": 0.5
-  },
-  "ze_azathoth_p": {
-    "description": "阿撒托斯",
-    "tier": 2,
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 30,
-    "nomination": false,
     "admin": false,
     "refund": 0.5
   }
