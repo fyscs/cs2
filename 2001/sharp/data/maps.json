@@ -299,6 +299,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_firewall_laboratory_part1_p": {
+    "description": "防火墙实验室1",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_greece_escape_p": {
     "description": "希腊逃亡",
     "tier": 1,
@@ -1276,16 +1286,6 @@
     "price": 600,
     "cooldown": 100,
     "nomination": true,
-    "admin": false,
-    "refund": 0.5
-  },
-  "ze_firewall_laboratory_part1_p": {
-    "description": "防火墙实验室1",
-    "tier": 1,
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 30,
-    "nomination": false,
     "admin": false,
     "refund": 0.5
   }
