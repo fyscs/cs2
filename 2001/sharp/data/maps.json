@@ -309,6 +309,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_greencity_p": {
+    "description": "绿之城",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_gtasa_police_station_remix_m": {
     "description": "侠盗猎车手",
     "tier": 2,
