@@ -1,0 +1,188 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** DEFEATED THE ADVISORS! ***": {
+    "translation": "打倒它!!"
+  },
+  "*** HOLD HERE ***": {
+    "translation": "在这里守住!"
+  },
+  "*** OVER 18 SURVIVED ***": {
+    "translation": "生存人数超过十八个"
+  },
+  "*** MAP BY JB_GAMBLE ***": {
+    "translation": "地图制作:JB_GAMBLE 文本翻译:Lia"
+  },
+  "*** LEFT ROUTE | HOLD HERE ***": {
+    "translation": "左边路:守一会!"
+  },
+  "*** LEFT ROUTE | FALL BACK ***": {
+    "translation": "左边路:快走!"
+  },
+  "*** ROUND 3/5 ***": {
+    "translation": "第三关"
+  },
+  "*** ROUND 4/5 ***": {
+    "translation": "第四关"
+  },
+  "*** DOORS OPEN - 5 SECONDS ***": {
+    "translation": "还有5秒"
+  },
+  "*** HOLD HERE! ***": {
+    "translation": "坚持住!!"
+  },
+  "*** FALL BACK | FALL BACK ***": {
+    "translation": "撤退!!!"
+  },
+  "*** ROUND 2/5 ***": {
+    "translation": "第二关"
+  },
+  "*** OVER 10 SURVIVED! ***": {
+    "translation": "超过十人生还!"
+  },
+  "*** UNLIMITED AMMO CRATE - RIGHT ROUTE ***": {
+    "translation": "右边路:无限弹药箱"
+  },
+  "*** IGNITER - LEFT ROUTE ***": {
+    "translation": "左边路:喷火器"
+  },
+  "*** ROUND 1/5 ***": {
+    "translation": "第一关"
+  },
+  "*** UNLOCKED | THE IGNITER ***": {
+    "translation": "喷火器已解锁"
+  },
+  "*** LET'EM BURN ***": {
+    "translation": "烧死他们!!"
+  },
+  "*** MR B. HOP ***": {
+    "translation": "BHOP?"
+  },
+  "*** BOAT HERE ***": {
+    "translation": "船在这里!"
+  },
+  "*** BROUGHT THE GNOME - BRIDGE ***": {
+    "translation": "大桥:僵尸来了"
+  },
+  "*** GOT UNLIMITED AMMO CRATE ***": {
+    "translation": "已获得无限弹药箱"
+  },
+  "*** GIVES UNLIMITED AMMO - 14 SECONDS ***": {
+    "translation": "给予十四秒弹药补给效果"
+  },
+  "*** COMBINE ADVISORS - SHOOT *** ": {
+    "translation": "快射击!"
+  },
+  "*** INFO - STAND ON ROCKS TO AVOID FIRE *** ": {
+    "translation": "站在石头上躲避火焰"
+  },
+  "*** INFO - RED LIGHTS - ADVISORS HEALTH *** ": {
+    "translation": "提示: 红色警报"
+  },
+  "*** GOT THE GNOME! ***": {
+    "translation": "成功了!!"
+  },
+  "*** MINE OPEN ***": {
+    "translation": "矿井已开启"
+  },
+  "*** ZOMBIES IN TRAIN - YOU FAILED! ***": {
+    "translation": "僵尸上车了,你失败了!"
+  },
+  "*** GOT THE IGNITER ***": {
+    "translation": "已获得喷火器"
+  },
+  "*** SETS ZOMBIES ON FIRE ***": {
+    "translation": "烧光它们!!"
+  },
+  "*** EXTINGUISHS FIRE ON HUMANS ***": {
+    "translation": "灭火器!!!"
+  },
+  "*** MAP COMPLETED ***": {
+    "translation": "地图已过关!"
+  },
+  "*** LIFT LEAVING ***": {
+    "translation": "电梯正在离开"
+  },
+  "*** WAIT HERE ***": {
+    "translation": "在这里等会!!"
+  },
+  "*** OVER 15 SURVIVED ***": {
+    "translation": "超过十五人生还!"
+  },
+  "*** MELON KILLER ***": {
+    "translation": "超级杀手!!"
+  },
+  "*** ITEM UNLOCK - UNLIMITED AMMO CRATE ***": {
+    "translation": "*** ITEM UNLOCK - UNLIMITED AMMO CRATE ***",
+    "blocked": true
+  },
+  "*** HEADS UP ***": {
+    "translation": "抬头!!"
+  },
+  "*** JUMPED THE GAP ***": {
+    "translation": "跳过去!!"
+  },
+  "*** RIGHT ROUTE | HOLD HERE ***": {
+    "translation": "右边路:在这里守!"
+  },
+  "*** RIGHT ROUTE | FALL BACK ***": {
+    "translation": "右边路:撤退!!"
+  },
+  "*** BRIDGE MIDDLE - OPEN ***": {
+    "translation": "大桥已开放!!"
+  },
+  "*** OVER 12 SURVIVED! ***": {
+    "translation": "超过十二人生还"
+  },
+  "*** STAIRS OPEN ***": {
+    "translation": "梯子已开放"
+  },
+  "*** BROUGHT THE GNOME - HUT ***": {
+    "translation": "狩猎!"
+  },
+  "*** BROUGHT THE GNOME - LIFT ***": {
+    "translation": "起飞!"
+  },
+  "*** FIRST AID ***": {
+    "translation": "急救包!"
+  },
+  "*** BROUGHT THE GNOME - WATER ***": {
+    "translation": "水!"
+  },
+  "*** DOOR OPEN - 5 SECONDS ***": {
+    "translation": "门还有5秒打开"
+  },
+  "*** FALL BACK ***": {
+    "translation": "快撤退!!"
+  },
+  "*** STAY BACK !! ***": {
+    "translation": "不要再走了!!"
+  },
+  "*** ITEM UNLOCK - FIRST AID KIT ***": {
+    "translation": "急救包已解锁!"
+  },
+  "*** BROUGHT THE GNOME - MINE ***": {
+    "translation": "地雷!"
+  },
+  "*** TELEPORT OPEN ***": {
+    "translation": "传送已启动"
+  },
+  "*** ROUND 5/5 ***": {
+    "translation": "第五关"
+  },
+  "*** MELON FOUND ***": {
+    "translation": "已找到西瓜"
+  },
+  "*** TRAIN LEAVING ***": {
+    "translation": "火车正在离开"
+  }
+}
