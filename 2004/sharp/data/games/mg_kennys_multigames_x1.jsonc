@@ -29,7 +29,7 @@
   {
     "id": "13622",
     "cd": 300,
-    "mode": 1,
+    "mode": 4,
     "name": "躲避球",
     "class": "func_button",
     "event": "OnPressed"
@@ -69,7 +69,7 @@
   {
     "id": "13632",
     "cd": 480,
-    "mode": 5,
+    "mode": 6,
     "name": "滑行",
     "class": "func_button",
     "event": "OnPressed"
@@ -142,14 +142,14 @@
     "id": "13650",
     "cd": 360,
     "mode": 7,
-    "name": "战列舰",
+    "name": "海战棋",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
     "id": "13652",
     "cd": 300,
-    "mode": 8,
+    "mode": 6,
     "name": "障碍赛",
     "class": "func_button",
     "event": "OnPressed"
