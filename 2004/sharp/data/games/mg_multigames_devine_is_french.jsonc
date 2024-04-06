@@ -62,7 +62,7 @@
     "id": "2:1102",
     "cd": 240,
     "mode": 0,
-    "name": "机枪",
+    "name": "蹦床机枪",
     "class": "func_button",
     "event": "OnPressed"
   },
@@ -86,7 +86,7 @@
     "id": "2:2160",
     "cd": 240,
     "mode": 7,
-    "name": "下坠",
+    "name": "自由落体",
     "class": "func_button",
     "event": "OnPressed"
   },
@@ -102,7 +102,7 @@
     "id": "2:2164",
     "cd": 240,
     "mode": 0,
-    "name": "低重力作战",
+    "name": "鸟狙",
     "class": "func_button",
     "event": "OnPressed"
   }
