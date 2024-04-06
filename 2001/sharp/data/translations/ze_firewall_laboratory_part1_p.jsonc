@@ -1,0 +1,187 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Zombies detected! Gate will re-open in 5 seconds.": {
+    "translation": "检测到僵尸!大门将在5秒后重新打开."
+  },
+  "Cable Car leaving in 5 seconds!": {
+    "translation": "缆车5秒后出发!"
+  },
+  "[Tip] Humans have special laboratory suits and will be able to pass these fans without slowing down!": {
+    "translation": "[提示]人类拥有特殊的实验服,可以不减速地通过这些风扇!"
+  },
+  "Panel Walk retracting...": {
+    "translation": "面板漫游收回..."
+  },
+  "Doors opening in 10 seconds.": {
+    "translation": "10秒内开门."
+  },
+  "Panel Walk has been activated. Doors will open in 20 seconds.": {
+    "translation": "面板漫游已启动.门将在20秒后打开."
+  },
+  "Zombies are blocked for 10 seconds!": {
+    "translation": "僵尸被阻挡10秒!"
+  },
+  "Heaven Teleporter generators initiating...": {
+    "translation": "启动天堂传送发电机..."
+  },
+  "Notice! <Insert Player Name Here> is going to heaven!": {
+    "translation": "通知!<此处插入玩家姓名>即将升入天堂!"
+  },
+  "WARNING! Facility emergency self-destruction sequence activated.": {
+    "translation": "警告!设施紧急自毁程序已启动."
+  },
+  "===100 seconds remaining to detonation===": {
+    "translation": "===距离爆炸还剩100秒==="
+  },
+  "ma_WARNING! Facility emergency self-destruction sequence activated.": {
+    "translation": "ma_警告!设施紧急自毁程序已启动."
+  },
+  "ma_===100 seconds remaining to detonation===": {
+    "translation": "ma_===爆炸前剩余100秒==="
+  },
+  "ma_===90 seconds remaining to detonation===": {
+    "translation": "ma_===爆炸前剩余90秒==="
+  },
+  "===90 seconds remaining to detonation===": {
+    "translation": "===距离爆炸还剩90秒==="
+  },
+  "===80 seconds remaining to detonation===": {
+    "translation": "===距离爆炸还剩80秒==="
+  },
+  "ma_===80 seconds remaining to detonation===": {
+    "translation": "ma_===离爆炸还剩80秒==="
+  },
+  "ma_===70 seconds remaining to detonation===": {
+    "translation": "ma_====离爆炸还剩70秒==="
+  },
+  "===70 seconds remaining to detonation===": {
+    "translation": "===距离爆炸还剩70秒==="
+  },
+  "===60 seconds remaining to detonation===": {
+    "translation": "===距离爆炸还剩60秒==="
+  },
+  "ma_===60 seconds remaining to detonation===": {
+    "translation": "ma_===离爆炸还剩60秒==="
+  },
+  "ma_===50 seconds remaining to detonation===": {
+    "translation": "ma_===爆炸还剩50秒==="
+  },
+  "===50 seconds remaining to detonation===": {
+    "translation": "===距离爆炸还剩50秒==="
+  },
+  "===40 seconds remaining to detonation===": {
+    "translation": "===距离爆炸还剩40秒==="
+  },
+  "ma_===40 seconds remaining to detonation===": {
+    "translation": "ma_===离爆炸还剩40秒==="
+  },
+  "ma_WARNING===30 seconds remaining to detonation===": {
+    "translation": "ma_WARNING===离爆炸还有30秒==="
+  },
+  "WARNING===30 seconds remaining to detonation===": {
+    "translation": "警告===爆炸前还剩30秒==="
+  },
+  "WARNING===20 seconds remaining to detonation===": {
+    "translation": "警告===爆炸前还剩20秒==="
+  },
+  "ma_WARNING===20 seconds remaining to detonation===": {
+    "translation": "ma_WARNING===爆炸前还剩20秒==="
+  },
+  "ma_WARNING===10 seconds remaining to detonation===": {
+    "translation": "ma_WARNING===离引爆还有10秒==="
+  },
+  "WARNING===10 seconds remaining to detonation===": {
+    "translation": "警告===爆炸前还剩10秒==="
+  },
+  "EMERGENCY WARNING===5 seconds remaining to detonation===": {
+    "translation": "紧急警报===爆炸前还剩5秒==="
+  },
+  "ma_EMERGENCY WARNING===5 seconds remaining to detonation===": {
+    "translation": "紧急警报===爆炸前5秒==="
+  },
+  "ma_cDetonation in 10": {
+    "translation": "ma_c引爆在10内"
+  },
+  "ma_cDetonation in 09": {
+    "translation": "ma_c引爆在09内"
+  },
+  "ma_cDetonation in 08": {
+    "translation": "ma_c引爆在08内"
+  },
+  "ma_cDetonation in 07": {
+    "translation": "ma_c引爆在07内"
+  },
+  "ma_cDetonation in 06": {
+    "translation": "ma_c引爆在06内"
+  },
+  "ma_cDetonation in >> 5 <<": {
+    "translation": "ma_c引爆在>> 5 <<内"
+  },
+  "ma_cDetonation in >> 4 <<": {
+    "translation": "ma_c引爆在>> 4 <<"
+  },
+  "ma_cDetonation in >> 3 <<": {
+    "translation": "ma_c引爆在>> 3 <<内"
+  },
+  "ma_cDetonation in >> 2 <<": {
+    "translation": "ma_c引爆在>> 2 <<内"
+  },
+  "ma_cDetonation in >> 1 <<": {
+    "translation": "ma_c引爆在>> 1 <<内"
+  },
+  "ma_cDetonation in >> 0 <<": {
+    "translation": "ma_c引爆在>> 0 <<内"
+  },
+  "ma_WARNING--- BLAST DOORS CLOSING": {
+    "translation": "ma_警告---防爆门关闭"
+  },
+  "WARNING- BLAST DOORS CLOSING": {
+    "translation": "警告-防爆门关闭"
+  },
+  "Panels retracting in 7 seconds.": {
+    "translation": "面板在7秒内收回."
+  },
+  "Map by FW -=LightningZLaser=-": {
+    "translation": "地图作者:FW-=LightningZLaser=-地图翻译:墨鸢@Fys"
+  },
+  "www.FireWaLLCS.net/forums": {
+    "translation": "www.FireWaLLCS.net/forums"
+  },
+  "Door opening in 5 seconds...": {
+    "translation": "5秒内开门..."
+  },
+  "Door opening in 15 seconds...": {
+    "translation": "15秒内开门..."
+  },
+  "Activate the self-destruction sequence in the emergency room!": {
+    "translation": "在急诊室启动自毁程序!"
+  },
+  "Doors to Test Laboratory G has opened!": {
+    "translation": "测试实验室G的大门已经打开!"
+  },
+  "Doors to Test Laboratory G opening in 5 seconds.": {
+    "translation": "通往G号试验室的门在5秒钟内打开."
+  },
+  "Doors to Test Laboratory G opening in 15 seconds.": {
+    "translation": "通往G号试验室的门在15秒内打开."
+  },
+  "Gate opening in 15 seconds...": {
+    "translation": "15秒内打开闸门..."
+  },
+  "Gate opening in 5 seconds...": {
+    "translation": "5秒钟内打开闸门..."
+  },
+  "[TIP] Use your head to go across the Headclimber!": {
+    "translation": "[提示]用你的头穿过Headclimber!"
+  }
+}
