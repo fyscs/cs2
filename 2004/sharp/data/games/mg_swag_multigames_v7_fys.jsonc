@@ -70,7 +70,7 @@
     "id": "80",
     "cd": 420,
     "mode": 5,
-    "name": "打靶",
+    "name": "靶场竞赛",
     "class": "func_button",
     "event": "OnPressed"
   },
@@ -94,7 +94,7 @@
     "id": "803",
     "cd": 480,
     "mode": 7,
-    "name": "选择颜色",
+    "name": "色盲模式",
     "class": "func_button",
     "event": "OnPressed"
   },
@@ -142,7 +142,7 @@
     "id": "28",
     "cd": 300,
     "mode": 0,
-    "name": "传送滑行",
+    "name": "滑行传送门",
     "class": "func_button",
     "event": "OnPressed"
   },
@@ -150,7 +150,7 @@
     "id": "484",
     "cd": 300,
     "mode": 0,
-    "name": "管道视角",
+    "name": "管视",
     "class": "func_button",
     "event": "OnPressed"
   }
