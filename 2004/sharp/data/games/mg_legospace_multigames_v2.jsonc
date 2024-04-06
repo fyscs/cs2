@@ -20,7 +20,7 @@
 [
   {
     "id": "1596",
-    "cd": 120,
+    "cd": 240,
     "mode": 0,
     "name": "太空鸟狙",
     "class": "func_button",
@@ -28,7 +28,7 @@
   },
   {
     "id": "724",
-    "cd": 120,
+    "cd": 240,
     "mode": 0,
     "name": "买枪对决",
     "class": "func_button",
@@ -36,7 +36,7 @@
   },
   {
     "id": "827",
-    "cd": 120,
+    "cd": 240,
     "mode": 0,
     "name": "新星",
     "class": "func_button",
@@ -44,7 +44,7 @@
   },
   {
     "id": "1963",
-    "cd": 120,
+    "cd": 240,
     "mode": 2,
     "name": "刀战",
     "class": "func_button",
@@ -52,7 +52,7 @@
   },
   {
     "id": "806",
-    "cd": 120,
+    "cd": 240,
     "mode": 0,
     "name": "大狙",
     "class": "func_button",
@@ -60,7 +60,7 @@
   },
   {
     "id": "1560",
-    "cd": 120,
+    "cd": 240,
     "mode": 0,
     "name": "拆箱子",
     "class": "func_button",
@@ -68,9 +68,17 @@
   },
   {
     "id": "1953",
-    "cd": 120,
+    "cd": 240,
     "mode": 2,
     "name": "滑冰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1910",
+    "cd": 600,
+    "mode": 6,
+    "name": "竞速",
     "class": "func_button",
     "event": "OnPressed"
   },

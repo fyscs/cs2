@@ -20,7 +20,7 @@
 [
   {
     "id": "202",
-    "cd": 150,
+    "cd": 240,
     "mode": 0,
     "name": "对枪",
     "class": "func_button",
@@ -44,7 +44,7 @@
   },
   {
     "id": "209",
-    "cd": 480,
+    "cd": 600,
     "mode": 6,
     "name": "climb",
     "class": "func_button",
@@ -52,15 +52,15 @@
   },
   {
     "id": "660",
-    "cd": 480,
-    "mode": 5,
+    "cd": 600,
+    "mode": 6,
     "name": "bhop",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
     "id": "233",
-    "cd": 150,
+    "cd": 240,
     "mode": 1,
     "name": "手雷",
     "class": "func_button",
@@ -69,14 +69,14 @@
   {
     "id": "329",
     "cd": 480,
-    "mode": 5,
+    "mode": 6,
     "name": "跳绳",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
     "id": "374",
-    "cd": 180,
+    "cd": 240,
     "mode": 0,
     "name": "爆头沙鹰",
     "class": "func_button",
@@ -84,7 +84,7 @@
   },
   {
     "id": "386",
-    "cd": 150,
+    "cd": 240,
     "mode": 0,
     "name": "鸟狙",
     "class": "func_button",
@@ -92,15 +92,15 @@
   },
   {
     "id": "474",
-    "cd": 150,
+    "cd": 240,
     "mode": 0,
-    "name": "箱子有枪",
+    "name": "圣诞礼物",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
     "id": "317",
-    "cd": 180,
+    "cd": 240,
     "mode": 0,
     "name": "蹦床",
     "class": "func_button",
@@ -108,7 +108,7 @@
   },
   {
     "id": "1210",
-    "cd": 480,
+    "cd": 600,
     "mode": 6,
     "name": "长跳",
     "class": "func_button",
