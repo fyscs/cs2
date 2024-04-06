@@ -1,0 +1,157 @@
+// MiniGames game mode configuration file generator.
+// MGGames Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+// enum /* MiniGameMode */
+//
+// Invalid      = -1,
+// Guns         = 0, // 对枪
+// Nade         = 1, // 手雷
+// Knife        = 2, // 拼刀
+// Taser        = 3, // 电击枪
+// Dodgeball    = 4, // 躲避球
+// RaceCombat   = 5, // Race给枪    LongJump, Bhop, Race, Clmib, Combat
+// RaceBonus    = 6, // Race刷分    LongJump, Bhop, Race, Clmib, 刷分
+// Survival     = 7, // 生存        JumpRope, FallingBox etc...
+// RaceSurvival = 8, // Race生存    LongJump, Bhop, Race, Clmib, Survival
+// Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
+
+[
+  {
+    "id": "13620",
+    "cd": 480,
+    "mode": 6,
+    "name": "水果忍者",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13622",
+    "cd": 300,
+    "mode": 1,
+    "name": "躲避球",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13624",
+    "cd": 300,
+    "mode": 0,
+    "name": "爆头沙鹰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13626",
+    "cd": 360,
+    "mode": 2,
+    "name": "足球",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13628",
+    "cd": 480,
+    "mode": 6,
+    "name": "bhop",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13630",
+    "cd": 300,
+    "mode": 1,
+    "name": "传送门手雷",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13632",
+    "cd": 480,
+    "mode": 5,
+    "name": "滑行",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13634",
+    "cd": 480,
+    "mode": 6,
+    "name": "climb",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13636",
+    "cd": 480,
+    "mode": 6,
+    "name": "赛跑",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13638",
+    "cd": 300,
+    "mode": 2,
+    "name": "角斗场刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13640",
+    "cd": 360,
+    "mode": 8,
+    "name": "植物大战僵尸",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13642",
+    "cd": 360,
+    "mode": 9,
+    "name": "僵尸末日",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13644",
+    "cd": 300,
+    "mode": 0,
+    "name": "买枪混战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13646",
+    "cd": 480,
+    "mode": 6,
+    "name": "迷你高尔夫",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13648",
+    "cd": 360,
+    "mode": 4,
+    "name": "宝可梦竞技场",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13650",
+    "cd": 360,
+    "mode": 7,
+    "name": "战列舰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "13652",
+    "cd":300,
+    "mode": 8,
+    "name": "障碍赛",
+    "class": "func_button",
+    "event": "OnPressed"
+  }
+] 
