@@ -1,0 +1,128 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Laser Monolit**": {
+    "translation": "**激光**"
+  },
+  "**ZM Teleport**": {
+    "translation": "**僵尸传送**"
+  },
+  "**Run Run**": {
+    "translation": "**跑**"
+  },
+  "**Defend 15sec**": {
+    "translation": "**防御15秒**"
+  },
+  "**defend 20sec**": {
+    "translation": "**防御20秒**"
+  },
+  "**Zm Teleport 5sec**": {
+    "translation": "**僵尸将在5秒后传送**"
+  },
+  "**Zm Teleport 6sec**": {
+    "translation": "**僵尸将在6秒后传送**"
+  },
+  "**defend 7 sec**": {
+    "translation": "**防御7秒**"
+  },
+  "**Level 4**": {
+    "translation": "**关卡:四**"
+  },
+  "**Level 3**": {
+    "translation": "**关卡:三**"
+  },
+  "**Level 2**": {
+    "translation": "**关卡:二**"
+  },
+  "**Level 1**": {
+    "translation": "**关卡:一**"
+  },
+  "*** lets go ***": {
+    "translation": "*** 我们走 ***"
+  },
+  "*** Defend 25 sec ***": {
+    "translation": "*** 防御25秒 ***"
+  },
+  "*** Defend 20 sec ***": {
+    "translation": "*** 防御20秒 ***"
+  },
+  "**Defend 20 second**": {
+    "translation": "**防御20秒**"
+  },
+  "**Level 4 Win**": {
+    "translation": "**最终关卡胜利**"
+  },
+  "**This is a map based on the game STALKER**": {
+    "translation": "**这是一张基于游戏STALKER的地图**"
+  },
+  "**models and textures Zombie**": {
+    "translation": "**模型和纹理僵尸**"
+  },
+  "**A player picked up freez**": {
+    "translation": "**一个玩家获得了冰冻**"
+  },
+  "**A player picked up spikeball**": {
+    "translation": "**一个玩家获得了刺球**"
+  },
+  "**A player picked up firegun**": {
+    "translation": "**一个玩家拿起了火枪**"
+  },
+  "**Map By Batnik_Reference.smd and Microsoft Edge**": {
+    "translation": "**地图作者:Batnik_Reference.smd and Microsoft Edge汉化:Fys逾卿茗染**",
+    "blocked": true
+  },
+  "**controller ran away**": {
+    "translation": "**控制器失控**"
+  },
+  "**lets move**": {
+    "translation": "**快跑**"
+  },
+  "*** CONTROLLER Uses electric field WARNING ***": {
+    "translation": "*** 控制器漏电了 ***"
+  },
+  "**4 generator was destroyed**": {
+    "translation": "**四台发电机被毁**"
+  },
+  "**3 generator was destroyed**": {
+    "translation": "**三台发电机被毁**"
+  },
+  "**2 generator was destroyed**": {
+    "translation": "**两台发电机被毁**"
+  },
+  "**1 generator was destroyed**": {
+    "translation": "**一台发电机被毁**"
+  },
+  "**kill the controller**": {
+    "translation": "**干掉控制器**"
+  },
+  "**Defend 15 second**": {
+    "translation": "**防守15秒**"
+  },
+  "**the helicopter is destroyed.  run*": {
+    "translation": "**直升机被牢大肘击了,快跑*"
+  },
+  "**Door will Close 15 second**": {
+    "translation": "**车门将关闭15秒**"
+  },
+  "**elevator will leave in 11 seconds**": {
+    "translation": "**电梯11秒后离开**"
+  },
+  "**2 buttons were pressed**": {
+    "translation": "**触发两个按钮**"
+  },
+  "**Elevator activated**": {
+    "translation": "**电梯启动**"
+  },
+  "**psevdogigant IS DEAD**": {
+    "translation": "**psevdogigant死了**"
+  }
+}
