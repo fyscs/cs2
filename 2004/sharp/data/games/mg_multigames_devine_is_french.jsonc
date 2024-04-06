@@ -1,0 +1,109 @@
+// MiniGames game mode configuration file generator.
+// MGGames Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+// enum /* MiniGameMode */
+//
+// Invalid      = -1,
+// Guns         = 0, // 对枪
+// Nade         = 1, // 手雷
+// Knife        = 2, // 拼刀
+// Taser        = 3, // 电击枪
+// Dodgeball    = 4, // 躲避球
+// RaceCombat   = 5, // Race给枪    LongJump, Bhop, Race, Clmib, Combat
+// RaceBonus    = 6, // Race刷分    LongJump, Bhop, Race, Clmib, 刷分
+// Survival     = 7, // 生存        JumpRope, FallingBox etc...
+// RaceSurvival = 8, // Race生存    LongJump, Bhop, Race, Clmib, Survival
+// Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
+
+[
+  {
+    "id": "2:2166",
+    "cd": 240,
+    "mode": 1,
+    "name": "手雷",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:2175",
+    "cd": 300,
+    "mode": 2,
+    "name": "刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:2152",
+    "cd": 240,
+    "mode": 0,
+    "name": "awp",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:2154",
+    "cd": 240,
+    "mode": 0,
+    "name": "ak/m4对决",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:2156",
+    "cd": 240,
+    "mode": 0,
+    "name": "手枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:1102",
+    "cd": 240,
+    "mode": 0,
+    "name": "机枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:1065",
+    "cd": 480,
+    "mode": 8,
+    "name": "赛跑",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:2158",
+    "cd": 240,
+    "mode": 0,
+    "name": "冲锋枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:2160",
+    "cd": 240,
+    "mode": 7,
+    "name": "下坠",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:2162",
+    "cd": 240,
+    "mode": 0,
+    "name": "散弹枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:2164",
+    "cd": 240,
+    "mode": 0,
+    "name": "低重力作战",
+    "class": "func_button",
+    "event": "OnPressed"
+  }
+] 
