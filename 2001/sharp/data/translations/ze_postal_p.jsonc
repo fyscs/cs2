@@ -1,0 +1,133 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Zombie tp in 10 seconds***": {
+    "translation": "***僵尸 tp 在 10 秒内***"
+  },
+  "***FAILED***": {
+    "translation": "***失败***"
+  },
+  "***The Lab door will open in 12 seconds***": {
+    "translation": "***实验室门将在 12 秒内打开***"
+  },
+  "***Zombie tp in 15 seconds***": {
+    "translation": "***僵尸 tp 在 15 秒内***"
+  },
+  "***Gate will open in 15 seconds***": {
+    "translation": "***大门将在 15 秒内打开***"
+  },
+  "***HOLD***": {
+    "translation": "***顶住***"
+  },
+  "***Something is about to happen***": {
+    "translation": "***有些事情即将发生***"
+  },
+  "***Thank you for playing***": {
+    "translation": "***感谢您的游玩***"
+  },
+  "***DEFEND 30 SECONDS***": {
+    "translation": "***防守 30 秒***"
+  },
+  "***Zombie tp in 20 seconds***": {
+    "translation": "***僵尸 tp 在 20 秒内***"
+  },
+  "***WTF, WHY I CAN'T GET INSIDE?***": {
+    "translation": "***WTF,为什么我进不去?***"
+  },
+  "***MAPPER, YOU ARE FUCKIN' RETARD!!!***": {
+    "translation": "***地图绘制者,你他妈的是个弱智!!***"
+  },
+  "***I think I should try to find some doctors around.***": {
+    "translation": "***我想我应该试着在附近找一些医生.***"
+  },
+  "***Why is the entire hospital so empty?***": {
+    "translation": "***为什么整个医院都这么空？***"
+  },
+  "***Damn, what kind of cats were they?***": {
+    "translation": "***该死的,它们是什么猫？***"
+  },
+  "***We gotta get out of here fast.***": {
+    "translation": "***我们必须快点离开这里.***"
+  },
+  "***I had just seen the way out of here before.***": {
+    "translation": "***我之前刚刚看到了离开这里的路.***"
+  },
+  "***Door will open in 10 seconds.***": {
+    "translation": "***门将在 10 秒内打开.***"
+  },
+  "***WHY THE FUCK IS THE CEILING SO LOW? MAPPER, YOU ARE FUCKING MORON!***": {
+    "translation": "***为什么天花板这么低？地图绘制者,你他妈的白痴！***"
+  },
+  "***Fuck, these cats are everywhere.***": {
+    "translation": "***他妈的,这些猫到处都是.***"
+  },
+  "***The exit is closed. I guess I have to go through the window.***": {
+    "translation": "***出口已关闭.我想我必须穿过窗户.***"
+  },
+  "***The door seems pretty strange. Maybe I need to shoot at it.***": {
+    "translation": "***这扇门看起来很奇怪.也许我需要向它开枪.***"
+  },
+  "***What the fuck is that thing behind the glass?***": {
+    "translation": "***玻璃后面的那个东西他妈的是什么？***"
+  },
+  "***Sewer door will open in 18 seconds***": {
+    "translation": "***下水道门将在 18 秒内打开***"
+  },
+  "***Doors open in 13 seconds.***": {
+    "translation": "***门在 13 秒内打开.***"
+  },
+  "***Doors open in 15 seconds.***": {
+    "translation": "***门在 15 秒内打开.***"
+  },
+  "***The laboratory doors open in 35 seconds.***": {
+    "translation": "***实验室门在 35 秒内打开.***"
+  },
+  "***The entrance to the lab's hallway opens in 15 seconds.***": {
+    "translation": "***实验室走廊的入口在15秒内打开.***"
+  },
+  "***Doors close in 10 seconds.***": {
+    "translation": "***门在 10 秒内关闭.***"
+  },
+  "***What is that strange noise in the vents?***": {
+    "translation": "***通风口里那奇怪的声音是什么？***"
+  },
+  "***Elevator comes in 30 seconds.***": {
+    "translation": "***电梯在30秒内到达.***"
+  },
+  "***Elevator doors close in 10 seconds.***": {
+    "translation": "***电梯门在 10 秒内关闭.***"
+  },
+  "***Welcome everyone. this is my first map (don't be harsh please)***": {
+    "translation": "***欢迎大家.这是我的第一张地图（请不要苛刻）***"
+  },
+  "***Anyway I need to get out of here.***": {
+    "translation": "***无论如何,我需要离开这里.***"
+  },
+  "***What the fuck happened? How did I even get here?***": {
+    "translation": "***这他妈的怎么了？我是怎么来到这里的？***"
+  },
+  "***If you find any bugs or whatsoever that makes this map unplayable, do not hesitate to contact me.***": {
+    "translation": "***如果您发现任何错误或任何导致此地图无法播放的内容,请随时与我联系.***"
+  },
+  "***You can find my info on the left side at spawn.***": {
+    "translation": "***您可以在生成时的左侧找到我的信息.***"
+  },
+  "***Special thanks to Kotya for helping me with the most parts.***": {
+    "translation": "***特别感谢 Kotya 帮助我完成大部分工作.***"
+  },
+  "***Thanks to Champagne, NiceShot and memories for helping me***": {
+    "translation": "***感谢 Champagne、NiceShot 和回忆对我的帮助***"
+  },
+  "***A Player has picked up Heal***": {
+    "translation": "***一名玩家捡起了治疗***"
+  }
+}
