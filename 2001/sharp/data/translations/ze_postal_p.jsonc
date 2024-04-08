@@ -11,19 +11,19 @@
 
 {
   "***Zombie tp in 10 seconds***": {
-    "translation": "***僵尸tp在10秒内***"
+    "translation": "***僵尸传送在10秒后***"
   },
   "***FAILED***": {
     "translation": "***失败***"
   },
   "***The Lab door will open in 12 seconds***": {
-    "translation": "***实验室门将在12秒内打开***"
+    "translation": "***实验室门将在12秒后打开***"
   },
   "***Zombie tp in 15 seconds***": {
-    "translation": "***僵尸tp在 15 秒内***"
+    "translation": "***僵尸传送在 15 秒后***"
   },
   "***Gate will open in 15 seconds***": {
-    "translation": "***大门将在15秒内打开***"
+    "translation": "***大门将在15秒后打开***"
   },
   "***HOLD***": {
     "translation": "***撑住***"
@@ -38,7 +38,7 @@
     "translation": "***防守30秒***"
   },
   "***Zombie tp in 20 seconds***": {
-    "translation": "***僵尸tp在20秒内***"
+    "translation": "***僵尸传送在20秒后***"
   },
   "***WTF, WHY I CAN'T GET INSIDE?***": {
     "translation": "***WTF,为什么我进不去?***"
@@ -62,7 +62,7 @@
     "translation": "***我之前刚刚看到了离开这里的路.***"
   },
   "***Door will open in 10 seconds.***": {
-    "translation": "***门将在10秒内打开.***"
+    "translation": "***门将在10秒后打开.***"
   },
   "***WHY THE FUCK IS THE CEILING SO LOW? MAPPER, YOU ARE FUCKING MORON!***": {
     "translation": "***为什么天花板这么低?MAPPER,你他妈的白痴!***"
@@ -80,31 +80,31 @@
     "translation": "***玻璃后面的那个东西他妈的是什么?***"
   },
   "***Sewer door will open in 18 seconds***": {
-    "translation": "***下水道门将在18秒内打开***"
+    "translation": "***下水道门将在18秒后打开***"
   },
   "***Doors open in 13 seconds.***": {
-    "translation": "***门在13秒内打开.***"
+    "translation": "***门在13秒后打开.***"
   },
   "***Doors open in 15 seconds.***": {
-    "translation": "***门在15秒内打开.***"
+    "translation": "***门在15秒后打开.***"
   },
   "***The laboratory doors open in 35 seconds.***": {
-    "translation": "***实验室门在35秒内打开.***"
+    "translation": "***实验室门在35秒后打开.***"
   },
   "***The entrance to the lab's hallway opens in 15 seconds.***": {
-    "translation": "***实验室走廊的入口在15秒内打开.***"
+    "translation": "***实验室走廊的入口在15秒后打开.***"
   },
   "***Doors close in 10 seconds.***": {
-    "translation": "***门在10秒内关闭.***"
+    "translation": "***门在10秒后关闭.***"
   },
   "***What is that strange noise in the vents?***": {
     "translation": "***通风口里那奇怪的声音是什么?***"
   },
   "***Elevator comes in 30 seconds.***": {
-    "translation": "***电梯在30秒内到达.***"
+    "translation": "***电梯在30秒后到达.***"
   },
   "***Elevator doors close in 10 seconds.***": {
-    "translation": "***电梯门在10秒内关闭.***"
+    "translation": "***电梯门在10秒后关闭.***"
   },
   "***Welcome everyone. this is my first map (don't be harsh please)***": {
     "translation": "***欢迎大家.这是我的第一张地图(请不要苛刻)***"
