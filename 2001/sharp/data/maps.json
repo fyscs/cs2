@@ -309,6 +309,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_fapescape_p": {
+    "description": "乐高大逃亡",
+    "tier": 5,
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 600,
+    "cooldown": 80,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_fast_escape_p": {
     "description": "看谁跑得快",
     "tier": 2,
