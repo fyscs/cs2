@@ -83,7 +83,8 @@
     "translation": "***下水道门将在18秒后打开***"
   },
   "***Doors open in 13 seconds.***": {
-    "translation": "***门在13秒后打开.***"
+    "translation": "***门在13秒后打开.***",
+    "blocked": true
   },
   "***Doors open in 15 seconds.***": {
     "translation": "***门在15秒后打开.***"
