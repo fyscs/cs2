@@ -829,6 +829,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_stalkermonolith": {
+    "description": "潜行者:异变",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_starwars_v2fix": {
     "description": "星球大战",
     "tier": 4,
