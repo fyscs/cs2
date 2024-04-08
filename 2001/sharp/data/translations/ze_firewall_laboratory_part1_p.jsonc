@@ -50,103 +50,131 @@
     "translation": "===爆炸前剩余100秒==="
   },
   "ma_===90 seconds remaining to detonation===": {
-    "translation": "===爆炸前剩余90秒==="
+    "translation": "===爆炸前剩余90秒===",
+    "blocked": true
   },
   "===90 seconds remaining to detonation===": {
-    "translation": "===离爆炸还剩90秒==="
+    "translation": "===离爆炸还剩90秒===",
+    "blocked": true
   },
   "===80 seconds remaining to detonation===": {
-    "translation": "===离爆炸还剩80秒==="
+    "translation": "===离爆炸还剩80秒===",
+    "blocked": true
   },
   "ma_===80 seconds remaining to detonation===": {
-    "translation": "===离爆炸还剩80秒==="
+    "translation": "===离爆炸还剩80秒===",
+    "blocked": true
   },
   "ma_===70 seconds remaining to detonation===": {
-    "translation": "====离爆炸还剩70秒==="
+    "translation": "====离爆炸还剩70秒===",
+    "blocked": true
   },
   "===70 seconds remaining to detonation===": {
-    "translation": "===离爆炸还剩70秒==="
+    "translation": "===离爆炸还剩70秒===",
+    "blocked": true
   },
   "===60 seconds remaining to detonation===": {
-    "translation": "===离爆炸还剩60秒==="
+    "translation": "===离爆炸还剩60秒===",
+    "blocked": true
   },
   "ma_===60 seconds remaining to detonation===": {
-    "translation": "===离爆炸还剩60秒==="
+    "translation": "===离爆炸还剩60秒===",
+    "blocked": true
   },
   "ma_===50 seconds remaining to detonation===": {
-    "translation": "===离爆炸还剩50秒==="
+    "translation": "===离爆炸还剩50秒===",
+    "blocked": true
   },
   "===50 seconds remaining to detonation===": {
-    "translation": "===离爆炸还剩50秒==="
+    "translation": "===离爆炸还剩50秒===",
+    "blocked": true
   },
   "===40 seconds remaining to detonation===": {
-    "translation": "===离爆炸还剩40秒==="
+    "translation": "===离爆炸还剩40秒===",
+    "blocked": true
   },
   "ma_===40 seconds remaining to detonation===": {
-    "translation": "===离爆炸还剩40秒==="
+    "translation": "===离爆炸还剩40秒===",
+    "blocked": true
   },
   "ma_WARNING===30 seconds remaining to detonation===": {
     "translation": "警告===离爆炸还有30秒==="
   },
   "WARNING===30 seconds remaining to detonation===": {
-    "translation": "警告===离爆炸前还剩30秒==="
+    "translation": "警告===离爆炸还剩30秒===",
+    "blocked": true
   },
   "WARNING===20 seconds remaining to detonation===": {
-    "translation": "警告===离爆炸前还剩20秒==="
+    "translation": "警告===离爆炸还剩20秒===",
+    "blocked": true
   },
   "ma_WARNING===20 seconds remaining to detonation===": {
-    "translation": "警告===离爆炸前还剩20秒==="
+    "translation": "警告===离爆炸还剩20秒===",
+    "blocked": true
   },
   "ma_WARNING===10 seconds remaining to detonation===": {
-    "translation": "警告===离爆炸还剩10秒==="
+    "translation": "警告===离爆炸还剩10秒===",
+    "blocked": true
   },
   "WARNING===10 seconds remaining to detonation===": {
-    "translation": "警告===离爆炸还剩10秒==="
+    "translation": "警告===离爆炸还剩10秒===",
+    "blocked": true
   },
   "EMERGENCY WARNING===5 seconds remaining to detonation===": {
     "translation": "紧急警报===离爆炸还剩5秒==="
   },
   "ma_EMERGENCY WARNING===5 seconds remaining to detonation===": {
-    "translation": "紧急警报===离爆炸还剩5秒==="
+    "translation": "紧急警报===离爆炸还剩5秒===",
+    "blocked": true
   },
   "ma_cDetonation in 10": {
     "translation": "引爆在10后"
   },
   "ma_cDetonation in 09": {
-    "translation": "引爆在09后"
+    "translation": "引爆在09后",
+    "blocked": true
   },
   "ma_cDetonation in 08": {
-    "translation": "引爆在08后"
+    "translation": "引爆在08后",
+    "blocked": true
   },
   "ma_cDetonation in 07": {
-    "translation": "引爆在07后"
+    "translation": "引爆在07后",
+    "blocked": true
   },
   "ma_cDetonation in 06": {
-    "translation": "引爆在06后"
+    "translation": "引爆在06后",
+    "blocked": true
   },
   "ma_cDetonation in >> 5 <<": {
     "translation": "引爆在>> 5 <<后"
   },
   "ma_cDetonation in >> 4 <<": {
-    "translation": "引爆在>> 4 <<"
+    "translation": "引爆在>> 4 <<",
+    "blocked": true
   },
   "ma_cDetonation in >> 3 <<": {
-    "translation": "引爆在>> 3 <<后"
+    "translation": "引爆在>> 3 <<后",
+    "blocked": true
   },
   "ma_cDetonation in >> 2 <<": {
-    "translation": "引爆在>> 2 <<后"
+    "translation": "引爆在>> 2 <<后",
+    "blocked": true
   },
   "ma_cDetonation in >> 1 <<": {
-    "translation": "引爆在>> 1 <<后"
+    "translation": "引爆在>> 1 <<后",
+    "blocked": true
   },
   "ma_cDetonation in >> 0 <<": {
-    "translation": "引爆在>> 0 <<后"
+    "translation": "引爆在>> 0 <<后",
+    "blocked": true
   },
   "ma_WARNING--- BLAST DOORS CLOSING": {
     "translation": "警告-防爆门关闭"
   },
   "WARNING- BLAST DOORS CLOSING": {
     "translation": "警告-防爆门关闭"
+    "blocked": true
   },
   "Panels retracting in 7 seconds.": {
     "translation": "面板在7秒后收回."
@@ -159,7 +187,8 @@
     "blocked": true
   },
   "Door opening in 5 seconds...": {
-    "translation": "5秒后开门..."
+    "translation": "5秒后开门...",
+    "blocked": true
   },
   "Door opening in 15 seconds...": {
     "translation": "15秒后开门..."
@@ -171,7 +200,8 @@
     "translation": "测试实验室G的大门已经打开!"
   },
   "Doors to Test Laboratory G opening in 5 seconds.": {
-    "translation": "通往G号试验室的门在5秒钟后打开."
+    "translation": "通往G号试验室的门在5秒钟后打开.",
+    "blocked": true
   },
   "Doors to Test Laboratory G opening in 15 seconds.": {
     "translation": "通往G号试验室的门在15秒后打开."
@@ -180,7 +210,8 @@
     "translation": "15秒后打开闸门..."
   },
   "Gate opening in 5 seconds...": {
-    "translation": "5秒钟后打开闸门..."
+    "translation": "5秒钟后打开闸门...",
+    "blocked": true
   },
   "[TIP] Use your head to go across the Headclimber!": {
     "translation": "[提示]用你的头穿过Headclimber!"
