@@ -17,7 +17,8 @@
     "translation": ">机翼将在30秒后破损<"
   },
   ">Wing will break in 10 sec<": {
-    "translation": ">机翼将在10秒后破损<"
+    "translation": ">机翼将在10秒后破损<",
+    "blocked": true
   },
   ">Bars will break in 30 sec<": {
     "translation": ">柱线将在30秒后破损<"
@@ -35,6 +36,7 @@
     "translation": "> 核弹在50秒后爆炸<"
   },
   "> NUKE exploding in 10 sec<": {
-    "translation": "> 核弹在10秒后爆炸<"
+    "translation": "> 核弹在10秒后爆炸<",
+    "blocked": true
   }
 }
