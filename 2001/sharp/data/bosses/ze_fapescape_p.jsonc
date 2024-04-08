@@ -1,0 +1,65 @@
+// BossHP configuration file generator.
+// Boss Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+
+{
+  "Counters": [
+    {
+      "iterator": "boss_hp",
+      "backup": "boss_hp_backup",
+      "counter": "boss_hp_iterations",
+      "hitbox": "rickroll_physbox",
+      "display": "Rick"
+    },
+    {
+      "iterator": "boss_hp2",
+      "backup": "boss_hp2_backup",
+      "counter": "boss_hp_iterations2",
+      "hitbox": "retard_physbox2",
+      "display": "Retard"
+    },
+    {
+      "iterator": "boss_hp3",
+      "backup": "boss_hp3_backup",
+      "counter": "boss_hp_iterations3",
+      "hitbox": "boss3_break1",
+      "display": "机器人"
+    },
+    {
+      "iterator": "boss_hp4",
+      "backup": "boss_hp4_backup",
+      "counter": "mouth_counter",
+      "hitbox": "mouth_phbox",
+      "display": "机器人"
+    },
+    {
+      "iterator": "boss_hp5",
+      "backup": "boss_hp_backup5",
+      "counter": "boss_hp_iterations5",
+      "hitbox": "roboboss_phbox",
+      "display": "Rick"
+    },
+    {
+      "iterator": "lastboss_static",
+      "hitbox": "eye",
+      "display": "Eye"
+    },
+    {
+      "iterator": "lastboss_moving",
+      "hitbox": "eye",
+      "display": "Eye Final"
+    }
+  ]
+}
