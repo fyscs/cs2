@@ -19,7 +19,7 @@
 
 [
   {
-    "id": "2:2166",
+    "id": "1670",
     "cd": 240,
     "mode": 1,
     "name": "手雷",
@@ -27,15 +27,15 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:2175",
-    "cd": 300,
+    "id": "1679",
+    "cd": 240,
     "mode": 2,
     "name": "刀战",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "2:2152",
+    "id": "1656",
     "cd": 240,
     "mode": 0,
     "name": "awp",
@@ -43,7 +43,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:2154",
+    "id": "1658",
     "cd": 240,
     "mode": 0,
     "name": "ak/m4对决",
@@ -51,7 +51,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:2156",
+    "id": "1660",
     "cd": 240,
     "mode": 0,
     "name": "手枪",
@@ -59,7 +59,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:1102",
+    "id": "1244",
     "cd": 240,
     "mode": 0,
     "name": "蹦床机枪",
@@ -67,15 +67,15 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:1065",
-    "cd": 480,
+    "id": "1207",
+    "cd": 600,
     "mode": 8,
     "name": "赛跑",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "2:2158",
+    "id": "1662",
     "cd": 240,
     "mode": 0,
     "name": "冲锋枪",
@@ -83,15 +83,15 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:2160",
-    "cd": 240,
-    "mode": 7,
+    "id": "1664",
+    "cd": 300,
+    "mode": 8,
     "name": "自由落体",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "2:2162",
+    "id": "1666",
     "cd": 240,
     "mode": 0,
     "name": "散弹枪",
@@ -99,7 +99,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:2164",
+    "id": "1668",
     "cd": 240,
     "mode": 0,
     "name": "鸟狙",

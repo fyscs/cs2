@@ -129,6 +129,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_azathoth_p": {
+    "description": "阿撒托斯",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_aztecnoob_p": {
     "description": "阿兹特克神庙",
     "tier": 1,
@@ -136,6 +146,16 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_baocceho_p": {
+    "description": "梦境大逃亡",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
     "admin": false,
     "refund": 0.5
   },
@@ -299,8 +319,28 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_firewall_laboratory_part1_p": {
+    "description": "防火墙实验室1",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_greece_escape_p": {
     "description": "希腊逃亡",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_greencity_p": {
+    "description": "绿之城",
     "tier": 1,
     "certainTimes": [-1],
     "price": 300,
@@ -456,6 +496,16 @@
     "price": 300,
     "cooldown": 50,
     "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_lotr_mirkwood_p": {
+    "description": "魔戒:幽暗森林",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
     "admin": false,
     "refund": 0.5
   },
@@ -639,6 +689,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_postal_p": {
+    "description": "良好邮差",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_potc_p": {
     "description": "加勒比海盗",
     "tier": 2,
@@ -729,6 +789,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_secret_garden": {
+    "description": "神秘花园",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_sex_mod_hentai_beachescape_camper_p": {
     "description": "海滩逃生",
     "tier": 2,
@@ -766,6 +836,16 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_stalkermonolith": {
+    "description": "潜行者:异变",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
     "admin": false,
     "refund": 0.5
   },
@@ -902,6 +982,16 @@
   "ze_upwards_p": {
     "description": "往上跑",
     "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_vietnam_p": {
+    "description": "越南丛林大冒险",
+    "tier": 1,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
@@ -1142,6 +1232,16 @@
   "ze_surf_okitsu_shonyudo": {
     "description": "钟乳洞滑翔",
     "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
+  "ze_firewall_laboratory_part2_p": {
+    "description": "防火墙实验室2",
+    "tier": 1,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,

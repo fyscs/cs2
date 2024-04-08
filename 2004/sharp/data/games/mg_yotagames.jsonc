@@ -20,7 +20,7 @@
 [
   {
     "id": "2660",
-    "cd": 240,
+    "cd": 300,
     "mode": 2,
     "name": "滑冰",
     "class": "func_button",
@@ -28,7 +28,7 @@
   },
   {
     "id": "2682",
-    "cd": 240,
+    "cd": 300,
     "mode": 0,
     "name": "ak/m4对决",
     "class": "func_button",
@@ -36,7 +36,7 @@
   },
   {
     "id": "2640",
-    "cd": 240,
+    "cd": 300,
     "mode": 0,
     "name": "awp",
     "class": "func_button",
@@ -44,15 +44,15 @@
   },
   {
     "id": "1258",
-    "cd": 360,
-    "mode": 5,
+    "cd": 300,
+    "mode": 6,
     "name": "90只鸡",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
     "id": "2642",
-    "cd": 480,
+    "cd": 600,
     "mode": 6,
     "name": "bhop",
     "class": "func_button",
@@ -60,7 +60,7 @@
   },
   {
     "id": "2644",
-    "cd": 480,
+    "cd": 600,
     "mode": 6,
     "name": "障碍赛",
     "class": "func_button",
@@ -68,7 +68,7 @@
   },
   {
     "id": "2646",
-    "cd": 240,
+    "cd": 300,
     "mode": 0,
     "name": "新星",
     "class": "func_button",
@@ -76,7 +76,7 @@
   },
   {
     "id": "1131",
-    "cd": 240,
+    "cd": 300,
     "mode": 3,
     "name": "电击枪",
     "class": "func_button",
@@ -84,7 +84,7 @@
   },
   {
     "id": "2648",
-    "cd": 360,
+    "cd": 300,
     "mode": 9,
     "name": "打飞碟",
     "class": "func_button",
@@ -94,13 +94,13 @@
     "id": "1535",
     "cd": 300,
     "mode": 0,
-    "name": "m249",
+    "name": "内格夫",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
     "id": "2652",
-    "cd": 240,
+    "cd": 300,
     "mode": 2,
     "name": "35hp刀战",
     "class": "func_button",
@@ -108,7 +108,7 @@
   },
   {
     "id": "1201",
-    "cd": 240,
+    "cd": 300,
     "mode": 0,
     "name": "买枪混战",
     "class": "func_button",
@@ -116,7 +116,7 @@
   },
   {
     "id": "2654",
-    "cd": 240,
+    "cd": 300,
     "mode": 0,
     "name": "沙鹰",
     "class": "func_button",
@@ -124,7 +124,7 @@
   },
   {
     "id": "2656",
-    "cd": 240,
+    "cd": 300,
     "mode": 4,
     "name": "躲避球",
     "class": "func_button",
@@ -132,7 +132,7 @@
   },
   {
     "id": "2658",
-    "cd": 240,
+    "cd": 300,
     "mode": 0,
     "name": "鸟狙",
     "class": "func_button",
@@ -140,8 +140,8 @@
   },
   {
     "id": "1242",
-    "cd": 480,
-    "mode": 7,
+    "cd": 300,
+    "mode": 2,
     "name": "跳绳",
     "class": "func_button",
     "event": "OnPressed"
