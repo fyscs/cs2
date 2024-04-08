@@ -20,7 +20,7 @@
 [
   {
     "id": "39092",
-    "cd": 210,
+    "cd": 240,
     "mode": 3,
     "name": "电击枪",
     "class": "func_button",
@@ -28,7 +28,7 @@
   },
   {
     "id": "39419",
-    "cd": 210,
+    "cd": 240,
     "mode": 0,
     "name": "鸟狙",
     "class": "func_button",
@@ -36,7 +36,7 @@
   },
   {
     "id": "38667",
-    "cd": 210,
+    "cd": 240,
     "mode": 0,
     "name": "原地打架",
     "class": "func_button",
@@ -44,7 +44,7 @@
   },
   {
     "id": "39613",
-    "cd": 360,
+    "cd": 480,
     "mode": 0,
     "name": "1v1沙鹰100hp",
     "class": "func_button",
@@ -60,7 +60,7 @@
   },
   {
     "id": "39614",
-    "cd": 360,
+    "cd": 480,
     "mode": 0,
     "name": "1v1 1hp沙鹰",
     "class": "func_button",
@@ -68,7 +68,7 @@
   },
   {
     "id": "39615",
-    "cd": 360,
+    "cd": 480,
     "mode": 0,
     "name": "1v1爆头沙鹰",
     "class": "func_button",
@@ -76,15 +76,15 @@
   },
   {
     "id": "39293",
-    "cd": 360,
-    "mode": 5,
+    "cd": 600,
+    "mode": 6,
     "name": "跳远",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
     "id": "39420",
-    "cd": 210,
+    "cd": 240,
     "mode": 0,
     "name": "大狙",
     "class": "func_button",
@@ -92,31 +92,31 @@
   },
   {
     "id": "38672",
-    "cd": 360,
-    "mode": 5,
+    "cd": 600,
+    "mode": 6,
     "name": "bhop",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
     "id": "38650",
-    "cd": 210,
-    "mode": 0,
+    "cd": 240,
+    "mode": 2,
     "name": "刀战",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
     "id": "38939",
-    "cd": 360,
-    "mode": 5,
+    "cd": 600,
+    "mode": 6,
     "name": "climb",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
     "id": "38818",
-    "cd": 210,
+    "cd": 240,
     "mode": 1,
     "name": "手雷",
     "class": "func_button",

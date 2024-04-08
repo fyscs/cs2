@@ -28,7 +28,7 @@
   },
   {
     "id": "897",
-    "cd": 180,
+    "cd": 360,
     "mode": 9,
     "name": "打鸭子v1",
     "class": "func_button",
@@ -44,7 +44,7 @@
   },
   {
     "id": "1048",
-    "cd": 180,
+    "cd": 360,
     "mode": 0,
     "name": "沙鹰",
     "class": "func_button",
@@ -52,7 +52,7 @@
   },
   {
     "id": "1050",
-    "cd": 180,
+    "cd": 360,
     "mode": 1,
     "name": "手雷",
     "class": "func_button",
@@ -60,15 +60,15 @@
   },
   {
     "id": "1046",
-    "cd": 300,
-    "mode": 1,
+    "cd": 360,
+    "mode": 6,
     "name": "炸油桶",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
     "id": "1021",
-    "cd": 180,
+    "cd": 360,
     "mode": 0,
     "name": "m4a4",
     "class": "func_button",
@@ -76,7 +76,7 @@
   },
   {
     "id": "1484",
-    "cd": 180,
+    "cd": 360,
     "mode": 0,
     "name": "ak47",
     "class": "func_button",
@@ -84,7 +84,7 @@
   },
   {
     "id": "845",
-    "cd": 240,
+    "cd": 360,
     "mode": 2,
     "name": "足球",
     "class": "func_button",
@@ -92,7 +92,7 @@
   },
   {
     "id": "1029",
-    "cd": 360,
+    "cd": 600,
     "mode": 6,
     "name": "bhop",
     "class": "func_button",
@@ -100,7 +100,7 @@
   },
   {
     "id": "1434",
-    "cd": 240,
+    "cd": 360,
     "mode": 0,
     "name": "手枪对战",
     "class": "func_button",
@@ -108,7 +108,7 @@
   },
   {
     "id": "1023",
-    "cd": 300,
+    "cd": 360,
     "mode": 2,
     "name": "35hp刀战",
     "class": "func_button",
@@ -116,7 +116,7 @@
   },
   {
     "id": "1027",
-    "cd": 300,
+    "cd": 360,
     "mode": 2,
     "name": "65hp刀战",
     "class": "func_button",
@@ -124,7 +124,7 @@
   },
   {
     "id": "1025",
-    "cd": 300,
+    "cd": 360,
     "mode": 2,
     "name": "100hp刀战",
     "class": "func_button",
@@ -132,7 +132,7 @@
   },
   {
     "id": "1436",
-    "cd": 240,
+    "cd": 360,
     "mode": 2,
     "name": "滑冰",
     "class": "func_button",
@@ -140,7 +140,7 @@
   },
   {
     "id": "115",
-    "cd": 300,
+    "cd": 600,
     "mode": 0,
     "name": "1v1对决",
     "class": "func_button",
@@ -148,7 +148,7 @@
   },
   {
     "id": "1012",
-    "cd": 240,
+    "cd": 360,
     "mode": 0,
     "name": "透视usp",
     "class": "func_button",
@@ -156,7 +156,7 @@
   },
   {
     "id": "1010",
-    "cd": 240,
+    "cd": 360,
     "mode": 0,
     "name": "透视a1",
     "class": "func_button",
@@ -164,7 +164,7 @@
   },
   {
     "id": "1012",
-    "cd": 240,
+    "cd": 360,
     "mode": 0,
     "name": "双枪",
     "class": "func_button",
@@ -172,7 +172,7 @@
   },
   {
     "id": "841",
-    "cd": 240,
+    "cd": 360,
     "mode": 0,
     "name": "新星",
     "class": "func_button",
@@ -180,7 +180,7 @@
   },
   {
     "id": "1054",
-    "cd": 240,
+    "cd": 360,
     "mode": 0,
     "name": "鸟狙",
     "class": "func_button",
@@ -188,7 +188,7 @@
   },
   {
     "id": "1393",
-    "cd": 240,
+    "cd": 360,
     "mode": 0,
     "name": "大狙",
     "class": "func_button",

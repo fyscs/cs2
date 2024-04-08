@@ -68,7 +68,7 @@
   },
   {
     "id": "1518",
-    "cd": 240,
+    "cd": 480,
     "mode": 7,
     "name": "烫手山芋",
     "class": "func_button",
@@ -84,7 +84,7 @@
   },
   {
     "id": "1514",
-    "cd": 240,
+    "cd": 480,
     "mode": 7,
     "name": "苦力怕",
     "class": "func_button",
@@ -116,7 +116,7 @@
   },
   {
     "id": "1528",
-    "cd": 240,
+    "cd": 480,
     "mode": 2,
     "name": "排球",
     "class": "func_button",
