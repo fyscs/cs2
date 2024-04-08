@@ -1,0 +1,42 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">Door will break in 30 sec<": {
+    "translation": ">门将在30秒后破损<"
+  },
+  ">Wing will break in 30 sec<": {
+    "translation": ">机翼将在30秒后破损<"
+  },
+  ">Wing will break in 10 sec<": {
+    "translation": ">机翼将在10秒后破损<",
+    "blocked": true
+  },
+  ">Bars will break in 30 sec<": {
+    "translation": ">柱线将在30秒后破损<"
+  },
+  ">Boat leaving in 60 sec<": {
+    "translation": ">船在60秒后离开<"
+  },
+  ">Get in the boat!!!<": {
+    "translation": ">上船!!!<"
+  },
+  "> Use the console to launch nuke <": {
+    "translation": "> 使用控制台启动核弹 <"
+  },
+  "> NUKE exploding in 50 sec<": {
+    "translation": "> 核弹在50秒后爆炸<"
+  },
+  "> NUKE exploding in 10 sec<": {
+    "translation": "> 核弹在10秒后爆炸<",
+    "blocked": true
+  }
+}
