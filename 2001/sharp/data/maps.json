@@ -1388,5 +1388,15 @@
     "nomination": true,
     "admin": false,
     "refund": 0.5
+  },
+  "ze_fapescape_p": {
+    "description": "乐高大逃亡",
+    "tier": 5,
+    "certainTimes": [-1],
+    "price": 600,
+    "cooldown": 50,
+    "nomination": true,
+    "admin": false,
+    "refund": 0.5
   }
 }
