@@ -21,6 +21,17 @@
 
 [
   {
+    "name": "狂暴之剑",
+    "shortName": "剑",
+    "buttonClass": "func_button",
+    "hammerId": "11479",
+    "cooldown": 60,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
+  },
+  {
     "name": "虹锥",
     "shortName": "墙",
     "buttonClass": "func_button",
