@@ -1239,6 +1239,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_firewall_laboratory_part2_p": {
+    "description": "防火墙实验室2",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_goobers_basement": {
     "description": "古伯斯地下室",
     "tier": 2,
