@@ -39,10 +39,10 @@
     "blocked": true
   },
   "***20 SECONDS FOR TELEPORT***": {
-    "translation": "***20秒传送***"
+    "translation": "***还有20秒传送***"
   },
   "***5 SECONDS FOR TELEPORT***": {
-    "translation": "***5秒传送***",
+    "translation": "***还有5秒传送***",
     "blocked": true
   },
   "***ZOMBIES WILL BE TELEPORTED IN 5 SECONDS***": {
@@ -52,7 +52,7 @@
     "translation": "核电站爆炸迫在眉睫!"
   },
   "***Truck departure in 45 seconds***": {
-    "translation": "***卡车在45秒内离开***"
+    "translation": "***卡车将在45秒内离开***"
   },
   "Warning! Overloading of reactor.": {
     "translation": "警告!反应堆过载."
@@ -70,9 +70,9 @@
     "translation": "***剩余1个***"
   },
   "*** WELL DONE***": {
-    "translation": "***干的好***"
+    "translation": "***干的不错***"
   },
   "*** ZOMBIE TP ADVANCING IN 15 SECONDS ***": {
-    "translation": "***僵尸在15秒后提前传送***"
+    "translation": "***僵尸将在15秒后提前传送***"
   }
 }
