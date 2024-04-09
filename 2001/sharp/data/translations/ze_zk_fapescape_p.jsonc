@@ -1,0 +1,46 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** RICK ASTLEY IS DEAD ***": {
+    "translation": "*** RICK ASTLEY死了 ***"
+  },
+  "*** Noob Cleaned ***": {
+    "translation": "*** 菜鸟清除 ***"
+  },
+  "*** OH NOOES ***": {
+    "translation": "*** 噢,知道了 ***"
+  },
+  "*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***": {
+    "translation": "*** 在RICK ASTLEY蹂躏我们之前杀了他! ***"
+  },
+  "*** Door Opens in 30 seconds ***": {
+    "translation": "*** 门在30秒后打开 ***"
+  },
+  "*** YOU SUCK ***": {
+    "translation": "*** 你真差劲 ***"
+  },
+  "*** Teleporter Activates in 15 Seconds ***": {
+    "translation": "*** 传送器在15秒后激活 ***"
+  },
+  "*** Door opens in 25 seconds ***": {
+    "translation": "*** 门在25秒后打开 ***"
+  },
+  "*** Hold 30 second for victory! ***": {
+    "translation": "*** 坚持30秒即可获胜! ***"
+  },
+  "*** Hold here for 20 seconds ***": {
+    "translation": "*** 在这里坚持20秒 ***"
+  },
+  "*** Map by Kim and P'a'ss ***": {
+    "translation": "*** 地图作者:Kim,P'a'ss地图翻译:墨鸢@Fys ***"
+  }
+}
