@@ -17,36 +17,36 @@
     "translation": "***C4炸弹已安放***"
   },
   "**Sleigh leaving in 10 seconds**": {
-    "translation": "**雪橇在10秒后离开**",
+    "translation": "**雪橇将在10秒后离开**",
     "blocked": true
   },
   "**Sleigh leaving in 20 seconds**": {
-    "translation": "**雪橇在20秒内离开**"
+    "translation": "**雪橇将在20秒内离开**"
   },
   "**Sleigh leaving in 5 seconds**": {
-    "translation": "**雪橇在5秒内离开**",
+    "translation": "**雪橇将在5秒内离开**",
     "blocked": true
   },
   "[Bug] End bug": {
-    "translation": "[错误]结束错误"
+    "translation": "[错误]错误已排除"
   },
   ">> You beat the map <<": {
-    "translation": ">> 你打败了地图 <<"
+    "translation": ">> 你通关了地图 <<"
   },
   ">> Congratulation <<": {
-    "translation": ">> 祝贺 <<"
+    "translation": ">> 祝贺你 <<"
   },
   ">> Map will reset <<": {
     "translation": ">> 地图将重置 <<"
   },
   ">> LEVEL: 3 <<": {
-    "translation": ">> 等级:三 <<"
+    "translation": ">> 关卡:三 <<"
   },
   ">> LEVEL: 2 <<": {
-    "translation": ">> 等级:二 <<"
+    "translation": ">> 关卡:二 <<"
   },
   ">> LEVEL: 1 <<": {
-    "translation": ">> 等级:一 <<"
+    "translation": ">> 关卡:一 <<"
   },
   ">> CROSS THE ACID POOL <<": {
     "translation": ">> 穿越酸池 <<"
@@ -58,13 +58,13 @@
     "translation": ">> 电梯内的僵尸 <<"
   },
   ">> LEVEL FAILED <<": {
-    "translation": ">> 级别未通过 <<"
+    "translation": ">> 关卡未通过 <<"
   },
   ">> EXTREME BUTTONS ENABLED <<": {
-    "translation": ">> 已启用极端按钮 <<"
+    "translation": ">> 已启用极限难度按钮 <<"
   },
   ">> NORMAL BUTTONS ENABLED <<": {
-    "translation": ">> 启用普通按钮 <<"
+    "translation": ">> 已启用普通难度按钮 <<"
   },
   "**Level completed**": {
     "translation": "**关卡已完成**"
@@ -86,22 +86,22 @@
     "translation": "***电梯在7秒后离开***"
   },
   "*** PLAYER HAS CHOSEN LEVEL 3 EXTREME ***": {
-    "translation": "*** 玩家选择了三级极限 ***"
+    "translation": "*** 玩家选择了三级极限难度 ***"
   },
   "*** PLAYER HAS CHOSEN LEVEL 3 NORMAL ***": {
-    "translation": "*** 玩家选择了三级普通 ***"
+    "translation": "*** 玩家选择了三级普通难度 ***"
   },
   "*** PLAYER HAS CHOSEN LEVEL 2 EXTREME ***": {
-    "translation": "*** 玩家选择了二级极限 ***"
+    "translation": "*** 玩家选择了二级极限难度 ***"
   },
   "*** PLAYER HAS CHOSEN LEVEL 2 NORMAL ***": {
-    "translation": "*** 玩家选择了二级普通 ***"
+    "translation": "*** 玩家选择了二级普通难度 ***"
   },
   "*** PLAYER HAS CHOSEN LEVEL 1 NORMAL ***": {
-    "translation": "*** 玩家选择了一级普通 ***"
+    "translation": "*** 玩家选择了一级普通难度 ***"
   },
   "*** PLAYER HAS CHOSEN LEVEL 1 EXTREME ***": {
-    "translation": "*** 玩家选择了一级极限 ***"
+    "translation": "*** 玩家选择了一级极限难度 ***"
   },
   "***ZOMBIES IN SAFE ZONE!!!***": {
     "translation": "***安全区的僵尸!!!***"
@@ -116,10 +116,10 @@
     "translation": ">> 核弹发射 <<"
   },
   ">> There is an error in the level system <<": {
-    "translation": ">> 级别系统出现错误 <<"
+    "translation": ">> 关卡系统出现错误 <<"
   },
   ">> WARMUP ROUND <<": {
-    "translation": ">> 热身赛 <<"
+    "translation": ">> 热身回合 <<"
   },
   ">> WARMUP ROUND END <<": {
     "translation": ">> 热身回合结束 <<"
