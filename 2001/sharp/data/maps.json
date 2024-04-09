@@ -209,6 +209,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_christmas_pnus_p": {
+    "description": "圣诞大逃亡",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_chronus_p": {
     "description": "保护者",
     "tier": 2,
