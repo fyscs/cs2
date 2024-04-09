@@ -80,10 +80,12 @@
     "translation": ">>ZM关已载入<<"
   },
   ">>60 seconds remaining<<": {
-    "translation": ">>剩余60秒<<"
+    "translation": ">>剩余60秒<<",
+    "blocked": true
   },
   ">>120 seconds remaining<<": {
-    "translation": ">>剩余120秒<<"
+    "translation": ">>剩余120秒<<",
+    "blocked": true
   },
   ">>180 seconds remaining<<": {
     "translation": ">>剩余180秒<<"
@@ -95,7 +97,7 @@
     "translation": ">>水晶未放置<<"
   },
   ">>Stage Failed<<": {
-    "translation": ">>此关失败<<"
+    "translation": ">>此关卡失败<<"
   },
   ">>The teleporter will be ready in 15 seconds<<": {
     "translation": ">>传送器将在15秒后准备就绪<<"
