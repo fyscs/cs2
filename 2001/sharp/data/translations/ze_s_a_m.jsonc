@@ -1,0 +1,195 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Stage 3 has been chosen**": {
+    "translation": "**已选择第三关**"
+  },
+  "**Stage 1 has been chosen**": {
+    "translation": "**已选择第一关**"
+  },
+  "**Stage 2 has been chosen**": {
+    "translation": "**已选择第二关**"
+  },
+  ">>Map by Tenshi.<<": {
+    "translation": ">>地图作者:Tenshi地图翻译:墨鸢@Fys.<<"
+  },
+  ">>ze_S_A_M ver:2.0<<": {
+    "translation": ">>刀剑神域 2.0版本<<"
+  },
+  "**ZM has been chosen**": {
+    "translation": "**已选择ZM关**"
+  },
+  "**Stage 5 has been chosen**": {
+    "translation": "**已选择第五关**"
+  },
+  "**Stage 4 has been chosen**": {
+    "translation": "**已选择第四关**"
+  },
+  ">>The door will open in 30 seconds<<": {
+    "translation": ">>门将在30秒后开启<<"
+  },
+  ">>The side door will open in 15 seconds<<": {
+    "translation": ">>侧门将在15秒后开启<<"
+  },
+  "<<TRAMPLE>>": {
+    "translation": "<<践踏>>"
+  },
+  "<<SHAKE WAVE>>": {
+    "translation": "<<震荡>>"
+  },
+  "<<CRUSH>>": {
+    "translation": "<<粉碎>>"
+  },
+  "<<DRAW>>": {
+    "translation": "<<绘制>>"
+  },
+  ">>The door will open in 25 seconds<<": {
+    "translation": ">>这扇门将在25秒后开启<<"
+  },
+  "<<SHAKE WAVE WORLD>>": {
+    "translation": "<<震荡世界>>"
+  },
+  ">>Stage 1<<": {
+    "translation": ">>第一关已载入<<"
+  },
+  ">>Go to the Palace<<": {
+    "translation": ">>前往宫殿<<"
+  },
+  ">>Stage 2<<": {
+    "translation": ">>第二关已载入<<"
+  },
+  ">>Stage 3<<": {
+    "translation": ">>第三关已载入<<"
+  },
+  ">>Stage 4<<": {
+    "translation": ">>第四关已载入<<"
+  },
+  ">>Stage 5<<": {
+    "translation": ">>第五关已载入<<"
+  },
+  ">>ZM<<": {
+    "translation": ">>ZM关已载入<<"
+  },
+  ">>60 seconds remaining<<": {
+    "translation": ">>剩余60秒<<",
+    "blocked": true
+  },
+  ">>120 seconds remaining<<": {
+    "translation": ">>剩余120秒<<",
+    "blocked": true
+  },
+  ">>180 seconds remaining<<": {
+    "translation": ">>剩余180秒<<"
+  },
+  "**A Player has picked up <Crystal>**": {
+    "translation": "**一名玩家已捡起<水晶>**"
+  },
+  ">>Crystal not placed<<": {
+    "translation": ">>水晶未放置<<"
+  },
+  ">>Stage Failed<<": {
+    "translation": ">>此关卡失败<<"
+  },
+  ">>The teleporter will be ready in 15 seconds<<": {
+    "translation": ">>传送器将在15秒后准备就绪<<"
+  },
+  "<<SPURT>>": {
+    "translation": "<<喷发>>"
+  },
+  "<<EVIL>>": {
+    "translation": "<<罪恶>>"
+  },
+  "<<BLUE MARKER>>": {
+    "translation": "<<蓝色标记>>"
+  },
+  "<<QUAKE>>": {
+    "translation": "<<战栗>>"
+  },
+  "<<ORANGE MARKER>>": {
+    "translation": "<<橙色标记>>"
+  },
+  "<<MEGALITH>>": {
+    "translation": "<<巨石>>"
+  },
+  ">>The teleporter will be ready in 20 seconds<<": {
+    "translation": ">>传送器将在20秒后准备就绪<<"
+  },
+  ">>Come out of the Palace and defend the zombies<<": {
+    "translation": ">>离开宫殿,守住黄泉引路人<<"
+  },
+  ">>Hold for 10 seconds<<": {
+    "translation": ">>坚持10秒钟<<"
+  },
+  ">>The door will open in 20 seconds<<": {
+    "translation": ">>门将在20秒后打开<<"
+  },
+  ">>The elevator will rise in 30 seconds<<": {
+    "translation": ">>电梯将在30秒后上升<<"
+  },
+  ">>Balrog is casting Flame Nova,  use <Lightning> to resist it<<": {
+    "translation": ">>Balrog正在施放圣光坠落新星,用<电环>来抵抗它<<"
+  },
+  ">>Flame Nova cast will succeed in 10 seconds<<": {
+    "translation": ">>圣光坠落新星将在10秒后施法成功<<"
+  },
+  ">>GET ON THE AIRSHIP!!!<<": {
+    "translation": ">>快上飞船!!!<<"
+  },
+  ">>RUN OUT OF HERE!!!<<": {
+    "translation": ">>逃离这里!!!<<"
+  },
+  "<<FLARE>>": {
+    "translation": "<<圣光坠落>>"
+  },
+  ">>WE HAVE DESTROYED IT<<": {
+    "translation": ">>我们已经摧毁了它<<"
+  },
+  ">>ESCAPE HERE!!!RUN BACK!!!<<": {
+    "translation": ">>逃离这里!!搞快点!!!<<"
+  },
+  "<<CURSE>>": {
+    "translation": "<<炎魔诅咒>>"
+  },
+  "<<TORRENT>>": {
+    "translation": "<<喷射水流>>"
+  },
+  "<<HEALTH GRABBING>>": {
+    "translation": "<<治愈回复>>"
+  },
+  "<<COLLAPSAR>>": {
+    "translation": "<<黑洞龙卷>>"
+  },
+  "<<SHADOW BLADE>>": {
+    "translation": "<<黑影骑士>>"
+  },
+  ">>The door on the left has opened<<": {
+    "translation": ">>左边的门已经开启<<"
+  },
+  ">>The door on the right has opened<<": {
+    "translation": ">>右边的门已经开启<<"
+  },
+  "<COAGULATION>": {
+    "translation": "<永恒凝结>"
+  },
+  "<ICE STORM>": {
+    "translation": "<寒冰风暴>"
+  },
+  "<ICE SHIELD>": {
+    "translation": "<寒冰之盾>"
+  },
+  ">>Its ice dragon<<": {
+    "translation": ">>是远古巨龙<<"
+  },
+  "<WRATH OF WINTER>": {
+    "translation": "<凛冬之怒>"
+  }
+}
