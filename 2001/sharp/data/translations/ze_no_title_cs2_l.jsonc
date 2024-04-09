@@ -1,0 +1,207 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***MAP RESET***": {
+    "translation": "***地图重置***"
+  },
+  "***Thank you for playing***": {
+    "translation": "***感谢您的游玩***"
+  },
+  "***Map by KizanFlandre***": {
+    "translation": "***地图作者:KizanFlandre地图翻译:墨鸢:@Fys***"
+  },
+  "***STAGE 3 Clear***": {
+    "translation": "***第三阶段:清除***"
+  },
+  "***Port by Linyan, Sudi***": {
+    "translation": "***地图移植:Linyan, Sudi***"
+  },
+  "***FAIL***": {
+    "translation": "***失败***"
+  },
+  "***LOOK ABOVE***": {
+    "translation": "***看上面***"
+  },
+  "***60 seconds***": {
+    "translation": "***60秒***"
+  },
+  "***30 seconds***": {
+    "translation": "***30秒***",
+    "blocked": true
+  },
+  "***20 seconds***": {
+    "translation": "***20秒***",
+    "blocked": true
+  },
+  "***5 seconds***": {
+    "translation": "***5秒***",
+    "blocked": true
+  },
+  "***10 seconds***": {
+    "translation": "***10秒***",
+    "blocked": true  
+  },
+  "***Get ready to hold down the W key***": {
+    "translation": "***准备好按住W键***"
+  },
+  "***Get ready to hold down the S key***": {
+    "translation": "***准备好按住S键***"
+  },
+  "***Go to the platforms on both sides***": {
+    "translation": "***前往两侧的平台***"
+  },
+  "***RETURN***": {
+    "translation": "***返回***"
+  },
+  "***LASER***": {
+    "translation": "***激光***"
+  },
+  "***Jump or Crouch***": {
+    "translation": "***跳跃或蹲下***"
+  },
+  "***BEAM***": {
+    "translation": "***光束***"
+  },
+  "***Zombies are coming***": {
+    "translation": "***僵尸来了***"
+  },
+  "***Watch out for Fire stay away from the middle***": {
+    "translation": "***当心火,远离中间***"
+  },
+  "***Kill the boss in 150 seconds***": {
+    "translation": "***在150秒内杀死boss***"
+  },
+  "***25 seconds***": {
+    "translation": "***25秒***",
+    "blocked": true
+  },
+  "***50 seconds***": {
+    "translation": "***50秒***"
+  },
+  "***trigger is on the rigger block***": {
+    "translation": "***扳机在钻机块上***"
+  },
+  "***Someone pressed STAGE 3 button in Admin room***": {
+    "translation": "***有人按下了行政会议室的第三阶段按钮***"
+  },
+  "***STAGE 2 Complete***": {
+    "translation": "***第二阶段:完成***"
+  },
+  "***Map made by Kizan Flandre***": {
+    "translation": "***地图作者:KizanFlandre地图翻译:墨鸢:@Fys***"
+  },
+  "***15 seconds***": {
+    "translation": "***15秒***"
+  },
+  "***Protect the white cube***": {
+    "translation": "***保护白色立方体***"
+  },
+  "***Gravity***": {
+    "translation": "***重力***"
+  },
+  "***Hold S Key when Gravity is running***": {
+    "translation": "***重力运行时按住S键***"
+  },
+  "***3***": {
+    "translation": "***3***"
+  },
+  "***1***": {
+    "translation": "***1***",
+    "blocked": true
+  },
+  "***2***": {
+    "translation": "***2***",
+    "blocked": true
+  },
+  "***Upper Laser***": {
+    "translation": "***上部激光***"
+  },
+  "***Crouch***": {
+    "translation": "***蹲下***"
+  },
+  "***Triggered twice***": {
+    "translation": "***触发了两次***"
+  },
+  "***Zombies are coming from behind you***": {
+    "translation": "***僵尸从你身后袭来***"
+  },
+  "***Get ready to jump***": {
+    "translation": "***准备跳跃***"
+  },
+  "***Go to the Front Hurry!!***": {
+    "translation": "***快点去前面!!***"
+  },
+  "***Go to the Back Hurry!!***": {
+    "translation": "***快点去后面!!***"
+  },
+  "***Kill the boss in Two minutes***": {
+    "translation": "***在两分钟内杀死boss***"
+  },
+  "***Someone pressed STAGE 1 button in Admin room***": {
+    "translation": "***有人按下了行政会议室的第一阶段按钮***"
+  },
+  "***Someone pressed STAGE 2 button in Admin room***": {
+    "translation": "***有人按下了行政会议室的第二阶段按钮***"
+  },
+  "***STAGE 1***": {
+    "translation": "***第一阶段***"
+  },
+  "***White is Door and Wall***": {
+    "translation": "***白色是门和墙***"
+  },
+  "***STAGE 2***": {
+    "translation": "***第二阶段***"
+  },
+  "***STAGE 3***": {
+    "translation": "***第三阶段***"
+  },
+  "***STAGE 1 Complete***": {
+    "translation": "***第一阶段:完成***"
+  },
+  "***Defend this position***": {
+    "translation": "***防守这个点位***"
+  },
+  "***40 seconds***": {
+    "translation": "***40秒***"
+  },
+  "***Wood is a Trap***": {
+    "translation": "***木头是一个陷阱***"
+  },
+  "***Marble is button***": {
+    "translation": "***大理石是按钮***"
+  },
+  "***Red is a ladder***": {
+    "translation": "***红色是梯子***"
+  },
+  "***And black is the elevator***": {
+    "translation": "***黑色是电梯***"
+  },
+  "***Black is Door or teleport***": {
+    "translation": "***黑色是门或传送***"
+  },
+  "***DJ_tusla, Aoba, Dus?K,0,-1***": {
+    "translation": "***电台_tusla, Aoba, DusK***"
+  },
+  "***Thanks to Hestia, reflelia***": {
+    "translation": "***感谢Hestia, reflelia***"
+  },
+  "***And all RSS server user***": {
+    "translation": "***和所有RSS服务器用户***",
+    "blocked": true
+  },
+  "***Remember wood is a trap***": {
+    "translation": "***请记住,木头是一个陷阱***"
+  },
+  "***Enable***": {
+    "translation": "***允许***"
+  }
+}
