@@ -639,6 +639,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_no_title_cs2_l": {
+    "description": "闹太套",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_obj_rampage_v1_2": {
     "description": "横空出世",
     "tier": 5,
