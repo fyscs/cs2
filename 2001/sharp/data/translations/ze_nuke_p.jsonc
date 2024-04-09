@@ -1,0 +1,78 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Please wait 20 seconds before the door opening": {
+    "translation": "请等待20秒后开门"
+  },
+  "Special thanks to centran and LeGrem": {
+    "translation": "特别感谢centran和LeGrem"
+  },
+  "Welcome ! Map made by Valve and zombified by Obscuri": {
+    "translation": "欢迎!地图作者:Valve地图僵尸模式化:Obscuri地图翻译:墨鸢@Fys"
+  },
+  "***Fix and port by Epic |cabo| ***": {
+    "translation": "***地图修复和移植:Epic |cabo| ***"
+  },
+  "***RESIST 30 SECONDS BEHIND THE BOXES***": {
+    "translation": "***在盒子后面抵抗30秒***"
+  },
+  "***5 SECONDS***": {
+    "translation": "***5秒***"
+  },
+  "***RESIST 20 SECONDS***": {
+    "translation": "***抵抗20秒***"
+  },
+  "10 seconds until the fence break": {
+    "translation": "距离围栏破裂还有10秒"
+  },
+  "Contact me at obscuri@obsmail.tk": {
+    "translation": "请在obscuri@obsmail.tk联系我",
+    "blocked": true
+  },
+  "***20 SECONDS FOR TELEPORT***": {
+    "translation": "***还有20秒传送***"
+  },
+  "***5 SECONDS FOR TELEPORT***": {
+    "translation": "***还有5秒传送***",
+    "blocked": true
+  },
+  "***ZOMBIES WILL BE TELEPORTED IN 5 SECONDS***": {
+    "translation": "***僵尸将在5秒后被传送***"
+  },
+  "Explosion of the nuclear plant imminent !": {
+    "translation": "核电站爆炸迫在眉睫!"
+  },
+  "***Truck departure in 45 seconds***": {
+    "translation": "***卡车将在45秒内离开***"
+  },
+  "Warning! Overloading of reactor.": {
+    "translation": "警告!反应堆过载."
+  },
+  "***DESTROY THE POWER GENERATORS***": {
+    "translation": "***摧毁发电机***"
+  },
+  "Second way open !": {
+    "translation": "第二条路开了!"
+  },
+  "***RUN***": {
+    "translation": "***跑***"
+  },
+  "***1 REMAINING***": {
+    "translation": "***剩余1个***"
+  },
+  "*** WELL DONE***": {
+    "translation": "***干的不错***"
+  },
+  "*** ZOMBIE TP ADVANCING IN 15 SECONDS ***": {
+    "translation": "***僵尸将在15秒后提前传送***"
+  }
+}

@@ -639,6 +639,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_nuke_p": {
+    "description": "核弹危机",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_panic_escape_p": {
     "description": "仓库逃亡",
     "tier": 2,
