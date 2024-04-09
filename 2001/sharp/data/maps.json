@@ -159,6 +159,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_biohazard_manor_004_p": {
+    "description": "生化危机1:洋馆",
+    "tier": 3,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_blackmesa_escape_p": {
     "description": "黑山基地",
     "tier": 1,
