@@ -569,6 +569,16 @@
     "admin": true,
     "refund": 0.5
   },
+  "ze_minecraft_p": {
+    "description": "我的世界",
+    "tier": 1,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_minecraft_journey_v1": {
     "description": "MC旅途",
     "tier": 1,
