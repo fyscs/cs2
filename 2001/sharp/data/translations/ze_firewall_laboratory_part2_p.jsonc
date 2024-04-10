@@ -11,69 +11,69 @@
 
 {
   "Cable Car leaving in 7 seconds...": {
-    "translation": "缆车在7秒后离开..."
+    "translation": "**缆车将在7秒后离开...**"
   },
   "Pole-Rider machine leaving in 9 seconds...": {
-    "translation": "杆位机在9秒后离开..."
+    "translation": "**电车将在9秒后离开...**"
   },
   "The gates will open in 25 seconds.": {
-    "translation": "闸门将在25秒后打开."
+    "translation": "**闸门将在25秒后打开.**"
   },
   "Activate the emergency button!!!": {
-    "translation": "启动紧急按钮!!!"
+    "translation": "**启动紧急按钮!!!**"
   },
   "Hold out the zombies at the ticket gates!": {
-    "translation": "在检票口挡住僵尸!"
+    "translation": "**别让僵尸通过检票闸门!**"
   },
   "The teleporters at the spawn area are now working!": {
-    "translation": "产卵区的传送器现在可以工作了!"
+    "translation": "**僵尸传送装置目前处于开启状态!**"
   },
   "Boat leaving in 6 seconds!": {
-    "translation": "船6秒后离开!"
+    "translation": "**友谊的小船将在6秒后离开!**"
   },
   "Truck leaving in 15 seconds!": {
-    "translation": "卡车15秒后离开!"
+    "translation": "**公交车将在15秒后离开**'行车不规范,萌新两行泪!**"
   },
   "Emergency button has been activated! Emergency doors closing...": {
-    "translation": "紧急按钮已启动!应急门关闭..."
+    "translation": "**紧急按钮已启动!应急门关闭...**"
   },
   "Train arriving in approximately 35 seconds...": {
-    "translation": "列车约35秒后到达..."
+    "translation": "**列车约35秒后到达...**"
   },
   "Train arriving in approximately 20 seconds...": {
-    "translation": "列车约20秒后到达..."
+    "translation": "**列车约20秒后到达...**"
   },
   "Train arriving at nuclear station...": {
-    "translation": "列车抵达核电站..."
+    "translation": "**列车抵达核电站...**"
   },
   "Beware of zombies coming from the back!": {
-    "translation": "当心僵尸从后面袭来!"
+    "translation": "**僵尸进入隧道,请最好再次作战的准备!**"
   },
   "The train has arrived and will leave in 10 seconds!": {
-    "translation": "火车已抵达,10秒后将离开!"
+    "translation": "**列车已抵达,10秒后将离开!**"
   },
   "Zombie outbreak has been detected.": {
-    "translation": "发现僵尸爆发."
+    "translation": "**僵尸来了,我们是他们的奴隶.**"
   },
   "Emergency protection barriers activated.": {
-    "translation": "启动紧急保护屏障."
+    "translation": "**启动紧急保护屏障.**"
   },
   "Station doors will open in 25 seconds.": {
-    "translation": "站门将在25秒后打开."
+    "translation": "**列车站将于25秒后开放.**"
   },
   "Station doors have opened!": {
-    "translation": "车站大门已经打开!"
+    "translation": "**列车站台门打开了!**"
   },
   "Missile Doors 1 Opening...": {
-    "translation": "导弹门二打开..."
+    "translation": "**一号门即将打开...**"
   },
   "Missile Doors 2 Opening...": {
-    "translation": "导弹门二打开..."
+    "translation": "**二号门即将打开...**"
   },
   "Nuclear missile has been launched!!!": {
-    "translation": "已发射核导弹!!!"
+    "translation": "**战术核弹正在升空!!!**"
   },
   "Break the doors to exit the laboratory.": {
-    "translation": "破门离开实验室."
+    "translation": "**破坏大门撤离实验室.**"
   }
 }
