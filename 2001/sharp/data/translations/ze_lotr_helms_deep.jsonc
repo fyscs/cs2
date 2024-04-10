@@ -1,0 +1,118 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**You must not retrieve ** The retrieve will be announced **": {
+    "translation": "**僵尸们拿上攻城锤去攻打城门吧!**"
+  },
+  "**Note for ZOMBIES: if you set a ladder you will earn 1 point ** Same if you attack the gate**": {
+    "translation": "**在城门的人类:僵尸抓破城门后可以补救一下城门**"
+  },
+  "**Note: if you defend at defensive points you will earn 1 point every 10 seconds (near GATE and TOP of WALL)**": {
+    "translation": "**在城墙的人类:一定要守住那个拿火炬的僵尸!**"
+  },
+  "**Objective: people at gate MUST defend the gate**": {
+    "translation": "**任务:门口的人必须保卫大门**"
+  },
+  "**Objective: people at wall MUST defend the wall**": {
+    "translation": "**任务:城墙上的人必须保卫城墙**"
+  },
+  "** for you shall receive none!**": {
+    "translation": "**因为你什么也得不到!**"
+  },
+  "**Show them no mercy...**": {
+    "translation": "**不要怜悯他们...**"
+  },
+  "** Ladders! **": {
+    "translation": "**梯子升起来了!**"
+  },
+  "**Charge! Follow the shiny path! Do not separate! ": {
+    "translation": "**所有人跟着圣光一起走向终点! "
+  },
+  "**Charge!**": {
+    "translation": "**向前冲!**"
+  },
+  "**Sun is rising.**": {
+    "translation": "**太阳正在升起.**"
+  },
+  "**Fall back! Get in the fortress! Follow the shiny path**": {
+    "translation": "**退后!进入城堡!跟着圣光进去**"
+  },
+  "ma_**Attention!**": {
+    "translation": "**注意!**"
+  },
+  "**The wall has been destroyed! Fall back! Get in the fortress!**": {
+    "translation": "**城墙被摧毁!退后!进入城堡!**"
+  },
+  "** Get safe in the fort! **": {
+    "translation": "**快进城堡!**"
+  },
+  "** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!** ": {
+    "translation": "**僵尸们冲过来了!我们一定要守住这里!** "
+  },
+  "** Kill him! Stop the torch bearer!**": {
+    "translation": "**杀了它!不要让那个拿火炬的僵尸靠近城墙!**"
+  },
+  "** MAP BY HANNIBAL [SPA] (Rafuron) **": {
+    "translation": "**地图作者:HANNIBAL 地图翻译:墨鸢@Fys**"
+  },
+  "** Teleporting AFK to the cage in 30s **": {
+    "translation": "**挂机的人将在30秒后传送到尸笼和僵尸一起贴贴**"
+  },
+  "**Main door cannot hold the battering ram! RETREAT NOW!**": {
+    "translation": "**城门快被攻城锤撞烂了!赶紧跑!**"
+  },
+  "**Huge ladder is being setting!**": {
+    "translation": "**小心大梯子!人类快往后退!**"
+  },
+  "** Defend at fort! Hall door will open in 40s!**": {
+    "translation": "**守住这里!大厅门将在40秒后打开!**"
+  },
+  "**Hurry! get in the hall!**": {
+    "translation": "**搞快点!进入大厅!**"
+  },
+  "**Resist 30s!**": {
+    "translation": "**抵挡30s!**"
+  },
+  "**Kill the remaining zombies of the room!**": {
+    "translation": "**杀死房间里剩余的僵尸!**"
+  },
+  "**Horn activated ** Charge with unlimited ammo **": {
+    "translation": "**有人触发了无限子弹**"
+  },
+  "**A zombie has passed the WALL! Kill him or think about start a retreat!**": {
+    "translation": "**僵尸已经越过了城墙!人类要小心了!**"
+  },
+  "**A zombie has passed the GATE! Kill him or think about start a retreat!**": {
+    "translation": "**僵尸已经约过了大门!还不跑等死啊!**"
+  },
+  "**Door will close in 30 s  ** Get safe into Helms Deep!**": {
+    "translation": "**大门将在30秒后关闭,安全进入圣盔谷!**"
+  },
+  "** The door is closing in 10s **": {
+    "translation": "**大门将在10秒后关闭 **"
+  },
+  "** Wall zone is out of control ** retreat NOW!**": {
+    "translation": "**城墙已经沦陷,人类赶紧撤退!**"
+  },
+  "** Gate zone is out of control ** retreat NOW!**": {
+    "translation": "**城门已经沦陷!人类赶紧撤退!**"
+  },
+  "**Door is under attack!**": {
+    "translation": "**门在被攻击!**"
+  },
+  "**The battering ram is breaking the door!**": {
+    "translation": "**攻城锤正在反复敲击城门(好像并没有什么用)!**"
+  },
+  "**The door is now open Get in the fort now!**": {
+    "translation": "**里面的门开了!赶快进入城堡!**"
+  }
+}
