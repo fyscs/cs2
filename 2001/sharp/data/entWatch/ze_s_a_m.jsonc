@@ -39,7 +39,7 @@
     "maxUses": 1,
     "team": 3,
     "knife": false,
-    "mode": 3,
+    "mode": 2,
     "count": 1
   },
   {
@@ -83,7 +83,7 @@
     "maxUses": 1,
     "team": 3,
     "knife": false,
-    "mode": 3,
+    "mode": 2,
     "count": 1
   },
   {
@@ -139,7 +139,7 @@
     "name": "[ZM]黑洞",
     "shortName": "黑洞",
     "triggerId": ["7465"],
-    "team": 3,
+    "team": 2,
     "knife": false,
     "soulEvent": "OnTrigger",
     "mode": 0,
@@ -149,7 +149,7 @@
     "name": "[ZM]寒霜",
     "shortName": "寒霜",
     "triggerId": ["7434"],
-    "team": 3,
+    "team": 2,
     "knife": false,
     "soulEvent": "OnTrigger",
     "mode": 0,
@@ -159,7 +159,7 @@
     "name": "[ZM]护盾",
     "shortName": "护盾",
     "triggerId": ["7532"],
-    "team": 3,
+    "team": 2,
     "knife": false,
     "soulEvent": "OnTrigger",
     "mode": 0,
@@ -169,7 +169,7 @@
     "name": "[ZM]眩隐",
     "shortName": "眩隐",
     "triggerId": ["7504"],
-    "team": 3,
+    "team": 2,
     "knife": false,
     "soulEvent": "OnTrigger",
     "mode": 0,
