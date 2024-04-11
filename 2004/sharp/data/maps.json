@@ -199,6 +199,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "mg_thc_lego_multimap": {
+    "description": "*游戏* thc游戏",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "mg_warmcup_headshot_sfw_fys": {
     "description": "*对枪* WarmCup",
     "tier": 0,
