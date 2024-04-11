@@ -1,4 +1,24 @@
 {
+  "mg_01minecraftminigame": {
+    "description": "*对枪* 马赛克游戏",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 20,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
+  "mg_50arenas_v2_3": {
+    "description": "*对枪* 50种地图",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 20,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
   "mg_clouds_multigames_v2": {
     "description": "*对枪* Clouds",
     "tier": 0,
@@ -217,16 +237,6 @@
     "cooldown": 10,
     "nomination": false,
     "admin": false,
-    "refund": 0.5
-  },
-  "minecraftminigame": {
-    "description": "*对枪* 我的世界小游戏",
-    "tier": 0,
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 10,
-    "nomination": false,
-    "admin": true,
     "refund": 0.5
   }
 }
