@@ -155,8 +155,8 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 10,
-    "nomination": false,
-    "admin": false,
+    "nomination": true,
+    "admin": true,
     "refund": 0.5
   },
   "mg_ski_mountain_v2_csgo": {
@@ -205,8 +205,8 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 10,
-    "nomination": false,
-    "admin": false,
+    "nomination": true,
+    "admin": true,
     "refund": 0.5
   },
   "mg_warmcup_headshot_sfw_fys": {
