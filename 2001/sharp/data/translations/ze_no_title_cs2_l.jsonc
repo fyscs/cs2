@@ -88,7 +88,7 @@
     "translation": "***50秒***"
   },
   "***trigger is on the rigger block***": {
-    "translation": "***触发在钻机块上***"
+    "translation": "***触发在索具块上***"
   },
   "***Someone pressed STAGE 3 button in Admin room***": {
     "translation": "***管理员调至第三关***"
@@ -123,19 +123,19 @@
     "blocked": true
   },
   "***Upper Laser***": {
-    "translation": "***上面的激光***"
+    "translation": "***上面的激光!***"
   },
   "***Crouch***": {
-    "translation": "***蹲下***"
+    "translation": "***蹲下!***"
   },
   "***Triggered twice***": {
-    "translation": "***触发了两次***"
+    "translation": "***有两次!***"
   },
   "***Zombies are coming from behind you***": {
     "translation": "***僵尸从你身后袭来***"
   },
   "***Get ready to jump***": {
-    "translation": "***准备跳跃***"
+    "translation": "***准备跳跃!***"
   },
   "***Go to the Front Hurry!!***": {
     "translation": "***快点去前面!!***"
@@ -189,7 +189,7 @@
     "translation": "***黑色是门或传送***"
   },
   "***DJ_tusla, Aoba, Dus?K,0,-1***": {
-    "translation": "***电台_tusla, Aoba, DusK***"
+    "translation": "***DJ_tusla,Aoba,Dus?K,P0P***",
   },
   "***Thanks to Hestia, reflelia***": {
     "translation": "***感谢Hestia, reflelia***"
