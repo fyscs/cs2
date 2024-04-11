@@ -78,7 +78,7 @@
     "translation": "*** 关卡三 ***"
   },
   "*** The Ship Thingy is Destroyed! ***": {
-    "translation": "*** 飞船被毁了! ***"
+    "translation": "***  UFO已被击毁! ***"
   },
   "*** Defend for 25 seconds! ***": {
     "translation": "*** 防守25秒! ***"
@@ -128,7 +128,7 @@
     "translation": "*** 大门将在35秒后打开 ***"
   },
   "*** Success! ***": {
-    "translation": "*** 成功! ***"
+    "translation": "*** 成功!你俩的默契可以考虑结婚了 ***"
   },
   "*** Doors open in 30 seconds ***": {
     "translation": "*** 大门将在30秒后打开 ***"
@@ -167,7 +167,7 @@
     "translation": ">>> 防守直到道路畅通! <<<"
   },
   "** Turning on:... **": {
-    "translation": "** 打开:... **"
+    "translation": "** 地狱模式... **"
   },
   "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **": {
     "translation": "**超级宇宙无敌大爆炸吊炸天天谴模式已开启**"
@@ -194,7 +194,7 @@
     "translation": "*** 电车将在35秒后离开 ***"
   },
   "*** Nice Job You Have Beaten FapEscape! ***": {
-    "translation": "*** 干得漂亮! 你成功打败了FapEscape***"
+    "translation": "*** 你成功通关了乐高,你已成为一名合格的乐高痴***"
   },
   "*** HOLD Until the path is clear ***": {
     "translation": "*** 防守,直到道路畅通 ***"
@@ -203,7 +203,7 @@
     "translation": "*** 可以走了 ***"
   },
   ">>> THE EVIL EYE IS DEAD <<<": {
-    "translation": ">>> 邪恶大眼已被击败 <<<"
+    "translation": ">>> 邪恶卡姿兰大眼睛已被击败 <<<"
   },
   ">>> NOW IS THE TIME TO ESCAPE FROM THIS FORSAKEN PLACE <<<": {
     "translation": ">>> 现在,是时候逃离这个破地方了 <<<"
