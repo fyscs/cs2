@@ -82,21 +82,21 @@
     "blocked": true
   },
   "***BUNKER DOOR OPENING IN 20 SECONDS***": {
-    "translation": "***米奇妙妙屋将于15秒后开启***"
+    "translation": "***米奇妙妙屋将于20秒后开启***"
   },
   "***BUNKER DOOR OPENING IN 15 SECONDS***": {
     "translation": "***米奇妙妙屋将于15秒后开启***",
     "blocked": true
   },
   "***BUNKER DOOR OPENING IN 10 SECONDS***": {
-    "translation": "***米奇妙妙屋将于15秒后开启***",
+    "translation": "***米奇妙妙屋将于10秒后开启***",
     "blocked": true
   },
   "***BUNKER DOOR OPEN!***": {
     "translation": "***米奇妙妙屋开了!***"
   },
   "***BUNKER DOOR OPENING IN 5 SECONDS***": {
-    "translation": "***米奇妙妙屋将于15秒后开启***",
+    "translation": "***米奇妙妙屋将于5秒后开启***",
     "blocked": true
   },
   "***GET INSIDE THE BUNKER***": {
