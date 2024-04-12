@@ -11,25 +11,25 @@
 
 {
   "***MAP RESET***": {
-    "translation": "***地图重置***"
+    "translation": "***地图重载***"
   },
   "***Thank you for playing***": {
     "translation": "***感谢您的游玩***"
   },
   "***Map by KizanFlandre***": {
-    "translation": "***地图作者:KizanFlandre地图翻译:墨鸢:@Fys***"
+    "translation": "***地图作者:Kizan Flandre地图翻译:墨鸢:@Fys***"
   },
   "***STAGE 3 Clear***": {
-    "translation": "***第三阶段:清除***"
+    "translation": "***第三关完成***"
   },
   "***Port by Linyan, Sudi***": {
     "translation": "***地图移植:Linyan, Sudi***"
   },
   "***FAIL***": {
-    "translation": "***失败***"
+    "translation": "***你失败了***"
   },
   "***LOOK ABOVE***": {
-    "translation": "***看上面***"
+    "translation": "***抬头躲天坠***"
   },
   "***60 seconds***": {
     "translation": "***60秒***"
@@ -88,13 +88,13 @@
     "translation": "***50秒***"
   },
   "***trigger is on the rigger block***": {
-    "translation": "***扳机在钻机块上***"
+    "translation": "***触发在索具块上***"
   },
   "***Someone pressed STAGE 3 button in Admin room***": {
-    "translation": "***有人按下了行政会议室的第三阶段按钮***"
+    "translation": "***管理员调至第三关***"
   },
   "***STAGE 2 Complete***": {
-    "translation": "***第二阶段:完成***"
+    "translation": "***第二关完成***"
   },
   "***Map made by Kizan Flandre***": {
     "translation": "***地图作者:KizanFlandre地图翻译:墨鸢:@Fys***"
@@ -123,19 +123,19 @@
     "blocked": true
   },
   "***Upper Laser***": {
-    "translation": "***上部激光***"
+    "translation": "***上面的激光!***"
   },
   "***Crouch***": {
-    "translation": "***蹲下***"
+    "translation": "***蹲下!***"
   },
   "***Triggered twice***": {
-    "translation": "***触发了两次***"
+    "translation": "***有两次!***"
   },
   "***Zombies are coming from behind you***": {
     "translation": "***僵尸从你身后袭来***"
   },
   "***Get ready to jump***": {
-    "translation": "***准备跳跃***"
+    "translation": "***准备跳跃!***"
   },
   "***Go to the Front Hurry!!***": {
     "translation": "***快点去前面!!***"
@@ -147,34 +147,34 @@
     "translation": "***在两分钟内杀死boss***"
   },
   "***Someone pressed STAGE 1 button in Admin room***": {
-    "translation": "***有人按下了行政会议室的第一阶段按钮***"
+    "translation": "***管理员调至第一关***"
   },
   "***Someone pressed STAGE 2 button in Admin room***": {
-    "translation": "***有人按下了行政会议室的第二阶段按钮***"
+    "translation": "***管理员调至第二关***"
   },
   "***STAGE 1***": {
-    "translation": "***第一阶段***"
+    "translation": "***第一关***"
   },
   "***White is Door and Wall***": {
-    "translation": "***白色是门和墙***"
+    "translation": "***门和墙都是白色的***"
   },
   "***STAGE 2***": {
-    "translation": "***第二阶段***"
+    "translation": "***第二关***"
   },
   "***STAGE 3***": {
-    "translation": "***第三阶段***"
+    "translation": "***第三关***"
   },
   "***STAGE 1 Complete***": {
-    "translation": "***第一阶段:完成***"
+    "translation": "***第一关完成***"
   },
   "***Defend this position***": {
-    "translation": "***防守这个点位***"
+    "translation": "***在这个点位防守***"
   },
   "***40 seconds***": {
     "translation": "***40秒***"
   },
   "***Wood is a Trap***": {
-    "translation": "***木头是一个陷阱***"
+    "translation": "***木板是陷阱***"
   },
   "***Marble is button***": {
     "translation": "***大理石是按钮***"
@@ -189,7 +189,7 @@
     "translation": "***黑色是门或传送***"
   },
   "***DJ_tusla, Aoba, Dus?K,0,-1***": {
-    "translation": "***电台_tusla, Aoba, DusK***"
+    "translation": "***DJ_tusla,Aoba,Dus?K,P0P***",
   },
   "***Thanks to Hestia, reflelia***": {
     "translation": "***感谢Hestia, reflelia***"
@@ -199,7 +199,7 @@
     "blocked": true
   },
   "***Remember wood is a trap***": {
-    "translation": "***请记住,木头是一个陷阱***"
+    "translation": "***记住木板是陷阱***"
   },
   "***Enable***": {
     "translation": "***允许***"
