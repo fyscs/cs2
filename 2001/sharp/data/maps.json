@@ -739,6 +739,16 @@
     "admin": false,
     "refund": 0.5
   },
+  "ze_pogworld": {
+    "description": "pog世界",
+    "tier": 2,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false,
+    "refund": 0.5
+  },
   "ze_pokemon_kanto_v1": {
     "description": "关东宝可梦",
     "tier": 2,
