@@ -112,7 +112,7 @@
     "name": "桐人",
     "shortName": "桐人",
     "buttonClass": "func_button",
-    "triggerId": ["7573","7571"],
+    "triggerId": ["7573","7571","11181"],
     "team": 3,
     "knife": false,
     "soulEvent": "OnTrigger",
@@ -125,7 +125,7 @@
     "name": "亚丝娜",
     "shortName": "闪光",
     "buttonClass": "func_button",
-    "triggerId": ["11113","11111"],
+    "triggerId": ["11113","11111","11172"],
     "team": 3,
     "knife": false,
     "soulEvent": "OnTrigger",
@@ -138,7 +138,7 @@
   {
     "name": "[ZM]黑洞",
     "shortName": "黑洞",
-    "triggerId": ["7465"],
+    "triggerId": ["7465", "7467", "9019", "9013"],
     "team": 2,
     "knife": false,
     "soulEvent": "OnTrigger",
@@ -148,7 +148,7 @@
   {
     "name": "[ZM]寒霜",
     "shortName": "寒霜",
-    "triggerId": ["7434"],
+    "triggerId": ["7434","7436","9007", "9011"],
     "team": 2,
     "knife": false,
     "soulEvent": "OnTrigger",
@@ -158,7 +158,7 @@
   {
     "name": "[ZM]护盾",
     "shortName": "护盾",
-    "triggerId": ["7532"],
+    "triggerId": ["7532", "7534", "9027", "9017"],
     "team": 2,
     "knife": false,
     "soulEvent": "OnTrigger",
@@ -168,7 +168,7 @@
   {
     "name": "[ZM]眩隐",
     "shortName": "眩隐",
-    "triggerId": ["7504"],
+    "triggerId": ["7504", "7506", "9023", "9015"],
     "team": 2,
     "knife": false,
     "soulEvent": "OnTrigger",

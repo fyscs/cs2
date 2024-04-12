@@ -11,32 +11,32 @@
 
 {
   ">Door will break in 30 sec<": {
-    "translation": ">门将在30秒后破损<"
+    "translation": ">**门将在30秒后碎裂**<"
   },
   ">Wing will break in 30 sec<": {
-    "translation": ">机翼将在30秒后破损<"
+    "translation": ">**防守30秒!等待机翼断裂!**<"
   },
   ">Wing will break in 10 sec<": {
-    "translation": ">机翼将在10秒后破损<",
+    "translation": ">**防守10秒!等待机翼断裂!**<",
     "blocked": true
   },
   ">Bars will break in 30 sec<": {
-    "translation": ">柱线将在30秒后破损<"
+    "translation": ">**护栏将在30秒后碎裂**<"
   },
   ">Boat leaving in 60 sec<": {
-    "translation": ">船在60秒后离开<"
+    "translation": ">**友谊的小船60秒后离开**<"
   },
   ">Get in the boat!!!<": {
-    "translation": ">上船!!!<"
+    "translation": ">**快上船!!!**<"
   },
   "> Use the console to launch nuke <": {
-    "translation": "> 使用控制台启动核弹 <"
+    "translation": ">**按下核弹发射装置**<"
   },
   "> NUKE exploding in 50 sec<": {
-    "translation": "> 核弹在50秒后爆炸<"
+    "translation": ">**50秒后核爆**<"
   },
   "> NUKE exploding in 10 sec<": {
-    "translation": "> 核弹在10秒后爆炸<",
+    "translation": ">**10秒后核爆**<",
     "blocked": true
   }
 }

@@ -11,10 +11,10 @@
 
 {
   ">> SECRET MUSIC 2 PLAYING <<": {
-    "translation": ">> 神秘音乐二播放 <<"
+    "translation": ">>**神秘音乐二播放**<<"
   },
   "***C4 is planted***": {
-    "translation": "***C4炸弹已安放***"
+    "translation": "**炸弹已安放**"
   },
   "**Sleigh leaving in 10 seconds**": {
     "translation": "**雪橇将在10秒后离开**",
@@ -28,115 +28,116 @@
     "blocked": true
   },
   "[Bug] End bug": {
-    "translation": "[错误]错误已排除"
+    "translation": "null",
+    "blocked": true
   },
   ">> You beat the map <<": {
-    "translation": ">> 你通关了地图 <<"
+    "translation": ">>**你通关这张地图**<<"
   },
   ">> Congratulation <<": {
-    "translation": ">> 祝贺你 <<"
+    "translation": ">>**祝贺你**<<"
   },
   ">> Map will reset <<": {
-    "translation": ">> 地图将重置 <<"
+    "translation": ">>**地图将重载**<<"
   },
   ">> LEVEL: 3 <<": {
-    "translation": ">> 关卡:三 <<"
+    "translation": ">>**关卡三**<<"
   },
   ">> LEVEL: 2 <<": {
-    "translation": ">> 关卡:二 <<"
+    "translation": ">>**关卡二**<<"
   },
   ">> LEVEL: 1 <<": {
-    "translation": ">> 关卡:一 <<"
+    "translation": ">>**关卡一**<<"
   },
   ">> CROSS THE ACID POOL <<": {
-    "translation": ">> 穿越酸池 <<"
+    "translation": ">>**穿越酸池 <<"
   },
   ">> Map by Taskuvaras / Fixed with Moltard <<": {
-    "translation": ">> 地图作者:Taskuvaras地图修复:Moltard地图翻译:墨鸢@Fys <<"
+    "translation": ">>**地图作者:Taskuvaras地图修复:Moltard地图翻译:墨鸢@Fys**<<"
   },
   ">> ZOMBIES INSIDE THE ELEVATOR <<": {
-    "translation": ">> 电梯内的僵尸 <<"
+    "translation": ">>**电梯内有僵尸**<<"
   },
   ">> LEVEL FAILED <<": {
-    "translation": ">> 关卡未通过 <<"
+    "translation": ">>**通关失败**<<"
   },
   ">> EXTREME BUTTONS ENABLED <<": {
-    "translation": ">> 已启用极限难度按钮 <<"
+    "translation": ">>**已选择EX难度**<<"
   },
   ">> NORMAL BUTTONS ENABLED <<": {
-    "translation": ">> 已启用普通难度按钮 <<"
+    "translation": ">>**已选择普通难度**<<"
   },
   "**Level completed**": {
-    "translation": "**关卡已完成**"
+    "translation": "**你已通关**"
   },
   "***Elevator leaving in 20 seconds***": {
-    "translation": "***电梯在20秒后离开***"
+    "translation": "**电梯在20秒后离开**"
   },
   "***Elevator doors closing in 5 seconds***": {
-    "translation": "***电梯门在5秒后关闭***",
+    "translation": "**电梯门在5秒后关闭**",
     "blocked": true
   },
   "***Elevator doors closing in 10 seconds***": {
-    "translation": "***电梯门在10秒后关闭***"
+    "translation": "**电梯门在10秒后关闭**"
   },
   "***Doors closing in 30 seconds***": {
-    "translation": "***门在30秒后关闭***"
+    "translation": "**门在30秒后关闭**"
   },
   "***Elevator leaving in 7 seconds***": {
-    "translation": "***电梯在7秒后离开***"
+    "translation": "**电梯在7秒后离开**"
   },
   "*** PLAYER HAS CHOSEN LEVEL 3 EXTREME ***": {
-    "translation": "*** 玩家选择了三级极限难度 ***"
+    "translation": "**关卡设置为EX三**"
   },
   "*** PLAYER HAS CHOSEN LEVEL 3 NORMAL ***": {
-    "translation": "*** 玩家选择了三级普通难度 ***"
+    "translation": "**关卡设置为第三关**"
   },
   "*** PLAYER HAS CHOSEN LEVEL 2 EXTREME ***": {
-    "translation": "*** 玩家选择了二级极限难度 ***"
+    "translation": "**关卡设置为EX二**"
   },
   "*** PLAYER HAS CHOSEN LEVEL 2 NORMAL ***": {
-    "translation": "*** 玩家选择了二级普通难度 ***"
+    "translation": "**关卡设置为第二关**"
   },
   "*** PLAYER HAS CHOSEN LEVEL 1 NORMAL ***": {
-    "translation": "*** 玩家选择了一级普通难度 ***"
+    "translation": "**关卡设置为第一关**"
   },
   "*** PLAYER HAS CHOSEN LEVEL 1 EXTREME ***": {
-    "translation": "*** 玩家选择了一级极限难度 ***"
+    "translation": "**关卡设置为EX一**"
   },
   "***ZOMBIES IN SAFE ZONE!!!***": {
-    "translation": "***安全区的僵尸!!!***"
+    "translation": "**安全区有僵尸!!!**"
   },
   "***KILL THEM TO COMPLETE LEVEL***": {
-    "translation": "***杀死他们以完成关卡***"
+    "translation": "**杀死他们以完成关卡**"
   },
   ">> SECRET MUSIC 1 PLAYING <<": {
-    "translation": ">> 神秘音乐一播放 <<"
+    "translation": ">>**神秘音乐一播放**<<"
   },
   ">> NUKE LAUNCHED <<": {
-    "translation": ">> 核弹发射 <<"
+    "translation": ">>**核爆**<<"
   },
   ">> There is an error in the level system <<": {
-    "translation": ">> 关卡系统出现错误 <<"
+    "translation": ">>**关卡系统出现错误**<<"
   },
   ">> WARMUP ROUND <<": {
-    "translation": ">> 热身回合 <<"
+    "translation": ">>**热身回合**<<"
   },
   ">> WARMUP ROUND END <<": {
-    "translation": ">> 热身回合结束 <<"
+    "translation": ">>**热身回合结束**<<"
   },
   ">> 40 SECONDS LEFT <<": {
-    "translation": ">> 还剩40秒 <<"
+    "translation": ">>**还剩40秒**<<"
   },
   ">> 30 SECONDS LEFT <<": {
-    "translation": ">> 还剩30秒 <<",
+    "translation": ">>**还剩30秒**<<",
     "blocked": true
   },
   ">> 20 SECONDS LEFT <<": {
-    "translation": ">> 还剩20秒 <<",
+    "translation": ">>**还剩20秒**<<",
     "blocked": true
   },
   ">> 10 SECONDS LEFT <<": {
-    "translation": ">> 还剩10秒 <<",
+    "translation": ">>**还剩10秒**<<",
     "blocked": true
   }
 }

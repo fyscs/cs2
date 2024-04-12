@@ -1,10 +1,30 @@
 {
+  "mg_01minecraftminigame": {
+    "description": "*对枪* 马赛克游戏",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 25,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
+  "mg_50arenas_v2_3": {
+    "description": "*对枪* 50种地图",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 25,
+    "nomination": false,
+    "admin": true,
+    "refund": 0.5
+  },
   "mg_clouds_multigames_v2": {
     "description": "*对枪* Clouds",
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 20,
+    "cooldown": 25,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -24,7 +44,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 20,
+    "cooldown": 25,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -94,7 +114,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 20,
+    "cooldown": 25,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -104,7 +124,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 15,
+    "cooldown": 20,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -129,12 +149,22 @@
     "admin": false,
     "refund": 0.5
   },
+  "mg_skeet_multigames_v7": {
+    "description": "*游戏* Skeet",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": true,
+    "admin": true,
+    "refund": 0.5
+  },
   "mg_ski_mountain_v2_csgo": {
     "description": "*普通* 滑雪山",
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 15,
+    "cooldown": 20,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -144,7 +174,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 15,
+    "cooldown": 20,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -154,7 +184,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 10,
+    "cooldown": 20,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -169,12 +199,22 @@
     "admin": false,
     "refund": 0.5
   },
+  "mg_thc_lego_multimap": {
+    "description": "*游戏* thc游戏",
+    "tier": 0,
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": true,
+    "admin": true,
+    "refund": 0.5
+  },
   "mg_warmcup_headshot_sfw_fys": {
     "description": "*对枪* WarmCup",
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 20,
+    "cooldown": 25,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -184,7 +224,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 20,
+    "cooldown": 25,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -194,7 +234,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 10,
+    "cooldown": 15,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -217,16 +257,6 @@
     "cooldown": 10,
     "nomination": false,
     "admin": false,
-    "refund": 0.5
-  },
-  "minecraftminigame": {
-    "description": "*对枪* 我的世界小游戏",
-    "tier": 0,
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 10,
-    "nomination": false,
-    "admin": true,
     "refund": 0.5
   }
 }
