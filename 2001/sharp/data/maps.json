@@ -229,7 +229,7 @@
     "admin": false,
     "refund": 0.5
   },
-  "ze_christmas_pnus_p": {
+  "ze_christmas_p": {
     "description": "圣诞大逃亡",
     "tier": 3,
     "certainTimes": [-1],
