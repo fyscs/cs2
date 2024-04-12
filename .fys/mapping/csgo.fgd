@@ -1,0 +1,1494 @@
+//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
+//
+// Defines entity classes specific to Virtual Reality Mod
+//
+//==================================================================================================
+
+@include "base.fgd"
+@include "lights.fgd"
+@include "lights2.fgd"
+@include "markup_volumes.fgd"
+@include "postprocessing.fgd"
+
+//--------------------------------------------------------------------------------------------------
+// Entity groups. This list specifies which entity groups will show up in the entity tool and in what
+// order. If an entity specifies a group that is not in this list it will not be displayed in the tool.
+// This allows the mod specific fgd to control the ui.
+//--------------------------------------------------------------------------------------------------
+@EntityGroup "Player" { start_expanded = true }
+@EntityGroup "Lighting" { start_expanded = true }
+@EntityGroup "Fog & Sky" { start_expanded = true }
+@EntityGroup "Content" { start_expanded = true }
+
+
+
+//--------------------------------------------------------------------------------------------------
+// Auto vis group filters.
+//--------------------------------------------------------------------------------------------------
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_concrete.vmat"			group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_plastic.vmat"				group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_wood_basket.vmat"			group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_gravel.vmat"				group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_wood.vmat"				group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_metal.vmat"				group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_metalvehicle.vmat"		group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_metal_sand_barrel.vmat"	group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_wood_crate.vmat"			group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_rubbertire.vmat"			group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_sand.vmat"				group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_concrete.vmat"			group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_dirt.vmat"				group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_glass.vmat"				group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_metalgrate.vmat"			group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_rubber.vmat"				group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsclip_plastic.vmat"				group = "Clip"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "tools_cs_place.vmat"				group =	"Place"		parent_group = "Tool Brushes" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsgrenadeclip.vmat"				group =	"Grenades"	parent_group = "Clip" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsblockbullets_cs.vmat"			group =	"Bullets"	parent_group = "Clip" }
+@VisGroupFilter { filter_type = "toolsMaterial"		material = "toolsinvisibleladder_wood.vmat"		group =	"Ladder"		parent_group = "Tool Brushes" }
+
+@VisGroupFilter { filter_type = "entityTag"		tag = "Camera"		group = "Camera"			parent_group = "Entities" }
+
+
+
+//--------------------------------------------------------------------------------------------------
+// Excludes
+//--------------------------------------------------------------------------------------------------
+
+//Exclude this since we want to remove some defunct parameters. Only way to do this currently is to exclude and redefine
+@exclude env_sky 
+@exclude func_illusionary
+@exclude light_ortho
+@exclude light_spot
+@exclude light_omni
+@exclude light_dynamic
+@exclude beam_spotlight
+@exclude color_correction
+@exclude env_beverage
+@exclude env_cubemap
+@exclude env_funnel
+@exclude env_instructor_vr_hint
+@exclude env_lightglow
+@exclude env_projectedtexture
+@exclude env_rotorshooter
+@exclude env_rotorwash_emitter
+@exclude env_screenoverlay
+@exclude env_smokestack
+@exclude env_smoketrail
+@exclude env_sprite
+@exclude env_splash
+@exclude env_sprite_oriented
+@exclude env_sun
+@exclude env_texturetoggle
+@exclude env_tonemap_controller
+@exclude env_volumetric_fog_controller
+@exclude env_volumetric_fog_volume
+@exclude env_wind_clientside
+@exclude func_fish_pool
+@exclude func_instance
+@exclude func_orator
+@exclude haptic_relay
+@exclude info_ladder_dismount
+@exclude info_landmark
+@exclude info_lighting
+@exclude info_world_layer
+@exclude postprocess_controller
+@exclude color_correction_volume
+@exclude env_bubbles
+@exclude fog_volume
+@exclude func_detail_blocker
+@exclude func_precipitation
+@exclude func_precipitation_blocker
+@exclude func_reflective_glass
+@exclude func_shatterglass
+@exclude trigger_tonemap
+
+//--------------------------------------------------------------------------------------------------
+//--------------------------------------------------------------------------------------------------
+
+// Add an override of player start inoder to add it to the ui
+@OverrideClass 
+	metadata
+	{
+		entity_tool_name = "Player Start"
+		entity_tool_group = "Player"
+		entity_tool_tip = "Entity which specifies where the player will start."
+	}
+= info_player_start :
+[
+]
+
+@OverrideClass base(Targetname, Parentname) tags( Lighting ) = light_base
+[
+	// Remove these until we have a need for them to avoid cluttering up the UI for light ents
+	nearclipplane(remove_key)
+	fademindist(remove_key) 
+	fademaxdist(remove_key) 
+	range(remove_key) 
+]
+
+@OverrideClass = light_base_legacy_params
+[
+//	rendertransmissive(remove_key)
+//	renderspecular(remove_key)
+//	renderdiffuse(remove_key)
+//	indirectlight(remove_key)
+]
+
+@PointClass   editormodel("models/editor/camera.vmdl", fixedbounds) = csm_fov_override :
+	"This entity indicates the FOV override for cascading shadow maps.   ."
+[
+	camera_name(target_destination) : "Target Camera Name" : "default" : "Select a camera name to override a specific camera's CSM FOV.  Target 'default' applies to all cameras not otherwise specified."
+	csm_fov_override(float) : "CSM FOV Override value" : "75" : "This value will be used to override the FOV for cascading shadow maps only.  Actual camera FOV remains unchanged."
+]
+
+
+@SolidClass base(worldbase) = worldspawn : 
+	"This is the world entity. Each map can only contain one, and it's automatically created for you."
+[
+	baked_light_index_min(integer) : "Baked Light Minimum Index" : "0" : "Baked lights in this map will not have a value smaller than this number. Use to avoid conflicts in dynamically loaded prefabs."
+	baked_light_index_max(integer) : "Baked Light Maximum Index" : "256" : "Baked lights in this map will not have a value equal to or larger than this number. Use to avoid conflicts in dynamically loaded prefabs."
+	max_lightmap_resolution(choices) : "Maximum Lightmap Resolution" : "0" =
+	[
+		"0" : "No Maximum"
+		"512" : "512"
+		"1024" : "1024"
+		"2048" : "2048"
+		"4096" : "4096"
+		"8192" : "8192"
+		"16384" : "16384"
+	]
+	lightmap_queries(boolean) : "Lightmap Queries" : "1" : "Generates data which can be used to lookup lightmap UVs at a given position, useful for high-fidelity illumination of bullet decals on lightmapped geometry."
+
+	steamaudio_reverb_rebake_option(choices) [ group="Steam Audio Reverb Settings" ]: "Rebake Option" : "1" : "<b>Cleanup</b>: Reverb bake is disabled. Baked data will be cleaned up during map compile in Hammer or mapbuilder.<br /><b>Manual</b>: Reverb needs to be baked manually. Baked data is added or updated during map compile in Hammer but untouched by mapbuilder.<br /><b>Auto</b>: Reverb is baked automatically during map compile. Baked data is added or updated during map compile in Hammer or mapbuilder." =
+	[
+		"0" : "Cleanup"
+		"1" : "Manual"
+		"2" : "Auto"
+	]
+	steamaudio_reverb_grid_spacing(float) [ group="Steam Audio Reverb Settings" ]: "Grid Spacing" : "6" : "The horizontal distance (in meters) between adjacent probes."
+	steamaudio_reverb_height_above_floor(float) [ group="Steam Audio Reverb Settings" ]: "Height Above Floor" : "1.5" : "The height (in meters) above the floor at which probes should be placed.."
+	steamaudio_reverb_rays(integer) [ group="Steam Audio Reverb Settings" ]: "Baking Rays" : "32768" : "The number of rays traced from the listener when baking reflections or reverb. Increasing this value results in more accurate reflections, at the cost of increased bake times."
+	steamaudio_reverb_bounces(integer) [ group="Steam Audio Reverb Settings" ]: "Baking Bounces" : "32" : "The number of times each ray traced from the listener is reflected when baking reflections or reverb. Increasing this value results in longer, more accurate reverb tails, at the cost of increased bake times."
+	steamaudio_reverb_ir_duration(float) [ group="Steam Audio Reverb Settings" ]: "Baking Duration" : "1.0" : "The duration (in seconds) of the IRs generated when baking reflections or reverb. Increasing this value results in longer, more accurate reverb tails, at the cost of increased disk space usage."
+	steamaudio_reverb_ambisonic_order(integer) [ group="Steam Audio Reverb Settings" ]: "Baking Ambisonic Order" : "1" : "The Ambisonic order of the IRs generated when baking reflections or reverb. Increasing this value results in more accurate directional variation of reflected sound, at the cost of increased disk space usage."
+
+	steamaudio_pathing_rebake_option(choices) [ group="Steam Audio Pathing Settings" ]: "Rebake Option" : "1" : "<b>Cleanup</b>: Pathing bake is disabled. Baked data will be cleaned up during map compile in Hammer or mapbuilder.<br /><b>Manual</b>: Pathing needs to be baked manually. Baked data is added or updated during map compile in Hammer but untouched by mapbuilder.<br /><b>Auto</b>: Pathing is baked automatically during map compile. Baked data is added or updated during map compile in Hammer or mapbuilder." =
+	[
+		"0" : "Cleanup"
+		"1" : "Manual"
+		"2" : "Auto"
+	]
+	steamaudio_pathing_grid_spacing(float) [ group="Steam Audio Pathing Settings" ]: "Grid Spacing" : "6" : "The horizontal distance (in meters) between adjacent probes."
+	steamaudio_pathing_height_above_floor(float) [ group="Steam Audio Pathing Settings" ]: "Height Above Floor" : "1.5" : "The height (in meters) above the floor at which probes should be placed.."
+	steamaudio_pathing_visibility_samples(integer) [ group="Steam Audio Pathing Settings" ]: "Baking Visibilty Samples" : "1" : "Number of point samples to use around each probe when testing whether one probe can see another. To determine if two probes are mutually visible, rays are traced from each point sample of the first probe, to every other point sample of the second probe. Increasing this value prevents paths from being considered occluded by small objects, at the cost of increased bake times."
+	steamaudio_pathing_visibility_radius(float) [ group="Steam Audio Pathing Settings" ]: "Baking Visibility Radius" : "0.0" : "When testing for mutual visibility between a pair of probes, each probe is treated as a sphere of this radius (in meters), and point samples are generated within this sphere."
+	steamaudio_pathing_visibility_threshold(float) [ group="Steam Audio Pathing Settings" ]: "Baking Visibility Threshold" : "0.1" : "When tracing rays to test for mutual visibility between a pair of probes, the fraction of rays that are unoccluded must be greater than this threshold for the pair of probes to be considered mutually visible."
+	steamaudio_pathing_visibility_pathrange(float) [ group="Steam Audio Pathing Settings" ]: "Baking Path Range" : "100.0" : "If the distance (in meters) between two probes is greater than this value, the probes are considered to not have any path between them. Increasing this value allows sound to propagate over greater distances, at the cost of increased bake times and memory usage."
+]
+
+@BaseClass = Angles
+[ 
+	angles(angle) : "Pitch Yaw Roll (Y Z X)" : "0 0 0" : "This entity's orientation in the world. Pitch is rotation around the Y axis, " +
+		"yaw is the rotation around the Z axis, roll is the rotation around the X axis."
+]
+
+@BaseClass = TeamNum
+[
+	TeamNum(choices) : "Team Number (int)" : 0 =
+	[
+		-1 : "None"
+		0 : "All Teams"
+		2 : "Terrorist"
+		3 : "Counter-Terrorist"
+	]
+	input SetTeam(integer) : "Changes the entity's team"
+]
+
+@BaseClass color(0 0 200) base(Targetname, RenderFields, Angles) = Weapon
+[
+	spawnflags(Flags) =
+	[
+		1 : "Start constrained" : 0
+	]
+	CanBePickedUp(boolean) : "Is this weapon allowed to be picked up?" : 1
+
+	output OnPlayerUse(void) : "Fires when the player +uses this weapon"
+	output OnPlayerPickup(void) : "Fires when the player picks up this weapon"
+
+	input SetReserveAmmoAmount(integer) : "Set the reserve ammo on this weapon"
+	input SetAmmoAmount(integer) : "Set the ammo on this weapon"
+	input ToggleCanBePickedUp(void) : "Toggle CanBePickedUp"
+]
+
+
+//-------------------------------------------------------------------------
+//
+// Weapons
+//-------------------------------------------------------------------------
+//
+
+@PointClass base(Weapon) studio("weapons/models/ak47/weapon_rif_ak47.vmdl") = weapon_ak47 : "AK-47" []
+@PointClass base(Weapon) studio("weapons/models/aug/weapon_rif_aug.vmdl") = weapon_aug : "AUG" []
+@PointClass base(Weapon) studio("weapons/models/awp/weapon_snip_awp.vmdl") = weapon_awp : "AWP" []
+@PointClass base(Weapon) studio("weapons/models/bizon/weapon_smg_bizon.vmdl") = weapon_bizon : "PP-Bizon" []
+@PointClass base(Weapon) studio("weapons/models/cz75a/weapon_pist_cz75a.vmdl") = weapon_cz75a : "CZ75a" []
+@PointClass base(Weapon) studio("weapons/models/deagle/weapon_pist_deagle.vmdl") = weapon_deagle : "Desert Eagle" []
+@PointClass base(Weapon) studio("weapons/models/defuser/weapon_defuser.vmdl") = item_defuser : "Defuse Kit" []
+@PointClass base(Weapon) studio("weapons/models/elite/weapon_pist_elite.vmdl") = weapon_elite : "Dual Berettas" []
+@PointClass base(Weapon) studio("weapons/models/famas/weapon_rif_famas.vmdl") = weapon_famas : "FAMAS" []
+@PointClass base(Weapon) studio("weapons/models/fiveseven/weapon_pist_fiveseven.vmdl") = weapon_fiveseven : "Five-SeveN" []
+@PointClass base(Weapon) studio("weapons/models/g3sg1/weapon_snip_g3sg1.vmdl") = weapon_g3sg1 : "G3SG1 Sniper" []
+@PointClass base(Weapon) studio("weapons/models/galilar/weapon_rif_galilar.vmdl") = weapon_galilar : "Galil AR" []
+@PointClass base(Weapon) studio("weapons/models/glock18/weapon_pist_glock18.vmdl") = weapon_glock : "Glock-18" []
+@PointClass base(Weapon) studio("weapons/models/hkp2000/weapon_pist_hkp2000.vmdl") = weapon_hkp2000 : "P2000" []
+@PointClass base(Weapon) studio("weapons/models/healthshot/weapon_healthshot.vmdl") = weapon_healthshot : "Medi-Shot" []
+@PointClass base(Weapon) studio("weapons/models/knife/knife_default_ct/weapon_knife_default_ct.vmdl") = weapon_knife : "Knife" []
+@PointClass base(Weapon) studio("weapons/models/m249/weapon_mach_m249.vmdl") = weapon_m249 : "M249 Para" []
+@PointClass base(Weapon) studio("weapons/models/m4a4/weapon_rif_m4a4.vmdl") = weapon_m4a1 : "M4A4" []
+@PointClass base(Weapon) studio("weapons/models/m4a1_silencer/weapon_rif_m4a1_silencer.vmdl") = weapon_m4a1_silencer : "M4A1 Silenced" []
+@PointClass base(Weapon) studio("weapons/models/mac10/weapon_smg_mac10.vmdl") = weapon_mac10 : "MAC-10" []
+@PointClass base(Weapon) studio("weapons/models/mag7/weapon_shot_mag7.vmdl") = weapon_mag7 : "MAG-7" []
+@PointClass base(Weapon) studio("weapons/models/mp5sd/weapon_smg_mp5sd.vmdl") = weapon_mp5sd : "MP5-SD" []
+@PointClass base(Weapon) studio("weapons/models/mp7/weapon_smg_mp7.vmdl") = weapon_mp7 : "MP7" []
+@PointClass base(Weapon) studio("weapons/models/mp9/weapon_smg_mp9.vmdl") = weapon_mp9 : "MP9" []
+@PointClass base(Weapon) studio("weapons/models/negev/weapon_mach_negev.vmdl") = weapon_negev : "Negev" []
+@PointClass base(Weapon) studio("weapons/models/nova/weapon_shot_nova.vmdl") = weapon_nova : "Nova" []
+@PointClass base(Weapon) studio("weapons/models/p90/weapon_smg_p90.vmdl") = weapon_p90 : "P90" []
+@PointClass base(Weapon) studio("weapons/models/p250/weapon_pist_p250.vmdl") = weapon_p250 : "P250" []
+@PointClass base(Weapon) studio("weapons/models/revolver/weapon_pist_revolver.vmdl") = weapon_revolver : "Revolver " []
+@PointClass base(Weapon) studio("weapons/models/sawedoff/weapon_shot_sawedoff.vmdl") = weapon_sawedoff : "Sawed-Off" []
+@PointClass base(Weapon) studio("weapons/models/scar20/weapon_snip_scar20.vmdl") = weapon_scar20 : "Scar20" []
+@PointClass base(Weapon) studio("weapons/models/sg556/weapon_rif_sg556.vmdl") = weapon_sg556 : "SG 553" []
+@PointClass base(Weapon) studio("weapons/models/ssg08/weapon_snip_ssg08.vmdl") = weapon_ssg08 : "SSG 08" []
+@PointClass base(Weapon) studio("weapons/models/tec9/weapon_pist_tec9.vmdl") = weapon_tec9 : "Tec-9" []
+@PointClass base(Weapon) studio("weapons/models/ump45/weapon_smg_ump45.vmdl") = weapon_ump45 : "UMP-45" []
+@PointClass base(Weapon) studio("weapons/models/usp_silencer/weapon_pist_usp_silencer.vmdl") = weapon_usp_silencer : "USP Silenced" []
+@PointClass base(Weapon) studio("weapons/models/xm1014/weapon_shot_xm1014.vmdl") = weapon_xm1014 : "XM1014" []
+@PointClass base(Weapon) studio("weapons/models/taser/weapon_pist_taser.vmdl") = weapon_taser : "weapon_taser" []
+
+@PointClass base(Weapon) studio("weapons/models/c4/weapon_c4.vmdl") = weapon_c4 : "C4 Bomb" []
+
+@PointClass base(Weapon) studio("weapons/models/grenade/flashbang/weapon_flashbang.vmdl") = weapon_flashbang : "Flashbang" []
+@PointClass base(Weapon) studio("weapons/models/grenade/decoy/weapon_decoy.vmdl") = weapon_decoy : "Decoy Grenade" []
+@PointClass base(Weapon) studio("weapons/models/grenade/hegrenade/weapon_hegrenade.vmdl") = weapon_hegrenade : "HE Grenade" []
+@PointClass base(Weapon) studio("weapons/models/grenade/molotov/weapon_molotov.vmdl") = weapon_molotov : "Molotov" []
+@PointClass base(Weapon) studio("weapons/models/grenade/incendiary/weapon_incendiarygrenade.vmdl") = weapon_incgrenade : "Incendiary Grenade" []
+@PointClass base(Weapon) studio("weapons/models/grenade/sensorgrenade/weapon_sensorgrenade.vmdl") = weapon_tagrenade : "TAGrenade" []
+@PointClass base(Weapon) studio("weapons/models/grenade/smokegrenade/weapon_smokegrenade.vmdl") = weapon_smokegrenade : "Smoke Grenade" []
+//-------------------------------------------------------------------------
+//
+// Point Classes
+//
+//-------------------------------------------------------------------------
+@PointClass base(Targetname) iconsprite("editor/game_end.vmat") = game_end : 
+	"An entity that ends a multiplayer game." 
+[
+	master(string) : "Master (Obsolete)" : : "Legacy support: The name of a master entity. If the master hasn't been activated, this entity will not activate."
+	input EndGame(void) : "End the multiplayer game."
+]
+
+@PointClass base(Targetname, EnableDisable) tags( Lighting )
+	iconsprite( "materials/editor/env_cubemap_fog.vmat" ) 
+	cubemap_fog()
+	metadata
+	{
+		entity_tool_name = "Cubemap fog"
+		entity_tool_tip = "Specifies fog based on an env_sky or skybox material."
+		entity_tool_group = "Fog & Sky"
+	}
+= env_cubemap_fog  
+[
+	cubemapfogsource(Choices) [ group = "Fog Cubemap" ] : "Cubemap Source" : "1" : "Which field to use to select the cubemap and its parameters." =
+	[
+		1 : "Cubemap From Env_Sky"
+		2 : "Cubemap From Material"
+	]
+	cubemapfogskyentity(target_destination) { group="Fog Cubemap" enabled={ variable="cubemapfogsource" value="1" } } : "Env_Sky Target"
+	cubemapfogskymaterial(resource:material) { group="Fog Cubemap" enabled={ variable="cubemapfogsource" value="2" } } :  "Sky Material"
+	cubemapfoglodbiase(float) [ group = "Fog Cubemap" ] : "Cubemap Blur / Mip Bias (0-1)" : "0.5" : "Adjust how blurry the cubemap should be. Lower values are more blurry (0-1) "
+	cubemapfogstartdistance(float) [ group = "Fog Distance" ] : "Fog Start Distance" : "0.0"
+	cubemapfogenddistance(float) [ group = "Fog Distance" ] : "Fog End Distance" : "4000.0"
+	cubemapfogfalloffexponent(float) [ group = "Fog Distance" ] : "Distance Falloff Exponent" : "2.0" : "Exponent for distance falloff. For example, 2.0 = proportional to square of distance"
+	cubemapfogmaxopacity(float) [ group = "Fog Distance" ] : "Maximum Fog Opacity (0-1)" : "1.0" : "Set the maximum opacity of the cubemap fog. (0-1)"
+	cubemapheightfog(boolean) [ group = "Fog Height" ] : "Height Fog Enabled?" : 1
+	cubemapfogheightstart(float) [ group = "Fog Height" ] : "Height Fog Start" : "0.0"
+	cubemapfogheightend(float) [ group = "Fog Height" ] : "Height Fog End" : "4000.0"
+	cubemapfogheightexponent(float) [ group = "Fog Height" ] : "Height Fog Exponent" : "2.0" : "Exponent for distance falloff. For example, 2.0 = proportional to square of distance"
+]
+
+@PointClass  base(Targetname, EnableDisable) tags( Lighting )
+	iconsprite( "materials/editor/env_fog_controller.vmat" )
+	gradientfog()
+	global( gradient_fog )
+	metadata
+	{
+		entity_tool_name = "Gradient Fog"
+		entity_tool_tip = "Specifies fog based on a color gradient"
+		entity_tool_group = "Fog & Sky"
+	}
+= env_gradient_fog
+[
+	// Fog Color
+	fogcolor(color255) [ group = "Fog Color" ] : "Fog Color" : "255 255 255" : "Set the gradient fog color."
+	fogstrength(float) [ group = "Fog Color" ] : "Fog Color Multiplier" : "1.0" : "For HDR color values"	
+	fogmaxopacity(float) [ group = "Fog Color" ] : "Fog Maximum Opacity" : "1.0" : "Set the maximum opacity of the gradient fog."
+
+	// Fog Distance
+	fogstart(float) [ group = "Fog Distance" ] : "Fog Start Distance" : "0.0"
+	fogend(float) [ group = "Fog Distance" ] : "Fog End Distance" : "4000.0"
+	fogfalloffexponent(float) [ group = "Fog Distance" ] : "Distance Falloff Exponent" : "2.0" : "Exponent for distance falloff."
+
+	// Fog Height
+	heightfog(boolean) [ group = "Fog Height" ] : "Height Fog Enabled?" : 1
+	fogstartheight(float) [ group = "Fog Height" ] : "Fog Start Height" : "0.0"
+	fogendheight(float) [ group = "Fog Height" ] : "Fog End Height" : "4000.0"
+	fogverticalexponent(float) [ group = "Fog Height" ] : "Height Falloff Exponent" : "2.0" : "Exponent for height falloff."
+
+	// Render Properties
+	fadetime(float) [ group = "Render Properties" ] : "Fade Time" : "1.0" : "How much time it takes to fade in new values."
+	farz(float) [ group = "Render Properties" ] : "Far Z Clip Plane" : "-1.0" : "Controls the Far Z distance clipping plane, beyond which geometry will be culled."
+
+	input SetFogStartDistance(float) : "Set Fog Start Distance"
+	input SetFogEndDistance(float) : "Set Fog End Distance"
+	input SetFogStartHeight(float) : "Set Fog Start Height"
+	input SetFogEndHeight(float) : "Set Fog End Height"
+	input SetFogMaxOpacity(float) : "Set Fog Max Opacity"
+	input SetFogFalloffExponent(float) : "Set Fog Falloff Exponent"
+	input SetFogVerticalExponent(float) : "Set Fog Vertical Exponent"
+	input SetFogColor(color255) : "Set Fog Color"
+	input SetFogStrength(float) : "Set Fog Strength"
+	input SetFarZ(float): "Set the far clip plane distance."
+]
+
+@PointClass  base(Targetname, EnableDisable) tags( Lighting )
+	iconsprite( "materials/editor/env_player_visibility.vmat" )
+	player_visibility()
+	global( player_visibility )
+	metadata
+	{
+		entity_tool_name = "Player Visibility"
+		entity_tool_tip = "Player visibility settings for fog and postprocessing"
+		entity_tool_group = "Fog & Sky"
+	}
+= env_player_visibility
+[
+	playervisibilitystrength(float) : "Player Visibility Postprocessing Strength" : "1.1" : "Set the strength of the player visibility postprocessing effect"
+	playerfogdistancemultiplier(float) : "Player Fog Distance Multiplier" : "1.7" : "Set a multiplier on the distance used to calculate fog for players. Higher values mean the fog is pushed further away."
+	playerfogmaxdensitymultiplier(float) : "Player Fog Max Density Multiplier" : "0.6" : "Set a multiplier on the maximum density of fog for players. Lower values mean less opaque fog."
+	fadetime(float) : "Fade Time" : "1.0" : "How much time it takes to fade in new values."
+	
+	input SetPlayerVisibilityStrength(float) : "Set Player Visibility Postprocessing Strength"
+	input SetPlayerFogDistanceMultiplier(float) : "Set Player Fog Distance Multiplier"
+	input SetPlayerFogMaxDensityMultiplier(float) : "Set Player Fog Max Density Multiplier"
+]
+
+@PointClass base(Targetname, Parentname, EnableDisable) iconsprite("editor/env_sky.vmat") skybox() 
+	metadata
+	{
+	entity_tool_name = "Skybox"
+	entity_tool_group = "Fog & Sky"
+	entity_tool_tip = "Adds a 2D skybox"
+	}
+= env_sky : 
+	"Controls the 2D skybox material. Rotation of this entity rotates the skybox material"
+[
+	skyname(resource:material) [report] : "Skybox Material" : "materials/dev/default_sky.vmat"
+	tint_color(color255) : "Sky Tint Color" : "255 255 255" : "Tint the skybox"
+	brightnessscale(float) : "Brightness Scale" : "1.0" : "Scale brightness by this amount" 
+
+//	fog_type(choices) : "Fog Type" : 1 =
+//	[
+//		0: "None"
+//		1: "Distance Based"
+//		2: "Angular"
+//	]
+//
+//	angular_fog_max_end( float ) : "Fog Max Angle End" : "35.0"
+//	angular_fog_max_start( float ) : "Fog Max Angle Start" : "25.0"
+//	angular_fog_min_start( float ) : "Fog Min Angle Start" : "-25.0"
+//	angular_fog_min_end( float ) : "Fog Min Angle End" : "-35.0"
+]
+
+@PointClass base(Targetname) size(-8 -8 -8, 8 8 8) = env_hudhint : 
+	"An entity to control the display of HUD hints. HUD hints are used to show the player what key is bound to a particular command."
+[
+	message(string) : "Hint Text (localized)" : "" : "This should be set to match the desired HUD hint entry in the hl2\resource\valve_english.txt."
+
+	// Inputs
+	input ShowHudHint(void) : "Shows the hint message."
+	input HideHudHint(void) : "Hides the hint message."
+]
+
+@PointClass base(Targetname, Angles) studio("characters/models/ctm_sas/ctm_sas.vmdl")
+	metadata
+	{
+	entity_tool_name = "Counter Terrorist Spawn Point"
+	entity_tool_group = "Player"
+	entity_tool_tip = "This entity marks the spawn point for Counter Terrorists"
+	}
+	= info_player_counterterrorist :
+	"This entity marks the start point for counter-terrorists. One of these needs to be placed for each team member. " +
+	"20 start points is typical. Should be placed at least 128 units away from each other and surrounding walls"
+
+[
+	priority(integer) : "Spawn Priority (int)" : 0 : "Determines which spawn points get used first.  Smaller numbers are used before larger numbers."
+	enabled(boolean) : "Enabled by default?" : 1
+
+	input SetEnabled(void) : "Sets this spawn point as enabled."
+	input SetDisabled(void) : "Sets this spawn point as disabled."
+	input ToggleEnabled(void) : "Toggle the enabled/disabled state of this spawn point."
+]
+
+
+@PointClass base(Targetname, Angles) studio("characters/models/tm_phoenix/tm_phoenix.vmdl") 
+	metadata
+	{
+	entity_tool_name = "Terrorist Spawn Point"
+	entity_tool_group = "Player"
+	entity_tool_tip = "This entity marks the spawn point for Terrorists"
+	}
+	= info_player_terrorist :
+	"This entity marks the start point for terrorists. One of these needs to be placed for each team member. " +
+	"20 start points is typical. Should be placed at least 128 units away from each other and surrounding walls."
+[
+	priority(integer) : "Spawn Priority (int)" : 0 : "Determines which spawn points get used first.  Smaller numbers are used before larger numbers."
+	enabled(boolean) : "Enabled by default?" : 1
+
+	input SetEnabled(void) : "Sets this spawn point as enabled."
+	input SetDisabled(void) : "Sets this spawn point as disabled."
+	input ToggleEnabled(void) : "Toggle the enabled/disabled state of this spawn point."
+]
+
+@PointClass base(Targetname, Angles) studio("characters/models/tm_professional/tm_professional_varh.mdl")
+	metadata
+	{
+	entity_tool_name = "Deathmatch Spawn Point"
+	entity_tool_group = "Player"
+	entity_tool_tip = "This entity marks a deathmatch spawn point"
+	}
+	= info_deathmatch_spawn :
+	"This entity marks a deathmatch spawn point. This is the entity that populates the map when mp_random_spawn is used." +
+	"Manually adding them to the map will guarantee that these spawn points are included in the set"
+[
+	enabled(boolean) : "Enabled by default?" : 1
+
+	input SetEnabled(void) : "Sets this spawn point as enabled."
+	input SetDisabled(void) : "Sets this spawn point as disabled."
+	input ToggleEnabled(void) : "Toggle the enabled/disabled state of this spawn point."
+]
+
+@PointClass base(Targetname, Angles) studio("characters/models/ctm_st6/ctm_st6_variantl.vmdl")
+	metadata
+	{
+	entity_tool_name = "Arms Race Counter Terrorist Spawn Point"
+	entity_tool_group = "Player"
+	entity_tool_tip = "This entity marks the start point for counter-terrorists in Arms Race"
+	}
+	= info_armsrace_counterterrorist :
+	"This entity marks the start point for counter-terrorists in Arms Race. " +
+	"Should be placed at least 128 units away from each other and surrounding walls"
+[
+	priority(integer) : "Spawn Priority (int)" : 0 : "Determines which spawn points get used first.  Smaller numbers are used before larger numbers."
+	enabled(boolean) : "Enabled by default?" : 1
+
+	input SetEnabled(void) : "Sets this spawn point as enabled."
+	input SetDisabled(void) : "Sets this spawn point as disabled."
+	input ToggleEnabled(void) : "Toggle the enabled/disabled state of this spawn point."
+]
+
+@PointClass base(Targetname, Angles) studio("characters/models/tm_leet/tm_leet_varianta.mdl")
+	metadata
+	{
+	entity_tool_name = "Arms Race Terrorist Spawn Point"
+	entity_tool_group = "Player"
+	entity_tool_tip = "This entity marks the start point for terrorists in Arms Race"
+	}
+	= info_armsrace_terrorist :
+	"This entity marks the start point for terrorists in Arms Race. " +
+	"Should be placed at least 128 units away from each other and surrounding walls."
+[
+	priority(integer) : "Spawn Priority (int)" : 0 : "Determines which spawn points get used first.  Smaller numbers are used before larger numbers."
+	enabled(boolean) : "Enabled by default?" : 1
+
+	input SetEnabled(void) : "Sets this spawn point as enabled."
+	input SetDisabled(void) : "Sets this spawn point as disabled."
+	input ToggleEnabled(void) : "Toggle the enabled/disabled state of this spawn point."
+]
+
+@PointClass base(Targetname, Angles) studio("characters/models/tm_phoenix/tm_phoenix.vmdl") sphere(hide_radius) = info_enemy_terrorist_spawn :
+	"This entity marks the start point for enemy terrorists in a coop game. " +
+	"Should be placed at least 80 units away from each other and surrounding walls."
+[
+	priority(integer) : "Spawn Priority (int)" : 0 : "Determines which spawn points get used first.  Smaller numbers are used before larger numbers."
+	enabled(boolean) : "Enabled by default?" : 1
+
+	input SetEnabled(void) : "Sets this spawn point as enabled."
+	input SetDisabled(void) : "Sets this spawn point as disabled."
+	input ToggleEnabled(void) : "Toggle the enabled/disabled state of this spawn point."
+	model_to_use(studio) : "Override player model" : "" : "Select a model to override the model used for enemies spawned at this spawn point." 
+	weapons_to_give(string) : "Weapons to spawn with" : "glock" : "Weapons and items to give to the bot on spawn. Ex. 'vesthelm, usp, awp, smokegreande, hegrenade'" 
+	armor_to_give(choices) : "Armor" : 1 : "What armor should the bot spawn with." =
+	[
+		0 : "None"
+		1 : "Vest and Helmet"
+		2 : "Heavy Armor"
+	]
+
+	start_asleep(boolean) : "Spawn alseep?" : 1 : "Do the bots that spawn here start alseep? If so, they will wait until they see or hear the player to move."
+	default_behavior(choices) : "Default Behavior" : 0 : "What behavior the bot should have when idle." =
+	[
+		0 : "Defend Camp"
+		1 : "Hunt"
+		2 : "Charge Enemy"
+		3 : "Defend Investigate"
+	]
+	bot_difficulty(integer) : "Bot Difficulty (int)" : 0 : "How hard the bot is to fight and what his skill level is. [0-7] (0 = super easy, 7 = super human)."
+	is_agressive(boolean) : "Is agressive?" : 0 : "Is the bot agreesive for his difficulty level?"
+	hide_radius(float) : "Hide Radius": 1000 : "Range around the spawn spot the bot will try to hide. Set to 0 to hold position and never try to hide."
+
+	PatrolArea01(target_destination) : "PatrolArea[1]"
+	PatrolArea02(target_destination) : "PatrolArea[2]"
+	PatrolArea03(target_destination) : "PatrolArea[3]"
+	PatrolArea04(target_destination) : "PatrolArea[4]"
+	PatrolArea05(target_destination) : "PatrolArea[5]"
+	PatrolArea06(target_destination) : "PatrolArea[6]"
+	PatrolArea07(target_destination) : "PatrolArea[7]"
+	PatrolArea08(target_destination) : "PatrolArea[8]"
+	PatrolArea09(target_destination) : "PatrolArea[9]"
+	PatrolArea10(target_destination) : "PatrolArea[10]"
+	PatrolArea11(target_destination) : "PatrolArea[11]"
+	PatrolArea12(target_destination) : "PatrolArea[12]"
+	PatrolArea13(target_destination) : "PatrolArea[13]"
+	PatrolArea14(target_destination) : "PatrolArea[14]"
+	PatrolArea15(target_destination) : "PatrolArea[15]"
+	PatrolArea16(target_destination) : "PatrolArea[16]"
+]
+
+@PointClass base(Targetname, Angles) studio("models/hostage/hostage.vmdl") = hostage_entity :
+	"Hostage. A hostage NPC will spawn at this point.\n\n" +
+	"There are usually four hostages placed in each hostage rescue map. The model for each Hostage is randomly chosen."
+[
+
+	HostageType(choices) : "Hostage Model (int)" : 0 : "Not used. Hostage models are chosen randomly by the game." =
+	[
+		0 : "A"
+		1 : "B"
+		1 : "C"
+		1 : "D"
+	]
+
+	HostageSpawnRandomFactor(integer) : "Hostage Spawn Random Factor (int)" : 1 : "Allows to increase probability of this hostage being picked during random spawn selection process, essentially considering this spawn point specified number of times."
+	
+	HostageSpawnExclusionGroup1(choices) : "Hostage Spawn Exclusion Group 1" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup2(choices) : "Hostage Spawn Exclusion Group 2" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup3(choices) : "Hostage Spawn Exclusion Group 3" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup4(choices) : "Hostage Spawn Exclusion Group 4" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup5(choices) : "Hostage Spawn Exclusion Group 5" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup6(choices) : "Hostage Spawn Exclusion Group 6" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup7(choices) : "Hostage Spawn Exclusion Group 7" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup8(choices) : "Hostage Spawn Exclusion Group 8" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup9(choices) : "Hostage Spawn Exclusion Group 9" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup10(choices) : "Hostage Spawn Exclusion Group 10" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup11(choices) : "Hostage Spawn Exclusion Group 11" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup12(choices) : "Hostage Spawn Exclusion Group 12" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup13(choices) : "Hostage Spawn Exclusion Group 13" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup14(choices) : "Hostage Spawn Exclusion Group 14" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup15(choices) : "Hostage Spawn Exclusion Group 15" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup16(choices) : "Hostage Spawn Exclusion Group 16" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup17(choices) : "Hostage Spawn Exclusion Group 17" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup18(choices) : "Hostage Spawn Exclusion Group 18" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup19(choices) : "Hostage Spawn Exclusion Group 19" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup20(choices) : "Hostage Spawn Exclusion Group 20" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup21(choices) : "Hostage Spawn Exclusion Group 21" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup22(choices) : "Hostage Spawn Exclusion Group 22" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup23(choices) : "Hostage Spawn Exclusion Group 23" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup24(choices) : "Hostage Spawn Exclusion Group 24" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup25(choices) : "Hostage Spawn Exclusion Group 25" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup26(choices) : "Hostage Spawn Exclusion Group 26" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup27(choices) : "Hostage Spawn Exclusion Group 27" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup28(choices) : "Hostage Spawn Exclusion Group 28" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup29(choices) : "Hostage Spawn Exclusion Group 29" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+
+	HostageSpawnExclusionGroup30(choices) : "Hostage Spawn Exclusion Group 30" : 0 : "Hostages sharing same spawn exclusion group will never spawn together." =
+	[
+		0 : "n/a"
+		1 : "Do not spawn together"
+	]
+	output OnHostageBeginGrab(void): "Fires when a player starts to use a hostage"
+	output OnFirstPickedUp(void): "Fires when the hostage is first picked up"
+	output OnDroppedNotRescued(void): "Fires when the hostage is dropped, but not rescued"
+	output OnRescued(void): "Fires when the hostage is rescued"
+]
+
+@PointClass base(hostage_entity) studio("models/hostage/hostage.vmdl") = info_hostage_spawn :
+	"Hostage. A hostage NPC will spawn at this point.\n\n" +
+	"There are usually four hostages placed in each hostage rescue map. The model for each Hostage is randomly chosen."
+[
+]
+
+@SolidClass base(Trigger) = func_hostage_rescue:  
+	"Hostage Rescue Zone. When a hostage is led into this zone, it is marked as rescued."
+[
+]
+
+@SolidClass base(Trigger) = trigger_bomb_reset:  
+	"A trigger volume that resets the bomb by teleporting it back into the playable area."
+[
+]
+
+@SolidClass base(Trigger) = trigger_hostage_reset:  
+	"A trigger volume that resets the hostage by teleporting it back into the playable area."
+[
+]
+
+@OverrideClass
+	metadata
+	{
+		entity_tool_name = "Environment Light"
+		entity_tool_group = "Lighting"
+		entity_tool_tip = "For sunlight and sky lighting"
+		default_pitch = 45.0
+		default_yaw = 45.0
+	}
+= light_environment
+[
+	clientSideEntity(choices) [ group="Misc" ] : "Create Client-Only Entity" : 1 =
+	[
+		0 : "No"
+		1 : "Yes"
+	]
+
+	// Remove dynamic light option
+	directlight(choices) [ group="Direct Light" ] : "Direct Lighting Type" : "3" : "How direct lighting should be represented" =
+	[
+		"0" : "None"
+		"1" : "Baked"
+		//"2" : "Dynamic"
+		"3" : "Stationary"
+	]
+
+	// NOTE - this currently has no effect for light_environment, TODO add this to lighting so we can have 
+	// reduced CSM distances and still keep the shadow from the sun/light_environment
+	baked_light_indexing(boolean) [ group = "Shadows" ] : "Stationary Light Shadows" : "1" : "Allows mixed dynamic cascade shadow maps with Baked shadows." 
+	
+	// These are controlled instead by ConVars in settings in CSGO that vary based on global shadow settings, 
+	// so don't expose it to artists since it won't work
+	nearclipplane(remove_key)	
+	numcascades(remove_key)
+	shadowcascaderesolution0(remove_key)
+	shadowcascaderesolution1(remove_key)
+	shadowcascaderesolution2(remove_key)
+	shadowcascaderesolution3(remove_key)
+	shadowcascadedistance0(remove_key)
+	shadowcascadedistance1(remove_key)
+	shadowcascadedistance2(remove_key)
+	shadowcascadedistance3(remove_key)
+	cascaderenderstaticobj(remove_key)
+	cascadecrossfade(remove_key)
+	cascadedistancefade(remove_key)
+
+	// These don't really need to be exposed, defauls work fine 99% of time
+	// Hacks
+	minroughness(float) { group="Specular" min="0.0" max="1.0" } : "Specular Softness" : "0" : "USE WITH CAUTION: Artificially softens direct specular (not cubemaps) to simulate cheap, soft area lights. Note: Direct Lighting must be set to Stationary or Dynamic for this to have an effect."
+	
+]
+
+@OverrideClass = light_barn
+[
+	clientSideEntity(choices) [ group="Misc" ] : "Create Client-Only Entity" : 1 =
+	[
+		0 : "No"
+		1 : "Yes"
+	]
+
+    castshadows(choices) [ group = "Shadows" ] : "Cast Shadows" : "2" : "Whether this light casts shadow" =
+	[
+		"0" : "No"
+		"1" : "Baked & Dynamic"
+		"2" : "Baked Only"
+	]
+	directlight(choices) { group="Direct Light" } : "Direct Lighting Type" : "1" : "How direct lighting should be represented: Static=Fully baked into lightmap (cheapest), Stationary=Dynamic direct light with baked shadows, Dynamic=Fully dynamic (Most expensive)" =
+	[
+		// Ordered by expensiveness
+		"0" : "None"
+		"1" : "Static"
+		"3" : "Stationary"
+		"2" : "Dynamic"
+	]
+	fog(remove_key)
+	fogstrength(remove_key)
+	fogshadows(remove_key)
+]
+
+@OverrideClass = light_rect
+[
+	clientSideEntity(choices) [ group="Misc" ] : "Create Client-Only Entity" : 1 =
+	[
+		0 : "No"
+		1 : "Yes"
+	]
+
+    castshadows(choices) [ group = "Shadows" ] : "Cast Shadows" : "2" : "Whether this light casts shadow" =
+	[
+		"0" : "No"
+		"1" : "Baked & Dynamic"
+		"2" : "Baked Only"
+	]
+	directlight(choices) { group="Direct Light" } : "Direct Lighting Type" : "1" : "How direct lighting should be represented: Static=Fully baked into lightmap (cheapest), Stationary=Dynamic direct light with baked shadows, Dynamic=Fully dynamic (Most expensive)" =
+	[
+		// Ordered by expensiveness
+		"0" : "None"
+		"1" : "Static"
+		// "3" : "Stationary"
+		// "2" : "Dynamic"
+	]
+	fog(remove_key)
+	fogstrength(remove_key)
+	fogshadows(remove_key)
+]
+
+@OverrideClass = light_omni2
+[
+	clientSideEntity(choices) [ group="Misc" ] : "Create Client-Only Entity" : 1 =
+	[
+		0 : "No"
+		1 : "Yes"
+	]
+
+	castshadows(choices) [ group = "Shadows" ] : "Cast Shadows" : "2" : "Whether this light casts shadow. " =
+	[
+		"0" : "No"
+		"1" : "Baked & Dynamic"
+		"2" : "Baked Only"
+	]
+	directlight(choices) { group="Direct Light" }: "Direct Lighting Type" : "1" : "How direct lighting should be represented: Static=Fully baked into lightmap (cheapest), Stationary=Dynamic direct light with baked shadows, Dynamic=Fully dynamic (Most expensive). NOTE: Stationary and Dynamic omni2's take up 6 dynamic shadow slots, and will likely not cast shadows if you have CSM shadows enabled in a light_environment." =
+	[
+		// Ordered by expensiveness
+		"0" : "None"
+		"1" : "Static"
+		"3" : "Stationary"
+		"2" : "Dynamic"
+	]
+	fog(remove_key)
+	fogstrength(remove_key)
+	fogshadows(remove_key)	
+]
+
+@OverrideClass = sky_camera
+[
+	clip_3D_skybox_near_to_world_far(remove_key)
+	clip_3D_skybox_near_to_world_far_offset(remove_key)
+	SkyboxSlot(remove_key)
+	fogenable(remove_key)
+	fogblend(remove_key)
+	use_angles(remove_key)
+	fogcolor(remove_key)
+	fogcolor2(remove_key)
+	fogdir(remove_key)
+	fogstart(remove_key)
+	fogend(remove_key)
+	fogmaxdensity(remove_key)
+	HDRColorScale(remove_key)
+]
+
+@OverrideClass
+	metadata
+	{
+		entity_tool_name = "Cubemap"
+		entity_tool_tip = "Defines a cube map location."
+		entity_tool_group = "Lighting"
+	}
+= env_cubemap_box
+[
+	clientSideEntity(choices) [ group="Misc" ] : "Create Client-Only Entity" : 1 =
+	[
+		0 : "No"
+		1 : "Yes"
+	]
+
+	edge_fade_dists(vector) : "Edge Fade Dist" : "0 0 0"
+]
+
+@OverrideClass = BaseLightProbeVolume
+[
+	lightprobetexture(remove_key)
+	light_probe_volume_from_cubemap(remove_key) 
+	moveable(remove_key) 
+	storage(remove_key) 
+]
+
+@OverrideClass = BaseCubemap
+[
+	moveable(remove_key) 
+	bakenearz(remove_key)
+]
+
+@OverrideClass 
+	metadata
+	{
+		entity_tool_name = "Combined Cubemap and Light Probe volume"
+		entity_tool_group = "Lighting"
+		entity_tool_tip = "Combined box-projected cubemap for reflections and a light probe volume for dynamic objects"
+	}
+= env_combined_light_probe_volume
+[
+	clientSideEntity(choices) [ group="Misc" ] : "Create Client-Only Entity" : 1 =
+	[
+		0 : "No"
+		1 : "Yes"
+	]
+
+	voxel_size(choices) [ group="Lightprobes" ] : "Voxel Size" : "48.0" : "" = 
+	[
+		"6.0" : "Very Very High Resolution"
+		"12.0" : "Very High Resolution"
+		"24.0" : "High Resolution"
+		"48.0" : "Medium Resolution"
+		"108.0" : "Low Resolution"
+	]
+]
+
+@OverrideClass = point_camera_vertical_fov
+[
+	dof_enabled(boolean) { group="Depth Of Field" } : "Depth of Field Enabled" : "0"
+	dof_near_blurry(float) { enabled={ variable="dof_enabled" value="1" } group="Depth Of Field" } : "Depth of Field Near Blurry Distance" : "50"
+	dof_near_crisp(float) { enabled={ variable="dof_enabled" value="1" } group="Depth Of Field" } : "Depth of Field Near Crisp Distance" : "150"
+	dof_far_crisp(float) { enabled={ variable="dof_enabled" value="1" } group="Depth Of Field" } : "Depth of Field Far Crisp Distance" : "200"
+	dof_far_blurry(float) { enabled={ variable="dof_enabled" value="1" } group="Depth Of Field" } : "Depth of Field Far Blurry Distance" : "600"
+	dof_tilt_to_ground(float) { enabled={ variable="dof_enabled" value="1" } group="Depth Of Field" } : "Depth of Field Tilt Lens to Align With Ground Plane" : "0.75"
+]
+
+@PointClass base( Targetname ) global( 3dskybox ) = skybox_reference
+[
+	targetMapName(instance_file) : "Map Name"
+	fixupNames(boolean) : "Fixup Entity Names" : 0
+	worldGroupID(string) : "WorldGroupID" : "skyboxWorldGroup0"
+]
+
+@PointClass base(Targetname, Parentname, CanBeClientOnly) tags( Particles ) editormodel("models/editor/cone_helper_xyz.vmdl") helper_particle_glow() = env_particle_glow : 
+	"An entity to create light glows built via the particle editor" 
+[
+	effect_name(particlesystem) [report] : "Particle System Name" : "particles/environment/env_light_glow_01.vpcf"
+	effect_textureOverride(resource:texture) : "Texture Override" : "" : "You can replace the texture of any particle system specified above with a vtex. if empty the default particle behavior will happen."
+	start_active(boolean) : "Start Active?" : 1
+	scale(float) : "Scale" : 1 : "Scale multiplier of the glow. Used to remap the radius of the particle system. Written to Control Point 17 Y Value"
+	colortint(color255) : "Color Tint" : "255 255 255" :"Set the light's render color (R G B). Written to Control Point 16"
+	selfillumscale(float) : "Self illum Scalar" : "1" : "float value to multiply sprite self illum by. this will affect things like bloom contribution. Written to Control Point 17 Z Value"
+	alphascale(float) : "Alpha Scale" : 1 : "Alpha Multiplier on particle system. Written to Control Point 17 X Value"
+	cpoint0(target_destination) [ group="Advanced Properties" ] : "Parent (Control Point 0)" : : "If set, control point 0 of the effect will be at this entity's location. (Otherwise it is at the env_particle_glow origin)"
+	snapshot_file(resource:vsnap) { enabled={ variable="snapshot_mesh" value="0" } group="Advanced Properties" } : "Particle Snapshot File" : "" : "Name of .vsnap (Particle Snapshot File) to be loaded and used by this particle system (e.g. 'smoke_snapshot1.vsnap')"
+	snapshot_mesh(node_id) [ group="Advanced Properties" ] : "Particle Snapshot Node" : "" : "Spawns a glow particle at each mesh vertex. Id of a node in the map to be used to generate a particle snapshot, if specified Particle Snapshot File is ignored. A Particle system that is setup for snapshots must be used. eg : glow01_snapshot.vpcf"
+
+	// Inputs
+	input setcolortint(color255) : "Set the light's render color (R G B)."
+	input setscale(float) : "Set the glow scale multiplier (0 - 8.0)."
+	input setalphascale(float) : "Set the Alpha scale multiplier (0 - 1.0)."
+	
+	// Inputs
+	input Start(void) : "Tell the particle system to start emitting."
+	input Stop(void) : "Tell the particle system to stop emitting."
+	input StopPlayEndCap(void) : "Tell the particle system to stop emitting and play its End Cap Effect."
+	input DestroyImmediately(void) : "Destroy the particle system and remove all particles immediately."
+	input SetControlPoint(string) : "Set a Control Point via format - CP: X Y Z"
+]
+
+@PointClass base(Targetname) = info_offscreen_panorama_texture : "Offscreen Panorama Texture"
+[
+	layout_file(string) [important] : "Layout File" : : "Path to a panorama xml file ie - file://{resources}/layout/custom_hint.xml"
+
+	targets(target_destination) [important] : "Target(s)" : "" : "Entity (or entities) whose material should be overridden with this texture"
+	render_attr_name(string) : "Target Render Attribute" : "" : "Attribute name to hook to the texture (Add dynamic expression with the same string in your VMAT)"
+
+	resolution_x(integer) : "Texture Resolution (X)" : 512 : "Offscreen texture width"
+	resolution_y(integer) : "Texture Resolution (Y)" : 512 : "Offscreen texture height"
+
+	input AddCSSClass(string) : "Add a CSS class to the panel."
+	input RemoveCSSClass(string) : "Remove a CSS class from the panel."
+]
+
+@PointClass base(BasePropDoorRotating) tags( PropDynamic ) model() = prop_door_rotating :
+	"An entity used to place a door in the world. If two doors have the same name, they will open and close together as double doors."
+[
+]
+
+@PointClass base(BasePropDoorRotating) = dz_door :
+	"A security door."
+[
+	damageFilter(target_destination) : "Damage Filter" : : "The damage filter associated with this place."
+	is_security_door(boolean) : "Secure a spawn point" : 0
+]
+
+@PointClass base(Targetname, Angles) studio("models/weapons/w_eq_flashbang_thrown.mdl") = flashbang_projectile : "Flashbang Projectile"
+[
+    input SetTimer(float) : "Specify how many seconds before it explodes."
+]
+
+@PointClass base(Weapon, TeamNum) studio("models/weapons/w_eq_fraggrenade.mdl") = hegrenade_projectile : "HE Grenade Projectile"
+[
+    input InitializeSpawnFromWorld(void) : "If spawned from a env_entity_maker, you need to call this after spawn for it to work properly."
+]
+
+@PointClass base(Weapon, TeamNum) studio("models/weapons/w_eq_molotov.mdl") = molotov_projectile : "Molotov Projectile"
+[
+    input InitializeSpawnFromWorld(void) : "If spawned from a env_entity_maker, you NEED to call this after spawn for it to work properly."
+]
+
+@PointClass base(Weapon, TeamNum) studio("models/weapons/w_eq_smokegrenade.vmdl") = smokegrenade_projectile : "SmokeGrenade Projectile"
+[
+    input InitializeSpawnFromWorld(void) : "If spawned from a env_entity_maker, you NEED to call this after spawn for it to work properly."
+]
+
+@PointClass base(GameEntity) = point_dz_weaponspawn : "DZ Spawn Location"
+[
+	default_weight(float) : "Spawn weight" : 100 : "How likely it is to spawn at this location, default 100."
+]
+
+@PointClass base(GameEntity) = info_map_region : "DZ Named Map Region"
+[
+	radius(float) : "Region Radius" : 100 : "How far the named region extends."
+	token(string) : "Localization token" :  : "Localization string token."
+]
+
+@PointClass base(Angles) studio("models/props/coop_cementplant/exloding_barrel/exploding_barrel.vmdl") = prop_exploding_barrel : "Exploding barrel"
+[
+]
+
+@PointClass base(Angles) studio("models/props_survival/safe/safe.vmdl") = func_survival_c4_target : "C4 target"
+[
+	radius(float) : "Region Radius" : 350 : "Explosion radius."
+]
+
+@PointClass base(Angles) studio("models/props_survival/safe/safe.vmdl") = prop_counter : "Door price counter"
+[
+	initial_value(int) : "Initial value" : 0 : 
+]
+
+@PointClass base(GameEntity)  = point_dz_weaponspawn_group : "Weapon spawn group."
+[
+	radius(float) : "Group Radius" : 100 : 
+]
+
+@PointClass base( Angles) studio("models/props_survival/dronegun.vmdl") = point_dz_dronegun : "Drone Gun"
+[
+	spawnAutomatically(boolean) : "Spawn Automatically" : 0 : 
+]
+
+@PointClass base(GameEntity)  = info_paradrop_denial : "Paradrop denial area."
+[
+	radius(float) : "Denial Radius" : 200 : 
+]
+
+//-------------------------------------------------------------------------
+// Used to listen to events caled from code
+//-------------------------------------------------------------------------
+
+@PointClass base(Targetname) = logic_eventlistener :
+	"An entity that can listen to events fired from code and fire " +
+	"and output when it happens."
+[
+	EventName(string) : "Event Name" : "" : "The name of the event that you want to listen for."
+	IsEnabled(choices) : "Start Enabled" : 1 =
+	[
+		0 : "No"
+		1 : "Yes"
+	]
+	TeamNum(choices) : "Team Number" : -1 : "If set, will only fire its output if the event is generated from someone of the specified team." =
+	[
+		-1 : "Don't care"
+		2 : "Terrorists"
+		3 : "Counter-Terrorists"
+	]
+		
+	// Inputs
+	input Enable(void) : "Enable the logic_eventlistener."
+	input Disable(void) : "Disable the logic_eventlistener."
+	
+	// Outputs
+	output OnEventFired(void)  : "Fired when the event has been detected."
+]
+
+//-------------------------------------------------------------------------
+//
+// Solid Classes
+//
+//-------------------------------------------------------------------------
+@SolidClass base( Targetname )
+	metadata
+	{
+		auto_apply_material = "materials/tools/tools_cs_place.vmat"
+	}
+= env_cs_place : 
+	"An entity used to define a place on a CSGO map." 
+[
+	place_name(string) : "Place Name" : : "The name associated with this place."
+]
+
+@SolidClass base(Targetname) tags( NavMarkup ) 
+	metadata
+	{
+		auto_apply_material = "materials/tools/toolsnavattribute.vmat"
+	}
+= func_nav_blocker : "A brush entity that can block nav areas touching its AABB." 
+[
+	StartDisabled(boolean) : "Start Disabled" : 0
+	input BlockNav(string) : "Starts blocking nav areas."
+	input UnblockNav(void) : "Stops blocking nav areas."
+]
+
+@SolidClass base( Targetname ) = func_buyzone : 
+	"A trigger used to define a buyzone." 
+[
+	TeamNum(integer) : "Team Num" : : "Team number associated with this buyzone."
+]
+
+@SolidClass base( GameEntity ) = trigger_survival_playarea : 
+	"A trigger used to define the survial play area." 
+[
+]
+
+@SolidClass base( GameEntity ) = func_tablet_blocker : 
+	"Defines areas where tablet is covered by static." 
+[
+]
+
+@SolidClass base(Targetname, EnableDisable) = func_clip_vphysics : 
+	"A brush entity that's considered solid to vphysics." 
+[
+	filtername(filterclass) : "Filter Name" : : "Filter to use to see if activator collides with me. See filter_activator_name for more explanation. Allow means 'Allow to Block' for this entity."
+]
+
+
+@SolidClass base(Targetname, Parentname ) = func_bomb_target:  
+	"Bomb Target. The terrorists can place C4 explosives while standing in this zone.\n\n" +
+	"When the bomb is planted and explodes inside this area, the BombExplode outputs are fired. The game handles " +
+	"all of the bomb planting and scoring logic – the BombExplode outputs are provided to add visual and damage effects."
+[
+	output BombExplode(void): "Fires when C4 explodes"
+	output BombPlanted(void): "Fires when a C4 is planted"
+	output BombDefused(void): "Fires when a C4 is defused"
+
+	heistbomb(boolean) : "Heist Mode bomb target" : 0 : "This is a Bomb Target designed for the Heist game mode."
+
+	bomb_mount_target(string) : "Bomb Mount Target" 
+	
+	bomb_site_designation(choices) : "Bomb Site" : 0 =
+	[
+		0 : "A"
+		1 : "B"
+	]
+]
+
+@OverrideClass = prop_static
+[
+	renderwithdynamic(remove_key)
+	fademindist(remove_key)
+	fademaxdist(remove_key)
+	renderamt(remove_key)
+]
+
+@PointClass base(Targetname,Angles) = info_map_parameters :
+	"Map parameters. Used to set which teams can buys, and the C4 bomb detonation radius."
+[
+	buying(choices) : "Teams that can buy" : 0 =
+	[
+		0 : "Everyone"
+		1 : "Only Counter-Terrorists"
+		2 : "Only Terrorists"
+		3 : "Nobody"
+	]
+
+	bombradius(float) : "C4 Explosion Radius" : 500 : "Overrides the default radius of the explosion when the C4 bomb explodes. Max range is 2048"
+	petpopulation(float) : "Pet Population" : 0 : "Determines the target population of pets." 
+	usenormalspawnsfordm(boolean) : "Use Normal Spawns in Deathmatch?" : 0 : "Set to true if the map should use the mapper-placed spawn points instead of generating random ones."
+	disableautogenerateddmspawns(boolean) : "Disable Autogenerated DM Spawns?" : 0 : "Set to true if you want to manually place info_deathmatch_spawns and not have the engine generate them."
+	botmaxvisiondistance(float) : "Bot max vision distance" : "-1" : "Sets the maximum distance bots can see enemies. Default is -1, unlimited."
+	
+	input FireWinCondition(integer) : "Fires win conditions for the win."
+	
+]
+
+@OverrideClass = prop_physics_multiplayer
+[
+	disableshadows(choices) [ group="Render Properties" ] : "Cast Shadows" : 2 : "Used to disable shadow casting from this entity." = 
+	[
+		0: "Enabled"
+		1: "No Shadows"
+		2: "Only Realtime Shadows"
+		3: "Only Baked Shadows"
+	]
+]
+
+//-------------------------------------------------------------------------
+//
+// Map preview classes - Can only be used in background UI maps
+//
+//-------------------------------------------------------------------------
+
+@PathNodeClass base(Targetname)
+	tags( Camera )
+	editormodel( "models/editor/camera" )
+	camera_path_node()
+	= map_preview_camera_path_node
+[
+	ZNear(float)[ group="Frustum" ] : "ZNear" : 4 : "Distance to the near plane for preview of the frustum in hammer."
+	ZFar(float)[ group="Frustum" ] : "ZFar" : 100 : "Distance to the far plane for preview of the frustum in hammer."
+ 	rendercolor(color255)[ group="Frustum" ] : "Color (R G B)" : "128 128 128 for preview of the frustum in hammer."
+	aspectRatio(float)[ group="Frustum" ] : "Aspect Ratio" : "1.0" : "Aspect ratio of the camera for preview of the frustum in hammer. "
+
+	FOV(float) : "Field Of View" : "90" : "This is the horizontal field of view."
+
+	speed(float) : "Speed" : "100" : "If the path is not constant speed, this specifies the speed of this segment.  The segment is defined as the line from this node to the next node in the direction of camera travel.\nThis value is ignored if the path is constant speed."
+	ease_in(float){ min="0.0" max="100.0" } : "Ease In Percent" : "0" : "Percentage of the segment used to ease the speed from the previous segment to the speed of this segment.\nIf Ease In & Ease Out total to more than 100%, their values will be normalized to total 100%.\nThis value is ignored if the path is constant speed."
+	ease_out(float){ min="0.0" max="100.0" } : "Ease Out Percent" : "0" : "Percentage of the segment used to ease the speed from this segment to the speed of the next segment.\nIf Ease In & Ease Out total to more than 100%, their values will be normalized to total 100%.\nThis value is ignored if the path is constant speed."
+]
+
+@PathClass base(Targetname)
+	metadata
+	{
+		path_node_class = "map_preview_camera_path_node"
+	}
+	tags( Camera )
+	camera_path()
+	= map_preview_camera_path : "An editable path which controls an animated camera. Can only be used in background UI maps"
+[
+	ZNear(float)[ group="Frustum" ] : "ZNear" : 4 : "Distance to the near plane for preview of the frustum in hammer."
+	ZFar(float)[ group="Frustum" ] : "ZFar" : 100 : "Distance to the far plane for preview of the frustum in hammer."
+ 	rendercolor(color255)[ group="Frustum" ] : "Color (R G B)" : "128 128 128 for preview of the frustum in hammer."
+	aspectRatio(float)[ group="Frustum" ] : "Aspect Ratio" : "1.0" : "Aspect ratio of the camera."
+
+	useVerticalFOV(boolean) : "Vertical FOV" : "0" : "Set to true if the camera should use vertical FOV (Default false)"
+	constant_speed(boolean) : "Constant Speed" : "1" : "Controls the timing of the camera.  If true the duration value on the path is used, otherwise the individual time values on the nodes are used.  (Default true)"
+	duration(float){ enabled={ variable="constant_speed" value="1" } } : "Constant Speed Duration" : "5" : "The amount of time in seconds the camera will take to traverse the path.  Ignored if Constant Speed is false. (Default 5)"
+	loop(boolean) : "Loop" : "0" : "Set to true if the camera animation should loop when reaching the end of the path. By default, the camera animation will hold the last frame."
+]
+
+@PointClass base(RenderFields) model() = csgo_player_previewmodel :
+	"A model entity that can be used for characters in ui maps."
+[
+	targetname(target_source) : "Name" : : "The name that other entities refer to this entity by."
+	model(studio) [report]: "World Model" : : "Overriden by game code."
+	animgraph(animgraph) { enabled={ function="ModelHasAnimGraph" } } : "Animgraph" : "" : "Specify animgraph resource.  Overridden if the model is changed by game code."
+	character_mode(animgraph_enum)  { enabled={ function="ModelHasAnimGraph" } } : "Character Mode" : "" : "UI Character animation mode.  Set by game code."
+	CT_true(animgraph_enum)  { enabled={ function="ModelHasAnimGraph" } } : "Counter Terrorist" : "" : "True CT, false for terrorist.  This value is overridden in game to match the model."
+	weapon_type(animgraph_enum)   { enabled={ function="ModelHasAnimGraph" } } : "Weapon type" : "" : "Major weapon type.  Overridden in game to match equipped weapon."
+	weapon_type_pistol(animgraph_enum)   { enabled={ function="ModelHasAnimGraph" } } : "Pistol type" : "" : "Minor weapon type only applies if Weapon Type == Pistol. Overridden in game to match equipped weapon."
+	weapon_type_rifle(animgraph_enum)   { enabled={ function="ModelHasAnimGraph" } } : "Rifle type" : "" : "Minor weapon type only applies if Weapon Type == Rifle. Overridden in game to match equipped weapon."
+	end_of_match_celebration(animgraph_enum)  { enabled={ function="ModelHasAnimGraph" } } : "End Of Match celebration type" : "" : "Only applies if Character Mode == end_of_match. Overridden in game by End Of Match dialog."
+	team_preview_position(animgraph_enum)  { enabled={ function="ModelHasAnimGraph" } } : "Team preview position" : "" : "For Character Mode team_select and team_intro. Overridden in game."
+]
+
+@PointClass base(Studiomodel, RenderFields) model() = csgo_item_previewmodel :
+	"A model entity that can be used for items (weapons/props) in ui maps."
+[
+	targetname(target_source) : "Name" : "" : "The name that other entities refer to this entity by."
+	model(studio) [report]:  "World Model" : : "Overriden by game code."
+	animgraph(animgraph) { enabled={ function="ModelHasAnimGraph" } } : "Animgraph" : "" : "Specify animgraph resource.  Overridden if the model is changed by game code."
+	weapon_state(animgraph_enum)  { enabled={ function="ModelHasAnimGraph" } } : "Weapon State" : "" : "Weapon specific animgraph. Should be set to 'inspect' for weapon preview.  Set by game code for weapons."
+	model_scale(float)  : "Model Scale" : "" : "Initial scale for the model."
+	DefaultAnim(sequence) { enabled={ function="NotUsingAnimGraph" } } : "Default Animation" : "" : "The name of the idle animation that this prop will revert to whenever it finishes a random or forced animation. This setting is ignored for models with an animgraph when Use Animgraph is enabled."
+]
+
+@SolidClass base(Targetname, Parentname, RenderFields) drawangles_local{ angles_key = "movedir" } = func_conveyor : 
+	"A brush entity with a moving surface that moves linearly in a given direction"
+[
+	conveyor_models(target_destination) : "Models" : "" : "Name of the conveyor models that will animate along with the conveyor."
+	movedir(angle) : "Move Direction (Pitch Yaw Roll)" : "0 0 0" : "The direction conveyor moves."
+	speed(float) : "Conveyor Speed, , in inches / second." : "100"
+	transition_duration(float) : "Transition Duration (seconds)" : "0" : "How long it will take to transition to the new speed."
+
+
+	// Inputs
+	input ToggleDirection(void) : "Toggle the direction"
+	input SetSpeed(float) : "Set the speed in inches per second,"
+	input SetTransitionDuration(float) : "Set the duration in seconds to transition to the new speed,"
+]
+
+@PointClass base(Targetname) 
+	metadata
+	{
+		class_game_keys =
+		[
+			{ key = "isPointPrefab" value = true },
+			{ key = "targetMapName" value = "prefabs/misc/team_select" }
+		]
+	}
+	model("models/editor/team_select") 
+	= team_select : "In-map team select position." 
+[
+]
+
+@PointClass base(Targetname) 
+	metadata
+	{
+		class_game_keys =
+		[
+			{ key = "isPointPrefab" value = true },
+			{ key = "targetMapName" value = "prefabs/misc/terrorist_team_intro" }
+		]
+	}
+	model("models/editor/terrorist_team_intro") 
+	= terrorist_team_intro : "In-map terrorist team intro variant #1." 
+[
+]
+
+@PointClass base(Targetname) 
+	metadata
+	{
+		class_game_keys =
+		[
+			{ key = "isPointPrefab" value = true },
+			{ key = "targetMapName" value = "prefabs/misc/terrorist_team_intro_variant2" }
+		]
+	}
+	model("models/editor/terrorist_team_intro_variant2")
+	= terrorist_team_intro_variant2 : "In-map terrorist team intro variant #2." 
+[
+]
+
+@PointClass base(Targetname) 
+	metadata
+	{
+		class_game_keys =
+		[
+			{ key = "isPointPrefab" value = true },
+			{ key = "targetMapName" value = "prefabs/misc/counterterrorist_team_intro" }
+		]
+	}
+	model("models/editor/counterterrorist_team_intro") 
+	= counterterrorist_team_intro : "In-map counter-terrorist team intro variant #1." 
+[
+]
+
+@PointClass base(Targetname) 
+	metadata
+	{
+		class_game_keys =
+		[
+			{ key = "isPointPrefab" value = true },
+			{ key = "targetMapName" value = "prefabs/misc/counterterrorist_team_intro_variant2" }
+		]
+	}
+	model("models/editor/counterterrorist_team_intro_variant2")
+	= counterterrorist_team_intro_variant2 : "In-map counter-terrorist team intro variant #2." 
+[
+]
+
+@PointClass base(Targetname) 
+	metadata
+	{
+		class_game_keys =
+		[
+			{ key = "isPointPrefab" value = true },
+			{ key = "targetMapName" value = "prefabs/misc/terrorist_wingman_intro" }
+		]
+	}
+	model("models/editor/terrorist_wingman_intro") 
+	= terrorist_wingman_intro : "In-map terrorist wingman intro." 
+[
+]
+
+@PointClass base(Targetname) 
+	metadata
+	{
+		class_game_keys =
+		[
+			{ key = "isPointPrefab" value = true },
+			{ key = "targetMapName" value = "prefabs/misc/counterterrorist_wingman_intro" }
+		]
+	}
+	model("models/editor/counterterrorist_wingman_intro")
+	= counterterrorist_wingman_intro : "In-map counter-terrorist wingman intro." 
+[
+]
+
+@PointClass base(Targetname) 
+	metadata
+	{
+		class_game_keys =
+		[
+			{ key = "isPointPrefab" value = true },
+			{ key = "targetMapName" value = "prefabs/misc/end_of_match" }
+		]
+	}
+	model("models/editor/end_of_match") = end_of_match : "In-map end-of-match position." 
+[
+]
+
+// Server-side ropes cause hitches every time a player joins. Use path_particle_rope_clientside instead.
+@exclude path_particle_rope
+
+@SolidClass base( Targetname, Parentname )
+	metadata
+	{
+		render_as_world_but_physics_as_entity = true
+	}
+= func_water
+[
+]
+
+@PointClass = cs_minimap_boundary:
+	"One of two corners needed to define the minimap boundaries (extend to support multilevel maps)."
+[
+]
+
+@PointClass base(Targetname) = game_money : 
+	"An entity that awards money to a specific team." 
+[
+	Money(integer)		: "Amount of money to add (+/-)" : 1000
+	AwardText(string)	: "Award Text" : : "The text that will print in the chat next to the award amount.  Will look like this:	'1000: <Award Text>'"
+	
+	// Inputs
+	input SetMoneyAmount(void) : "Set the money value that will be awarded. (without awarding it)"
+	input AddTeamMoneyTerrorist(void) : "Add money to players on team TERRORIST."
+	input AddTeamMoneyCT(void) : "Add money to players on team COUNTER TERRORIST."
+	input AddMoneyPlayer(void) : "Add money directly to the player activating this entity. (no chat description)"
+	input SpendMoneyFromPlayer(void) : "If the player has [money amount] or more, take [money amount] away."
+	
+	output OnMoneySpent(void) : "Fires when input SpendMoneyFromPlayer succeeded."
+	output OnMoneySpentFail(void) : "Fires when input SpendMoneyFromPlayer failed. (Player didn't have enough money)"
+]
