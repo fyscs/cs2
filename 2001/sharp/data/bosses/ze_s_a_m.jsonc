@@ -40,6 +40,16 @@
       "iterator": "Bal_Hp_Counter",
       "hitbox": "Bal_Hitbox",
       "display": "Balrog"
+    },
+    {
+      "iterator": "Castle_Guard_Hp_Counter_1",
+      "hitbox": "Castle_Guard_Box_1",
+      "display": "Guard"
+    },
+    {
+      "iterator": "Castle_Guard_Hp_Counter_2",
+      "hitbox": "Castle_Guard_Box_2",
+      "display": "Guard"
     }
   ]
 }
