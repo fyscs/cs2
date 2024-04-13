@@ -4,7 +4,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 25,
+    "cooldown": 30,
     "nomination": false,
     "admin": true,
     "refund": 0.5
@@ -14,7 +14,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 25,
+    "cooldown": 30,
     "nomination": false,
     "admin": true,
     "refund": 0.5
@@ -24,7 +24,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 25,
+    "cooldown": 30,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -34,7 +34,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 10,
+    "cooldown": 6,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -44,7 +44,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 25,
+    "cooldown": 30,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -54,7 +54,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 10,
+    "cooldown": 6,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -64,7 +64,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 10,
+    "cooldown": 6,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -74,7 +74,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 10,
+    "cooldown": 6,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -84,7 +84,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 10,
+    "cooldown": 6,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -94,7 +94,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 10,
+    "cooldown": 6,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -114,7 +114,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 25,
+    "cooldown": 30,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -134,7 +134,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 10,
+    "cooldown": 6,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -144,7 +144,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 10,
+    "cooldown": 6,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -154,7 +154,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 10,
+    "cooldown": 6,
     "nomination": true,
     "admin": true,
     "refund": 0.5
@@ -194,7 +194,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 10,
+    "cooldown": 6,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -204,7 +204,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 10,
+    "cooldown": 6,
     "nomination": true,
     "admin": true,
     "refund": 0.5
@@ -214,7 +214,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 25,
+    "cooldown": 30,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -224,7 +224,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 25,
+    "cooldown": 30,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -244,7 +244,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 10,
+    "cooldown": 6,
     "nomination": false,
     "admin": false,
     "refund": 0.5
@@ -254,7 +254,7 @@
     "tier": 0,
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 10,
+    "cooldown": 6,
     "nomination": false,
     "admin": false,
     "refund": 0.5
