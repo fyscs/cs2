@@ -1,0 +1,101 @@
+// MiniGames game mode configuration file generator.
+// MGGames Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // enum /* MiniGameMode */
+  //
+  // Invalid      = -1,
+  // Guns         = 0, // 对枪
+  // Nade         = 1, // 手雷
+  // Knife        = 2, // 拼刀
+  // Taser        = 3, // 电击枪
+  // Dodgeball    = 4, // 躲避球
+  // RaceCombat   = 5, // Race给枪    LongJump, Bhop, Race, Clmib, Combat
+  // RaceBonus    = 6, // Race刷分    LongJump, Bhop, Race, Clmib, 刷分
+  // Survival     = 7, // 生存        JumpRope, FallingBox etc...
+  // RaceSurvival = 8, // Race生存    LongJump, Bhop, Race, Clmib, Survival
+  // Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
+
+[
+  {
+    "id": "2:28298:786",
+    "cd": 240,
+    "mode": 0,
+    "name": "环形加速道",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:28298:788",
+    "cd": 240,
+    "mode": 9,
+    "name": "打鸭子",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:28298:790",
+    "cd": 240,
+    "mode": 0,
+    "name": "AWP",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:28298:792",
+    "cd": 240,
+    "mode": 0,
+    "name": "爆头沙鹰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:28298:802",
+    "cd": 240,
+    "mode": 5,
+    "name": "bhop",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:28298:794",
+    "cd": 240,
+    "mode": 9,
+    "name": "打飞碟",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:28298:796",
+    "cd": 240,
+    "mode": 0,
+    "name": "霰弹加农炮",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:28298:798",
+    "cd": 240,
+    "mode": 3,
+    "name": "电击枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:28298:800",
+    "cd": 240,
+    "mode": 5,
+    "name": "Slide",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2:28298:522",
+    "cd": 240,
+    "mode": 2,
+    "name":"1v1刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  }
+]
