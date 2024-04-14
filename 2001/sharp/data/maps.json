@@ -636,6 +636,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_slender_escape_p": {
+    "certainTimes": [-1],
+    "price": 450,
+    "cooldown": 60,
+    "nomination": false,
+    "admin": true
+  },
   "ze_sorrento_escape_p": {
     "certainTimes": [-1],
     "price": 300,
