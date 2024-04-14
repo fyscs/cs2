@@ -6,7 +6,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "mg_50arenas_v2_3": {
@@ -16,7 +16,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": true,
+    "admin": false,
     "refund": 0.5
   },
   "mg_clouds_multigames_v2": {
@@ -155,8 +155,8 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 6,
-    "nomination": true,
-    "admin": true,
+    "nomination": false,
+    "admin": false,
     "refund": 0.5
   },
   "mg_ski_mountain_v2_csgo": {
@@ -205,8 +205,8 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 6,
-    "nomination": true,
-    "admin": true,
+    "nomination": false,
+    "admin": false,
     "refund": 0.5
   },
   "mg_warmcup_headshot_sfw_fys": {
