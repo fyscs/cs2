@@ -1,262 +1,184 @@
 {
   "mg_01minecraftminigame": {
-    "description": "*对枪* 马赛克游戏",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_50arenas_v2_3": {
-    "description": "*对枪* 50种地图",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_clouds_multigames_v2": {
-    "description": "*对枪* Clouds",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_dream_xmas_edition_3": {
-    "description": "*游戏* 圣诞节游戏",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 6,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_fun_matrix_trilogie_rc2_fys": {
-    "description": "*对枪* 黑客帝国三部曲",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_hype2": {
-    "description": "*游戏* Hype2",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 6,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_kennys_multigames_x1": {
-    "description": "*游戏* Kennys",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 6,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_lego_multigames_r1c1": {
-    "description": "*游戏* 乐高重制版v1",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 6,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_legospace_multigames_v2": {
-    "description": "*游戏* 乐高宇宙",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 6,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_mikis_multigames": {
-    "description": "*游戏* Mikis",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 6,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_multigames_devine_is_french": {
-    "description": "*对枪* Devine",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 20,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_n64_goldeneye_go": {
-    "description": "*对枪* N64黄金眼",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_race_long_road_extended": {
-    "description": "*普通* 公路赛跑",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 20,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_rainbow_multigames_v1": {
-    "description": "*游戏* 彩虹小游戏",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 6,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_randomizer_reborn_v2": {
-    "description": "*游戏* 随机地图重制版",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 6,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_skeet_multigames_v7": {
-    "description": "*游戏* Skeet",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 6,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_ski_mountain_v2_csgo": {
-    "description": "*普通* 滑雪山",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 20,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_skytower_v1": {
-    "description": "*普通* 天空塔",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 20,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_super_tower_v4": {
-    "description": "*普通* 超级塔",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 20,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_swag_multigames_v7_fys": {
-    "description": "*游戏* Swag小游戏",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 6,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_thc_lego_multimap": {
-    "description": "*游戏* thc游戏",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 6,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_warmcup_headshot_sfw_fys": {
-    "description": "*对枪* WarmCup",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_weapon_case_arenas_v1_2": {
-    "description": "*对枪* 开箱竞技场",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_wl_multigames": {
-    "description": "*游戏* 战斗方块剧场",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 15,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_yolo_multigames_v1": {
-    "description": "*游戏* Yolo小游戏",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 6,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   },
   "mg_yotagames": {
-    "description": "*游戏* Yota游戏",
-    "tier": 0,
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 6,
     "nomination": false,
-    "admin": false,
-    "refund": 0.5
+    "admin": false
   }
 }
