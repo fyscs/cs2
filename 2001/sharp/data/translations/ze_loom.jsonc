@@ -1,0 +1,76 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Wait for something to happen": {
+    "translation": "等待某事发生"
+  },
+  "...": {
+    "translation": "..."
+  },
+  "Hold for 30 seconds": {
+    "translation": "防守30秒"
+  },
+  "A way will open in 20 seconds": {
+    "translation": "一条路将在20秒内打开"
+  },
+  "Defend for 15 seconds": {
+    "translation": "防守15秒",
+    "blocked": true
+  },
+  "Hold for 20 seconds": {
+    "translation": "防守20秒"
+  },
+  "A random way will open": {
+    "translation": "将打开一种随机方式"
+  },
+  "Gate #1 opened": {
+    "translation": "#一号门打开"
+  },
+  "Gate #2 opened": {
+    "translation": "#二号门打开"
+  },
+  "Gate #3 opened": {
+    "translation": "#三号门打开"
+  },
+  "Gate #4 opened": {
+    "translation": "#四号门打开"
+  },
+  "Wait for a random way to open": {
+    "translation": "等待随机打开方式"
+  },
+  "20 seconds": {
+    "translation": "20秒",
+    "blocked": true
+  },
+  "15 seconds": {
+    "translation": "15秒",
+    "blocked": true
+  },
+  "30 seconds": {
+    "translation": "30秒"
+  },
+  "Bridge will open in 20 seconds": {
+    "translation": "桥将在20秒后开启"
+  },
+  "To Be Continued...": {
+    "translation": "未完待续..."
+  },
+  "Thanks for playing": {
+    "translation": "感谢您的参与"
+  },
+  "35 seconds": {
+    "translation": "35秒"
+  },
+  "You Failed!": {
+    "translation": "你失败了!"
+  }
+}
