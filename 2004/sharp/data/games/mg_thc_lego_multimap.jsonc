@@ -61,7 +61,7 @@
   {
     "id": "2951",
     "cd": 480,
-    "mode": 8,
+    "mode": 6,
     "name": "躲避墙",
     "class": "func_button",
     "event": "OnPressed"
@@ -101,7 +101,7 @@
   {
     "id": "1086",
     "cd": 420,
-    "mode": 7,
+    "mode": 6,
     "name": "七色花",
     "class": "func_button",
     "event": "OnPressed"
@@ -133,7 +133,7 @@
   {
     "id": "2081",
     "cd": 600,
-    "mode": 7,
+    "mode": 6,
     "name": "听音乐抢门",
     "class": "func_button",
     "event": "OnPressed"
@@ -141,7 +141,7 @@
   {
     "id": "2083",
     "cd": 480,
-    "mode": 5,
+    "mode": 6,
     "name": "滑行赛跑",
     "class": "func_button",
     "event": "OnPressed"
@@ -149,7 +149,7 @@
   {
     "id": "3249",
     "cd": 600,
-    "mode": 5,
+    "mode": 6,
     "name": "bhop(easy)",
     "class": "func_button",
     "event": "OnPressed"
@@ -157,7 +157,7 @@
   {
     "id": "3251",
     "cd": 600,
-    "mode": 5,
+    "mode": 6,
     "name": "bhop(hard)",
     "class": "func_button",
     "event": "OnPressed"
