@@ -1,0 +1,384 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+  {
+    "[Wind] Crate storm to push zombie away for 5 sec,50 cd.": {
+      "translation": "[飓风] 释放跟随飓风推开僵尸5秒,50秒冷却."
+    },
+    "有冒险者找到了飓风.": {
+      "translation": "有冒险者找到了飓风."
+    },
+    "[飓风] 释放跟随飓风推开僵尸5秒,50秒冷却.": {
+      "translation": "[飓风] 释放跟随飓风推开僵尸5秒,50秒冷却."
+    },
+    "A player has pickup Wind.": {
+      "translation": "有冒险者找到了飓风."
+    },
+    "[Gravity] It will Freeze Bosses movement.": {
+      "translation": "[赤陨] 能对BOSS造成定身效果."
+    },
+    "有冒险者找到了赤陨.": {
+      "translation": "有冒险者找到了赤陨."
+    },
+    "[赤陨] 向前方生成黑洞6秒,50秒冷却.": {
+      "translation": "[赤陨] 向前方生成黑洞6秒,50秒冷却."
+    },
+    "A player has pickup Gravity.": {
+      "translation": "有冒险者找到了赤陨."
+    },
+    "[赤陨] 能对Boss造成定身效果.": {
+      "translation": "[赤陨] 能对Boss造成定身效果."
+    },
+    "[Gravity] Crate a blackhole pull zombie into for 6 sec,50 cd.": {
+      "translation": "[赤陨]将僵尸拉入黑洞,持续6秒,50秒冷却."
+    },
+    "[Heal] Crate a heal area for 7 sec,255 max health,50 cd.": {
+      "translation": "[治疗术] 放置治疗区域7秒,恢复225血量,50秒冷却."
+    },
+    "有冒险者找到了治疗术.": {
+      "translation": "有冒险者找到了治疗术."
+    },
+    "[治疗术] 放置治疗区域7秒,恢复225血量,50秒冷却.": {
+      "translation": "[治疗术] 放置治疗区域7秒,恢复225血量,50秒冷却."
+    },
+    "A player has pickup Heal.": {
+      "translation": "有冒险者找到了治疗术."
+    },
+    "[Water] Crate water area,strong slow zombie for 7 sec,50 cd.": {
+      "translation": "[冥水] 放置旋涡区域强减速僵尸7秒,50秒冷却."
+    },
+    "有冒险者找到了冥水.": {
+      "translation": "有冒险者找到了冥水."
+    },
+    "[冥水] 放置旋涡区域强减速僵尸7秒,50秒冷却.": {
+      "translation": "[冥水] 放置旋涡区域强减速僵尸7秒,50秒冷却."
+    },
+    "A player has pickup Water.": {
+      "translation": "有冒险者找到了冥水."
+    },
+    "[冥水] 能对Boss造成伤害.": {
+      "translation": "[冥水] 能对Boss造成伤害."
+    },
+    "[Water] It will deal damage to Bosses.": {
+      "translation": "[冥水] 能对Boss造成伤害."
+    },
+    "[Crystal] It will Freeze Bosses movement.": {
+      "translation": "[晶体墙] 向前方生成水晶墙5秒,50秒冷却."
+    },
+    "有冒险者找到了晶体墙.": {
+      "translation": "有冒险者找到了晶体墙."
+    },
+    "[晶体墙] 向前方生成水晶墙5秒,50秒冷却.": {
+      "translation": "[晶体墙] 向前方生成水晶墙5秒,50秒冷却."
+    },
+    "A player has pickup Crystal.": {
+      "translation": "有冒险者找到了晶体墙."
+    },
+    "[晶体墙] 能对Boss造成定身效果.": {
+      "translation": "[晶体墙] 能对Boss造成定身效果."
+    },
+    "[Crystal] Crate crystal wall for 5 sec,50 cd.": {
+      "translation": "[晶体墙] 向前方生成水晶墙5秒,50秒冷却."
+    },
+    "[Stone Jail] It will Freeze Bosses movement.": {
+      "translation": "[岩狱] 能对BOSS造成定身效果."
+    },
+    "有冒险者找到了岩狱.": {
+      "translation": "有冒险者找到了岩狱."
+    },
+    "[岩狱] 直线禁锢路线上的僵尸7秒,能被挠碎,50秒冷却.": {
+      "translation": "[岩狱] 直线禁锢路线上的僵尸7秒,能被挠碎,50秒冷却."
+    },
+    "A player has pickup Stone Jail.": {
+      "translation": "有冒险者找到了岩狱."
+    },
+    "[岩狱] 能对BOSS造成定身效果.": {
+      "translation": "[岩狱] 能对BOSS造成定身效果."
+    },
+    "[Stone Jail] Stone the zombie in a line for 7 sec,Breakable,50 cd.": {
+      "translation": "[岩狱] 直线禁锢路线上的僵尸7秒,能被挠碎,50秒冷却."
+    },
+    "[Blaze] Mid slow down zombie in area for 6 sec,50 cd.": {
+      "translation": "[秘火] 对范围内僵尸造成中等减速6秒,50秒冷却."
+    },
+    "有冒险者找到了秘火.": {
+      "translation": "有冒险者找到了秘火."
+    },
+    "[秘火] 对范围内僵尸造成中等减速6秒,50秒冷却.": {
+      "translation": "[秘火] 对范围内僵尸造成中等减速6秒,50秒冷却."
+    },
+    "A player has pickup Blaze.": {
+      "translation": "有冒险者找到了秘火."
+    },
+    "[秘火] 该神器能对BOSS和其护盾技能造成伤害.": {
+      "translation": "[秘火] 该神器能对BOSS和其护盾技能造成伤害."
+    },
+    "[Blaze] It can deal damage to Boss and its shield.": {
+      "translation": "[秘火] 该神器能对BOSS和其护盾技能造成伤害."
+    },
+    "[Thunder] Soft slow down zombie in area for 7 sec,50 cd.": {
+      "translation": "[怒雷] 对范围内僵尸造成微弱减速7秒,50秒冷却."
+    },
+    "有冒险者找到了怒雷.": {
+      "translation": "有冒险者找到了怒雷."
+    },
+    "[怒雷] 对范围内僵尸造成微弱减速7秒,50秒冷却.": {
+      "translation": "[怒雷] 对范围内僵尸造成微弱减速7秒,50秒冷却."
+    },
+    "A player has pickup Thunder.": {
+      "translation": "有冒险者找到了怒雷."
+    },
+    "[怒雷] 该神器能直接击碎僵尸的护盾/对BOSS和其护盾技能造成伤害.": {
+      "translation": "[怒雷] 该神器能直接击碎僵尸的护盾/对BOSS和其护盾技能造成伤害."
+    },
+    "[Thunder] Can use it to break zombie shield/Deal damage to Boss and its shield.": {
+      "translation": "[怒雷] 该神器能直接击碎僵尸的护盾/对BOSS和其护盾技能造成伤害."
+    },
+    "[Blizzard] It will Freeze Bosses movement.": {
+      "translation": "[凛冬] 能对BOSS造成定身效果."
+    },
+    "有冒险者找到了凛冬.": {
+      "translation": "有冒险者找到了凛冬."
+    },
+    "[凛冬] 对范围内僵尸造成定身6秒,50秒冷却.": {
+      "translation": "[凛冬] 对范围内僵尸造成定身6秒,50秒冷却."
+    },
+    "A player has pickup Blizzard.": {
+      "translation": "有冒险者找到了凛冬."
+    },
+    "[凛冬] 能对BOSS造成定身效果.": {
+      "translation": "[凛冬] 能对BOSS造成定身效果."
+    },
+    "[Blizzard] Freeze zombie in area for 6 sec,50 cd.": {
+      "translation": "[凛冬] 对范围内僵尸造成定身6秒,50秒冷却."
+    },
+    "> Shrine platform will seal off in 20 sec. <": {
+      "translation": "> 通往神社的道路将在20秒后关闭. <"
+    },
+    "> Shrine platform is seal off. <": {
+      "translation": "> 通往神社的道路被封锁了. <"
+    },
+    "> Zombie Item Locked! <": {
+      "translation": "> 僵尸神器被封锁了! <"
+    },
+    "> Barrier shatter in 25 sec. <": {
+      "translation": "> 屏障在25秒后破碎. <"
+    },
+    "<Byakko>: Outsider,You should not step inside this temple.": {
+      "translation": "<白虎>: 外人,你不应该踏入这座神社."
+    },
+    "<Byakko>: Turn back,now.": {
+      "translation": "<白虎>: 现在回头."
+    },
+    "<Byakko>: Or you will face my fury.": {
+      "translation": "<白虎: 否则你会面对我的愤怒."
+    },
+    "<Byakko>: I warn you...": {
+      "translation": "<白虎>: 我警告你..."
+    },
+    "<Genbu>: No.": {
+      "translation": "<玄武>: 不."
+    },
+    "<Genbu>: Leave it to me,Byakko.": {
+      "translation": "<玄武>: 交给我吧,白虎."
+    },
+    "<Byakko>: ...": {
+      "translation": "<白虎>: ..."
+    },
+    "<Byakko>: Stay safe,old man.": {
+      "translation": "<白虎>:注意安全,老伙计."
+    },
+    "> Barrier shatter in 20 sec. <": {
+      "translation": "> 屏障将在20秒后破碎. <"
+    },
+    "> Genbu is casting Caduceus. <": {
+      "translation": "> 玄武正在施放<蛇杖击>. <"
+    },
+    "> Genbu is casting Hell of Water. <": {
+      "translation": "> 玄武正在施放<玄冥流>. <"
+    },
+    "> Genbu is casting Hell of Waste. <": {
+      "translation": "> 玄武正在施放<玄冥瀑>. <"
+    },
+    "> Genbu is casting Divine Cararact. <": {
+      "translation": "> 玄武正在施放<玄天武水壁>. <"
+    },
+    "> Hurry,Break the shield before Genbu kill us all! <": {
+      "translation": "> 快!在他杀死我们全部人前击碎他的水盾! <"
+    },
+    "> 快!在他杀死我们全部人前击碎他的水盾! <": {
+      "translation": "> 快!在他杀死我们全部人前击碎他的水盾! <"
+    },
+    "< 最终幻想14:醴泉神社 > Ver 1.0": {
+      "translation": "< 最终幻想14:醴泉神社 > Ver 1.0"
+    },
+    "Map by @Seth.": {
+      "translation": "地图作者@Seth 地图汉化:墨鸢@Fys."
+    },
+    "< FFXIV_Reisen_Temple > Ver 1.0": {
+      "translation": "< 最终幻想14:醴泉神社 > Ver 1.0"
+    },
+    "> Genbu shield breaks! <": {
+      "translation": "> 玄武盾牌破裂! <"
+    },
+    "> Shrine platform is no longer seal. <": {
+      "translation": "> 通往神社的道路已经解锁. <"
+    },
+    "> Zombie Item Unlocked! <": {
+      "translation": ">僵尸神器已经解锁! <"
+    },
+    "> The First Temple will light up in 30 sec. <": {
+      "translation": "> 第一座神社将在30秒后亮起. <"
+    },
+    "> Stay around with the temple,It's light will protect you. <": {
+      "translation": "> 待在神社附近,它的光会保护你. <"
+    },
+    "> Byakko is casting Storm Pluse. <": {
+      "translation": "> 白虎正在施放<风雷波动>. <"
+    },
+    "> Byakko is casting Unrelenting Anguish. <": {
+      "translation": "> 白虎正在施放<无间地狱>. <"
+    },
+    "> Byakko is casting Aratama. <": {
+      "translation": "> 白虎正在施放<荒弹>. <"
+    },
+    "> Byakko is casting Distant Clap. <": {
+      "translation": "> 白虎正在施放<远雷>. <"
+    },
+    "> Byakko is casting Fire And Lighting. <": {
+      "translation": "> 白虎正在施放<电光火石>. <"
+    },
+    "> Byakko is casting Sweep The Leg. <": {
+      "translation": "> 白虎正在施放<扫堂腿>. <"
+    },
+    "> The Second Temple has light up,Platform will rise in 30 sec. <": {
+      "translation": "> 第二座神社亮起,平台将在30秒后升起. <"
+    },
+    "> Byakko is still here,Beware. <": {
+      "translation": "> 白虎还在这里,当心. <"
+    },
+    "<Byakko>: No more games!": {
+      "translation": "<白虎>: 游戏还没结束!"
+    },
+    "有僵尸习得了庇护.": {
+      "translation": "有僵尸习得了庇护."
+    },
+    "A zombie has learn Shield.": {
+      "translation": "有僵尸习得了庇护."
+    },
+    "[庇护] 生成跟随护盾使周围僵尸免疫子弹5秒,50秒冷却.": {
+      "translation": "[庇护] 生成跟随护盾使周围僵尸免疫子弹5秒,50秒冷却."
+    },
+    "[Shield] Use shield block bullet for 5 sec,50 cd.": {
+      "translation": "[庇护] 生成跟随护盾使周围僵尸免疫子弹5秒,50秒冷却."
+    },
+    "有僵尸习得了暗影.": {
+      "translation": "有僵尸习得了暗影."
+    },
+    "A zombie has learn Stealth.": {
+      "translation": "有僵尸习得了暗影."
+    },
+    "[暗影] 隐藏附近包括自己的僵尸5秒,50秒冷却.": {
+      "translation": "[暗影] 隐藏附近包括自己的僵尸5秒,50秒冷却."
+    },
+    "[Stealth] Make all zombie around you become invisible 5 sec,50 cd.": {
+      "translation": "[暗影] 隐藏附近包括自己的僵尸5秒,50秒冷却."
+    },
+    "有僵尸习得了极冻.": {
+      "translation": "有僵尸习得了极冻."
+    },
+    "A zombie has learn Snow.": {
+      "translation": "有僵尸习得了极冻."
+    },
+    "[极冻] 射出寒气3秒,冻结前方人类5秒,50秒冷却.": {
+      "translation": "[极冻] 射出寒气3秒,冻结前方人类5秒,50秒冷却."
+    },
+    "[Flame] Damage human around you for 5 sec,50 cd.": {
+      "translation": "[爆炎] 持续伤害附近的人类5秒,50秒冷却."
+    },
+    "有僵尸习得了爆炎.": {
+      "translation": "有僵尸习得了爆炎."
+    },
+    "A zombie has learn Flame.": {
+      "translation": "有僵尸习得了爆炎."
+    },
+    "[爆炎] 持续伤害附近的人类5秒,50秒冷却.": {
+      "translation": "[爆炎] 持续伤害附近的人类5秒,50秒冷却."
+    },
+    "有僵尸习得了灭绝.": {
+      "translation": "有僵尸习得了灭绝."
+    },
+    "A zombie has learn Doom.": {
+      "translation": "有僵尸习得了灭绝."
+    },
+    "[灭绝] 直接斩杀附近的人类,50秒冷却.": {
+      "translation": "[灭绝] 直接斩杀附近的人类,50秒冷却."
+    },
+    "[Doom] Slay all human around you,50 cd.": {
+      "translation": "[灭绝] 直接斩杀附近的人类,50秒冷却."
+    },
+    "< Hard Mode >": {
+      "translation": "< 困难模式 >"
+    },
+    "< Objective : Light up the First Temple >": {
+      "translation": "< 目标: 点亮第一座神社 >"
+    },
+    "< Extreme Mode >": {
+      "translation": "< 极限模式 >"
+    },
+    "< Objective : Light up the Second Temple >": {
+      "translation": "< 目标:点亮第二座神社 >"
+    },
+    "< ZM Mode >": {
+      "translation": "< ZM模式 >"
+    },
+    "< Objective : Survival 180 Sec. >": {
+      "translation": "< 目标: 生存180秒. >"
+    },
+    "Thanks you all for testing my map!": {
+      "translation": "感谢大家测试我的地图!"
+    },
+    "The last stage will update soon.": {
+      "translation": "最后一个阶段将很快更新."
+    },
+    "Ever this map is kinda small,But i still hope you enjoy. xd": {
+      "translation": "这张地图有点小,但我仍然希望你喜欢.xd"
+    },
+    "< 60 sec. >": {
+      "translation": "< 60秒. >"
+    },
+    "< 30 sec. >": {
+      "translation": "< 30秒. >",
+      "blocked": true
+    },
+    "< 10 sec. >": {
+      "translation": "< 10秒. >",
+      "blocked": true
+    },
+    "<Byakko>: You are...truly unique...": {
+      "translation": "<白虎>: 你是...真正独一无二..."
+    },
+    "Thanks for your testing!": {
+      "translation": "感谢您的测试!"
+    },
+    "Final Stage will update soon!": {
+      "translation": "最终关卡即将更新!"
+    },
+    "< Admin switch to Stage Hard. >": {
+      "translation": "< 管理员切换到困难模式. >"
+    },
+    "< Admin switch to Stage Extreme. >": {
+      "translation": "< 管理员切换到极限模式. >"
+    },
+    "< Admin switch to Stage ZM. >": {
+      "translation": "< 管理员切换到ZM关. >"
+    }
+  }
