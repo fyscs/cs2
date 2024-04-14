@@ -1,0 +1,108 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**(Zombies) The door to Khazad-Dum bridge is now open**": {
+    "translation": "**(僵尸)通往Khazad-Dum大桥的门现在打开了**"
+  },
+  "**Gandalf in the middle**": {
+    "translation": "**甘道夫屹立在桥中央(不过好像一刀死)**"
+  },
+  "**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**": {
+    "translation": "**祝贺!人类把魔戒带到了Khazad-Dum木桥摧毁**"
+  },
+  "**Protect Gandalf during 35s! He must break the bridge! **": {
+    "translation": "**人类一定要守住甘道夫至少35秒才行!他会摧毁这座桥! **"
+  },
+  "**Balrog coming to SUPERIOR STAIRS ZONE in 15s**": {
+    "translation": "**炎魔将会在15秒后到达巨型楼梯**"
+  },
+  "**Gandalf is dead!**": {
+    "translation": "**甘道夫死了!**"
+  },
+  "**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**": {
+    "translation": "**炎魔将会在15秒后到达楼梯**"
+  },
+  "**Zombies have been alerted!**": {
+    "translation": "**僵尸已收到警报!**"
+  },
+  "**Humans have reached Balin's tomb! Resist 55 s**": {
+    "translation": "**人类已经到达了巴林的坟墓!抵抗55秒!**"
+  },
+  "**Resist 30 s**": {
+    "translation": "**抵抗30秒**"
+  },
+  "**Resist 15 s**": {
+    "translation": "**抵抗15秒**",
+    "blocked": true
+  },
+  "**Go to the Khazad-Dum bridge!**": {
+    "translation": "**前往Khazad Dum大桥!**"
+  },
+  "**Balin's door closing/opening in 10 s**": {
+    "translation": "**巴林的门在10秒后关闭或者打开**"
+  },
+  "**Stay in the circle! Zombies can't go in!**": {
+    "translation": "**待在这个圈里!僵尸进不来!**"
+  },
+  "** ... **": {
+    "translation": "** ... **"
+  },
+  "**5**": {
+    "translation": "**5**",
+    "blocked": true
+  },
+  "**4**": {
+    "translation": "**4**",
+    "blocked": true
+  },
+  "**3**": {
+    "translation": "**3**",
+    "blocked": true
+  },
+  "**2**": {
+    "translation": "**2**",
+    "blocked": true
+  },
+  "**Go!**": {
+    "translation": "**快跑!**"
+  },
+  "**1**": {
+    "translation": "**1**"
+  },
+  "** Moria is unstable! Run towards the stairs in  **": {
+    "translation": "**快跑到楼梯那边!**"
+  },
+  "** Protection ring will close in 15 s **": {
+    "translation": "**圣光将会在15秒后消逝**"
+  },
+  "**Balrog coming to BALIN AND COLUMN ZONE in 15s**": {
+    "translation": "**炎魔将会在15秒后到达巴林的墓室**"
+  },
+  "**Gandalf is gone!**": {
+    "translation": "**甘道夫走了!**"
+  },
+  "**Map by: Hannibal [SPA] (Rafuron)**": {
+    "translation": "**地图作者:Hannibal [SPA] (Rafuron) 地图汉化:墨鸢@Fys**"
+  },
+  "**Bring the ring to Khazad-Dum bridge to win easily**": {
+    "translation": "**将戒指带到Khazad-Dum大桥就大功告成了!**"
+  },
+  "**Saruman staff has been picked!**": {
+    "translation": "**有玩家拾起了减速法杖!**"
+  },
+  "**Gandalf staff has been picked!**": {
+    "translation": "**有玩家拾起了甘道夫法杖!**"
+  },
+  "**The ring has been picked!**": {
+    "translation": "**有玩家捡起了魔戒!**"
+  }
+}
