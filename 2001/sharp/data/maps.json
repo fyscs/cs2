@@ -370,6 +370,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_loom": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false
+  },
   "ze_lotr_helms_deep_p": {
     "certainTimes": [-1],
     "price": 300,
