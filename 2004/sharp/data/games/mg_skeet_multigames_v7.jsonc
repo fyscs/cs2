@@ -97,7 +97,5 @@
       "name": "1v1刀战",
       "class": "func_button",
       "event": "OnPressed"
-
     }
   ]
-  
