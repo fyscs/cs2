@@ -17,9 +17,10 @@
   // RaceSurvival = 8, // Race生存    LongJump, Bhop, Race, Clmib, Survival
   // Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
 
+
 [
   {
-    "id": "2:28298:786",
+    "id": "2:26532",
     "cd": 240,
     "mode": 0,
     "name": "环形加速道",
@@ -27,7 +28,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:28298:788",
+    "id": "2:26530",
     "cd": 240,
     "mode": 9,
     "name": "打鸭子",
@@ -35,7 +36,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:28298:790",
+    "id": "2:26528",
     "cd": 240,
     "mode": 0,
     "name": "AWP",
@@ -43,7 +44,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:28298:792",
+    "id": "2:26526",
     "cd": 240,
     "mode": 0,
     "name": "爆头沙鹰",
@@ -51,15 +52,15 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:28298:802",
-    "cd": 240,
+    "id": "2:26578",
+    "cd": 300,
     "mode": 5,
     "name": "bhop",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "2:28298:794",
+    "id": "2:26568",
     "cd": 240,
     "mode": 9,
     "name": "打飞碟",
@@ -67,7 +68,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:28298:796",
+    "id": "2:26566",
     "cd": 240,
     "mode": 0,
     "name": "霰弹加农炮",
@@ -75,7 +76,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:28298:798",
+    "id": "2:26564",
     "cd": 240,
     "mode": 3,
     "name": "电击枪",
@@ -83,7 +84,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:28298:800",
+    "id": "2:26562",
     "cd": 240,
     "mode": 5,
     "name": "Slide",
@@ -91,8 +92,8 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:28298:522",
-    "cd": 240,
+    "id": "2:25908",
+    "cd": 280,
     "mode": 2,
     "name": "1v1刀战",
     "class": "func_button",
