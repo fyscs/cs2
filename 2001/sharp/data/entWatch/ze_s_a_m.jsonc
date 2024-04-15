@@ -111,10 +111,11 @@
   {
     "name": "桐人",
     "shortName": "桐人",
+    "hammerId": "11545",
     "buttonClass": "func_button",
-    "triggerId": ["7573","7571","11181"],
+    "triggerId": ["7571","11181"],
     "team": 3,
-    "knife": false,
+    "knife": true,
     "soulEvent": "OnTrigger",
     "mode": 4,
     "maxUses": 3,
@@ -124,10 +125,11 @@
   {
     "name": "亚丝娜",
     "shortName": "闪光",
+    "hammerId": "11546",
     "buttonClass": "func_button",
-    "triggerId": ["11113","11111","11172"],
+    "triggerId": ["11111","11172"],
     "team": 3,
-    "knife": false,
+    "knife": true,
     "soulEvent": "OnTrigger",
     "mode": 4,
     "maxUses": 2,
@@ -138,9 +140,10 @@
   {
     "name": "[ZM]黑洞",
     "shortName": "黑洞",
-    "triggerId": ["7465", "7467", "9019", "9013"],
+    "hammerId": "11542",
+    "triggerId": ["7465","9019","9013"],
     "team": 2,
-    "knife": false,
+    "knife": true,
     "soulEvent": "OnTrigger",
     "mode": 0,
     "count": 1
@@ -148,9 +151,10 @@
   {
     "name": "[ZM]寒霜",
     "shortName": "寒霜",
-    "triggerId": ["7434","7436","9007", "9011"],
+    "hammerId": "11537",
+    "triggerId": ["7434","9007", "9011"],
     "team": 2,
-    "knife": false,
+    "knife": true,
     "soulEvent": "OnTrigger",
     "mode": 0,
     "count": 1
@@ -158,9 +162,10 @@
   {
     "name": "[ZM]护盾",
     "shortName": "护盾",
-    "triggerId": ["7532", "7534", "9027", "9017"],
+    "hammerId": "11544",
+    "triggerId": ["7532","9027","9017"],
     "team": 2,
-    "knife": false,
+    "knife": true,
     "soulEvent": "OnTrigger",
     "mode": 0,
     "count": 1
@@ -168,9 +173,10 @@
   {
     "name": "[ZM]眩隐",
     "shortName": "眩隐",
-    "triggerId": ["7504", "7506", "9023", "9015"],
+    "hammerId": "11543",
+    "triggerId": ["7504","9023","9015"],
     "team": 2,
-    "knife": false,
+    "knife": true,
     "soulEvent": "OnTrigger",
     "mode": 0,
     "count": 1

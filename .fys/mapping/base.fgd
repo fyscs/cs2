@@ -139,6 +139,7 @@
 @BaseClass base(GameEntity) = Targetname 
 [ 
 	targetname(target_source) { sort_priority = 90 } : "Name" : : "The name that other entities refer to this entity by."
+	globalname(string) : "Custom Entity Classname" :  : "自定义实体的Classname, Custom Entity Classname (Required ModSharp/CS2Fixes)"
 ]
 
 
