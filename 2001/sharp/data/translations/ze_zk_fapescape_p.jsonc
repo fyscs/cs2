@@ -32,13 +32,22 @@
     "translation": "*** 传送器在15秒后激活 ***"
   },
   "*** Door opens in 25 seconds ***": {
-    "translation": "*** 门在25秒后打开 ***"
+    "translation": "*** 门将在25秒后打开 ***"
   },
   "*** Hold 30 second for victory! ***": {
-    "translation": "*** 坚持30秒即可获胜! ***"
+    "translation": "*** 守住30秒即可获胜! ***"
   },
   "*** Hold here for 20 seconds ***": {
-    "translation": "*** 在这里坚持20秒 ***"
+    "translation": "*** 在这里坚守20秒 ***"
+  },
+  "*** Boat leaving in 5 seconds ***": {
+    "translation": "*** 船在5秒后离开 ***"
+  },
+  "* Turning music on *": {
+    "translation": "* 打开音乐嗨起来 *"
+  },
+  "*** Door Opening in 20 seconds! ***": {
+    "translation": "*** 门将在20秒后打开 ***"
   },
   "*** Map by Kim and P'a'ss ***": {
     "translation": "*** 地图作者:Kim,P'a'ss地图翻译:墨鸢@Fys ***"
