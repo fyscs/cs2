@@ -200,7 +200,7 @@
     "translation": ">>***防守10秒***<<",
     "blocked": true
   },
-   "***Hold for 5 seconds***": {
+  "***Hold for 5 seconds***": {
     "translation": ">>***防守5秒***<<",
     "blocked": true
   },
