@@ -84,7 +84,7 @@
     "translation": "**门在30秒后关闭**"
   },
   "***Elevator leaving in 7 seconds***": {
-    "translation": "**电梯在7秒后离开**"
+    "translation": "**电梯将在7秒后离开**"
   },
   "*** PLAYER HAS CHOSEN LEVEL 3 EXTREME ***": {
     "translation": "**关卡设置为EX三**"
@@ -139,5 +139,99 @@
   ">> 10 SECONDS LEFT <<": {
     "translation": ">>**还剩10秒**<<",
     "blocked": true
+  },
+  ">> 5 SECONDS LEFT <<": {
+    "translation": ">>**还剩5秒**<<",
+    "blocked": true
+  },
+  "***Defend few seconds***": {
+    "translation": ">>**防守几秒钟**<<"
+  },
+  "***Door opening in 20 seconds***": {
+    "translation": ">>***20秒后开门***<<"
+  },
+  ">> ZOMBIE ABOARD !! YOU FAILED !! <<": {
+    "translation": ">> 僵尸上船了!!你失败了!! <<"
+  },
+  "***Exit Door will open in 20 seconds***": {
+    "translation": ">>**出口的门将在20秒后打开**<<"
+  },
+  "***Exit Door will open in 10 seconds***": {
+    "translation": ">>***出口的门将在10秒后打开***<<"
+  },
+  "***Hold here until we find a way to blow the bridge***": {
+    "translation": ">>***在这里守一会，直到我们找到炸毁桥梁的方法***<<"
+  },
+  "***The train is stuck and wont start***": {
+    "translation": ">>***火车卡住了，无法启动***<<"
+  },
+  "***Take the left path***": {
+    "translation": ">>***走左边的路***<<"
+  },
+  "***Defend until we open the gate***": {
+    "translation": ">>**守到我们打开大门**<<"
+  },
+  "***The door is open***": {
+    "translation": ">>***门是开着的***<<"
+  },
+  "***THE GATES ARE CLOSED***": {
+    "translation": ">>***大门关闭***<<"
+  },
+  "***1 PLAYER HAS TO GO TO PRESS THE BUTTON***": {
+    "translation": ">>***必须有 1 名玩家去按下按钮***<<"
+  },
+  "***Plant the C4 to blow the way***": {
+    "translation": ">>***安放C4炸弹炸掉这条路***<<"
+  },
+  "**Level completed**": {
+    "translation": ">>**关卡已完成**<<"
+  },
+  "***Defend! Something is coming!***": {
+    "translation": ">>***防守！有些东西要来了!***<<"
+  },
+  "***Hold for 30 seconds***": {
+    "translation": ">>***防守30秒***<<"
+  },
+  "***Hold for 15 seconds***": {
+    "translation": ">>***防守15秒***<<",
+    "blocked": true
+  },
+  "***Hold for 10 seconds***": {
+    "translation": ">>***防守10秒***<<",
+    "blocked": true
+  },
+   "***Hold for 5 seconds***": {
+    "translation": ">>***防守5秒***<<",
+    "blocked": true
+  },
+  "***Find a way to open the door of the station***": {
+    "translation": ">>***想办法打开车站的门***<<"
+  },
+  "***We need to blow it up***": {
+    "translation": ">>***我们需要炸毁它***<<"
+  },
+  "***The train is blocking the path***": {
+    "translation": ">>***火车挡住了去路***<<"
+  },
+  "***Plant the c4 on each side of the train by pressing E ***": {
+    "translation": ">>***按E将c4安放在火车的四周***<<"
+  },
+  "***Station Doors will open in 10 seconds***": {
+    "translation": ">>***车站门将在10秒后打开***<<"
+  },
+  "***Station Doors are open***": {
+    "translation": ">>***车站门是敞开的***<<"
+  },
+  "***Make your way to the Gingerbread House!!***": {
+    "translation": ">>***前往姜饼屋***<<"
+  },
+  "***DOOR IS OPEN! GET INSIDE!!***": {
+    "translation": ">>***门是开着的！快进去!!***<<"
+  },
+  ">> PLAYER HAS PICKED UP HEAL <<": {
+    "translation": ">> 一名玩家拾起了治疗神器 <<"
+  },
+  ">> PLAYER HAS PICKED UP GRAVITY <<": {
+    "translation": ">> 一名玩家拾起了重力神器 <<"
   }
 }
