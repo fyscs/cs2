@@ -160,10 +160,10 @@
     "translation": ">>***出口的门将在10秒后打开***<<"
   },
   "***Hold here until we find a way to blow the bridge***": {
-    "translation": ">>***在这里守一会，直到我们找到炸毁桥梁的方法***<<"
+    "translation": ">>***在这里守一会,直到我们找到炸毁桥梁的方法***<<"
   },
   "***The train is stuck and wont start***": {
-    "translation": ">>***火车卡住了，无法启动***<<"
+    "translation": ">>***火车卡住了,无法启动***<<"
   },
   "***Take the left path***": {
     "translation": ">>***走左边的路***<<"
@@ -178,7 +178,7 @@
     "translation": ">>***大门关闭***<<"
   },
   "***1 PLAYER HAS TO GO TO PRESS THE BUTTON***": {
-    "translation": ">>***必须有 1 名玩家去按下按钮***<<"
+    "translation": ">>***必须有1名玩家去按下按钮***<<"
   },
   "***Plant the C4 to blow the way***": {
     "translation": ">>***安放C4炸弹炸掉这条路***<<"
@@ -187,7 +187,7 @@
     "translation": ">>**关卡已完成**<<"
   },
   "***Defend! Something is coming!***": {
-    "translation": ">>***防守！有些东西要来了!***<<"
+    "translation": ">>***防守!有些东西要来了!***<<"
   },
   "***Hold for 30 seconds***": {
     "translation": ">>***防守30秒***<<"
@@ -226,7 +226,7 @@
     "translation": ">>***前往姜饼屋***<<"
   },
   "***DOOR IS OPEN! GET INSIDE!!***": {
-    "translation": ">>***门是开着的！快进去!!***<<"
+    "translation": ">>***门是开着的!快进去!!***<<"
   },
   ">> PLAYER HAS PICKED UP HEAL <<": {
     "translation": ">> 一名玩家拾起了治疗神器 <<"
