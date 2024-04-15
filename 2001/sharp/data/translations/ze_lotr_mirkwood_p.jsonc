@@ -1,0 +1,169 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Thorin: This is our respite, hold them off until the light comes, Sons of Durin!!!!!": {
+    "translation": "索林: 这是我们的喘息之机,等到光明降临,杜林之子!!!!!"
+  },
+  "I Said To Stay On The Path, Mirkwood Is Dangerous": {
+    "translation": "我说要留在路上,米尔克伍德很危险"
+  },
+  "**Level2**": {
+    "translation": "**第二关**"
+  },
+  "Thorin: The rocks are blocking the path, break through!!!": {
+    "translation": "索林: 岩石挡住了去路,突围!!!"
+  },
+  "Thorin: Watch out!!!! The path is covered by those deadly plants, stay on the rocks and logs!!!!": {
+    "translation": "索林: 小心!!!!这条路被那些致命的植物覆盖,停留在岩石和原木上!!!!"
+  },
+  "Thorin The Orcs have vallen back... RUN!!!!": {
+    "translation": "索林: 僵尸追上来了...快跑!!!!"
+  },
+  "Throin: It is open, the path is clear!!! Run!!!!": {
+    "translation": "索林: 路开了!给爷溜!!!"
+  },
+  "15s": {
+    "translation": "15s"
+  },
+  "5s": {
+    "translation": "5s"
+  },
+  "Thorn: Hold The Bridge while Bilbo is clearing the path": {
+    "translation": "索林: 在比尔博清理道路时守住桥"
+  },
+  "Thorin: The path is clear, fall back now!!!!": {
+    "translation": "索林: 路已经很清楚了,现在就退回去!!!!"
+  },
+  "45s": {
+    "translation": "45s"
+  },
+  "30s": {
+    "translation": "30s"
+  },
+  "Throin: Get accross the bridge and defend you fools!!!! The Orcs are behind us!!!!": {
+    "translation": "Throin:过桥守住!开枪!僵尸在我们后面!!!!"
+  },
+  "Thorin: Hold the Bridge, the path ahead is blocked... it will take a moment to clear it...": {
+    "translation": "索林: 守住桥,前方的路被堵住了...清除它需要一些时间..."
+  },
+  "Thorin: Hold Here while we clear the path": {
+    "translation": "索林: 等我们扫清道路时,请留在这里"
+  },
+  "10s": {
+    "translation": "10s"
+  },
+  "Thorin: There are no shortcuts in Mirkwood, stick to the path!!!": {
+    "translation": "索林: 米尔克伍德没有捷径可走,坚持走这条路!!!"
+  },
+  "Thorin: The path ahead is blocked, defend here while we clear it": {
+    "translation": "索林: 前方的路被堵住了,我们清理它时守住这里"
+  },
+  "Thorin: Fall back!!! They orcs are coming!!!!": {
+    "translation": "索林: 退后!!僵尸来了!!!!"
+  },
+  "Thorin: There are Orc archers ahead, watch out for their arrrows!!!!": {
+    "translation": "索林: 前面有僵尸弓箭手,小心他们的弓箭手!!!!"
+  },
+  "Thorin: Watchout for the plants!!! quickly now, the Orcs will be upon us soon!": {
+    "translation": "索林: 小心植物!!僵尸很快就会向我们袭来!"
+  },
+  "Thorin: Look, an Elvish healing pool!!!! heal before the Orcs come": {
+    "translation": "索林: 看!是精灵泉水!!在僵尸到来之前治愈自己"
+  },
+  "Thorin: Looks like a rockslide is blockingthe path, break through!!!!": {
+    "translation": "索林: 好像有山体滑坡挡住了去路,突围!!!!"
+  },
+  "Thorin: What is this place? This looks like the main spider nest!!!": {
+    "translation": "索林: 这是什么地方?看起来像是蜘蛛窝!!!"
+  },
+  "Thorin: Spread out and keep your eyes open": {
+    "translation": "索林:散开,睁大眼睛"
+  },
+  "Thorin: The path ahead is blocked, defend here": {
+    "translation": "索林: 前方的路被堵住了,在这里防守"
+  },
+  "Thorin: Defend Here while we clear the path": {
+    "translation": "索林: 在这里防守,我们清理道路"
+  },
+  "Thorin: Run, the orcs are comming!!!!": {
+    "translation": "索林: 快跑,僵尸来了!!!!"
+  },
+  "Thorin: WE LOST THE PATH!!! WHERE IS THE PATH!!!!": {
+    "translation": "索林:我们迷路了!!路在哪里!!!!"
+  },
+  "Thorin: Stay in the light, try to find the path again, dont get lost!!!!!": {
+    "translation": "索林: 待在光明中,试着重新找到那条路,不要迷路!!!!!"
+  },
+  "Thorin: Watch out for those plants off the path Gandolf warned us about!!!": {
+    "translation": "索林: 甘道夫警告过我们要小心那些路上的植物!!!"
+  }, 
+  "Thorin: What are these webs?!?!?": {
+    "translation": "索林: 这些网是什么?!?!?"
+  },
+  "Thorin: The path is overgrown again, break it down!!!!!": {
+    "translation": "索林: 路上又长满了竹子,把它拆掉!!!!!"
+  },
+  "Thorin: Be sure to watch our backs, the orcs are on our trail!!!!": {
+    "translation": "索林: 一定要注意我们的后背,僵尸正在跟踪我们!!!!"
+  },
+  "Thorin: The path is blocked, defend here until Bilbo has it clear": {
+    "translation": "索林: 路被堵住了,守住这里,直到比尔博把路弄清楚"
+  },
+  "Thorin: It is clear, fall back now!!!!": {
+    "translation": "索林:很清楚,现在退后!!!!"
+  },
+  "Gandalf: This is the forest of Mirkwood.... Be sure to stick to the path...": {
+    "translation": "甘道夫: 这里是米尔克伍德的森林...一定要坚持这条路..."
+  },
+  "Gandalf: There are plants that grow off the path that will kill you!!!!.": {
+    "translation": "甘道夫: 有些植物会从这条路上长出来,会杀死你!!!!."
+  },
+  "Gandalf: Orcs are coming... RUN!!!!!": {
+    "translation": "甘道夫: 僵尸来了...快跑!!!!!"
+  },
+  "Thorin: Cover and defend for Bombar, he is fat and slow!!!": {
+    "translation": "索林: 掩护和防守邦巴,他又胖又慢!!!"
+  },
+  "Thorin: The path is blocked ahead, quickly, clear it!!!": {
+    "translation": "索林: 前方的路被堵住了,快点,清除障碍!!!"
+  },
+  "Thorin: The Path Is Overgrown... We must break our way through before it is too late": {
+    "translation": "索林: 这条路太长了. . . 我们必须清除障碍物, 以免被僵尸抢去当压寨夫人"
+  },
+  "Thorin: What is this place, I see nests and webs everywhere!!!!": {
+    "translation": "索林: 这是什么地方,我看到到处都是巢穴和蛛网!!!!"
+  },
+  "Thorin: The Spiders are gone, fall back now!!!!!": {
+    "translation": "索林: 蜘蛛走了,现在退回去!!!!!"
+  },
+  "20s": {
+    "translation": "20s"
+  },
+  "Thorin: Something Has Knocked Over These Trees, Quickly Now, Climb Over Them!": {
+    "translation": "索林: 有什么东西撞倒了这些树,快点,爬过去!"
+  },
+  "Thorin: The path ahead is blocked, defend the rocks until it is cleared": {
+    "translation": "索林: 前边路被挡住了, 守住岩石方向僵尸"
+  },
+  "Thorin: The sides of the bridges are cracking, dont step on them, they can break!!!!": {
+    "translation": "索林：桥的两侧开裂了,不要踩到它们,它们可能会破裂!!!!"
+  },
+  "A LOTR Map By hotEvercLear": {
+    "translation": "地图作者:hotEvercLear 地图汉化:墨鸢@Fys"
+  },
+  "Thorin: Curse this forest... the path is overgrown again.. quckly, break it down before the Orcs return...": {
+    "translation": "索林: 路上又长满了粗壮的竹子...搞快点,在僵尸到来之前清理干净..."
+  },
+  "Thorin: Fall Back!!!! Get Accross The Bridge!!!!": {
+    "translation": "索林: 撤退!穿过这座桥!守住!!!"
+  }
+}
