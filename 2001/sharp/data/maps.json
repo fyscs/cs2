@@ -606,7 +606,7 @@
     "price": 600,
     "cooldown": 60,
     "nomination": true,
-    "admin": false
+    "admin": true
   },
   "ze_sandstorm_cs2": {
     "certainTimes": [-1],
