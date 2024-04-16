@@ -14,7 +14,7 @@
     "translation": ">> 已选择关卡为: 峡谷 <<"
   },
   ">> PLAYER HAS CHOSEN: TV NORMAL <<": {
-    "translation": ">> 已选择关卡为: 电视 <<"
+    "translation": ">> 已选择关卡为: 电视机 <<"
   },
   ">> PLAYER HAS CHOSEN: HEAVEN NORMAL <<": {
     "translation": ">> 已选择关卡为: 天堂 <<"
@@ -71,7 +71,7 @@
     "translation": ">> 选择关卡: 最终之战 <<"
   },
   ">> Map by Taskuvaras <<": {
-    "translation": ">> 地图作者:Taskuvaras地图翻译:元帅@fys <<"
+    "translation": ">> 地图作者:Taskuvaras 地图翻译:元帅@fys <<"
   },
   ">> Finished by Moltard <<": {
     "translation": ">> 由Moltard完成 地图移植:海苔 <<"
@@ -92,10 +92,10 @@
     "translation": ">> GROKE已被击败 <<"
   },
   ">> ESCAPE BY THE WEB <<": {
-    "translation": ">> 快上蜘蛛网 <<"
+    "translation": ">> 快上蜘蛛网!! <<"
   },
   ">> THE BUILDING WILL BLOW UP <<": {
-    "translation": ">> 小心,会爆炸 <<"
+    "translation": ">> 小心,会爆炸!! <<"
   },
   ">> THE TV HEART IS DESTROYED <<": {
     "translation": ">> 电视的核心被我们破坏了 <<"
@@ -113,7 +113,7 @@
     "translation": ">> 继续防守 <<"
   },
   ">> LET THE ANGELS ESCAPE FIRST <<": {
-    "translation": ">> 让天使先跑 <<"
+    "translation": ">> 让天使们先逃 <<"
   },
   ">> FALLEN ANGEL HAS BEEN DEFEATED !!! <<": {
     "translation": ">> 堕落的天使已被击败 !!! <<"
@@ -122,6 +122,267 @@
     "translation": ">> 成功击败恶龙 !!! <<"
   },
   ">> SATAN IS FINALLY DEFEATED !!! <<": {
-    "translation": ">> 撒旦被我们打败了,真的被打败了吗...... <<"
+    "translation": ">> 撒旦被我们打败了,但它真的被打败了吗..... <<"
+  },
+  ">> PLAYER HAS PICKED UP FIRE <<": {
+    "translation": ">> 玩家捡起了神器:火 <<"
+  },
+  ">> PLAYER HAS PICKED UP HEAL <<": {
+    "translation": ">> 玩家捡起了神器:奶 <<"
+  },
+  ">> PLAYER HAS PICKED UP EARTH <<": {
+    "translation": ">> 玩家捡起了神器:墙 <<"
+  },
+  ">> PLAYER HAS PICKED UP ICE <<": {
+    "translation": ">> 玩家捡起了神器:冰 <<"
+  },
+  ">> PLAYER HAS PICKED UP WIND <<": {
+    "translation": ">> 玩家捡起了神器:风 <<"
+  },
+  ">> PLAYER HAS PICKED UP GRAVITY <<": {
+    "translation": ">> 玩家捡起了神器:凝 <<"
+  },
+  ">> THE LAST ANGEL IS OUT <<": {
+    "translation": ">> 最后的天使登场了 <<"
+  },
+  "*** HEAVEN GATES OPENING IN 25 SECONDS ***": {
+    "translation": "*** 天堂之门将在25秒后开启 ***"
+  },
+  "*** GATE OPENING IN 25 SECONDS ***": {
+    "translation": "*** 门将在25秒后打开 ***"
+  },
+  ">> LEVEL COMPLETED !!! <<": {
+    "translation": ">> 关卡完成!!! <<"
+  },
+  ">> FALL BACK !!! <<": {
+    "translation": ">> 撤退!!! <<"
+  },
+  ">> THEY WILL TELEPORT US OUT <<": {
+    "translation": ">> 它们会把我们传送出去 <<"
+  },
+  ">> THE ANGELS GOT THE RESCUE PLANK BACK <<": {
+    "translation": ">> 天使们已经为我们铺上了逃生板 <<"
+  },
+  ">> ZOMBIE ABOARD !! YOU FAILED !! <<": {
+    "translation": ">> 僵尸上来了!!你失败了!! <<"
+  },
+  "*** BUTTERFLY LEAVING IN 15 SECONDS ***": {
+    "translation": "*** 蝴蝶将在15秒后离开 ***"
+  },
+  "*** CLOUD LEAVING IN 20 SECONDS ***": {
+    "translation": "*** 云将在20秒后离开 ***"
+  },
+  ">> OH NO!! ITS GOD <<": {
+    "translation": ">> 糟糕的家伙!!我们遇到了上帝!! <<"
+  },
+  "*** DOORS OPENING IN 30 SECONDS ***": {
+    "translation": "*** 30秒后门开,坚持住!! ***"
+  },
+  ">> OH NO!! ITS FAT SPIDER <<": {
+    "translation": ">> 我草,一只野生的胖蜘蛛 !!! <<"
+  },
+  "*** LEAF LEAVING IN 20 SECONDS ***": {
+    "translation": "*** 叶子将在20秒后离开 ***"
+  },
+  ">> LEVEL COMPLETED!! <<": {
+    "translation": ">> 关卡已完成!! <<"
+  },
+  "*** WEB LEAVING IN 20 SECONDS ***": {
+    "translation": "*** 蜘蛛网将在20秒后离开 ***"
+  },
+  ">> BREAK THE HEART OF THE TV <<": {
+    "translation": ">> 我们必须破坏电视的核心! <<"
+  },
+  "*** HOLD FOR 30 SECONDS ***": {
+    "translation": "*** 坚守30秒,我相信我们能行! ***"
+  },
+  "*** FALL BACK !!! ***": {
+    "translation": "*** 撤退!!! ***"
+  },
+  "*** ELEVATOR LEAVING IN 10 SECONDS ***": {
+    "translation": "*** 电梯将在10秒后离开 ***"
+  },
+  "*** ELEVATOR OPENING IN 20 SECONDS ***": {
+    "translation": "*** 电梯将在20秒后开启 ***"
+  },
+  "*** FAN STOPPING IN 30 SECONDS ***": {
+    "translation": "*** 风扇将在30秒内停止 ***"
+  },
+  "*** FALL BACK ***": {
+    "translation": "*** 撤退 ***"
+  },
+  ">> TV HEART IS COLLAPSING KEEP SHOOTING !!!!!! <<": {
+    "translation": ">> 电视的核心正在崩溃,继续进行射击!!!!!! <<"
+  },
+  "*** 5 MORE SECONDS ***": {
+    "translation": "*** 还有5秒钟 ***"
+  },
+  "*** RUUUN! ***": {
+    "translation": "*** 润! ***"
+  },
+  ">> ITS THE GROKE SHOOT IT !!!!  <<": {
+    "translation": ">> 是GROKE,向它射击!!!!  <<"
+  },
+  "*** DOOR IS OPEN! RUUUN! ***": {
+    "translation": "*** 门开了!润!!! ***"
+  },
+  ">> PLAYER HAS PICKED UP 6 MINES <<": {
+    "translation": ">> 有玩家捡了6个地雷 <<"
+  },
+  ">> ALL 6 MINES USED <<": {
+    "translation": ">> 6枚地雷已全部使用 <<"
+  },
+  "*** BUTTERFLY LEAVING IN 30 SECONDS ***": {
+    "translation": "*** 蝴蝶30秒后离开,抓紧! ***"
+  },
+  ">> TELEPORTING ZOMBIES <<": {
+    "translation": ">> 僵尸传送了! <<"
+  },
+  ">> IS THIS SATAN WORK.... <<": {
+    "translation": ">> 这是撒旦的作品吗.... <<"
+  },
+  ">> WE HAVE TO ESCAPE THIS PLACE <<": {
+    "translation": ">> 我们必须逃离这个地方! <<"
+  },
+  ">> CLOUD LEAVING IN 40 SECONDS <<": {
+    "translation": ">> 云将在40秒后离开 <<"
+  },
+  ">> FALL BACK <<": {
+    "translation": ">> 撤退 <<"
+  },
+  "*** BUTTERFLY IS DEAD !!!! DEFEND LONGER !!!! ***": {
+    "translation": "*** 蝴蝶死了!!!但我们需要防守更长的时间 !!!! ***"
+  },
+  ">> IT'S SATAN WITH THE ANGELS !!! <<": {
+    "translation": ">> 是撒旦和天使 !!! <<"
+  },
+  ">> THE GRID IS CLOSED <<": {
+    "translation": ">> 栅栏要关闭了 <<"
+  },
+  ">> A CLOUD IS COMING <<": {
+    "translation": ">> 一朵云要来了 <<"
+  },
+  ">> DEFEND LONGER <<": {
+    "translation": ">> 继续防守,坚持住! <<"
+  },
+  ">> HOLD ZOMBIES UNTIL THE BUTTERFLY COME <<": {
+    "translation": ">> 守住这些僵尸,直到蝴蝶的出现! <<"
+  },
+  ">> ... HE IS GONE <<": {
+    "translation": ">> ... 他走了 <<"
+  },
+  ">> CLOUD LEAVING IN 10 SECONDS <<": {
+    "translation": ">> 云将在10秒后离开 <<"
+  },
+  "*** GATE OPENING IN 30 SECONDS ***": {
+    "translation": "*** 30秒后闸门开启 ***"
+  },
+  ">> OH NO!! ITS FALLEN ANGEL <<": {
+    "translation": ">> 奶奶滴,是堕落的天使! <<"
+  },
+  ">> PLAYER HAS PICKED UP UNLIMITED AMMO <<": {
+    "translation": ">> 玩家获得了神器:射 <<"
+  },
+  ">> We finally did it <<": {
+    "translation": ">> 我们终于做到了 <<"
+  },
+  ">> But the world won't be the same anymore... <<": {
+    "translation": ">> 但是这个世界不会再和从前一样了... <<"
+  },
+  ">> We have to go back where everything started <<": {
+    "translation": ">> 我们必须回到一切开始的地方 <<"
+  },
+  ">> Let's hope nothing bad happened <<": {
+    "translation": ">> 让我们希望没有什么糟糕的事情发生吧... <<"
+  },
+  ">> Back then we left our village without any defense <<": {
+    "translation": ">> 当时我们没有做任何防御就离开了我们的村庄 <<"
+  },
+  ">> We are getting closer to our destination <<": {
+    "translation": ">> 我们离目的地越来越近了 <<"
+  },
+  "*** WHERE DID SATAN GO... ***": {
+    "translation": "*** 撒旦去哪里了... ***"
+  },
+  "*** THE DRAGON IS BACK FROM HELL !!! ***": {
+    "translation": "*** 龙从地狱回来了,说实话它可真难缠 !!! ***"
+  },
+  ">> RESCUE BUTTERFLY LEAVING IN 20 SECONDS <<": {
+    "translation": ">> 注意,救援蝴蝶将在20秒后离开 <<"
+  },
+  ">> BUTTERFLY IS HERE !!! <<": {
+    "translation": ">> 蝴蝶在这里 !!! <<"
+  },
+  "*** .... WHAT IS HAPPENING ?? ***": {
+    "translation": "*** .... 发生什么事了 ?? ***"
+  },
+  "*** GOOD JOB TEAM !!! ***": {
+    "translation": "*** 干得不错,兄弟们 !!! ***"
+  },
+  "*** NADES DO MORE DAMAGE !!! ***": {
+    "translation": "*** 快丢手雷,你的手雷造成的伤害更大 !!! ***"
+  },
+  "*** WE HAVE TO KILL HIM AS FAST AS POSSIBLE ***": {
+    "translation": "*** 我们必须尽快干掉他 ***"
+  },
+  "***WE WERE TOO SLOW.... ***": {
+    "translation": "***我们太慢了.... ***"
+  },
+  ">> IT'S SATAN AGAIN !!! <<": {
+    "translation": ">> 又是撒旦 ! 那就让他尝尝我们的厉害 ! <<"
+  },
+  ">> SHOOT HIM WE NEED TO SAVE THE ANGELS !!! <<": {
+    "translation": ">> 朝他射击,我们需要拯救天使 !!! <<"
+  },
+  ">> NADE DOES MORE DAMAGE <<": {
+    "translation": ">> 手雷造成的伤害会更大,我想你应该懂的~ <<"
+  },
+  ">> SATAN IS HURT !!! <<": {
+    "translation": ">> 撒旦受伤了 !!! <<"
+  },
+  ">> ESCAPE VIA THE PORTAL !!! <<": {
+    "translation": ">> 快,从传送门逃走 !!! <<"
+  },
+  ">> DONT LET ZOMBIES GET IN !!! <<": {
+    "translation": ">> 千万别让僵尸进来了,开火 !!! <<"
+  },
+  ">> PORTAL CLOSING IN 10 SECONDS !!! <<": {
+    "translation": ">> 抓紧,传送门将在10秒后关闭 !!! <<"
+  },
+  ">> PORTAL CLOSING IN 5 SECONDS !!! <<": {
+    "translation": ">> 注意,传送门将在5秒后关闭 !!! <<"
+  },
+  ">> PORTAL IS CLOSING !!! <<": {
+    "translation": ">> 传送门正在关闭 !!! <<"
+  },
+  ">> ZOMBIE CLOUD HAS BEEN PICKED UP <<": {
+    "translation": ">> 糟糕 ! 僵尸获得了雷云菇 ! 小心 ! <<"
+  },
+  ">> ZOMBIE SHROOM HAS BEEN PICKED UP <<": {
+    "translation": ">> 糟糕 ! 僵尸获得了毒蘑菇 ! 小心 ! <<"
+  },
+  ">> PLAYER HAS PICKED UP WATER <<": {
+    "translation": ">> 玩家捡起了神器:水 <<"
+  },
+  ">> We are starting our descent <<": {
+    "translation": ">> 我们开始下落了,小心 ! <<"
+  },
+  ">> This is really bad... <<": {
+    "translation": ">> 这真的很糟糕... <<"
+  },
+  ">> Satan's power didn't even spare our old village ! <<": {
+    "translation": ">> 撒旦的力量甚至没有放过我们古老的蘑菇村庄 ! <<"
+  },
+  ">> We have to save everyone ! <<": {
+    "translation": ">> 我们必须拯救所有人 ! <<"
+  },
+  ">> Play ShroomForest3 to continue the adventure <<": {
+    "translation": ">> 玩蘑菇庄园3继续新一轮的冒险吧 ! <<"
+  },
+  ">> You beat the map ! <<": {
+    "translation": ">> 你征服了这张地图 ! <<"
+  },
+  ">> Congratulations ! <<": {
+    "translation": ">> 恭喜 ! <<"
   }
 }
