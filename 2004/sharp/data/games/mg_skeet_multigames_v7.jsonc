@@ -93,9 +93,9 @@
   },
   {
     "id": "2:25908",
-    "cd": 280,
+    "cd": 240,
     "mode": 2,
-    "name": "1v1刀战",
+    "name": "刀战",
     "class": "func_button",
     "event": "OnPressed"
   }
