@@ -116,7 +116,6 @@
     "triggerId": ["7571","11181"],
     "team": 3,
     "knife": true,
-    "soulEvent": "OnTrigger",
     "mode": 4,
     "maxUses": 3,
     "cooldown": 60,
@@ -130,7 +129,6 @@
     "triggerId": ["11111","11172"],
     "team": 3,
     "knife": true,
-    "soulEvent": "OnTrigger",
     "mode": 4,
     "maxUses": 2,
     "cooldown": 60,
@@ -144,7 +142,6 @@
     "triggerId": ["7465","9019","9013"],
     "team": 2,
     "knife": true,
-    "soulEvent": "OnTrigger",
     "mode": 0,
     "count": 1
   },
@@ -155,7 +152,6 @@
     "triggerId": ["7434","9007", "9011"],
     "team": 2,
     "knife": true,
-    "soulEvent": "OnTrigger",
     "mode": 0,
     "count": 1
   },
@@ -166,7 +162,6 @@
     "triggerId": ["7532","9027","9017"],
     "team": 2,
     "knife": true,
-    "soulEvent": "OnTrigger",
     "mode": 0,
     "count": 1
   },
@@ -177,7 +172,6 @@
     "triggerId": ["7504","9023","9015"],
     "team": 2,
     "knife": true,
-    "soulEvent": "OnTrigger",
     "mode": 0,
     "count": 1
   }
