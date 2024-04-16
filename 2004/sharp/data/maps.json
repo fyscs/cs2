@@ -109,7 +109,7 @@
     "price": 300,
     "cooldown": 8,
     "nomination": false,
-    "admin": false
+    "admin": true
   },
   "mg_ski_mountain_v2_csgo": {
     "certainTimes": [-1],
