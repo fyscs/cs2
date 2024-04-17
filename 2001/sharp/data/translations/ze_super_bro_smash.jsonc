@@ -1,0 +1,92 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "> Both Boat will left in 40 sec. <": {
+    "translation": "> 两艘船将在40秒内离开. <"
+  },
+  "> Teleport afk player in 10 sec. <": {
+    "translation": "> 在10秒后进行反挂机传送. <"
+  },
+  "> Assistance is on the way,Just fucking defend!! <": {
+    "translation": "> 援助在路上,给我tm的防守!! <"
+  },
+  "> The rescue ship is on the way. <": {
+    "translation": "> 救援船正在路上. <"
+  },
+  "> Iron Fence will break when ship arrive! <": {
+    "translation": "> 当船到达时,铁栅栏会破裂! <"
+  },
+  "> Warning! Nuke incoming..<": {
+    "translation": "> 警告!核弹即将抵达..<"
+  },
+  "> 5 <": {
+    "translation": "> 5 <"
+  },
+  "> 4 <": {
+    "translation": "> 4 <",
+    "blocked": true
+  },
+  "> 3 <": {
+    "translation": "> 3 <",
+    "blocked": true
+  },
+  "> 2 <": {
+    "translation": "> 2 <",
+    "blocked": true
+  },
+  "> 1 <": {
+    "translation": "> 1 <",
+    "blocked": true
+  },
+  "*** Metal gate open in 10 sec ***": {
+    "translation": "*** 金属门在10秒后打开 ***"
+  },
+  "> Helicopter leave in 7 sec. <": {
+    "translation": "> 直升机在7秒后离开. <"
+  },
+  "> Boat leave in 15 sec. <": {
+    "translation": "> 船在15秒后离开. <"
+  },
+  "< ze_Super_Smash_Bros > Alpha Ver 1.2": {
+    "translation": "< ze_Super_Mash_Bros> Alpha 1.2版本 "
+  },
+  "< Map by @Seth >": {
+    "translation": "< 地图作者:@Seth 地图汉化:墨鸢@Fys >"
+  },
+  "> Selecting Game Mode... <": {
+    "translation": "> 选择游戏模式... <"
+  },
+  "< Current Mode: ALL STAR BATTLE >": {
+    "translation": "< 当前模式:全明星大乱斗 >"
+  },
+  "< 当前模式: 全明星大乱斗 >": {
+    "translation": "< 当前模式:全明星大乱斗 >"
+  },
+  "< Current Mode: Clone >": {
+    "translation": "< 当前模式:克隆大作战 >"
+  },
+  "< 当前模式: 克隆大作战 >": {
+    "translation": "< 当前模式:克隆大作战 >"
+  },
+  "S": {
+    "translation": "S"
+  },
+  "A": {
+    "translation": "A"
+  },
+  "W": {
+    "translation": "W"
+  },
+  "D": {
+    "translation": "D"
+  }
+}
