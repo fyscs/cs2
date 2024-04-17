@@ -136,7 +136,7 @@
     "buttonClass": "func_button",
     "hammerId": "1257",
     "triggerid": ["1259"],
-    "team": "2",
+    "team": 2,
     "knife": true,
     "cooldown": 20,
     "mode": 2,
