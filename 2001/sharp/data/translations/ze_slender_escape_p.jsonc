@@ -1,0 +1,522 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** SLENDERZOMBIE -FIRE- WOKE UP **": {
+    "translation": "** 面条人僵尸 -火- 苏醒 **"
+  },
+  "** SPIDERZOMBIE INCOMING **": {
+    "translation": "** 蜘蛛僵尸已被拾取 **"
+  },
+  "** BARRELBOSS INCOMING **": {
+    "translation": "** 油桶王来袭 **"
+  },
+  "** THE GENERATOR HAS ENOUGH FUEL! **": {
+    "translation": "** 发电机有足够的燃料了! **"
+  },
+  "** GET ALL BACK TO THE BASE **": {
+    "translation": "** 所有人赶快返回基地! **"
+  },
+  "** NUKE in 45 SECONDS **": {
+    "translation": "** 核弹45秒内爆炸 **"
+  },
+  "** NUKE in 35 SECONDS **": {
+    "translation": "** 核弹35秒内爆炸 **",
+    "blocked": true
+  },
+  "** NUKE in 25 SECONDS **": {
+    "translation": "** 核弹25秒内爆炸 **",
+    "blocked": true
+  },
+  "** NUKE in 15 SECONDS **": {
+    "translation": "** 核弹15秒内爆炸 **",
+    "blocked": true
+  },
+  "** NUKE in 5 SECONDS **": {
+    "translation": "** 核弹5秒内爆炸 **",
+    "blocked": true
+  },
+  "** FUEL 20 % **": {
+    "translation": "** 燃料 五分之一 **"
+  },
+  "** FUEL 40 % **": {
+    "translation": "** 燃料 五分之二 **"
+  },
+  "** FUEL 60 % **": {
+    "translation": "** 燃料 五分之三 **"
+  },
+  "** FUEL 80 % **": {
+    "translation": "** 燃料 五分之四 **"
+  },
+  "** FUEL 100 % **": {
+    "translation": "** 燃料已满 **"
+  },
+  "** ENOUGH FUEL FOR POWERING THE FIRST GUARDDOG! **": {
+    "translation": "** 有足够的燃料来启动第一只守卫狗 **"
+  },
+  "** ENOUGH FUEL FOR POWERING THE SECOND GUARDDOG! **": {
+    "translation": "** 有足够的燃料来启动第二只守卫狗 **"
+  },
+  "** YOU HAVE FAILED - ZOMBIES DESTROYED THE GENERATOR **": {
+    "translation": "** 你失败了,僵尸摧毁了发电机 **"
+  },
+  "** A fuel can has been picked up **": {
+    "translation": "** 一罐燃料已被拾取 **"
+  },
+  "** SLENDERZOMBIE INCOMING **": {
+    "translation": "** 僵尸面条人来袭 **"
+  },
+  "** [STORY] Good luck and make sure the infected prisoners (aka zombies) dont leave the prison! **": {
+    "translation": "** [故事] 祝你好运, 并确保受到感染者(又名Zombie)无法离开监狱! **"
+  },
+  "** [STORY] We will have to follow yellow lights that slenderman made for us to escape the prison **": {
+    "translation": "** [故事]我们将不得不沿着倾斜的黄灯前进 **"
+  },
+  "** [STORY] The old prison lies under the big forest of slender world **": {
+    "translation": "** [故事] 这个老旧的监狱藏在巨大的森林下面 **"
+  },
+  "** [STORY] We have met a nice guy in prison called slenderman - he wants to help us escape the prison! **": {
+    "translation": "** [故事] 我们在监狱碰到一个叫面条人的好人 - 他想帮我们从这个监狱逃出去! **"
+  },
+  "** [STORY] STAGE 1 - PRISON **": {
+    "translation": "** [故事] 第一关 - 监狱 **"
+  },
+  "** [STORY] We have to collect some items if we want to survive in slender world **": {
+    "translation": "** [故事] 如果我们想在细长世界生存下去, 我们必须收集一些物品 **"
+  },
+  "** [STORY] We have succesful escaped the prison and after a few days we and slenderman have reached the school **": {
+    "translation": "** [故事] 我们已经成功逃离了监狱,再过几天我和面条人到达学校 **"
+  },
+  "** [STORY] STAGE 2 - SCHOOL **": {
+    "translation": "** [故事] 第二关 - 学校 **"
+  },
+  "** DEFEND THIS BASE WHILE SOME GET FUEL CANS IN THE FOREST **": {
+    "translation": "** 保护基地! 同时去森林里寻找燃料罐 **"
+  },
+  "** [STORY] Oh and did i tell you that slenderman has 3 brothers who like to play with fire?! **": {
+    "translation": "** [故事] 我告诉过你面条人有三兄弟很喜欢玩火吗?! **"
+  },
+  "** [STORY] After the generator has started we can continue our mission to find and kill slenderman! **": {
+    "translation": "** [故事] 在发电机运行之后, 我们可以继续我们的任务寻找并且杀死面条人! **"
+  },
+  "** [STORY] If we want to survive this forest we need to power the main generator **": {
+    "translation": "** [故事] 如果我们想在这片森林中生存, 我们需要给重要的发电机供电 **"
+  },
+  "** [STORY] After the betrayal of slenderman we were left alone in the big forest with only an old generator **": {
+    "translation": "** [故事] 在面条人背叛了我们之后,我们和一台老旧的发电机被留在了森林 **"
+  },
+  "** [STORY] STAGE 3 - FOREST **": {
+    "translation": "** [故事] 第三关 - 森林 **"
+  },
+  "** [STORY] Good luck hunting him down once and for all!! **": {
+    "translation": "** [故事] 运气不错的是只要杀了他一次就是永远 **"
+  },
+  "** [STORY] When the bombs are planted we will pay slenderman a visit and kill him **": {
+    "translation": "** [故事] 当炸弹埋下后, 我们将访问面条人并且杀死他 **"
+  },
+  "** [STORY] To ensure we exterminate slenderman we will plants some bombs in the basements **": {
+    "translation": "** [故事] 为了确保能杀死面条人,我们将炸弹埋在地下室 **"
+  },
+  "** [STORY] After a few days of wandering we finally arrived at slender mansion **": {
+    "translation": "** [故事] 经过几天的漫游, 我们终于到达了面条人的豪宅 **"
+  },
+  "** [STORY] STAGE 4 - MANSION **": {
+    "translation": "** [故事] 第四关 - 豪宅 **"
+  },
+  "** [INFO] 3 WINS NEEDED FOR FINAL MADNESS MODE **": {
+    "translation": "** [提示]赢三场开启最后的疯狂模式 **"
+  },
+  "** [SURVIVAL] ROUND 1 **": {
+    "translation": "** [生存]第一轮 **"
+  },
+  "** [INFO] 2 WINS NEEDED FOR FINAL MADNESS MODE **": {
+    "translation": "** [提示]赢两场开启疯狂模式 **"
+  },
+  "** [SURVIVAL] ROUND 2 **": {
+    "translation": "**  [生存]第二轮 **"
+  },
+  "** [INFO] 1 MORE WIN NEEDED FOR FINAL MADNESS MODE **": {
+    "translation": "** [提示]再赢一场开启疯狂模式 **"
+  },
+  "** [SURVIVAL] ROUND 3 **": {
+    "translation": "**  [生存]第三轮 **"
+  },
+  "** FINAL MADNESS MODE TRY 1/3 **": {
+    "translation": "** 最终疯狂模式第一次尝试 **"
+  },
+  "** FINAL MADNESS MODE TRY 2/3 **": {
+    "translation": "** 最终疯狂模式第二次尝试 **"
+  },
+  "** IF YOU FAIL THIS ROUND > RETURN TO FUN 3 MODE **": {
+    "translation": "** 如果这一轮失败了你将返回娱乐模式第三轮 **"
+  },
+  "** FINAL MADNESS MODE TRY 3/3 **": {
+    "translation": "** 最终疯狂模式第三次尝试 **"
+  },
+  "** [MAP] FOREST **": {
+    "translation": "** [地图]森林 **"
+  },
+  "** [MODE] SLENDERMAN **": {
+    "translation": "** [模式]瘦长鬼影 **"
+  },
+  "** 30 Seconds left until slenderman RAPE! **": {
+    "translation": "** 还剩30秒 **"
+  },
+  "** Collect all 8 Pages **": {
+    "translation": "** 找到八张纸条 **"
+  },
+  "** [ZMITEM] SLENDERZOMBIES **": {
+    "translation": "** [僵尸物品]僵尸面条人 **"
+  },
+  "** [ITEMS] Lantern - Glowstick - Flashlight **": {
+    "translation": "** [物品]灯笼-荧光棒-手电筒 **"
+  },
+  "** [MAP] PRISON **": {
+    "translation": "** [地图]监狱 **"
+  },
+  "** [MODE] BARRELMODE **": {
+    "translation": "** [模式]油桶王 **"
+  },
+  "** BARRELS BARRELS EVERYWHERE! **": {
+    "translation": "** 每个地方都是桶! **"
+  },
+  "** NUKE in 30 seconds **": {
+    "translation": "** 还剩30秒核爆 **"
+  },
+  "** [ZMITEM] BARRELBOSS **": {
+    "translation": "** [僵尸物品]油桶王 **"
+  },
+  "** [ITEMS] BARRELS ! **": {
+    "translation": "** [物品]油桶 **"
+  },
+  "** NUKE in 60 seconds **": {
+    "translation": "** 60秒后核爆 **",
+    "blocked": true
+  },
+  "** NUKE in 90 seconds **": {
+    "translation": "** 90秒后核爆 **",
+    "blocked": true
+  },
+  "** NUKE in 120 seconds **": {
+    "translation": "** 120秒后核爆 **",
+    "blocked": true
+  },
+  "** NUKE in 150 seconds **": {
+    "translation": "** 150秒后核爆 **",
+    "blocked": true
+  },
+  "** NUKE in 180 seconds **": {
+    "translation": "** 180秒后核爆 **"
+  },
+  "** [MAP] SCHOOL **": {
+    "translation": "** [地图]学校 **"
+  },
+  "** [MODE] MADNESS! **": {
+    "translation": "** [模式]疯狂! **"
+  },
+  "** [ITEMS] Lantern - Glowstick - Monkey BOMB **": {
+    "translation": "** [物品]灯笼-荧光棒-猴子炸弹 **"
+  },
+  "** [ZMITEM] SLENDERFIREZOMBIES! **": {
+    "translation": "** [僵尸物品]僵尸面条人 **"
+  },
+  "** Pages 1/8 **": {
+    "translation": "** 第一张纸条! **"
+  },
+  "** Pages 2/8 **": {
+    "translation": "** 第二张纸条! **"
+  },
+  "** Pages 3/8 **": {
+    "translation": "** 第三张纸条! **"
+  },
+  "** Pages 4/8 **": {
+    "translation": "** 第四张纸条! **"
+  },
+  "** Pages 5/8 **": {
+    "translation": "** 第五张纸条! **"
+  },
+  "** Pages 6/8 **": {
+    "translation": "** 第六张纸条! **"
+  },
+  "** Pages 7/8 **": {
+    "translation": "** 第七张纸条! **"
+  },
+  "** Pages 8/8 **": {
+    "translation": "** 第八张纸条! **"
+  },
+  "** All pages have been collected ... **": {
+    "translation": "** 所有纸条已被找到 **"
+  },
+  "** ... Slenderman lost his powers ... **": {
+    "translation": "** 面条人失去了他的力量**"
+  },
+  "** ... Use his weakness to destroy the zombies!! **": {
+    "translation": "** 尽情的刷僵尸吧!! **"
+  },
+  "** [ADMIN] DIFFICULTY CHANGED TO SURVIVAL 1 **": {
+    "translation": "** [ADMIN]生存难度改为 一 **"
+  },
+  "** [ADMIN] DIFFICULTY CHANGED TO SURVIVAL 2 **": {
+    "translation": "** [ADMIN]生存难度改为 二 **"
+  },
+  "** Congratulations - you won SURVIVAL 1 **": {
+    "translation": "** 恭喜你-你赢了第一轮 **"
+  },
+  "** Congratulations - you won SURVIVAL 2 **": {
+    "translation": "** 恭喜你-你赢了第二轮 **"
+  },
+  "** Congratulations - you won SURVIVAL 3 **": {
+    "translation": "** 恭喜你-你赢了第三轮 **"
+  },
+  "** There is a error in the level system. **": {
+    "translation": "** 水平系统中有一个错误 **"
+  },
+  "** Congratulations - you won STAGE 2 **": {
+    "translation": "** 祝贺你 - 你赢了第二关 **"
+  },
+  "** Congratulations - you won STAGE 1 **": {
+    "translation": "** 祝贺你 - 你赢了第一关 **"
+  },
+  "** Congratulations - you won STAGE 3 **": {
+    "translation": "** 祝贺你 - 你赢了第三关 **"
+  },
+  "** You have failed - NO TIME LEFT **": {
+    "translation": "** 时间到, 你失败了 **"
+  },
+  "** Cover 30 seconds **": {
+    "translation": "** 掩护30秒 **"
+  },
+  "** Prison door will open in 5 seconds **": {
+    "translation": "** 监狱大门将在5秒后开启 **"
+  },
+  "** GO LEFT **": {
+    "translation": "** 向左走 **"
+  },
+  "** Cover 30 seconds until the gate opens **": {
+    "translation": "** 掩护30秒直到大门打开 **"
+  },
+  "** Cover 5 more seconds **": {
+    "translation": "** 掩护5秒 **"
+  },
+  "** Go UP the ladder!! **": {
+    "translation": "** 爬梯子!! **"
+  },
+  "** 30 seconds left until final escape!! **": {
+    "translation": "** 离最后逃离还有30秒!! **",
+    "blocked": true
+  },
+  "** 20 seconds left until final escape!! **": {
+    "translation": "** 离最后逃离还有20秒!! **",
+    "blocked": true
+  },
+  "** 10 seconds left until final escape!! **": {
+    "translation": "** 离最后逃离还有10秒!! **",
+    "blocked": true
+  },
+  "** 40 seconds left until final escape!! **": {
+    "translation": "** 离最后逃离还有40秒!! **",
+    "blocked": true
+  },
+  "** 50 seconds left until final escape!! **": {
+    "translation": "** 离最后逃离还有50秒!! **"
+  },
+  "** 5 seconds left until final escape!! **": {
+    "translation": "** 离最后逃离还有5秒!! **",
+    "blocked": true
+  },
+  "** Cover 20 seconds **": {
+    "translation": "** 掩护20秒 **"
+  },
+  "** Cover 5 seconds **": {
+    "translation": "** 掩护5秒 **",
+    "blocked": true
+  },
+  "** SURVIVE **": {
+    "translation": "** 生存下来 **"
+  },
+  "** INVADERS MUST DIE !! **": {
+    "translation": "** 入侵者必须死 **"
+  },
+  "** Cover 25 seconds **": {
+    "translation": "** 掩护25秒 **"
+  },
+  "** This barricade is a bit stronger, we planted a C4! **": {
+    "translation": "** 继续防守!我们需要安放一个C4来炸掉这些障碍!**"
+  },
+  "** OK WE PLANTED THE BOMB - KEEP ZOMBIES AWAY FROM THE BOMB FOR 30 SECS **": {
+    "translation": "** 我们埋好炸弹了, 别让僵尸靠近炸弹30秒 **"
+  },
+  "** GO BACK TO THE MAIN HALL **": {
+    "translation": "** 返回大厅 **"
+  },
+  "** 5 SECONDS LEFT **": {
+    "translation": "** 还剩5秒 **"
+  },
+  "** KEEP DEFENDING **": {
+    "translation": "** 继续防守! **"
+  },
+  "** DOOR IS OPEN - GO PLANT THE BOMB IN THE TOILETS **": {
+    "translation": "** 大门已打开,去马桶下埋藏炸弹 **"
+  },
+  "** CLOSE THE VALVES FOR LOWERING THE WATER **": {
+    "translation": "** 关闭水闸(左边两个, 右边一个, 管道一个) **"
+  },
+  "** All drains have been closed - Water is lowering **": {
+    "translation": "** 所有排水管都已关闭,水位正在下降 **"
+  },
+  "** Cover here till we broke the mansions main door **": {
+    "translation": "** 守住这里, 直到我们打破了豪宅的大门 **"
+  },
+  "** ELEVATOR WILL START IN 30 SECONDS **": {
+    "translation": "** 电梯30秒内上升 **"
+  },
+  "** ELEVATOR IS LEAVING IN 20 SECONDS **": {
+    "translation": "** 电梯25秒内上升 **",
+    "blocked": true
+  },
+  "** ELEVATOR IS LEAVING IN 10 SECONDS **": {
+    "translation": "** 电梯10秒内上升 **",
+    "blocked": true
+  },
+  "** ELEVATOR IS LEAVING IN 5 SECONDS **": {
+    "translation": "** 电梯5秒内上升 **",
+    "blocked": true
+  },
+  "** 15 SECONDS TILL WE OPENED FIRST GATE **": {
+    "translation": "** 坚持15秒直到我们打开第一个门 **"
+  },
+  "** 5 MORE SECONDS TILL WE OPENED SECOND GATE **": {
+    "translation": "** 坚持5秒直到我们打开第二个门 **"
+  },
+  "** GO GO GO **": {
+    "translation": "** 搞快点!冲!冲!冲!! **"
+  },
+  "** KEEP COVERING **": {
+    "translation": "** 保持防守 **"
+  },
+  "** 5 MORE SECONDS! **": {
+    "translation": "** 还有5秒 **"
+  },
+  "** WE ARE ALMOST AT SLENDERMAN !! **": {
+    "translation": "** 我们已经接近面条人了 **"
+  },
+  "** SLENDERMAN IS DEFEATED - ESCAPE THE MANSION!! **": {
+    "translation": "** 面条人已死亡-逃离别墅 **"
+  },
+  "** BOSS USES TELEPORTS NOW **": {
+    "translation": "** 面条人现在使用传送(保持移动,不动就被爆菊) **"
+  },
+  "** FINAL STAND **": {
+    "translation": "** 最后一战-守住 **"
+  },
+  "** GOGOGO **": {
+    "translation": "** 搞快点!搞快点! **"
+  },
+  "** YOU DID IT **": {
+    "translation": "** 你做到了! **"
+  },
+  "** YOU ESCAPED SLENDER!! **": {
+    "translation": "** 你从面条人的别墅里逃出来了!! **"
+  },
+  "** .. OR NOT ? **": {
+    "translation": "** .. 不是吗? **"
+  },
+  "** NO SPAWN PROTECTION **": {
+    "translation": "** 没有空气墙 **"
+  },
+  "** [DIFFICULTY] FINAL MADNESS MODE **": {
+    "translation": "** [困难]最后的疯狂模式 **"
+  },
+  "** [ADMIN] DIFFICULTY CHANGED TO FINAL MADNESS MODE **": {
+    "translation": "** [ADMIN]难度变为最终疯狂模式 **"
+  },
+  "** [ADMIN] DIFFICULTY CHANGED TO SURVIVAL 3 **": {
+    "translation": "** [ADMIN]生存难度改为 三 **"
+  },
+  "** [ADMIN] DIFFICULTY CHANGED TO STAGE 1 **": {
+    "translation": "** [ADMIN]难度变为第一关 **"
+  },
+  "** [ADMIN] DIFFICULTY CHANGED TO STAGE 2 **": {
+    "translation": "** [ADMIN]难度变为第二关 **"
+  },
+  "** [ADMIN] DIFFICULTY CHANGED TO STAGE 3 **": {
+    "translation": "** [ADMIN]难度变为第三关 **"
+  },
+  "** DOORS WILL OPEN IN 20 SECS **": {
+    "translation": "** 大门将在20秒后打开 **"
+  },
+  "** DOORS WILL OPEN IN 5 SECS **": {
+    "translation": "** 大门将在5秒后打开 **",
+    "blocked": true
+  },
+  "** DOOR WILL OPEN IN 15 SECS **": {
+    "translation": "** 大门将在15秒后打开 **",
+    "blocked": true
+  },
+  "** DOOR WILL OPEN IN 5 SECS **": {
+    "translation": "** 大门将在5秒后打开 **",
+    "blocked": true
+  },
+  "** HOLD THE SCHOOLGARDEN FOR 30 SECS BEFORE THE SCHOOLDOORS OPEN **": {
+    "translation": "** 在学校大门打开之前守住学校花园30秒 **"
+  },
+  "** 5 MORE SECONDS **": {
+    "translation": "** 还有5秒 **"
+  },
+  "** DEFEND 20 SECONDS **": {
+    "translation": "** 防守20秒 **"
+  },
+  "** [STORY] Oh no! It's a trap! Slenderman betrayed us! **": {
+    "translation": "** [故事]哦!不!这是一个陷阱!面条人背叛了我们 **"
+  },
+  "** [STORY] He killed a few of our good men! **": {
+    "translation": "** [故事] 他杀掉了我们之中的几个人! **"
+  },
+  "** DEFEND 15 MORE SECONDS **": {
+    "translation": "** 防守15秒 **"
+  },
+  "** GO BACK TO THE EXIT OF THE SCHOOL ! **": {
+    "translation": "** 回到学校的出口 **"
+  },
+  "** THE EXIT WILL OPEN IN 40 SECS **": {
+    "translation": "** 出口大门将在40秒后打开 **"
+  },
+  "** 10 SECONDS LEFT **": {
+    "translation": "** 10 **"
+  },
+  "** GET IN THE CHOPPER !! **": {
+    "translation": "** 进入直升机!! **"
+  },
+  "** CHOPPER WILL LEAVE IN 10 SECS !! **": {
+    "translation": "** 直升机将在10秒后离开 **"
+  },
+  "** [ADMIN] DIFFICULTY CHANGED TO STAGE 4 **": {
+    "translation": "** [ADMIN]生存难度改为 四 **"
+  },
+  "** 30 SECONDS LEFT BEFORE SLENDERMAN FIND US! **": {
+    "translation": "** 离面条人找到我们还剩30秒 **"
+  },
+  "** Incoming nuke in 8 seconds!! **": {
+    "translation": "** 8秒后核弹降临!! **"
+  },
+  "** YOU FINALLY FOUND ME **": {
+    "translation": "** 你终于找到了我 **"
+  },
+  "** NOW YOU WILL MEET YOUR DESTINY **": {
+    "translation": "** 现在你将要接受命运 **"
+  },
+  "** Teleporting ZOMBIES in 5 secs **": {
+    "translation": "** 5秒后传送僵尸 **"
+  },
+  "** Teleporting HUMANS in 5 secs **": {
+    "translation": "** 5秒后传送人类 **"
+  }
+}
