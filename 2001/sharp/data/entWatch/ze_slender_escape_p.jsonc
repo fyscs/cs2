@@ -73,17 +73,6 @@
     "count": 1
   },
   {
-    "name": "蜘蛛",
-    "shortName": "蜘蛛",
-    "buttonClass": "func_button",
-    "hammerId": "1059",
-    "triggerId": ["1057"],
-    "team": 2,
-    "knife": true,
-    "mode": 0,
-    "count": 3
-  },
-  {
     "name": "面条人",
     "shortName": "面条",
     "buttonClass": "func_button",
