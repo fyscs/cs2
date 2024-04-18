@@ -662,7 +662,7 @@
     "price": 450,
     "cooldown": 60,
     "nomination": false,
-    "admin": true
+    "admin": false
   },
   "ze_sorrento_escape_p": {
     "certainTimes": [-1],
