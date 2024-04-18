@@ -256,7 +256,7 @@
     "price": 500,
     "cooldown": 60,
     "nomination": false,
-    "admin": false
+    "admin": true
   },
   "ze_firewall_laboratory_part1_p": {
     "certainTimes": [-1],
