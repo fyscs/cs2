@@ -139,7 +139,6 @@
 @BaseClass base(GameEntity) = Targetname 
 [ 
 	targetname(target_source) { sort_priority = 90 } : "Name" : : "The name that other entities refer to this entity by."
-	globalname(string) : "Custom Entity Classname" :  : "自定义实体的Classname, Custom Entity Classname (Required ModSharp/CS2Fixes)"
 ]
 
 
@@ -3571,7 +3570,8 @@
 [
 	spawnflags(flags) =
 	[
-		32 : "Freeze Player" : 0
+		32  : "Freeze Player"   : 0
+		256 : "Jump Deactivate" : 0
 	]
 	Case01(string) : "Case 01" : "PlayerOn"
 	Case02(string) : "Case 02" : "PlayerOff"
@@ -3591,8 +3591,8 @@
 	Case16(string) : "Case 16" : "PressedAttack2"
 	Case17(string) : "Case 17" : "PressedSpeed"
 	Case18(string) : "Case 18" : "PressedDuck"
-	Case19(string) : "Case 19" : "PressedInspect"
-	Case20(string) : "Case 20" : "PressedScore"
+	Case19(string) : "Case 19"
+	Case20(string) : "Case 20"
 	Case21(string) : "Case 21" : "UnpressedForward"
 	Case22(string) : "Case 22" : "UnpressedMoveLeft"
 	Case23(string) : "Case 23" : "UnpressedBack"
@@ -3601,8 +3601,8 @@
 	Case26(string) : "Case 26" : "UnpressedAttack2"
 	Case27(string) : "Case 27" : "UnpressedSpeed"
 	Case28(string) : "Case 28" : "UnpressedDuck"
-	Case29(string) : "Case 29" : "UnpressedInspect"
-	Case30(string) : "Case 30" : "UnpressedScore"
+	Case29(string) : "Case 29"
+	Case30(string) : "Case 30"
 	Case31(string) : "Case 31"
 	Case32(string) : "Case 32"
 
