@@ -50,6 +50,16 @@
       "iterator": "Castle_Guard_Hp_Counter_2",
       "hitbox": "Castle_Guard_Box_2",
       "display": "Guard"
+    },
+    {
+      "iterator": "Guard_1_Hp_Counter",
+      "hitbox": "Guard_1_Box",
+      "display": "守卫"
+    },
+    {
+      "iterator": "Guard_2_Hp_Counter",
+      "hitbox": "Guard_2_Box",
+      "display": "守卫"
     }
   ]
 }
