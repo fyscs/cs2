@@ -1,0 +1,61 @@
+// BossHP configuration file generator.
+// Boss Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+
+{
+  "Counters": [
+    {
+      "iterator": "mutant_counter",
+      "backup": "mutant_hp_backup",
+      "counter": "mutant_hp_iterations",
+      "hitbox": "stg2_mutant_hitbox",
+      "display": "突变体"
+    },
+    {
+      "iterator": "mutant2_counter",
+      "backup": "mutant2_hp_backup",
+      "counter": "mutant2_hp_iterations",
+      "hitbox": "stg3_mutant2_hitbox",
+      "display": "突变体"
+    },
+    {
+      "iterator": "mutant_counter5",
+      "backup": "mutant_hp_backup5",
+      "counter": "mutant_hp_iterations5_2",
+      "hitbox": "stg5_mutant_hitbox",
+      "display": "突变体"
+    },
+    {
+      "iterator": "counter_crys1",
+      "hitbox": "stg5_boss_model_crys1",
+      "display": "水晶"
+    },
+    {
+      "iterator": "counter_crys2",
+      "hitbox": "stg5_boss_model_crys2",
+      "display": "水晶"
+    },
+    {
+      "iterator": "counter_crys3",
+      "hitbox": "stg5_boss_model_crys3",
+      "display": "水晶"
+    },
+    {
+      "iterator": "counter_crys4",
+      "hitbox": "stg5_boss_model_crys4",
+      "display": "水晶"
+    }
+  ]
+}
