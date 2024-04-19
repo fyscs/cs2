@@ -78,15 +78,19 @@
     "translation": "< 当前模式:克隆大作战 >"
   },
   "S": {
-    "translation": "S"
+    "translation": "S",
+    "blocked": true
   },
   "A": {
-    "translation": "A"
+    "translation": "A",
+    "blocked": true
   },
   "W": {
-    "translation": "W"
+    "translation": "W",
+    "blocked": true
   },
   "D": {
-    "translation": "D"
+    "translation": "D",
+    "blocked": true
   }
 }
