@@ -624,8 +624,8 @@
   },
   "ze_s_a_m": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 600,
-    "cooldown": 80,
+    "price": 1000,
+    "cooldown": 100,
     "nomination": true,
     "admin": false
   },
@@ -693,13 +693,6 @@
     "admin": false
   },
   "ze_strange_escape_p": {
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 30,
-    "nomination": false,
-    "admin": false
-  },
-  "ze_boatescape_ultimate": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
@@ -910,6 +903,13 @@
     "admin": false
   },
   "ze_townscapes": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false
+  },
+  "ze_boatescape_ultimate": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
