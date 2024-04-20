@@ -9,4 +9,20 @@
   // clearTimer (bool) -> 清除所有倒计时
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
-{}
+{
+  "Defend the House for 2 minutes": {
+    "translation": "守住房子!还有两分钟"
+  },
+  "Doors will OPEN in 20 seconds.": {
+    "translation": "门还有20秒开启"
+  },
+  "Second Doors will OPEN in 50 seconds.": {
+    "translation": "第二扇门还有50秒开启"
+  },
+  "You will be teleported in 2 minutes.": {
+    "translation": "两分钟后传送!!"
+  },
+  "Map created by warluthy": {
+    "translation": "地图制作: warluthy"
+  }
+}
