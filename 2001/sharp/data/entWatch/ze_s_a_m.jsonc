@@ -134,6 +134,16 @@
     "cooldown": 60,
     "count": 1
   },
+  {
+    "name": "爱丽丝",
+    "shortName": "涩涩",
+    "hammerId": "11645",
+    "triggerId": ["3244","11641","11643"],
+    "team": 3,
+    "knife": true,
+    "mode": 0,
+    "count": 1
+  },
   // TODO 僵尸神器都是2按钮, 所以现在暂时不支持CD
   {
     "name": "[ZM]黑洞",
