@@ -484,8 +484,8 @@
   },
   "ze_obj_rampage_v1_2": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 800,
-    "cooldown": 100,
+    "price": 1600,
+    "cooldown": 150,
     "nomination": true,
     "admin": false
   },
@@ -699,7 +699,7 @@
     "nomination": false,
     "admin": false
   },
-  "ze_super_bro_smash": {
+  "ze_boatescape_ultimate": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
@@ -876,8 +876,8 @@
   },
   "ze_obf_filth_v1": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 800,
-    "cooldown": 100,
+    "price": 1600,
+    "cooldown": 150,
     "nomination": true,
     "admin": false
   },
@@ -1065,8 +1065,8 @@
   },
   "ze_obj_encounter_a2": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 600,
-    "cooldown": 100,
+    "price": 1600,
+    "cooldown": 150,
     "nomination": true,
     "admin": false
   },
