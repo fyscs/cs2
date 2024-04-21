@@ -879,7 +879,7 @@
     "price": 300,
     "cooldown": 50,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_240s_survival_v1": {
     "certainTimes": [-1],
