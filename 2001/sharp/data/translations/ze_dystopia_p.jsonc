@@ -202,6 +202,9 @@
   "*** TIME REDUCED BY 10 SECONDS ***": {
     "translation": "*** 提示:操作成功,时间将减少十秒钟! ***"
   },
+  "*** TIME REDUCED BY 15 SECONDS ***": {
+    "translation": "*** 提示:你好牛啊!节省了十五秒钟!! ***"
+  },
   "still 10 seconds": {
     "translation": "还有10秒"
   },
