@@ -1,0 +1,208 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "This gate will open soon, hold this bridge!": {
+    "translation": "这道大门即将打开,守住这座桥!!"
+  },
+  "The bar's exit hatch should be opening shortly, this should lead us to the upper walkway!": {
+    "translation": "酒吧的安全出口就快开启了,我们穿过它应该能去到上层走廊!!"
+  },
+  "The bridge across the canals should open shortly": {
+    "translation": "天桥就快开启了,应该能从这里穿过河道"
+  },
+  "The exit should be on our left, climb through the wires!": {
+    "translation": "出口应该位于我们左边,爬上去穿过这些线缆!!"
+  },
+  "The bridge's exit doors should be opening soon": {
+    "translation": "天桥的出口就快开启了"
+  },
+  "The gate should open soon!": {
+    "translation": "门就要开了!!"
+  },
+  "Exit door ahead of us should open soon, resist!": {
+    "translation": "前面的门马上就开了,保持火力!!"
+  },
+  "This long walkway should take us up to the side entrance of Prey Plaza": {
+    "translation": "这道走廊应该能带我们去到酒吧的侧门"
+  },
+  "The trains are leaving for the Upper-Echelon District! JUMP ON!!!": {
+    "translation": "火车是前往更高等级区域的,快跳上来!!"
+  },
+  "TO BE CONTINUED IN PART 2": {
+    "translation": "未完待续..."
+  },
+  "The sewers should be right behind this door": {
+    "translation": "这扇门后面应该就是下水道网了"
+  },
+  "Hold this wide walkway! The door will open soon": {
+    "translation": "守住这里,门马上就开了"
+  },
+  "This small side door should take us into a maintenance area": {
+    "translation": "这边的侧门应该能通向一处储藏区"
+  },
+  "Another door? Hold a bit longer!": {
+    "translation": "又一扇门?再守一会!!"
+  },
+  "Keep holding them off! We're nearly at our destination": {
+    "translation": "保持火力!!我们就快到了!!"
+  },
+  "A maintenance door! Perhaps we can reach the Prey Plaza from here?": {
+    "translation": "一道储藏区的门,或许我们可以从这里去到布里酒吧?"
+  },
+  "This should lead us into the parking lot, and into the greater downtown district!": {
+    "translation": "从这里应该能去到停车场那里,然后穿过去就能到主城区了"
+  },
+  "Some of you must split off into the vents, maybe we can open the door from there!": {
+    "translation": "管道后面应该有个开关,我们可能需要在在这里兵分两路!!"
+  },
+  "It should regroup us after this door...": {
+    "translation": "这扇门之后我们应该就能会合了..."
+  },
+  "Exit door opens soon, hold them off here": {
+    "translation": "离开这里的门马上就开了,保持火力!!"
+  },
+  "Hold the upper walkway, the door should open soon": {
+    "translation": "守住上层通道,门应该很快就打开了"
+  },
+  "The upper walkway door should open soon": {
+    "translation": "上层走廊的门马上就开启了"
+  },
+  "Watch out the for that vent! It's looking a bit suspicious": {
+    "translation": "小心那处管道!看起来十分可疑"
+  },
+  "Call the elevator, we can hack the console over there to make it faster": {
+    "translation": "呼叫电梯,我们也可以黑入控制台让电梯下来快点!!"
+  },
+  "Maintenance corridoors should lead us to the control room!": {
+    "translation": "储藏区的走廊应该能带我们去到控制室!!"
+  },
+  "We are nearly at the Railway Control Room, keep it up!": {
+    "translation": "我们马上就要到达铁路控制室了,尽快跟上!!"
+  },
+  "Destroy the generator! It's hooked up to that locked glass door!": {
+    "translation": "破坏那处发电机!它为封锁区域提供电力!!"
+  },
+  "The glass doors will open soon! Be careful of those big metal doors!": {
+    "translation": "玻璃门很快就开了!小心那些巨大的金属门!!"
+  },
+  "The last door before the tracks should open very soon! HOLD IT!": {
+    "translation": "轨道前的这扇门马上就开了!!守住!!"
+  },
+  "Welcome to the city of  NEO EXUYAN": {
+    "translation": "欢迎来到霓虹之城"
+  },
+  "There is a deadly invisible gas in this city, it seems dangerous, move quickly!": {
+    "translation": "这里弥漫着一种可以致死的毒气,看起来很危险,快点!!"
+  },
+  "The gas has turned some of our squad into ZOMBIES": {
+    "translation": "毒气已经把一些我们的部分先遣部队变成了丧尸"
+  },
+  "Our mission cannot fail, we must keep moving!": {
+    "translation": "我们的任务可不能失败,保持移动!!"
+  },
+  "The Apartment Complex should be ahead, past this maintenance corridor!": {
+    "translation": "穿过这里的走廊前面应该就是公寓楼了"
+  },
+  "The elevator has been called, it should arrive shortly": {
+    "translation": "已呼叫电梯,就快到了"
+  },
+  "This... isn't the correct floor?": {
+    "translation": "这是...摁错楼层了?"
+  },
+  "WATCH OUT! HOLD THE ELEVATOR!": {
+    "translation": "小心!守住不要慌!!"
+  },
+  "We got it! Door should open soon": {
+    "translation": "我们做到了!!门应该马上就开了"
+  },
+  "Crossing this walkway should help us, resist until the door opens!": {
+    "translation": "守住这里!我们得穿过这里的通道!!"
+  },
+  "Back room is opening soon": {
+    "translation": "储藏间马上就能打开了"
+  },
+  "We have to hold both entrances to the bar! We cannot let them it at any cost!": {
+    "translation": "我们需要守住酒吧的入口!不计代价!!"
+  },
+  "That's it! Door should be opening soon!": {
+    "translation": "就是这样!门应该能开快点了!!"
+  },
+  "The back entrance to Neo-Kowloon! Resist until it opens": {
+    "translation": "霓虹城的后门!守住直到它开启!!"
+  },
+  "The door should open shortly, this should take to the Apartment Complex": {
+    "translation": "门很快就开了,穿过这里应该就是公寓楼了"
+  },
+  "These doors will take a long time to open, hold 'em off!": {
+    "translation": "这些门启动非常的慢,保持火力!!"
+  },
+  "A skilled hacker may be able to reduce the timer using that console!": {
+    "translation": "一个传说中的糕手是可以节省我们等待的时间!"
+  },
+  "The control room! We need to hack the console to call the train! Defend the hacker!": {
+    "translation": "就是这里!!我们需要黑入控制台呼叫火车!!守住这里!!"
+  },
+  "The next door seems to be jammed, perhaps we can open it faster?": {
+    "translation": "这扇门看起来被卡住了,或许我们能让它开的快点??"
+  },
+  "The canals! Neo-Kowloon should be close by": {
+    "translation": "是护城河!应该离霓虹城很近了"
+  },
+  "There is a high concentration of toxic-gas here, move quickly!": {
+    "translation": "这里毒气的浓度很高,保持移动!!"
+  },
+  "The navigation algorithm is scrambled in here, we must keep moving": {
+    "translation": "导航程序在这里不是很管用,我们必须保持移动!!"
+  },
+  "The second upper walkway door should open soon": {
+    "translation": "更上层走廊的门马上就开了"
+  },
+  "The doors behind us are opening! Get out quickly!": {
+    "translation": "我们身后的门打开了!赶紧出去!!"
+  },
+  "This floor is the right floor, but be careful of more zombies from the same side!": {
+    "translation": "终于到了!但是还是要小心僵尸!"
+  },
+  "The Bar should open shortly, resist!": {
+    "translation": "酒吧门很快就开启了,保持火力!!"
+  },
+  "We have no time to visit the lab, but we can use these corridors to reach the Industrial Sector": {
+    "translation": "我们没时间去实验室那里了,但是穿过这些走廊可以直接去工业区"
+  },
+  "Hold this room! This should lead us directly into the Industrial Sector": {
+    "translation": "守住这里!从这里应该能直接前往工业区"
+  },
+  "We need to enter this apartment to reach the rooftop outside": {
+    "translation": "我们得从公寓楼里面才能上楼顶去"
+  },
+  "Elevator has been called, hold here!": {
+    "translation": "已呼叫电梯,守住这里!!"
+  },
+  "A-ha! This vent! It should take us back outside": {
+    "translation": "就是这里!我们应该能回到外面去!!"
+  },
+  "Be careful about these side-doors, they look like shortcuts!": {
+    "translation": "注意下附近的侧门,看起来可能是捷径!"
+  },
+  "Generator has exploded! The doors should open soon": {
+    "translation": "发电机爆炸了!们应该马上就开了!!"
+  },
+  "*** VAL. VE MEGACORP HAS BLESSED YOU WITH INCREDIBLE HACKING SKILLS ***": {
+    "translation": "*** VAL. VE MEGACORP 为你提供了令人难以置信的黑客技能 ***"
+  },
+  "*** TIME REDUCED BY 10 SECONDS ***": {
+    "translation": "*** 提示:操作成功,时间将减少十秒钟! ***"
+  },
+  "*** TIME REDUCED BY 15 SECONDS ***": {
+    "translation": "*** 提示:你好牛啊!节省了十五秒钟!! ***"
+  }
+}
