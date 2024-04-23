@@ -204,5 +204,26 @@
   },
   "*** TIME REDUCED BY 15 SECONDS ***": {
     "translation": "*** 提示:你好牛啊!节省了十五秒钟!! ***"
+  },
+  "still 10 seconds": {
+    "translation": "还有10秒"
+  },
+  "still 15 seconds": {
+    "translation": "还有15秒"
+  },
+  "still 20 seconds": {
+    "translation": "还有20秒"
+  },
+  "still 25 seconds": {
+    "translation": "还有25秒"
+  },
+  "still 30 seconds": {
+    "translation": "还有30秒"
+  },
+  "still 27 seconds": {
+    "translation": "还有27秒"
+  },
+  "still 45 seconds": {
+    "translation": "还有45秒"
   }
 }
