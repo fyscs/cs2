@@ -55,10 +55,10 @@
     "translation": "**传送电梯在5秒后离开**"
   },
   "++ LIGHTBRIDGE DEACTIVATED ++": {
-    "translation": "**光桥已被停用**"
+    "translation": "**光桥已停用**"
   },
   "++ LIGHTBRIDGE ACTIVATES IN 15 SECONDS ++": {
-    "translation": "**光桥在15秒后出现**"
+    "translation": "**光桥在15秒后激活**"
   },
   "+++ THE DOOR IS OPENING IN 35 SECONDS +++": {
     "translation": "**大门在35秒后开启**"
@@ -76,10 +76,10 @@
     "translation": "**第一面墙它裂开了**"
   },
   "++ FLAMETHROWER HAS BEEN PICKED. PRESS E TO USE ++": {
-    "translation": "**火焰枪已被拾起,按E使用**"
+    "translation": "**喷火枪已被拾起,按E使用**"
   },
   "++ FUEL FOR 10 SECONDS ++": {
-    "translation": "**燃料可供燃料枪10秒燃烧**"
+    "translation": "**燃料可供10秒使用时间**"
   },
   "+++  MAP MADE BY GARGANTUA +++": {
     "translation": "**地图作者:GARGANTUA 地图翻译:墨鸢@Fys**"
@@ -101,7 +101,7 @@
     "translation": "**大门在5秒后开启**"
   },
   "+++ PUSHGUN HAS BEEN TAKEN. PRESS E TO USE. +++": {
-    "translation": "**推力枪已被拾起**"
+    "translation": "**推力枪已被拾起,按E使用**"
   },
   "+++ 60 SECONDS OF COOLDOWN. +++": {
     "translation": "**推力枪有60秒冷却时间**"
