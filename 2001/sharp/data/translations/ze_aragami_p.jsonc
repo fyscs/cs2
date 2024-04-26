@@ -30,7 +30,7 @@
   },
   ">>>The door will open in 5s<<<": {
     "translation": "**门将在5秒后打开**",
-    "blocekd": true
+    "blocked": true
   },
   ">>>Hurry...you almost make it<<<": {
     "translation": "**快点...你的队友在等你**"
@@ -40,7 +40,7 @@
   },
   ">>>The door will open in 10s<<<": {
     "translation": "**门将在10秒后打开**",
-    "blocekd": true
+    "blocked": true
   },
   ">>>Climb up the ladder<<<": {
     "translation": "**爬上梯子**"
@@ -56,7 +56,7 @@
   },
   ">>>The path will be cleared in 25s<<<": {
     "translation": "**道路将在25秒后开放**",
-    "blocekd": true
+    "blocked": true
   },
   ">>>AFK teleport in 15s<<<": {
     "translation": "**摸鱼玩家15秒后传送**"
@@ -69,7 +69,7 @@
   },
   ">>>The door will close in 5s<<<": {
     "translation": "**门将在5秒后关闭**",
-    "blocekd": true
+    "blocked": true
   },
   ">>>portal will be activated in 10s<<<": {
     "translation": "**10秒后激活传送**"
