@@ -1,0 +1,245 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** Teleport will open in 30 seconds **": {
+    "translation": "** 将在30秒后进行传送 **"
+  },
+  "** 5 seconds left **": {
+    "translation": "** 剩余5秒 **"
+  },
+  "** FALL BACK **": {
+    "translation": "** 撤退! **"
+  },
+  "** Hold 25 seconds **": {
+    "translation": "** 防守25秒 **",
+    "blocked": true
+  },
+  "** Hold 30 seconds **": {
+    "translation": "** 防守30秒 **"
+  },
+  "** Hold 20 seconds **": {
+    "translation": "** 防守20秒 **",
+    "blocked": true
+  },
+  ">>*** MAP BY STK ***<<": {
+    "translation": ">>*** 地图作者:STK 地图汉化:墨鸢@Fys ***<<"
+  },
+  "** Hold for 30 seconds **": {
+    "translation": "** 防守30秒 **"
+  },
+  "** Hold for 20 seconds **": {
+    "translation": "** 防守20秒 **",
+    "blocked": true
+  },
+  "** 5 seconds left**": {
+    "translation": "** 剩余5秒 **"
+  },
+  "** The doors will open in 25 seconds **": {
+    "translation": "** 门将在25秒后打开 **"
+  },
+  "** The doors will open in 20 seconds **": {
+    "translation": "** 门将在20秒后打开 **",
+    "blocked": true
+  },
+  "** WARMUP ROUND **": {
+    "translation": "** 热身回合 **"
+  },
+  ">>> STAGE 1 <<<": {
+    "translation": ">>> 第一关 <<<"
+  },
+  ">>> STAGE 2 <<<": {
+    "translation": ">>> 第二关 <<<"
+  },
+  "[ADMIN ROOM] Level changed to 1. Kill all in 5 sec!": {
+    "translation": "[管理员]等级更改为第一关.在5秒内杀死所有敌人!"
+  },
+  "[ADMIN ROOM] Level changed to 2. Kill all in 5 sec!": {
+    "translation": "[管理员]等级更改为第二关.在5秒内杀死所有敌人!"
+  },
+  "** Hold for 10 seconds **": {
+    "translation": "** 防守10秒 **",
+    "blocked": true
+  },
+  "** Hold for 15 seconds **": {
+    "translation": "** 防守15秒 **"
+  },
+  "*** Grenades do more damage. ***": {
+    "translation": "*** 手雷会造成更多伤害. ***"
+  },
+  "** Kill him or he kills you!!! **": {
+    "translation": "** 不是他死,就是你亡!!! **"
+  },
+  "*** He's dead. Run. ***": {
+    "translation": "*** 他死了!跑! ***"
+  },
+  ">>> STAGE 3 <<<": {
+    "translation": ">>> 第三关 <<<"
+  },
+  "[ADMIN ROOM] Level changed to 3. Kill all in 5 sec!": {
+    "translation": "[管理员]更改为第三关.在5秒内杀死所有敌人!"
+  },
+  "** YOU WON STAGE 2 **": {
+    "translation": "** 您通过了第二关 **"
+  },
+  "** Teleport will open in 25 seconds **": {
+    "translation": "** 将在25秒后进行传送 **"
+  },
+  "*** Grenades do more damage (5 seconds) ***": {
+    "translation": "*** 手雷会造成更多伤害(5秒) ***"
+  },
+  "** YOU WON STAGE 1 **": {
+    "translation": "** 您通过了第一关 **"
+  },
+  "*** Hold 20 seconds. ***": {
+    "translation": "*** 防守20秒. ***"
+  },
+  "*** 5 seconds left ***": {
+    "translation": "*** 剩余5秒 ***"
+  },
+  "*** FALL BACK ***": {
+    "translation": "*** 撤退! ***"
+  },
+  "** Hold 15 seconds **": {
+    "translation": "** 防守15秒 **"
+  },
+  ">> BOSS USED FIRE <<": {
+    "translation": ">> BOSS使用了火焰 <<"
+  },
+  ">> BOSS USED ELECTRO <<": {
+    "translation": ">> BOSS使用了闪电 <<"
+  },
+  ">> BOSS USED FREEZE <<": {
+    "translation": ">> BOSS使用了冰冻 <<"
+  },
+  ">> BOSS USED TENTACLES <<": {
+    "translation": ">> BOSS使用了触手 <<"
+  },
+  ">> BOSS USED ULTIMATE <<": {
+    "translation": ">> BOSS使用了终极 <<"
+  },
+  "||| ZOMBIE ESCAPED! STAGE FAILED! |||": {
+    "translation": "||| 僵尸逃走了!通关失败! |||"
+  },
+  "** YOU WON STAGE 3 **": {
+    "translation": "** 您通过了第三关 **"
+  },
+  "** Hold 10 seconds **": {
+    "translation": "** 防守10秒 **"
+  },
+  ">>> STAGE 4<<<": {
+    "translation": ">>> 第四关 <<<"
+  },
+  "[ADMIN ROOM] Level changed to 4. Kill all in 5 sec!": {
+    "translation": "[管理员]更改为第四关.在5秒内杀死所有敌人!"
+  },
+  "** YOU WON STAGE 4 **": {
+    "translation": "** 您通过了第四关 **"
+  },
+  ">>> STAGE 5<<<": {
+    "translation": ">>> 第五关<<<"
+  },
+  "[ADMIN ROOM] Level changed to 5. Kill all in 5 sec!": {
+    "translation": "[管理员]更改为第五关.在5秒内杀死所有敌人!"
+  },
+  "[ADMIN ROOM] Level changed to 6(ZM ROUND). Kill all in 5 sec!": {
+    "translation": "[管理员]更改为第六关(ZM关).在5秒内杀死所有敌人!"
+  },
+  "** YOU WON STAGE 5 **": {
+    "translation": "** 您通过了第五关 **"
+  },
+  ">>> THANKS FOR PLAYING <<<": {
+    "translation": ">>> 感谢您的游玩 <<<"
+  },
+  "** THANKS FOR PLAYING! **": {
+    "translation": "** 感谢您的游玩! **"
+  },
+  "** 3 **": {
+    "translation": "** 3 **",
+    "blocked": true
+  },
+  "** 4 **": {
+    "translation": "** 4 **",
+    "blocked": true
+  },
+  "** 1 **": {
+    "translation": "** 1 **",
+    "blocked": true
+  },
+  "** 5 **": {
+    "translation": "** 5 **"
+  },
+  "** IT'S TIME TO CHOOSE A LEVEL!!! **": {
+    "translation": "** 快选择一个关卡吧!!! **"
+  },
+  "** 2 **": {
+    "translation": "** 2 **"
+  },
+  "** YOU WON ZM ROUND **": {
+    "translation": "** 您通过了ZM关 **"
+  },
+  ">>> ZM ROUND <<<": {
+    "translation": ">>> ZM关 <<<"
+  },
+  "** Victory in 230 seconds. **": {
+    "translation": "** 230秒后胜利. **"
+  },
+  "** Victory in 200 seconds. **": {
+    "translation": "** 200秒后胜利. **",
+    "blocked": true
+  },
+  "** Victory in 150 seconds. **": {
+    "translation": "** 150秒后胜利. **",
+    "blocked": true
+  },
+  "** Victory in 100 seconds. **": {
+    "translation": "** 100秒后胜利. **",
+    "blocked": true
+  },
+  "** Victory in 50 seconds. **": {
+    "translation": "** 50秒后胜利. **",
+    "blocked": true
+  },
+  "** Victory in 10 seconds. **": {
+    "translation": "** 10秒后胜利. **",
+    "blocked": true
+  },
+  "** Victory! **": {
+    "translation": "** 胜利! **"
+  },
+  ">> BOSS USED GRAVITY <<": {
+    "translation": ">> BOSS使用了黑洞 <<"
+  },
+  ">> BOSS USED TORNADO <<": {
+    "translation": ">> BOSS使用了飓风 <<"
+  },
+  "*** Shoot on the Crystals!!! ***": {
+    "translation": "*** 站在水晶上射击!!! ***"
+  },
+  "** A player has picked up Fire Staff **": {
+    "translation": "** 一名玩家捡起了烈焰法杖 **"
+  },
+  "** A player has picked up Freeze Staff **": {
+    "translation": "** 一名玩家捡起了寒冰法杖 **"
+  },
+  "** A player has picked up Heal Staff **": {
+    "translation": "** 一名玩家捡起了治疗法杖 **"
+  },
+  "** A player has picked up Tornado Staff **": {
+    "translation": "** 一名玩家捡起了飓风法杖 **"
+  },
+  "** A player has picked up Earth Staff **": {
+    "translation": "** 一名玩家捡起了岩神法杖 **"
+  },
+  "** A player has picked up Ultimate Staff **": {
+    "translation": "** 一名玩家捡起了终极法杖 **"
+  }
+}
