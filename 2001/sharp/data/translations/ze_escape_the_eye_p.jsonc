@@ -1,0 +1,109 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "+++ ZOMBIES ARE UNLEASHED IN 17 SECONDS +++": {
+    "translation": "**僵尸在17秒后释放***"
+  },
+  "+++ THE DOOR IS OPEN +++": {
+    "translation": "**大门开了**"
+  },
+  "+++ THE DOOR IS OPENING IN 10 SECONDS  +++": {
+    "translation": "**大门在10秒后开启**"
+  },
+  "+++ PREPARE YOUR DEFENSE AND DEFEND AT THIS ZONE +++": {
+    "translation": "**守在这里**"
+  },
+  "+++ THE DOOR IS OPENING IN 100 SECONDS  +++": {
+    "translation": "**大门在100秒后开启**"
+  },
+  "+++ THE ELEVATOR IS LEAVING IN 10 SECONDS +++": {
+    "translation": "**电梯在10秒后离开**"
+  },
+  "++ ACTIVATE THE EYE ++": {
+    "translation": "**激活**"
+  },
+  "++ ESCAPE DOOR OPENING IN 50 SECONDS ++": {
+    "translation": "**逃生门将在50秒后开启**"
+  },
+  "++ ESCAPE DOOR OPENING IN 30 SECONDS ++": {
+    "translation": "**逃生门将在30秒后开启**",
+    "blocked": true
+  },
+  "++ ESCAPE DOOR OPENING WITHIN 10 SECONDS ++": {
+    "translation": "**逃生门将在10秒后开启**",
+    "blocked": true
+  },
+  "++ ESCAPE DOORS CLOSING!! ++": {
+    "translation": "**逃生门关闭!**"
+  },
+  "++ ESCAPE DOOR IS OPEN!! ++": {
+    "translation": "**逃生门开了!!*"
+  },
+  "++ LIGHTBRIDGE ACTIVATED ++": {
+    "translation": "**光桥已激活**"
+  },
+  "++ TELEPORT LIFT LEAVING IN 5 SECONDS ++": {
+    "translation": "**传送电梯在5秒后离开**"
+  },
+  "++ LIGHTBRIDGE DEACTIVATED ++": {
+    "translation": "**光桥已被停用**"
+  },
+  "++ LIGHTBRIDGE ACTIVATES IN 15 SECONDS ++": {
+    "translation": "**光桥在15秒后出现**"
+  },
+  "+++ THE DOOR IS OPENING IN 35 SECONDS +++": {
+    "translation": "**大门在35秒后开启**"
+  },
+  "+++ THE WALL IS BREAKING IN 35 SECONDS +++": {
+    "translation": "**墙在35秒后碎裂**"
+  },
+  "+++ THE WALL IS BROKEN +++": {
+    "translation": "**墙它裂开了!!**"
+  },
+  "+++ THE FIRST WALL IS BREAKING IN 15 SECONDS +++": {
+    "translation": "**第一面墙将在15秒后碎裂**"
+  },
+  "+++ THE FIRST WALL IS BROKEN +++": {
+    "translation": "**第一面墙它裂开了**"
+  },
+  "++ FLAMETHROWER HAS BEEN PICKED. PRESS E TO USE ++": {
+    "translation": "**火焰枪已被拾起,按E使用**"
+  },
+  "++ FUEL FOR 10 SECONDS ++": {
+    "translation": "**燃料可供燃料枪10秒燃烧**"
+  },
+  "+++  MAP MADE BY GARGANTUA +++": {
+    "translation": "**地图作者:GARGANTUA 地图翻译:墨鸢@Fys**"
+  },
+  "+++ FIXED BY CISNEROS +++": {
+    "translation": "**地图修复:CISNEROS**"
+  },
+  "+++ THE DOOR IS OPENING IN 45 SECONDS+++": {
+    "translation": "**大门在45秒后开启**"
+  },
+  "+++ THE DOOR IS OPENING IN 25 SECONDS +++": {
+    "translation": "**大门在25秒后开启**",
+    "blocked": true
+  },
+  "+++ RESIST IN THIS ZONE +++": {
+    "translation": "**守住这里**"
+  },
+  "+++ THE DOOR IS OPENING IN 5 SECONDS +++": {
+    "translation": "**大门在5秒后开启**"
+  },
+  "+++ PUSHGUN HAS BEEN TAKEN. PRESS E TO USE. +++": {
+    "translation": "**推力枪已被拾起**"
+  },
+  "+++ 60 SECONDS OF COOLDOWN. +++": {
+    "translation": "**推力枪有60秒冷却时间**"
+  }
+}
