@@ -18,6 +18,7 @@
   - 例如 ``ze_shroomforest2_i`` 中有 ``item_shroom_template2_50.vents_c``
   - 那么应该创建配置文件 ``sharp/stripper/maps/ze_shroomforest2_i/item_shroom_template2_50.jsonc``
   - ``default_ents.vents_c`` 应使用 ``sharp/stripper/maps/ze_shroomforest2_i/default_ents.jsonc``
+- ``Lump``/``SpawnGroup`` 匹配规则**区分**大小写字母!!!
 - 文件结构如下
 
 ```jsonc
