@@ -1,0 +1,60 @@
+// BossHP configuration file generator.
+// Boss Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+
+{
+  "Counters": [
+    {
+      "iterator": "Counter_boss1",
+      "hitbox": "Boss_box_1",
+      "display": "Smile"
+    },
+    {
+      "iterator": "Counter_boss2",
+      "hitbox": "Boss_box_2",
+      "display": "Robot"
+    },
+    {
+      "iterator": "Counter_boss4",
+      "hitbox": "Boss_box_4",
+      "display": "Emoji"
+    },
+    {
+      "iterator": "Counter_boss3",
+      "hitbox": "Boss_box_5",
+      "display": "Sans"
+    },
+    {
+      "iterator": "Counter_boss5_1",
+      "hitbox": "Ponch_box",
+      "display": "Maximal"
+    },
+    {
+      "iterator": "Counter_boss5",
+      "hitbox": "Ponch_box_1",
+      "display": "Maximal"
+    },
+    {
+      "iterator": "Counter_boss6_1",
+      "hitbox": "Boss6",
+      "display": "Gibbon"
+    },
+    {
+      "iterator": "Counter_boss6",
+      "hitbox": "Boss6_1",
+      "display": "Gibbon"
+    }
+  ]
+}
