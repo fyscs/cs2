@@ -23,7 +23,7 @@
   {
     "name": "手电",
     "shortName": "手电",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "248",
     "team": 3,
     "knife": false,
@@ -33,7 +33,7 @@
   {
     "name": "荧光棒",
     "shortName": "荧光",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "257",
     "team": 3,
     "knife": false,
@@ -43,7 +43,7 @@
   {
     "name": "提灯",
     "shortName": "提灯",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "252",
     "cooldown": 42,
     "team": 3,
@@ -64,7 +64,7 @@
   {
     "name": "炸弹",
     "shortName": "炸弹",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "1114",
     "maxUses": 1,
     "team": 3,
@@ -75,7 +75,7 @@
   {
     "name": "面条人",
     "shortName": "面条",
-    "buttonClass": "func_button",
+    "buttonClass": "game_ui",
     "hammerId": "357",
     "triggerId": ["358"],
     "team": 2,
@@ -86,7 +86,7 @@
   {
     "name": "油桶王",
     "shortName": "桶王",
-    "buttonClass": "func_button",
+    "buttonClass": "game_ui",
     "hammerId": "595",
     "triggerId": ["596"],
     "team": 2,
@@ -98,7 +98,7 @@
   {
     "name": "蜘蛛",
     "shortName": "蜘蛛",
-    "buttonClass": "func_button",
+    "buttonClass": "game_ui",
     "hammerId": "1059",
     "triggerId": ["1057"],
     "team": 2,
@@ -122,7 +122,7 @@
   {
     "name": "面条火",
     "shortName": "火",
-    "buttonClass": "func_button",
+    "buttonClass": "game_ui",
     "hammerId": "1257",
     "triggerId": ["1259"],
     "team": 2,
