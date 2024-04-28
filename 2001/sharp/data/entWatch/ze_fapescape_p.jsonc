@@ -23,7 +23,7 @@
   {
     "name": "推力枪",
     "shortName": "推力",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "755",
     "cooldown": 45,
     "team": 3,
@@ -34,7 +34,7 @@
   {
     "name": "火焰枪",
     "shortName": "喷火",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "810",
     "team": 3,
     "knife": false,
@@ -45,7 +45,7 @@
   {
     "name": "地雷",
     "shortName": "地雷",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "744",
     "cooldown": 0,
     "team": 3,
@@ -57,7 +57,7 @@
   {
     "name": "手雷",
     "shortName": "手雷",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "736",
     "cooldown": 0,
     "team": 3,
@@ -69,7 +69,7 @@
   {
     "name": "治疗",
     "shortName": "奶",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "752",
     "cooldown": 0,
     "team": 3,
@@ -80,7 +80,7 @@
   {
     "name": "乐高积木",
     "shortName": "积木",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "783",
     "cooldown": 3,
     "team": 3,
@@ -92,7 +92,7 @@
   {
     "name": "弹药",
     "shortName": "弹药",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "2142",
     "cooldown": 60,
     "team": 3,
@@ -103,7 +103,7 @@
   {
     "name": "加农炮",
     "shortName": "手炮",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "2186",
     "team": 3,
     "knife": false,
@@ -113,7 +113,7 @@
   {
     "name": "芭娜娜",
     "shortName": "香蕉",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "2541",
     "team": 3,
     "knife": false,
@@ -125,7 +125,7 @@
   {
     "name": "Kim",
     "shortName": "Kim",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "1256",
     "team": 3,
     "knife": false,
@@ -136,7 +136,7 @@
   {
     "name": "Pass",
     "shortName": "Pass",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "1268",
     "team": 3,
     "knife": false,
