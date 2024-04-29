@@ -63,6 +63,7 @@
     "team": 3,
     "knife": false,
     "mode": 6,
+    "containerId": "3685",
     "count": 1
   },
   {
@@ -74,7 +75,8 @@
     "cooldown": 10,
     "team": 3,
     "knife": false,
-    "mode": 3,
+    "mode": 7,
+    "containerId": "522",
     "count": 1
   },
   {
@@ -107,7 +109,7 @@
     "hammerId": "3742",
     "team": 3,
     "knife": false,
-    "mode": 1,
+    "mode": 0,
     "count": 1
   },
   {
