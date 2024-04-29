@@ -36,7 +36,7 @@
     "translation": "*** 这里是最后一个守点了 ***"
   },
   "*** That thing? Leaves in 45 seconds ***": {
-    "translation": "*** 45秒后你就可以离开了 ***"
+    "translation": "*** 45秒后就可以离开了 ***"
   },
   "*** 20 SECONDS LEFT ***": {
     "translation": "*** 还剩20秒 ***",
@@ -113,7 +113,7 @@
     "translation": "*** 门在30秒后打开! ***"
   },
   "*** FALL BACK ****": {
-    "translation": "*** 快溜 ***"
+    "translation": "*** 快溜! ***"
   },
   "*** Level 1 ***": {
     "translation": "*** 第一关 ***"
@@ -334,7 +334,7 @@
     "translation": "*** 一名玩家拾起了激光 ***"
   },
   "*** It has fuel for 10 seconds ***": {
-    "translation": "*** 它有使用10秒的燃料 ***"
+    "translation": "*** 它有使用十秒的燃料 ***"
   },
   "*** Player has picked up Ammo Box ***": {
     "translation": "*** 一名玩家拾起了弹药 ***"
@@ -349,6 +349,6 @@
     "translation": "*** 一名玩家拾起了地雷 ***"
   },
   "*** It has 5 uses ***": {
-    "translation": "*** 他能用5次 ***"
+    "translation": "*** 它能用五次 ***"
   }
 }
