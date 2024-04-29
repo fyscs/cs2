@@ -69,6 +69,13 @@
     "nomination": false,
     "admin": false
   },
+  "mg_movie_madness": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 8,
+    "nomination": false,
+    "admin": false
+  },
   "mg_multigames_devine_is_french": {
     "certainTimes": [-1],
     "price": 300,
