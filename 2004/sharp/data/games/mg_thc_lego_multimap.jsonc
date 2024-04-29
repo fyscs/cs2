@@ -20,7 +20,7 @@
 [
   {
     "id": "1905",
-    "cd": 300,
+    "cd": 180,
     "mode": 0,
     "name": "混战",
     "class": "func_button",
@@ -36,7 +36,7 @@
   },
   {
     "id": "2013",
-    "cd": 480,
+    "cd": 600,
     "mode": 6,
     "name": "跳绳",
     "class": "func_button",
@@ -44,7 +44,7 @@
   },
   {
     "id": "2661",
-    "cd": 480,
+    "cd": 600,
     "mode": 6,
     "name": "水路攀爬",
     "class": "func_button",
@@ -60,7 +60,7 @@
   },
   {
     "id": "2951",
-    "cd": 480,
+    "cd": 600,
     "mode": 6,
     "name": "躲避墙",
     "class": "func_button",
@@ -76,7 +76,7 @@
   },
   {
     "id": "2015",
-    "cd": 480,
+    "cd": 600,
     "mode": 6,
     "name": "竞速",
     "class": "func_button",
@@ -84,7 +84,7 @@
   },
   {
     "id": "2017",
-    "cd": 480,
+    "cd": 600,
     "mode": 6,
     "name": "攀爬竞速",
     "class": "func_button",
@@ -100,7 +100,7 @@
   },
   {
     "id": "1086",
-    "cd": 420,
+    "cd": 480,
     "mode": 6,
     "name": "七色花",
     "class": "func_button",
@@ -140,7 +140,7 @@
   },
   {
     "id": "2083",
-    "cd": 480,
+    "cd": 600,
     "mode": 6,
     "name": "滑行赛跑",
     "class": "func_button",
