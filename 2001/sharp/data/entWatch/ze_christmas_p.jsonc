@@ -23,8 +23,8 @@
   {
     "name": "治疗",
     "shortName": "治疗",
-    "buttonClass": "func_button",
-    "hammerId": "138",
+    "buttonClass": "func_physbox",
+    "hammerId": "134",
     "cooldown": 45,
     "team": 3,
     "knife": false,
@@ -34,8 +34,8 @@
   {
     "name": "重力",
     "shortName": "重力",
-    "buttonClass": "func_button",
-    "hammerId": "151",
+    "buttonClass": "func_physbox",
+    "hammerId": "147",
     "cooldown": 30,
     "team": 3,
     "knife": false,
