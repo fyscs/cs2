@@ -1,0 +1,354 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Hold until the path opens ***": {
+    "translation": "*** 守住这里 ***"
+  },
+  "*** FALL BACK ***": {
+    "translation": "*** 快跑 ***"
+  },
+  "*** Zombie at the end ***": {
+    "translation": "*** 僵尸上来了 ***"
+  },
+  "*** YOU FAIL! ***": {
+    "translation": "*** 你没了! ***"
+  },
+  "*** CONGRATULATIONS  YOU HAVE BEATEN THE MAP! ***": {
+    "translation": "*** 牛批噢,你过了这图! ***"
+  },
+  "*** Hold this position for 20 seconds ***": {
+    "translation": "*** 守住这里20秒 ***",
+    "blocked": true
+  },
+  "*** Hold this position for 30 seconds ***": {
+    "translation": "*** 守住这里30秒 ***"
+  },
+  "*** THIS IS THE FINAL HOLD ***": {
+    "translation": "*** 这里是最后一个守点了 ***"
+  },
+  "*** That thing? Leaves in 45 seconds ***": {
+    "translation": "*** 45秒后就可以离开了 ***"
+  },
+  "*** 20 SECONDS LEFT ***": {
+    "translation": "*** 还剩20秒 ***",
+    "blocked": true
+  },
+  "*** 10 SECONDS LEFT ***": {
+    "translation": "*** 还剩10秒 ***",
+    "blocked": true
+  },
+  "*** 5 SECONDS LEFT ***": {
+    "translation": "*** 还剩5秒 ***",
+    "blocked": true
+  },
+  "*** THE EVIL EYE IS DEAD ***": {
+    "translation": "*** 灼眼死了 ***"
+  },
+  "*** NOW IS THE TIME TO ESCAPE ***": {
+    "translation": "*** 现在是跑路时间 ***"
+  },
+  "*** THE BOSS IS ABSORBING ALL THE DAMAGE YOU DO ***": {
+    "translation": "*** 灼眼会把你的子弹恢复成血量 ***"
+  },
+  "*** DONT SHOOT HIM ***": {
+    "translation": "*** 别射了 ***"
+  },
+  "*** WAIT IT HAS TO BE DEAD NOW RIGHT? ***": {
+    "translation": "*** 它现在一定死了,对吧? ***"
+  },
+  "*** THE BOSS IS DEAD ***": {
+    "translation": "*** 灼眼死了 ***"
+  },
+  "*** WAIT ITS DEAD RIGHT? ***": {
+    "translation": "*** 它死了没? ***"
+  },
+  "*** LOOKS LIKE THE PLATFORM IS BREAKING ***": {
+    "translation": "*** 看起来这平台要炸了 ***"
+  },
+  "*** GET IN THE MIDDLE NOW!! ***": {
+    "translation": "*** 快进到中间!! ***"
+  },
+  "*** THE BOSS IS USING HIS ULTIMATE ***": {
+    "translation": "*** BOSS要终极了 ***"
+  },
+  "*** SHOOT HIM NOW BEFORE HE WIPES US ALL ***": {
+    "translation": "*** 在它把我们鲨了之前把它做掉 ***"
+  },
+  "*** ZOMBIES ON BOARD YOU FAIL! ***": {
+    "translation": "*** 僵尸上来了,你无了! ***"
+  },
+  "*** Level Completed! ***": {
+    "translation": "*** 关卡完成! ***"
+  },
+  "*** ZOMBIE ON BOARD YOU FAIL ***": {
+    "translation": "*** 僵尸上来了,你无了 ***"
+  },
+  "*** Doors open in 35 Seconds ***": {
+    "translation": "*** 门在35秒后打开 ***"
+  },
+  "*** Doors open in 25 Seconds ***": {
+    "translation": "*** 门在25秒后打开 ***",
+    "blocked": true
+  },
+  "*** Doors open in 10 Seconds ***": {
+    "translation": "*** 门在10秒后打开 ***",
+    "blocked": true
+  },
+  "*** Doors are opening ***": {
+    "translation": "*** 门开了 ***"
+  },
+  "*** Buttons pressed! ***": {
+    "translation": "*** 按钮已被按下! ***"
+  },
+  "*** Door opens in 30 seconds! ***": {
+    "translation": "*** 门在30秒后打开! ***"
+  },
+  "*** FALL BACK ****": {
+    "translation": "*** 快溜! ***"
+  },
+  "*** Level 1 ***": {
+    "translation": "*** 第一关 ***"
+  },
+  "*** Level 2 ***": {
+    "translation": "*** 第二关 ***"
+  },
+  "*** Level 3 ***": {
+    "translation": "*** 第三关 ***"
+  },
+  "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **": {
+    "translation": "** 天谴关 **"
+  },
+  "** Turning on:... **": {
+    "translation": "** 开启:... **"
+  },
+  "*** Door opens in 25 seconds! ***": {
+    "translation": "*** 门将在25秒后打开! ***"
+  },
+  "*** Just a little bit more! ***": {
+    "translation": "*** 还差一点了! ***"
+  },
+  "*** Doors are opening! ***": {
+    "translation": "*** 门开了! ***"
+  },
+  "** ADMIN CHANGED TO LEVEL 3 **": {
+    "translation": "** 管理员更改为第三关 **"
+  },
+  "** ADMIN CHANGED TO LEVEL 2 **": {
+    "translation": "** 管理员更改为第二关 **"
+  },
+  "** ADMIN CHANGED TO LEVEL 1 **": {
+    "translation": "** 管理员更改为第一关 **"
+  },
+  "** ADMIN CHANGED TO EXTREME 1 **": {
+    "translation": "** 管理员更改为EX一 **"
+  },
+  "** ADMIN CHANGED TO EXTREME 2 **": {
+    "translation": "** 管理员更改为EX二 **"
+  },
+  "** ADMIN CHANGED TO EXTREME 3 **": {
+    "translation": "** 管理员更改为EX三 **"
+  },
+  "*** Keep holding! ***": {
+    "translation": "*** 继续守! ***"
+  },
+  "*** Elevators leave in 25 seconds ***": {
+    "translation": "*** 电梯25秒后离开 ***"
+  },
+  "*** Elevators leave in 15 seconds ***": {
+    "translation": "*** 电梯15秒后离开 ***",
+    "blocked": true
+  },
+  "*** Elevators leave in 5 seconds ***": {
+    "translation": "*** 电梯5秒后离开 ***",
+    "blocked": true
+  },
+  "*** Hold them back for 10 seconds ***": {
+    "translation": "*** 守住10秒 ***"
+  },
+  "*** Hold this position for 25 seconds ***": {
+    "translation": "*** 守住这里25秒 ***"
+  },
+  "*** 10 more seconds ***": {
+    "translation": "*** 还有10秒 ***"
+  },
+  "*** Heli leaves in 30 seconds ***": {
+    "translation": "*** 直升机30秒后离开 ***"
+  },
+  "*** Heli leaves in 15 seconds ***": {
+    "translation": "*** 直升机15秒后离开 ***",
+    "blocked": true
+  },
+  "*** Heli leaves in 5 seconds ***": {
+    "translation": "*** 直升机5秒后离开 ***",
+    "blocked": true
+  },
+  "*** Elevator leaves in 25 seconds ***": {
+    "translation": "*** 电梯25秒后离开 ***"
+  },
+  "*** Elevator leaves in 15 seconds ***": {
+    "translation": "*** 电梯15秒后离开 ***",
+    "blocked": true
+  },
+  "*** Elevator leaves in 5 seconds ***": {
+    "translation": "*** 电梯5秒后离开 ***",
+    "blocked": true
+  },
+  "*** Elevator descends in 20 seconds ***": {
+    "translation": "*** 电梯20秒后离开 ***",
+    "blocked": true
+  },
+  "*** HOLD THEM BACK  ***": {
+    "translation": "*** 守住这里  ***"
+  },
+  "*** One final hold! ***": {
+    "translation": "*** 最后一个点! ***"
+  },
+  "*** That thing? should leave soon! ***": {
+    "translation": "*** 溜了! ***"
+  },
+  "*** Bridge activates in 30 seconds ***": {
+    "translation": "*** 桥将在30秒后激活 ***"
+  },
+  "*** Bridge activates in 15 seconds ***": {
+    "translation": "*** 桥将在15秒后激活 ***",
+    "blocked": true
+  },
+  "*** Hold until the path is cleared ***": {
+    "translation": "*** 守住这里 ***"
+  },
+  "*** FALL BACK NOW!! ***": {
+    "translation": "*** 快溜!! ***"
+  },
+  "*** Door opens in 25 seconds ***": {
+    "translation": "*** 门将在25秒后打开 ***"
+  },
+  "*** Door opens in 10 seconds ***": {
+    "translation": "*** 门将在10秒后打开 ***",
+    "blocked": true
+  },
+  "*** Door is opening ***": {
+    "translation": "*** 门开了 ***"
+  },
+  "*** Door should open quickly ***": {
+    "translation": "*** 门马上要开了 ***"
+  },
+  "*** Keep holding ***": {
+    "translation": "*** 继续守 ***"
+  },
+  "*** Keep holding them back! ***": {
+    "translation": "*** 继续守! ***"
+  },
+  "*** FALL BACK! ***": {
+    "translation": "*** 快溜! ***"
+  },
+  "*** This is the final hold point! ***": {
+    "translation": "*** 这里是最后一个守点了! ***"
+  },
+  "*** Hold them back for final 20 seconds! ***": {
+    "translation": "*** 最后的20秒! ***"
+  },
+  "*** Keep holding until the doors close! ***": {
+    "translation": "*** 守到门关! ***"
+  },
+  "*** Doors are opening in 25 seconds ***": {
+    "translation": "*** 门将在25秒后打开 ***"
+  },
+  "*** RESIST ***": {
+    "translation": "*** 抵抗! ***"
+  },
+  "*** Doors are opening in 15 seconds ***": {
+    "translation": "*** 门将在15秒后打开 ***"
+  },
+  "*** Doors are opening in 5 seconds ***": {
+    "translation": "*** 门将在5秒后打开 ***",
+    "blocked": true
+  },
+  "*** Hold a bit more! ***": {
+    "translation": "*** 再守一小会! ***"
+  },
+  "*** Path will open shortly! ***": {
+    "translation": "*** 门很快会打开! ***"
+  },
+  "*** Hold this position for awhile! ***": {
+    "translation": "*** 还有25秒! ***"
+  },
+  "*** Doors open in 30 seconds ***": {
+    "translation": "*** 门在30秒后打开 ***"
+  },
+  "*** Press both buttons at the same time to open the door! ***": {
+    "translation": "*** 同时按下两个按钮来触发机关! ***"
+  },
+  "*** Final door opens in 25 seconds! ***": {
+    "translation": "*** 最终之门将在25秒后打开! ***"
+  },
+  "*** Hold for 30 seconds! ***": {
+    "translation": "*** 守住30秒! ***"
+  },
+  "*** 20 more seconds! ***": {
+    "translation": "*** 还有20秒! ***"
+  },
+  "*** 10 more seconds! ***": {
+    "translation": "*** 还有10秒! ***",
+    "blocked": true
+  },
+  "*** Doors should open soon ***": {
+    "translation": "*** 门稍后将打开 ***"
+  },
+  "*** Almost at the end.. ***": {
+    "translation": "*** 就差一点了,兄dei.. ***"
+  },
+  "*** 15 seconds left ***": {
+    "translation": "*** 还有15秒 ***"
+  },
+  "*** Player has picked up EyeTech Cannon ***": {
+    "translation": "*** 一名玩家拾起了手炮 ***"
+  },
+  "*** It has unlimited uses ***": {
+    "translation": "*** 它可以无限使用 ***"
+  },
+  "*** Player has picked up Lego Maker ***": {
+    "translation": "*** 一名玩家拾起了乐高积木 ***"
+  },
+  "*** It has 10 uses ***": {
+    "translation": "*** 它可以用十次 ***"
+  },
+  "*** Player has picked up EyeTech Launcher ***": {
+    "translation": "*** 一名玩家拾起了榴弹 ***"
+  },
+  "*** Player has picked up Flamethrower ***": {
+    "translation": "*** 一名玩家拾起了喷火枪 ***"
+  },
+  "*** Player has picked up Pushgun ***": {
+    "translation": "*** 一名玩家拾起了推力枪 ***"
+  },
+  "*** Player has picked up Electro gun ***": {
+    "translation": "*** 一名玩家拾起了激光 ***"
+  },
+  "*** It has fuel for 10 seconds ***": {
+    "translation": "*** 它有使用十秒的燃料 ***"
+  },
+  "*** Player has picked up Ammo Box ***": {
+    "translation": "*** 一名玩家拾起了弹药 ***"
+  },
+  "*** Player has picked up Heal ***": {
+    "translation": "*** 一名玩家拾起了治疗 ***"
+  },
+  "*** It has 1 use ***": {
+    "translation": "*** 它只能用一次 ***"
+  },
+  "*** Player has picked up Pipe bombs ***": {
+    "translation": "*** 一名玩家拾起了地雷 ***"
+  },
+  "*** It has 5 uses ***": {
+    "translation": "*** 它能用五次 ***"
+  }
+}

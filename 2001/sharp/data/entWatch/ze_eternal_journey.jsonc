@@ -35,7 +35,7 @@
   {
     "name": "格拉斯贝恩",
     "shortName": "贝恩",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "3693",
     "triggerId": ["3691"],
     "cooldown": 40,

@@ -48,7 +48,7 @@
     "knife": false,
     "soulEvent": "OnStartTouch",
     "mode": 0,
-    "count": 1
+    "count": 8
   },
   {
     "name": "树人",
@@ -58,7 +58,7 @@
     "knife": false,
     "soulEvent": "OnStartTouch",
     "mode": 0,
-    "count": 1
+    "count": 5
   },
   {
     "name": "甘道夫",

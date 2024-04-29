@@ -23,7 +23,7 @@
   {
     "name": "喷火枪",
     "shortName": "喷火",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "447",
     "team": 3,
     "knife": false,
@@ -33,7 +33,7 @@
   {
     "name": "推力枪",
     "shortName": "推力",
-    "buttonClass": "func_button",
+    "buttonClass": "func_physbox",
     "hammerId": "498",
     "cooldown": 65,
     "team": 3,
