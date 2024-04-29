@@ -71,10 +71,10 @@
     "shortName": "奶",
     "buttonClass": "func_physbox",
     "hammerId": "752",
-    "cooldown": 0,
     "team": 3,
     "knife": false,
-    "mode": 1,
+    "mode": 3,
+    "maxUses": 1,
     "count": 1
   },
   {
