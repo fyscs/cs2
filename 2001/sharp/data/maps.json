@@ -165,7 +165,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false
+    "admin": true
   },
   "ze_chronus_p": {
     "certainTimes": [-1],
