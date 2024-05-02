@@ -1,0 +1,107 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>>Find the way to open the door<<<": {
+    "translation": "**找到开门的方法**"
+  },
+  ">>>Shoot the door and ring the gong<<<": {
+    "translation": "**破坏门并且敲响铜锣**"
+  },
+  ">>>Map by Qahnaarin<<<": {
+    "translation": "**地图作者:Qahnaarin 地图汉化:墨鸢@Fys**"
+  },
+  ">>>Thanks for playing<<<": {
+    "translation": "**感谢您的游玩**"
+  },
+  ">>>To be continued......<<<": {
+    "translation": "**未完待续...**"
+  },
+  ">>>The door will open in 25s<<<": {
+    "translation": "**门将在25秒后打开**"
+  },
+  ">>>The door will open in 5s<<<": {
+    "translation": "**门将在5秒后打开**",
+    "blocked": true
+  },
+  ">>>Hurry...you almost make it<<<": {
+    "translation": "**快点...你的队友在等你**"
+  },
+  ">>>The door will open in 30s<<<": {
+    "translation": "**门将在30秒后打开**"
+  },
+  ">>>The door will open in 10s<<<": {
+    "translation": "**门将在10秒后打开**",
+    "blocked": true
+  },
+  ">>>Climb up the ladder<<<": {
+    "translation": "**爬上梯子**"
+  },
+  ">>>The door will open in 50s<<<": {
+    "translation": "**门将在50秒后打开**"
+  },
+  ">>>AFK teleport in 10s<<<": {
+    "translation": "**摸鱼玩家10秒后传送**"
+  },
+  ">>>The path will be cleared in 50s<<<": {
+    "translation": "**道路将在50秒后开放**"
+  },
+  ">>>The path will be cleared in 25s<<<": {
+    "translation": "**道路将在25秒后开放**",
+    "blocked": true
+  },
+  ">>>AFK teleport in 15s<<<": {
+    "translation": "**摸鱼玩家15秒后传送**"
+  },
+  ">>>The path is cleared<<<": {
+    "translation": "**道路开放了**"
+  },
+  ">>>The door will close in 20s<<<": {
+    "translation": "**门将在20秒后关闭**"
+  },
+  ">>>The door will close in 5s<<<": {
+    "translation": "**门将在5秒后关闭**",
+    "blocked": true
+  },
+  ">>>portal will be activated in 10s<<<": {
+    "translation": "**10秒后激活传送**"
+  },
+  ">>>ze_aragami_v1_1<<<": {
+    "translation": "**ze_aragami_v1_1**"
+  },
+  ">>>GFL 2020 Unofficial Mapping Contest<<<": {
+    "translation": "**2020年GFL非官方竞赛图**"
+  },
+  ">>>Please enjoy<<<": {
+    "translation": "**旅程开始**"
+  },
+  ">>>The door will open in 40s<<<": {
+    "translation": "**门将在40秒后打开**"
+  },
+  ">>>The door is opened<<<": {
+    "translation": "**门开了**"
+  },
+  ">>>................<<<": {
+    "translation": "**额......**"
+  },
+  ">>> Come to me....<<<": {
+    "translation": "**跟我来....**"
+  },
+  ">>>......<<<": {
+    "translation": "**......**"
+  },
+  ">>> Follow my voice....<<<": {
+    "translation": "**跟着声音走...**"
+  },
+  ">>>Go....<<<": {
+    "translation": "**搞快点...**"
+  }
+}

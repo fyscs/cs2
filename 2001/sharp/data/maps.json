@@ -69,6 +69,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_aragami_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false
+  },
   "ze_arctic_escape_p": {
     "certainTimes": [-1],
     "price": 300,
@@ -91,6 +98,13 @@
     "admin": true
   },
   "ze_atix_panic_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false
+  },
+  "ze_atix_panic_2017_p": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
