@@ -104,6 +104,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_atix_panic_2017_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false
+  },
   "ze_azathoth_p": {
     "certainTimes": [-1],
     "price": 300,
