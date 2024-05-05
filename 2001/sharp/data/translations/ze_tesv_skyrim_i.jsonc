@@ -1,0 +1,355 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">> Kill the remaining Zombies! <<": {
+    "translation": ">> 杀掉所有进门的僵尸! <<"
+  },
+  ">> We need to inform the Jarl of Whiterun that the dragons are attacking! <<": {
+    "translation": ">> 我们需要告知雪漫城主关于龙的消息! <<"
+  },
+  ">> City door opens in 35 seconds! <<": {
+    "translation": ">> 城门将会在35秒后打开! <<"
+  },
+  ">> Hold them back for 25 more seconds! <<": {
+    "translation": ">> 在这守住25秒,门很快就会打开! <<"
+  },
+  ">> Defend the bridge until door opens! <<": {
+    "translation": ">> 守住桥直到大门打开! <<"
+  },
+  ">> Stage 2 Whiterun <<": {
+    "translation": ">> 第二关:雪漫城 <<"
+  },
+  ">> IT'S A DRAGON! <<": {
+    "translation": ">> 奥杜因堵住了去路! <<"
+  },
+  ">> SHOOT IT! <<": {
+    "translation": ">> 开火! <<"
+  },
+  ">> THE DRAGON IS GOING TO KILL US ALL !!! <<": {
+    "translation": ">> 奥杜因准备把我们都杀了!!! <<"
+  },
+  ">> Exit through the secret door! <<": {
+    "translation": ">> 从侧门出去! <<"
+  },
+  ">> Dragon has been spotted outside Whiterun! <<": {
+    "translation": ">> 奥杜因出现在雪漫城外! <<"
+  },
+  ">> Go through the balcony door! <<": {
+    "translation": ">> 从阳台门穿过! <<"
+  },
+  ">> Stage Completed! <<": {
+    "translation": ">> 关卡通过! <<"
+  },
+  ">> Stage 5 Sovngarde <<": {
+    "translation": ">> 第五关:松加德殿堂 <<"
+  },
+  ">> Run for the bridge of Dragons Reach!! <<": {
+    "translation": ">> 在龙到达之前跑到桥那边去!! <<"
+  },
+  ">> City door opens in 25 seconds! <<": {
+    "translation": ">> 城门将会在25秒后打开! <<"
+  },
+  ">> HOLD THEM BACK! <<": {
+    "translation": ">> 守住这里! <<"
+  },
+  ">> We need to get away from these dragons! <<": {
+    "translation": ">> 我们需要摆脱那些该死的飞龙! <<"
+  },
+  ">> Go through the house to the sewers! <<": {
+    "translation": ">> 穿过这个房子的下水道! <<"
+  },
+  ">> Door Opens In 20 Seconds! <<": {
+    "translation": ">> 门会在20秒后打开! <<"
+  },
+  ">> We need to hold the Plains District for 40 seconds HOLD THEM BACK! <<": {
+    "translation": ">> 我们需要守住平原区40秒! <<"
+  },
+  ">> Fall Back Now! <<": {
+    "translation": ">> 撤退! <<"
+  },
+  ">> Door Closes in 25 seconds <<": {
+    "translation": ">> 门将在25秒后关闭 <<"
+  },
+  ">> Keep Defending! <<": {
+    "translation": ">> 保持防御! <<"
+  },
+  ">> Door Closes in 15 seconds <<": {
+    "translation": ">> 门将在15秒后关闭 <<"
+  },
+  ">> Door Closes in 5 seconds <<": {
+    "translation": ">> 门将在5秒后关闭 <<",
+    "blocked": true
+  },
+  ">> The dragon is fleeing! <<": {
+    "translation": ">> 奥杜因跑了! <<"
+  },
+  ">> Run towards the tower now! <<": {
+    "translation": ">> 跑向前面的塔! <<"
+  },
+  ">> Hold here for 30 seconds! <<": {
+    "translation": ">> 在这里守住30秒! <<"
+  },
+  ">> City gate closes in 50 seconds <<": {
+    "translation": ">> 海尔根堡垒的大门将在50秒后关闭 <<"
+  },
+  ">> Defend until someone gets the key from the other room! <<": {
+    "translation": ">> 在这里防守,派一个人去房间里拿钥匙! <<"
+  },
+  "*** Map By P'a'ss and Kim ***": {
+    "translation": "*** 地图由P'a'ss和Kim制作 ***"
+  },
+  "*** CS2 ported by Sea_Sedge ***": {
+    "translation": "*** 地图移植:Sea_Sedge ***"
+  },
+  ">> Stage 1 Helgen <<": {
+    "translation": ">> 第一关:海尔根 <<"
+  },
+  ">> Run for the helgen keep NOW! <<": {
+    "translation": ">> 撤回到海尔根堡垒内! <<"
+  },
+  ">> Stage 4 Dwemer ruins <<": {
+    "translation": ">> 第四关:矮人废墟 <<"
+  },
+  ">> The dragon is fleeing! Run to the Helgen keep! <<": {
+    "translation": ">> 奥杜因逃走了,撤回到海尔根堡垒内防守! <<"
+  },
+  ">> We killed the Dragonpriest! <<": {
+    "translation": ">> 我们已经解决了龙祭祀! <<"
+  },
+  ">> Hold the zombies back until the teleporter activates! <<": {
+    "translation": ">> 在传送门打开之前守住这些僵尸! <<"
+  },
+  ">> The teleporter is working JUMP INTO IT!  <<": {
+    "translation": ">> 传送门已经启动了,快跳入井里!  <<"
+  },
+  ">> Kill the Dragonpriest! <<": {
+    "translation": ">> 快解决这个龙祭祀! <<"
+  },
+  ">> Elevator leaves in 20 seconds! <<": {
+    "translation": ">> 电梯将会在20秒后离开! <<"
+  },
+  ">> Elevator leaves in 5 seconds! <<": {
+    "translation": ">> 电梯将会在5秒后离开! <<",
+    "blocked": true
+  },
+  ">> USE THE ELDER SCROLL NOW <<": {
+    "translation": ">> 现在使用上古卷轴!!! <<"
+  },
+  ">> You Have Defeated Alduin <<": {
+    "translation": ">> 你击败了奥杜因 <<"
+  },
+  "** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **": {
+    "translation": "** 你成功征服了这张地图,恭喜!!! **"
+  },
+  "** MAP BY P'A'SS AND KIM !!! **": {
+    "translation": "** 地图作者:P'A'SS,KIM 地图汉化:墨鸢@Fys **"
+  },
+  ">> Kill The Remaining Zombie! <<": {
+    "translation": ">> 杀掉所有进门的僵尸! <<"
+  },
+  ">> Stage 3 Road To Dwemer Ruins <<": {
+    "translation": ">> 第三关:通往矮人废墟的道路 <<"
+  },
+  "*** THE ELDER SCROLL MADE IT TO THE END ***": {
+    "translation": "*** 上古卷轴保留到了最后 ***"
+  },
+  "*** YOU CAN NOW USE IT ON NEXT STAGE ***": {
+    "translation": "*** 你可以在下一关使用它 ***"
+  },
+  ">> Admin Pressed Kill All button! <<": {
+    "translation": ">> 所有人,都得死! <<"
+  },
+  ">> Door Opens in 45 seconds <<": {
+    "translation": ">> 门会在45秒后打开 <<"
+  },
+  ">> Go Downstairs to the Treasure room and take the Elder Scroll! <<": {
+    "translation": ">> 跳到矮人废墟的藏宝室中找到上古卷轴! <<"
+  },
+  ">> Find a way to open the Door! <<": {
+    "translation": ">> 想办法打开这扇门! <<"
+  },
+  ">> Elevator leaves in 30 seconds! <<": {
+    "translation": ">> 电梯将会在30秒后离开! <<"
+  },
+  ">> Elevator leaves in 10 seconds! <<": {
+    "translation": ">> 电梯将会在10秒后离开! <<",
+    "blocked": true
+  },
+  ">> Elevator is leaving! <<": {
+    "translation": ">> 电梯走了! <<"
+  },
+  ">> Lever has been pressed! <<": {
+    "translation": ">> 拉杆已经被拉下! <<"
+  },
+  ">> Run for the Mead Hall <<": {
+    "translation": ">> 快跑到米德大厅 <<"
+  },
+  ">> WARMUP ROUND <<": {
+    "translation": ">> 热身回合 <<"
+  },
+  ">>> mat_colorcorrection 1 IN CONSOLE FOR BETTER VISUALS <<<": {
+    "translation": ">>> 控制台输入mat_colorcorrection 1(色彩修正)以获得更好的视觉效果 <<<",
+    "blocked": true
+  },
+  ">>> After winning a round you will get 100 points which equals with 1 level  <<<": {
+    "translation": ">>> 每赢得一回合你会获得100分来提升一个等级  <<<",
+    "blocked": true
+  },
+  ">>> Level 1 item requires 100 points Level 2 item requires 200 points and so on. <<<": {
+    "translation": ">>> 一级皮肤需要100分,二级皮肤需要200分,以此类推(另注明火大卫200分,冰大卫300分,风大卫400分) <<<",
+    "blocked": true
+  },
+  ">>> When round starts you have small amount of time to pick an item before the zombies spawn <<<": {
+    "translation": ">>> 每局开始之后你会有一些时间去拿皮肤(不要在尸变前拿皮肤) <<<"
+  },
+  ">>> AFTER PICKING UP AN ITEM YOU CAN USE THEIR ATTACKS WITH EITHER LEFT OR RIGHT MOUSE CLICK <<<": {
+    "translation": ">>> 拿起皮肤之后,你可以用你的右键或者左键使用皮肤的特殊攻击 <<<"
+  },
+  ">>> Shooting the Zombie items in the head will push them back! <<<": {
+    "translation": ">>> 射击僵尸皮肤的头部会击退他们! <<<"
+  },
+  ">>> ONLY 1 OF EACH HUMAN ITEMS CAN BE TAKEN AT ONCE <<<": {
+    "translation": ">>> 每个皮肤每局只有一个人类能使用 <<<"
+  },
+  "*** Door opens in 25 seconds! ***": {
+    "translation": "*** 门将会在25秒后打开! ***"
+  },
+  "*** FALL BACK ***": {
+    "translation": "*** 撤退!!! ***"
+  },
+  "*** We got the key! ***": {
+    "translation": "*** 我们拿到钥匙了! ***"
+  },
+  "*** Door should open soon! ***": {
+    "translation": "*** 门应该很快就会打开! ***"
+  },
+  "*** Door opens in 30 seconds ***": {
+    "translation": "*** 门将会在30秒之后打开 ***"
+  },
+  "*** Kill the remaining zombies! ***": {
+    "translation": "*** 杀掉所有进门的僵尸! ***"
+  },
+  "*** Stage Completed ***": {
+    "translation": "*** 关卡通过! ***"
+  },
+  ">> Defend the bridge don't let the zombies on the other side! <<": {
+    "translation": ">> 在桥上且战且退,别让僵尸到另外一边! <<"
+  },
+  ">> Fall back Now!! <<": {
+    "translation": ">> 撤退!! <<"
+  },
+  ">>> Doors open in 25 seconds <<<": {
+    "translation": ">>> 门将会在25秒后打开 <<<"
+  },
+  "*** Door will open in 25 seconds ***": {
+    "translation": "*** 门将会在25秒后打开 ***"
+  },
+  "*** Lever has been pulled! ***": {
+    "translation": "*** 拉杆已经被拉下! ***"
+  },
+  "*** Hold for just 25 seconds more! ***": {
+    "translation": "*** 在这守住25秒! ***"
+  },
+  "*** Door will open in 30 seconds ***": {
+    "translation": "*** 门将会在30秒后打开 ***"
+  },
+  "*** You have found the switch! ***": {
+    "translation": "*** 正确的开关已经被按下! ***"
+  },
+  "*** Hold the bridges for 30 seconds ***": {
+    "translation": "*** 守住这座桥30秒 ***"
+  },
+  "*** Hold the cave for 30 seconds ***": {
+    "translation": "*** 在洞穴前守住30秒,门很快会打开 ***"
+  },
+  "*** Seems like the lever is broken ***": {
+    "translation": "*** 这个拉杆看起来坏了 ***"
+  },
+  "*** Find a way to fix it! ***": {
+    "translation": "*** 找到方法修复它(提示:旁边小路)! ***"
+  },
+  "*** There should be a switch for that door somewhere! ***": {
+    "translation": "*** 这里应该有一个正确的开关能开门! ***"
+  },
+  "*** Good job ***": {
+    "translation": "*** 干得漂亮! ***"
+  },
+  "*** The doors will now open a bit faster! ***": {
+    "translation": "*** 门将会提早25秒打开! ***"
+  },
+  "*** Hold for 45 seconds OR find a way to make it open faster ***": {
+    "translation": "*** 在这守住45秒或找到方法快速开门(提示:找到火炬快速开门) ***"
+  },
+  ">>> KILL THE REMAINING ZOMBIES <<<": {
+    "translation": ">>> 杀掉所有进门的僵尸 <<<"
+  },
+  "*** Stage completed! ***": {
+    "translation": "*** 关卡通过! ***"
+  },
+  "DR up!": {
+    "translation": "龙祭司出现了!"
+  },
+  "DR Died!": {
+    "translation": "龙祭司阵亡!"
+  },
+  "DOH up!": {
+    "translation": "龙裔出现了!"
+  },
+  "DOH Died!": {
+    "translation": "龙裔阵亡!"
+  },
+  "MG up!": {
+    "translation": "小法已觉醒!"
+  },
+  "MG Died!": {
+    "translation": "小法阵亡!"
+  },
+  "Archmage up!": {
+    "translation": "大法师已觉醒!"
+  },
+  "Archmage Died!": {
+    "translation": "大法师阵亡!"
+  },
+  "Night up!": {
+    "translation": "夜莺已觉醒!"
+  },
+  "Night Died!": {
+    "translation": "夜莺阵亡!"
+  },
+  "Giant up!": {
+    "translation": "巨人出现了!"
+  },
+  "Giant Died!": {
+    "translation": "巨人阵亡!"
+  },
+  "Dragon up!": {
+    "translation": "奥杜因出现了!"
+  },
+  "Dragon Died!": {
+    "translation": "奥杜因阵亡!"
+  },
+  "Troll up!": {
+    "translation": "巨魔出现了!"
+  },
+  "Troll Died!": {
+    "translation": "巨魔阵亡!"
+  },
+  "WW up!": {
+    "translation": "狼人出现了!"
+  },
+  "WW Died!": {
+    "translation": "狼人阵亡!"
+  },
+  "*** Hold for 25 seconds ***": {
+    "translation": "*** 在这守住25s ***"
+  }
+}
