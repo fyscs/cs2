@@ -120,6 +120,11 @@
 	input SetAbsAngles(float) : "Set abs angele."
 	input SetAbsOrigin(float) : "Set abs origin."
 	input SetMoveType(integer) : "Set movetype."
+	input AddAttribute(string) : "Add an attribute with a value of 1."
+	input RemoveAttribute(string) : "Remove an attribute."
+	input AddContext(string) : "Adds a context to this entity's list of response contexts. The format should be 'key:value'."
+	input RemoveContext(string) : "Remove a context from this entity's list of response contexts. The name should match the 'key' of a previously added context."
+	input ClearContext(void) : "Removes all contexts in this entity's list of response contexts."
 
 	input FireUser1(void) : "Causes this entity's OnUser1 output to be fired."
 	input FireUser2(void) : "Causes this entity's OnUser2 output to be fired."
@@ -139,6 +144,9 @@
 @BaseClass base(GameEntity) = Targetname 
 [ 
 	targetname(target_source) { sort_priority = 90 } : "Name" : : "The name that other entities refer to this entity by."
+	ResponseContext(string) : "Response Contexts" :  : "Pre-defined response system contexts for this entity. https://developer.valvesoftware.com/wiki/Response_System Usually only NPCs respond this, but any entity can make use of it with filter_activator_context. Format is key:value,key:value,..."
+	add_attribute(string) : "Add Attribute" : "" : "Will add an additional attribute that AI/player entities can query when checking props for information (ex: 'DogToy' or 'GrabbableResource')"
+	add_modifier(string) : "Add Modifier" : "" : "Will add this modifier when the entity spawns."
 ]
 
 
@@ -185,8 +193,6 @@
 	// Outputs
 	output OnIgnite(void) : "Fired when this object catches fire."
 
-	add_attribute(string) : "Add Attribute" : "" : "Will add an additional attribute that AI/player entities can query when checking props for information (ex: 'DogToy' or 'GrabbableResource')"
-	add_modifier(string) : "Add Modifier" : "" : "Will add this modifier when the entity spawns."
 ]
 
 
@@ -381,7 +387,6 @@
 	input ClearContext(void) : "Removes all contexts in this entity's list of response contexts."
 
 	// Pre-defined contexts at server startup time (set by mapper)
-	ResponseContext(string) : "Response Contexts" : "" : "Response system context(s) for this entity. Format should be: 'key:value,key2:value2,etc'. When this entity speaks, the list of keys & values will be passed to the response rules system."
 ]
 
 @BaseClass base(Targetname, DamageFilter, Shadow) = Breakable
@@ -7594,5 +7599,4 @@
 	"Causes nav mesh to be generated here and at all points that are reachable via ground movement from here."
 [
 ]
-
 
