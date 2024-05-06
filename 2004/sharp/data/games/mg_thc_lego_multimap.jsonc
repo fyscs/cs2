@@ -20,7 +20,7 @@
 [
   {
     "id": "1905",
-    "cd": 180,
+    "cd": 120,
     "mode": 0,
     "name": "混战",
     "class": "func_button",
@@ -37,7 +37,7 @@
   {
     "id": "2013",
     "cd": 600,
-    "mode": 6,
+    "mode": 7,
     "name": "跳绳",
     "class": "func_button",
     "event": "OnPressed"
@@ -61,7 +61,7 @@
   {
     "id": "2951",
     "cd": 600,
-    "mode": 6,
+    "mode": 7,
     "name": "躲避墙",
     "class": "func_button",
     "event": "OnPressed"
@@ -101,7 +101,7 @@
   {
     "id": "1086",
     "cd": 480,
-    "mode": 6,
+    "mode": 7,
     "name": "七色花",
     "class": "func_button",
     "event": "OnPressed"
@@ -133,7 +133,7 @@
   {
     "id": "2081",
     "cd": 600,
-    "mode": 6,
+    "mode": 7,
     "name": "听音乐抢门",
     "class": "func_button",
     "event": "OnPressed"
@@ -141,7 +141,7 @@
   {
     "id": "2083",
     "cd": 600,
-    "mode": 6,
+    "mode": 7,
     "name": "滑行赛跑",
     "class": "func_button",
     "event": "OnPressed"

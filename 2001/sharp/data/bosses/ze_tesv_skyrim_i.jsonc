@@ -1,0 +1,48 @@
+// BossHP configuration file generator.
+// Boss Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+
+{
+  "Counters": [
+    {
+      "iterator": "counter_3",
+      "backup": "bosshpbackup",
+      "counter": "BossHpIterations",
+      "hitbox": "sovng_boss_break",
+      "display": "Dragon"
+    },
+    {
+      "iterator": "counter_2",
+      "backup": "counter_2_backup",
+      "counter": "BossHpIterations3",
+      "hitbox": "boss_2_break",
+      "display": "Dragon"
+    },
+    {
+      "iterator": "dw_hp",
+      "backup": "dw_hp_backup",
+      "counter": "BossHpIterations2",
+      "hitbox": "dw_boss_break",
+      "display": "矮人百夫长"
+    },
+    {
+      "iterator": "counter_1",
+      "backup": "counter_1_backup",
+      "counter": "BossHpIterations4",
+      "hitbox": "st1_dragonphysbox",
+      "display": "Dragon"
+    }
+  ]
+}
