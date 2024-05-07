@@ -293,6 +293,13 @@
     "nomination": false,
     "admin": true
   },
+  "ze_ffxii_westersand_v7_t": {
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 500,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
   "ze_firewall_laboratory_part1_p": {
     "certainTimes": [-1],
     "price": 300,
