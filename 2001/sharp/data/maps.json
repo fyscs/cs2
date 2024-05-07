@@ -692,6 +692,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_siberia_1990_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false
+  },
   "ze_tesv_skyrim_i": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 600,
