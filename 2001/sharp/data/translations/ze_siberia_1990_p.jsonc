@@ -1,0 +1,142 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "The promixity mine can be used every 24 seconds.": {
+    "translation": "地雷每二十四秒可以使用一次"
+  },
+  "Proximity mine obtained!": {
+    "translation": "获得了地雷"
+  },
+  "Door opening in 20 seconds": {
+    "translation": "门在20秒后开"
+  },
+  "Door opening in 10 seconds": {
+    "translation": "门在10秒后开"
+  },
+  "Door closing in 10 seconds": {
+    "translation": "门在10秒后关"
+  },
+  "An infected got through our portal! Push them back!": {
+    "translation": "僵尸通过了传送门 把他们赶回去"
+  },
+  "The push gun can be used every 45 seconds.": {
+    "translation": "推力枪每四十五秒可以使用一次"
+  },
+  "Push gun obtained!": {
+    "translation": "获得了推力枪"
+  },
+  "An infected has passed through our portal.": {
+    "translation": "僵尸通过了传送门"
+  },
+  "Warping all players to Siberia in 15 seconds.": {
+    "translation": "15秒后传送所有玩家到西伯利亚"
+  },
+  "Objective. Find and destroy the source of the outbreak.": {
+    "translation": "任务 找到并摧毁病毒爆发的源头 翻译夜里很饿@风云社"
+  },
+  "Zombie spawns advancing in 25 seconds": {
+    "translation": "僵尸出生点在25秒后激活"
+  },
+  "Zombie spawns advancing in 15 seconds": {
+    "translation": "僵尸出生点在15秒后激活"
+  },
+  "Zombie spawn advancing in 15 seconds": {
+    "translation": "僵尸出生点在15秒后激活"
+  },
+  "Zombie spawns are advancing in 20 seconds": {
+    "translation": "僵尸出生点在20秒后激活"
+  },
+  "Time portal will open in 50 seconds": {
+    "translation": "传送门在50秒后开启 坚持就是胜利"
+  },
+  "30 seconds": {
+    "translation": "还剩30秒"
+  },
+  "10 seconds": {
+    "translation": "还剩10秒"
+  },
+  "Zombie spawn advancing in 10 seconds": {
+    "translation": "僵尸出生点在10秒后激活"
+  },
+  "C4 exploding in 10 seconds": {
+    "translation": "炸弹在10秒后爆炸"
+  },
+  "TIP: Zombies can pass through our portal.": {
+    "translation": "提示 僵尸现在可以利用传送了"
+  },
+  "TIP: It would be wise to stay and defend a bit until the explosion occurs.": {
+    "translation": "提示 最好在爆炸前多守一会"
+  },
+  "Door opening in 30 seconds": {
+    "translation": "门在30秒后开"
+  },
+  "Elevator doors opening in 20 seconds": {
+    "translation": "电梯门在20秒后打开"
+  },
+  "Elevator doors closing in 10 seconds": {
+    "translation": "电梯门在10秒后关闭"
+  },
+  "Reducing steam pressure 10 seconds": {
+    "translation": "降低蒸汽压力10秒"
+  },
+  "Steam pressure at 33%": {
+    "translation": "蒸汽压力已到百分之三十三"
+  },
+  "Steam pressure at 0%": {
+    "translation": "蒸汽压力已到百分之零"
+  },
+  "Dam door opening in 20 seconds": {
+    "translation": "大坝门在20秒后开"
+  },
+  "Dam door closing in 5 seconds": {
+    "translation": "大坝门在5秒后关闭"
+  },
+  "Dam door closing in 10 seconds": {
+    "translation": "大坝门在10秒后关闭"
+  },
+  "Steam pressure at 66%": {
+    "translation": "蒸汽压力已到百分之六十六"
+  },
+  "Overriding security breach 30 seconds": {
+    "translation": "覆盖安全漏洞30秒"
+  },
+  "10 seconds left": {
+    "translation": "还剩10秒"
+  },
+  "Door is now open. Get inside the dam!": {
+    "translation": "门开了 还不走"
+  },
+  "-Hardcore Mode-": {
+    "translation": "-老司机难度-"
+  },
+  "-Hardcore Mode- has been set.": {
+    "translation": "-已选择老司机模式."
+  },
+  "-Hardcore Mode- has been unset.": {
+    "translation": "-老司机模式已取消设置."
+  },
+  "You have less than 15 seconds to whipe out the remaining infected or face death!": {
+    "translation": "你只有15秒时间剿匪 不然你就寄了"
+  },
+  "Arming C4 in 30 seconds": {
+    "translation": "炸弹安装还要30秒"
+  },
+  "C4 armed in 10 seconds": {
+    "translation": "炸弹安装还要10秒"
+  },
+  "C4 in now armed": {
+    "translation": "炸弹已经安放"
+  },
+  "New objective. Reach the top of the dam for extraction": {
+    "translation": "新任务 到达大坝顶部"
+  }
+}
