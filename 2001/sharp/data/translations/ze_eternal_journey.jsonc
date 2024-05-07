@@ -60,10 +60,10 @@
     "translation": ">>> 第二关 <<<"
   },
   "[ADMIN ROOM] Level changed to 1. Kill all in 5 sec!": {
-    "translation": "[管理员]更改为第一关.在5秒内杀死所有人!"
+    "translation": "[管理员]更改为第一关.5秒后处死所有人!"
   },
   "[ADMIN ROOM] Level changed to 2. Kill all in 5 sec!": {
-    "translation": "[管理员]更改为第二关.在5秒内杀死所有人!"
+    "translation": "[管理员]更改为第二关.5秒后处死所有人!"
   },
   "** Hold for 10 seconds **": {
     "translation": "** 防守10秒 **",
@@ -85,7 +85,7 @@
     "translation": ">>> 第三关 <<<"
   },
   "[ADMIN ROOM] Level changed to 3. Kill all in 5 sec!": {
-    "translation": "[管理员]更改为第三关.在5秒内杀死所有人!"
+    "translation": "[管理员]更改为第三关.5秒后处死所有人!"
   },
   "** YOU WON STAGE 2 **": {
     "translation": "** 您通过了第二关 **"
@@ -139,7 +139,7 @@
     "translation": ">>> 第四关 <<<"
   },
   "[ADMIN ROOM] Level changed to 4. Kill all in 5 sec!": {
-    "translation": "[管理员]更改为第四关.在5秒内杀死所有人!"
+    "translation": "[管理员]更改为第四关.5秒后处死所有人!"
   },
   "** YOU WON STAGE 4 **": {
     "translation": "** 您通过了第四关 **"
@@ -148,10 +148,10 @@
     "translation": ">>> 第五关<<<"
   },
   "[ADMIN ROOM] Level changed to 5. Kill all in 5 sec!": {
-    "translation": "[管理员]更改为第五关.5秒后都会死!"
+    "translation": "[管理员]更改为第五关.5秒后处死所有人!"
   },
   "[ADMIN ROOM] Level changed to 6(ZM ROUND). Kill all in 5 sec!": {
-    "translation": "[管理员]更改为第六关(ZM关).在5秒内杀死所有人!"
+    "translation": "[管理员]更改为第六关(ZM关).5秒后处死所有人!"
   },
   "** YOU WON STAGE 5 **": {
     "translation": "** 您通过了第五关 **"
