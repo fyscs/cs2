@@ -699,6 +699,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_siberia_1990_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false
+  },
   "ze_slender_escape_p": {
     "certainTimes": [-1],
     "price": 450,
