@@ -10,124 +10,68 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "<<<THE DOOR HAS OPENED>>>": {
-    "translation": "<<<门开了...>>>"
+  "<<< THE DOOR HAS OPENED >>>": {
+    "translation": "<<< 门开了 >>>"
   },
-  "<<< Human Remaining: +37 >>>": {
-    "translation": "<<< 人数检测:大于37人 >>>",
-    "blocked": true
-  },
-  "<<< Reach the peak of perfection!!! >>>": {
-    "translation": "<<< 登峰造极!!! >>>"
-  },
-  "<<< Never admit being defeated >>>": {
-    "translation": "<<< 我们一定可以!!我们还没有被打败!! >>>"
-  },
-  "<<< Human Remaining: -37 >>>": {
-    "translation": "<<< 人数检测:小于37人 >>>",
-    "blocked": true
+  "<<< Prepare to fight for your life!!! >>>": {
+    "translation": "<<< 将欲为生而战,不在此陨!!!! >>>"
   },
   "RUN": {
-    "translation": "跑"
+    "translation": "跑!!!"
   },
   "The door opened": {
-    "translation": "<<<门开了...>>>"
+    "translation": "门开了"
   },
-  "<<<Call the elevator>>>": {
-    "translation": "<<<电梯在来的路上了>>>"
+  "<<< Call the elevator >>>": {
+    "translation": "<<< 正在呼叫电梯 >>>"
   },
   "Climb up the ladder": {
     "translation": "爬上梯子"
   },
-  "<<<Prepare for the Battle of Your Life>>>": {
-    "translation": "<<<为了活下去...我们必须拼死一搏>>>"
+  "<<< Prepare for the Battle of Your Life >>>": {
+    "translation": "<<< 备战于生，以待天命之战 >>>"
   },
-  "<<<They are coming...>>>": {
-    "translation": "<<<他们来了...>>>"
+  "<<< They are coming... >>>": {
+    "translation": "<<< 他们来了... >>>"
   },
   "DON'T TOUCH THE LASERS": {
-    "translation": "这激光有这么好玩?非要去碰."
+    "translation": "激光有那么好玩?非要去碰?"
   },
-  "<<<The electricity should be cut off in a few seconds>>>": {
-    "translation": "<<<电源即将被关闭>>>"
+  "<<< The electricity should be cut off in a few seconds >>>": {
+    "translation": "<<< 电源即将被切断 >>>"
   },
-  "<<<Electricity is OFF>>>": {
-    "translation": "<<<已切断电源>>>"
+  "<<< Electricity is OFF >>>": {
+    "translation": "<<< 电源已被切断 >>>"
   },
-  "<<<The door leading to the elevator are open!>>>": {
-    "translation": "<<<通向电梯的门即将打开!>>>"
-  },
-  "cade fast": {
-    "translation": "搞快点"
-  },
-  "TRAZIX GRAMMAR": {
-    "translation": "__null__",
-    "blocked": true
-  },
-  "Wall is break !": {
-    "translation": "墙面破开了!"
-  },
-  "door is open": {
-    "translation": "门开了"
-  },
-  "spawn zombie": {
-    "translation": "生成僵尸"
-  },
-  "run fast": {
-    "translation": "跑快点"
-  },
-  "zombie is come": {
-    "translation": "尸潮来袭"
-  },
-  "tram is start": {
-    "translation": "电车启动了"
+  "<<< The door leading to the elevator are open! >>>": {
+    "translation": "<<< 电梯打开了! >>>"
   },
   "Map by Trazix": {
-    "translation": "地图作者:Trazix 地图汉化:逾卿MrFys"
+    "translation": "地图作者:Trazix地图翻译:余清茗染@fys"
   },
   "CS2 by Nino": {
-    "translation": "CS2地图移植:Nino"
+    "translation": "地图移植: Nino"
   },
   "Welcome on Objective NPST": {
     "translation": "欢迎来到:牛批神图"
   },
   "Good Luck !": {
-    "translation": "祝你们好运!玩的开心."
+    "translation": "祝你玩得开心!"
   },
-  "<<<The door is opening get inside !>>>": {
-    "translation": "<<<门正在打开,快进来!>>>"
+  "<<< The door is opening get inside !>>>": {
+    "translation": "<<< 门开了,走 !>>>"
   },
   "They are coming": {
-    "translation": "他们来了..."
+    "translation": "他们来了"
   },
-  "DOOR HAS OPENED": {
+  "DOOR IS OPEN": {
     "translation": "门开了"
   },
-  "And help by How Super Terrible?": {
-    "translation": "还有How Super Terrible的帮助?",
-    "blocked": true
+  "DOOR HAS OPENED": {
+    "translation": "门已经打开"
   },
-  "Map&music made by Trazix": {
-    "translation": "地图制作,音乐:Trazix"
-  },
-  "Models and materials use by Crowbar Collective Black Mesa Team": {
-    "translation": "Crowbar Collective Black Mesa团队使用的模型和材料",
-    "blocked": true
-  },
-  "Remake of some part from L4D2 Campaign Damn it by Tom Baldry": {
-    "translation": "求生之路2部分地图重置:Tom Baldry"
-  },
-  "ADMIN ROOM: CREDITS MAP": {
-    "translation": "管理员:地图制作人员名单"
-  },
-  "Thanks to AzoNa  Ray and Master Tof": {
-    "translation": "感谢AzoNa Ray与Master Tof"
-  },
-  "Version update by Nino": {
-    "translation": "版本更新:Nino"
-  },
-  "<<<DOOR IS OPEN>>>": {
-    "translation": "<<<门开了>>>"
+  "<<< DOOR IS OPEN >>>": {
+    "translation": "<<< 门开了 >>>"
   },
   "<<<5>>>": {
     "translation": "<<<5>>>"
@@ -148,107 +92,70 @@
     "translation": "<<<1>>>",
     "blocked": true
   },
-  "<<<GO GO GOOOO>>>": {
-    "translation": "<<<搞快点!!>>>"
+  "<<< GO GO GOOOO >>>": {
+    "translation": "<<< 冲刺!!冲刺!!冲冲! >>>"
   },
-  "<<<It's not finished>>>": {
-    "translation": "<<<并没有结束...>>>"
+  "<<< It's not finished >>>": {
+    "translation": "<<< 并未准备就绪... >>>"
   },
-  "H1Z1 King of the Kill Soundtrack - Final Battle": {
-    "translation": "H1Z1杀戮之王原声带-决战",
-    "blocked": true
+  "<<< Get out of here !!! >>>": {
+    "translation": "<<< 离开这里!!! >>>"
   },
-  "Half-Life 3 Inspirational Track 1 and 2": {
-    "translation": "<半条命三>攒劲曲目一和二"
+  "<<< The yellow door Area 9 will open in 10 seconds >>>": {
+    "translation": "<<< 区域九号门将在10秒打开 >>>"
   },
-  "Muzzy - Get Crazy": {
-    "translation": "Muzzy-疯狂起来"
-  },
-  "Muzzy - Play": {
-    "translation": "Muzzy-播放"
-  },
-  "ADMIN ROOM: SOUNDTRACK MAP": {
-    "translation": "管理员:地图配乐"
-  },
-  "Muzzy - Children of Hell": {
-    "translation": "Muzzy-地狱之子"
-  },
-  "Pendulum - Granite": {
-    "translation": "钟摆-花岗岩"
-  },
-  "Muzzy -  Junction Seven": {
-    "translation": "Muzzy-七号路口"
-  },
-  "Rogue Souls - Toxic Rain": {
-    "translation": "流氓灵魂-毒雨"
-  },
-  "Transformers 3 Battle Track": {
-    "translation": "变形金刚三-战斗轨迹"
-  },
-  "Resident Evil Retribution - Flying Through The Air": {
-    "translation": "生化危机的惩罚-空中飞行"
-  },
-  "Blue Stahli - The Destroyer of all Things": {
-    "translation": "Blue Stahli-万物的毁灭者"
-  },
-  "<<<Get out of here !!!>>>": {
-    "translation": "<<<快离开这里!!!>>>"
-  },
-  "<<<The yellow door Area 9 will open in 10 seconds>>>": {
-    "translation": "<<<第九区域的门10秒钟后打开>>>"
-  },
-  "<<<The yellow door leading to the HUB will open soon>>>": {
-    "translation": "<<<通向实验室的黄门即将打开>>>"
+  "<<< The yellow door leading to the HUB will open soon >>>": {
+    "translation": "<<< 通向实验室的黄门即将打开 >>>"
   },
   "Elevator door opened": {
     "translation": "电梯门已打开"
   },
   "The fire will burn out in a few seconds": {
-    "translation": "火焰会在几秒钟后燃烧殆尽"
+    "translation": "火炽数息而烬矣"
   },
   "RUNNNNN !!!!": {
-    "translation": "快跑!!!!"
+    "translation": "跑路!!跑路!!跑路!!"
   },
-  "<<<We are not giving thanks to Waffel for hepling>>>": {
-    "translation": "<<<并不是在感谢Waffel的帮助哦>>>"
+  "<<< We are not giving thanks to Waffel for hepling >>>": {
+    "translation": "<<< 并不是在感谢Waffel的帮助哦 >>>"
   },
   "THE DOOR OPENED RIGHT SIDE": {
-    "translation": "门在右边打开"
+    "translation": "右侧门已打开"
   },
   "THE DOOR IS OPENING": {
     "translation": "门开了"
   },
-  "<<<The water level is increasing>>>": {
-    "translation": "<<<水位在上升>>>"
+  "<<< The water level is increasing >>>": {
+    "translation": "<<< 水位在上升 >>>"
   },
-  "<<<The fence has broken>>>": {
-    "translation": "<<<栅栏已损坏>>>"
+  "<<< The fence has broken >>>": {
+    "translation": "<<< 栅栏已损坏 >>>"
   },
-  "<<<The door is going to open>>>": {
-    "translation": "<<<门要开了>>>"
+  "<<< The door is going to open >>>": {
+    "translation": "<<< 门要开了 >>>"
   },
-  "<<<Prepare to shoot>>>": {
-    "translation": "<<<准备开枪>>>"
+  "<<< Prepare to shoot >>>": {
+    "translation": "<<< 备举炮火!开枪! >>>"
   },
-  "<<<The door is about to open..>>>": {
-    "translation": "<<<门就要开了..>>>"
+  "<<< The door is about to open.. >>>": {
+    "translation": "<<< 门马上开了.. >>>"
   },
-  "<<<The vent is going to explode...>>>": {
-    "translation": "<<<通风口要爆炸了...>>>"
+  "<<< The vent is going to explode... >>>": {
+    "translation": "<<< 通风口要爆炸了... >>>"
   },
-  "<<<The door is going to open in 10sec>>>": {
-    "translation": "<<<门10秒后就会打开>>>"
+  "<<< The door is going to open in 10 sec >>>": {
+    "translation": "<<< 门10秒钟后就会打开 >>>"
   },
-  "<<<The Sewer is going to open in 10sec>>>": {
-    "translation": "<<<下水道将在10秒后打开>>>"
+  "<<< The Sewer is going to open in 10 sec >>>": {
+    "translation": "<<< 下水道10秒钟后就会打开 >>>"
   },
-  "<<<The Flames is going to burn out in 10sec>>>": {
-    "translation": "<<<火焰将在10秒后燃烧殆尽>>>"
+  "<<< The Flames is going to burn out in 10 sec >>>": {
+    "translation": "<<< 火焰将在10秒内燃烧殆尽 >>>"
   },
-  "<<<The vent is going to open in 10sec>>>": {
-    "translation": "<<<通风口10秒后就会打开>>>"
+  "<<< The vent is going to open in 10 sec >>>": {
+    "translation": "<<< 通风口10秒钟后就会打开 >>>"
   },
-  "<<<Prepare to run.>>>": {
-    "translation": "<<<准备开溜!>>>"
+  "<<< Prepare to run. >>>": {
+    "translation": "<<< 准备跑路... >>>"
   }
 }
