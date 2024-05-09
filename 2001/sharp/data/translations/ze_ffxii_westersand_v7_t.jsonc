@@ -1,0 +1,283 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** Zombies Have Escaped **": {
+    "translation": "** 僵尸成功逃离!你们输了 **"
+  },
+  "[WINNER] Selected [NORMAL MODE] for next round": {
+    "translation": "[胜利者]选择了下一回合为[普通难度]"
+  },
+  "[WINNER] Selected [HARD MODE] for next round": {
+    "translation": "[胜利者]选择了下一回合为[困难难度]"
+  },
+  "[WINNER] Selected [EXTREME MODE] for next round": {
+    "translation": "[胜利者]选择了下一回合为[极限难度]"
+  },
+  "[WINNER] Selected [EPIC MODE] for next round": {
+    "translation": "[胜利者]选择了下一回合为[史诗难度]"
+  },
+  "** ZOMBIES RELEASED IN 2 SECS **": {
+    "translation": "** 僵尸在2秒后出狱 **"
+  },
+  "** Cover 20 seconds till the rock explodes **": {
+    "translation": "** 守住20s直到岩石裂开 **",
+    "blocked": true
+  },
+  "** Cover 30 seconds till the rock explodes **": {
+    "translation": "** 守住30s直到岩石裂开 **"
+  },
+  "** The dragon has been defeated **": {
+    "translation": "** 龙已经被打败 **"
+  },
+  "[WINNER] Selected [GOD MODE] for next round": {
+    "translation": "[胜利者]选择了下一回合为[上帝难度]"
+  },
+  "** Defend here so the guards will open the gates to the city! **": {
+    "translation": "** 守住这里然后守卫将会为你打开通往城市的门! **"
+  },
+  "** The dragon has been defeated! GOGOGO **": {
+    "translation": "** 龙被打败了!快溜 **"
+  },
+  "[ADMIN] Restarting round in 5 seconds.": {
+    "translation": "[管理员] 在 5 秒后重新开始回合."
+  },
+  "[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds.": {
+    "translation": "[管理员] 已选择[史诗难度].5秒后重启回合."
+  },
+  "[ADMIN] Selected [HARD MODE] for next round. Restarting round in 5 seconds.": {
+    "translation": "[管理员] 已选择[困难难度].5秒后重启回合."
+  },
+  "[ADMIN] Selected [ZOMBIE MODE] for next round. Restarting round in 5 seconds.": {
+    "translation": "[管理员] 已选择 [僵尸感染模式].5秒后重启回合."
+  },
+  "[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds.": {
+    "translation": "[管理员] 已选择[上帝难度].5秒后重启回合."
+  },
+  "[ADMIN] Selected [EXTREME MODE] for next round. Restarting round in 5 seconds.": {
+    "translation": "[管理员] 已选择[极限难度].5秒后重启回合."
+  },
+  "[ADMIN] Selected [NORMAL MODE] for next round. Restarting round in 5 seconds.": {
+    "translation": "[管理员] 已选择[普通难度].5秒后重启回合."
+  },
+  "** Defend untill the guards open the airport. **": {
+    "translation": "** 防守直到机场大门开放. **"
+  },
+  "** Airport opened. **": {
+    "translation": "** 机场门已打开. **"
+  },
+  "** Defend 25 seconds untill the guards open the hallway. **": {
+    "translation": "** 坚守25秒,直至守卫开放走廊. **"
+  },
+  "** 5 Seconds left **": {
+    "translation": "** 还剩5秒 **"
+  },
+  "** The second door will open in 15 seconds **": {
+    "translation": "** 第二扇门将在15秒后打开 **"
+  },
+  "** The first door will open in 10 seconds **": {
+    "translation": "** 第一扇门将在10秒后打开 **"
+  },
+  "** Keep defending!! **": {
+    "translation": "** 继续防守!! **"
+  },
+  "** The elevator will leave in 20 seconds **": {
+    "translation": "** 电梯将在20秒后离开 **"
+  },
+  "** The elevator will leave in 5 seconds **": {
+    "translation": "** 电梯将在5秒后离开 **",
+    "blocked": true
+  },
+  "** MAP BY SLAYERDRAGON **": {
+    "translation": "** 地图作者:SLAYERDRAGON  地图汉化:小妖梦@风云社**"
+  },
+  "** ZM JAIL OPEN **": {
+    "translation": "** 尸笼已开,你们打的太慢了! **"
+  },
+  "** The airship reactors are going to explode!! **": {
+    "translation": "** 飞船的反应装置要爆炸了!! **"
+  },
+  "** CHAOS is using a deathwall - RUN FASTER!! **": {
+    "translation": "** 轮回王卡奥斯正在使用死亡之墙 - 不想死就往前跑!! **"
+  },
+  "** Chaos has been defeated - RUN !!!!! **": {
+    "translation": "** 轮回王卡奥斯已死 - 快上平台 !!!!! **"
+  },
+  "** Door will open in 5 seconds **": {
+    "translation": "** 门将在5秒后打开 **"
+  },
+  "** Second door will open in 10 seconds **": {
+    "translation": "** 第二扇门将在10秒后打开 **"
+  },
+  "** Hold 10 more seconds!! **": {
+    "translation": "** 在坚持10秒!! **"
+  },
+  "** The guardians are dead!! Run back to the entrance!! **": {
+    "translation": "** 裁判长伽布勒斯已被击败!! 快跑回出口!! **"
+  },
+  "** The battlemage is down!! **": {
+    "translation": "** 战斗兵已倒!! **"
+  },
+  "** The healer is down!! **": {
+    "translation": "** 医疗兵已倒!! **"
+  },
+  "** Cover here till the rock explodes **": {
+    "translation": "** 防守直到岩石裂开 **"
+  },
+  "** Teleporter will be ready in 20 seconds! **": {
+    "translation": "** 传送器还有20秒启动! **"
+  },
+  "** Teleporter will be ready in 5 seconds! **": {
+    "translation": "** 传送器还有5秒启动! **"
+  },
+  "** Defend here for 30 seconds **": {
+    "translation": "** 防守30秒 **"
+  },
+  "** 5 more seconds **": {
+    "translation": "** 还有5秒 **"
+  },
+  "** FIRE NOVA INBOUND **": {
+    "translation": "** 大火来袭 **"
+  },
+  "** METEOR INBOUND **": {
+    "translation": "** 流星陨落 **"
+  },
+  "** USE ELECTRO TO  BREAK IT **": {
+    "translation": "** 快使用电神器来破坏它 **"
+  },
+  "** USE WATER TO DODGE IT  **": {
+    "translation": "** 用水或者奶抵消它  **"
+  },
+  "** Go to the end of the road! **": {
+    "translation": "** 快跑到道路的尽头! **"
+  },
+  "** 5 SECS REMAINING **": {
+    "translation": "** 还剩5秒 **",
+    "blocked": true
+  },
+  "** 10 SECS REMAINING **": {
+    "translation": "** 还剩10秒 **",
+    "blocked": true
+  },
+  "** 20 SECS REMAINING **": {
+    "translation": "** 还剩20秒 **",
+    "blocked": true
+  },
+  "** 40 SECS REMAINING **": {
+    "translation": "** 还剩40秒 **",
+    "blocked": true
+  },
+  "** 30 SECS REMAINING **": {
+    "translation": "** 还剩30秒 **",
+    "blocked": true
+  },
+  "** 50 SECS REMAINING **": {
+    "translation": "** 还剩50秒 **",
+    "blocked": true
+  },
+  "** 60 SECS REMAINING **": {
+    "translation": "** 还剩60秒 **",
+    "blocked": true
+  },
+  "** 70 SECS REMAINING **": {
+    "translation": "** 还剩70秒 **"
+  },
+  "** Cover 10 seconds till the rock explodes **": {
+    "translation": "** 防守10秒,直到岩石裂开 **"
+  },
+  "** THANKS FOR PLAYING **": {
+    "translation": "** 感谢你的游玩 **"
+  },
+  "sm_cCONGRATULATIONS!!": {
+    "translation": "** 祝贺!! **"
+  },
+  "** Congratulations - u won [NORMAL] **": {
+    "translation": "** 恭喜你 - 你成功通关了 [普通难度] **"
+  },
+  "** Congratulations - u won [HARD] **": {
+    "translation": "** 恭喜你 - 你成功通关了 [困难难度] **"
+  },
+  "** Congratulations - u won [EXTREME] **": {
+    "translation": "** 恭喜你 - 你成功通关了 [极限难度] **"
+  },
+  "** Congratulations - u won [EPIC] **": {
+    "translation": "** 恭喜你 - 你成功通关了 [史诗难度] **"
+  },
+  "** Congratulations - u won [GODMODE] **": {
+    "translation": "** 恭喜你 - 你成功通关了 [上帝难度] **"
+  },
+  "** There is a error in the level system. **": {
+    "translation": "** 当前系统有一个错误. **"
+  },
+  "[NORMAL MODE]": {
+    "translation": "[普通难度]"
+  },
+  "[HARD MODE]": {
+    "translation": "[困难难度]"
+  },
+  "[EXTREME MODE]": {
+    "translation": "[极限难度]"
+  },
+  "[EPIC MODE]": {
+    "translation": "[史诗难度]"
+  },
+  "[GOD MODE]": {
+    "translation": "[上帝难度]"
+  },
+  "[ZOMBIE MODE]": {
+    "translation": "[僵尸感染模式]"
+  },
+  "** NUKE IN 80 SECONDS **": {
+    "translation": "** 距离核打击还剩80秒 **"
+  },
+  "** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **": {
+    "translation": "** 所有人将在10秒后传送到陆行鸟走廊 **"
+  },
+  "** TELEPORTING EVERYONE TO CHOCOBORACE **": {
+    "translation": "** 所有人已传送至陆行鸟走廊,快往前跑! **"
+  },
+  "** NUKE IN 20 SECONDS **": {
+    "translation": "** 距离核打击还剩20秒 **"
+  },
+  "[3 WINS IN A ROW] Easteregg unlocked!": {
+    "translation": "恭喜你们三连胜!彩蛋已触发"
+  },
+  "** Nades do a lot of damage **": {
+    "translation": "** 手雷将对boss造成更多的伤害 **"
+  },
+  "** Nades do more damage **": {
+    "translation": "** 手雷的伤害对boss很高 **"
+  },
+  "** U have failed... **": {
+    "translation": "** 你失败了... **"
+  },
+  "** A player has learned Electro magick. **": {
+    "translation": "** 一位玩家习得了电魔法. **"
+  },
+  "** A player has learned Fire magick. **": {
+    "translation": "** 一位玩家习得了火魔法. **"
+  },
+  "** A player has learned Earth magick. **": {
+    "translation": "** 一位玩家习得了土魔法. **"
+  },
+  "** A player has learned Holy magick. **": {
+    "translation": "** 一位玩家习得了终极(小心, 只有一次机会). **"
+  },
+  "** A player has learned Heal magick. **": {
+    "translation": "** 一位玩家习得了奶魔法. **"
+  },
+  "** A player has learned Wind magick. **": {
+    "translation": "** 一位玩家习得了风魔法. **"
+  },
+  "** A player has learned Water magick. **": {
+    "translation": "** 一位玩家习得了水魔法. **"
+  }
+}
