@@ -53,7 +53,7 @@
   {
     "id": "1549",
     "cd": 540,
-    "mode": 7,
+    "mode": 2,
     "name": "你说我做",
     "class": "func_button",
     "event": "OnPressed"
@@ -101,7 +101,7 @@
   {
     "id": "1566",
     "cd": 600,
-    "mode": 7,
+    "mode": 2,
     "name": "抢板凳",
     "class": "func_button",
     "event": "OnPressed"
@@ -110,7 +110,7 @@
     "id": "1569",
     "cd": 300,
     "mode": 0,
-    "name": "对枪",
+    "name": "自建防御战",
     "class": "func_button",
     "event": "OnPressed"
   },
@@ -125,7 +125,7 @@
   {
     "id": "1564",
     "cd": 540,
-    "mode": 7,
+    "mode": 6,
     "name": "俄罗斯方块",
     "class": "func_button",
     "event": "OnPressed"
@@ -133,8 +133,8 @@
   {
     "id": "1572",
     "cd": 600,
-    "mode": 7,
-    "name": "运气游戏",
+    "mode": 2,
+    "name": "激光房",
     "class": "func_button",
     "event": "OnPressed"
   }
