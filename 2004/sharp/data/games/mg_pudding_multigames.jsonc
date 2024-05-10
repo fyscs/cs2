@@ -77,7 +77,7 @@
   {
     "id": "1159",
     "cd": 600,
-    "mode": 6,
+    "mode": 5,
     "name": "bhop",
     "class": "func_button",
     "event": "OnPressed"
