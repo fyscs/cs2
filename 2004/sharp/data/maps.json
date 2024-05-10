@@ -97,6 +97,13 @@
     "nomination": false,
     "admin": false
   },
+  "mg_pudding_multigames": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 8,
+    "nomination": false,
+    "admin": true
+  },
   "mg_race_long_road_extended": {
     "certainTimes": [-1],
     "price": 300,
