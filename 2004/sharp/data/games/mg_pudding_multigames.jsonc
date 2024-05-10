@@ -28,7 +28,7 @@
   },
   {
     "id": "1148",
-    "cd": 960,
+    "cd": 600,
     "mode": 0,
     "name": "1v1沙鹰爆头",
     "class": "func_button",
@@ -36,7 +36,7 @@
   },
   {
     "id": "817",
-    "cd": 960,
+    "cd": 600,
     "mode": 0,
     "name": "1v1沙鹰100hp",
     "class": "func_button",
@@ -44,7 +44,7 @@
   },
   {
     "id": "789",
-    "cd": 480,
+    "cd": 420,
     "mode": 3,
     "name": "电击枪",
     "class": "func_button",
@@ -68,7 +68,7 @@
   },
   {
     "id": "1146",
-    "cd": 480,
+    "cd": 420,
     "mode": 0,
     "name": "大狙",
     "class": "func_button",
@@ -76,7 +76,7 @@
   },
   {
     "id": "1159",
-    "cd": 720,
+    "cd": 600,
     "mode": 6,
     "name": "bhop",
     "class": "func_button",
@@ -84,7 +84,7 @@
   },
   {
     "id": "1157",
-    "cd": 480,
+    "cd": 420,
     "mode": 2,
     "name": "布丁在哪里",
     "class": "func_button",
@@ -100,7 +100,7 @@
   },
   {
     "id": "1153",
-    "cd": 720,
+    "cd": 600,
     "mode": 2,
     "name": "足球",
     "class": "func_button",
@@ -108,7 +108,7 @@
   },
   {
     "id": "1167",
-    "cd": 480,
+    "cd": 420,
     "mode": 0,
     "name": "主机传送器(买枪)",
     "class": "func_button",
@@ -116,7 +116,7 @@
   },
   {
     "id": "993",
-    "cd": 480,
+    "cd": 420,
     "mode": 0,
     "name": "连喷",
     "class": "func_button",
@@ -124,7 +124,7 @@
   },
   {
     "id": "1465",
-    "cd": 480,
+    "cd": 420,
     "mode": 0,
     "name": "手枪对决",
     "class": "func_button",
@@ -132,7 +132,7 @@
   },
   {
     "id": "1163",
-    "cd": 480,
+    "cd": 420,
     "mode": 0,
     "name": "ak47",
     "class": "func_button",
@@ -140,7 +140,7 @@
   },
   {
     "id": "1161",
-    "cd": 480,
+    "cd": 420,
     "mode": 0,
     "name": "m4a1-s",
     "class": "func_button",
@@ -148,7 +148,7 @@
   },
   {
     "id": "1169",
-    "cd": 480,
+    "cd": 420,
     "mode": 2,
     "name": "滑冰",
     "class": "func_button",
@@ -156,7 +156,7 @@
   },
   {
     "id": "808",
-    "cd": 960,
+    "cd": 600,
     "mode": 2,
     "name": "1v1刀战",
     "class": "func_button",
@@ -164,7 +164,7 @@
   },
   {
     "id": "989",
-    "cd": 480,
+    "cd": 420,
     "mode": 1,
     "name": "手雷",
     "class": "func_button",
@@ -172,7 +172,7 @@
   },
   {
     "id": "1171",
-    "cd": 480,
+    "cd": 420,
     "mode": 0,
     "name": "随机冲锋枪",
     "class": "func_button",
@@ -180,7 +180,7 @@
   },
   {
     "id": "991",
-    "cd": 480,
+    "cd": 420,
     "mode": 0,
     "name": "渴血之枪",
     "class": "func_button",
