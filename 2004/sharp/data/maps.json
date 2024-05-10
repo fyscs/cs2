@@ -46,7 +46,7 @@
     "price": 300,
     "cooldown": 8,
     "nomination": false,
-    "admin": true
+    "admin": false
   },
   "mg_kennys_multigames_x1": {
     "certainTimes": [-1],
