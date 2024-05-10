@@ -1,0 +1,106 @@
+// BossHP configuration file generator.
+// Boss Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+
+{
+  "Counters": [
+    {
+      "iterator": "lvl2_boss_health_base",
+      "counter": "lvl2_boss_health_backup",
+      "hitbox": "bosslvl3_hit",
+      "display": "Boss"
+    },
+    {
+      "iterator": "boss_lvl2_health_base",
+      "counter": "boss_lvl2_health_backup",
+      "hitbox": "bosslvl2_hit",
+      "display": "Boss"
+    },
+    {
+      "iterator": "lvl2_endboss_health_base",
+      "counter": "lvl2_endboss_health_backup",
+      "hitbox": "bosslvl3_end_hit",
+      "display": "Boss"
+    },
+    {
+      "iterator": "lvl1_boss_health_base",
+      "counter": "boss_health_backup",
+      "hitbox": "bosslvl1_hit",
+      "display": "Boss"
+    },
+    {
+      "iterator": "beam_boss_health_base",
+      "counter": "beam_boss_health_backup",
+      "hitbox": "bosslvl4_beam_hit",
+      "display": "Beam"
+    },
+    {
+      "iterator": "minigun_boss_health_base",
+      "counter": "minigun_boss_health_backup",
+      "hitbox": "bosslvl4_minigun_hit",
+      "display": "Minigun"
+    },
+    {
+      "iterator": "launcher_boss_health_base",
+      "counter": "launcher_boss_health_backup",
+      "hitbox": "bosslvl4_launcher_hit",
+      "display": "Launcher"
+    },
+    {
+      "iterator": "tank_boss_health_base",
+      "counter": "tank_boss_health_backup",
+      "hitbox": "bosslvl4_tank_hit",
+      "display": "Tank"
+    },
+    {
+      "iterator": "bosslvl4_health_base",
+      "counter": "bosslvl4_health_backup",
+      "hitbox": "bosslvl4_hit",
+      "display": "Boss"
+    },
+    {
+      "iterator": "lvl3_harpyboss_health_base",
+      "counter": "lvl3_harpyboss_health_backup",
+      "hitbox": "bosslvl3_harpy_hit",
+      "display": "harpy"
+    },
+    {
+      "iterator": "bosslvl4end_health_base",
+      "counter": "bosslvl4end_health_backup",
+      "hitbox": "bosslvl4end_hit",
+      "display": "EndGame"
+    },
+    {
+      "iterator": "lvl4_pillar_g_counter",
+      "hitbox": "lvl4_pillar_g_hit",
+      "display": "Green"
+    },
+    {
+      "iterator": "lvl4_pillar_b_counter",
+      "hitbox": "lvl4_pillar_b_hit",
+      "display": "Blue"
+    },
+    {
+      "iterator": "lvl4_pillar_r_counter",
+      "hitbox": "lvl4_pillar_r_hit",
+      "display": "Red"
+    },
+    {
+      "iterator": "lvl4_pillar_y_counter",
+      "hitbox": "lvl4_pillar_y_hit",
+      "display": "Yellow"
+    }
+  ]
+}
