@@ -981,7 +981,7 @@
   },
   "ze_boatescape_ultimate": {
     "certainTimes": [-1],
-    "price": 300,
+    "price": 800,
     "cooldown": 30,
     "nomination": false,
     "admin": false
