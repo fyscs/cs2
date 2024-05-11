@@ -1091,7 +1091,7 @@
     "nomination": false,
     "admin": true
   },
-  "ze_box_defend_v1_3": {
+  "ze_box_defend_v1_4": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
