@@ -16,21 +16,21 @@
   "ze_shroomforest_i": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 40,
+    "cooldown": 50,
     "nomination": true,
     "admin": false
   },
   "ze_shroomforest2_i": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 40,
+    "cooldown": 50,
     "nomination": true,
     "admin": false
   },
   "ze_8bit": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 500,
-    "cooldown": 80,
+    "cooldown": 60,
     "nomination": true,
     "admin": false
   },
@@ -142,7 +142,7 @@
   "ze_biohazard_manor_004_p": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 30,
+    "cooldown": 50,
     "nomination": false,
     "admin": false
   },
@@ -261,7 +261,7 @@
   "ze_eternal_journey": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 500,
-    "cooldown": 80,
+    "cooldown": 60,
     "nomination": true,
     "admin": false
   },
@@ -275,14 +275,14 @@
   "ze_fapescape_p": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 500,
-    "cooldown": 80,
+    "cooldown": 60,
     "nomination": true,
     "admin": false
   },
   "ze_fapescape_rote_p": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 500,
-    "cooldown": 80,
+    "cooldown": 60,
     "nomination": true,
     "admin": false
   },
@@ -401,7 +401,7 @@
   "ze_otakuroom_pt": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 50,
+    "cooldown": 60,
     "nomination": true,
     "admin": false
   },
@@ -534,7 +534,7 @@
   "ze_obj_rampage_v1_2": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 1600,
-    "cooldown": 150,
+    "cooldown": 100,
     "nomination": true,
     "admin": false
   },
@@ -653,7 +653,7 @@
   "ze_requiem_test": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 300,
-    "cooldown": 50,
+    "cooldown": 60,
     "nomination": true,
     "admin": false
   },
@@ -674,14 +674,14 @@
   "ze_s_a_m": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 1200,
-    "cooldown": 120,
+    "cooldown": 100,
     "nomination": true,
     "admin": false
   },
   "ze_sandstorm_cs2": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 50,
+    "cooldown": 60,
     "nomination": true,
     "admin": false
   },
@@ -751,7 +751,7 @@
   "ze_starwars_v2fix": {
     "certainTimes": [-1],
     "price": 500,
-    "cooldown": 50,
+    "cooldown": 60,
     "nomination": true,
     "admin": false
   },
@@ -765,28 +765,28 @@
   "ze_surf_danger_p": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 300,
-    "cooldown": 30,
+    "cooldown": 80,
     "nomination": true,
     "admin": false
   },
   "ze_surf_gypt_p": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 300,
-    "cooldown": 30,
+    "cooldown": 80,
     "nomination": true,
     "admin": false
   },
   "ze_surf_saltfish_cs2": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 300,
-    "cooldown": 30,
+    "cooldown": 80,
     "nomination": true,
     "admin": false
   },
   "ze_surf_vortex_p": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 300,
-    "cooldown": 30,
+    "cooldown": 80,
     "nomination": true,
     "admin": false
   },
@@ -898,7 +898,7 @@
   "ze_biohazard2_rpd_004_p": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 30,
+    "cooldown": 50,
     "nomination": false,
     "admin": false
   },
@@ -933,14 +933,14 @@
   "ze_obf_filth_v1": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 1600,
-    "cooldown": 150,
+    "cooldown": 100,
     "nomination": true,
     "admin": false
   },
   "ze_obf_npst_v1": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 1600,
-    "cooldown": 150,
+    "cooldown": 100,
     "nomination": true,
     "admin": false
   },
@@ -1031,21 +1031,21 @@
   "ze_only_up": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 30,
+    "cooldown": 60,
     "nomination": false,
     "admin": false
   },
   "ze_surf_okitsu_shonyudo": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 30,
+    "cooldown": 80,
     "nomination": false,
     "admin": false
   },
   "ze_firewall_laboratory_part2_p": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 30,
+    "cooldown": 50,
     "nomination": false,
     "admin": false
   },
@@ -1136,7 +1136,7 @@
   "ze_obj_encounter_a2": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 1600,
-    "cooldown": 150,
+    "cooldown": 100,
     "nomination": true,
     "admin": false
   },
