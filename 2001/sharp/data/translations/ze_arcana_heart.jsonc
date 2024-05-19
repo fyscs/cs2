@@ -1,0 +1,149 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "「Duration」 8 sec 「Cooldown」 60 sec": {
+    "translation": "「持续时间」 8秒持续时间,60秒冷却",
+    "blocked": true
+  },
+  "「Function」 Decelerate zombies within the range": {
+    "translation": "「技能」 剧烈减速范围内的僵尸"
+  },
+  "「Gravity」": {
+    "translation": "「流星瀑布」"
+  },
+  ">>Reflect<<": {
+    "translation": ">>反射<<"
+  },
+  "「Duration」 10 sec 「Cooldown」 60 sec": {
+    "translation": "「持续」 10秒持续时间,60秒冷却",
+    "blocked": true
+  },
+  "「Function」 Create a cube that can be climbed (It can be destroyed by humans)": {
+    "translation": "「技能」 创造一个可以攀爬的立方体方块(它可以被人类摧毁)"
+  },
+  "「Cube(ZM)」": {
+    "translation": "「方块(僵尸)」"
+  },
+  "「Duration」 20 sec 「Cooldown」 80 sec": {
+    "translation": "「持续」 20秒持续时间,80秒冷却",
+    "blocked": true
+  },
+  "「Function」 Create a heart, shoot it to restore health in area": {
+    "translation": "「技能」 创造一块爱心,射击它来恢复血量"
+  },
+  "「Heart」": {
+    "translation": "「阿卡纳之心」"
+  },
+  ">>Motion or Stillness<<": {
+    "translation": ">>动亦或是原地不动<<"
+  },
+  ">>Stage Failed<<": {
+    "translation": ">>关卡失败<<"
+  },
+  ">Maybe the cubes can be climbed<": {
+    "translation": ">这块方块也许可以爬上去<"
+  },
+  "「Duration」 7 sec 「Cooldown」 70 sec": {
+    "translation": "「持续」 7秒持续时间,70秒冷却",
+    "blocked": true
+  },
+  "「Function」 Create a water wave in front of you, slowing and dragging humans": {
+    "translation": "「技能」 在你正对方创造一片水波,它可以将人类拖拽且减速回来"
+  },
+  "「Water(ZM)」": {
+    "translation": "「涟漪之波(僵尸)」"
+  },
+  "> 2 - F <": {
+    "translation": "> 假结局 <"
+  },
+  "> 2 - T <": {
+    "translation": "> 真结局 <"
+  },
+  "> E X <": {
+    "translation": "> EX模式 <"
+  },
+  "「Duration」 5 sec 「Cooldown」 50 sec": {
+    "translation": "「持续」 5秒持续时间,50秒冷却",
+    "blocked": true
+  },
+  "「Function」 Restore zombies HP in range and increase speed": {
+    "translation": "「技能」 恢复范围内的僵尸血量,且提高移动速度"
+  },
+  "「Heal(ZM)」": {
+    "translation": "「加速(僵尸)」"
+  },
+  "「Push」": {
+    "translation": "「推力」"
+  },
+  "「Function」Push zombies in the direction of the crosshair": {
+    "translation": "「技能」把僵尸推往准心的方向"
+  },
+  "「Duration」6 sec 「Cooldown」50 sec": {
+    "translation": "「持续」6秒持续时间,50秒冷却",
+    "blocked": true
+  },
+  "「Duration」 6 sec 「Cooldown」 80 sec": {
+    "translation": "「持续」6秒持续时间,80秒冷却",
+    "blocked": true
+  },
+  "「Function」 Reverse human items effects (except item <Heart<<Push<)": {
+    "translation": "「技能」反转人类的神器,使其技能作用于人类<治疗,推力除外>"
+  },
+  "「Reverse(ZM)」": {
+    "translation": "「逆转之心(僵尸)」"
+  },
+  "「Duration」 7 sec 「Cooldown」 80 sec": {
+    "translation": "「持续」7秒持续时间,80秒冷却",
+    "blocked": true
+  },
+  "「Function」 Create a circular barrier to block zombies": {
+    "translation": "「技能」 创造一块圆形屏障阻挡僵尸"
+  },
+  "「Barrier」": {
+    "translation": "「审判之盾」"
+  },
+  "「Tips」 Human can touch <Red Ball> to recover 3 HP and zombie touch it to reduce human 1 hp (CD:3s) in first part.": {
+    "translation": "「提示」 人类触摸红球可以恢复3点生命值,僵尸触摸红球可以减少人类1点生命值(3秒冷却).",
+    "blocked": true
+  },
+  "「Tips」 Human must touch <Blue Key> to recover 3 HP and avoiding damage in second part.": {
+    "translation": "「提示」 人类必须触碰天上蓝色的空格才能恢复3点生命值,否则会扣血.",
+    "blocked": true
+  },
+  "「Hard Mode」": {
+    "translation": "「困难模式」"
+  },
+  "「Tips」 Human must touch <Blue Snake> and <Long Key> to avoiding damage in second part.": {
+    "translation": "「提示」 人类必须触碰蓝蛇和长键,否则会扣血."
+  },
+  ">>Functional testing version<<": {
+    "translation": ">>测试版本<<"
+  },
+  ">>Illumination will be fixed later<<": {
+    "translation": ">>过断时间将修复光影<<"
+  },
+  ">> 25 <<": {
+    "translation": ">> 真结局触发25% <<",
+    "blocked": true
+  },
+  ">> 50 <<": {
+    "translation": ">> 真结局触发50% <<",
+    "blocked": true
+  },
+  ">> 75 <<": {
+    "translation": ">> 真结局触发75% <<",
+    "blocked": true
+  },
+  ">> 100 <<": {
+    "translation": ">> 真结局已触发 <<"
+  }
+}
