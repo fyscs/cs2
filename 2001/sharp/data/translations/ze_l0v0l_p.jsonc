@@ -1,0 +1,343 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> PLAYER HAS PICKED UP WIND TOILET <<<": {
+    "translation": ">>> 一名人类获得了风马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP WATER TOILET <<<": {
+    "translation": ">>> 一名人类获得了水马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP EARTH TOILET <<<": {
+    "translation": ">>> 一名人类获得了土马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP GRAVITY TOILET <<<": {
+    "translation": ">>> 一名人类获得了黑洞马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP POISON TOILET <<<": {
+    "translation": ">>> 一名人类获得了毒马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<": {
+    "translation": ">>> 一名人类获得了电马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP ICE TOILET <<<": {
+    "translation": ">>> 一名人类获得了冰马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP FIRE TOILET <<<": {
+    "translation": ">>> 一名人类获得了火马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP SLOWER SPHERE <<<": {
+    "translation": ">>> 一名人类获得了减速带 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP WIND <<<": {
+    "translation": ">>> 一位人类获得了环形风 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<": {
+    "translation": ">>> 一名人类获得了激光 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<": {
+    "translation": ">>> 一名僵尸获得了奶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<": {
+    "translation": ">>> 一名僵尸获得了黑洞 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP AMMO <<<": {
+    "translation": ">>> 一名人类获得了弹药 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP HEAL <<<": {
+    "translation": ">>> 一名人类获得了奶 <<<"
+  },
+  ">>> STAGE 1 : GARDEN MODE<<<": {
+    "translation": ">>> 第一关: 神秘花园<<<"
+  },
+  ">>> Map made by Moray <<<": {
+    "translation": ">>> 地图作者:Moray 地图汉化:小妖梦@风云社 <<<"
+  },
+  ">>> Special thanks to hobbit <<<": {
+    "translation": ">>> 特别鸣谢: Hobbit <<<"
+  },
+  ">>> ADMIN CHANGED TO STAGE 1 <<<": {
+    "translation": ">>> 管理员选择了第一关 <<<"
+  },
+  ">>> ADMIN CHANGED TO STAGE 2 <<<": {
+    "translation": ">>> 管理员选择了第二关 <<<"
+  },
+  ">>> ADMIN CHANGED TO STAGE 3 <<<": {
+    "translation": ">>> 管理员选择了第三关 <<<"
+  },
+  ">>> STAGE 2 : FOREST MODE<<<": {
+    "translation": ">>> 第二关: 原始森林<<<"
+  },
+  ">>> STAGE 3 : FACILITY MODE<<<": {
+    "translation": ">>> 第三关: 狂轰乱炸<<<"
+  },
+  ">>> ADMIN PRESSED KILLALL BUTTON  <<<": {
+    "translation": ">>> 管理员处死了所有人  <<<"
+  },
+  ">>> HOLD 20 SECONDS <<<": {
+    "translation": ">>> 防守20秒 <<<"
+  },
+  ">>> HOLD 15 SECONDS <<<": {
+    "translation": ">>> 防守15秒 <<<"
+  },
+  ">>> TIME TO AVOID CANCER LAZERS <<<": {
+    "translation": ">>> 是时候展现真正的实力了! <<<"
+  },
+  ">>> FAIL ROUND <<<": {
+    "translation": ">>> 你失败了,真杂鱼~ <<<"
+  },
+  ">>> ROUTE1 : HOLD 20 SECONDS <<<": {
+    "translation": ">>> 路线一: 守住20秒 <<<"
+  },
+  ">>> ROUTE2 : HOLD 20 SECONDS <<<": {
+    "translation": ">>> 路线二: 守住20秒 <<<"
+  },
+  ">>> ROUTE3 : HOLD 15 SECONDS <<<": {
+    "translation": ">>> 路线二: 防守15秒 <<<"
+  },
+  ">>> HOLD 35 SECONDS <<<": {
+    "translation": ">>> 防守35秒 <<<"
+  },
+  ">>> HOLD 25 SECONDS <<<": {
+    "translation": ">>> 防守25秒 <<<"
+  },
+  ">>> GUNSHIP IS COMING <<<": {
+    "translation": ">>> 炮艇来袭 <<<"
+  },
+  ">>> 5 SECONDS LEFT <<<": {
+    "translation": ">>> 剩余5秒 <<<"
+  },
+  ">>> HOLD 10 SECONDS <<<": {
+    "translation": ">>> 坚守10秒 <<<"
+  },
+  ">>> STAGE 1 COMPLETED <<<": {
+    "translation": ">>> 关卡一胜利 <<<"
+  },
+  ">>> HOLD 30 SECONDS <<<": {
+    "translation": ">>> 守住30秒 <<<"
+  },
+  ">>> GARGANTUA IS DEFEATED <<<": {
+    "translation": ">>> 加尔干已被击败 <<<"
+  },
+  ">>> BARRIER BREAK IN 60 SECONDS <<<": {
+    "translation": ">>> 屏障将在60s后破碎 <<<"
+  },
+  ">>> GARGANTUA IS COMING <<<": {
+    "translation": ">>> 加尔干来袭 <<<"
+  },
+  ">>> AFK TELEPORT IN 5 SECONDS <<<": {
+    "translation": ">>> 挂机的僵尸将在5秒后传送 <<<"
+  },
+  ">>> PRIEST IS COMING <<<": {
+    "translation": ">>> 神父来袭 <<<"
+  },
+  ">>> WATCH OUT FOR TAEPODONG <<<": {
+    "translation": ">>> 小心大浦洞导弹 <<<"
+  },
+  ">>> STAGE 0 : DARK MODE<<<": {
+    "translation": ">>> 隐藏关: 里世界<<<"
+  },
+  ">>> IT'S PRIEST <<<": {
+    "translation": ">>> 是神父 <<<"
+  },
+  ">>> PRIEST DISAPPEARED <<<": {
+    "translation": ">>> 神父已被击败 <<<"
+  },
+  ">>> DISASTER IS ABOUT TO CAUSE ONCE AGAIN <<<": {
+    "translation": ">>> 重现灾厄之初 <<<"
+  },
+  ">>> THE TORCH WAS LIT <<<": {
+    "translation": ">>> 火炬已被点燃 <<<"
+  },
+  ">>> PRIEST CASTED MAGIC <<<": {
+    "translation": ">>> 神父正在施展魔法 <<<"
+  },
+  ">>> BLUE BUTTON WAS PRESSED <<<": {
+    "translation": ">>> 蓝色按钮已被按下 <<<"
+  },
+  ">>> RED BUTTON WAS PRESSED <<<": {
+    "translation": ">>> 红色按钮已被按下 <<<"
+  },
+  ">>> YELLOW BUTTON WAS PRESSED <<<": {
+    "translation": ">>> 黄色按钮已被按下 <<<"
+  },
+  ">>> 5 SECONDS LEFT  GET OUT FROM TRAIN <<<": {
+    "translation": ">>> 火车将在5秒后开车 <<<"
+  },
+  ">>> 5 SECONDS LEFT  WATCH OUT FOR TRAIN <<<": {
+    "translation": ">>> 给你5秒钟时间注意火车 <<<"
+  },
+  ">>> AFK TELEPORT IN 10 SECONDS <<<": {
+    "translation": ">>> 挂机的僵尸将在10秒后传送 <<<"
+  },
+  ">>> ROUTE 2 : AFK TELEPORT IN 10 SECONDS <<<": {
+    "translation": ">>> 路线二: 挂机的僵尸将在10秒传送 <<<"
+  },
+  ">>> ROUTE 1 : AFK TELEPORT IN 10 SECONDS <<<": {
+    "translation": ">>> 路线一: 挂机的僵尸将在10秒传送 <<<"
+  },
+  ">>> ZOMBIES TELEPORT IN 5 SECONDS <<<": {
+    "translation": ">>> 僵尸还有5秒传送 <<<"
+  },
+  ">>> ROUTE 1 : HOLD 20 SECONDS <<<": {
+    "translation": ">>> 路线一:防守20秒 <<<"
+  },
+  ">>> ROUTE 2 : HOLD 20 SECONDS <<<": {
+    "translation": ">>> 路线二:防守20秒 <<<"
+  },
+  ">>> QUEEN IS AWAKED <<<": {
+    "translation": ">>> 女王已被唤醒 <<<"
+  },
+  ">>> DEFEAT QUEEN AND BREAK ALL HER WEAPONS <<<": {
+    "translation": ">>> 打败女王和她的武器 <<<"
+  },
+  ">>> QUEEN IS DEFEATED <<<": {
+    "translation": ">>> 你们成功击败了女王 <<<"
+  },
+  ">>> EXIT IS OPEN <<<": {
+    "translation": ">>> 出口已经开启 <<<"
+  },
+  ">>> WATCH OUT FOR BEAM CANNON <<<": {
+    "translation": ">>> 当心光柱炮 <<<"
+  },
+  ">>> WATCH OUT FOR HUGE TAEPODONG <<<": {
+    "translation": ">>> 当心大浦洞导弹 <<<"
+  },
+  ">>> ENERGY TANK USED SHIELD TO QUEEN <<<": {
+    "translation": ">>> 能量箱保护了女王 <<<"
+  },
+  ">>> ENERGY TANK USED HEAL TO QUEEN <<<": {
+    "translation": ">>> 能量箱治愈了女王 <<<"
+  },
+  ">>> QUEEN CASTED LASER <<<": {
+    "translation": ">>> 女王施放了跳刀 <<<"
+  },
+  ">>> QUEEN CASTED TRAIN <<<": {
+    "translation": ">>> 女王施放了火车(远离车轨） <<<"
+  },
+  ">>> PRESS 3 BUTTONS TO MAKE PASSAGE <<<": {
+    "translation": ">>> 触发三个按钮打开大门 <<<"
+  },
+  ">>> GREEN PILLAR BROKEN <<<": {
+    "translation": ">>> 绿色柱子已断裂 <<<"
+  },
+  ">>> BLUE PILLAR BROKEN <<<": {
+    "translation": ">>> 蓝色柱子已断裂 <<<"
+  },
+  ">>> RED PILLAR BROKEN <<<": {
+    "translation": ">>> 红色柱子已断裂 <<<"
+  },
+  ">>> YELLOW PILLAR BROKEN <<<": {
+    "translation": ">>> 黄色柱子已断裂 <<<"
+  },
+  ">>> TELEPORTER WILL ACTIVATE SOON <<<": {
+    "translation": ">>> 传送器很快就启动了 <<<"
+  },
+  ">>> BREAK 4 PILLARS TO ACTIVATE TELEPORTER <<<": {
+    "translation": ">>> 打断四根柱子激活传送器 <<<"
+  },
+  ">>> HARPY IS COMING <<<": {
+    "translation": ">>> 哈耳庇厄来袭 <<<"
+  },
+  ">>> STAGE 3 COMPLETED <<<": {
+    "translation": ">>> 关卡三通关 <<<"
+  },
+  ">>> THE WORLD IS GOING TO DARK <<<": {
+    "translation": ">>> 欢迎来到...里世界 <<<"
+  },
+  ">>> NUKE KING IS DEFEATED <<<": {
+    "translation": ">>> 核子之王已被击败 <<<"
+  },
+  ">>> TELEPORTER IS ACTIVATED <<<": {
+    "translation": ">>> 传送器启动 <<<"
+  }, 
+  ">>> NUKE KING IS COMING <<<": {
+    "translation": ">>> 核子之王出现了 <<<"
+  },
+  ">>> QUEEN'S LAUGHTER SOUNDS FAINTLY <<<": {
+    "translation": ">>> 女王的笑声愈加放肆 <<<"
+  },
+  ">>> PRIEST DISAPPERED <<<": {
+    "translation": ">>> 神父消失了 <<<"
+  },
+  ">>> WE CAUGHT UP TO PRIEST <<<": {
+    "translation": ">>> 我们找到神父了 <<<"
+  },
+  ">>> SECRET STAGE COMPLETED <<<": {
+    "translation": ">>> 成功通关里世界 <<<"
+  },
+  ">>> FINALLY YOU ESCAPED FROM QUEEN <<<": {
+    "translation": ">>> 你成功从女王的毒爪逃离了出来 <<<"
+  },
+  ">>> PRIEST IS CALLING QUEEN <<<": {
+    "translation": ">>> 神父召唤了女王 <<<"
+  },
+  ">>> ADMIN CHANGED TO STAGE 0: DARK WORLD <<<": {
+    "translation": ">>> 管理员选择了第四关:里世界 <<<"
+  },
+  ">>> STAGE 2 COMPLETED <<<": {
+    "translation": ">>> 关卡二通关 <<<"
+  },
+  ">>> QUEEN CASTED VACUUM <<<": {
+    "translation": ">>> 女王铸造了真空 <<<"
+  },
+  ">>> QUEEN CASTED WIND <<<": {
+    "translation": ">>> 女王施放了狂风 <<<"
+  },
+  ">>> QUEEN CASTED SANIC RUSH <<<": {
+    "translation": ">>> 女王发起了冲击 <<<"
+  },
+  ">>> GET ON THE PLATFORM <<<": {
+    "translation": ">>> 站上站台 <<<"
+  },
+  ">>> PRIEST IS DEFEATED <<<": {
+    "translation": ">>> 神父已被击败 <<<"
+  },
+  ">>> GUNSHIP IS DEFEATED <<<": {
+    "translation": ">>> 炮艇已被击败 <<<"
+  },
+  ">>> HARPY IS DEFEATED <<<": {
+    "translation": ">>> 哈耳庇厄已被击败 <<<"
+  },
+  ">>> HARPY USED WIND <<<": {
+    "translation": ">>> 哈耳庇厄使用了狂风 <<<"
+  },
+  ">>> HARPY USED HUGE FEATHER <<<": {
+    "translation": ">>> 哈耳庇厄使用了大羽毛攻击 <<<"
+  },
+  ">>> HARPY USED FEATHER <<<": {
+    "translation": ">>> 哈耳庇厄使用了羽毛攻击 <<<"
+  },
+  ">>> HARPY USED LOL <<<": {
+    "translation": ">>> 哈耳庇厄使用了长线攻击 <<<"
+  },
+  ">>> WE NEED TO ACTIVATE THE TRAIN <<<": {
+    "translation": ">>> 我们得想办法启动这辆火车 <<<"
+  },
+  ">>> ENERGY TANK IS BROKEN <<<": {
+    "translation": ">>> 某个补给能量箱已被摧毁 <<<"
+  },
+  ">>> PAPER GATLING IS BROKEN <<<": {
+    "translation": ">>> 看起来打人很疼的加特林已被摧毁 <<<"
+  },
+  ">>> BEAM CANNON IS BROKEN <<<": {
+    "translation": ">>> 喜欢滋人的光束炮已被摧毁 <<<"
+  },
+  ">>> HUGE TAEPODONG LAUNCHER IS BROKEN <<<": {
+    "translation": ">>> 没素质乱轰人的大浦洞导弹已被摧毁 <<<"
+  },
+  ">>> QUEEN IS HURTED <<<": {
+    "translation": ">>> 女王受伤了 <<<"
+  },
+  ">>> QUEEN GOT POWER <<<": {
+    "translation": ">>> 女王获得了POWER!(此时一阵风暴声隐约响起) <<<"
+  }
+}
