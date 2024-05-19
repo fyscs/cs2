@@ -168,11 +168,33 @@
     "shortName": "引力",
     "buttonClass": "func_button",
     "hammerId": "548",
-    "triggerId": "546",
+    "triggerId": ["546"],
     "cooldown": 20,
     "team": 2,
     "knife": true,
     "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "巫术",
+    "shortName": "巫术",
+    "buttonClass": "func_button",
+    "hammerId": "569",
+    "triggerId": ["570"],
+    "cooldown": 20,
+    "team": 2,
+    "knife": true,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "l0v0l",
+    "shortName": "l0v0l",
+    "buttonClass": "func_physbox",
+    "hammerId": "795",
+    "team": 3,
+    "knife": false,
+    "mode": 0,
     "count": 1
   }
 ]
