@@ -1,0 +1,535 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** Door is opening in 30s **": {
+    "translation": "** 大门将在30秒后打开 **"
+  },
+  "** Maze exit is opening in 10s **": {
+    "translation": "** 迷宫出口将在10秒后打开 **"
+  },
+  "** Exit door is opening in 10s **": {
+    "translation": "** 大门将在10秒后打开 **"
+  },
+  "** Zombie items can be used again **": {
+    "translation": "** ZM神器可以再次使用 **"
+  },
+  "** 1000 scores have been rewarded to those got in and survived lasers for more than 5 seconds **": {
+    "translation": "** 获得1000分奖励的人可以在激光下存活5秒以上 **"
+  },
+  "** Someone got baited... **": {
+    "translation": "** 那是陷阱 wdf... **"
+  },
+  "** You have failed to escape from the temple **": {
+    "translation": "** 你没能从神庙里逃脱 **"
+  },
+  "** You must kill the temple creature before it kills you **": {
+    "translation": "** 在它杀死你之前杀了它 **"
+  },
+  "** GET TO THE HELICOPTER NOW! **": {
+    "translation": "** 撤离到上直升机 **"
+  },
+  "** KILL IT BEFORE IT KILLS YOU **": {
+    "translation": "** 向邪神开枪!在它撞死你之前杀死它! **"
+  },
+  "** Helicopter is infected **": {
+    "translation": "** 直升机检测到僵尸 **"
+  },
+  "** ROUND FAIL **": {
+    "translation": "** 任务失败 **"
+  },
+  "** YOU HAVE BEATEN THE MAP **": {
+    "translation": "** 你征服了这张地图 **"
+  },
+  "** DODGE THE LASERS AND KILL THE BOSS **": {
+    "translation": "** 打败复仇女神 **"
+  },
+  "** Door is opening in 10s **": {
+    "translation": "** 大门将在10秒后打开 **"
+  },
+  "** GO LEFT **": {
+    "translation": "** 向左边走 **"
+  },
+  "** HE IS DEAD! RUN FOR YOUR LYFE! **": {
+    "translation": "** 它死了!赶快撤退! **"
+  },
+  "** Door is opening in 25s **": {
+    "translation": "** 大门将在25秒后打开 **"
+  },
+  "** Find another key item!! **": {
+    "translation": "** 找到另一把钥匙 **"
+  },
+  "** Vampire **": {
+    "translation": "** <血继限界> 反伤,停枪! **"
+  },
+  "** Ricochet **": {
+    "translation": "** <天马流星拳> 硬抗或跳跃! **"
+  },
+  "** Divine Tears **": {
+    "translation": "** <冰天百花葬> 蹲下! **"
+  },
+  "** Force **": {
+    "translation": "** <神罗天征> 按住W! **"
+  },
+  "** Swallow **": {
+    "translation": "** <万象天引> 按住S! **"
+  },
+  "** Dancing Claw **": {
+    "translation": "** <天魔骸手> 使用治疗! **"
+  },
+  "** Boss defeated **": {
+    "translation": "** BOSS被打败了 **"
+  },
+  "** Retreat! **": {
+    "translation": "** 撤退! **"
+  },
+  "** You are too late. Boss enrage soon.. **": {
+    "translation": "** 太迟了,BOSS快狂暴了.. **"
+  },
+  "** Boss enrage in THREE minutes **": {
+    "translation": "** 你们只有三分钟的时间打败BOSS **"
+  },
+  "** Zombie items are temporary disabled **": {
+    "translation": "** ZM神器将会被禁用 **"
+  },
+  "** Temple door is opening soon **": {
+    "translation": "** 神庙第一扇门将在10秒后打开 **"
+  },
+  "** You must defend until the door opens **": {
+    "translation": "** 神庙第二扇门将在20秒后打开 **"
+  },
+  "** Fixing the door. Keep defending! **": {
+    "translation": "** 继续防守 **"
+  },
+  "** Door is opening in 15s **": {
+    "translation": "** 大门将在15秒后打开 **"
+  },
+  "** The door will open soon **": {
+    "translation": "** 大门不久后将会打开 **"
+  },
+  "** Just a little bit more... **": {
+    "translation": "** 再坚持一下 **"
+  },
+  "** Hang on... Keep defending! **": {
+    "translation": "** 坚持住...继续防守 **"
+  },
+  "** Maze exit is opening in 35s **": {
+    "translation": "** 迷宫出口将在35秒后打开 **"
+  },
+  "** Elevator is leaving in 20s **": {
+    "translation": "** 电梯将在20秒后启动 **"
+  },
+  "** Pit is opening in 40s **": {
+    "translation": "** 40秒后打开井口 **"
+  },
+  "** Pit is opening in 20s **": {
+    "translation": "** 20秒后打开井口 **",
+    "blocked": true
+  },
+  "** Nicely done! You got the correct combination! **": {
+    "translation": "** 做得好,钥匙被放在了正确的位置上! **"
+  },
+  "** Incorrect combination! The pit will open SLOWER!! **": {
+    "translation": "** 钥匙被放在了错误的位置!解锁失败,你们需要防守更长的时间 **"
+  },
+  "** ZM MODE **": {
+    "translation": "** ZM关 **"
+  },
+  "** Do not follow ZE path! Survive until nuke! **": {
+    "translation": "** 在核爆之前生存下来 **"
+  },
+  "儚い欠片\u3000舞い散る 虛幻的碎片\\在空中飛舞散落": {
+    "translation": "儚い欠片 舞い散る 虛幻的碎片 在空中飛舞散落",
+    "blocked": true
+  },
+  "その光\u3000全て照らし\\那道光芒\u3000照亮一切": {
+    "translation": "その光 全て照らし 那道光芒 照亮一切",
+    "blocked": true
+  },
+  "導き逢う...\\引導著相遇...": {
+    "translation": "導き逢う...引導著相遇...",
+    "blocked": true
+  },
+  "壊れてゆく\u3000感情の果て\\崩毀的思念的盡頭": {
+    "translation": "壊れてゆ く感情の果て 崩毀的思念的盡頭",
+    "blocked": true
+  },
+  "いつかの夢を捨てるよ\\曾經追求的夢境寧願全捨棄": {
+    "translation": "いつかの夢を捨てるよ 曾經追求的夢境寧願全捨棄",
+    "blocked": true
+  },
+  "正解の無い\u3000選択肢しか\\不存在正確的\u3000選項路線分歧": {
+    "translation": "正解の無い 選択肢しか 不存在正確的 選項路線分歧",
+    "blocked": true
+  },
+  "僕に殘されていないなら...\\看不清向何處前進迷離與嘆息...": {
+    "translation": "僕に殘されていないなら... 看不清向何處前進迷離與嘆息...",
+    "blocked": true
+  },
+  "fripSide - Hesitation Snow": {
+    "translation": "fripSide - 犹豫的雪",
+    "blocked": true
+  },
+  "季節はすでに暗く冷たく\\已經是冰冷幽暗的季節": {
+    "translation": "季節はすでに暗く冷たく 已經是冰冷幽暗的季節",
+    "blocked": true
+  },
+  "溫もり求めた心\\渴求溫存的心卻少了勇氣": {
+    "translation": "溫もり求めた心 渴求溫存的心卻少了勇氣",
+    "blocked": true
+  },
+  "君は現れ\u3000時間は止まり\\因為你出現時機\u3000讓時間隨之而停": {
+    "translation": "君は現れ 時間は止まり 因為你出現時機 讓時間隨之而停",
+    "blocked": true
+  },
+  "物語が始まった...\\然而故事物語已悄然進行...": {
+    "translation": "物語が始まった... 然而故事物語已悄然進行...",
+    "blocked": true
+  },
+  "真実に近づけば\\一旦與事實真相更接近": {
+    "translation": "真実に近づけば 一旦與事實真相更接近",
+    "blocked": true
+  },
+  "君を守ることでしか\\我就只能默默無語守護你": {
+    "translation": "君を守ることでしか 我就只能默默無語守護你",
+    "blocked": true
+  },
+  "想い示せないまま\\無法明示這份愛戀之情": {
+    "translation": "想い示せないまま 無法明示這份愛戀之情",
+    "blocked": true
+  },
+  "冷たい無情が絡まる\\冰冷的無情便糾葛一起不清": {
+    "translation": "冷たい無情が絡まる 冰冷的無情便糾葛一起不清",
+    "blocked": true
+  },
+  "墮ちていった\u3000純粋な瞳に\\不自覺望向你\u3000那純粹的眼睛": {
+    "translation": "墮ちていった 純粋な瞳に 不自覺望向你 那純粹的眼睛",
+    "blocked": true
+  },
+  "映る何もかも\u3000歪んでく...\\瞳孔裡歪斜與扭曲一切被照映...": {
+    "translation": "映る何もかも 歪んでく... 瞳孔裡歪斜與扭曲一切被照映...",
+    "blocked": true
+  },
+  "耳元囁く君の聲さえ\\就連耳邊輕響起你對我細語喃呢": {
+    "translation": "耳元囁く君の聲さえ 就連耳邊輕響起你對我細語喃呢",
+    "blocked": true
+  },
+  "悔しくなって\u3000傷をつけても\\後悔已經來不及\u3000早已弄傷了身體": {
+    "translation": "悔しくなって 傷をつけても 後悔已經來不及 早已弄傷了身體",
+    "blocked": true
+  },
+  "その意味は何処にも無い\\再怎麼撐下去也已無意義": {
+    "translation": "その意味は何処にも無い 再怎麼撐下去也已無意義",
+    "blocked": true
+  },
+  "永遠を求めれば\\倘若追尋永恆": {
+    "translation": "永遠を求めれば  倘若追尋永恆",
+    "blocked": true
+  },
+  "君の心に近づく?\\是否就能步步接近你的心?": {
+    "translation": "君の心に近づく?  是否就能步步接近你的心?",
+    "blocked": true
+  },
+  "終わりのない理想が\\停不下的理想永無止境": {
+    "translation": "終わりのない理想が  停不下的理想永無止境",
+    "blocked": true
+  },
+  "殘酷な痛みを誘う\\現實卻殘酷到只能嘆息哭泣": {
+    "translation": "殘酷な痛みを誘う  現實卻殘酷到只能嘆息哭泣",
+    "blocked": true
+  },
+  "誰一人も\u3000責められずに\\誰也無須在意\u3000更無任何罪刑": {
+    "translation": "誰一人も  責められずに  誰也無須在意  更無任何罪刑",
+    "blocked": true
+  },
+  "悪いのは\u3000自分だったと\\犯下錯誤一方正是我自己": {
+    "translation": "悪いのは  自分だったと  犯下錯誤一方正是我自己",
+    "blocked": true
+  },
+  "想い込んで\u3000耐え切れなくて\\被壓迫的思緒\u3000容忍不了罪名": {
+    "translation": "想い込んで  耐え切れなくて  被壓迫的思緒  容忍不了罪名",
+    "blocked": true
+  },
+  "僕は生まれ変わる\u3000心ごと...\\盡全力脫胎新生命洗滌淨心靈...": {
+    "translation": "僕は生まれ変わる  0心ごと...  盡全力脫胎新生命洗滌淨心靈...",
+    "blocked": true
+  },
+  "取り戻した\u3000記憶さえも\\就算是取回\u3000曾經擁有記憶": {
+    "translation": "取り戻した  記憶さえも  就算是取回  曾經擁有記憶",
+    "blocked": true
+  },
+  "どこか\u3000信じられなくて\\有些是連自己都無法相信": {
+    "translation": "どこか  0信じられなくて  有些是連自己都無法相信",
+    "blocked": true
+  },
+  "世界中が\u3000色を亡くしてく...\\世界曾有美麗\u3000顏色卻已消失殆盡...": {
+    "translation": "世界中が  0色を亡くしてく... 世界曾有美麗 0顏色卻已消失殆盡...",
+    "blocked": true
+  },
+  "もう\u3000気づいてた\\已經\u3000不可能迴避...": {
+    "translation": "もう  気づいてた  已經 不可能迴避...",
+    "blocked": true
+  },
+  "狂っている\u3000定義が今\\瘋狂如何定義\u3000失常錯亂如今": {
+    "translation": "狂っている  0定義が今  瘋狂如何定義 失常錯亂如今",
+    "blocked": true
+  },
+  "僕を見透かして... 操ってた\\被看清沒有了底細我已任你命令": {
+    "translation": "僕を見透かして... 操ってた 被看清沒有了底細我已任你命令",
+    "blocked": true
+  },
+  "儚い欠片\u3000舞い散る\\虛幻的碎片\u3000在空中飛舞散落": {
+    "translation": "儚い欠片  舞い散る  虛幻的碎片 在空中飛舞散落",
+    "blocked": true
+  },
+  "** Nuke is incoming **": {
+    "translation": "** 核爆来了 **"
+  },
+  "調和の糸\u3000手繰り寄せ\\拉起調和絲系墜落到淵底": {
+    "translation": "調和の糸  手繰り寄せ  拉起調和絲系墜落到淵底",
+    "blocked": true
+  },
+  "** Thanks for playing **": {
+    "translation": "** 感谢游玩! **"
+  },
+  "** 270 SECONDS LEFT **": {
+    "translation": "** 生存270秒 **"
+  },
+  "** 240 SECONDS LEFT **": {
+    "translation": "** 生存240秒 **",
+    "blocked": true
+  },
+  "** 180 SECONDS LEFT **": {
+    "translation": "** 生存180秒 **",
+    "blocked": true
+  },
+  "** 120 SECONDS LEFT **": {
+    "translation": "** 生存120秒 **",
+    "blocked": true
+  },
+  "** 60 SECONDS LEFT **": {
+    "translation": "** 生存60秒 **",
+    "blocked": true
+  },
+  "** 30 SECONDS LEFT **": {
+    "translation": "** 生存30秒 **",
+    "blocked": true
+  },
+  "** 15 SECONDS LEFT **": {
+    "translation": "** 生存15秒 **",
+    "blocked": true
+  },
+  "** 10 SECONDS LEFT **": {
+    "translation": "** 生存10秒**",
+    "blocked": true
+  },
+  "** 5 SECONDS LEFT **": {
+    "translation": "** 生存5秒**",
+    "blocked": true
+  },
+  "** MOVING ON TO STAGE 3 **": {
+    "translation": "** 第二章完成 **"
+  },
+  "** STAGE 2: Investigation **": {
+    "translation": "** 第二章:调查 **"
+  },
+  "** STAGE 1: Underground **": {
+    "translation": "** 第一章:探索 **"
+  },
+  "** STAGE 3: Escape **": {
+    "translation": "** 第三章:逃离 **"
+  },
+  "** Let's begin the adventure! **": {
+    "translation": "** 让我们开始吧! **"
+  },
+  "** Admin room is located behind the spawn **": {
+    "translation": "** 调关房就在出生点的后方 **"
+  },
+  "** TIP: search for key items when the console tells you to do so **": {
+    "translation": "** 提示:你们需要找到能使道路打开的钥匙 **"
+  },
+  "** TIP: most zombie teleports are quick so do not overdefend! **": {
+    "translation": "** 提示:大多数僵尸在门开后会很快传送 **"
+  },
+  "** TIP: one player must touch the closed door to trigger **": {
+    "translation": "** 提示:必须有一名玩家碰到门才可触发 **"
+  },
+  "** WARM UP - 60 SEC **": {
+    "translation": "** 热身:60秒 **"
+  },
+  "** WARM UP - 50 SEC **": {
+    "translation": "** 热身:50秒**",
+    "blocked": true
+  },
+  "** WARM UP - 40 SEC **": {
+    "translation": "** 热身:40秒 **",
+    "blocked": true
+  },
+  "** WARM UP - 30 SEC **": {
+    "translation": "** 热身:30秒 **",
+    "blocked": true
+  },
+  "** WARM UP - 20 SEC **": {
+    "translation": "** 热身:20秒 **",
+    "blocked": true
+  },
+  "** WARM UP - 10 SEC **": {
+    "translation": "** 热身:10秒 **",
+    "blocked": true
+  },
+  "** You are too slow! Boss enrage soon! **": {
+    "translation": "** 你们太迟了,BOSS狂暴了! **"
+  },
+  "** Vampire - stop shooting **": {
+    "translation": "** <血继限界> 反伤,停枪! **"
+  },
+  "** Ricochet - jump **": {
+    "translation": "** <天马流星拳> 硬抗或跳跃抵抗! **"
+  },
+  "** Divine Tears - crouch **": {
+    "translation": "** <冰天百花葬>  蹲下! **"
+  },
+  "** It's seems the door is locked **": {
+    "translation": "** 门好像锁上了 **"
+  },
+  "** Use the key to unlock it **": {
+    "translation": "** 用钥匙打开它 **"
+  },
+  "** Hint: key item owner must touch the locked door **": {
+    "translation": "** 提示:钥匙持有者必须靠近门才能解锁 **"
+  },
+  "** Button 2 pressed **": {
+    "translation": "** 按钮二触发 **"
+  },
+  "** Button 1 pressed **": {
+    "translation": "** 按钮一触发 **"
+  },
+  "** Nicely done **": {
+    "translation": "** 干得漂亮! **"
+  },
+  "** Door is opening in 20s **": {
+    "translation": "** 大门将在20秒后打开 **"
+  },
+  "** Find and press TWO buttons **": {
+    "translation": "** 寻找并按下两个按钮 **"
+  },
+  "** Door is opening in 40s **": {
+    "translation": "** 大门将在40秒后打开 **"
+  },
+  "** Door is opening in 35s **": {
+    "translation": "** 大门将在35秒后打开 **"
+  },
+  "** Nicely done! The door is going to unlock! **": {
+    "translation": "** 做得好,大门正在解锁 **"
+  },
+  "** JUMP! **": {
+    "translation": "** 跳!!! **"
+  },
+  "** Door is closing in 10s **": {
+    "translation": "** 大门将在10秒后关闭 **"
+  },
+  "** Survive 60s **": {
+    "translation": "** 生存60秒 **"
+  },
+  "** Air-strike is incoming **": {
+    "translation": "** 空袭来了 **"
+  },
+  "** Left fence is breaking in 30s **": {
+    "translation": "** 左边铁篱笆30秒后消失 **"
+  },
+  "** Vortex **": {
+    "translation": "** <破魔结界> **"
+  },
+  "** Sink **": {
+    "translation": "** <红莲地狱> 紧贴特效中间边缘 **"
+  },
+  "** Weight of the Land **": {
+    "translation": "** <爆流霰箭弾> 散开! **"
+  },
+  "** Gate is opening in 25s **": {
+    "translation": "** 大门将在25后打开 **"
+  },
+  "** Gate is opening in 40s **": {
+    "translation": "** 大门将在40后打开 **"
+  },
+  "** Press TWO buttons on both sides **": {
+    "translation": "** 尽快触发两个按钮 **"
+  },
+  "** Right fence is breaking in 30s **": {
+    "translation": "** 右边铁篱笆30秒后消失 **"
+  },
+  "** Servant - defend zombies from now **": {
+    "translation": "** <替身攻击>  BOSS召唤了它的小弟 **"
+  },
+  "** Boss defeated! RUN! **": {
+    "translation": "** BOSS被打败了!撤退! **"
+  },
+  "** Defend 20s **": {
+    "translation": "** 防守20秒 **"
+  },
+  "** Landslide - avoid red platform **": {
+    "translation": "** <土遁黄泉沼> 远离红色特效! **"
+  },
+  "** Weight of the Land - move away **": {
+    "translation": "** <爆流霰箭弾> 散开! **"
+  },
+  "** Rock is breaking in 10s **": {
+    "translation": "** 岩石将在10秒后碎裂 **"
+  },
+  "** Boss enrage! You are too slow! **": {
+    "translation": "** BOSS狂暴了! **"
+  },
+  "** Tumult - use heal **": {
+    "translation": "** <天魔骸手> 使用治疗 **"
+  },
+  "** It seems.. left flame, right fruit.. ? **": {
+    "translation": "** *那是什么..?火焰..?水果..? **"
+  },
+  "** Find two key items!! **": {
+    "translation": "** 寻找两把钥匙 **"
+  },
+  "** Door is opening in 40s *": {
+    "translation": "** 大门将在40秒后打开 *"
+  },
+  "** Helicopter is leaving 10s **": {
+    "translation": "** 直升机10秒后离开 **"
+  },
+  "** Kill all weakened zombies **": {
+    "translation": "** 杀死剩余的僵尸 **"
+  },
+  "** Hurry up! 15 seconds left **": {
+    "translation": "** 快点,还剩15秒 **"
+  },
+  "** MOVING ON TO STAGE 2 **": {
+    "translation": "** 第一章完成 **"
+  },
+  "** ADMIN SELECTED ZM MODE **": {
+    "translation": "** 管理员选择了ZM关 **"
+  },
+  "** ADMIN SELECTED STAGE 1 **": {
+    "translation": "** 管理员选择了第一关 **"
+  },
+  "** ADMIN SELECTED STAGE 2 **": {
+    "translation": "** 管理员选择了第二关 **"
+  },
+  "** ADMIN SELECTED STAGE 3 **": {
+    "translation": "** 管理员选择了第三关 **"
+  },
+  "< ze_Forsaken_Temple >": {
+    "translation": "< 离奇神庙 > "
+  },
+  "< Map by Brian >": {
+    "translation": " < 作者:Brian > "
+  },
+  "< CS2 Port by @Seth >": {
+    "translation": " < 移植: @Seth,汉化:Zeyu1 > "
+  }
+}
