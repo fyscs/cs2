@@ -170,7 +170,6 @@
     "hammerId": "569",
     "triggerId": "570",
     "cooldown": 20,
-    "maxUses": 1,
     "team": 2,
     "knife": true,
     "mode": 2,
