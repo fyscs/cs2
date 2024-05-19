@@ -174,15 +174,5 @@
     "knife": true,
     "mode": 2,
     "count": 1
-  },
-  {
-    "name": "l0v0l",
-    "shortName": "l0v0l",
-    "buttonClass": "func_physbox",
-    "hammerId": "795",
-    "team": 3,
-    "knife": false,
-    "mode": 0,
-    "count": 1
   }
 ]
