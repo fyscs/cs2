@@ -1,0 +1,46 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+  {
+    "**40seconds left**": {
+      "translation": "**还剩40秒**"
+    },
+    "**10seconds left**": {
+      "translation": "**还剩10秒**"
+    },
+    "**Zombie has escape**": {
+      "translation": "*僵尸逃脱了**"
+    },
+    "**STAGE2 Clean**": {
+      "translation": "**第二关清除**"
+    },
+    "**No human, Stage1 Fail**": {
+      "translation": "**无人生还,第一关失败**"
+    },
+    "**Zombie has escape,Stage1 Fail**": {
+      "translation": "**僵尸逃跑了,第一关失败**"
+    },
+    "**STAGE1 Clean**": {
+      "translation": "**第一关清除**"
+    },
+    "**Map By ArteSurf【STEAM_1:0:142903751】**": {
+      "translation": "**地图作者:ArteSurf 地图汉化:墨鸢@Fys**"
+    },
+    "**建议将画质调为最高以获得良好的效果**": {
+      "translation": "**建议将画质调为最高以获得良好的效果**"
+    },
+    "**level changs is STAGE1**": {
+      "translation": "**关卡切换为第一关**"
+    },
+    "**level changs is STAGE2**": {
+      "translation": "**关卡切换为第二关**"
+    }
+  }
