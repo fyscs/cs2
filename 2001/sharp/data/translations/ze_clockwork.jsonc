@@ -1,0 +1,70 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<Elevator will be ready in 30 sec>": {
+    "translation": "<电梯将在30秒后准备就绪>"
+  },
+  "<Will be opened in 25 sec>": {
+    "translation": "<屏障将在25秒后破碎>"
+  },
+  "<TP will be useable in 30 sec>": {
+    "translation": "<传送将在30秒后启动>"
+  },
+  "<Follow the chat>": {
+    "translation": "<注意聊天框!(刀的方向以地图小箭头方向为准)>"
+  },
+  "<YOU WON>": {
+    "translation": "<不朽的篝火已然止息,属于你的传奇才刚刚开始,恭喜通关>"
+  },
+  "-=North=-": {
+    "translation": "-=正面(北)=-"
+  },
+  "-=West=-": {
+    "translation": "-=左边(西)=-"
+  },
+  "-=South=-": {
+    "translation": "-=后面(南)=-"
+  },
+  "-=East=-": {
+    "translation": "-=右边(东)=-"
+  },
+  "<Will be opened in 30 sec>": {
+    "translation": "<屏障将在30秒后破碎>"
+  },
+  "<Zombie ladder!!! 10 sec>": {
+    "translation": "<10秒后僵尸梯子开放>"
+  },
+  "<Playing Time Will Catch Me First>": {
+    "translation": "<你逃不出时钟! >"
+  },
+  "<Will be opened in 50 sec>": {
+    "translation": "<屏障将在50秒后破碎>"
+  },
+  "<Teleport will be useable in 20 sec>": {
+    "translation": "<大门将在20秒后打开>"
+  },
+  "<Playing  As The Cycle Goes On>": {
+    "translation": "<随着时钟的周期循环,尽情玩耍吧>"
+  },
+  "<Will be opened in 45 sec>": {
+    "translation": "<屏障将在45秒后破碎"
+  },
+  "<Teleport will be useable in 30 sec>": {
+    "translation": "<传送将在30秒后可用>>"
+  },
+  "<Map By Dege151>": {
+    "translation": "<地图作者:Dege151 地图汉化:小妖梦@风云社>"
+  },
+  "<Playing clockwork-philipp-klein>": {
+    "translation": "<感谢:PHILIPP KLEIN>"
+  }
+}
