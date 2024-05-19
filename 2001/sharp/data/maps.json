@@ -377,6 +377,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_illusory_world": {
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 800,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
   "ze_interception_p": {
     "certainTimes": [-1],
     "price": 300,
