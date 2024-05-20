@@ -20,7 +20,7 @@
     "translation": "<== 正常抢图 == >"
   },
   "@ [ Map by Jackmaster ]": {
-    "translation": "@ [ 地图制作者：Jackmaster ]"
+    "translation": "@ [ 地图制作者:Jackmaster ]"
   },
   "@ [ hd-gamer.de ]": {
     "translation": "@ [ hd-gamer.de ]"
@@ -83,34 +83,34 @@
     "translation": "< == 刀伤已开启 == >"
   },
   "< == Simon Says: Jump on the Boxes == >": {
-    "translation": "< == 你说我做：跳到箱子上 == >"
+    "translation": "< == 你说我做:跳到箱子上 == >"
   },
   "< == Simon Says: Go to the Yellow field == >": {
-    "translation": "< == 你说我做：去到黄色地块 == >"
+    "translation": "< == 你说我做:去到黄色地块 == >"
   },
   "< == Simon Says: Go to the Red field == >": {
-    "translation": "< == 你说我做：去到红色地块 == >"
+    "translation": "< == 你说我做:去到红色地块 == >"
   },
   "< == Simon Says: Go to the field with the Red Blocks == >": {
-    "translation": "< == 你说我做： 带着红色方块去场地 == >"
+    "translation": "< == 你说我做:带着红色方块去场地 == >"
   },
   "< == Simon Says: Go to the field with the Blue Blocks == >": {
-    "translation": "< == 你说我做： 带着蓝色方块去球场 == >"
+    "translation": "< == 你说我做: 带着蓝色方块去球场 == >"
   },
   "< == Simon Says: Jump ! == >": {
-    "translation": "< == 你说我做： 跳起来！ == >"
+    "translation": "< == 你说我做:跳起来！ == >"
   },
   "< == Simon Says: Touch the Walls == >": {
-    "translation": "< == 你说我做： 贴墙 == >"
+    "translation": "< == 你说我做:贴墙 == >"
   },
   "< == Simon Says: Don't touch the floor == >": {
-    "translation": "< == 你说我做： 不要碰地面 == >"
+    "translation": "< == 你说我做:不要碰地面 == >"
   },
   "< == Simon Says: Go into the Square in the middle == >": {
-    "translation": "< == 你说我做： 去到中间 == >"
+    "translation": "< == 你说我做:去到中间 == >"
   },
   "< == Simon Says: Go to the Blue field == >": {
-    "translation": "< == 你说我做： 去到蓝色地块 == >"
+    "translation": "< == 你说我做:去到蓝色地块 == >"
   },
   "< == Knifes Enabled == >": {
     "translation": "< == 刀伤已开启 == >"
@@ -155,7 +155,7 @@
     "translation": "[[ 连跳 ]]"
   },
   "[==> Map by Jackmaster <==]": {
-    "translation": "[==> 地图制作者：Jackmaster <==]"
+    "translation": "[==> 地图制作者:Jackmaster <==]"
   },
   "[-- End Game --]": {
     "translation": "[-- 游戏结束 --]"
