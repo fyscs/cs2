@@ -24,6 +24,7 @@
   },
   "@ [ hd-gamer.de ]": {
     "translation": "[ hd-gamer.de ]"
+    "blocked"    : true
   },
   "[[ Breakwall ]]": {
     "translation": "[[ 拆墙 ]]"
