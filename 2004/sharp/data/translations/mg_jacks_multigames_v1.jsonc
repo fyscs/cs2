@@ -23,7 +23,7 @@
     "translation": "@ [ 地图制作者:Jackmaster ]"
   },
   "@ [ hd-gamer.de ]": {
-    "translation": "@ [ hd-gamer.de ]"
+    "translation": "[ hd-gamer.de ]"
   },
   "[[ Breakwall ]]": {
     "translation": "[[ 拆墙 ]]"
@@ -59,7 +59,7 @@
     "translation": "你有60秒时间"
   },
   "Get Ready !": {
-    "translation": "准备好！"
+    "translation": "准备好!"
   },
   "[[ Laser Game ]]": {
     "translation": "[[ 激光房 ]]"
@@ -98,7 +98,7 @@
     "translation": "< == 你说我做: 带着蓝色方块去球场 == >"
   },
   "< == Simon Says: Jump ! == >": {
-    "translation": "< == 你说我做:跳起来！ == >"
+    "translation": "< == 你说我做:跳起来!== >"
   },
   "< == Simon Says: Touch the Walls == >": {
     "translation": "< == 你说我做:贴墙 == >"
@@ -146,7 +146,7 @@
     "translation": "[[ 僵尸模式 ]]"
   },
   "Nuclear strike will arrive in 90 seconds, stay tight!": {
-    "translation": "核打击将在90秒内到来, 坚守阵地!"
+    "translation": "核打击将在90秒内到来,坚守阵地!"
   },
   "[[ Awp ]]": {
     "translation": "[[ 大狙 ]]"
