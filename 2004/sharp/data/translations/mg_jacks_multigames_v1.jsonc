@@ -11,13 +11,13 @@
 
 {
   "<== Spawn: Climb == >": {
-    "translation": "<== 爬墙抢图 == >"
+    "translation": "<== 攀登选图模式 == >"
   },
   "<== Spawn: Surf == >": {
-    "translation": "<== 滑翔抢图 == >"
+    "translation": "<== 滑翔选图模式 == >"
   },
   "<== Spawn: Normal == >": {
-    "translation": "<== 正常抢图 == >"
+    "translation": "<== 正常选图模式 == >"
   },
   "@ [ Map by Jackmaster ]": {
     "translation": "@ [ 地图制作者:Jackmaster ]"
@@ -87,16 +87,16 @@
     "translation": "< == 你说我做:跳到箱子上 == >"
   },
   "< == Simon Says: Go to the Yellow field == >": {
-    "translation": "< == 你说我做:去到黄色地块 == >"
+    "translation": "< == 你说我做:走到黄色区域 == >"
   },
   "< == Simon Says: Go to the Red field == >": {
-    "translation": "< == 你说我做:去到红色地块 == >"
+    "translation": "< == 你说我做:走到红色区域 == >"
   },
   "< == Simon Says: Go to the field with the Red Blocks == >": {
-    "translation": "< == 你说我做:带着红色方块去场地 == >"
+    "translation": "< == 你说我做:走到有红色方块的区域 == >"
   },
   "< == Simon Says: Go to the field with the Blue Blocks == >": {
-    "translation": "< == 你说我做: 带着蓝色方块去球场 == >"
+    "translation": "< == 你说我做:走到有蓝色方块的区域 == >"
   },
   "< == Simon Says: Jump ! == >": {
     "translation": "< == 你说我做:跳起来!== >"
@@ -111,7 +111,7 @@
     "translation": "< == 你说我做:去到中间 == >"
   },
   "< == Simon Says: Go to the Blue field == >": {
-    "translation": "< == 你说我做:去到蓝色地块 == >"
+    "translation": "< == 你说我做:走到蓝色区域 == >"
   },
   "< == Knifes Enabled == >": {
     "translation": "< == 刀伤已开启 == >"
@@ -120,22 +120,23 @@
     "translation": "< == 选择一个房间 == >"
   },
   "< == 5 == >": {
-    "translation": "< == 5 == >"
+    "translation": "< == ⑤ == >"
   },
   "< == 2 == >": {
-    "translation": "< == 2 == >"
+    "translation": "< == ② == >"
   },
   "< == 3 == >": {
-    "translation": "< == 3 == >"
+    "translation": "< == ③ == >"
   },
   "< == 4 == >": {
-    "translation": "< == 4 == >"
+    "translation": "< == ④ == >"
   },
   "< == 0 == >": {
-    "translation": "< == 0 == >"
+    "translation": "< == 0 == >",
+    "blocked": true
   },
   "< == 1 == >": {
-    "translation": "< == 1 == >"
+    "translation": "< == ① == >"
   },
   "[[ Long Jump ]]": {
     "translation": "[[ 长跳 ]]"
