@@ -601,7 +601,7 @@
     "nomination": true,
     "admin": false
   },
-  "ze_popkart": {
+  "ze_popkart_b1": {
     "certainTimes": [-1],
     "price": 500,
     "cooldown": 60,
