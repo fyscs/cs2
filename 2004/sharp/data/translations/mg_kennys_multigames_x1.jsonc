@@ -1,0 +1,181 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "[-- Destroy the melons --]": {
+    "translation": "[-- 打水果 --]"
+  },
+  "[-- 5 --]": {
+    "translation": "[-- 5 --]"
+  },
+  "[-- 4 --]": {
+    "translation": "[-- 4 --]"
+  },
+  "[-- 3 --]": {
+    "translation": "[-- 3 --]"
+  },
+  "[-- 2 --]": {
+    "translation": "[-- 2 --]"
+  },
+  "[-- 1 --]": {
+    "translation": "[-- 1 --]"
+  },
+  "[-- SMOKE --]": {
+    "translation": "[-- 烟雾弹 --]"
+  },
+  "[-- HEADSHOT --]": {
+    "translation": "[-- 爆头沙鹰 --]"
+  },
+  "[-- FOOTBALL --]": {
+    "translation": "[-- 足球 --]"
+  },
+  "[-- BHOP --]": {
+    "translation": "[-- BHOP --]"
+  },
+  "[-- GRENADE --]": {
+    "translation": "[-- 手榴弹 --]"
+  },
+  "[-- SLIDE --]": {
+    "translation": "[-- 滑行 --]"
+  },
+  "[-- CLIMB --]": {
+    "translation": "[-- CLIMB --]"
+  },
+  "[-- RACE --]": {
+    "translation": "[-- 赛跑 --]"
+  },
+  "[-- KNIFE --]": {
+    "translation": "[-- 刀战 --]"
+  },
+  "[-- PLANTS VS ZOMBIES --]": {
+    "translation": "[-- 植物大战僵尸 --]"
+  },
+  "[-- ZOMBIEAPOCALYPSE --]": {
+    "translation": "[-- 僵尸末日 --]"
+  },
+  "[-- Human must defend zombies for 80 seconds --]": {
+    "translation": "[-- 人类必须防御僵尸八十秒 --]"
+  },
+  "[-- WEAPONSFIGHT --]": {
+    "translation": "[-- 买枪混战 --]"
+  },
+  "[-- MINIGOLF --]": {
+    "translation": "[-- 迷你高尔夫 --]"
+  },
+  "[-- POKEMONARENA --]": {
+    "translation": "[-- 宝可梦竞技场 --]"
+  },
+  "[-- Second Round --]": {
+    "translation": "[-- 第二轮 --]"
+  },
+  "[-- TAKESHI'S CASTLE --]": {
+    "translation": "[-- 障碍赛 --]"
+  },
+  "[-- Audiomachine - Disruption --]": {
+    "translation": "[-- Audiomachine - Disruption --]"
+  },
+  "[-- 35HP chosen --]": {
+    "translation": "[-- 选择三十五血量 --]"
+  },
+  "[-- Flogging Molly - Drunken Lullabies --]": {
+    "translation": "[-- Flogging Molly - Drunken Lullabies --]"
+  },
+  "[-- Pendulum - The Terminal --]": {
+    "translation": "[-- Pendulum - The Terminal --]"
+  },
+  "[-- Audiomachine - Lost Raiders --]": {
+    "translation": "[-- Audiomachine - Lost Raiders --]"
+  },
+  "[-- Two Steps From Hell - 1000 Ships Of The Underworld --]": {
+    "translation": "[-- Two Steps From Hell - 1000 Ships Of The Underworld --]"
+  },
+  "[-- Two Steps From Hell - Magika --]": {
+    "translation": "[-- Two Steps From Hell - Magika --]"
+  },
+  "[-- Two Steps From Hell - Nemesis --]": {
+    "translation": "[-- Two Steps From Hell - Nemesis --]"
+  },
+  "[-- Two Steps From Hell - Sons Of War --]": {
+    "translation": "[-- Two Steps From Hell - Sons Of War --]"
+  },
+  "[-- Sabre Dance - Aram Khachaturian --]": {
+    "translation": "[-- Sabre Dance - Aram Khachaturian --]"
+  },
+  "[-- Gravity On --]": {
+    "translation": "[-- 重力打开 --]"
+  },
+  "[-- 50HP chosen --]": {
+    "translation": "[-- 选择五十血量 --]"
+  },
+  "[-- 150HP On --]": {
+    "translation": "[-- 一百五十血量开启 --]"
+  },
+  "[-- Speed On --]": {
+    "translation": "[-- 加速开启 --]"
+  },
+  "[-- You have 15 sec. to place yourself --]": {
+    "translation": "[-- 你有15秒武装自己 --]"
+  },
+  "[-- You have 15 sec. to place yourself  --]": {
+    "translation": "[-- 你有15秒武装自己  --]"
+  },
+  "[-- BUYZONE --]": {
+    "translation": "[-- 购物区 --]"
+  },
+  "[-- Invis On --]": {
+    "translation": "[-- 隐身开启 --]"
+  },
+  "|-- 3 minutes left --|": {
+    "translation": "|-- 还剩3分钟 --|"
+  },
+  "|-- 1 minute left --|": {
+    "translation": "|-- 还剩1分钟 --|"
+  },
+  "|-- 2 minutes left --|": {
+    "translation": "|-- 还剩2分钟 --|"
+  },
+  "|-- 30 seconds left --|": {
+    "translation": "|-- 还剩30秒 --|"
+  },
+  "|-- 10 seconds left --|": {
+    "translation": "|-- 还剩10秒 --|"
+  },
+  "|-- 5 seconds left --|": {
+    "translation": "|-- 还剩5秒 --|"
+  },
+  "|-- 4 seconds left --|": {
+    "translation": "|-- 还剩4秒 --|"
+  },
+  "|-- 3 seconds left --|": {
+    "translation": "|-- 还剩3秒 --|"
+  },
+  "|-- 2 seconds left --|": {
+    "translation": "|-- 还剩2秒 --|"
+  },
+  "|-- 1 seconds left --|": {
+    "translation": "|-- 还剩1秒 --|"
+  },
+  "|-- 4 minutes left --|": {
+    "translation": "|-- 还剩4分钟 --|"
+  },
+  "[-- Map by KeNnY1337 --]": {
+    "translation": "[-- 地图作者: KeNnY1337 地图汉化: 亦浅--]"
+  },
+  "[-- Get into the middle of the Spawn --]": {
+    "translation": "[-- 前往出生地的中间 --]"
+  },
+  "[-- BATTLESHIP --]": {
+    "translation": "[-- 海战棋 --]"
+  },
+  "Reselect game chooser..": {
+    "translation": "重新选择游戏选择器"
+  }
+}
