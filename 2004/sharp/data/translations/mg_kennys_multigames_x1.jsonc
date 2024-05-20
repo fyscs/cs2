@@ -17,16 +17,20 @@
     "translation": "[-- 5 --]"
   },
   "[-- 4 --]": {
-    "translation": "[-- 4 --]"
+    "translation": "[-- 4 --]",
+    "blocked": true
   },
   "[-- 3 --]": {
-    "translation": "[-- 3 --]"
+    "translation": "[-- 3 --]",
+    "blocked": true
   },
   "[-- 2 --]": {
-    "translation": "[-- 2 --]"
+    "translation": "[-- 2 --]",
+    "blocked": true
   },
   "[-- 1 --]": {
-    "translation": "[-- 1 --]"
+    "translation": "[-- 1 --]",
+    "blocked": true
   },
   "[-- SMOKE --]": {
     "translation": "[-- 烟雾弹 --]"
@@ -83,7 +87,7 @@
     "translation": "[-- Audiomachine - Disruption --]"
   },
   "[-- 35HP chosen --]": {
-    "translation": "[-- 选择三十五血量 --]"
+    "translation": "[-- 选择三十五血 --]"
   },
   "[-- Flogging Molly - Drunken Lullabies --]": {
     "translation": "[-- Flogging Molly - Drunken Lullabies --]"
@@ -110,43 +114,45 @@
     "translation": "[-- Sabre Dance - Aram Khachaturian --]"
   },
   "[-- Gravity On --]": {
-    "translation": "[-- 重力打开 --]"
+    "translation": "[-- 低重力 --]"
   },
   "[-- 50HP chosen --]": {
-    "translation": "[-- 选择五十血量 --]"
+    "translation": "[-- 选择五十血 --]"
   },
   "[-- 150HP On --]": {
-    "translation": "[-- 一百五十血量开启 --]"
+    "translation": "[-- 一百五十血开启 --]"
   },
   "[-- Speed On --]": {
     "translation": "[-- 加速开启 --]"
   },
   "[-- You have 15 sec. to place yourself --]": {
-    "translation": "[-- 你有15秒武装自己 --]"
+    "translation": "[-- 你有15秒选好站位 --]"
   },
   "[-- You have 15 sec. to place yourself  --]": {
-    "translation": "[-- 你有15秒武装自己  --]"
+    "translation": "[-- 你有15秒选好站位  --]"
   },
   "[-- BUYZONE --]": {
-    "translation": "[-- 购物区 --]"
+    "translation": "[-- 买枪混战 --]"
   },
   "[-- Invis On --]": {
     "translation": "[-- 隐身开启 --]"
   },
   "|-- 3 minutes left --|": {
-    "translation": "|-- 还剩3分钟 --|"
+    "translation": "|-- 还剩③分钟 --|"
   },
   "|-- 1 minute left --|": {
-    "translation": "|-- 还剩1分钟 --|"
+    "translation": "|-- 还剩①分钟 --|"
   },
   "|-- 2 minutes left --|": {
-    "translation": "|-- 还剩2分钟 --|"
+    "translation": "|-- 还剩②分钟 --|"
   },
   "|-- 30 seconds left --|": {
-    "translation": "|-- 还剩30秒 --|"
+    "translation": "|-- 还剩30秒 --|",
+    "blocked": true
   },
   "|-- 10 seconds left --|": {
-    "translation": "|-- 还剩10秒 --|"
+    "translation": "|-- 还剩10秒 --|",
+    "blocked": true
   },
   "|-- 5 seconds left --|": {
     "translation": "|-- 还剩5秒 --|"
@@ -164,7 +170,7 @@
     "translation": "|-- 还剩1秒 --|"
   },
   "|-- 4 minutes left --|": {
-    "translation": "|-- 还剩4分钟 --|"
+    "translation": "|-- 还剩④分钟 --|"
   },
   "[-- Map by KeNnY1337 --]": {
     "translation": "[-- 地图作者: KeNnY1337 地图汉化: 亦浅--]"
@@ -176,6 +182,6 @@
     "translation": "[-- 海战棋 --]"
   },
   "Reselect game chooser..": {
-    "translation": "重新选择游戏选择器"
+    "translation": "重新选择选图人"
   }
 }
