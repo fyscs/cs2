@@ -461,6 +461,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_l0v0l_p": {
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 800,
+    "cooldown": 80,
+    "nomination": true,
+    "admin": false
+  },
   "ze_luigismansion_p": {
     "certainTimes": [-1],
     "price": 300,
