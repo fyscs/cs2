@@ -132,16 +132,13 @@
     "translation": ">>过断时间将修复光影<<"
   },
   ">> 25 <<": {
-    "translation": ">> 真结局触发25% <<",
-    "blocked": true
+    "translation": ">> 真结局触发1/4 <<",
   },
   ">> 50 <<": {
-    "translation": ">> 真结局触发50% <<",
-    "blocked": true
+    "translation": ">> 真结局触发2/4 <<",
   },
   ">> 75 <<": {
-    "translation": ">> 真结局触发75% <<",
-    "blocked": true
+    "translation": ">> 真结局触发3/4 <<",
   },
   ">> 100 <<": {
     "translation": ">> 真结局已触发 <<"
