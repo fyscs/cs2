@@ -1,0 +1,37 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Boss has been weakened": {
+    "translation": "Boss被削弱了"
+  },
+  "doors open in 25 seconds": {
+    "translation": "门在25秒后打开"
+  },
+  "defend 15 seconds": {
+    "translation": "防守15秒"
+  },
+  "doors open in 20 seconds": {
+    "translation": "门在20秒后打开"
+  },
+  "practice mode enable": {
+    "translation": "启用练习模式"
+  },
+  "normal mode enable": {
+    "translation": "启用正常模式"
+  },
+  "goodluck & havefun": {
+    "translation": "祝你好运&玩得开心"
+  },
+  "*********practice mode*********": {
+    "translation": "***练习模式***"
+  }
+}

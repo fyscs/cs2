@@ -209,6 +209,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_darkest_hour": {
+    "certainTimes": [-1],
+    "price": 500,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
   "ze_dangerous_waters_p": {
     "certainTimes": [-1],
     "price": 300,
