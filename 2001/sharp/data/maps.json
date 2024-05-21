@@ -573,6 +573,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_ocean_heart_cs2": {
+    "certainTimes": [-1],
+    "price": 500,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
   "ze_panic_escape_p": {
     "certainTimes": [-1],
     "price": 300,
