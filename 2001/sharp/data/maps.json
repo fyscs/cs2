@@ -636,6 +636,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_popkart_b1": {
+    "certainTimes": [-1],
+    "price": 500,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
   "ze_por_island_p": {
     "certainTimes": [-1],
     "price": 300,
