@@ -1,0 +1,168 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<== Spawn: Climb == >": {
+    "translation": "<== 攀登选图模式 == >"
+  },
+  "<== Spawn: Surf == >": {
+    "translation": "<== 滑翔选图模式 == >"
+  },
+  "<== Spawn: Normal == >": {
+    "translation": "<== 正常选图模式 == >"
+  },
+  "@ [ Map by Jackmaster ]": {
+    "translation": "@ [ 地图制作者:Jackmaster ]"
+  },
+  "@ [ hd-gamer.de ]": {
+    "translation": "[ hd-gamer.de ]",
+    "blocked": true
+  },
+  "[[ Breakwall ]]": {
+    "translation": "[[ 拆墙 ]]"
+  },
+  "[[ Simon Says ]]": {
+    "translation": "[[ 你说我做 ]]"
+  },
+  "[[ Climb ]]": {
+    "translation": "[[ 攀登 ]]"
+  },
+  "[[ Mp5Deagle ]]": {
+    "translation": "[[ Mp5+沙鹰 ]]"
+  },
+  "[[ SlideKill ]]": {
+    "translation": "[[ 滑行对战 ]]"
+  },
+  "[[ Race ]]": {
+    "translation": "[[ 竞速 ]]"
+  },
+  "[[ Tetris ]]": {
+    "translation": "[[ 俄罗斯方块 ]]"
+  },
+  "[[ Musical Doors ]]": {
+    "translation": "[[ 抢板凳 ]]"
+  },
+  "[[ Castle War ]]": {
+    "translation": "[[ 自建防御战 ]]"
+  },
+  "Press E to build a block": {
+    "translation": "按e键建造方块"
+  },
+  "You have 60 Seconds Time": {
+    "translation": "你有60秒时间"
+  },
+  "Get Ready !": {
+    "translation": "准备好!"
+  },
+  "[[ Laser Game ]]": {
+    "translation": "[[ 激光房 ]]"
+  },
+  "<<LEVEL - pistols>>": {
+    "translation": "<<目前等级 - 手枪>>"
+  },
+  "<<LEVEL - smg>>": {
+    "translation": "<<目前等级 - 冲锋枪>>"
+  },
+  "<<LEVEL - rifles>>": {
+    "translation": "<<目前等级 - 步枪>>"
+  },
+  "<<LEVEL - shotguns>>": {
+    "translation": "<<目前等级 - 喷子>>"
+  },
+  "<<LEVEL - grenades>>": {
+    "translation": "<<目前等级 - 手榴弹>>"
+  },
+  "< == Knife enabld == >": {
+    "translation": "< == 刀伤已开启 == >"
+  },
+  "< == Simon Says: Jump on the Boxes == >": {
+    "translation": "< == 你说我做:跳到箱子上 == >"
+  },
+  "< == Simon Says: Go to the Yellow field == >": {
+    "translation": "< == 你说我做:走到黄色区域 == >"
+  },
+  "< == Simon Says: Go to the Red field == >": {
+    "translation": "< == 你说我做:走到红色区域 == >"
+  },
+  "< == Simon Says: Go to the field with the Red Blocks == >": {
+    "translation": "< == 你说我做:走到有红色方块的区域 == >"
+  },
+  "< == Simon Says: Go to the field with the Blue Blocks == >": {
+    "translation": "< == 你说我做:走到有蓝色方块的区域 == >"
+  },
+  "< == Simon Says: Jump ! == >": {
+    "translation": "< == 你说我做:跳起来!== >"
+  },
+  "< == Simon Says: Touch the Walls == >": {
+    "translation": "< == 你说我做:贴墙 == >"
+  },
+  "< == Simon Says: Don't touch the floor == >": {
+    "translation": "< == 你说我做:不要碰地面 == >"
+  },
+  "< == Simon Says: Go into the Square in the middle == >": {
+    "translation": "< == 你说我做:去到中间 == >"
+  },
+  "< == Simon Says: Go to the Blue field == >": {
+    "translation": "< == 你说我做:走到蓝色区域 == >"
+  },
+  "< == Knifes Enabled == >": {
+    "translation": "< == 刀伤已开启 == >"
+  },
+  "< == Choose a Room == >": {
+    "translation": "< == 选择一个房间 == >"
+  },
+  "< == 5 == >": {
+    "translation": "< == ⑤ == >"
+  },
+  "< == 2 == >": {
+    "translation": "< == ② == >"
+  },
+  "< == 3 == >": {
+    "translation": "< == ③ == >"
+  },
+  "< == 4 == >": {
+    "translation": "< == ④ == >"
+  },
+  "< == 0 == >": {
+    "translation": "< == 0 == >",
+    "blocked": true
+  },
+  "< == 1 == >": {
+    "translation": "< == ① == >"
+  },
+  "[[ Long Jump ]]": {
+    "translation": "[[ 长跳 ]]"
+  },
+  "[[ Iceskate ]]": {
+    "translation": "[[ 滑冰 ]]"
+  },
+  "[[ Zombie ]]": {
+    "translation": "[[ 僵尸模式 ]]"
+  },
+  "Nuclear strike will arrive in 90 seconds, stay tight!": {
+    "translation": "核打击将在90秒内到来,坚守阵地!"
+  },
+  "[[ Awp ]]": {
+    "translation": "[[ 大狙 ]]"
+  },
+  "[[ Bunny Hop ]]": {
+    "translation": "[[ 连跳 ]]"
+  },
+  "[==> Map by Jackmaster <==]": {
+    "translation": "[==> 地图制作者:Jackmaster <==]"
+  },
+  "[-- End Game --]": {
+    "translation": "[-- 游戏结束 --]"
+  },
+  "[-- It seems nobody can clear the level --]": {
+    "translation": "[-- 似乎没有人能够完成 --]"
+  }
+}

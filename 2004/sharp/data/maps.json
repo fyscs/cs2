@@ -41,6 +41,13 @@
     "nomination": false,
     "admin": false
   },
+  "mg_jacks_multigames_v1": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 8,
+    "nomination": false,
+    "admin": false
+  },
   "mg_kennys_multigames_x1": {
     "certainTimes": [-1],
     "price": 300,
@@ -87,6 +94,13 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
+    "nomination": false,
+    "admin": false
+  },
+  "mg_pudding_multigames": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 8,
     "nomination": false,
     "admin": false
   },
