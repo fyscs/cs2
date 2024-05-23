@@ -23,7 +23,7 @@
   "mg_dream_xmas_edition_3": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": false
   },
@@ -37,56 +37,56 @@
   "mg_hype2": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": false
   },
   "mg_jacks_multigames_v1": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": false
   },
   "mg_kennys_multigames_x1": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": false
   },
   "mg_lego_multigames_r1c1": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": false
   },
   "mg_legospace_multigames_v2": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": false
   },
   "mg_mikis_multigames": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": false
   },
   "mg_movie_madness": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": false
   },
   "mg_multigames_devine_is_french": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 20,
+    "cooldown": 30,
     "nomination": false,
     "admin": false
   },
@@ -100,70 +100,70 @@
   "mg_pudding_multigames": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": false
   },
   "mg_race_long_road_extended": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 20,
+    "cooldown": 30,
     "nomination": false,
     "admin": false
   },
   "mg_rainbow_multigames_v1": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": false
   },
   "mg_randomizer_reborn_v2": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": false
   },
   "mg_skeet_multigames_v7": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": true
   },
   "mg_ski_mountain_v2_csgo": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 20,
+    "cooldown": 30,
     "nomination": false,
     "admin": false
   },
   "mg_skytower_v1": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 20,
+    "cooldown": 30,
     "nomination": false,
     "admin": false
   },
   "mg_super_tower_v4": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 20,
+    "cooldown": 30,
     "nomination": false,
     "admin": false
   },
   "mg_swag_multigames_v7_fys": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": false
   },
   "mg_thc_lego_multimap": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": false
   },
@@ -191,14 +191,14 @@
   "mg_yolo_multigames_v1": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": false
   },
   "mg_yotagames": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 8,
+    "cooldown": 10,
     "nomination": false,
     "admin": false
   }
