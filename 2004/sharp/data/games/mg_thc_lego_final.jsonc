@@ -78,7 +78,7 @@
     "id": "3061",
     "cd": 900,
     "mode": 2,
-    "name": "滑冰",
+    "name": "刀战",
     "class": "func_button",
     "event": "OnPressed"
   },
