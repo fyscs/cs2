@@ -165,7 +165,7 @@
     "price": 300,
     "cooldown": 10,
     "nomination": false,
-    "admin": true
+    "admin": false
   },
   "mg_thc_lego_multimap": {
     "certainTimes": [-1],
