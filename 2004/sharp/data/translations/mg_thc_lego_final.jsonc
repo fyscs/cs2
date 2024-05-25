@@ -26,7 +26,7 @@
     "translation": "[THC LEGO] CT方胜利"
   },
   "[THC LEGO] CAR OF DEATH": {
-    "translation": "[THC LEGO] 绝命死机"
+    "translation": "[THC LEGO] 绝命司机"
   },
   "[THC LEGO] Ts ARE ON LEVEL 3": {
     "translation": "[THC LEGO] T方已经在第3层"
@@ -47,13 +47,13 @@
     "translation": "[THC LEGO] 时间到"
   },
   "[THC LEGO] 60 SECONDS REMAINING": {
-    "translation": "[THC LEGO] 剩余60秒"
+    "translation": "[THC LEGO] 剩余六十秒"
   },
   "[THC LEGO] 2 MINUTES REMAINING": {
-    "translation": "[THC LEGO] 剩余 2 分钟"
+    "translation": "[THC LEGO] 剩余 ② 分钟"
   },
   "[THC LEGO] 3 MINUTES REMAINING": {
-    "translation": "[THC LEGO] 剩余 3 分钟"
+    "translation": "[THC LEGO] 剩余 ③ 分钟"
   },
   "[THC LEGO] WAR": {
     "translation": "[THC LEGO] 对战"
@@ -65,7 +65,7 @@
     "translation": "[THC LEGO] 沙鹰"
   },
   "[THC LEGO] Ts ARE ON LEVEL 2": {
-    "translation": "[THC LEGO] T方已经在第2层"
+    "translation": "[THC LEGO] T方已经在第②层"
   },
   "[THC LEGO] M3": {
     "translation": "[THC LEGO] 连喷"
@@ -77,16 +77,20 @@
     "translation": ">开始<"
   },
   ">1<": {
-    "translation": ">1<"
+    "translation": ">1<",
+    "blocked": true
   },
   ">2<": {
-    "translation": ">2<"
+    "translation": ">2<",
+    "blocked": true
   },
   ">3<": {
-    "translation": ">3<"
+    "translation": ">3<",
+    "blocked": true
   },
   ">4<": {
-    "translation": ">4<"
+    "translation": ">4<",
+    "blocked": true
   },
   ">5<": {
     "translation": ">5<"
@@ -98,13 +102,13 @@
     "translation": "[THC LEGO] 传送玩家"
   },
   "[THC LEGO] 30 SECONDS REMAINING": {
-    "translation": "[THC LEGO] 剩余30秒"
+    "translation": "[THC LEGO] 剩余三十秒"
   },
   "[THC LEGO] CAR OF DEATH BEGINS": {
     "translation": "[THC LEGO] 绝命死机开始"
   },
   "[THC LEGO] 10 SECONDS REMAINING": {
-    "translation": "[THC LEGO] 剩余10秒"
+    "translation": "[THC LEGO] 剩余⑩秒"
   },
   "[THC LEGO] THE FIGHT IS OVER": {
     "translation": "[THC LEGO] 战斗结束"
@@ -121,12 +125,6 @@
   "[THC LEGO] TELEPORTING PLAYERS": {
     "translation": "[THC LEGO] 传送玩家"
   },
-  "[THC LEGO] M4A1": {
-    "translation": "[THC LEGO] M4A1"
-  },
-  "[THC LEGO] AK 47": {
-    "translation": "[THC LEGO] AK 47"
-  },
   "[THC LEGO] SOCCER": {
     "translation": "[THC LEGO] 足球"
   },
@@ -134,13 +132,13 @@
     "translation": "[THC LEGO] 困难模式BHOP"
   },
   "[THC LEGO] KILLING EVERYONE IN 30 SECONDS": {
-    "translation": "[THC LEGO] 30秒后处死所有玩家"
+    "translation": "[THC LEGO] 三十秒后处死所有玩家"
   },
   "[THC LEGO] KILLING EVERYONE IN 20 SECONDS": {
-    "translation": "[THC LEGO] 20秒后处死所有玩家"
+    "translation": "[THC LEGO] 二十秒后处死所有玩家"
   },
   "[THC LEGO] KILLING EVERYONE IN 10 SECONDS": {
-    "translation": "[THC LEGO] 10秒后处死所有玩家"
+    "translation": "[THC LEGO] ⑩秒后处死所有玩家"
   },
   "[THC LEGO] LONG JUMP": {
     "translation": "[THC LEGO] 长跳"
@@ -152,7 +150,7 @@
     "translation": "[THC LEGO] 进球了"
   },
   "[THC LEGO] SCORE 20 POINTS TO WIN": {
-    "translation": "[THC LEGO] 获取20分来获得胜利"
+    "translation": "[THC LEGO] 获取⑳分来获得胜利"
   },
   "[THC LEGO] CHAIR KNIFING": {
     "translation": "[THC LEGO] 打椅子"
@@ -173,7 +171,7 @@
     "translation": "[THC LEGO] 没有选出游戏"
   },
   "[THC LEGO] LOADING RANDOM GAME...": {
-    "translation": "[THC LEGO] 加载随机游戏中..."
+    "translation": "[THC LEGO] 随机加载游戏中..."
   },
   "[THC LEGO] COURSE": {
     "translation": "[THC LEGO] 闯关"
@@ -185,7 +183,7 @@
     "translation": "[THC LEGO] 选择游戏的玩家正在挂机"
   },
   "[THC LEGO] CTs ARE ON LEVEL 2": {
-    "translation": "[THC LEGO] CT方已经在第2层"
+    "translation": "[THC LEGO] CT方已经在第②层"
   },
   "[THC LEGO] SKIPPING ROPE": {
     "translation": "[THC LEGO] 跳绳"
@@ -205,10 +203,7 @@
   "[THC LEGO] TERRORISTS WIN": {
     "translation": "[THC LEGO] TE胜利"
   },
-  "[THC LEGO] M249": {
-    "translation": "[THC LEGO] M249"
-  },
   "[THC LEGO] You two are wasting time, slayed.": {
-    "translation": "[THC LEGO] 你们两个真慢,处死换下一批"
+    "translation": "[THC LEGO] 你们俩在浪费时间, 处死了"
   }
 }
