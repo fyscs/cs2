@@ -160,6 +160,13 @@
     "nomination": false,
     "admin": false
   },
+  "mg_thc_lego_final": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": true
+  },
   "mg_thc_lego_multimap": {
     "certainTimes": [-1],
     "price": 300,
