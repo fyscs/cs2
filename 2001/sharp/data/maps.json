@@ -237,6 +237,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_death_star_escape_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 50,
+    "nomination": false,
+    "admin": false
+  },
   "ze_deepice_p": {
     "certainTimes": [-1],
     "price": 300,
