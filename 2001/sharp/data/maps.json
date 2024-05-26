@@ -321,6 +321,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_farmhouse_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 50,
+    "nomination": true,
+    "admin": false
+  },
   "ze_fast_escape_p": {
     "certainTimes": [-1],
     "price": 300,
