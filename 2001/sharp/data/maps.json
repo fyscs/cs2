@@ -125,6 +125,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_aware": {
+    "certainTimes": [-1],
+    "price": 500,
+    "cooldown": 80,
+    "nomination": true,
+    "admin": false
+  },
   "ze_azathoth_p": {
     "certainTimes": [-1],
     "price": 300,
