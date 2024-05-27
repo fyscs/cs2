@@ -1,0 +1,198 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>MAP BY POLYNATION<<": {
+    "translation": ">>作者:POLYNATION 汉化:墨鸢@Fys<<"
+  },
+  ">>ZE LAZERS<<": {
+    "translation": ">>拉泽<<"
+  },
+  ">>OPTIMIZATION BY BLUE DRAGON<<": {
+    "translation": ">>优化:BLUE DRAGON<<"
+  },
+  ">Nuke in 30 Seconds<": {
+    "translation": ">30秒后核爆<"
+  },
+  ">Nuke in 5 Seconds<": {
+    "translation": ">5秒后核爆<",
+    "blocked": true
+  },
+  ">Zombies have made it to end nuking in 5 Seconds<": {
+    "translation": ">僵尸在5秒后受到核爆<"
+  },
+  ">Wall Breaking in 15 Seconds<": {
+    "translation": ">15秒后墙壁破裂<"
+  },
+  ">Wall Breaking in 5 Seconds<": {
+    "translation": ">5秒后墙壁破裂<",
+    "blocked": true
+  },
+  ">Bridge Breaking in 10 Seconds<": {
+    "translation": ">桥10秒后断裂<"
+  },
+  ">Wall Breaks in 10 Seconds<": {
+    "translation": ">10秒后墙壁破裂<"
+  },
+  ">Doorhuggers Will Be Rewarded<": {
+    "translation": ">贴门者将获得奖励<"
+  },
+  ">Helicopter Leaves in 40 Seconds<": {
+    "translation": ">直升机在40秒后起飞<"
+  },
+  ">Helicopter Leaves in 10 Seconds<": {
+    "translation": ">直升机在10秒后离开<",
+    "blocked": true
+  },
+  ">Transporters Open in 10 Seconds<": {
+    "translation": ">运输车在10秒后开启<"
+  },
+  ">Fishing Boat Leaving in 40 Seconds<": {
+    "translation": ">渔船在40秒后离开<"
+  },
+  ">Fishing Boat leaving in 10 Seconds<": {
+    "translation": ">渔船在10秒后离开<",
+    "blocked": true
+  },
+  ">Stealth Boat Leaving in 40 Seconds<": {
+    "translation": ">隐形船在40秒后离开<"
+  },
+  ">Stealth Boat leaving in 10 Seconds<": {
+    "translation": ">隐形船在10秒后离开<",
+    "blocked": true
+  },
+  ">Inflatable Boat Leaving in 40 Seconds<": {
+    "translation": ">充气艇在40秒后离开<"
+  },
+  ">Inflatable Boat leaving in 10 Seconds<": {
+    "translation": ">充气船在10秒后离开<",
+    "blocked": true
+  },
+  ">Train Leaving in 15 Seconds<": {
+    "translation": ">火车在15秒后离开<"
+  },
+  ">Train Leaving<": {
+    "translation": ">火车走了<"
+  },
+  ">Fence Breaks in 70 Seconds<": {
+    "translation": ">围栏在70秒后破裂<"
+  },
+  ">Vents Opened<": {
+    "translation": ">通风口开了<"
+  },
+  ">Fence Breaks in 10 Seconds<": {
+    "translation": ">围栏在10秒后断裂<"
+  },
+  ">Doors Opening in 44 Seconds<": {
+    "translation": ">44秒后开门<"
+  },
+  ">Doors Opening in 5 Seconds<": {
+    "translation": ">5秒后开门<"
+  },
+  ">Doors Opening in 35 Seconds<": {
+    "translation": ">35秒后开门<"
+  },
+  ">GFL Admin Has Been Defeated<": {
+    "translation": ">GFL管理员已被击败<"
+  },
+  ">But the lasers keep coming!<": {
+    "translation": ">但激光不断出现!<"
+  },
+  "Now Playing: 4 DA TRAP - 645AR": {
+    "translation": "正在播放: 4 DA TRAP - 645AR",
+    "blocked": true
+  },
+  "Now Playing: Mask - Dream": {
+    "translation": "正在播放: Mask - Dream"
+  },
+  "Now Playing: Blood Sugar - Pendulum": {
+    "translation": "正在播放: Blood Sugar - Pendulum"
+  },
+  "Now Playing: Emotional Titanic Flute": {
+    "translation": "正在播放: Emotional Titanic Flute"
+  },
+  "Now Playing: By The Way - Neco Arc Chili Peppers": {
+    "translation": "正在播放: By The Way - Neco Arc Chili Peppers"
+  },
+  "Now Playing: Superman - Goldfinger": {
+    "translation": "正在播放: Superman - Goldfinger"
+  },
+  "Now Playing: Little Girls - Oingo Boingo": {
+    "translation": "正在播放: Little Girls - Oingo Boingo"
+  },
+  "Now Playing: On The Floor - IceJJFish": {
+    "translation": "正在播放: On The Floor - IceJJFish"
+  },
+  "Now Playing: Shes So Kawaii - LeetStreet Boys": {
+    "translation": "正在播放: Shes So Kawaii - LeetStreet Boys"
+  },
+  "this song was personally requested by vauff": {
+    "translation": "这首歌是vauff亲自要求的"
+  },
+  "Now Playing: Slam - Pendulum": {
+    "translation": "正在播放: Slam - Pendulum"
+  },
+  "Now Playing: Fried Chicken - Der Witz": {
+    "translation": "正在播放: Fried Chicken - Der Witz"
+  },
+  "Now Playing: The Fountain - Pendulum": {
+    "translation": "正在播放: The Fountain - Pendulum"
+  },
+  "Now Playing: 3 Big Balls - DigBar": {
+    "translation": "正在播放: 3 Big Balls - DigBar",
+    "blocked": true
+  },
+  "Now Playing: Witchcraft - Pendulum": {
+    "translation": "正在播放: Witchcraft - Pendulum"
+  },
+  "Now Playing: Halo - Pendulum": {
+    "translation": "正在播放: Halo - Pendulum"
+  },
+  ">>>KISS YOUR ASS GOODBYE MODE<<<": {
+    "translation": ">>>亲吻你的屁股告别模式<<<"
+  },
+  "Now Playing: KFC - Glorb, Dankton, & The Notorious P.A.T.": {
+    "translation": "正在播放: KFC - Glorb, Dankton, & The Notorious P.A.T."
+  },
+  "Now Playing: I Really, Really, Really Like This Image - Hot Dad": {
+    "translation": "正在播放: I Really, Really, Really Like This Image - Hot Dad"
+  },
+  "Now Playing: I'm a Coomer - Hallowed": {
+    "translation": "正在播放: I'm a Coomer - Hallowed"
+  },
+  "Now Playing: On Da Creep - Tommy Wright III": {
+    "translation": "正在播放: On Da Creep - Tommy Wright III"
+  },
+  "Now Playing: So You Wanna Be Hip? (Suck Your Own Dick) - SkyCorp": {
+    "translation": "正在播放: So You Wanna Be Hip? (Suck Your Own Dick) - SkyCorp"
+  },
+  ">>>3 Attempts Remaining<<<": {
+    "translation": ">>>剩余三次尝试<<<"
+  },
+  ">>>2 Attempts Remaining<<<": {
+    "translation": ">>>剩余二次尝试<<<"
+  },
+  ">>>1 Attempt Remaining<<<": {
+    "translation": ">>>剩余一次尝试<<<"
+  },
+  "Vauff: heh... i'll you see again": {
+    "translation": "Vauff: 嘿...我们会再见的"
+  },
+  "Vauff: or not - because you are already dead": {
+    "translation": "Vauff: 还有另一种可能 - 因为你已经死了"
+  },
+  "Now Playing: Pendulum - Im Not Alone (Live)": {
+    "translation": "正在播放: Pendulum - Im Not Alone (Live)"
+  },
+  "Now Playing: Metal Gear Rising Revengeance - It Has To Be This Way (Platinum Mix)": {
+    "translation": "正在播放: Metal Gear Rising Revengeance - It Has To Be This Way (Platinum Mix)"
+  }
+}
