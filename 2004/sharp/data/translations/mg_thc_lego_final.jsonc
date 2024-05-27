@@ -14,10 +14,10 @@
     "translation": "[THC LEGO] 正在传送"
   },
   "[THC LEGO] WAR MAP 1": {
-    "translation": "[THC LEGO] 对战-地图1"
+    "translation": "[THC LEGO] 对战-地图①"
   },
   "[THC LEGO] WAR MAP 2": {
-    "translation": "[THC LEGO] 对战-地图2"
+    "translation": "[THC LEGO] 对战-地图②"
   },
   "Counter-Terrorists win.": {
     "translation": "反恐精英获胜"
@@ -29,7 +29,7 @@
     "translation": "[THC LEGO] 绝命司机"
   },
   "[THC LEGO] Ts ARE ON LEVEL 3": {
-    "translation": "[THC LEGO] T方已经在第3层"
+    "translation": "[THC LEGO] T方已经在第三关"
   },
   "[THC LEGO] CHOOSING NEW PLAYER...": {
     "translation": "[THC LEGO] 选择新的玩家..."
@@ -38,7 +38,7 @@
     "translation": "[THC LEGO] 游戏结束"
   },
   "[THC LEGO] CTs ARE ON LEVEL 3": {
-    "translation": "[THC LEGO] CT方已经在第3层"
+    "translation": "[THC LEGO] CT方已经在第三关"
   },
   "[THC LEGO] CLIMB": {
     "translation": "[THC LEGO] 攀登"
@@ -65,10 +65,10 @@
     "translation": "[THC LEGO] 沙鹰"
   },
   "[THC LEGO] Ts ARE ON LEVEL 2": {
-    "translation": "[THC LEGO] T方已经在第②层"
+    "translation": "[THC LEGO] T方已经在第二关"
   },
   "[THC LEGO] M3": {
-    "translation": "[THC LEGO] 连喷"
+    "translation": "[THC LEGO] 新星"
   },
   "[THC LEGO] BHOP - EASY": {
     "translation": "[THC LEGO] 简单模式BHOP"
@@ -96,7 +96,7 @@
     "translation": ">5<"
   },
   "[THC LEGO] DODGE WALLS": {
-    "translation": "[THC LEGO] 抢板凳"
+    "translation": "[THC LEGO] 躲避墙"
   },
   "[THC LEGO] PLAYER TELEPORTED": {
     "translation": "[THC LEGO] 传送玩家"
@@ -183,7 +183,7 @@
     "translation": "[THC LEGO] 选择游戏的玩家正在挂机"
   },
   "[THC LEGO] CTs ARE ON LEVEL 2": {
-    "translation": "[THC LEGO] CT方已经在第②层"
+    "translation": "[THC LEGO] CT方已经在第二关"
   },
   "[THC LEGO] SKIPPING ROPE": {
     "translation": "[THC LEGO] 跳绳"
