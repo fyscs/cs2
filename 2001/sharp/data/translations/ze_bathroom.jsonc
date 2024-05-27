@@ -23,7 +23,7 @@
     "translation": "利用吹风机的风力可以到达对面台子上!"
   },
   "We are trapped! Resist!": {
-    "translation": "我们被困住了!抵抗!"
+    "translation": "我们被困住了!守住!"
   },
   "Fall back we can walk across the door.": {
     "translation": "退后!我们可以从门上过去."
@@ -80,7 +80,7 @@
     "translation": "似乎没有办法逃脱."
   },
   "Resist for 30 seconds.": {
-    "translation": "抵挡30秒."
+    "translation": "守住30秒."
   },
   "|Admin Room|***Map has changed difficulty to LEVEL 1 ***": {
     "translation": "管理员选择第一关***"
@@ -92,7 +92,7 @@
     "translation": "管理员选择第二关***"
   },
   "Resist for 25 seconds.": {
-    "translation": "抵挡25秒."
+    "translation": "守住25秒."
   },
   "You have won first level!": {
     "translation": "你通过了第一关!"
