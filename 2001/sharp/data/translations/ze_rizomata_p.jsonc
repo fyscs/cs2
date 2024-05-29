@@ -1,0 +1,169 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** STAGE FAILED ***": {
+    "translation": "*** 关卡失败 ***"
+  },
+  "*** ZOMBIE KILLED PHILIA ***": {
+    "translation": "*** 邪恶之力侵蚀了圣灵球 ***"
+  },
+  "*** EARTHQUAKE ***": {
+    "translation": "*** 大地震(BOSS死亡) ***"
+  },
+  "*** EARTHEN SHIELD ***": {
+    "translation": "*** 大地之盾 ***"
+  },
+  "*** LAND SUBSIDENCE ***": {
+    "translation": "*** 地面沉降 ***"
+  },
+  "*** EARTH SHOCK ***": {
+    "translation": "*** 大地践踏 ***"
+  },
+  "*** QUAKE ***": {
+    "translation": "*** 地震 ***"
+  },
+  "*** EARTH STOMP ***": {
+    "translation": "*** 大地震击 ***"
+  },
+  "*** Hold 20 seconds ***": {
+    "translation": "*** 防守20秒 ***"
+  },
+  "*** 5 seconds left ***": {
+    "translation": "*** 防守5秒 ***"
+  },
+  "*** Door opens in 35 seconds ***": {
+    "translation": "*** 大门35秒后打开 ***"
+  },
+  "*** 10 seconds left ***": {
+    "translation": "*** 防守10秒 ***"
+  },
+  "*** Door opens in 25 seconds ***": {
+    "translation": "*** 大门25秒后打开 ***"
+  },
+  "*** Doors open in 10 seconds ***": {
+    "translation": "*** 大门10秒后打开 ***"
+  },
+  "Level 3 set": {
+    "translation": "水之元素已被激活"
+  },
+  "*** CRUSTAL MOVEMENT ***": {
+    "translation": "*** 地壳运动 ***"
+  },
+  "*** FROZEN WATER ***": {
+    "translation": "*** 千里冰封(7秒后水面冻结) ***"
+  },
+  "*** RISING WATER ***": {
+    "translation": "*** 水面上升 ***"
+  },
+  "*** ICICLE FALL ***": {
+    "translation": "*** 冰瀑(头顶三次天坠) ***"
+  },
+  "*** HOLY ***": {
+    "translation": "*** 神圣之力 ***"
+  },
+  "*** CURAGA ***": {
+    "translation": "*** 超级治疗 ***"
+  },
+  "*** TIDAL WAVE ***": {
+    "translation": "*** 海啸(按W抵抗) ***"
+  },
+  "*** SUN STRIKE ***": {
+    "translation": "*** 阳炎冲击 ***"
+  },
+  "*** FLAMBERGE ***": {
+    "translation": "*** 三千焱炎剑(看头顶躲避火焰剑气) ***"
+  },
+  "*** EXA FLARE ***": {
+    "translation": "*** 千兆亿耀斑 ***"
+  },
+  "*** DIAMOND DUST ***": {
+    "translation": "*** 钻石星尘 ***"
+  },
+  "*** BLIZZARD ***": {
+    "translation": "*** 暴风雪* ***"
+  },
+  "Level 5 set": {
+    "translation": "烈焰元素已被激活"
+  },
+  "*** Hold 10 seconds ***": {
+    "translation": "*** 防守10秒 ***"
+  },
+  "*** LIFT IS LEAVING IN 5 SECONDS ***": {
+    "translation": "*** 电梯5秒后离开 ***"
+  },
+  "*** Hold 30 seconds ***": {
+    "translation": "*** 防守10秒 ***"
+  },
+  "*** MEGA FLARE ***": {
+    "translation": "*** 百万耀斑 ***"
+  },
+  "*** GIGA FLARE ***": {
+    "translation": "*** 十亿耀斑 ***"
+  },
+  "*** TERA FLARE ***": {
+    "translation": "*** 兆亿耀斑(BOSS死亡) ***"
+  },
+  "*** FLASH OVER ***": {
+    "translation": "*** 闪燃***"
+  },
+  "*** FIREBALL ***": {
+    "translation": "*** 大火球 ***"
+  },
+  "*** FORGE SPIRITS ***": {
+    "translation": "*** 熔炉精灵 ***"
+  },
+  "*** FLAME RADIATION ***": {
+    "translation": "*** 火焰辐射 ***"
+  },
+  "*** FREEZING COFFIN ***": {
+    "translation": "*** 永恒冻结 ***"
+  },
+  "*** AERIAL BLAST ***": {
+    "translation": "*** 大气爆发 ***"
+  },
+  "*** GUST ***": {
+    "translation": "*** 狂风 ***"
+  },
+  "*** ZOMBIE GOT INSIDE THE LIFT ***": {
+    "translation": "*** 僵尸上来了!关卡失败 ***"
+  },
+  "*** Hold 50 seconds ***": {
+    "translation": "*** 防守50秒 ***"
+  },
+  "*** DOWNBURST ***": {
+    "translation": "*** 下爆气流 ***"
+  },
+  "*** EYE OF THE STORM ***": {
+    "translation": "*** 暴风之眼 ***"
+  },
+  "*** UPDRAFT ***": {
+    "translation": "*** 上升气流 ***"
+  },
+  "*** TORNADO ***": {
+    "translation": "*** 龙卷风 ***"
+  },
+  "Level 4 set": {
+    "translation": "飓风元素已被激活"
+  },
+  "*** Hold 25 seconds ***": {
+    "translation": "*** 防守25秒 ***"
+  },
+  "Level 1 set": {
+    "translation": "探寻之旅已开启"
+  },
+  "Level 2 set": {
+    "translation": "大地元素已被激活"
+  },
+  "*** Map by Airvulpes ***": {
+    "translation": "*** 作者:Airvulpes 汉化:Zeyu1 ***"
+  }
+}
