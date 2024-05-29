@@ -1,0 +1,48 @@
+// BossHP configuration file generator.
+// Boss Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+
+{
+  "Counters": [
+    {
+      "iterator": "2_boss_hpcounter",
+      "counter": "2_boss_hpmasscounter",
+      "increase": true,
+      "hitbox": "2_boss_target",
+      "display": "大地精灵"
+    },
+    {
+      "iterator": "3_boss_hpcounter",
+      "counter": "3_boss_hpmasscounter",
+      "increase": true,
+      "hitbox": "3_boss_target",
+      "display": "水之精灵"
+    },
+    {
+      "iterator": "4_boss_hpcounter",
+      "counter": "4_boss_hpmasscounter",
+      "increase": true,
+      "hitbox": "4_boss_target",
+      "display": "风之精灵"
+    },
+    {
+      "iterator": "5_boss_hpcounter",
+      "counter": "5_boss_hpmasscounter",
+      "increase": true,
+      "hitbox": "5_boss_target",
+      "display": "炎之精灵"
+    }
+  ]
+}
