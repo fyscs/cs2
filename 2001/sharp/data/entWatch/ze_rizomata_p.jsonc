@@ -1,0 +1,160 @@
+// entWatch configuration file generator.
+// EntWatch Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // name         (string)   -> 名字
+  // shortName    (string)   -> 计分板短名
+  // buttonClass  (string)   -> 按钮的classname
+  // hammerId     (string)   -> 武器HammerId
+  // triggerId    (string[]) -> 触发器HammerId
+  // containerId  (string)   -> 容器HammerId
+  // maxUses      (int)      -> 最大使用次数
+  // initCooldown (int)      -> 初始化冷却时间
+  // cooldown     (int)      -> 冷却时间
+  // team         (int)      -> 3 = 人类, 2 = 僵尸
+  // knife        (bool)     -> 是否是匕首, 填错捡不起来
+  // soulEvent    (string)   -> 灵魂绑定IO
+  // mode         (int)      -> 0 = 无按钮, 1 = 仅提示, 2 = CD型, 3 = 次数型, 4 = 次数+CD型, 5 = 使用一定次数后进入CD型, 6 = 燃料型(OnHitMin), 7 = 燃料型(OnHitMax), 8 = 计数型(类似狮子王MiniCanon)
+  // count        (int)      -> 神器个数
+
+[
+  {
+    "name": "诅咒",
+    "shortName": "诅咒",
+    "buttonClass": "game_ui",
+    "hammerId": "735",
+    "triggerId": ["736"],
+    "team": 2,
+    "knife": true,
+    "mode": 0,
+    "count": 1
+  },
+  {
+    "name": "毒",
+    "shortName": "毒",
+    "buttonClass": "game_ui",
+    "hammerId": "732",
+    "triggerId": ["733"],
+    "team": 2,
+    "knife": true,
+    "mode": 0,
+    "count": 1
+  },
+  {
+    "name": "加速带",
+    "shortName": "加速",
+    "buttonClass": "game_ui",
+    "hammerId": "738",
+    "triggerId": ["739"],
+    "team": 2,
+    "knife": true,
+    "mode": 0,
+    "count": 1
+  },
+  {
+    "name": "风①",
+    "shortName": "风①",
+    "buttonClass": "func_physbox",
+    "hammerId": "703",
+    "triggerId": ["704"],
+    "team": 3,
+    "knife": true,
+    "cooldown": 50,
+    "maxUses": 15,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "风②",
+    "shortName": "风②",
+    "buttonClass": "func_physbox",
+    "hammerId": "667",
+    "triggerId": ["665"],
+    "team": 3,
+    "knife": true,
+    "cooldown": 50,
+    "maxUses": 15,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "水①",
+    "shortName": "水①",
+    "buttonClass": "func_physbox",
+    "hammerId": "1245",
+    "triggerId": ["1243"],
+    "team": 3,
+    "knife": true,
+    "cooldown": 50,
+    "maxUses": 15,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "水②",
+    "shortName": "水②",
+    "buttonClass": "func_physbox",
+    "hammerId": "1264",
+    "triggerId": ["1262"],
+    "team": 3,
+    "knife": true,
+    "cooldown": 50,
+    "maxUses": 15,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "奶①",
+    "shortName": "奶①",
+    "buttonClass": "func_physbox",
+    "hammerId": "1801",
+    "triggerId": ["1797"],
+    "team": 3,
+    "knife": true,
+    "cooldown": 55,
+    "maxUses": 15,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "奶②",
+    "shortName": "奶②",
+    "buttonClass": "func_physbox",
+    "hammerId": "1594",
+    "triggerId": ["1592"],
+    "team": 3,
+    "knife": true,
+    "cooldown": 55,
+    "maxUses": 15,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "土①",
+    "shortName": "土①",
+    "buttonClass": "func_physbox",
+    "hammerId": "1816",
+    "triggerId": ["1814"],
+    "team": 3,
+    "knife": true,
+    "mode": 4,
+    "cooldown": 50,
+    "maxUses": 15,
+    "count": 1
+  },
+  {
+    "name": "土②",
+    "shortName": "土②",
+    "buttonClass": "func_physbox",
+    "hammerId": "1603",
+    "triggerId": ["1601"],
+    "team": 3,
+    "knife": true,
+    "cooldown": 50,
+    "maxUses": 15,
+    "mode": 4,
+    "count": 1
+  }
+]
