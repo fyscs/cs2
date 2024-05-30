@@ -127,6 +127,7 @@
     "cooldown": 50,
     "team": 2,
     "knife": false,
+    "soulEvent": "OnStartTouch",
     "mode": 2,
     "count": 1
   },
@@ -138,6 +139,7 @@
     "cooldown": 50,
     "team": 2,
     "knife": false,
+    "soulEvent": "OnStartTouch",
     "mode": 2,
     "count": 1
   },
@@ -149,6 +151,7 @@
     "cooldown": 50,
     "team": 2,
     "knife": false,
+    "soulEvent": "OnStartTouch",
     "mode": 2,
     "count": 1
   },
@@ -160,6 +163,7 @@
     "cooldown": 50,
     "team": 2,
     "knife": false,
+    "soulEvent": "OnStartTouch",
     "mode": 2,
     "count": 1
   },
@@ -171,6 +175,7 @@
     "cooldown": 50,
     "team": 2,
     "knife": false,
+    "soulEvent": "OnStartTouch",
     "mode": 2,
     "count": 1
   }
