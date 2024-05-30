@@ -767,7 +767,7 @@
     "price": 800,
     "cooldown": 80,
     "nomination": true,
-    "admin": false
+    "admin": true
   },
   "ze_rooftop_runaway1_p": {
     "certainTimes": [-1],
