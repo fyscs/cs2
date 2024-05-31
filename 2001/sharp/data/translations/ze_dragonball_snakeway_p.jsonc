@@ -1,0 +1,104 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "El Son Goku: Barco 1 se va en 10 segs": {
+    "translation": "孙悟空: 一号船将在10秒后离开"
+  },
+  "El Son Goku: La puerta se a abierto corre al siguinte nivel": {
+    "translation": "孙悟空: 门是开着的,并通往下一层"
+  },
+  "El Son Goku: 5 segundos preparate a correr": {
+    "translation": "孙悟空: 5秒后准备溜了"
+  },
+  "El Son Goku: Quedan 20 segundos aguanta queda poco": {
+    "translation": "孙悟空: 还剩20秒,等一下"
+  },
+  "El Son Goku: La puerta se abrira en 45 segundos a cubrir": {
+    "translation": "孙悟空: 门将在45秒后关闭"
+  },
+  "El Son Goku: Barco 2 se va en 10 segs": {
+    "translation": "孙悟空: 二号船将在10秒后离开"
+  },
+  "El Son Goku: Huye de la serpiente": {
+    "translation": "孙悟空: 避开那条蛇!"
+  },
+  "El Son Goku: La serpiente ataca de nuevo !!!!CORRE!!!!": {
+    "translation": "孙悟空: 蛇又攻击了!!!快跑!!!"
+  },
+  "El Son Goku: La puerta se abrira en 30 segs": {
+    "translation": "孙悟空: 门将在30秒后打开"
+  },
+  "El Son Goku: El camion sale en 5 segundos": {
+    "translation": "孙悟空: 卡车将在5秒后出发"
+  },
+  "***1***": {
+    "translation": "***1***",
+    "blocked": true
+  },
+  "***2***": {
+    "translation": "***2***",
+    "blocked": true
+  },
+  "***3***": {
+    "translation": "***3***",
+    "blocked": true
+  },
+  "***4***": {
+    "translation": "***4***",
+    "blocked": true
+  },
+  "***5***": {
+    "translation": "***5***"
+  },
+  "El Son Goku: Bomba nuclear en 60 segundos": {
+    "translation": "孙悟空: 60秒后核爆"
+  },
+  "El Son Goku: Map By Bremm and Hardreton - Gracias por jugar": {
+    "translation": "孙悟空: 作者:Bremm,Hardreton,感谢您的游玩 汉化:墨鸢@"
+  },
+  "El Son Goku: La verja se rompera en 45 segundos": {
+    "translation": "孙悟空: 栅栏将在45秒后破碎"
+  },
+  "El Son Goku: DESPEGUE aprieta la radio para la bomba nuclear": {
+    "translation": "孙悟空: 起飞,按下核弹的无线电按钮"
+  },
+  "El Son Goku: Despegue en 10 segundos": {
+    "translation": "孙悟空: 将在10秒后起飞"
+  },
+  "El Son Goku: La nave despegara en 30 segundos": {
+    "translation": "孙悟空: 飞船将在30秒后起飞"
+  },
+  "El Son Goku: la venida del super dragon fue activado!": {
+    "translation": "孙悟空: 超级龙降临!"
+  },
+  "El Son Goku: La puerta se reabrira en 5 segundos": {
+    "translation": "孙悟空: 门将在5秒后重新打开"
+  },
+  "El Son Goku: La puerta se cierra y el cristal se roto es hora de escapar": {
+    "translation": "孙悟空: 门正在关闭,玻璃破碎了,是时候溜了"
+  },
+  "El Son Goku: Quedan 5 segundos preparate a escapar": {
+    "translation": "孙悟空: 还剩5秒,准备溜了"
+  },
+  "El Son Goku: Quedan 20 segundos ya casi esta": {
+    "translation": "孙悟空: 准备好,还剩20秒"
+  },
+  "El Son Goku: La puerta Final se cierra en 45 segundos": {
+    "translation": "孙悟空: 最终之门将在45秒后关闭"
+  },
+  "El Son Goku: La puerta se abrira en 45 segs": {
+    "translation": "孙悟空: 门将在45秒后打开"
+  },
+  "El Son Goku: La puerta se a abierto sal del infierno": {
+    "translation": "孙悟空: 门已经打开了,离开地狱吧"
+  }
+}
