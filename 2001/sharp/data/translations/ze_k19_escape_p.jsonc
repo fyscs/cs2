@@ -1,0 +1,52 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Crate will break in 25 sec***": {
+    "translation": "木箱将在25秒后破损"
+  },
+  "***Defend the exit for 25 sec***": {
+    "translation": "最后的守点!还有25秒"
+  },
+  "***Defend this position for 15 sec***": {
+    "translation": "在这里守15秒"
+  },
+  "***Team Fall Back to the reactor room***": {
+    "translation": "退进反应堆室内!"
+  },
+  "***Defend the reactor for 20 sec***": {
+    "translation": "守住反应堆20秒"
+  },
+  "***Fuck! the reactor is uncontrollable, exit the K-19***": {
+    "translation": "蛙趣!反应堆已失控,快离开这里!"
+  },
+  "***Defend this position 20 sec***": {
+    "translation": "在这里守20秒",
+  },
+  "***Shit ! the door is blocked ! Hold this position***": {
+    "translation": "靠!门锁上了!守住这里!"
+  },
+  "***Hold this position for 20 sec***": {
+    "translation": "在这里守20秒"
+  },
+  "***Wall will break in 20 sec***": {
+    "translation": "这面墙20秒后破损"
+  },
+  "***Doors will opens in 20 sec***": {
+    "translation": "这扇门将在20秒后打开"
+  },
+  "***Map Made by xXhamadryadesXx***": {
+    "translation": "作者:xXhamadryadesXx 汉化:墨鸢@Fys"
+  },
+  "> CS2 Port by @Seth <": {
+    "translation": "移植:@Seth"
+  }
+}
