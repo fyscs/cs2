@@ -426,6 +426,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_honkai_impact_changkongshi": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+ },
   "ze_hold_em_p": {
     "certainTimes": [-1],
     "price": 300,
