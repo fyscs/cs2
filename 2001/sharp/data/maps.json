@@ -496,6 +496,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_kraznov_poopata_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": false,
+    "admin": false
+  },
   "ze_lazers_p": {
     "certainTimes": [-1],
     "price": 300,
