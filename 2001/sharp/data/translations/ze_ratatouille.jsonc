@@ -1,0 +1,268 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Need to knock a nail out of the wall to go further**": {
+    "translation": "**需要触发好才能走**"
+  },
+  "**Give me a few seconds.**": {
+    "translation": "**给我几秒.**"
+  },
+  "**Hold 17 seconds**": {
+    "translation": "**稍等17秒**"
+  },
+  "**Leave quickly**": {
+    "translation": "**快走**"
+  },
+  "**Be careful, you can easily fall here**": {
+    "translation": "**小心,你很容易假摔在这**"
+  },
+  "**The passage is open, leave through the hole in the wall and go right**": {
+    "translation": "**通道是敞开的,从墙上的洞离开,然后向右走**"
+  },
+  "**We need to get to the red gazebo**": {
+    "translation": "**我们需要去红色的凉亭**"
+  },
+  "**Give me 29 seconds, I'll stretch the rope**": {
+    "translation": "**给我29秒,我拉绳子**"
+  },
+  "**Run away**": {
+    "translation": "**快跑**"
+  },
+  "**This nut is stuck in the pipe**": {
+    "translation": "**这颗螺母卡主了**"
+  },
+  "**It's going to take me a while to get him out of there.**": {
+    "translation": "**我们需要一段时间把它弄出去.**"
+  },
+  "**Hold 28 seconds**": {
+    "translation": "**还有28秒**"
+  },
+  "**Great, the pipe is open, jump down!**": {
+    "translation": "**很好,管道打开了,跳下去!**"
+  },
+  "**There is a box on your way, you need to move it forward to pass**": {
+    "translation": "**有一个箱子在你的路上,你需要向前移动它才能通过**"
+  },
+  "*Hold 14 seconds**": {
+    "translation": "*还剩14秒**"
+  },
+  "**Zombie tp at 10 seconds**": {
+    "translation": "**僵尸还有10秒传送**"
+  },
+  "**Great job, get out of the attic!**": {
+    "translation": "**做得好,快走!**"
+  },
+  "**Need to get this piece of wood out of the way**": {
+    "translation": "**需要把这块木头移开**"
+  },
+  "**Give me 29 seconds.**": {
+    "translation": "**给我20秒.**"
+  },
+  "**You can move on.**": {
+    "translation": "**继续前进.**"
+  },
+  "**Map By R1cko27**": {
+    "translation": "**地图作者:R1cko27 地图翻译:睿睿吖**"
+  },
+  "**Welcome to the village!**": {
+    "translation": "**欢迎来到村庄!**"
+  },
+  "**You need to get to the attic**": {
+    "translation": "**你需要去阁楼**"
+  },
+  "**Take the stairs carefully**": {
+    "translation": "**走楼梯小心**"
+  },
+  "**We probably won't be able to get into the attic.**": {
+    "translation": "**我们可能进不了阁楼.**"
+  },
+  "**Just give me a few seconds, maybe I can break the bars.**": {
+    "translation": "**给我几秒钟,也许我能打破屏障.**"
+  },
+  "**Wait a couple more seconds, everything is almost ready**": {
+    "translation": "**再等几秒钟,一切都准备好了**"
+  },
+  "**The gate is broken, jump into the attic!**": {
+    "translation": "**大门坏了跳进去!**"
+  },
+  "**It's quite dusty here**": {
+    "translation": "**这里尘土飞扬**"
+  },
+  "**Drop the cans on your way**": {
+    "translation": "**把罐子扔在路上**"
+  },
+  "**This box is too high, you won't be able to climb it just like that**": {
+    "translation": "**箱子太高了,你不能这样爬上去**"
+  },
+  "**You need to move the book lying on the table to this box**": {
+    "translation": "**你需要把放在桌子上的书移到这个盒子里**"
+  },
+  "**Go down carefully on the black wire**": {
+    "translation": "**小心,踩在黑线上**"
+  },
+  "**You need to go right into the barn**": {
+    "translation": "**你需要直接进入谷仓**"
+  },
+  "**Level 1 passed!**": {
+    "translation": "**第一关通关!**"
+  },
+  "**Now go up the ladder on the right**": {
+    "translation": "**现在爬上右边的梯子**"
+  },
+  "**Good job, the water level has started to decrease**": {
+    "translation": "**做得好,水位开始下降了**"
+  },
+  "**Welcome to the sewers!**": {
+    "translation": "**欢迎来到下水道!**"
+  },
+  "**You need to get into the pipe on the right, which is under water**": {
+    "translation": "**你需要进入右边的管道**"
+  },
+  "**To do this, you will have to lower the water level**": {
+    "translation": "**你必须降低水位**"
+  },
+  "**Let's get started. First, break the pipe that glows blue**": {
+    "translation": "**让我们开始吧,首先,打碎发蓝光的管子**"
+  },
+  "**Now you need to break two holders, they are marked in blue**": {
+    "translation": "**现在你需要打破两个支架,它们用蓝色标记**"
+  },
+  "**Good job, the water level is decreasing**": {
+    "translation": "**做的好,水位在下降**"
+  },
+  "**Now jump to the center**": {
+    "translation": "**现在跳向中心**"
+  },
+  "**The water level is still high**": {
+    "translation": "**水位仍然很高**"
+  },
+  "**We need to turn off the pipes from which the water flows**": {
+    "translation": "**我们需要关上水的管道**"
+  },
+  "**Press the blue button to do this**": {
+    "translation": "**按下蓝色按钮执行此操作**"
+  },
+  "**Hold 35 seconds**": {
+    "translation": "**还有35秒**"
+  },
+  "**The water level is decreasing, get ready to leave**": {
+    "translation": "**水位在下降,准备离开**"
+  },
+  "**That's it, go to the left tube!**": {
+    "translation": "**就这样,去左边的管子!**"
+  },
+  "**Hold 30 seconds**": {
+    "translation": "**坚持30秒**"
+  },
+  "**The passage is closed by a grate, it needs to be broken**": {
+    "translation": "**通道被堵住了,需要把它打破**"
+  },
+  "**Hold 15 seconds**": {
+    "translation": "**坚持15秒**"
+  },
+  "**Hold 20 seconds**": {
+    "translation": "**还有20秒**"
+  },
+  "**Zombie tp at 15 seconds**": {
+    "translation": "**僵尸传送还有15秒**"
+  },
+  "**Hold 25 seconds**": {
+    "translation": "**还有25秒**"
+  },
+  "**Shoot the boss**": {
+    "translation": "**击杀boss**"
+  },
+  "**The electric shield is energized, shoot at it. We need to break it!**": {
+    "translation": "**电屏通电了,向它射击,我们需要打破它!**"
+  },
+  "**Stay on wooden pallets**": {
+    "translation": "**停留在木制托盘上**"
+  },
+  "**It looks like the pallets are starting to sink, urgently jump to another one if the pallet lights up red!**": {
+    "translation": "**托盘似乎开始下沉,如果托盘亮起红色,则紧急跳到另一个托盘!**"
+  },
+  "**Boss died**": {
+    "translation": "**boss死亡**"
+  },
+  "**Good job, go ahead to the elevator**": {
+    "translation": "**做得好,去电梯吧么么么**"
+  },
+  "**You Failed**": {
+    "translation": "**你失败了呜呜呜**"
+  },
+  "**Hold 50 seconds**": {
+    "translation": "**坚持50秒**"
+  },
+  "**There is an obstacle in the way, wait a bit to open the way**": {
+    "translation": "**路上有障碍,等一下开路**"
+  },
+  "**Get inside this box to escape**": {
+    "translation": "**进入这个箱子逃跑**"
+  },
+  "**Level 2 passed!**": {
+    "translation": "**第二关通关!**"
+  },
+  "**Level 1 - Village**": {
+    "translation": "**第一关,村庄**"
+  },
+  "**Level 2 - Sewerage**": {
+    "translation": "**第二关,下水道**"
+  },
+  "**Level 3 - Kitchen**": {
+    "translation": "**第三关,厨房**"
+  },
+  "**Water Attack**": {
+    "translation": "**水击**"
+  },
+  "**Zombie tp at 5 seconds**": {
+    "translation": "**僵尸传送还有5秒**"
+  },
+  "**Zombie tp at 25 seconds**": {
+    "translation": "**僵尸传送还有25秒**"
+  },
+  "**5 seconds**": {
+    "translation": "**5秒**"
+  },
+  "**The boss is dead**": {
+    "translation": "**boss被打败了**"
+  },
+  "**A zombie is spotted in the boss arena**": {
+    "translation": "**boss房发现僵尸**"
+  },
+  "**Hold 40 seconds**": {
+    "translation": "**坚持40秒**"
+  },
+  "**Hold 10 seconds**": {
+    "translation": "**还剩下10秒**"
+  },
+  "**The shortest path will open in 5 seconds**": {
+    "translation": "**最短路径还有5秒打开**"
+  },
+  "**At 5 seconds zombie tp**": {
+    "translation": "**僵尸传送还有5秒**"
+  },
+  "**Level 3 has been completed!**": {
+    "translation": "**第三关通关!**"
+  },
+  "**This pipe is closed, give me 20 seconds to open it**": {
+    "translation": "**这边关上了,给我20秒打开它**"
+  },
+  "**Lvl 1 set**": {
+    "translation": "**Lvl 1 set**"
+  },
+  "**Lvl 2 set**": {
+    "translation": "**Lvl 2 set**"
+  },
+  "**Lvl 3 set**": {
+    "translation": "**Lvl 3 set**"
+  }
+}
