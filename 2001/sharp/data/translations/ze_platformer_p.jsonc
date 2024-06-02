@@ -1,0 +1,43 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Zombies have secured a checkpoint.": {
+    "translation": "僵尸占领了一个传送点"
+  },
+  "Map made by Cuniczek": {
+    "translation": "地图作者Cuniczek 翻译夜里很饿@风云社"
+  },
+  "Thanks to Enviolinador & Darnias": {
+    "translation": "特别感谢 Enviolinador & Darnias"
+  },
+  "Added extra shininess to the coins.": {
+    "translation": "已对地图上剩余金币添加高亮"
+  },
+  "Meteors are raining from the sky!": {
+    "translation": "流星雨来了 注意头顶哦"
+  },
+  "Platforms are now breakable!": {
+    "translation": "所有平台现在可以被破坏"
+  },
+  "CT flags can now teleport humans back to spawn.": {
+    "translation": "CT旗子现在可以把人类传送回出生点"
+  },
+  "Some items have spawned on top of safehouses.": {
+    "translation": "安全屋的屋顶上刷新了人类和僵尸神器"
+  },
+  "Proceed to find a safehouse if you want to survive.": {
+    "translation": "人类僵尸都快去找一个安全屋 不然你们等着原地爆炸吧"
+  },
+  "You have collected enough coins. Nuke inbound in 70 seconds.": {
+    "translation": "所有硬币已经收集 70秒后核爆"
+  }
+}
