@@ -636,6 +636,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_offliner": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 80,
+    "nomination": true,
+    "admin": false
+  },
   "ze_omega_p": {
     "certainTimes": [-1],
     "price": 300,
