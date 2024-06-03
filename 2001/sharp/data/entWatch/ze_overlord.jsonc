@@ -57,8 +57,8 @@
     "count": 1
   },
   {
-    "name": "dk",
-    "shortName": "dk",
+    "name": "死亡骑士",
+    "shortName": "死亡骑士",
     "buttonClass": "game_ui",
     "hammerId": "6443",
     "triggerId": ["6441"],
@@ -241,11 +241,11 @@
     "count": 1
   },
   {
-    "name": "tkzl",
-    "shortName": "tkzl",
+    "name": "超位天空坠落",
+    "shortName": "天坠",
     "buttonClass": "func_button",
     "hammerId": "6585",
-    "cooldown": 60,
+    "cooldown": 75,
     "team": 3,
     "knife": false,
     "mode": 2,
