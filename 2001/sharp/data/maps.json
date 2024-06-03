@@ -979,6 +979,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_voodoo_xtrem_islands": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 50,
+    "nomination": false,
+    "admin": false
+ },
   "ze_winter_warehouse_p": {
     "certainTimes": [-1],
     "price": 300,
