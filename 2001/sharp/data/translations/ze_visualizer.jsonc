@@ -1,0 +1,118 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "| Heal |": {
+    "translation": "| 治疗已被拾取 |"
+  },
+  "| Freeze ball |": {
+    "translation": "| 冰冻球已被拾取 |"
+  },
+  "| Zombie freezeball |": {
+    "translation": "| 冰冻球(僵尸)已被拾取 |"
+  },
+  "| Zombie heal |": {
+    "translation": "| 加速(僵尸)已被拾取 |"
+  },
+  "| Zombie gravity |": {
+    "translation": "| 黑洞(僵尸)已被拾取 |"
+  },
+  "| Zombie energy ball |": {
+    "translation": "| 能量球(僵尸)已被拾取 |"
+  },
+  "| Energy ball |": {
+    "translation": "| 能量球 已被拾取|"
+  },
+  "| Square |": {
+    "translation": "| 方块(僵尸)已被拾取 |"
+  },
+  "| Shield |": {
+    "translation": "| 护盾 已被拾取|"
+  },
+  "| Gravity ball |": {
+    "translation": "| 黑洞球 已被拾取|"
+  },
+  "| ? |": {
+    "translation": "| ? |"
+  },
+  "| 10 |": {
+    "translation": "| 剩余10秒 |"
+  },
+  "| 15 |": {
+    "translation": "| 剩余15秒 |"
+  },
+  "| 5 |": {
+    "translation": "| 剩余5秒 |"
+  },
+  "| 80 SECONDS LEFT |": {
+    "translation": "| 还剩80秒|"
+  },
+  "| 20 |": {
+    "translation": "| 剩余20秒 |"
+  },
+  "| 25 |": {
+    "translation": "| 剩余25秒 |"
+  },
+  "| SIMULATION FAILED |": {
+    "translation": "| 失败 |"
+  },
+  "| SURVIVE FOR 60 SECONDS |": {
+    "translation": "| 存活60秒 |"
+  },
+  "| 60 |": {
+    "translation": "| 60 |",
+    "blocked": true
+  },
+  "| 55 |": {
+    "translation": "| 55 |",
+    "blocked": true
+  },
+  "| 50 |": {
+    "translation": "| 50 |",
+    "blocked": true
+  },
+  "| 45 |": {
+    "translation": "| 45 |",
+    "blocked": true
+  },
+  "| 40 |": {
+    "translation": "| 40 |",
+    "blocked": true
+  },
+  "| 35 |": {
+    "translation": "| 35 |",
+    "blocked": true
+  },
+  "| 30 |": {
+    "translation": "| 还剩30秒 |"
+  },
+  "| Loading stage 1.. |": {
+    "translation": "| 正在加载第一关.. |"
+  },
+  "| Loading stage 2.. |": {
+    "translation": "| 正在加载第二关.. |"
+  },
+  "| Loading stage 3.. |": {
+    "translation": "| 正在加载第三关.. |"
+  },
+  "| Loading stage 4.. |": {
+    "translation": "| 正在加载第四关.. |"
+  },
+  "| Loading stage 5.. |": {
+    "translation": "| 正在加载第五关.. |"
+  },
+  "| Loading stage 6.. |": {
+    "translation": "| 正在加载第六关.. |"
+  },
+  "| 65 |": {
+    "translation": "| 剩余65秒 |"
+  }
+}

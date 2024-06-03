@@ -1,0 +1,91 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "25s": {
+    "translation": "倒计时还剩25s"
+  },
+  "20s": {
+    "translation": "倒计时还剩20s"
+  },
+  "10s": {
+    "translation": "倒计时还剩10s"
+  },
+  "...": {
+    "translation": "..."
+  },
+  "15s": {
+    "translation": "倒计时还剩15s"
+  },
+  "30s": {
+    "translation": "倒计时还剩30s"
+  },
+  "60s": {
+    "translation": "倒计时还剩60s"
+  },
+  "Lv4": {
+    "translation": "关卡四"
+  },
+  "RTV": {
+    "translation": "RTV关"
+  },
+  "RRRRRRRRTTTTTTTTTVVVVVVVVV": {
+    "translation": "RRRRRRRRTTTTTTTTTVVVVVVVVV"
+  },
+  "Lv2": {
+    "translation": "关卡二"
+  },
+  "Lv1": {
+    "translation": "关卡一"
+  },
+  "admin set lv1": {
+    "translation": "管理员设置关卡为 一"
+  },
+  "admin set lv2": {
+    "translation": "管理员设置关卡为 二"
+  },
+  "admin set lv3": {
+    "translation": "管理员设置关卡为 三"
+  },
+  "admin set lv4": {
+    "translation": "管理员设置关卡为 四"
+  },
+  "admin set rtv": {
+    "translation": "管理员设置关卡为 五"
+  },
+  "100s": {
+    "translation": "倒计时还剩一百秒"
+  },
+  "A new place. Looks like that thing's still following me": {
+    "translation": "一个全新的天地.看起来有东西一直在跟着我"
+  },
+  ". . .": {
+    "translation": ". . ."
+  },
+  "45s": {
+    "translation": "倒计时还剩45s"
+  },
+  "29s": {
+    "translation": "倒计时还剩29s"
+  },
+  "50s": {
+    "translation": "倒计时还剩50s"
+  },
+  "Let's see where this elevator takes me": {
+    "translation": "让我们看看这个电梯将会带我们去向何处"
+  },
+  "Shield    cd80s": {
+    "translation": "环形风神器,CD八十秒"
+  },
+  "gravity cd60s": {
+    "translation": "黑洞神器,CD六十秒"
+  }
+}
