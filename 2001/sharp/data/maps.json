@@ -790,6 +790,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_ratatouille": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
   "ze_requiem_test": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 300,
