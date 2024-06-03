@@ -23,8 +23,10 @@
   "Counters": [
     {
       "iterator": "lv4_boss_counter_small",
+      "backup": "",
+      "counetr": "lv4_boss_counter_big",
       "hitbox": "lv4_boss_hitbox",
-      "display": "科塞特斯"
+      "display": "Boss"
     },
     {
       "iterator": "laser_counter_c",
@@ -33,8 +35,10 @@
     },
     {
       "iterator": "lv3_boss_counter_small",
+      "backup": "",
+      "counetr": "lv3_boss_counter_big",
       "hitbox": "lv3_boss_hitbox",
-      "display": "雅儿贝德"
+      "display": "Boss"
     },
     {
       "iterator": "laser_counter",
@@ -43,13 +47,17 @@
     },
     {
       "iterator": "lv2_boss_counter_small",
+      "backup": "",
+      "counetr": "lv2_boss_counter_big",
       "hitbox": "lv2_boss_hitbox",
-      "display": "夏提雅"
+      "display": "Boss"
     },
     {
       "iterator": "lv1_boss_counter_small",
+      "backup": "",
+      "counetr": "lv1_boss_counter_big",
       "hitbox": "lv1_boss_hitbox",
-      "display": "安兹乌尔恭"
+      "display": "Boss"
     }
   ]
 }
