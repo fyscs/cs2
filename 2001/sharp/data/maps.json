@@ -728,6 +728,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_platformer_p": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 100,
+    "nomination": false,
+    "admin": false
+  },
   "ze_pokemon_kanto_v1": {
     "certainTimes": [-1],
     "price": 300,
