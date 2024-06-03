@@ -28,6 +28,8 @@
     },
     {
       "iterator": "boss_hp_counter",
+      "backup": "",
+      "counter": "boss_segment",
       "hitbox": "boss_breakable",
       "display": "Block"
     }
