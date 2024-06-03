@@ -24,7 +24,7 @@
     {
       "iterator": "lv4_boss_counter_small",
       "backup": "",
-      "counetr": "lv4_boss_counter_big",
+      "counter": "lv4_boss_counter_big",
       "hitbox": "lv4_boss_hitbox",
       "display": "Boss"
     },
@@ -36,7 +36,7 @@
     {
       "iterator": "lv3_boss_counter_small",
       "backup": "",
-      "counetr": "lv3_boss_counter_big",
+      "counter": "lv3_boss_counter_big",
       "hitbox": "lv3_boss_hitbox",
       "display": "Boss"
     },
@@ -48,14 +48,14 @@
     {
       "iterator": "lv2_boss_counter_small",
       "backup": "",
-      "counetr": "lv2_boss_counter_big",
+      "counter": "lv2_boss_counter_big",
       "hitbox": "lv2_boss_hitbox",
       "display": "Boss"
     },
     {
       "iterator": "lv1_boss_counter_small",
       "backup": "",
-      "counetr": "lv1_boss_counter_big",
+      "counter": "lv1_boss_counter_big",
       "hitbox": "lv1_boss_hitbox",
       "display": "Boss"
     }
