@@ -23,6 +23,7 @@
   "Counters": [
     {
       "iterator": "boss_health_main",
+      "backup": "boss_add_hp",
       "counter": "boss_healthcount",
       "hitbox": "boss_physbox",
       "display": "Sphere"
