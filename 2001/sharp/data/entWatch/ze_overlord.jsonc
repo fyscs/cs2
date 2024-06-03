@@ -164,11 +164,11 @@
     "count": 1
   },
   {
-    "name": "万雷击灭",
-    "shortName": "雷击",
+    "name": "星驰电掣",
+    "shortName": "电",
     "buttonClass": "func_button",
     "hammerId": "6554",
-    "cooldown": 75,
+    "cooldown": 10,
     "team": 3,
     "knife": false,
     "mode": 3,
