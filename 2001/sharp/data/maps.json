@@ -915,7 +915,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": true
+    "admin": false
   },
   "ze_stab_town_p": {
     "certainTimes": [-1],
