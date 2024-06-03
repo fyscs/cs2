@@ -160,6 +160,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_beyond_the_boundary": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 50,
+    "nomination": true,
+    "admin": false
+ },
   "ze_boacceho_p": {
     "certainTimes": [-1],
     "price": 300,

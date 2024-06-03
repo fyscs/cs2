@@ -1,0 +1,81 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Current difficulty >>Hard<<!": {
+    "translation": "当前难度>>困难模式<<"
+  },
+  "��We're at the elves castle. Kill the red elves��": {
+    "translation": "我们在精灵城堡,杀死红色精灵!"
+  },
+  "[Spirit Pray]Transmit in 10 seconds": {
+    "translation": "[圣灵祈祷]10秒后完成传输"
+  },
+  "The courtyard door opens in 20 seconds": {
+    "translation": "院门在20秒后打开"
+  },
+  "Someone has triggered the >>Normal<< mode egg. Go to the green Elf": {
+    "translation": "有人触发了>>正常模式<<的蛋,找到绿色精灵!"
+  },
+  "Caught the ��Green Elf��, Difficulty ��Normal��": {
+    "translation": "抓到绿精灵了,难度恢复正常"
+  },
+  "[Spirit Pray] Guard teleport 20 seconds": {
+    "translation": "[圣灵祈祷] 守卫将在20秒后传送"
+  },
+  "Release the courtyard seal in 20 seconds": {
+    "translation": "20秒后解开院子的封印"
+  },
+  "10 seconds later, the magic circle is disappearing": {
+    "translation": "10秒后,魔法阵消失",
+    "blocked": true
+  },
+  "15 seconds later, the magic circle is disappearing": {
+    "translation": "15秒后,魔法阵消失"
+  },
+  "After 30 seconds, the platform rises. Hold on": {
+    "translation": "30秒后平台上升,坚持!"
+  },
+  "After 10 seconds, the left and right sides open randomly": {
+    "translation": "10秒后,左右两侧随机开启"
+  },
+  "Break the seal in 20 seconds": {
+    "translation": "在20秒内打破封印!"
+  },
+  ">>Someone has found the item wizard ! Go and find the item<<": {
+    "translation": "有人找到了巫师!快去找到他!"
+  },
+  "The seal will be released in 20 seconds": {
+    "translation": "封印将在20秒后解除"
+  },
+  "The seal will be released in 15 seconds": {
+    "translation": "封印将在15秒后解除",
+    "blocked": true
+  },
+  "Defend for 15 seconds and wait for the seal to be released": {
+    "translation": "坚守15秒,等待封印解除!"
+  },
+  "=Break the crystal, nuclear explosion after 30s=": {
+    "translation": "打破水晶,30秒后核爆"
+  },
+  "[Spirit Pray]Guard teleport 15 seconds later": {
+    "translation": "[圣灵祈祷]守卫将在15秒后传送"
+  },
+  "The inner gate of heaven will open in 20 seconds": {
+    "translation": "天堂的内门将在20秒后开启"
+  },
+  "The magic circle disappears after 10 seconds": {
+    "translation": "魔法阵将在10秒后消失"
+  },
+  "The ladder will appear in 30 seconds": {
+    "translation": "梯子将在30秒后出现"
+  }
+}
