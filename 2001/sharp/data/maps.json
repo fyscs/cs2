@@ -697,7 +697,7 @@
     "price": 800,
     "cooldown": 80,
     "nomination": true,
-    "admin": false
+    "admin": true
   },
 
   "ze_nuke_p": {
