@@ -454,6 +454,14 @@
     "nomination": false,
     "admin": false
   },
+  "ze_forhidden_slicoo_cs2": {
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 700,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
+
   "ze_forius_just_run_p": {
     "certainTimes": [-1],
     "price": 300,
