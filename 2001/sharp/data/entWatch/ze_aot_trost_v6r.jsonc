@@ -26,7 +26,7 @@
     "buttonClass": "func_button",
     "hammerId": "699",
     "maxUses": 1,
-    "initcooldown": 70,
+    "initCooldown": 70,
     "team": 3,
     "knife": false,
     "mode": 3,
