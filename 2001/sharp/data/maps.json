@@ -377,6 +377,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_evil_mansion_cs2_l": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": false,
+    "admin": false
+  },
   "ze_exchange_innovation_p": {
     "certainTimes": [-1],
     "price": 300,
