@@ -23,15 +23,18 @@
   "Counters": [
     {
       "target": "l1_plant_hitbox",
-      "display": "Plant"
+      "display": "Plant",
+      "iterator": ""
     },
     {
       "target": "l2_boss_hitbox",
-      "display": "CryStal"
+      "display": "CryStal",
+      "iterator": ""
     },
     {
       "target": "l3_boss_hitbox",
-      "display": "Block"
+      "display": "Block",
+      "iterator": ""
     }
   ]
 }
