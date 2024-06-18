@@ -699,6 +699,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_lotr_mount_doom_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": false,
+    "admin": false
+  },
   "ze_luciddreams_cs2": {
     "certainTimes": [-1],
     "price": 300,
