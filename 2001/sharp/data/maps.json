@@ -1245,6 +1245,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_toy_world_final": {
+    "certainTimes": [-1],
+    "price": 550,
+    "cooldown": 80,
+    "nomination": true,
+    "admin": false
+  },
   "ze_traak_p": {
     "certainTimes": [-1],
     "price": 300,
