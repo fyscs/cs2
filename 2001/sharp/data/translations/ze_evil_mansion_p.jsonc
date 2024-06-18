@@ -81,7 +81,7 @@
     "translation": "-=门在20秒后开=-"
   },
   "-=Door opens in 5 seconds.=-": {
-    "translation": "-=门在5秒后开·=-"
+    "translation": "-=门在5秒后开=-"
   },
   "** Zombies are trapped for 15 secs or til CTs find a solution.**": {
     "translation": "** 僵尸被困住15秒 里昂们快跑啊~**"
@@ -156,7 +156,7 @@
     "translation": "-=有个里昂的小头控制自己大头了=-"
   },
   "-=Defense System Activated.=-": {
-    "translation": "-=防卫系统已激活·=-"
+    "translation": "-=防卫系统已激活=-"
   },
   "**Lightning: Oooo Yeah!!! Did that hurt?**": {
     "translation": "**哦就是这样,很痛吗?**"
