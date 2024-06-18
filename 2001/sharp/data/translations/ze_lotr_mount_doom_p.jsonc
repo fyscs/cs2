@@ -1,0 +1,103 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Defend until the others have returned!**": {
+    "translation": "**防守直到其他人回来!**"
+  },
+  "***A human MUST pick up the RING while the others defend the entrance.***": {
+    "translation": "***必须去一个人拿起戒指，而其他人守在入口.***"
+  },
+  "***Humans have reached the Cirith Ungol tower***": {
+    "translation": "***人类已经到达了昂戈尔塔***"
+  },
+  "***The Ring carrier has betrayed us! Get into the Mount Doom and defend during 40s!***": {
+    "translation": "***魔戒携带者背叛了我们!进入末日火山,在此期间进行防御40s!***"
+  },
+  "***Carrier says: the Ring is mine!***": {
+    "translation": "***半兽人说:戒指是我的!***"
+  },
+  "***What are you waiting for?Just let it go!***": {
+    "translation": "***你还在等什么?就让它过去吧!***"
+  },
+  "***The ring bearer was slaughtered with honor! Escape from Mordor!***": {
+    "translation": "***拿戒指的人光荣地牺牲了!逃离这里!***"
+  },
+  "***The Ring has been destroyed! Escape from Mordor!***": {
+    "translation": "***魔戒已经被摧毁了!逃离这里!***"
+  },
+  "***Resist 50 s!!***": {
+    "translation": "***抵御50s!!***"
+  },
+  "**Nazgul defeated!**": {
+    "translation": "**灵戒被打败了!**"
+  },
+  "***Nazguls coming to camp in 15 s***": {
+    "translation": "***灵戒们将在15s后进入营地***"
+  },
+  "***Nazguls coming to Cirith Ungol tower in 15 s***": {
+    "translation": "***灵戒们将在15s后来到昂戈尔塔***"
+  },
+  "***Nazguls coming to Minas Morgul in 15 s***": {
+    "translation": "***灵戒们将在15s后来到米纳斯莫古尔***"
+  },
+  "**Lever pressed! Door will open in 15s**": {
+    "translation": "**按下杠杆,门将在15s后打开**"
+  },
+  "***Humans have reached Cirith Ungol tower. One human must open the door pressing the lever at the top of the tower***": {
+    "translation": "***人类已经到达了昂戈尔塔.必须去一个人按下塔顶的杠杆打开门***"
+  },
+  "***Resist 30 s!!***": {
+    "translation": "***抵御30s!!***"
+  },
+  "**Destroy the Ring**": {
+    "translation": "**摧毁魔戒**"
+  },
+  "**Reach the Mount Doom**": {
+    "translation": "**到达末日火山**"
+  },
+  "**Random objective:**": {
+    "translation": "**随机目标:**"
+  },
+  "**********MAP CREATED BY: Hannibal[SPA] (Rafuron) **********": {
+    "translation": "**********地图作者:Hannibal[SPA] (Rafuron) 汉化:莫恒语@Fys**********"
+  },
+  "***AFK Teleport in 15 s***": {
+    "translation": "***挂机的人将在15s后传送***"
+  },
+  "***THE RING HAS REACHED THE MOUNT DOOM: the ring carrier MUST throw the ring inside the volcano***": {
+    "translation": "***戒指已经到达末日火山:戒指持有者必须把戒指扔进火山***"
+  },
+  "** The bearer feels the weight of the Ring ** Protect him! **": {
+    "translation": "** 持戒者感受到魔戒的重量 ** 保护他! **"
+  },
+  "**The ring carrier must go down to open the door.**": {
+    "translation": "**拿戒指的人必须下去开门.**"
+  },
+  "**The ring has been picked!**": {
+    "translation": "**戒指被取下了!**"
+  },
+  "***Earendil light has been picked***": {
+    "translation": "***圣光被诺多精灵捡起了***"
+  },
+  "**There are too many CT ** The second way has been opened! **": {
+    "translation": "**这里有太多人类了** 第二条路已经打开! **"
+  },
+  "***Go into the Mount Doom!***": {
+    "translation": "***进入末日火山!***"
+  },
+  "***The door is NOW open! Escape from Cirith Ungol!***": {
+    "translation": "***门现在开了!逃离昂戈尔!***"
+  },
+  "*** The Ring bearer has been corrupted! All hope is lost!***": {
+    "translation": "*** 持戒人被腐化了!所有的希望都破灭了!***"
+  }
+}
