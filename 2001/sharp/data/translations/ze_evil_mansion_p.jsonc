@@ -1,0 +1,167 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**GET TO THE MANSION!**": {
+    "translation": "**准备好进入萌新不妙屋了吗**"
+  },
+  "-= SCACLAN.COM >> 50.31.65.61:27015 =-": {
+    "translation": "-= SCACLAN.COM >> 50.31.65.61:27015 =-",
+    "blocked": true
+  },
+  "-=SPECIAL THANKS TO SCA SERVER FOR BETA TESTING!=-": {
+    "translation": "-=特别感谢SCA服务器对地图的测试=-"
+  },
+  "-=Map By Westsiderain=-": {
+    "translation": "-=地图作者:Westsiderain 翻译:夜里很饿@风云社=-"
+  },
+  "-=Zombies released in 3 seconds=-": {
+    "translation": "-=姜丝要在3秒后放出来了=-"
+  },
+  "**Dr Valencia: Give me 15 seconds.**": {
+    "translation": "**等待15秒**"
+  },
+  "-=Dr. Valencia:  DOOR OPENED!  MAKE WAY!!!=-": {
+    "translation": "-=门开了 快润啊=-"
+  },
+  "**Dr. Valencia: I might need to expell some gas soon.**": {
+    "translation": "**我需要排出一点汽油**"
+  },
+  "-=Dr. Valencia:  Door opening in 5.=-": {
+    "translation": "门在5秒后打开"
+  },
+  "**Dr. Valencia:  Nuke in 3...**": {
+    "translation": "**核爆三秒后**"
+  },
+  "-=Thanks for playing Evil Mansion!=-": {
+    "translation": "-=感谢游玩 萌新公馆 翻译夜里很饿@风云社=-"
+  },
+  "**Dr. Valencia:  2...**": {
+    "translation": "**两秒**"
+  },
+  "**Dr. Valencia:  1...**": {
+    "translation": "**一秒**"
+  },
+  "-= For comments, find me on the SCA clan forums!=-": {
+    "translation": "-= 有什么建议可以在SCA论坛找到我=-"
+  },
+  "**Dr. Valencia: HOW DARE YOU BREAK MY CAN!**": {
+    "translation": "**老八 你怎么把我的餐具打翻了!**"
+  },
+  "**Dr Valencia:  Ok... I'll open the door.**": {
+    "translation": "**老八 奥利给 干了兄弟们!**"
+  },
+  "-=Find Dr. Valencia=-": {
+    "translation": "-=找到藏在食堂里的老八=-"
+  },
+  "-=Force her out!=-": {
+    "translation": "-=把老八救出来=-"
+  },
+  "**Dr. Valencia:  I'm in the john!**": {
+    "translation": "**老八 嗨嗨嗨**"
+  },
+  "**Dr. Valencia: TAKE THIS!!!**": {
+    "translation": "**老八 来了嗷**"
+  },
+  "**Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!**": {
+    "translation": "**老八 老铁们啊 今天给大伙表演一个 鞭炮崩高玩**"
+  },
+  "-=Toilet Defense System Activated=-": {
+    "translation": "-=有玩家去当老八传人了 嗨嗨嗨=-"
+  },
+  "-=Door opens in 20 seconds.=-": {
+    "translation": "-=门在20秒后开=-"
+  },
+  "-=Door opens in 5 seconds.=-": {
+    "translation": "-=门在5秒后开·=-"
+  },
+  "** Zombies are trapped for 15 secs or til CTs find a solution.**": {
+    "translation": "** 僵尸被困住15秒 里昂们快跑啊~**"
+  },
+  "-=MAYDAY! MAYDAY!!!=-": {
+    "translation": "-=一阵熟悉的音乐响起 啊啊啊啊~啊啊啊啊啊啊啊=-"
+  },
+  "-=Helicopter Departing in 10 Seconds.=-": {
+    "translation": "-=直升机10秒后接我们走了=-"
+  },
+  "-=WE'RE GOING DOWN!=-": {
+    "translation": "-=牢大:啊啊啊啊啊=-"
+  },
+  "-=Hold here for 20 seconds=-": {
+    "translation": "-=守住20秒=-"
+  },
+  "-=5 seconds remaining.=-": {
+    "translation": "-=还剩5秒=-"
+  },
+  "-=Door opened!  Zombies held back 5 seconds.=-": {
+    "translation": "-=门开了 僵尸被拦住5秒=-"
+  },
+  "-=Defense System Activated=-": {
+    "translation": "-=小南梁 啊~对 受~不~了~了~=-"
+  },
+  "-=Zombies advance in 15 seconds.=-": {
+    "translation": "-=僵尸15秒后出笼=-"
+  },
+  "**Those Planks Look Oftly Flimsy!**": {
+    "translation": "**这些木条一定能走...吧....**"
+  },
+  "**Sailor Moon: Hey Boys!  I'm So Horny!  Come Touch Me!**": {
+    "translation": "**马猴烧酒战士:里昂别回头~我是艾达王~快来和我贴贴~**"
+  },
+  "-=Hold here for 30 Seconds.=-": {
+    "translation": "-=守住30秒=-"
+  },
+  "-=DOOR OPENED! Zombies held back for 5 seconds.=-": {
+    "translation": "-=门开了 僵尸被拦住5秒=-"
+  },
+  "**Sailor Moon: I'M CUMMIN FOR YOU!**": {
+    "translation": "**马猴烧酒战士 哦~受不鸟了~**"
+  },
+  "**Does this copter have enough fuel?**": {
+    "translation": "**这飞机驾驶员是谁?是佐巴扬吗?**"
+  },
+  "WE'RE GOING DOWN!!!": {
+    "translation": "牢大 啊啊啊啊啊啊啊~"
+  },
+  "-=Main door opens in 10 seconds!=-": {
+    "translation": "-=大门在10秒后打开=-"
+  },
+  "-=DOOR JAMMED! FIND ANOTHER WAY OUT!=-": {
+    "translation": "-=门坏了!一定有其他的路!=-"
+  },
+  "-=Door opens in 10 seconds.=-": {
+    "translation": "-=门在10秒后打开=-"
+  },
+  "**Zombies held back for 5 seconds.**": {
+    "translation": "**僵尸被拦住5秒**"
+  },
+  "-=Hold here for 40 seconds=-": {
+    "translation": "-=守住40秒=-"
+  },
+  "**Zombies ate the main gate!**": {
+    "translation": "**僵尸冲的好急啊**"
+  },
+  "**Lightning:  How bout some hardcore S&M boys?  Press the red button!!**": {
+    "translation": "**小南梁:想和我玩点刺激的吗? 快进来按那个按钮啊~**"
+  },
+  "-=A Player Has Been Raped By Sailormoon.=-": {
+    "translation": "-=有个里昂的小头控制自己大头了=-"
+  },
+  "-=Defense System Activated.=-": {
+    "translation": "-=防卫系统已激活·=-"
+  },
+  "**Lightning: Oooo Yeah!!! Did that hurt?**": {
+    "translation": "**哦就是这样,很痛吗?**"
+  },
+  "-=Detonating=-": {
+    "translation": "-=有猪鼻要自爆了~=-"
+  }
+}
