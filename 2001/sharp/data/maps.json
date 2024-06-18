@@ -1112,6 +1112,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_simple_teamplay_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 40,
+    "nomination": false,
+    "admin": false
+  },
   "ze_siberia_1990_p": {
     "certainTimes": [-1],
     "price": 300,
