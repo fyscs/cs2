@@ -517,6 +517,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_hammer_bunker_part1": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 40,
+    "nomination": false,
+    "admin": false
+  },
   "ze_haunted_lab_escape_p": {
     "certainTimes": [-1],
     "price": 300,
