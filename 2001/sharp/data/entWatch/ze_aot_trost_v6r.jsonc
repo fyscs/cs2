@@ -207,8 +207,8 @@
     "count": 1
   },
   {
-    "name": "兽之巨人",
-    "shortName": "兽巨",
+    "name": "铠之巨人",
+    "shortName": "铠巨",
     "buttonClass": "game_ui",
     "hammerId": "892",
     "triggerId": ["890"],
