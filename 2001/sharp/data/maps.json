@@ -1240,6 +1240,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_silent_hill_blackblood": {
+    "certainTimes": [-1],
+    "price": 500,
+    "cooldown": 60,
+    "nomination": false,
+    "admin": false
+  },
   "ze_stab_town_p": {
     "certainTimes": [-1],
     "price": 300,
