@@ -1,0 +1,139 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Tips:Push the red book on the ground away ***": {
+    "translation": "*** 小提示:把红书推开 ***"
+  },
+  "*** Zombies will teleport in 8 seconds ***": {
+    "translation": "*** 僵尸还有8秒传送 ***"
+  },
+  "*** wait 35 seconds ***": {
+    "translation": "*** 等待35秒 ***"
+  },
+  "*** Side road is activating ***": {
+    "translation": "*** 侧路正在打开 ***"
+  },
+  "*** Zombies will teleport in 10 seconds ***": {
+    "translation": "*** 僵尸还有10秒传送 ***"
+  },
+  "*** Run ***": {
+    "translation": "*** 跑 ***"
+  },
+  "*** Waiting for rescue ***": {
+    "translation": "*** 等待救援 ***"
+  },
+  "*** zmtp 5 seconds ***": {
+    "translation": "*** 僵尸传送还有5秒 ***"
+  },
+  "*** The obstacle will explode after 28 seconds ***": {
+    "translation": "*** 障碍物还有28秒后爆炸 ***"
+  },
+  "*** Zombies will teleport in 15 seconds ***": {
+    "translation": "*** 僵尸还有15秒传送 ***"
+  },
+  "*** Defend the house in 15 seconds ***": {
+    "translation": "*** 守住15秒 ***"
+  },
+  "*** Run Run ***": {
+    "translation": "*** 跑跑跑 ***"
+  },
+  "*** Press the button of the ship to call the large rescue cruise ship ***": {
+    "translation": "*** 按下船上的按钮呼叫大型救援游轮 ***"
+  },
+  "*** Zombie side raod activating ***": {
+    "translation": "*** 僵尸侧路打开 ***"
+  },
+  "*** Hold 25 seconds ***": {
+    "translation": "*** 还有25秒 ***"
+  },
+  "*** Defense for 25 seconds ***": {
+    "translation": "*** 守住25秒 ***"
+  },
+  "*** Zombies will teleport in 5 seconds ***": {
+    "translation": "*** 僵尸还有5秒传送 ***"
+  },
+  "*** zombie has been teleported back,Run ***": {
+    "translation": "*** 僵尸已经被传送回来了,快跑! ***"
+  },
+  "*** Hold 35 seconds ***": {
+    "translation": "*** 还有35秒 ***"
+  },
+  "*** The gate will shatter after 25 seconds ***": {
+    "translation": "*** 25秒后大门破碎 ***"
+  },
+  "*** Waiting for rescue,Hold 35 seconds ***": {
+    "translation": "*** 等待救援等待35秒 ***"
+  },
+  "*** The obstacle will explode after 25 seconds ***": {
+    "translation": "*** 障碍物还有25秒后爆炸 ***"
+  },
+  "*** Climb the ladder and run ***": {
+    "translation": "*** 爬上梯子然后跑! ***"
+  },
+  "*** Map transplanted on the L4D2 ***": {
+    "translation": "*** 在L4D2移植的地图 ***"
+  },
+  "*** Made a lot of modifications and deletions on the original map ***": {
+    "translation": "*** 对原地图做了大量修改及删除 ***"
+  },
+  "*** Side road activating ***": {
+    "translation": "*** 侧路开了! ***"
+  },
+  "*** The helicopter will evacuate after 45 seconds ***": {
+    "translation": "*** 直升机将在45秒后撤离 ***"
+  },
+  "*** Zombie teleport in 10 seconds ***": {
+    "translation": "*** 僵尸还有10秒传送 ***"
+  },
+  "** zombie tele in 10 seconds **": {
+    "translation": "** 僵尸传送还有10秒 **"
+  },
+  "** survive 50 seconds **": {
+    "translation": "** 存活50秒 **"
+  },
+  "** for back **": {
+    "translation": "** 撤退! **"
+  },
+  "** maby we can climb up the stars **": {
+    "translation": "** 也许我们可以爬上去 **"
+  },
+  "** zombie teleport run now***": {
+    "translation": "** 僵尸正在传送***"
+  },
+  "** wo must find a way out of here **": {
+    "translation": "** 我们必须想办法离开这里 **"
+  },
+  "*** Hold this position for 35 seconds ***": {
+    "translation": "*** 再坚持35秒 ***"
+  },
+  "*** The wall break in 35 seconds left ***": {
+    "translation": "*** 墙还有35秒破裂 ***"
+  },
+  "*** The wall break 25 seconds left ***": {
+    "translation": "*** 还剩25秒 ***"
+  },
+  "*** Zombie teleport in 10 seconds left ***": {
+    "translation": "*** 僵尸还有10秒传送 ***"
+  },
+  "*** The road is clear after 35 seconds ***": {
+    "translation": "*** 35秒后道路顺畅 ***"
+  },
+  "*** Zombie detected, failed ***": {
+    "translation": "*** 检测到僵尸了,通关失败 ***"
+  },
+  "*** stage complete ***": {
+    "translation": "*** 关卡完成 ***"
+  },
+  "*** Hold for 35 seconds ***": {
+    "translation": "*** 坚持35秒 ***"
+  }
+}
