@@ -1287,6 +1287,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_trainescape_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 40,
+    "nomination": false,
+    "admin": false
+  },
   "ze_trap_escape_p": {
     "certainTimes": [-1],
     "price": 300,
