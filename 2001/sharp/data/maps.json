@@ -1126,17 +1126,17 @@
     "nomination": true,
     "admin": false
   },
-  "ze_silent_hill_blackblood": {
-    "certainTimes": [-1],
-    "price": 500,
-    "cooldown": 60,
-    "nomination": false,
-    "admin": false
-  },
   "ze_sorrento_escape_p": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
+    "nomination": false,
+    "admin": false
+  },
+  "ze_silent_hill_blackblood": {
+    "certainTimes": [-1],
+    "price": 500,
+    "cooldown": 60,
     "nomination": false,
     "admin": false
   },
