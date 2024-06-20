@@ -518,6 +518,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_gods_wrath_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": false,
+    "admin": false
+  },
   "ze_goobers_basement": {
     "certainTimes": [-1],
     "price": 300,
