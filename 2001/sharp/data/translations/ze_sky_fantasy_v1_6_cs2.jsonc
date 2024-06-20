@@ -1,0 +1,232 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** 10 more seconds **": {
+    "translation": "** 坚持10秒 **"
+  },
+  "STAGE FAIL": {
+    "translation": "失败"
+  },
+  "*** Star energy counteracts the boss's skills ***": {
+    "translation": "*** 星光之力抵消了你们老婆的一次技能 ***"
+  },
+  "*** Star power can not be used... ***": {
+    "translation": "*** 星光之力已耗尽... ***"
+  },
+  "*** Zombies are coming!!! ***": {
+    "translation": "*** 尸笼已开!!! ***"
+  },
+  "*** Its not over...... ***": {
+    "translation": "*** 还没有结束...... ***"
+  },
+  "*** Fantasy - Wind ***": {
+    "translation": "*** 古娜拉黑暗之神 - 风暴之翼 ***"
+  },
+  "*** Fantasy - Fire ***": {
+    "translation": "*** 古巴娜娜黑暗之神 - 烈狱之火***"
+  },
+  "*** Fantasy - Water ***": {
+    "translation": "*** 古希腊黑暗之神 - 凝结之水 ***"
+  },
+  "*** Fantasy - Earth ***": {
+    "translation": "*** 古巴拉巴拉黑暗之神 - 大地之力 ***"
+  },
+  "*** Fantasy - Holy ***": {
+    "translation": "*** 古慧慧黑暗之神 - 爆裂吧,魔法 ***"
+  },
+  "*** Fantasy - Heal ***": {
+    "translation": "*** 古达拉崩吧黑暗之神 - 轮回血界 ***"
+  },
+  "*** Holy effects in 4 seconds ***": {
+    "translation": "*** 终极将在4秒后爆裂 ***"
+  },
+  "*** Fantasy - Fantasy Star ***": {
+    "translation": "***古TM黑暗之神 - 破碎星光 ***"
+  },
+  "Map by Misaka": {
+    "translation": "地图作者: Misaka 地图汉化:小妖梦@风云社"
+  },
+  "** 15 more seconds **": {
+    "translation": "** 坚守15秒 **"
+  },
+  "** Door will open in 40 seconds **": {
+    "translation": "** 大门将在40秒后打开 **"
+  },
+  "- ZM Mode -": {
+    "translation": "- ZM模式-"
+  },
+  "<< zombie can move in 8 seconds >>": {
+    "translation": "<< 僵尸在将在8秒后出笼 >>"
+  },
+  "*** Map by Misaka ***": {
+    "translation": "***地图作者: Misaka 地图汉化:小妖梦@风云社 ***"
+  },
+  "*** Special Thanks to Excarliber & Koyomaple ***": {
+    "translation": "*** 特别感谢:Excarliber & Koyomaple***"
+  },
+  "** Teleport will be ready in 15 seconds **": {
+    "translation": "** 防守15秒直到传送 **"
+  },
+  "Congratulation!!!": {
+    "translation": "恭喜通关!!!"
+  },
+  "You are the king of this map!!!": {
+    "translation": "偶我的上帝,你就是天幻之王!!!"
+  },
+  "*** Boss - Fantasy Spirit ***": {
+    "translation": "*** 古娜拉黑暗之神 - 呜呼啦呼 - 黑魔变身 ***"
+  },
+  "STAGE COMPLETE": {
+    "translation": "关卡完成"
+  },
+  "** The elevator will leave in 10 seconds **": {
+    "translation": "** 电梯将在10秒后离开 **"
+  },
+  "- Nightmare Mode -": {
+    "translation": "- 噩梦模式 -"
+  },
+  "** The last door will open in 90 seconds **": {
+    "translation": "** 终结之门将在90秒后打开 **"
+  },
+  "<< Pure Fury >>": {
+    "translation": "<< 纯粹の愤怒 - 召唤小弟 >>"
+  },
+  "<< Earth Power >>": {
+    "translation": "<< 大地之力 - 寻找上升平台 >>"
+  },
+  "<< Pressure >>": {
+    "translation": "<< 威の压 - 蹲下 >>"
+  },
+  "<< Danger Range >>": {
+    "translation": "<< 雷神之怒 - 躲避脚下红色区域 >>"
+  },
+  "<< Sinister Omen >>": {
+    "translation": "<< 不详之兆 - 站平台边缘 >>"
+  },
+  "<< Aurora Veil >>": {
+    "translation": "<< 极光荧幕 >>"
+  },
+  "<< Tri Crystal >>": {
+    "translation": "<< 三色水晶 - 紫吸绿推红蹲 >>"
+  },
+  "** Teleport will be ready in 25 seconds **": {
+    "translation": "** 传送将在25秒后开启 **"
+  },
+  "- Lunatic Mode -": {
+    "translation": "- 地狱模式 -"
+  },
+  "** Defend here for 25 seconds **": {
+    "translation": "** 防守25秒**"
+  },
+  "** 25 more seconds **": {
+    "translation": "** 在守25秒 **"
+  },
+  "<< TIPS: Shooting 8 buttons >>": {
+    "translation": "<< 提示:射击八个按钮以触发大门 >>"
+  },
+  "*** Zombies can tele under the tree now! ***": {
+    "translation": "*** 僵尸现在可以移动了! ***"
+  },
+  "** 50 more seconds **": {
+    "translation": "** 剩余50秒 **"
+  },
+  "** Sideway will open in 10 seconds **": {
+    "translation": "** 侧路将在10秒后打开 **"
+  },
+  "** The backway will open in 50 seconds **": {
+    "translation": "** 后门将在50秒后打开 **"
+  },
+  "** The elevator will leave in 50 seconds **": {
+    "translation": "** 电梯将在50秒后离开 **"
+  },
+  "<< Ominous Wind >>": {
+    "translation": "<< 风暴之翼 - 四个方向随机推力 >>"
+  },
+  "<< Rotating Blade >>": {
+    "translation": "<< 幻影剑 - 看头顶 >>"
+  },
+  "<< Demon Cage >>": {
+    "translation": "<< 恶魔牢笼 >>"
+  },
+  "<< Flash Cannon >>": {
+    "translation": "<< 魔贯光杀炮 >>"
+  },
+  "<< Creation Shield >>": {
+    "translation": "<< 血继限界 - 停枪 >>"
+  },
+  "** The elevator will leave in 30 seconds **": {
+    "translation": "** 电梯将在30秒后离开 **"
+  },
+  "** BOSS FIGHT in 45 seconds **": {
+    "translation": "** 在45秒后击败BOSS **"
+  },
+  "** Hold 25 more seconds **": {
+    "translation": "** 在坚守25秒 **"
+  },
+  "** Door will open in 25 seconds **": {
+    "translation": "** 门将在25秒后打开 **"
+  },
+  "** 60 more seconds **": {
+    "translation": "** 再守60秒 **"
+  },
+  "- Normal Mode -": {
+    "translation": "- 普通模式 -"
+  },
+  "- Hard Mode -": {
+    "translation": "- 困难模式 -"
+  },
+  "** Door will open in 15 seconds **": {
+    "translation": "** 大门将在15秒后打开 **"
+  },
+  "** Hold 20 seconds **": {
+    "translation": "** 防守20秒 **"
+  },
+  "** BOSS will appear in 85 seconds **": {
+    "translation": "** BOSS将在85秒后出现 **"
+  },
+  "** SHOOT BOSS NOW!!! **": {
+    "translation": "** 朝BOSS开枪!! **"
+  },
+  "** Elevator will leave in 25 seconds **": {
+    "translation": "** 电梯将在25秒后离开 **"
+  },
+  "** The first ladder will be ready in 30 seconds **": {
+    "translation": "** 第一个梯子将在30秒后开启 **"
+  },
+  "** The second ladder will be ready in 25 seconds **": {
+    "translation": "** 第二个梯子将在25秒后开启 **"
+  },
+  "** Teleport will be ready in 35 seconds **": {
+    "translation": "** 35秒后传送,守住! **"
+  },
+  "** Defend here for 30 seconds **": {
+    "translation": "** 在此防守30秒 **"
+  },
+  "ZOMBIE HAS ESCAPED !!!": {
+    "translation": "僵尸上了板子,你输了!!!"
+  },
+  "** The top door will open in 20 seconds **": {
+    "translation": "** 顶门将在20秒后打开 **"
+  },
+  "** Elevator will leave in 15 seconds **": {
+    "translation": "** 电梯将在15秒后离开 **"
+  },
+  "** 20 more seconds **": {
+    "translation": "** 再守20秒 **"
+  },
+  "- Easy Mode -": {
+    "translation": "- 简单模式 -"
+  },
+  "** Door will open in 20 seconds **": {
+    "translation": "** 门将在20秒后打开 **"
+  }
+}
