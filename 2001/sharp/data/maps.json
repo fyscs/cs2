@@ -784,6 +784,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_magic_carpet_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": false,
+    "admin": false
+  },
   "ze_mario_tower_p": {
     "certainTimes": [-1],
     "price": 300,
