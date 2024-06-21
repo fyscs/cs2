@@ -129,8 +129,8 @@
     "count": 1
   },
   {
-    "name": "死亡",
-    "shortName": "死亡",
+    "name": "毒",
+    "shortName": "毒",
     "buttonClass": "game_ui",
     "hammerId": "732",
     "triggerId": ["733"],
