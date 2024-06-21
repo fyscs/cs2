@@ -137,7 +137,7 @@
   {
     "name": "无垢巨人①",
     "shortName": "无垢①",
-    "buttonClass": "game_ui",
+    "buttonClass": "func_button",
     "hammerId": "823",
     "triggerId": ["821"],
     "cooldown": 30,
@@ -149,7 +149,7 @@
   {
     "name": "无垢巨人②",
     "shortName": "无垢②",
-    "buttonClass": "game_ui",
+    "buttonClass": "func_button",
     "hammerId": "832",
     "triggerId": ["830"],
     "cooldown": 8,
@@ -197,7 +197,7 @@
   {
     "name": "兽之巨人",
     "shortName": "兽巨",
-    "buttonClass": "game_ui",
+    "buttonClass": "func_button",
     "hammerId": "875",
     "triggerId": ["873"],
     "cooldown": 50,
@@ -209,7 +209,7 @@
   {
     "name": "铠之巨人",
     "shortName": "铠巨",
-    "buttonClass": "game_ui",
+    "buttonClass": "func_button",
     "hammerId": "892",
     "triggerId": ["890"],
     "cooldown": 75,
@@ -221,7 +221,7 @@
   {
     "name": "车力巨人",
     "shortName": "车巨",
-    "buttonClass": "game_ui",
+    "buttonClass": "func_button",
     "hammerId": "904",
     "triggerId": ["902"],
     "cooldown": 30,
