@@ -1296,7 +1296,7 @@
     "nomination": false,
     "admin": false
   },
-  "ze_surf_saltfish_cs2": {
+  "ze_surf_saltfish_v1_cs2": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 300,
     "cooldown": 80,
