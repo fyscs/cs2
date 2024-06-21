@@ -154,7 +154,7 @@
   },
   {
     "name": "火球",
-    "shortName": "火",
+    "shortName": "火球",
     "buttonClass": "func_button",
     "hammerId": "6540",
     "cooldown": 13,
@@ -165,7 +165,7 @@
   },
   {
     "name": "电球",
-    "shortName": "电",
+    "shortName": "电球",
     "buttonClass": "func_button",
     "hammerId": "6554",
     "cooldown": 13,
