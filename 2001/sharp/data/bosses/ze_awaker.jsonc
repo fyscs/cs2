@@ -25,6 +25,16 @@
       "iterator": "lv2_boss_hpcounter",
       "hitbox": "lv2_boss_hpbox",
       "display": "Awaker"
+    },
+    {
+      "iterator": "lv3_boss_hpcounter1",
+      "hitbox": "lv3_boss_break",
+      "display": "Block"
+    },
+    {
+      "iterator": "lv3_boss2_hpcounter",
+      "hitbox": "lv3_boss2_hpbreak",
+      "display": "Block"
     }
   ]
 }
