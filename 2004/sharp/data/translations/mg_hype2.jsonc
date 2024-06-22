@@ -1,0 +1,133 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Song - ROZES - Fragile (AVNU Remix)": {
+    "translation": "Song - ROZES - Fragile (AVNU Remix)"
+  },
+  "Song - Henrix - Feel Alive (Fever Remix)": {
+    "translation": "Song - Henrix - Feel Alive (Fever Remix)"
+  },
+  "Song - Embers : Feint": {
+    "translation": "Song - Embers : Feint"
+  },
+  "Song - Said The Sky ft. Diamond Eyes - Mountains": {
+    "translation": "Song - Said The Sky ft. Diamond Eyes - Mountains"
+  },
+  "Song - Jumper : Third Eye Blind": {
+    "translation": "Song - Jumper : Third Eye Blind"
+  },
+  "Song - Closer : Lazlo": {
+    "translation": "Song - Closer : Lazlo"
+  },
+  "Song - Ed Sheeran - I See Fire (Kygo Remix)": {
+    "translation": "Song - Ed Sheeran - I See Fire (Kygo Remix)"
+  },
+  "Song - It'll Be Okay : SMLE ft. Helen Tess": {
+    "translation": "Song - It'll Be Okay : SMLE ft. Helen Tess"
+  },
+  "Song - Kygo - Stay (ft. Maty Noyes)": {
+    "translation": "Song - Kygo - Stay (ft. Maty Noyes)"
+  },
+  "Low Gravity Negev War!": {
+    "translation": "低重力内格夫战!"
+  },
+  "Shotguns": {
+    "translation": "霰弹枪对决"
+  },
+  "Dual Beretta's": {
+    "translation": "双枪对决"
+  },
+  "Football [1hp]": {
+    "translation": "一血足球"
+  },
+  "Knife Damage Enabled!": {
+    "translation": "刀伤已启用!"
+  },
+  "Wallhacks - M4A1-S": {
+    "translation": "透视M4A1-S"
+  },
+  "Wallhacks - USP": {
+    "translation": "透视USP"
+  },
+  "Duck Hunt v1. T's are Ducks!": {
+    "translation": "打鸭子第一版. T阵营是鸭子!"
+  },
+  "Duck Hunt v1. CT's are Ducks!": {
+    "translation": "打鸭子第一版. CT阵营是鸭子!"
+  },
+  "Rifle": {
+    "translation": "步枪对决"
+  },
+  "35hp Knife": {
+    "translation": "轻刀刀战"
+  },
+  "100hp Knife": {
+    "translation": "满血刀战"
+  },
+  "65hp Knife": {
+    "translation": "重刀刀战"
+  },
+  "Bhop": {
+    "translation": "连跳模式"
+  },
+  "DeathRun": {
+    "translation": "死跑闯关模式"
+  },
+  "Barrel Box Selected": {
+    "translation": "已选择炸油桶模式"
+  },
+  "Deagles": {
+    "translation": "沙鹰对决"
+  },
+  "Grenades": {
+    "translation": "手雷战"
+  },
+  "Wall Breaks in 5 Seconds!": {
+    "translation": "墙在5秒后碎掉"
+  },
+  "Level One Kill Trigger in 15 Seconds!": {
+    "translation": "第一层的人将在15秒后处死"
+  },
+  "Level Two Kill Trigger in 10 Seconds!": {
+    "translation": "第二层的人将在10秒后处死"
+  },
+  "Level Three Kill Trigger in 10 Seconds!": {
+    "translation": "第三层的人将在10秒后处死"
+  },
+  "Level Four Kill Trigger in 10 Seconds!": {
+    "translation": "第四层的人将在10秒后处死"
+  },
+  "Duck Hunt v2, Picking Sides...": {
+    "translation": "打鸭子第二版, 正在选边..."
+  },
+  "ScoutsKnives": {
+    "translation": "鸟狙"
+  },
+  "AWP": {
+    "translation": "AWP"
+  },
+  "Pistols [HS]": {
+    "translation": "手枪爆头"
+  },
+  "Iceskate": {
+    "translation": "溜冰"
+  },
+  "Rifle - AK47": {
+    "translation": "AK对枪"
+  },
+  "Welcome to hype2": {
+    "translation": "欢迎游玩hype②"
+  },
+  "[ -- Slay the bots in the arena -- ]": {
+    "translation": "已处死下面的人"
+  }
+}

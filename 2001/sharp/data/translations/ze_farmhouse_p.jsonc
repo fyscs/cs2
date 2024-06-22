@@ -1,0 +1,195 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** To use the barricade hammer, hold E key to move wood up or down, and HIT ATTACK KEY on hammer to place a wood barricade! ***": {
+    "translation": "*** 用E键控制木头上升和下降,鼠标左右键放置路障 ***"
+  },
+  "*** CASTLE DOOR IS CLOSING IN 5 SECONDS ***": {
+    "translation": "*** 堡垒大门5秒后关闭 ***"
+  },
+  "*** THAT BIG X ON THE RIGHT IS A SECRET PATH THAT ONLY THE ICE GUN HOLDER CAN GO! ***": {
+    "translation": "*** 右边的大X标识是一条只有冰冻枪持有者才能走的秘密通道! ***"
+  },
+  "*** Press E to push things away with this gun! ***": {
+    "translation": "*** E键使用推力枪 ***"
+  },
+  "*** BREAK THE BRIDGE LADDER TO HOLD THE ZOMBIES!!!! ***": {
+    "translation": "*** 打碎梯子防守僵尸!! ***"
+  },
+  "*** Boat Leaving in 5 Seconds ***": {
+    "translation": "*** 5秒后开船 ***"
+  },
+  "*** THE LADDER WILL NOT BREAK ANYMORE! FALL BACK!! ***": {
+    "translation": "*** 梯子不会再断了!撤退! ***"
+  },
+  "*** You Must Wait For Your Team ***": {
+    "translation": "*** 你必须等你的队友***"
+  },
+  "*** HOLD E to charge this plasma gun. When FULLY charged, HIT ATTACK KEY ON PLASMA GUN TO SHOOT!! ***": {
+    "translation": "*** 终极E键蓄力, 等待充能完毕后发射!! ***"
+  },
+  "*** THIS ITEM IS VERY DANGEROUS SO CAREFUL WHEN USE IT. ***": {
+    "translation": "*** 这个东西很危险,使用时一定要小心 ***"
+  },
+  "*** THE MOVING CHECKPOINT WILL GO TO THE SPACE AREA IN 15 SECONDS!! ***": {
+    "translation": "*** 僵尸传送点15秒后移动到太空区域 ***"
+  },
+  "*** The Helicopter Will Depart in 30 seconds ***": {
+    "translation": "*** 直升机30秒后起飞 ***"
+  },
+  "*** The Helicopter Will Depart in 20 seconds ***": {
+    "translation": "*** 直升机20秒后起飞 ***",
+    "blocked": true
+  },
+  "*** The Helicopter Will Depart in 10 seconds ***": {
+    "translation": "*** 直升机10秒后起飞 ***",
+    "blocked": true
+  },
+  "*** The Helicopter Will Depart in 5 seconds ***": {
+    "translation": "*** 直升机5秒后起飞 ***",
+    "blocked": true
+  },
+  "*** The Helicopter is Departing ***": {
+    "translation": "*** 直升机正在撤离 ***"
+  },
+  "*** Rocket Launched ***": {
+    "translation": "*** 核爆 ***"
+  },
+  "*** Rocket in 5 seconds ***": {
+    "translation": "*** 5秒后核爆 ***",
+    "blocked": true
+  },
+  "*** Rocket in 10 seconds ***": {
+    "translation": "*** 10秒后核爆 ***"
+  },
+  "*** JUMP ON THE CEILING TO HOLD ON IT! ***": {
+    "translation": "*** 跳上天花板守住这里 ***"
+  },
+  "*** THE PORTAL IS OPEN!!! GO!!!! ***": {
+    "translation": "*** 门开了!快走!! ***"
+  },
+  "*** The Train Will Leave in 5 seconds ***": {
+    "translation": "*** 火车将在5秒钟后离开 ***"
+  },
+  "*** The Lake Water Got Contaminated ***": {
+    "translation": "*** 湖水已经被污染了! ***"
+  },
+  "*** THIS ELEVATOR IS HAUNTED, YOU MAY BE LUCKY IF YOU SURVIVE!!! ***": {
+    "translation": "*** 只有强者才能从电梯里活着出来, 或许你就是强者 ***"
+  },
+  "*** Exit Door Opens in 5 Seconds ***": {
+    "translation": "*** 撤离大门5秒后打开 ***",
+    "blocked": true
+  },
+  "*** Exit Door Opens in 15 Seconds ***": {
+    "translation": "*** 撤离大门15秒后打开 ***"
+  },
+  "*** Press E to freeze the water with this gun!! ***": {
+    "translation": "*** E键使用冷冻枪 ***"
+  },
+  "*** YOU CANNOT BARRICADE THE TELEPORT! ***": {
+    "translation": "*** 你不能阻挡传送门继续运行! ***"
+  },
+  "*** THE ICE GUN HOLDER HAS 60 SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***": {
+    "translation": "*** 拿冰冻枪的人有六十秒时间逃出通风管道 ***"
+  },
+  "*** THE ICE GUN HOLDER HAS 10 MORE SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***": {
+    "translation": "*** 拿冰冻枪的人有十秒时间逃出通风管道 ***"
+  },
+  "*** WAIT WHILE THE PORTAL IS BEING OPENED!!!! ***": {
+    "translation": "*** 门正在打开, 请稍后!! ***"
+  },
+  "*** Level B Door Opens in 5 Seconds ***": {
+    "translation": "*** 底下二层大门5秒后打开 ***",
+    "blocked": true
+  },
+  "*** Zombies Has Reached The Checkpoint ***": {
+    "translation": "*** 僵尸已经到达检查点 ***"
+  },
+  "*** Level B Door Opens in 15 Seconds ***": {
+    "translation": "*** 底下二层大门15秒后打开 ***",
+    "blocked": true
+  },
+  "*** Level B Door Opens in 25 Seconds ***": {
+    "translation": "*** 底下二层大门25秒后打开 ***"
+  },
+  "*** Detonation in 3 Seconds ***": {
+    "translation": "*** 3秒后爆炸 ***"
+  },
+  "*** THE BIG ROCK ON THE WOOD PLATFORM CAN BE BROKEN BY THE TANK ***": {
+    "translation": "*** 木平台上的大石头可以被坦克五次拳击或者扔石头打碎 ***"
+  },
+  "*** THE BIG ROCK ON THE WOOD PLATFORM CAN BE BROKEN BY ZOMBIES ***": {
+    "translation": "*** 木平台上的大石头可以被僵尸砸碎 ***"
+  },
+  "*** Eletric Fence Disabled ***": {
+    "translation": "*** 围栏高压电已关闭 ***"
+  },
+  "*** YOU ARE PLAYING ON EASY DIFFICULTY!! NOOBS!! ***": {
+    "translation": "*** 现在是简单难度!!菜鸟!! ***"
+  },
+  "*** YOU ARE PLAYING ON MEDIUM DIFFICULTY!! KIDS!! ***": {
+    "translation": "*** 现在是中等难度, 新兵!! ***"
+  },
+  "*** YOU HAVE TO GO TO THE HOUSE THIS TIME!! ***": {
+    "translation": "*** 这回我们不得不下班辣 ***"
+  },
+  "*** YOU ARE PLAYING ON HARD DIFFICULTY GUYS!! ***": {
+    "translation": "*** 现在是困难难度,伙计! ***"
+  },
+  "*** YOU ARE PLAYING ON EXTREME DIFFICULTY!! GOOD LUCK, YOU GONNA NEED IT! ***": {
+    "translation": "*** 现在是极限难度,祝你好运! ***"
+  },
+  "*** Farmhouse Escape! ***": {
+    "translation": "*** 欢迎来到坦克农场!! ***"
+  },
+  "*** Created by Jack Bauer ***": {
+    "translation": "*** 作者:Jack Bauer 汉化:Zeyu1 ***"
+  },
+  "*** For any information contact me on steam Steam Community ID --> JackBauer123 ***": {
+    "translation": "*** 建议和bug反馈或者任何信息都可以联系我,ID:JackBauer123 ***",
+    "blocked": true
+  },
+  "*** ADMIN WILL KILL ALL IN 3 SECONDS ***": {
+    "translation": "*** 三秒后处死全体玩家 ***"
+  },
+  "*** ADMIN SWITCHED DIFFICULT TO EXTREME FOR THE NEXT ROUND!! ***": {
+    "translation": "*** 管理员设置极限难度 ***"
+  },
+  "*** ADMIN SWITCHED DIFFICULT TO HARD FOR THE NEXT ROUND!! ***": {
+    "translation": "*** 管理员设置困难难度 ***"
+  },
+  "*** ADMIN SWITCHED DIFFICULT TO MEDIUM FOR THE NEXT ROUND!! ***": {
+    "translation": "*** 管理员设置中等难度 ***"
+  },
+  "*** ADMIN SWITCHED DIFFICULT TO EASY FOR THE NEXT ROUND!! ***": {
+    "translation": "*** 管理员设置简单难度 ***"
+  },
+  "*** THE TANK WILL AUTO DIE IN 60 SECONDS IF ITS NOT KILLED BY THE HUMANS!!! ***": {
+    "translation": "*** 如果人类没有杀死坦克, 坦克会在六十秒后被自动处死 ***"
+  },
+  "*** BREAK THE BLUE BARREL TO PLAY AS THE TANK!!! ***": {
+    "translation": "*** 打碎蓝色汽油桶争夺坦克!!! ***"
+  },
+  "*** ZOMBIES ON THE HELICOPTER, SHOOT THEM OUT!! ***": {
+    "translation": "*** 僵尸已经在飞机上,赶快把他们肘击下去! ***"
+  },
+  "*** Rescue ETA in 1 minute ***": {
+    "translation": "*** 救援预计到达时间六十秒 ***"
+  },
+  "*** The Helicopter is coming ***": {
+    "translation": "*** 直升机来了 ***"
+  },
+  "*** Rescue ETA in less than 2 minutes ***": {
+    "translation": "*** 救援预计两分钟后到达 ***"
+  }
+}

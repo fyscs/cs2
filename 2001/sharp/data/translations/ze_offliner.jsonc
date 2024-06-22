@@ -1,0 +1,37 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "| Door opens in 20 seconds |": {
+    "translation": "| 大门将在20秒后打开 |"
+  },
+  "| Door opens in 15 seconds |": {
+    "translation": "| 大门将在15秒后打开 |"
+  },
+  "| Final door opens in 10 seconds |": {
+    "translation": "| 终点之门将在10秒后打开 |"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+  },
+  "| Loading shockwave 15 seconds |": {
+    "translation": "| 终极已被激活,将在15秒后炸开 |"
+  },
+  "| Door opens in 25 seconds |": {
+    "translation": "| 剩余25秒门开 |"
+  },
+  "| 5 seconds left |": {
+    "translation": "| 还剩5秒 |"
+  },
+  "| Door opens in 35 seconds |": {
+    "translation": "| 大门将在35秒后打开 |"
+  },
+  "| Player has picked up shockwave |": {
+    "translation": "| 一名玩家拾取了终极(小心,只有一次机会) |"
+  }
+}

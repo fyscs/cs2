@@ -1,0 +1,161 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<< THE DOOR HAS OPENED >>>": {
+    "translation": "<<< 门开了 >>>"
+  },
+  "<<< Prepare to fight for your life!!! >>>": {
+    "translation": "<<< 将欲为生而战,不在此陨!!!! >>>"
+  },
+  "RUN": {
+    "translation": "跑!!!"
+  },
+  "The door opened": {
+    "translation": "门开了"
+  },
+  "<<< Call the elevator >>>": {
+    "translation": "<<< 正在呼叫电梯 >>>"
+  },
+  "Climb up the ladder": {
+    "translation": "爬上梯子"
+  },
+  "<<< Prepare for the Battle of Your Life >>>": {
+    "translation": "<<< 备战于生,以待天命之战 >>>"
+  },
+  "<<< They are coming... >>>": {
+    "translation": "<<< 他们来了... >>>"
+  },
+  "DON'T TOUCH THE LASERS": {
+    "translation": "激光有那么好玩?非要去碰?"
+  },
+  "<<< The electricity should be cut off in a few seconds >>>": {
+    "translation": "<<< 电源即将被切断 >>>"
+  },
+  "<<< Electricity is OFF >>>": {
+    "translation": "<<< 电源已被切断 >>>"
+  },
+  "<<< The door leading to the elevator are open! >>>": {
+    "translation": "<<< 电梯打开了! >>>"
+  },
+  "Map by Trazix": {
+    "translation": "地图作者:Trazix地图翻译:余清茗染@fys"
+  },
+  "CS2 by Nino": {
+    "translation": "地图移植: Nino"
+  },
+  "Welcome on Objective NPST": {
+    "translation": "欢迎来到:牛批神图"
+  },
+  "Good Luck !": {
+    "translation": "祝你玩得开心!"
+  },
+  "<<< The door is opening get inside !>>>": {
+    "translation": "<<< 门开了,走 !>>>"
+  },
+  "They are coming": {
+    "translation": "他们来了"
+  },
+  "DOOR IS OPEN": {
+    "translation": "门开了"
+  },
+  "DOOR HAS OPENED": {
+    "translation": "门已经打开"
+  },
+  "<<< DOOR IS OPEN >>>": {
+    "translation": "<<< 门开了 >>>"
+  },
+  "<<<5>>>": {
+    "translation": "<<<5>>>"
+  },
+  "<<<4>>>": {
+    "translation": "<<<4>>>",
+    "blocked": true
+  },
+  "<<<3>>>": {
+    "translation": "<<<3>>>",
+    "blocked": true
+  },
+  "<<<2>>>": {
+    "translation": "<<<2>>>",
+    "blocked": true
+  },
+  "<<<1>>>": {
+    "translation": "<<<1>>>",
+    "blocked": true
+  },
+  "<<< GO GO GOOOO >>>": {
+    "translation": "<<< 冲刺!!冲刺!!冲冲! >>>"
+  },
+  "<<< It's not finished >>>": {
+    "translation": "<<< 并未准备就绪... >>>"
+  },
+  "<<< Get out of here !!! >>>": {
+    "translation": "<<< 离开这里!!! >>>"
+  },
+  "<<< The yellow door Area 9 will open in 10 seconds >>>": {
+    "translation": "<<< 区域九号门将在10秒打开 >>>"
+  },
+  "<<< The yellow door leading to the HUB will open soon >>>": {
+    "translation": "<<< 通向实验室的黄门即将打开 >>>"
+  },
+  "Elevator door opened": {
+    "translation": "电梯门已打开"
+  },
+  "The fire will burn out in a few seconds": {
+    "translation": "火炽数息而烬矣"
+  },
+  "RUNNNNN !!!!": {
+    "translation": "跑路!!跑路!!跑路!!"
+  },
+  "<<< We are not giving thanks to Waffel for hepling >>>": {
+    "translation": "<<< 并不是在感谢Waffel的帮助哦 >>>"
+  },
+  "THE DOOR OPENED RIGHT SIDE": {
+    "translation": "右侧门已打开"
+  },
+  "THE DOOR IS OPENING": {
+    "translation": "门开了"
+  },
+  "<<< The water level is increasing >>>": {
+    "translation": "<<< 水位在上升 >>>"
+  },
+  "<<< The fence has broken >>>": {
+    "translation": "<<< 栅栏已损坏 >>>"
+  },
+  "<<< The door is going to open >>>": {
+    "translation": "<<< 门要开了 >>>"
+  },
+  "<<< Prepare to shoot >>>": {
+    "translation": "<<< 备举炮火!开枪! >>>"
+  },
+  "<<< The door is about to open.. >>>": {
+    "translation": "<<< 门马上开了.. >>>"
+  },
+  "<<< The vent is going to explode... >>>": {
+    "translation": "<<< 通风口要爆炸了... >>>"
+  },
+  "<<< The door is going to open in 10 sec >>>": {
+    "translation": "<<< 门10秒钟后就会打开 >>>"
+  },
+  "<<< The Sewer is going to open in 10 sec >>>": {
+    "translation": "<<< 下水道10秒钟后就会打开 >>>"
+  },
+  "<<< The Flames is going to burn out in 10 sec >>>": {
+    "translation": "<<< 火焰将在10秒内燃烧殆尽 >>>"
+  },
+  "<<< The vent is going to open in 10 sec >>>": {
+    "translation": "<<< 通风口10秒钟后就会打开 >>>"
+  },
+  "<<< Prepare to run. >>>": {
+    "translation": "<<< 准备跑路... >>>"
+  }
+}

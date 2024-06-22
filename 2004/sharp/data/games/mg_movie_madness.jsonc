@@ -29,8 +29,8 @@
   {
     "id": "2292",
     "cd": 480,
-    "mode": 7,
-    "name": "生化危机",
+    "mode": 2,
+    "name": "猛鬼街",
     "class": "func_button",
     "event": "OnPressed"
   },
@@ -85,8 +85,8 @@
   {
     "id": "2302",
     "cd": 480,
-    "mode": 2,
-    "name": "猛鬼街",
+    "mode": 7,
+    "name": "生化危机",
     "class": "func_button",
     "event": "OnPressed"
   },

@@ -1,0 +1,67 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "不死者之王:终焉之时到了!亵渎者,停止胡闹吧!": {
+    "translation": "不死者之王:终焉之时到了!亵渎者,停止胡闹吧!"
+  },
+  "ZE_OVERLORD Chapter III": {
+    "translation": "纳萨力克大坟墓 章节三"
+  },
+  "纳萨力克的亡灵......我无意亵渎此地......愿你安息": {
+    "translation": "纳萨力克的亡灵......我无意亵渎此地......愿你安息"
+  },
+  "ZE_OVERLORD Chapter IV MAP BY <佐贺> <Riggin>": {
+    "translation": "纳萨力克大坟墓 章节四 地图作者 <佐贺> <Riggin>"
+  },
+  "塔其米:你执意要踏足此地么?": {
+    "translation": "塔其米:你执意要踏足此地么?"
+  },
+  "塔其米:亵渎者,你会后悔的": {
+    "translation": "塔其米:亵渎者,你会后悔的"
+  },
+  "雅儿贝德:亵渎者,在地狱之火中安息吧!": {
+    "translation": "雅儿贝德:亵渎者,在地狱之火中安息吧!"
+  },
+  "ZE_OVERLORD Chapter II": {
+    "translation": "纳萨力克大坟墓 章节二"
+  },
+  "封印纳萨利里克的亡灵于坟墓之内": {
+    "translation": "封印纳萨利里克的亡灵于坟墓之内"
+  },
+  "ZE_OVERLORD Chapter I": {
+    "translation": "纳萨力克大坟墓 章节一"
+  },
+  "ZE_OVERLORD": {
+    "translation": "纳萨力克大坟墓"
+  },
+  "测试版本": {
+    "translation": "测试版本"
+  },
+  "25": {
+    "translation": "25"
+  },
+  "30": {
+    "translation": "30"
+  },
+  "40": {
+    "translation": "40"
+  },
+  "20": {
+    "translation": "20"
+  },
+  "10": {
+    "translation": "10"
+  },
+  "60": {
+    "translation": "60"
+  }
+}

@@ -118,5 +118,65 @@
     "knife": false,
     "mode": 2,
     "count": 1
+  },
+  {
+    "name": "庇护",
+    "shortName": "庇护",
+    "buttonClass": "func_button",
+    "triggerId": ["8840"],
+    "cooldown": 50,
+    "team": 2,
+    "knife": false,
+    "soulEvent": "OnStartTouch",
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "暗影",
+    "shortName": "暗影",
+    "buttonClass": "func_button",
+    "triggerId": ["8858"],
+    "cooldown": 50,
+    "team": 2,
+    "knife": false,
+    "soulEvent": "OnStartTouch",
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "极冻",
+    "shortName": "极冻",
+    "buttonClass": "func_button",
+    "triggerId": ["8874"],
+    "cooldown": 50,
+    "team": 2,
+    "knife": false,
+    "soulEvent": "OnStartTouch",
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "爆炎",
+    "shortName": "爆炎",
+    "buttonClass": "func_button",
+    "triggerId": ["8890"],
+    "cooldown": 50,
+    "team": 2,
+    "knife": false,
+    "soulEvent": "OnStartTouch",
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "灭绝",
+    "shortName": "灭绝",
+    "buttonClass": "func_button",
+    "triggerId": ["8904"],
+    "cooldown": 50,
+    "team": 2,
+    "knife": false,
+    "soulEvent": "OnStartTouch",
+    "mode": 2,
+    "count": 1
   }
 ]

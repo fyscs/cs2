@@ -1,0 +1,91 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "----- 20 -----": {
+    "translation": "----- 20 -----"
+  },
+  "----- 30 -----": {
+    "translation": "----- 30 -----"
+  },
+  "zm tp in 10s": {
+    "translation": "僵尸10秒后传送"
+  },
+  "Main ----- 10 -----": {
+    "translation": "主路 ----- 10 -----"
+  },
+  "Trace ----- 10 -----": {
+    "translation": "侧路 ----- 10 -----"
+  },
+  "Zombies pollute the water curtain, and humans fail": {
+    "translation": "僵尸污染了水幕,人类失败了"
+  },
+  "zombies tp in 15 sec": {
+    "translation": "僵尸15秒后传送"
+  },
+  "-----zm tp in 10s------": {
+    "translation": "-----僵尸10秒后传送------"
+  },
+  "----- 40-----": {
+    "translation": "----- 40-----",
+    "blocked": true
+  },
+  "----- 5 -----": {
+    "translation": "----- 5 -----",
+    "blocked": true
+  },
+  "----- 45 -----": {
+    "translation": "----- 45 -----"
+  },
+  "----- 40 -----": {
+    "translation": "----- 40 -----",
+    "blocked": true
+  },
+  "-ZM TP IN 10s-": {
+    "translation": "-僵尸10秒后传送-"
+  },
+  "----- 10 -----": {
+    "translation": "----- 10 -----"
+  },
+  "-----170-----": {
+    "translation": "-----170-----"
+  },
+  "-----5-----": {
+    "translation": "-----5-----",
+    "blocked": true
+  },
+  "-----4-----": {
+    "translation": "-----4-----",
+    "blocked": true
+  },
+  "-----3-----": {
+    "translation": "-----3-----",
+    "blocked": true
+  },
+  "-----2-----": {
+    "translation": "-----2-----",
+    "blocked": true
+  },
+  "-----1-----": {
+    "translation": "-----1-----",
+    "blocked": true
+  },
+  "-----0-----": {
+    "translation": "-----0-----",
+    "blocked": true
+  },
+  "nuke in 10": {
+    "translation": "10秒后核爆"
+  },
+  "zm tp in 5 sec": {
+    "translation": "僵尸5秒后传送"
+  }
+}

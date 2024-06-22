@@ -1,0 +1,97 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Zombie Flamethrower -Shoot flame 3 sec. 80 cd": {
+    "translation": "僵尸火焰喷射器-喷射火焰3秒,80cd",
+    "blocked": true
+  },
+  "Zombie Speed -Speed up zombie around you for 3 sec. 60 cd": {
+    "translation": "僵尸加速-加速周围僵尸3秒,60cd",
+    "blocked": true
+  },
+  "Zombie Snow -Slow human around you for 3 sec. 30 cd": {
+    "translation": "僵尸冰冻-减速周围人类3秒,30cd",
+    "blocked": true
+  },
+  "The slate will open in 20 seconds": {
+    "translation": "石板将在20秒后打开"
+  },
+  "Human Fire -Freeze zombie 9 sec. 50 cd.": {
+    "translation": "人类火-燃烧僵尸9秒,50cd",
+    "blocked": true
+  },
+  "Human Ice -Freeze zombie 6 sec. 60 cd": {
+    "translation": "人类冰-冻结僵尸9秒,50cd",
+    "blocked": true
+  },
+  "Human Heal -Heal 200 hp,speed up 3 sec and Immune infection 5 sec. 65 cd.": {
+    "translation": "人类治疗-治疗200hp,加速3秒,免疫感染5秒,65cd.",
+    "blocked": true
+  },
+  "<< The door of satan open 60 second >>": {
+    "translation": "<< 撒旦之门60秒后打开 >>"
+  },
+  "<< 30 >>": {
+    "translation": "<< 30 >>"
+  },
+  "Trigger the final battle in 5 seconds": {
+    "translation": "5秒后触发终局之战"
+  },
+  "Ready to die?": {
+    "translation": "准备好下地狱了吗?"
+  },
+  "After 10 seconds, the platform will rise to meet the final challenge": {
+    "translation": "10秒后,平台将上升以迎接终局之战"
+  },
+  "Open the hole in 40 seconds": {
+    "translation": "在40秒后开启洞穴"
+  },
+  "Transfer AFK player in 10 seconds": {
+    "translation": "10秒后传送挂机玩家"
+  },
+  "Open the stone gate in 20 seconds": {
+    "translation": "20秒后开启石门"
+  },
+  "Defeat the guardian of ancient will": {
+    "translation": "打败远古意志的守护者"
+  },
+  "Send AFK player to level 2 in 5 seconds": {
+    "translation": "在5秒后将挂机玩家传送到到第二关"
+  },
+  "The iron door will break down in 30 seconds": {
+    "translation": "铁门将在30秒后破裂"
+  },
+  "Send AFK player to level 1 in 15 seconds": {
+    "translation": "在15秒后将挂机玩家传送到第一关"
+  },
+  "After 20 seconds, the stone slabs on both sides were destroyed": {
+    "translation": "20秒后,两边的石板会毁坏"
+  },
+  "Turn on the last transfer after 30 seconds and close after 10 seconds": {
+    "translation": "30秒后打开最后一次传输,10秒后关闭"
+  },
+  "< ze_Illusory_World >": {
+    "translation": "< 虚空幻界 >"
+  },
+  "< Map by BlackRock. >": {
+    "translation": "< 地图作者:BlackRock 地图汉化:墨鸢@Fys >"
+  },
+  "< CS2 Port by @Seth. >": {
+    "translation": "< 地图移植:Seth >"
+  },
+  "<--A human has picked White Knight-->": {
+    "translation": "<--有人类化身为了白骑士-->"
+  },
+  "<--Press E to attack,Top head E to use ultimate.-->": {
+    "translation": "<--按E攻击,向头顶放E使用终极.-->"
+  }
+}

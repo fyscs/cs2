@@ -9,4 +9,92 @@
   // clearTimer (bool) -> 清除所有倒计时
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
-{}
+{
+  "Marslab self-destructing in...": {
+    "translation": "火星实验室正在自毁中..."
+  },
+  "Airlock opening.": {
+    "translation": "气闸室正在开启."
+  },
+  "Airlock opening in 5 secs.": {
+    "translation": "气闸室将在5秒后开启.",
+    "blocked": true
+  },
+  "Airlock opening in 10 secs.": {
+    "translation": "气闸室将在10秒后开启.",
+    "blocked": true
+  },
+  "Airlock opening in 15 secs.": {
+    "translation": "气闸室将在15秒后开启."
+  },
+  "Holly Jolly-enerator Online :D": {
+    "translation": "欢乐发电机已上线 :D"
+  },
+  "Airlock opening in 20 secs.": {
+    "translation": "气闸室将在20秒后开启."
+  },
+  "Mako Generator Online ( ͡° ͜ʖ ͡°)": {
+    "translation": "Mako 发电机已上线 ( ͡° ͜ʖ ͡°)"
+  },
+  "Mini airlock opening in 5.": {
+    "translation": "小型气闸室将在5秒后开启."
+  },
+  "Pole doors closing.": {
+    "translation": "舱门正在关闭."
+  },
+  "Elevator broken.": {
+    "translation": "电梯坏了."
+  },
+  "Security airlock closing.": {
+    "translation": "安全气闸室正在关闭."
+  },
+  "Map made by Xquality, remixed by Santa, models from Luffaren": {
+    "translation": "作者:Xquality 音乐:Santa 模型:Luffaren 汉化:墨鸢@Fys"
+  },
+  "After a long trip to mars you finally land but something strange has happened...": {
+    "translation": "经过漫长的火星之旅,你终于着陆了,但发生了一些奇怪的事情..."
+  },
+  "IT'S CHRISTMAS!!!!!!!!!!!": {
+    "translation": "圣诞节到了!!!"
+  },
+  "Santa will punish naughty boys and girls who don't save Christmas...": {
+    "translation": "圣诞老人会惩罚那些不珍惜圣诞节.调皮捣蛋的男孩和女孩们..."
+  },
+  "Big and strong mommy tomboys kill zombies and save christmas on Mars...": {
+    "translation": "强壮的妈妈式假小子在火星上杀死僵尸并拯救圣诞节..."
+  },
+  "Pathetic and weak soyboys will make Santa do the job for them...": {
+    "translation": "可悲又软弱的软男会让圣诞老人替他们完成任务..."
+  },
+  "Good job, really, good job! Now you've done it! You pissed off the Fat Man!": {
+    "translation": "干得好,真的,干得好!现在你把事情搞砸了!你把圣诞老人惹毛了!"
+  },
+  "Bunker closing in 5 secs": {
+    "translation": "避难所将在5秒后关闭",
+    "blocked": true
+  },
+  "Bunker closing in 10 secs": {
+    "translation": "避难所将在10秒后关闭",
+    "blocked": true
+  },
+  "Bunker closing in 20 secs": {
+    "translation": "避难所将在20秒后关闭",
+    "blocked": true
+  },
+  "Bunker closing in 60 secs": {
+    "translation": "避难所将在60秒后关闭"
+  },
+  "Bunker closing in 40 secs": {
+    "translation": "避难所将在40秒后关闭",
+    "blocked": true
+  },
+  "Holly Jolly-enerator offline :(": {
+    "translation": "欢乐发电机已离线 :("
+  },
+  "Holly Jolly-enerator waiting for restart.": {
+    "translation": "欢乐发电机等待重启."
+  },
+  "Ho ho ho! Santa's comin' to Mars tonight fellas!": {
+    "translation": "哈哈哈!圣诞老人今晚要来火星了,伙计们!"
+  }
+}
