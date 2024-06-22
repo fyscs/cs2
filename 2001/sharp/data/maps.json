@@ -495,7 +495,7 @@
     "price": 700,
     "cooldown": 100,
     "nomination": true,
-    "admin": false
+    "admin": true
   },
 
   "ze_forius_just_run_p": {
