@@ -23,7 +23,7 @@
     "translation": "*** 星光之力已耗尽... ***"
   },
   "*** Zombies are coming!!! ***": {
-    "translation": "*** 尸笼已开!!! ***"
+    "translation": "*** 防守尸笼!!! ***"
   },
   "*** Its not over...... ***": {
     "translation": "*** 还没有结束...... ***"
@@ -158,7 +158,7 @@
     "translation": "<< 恶魔牢笼 >>"
   },
   "<< Flash Cannon >>": {
-    "translation": "<< 魔贯光杀炮 >>"
+    "translation": "<< 魔贯光杀炮 - 找大缝钻>>"
   },
   "<< Creation Shield >>": {
     "translation": "<< 血继限界 - 停枪 >>"
@@ -167,7 +167,7 @@
     "translation": "** 电梯将在30秒后离开 **"
   },
   "** BOSS FIGHT in 45 seconds **": {
-    "translation": "** 在45秒后击败BOSS **"
+    "translation": "** 45秒后传送BOSS房 **"
   },
   "** Hold 25 more seconds **": {
     "translation": "** 在坚守25秒 **"
