@@ -24,7 +24,7 @@
     {
       "iterator": "Ehe_Guardian_HP",
       "hitbox": "Ehe_Guardian_Body",
-      "display": "Guardian"
+      "display": "小学生"
     },
     {
       "iterator": "Airship_Ending_Boss_Health",
@@ -37,12 +37,12 @@
       "counter": "Boss_Overlay_Counter",
       "increase": true,
       "hitbox": "Guard_1_Physbox",
-      "display": "Guardian"
+      "display": "小学生"
     },
     {
       "iterator": "Ehe_Dragon_HP",
       "hitbox": "Ehe_Dragon_Body",
-      "display": "Dragon"
+      "display": "龙"
     },
     {
       "iterator": "Boss_Health",
@@ -50,7 +50,7 @@
       "counter": "Boss_Overlay_Counter",
       "increase": true,
       "hitbox": "Boss_Armor_Body",
-      "display": "Armor"
+      "display": "龙"
     }
   ],
   "Monsters": [
