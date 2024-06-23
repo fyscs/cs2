@@ -33,7 +33,7 @@
     },
     {
       "iterator": "Guard_Health",
-      "backup": "Guard_Health_Init",
+      "backup": "",
       "counter": "Boss_Overlay_Counter",
       "increase": true,
       "hitbox": "Guard_1_Physbox",
@@ -46,7 +46,7 @@
     },
     {
       "iterator": "Boss_Health",
-      "backup": "Boss_Health_Init",
+      "backup": "",
       "counter": "Boss_Overlay_Counter",
       "increase": true,
       "hitbox": "Boss_Armor_Body",
