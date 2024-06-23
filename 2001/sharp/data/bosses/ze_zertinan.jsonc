@@ -1,0 +1,83 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Drace2_Health",
+      "backup": "Drace2_HealthInit",
+      "counter": "Drace2_HealthCount",
+      "increase": true,
+      "hitbox": "Drace2_Hitbox",
+      "display": "朵蕾丝"
+    },
+    {
+      "iterator": "Gabranth2_Health",
+      "hitbox": "Gabranth2_Hitbox",
+      "display": "加布拉斯"
+    },
+    {
+      "iterator": "Gabranth_Health",
+      "hitbox": "Gabranth_Hitbox",
+      "display": "加布拉斯"
+    },
+    {
+      "iterator": "Shemhazai_Health",
+      "backup": "Shemhazai_HealthInit",
+      "counter": "Shemhazai_HealthCount",
+      "increase": true,
+      "hitbox": "Shemhazai_Hitbox",
+      "display": "修米哈萨"
+    },
+    {
+      "iterator": "Drace_Health",
+      "backup": "Drace_HealthInit",
+      "counter": "Drace_HealthCount",
+      "increase": true,
+      "hitbox": "Drace_Hitbox",
+      "display": "朵蕾丝"
+    },
+    {
+      "iterator": "podir_Health",
+      "backup": "podir_HealthInit",
+      "counter": "podir_HealthCount",
+      "increase": true,
+      "hitbox": "podir_Hitbox",
+      "display": "珐姆弗里特"
+    },
+    {
+      "iterator": "Ultima_Health",
+      "backup": "Ultima_HealthInit",
+      "counter": "Ultima_HealthCount",
+      "increase": true,
+      "hitbox": "Ultima_Hitbox",
+      "display": "阿鲁偍玛"
+    },
+    {
+      "iterator": "Adrammelech_Health",
+      "backup": "Adrammelech_HealthInit",
+      "counter": "Adrammelech_HealthCount",
+      "increase": true,
+      "hitbox": "Adrammelech_Hitbox",
+      "display": "亚德拉梅利克"
+    }
+  ]
+}
