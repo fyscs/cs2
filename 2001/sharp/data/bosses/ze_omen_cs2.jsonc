@@ -20,21 +20,46 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Counters": [
+  "Breakables": [
     {
       "target": "l1_plant_hitbox",
-      "display": "Plant",
-      "iterator": ""
+      "display": "Plant"
+    },
+    {
+      "target": "l2_end_hitbox",
+      "display": "l2_end_idgaf"
     },
     {
       "target": "l2_boss_hitbox",
-      "display": "CryStal",
-      "iterator": ""
+      "display": "CryStal"
     },
     {
       "target": "l3_boss_hitbox",
-      "display": "Block",
-      "iterator": ""
+      "display": "Block"
+    }
+  ],
+  "Counters": [
+    {
+      "display": "SubBox",
+      "iterator": "l3_subbox_sum"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "l2_boss_barA_sum",
+      "display": "barA"
+    },
+    {
+      "identity": "l2_boss_barB_sum",
+      "display": "barB"
+    },
+    {
+      "identity": "l2_boss_barC_sum",
+      "display": "barC"
+    },
+    {
+      "identity": "l2_boss_barD_sum",
+      "display": "barD"
     }
   ]
 }
