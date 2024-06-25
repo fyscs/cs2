@@ -832,7 +832,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_minecraft_p": {
     "certainTimes": [-1],
