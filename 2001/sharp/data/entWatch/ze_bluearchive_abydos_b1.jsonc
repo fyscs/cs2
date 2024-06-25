@@ -26,7 +26,7 @@
     "buttonClass": "game_ui",
     "hammerId": "17762",
     "triggerId": ["17763"],
-    "cooldown": 60.1,
+    "cooldown": 60,
     "team": 3,
     "knife": true,
     "mode": 2,
