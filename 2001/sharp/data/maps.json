@@ -831,8 +831,8 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
-    "nomination": false,
-    "admin": false
+    "nomination": true,
+    "admin": true
   },
   "ze_minecraft_p": {
     "certainTimes": [-1],
