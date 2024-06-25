@@ -54,7 +54,7 @@
     "id": "2290",
     "cd": 300,
     "mode": 0,
-    "name": "西部无战事",
+    "name": "西线无战事",
     "class": "func_button",
     "event": "OnPressed"
   },
