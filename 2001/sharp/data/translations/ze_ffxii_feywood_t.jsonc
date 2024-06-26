@@ -44,7 +44,8 @@
     "translation": "**欢迎游玩 幻妖之森**"
   },
   "**Special thanks to Kaesar Batnik_Ref.smd Kaem Hannibal[SPA] (effects from his maps) and Slayerdragon**": {
-    "translation": "**特别感谢: Kaesar Batnik_Ref.smd Kaem Hannibal[SPA], Slayerdragon**"
+    "translation": "**特别感谢: Kaesar Batnik_Ref.smd Kaem Hannibal[SPA], Slayerdragon**",
+    "blocked": true
   },
   "** CONGRATILATIONS!!! [YOU WON LEVEL 5] **": {
     "translation": "** 恭喜通关 **"
@@ -425,7 +426,7 @@
     "translation": "**做得好!20秒后大门打开**"
   },
   "CACTUS SIDEQUEST STARTED - FIND A CACTUS TO GET A LEVEL\\n ONLY 1 HUMAN CAN GET A LEVEL | ONLY ONCE AND ONLY ON EASY MODE": {
-    "translation": "SIDEQUEST启动-找到一个仙人掌来提升你的等级\\有且只有一个人可以获得等级|仅一次且仅在简易模式下”"
+    "translation": "SIDEQUEST启动-找到一个仙人掌来提升你的等级\\有且只有一个人可以获得等级|仅一次且仅在简易模式下"
   },
   "**SHOOT THE DRAGON BEFORE ZOMBIES WILL GET US**": {
     "translation": "**在僵尸抓到我们之前打败龙**"
@@ -650,7 +651,7 @@
     "translation": "**支线: 找到仙人掌!奖励: 提升Lv.1**"
   },
   "YOU FOUND THE CACTUS. YOU GOT 100 EXP AND LEVELED UP": {
-    "translation": "恭喜你找到了仙人掌。你得到了100个经验值并提升一级"
+    "translation": "恭喜你找到了仙人掌.你得到了100个经验值并提升一级"
   },
   "**A PLAYER HAS ACQUIRED BERSERK MAGICK**": {
     "translation": "**人类获得补给道具(抬头按E切换弹药/加速)**"
