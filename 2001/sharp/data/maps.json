@@ -1212,6 +1212,13 @@
     "nomination": false,
     "admin": true
   },
+  "ze_silent_hill_2_illusion": {
+    "certainTimes": [-1],
+    "price": 550,
+    "cooldown": 80,
+    "nomination": false,
+    "admin": false
+  },
   "ze_skygarden": {
     "certainTimes": [-1],
     "price": 500,
