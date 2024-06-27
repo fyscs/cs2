@@ -426,7 +426,7 @@
     "translation": "**做得好!20秒后大门打开**"
   },
   "CACTUS SIDEQUEST STARTED - FIND A CACTUS TO GET A LEVEL\\n ONLY 1 HUMAN CAN GET A LEVEL | ONLY ONCE AND ONLY ON EASY MODE": {
-    "translation": "SIDEQUEST启动-找到一个仙人掌来提升你的等级\\有且只有一个人可以获得等级|仅一次且仅在简易模式下"
+    "translation": "SIDEQUEST启动,找到一个仙人掌来提升你的等级,有且只有一个人可以获得等级,仅一次且仅在简易模式下"
   },
   "**SHOOT THE DRAGON BEFORE ZOMBIES WILL GET US**": {
     "translation": "**在僵尸抓到我们之前打败龙**"
@@ -531,22 +531,22 @@
     "translation": "热身回合-等待玩家加入地图"
   },
  "[MAP HINT MASTER] EVERY ITEM APART FROM BERSERK ON THIS MAP CAN \nBE LEVELED UP - MAX LEVEL IS 3": {
-    "translation": "[提示]此地图的神器可以通关来升级/最高级别为三"
+    "translation": "[提示]此地图的神器可以通关来升级,最高级别为三"
   },
   "[MAP HINT MASTER] YOUR START LEVEL IS 1. \nTO GET LEVELS YOU MUST WIN STAGES": {
-    "translation": "[提示]你的初始等级为一/你必须通关才能升级"
+    "translation": "[提示]你的初始等级为一,你必须通关才能升级"
   },
   "[MAP HINT MASTER] HUMAN ITEMS CAN AFFECT ON BOSSES. \nBUT BOSSES CAN HAVE IMMUNITY TO SOME OF ITEMS": {
-    "translation": "[提示]人类的神器可以影响boss/部分BOSS对神器具有免疫力"
+    "translation": "[提示]人类的神器可以影响Boss,部分BOSS对神器具有免疫力"
   },
   "[MAP HINT MASTER] THE MAP HAS 11 SPECIAL ITEMS - 7 FOR HUMANS \nAND 4 ITEMS FOR ZOMBIES": {
-    "translation": "[提示]地图总共拥有十一个神器-其中七个人类神器,四个僵尸神器"
+    "translation": "[提示]地图总共拥有十一个神器,其中七个人类神器,四个僵尸神器"
   },
   "[MAP HINT MASTER] HUMAN ITEMS THAT CAN BE LEVELED UP \nHAVE 55 SECONDS COOLDOWN AND ZOMBIE ITEMS - 60 SECONDS COOLDOWN": {
     "translation": "[提示]人类可以升级的神器平均CD为五十五秒,僵尸神器六十秒"
   },
   "[MAP HINT MASTER] YOU NEED 100 EXP TO GET LEVEL TO HUMAN ITEMS \nAND 200 EXP TO GET LEVEL TO ZOMBIE ITEMS": {
-    "translation": "[提示]人类神器需要一百经验(通关一回合)才能升级/僵尸神器则需要两百经验(通关二回合)升级"
+    "translation": "[提示]人类神器需要一百经验(通关一回合)才能升级,僵尸神器则需要两百经验(通关二回合)升级"
   },
   "**YOU WILL ENTER THE ARENA IN 10 SECONDS****": {
     "translation": "**10秒后可以进入矿穴深处****"
