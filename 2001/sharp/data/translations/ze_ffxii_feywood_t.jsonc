@@ -69,13 +69,13 @@
     "translation": "**..这是什么?!**"
   },
   "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**": {
-    "translation": "**人类获得冰(Lv.1)**"
+    "translation": "**人类获得冰(等级一)**"
   },
   "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**": {
-    "translation": "**人类获得冰(Lv.2)**"
+    "translation": "**人类获得冰(等级二)**"
   },
   "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**": {
-    "translation": "**人类获得冰(Lv.3)**"
+    "translation": "**人类获得冰(等级三)**"
   },
   "**ZOMBIES HAVE ESCAPED**": {
     "translation": "**僵尸逃脱了**"
@@ -108,31 +108,31 @@
     "translation": "**墓穴大门20秒后打开**"
   },
   "+100 EXP GAINED. YOU HAVE LEVELED UP": {
-    "translation": "获得100 EXP. 你成功升级了"
+    "translation": "获得一百EXP. 你成功升级了"
   },
   "** GOOD JOB [YOU WON LEVEL 3] **": {
     "translation": "** 干的漂亮(你赢得了第三关) **"
   },
   "**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**": {
-    "translation": "**僵尸获得烈火(Lv.1)**"
+    "translation": "**僵尸获得烈火(等级一)**"
   },
   "**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**": {
-    "translation": "**僵尸获得火(Lv.2)**"
+    "translation": "**僵尸获得火(等级二)**"
   },
   "**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 3)**": {
-    "translation": "**僵尸获得火(Lv.3)**"
+    "translation": "**僵尸获得火(等级三)**"
   },
   "**THE SOLO WINNER WILL BE THE KING OF THE NEXT ROUND**": {
     "translation": "**SOLO的人将会是下一轮的冠军**"
   },
   "**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**": {
-    "translation": "**人类获得风(Lv.1)**"
+    "translation": "**人类获得风(等级一)**"
   },
   "**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**": {
-    "translation": "**人类获得风(Lv.2)**"
+    "translation": "**人类获得风(等级二)**"
   },
   "**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**": {
-    "translation": "**人类获得风(Lv.3)**"
+    "translation": "**人类获得风(等级三)**"
   },
   "** GOOD JOB [YOU WON LEVEL 1] **": {
     "translation": "** 干的漂亮(你成功通关了第一关) **"
@@ -243,7 +243,7 @@
     "translation": "**陆行鸟重拳出击**"
   },
   "**FIND 300 GIL TO UNLOCK CHOCOBOS ON SPAWN**": {
-    "translation": "**找到300gil解锁陆行鸟**"
+    "translation": "**找到三百gil解锁陆行鸟**"
   },
   "**DEFEND THE GROUND FOR 30 SECONDS**": {
     "translation": "**守住这里30秒**"
@@ -267,13 +267,13 @@
     "translation": "**飞船受到了守护者的攻击**"
   },
   "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**": {
-    "translation": "**僵尸获得秒杀(Lv.1)**"
+    "translation": "**僵尸获得秒杀(等级一)**"
   },
   "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**": {
-    "translation": "**僵尸获得秒杀(Lv.2)**"
+    "translation": "**僵尸获得秒杀(等级二)**"
   },
   "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 3)**": {
-    "translation": "**僵尸获得秒杀(Lv.3)**"
+    "translation": "**僵尸获得秒杀(等级三)**"
   },
   "**Welcome to Garland airship**": {
     "translation": "**欢迎来到加兰德飞船**"
@@ -327,13 +327,13 @@
     "translation": "剩余5秒"
   },
   "**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**": {
-    "translation": "**僵尸获得黑洞(Lv.1)**"
+    "translation": "**僵尸获得黑洞(等级一)**"
   },
   "**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**": {
-    "translation": "**僵尸获得黑洞(Lv.2)**"
+    "translation": "**僵尸获得黑洞(等级二)**"
   },
   "**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 3)**": {
-    "translation": "**僵尸获得黑洞(Lv.3)**"
+    "translation": "**僵尸获得黑洞(等级三)**"
   },
   "**WE HAVE DEFEATED CHAOS**": {
     "translation": "**轮回王: 小喽啰们下次见**"
@@ -402,7 +402,7 @@
     "translation": "** 管理员在调关房中选择了EX模式 **"
   },
   "**CHUCHULAINN HAS HEALED 150 HP**": {
-    "translation": "**不净王回复了150hp HP**"
+    "translation": "**不净王回复了一百五HP**"
   },
   "**CHUCHULAINN HAS USED SHIELD(YOU CAN'T USE ITEMS FOR 10 SEC)**": {
     "translation": "**不净王使用了神器沉默(10秒内人类神器沉默)**"
@@ -429,13 +429,13 @@
     "translation": "**在僵尸抓到我们之前打败龙**"
   },
   "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**": {
-    "translation": "**人类获得黑洞(Lv.1)**"
+    "translation": "**人类获得黑洞(等级一)**"
   },
   "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**": {
-    "translation": "**人类获得黑洞(Lv.2)**"
+    "translation": "**人类获得黑洞(等级二)**"
   },
   "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**": {
-    "translation": "**人类获得黑洞(Lv.3)**"
+    "translation": "**人类获得黑洞(等级三)**"
   },
   "**ZODIARK READIES FLARE**": {
     "translation": "**耀斑**"
@@ -453,13 +453,13 @@
     "translation": "**龙毒喷吐**"
   },
   "**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**": {
-    "translation": "**人类获得奶(Lv.1)**"
+    "translation": "**人类获得奶(等级一)**"
   },
   "**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**": {
-    "translation": "**人类获得奶(Lv.2)**"
+    "translation": "**人类获得奶(等级二)**"
   },
   "**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**": {
-    "translation": "**人类获得奶(Lv.3)**"
+    "translation": "**人类获得奶(等级三)**"
   },
   "**OH NO! THIS IS A CHAOS**": {
     "translation": "**轮回王: 小喽啰们又来跳刀了**"
@@ -495,13 +495,13 @@
     "translation": "困难模式 - 探索葛尔摩大密林,寻找丛林墓穴. ."
   },
   "**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**": {
-    "translation": "**僵尸获得治疗(Lv.1)**"
+    "translation": "**僵尸获得治疗(等级一)**"
   },
   "**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 2)**": {
-    "translation": "**僵尸获得治疗(Lv.2)**"
+    "translation": "**僵尸获得治疗(等级二)**"
   },
   "**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 3)**": {
-    "translation": "**僵尸获得治疗(Lv.3)**"
+    "translation": "**僵尸获得治疗(等级三)**"
   },
   "**CACTUAR BLOCKED THE ROAD**SHOOT HIM!**": {
     "translation": "**仙人掌挡住了去路!攻击它!**"
@@ -549,13 +549,13 @@
     "translation": "**欧我的上帝,看看是谁SOLO了!!!**"
   },
   "**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**": {
-    "translation": "*人类获得火(Lv.1)**"
+    "translation": "*人类获得火(等级一)**"
   },
   "**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**": {
-    "translation": "**人类获得火(Lv.2)**"
+    "translation": "**人类获得火(等级二)**"
   },
   "**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**": {
-    "translation": "**人类获得火(Lv.3)**"
+    "translation": "**人类获得火(等级三)**"
   },
   "**THE GATE WILL OPEN IN 20 SECONDS**": {
     "translation": "**大门20秒后打开**"
@@ -588,19 +588,19 @@
     "translation": "到桥的另一边,防守30秒"
   },
   "HASTE +1": {
-    "translation": "急速+1"
+    "translation": "急速+一"
   },
   "HASTE +2": {
-    "translation": "急速+2"
+    "translation": "急速+二"
   },
   "HASTE +3": {
-    "translation": "急速+3"
+    "translation": "急速+三"
   },
   "HASTE +4": {
-    "translation": "急速+4"
+    "translation": "急速+四"
   },
   "HASTE +5(MAX POWER)": {
-    "translation": "急速+5(已升满)"
+    "translation": "急速+五(已升满)"
   },
   "**THE BOSS IS DAMAGED BUT NOW HE'S THE MOST DANGEROUS**": {
     "translation": "**佐迪亚克受伤了!但是他还是很危险**"
@@ -627,10 +627,10 @@
     "translation": "**僵尸陆行鸟已被拾取**"
   },
   "**Cactus found. The player who did it got 1 level**": {
-    "translation": "**支线: 找到仙人掌!奖励: 提升Lv.1**"
+    "translation": "**支线: 找到仙人掌!奖励: 提升一个等级**"
   },
   "YOU FOUND THE CACTUS. YOU GOT 100 EXP AND LEVELED UP": {
-    "translation": "恭喜你找到了仙人掌.你得到了100个经验值并提升一级"
+    "translation": "恭喜你找到了仙人掌.你得到了一百个经验值并提升一级"
   },
   "**A PLAYER HAS ACQUIRED BERSERK MAGICK**": {
     "translation": "**人类获得补给道具(抬头按E切换弹药/加速)**"
