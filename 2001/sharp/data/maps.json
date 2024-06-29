@@ -156,9 +156,9 @@
   },
   "ze_basic_geometric": {
     "certainTimes": [-1],
-    "price": 300,
+    "price": 500,
     "cooldown": 80,
-    "nomination": false,
+    "nomination": true,
     "admin": false
   },
   "ze_bathroom": {
