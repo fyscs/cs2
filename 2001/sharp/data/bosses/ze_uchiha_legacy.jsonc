@@ -1,0 +1,91 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "654321234_susano_Health",
+      "backup": "654321234_susano_HealthBackup",
+      "counter": "654321234_susano_HealthCount",
+      "increase": true,
+      "hitbox": "654321234_susano_Hitbox",
+      "display": "须佐能乎终极形态"
+    },
+    {
+      "iterator": "s2_sasuke_final_health",
+      "backup": "s2_sasuke_final_health_backup",
+      "counter": "s2_sasuke_final_HealthCount",
+      "increase": true,
+      "hitbox": "sasuke_ending_hitbox",
+      "display": "宇智波佐助"
+    },
+    {
+      "iterator": "6543_madara_appear_counter",
+      "hitbox": "6543_madara_appear_hitbox",
+      "display": "Madara"
+    },
+    {
+      "iterator": "obito_Boss_Health",
+      "backup": "obito_Boss_HealthBackup",
+      "counter": "obito_Boss_HealthCount",
+      "increase": true,
+      "hitbox": "obito_boss_Hitbox",
+      "display": "宇智波带土"
+    },
+    {
+      "iterator": "345876_madara_paradise_counter",
+      "hitbox": "345876_madara_paradise_hitbox",
+      "display": "Madara"
+    },
+    {
+      "iterator": "madara_Boss_Health",
+      "backup": "madara_Boss_HealthBackup",
+      "counter": "madara_Boss_HealthCount",
+      "increase": true,
+      "hitbox": "madara_boss_Hitbox",
+      "display": "宇智波斑"
+    },
+    {
+      "iterator": "qsdfg_sasuke_Boss_Health",
+      "backup": "qsdfg_sasuke_Boss_HealthBackup",
+      "counter": "qsdfg_sasuke_Boss_HealthCount",
+      "increase": true,
+      "hitbox": "qsdfg_sasuke_boss_Hitbox",
+      "display": "宇智波佐助"
+    },
+    {
+      "iterator": "exsdfgh_madara_Health",
+      "backup": "exsdfgh_madara_HealthBackup",
+      "counter": "exsdfgh_madara_HealthCount",
+      "increase": true,
+      "hitbox": "exsdfgh_madara_Hitbox",
+      "display": "LaserFinal"
+    },
+    {
+      "iterator": "s1_itachi_Boss_Health",
+      "backup": "s1_itachi_Boss_HealthBackup",
+      "counter": "s1_itachi_Boss_HealthCount",
+      "increase": true,
+      "hitbox": "s1_itachi_boss_break",
+      "display": "宇智波鼬"
+    }
+  ]
+}
