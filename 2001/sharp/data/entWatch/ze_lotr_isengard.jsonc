@@ -80,7 +80,7 @@
     "buttonClass": "game_ui",
     "hammerId": "20790",
     "triggerId": ["3600"],
-    "team": 2,
+    "team": 3,
     "knife": true,
     "mode": 0,
     "count": 1
