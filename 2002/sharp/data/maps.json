@@ -1,0 +1,93 @@
+{
+  "ttt_apehouse_night": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false
+  },
+  "ttt_bikinibottom": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  },
+  "ttt_closequarters": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  },
+  "ttt_community_pool_2018": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  },
+  "ttt_edgewinter": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  },
+  "ttt_egoffice": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  },
+  "ttt_highschool": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  },
+  "ttt_murdertown": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  },
+  "ttt_nipperhouse2": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  },
+  "ttt_nuketown": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  },
+  "ttt_terminal": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  },
+  "ttt_waterpark_night_cs2": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  },
+  "ttt_office_night": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  }
+}
