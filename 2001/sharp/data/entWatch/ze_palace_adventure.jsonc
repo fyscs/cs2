@@ -57,6 +57,7 @@
     "name": "火",
     "shortName": "火",
     "buttonClass": "func_button",
+    "hammerId": "864",
     "cooldown": 50,
     "team": 3,
     "knife": false,
