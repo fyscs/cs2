@@ -82,5 +82,12 @@
     "cooldown": 10,
     "nomination": false,
     "admin": false
+  },
+  "ttt_office_night": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
   }
 }
