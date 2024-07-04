@@ -84,6 +84,13 @@
     "nomination": false,
     "admin": true
   },
+  "ze_ardenweald": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
   "ze_artika_base_p": {
     "certainTimes": [-1],
     "price": 300,
