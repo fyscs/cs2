@@ -995,6 +995,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_palace_adventure": {
+    "certainTimes": [-1],
+    "price": 550,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
   "ze_panic_escape_p": {
     "certainTimes": [-1],
     "price": 300,
