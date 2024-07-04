@@ -65,7 +65,7 @@
     "translation": "移植: Hephasfos 汉化:Zeyu1"
   },
   "<< What are you doing??? >>": {
-    "translation": "<< 你在干什么??? >>"
+    "translation": "<< 你在干什么???憋刷尸笼了!! >>"
   },
   "<< DeathRun Complete !!! >>": {
     "translation": "<< 死亡奔跑 已完成!!! >>"
@@ -92,7 +92,7 @@
     "translation": "<< solo(孤儿)模式 >>"
   },
   "<< DEFENSE MODE >>": {
-    "translation": "<< 防守模式DE >>"
+    "translation": "<< 防守模式 >>"
   },
   "<< BUTTON MODE >>": {
     "translation": "<< 按钮模式 >>"
@@ -218,7 +218,7 @@
     "translation": "<< 你做到了 >>"
   },
   "<< teleport human >>": {
-    "translation": "<< 人类传送n >>"
+    "translation": "<< 人类传送 >>"
   },
   "<< zombie teleport in 5 seconds >>": {
     "translation": "<< 5秒后僵尸传送 >>"
@@ -236,7 +236,7 @@
     "translation": "<< 桥出现了 >>"
   },
   "<< teleport in 30 seconds >>": {
-    "translation": "<< 30秒后传送s >>"
+    "translation": "<< 30秒后传送 >>"
   },
   "<< After a little time, only 1 platform will be safe >>": {
     "translation": "<< 将仅有一个平台是安全的 >>"
