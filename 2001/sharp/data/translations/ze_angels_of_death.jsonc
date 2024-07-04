@@ -1,0 +1,1339 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "lv2": {
+    "translation": "第二关"
+  },
+  "*ray*Zack, wake up. I brought the medicine": {
+    "translation": "*瑞依*扎克, 醒一醒. 我把药带来了"
+  },
+  "*zack*Hey, ray, what's the reason you're trying so hard to help me": {
+    "translation": "*扎克*恩姆,瑞依,你这么拼命帮助我的理由是什么?"
+  },
+  "*ray*Because Zack you are my God": {
+    "translation": "*瑞依*因为扎克,你是我的神....."
+  },
+  "*zack*Why are you saying such disgusting things": {
+    "translation": "*扎克*为什么你要说这么恶心的话...."
+  },
+  "*zack*...": {
+    "translation": "*扎克*..."
+  },
+  "*zack*We'll leave when we're done": {
+    "translation": "*扎克*等我完事就走吧."
+  },
+  "Close the elevator door after 15 seconds": {
+    "translation": "电梯大门将在15秒后关闭"
+  },
+  "nuke in 5 seconds": {
+    "translation": "核弹5秒后到达"
+  },
+  "Zombies will teleport in 10 seconds": {
+    "translation": "僵尸10秒后将传送"
+  },
+  "*gray*who are you?": {
+    "translation": "*格雷*你是谁?"
+  },
+  "*gray*I'm the priest of this church, gray": {
+    "translation": "*格雷*我是这个教会的神父,格雷"
+  },
+  "*ray*My name is Rachel Gardner...": {
+    "translation": "*瑞依*我叫瑞吉儿加德纳..."
+  },
+  "*gray*What are you looking for?": {
+    "translation": "*格雷*你在找什么东西吗?"
+  },
+  "*ray*I'm looking for something to stop the bleeding": {
+    "translation": "*瑞依*我在找止血药"
+  },
+  "*gray*Unfortunately, there is no medicine here that can be used for treatment": {
+    "translation": "*格雷*很遗憾,这里没有用于治疗的药物"
+  },
+  "*gray*Only Danny has": {
+    "translation": "*格雷*只有丹尼的楼层有"
+  },
+  "*gray*But if you want to go, you must accept some small trials": {
+    "translation": "*格雷*但是如果你想去,你得亲自来接受我的小试炼."
+  },
+  "*gray*I just want to know who you are": {
+    "translation": "*格雷*我只是想知道你是谁"
+  },
+  "*ray*... I accept your trial": {
+    "translation": "*瑞依*... 我接受"
+  },
+  "*ray*Zack is still waiting for me zack": {
+    "translation": "*瑞依*扎克还在等着我回去."
+  },
+  "*ray*Don't get in my way": {
+    "translation": "*瑞依*碍事!"
+  },
+  "Defend for 30 seconds": {
+    "translation": "守住30秒"
+  },
+  "The other door will open in 10 seconds": {
+    "translation": "另一扇门将在10秒后开启"
+  },
+  "*ray*Another strange place": {
+    "translation": "*瑞依*又来到一个奇怪的地方"
+  },
+  "*ray*I have to hurry to save people now": {
+    "translation": "*瑞依*我还急着去救人啊!"
+  },
+  "The door will break in 15 seconds": {
+    "translation": "门将在15秒后碎裂"
+  },
+  "*gray*Why did you wake up": {
+    "translation": "*格雷*你怎么会醒过来."
+  },
+  "*ray*A series of strange things on this floor are illusions": {
+    "translation": "*瑞依*此层万物皆幻象"
+  },
+  "*ray*It was my God who woke me up": {
+    "translation": "*瑞依*心中有神自清醒"
+  },
+  "*gray*It seems that I failed to purify the witch": {
+    "translation": "*格雷*???看起来我没能净化魔女"
+  },
+  "*ray*Now, hand in the medicine": {
+    "translation": "*瑞依*彳亍，把药交出来."
+  },
+  "*gray*Well, the medicine is in the dark door next to the bookcase": {
+    "translation": "*格雷*女子口巴,药就在书柜旁边的暗门中"
+  },
+  "*gray*A sad witch who only loves herself": {
+    "translation": "*格雷*你这个人只在会你自己呢"
+  },
+  "*gray*Next will be the witch trial": {
+    "translation": "*格雷*接下来要审判魔女"
+  },
+  "*gray*The gods love pure people": {
+    "translation": "*格雷*神会赐福清纯之人.."
+  },
+  "*gray*Now I doubt that you are a witch and deceived my angels": {
+    "translation": "*格雷*现在,我怀疑你是魔女,欺骗了我的天使们..."
+  },
+  "*gray*Next, let's invite witness Cathy to present his testimony": {
+    "translation": "*格雷*接下来,请证人凯西来阐述观点."
+  },
+  "*cathy*The woman standing here looks gentle and elegant": {
+    "translation": "*凯西*这个女人看上去温文尔雅"
+  },
+  "*cathy*But her heart was dark": {
+    "translation": "*凯西*其实就是个粉切黑"
+  },
+  "*cathy*He is a witch worthy of the name": {
+    "translation": "*凯西*她是一个魔女,符合无可置疑原则"
+  },
+  "*cathy*I asked for her waterboarding": {
+    "translation": "*凯西*我请求对她使用水刑."
+  },
+  "*gray*That's enough. You don't have the right to use punishment": {
+    "translation": "*格雷*?分不清大小王?你没权利用刑罚."
+  },
+  "*gray*Eddie, can you prove her guilt": {
+    "translation": "*格雷*艾迪,你可以证明他的罪孽吗?"
+  },
+  "*eddie*no problem": {
+    "translation": "*艾迪*冇门忒啊,啊sir"
+  },
+  "*eddie*My actions are all for her": {
+    "translation": "*艾迪*我的一切行动都是为了瑞吉儿"
+  },
+  "*eddie*But Rachel didn't think so": {
+    "translation": "*艾迪*但是她从没有考虑过这些"
+  },
+  "*eddie*He acted for himself": {
+    "translation": "*艾迪*他只在乎他自己呢"
+  },
+  "*eddie*You are so self willed and selfish": {
+    "translation": "*艾迪*你太自私任性了"
+  },
+  "*eddie*Finally, I was killed by Zack and lay alone in the cemetery": {
+    "translation": "*艾迪*最后我还被扎克杀死,独自一人躺在墓地."
+  },
+  "*eddie*I asked for the use of needles against her": {
+    "translation": "*艾迪*我请求对她使用针刑"
+  },
+  "*gray*only this and nothing more": {
+    "translation": "*格雷*到此为止"
+  },
+  "*gray*Next witness, please": {
+    "translation": "*格雷*有请下一位证人"
+  },
+  "*danny*It's my turn at last": {
+    "translation": "*丹尼*终于到我了o O"
+  },
+  "*danny*I have to talk about her charm": {
+    "translation": "*丹尼*我必须要将她的魅力介绍给你们"
+  },
+  "*danny*At that time, I was always looking for my ideal eyes": {
+    "translation": "*丹尼*那时候,我还在寻找我理想中的瞳o O"
+  },
+  "*danny*Eyes that are still alive, but have died forever": {
+    "translation": "*丹尼y*明明还活着,却永远死去的双眼"
+  },
+  "*danny*At this time, I met her": {
+    "translation": "*丹尼*就在这时我遇见了她"
+  },
+  "*danny*Her eyes are what I've been looking for": {
+    "translation": "*丹尼*毫无疑问,这是我的梦中情眼Ou<"
+  },
+  "*danny*There is no doubt that her heart is abnormal": {
+    "translation": "*丹尼*她的内心不正常"
+  },
+  "*danny*If it's about her charm, I can it in more detail": {
+    "translation": "*丹尼*如果是关于他的魅力,我还能更加详细点."
+  },
+  "*gray*That's enough. There's no need to listen any more": {
+    "translation": "*格雷*够了,有痴汉,麻了"
+  },
+  "*gray*The witness can leave the scene": {
+    "translation": "*格雷*证人有序退场"
+  },
+  "*gray*Rachel Gardner, your verdict has been reached": {
+    "translation": "*格雷*瑞吉儿加德纳,你的审判已经有结论"
+  },
+  "*gray*I declare the verdict": {
+    "translation": "*格雷*我现在宣判"
+  },
+  "*gray*Rachel Gardner is the witch": {
+    "translation": "*格雷*瑞吉儿加德纳是魔女"
+  },
+  "*gray*Now use fire": {
+    "translation": "格雷*これは憎悪によって磨かれた我が魂の咆哮!La Grondement Du Haine!"
+  },
+  "The door will open in 15 seconds": {
+    "translation": "死守15秒"
+  },
+  "ray*There's a sweet smell here...": {
+    "translation": "瑞依*这里有甜甜的香味..."
+  },
+  "ray*It feels strange": {
+    "translation": "瑞依*感觉有点怪"
+  },
+  "The confessional opens in 15 seconds": {
+    "translation": "忏悔室15秒后开放"
+  },
+  "ray*The sweet smell seems to have become stronger...": {
+    "translation": "瑞依*甜味更加浓烈了..."
+  },
+  "The door of repentance will open in 10 seconds": {
+    "translation": "忏悔之门10秒后打开"
+  },
+  "Defend for 15 seconds": {
+    "translation": "守住15秒"
+  },
+  "Zombies will teleport in 5 seconds": {
+    "translation": "僵尸在5秒后传送"
+  },
+  "The mirror will break in 10 seconds": {
+    "translation": "镜子将在10秒后破碎"
+  },
+  "*ray* zack!": {
+    "translation": "*瑞依* 扎克!"
+  },
+  "*zack*You're back safely": {
+    "translation": "*扎克*你平安回来了啊"
+  },
+  "*ray*Sorry, all the medicine in Danny's floor is missing": {
+    "translation": "*瑞依*很抱歉,丹尼那层的药物全都消失了"
+  },
+  "*zack*Speaking of it, the bastard said he had medicine on him": {
+    "translation": "*扎克*话说回来,那家伙说自己身上有药物"
+  },
+  "*ray*Did the doctor anything else": {
+    "translation": "*瑞依*他还说了什么吗?"
+  },
+  "*zack*You don't have to worry about it": {
+    "translation": "*扎克*你不用担心这种事"
+  },
+  "*zack*Did you go to my floor": {
+    "translation": "*扎克*去过我的楼层了吗?"
+  },
+  "*ray*yes": {
+    "translation": "*瑞依*恩姆"
+  },
+  "*zack*Give me the dagger. Let's go": {
+    "translation": "*扎克*把匕首给我吧,我们一起去"
+  },
+  "*ray*You can't move yet": {
+    "translation": "*瑞依*你现在还不能行动"
+  },
+  "*zack*You are so wordy": {
+    "translation": "*扎克*你好烦"
+  },
+  "*zack*After sleeping so long, I can go": {
+    "translation": "*扎克*休息了这么久,我包去的"
+  },
+  "*zack*Remember I'm a monster": {
+    "translation": "*扎克*我可不是人"
+  },
+  "*zack*Monsters don't die easily": {
+    "translation": "*扎克*怪物可没那么容易死"
+  },
+  "*zack*Since there is no medicine, we can only go forward": {
+    "translation": "*扎克*既然没有药物,那就向前"
+  },
+  "*ray* zack": {
+    "translation": "*瑞依* 那个...扎克...."
+  },
+  "*ray*Have you always lived in that room with a dagger": {
+    "translation": "*瑞依*你一直都生活在那个放匕首的房间吗?"
+  },
+  "*zack*So what?": {
+    "translation": "*扎克*所以?"
+  },
+  "*ray*Just a little care": {
+    "translation": "*瑞依*只是有一些在意."
+  },
+  "*zack*I won't go back anyway. Don't worry": {
+    "translation": "*扎克*反正不会再回去了,不必在意"
+  },
+  "*ray*Zack, stop walking and have a rest": {
+    "translation": "*瑞依*扎克,你不能在动了,休息会吧"
+  },
+  "*zack*I said I wouldn't die yet": {
+    "translation": "*扎克*我说过我还不会死"
+  },
+  "*ray*I can walk alone. I'll find the medicine this time": {
+    "translation": "*瑞依*我可以一个人走,这次我一定把药拿回来"
+  },
+  "*zack*You'll die if you go like this": {
+    "translation": "*扎克*你会死的"
+  },
+  "*zack*Do you still want to be killed by me": {
+    "translation": "*扎克*你还想不想被我杀掉了."
+  },
+  "*zack*But you are so desperate for my life and death": {
+    "translation": "*扎克*你为我的死活这么拼命干什么"
+  },
+  "*zack*What are you looking for from me": {
+    "translation": "*扎克*你在向我寻求什么吗"
+  },
+  "*ray*Because you swore to God": {
+    "translation": "*瑞依*因为你发誓了"
+  },
+  "*zack*I'm going to sleep. Whatever you want": {
+    "translation": "*扎克*我要睡了,随便你"
+  },
+  "*ray*Zack, I must help you this time": {
+    "translation": "*瑞依*扎克,这次我一定要帮上忙"
+  },
+  "*ray*Where's Zack": {
+    "translation": "*瑞依*扎克呢?"
+  },
+  "*gray*Even if you stare at me like this, you can't see anything": {
+    "translation": "*格雷*就算你这么瞪着我,也看不出什么东西来的"
+  },
+  "*gray*I've been watching your actions": {
+    "translation": "*格雷*我一直在注视着你"
+  },
+  "*gray*I'd like to know what kind of existence you are that disrupts everything here": {
+    "translation": "*格雷*我很想知道,把这里的一切打乱的你是个什么样的存在"
+  },
+  "*gray*If you bring bad influence, I must punish you": {
+    "translation": "*格雷*如果你带来的影响是坏的,那我必须制裁你"
+  },
+  "*ray*It's not my problem. I'm going to find Zack": {
+    "translation": "*瑞依*关我什么事,我要去找扎克了"
+  },
+  "*gray*Your actions are too selfish": {
+    "translation": "*格雷*你好自私啊"
+  },
+  "*gray*Well, I'll make some preparations before I give you a judgment": {
+    "translation": "*格雷*彳亍,我要在下判决前做些准备"
+  },
+  "*gray*All right, Rachel Gardner": {
+    "translation": "*格雷*彳亍,瑞吉儿加德纳"
+  },
+  "*gray*Your review continues": {
+    "translation": "*格雷*你的审查还在继续"
+  },
+  "*ray*You're disgusting. Don't get in my way": {
+    "translation": "*瑞依*你们好恶心,碍事"
+  },
+  "*gray*Are you a poor lamb or a devil": {
+    "translation": "*格雷*你是羊羔还是恶魔"
+  },
+  "*ray*There's no medicine": {
+    "translation": "*瑞依*这没药"
+  },
+  "*ray*How is that possible?": {
+    "translation": "*瑞依*怎么可能?"
+  },
+  "*ray*You said there was medicine on this floor": {
+    "translation": "*瑞依*是你说这层有药的!"
+  },
+  "*gray*Looks like you're doubting me": {
+    "translation": "*格雷*你在怀疑我吗?"
+  },
+  "*gray*Didn't you think you caused all these unfortunate things": {
+    "translation": "*格雷*你没想过这一切都是你造成的吗"
+  },
+  "*ray*I don't know such a thing": {
+    "translation": "*瑞依*这种事我怎么会知道"
+  },
+  "*gray*Maybe there's a bandage in Zack's layer": {
+    "translation": "*格雷*也许扎克那一层有绷带"
+  },
+  "*gray*How's it going": {
+    "translation": "*格雷*如何"
+  },
+  "*ray*I want to go": {
+    "translation": "*瑞依*我要去"
+  },
+  "*ray*This is Zack's room": {
+    "translation": "*瑞依*这是扎克的房间"
+  },
+  "*ray*The bandage won't work": {
+    "translation": "*瑞依*绷带都没办法用了"
+  },
+  "*ray*He has always lived here": {
+    "translation": "*瑞依*他一直都生活在这里"
+  },
+  "*ray*Go back to Zack": {
+    "translation": "*瑞依*该回去找扎克了"
+  },
+  "*gray*Have you achieved your goal": {
+    "translation": "*格雷*你的目的达到了?"
+  },
+  "*ray*Yes, I want to go back quickly": {
+    "translation": "*瑞依*没错,我现在要快点回去"
+  },
+  "*gray*Well, there are some things I care about": {
+    "translation": "*格雷*彳亍,有些事我也挺在意的"
+  },
+  "*gray*Hurry back": {
+    "translation": "*格雷*快回去吧"
+  },
+  "Close the elevator door after 20 seconds": {
+    "translation": "电梯大门将在20秒后关闭"
+  },
+  "*zack* What's the meaning of this?": {
+    "translation": "*扎克* 什么意思???"
+  },
+  "*ray*No, nothing. Let's go": {
+    "translation": "*瑞依*没什么,快走吧"
+  },
+  "Use Zack tag to open elevator doors": {
+    "translation": "使用札克名牌以用来开启电梯门"
+  },
+  "Zombie teleport in 10 seconds": {
+    "translation": "僵尸10秒后传送"
+  },
+  "Zack has lost his reason now. Run": {
+    "translation": "札克现在已经失去了理性,我得快跑"
+  },
+  "*cathy*It's hard for you to rush all the way here": {
+    "translation": "*凯西*真难为你们一路闯到这里"
+  },
+  "*cathy*I'm sorry to interrupt you": {
+    "translation": "*凯西*打断了你们的好事真是抱歉u"
+  },
+  "*cathy*I'm really happy to see you two break up": {
+    "translation": "*凯西*看你们俩决裂,我真的是非常愉快"
+  },
+  "*zack*That's so annoying": {
+    "translation": "*扎克*你好烦啊"
+  },
+  "*zack*I'll kill you": {
+    "translation": "*扎克*我要杀了你"
+  },
+  "*cathy*You got the wrong guy, Zack": {
+    "translation": "*凯西*你可是搞错了对象呢,札克"
+  },
+  "*cathy*Now enjoy the punishment here": {
+    "translation": "*凯西*现在先好好享受这里的惩罚吧"
+  },
+  "*cathy*no how dare you": {
+    "translation": "*凯西*真敢的啊"
+  },
+  "*zack* Your expression makes me want to kill people very much": {
+    "translation": "*扎克* 你那个表情看得我非常想杀人"
+  },
+  "*zack* It woke me up all at once": {
+    "translation": "*扎克* 一下子就让我清醒过来了"
+  },
+  "*zack*go to hell": {
+    "translation": "*扎克*下地狱吧"
+  },
+  "*cathy*How could that happen alive": {
+    "translation": "*凯西*那种情况居然还能活着出来"
+  },
+  "*cathy*What a surprise. I should praise you": {
+    "translation": "*凯西*还真是出乎我的意料,我该表扬你们"
+  },
+  "*cathy*As a special service, I've opened the door": {
+    "translation": "*凯西*作为特别服务,我已经把门打开了"
+  },
+  "*zack*We're all out. Isn't that what you should do": {
+    "translation": "*扎克*我们都出来了,这不是你该做的吗"
+  },
+  "*ray*Keep going": {
+    "translation": "*瑞依*继续走吧"
+  },
+  "*cathy*By the way, Zack, I'll ask you again": {
+    "translation": "*凯西*对了札克,我再问你一遍"
+  },
+  "*cathy*You really don't want to stay in prison all your life?": {
+    "translation": "*凯西*真不打算在牢里待一辈子?"
+  },
+  "*zack*I said no": {
+    "translation": "*扎克*我都说过不要了"
+  },
+  "*cathy*Are you really not going to be my pastime prop?": {
+    "translation": "*凯西*你真不打算成为我的消遣道具?"
+  },
+  "*cathy*You two have a strange agreement, don't you": {
+    "translation": "*凯西*你们俩之间有个奇怪的约定吧"
+  },
+  "*cathy*In fact, you just use each other": {
+    "translation": "*凯西*实际上你们只是相互利用罢了"
+  },
+  "*cathy*But who is the real prop": {
+    "translation": "*凯西*但你们谁才是真正的道具,不用我说了吧"
+  },
+  "*zack*What do you mean": {
+    "translation": "*扎克*你这话是什么意思"
+  },
+  "*cathy*Forget it, look forward to the next punishment": {
+    "translation": "*凯西*算啦,尽情期待下一个刑罚吧"
+  },
+  "*cathy*Zack, do you remember anything": {
+    "translation": "*凯西*札克,你有没有想起什么呀"
+  },
+  "*zack*Shut up, smelly woman": {
+    "translation": "*扎克*闭嘴,臭女人"
+  },
+  "*cathy*If you're so grumpy again, I won't let you out": {
+    "translation": "*凯西*你要是再这么暴躁我可就不让你出去了"
+  },
+  "Defend for 10 seconds": {
+    "translation": "守住10秒"
+  },
+  "*zack*Damn dizziness": {
+    "translation": "*扎克*头好晕"
+  },
+  "*zack*I was in a trance just now": {
+    "translation": "*扎克*刚才开始脑子就恍恍惚惚的"
+  },
+  "*zack*Want to kill, want to kill, want to kill": {
+    "translation": "*扎克*想杀人,想杀人,想杀人"
+  },
+  "*ray*I don't mind zack": {
+    "translation": "*瑞依*我没意见"
+  },
+  "*ray*Zack, you swore to me. That's your oath. You're also my God": {
+    "translation": "*瑞依*扎克你发过誓,那是你的誓言,你是我的神"
+  },
+  "*ray*But is this really good?": {
+    "translation": "*瑞依*但是这样真的好吗"
+  },
+  "*zack*Then please": {
+    "translation": "*扎克*拜托..."
+  },
+  "*ray*Don't let me kill you now": {
+    "translation": "*瑞依*现在别让我杀了你."
+  },
+  "The door closes in 5 seconds": {
+    "translation": "5秒后关门"
+  },
+  "*cathy*hello zack": {
+    "translation": "*凯西*你好啊Ou<"
+  },
+  "*zack*Bitch": {
+    "translation": "*扎克*沙滩(迫真)"
+  },
+  "*cathy*Let me explain this room": {
+    "translation": "*凯西*我来解释一下这个房间"
+  },
+  "*cathy*If you don't want to die, listen carefully": {
+    "translation": "*凯西*如果不想死就给我仔细听好了"
+  },
+  "*cathy*Such a room is full of great things": {
+    "translation": "*凯西*这样的房间里充满了一种很棒的东西"
+  },
+  "*cathy*Poison gas": {
+    "translation": "*凯西*毒气"
+  },
+  "*cathy*Try to escape within the time limit": {
+    "translation": "*凯西*在时限内努力逃出去吧"
+  },
+  "*cathy*Or we'll send you powerful poison gas that none of you can save": {
+    "translation": "*凯西*不然就送你们谁都救不了的强力毒气"
+  },
+  "*cathy*enjoy": {
+    "translation": "*凯西*好好享受吧"
+  },
+  "*ray*There seems to be something in the pipe": {
+    "translation": "*瑞依*管道里好像有什么东西"
+  },
+  "*ray*I found the key card": {
+    "translation": "*瑞依*找到钥匙卡了"
+  },
+  "*cathy*Ah, you found it": {
+    "translation": "*凯西*居然找到了"
+  },
+  "*cathy*But it's past the time limit, and you can't get out": {
+    "translation": "*凯西*可是,已经超过时限了,而且你们也出不去"
+  },
+  "*cathy*Now is the long-awaited performance time of special poison gas": {
+    "translation": "*凯西*现在是各位期待已久的特制毒气的表演时间"
+  },
+  "*cathy*go to hell": {
+    "translation": "*凯西*去死吧"
+  },
+  "*ray*The agreement with Zack can't be realized if we don't go out alive": {
+    "translation": "*瑞依*和札克之间的约定,不活着出去实现不了吧"
+  },
+  "*ray*Zack, do you believe me": {
+    "translation": "*瑞依*札克,你相信我吗"
+  },
+  "*zack*Whatever. Let's do it": {
+    "translation": "*扎克*无所谓,动手吧"
+  },
+  "Find a hiding place in 8 seconds to avoid the explosion": {
+    "translation": "8秒后毒气室将会爆炸,找个地方藏起来"
+  },
+  "*ray*It's dangerous at first sight": {
+    "translation": "*瑞依*这个一看就知道很危险"
+  },
+  "*zack*If you're afraid, how can you go forward": {
+    "translation": "*扎克*要是怕了还怎么往前走"
+  },
+  "*ray*I think it's better to be cautious": {
+    "translation": "*瑞依*我觉得还是谨慎点好"
+  },
+  "*zack*Don't dawdle. Let's go quickly": {
+    "translation": "*扎克*别磨蹭了,还是快点走吧"
+  },
+  "The door opens in 10 seconds": {
+    "translation": "门10秒后打开"
+  },
+  "*ray*All dummies?": {
+    "translation": "*瑞依*都是假人?"
+  },
+  "*zack*This room is also very inexplicable": {
+    "translation": "*扎克*这间房间也挺莫名其妙的"
+  },
+  "*ray*The door is locked": {
+    "translation": "*瑞依*门锁了"
+  },
+  "*zack*I don't care. Find a way to get out of here": {
+    "translation": "*扎克*我不管,快点想办法离开这里"
+  },
+  "*ray*I don't know the mechanism here": {
+    "translation": "*瑞依*我还不清楚这里的机关"
+  },
+  "*zack*It's really annoying": {
+    "translation": "*扎克*真是烦死人了"
+  },
+  "*zack*Finding a mechanism is the most tiring": {
+    "translation": "*扎克*触发真是件麻烦事"
+  },
+  "need a player to sit in a chair": {
+    "translation": "持有zack名牌的人需要坐上电椅"
+  },
+  "*cathy*Hello, please forgive me across the screen": {
+    "translation": "*凯西*大家好,请原谅我隔着屏幕"
+  },
+  "*cathy*I am the owner of this floor": {
+    "translation": "*凯西*我就是这个楼层的断罪者"
+  },
+  "*cathy*cathy": {
+    "translation": "*凯西*凯西哟"
+  },
+  "*cathy*You must remember me": {
+    "translation": "*凯西*你们可要记住我哟"
+  },
+  "*cathy*Oh, it's Zack sitting on it": {
+    "translation": "*凯西*哎哟,居然是扎克坐在上面"
+  },
+  "*zack*Bitch, let me go": {
+    "translation": "*扎克*沙滩,快放开我"
+  },
+  "*cathy*How could I let you go": {
+    "translation": "*凯西*我怎么可能会放你走呢"
+  },
+  "*cathy*Let's start": {
+    "translation": "*凯西*开始咯"
+  },
+  "*cathy*How long can a monster last under my punishment": {
+    "translation": "*凯西*怪物一样的人,在我的惩罚之下能撑多久呢"
+  },
+  "*cathy*Let me give you a hint": {
+    "translation": "*凯西*给你个提示吧"
+  },
+  "*cathy*The eyes of the audience will fall on punishment": {
+    "translation": "*凯西*观众的目光会降下惩罚"
+  },
+  "*cathy*For the sake of Rachel's efforts, let you go here": {
+    "translation": "*凯西*看在瑞吉儿努力的份上,这里就让你们走吧"
+  },
+  "*cathy*The punishment is more than that": {
+    "translation": "*凯西*惩罚可不止这一个"
+  },
+  "*zack*This smelly woman, I must kill her": {
+    "translation": "*扎克*这个臭女人我一定要杀了她"
+  },
+  "*zack*Why do we have to take pictures": {
+    "translation": "*扎克*干嘛一定要拍照呢"
+  },
+  "*ray*You can't go on without taking pictures": {
+    "translation": "*瑞依*不拍就没法继续走了"
+  },
+  "*ray*It's locked": {
+    "translation": "*瑞依*锁了"
+  },
+  "*zack*Didn't you agree to let us through": {
+    "translation": "*扎克*你不是同意让我们过去的吗"
+  },
+  "*cathy*Don't worry. You can prepare before you accept the punishment": {
+    "translation": "*c凯西*别着急,你们先去准备一下再来接受惩罚吧"
+  },
+  "*cathy*I'll open the necessary rooms for you": {
+    "translation": "*凯西*我会帮你们打开必要的房间"
+  },
+  "*cathy*Here I let you choose": {
+    "translation": "*凯西*这里我让你们选"
+  },
+  "*cathy*There are many ways to convict": {
+    "translation": "*凯西*断罪的方式有很多种"
+  },
+  "*cathy*There are many painful punishments waiting for you": {
+    "translation": "*凯西*前方有很多痛苦的刑罚再等着你们哟"
+  },
+  "*zack*If only I could rise to the top in one breath": {
+    "translation": "*扎克*要是能一口气升到最上层就好了"
+  },
+  "*zack*It feels bad here": {
+    "translation": "*扎克*这里感觉真不爽"
+  },
+  "*ray*This is locked": {
+    "translation": "*瑞依*这也锁了"
+  },
+  "*ray*There is nothing else in this room": {
+    "translation": "*瑞依*这个房间里也没有其他东西"
+  },
+  "*zack*How can I understand something you don't even understand": {
+    "translation": "*扎克*连你都不明白的事情,我怎么可能明白"
+  },
+  "*ray*I think so.": {
+    "translation": "*瑞依*也对."
+  },
+  "*cathy*hi zack": {
+    "translation": "*凯西*扎克~"
+  },
+  "*cathy*I'm the judge of criminals": {
+    "translation": "*凯西*我是断罪者"
+  },
+  "*cathy*Ah, sinful people": {
+    "translation": "*凯西*啊,罪孽深重的恶人们"
+  },
+  "*cathy*I'll teach you a lesson before I get forgiveness": {
+    "translation": "*凯西*在得到宽恕之前我要好好教训你们"
+  },
+  "*cathy*And I am the one who has been given this right": {
+    "translation": "*凯西*而我就是被赋予了这个权利的人"
+  },
+  "*eddie*however": {
+    "translation": "*艾迪*不过"
+  },
+  "*eddie*Take it easy": {
+    "translation": "*艾迪*放心吧"
+  },
+  "*eddie*It's dark, cool and comfortable to be buried in the soil": {
+    "translation": "*艾迪*埋在土里又黑又凉快,很舒服的"
+  },
+  "*zack*Don't even think about it": {
+    "translation": "*扎克*你有病吧"
+  },
+  "*eddie*I will keep you in a beautiful sarcophagus forever": {
+    "translation": "*艾迪*我要把你永远关在美丽的石棺里"
+  },
+  "*eddie*Rachel, I wanted you to die beautiful": {
+    "translation": "*艾迪*瑞吉儿,我本来是想让你死得漂亮点"
+  },
+  "Defend for 45 seconds": {
+    "translation": "守住45秒"
+  },
+  "Be careful Eddie will attack you in the dark fog": {
+    "translation": "小心Eddie在烟雾里攻击你"
+  },
+  "*eddie*Rachel.. why..?": {
+    "translation": "*e艾迪*为什么?"
+  },
+  "*eddie*I made a coffin for you": {
+    "translation": "*艾迪*我都特意为你做了棺材"
+  },
+  "*eddie*Only I really understand you": {
+    "translation": "*艾迪*只有我才是真正理解你"
+  },
+  "*eddie* why..?": {
+    "translation": "*艾迪* 为什么?"
+  },
+  "*zack*That means you got dumped": {
+    "translation": "*爱看*这就说明你,被甩啦"
+  },
+  "Zombie teleport in 5 seconds": {
+    "translation": "僵尸5秒后传送"
+  },
+  "Rachel, let me realize your wish": {
+    "translation": "瑞吉儿,让我来实现你的愿望吧"
+  },
+  "But I also have a wish": {
+    "translation": "但我也有一个愿望"
+  },
+  "If you can, I hope you can rely on me": {
+    "translation": "可以的话,希望你能来依靠我"
+  },
+  "Because it's beautiful to be happy with each other": {
+    "translation": "因为两情相悦很美好"
+  },
+  "I know you very well. You want to die, don't you": {
+    "translation": "我知道你很好,你想死,对吗"
+  },
+  "therefore": {
+    "translation": "所以"
+  },
+  "* yes * to me": {
+    "translation": "* 对我说 彳亍 "
+  },
+  "*eddie*We finally met, Rachel.": {
+    "translation": "*艾迪*我们终于见面了,瑞吉儿."
+  },
+  "*eddie*I'm Eddie": {
+    "translation": "*艾迪*我是80"
+  },
+  "*eddie*You don't have to run": {
+    "translation": "*艾迪*你用不着跑"
+  },
+  "*eddie*I won't suddenly kill you like everyone else": {
+    "translation": "*艾迪*我不会像其他人那样直接来杀了你"
+  },
+  "*eddie*It doesn't matter. I know everything about you": {
+    "translation": "*艾迪*没关系,你的一切我都知道"
+  },
+  "*ray*Why am I here": {
+    "translation": "*瑞依*我为什么会在这里"
+  },
+  "*eddie*Don't you remember?": {
+    "translation": "*艾迪*你不记得了吗?"
+  },
+  "*eddie*Forget it if you don't remember": {
+    "translation": "*艾迪*你不记得也没关系的"
+  },
+  "*eddie*Don't that. I'll make it easy for you to die": {
+    "translation": "*艾迪*别说这个了,我会让你死得很轻松"
+  },
+  "*eddie*Let me realize your wish": {
+    "translation": "*艾迪*让我来实现你的愿望"
+  },
+  "*eddie** yes * to me": {
+    "translation": "*艾迪** 对我说 彳亍 口巴"
+  },
+  "*zack*Hey, did you hear me": {
+    "translation": "*扎克*你听见了吧,我说你呢,你啊"
+  },
+  "*ray* me?": {
+    "translation": "*瑞依* 我?"
+  },
+  "*zack*Don't even think about getting killed so easily": {
+    "translation": "*扎克*这么容易就想被杀,你想都别想"
+  },
+  "*zack*There are many people in this building trying to kill you": {
+    "translation": "*扎克*这栋楼想杀你的人多了去了"
+  },
+  "*zack*But it must be me who can kill you in the end": {
+    "translation": "*扎克*但最后能杀了你的一定是我"
+  },
+  "*zack*I swear to God": {
+    "translation": "*扎克*我向神起誓"
+  },
+  "Break the wall and escape": {
+    "translation": "打碎墙壁逃出去"
+  },
+  "empty": {
+    "translation": "虚空"
+  },
+  "You don't have to hesitate": {
+    "translation": "你无需犹豫"
+  },
+  "I am very suitable to realize your wish": {
+    "translation": "我非常适合去实现你的愿望"
+  },
+  "*ray*Is someone here?": {
+    "translation": "*瑞依*有人没?"
+  },
+  "*ray* Watkin Becket": {
+    "translation": "*瑞依* 沃特金.贝克特"
+  },
+  "*ray*Place of death B3": {
+    "translation": "*瑞依*死亡地点B3"
+  },
+  "*ray*The cause of death was shot and lost too much blood": {
+    "translation": "*瑞依*死因.中弹失血过多"
+  },
+  "*ray*Killed in B6": {
+    "translation": "*瑞依*在B6被斩杀"
+  },
+  "*ray*Hanged at B5": {
+    "translation": "*瑞依*在B5被吊死"
+  },
+  "*ray*beat to death in B4": {
+    "translation": "*瑞依*在B4被打死"
+  },
+  "*ray*Are these all people here?": {
+    "translation": "*瑞依*这些全都是来这里的人?"
+  },
+  "*ray*It's my resume...": {
+    "translation": "*瑞依*是我的简历....."
+  },
+  "*ray*Do you know this building well": {
+    "translation": "*瑞依*你对这座建筑很了解吗?"
+  },
+  "*zack*The specific situation is not very clear": {
+    "translation": "*扎克*具体情况不是很清楚"
+  },
+  "*zack*Someone told me * you can kill whoever you want * so I came here": {
+    "translation": "*扎克*有人告诉我你想杀谁就杀谁,所以就来这了"
+  },
+  "*zack*Guys on other floors should be like this": {
+    "translation": "*扎克*其他楼层的家伙应该也是这样子的"
+  },
+  "*ray*Is it...": {
+    "translation": "*瑞依*啊这..."
+  },
+  "*zack*What is this": {
+    "translation": "*扎克*这是什么"
+  },
+  "*ray*grave?": {
+    "translation": "*瑞依*坟墓?"
+  },
+  "*zack*No wonder there's a smell of dirt": {
+    "translation": "*扎克*怪不得一股土腥气"
+  },
+  "*zack*hurry": {
+    "translation": "*扎克*走吧"
+  },
+  "*zack*Why don't you give up this grave?": {
+    "translation": "*扎克*怎么,你还舍不得这座坟头啊?"
+  },
+  "*zack* hurry up!": {
+    "translation": "*扎克* 快动!"
+  },
+  "*ray*This tombstone is new": {
+    "translation": "*瑞依*这个墓碑是新的"
+  },
+  "*zack* So what": {
+    "translation": "*扎克* 那又怎样"
+  },
+  "*ray*The name is engraved on it": {
+    "translation": "*瑞依*上面刻着名字"
+  },
+  "*ray*RACHEL GARDNER": {
+    "translation": "*瑞依*瑞吉儿加德纳"
+  },
+  "*zack*Don't always stare at that tombstone": {
+    "translation": "*扎克*别总是盯着那个墓碑看啊"
+  },
+  "*zack*I don't want to die with you. Go and find an exit for me": {
+    "translation": "*扎克*我可不想和你一起死,赶紧去给我找出口"
+  },
+  "*ray*There's a wind blowing over there": {
+    "translation": "*瑞依*那边有风吹过来"
+  },
+  "*zack*Is there anything in here?": {
+    "translation": "*扎克*这里面有东西吗?"
+  },
+  "*ray*Shall I go in and have a look?": {
+    "translation": "*瑞依*要我进去看看吗?"
+  },
+  "*zack*You don't want to run away, do you": {
+    "translation": "*扎克*你不会想趁机逃跑吧"
+  },
+  "*ray*I won't run away": {
+    "translation": "*瑞依*我不会逃的"
+  },
+  "*ray*Because you haven't killed me yet": {
+    "translation": "*瑞依*因为我还没被你杀死"
+  },
+  "*zack* Forget it, you go in and have a look": {
+    "translation": "*扎克* 彳亍,你进去看看吧"
+  },
+  "*ray* that..": {
+    "translation": "*瑞依* 我还有一个请求."
+  },
+  "*ray* If you can, don't destroy my grave, okay?": {
+    "translation": "*瑞依* 如果可以的话不要破坏我的墓碑好吗?"
+  },
+  "*zack* Who cares": {
+    "translation": "*扎克* 谁管你啊"
+  },
+  "Rachel, I've cared about you a long time ago": {
+    "translation": "瑞吉儿,我从很久以前就很在意你了"
+  },
+  "I want to see you": {
+    "translation": "我想见你"
+  },
+  "But that guy will get in the way": {
+    "translation": "但那家伙就会碍事"
+  },
+  "I fell in love with you at first sight": {
+    "translation": "我啊,可是对你一见钟情的"
+  },
+  "So I prepared a special gift for you": {
+    "translation": "所以我为你准备了特别的礼物"
+  },
+  "That only belongs to you": {
+    "translation": "那个只属于你的"
+  },
+  "A place to sleep forever": {
+    "translation": "永远长眠的地方"
+  },
+  "Find the right tombstone and break it": {
+    "translation": "找到正确的墓碑砸碎它"
+  },
+  "The door opened": {
+    "translation": "门开了"
+  },
+  "All humans go to the passage in the middle of the hall": {
+    "translation": "所有人类前往大厅的中间通道"
+  },
+  "*zack* Why do you dare to run here carelessly": {
+    "translation": "*扎克* 你干嘛,还敢满不在乎的跑过来"
+  },
+  "*ray* I have a request . Kill me.. Please": {
+    "translation": "*瑞依* 我有个请求,求求你,杀了我吧"
+  },
+  "*zack* ...": {
+    "translation": "*扎克* ..."
+  },
+  "*zack* If you have time to such disgusting words": {
+    "translation": "*扎克* 有时间说这么恶心的话"
+  },
+  "*zack* you might as well find a way to open this": {
+    "translation": "*扎克* 不如想办法把这个打开"
+  },
+  "*ray* Just open this door and you'll kill me": {
+    "translation": "*瑞依* 只要打开这扇门,你就肯杀了我吗"
+  },
+  "*zack* As long as I can get out of here, I'll kill you": {
+    "translation": "*扎克* 只要能离开这里,我就会杀了你"
+  },
+  "Rachel, can I take a closer look at your eyes": {
+    "translation": "瑞吉儿,可以让我仔细看看你的眼睛吗"
+  },
+  "Your eyes are so beautiful": {
+    "translation": "你的眼睛真漂亮啊"
+  },
+  "But your eyes are full of fear": {
+    "translation": "然而你的眼里却充满了恐惧"
+  },
+  "I'm so sad": {
+    "translation": "我好伤心啊"
+  },
+  "Like my mother's eyes": {
+    "translation": "就像我妈妈的眼睛"
+  },
+  "Like a pair of ordinary eyes": {
+    "translation": "就像一双普通眼睛"
+  },
+  "I really want to see your really beautiful eyes": {
+    "translation": "我好想看你那双真正漂亮的眼睛"
+  },
+  "If you can wake up from this nightmare": {
+    "translation": "如果能从这场噩梦中醒来"
+  },
+  "Can you change back to those beautiful and silent eyes like the blue moon": {
+    "translation": "你是否能够变回那双宛如那蓝色月亮般美丽而沉寂的双眸呢"
+  },
+  "Rachel, I want to live by your eyes": {
+    "translation": "瑞吉儿,我啊,想要活在你的双眸身边啊"
+  },
+  "*ray* doctor?": {
+    "translation": "*瑞依* 医生?"
+  },
+  "By the way, I left something important around here": {
+    "translation": "对了,我把一件重要的东西忘在这附近了"
+  },
+  "Can you help me find it": {
+    "translation": "你能帮我找吗"
+  },
+  "*ray* Looking for something?": {
+    "translation": "*瑞依* 找东西?"
+  },
+  "I'm looking for this room": {
+    "translation": "看看这间房"
+  },
+  "Can you help me look in the room": {
+    "translation": "你能帮我去里面的房间找找看吗"
+  },
+  "Let me give you a hint": {
+    "translation": "给你个提示吧"
+  },
+  "My eyes are purple jade": {
+    "translation": "我的眼珠是紫翠玉"
+  },
+  "Rachel, the room inside is dark. Be careful": {
+    "translation": "瑞吉儿,里面的房间很暗,小心点"
+  },
+  "That's it": {
+    "translation": "就是那个啊"
+  },
+  "Looking at this, you still can't remember anything?": {
+    "translation": "看着这个,你还是什么都想不起来吗"
+  },
+  "I'm going to put this on now": {
+    "translation": "我现在要去把这个戴上"
+  },
+  "Can you wait for me in the opposite room?": {
+    "translation": "你能在对面的房间等我一会吗?"
+  },
+  "Rachel, you can't run away": {
+    "translation": "瑞吉儿,你可不许逃跑哦"
+  },
+  "*ray* That's strange. This is not the doctor I know. I have to run away": {
+    "translation": "*瑞依* 太奇怪了,这不是我认识的医生 必须要逃走"
+  },
+  "Didn't I no escape": {
+    "translation": "我不是说了不许逃吗"
+  },
+  "This is my floor": {
+    "translation": "这里可是我的楼层"
+  },
+  "Rachel, give me your eyes": {
+    "translation": "瑞吉儿,把你的眼睛给我吧"
+  },
+  "Then meet your parents in hell": {
+    "translation": "然后和你的父母在地狱里相见吧"
+  },
+  "Looks like you're still in a dream": {
+    "translation": "看来你还在梦里呢"
+  },
+  "You helped me find it. Thank you": {
+    "translation": "你帮我找到了啊,谢谢你"
+  },
+  "*ray* Is this artificial eye a doctor's?": {
+    "translation": "*瑞依* 这个义眼是医生的吗?"
+  },
+  "zombie tp in 5seconds": {
+    "translation": "5秒后僵尸传送"
+  },
+  "y.. you....": {
+    "translation": "你......."
+  },
+  "*zack* Danny, why are you shouting so happy": {
+    "translation": "*扎克* 丹尼,你干嘛要发出如此幸福的喊声啊"
+  },
+  "*zack* This will make me want to cut you": {
+    "translation": "*扎克* 这样会让我忍不住想要砍了你的"
+  },
+  "*zack* Little girl": {
+    "translation": "*扎克* 喂,小姑娘"
+  },
+  "*zack* Running after you here seems to be making a big deal": {
+    "translation": "*扎克* 追着你跑到这里,事情好像有点闹大了"
+  },
+  "*zack* Run for your life and I'll kill you with a knife": {
+    "translation": "*扎克* 快逃命吧,然后我会一刀刺死你"
+  },
+  "*zack* Don't you want to live?": {
+    "translation": "*扎克* 你不想活了?"
+  },
+  "*zack* I'm not interested in shredding dolls": {
+    "translation": "*扎克* 我可没有兴趣切碎人偶"
+  },
+  "The B6 attacked the B5": {
+    "translation": "B6层领主攻击了B5层领主"
+  },
+  "For violating the rules, the Betrayer was regarded as a sacrifice": {
+    "translation": "因违反了规则,将背叛者视为祭品"
+  },
+  "*zack* Are you kidding? I'd better run away": {
+    "translation": "*扎克* 开什么玩笑,我还是逃走好了"
+  },
+  "*ray* What are the rules?": {
+    "translation": "*瑞依* 规则是什么?"
+  },
+  "There are probably some rules here": {
+    "translation": "这里大概是有什么规则的吧"
+  },
+  "*ray* What is the wish?": {
+    "translation": "*瑞依* 那愿望又是什么?"
+  },
+  "Everyone's wishes are different, right?": {
+    "translation": "每个人的愿望都是不同的吧?"
+  },
+  "If it were me": {
+    "translation": "是我的话"
+  },
+  "Just want beautiful eyes": {
+    "translation": "就想要双漂亮的眼睛啊"
+  },
+  "Because there's something wrong with one of my eyes": {
+    "translation": "因为我的一只眼睛有点问题"
+  },
+  "If eyes like you were mine": {
+    "translation": "如果像你这样的眼睛是我的话"
+  },
+  "That's wonderful": {
+    "translation": "那可真是太美好了"
+  },
+  "Let's go and have a look in another room": {
+    "translation": "走吧,去别的房间看看吧"
+  },
+  "zombie tp in 10seconds": {
+    "translation": "10秒后僵尸传送"
+  },
+  "zombie tp in 15seconds": {
+    "translation": "15秒后僵尸传送"
+  },
+  "Rachel, let's go find the exit": {
+    "translation": "瑞吉儿,我们一起去找出口吧"
+  },
+  "believe me": {
+    "translation": "相信我"
+  },
+  "It doesn't matter. He can't get to this floor": {
+    "translation": "没关系,他是到不了这一层的"
+  },
+  "*ray* Doctor, we need to run quickly": {
+    "translation": "*瑞依* 医生,我们要快点逃"
+  },
+  "I'm afraid the one who chased you is a murderer": {
+    "translation": "追杀你的那位,恐怕是杀人魔"
+  },
+  "*ray* Who is going to kill me?": {
+    "translation": "*瑞依* 追杀我的那位是?"
+  },
+  "But don't worry. I'm really your doctor": {
+    "translation": "不过你放心吧,我确实是你的医生"
+  },
+  "You seem a little confused": {
+    "translation": "你似乎还有些混乱"
+  },
+  "Yeah, don't you remember?": {
+    "translation": "是啊,你不记得了吗?"
+  },
+  "*ray* Are you my psychologist?": {
+    "translation": "*瑞依* 你是我的心理医生?"
+  },
+  "It's me. I'm your psychologist, Danny": {
+    "translation": "是我啊,我是你的心理医生丹尼啊"
+  },
+  "Finally found you": {
+    "translation": "终于找到你了呀"
+  },
+  "I won't give you a second this time": {
+    "translation": "我不会再给你第二次时间的"
+  },
+  "The final elevator will start in 25seconds": {
+    "translation": "最后的电梯25秒后启动"
+  },
+  "bird?": {
+    "translation": "小子?"
+  },
+  "It's hurt?": {
+    "translation": "受伤了?"
+  },
+  "Don't run. Don't be afraid": {
+    "translation": "你别跑啊,别害怕"
+  },
+  "Come to me": {
+    "translation": "来,到我这来"
+  },
+  "Let's get out together": {
+    "translation": "我们一起逃出去吧"
+  },
+  "Wipe that stupid,smug look off your face!": {
+    "translation": "你刚才的表情可是充满了期待呢!"
+  },
+  "And surrender to despair!": {
+    "translation": "而现在却变成了绝望!"
+  },
+  "I'll give you a 3 second head start how far can you run?!": {
+    "translation": "我倒数3秒,所以你就趁机逃命吧!"
+  },
+  "show me the despair on your face! YES! MORE!": {
+    "translation": "让我多看看你那绝望的表情吧!"
+  },
+  "3": {
+    "translation": "3"
+  },
+  "2": {
+    "translation": "2"
+  },
+  "1": {
+    "translation": "1"
+  },
+  "Find a place to hide 20seconds": {
+    "translation": "20秒内找个地方藏起来"
+  },
+  "zombie tp in 7 seconds": {
+    "translation": "7秒后僵尸传送"
+  },
+  "What's your name": {
+    "translation": "名字"
+  },
+  "Rachel..Gardner": {
+    "translation": "瑞吉儿....加德纳"
+  },
+  "Why are you here": {
+    "translation": "你为什么在这"
+  },
+  "I'm pretty sure I was at a hospital...And when I came to, I was here...": {
+    "translation": "来到了医院..等注意到时就已经在这里了..."
+  },
+  "Why?": {
+    "translation": "为什么?"
+  },
+  "Why are you in the hospital?": {
+    "translation": "你为什么在医院里?"
+  },
+  "I saw someone... I saw someone die.": {
+    "translation": "因为看到有人死了..看到有人被杀了."
+  },
+  "It happened right in front of me..": {
+    "translation": "就发生在我眼前.."
+  },
+  "So, I was brought here for counseling..": {
+    "translation": "所以..我就被带来接受心理治疗了.."
+  },
+  "I wanna see my mom and dad...": {
+    "translation": "我想见爸爸妈妈..."
+  },
+  "The elevator will start in 15seconds": {
+    "translation": "电梯15秒后启动"
+  },
+  "I should have gone to the hospital, but not here": {
+    "translation": "我应该是去了医院,但不是这里"
+  },
+  "defend 10 seconds": {
+    "translation": "守住10秒"
+  },
+  "Where am I?": {
+    "translation": "我这是在哪里?"
+  },
+  "Beautiful moon": {
+    "translation": "湛蓝美丽的月亮"
+  },
+  "But the blue moon is not real": {
+    "translation": "但这个蓝色的月亮美的有点不真实"
+  },
+  "Anyway, hurry up and go back to find mom and dad.": {
+    "translation": "总之要快点回去找爸爸妈妈"
+  },
+  "lv1": {
+    "translation": "第一关"
+  }
+}
