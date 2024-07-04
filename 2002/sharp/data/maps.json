@@ -1,4 +1,11 @@
 {
+  "ttt_afterglow_v1": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  },
   "ttt_apehouse_night": {
     "certainTimes": [-1],
     "price": 300,
