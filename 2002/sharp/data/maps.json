@@ -1,4 +1,11 @@
 {
+   "ttt_subway": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  }, 
   "ttt_clue": {
     "certainTimes": [-1],
     "price": 300,
