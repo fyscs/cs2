@@ -28,6 +28,8 @@
     },
     {
       "iterator": "stx3_health",
+      "mass": 90,
+      "counter": "stx3_segment",
       "hitbox": "stx3_physbox",
       "display": "弹幕痴"
     }

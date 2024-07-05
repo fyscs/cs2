@@ -23,11 +23,15 @@
   "Counters": [
     {
       "iterator": "stage5_boss_hp",
+      "backup": "stage5_boss_hp_backup",
+      "counter": "stage5_boss_hp_left",
       "hitbox": "stage5_boss_hitbox",
       "display": "Core"
     },
     {
-      "iterator": "spirit_hp_left_counter",
+      "iterator": "spirit_boss_hp",
+      "backup": "spirit_boss_hp_backup",
+      "counter": "spirit_boss_hp_left",
       "hitbox": "spirit_hitbox",
       "display": "Sprit"
     },
@@ -42,12 +46,16 @@
       "display": "Core"
     },
     {
-      "iterator": "stage4_boss_hp_left_counter",
+      "iterator": "stage4_boss_hp",
+      "backup": "stage4_boss_hp_backup",
+      "counter": "stage4_boss_hp_left",
       "hitbox": "stage4_boss_break",
       "display": "Core"
     },
     {
-      "iterator": "stage3_boss_hp_left_counter",
+      "iterator": "stage3_boss_hp",
+      "backup": "stage3_boss_hp_backup",
+      "counter": "stage3_boss_hp_left",
       "hitbox": "stage3_boss_break",
       "display": "Core"
     },

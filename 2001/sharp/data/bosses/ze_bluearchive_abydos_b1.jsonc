@@ -22,24 +22,31 @@
 {
   "Counters": [
     {
-      "iterator": "S1_arapche_health_math",
-      "hitbox": "S1_arapche_health",
-      "display": "Arapche"
-    },
-    {
       "iterator": "binah_lv1_health_math",
+      "counter": "binah_lv1_healthgauge_math",
+      "backup": "binah_lv1_healthsave_math",
       "hitbox": "binah_boss_health",
       "display": "Binah"
     },
     {
       "iterator": "binah_lv2_health_math",
+      "counter": "binah_lv2_healthgauge_math",
+      "backup": "binah_lv2_healthsave_math",
       "hitbox": "binah_boss_health",
       "display": "Binah"
     },
     {
       "iterator": "binah_lv3_health_math",
+      "counter": "binah_lv3_healthgauge_math",
+      "backup": "binah_lv3_healthsave_math",
       "hitbox": "binah_boss_health",
       "display": "Binah"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "16498",
+      "display": "Arapche"
     }
   ]
 }

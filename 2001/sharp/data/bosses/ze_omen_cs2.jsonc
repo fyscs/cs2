@@ -20,21 +20,28 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Counters": [
+  "Breakables": [
     {
       "target": "l1_plant_hitbox",
-      "display": "Plant",
-      "iterator": ""
+      "display": "Plant"
+    },
+    {
+      "target": "l2_end_hitbox",
+      "display": "l2_end_idgaf"
     },
     {
       "target": "l2_boss_hitbox",
-      "display": "CryStal",
-      "iterator": ""
+      "display": "CryStal"
     },
     {
       "target": "l3_boss_hitbox",
-      "display": "Block",
-      "iterator": ""
+      "display": "Block"
+    }
+  ],
+  "Counters": [
+    {
+      "display": "l3_subbox_idgaf",
+      "iterator": "l3_subbox_sum"
     }
   ]
 }

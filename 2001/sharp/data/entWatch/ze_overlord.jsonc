@@ -198,7 +198,7 @@
   },
   {
     "name": "圣剑",
-    "shortName": "剑",
+    "shortName": "圣剑",
     "buttonClass": "func_button",
     "hammerId": "6612",
     "cooldown": 75,
@@ -264,7 +264,7 @@
   },
   {
     "name": "暗影界限",
-    "shortName": "墙",
+    "shortName": "界限",
     "buttonClass": "func_button",
     "hammerId": "6372",
     "cooldown": 75,
@@ -275,7 +275,7 @@
   },
   {
     "name": "箭矢",
-    "shortName": "箭",
+    "shortName": "箭矢",
     "buttonClass": "func_button",
     "hammerId": "6521",
     "cooldown": 13,

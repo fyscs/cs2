@@ -55,6 +55,13 @@
     "nomination": false,
     "admin": false
   },
+  "mg_kirbys_brawl_v2": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": true
+  },
   "mg_lego_multigames_r1c1": {
     "certainTimes": [-1],
     "price": 300,

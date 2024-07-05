@@ -114,7 +114,7 @@
     "buttonClass": "func_button",
     "hammerId": "3829",
     "cooldown": 75,
-    "team": 3,
+    "team": 2,
     "knife": true,
     "mode": 2,
     "count": 1
@@ -125,8 +125,8 @@
     "buttonClass": "func_button",
     "hammerId": "3839",
     "cooldown": 75,
-    "team": 3,
-    "knife": false,
+    "team": 2,
+    "knife": true,
     "mode": 2,
     "count": 1
   },

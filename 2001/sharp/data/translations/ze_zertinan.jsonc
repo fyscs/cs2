@@ -1,0 +1,193 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** Adramelech is summoning the Sandmoster**": {
+    "translation": "** 亚德拉梅利克正在召唤沙漠亡灵 **"
+  },
+  "**Thundara**": {
+    "translation": "** 电圈 **"
+  },
+  "**Flash Arc**": {
+    "translation": "**闪光弧**"
+  },
+  "**Judgment Bolt**": {
+    "translation": "**审判雷霆**"
+  },
+  "**Heal**": {
+    "translation": "**治愈**"
+  },
+  "**Quicksandl**": {
+    "translation": "**急速飞沙**"
+  },
+  "** Reflexive **": {
+    "translation": "** 反射 **"
+  },
+  "** too late **": {
+    "translation": "** 太慢了! **"
+  },
+  "** As per Cidolfus what he said, Giruvegan will be our next stop to go. **": {
+    "translation": "** 如果按照西德博士所说,那么我们接下来必须前往基鲁维冈一趟了 **"
+  },
+  "** Cidolfus is gone, we have to find a way to get out from here first. **": {
+    "translation": "** 西德逃走了,我们现在得想办法离开这里 **"
+  },
+  "": {
+    "translation": ""
+  },
+  "** Gravity **": {
+    "translation": "** 重力 **"
+  },
+  "** Ice **": {
+    "translation": "** 冰 **"
+  },
+  "** Double Damage **": {
+    "translation": "** 双重伤害 **"
+  },
+  "** Flash Freeze **": {
+    "translation": "** 急速冻结 **"
+  },
+  "** Clouds **": {
+    "translation": "** 迷雾 **"
+  },
+  "** Soul Purge**": {
+    "translation": "** 灵魂净化**"
+  },
+  "** Devour Soul**": {
+    "translation": "** 灵魂吞噬 *"
+  },
+  "** Please... take care of Larsa... **": {
+    "translation": "** 拜托你,保护好拉萨殿下.. **"
+  },
+  "**Defend 25s**": {
+    "translation": "**防守25秒**"
+  },
+  "> The Esper Adrammelech  fight in 10 seconds <": {
+    "translation": "> 10秒后与Adrammelech战斗开始 <"
+  },
+  "**Defend 10s**": {
+    "translation": "**防守10秒**"
+  },
+  "**Defend 15s**": {
+    "translation": "**防守15秒**"
+  },
+  "**Defend 20s**": {
+    "translation": "**防守20秒**"
+  },
+  "> The Esper Shemhazai  fight in 10 seconds <": {
+    "translation": "> 10秒后与Shemhazai战斗开始 <"
+  },
+  "** Judge drace? Why she is here.. **": {
+    "translation": "** 多蕾丝?她为什么在这里.. **"
+  },
+  "**Defend 30s**": {
+    "translation": "**防守30秒**"
+  },
+  "** The power is on, and the door will open soon **": {
+    "translation": "** 电源接通了,门很快就会打开 **"
+  },
+  "** KILL REMAINING ZOMBIES **": {
+    "translation": "** 杀死剩余的僵尸 **"
+  },
+  "** The elevator still has 5s to rise **": {
+    "translation": "** 电梯还有5秒上升 **"
+  },
+  "** The elevator is warming up **": {
+    "translation": "** 电梯准备启动了 **"
+  },
+  "** Both switches have been pulled down **": {
+    "translation": "** 两个开关都已拉下 **"
+  },
+  "** Round failed! Zombies have reached the objective! **": {
+    "translation": "** 回合失败! 僵尸已经达到! **"
+  },
+  "** We need to pull down two switches to start the elevator**": {
+    "translation": "** 我们需要拉下两个开关才能启动电梯**"
+  },
+  "** Map By Runa **": {
+    "translation": "** 地图作者: Runa **"
+  },
+  "** CS2 Port By @Seth **": {
+    "translation": "** 移植: @Seth  文本汉化:Zeyu1@FyS**"
+  },
+  "**10 seconds remaining**": {
+    "translation": "**还剩10秒**"
+  },
+  "**20 seconds remaining**": {
+    "translation": "**还剩20秒**"
+  },
+  "**30 seconds remaining**": {
+    "translation": "**还剩30秒**"
+  },
+  "**Warm Round**": {
+    "translation": "**热身回合**"
+  },
+  "**60 seconds remaining**": {
+    "translation": "**还剩60秒**"
+  },
+  "**Easy**": {
+    "translation": "**难度:简单**"
+  },
+  "**Normal**": {
+    "translation": "**难度:正常*"
+  },
+  "**Hard**": {
+    "translation": "**难度:困难**"
+  },
+  "** Nethicite must be on Cidolfus... **": {
+    "translation": "** 破魔石一定在希德博士手上 **"
+  },
+  "** We need to go the top ascent of the Draklor Laboratory and find him. **": {
+    "translation": "** 我们必须前往研究所的最高层去寻找希德博士 **"
+  },
+  "** Look! The Sochen Cave Palace is right there!. We almost reach to The Imperial City of Archades. **": {
+    "translation": "** 看!索亨地下宫殿就在那里!只要穿过了那里我们就到达了阿凯迪斯 **"
+  },
+  "** After Judge Bergan invaded Mt.Bur-Omisace, we decided to go Draklor Laboratory and destory the Nethicite. **": {
+    "translation": "** 在裁判长贝干入侵神都布尔奥米赛斯之后,我们决定前往帝国的卓克罗尔研究所破坏破魔石 **"
+  },
+  "** 240s **": {
+    "translation": "** 240秒 **"
+  },
+  "** Gate open in 15 sec. **": {
+    "translation": "** 大门将在15秒后开启 **"
+  },
+  "** Airship is ready,wait for takeoff. **": {
+    "translation": "** 飞船准备就绪,等待起飞 **"
+  },
+  "**Warm End...**": {
+    "translation": "**热身结束...**"
+  },
+  "<Gabranth> Even astray has pride,I shall humour you any time.": {
+    "translation": "<加布朗斯> 误入歧途的人也有自尊心,我随时都可以幽默一把."
+  },
+  "<Gabranth> Behold, the power of a judge hate me with all your heart.": {
+    "translation": "<加布朗斯> 审判的力量 你可要全心全意恨我"
+  },
+  "<Gabranth> There is no cause for concern.": {
+    "translation": "<加布朗斯> 无需担心."
+  },
+  "<Gabranth> You should not have massed judged me.": {
+    "translation": "<加布朗斯> 你们不应该审判我."
+  },
+  "<Gabranth> This is the result of your pride,Be mind of who you challenge next.": {
+    "translation": "<加布朗斯> 这是你应得的结果,等待你的下一个挑战者吧."
+  },
+  "<Gabranth> You only your self to blame.": {
+    "translation": "<加布朗斯> 这只能怪你自己."
+  },
+  "<Gabranth> Eternal pain...Destruction！": {
+    "translation": "<加布朗斯> 永恒的痛苦....毁灭吧"
+  },
+  "<Gabranth> You will be judged,By my sword!": {
+    "translation": "<加布朗斯> 你将会被我的圣剑审判!"
+  }
+}
