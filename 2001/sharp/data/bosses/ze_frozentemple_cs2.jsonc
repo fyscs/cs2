@@ -1,0 +1,8 @@
+{
+  "Breakables": [
+    {
+      "target":  "bt_hitbox",
+      "display":  "冰晶"
+     }
+  ]
+}
