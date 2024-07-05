@@ -59,8 +59,8 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
-    "nomination": true,
-    "admin": true
+    "nomination": false,
+    "admin": false
   },
   "mg_lego_multigames_r1c1": {
     "certainTimes": [-1],
