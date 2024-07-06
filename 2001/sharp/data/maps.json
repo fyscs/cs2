@@ -1265,7 +1265,7 @@
     "certainTimes": [-1],
     "price": 550,
     "cooldown": 80,
-    "nomination": false,
+    "nomination": true,
     "admin": false
   },
   "ze_skygarden": {
