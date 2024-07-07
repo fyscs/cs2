@@ -1,0 +1,151 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<< RTV2 >>": {
+    "translation": "<< RTV2 >>"
+  },
+  "<< RTV3 >>": {
+    "translation": "<< RTV3 >>"
+  },
+  "<< End in 120 seconds >>": {
+    "translation": "<< 120秒 >>"
+  },
+  "<< Warning: 20 seconds left >>": {
+    "translation": "<< 还剩20秒,撑住 >>"
+  },
+  "- THE FINAL -": {
+    "translation": "- 结束 -"
+  },
+  "<< Hold for 20 seconds >>": {
+    "translation": "<< 防守20秒 >>"
+  },
+  "<< Hold for 30 seconds >>": {
+    "translation": "<< 防守30秒 >>"
+  },
+  "<< Hold for 35 seconds>>": {
+    "translation": "<< 防守35秒>>"
+  },
+  "<< Admin select stage square >>": {
+    "translation": "<< 管理员选择了关卡:方形关 >>"
+  },
+  "<< Admin select stage circle >>": {
+    "translation": "<< 管理员选择了关卡:圆形关 >>"
+  },
+  "<< Admin select stage triangle >>": {
+    "translation": "<< 管理员选择了关卡:三角形关 >>"
+  },
+  "<< Admin select the final stage >>": {
+    "translation": "<< 管理员选择了关卡:几何世界 >>"
+  },
+  "<< RTV plz >>": {
+    "translation": "<< 可以RTV了 >>"
+  },
+  "<< ... >>": {
+    "translation": "<< ... >>"
+  },
+  "<< reverse...... >>": {
+    "translation": "<< 失败...... >>"
+  },
+  "<< quiet before the storm...... >>": {
+    "translation": "<< 暴风雨前的宁静...... >>"
+  },
+  "<< Hold for 15 seconds >>": {
+    "translation": "<< 防守15秒 >>"
+  },
+  "<< STAGE COMPLETE >>": {
+    "translation": "<< 通关 >>"
+  },
+  "<< Hold for 35 seconds >>": {
+    "translation": "<< 防守35秒 >>"
+  },
+  "<< 10 seconds >>": {
+    "translation": "<< 剩余10秒 >>"
+  },
+  "- STAGE SQUARE -": {
+    "translation": "- 方形载入 -"
+  },
+  "- STAGE CIRCLE -": {
+    "translation": "- 圆形载入 -"
+  },
+  "- STAGE TRIANGLE -": {
+    "translation": "- 三角形载入 -"
+  },
+  "<< Hold for 25 seconds >>": {
+    "translation": "<< 防守25秒 >>"
+  },
+  "<< Hold for 60 seconds >>": {
+    "translation": "<< 防守60秒 >>"
+  },
+  "<< Platform will move in 8 seconds >>": {
+    "translation": "<< 平台将在8秒后移动 >>"
+  },
+  "*Current Power: 10*": {
+    "translation": "*百分之十*"
+  },
+  "*Current Power: 20*": {
+    "translation": "*百分之二十*"
+  },
+  "*Current Power: 30*": {
+    "translation": "*百分之三十*"
+  },
+  "*Current Power: 40*": {
+    "translation": "*百分之四十*"
+  },
+  "*Current Power: 50*": {
+    "translation": "*百分之五十*"
+  },
+  "*Current Power: 60*": {
+    "translation": "*百分之六十*"
+  },
+  "*Current Power: 70*": {
+    "translation": "*百分之七十*"
+  },
+  "*Current Power: 90*": {
+    "translation": "*百分之九十*"
+  },
+  "*Current Power: 80*": {
+    "translation": "*百分之八十*"
+  },
+  "*Current Power: 100*": {
+    "translation": "*充能完毕*"
+  },
+  "OVERLOAD!!!": {
+    "translation": "超载!!!"
+  },
+  "*Current Power: 0*": {
+    "translation": "*重置*"
+  },
+  "COMPLETE!!!": {
+    "translation": "完成!!!"
+  },
+  "<< Shooting the square to recharge the power of the lift >>": {
+    "translation": "<< 破坏晶体为电梯充能 >>"
+  },
+  "<< The lift will RE-recharge if the power is more than 100 >>": {
+    "translation": "<< 充能完成,电梯将会重启 >>"
+  },
+  "<< TIPS: red square will get 10 power >>": {
+    "translation": "<< 红色: 1/10 >>"
+  },
+  "<< TIPS: green square will get 20 power >>": {
+    "translation": "<< 绿色: 1/5 >>"
+  },
+  "<< TIPS: blue square will get 30 power >>": {
+    "translation": "<< 蓝色: 3/10 >>"
+  },
+  "<< TIPS: white square will refresh other square >>": {
+    "translation": "<< 白色: 刷新晶体 >>"
+  },
+  "<< Fog enable >>": {
+    "translation": "<< 开启雾气模式 >>"
+  }
+}
