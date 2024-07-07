@@ -1128,6 +1128,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_p_v_z": {
+    "certainTimes": [-1],
+    "price": 650,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
   "ze_r_w_b_ulti_cs2": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 600,
