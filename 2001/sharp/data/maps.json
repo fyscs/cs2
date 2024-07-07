@@ -1037,6 +1037,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_paranoia_cs2": {
+    "certainTimes": [-1],
+    "price": 500,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
   "ze_parkers_pit_p": {
     "certainTimes": [-1],
     "price": 300,
