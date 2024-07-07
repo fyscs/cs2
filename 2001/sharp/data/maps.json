@@ -764,6 +764,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_lightnight_v1": {
+    "certainTimes": [-1],
+    "price": 550,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
   "ze_loom": {
     "certainTimes": [-1],
     "price": 300,
