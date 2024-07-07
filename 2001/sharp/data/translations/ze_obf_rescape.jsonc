@@ -18,7 +18,7 @@
   },
   "Last Fight <<< 05 >>>": {
     "translation": "**最后一舞,坚持5秒!**",
-	  "blocked": true
+"blocked": true
   },
   "Zombie Advance": {
     "translation": "**僵尸:嘟嘟嘟嘟嘟嘟嘟嘟~~~**"
@@ -28,7 +28,7 @@
   },
   "DOOR OPEN  <<< 15 >>>": {
     "translation": "门开还有15秒",
-	  "blocked": true
+"blocked": true
   },
   "DOOR OPEN  <<< 10 >>>": {
     "translation": "门开还有10秒",
@@ -57,15 +57,15 @@
   },
   "Wood Break <<< 15 >>>": {
     "translation": "木板还有15秒破碎,
-	"blocked": true
+"blocked": true
   },
   "Wood Break <<< 10 >>>": {
     "translation": "木板还有10秒破碎",
-	"blocked": true
+"blocked": true
   },
   "Wood Break <<< 05 >>>": {
     "translation": "木板还有5秒破碎",
-	"blocked": true
+"blocked": true
   },
   "The Water is going Up": {
     "translation": "**水面正在上升!**"
