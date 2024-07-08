@@ -190,7 +190,7 @@
     "shortName": "祈愿",
     "buttonClass": "func_button",
     "hammerId": "6568",
-    "cooldown": 75,
+    "cooldown": 150,
     "team": 3,
     "knife": false,
     "mode": 2,
@@ -293,5 +293,16 @@
     "knife": false,
     "mode": 0,
     "count": 1
+  },
+  {
+      "name": "王权",
+      "shortName": "王权",
+      "buttonClass": "func_button",
+      "hammerId": "7255",
+      "cooldown": 75,
+      "team": 3,
+      "knife": false,
+      "mode": 2,
+      "count": 1
   }
 ]
