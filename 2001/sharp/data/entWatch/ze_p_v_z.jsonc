@@ -69,7 +69,7 @@
     "shortName": "ZM豌豆射手",
     "buttonClass": "func_button",
     "hammerId": "669",
-    "triggerId": [672],
+    "triggerId": ["672"],
     "cooldown": 10,
     "team": 2,
     "knife": true,
