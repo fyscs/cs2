@@ -295,14 +295,14 @@
     "count": 1
   },
   {
-      "name": "王权",
-      "shortName": "王权",
-      "buttonClass": "func_button",
-      "hammerId": "7255",
-      "cooldown": 75,
-      "team": 3,
-      "knife": false,
-      "mode": 2,
-      "count": 1
+    "name": "王权",
+    "shortName": "王权",
+    "buttonClass": "func_button",
+    "hammerId": "7255",
+    "cooldown": 75,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
   }
 ]
