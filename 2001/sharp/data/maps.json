@@ -701,6 +701,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_infiltration_final_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": false
+  },
   "ze_interception_p": {
     "certainTimes": [-1],
     "price": 300,
