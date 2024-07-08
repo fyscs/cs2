@@ -568,6 +568,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_geometric1": {
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 650,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
   "ze_gods_wrath_p": {
     "certainTimes": [-1],
     "price": 300,
