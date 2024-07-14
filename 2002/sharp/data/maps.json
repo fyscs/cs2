@@ -1,4 +1,11 @@
 {
+  "ttt_backalley": {
+    "certainTimes": [-1],
+    "price": 250,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  }, 
    "ttt_antidote": {
     "certainTimes": [-1],
     "price": 300,
