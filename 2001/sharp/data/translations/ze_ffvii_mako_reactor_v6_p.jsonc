@@ -1,0 +1,271 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "< BAHAMUT CASTED FIRE >": {
+    "translation": "< 巴哈姆特释放火魔法 >"
+  },
+  "< BAHAMUT CASTED ICE >": {
+    "translation": "< 巴哈姆特释放冰魔法 >"
+  },
+  "< BAHAMUT CASTED ELECTRO >": {
+    "translation": "< 巴哈姆特释放雷电魔法 >"
+  },
+  "< BAHAMUT CASTED WIND >": {
+    "translation": "< 巴哈姆特释放风魔法 >"
+  },
+  "< BAHAMUT CASTED EARTH >": {
+    "translation": "< 巴哈姆特释放土魔法 >"
+  },
+  "< BAHAMUT CASTED GRAVITY >": {
+    "translation": "< 巴哈姆特释放黑洞魔法 >"
+  },
+  "< BAHAMUT CASTED BIO >": {
+    "translation": "< 巴哈姆特释放毒魔法 >"
+  },
+  "< BAHAMUT CASTED BARRIER >": {
+    "translation": "< 巴哈姆特释放盾魔法 >"
+  },
+  "< BAHAMUT CASTED AQUA >": {
+    "translation": "< 巴哈姆特释放水魔法 >"
+  },
+  "< BAHAMUT CASTED HEAL >": {
+    "translation": "< 巴哈姆特正在治疗自己 >"
+  },
+  "< BAHAMUT CASTED ULTIMA >": {
+    "translation": "<  巴哈姆特正在释放终极! >"
+  },
+  "< BAHAMUT MIMICS FIRE >": {
+    "translation": "< 巴哈姆特复制火魔法 >"
+  },
+  "< BAHAMUT MIMICS ICE >": {
+    "translation": "< 巴哈姆特复制冰魔法 >"
+  },
+  "< BAHAMUT MIMICS ELECTRO >": {
+    "translation": "< 巴哈姆特复制雷电魔法 >"
+  },
+  "< BAHAMUT MIMICS WIND >": {
+    "translation": "< 巴哈姆特复制风魔法 >"
+  },
+  "< BAHAMUT MIMICS EARTH >": {
+    "translation": "<  巴哈姆特复制土魔法 >"
+  },
+  "< BAHAMUT MIMICS GRAVITY >": {
+    "translation": "< 巴哈姆特复制黑洞魔法 >"
+  },
+  "< BAHAMUT MIMICS BIO >": {
+    "translation": "< 巴哈姆特复制毒魔法 >"
+  },
+  "< BAHAMUT MIMICS BARRIER >": {
+    "translation": "< 巴哈姆特复制盾魔法 >"
+  },
+  "< BAHAMUT MIMICS AQUA >": {
+    "translation": "< 巴哈姆特复制水魔法 >"
+  },
+  "< BAHAMUT MIMICS HEAL >": {
+    "translation": "< 巴哈姆特复制治疗魔法 >"
+  },
+  "< BAHAMUT MIMICS ULTIMA >": {
+    "translation": "< 巴哈姆特正在复制终极 >"
+  },
+  "< BAHAMUT MIMICS FAILS >": {
+    "translation": "< 巴哈姆特复制失败 >"
+  },
+  "** Congratulations! You have beaten the Stage! **": {
+    "translation": "** 恭喜!你已成功征服魔晄炉! **"
+  },
+  "** Next difficulty was chosen by an Administrator! **": {
+    "translation": "** 下个难度需要管理员选择! **"
+  },
+  "** Zombies detected! Mission failed! **": {
+    "translation": "** 僵尸胜利! **"
+  },
+  "FINAL DOORS: 35 SECONDS": {
+    "translation": "最后的大门将在35秒后开启"
+  },
+  "** ADMIN PRESSED KILL ALL BUTTON **": {
+    "translation": "**  管理员按下核爆按钮 **"
+  },
+  "** PREPARE TO DIE **": {
+    "translation": "** 准备核爆 **"
+  },
+  "** An administrator has set [ZM] for next round! **": {
+    "translation": "** 管理员选择[ZM]难度在下一回合 **"
+  },
+  "** An administrator has set [INSANE] for next round! **": {
+    "translation": "** 管理员选择疯狂[INSANE]难度在下一回合 **"
+  },
+  "** An administrator has set [HARD] for next round! **": {
+    "translation": "** 管理员选择困难[HARD]难度在下一回合 **"
+  },
+  "** An administrator has set [NORMAL] for next round! **": {
+    "translation": "**  管理员选择普通[NORMAL]难度在下一回合 **"
+  },
+  "** An administrator has set [EASY] for next round! **": {
+    "translation": "** 管理员选择简单[EASY]难度在下一回合 **"
+  },
+  "** Congratulations! You have beaten [EASY] **": {
+    "translation": "** 恭喜!你已成功征服简单难度 **"
+  },
+  "** Congratulations! You have beaten [NORMAL] **": {
+    "translation": "** 恭喜!你已成功征服普通难度 **"
+  },
+  "** Congratulations! You have beaten [HARD] **": {
+    "translation": "** 恭喜!你已成功征服困难难度 **"
+  },
+  "** Congratulations! You have beaten [EXTREME] **": {
+    "translation": "** 恭喜!你已成功征服极限难度 **"
+  },
+  "** Congratulations! You have beaten [INSANE] **": {
+    "translation": "** 恭喜!你已成功征服疯狂难度 **"
+  },
+  "** Congratulations! You have beaten [ZM] **": {
+    "translation": "** 恭喜!你已成功征服ZM难度 **"
+  },
+  "<<< EASY >>>": {
+    "translation": "<<< 难度:简单 >>>"
+  },
+  "<<< NORMAL >>>": {
+    "translation": "<<< 难度:普通 >>>"
+  },
+  "<<< HARD >>>": {
+    "translation": "<<< 难度:困难 >>>"
+  },
+  "<<< EXTREME >>>": {
+    "translation": "<<< 难度:极限 >>>"
+  },
+  "<<< INSANE >>>": {
+    "translation": "<<< 难度:疯狂 >>>"
+  },
+  "< ZOMBIE MODE >": {
+    "translation": "< 难度:ZM >"
+  },
+  "< TRY TO SURVIVE IN THE CITY AREA >": {
+    "translation": "<  尝试在城市中生存下来 >"
+  },
+  "** Round failed! Zombies have reached the objective! **": {
+    "translation": "** 僵尸比你触发的快多了! **"
+  },
+  "MANUAL OVERRIDE: 5 SECONDS": {
+    "translation": " 5秒后自动启动 "
+  },
+  "MANUAL OVERRIDE: 10 SECONDS": {
+    "translation": " 10秒后自动启动 "
+  },
+  "< Any last words? >": {
+    "translation": "< 有什么遗言吗? >"
+  },
+  "< Ugh... Defeated... >": {
+    "translation": "< 嗯... 失败了... >"
+  },
+  "< Dodge this! >": {
+    "translation": "< 接招吧! >"
+  },
+  "< Fly! >": {
+    "translation": "< 滚开! >"
+  },
+  "< I've been... Defeated? >": {
+    "translation": "< 不可能 我被...击败了? >"
+  },
+  "< Impressive! >": {
+    "translation": "< 不错! >"
+  },
+  "< I understand that you've been looking for me. >": {
+    "translation": "< 我知道你一直在追寻我 >"
+  },
+  "< Hmm... I was expecting more... >": {
+    "translation": "< 真失望...我原本期待你更强... >"
+  },
+  "< Only the chosen may survive! >": {
+    "translation": "< 只有被神选中之人才配活下来! >"
+  },
+  "< Hmm... Pitiful fool. >": {
+    "translation": "< 嗯...可怜的蠢货 >"
+  },
+  "< goodbye! >": {
+    "translation": "< 永别了! >"
+  },
+  "< Seems I do not have to hold back. >": {
+    "translation": "< 我会毫不犹豫杀死你 >"
+  },
+  "< I'll see you again. >": {
+    "translation": "< 你不会等太久的... >"
+  },
+  "< Slow! >": {
+    "translation": "< 太慢了w! >"
+  },
+  "< Solitude isn't heroism. >": {
+    "translation": "< 英雄是不会孤单的. >"
+  },
+  "< Too late for laments! >": {
+    "translation": "< 丧钟为你而鸣 >"
+  },
+  "custom.sfx.sephiroth.11_say_goodbye": {
+    "translation": " 再见 "
+  },
+  "< CARGO LIFT STARTS IN 5 SECONDS >": {
+    "translation": "< 载货电梯将于5秒后启动 >"
+  },
+  "< BLAST DOORS OPEN IN 5 SECONDS >": {
+    "translation": "< 防爆门在5秒内打开 >"
+  },
+  "< BLAST DOORS OPEN IN 40 SECONDS >": {
+    "translation": "< 防爆门在40秒内打开 >"
+  },
+  "*** THE BOMB WAS DESTROYED ***": {
+    "translation": "*** 炸弹已被摧毁 ***"
+  },
+  "** An administrator has set [EXTREME] for next round! **": {
+    "translation": "** 管理员选择极限[EXTREME]难度在下一回合 **"
+  },
+  "** MIMIC Materia has been found. **": {
+    "translation": "** 复制魔法已习得  **"
+  },
+  "ELEVATOR LEAVING: 10 SECONDS": {
+    "translation": " 电梯10秒后离开 "
+  },
+  "ELEVATOR DOORS: 5 SECONDS": {
+    "translation": " 电梯5秒后离开 "
+  },
+  "** BIO Materia has been found. **": {
+    "translation": "** 毒魔法已习得 **"
+  },
+  "** BARRIER Materia has been found. **": {
+    "translation": "** 盾魔法已习得 **"
+  },
+  "** ULTIMA Materia has been found. **": {
+    "translation": "** 终极魔法已习得 **"
+  },
+  "** WIND Materia has been found. **": {
+    "translation": "** 飓风魔法已习得 **"
+  },
+  "** HEAL Materia has been found. **": {
+    "translation": "** 治疗魔法已习得 **"
+  },
+  "** ICE Materia has been found. **": {
+    "translation": "** 冰魔法已习得 **"
+  },
+  "** AQUA Materia has been found. **": {
+    "translation": "** 水魔法已习得  **"
+  },
+  "** FIRE Materia has been found. **": {
+    "translation": "** 火魔法已习得 **"
+  },
+  "** ELECTRO Materia has been found. **": {
+    "translation": "** 电魔法已习得 **"
+  },
+  "** EARTH Materia has been found. **": {
+    "translation": "** 土魔法已习得 **"
+  },
+  "** GRAVITY Materia has been found. **": {
+    "translation": "** 黑洞魔法已习得 **"
+  }
+}
