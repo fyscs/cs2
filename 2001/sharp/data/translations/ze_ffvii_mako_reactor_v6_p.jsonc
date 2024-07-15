@@ -200,16 +200,13 @@
     "translation": "< 你不会等太久的... >"
   },
   "< Slow! >": {
-    "translation": "< 太慢了w! >"
+    "translation": "< 太慢了! >"
   },
   "< Solitude isn't heroism. >": {
     "translation": "< 英雄是不会孤单的. >"
   },
   "< Too late for laments! >": {
     "translation": "< 丧钟为你而鸣 >"
-  },
-  "custom.sfx.sephiroth.11_say_goodbye": {
-    "translation": " 再见 "
   },
   "< CARGO LIFT STARTS IN 5 SECONDS >": {
     "translation": "< 载货电梯将于5秒后启动 >"
