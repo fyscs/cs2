@@ -1,0 +1,295 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** A player has adquired GRAVITY MATERIA **": {
+    "translation": "** 一名玩家获得了黑洞神器 **"
+  },
+  "** A player has adquired ULTIMA MATERIA **": {
+    "translation": "**  一名玩家获得了终极神器 **"
+  },
+  "** A player has adquired FIRE MATERIA **": {
+    "translation": "**  一名玩家获得了火神器 **"
+  },
+  "** A player has adquired EARTH MATERIA **": {
+    "translation": "** 一名玩家获得了土神器 **"
+  },
+  "** A player has adquired WIND MATERIA **": {
+    "translation": "** 一名玩家获得了风神器 **"
+  },
+  "** A player has adquired ELECTRO MATERIA **": {
+    "translation": "** 一名玩家获得了电神器 **"
+  },
+  "** A player has adquired ICE MATERIA **": {
+    "translation": "**  一名玩家获得了冰神器 **"
+  },
+  "** A player has adquired HEAL MATERIA **": {
+    "translation": "**  一名玩家获得了治疗神器 **"
+  },
+  "** BAHAMUT IS DEAD ** KEEP RUNNING **": {
+    "translation": "** 巴哈姆特已死-往上跑! **"
+  },
+  "**** MAP BY: Hannibal[SPA] (Rafuron) ****": {
+    "translation": "**** 地图作者: Hannibal[SPA] (Rafuron) 地图翻译:小妖梦@风云社 ****"
+  },
+  "** Tips and Adjustements: Maese Danielot **": {
+    "translation": "** 特别感谢: Maese Danielot **"
+  },
+  "** Optimization and Helping: Kaemon **": {
+    "translation": "** 特别感谢: Kaemon 优化和帮助**"
+  },
+  "**Door is opening in 10 seconds**": {
+    "translation": "**大门还有10秒开**"
+  },
+  "**Door is open**": {
+    "translation": "**门开了**"
+  },
+  "**Elevator is leaving in 10s**": {
+    "translation": "**电梯将在10秒后离开**"
+  },
+  "** We have reached the core  ...**": {
+    "translation": "** 我们已经到达魔光炉的核心了  ...**"
+  },
+  "** ... Cloud is planting the bomb **": {
+    "translation": "** ... 正在安放炸弹,是时候该结束一切了! **"
+  },
+  "** Bomb has been planted  **  Run **": {
+    "translation": "** 炸弹已被安放-快走! **"
+  },
+  "** Well done! Door is opening in 10 seconds **": {
+    "translation": "** 做得好!大门将在10秒内打开 **"
+  },
+  "**Keep shooting ! We dont know what it can do **": {
+    "translation": "**继续射击!我们还不知道他会做什么! **"
+  },
+  "** EXPLOSION IN 145 SECONDS **": {
+    "translation": "** 距离魔光炉爆炸还剩一百四十五秒! **"
+  },
+  "**  10 SECONDS LEFT **": {
+    "translation": "**  剩余10秒! **"
+  },
+  "**  20 SECONDS LEFT **": {
+    "translation": "**  剩余20秒! **",
+    "blocked": true
+  },
+  "**  30 SECONDS LEFT **": {
+    "translation": "**  剩余30秒! **",
+    "blocked": true
+  },
+  "**  40 SECONDS LEFT **": {
+    "translation": "**  剩余40秒! **",
+    "blocked": true
+  },
+  "**  50 SECONDS LEFT **": {
+    "translation": "**  剩余50秒! **",
+    "blocked": true
+  },
+  "**  60 SECONDS LEFT **": {
+    "translation": "**  剩余60秒! **",
+    "blocked": true
+  },
+  "**  70 SECONDS LEFT **": {
+    "translation": "**  剩余70秒! **",
+    "blocked": true
+  },
+  "**  80 SECONDS LEFT **": {
+    "translation": "**  剩余80秒! **",
+    "blocked": true
+  },
+  "**  90 SECONDS LEFT **": {
+    "translation": "**  剩余90秒! **",
+    "blocked": true
+  },
+  "**  100 SECONDS LEFT **": {
+    "translation": "**  剩余100秒! **",
+    "blocked": true
+  },
+  "**  110 SECONDS LEFT **": {
+    "translation": "**  剩余110秒! **"
+  },
+  "** EXPLOSION IN 120 SECONDS **": {
+    "translation": "** 距离魔光炉爆炸还剩一百二十秒! **"
+  },
+  "** EXPLOSION IN 130 SECONDS **": {
+    "translation": "** 距离魔光炉爆炸还剩一百三十秒! **"
+  },
+  "** 30 SECONDS LEFT **": {
+    "translation": "** 还剩30秒 **"
+  },
+  "**  120 SECONDS LEFT **": {
+    "translation": "**  剩余120秒 **"
+  },
+  "** 20 SECONDS LEFT **": {
+    "translation": "** 还有20秒 **"
+  },
+  "** 10 SECONDS LEFT **": {
+    "translation": "** 还有10秒 **"
+  },
+  "**Door is opening in 5**": {
+    "translation": "**5秒后开门**"
+  },
+  "** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **": {
+    "translation": "** 大门将在35秒后打开(前往控制室的可以更早的打开大门) **"
+  },
+  "** Door is opening in 7 seconds **": {
+    "translation": "** 7秒后开门 **"
+  },
+  "**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **": {
+    "translation": "**恭喜你!你成功通关NORMAL 模式!更难的挑战将从HARD模式开始! **"
+  },
+  "** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! **": {
+    "translation": "** 成功!你通关了HARD模式-下一关为EX模式-祝你好运 **"
+  },
+  "** Dont stop shooting ! Dont let him attack !": {
+    "translation": "** 不要停止射击!别给巴哈姆特喘息的机会 !"
+  },
+  "** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **": {
+    "translation": "** 提示:手雷将对boss造成更高的伤害 **"
+  },
+  "** RUN! **": {
+    "translation": "** 快跑! **"
+  },
+  "** ZOMBIES HAVE INFECTED THE BUNKER **": {
+    "translation": "** 僵尸胜利 **"
+  },
+  "** Bahamut is going to cast Mega Flare !! Shoot !! **": {
+    "translation": "** 巴哈姆特正在施放百万核爆 !! 朝他开枪!! **"
+  },
+  "** Bahamut is in attack position ** Keep firing !! **": {
+    "translation": "** 巴哈姆特处于攻击位置**继续朝他射击 !! **"
+  },
+  "**Bahamut has been defeated ! ** Go go! Run upstairs ! **": {
+    "translation": "**巴哈姆特已经死亡**逃离此地! **"
+  },
+  "** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **": {
+    "translation": "** 巴哈姆特即将要消灭我们所有人!-不要停止射击 **"
+  },
+  "** The monster is going to attack ! **": {
+    "translation": "** 这个怪物准备攻击我们 ! **"
+  },
+  "** YOU DID IT! YOU WON EXTREME ! YOU OWN! **": {
+    "translation": "** 做到了!你成功通关EX模式!-你无敌了! **"
+  },
+  "**Nice done! You interrumped Sephiroth s attack**": {
+    "translation": "**干得好!你打断了萨菲罗斯的攻击**"
+  },
+  "** YOU ARE THE MASTERS OF MAKO REACTOR! **": {
+    "translation": "** 你就是MAKO唯一のking! **"
+  },
+  "**Door opening in 10 seconds**": {
+    "translation": "**大门将在10秒后打开**"
+  },
+  "** DOOR OPENS IN 5 s **": {
+    "translation": "** 大门将在5秒后打开 **"
+  },
+  "**Superior door opening in 30 seconds**": {
+    "translation": "**门将在30秒后打开**"
+  },
+  "** BAHAMUT IS CASTING ** PREPARE YOURSELF **": {
+    "translation": "** 做好准备迎接巴哈姆特 **"
+  },
+  "** BAHAMUT HAS CAST FIRE! **": {
+    "translation": "** 巴哈姆特正在施放火魔法! **"
+  },
+  "** BAHAMUT HAS CAST ICE **": {
+    "translation": "** 巴哈姆特正在施放冰魔法! **"
+  },
+  "** BAHAMUT HAS CAST ELECTRO! **": {
+    "translation": "** 巴哈姆特正在施放电魔法! **"
+  },
+  "** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **": {
+    "translation": "** 巴哈姆特正在施放土魔法 ** 打碎它! **"
+  },
+  "** BAHAMUT HAS CAST WIND **": {
+    "translation": "** 巴哈姆特正在施放风魔法 **"
+  },
+  "** BAHAMUT HAS HEALED 300 HIT POINTS**": {
+    "translation": "** 巴哈姆特恢复了三百血**"
+  },
+  "** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **": {
+    "translation": "** 警告!巴哈姆特正在施放终极魔法-准备使用治疗 **"
+  },
+  "** ULTIMA CAST WILL SUCCED IN 10 SECONDS **": {
+    "translation": "** 终极将在10秒施放 **"
+  },
+  "** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **": {
+    "translation": "** 所有的COWBELLS都已被找到** 巴哈姆特将不会再出技能 **"
+  },
+  "** BAHAMUT HAS CAST GRAVITY **": {
+    "translation": "** 巴哈姆特正在施放黑洞魔法 **"
+  },
+  "** 3 COWBELLS LEFT! **": {
+    "translation": "** 剩余30秒! **"
+  },
+  "** 2 COWBELLS LEFT! **": {
+    "translation": "** 还剩下2个COWBELLS! **"
+  },
+  "** 1 COWBELLS LEFT!!! **": {
+    "translation": "** 还剩下1个COWBELLS!!!! **"
+  },
+  "** ADMIN PRESSED KILL ALL BUTTON **": {
+    "translation": "** 管理员按下了处死所有人的按钮 **"
+  },
+  "**Its dead ** Go go! Run upstairs ! **": {
+    "translation": "**它死了,快往上跑 ! **"
+  },
+  "** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**": {
+    "translation": "** 提示:EX模式开始地图颜色将会发生变化,如果要关闭,请在控制台输入mat_colorcorrection 0**"
+  },
+  "**CURRENT DIFFICULTY ** >> EXTREME II << **": {
+    "translation": "**当前难度 ** >> EXTREME II << **"
+  },
+  "** NO MORE COWBELL BONUS **": {
+    "translation": "** COWBELL已被全部拾取**"
+  },
+  "** HUMAN VICTORY IN 20 SECONDS **": {
+    "translation": "** 距离人类胜利还有20秒 **"
+  },
+  "** HUMAN VICTORY IN 1 MINUTES **": {
+    "translation": "** 距离人类胜利还有一分钟 **"
+  },
+  "** HUMAN VICTORY IN 2 MINUTES **": {
+    "translation": "** 距离人类胜利还有二分钟 **"
+  },
+  "** HUMAN VICTORY IN 3 MINUTES **": {
+    "translation": "** 距离人类胜利还有三分钟 **"
+  },
+  "** HUMAN VICTORY IN 4 MINUTES **": {
+    "translation": "** 距离人类胜利还有四分钟 **"
+  },
+  "** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **": {
+    "translation": "** ZM模式-找个地方存活下去 **"
+  },
+  "** MAP COMPLETED  ** ZM ROUNDS **": {
+    "translation": "** 全图通关 **"
+  },
+  "**CURRENT DIFFICULTY ** >> HARD << **": {
+    "translation": "**当前难度 ** >> HARD模式 << **"
+  },
+  "**CURRENT DIFFICULTY ** >> EXTREME << **": {
+    "translation": "**当前难度 ** >> EXTREME模式  << **"
+  },
+  "**CURRENT DIFFICULTY ** >> NORMAL << **": {
+    "translation": "**当前难度 ** >> NORMAL模式 << **"
+  },
+  "*** MATERIAS AT LVL 2 ***": {
+    "translation": "*** 当前神器等级:二 ***"
+  },
+  "*** MATERIAS AT LVL 1 ***": {
+    "translation": "*** 当前神器等级:一 ***"
+  },
+  "*** MATERIAS AT LVL 3 ***": {
+    "translation": "*** 当前神器等级:三 ***"
+  },
+  "** Server settings initialized **": {
+    "translation": "** 服务器设置已初始化 **"
+  }
+}
