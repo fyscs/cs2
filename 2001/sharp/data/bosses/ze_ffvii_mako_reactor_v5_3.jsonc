@@ -20,21 +20,26 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
+  "Breakables": [
+    {
+      "target": "bahamutend",
+      "display": "巴哈姆特"
+    },
+    {
+      "target": "Monstruo_Breakable",
+      "display": "八脚叫兽"
+    }
+  ],
   "Counters": [
     {
       "iterator": "bahamut_vida",
-      "hitbox": "bahamut",
-      "display": "Bahamut"
-    },
-    {
-      "iterator": "bahamut_vida",
-      "hitbox": "SETH_FIX_BAHA_HITBOX",
+      "hitbox": "巴哈姆特",
       "display": "Bahamut"
     }
   ],
   "Monsters": [
     {
-      "display": "Seph",
+      "display": "萨菲罗斯",
       "identity": "3531"
     }
   ]
