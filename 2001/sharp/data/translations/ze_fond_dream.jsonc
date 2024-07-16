@@ -1,0 +1,73 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**** 规流飞梭 ****": {
+    "translation": "**** 规流飞梭 ****"
+  },
+  "**** 倒逆空雨 ****": {
+    "translation": "**** 倒逆空雨 ****"
+  },
+  "**** 等价之钟 ****": {
+    "translation": "**** 等价之钟 ****"
+  },
+  "**** 时空教条 ****": {
+    "translation": "**** 时空教条 ****"
+  },
+  "**** 时空潮涌 ****": {
+    "translation": "**** 时空潮涌 ****"
+  },
+  "**** 拓时之空 ****": {
+    "translation": "**** 拓时之空 ****"
+  },
+  "**** 拓空 ****": {
+    "translation": "**** 拓空 ****"
+  },
+  "**** 堕时 ****": {
+    "translation": "**** 堕时 ****"
+  },
+  "**** 飞空之梭 ****": {
+    "translation": "**** 飞空之梭 ****"
+  },
+  "**** 空间涌动 ****": {
+    "translation": "**** 空间涌动 ****"
+  },
+  "**** 迭代空壳 ****": {
+    "translation": "**** 迭代空壳 ****"
+  },
+  "\"10 seconds\"": {
+    "translation": "\"剩余10秒\""
+  },
+  "**** load level 1 ****": {
+    "translation": "**** 正在加载 关卡一 ****"
+  },
+  "**** load level 2 ****": {
+    "translation": "**** 正在加载 关卡二 ****"
+  },
+  "**** load level 3 ****": {
+    "translation": "**** 正在加载 关卡三 ****"
+  },
+  "**** load RTV ****": {
+    "translation": "**** 加载 RTV关 ****"
+  },
+  "**** level 2 ****": {
+    "translation": "**** 关卡二 ****"
+  },
+  "**** level 1 ****": {
+    "translation": "**** 关卡一 ****"
+  },
+  "**** level 3 ****": {
+    "translation": "**** 关卡三 ****"
+  },
+  "**** level RTV ****": {
+    "translation": "**** RTV关 ****"
+  }
+}
