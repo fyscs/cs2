@@ -33,8 +33,8 @@
   "Counters": [
     {
       "iterator": "bahamut_vida",
-      "hitbox": "巴哈姆特",
-      "display": "Bahamut"
+      "hitbox": "bahamut",
+      "display": "巴哈姆特"
     }
   ],
   "Monsters": [
