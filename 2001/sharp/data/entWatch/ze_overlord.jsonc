@@ -304,5 +304,17 @@
     "knife": false,
     "mode": 2,
     "count": 1
+  },
+  {
+    "name": "白金铠甲",
+    "shortName": "白金铠甲",
+    "buttonClass": "game_ui",
+    "hammerId": "7537",
+    "triggerId": ["7535"],
+    "cooldown": 8,
+    "team": 3,
+    "knife": true,
+    "mode": 2,
+    "count": 1
   }
 ]
