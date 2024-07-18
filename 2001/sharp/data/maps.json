@@ -336,6 +336,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_conflict": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 70,
+    "nomination": false,
+    "admin": false
+  },
   "ze_dangerous_waters_p": {
     "certainTimes": [-1],
     "price": 300,
