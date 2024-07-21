@@ -1,0 +1,148 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "~ Upper door open in 25s ~": {
+    "translation": "上层的门还有25秒打开"
+  },
+  "~ Upper door is now open ~": {
+    "translation": "上层的门打开了"
+  },
+  "~ Bottom door open in 25s ~": {
+    "translation": "底层的门还有25秒打开"
+  },
+  "~ Bottom door is now open ~": {
+    "translation": "底层的门打开了"
+  },
+  "~ Last portal open in 15s ~": {
+    "translation": "最后的传送15秒后启动"
+  },
+  "~ Last portal is now open ~": {
+    "translation": "传送已启动!"
+  },
+  "~ Upper portal open in 20s ~": {
+    "translation": "上层的传送还有20秒开启"
+  },
+  "~ Upper portal is now open ~": {
+    "translation": "上层的传送已开启"
+  },
+  "~ Bottom portal open in 20s ~": {
+    "translation": "底层的传送还有20秒开启"
+  },
+  "~ Bottom portal is now open ~": {
+    "translation": "底层的传送已开启"
+  },
+  "Blaze an immortal": {
+    "translation": ">>化作永恒..."
+  },
+  "Flame": {
+    "translation": ">>之火"
+  },
+  "Blaze an immortal flame": {
+    "translation": ">>化作永恒的火焰"
+  },
+  "~ 8 ~": {
+    "translation": "感谢游玩...~ 8 ~"
+  },
+  "Shine like the sun": {
+    "translation": ">>如烈日闪耀"
+  },
+  "Piercing the sky": {
+    "translation": ">>穿越苍穹"
+  },
+  "Pure hearts can never": {
+    "translation": ">>纯洁之心永远不会.."
+  },
+  "Die": {
+    "translation": ">>死去.."
+  },
+  "Rise from the fire": {
+    "translation": ">>浴火重生"
+  },
+  "Begin again": {
+    "translation": ">>重新开始"
+  },
+  "~ Portal will close in 30s ~": {
+    "translation": "传送还有30秒关闭"
+  },
+  "~ Last afk tele enable in 5s ~": {
+    "translation": "最后一处AFK传送5秒后启动"
+  },
+  "~ Portal will close in 10s ~": {
+    "translation": "传送于10秒后关闭"
+  },
+  "Truth be told": {
+    "translation": ">>诉说真相之路"
+  },
+  "It's a lonely road": {
+    "translation": ">>是孤独的"
+  },
+  "Chasing your dreams": {
+    "translation": ">>去追逐你的梦想"
+  },
+  "And all that we are": {
+    "translation": ">>我们拥有的一切"
+  },
+  "And could ever be": {
+    "translation": ">>我们能做的一切"
+  },
+  "Is within our reach": {
+    "translation": ">>都终有所限"
+  },
+  "Ignite the fire": {
+    "translation": ">>点燃圣火"
+  },
+  "Pure hearts can never expire": {
+    "translation": ">>纯洁之心永垂不朽"
+  },
+  "May the bridges that we burn": {
+    "translation": ">>愿我们点燃的桥梁"
+  },
+  "Light the way": {
+    "translation": ">>照亮前路"
+  },
+  "From the ash we rise": {
+    "translation": ">>我们从灰烬之中"
+  },
+  "Like phoenix taking flights": {
+    "translation": ">>如凤凰般重生"
+  },
+  "F L A M E": {
+    "translation": ">>燃尽永恒"
+  },
+  "Blaze like an immortal flame": {
+    "translation": ">>化作永恒的火焰"
+  },
+  "Waited all our lives": {
+    "translation": ">>漫长的等待"
+  },
+  "Just to burn this bright": {
+    "translation": ">>只为有朝一日熊熊燃烧"
+  },
+  "-Map by Chartapilus-": {
+    "translation": "地图制作:Chartapilus- 文本翻译:Lia"
+  },
+  "~ Door will open in 15s ~": {
+    "translation": "门还有15秒打开"
+  },
+  "~ Door is now open ~": {
+    "translation": "门打开了"
+  },
+  "~ Upper door open in 30s ~": {
+    "translation": "上层的门还有30秒打开"
+  },
+  "~ Door will open in 25s ~": {
+    "translation": "门还有25秒打开"
+  },
+  "~ Afk tele enable in 10s ~": {
+    "translation": "AFK传送还有10秒启动"
+  }
+}
