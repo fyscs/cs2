@@ -66,5 +66,8 @@
   },
   "**** level RTV ****": {
     "translation": "**** RTV关 ****"
-  }
+  },
+  "10 seconds": {
+    "translation": "还有10秒"
+  },
 }
