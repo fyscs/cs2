@@ -17,7 +17,7 @@
     "translation": "**杰内西斯被打败了,回到电梯上**"
   },
   "[Cloud] Really do not think that he could lose that easy.. Anyways the base will explode soon.": {
-    "translation": "[克劳德] 真没想到他这么弱鸡,,算了不管了,神罗基地马上炸了"
+    "translation": "[克劳德] 真没想到他这么弱鸡..算了不管了,神罗基地马上炸了"
   },
   "[Cloud] See you on the top evacuation point.": {
     "translation": "[克劳德] 在最高点见."
@@ -41,7 +41,7 @@
     "translation": "**一名玩家拾取了凤凰!**"
   },
   "**THE WINNERS HAD SELECTED THE MODE**": {
-    "translation": "**该胜者选择了**"
+    "translation": "**该胜者选择了这一模式**"
   },
   "**Gi Nattak is using fire**": {
     "translation": "**吉纳塔克使用了火焰燃烧**"
@@ -128,7 +128,7 @@
     "translation": "**去往神罗的飞船将在30秒后抵达**"
   },
   "**The airship is right here...**": {
-    "translation": "**飞船到了......**"
+    "translation": "**飞船到了...**"
   },
   "[Cloud] Hold on! I will take you on the airship.. And then we will go to Shinra base.": {
     "translation": "[克劳德]等等!你也上来!我们得一块去神罗基地!."
@@ -182,7 +182,7 @@
     "translation": "**管理员通过调关房调整了关卡**"
   },
   "**Zombies are coming. Defend Cosmo Bar for 30 seconds before we open the back door**": {
-    "translation": "**僵尸来了,在我们打开后门之前,我们最好防守住酒吧30秒**"
+    "translation": "**僵尸来了,在我们打开后门之前,我们最好守住酒吧30秒**"
   },
   "**FALL BACK**": {
     "translation": "**撤退**"
@@ -278,7 +278,7 @@
     "translation": "**困难模式通过.EX模式加载中 **"
   },
   "** EXTREME mode is beaten. Get ready for your last challenge ...**": {
-    "translation": "** EX已通关. 准备好迎接你最后的挑战...RAGE模式加载中 ...**"
+    "translation": "** EX已通关. 准备好迎接你最后的挑战...狂暴模式加载中 ...**"
   },
   "**ZE_FFVII_COSMO_CANYON**": {
     "translation": "**最终幻想七: 宇宙峡谷**"
@@ -329,7 +329,7 @@
     "translation": "[克劳德] 媽的,还是给他跑了...我猜神罗会注意到峡谷的巴哈姆特..我们又有事情干了.."
   },
   "**RAGE MODE**": {
-    "translation": "**难度: RAGE**"
+    "translation": "**难度:狂暴**"
   },
   "**Ultimate MODE**": {
     "translation": "**难度:最终**"
