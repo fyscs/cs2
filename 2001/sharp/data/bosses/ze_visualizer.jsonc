@@ -26,12 +26,17 @@
       "mass": 90,
       "counter": "boss_healthcount",
       "hitbox": "boss_physbox",
-      "display": "Sphere"
+      "display": "Ball⑥"
     },
     {
       "iterator": "stage2_track_counter",
       "hitbox": "stage2_track_breakable",
-      "display": "Ball"
+      "display": "Ball②"
+    },
+    {
+      "iterator": "s5_sphere_boss_counter",
+      "hitbox": "s5_sphereboss_breakables",
+      "display": "Ball⑤"
     }
   ]
 }
