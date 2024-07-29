@@ -1569,6 +1569,13 @@
     "nomination": true,
     "admin": true
   },
+  "ze_undertale_sans_final": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
   "ze_upwards_p": {
     "certainTimes": [-1],
     "price": 300,
