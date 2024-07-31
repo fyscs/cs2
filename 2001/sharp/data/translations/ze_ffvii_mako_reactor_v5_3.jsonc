@@ -14,10 +14,10 @@
     "translation": "** 一名玩家获得了黑洞神器 **"
   },
   "** A player has adquired ULTIMA MATERIA **": {
-    "translation": "**  一名玩家获得了终极神器 **"
+    "translation": "** 一名玩家获得了终极神器 **"
   },
   "** A player has adquired FIRE MATERIA **": {
-    "translation": "**  一名玩家获得了火神器 **"
+    "translation": "** 一名玩家获得了火神器 **"
   },
   "** A player has adquired EARTH MATERIA **": {
     "translation": "** 一名玩家获得了土神器 **"
@@ -29,13 +29,13 @@
     "translation": "** 一名玩家获得了电神器 **"
   },
   "** A player has adquired ICE MATERIA **": {
-    "translation": "**  一名玩家获得了冰神器 **"
+    "translation": "** 一名玩家获得了冰神器 **"
   },
   "** A player has adquired HEAL MATERIA **": {
-    "translation": "**  一名玩家获得了治疗神器 **"
+    "translation": "** 一名玩家获得了治疗神器 **"
   },
   "** BAHAMUT IS DEAD ** KEEP RUNNING **": {
-    "translation": "** 巴哈姆特已死-快跑! **"
+    "translation": "** 巴哈姆特已死-往上跑! **"
   },
   "**** MAP BY: Hannibal[SPA] (Rafuron) ****": {
     "translation": "**** 地图作者: Hannibal[SPA] (Rafuron) 地图翻译:小妖梦@风云社 ****"
@@ -44,7 +44,7 @@
     "translation": "** 特别感谢: Maese Danielot **"
   },
   "** Optimization and Helping: Kaemon **": {
-    "translation": "** 特别感谢: Kaemon 优化和帮助**"
+    "translation": "** 特别感谢: Kaemon 优化和帮助 **"
   },
   "**Door is opening in 10 seconds**": {
     "translation": "**大门还有10秒开**"
@@ -59,7 +59,7 @@
     "translation": "** 我们已经到达魔光炉的核心了  ...**"
   },
   "** ... Cloud is planting the bomb **": {
-    "translation": "** ... 正在安放炸弹,是时候结束这一切了! **"
+    "translation": "** ... 正在安放炸弹,是时候该结束一切了 **"
   },
   "** Bomb has been planted  **  Run **": {
     "translation": "** 炸弹已被安放-快走! **"
@@ -67,8 +67,11 @@
   "** Well done! Door is opening in 10 seconds **": {
     "translation": "** 做得好!大门将在10秒内打开 **"
   },
+  "** Go to the control room and try to open it earlier **": {
+    "translation": "** 提示:控制室的开关可以更早的打开大门  **"
+  },
   "**Keep shooting ! We dont know what it can do **": {
-    "translation": "**继续射击!我们还不知道他会做什么! **"
+    "translation": "**保持火力!我们还不知道他会做什么! **"
   },
   "** EXPLOSION IN 145 SECONDS **": {
     "translation": "** 距离魔光炉爆炸还剩一百四十五秒! **"
@@ -136,26 +139,26 @@
   "**Door is opening in 5**": {
     "translation": "**5秒后开门**"
   },
-  "** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **": {
-    "translation": "** 大门将在35秒后打开(前往控制室的可以更早的打开大门) **"
+  "** DOOR OPENS IN 35 S **": {
+    "translation": "** 大门将在35秒后开启 **"
   },
   "** Door is opening in 7 seconds **": {
     "translation": "** 7秒后开门 **"
   },
   "**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **": {
-    "translation": "**恭喜你!你成功通关NORMAL 模式!更难的挑战将从HARD模式开始! **"
+    "translation": "**恭喜你!你成功通关NORMAL模式!更难的挑战将从HARD模式开始! **"
   },
   "** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! **": {
     "translation": "** 成功!你通关了HARD模式-下一关为EX模式-祝你好运 **"
   },
   "** Dont stop shooting ! Dont let him attack !": {
-    "translation": "** 不要停止射击!别给巴哈姆特喘息的机会 !"
+    "translation": "** 保持火力!别给巴哈姆特喘息的机会 !"
   },
   "** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **": {
     "translation": "** 提示:手雷将对boss造成更高的伤害 **"
   },
   "** RUN! **": {
-    "translation": "** 快跑! **"
+    "translation": "** 快跑 **"
   },
   "** ZOMBIES HAVE INFECTED THE BUNKER **": {
     "translation": "** 僵尸胜利 **"
@@ -164,13 +167,13 @@
     "translation": "** 巴哈姆特正在施放百万核爆 !! 朝他开枪!! **"
   },
   "** Bahamut is in attack position ** Keep firing !! **": {
-    "translation": "** 巴哈姆特处于攻击位置**继续朝他射击 !! **"
+    "translation": "** 巴哈姆特正在蓄力**继续朝他射击 !! **"
   },
   "**Bahamut has been defeated ! ** Go go! Run upstairs ! **": {
     "translation": "**巴哈姆特已经死亡**逃离此地! **"
   },
   "** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **": {
-    "translation": "** 巴哈姆特即将要消灭我们所有人!-不要停止射击 **"
+    "translation": "** 巴哈姆特即将要消灭我们所有人!-快开枪! **"
   },
   "** The monster is going to attack ! **": {
     "translation": "** 这个怪物准备攻击我们 ! **"
@@ -194,19 +197,19 @@
     "translation": "**门将在30秒后打开**"
   },
   "** BAHAMUT IS CASTING ** PREPARE YOURSELF **": {
-    "translation": "** 巴哈姆特准备施放新一轮技能 **"
+    "translation": "** 做好准备迎接巴哈姆特 **"
   },
   "** BAHAMUT HAS CAST FIRE! **": {
-    "translation": "** 巴哈姆特正在施放火魔法! **"
+    "translation": "** 巴哈姆特正在施放火魔法!!-往后退! **"
   },
   "** BAHAMUT HAS CAST ICE **": {
     "translation": "** 巴哈姆特正在施放冰魔法! **"
   },
   "** BAHAMUT HAS CAST ELECTRO! **": {
-    "translation": "** 巴哈姆特正在施放电魔法! **"
+    "translation": "** 巴哈姆特正在施放电魔法!- 跳上高处! **"
   },
   "** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **": {
-    "translation": "** 巴哈姆特正在施放土魔法 ** 打碎它! **"
+    "translation": "** 巴哈姆特正在施放土魔法- 打碎它! **"
   },
   "** BAHAMUT HAS CAST WIND **": {
     "translation": "** 巴哈姆特正在施放风魔法 **"
@@ -215,25 +218,25 @@
     "translation": "** 巴哈姆特恢复了三百血**"
   },
   "** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **": {
-    "translation": "** 警告!巴哈姆特正在施放终极魔法-准备使用治疗 **"
+    "translation": "** 警告!巴哈姆特正在施放红终!!!- 准备使用治疗神器  **"
   },
   "** ULTIMA CAST WILL SUCCED IN 10 SECONDS **": {
-    "translation": "** 终极将在10秒施放 **"
+    "translation": "** 终极将在10秒后爆炸 **"
   },
   "** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **": {
     "translation": "** 所有的COWBELLS都已被找到** 巴哈姆特将不会再出技能 **"
   },
   "** BAHAMUT HAS CAST GRAVITY **": {
-    "translation": "** 巴哈姆特正在施放黑洞魔法 **"
+    "translation": "** 巴哈姆特正在施放黑洞魔法-按住S抵抗它! **"
   },
   "** 3 COWBELLS LEFT! **": {
-    "translation": "** 剩余30秒! **"
+    "translation": "** 还剩下3个COWBELLS! **"
   },
   "** 2 COWBELLS LEFT! **": {
     "translation": "** 还剩下2个COWBELLS! **"
   },
   "** 1 COWBELLS LEFT!!! **": {
-    "translation": "** 还剩下1个COWBELLS!!!! **"
+    "translation": "** 还剩下1个COWBELLS!! **"
   },
   "** ADMIN PRESSED KILL ALL BUTTON **": {
     "translation": "** 管理员按下了处死所有人的按钮 **"
@@ -241,14 +244,14 @@
   "**Its dead ** Go go! Run upstairs ! **": {
     "translation": "**它死了,快往上跑 ! **"
   },
-  "** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**": {
-    "translation": "** 提示:EX模式开始地图颜色将会发生变化,如果要关闭,请在控制台输入mat_colorcorrection 0**"
+  "** COLOR DUE TO EXTREME DIFFICULTY **": {
+    "translation": "**提示:EX模式开始地图颜色将会发生变化 **"
   },
   "**CURRENT DIFFICULTY ** >> EXTREME II << **": {
     "translation": "**当前难度 ** >> EXTREME II << **"
   },
   "** NO MORE COWBELL BONUS **": {
-    "translation": "** COWBELL已被全部拾取**"
+    "translation": "** COWBELL已被全部拾取,彩蛋已触发 **"
   },
   "** HUMAN VICTORY IN 20 SECONDS **": {
     "translation": "** 距离人类胜利还有20秒 **"
@@ -275,7 +278,7 @@
     "translation": "**当前难度 ** >> HARD模式 << **"
   },
   "**CURRENT DIFFICULTY ** >> EXTREME << **": {
-    "translation": "**当前难度 ** >> EXTREME模式  << **"
+    "translation": "**当前难度 ** >> EXTREME模式 << **"
   },
   "**CURRENT DIFFICULTY ** >> NORMAL << **": {
     "translation": "**当前难度 ** >> NORMAL模式 << **"
