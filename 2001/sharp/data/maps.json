@@ -340,7 +340,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 70,
-    "nomination": false,
+    "nomination": true,
     "admin": false
   },
   "ze_dangerous_waters_p": {
