@@ -1056,7 +1056,7 @@
     "price": 1600,
     "cooldown": 160,
     "nomination": true,
-    "admin": false
+    "admin": true
   },
   "ze_ocean_base_escape_p": {
     "certainTimes": [-1],
