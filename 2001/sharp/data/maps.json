@@ -1639,10 +1639,17 @@
     "nomination": false,
     "admin": false
   },
-   "ze_xenovation": {
+  "ze_xenovation": {
     "certainTimes": [-1],
     "price": 500,
     "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
+  "ze_zandalar_forever": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 160,
     "nomination": true,
     "admin": false
   },
