@@ -1002,6 +1002,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_nibui_cs2": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 80,
+    "nomination": true,
+    "admin": false
+  },
   "ze_no_title_cs2_l": {
     "certainTimes": [-1],
     "price": 300,
