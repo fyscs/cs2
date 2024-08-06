@@ -63,32 +63,40 @@
         "classname": "game_player_equip"
       },
       "delete": {
-        "weapon_negev": "1",
-        "weapon_g3sg1": "1",
-        "weapon_scar20": "1",
-        "weapon_m249": "1",
-        "weapon_ssg08": "1",
-        "weapon_bizon": "1",
-        "weapon_p90": "1",
-        "weapon_nova": "1",
-        "weapon_xm1014": "1",
-        "weapon_mag7": "1",
-        "weapon_sawedoff": "1",
-        "weapon_flashbang": "1",
-        "weapon_smokegrenade": "1",
-        "weapon_tagrenade": "1",
-        "weapon_decoy": "1",
-        "weapon_healthshot": "1",
-        "weapon_molotov": "1",
-        "weapon_incgrenade": "1"
+        "weapon0": "weapon_*",
+        "weapon1": "weapon_*",
+        "weapon2": "weapon_*",
+        "weapon3": "weapon_*",
+        "weapon4": "weapon_*",
+        "weapon5": "weapon_*",
+        "weapon6": "weapon_*",
+        "weapon7": "weapon_*",
+        "weapon8": "weapon_*",
+        "weapon9": "weapon_*",
+        "weapon10": "weapon_*",
+        "weapon11": "weapon_*",
+        "weapon12": "weapon_*",
+        "weapon13": "weapon_*",
+        "weapon14": "weapon_*",
+        "weapon15": "weapon_*",
+        "weapon16": "weapon_*",
+        "weapon17": "weapon_*",
+        "weapon18": "weapon_*",
+        "weapon19": "weapon_*",
+        "weapon20": "weapon_*",
+        "weapon21": "weapon_*",
+        "weapon22": "weapon_*",
+        "weapon23": "weapon_*",
+        "weapon24": "weapon_*",
+        "weapon25": "weapon_*",
+        "weapon26": "weapon_*",
+        "weapon27": "weapon_*",
+        "weapon28": "weapon_*",
+        "weapon29": "weapon_*",
+        "weapon30": "weapon_*",
+        "weapon31": "weapon_*",
+        "weapon32": "weapon_*"
       }
-    }
-  ],
-  "add": [
-    {
-      "targetname": "fys_servercmd",
-      "classname": "point_servercommand",
-      "hammeruniqueid": "1:1:4357"
     }
   ]
 }

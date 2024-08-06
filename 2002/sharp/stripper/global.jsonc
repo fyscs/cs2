@@ -114,12 +114,5 @@
         "weapon*": "weapon_incgrenade"
       }
     }
-  ],
-  "add": [
-    {
-      "targetname": "fys_servercmd",
-      "classname": "point_servercommand",
-      "hammeruniqueid": "1:1:4357"
-    }
   ]
 }
