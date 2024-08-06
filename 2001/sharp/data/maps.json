@@ -322,6 +322,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_color_levels": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
   "ze_colorlicouspilar_p": {
     "certainTimes": [-1],
     "price": 300,
