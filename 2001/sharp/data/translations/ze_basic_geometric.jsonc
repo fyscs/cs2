@@ -1,0 +1,58 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***20 seconds***": {
+    "translation": "***20秒***"
+  },
+  "***Map by Ex_Up.Tr***": {
+    "translation": "***地图制作:Ex_Up.Tr 地图翻译:蓉蓉呀@Fys***"
+  },
+  "***Special thanks for Kuroki, LoL, qzless, Volk, Stepanof, Kotya Way, xomya, 4elovek, mom's qzless, dad's qzless, family,s qzless, teammates's qzless***": {
+    "translation": "***特别感谢 Kuroki, LoL, qzless, Volk, Stepanof, Kotya Way, xomya, 4elovek...***"
+  },
+  "***ZE_BASIC_GEOMETRIC***": {
+    "translation": "***ZE_BASIC_GEOMETRIC***"
+  },
+  "***Special thanks for Kuroki && xomya***": {
+    "translation": "***特别感谢Kuroki,xomya***"
+  },
+  "***15 seconds***": {
+    "translation": "***15秒***"
+  },
+  "***12 seconds***": {
+    "translation": "***12秒***"
+  },
+  "***30 seconds***": {
+    "translation": "***30秒***"
+  },
+  "***Portal is active***": {
+    "translation": "***入口处于活动状态***"
+  },
+  "***25 seconds***": {
+    "translation": "***25秒***"
+  },
+  "***10 seconds***": {
+    "translation": "***10秒***"
+  },
+  "***Stage is completed***": {
+    "translation": "***关卡已完成***"
+  },
+  "***New Stages coming soon***": {
+    "translation": "***新关卡即将到来***"
+  },
+  "***Thanks for completing the map***": {
+    "translation": "***感谢您完成地图***"
+  },
+  "***No Survivors - Zombie Win***": {
+    "translation": "***没有幸存者了,僵尸胜利***"
+  }
+}

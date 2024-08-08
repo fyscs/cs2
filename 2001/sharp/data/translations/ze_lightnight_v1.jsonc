@@ -1,0 +1,70 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "[ Stage 1 ]": {
+    "translation": "[ 关卡一 ]"
+  },
+  "[ Map made by Pohmian ]": {
+    "translation": "[ 地图作者:Pohmian 地图汉化:小妖梦@风云社 ]"
+  },
+  "[ This map is based on mg_azure ]": {
+    "translation": "[ 此地图以MG_azure为基础制作而成 ]"
+  },
+  "[ Current Version : Alpha 1.0 ]": {
+    "translation": "[ 当前版本: Alpha 1.0 ]"
+  },
+  "[ Stage 2 ]": {
+    "translation": "[ 关卡二 ]"
+  },
+  "[ Stage 3 ]": {
+    "translation": "[ 关卡三 ]"
+  },
+  "[ 15 seconds ]": {
+    "translation": "[ 剩余15秒 ]"
+  },
+  "[ 20 seconds ]": {
+    "translation": "[ 剩余20秒 ]"
+  },
+  "[ 25 seconds ]": {
+    "translation": "[ 剩余25秒 ]"
+  },
+  "[ You won stage 1 ]": {
+    "translation": "[ 成功通关关卡一 ]"
+  },
+  "[ Survive for 80 seconds ]": {
+    "translation": "[ 存活80秒 ]"
+  },
+  "[ Triggered ]": {
+    "translation": "[ Triggered ]"
+  },
+  "[ You won stage 2 ]": {
+    "translation": "[ 成功通关关卡二 ]"
+  },
+  "[ 30 seconds ]": {
+    "translation": "[ 剩余30秒 ]"
+  },
+  "[ Phase 1 ]": {
+    "translation": "[ 阶段一 ]"
+  },
+  "[ Phase 2 ]": {
+    "translation": "[ 阶段二 ]"
+  },
+  "[ Phase 3 ]": {
+    "translation": "[ 阶段三 ]"
+  },
+  "[ Phase 4 ]": {
+    "translation": "[阶段四 ]"
+  },
+  "[ You won stage 3 ]": {
+    "translation": "[ 哦我的上帝,看看这些方块痴,越来越牛逼了 ]"
+  }
+}

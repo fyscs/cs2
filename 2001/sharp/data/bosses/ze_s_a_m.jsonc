@@ -1,9 +1,10 @@
 // BossHP configuration file generator.
-// Boss Version v21
+// Boss Version v22
 // Copyright 2024 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
+  // [Boss (Breakables/Counters)]
   // display    (string)   -> 显示的名称
   // hitbox     (string)   -> 打击框
   // stages     (int)      -> 阶段数
@@ -11,8 +12,12 @@
   // count      (int)      -> 血条格数 (Breakable only)
   // iterator   (string)   -> 计数器 (MathCounter only)
   // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
   // counter    (string)   -> 血条计数器 (MathCounter only)
   // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
   "Counters": [
@@ -40,26 +45,24 @@
       "iterator": "Bal_Hp_Counter",
       "hitbox": "Bal_Hitbox",
       "display": "Balrog"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "10270",
+      "display": "守卫①号"
     },
     {
-      "iterator": "Castle_Guard_Hp_Counter_1",
-      "hitbox": "Castle_Guard_Box_1",
-      "display": "Guard"
+      "identity": "10653",
+      "display": "守卫①号"
     },
     {
-      "iterator": "Castle_Guard_Hp_Counter_2",
-      "hitbox": "Castle_Guard_Box_2",
-      "display": "Guard"
+      "identity": "9816",
+      "display": "守卫①号"
     },
     {
-      "iterator": "Guard_1_Hp_Counter",
-      "hitbox": "Guard_1_Box",
-      "display": "守卫"
-    },
-    {
-      "iterator": "Guard_2_Hp_Counter",
-      "hitbox": "Guard_2_Box",
-      "display": "守卫"
+      "identity": "9817",
+      "display": "守卫①号"
     }
   ]
 }

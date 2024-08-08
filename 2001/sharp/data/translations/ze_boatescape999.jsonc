@@ -1,0 +1,175 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Airboat leave in 20 seconds**": {
+    "translation": "**飞船20秒后离开**"
+  },
+  "**Wait 10 seconds**": {
+    "translation": "**守住10秒**"
+  },
+  "**Bahamut Casted Ultima**": {
+    "translation": "**巴哈姆特要释放终极了!**"
+  },
+  "**Final Laser coming in 5 seconds**": {
+    "translation": "**最后的跳刀还有5秒**"
+  },
+  "**Nuke in 10 seconds**": {
+    "translation": "**10秒后核爆**"
+  },
+  "**Mode : Final Laser and Laser**": {
+    "translation": "**模式: 跳刀+跳刀**"
+  },
+  "**Boat will leave in 30 seconds**": {
+    "translation": "**木船30秒后离开**"
+  },
+  "**Airboat will leave in 30 seconds**": {
+    "translation": "**飞船30秒后离开**"
+  },
+  "**Door will close in 10 seconds**": {
+    "translation": "**10秒后关闭大门**"
+  },
+  "**All grenades will kill in 20 seconds**": {
+    "translation": "**所有手雷二十秒后失效**"
+  },
+  "**Secret Mode**": {
+    "translation": "**隐藏模式**"
+  },
+  "**Crazy Mode : On**": {
+    "translation": "**超级跑跑已开启**"
+  },
+  ">>ze_Boatescape999<<": {
+    "translation": ">>坐船跑999<<",
+    "blocked": true
+  },
+  ">>Ver:5.0.2<<": {
+    "translation": ">>Ver:5.0.2<<",
+    "blocked": true
+  },
+  ">>Map by Tsumugi<<": {
+    "translation": ">>地图作者: Tsumugi  汉化:Zeyu1<<",
+    "blocked": true
+  },
+  "**Mode : Final Laser**": {
+    "translation": "**模式: 跳刀**"
+  },
+  "**Airboat leave in 32 seconds**": {
+    "translation": "**飞船32秒后离开**"
+  },
+  "**Boat leave in 30 seconds**": {
+    "translation": "**木船30秒后离开**"
+  },
+  "**Door will close in 15 seconds**": {
+    "translation": "**15秒后大门关闭**"
+  },
+  "**Mode : Surfing**": {
+    "translation": "**模式: 滑翔**"
+  },
+  "**Mode : Super Airboat**": {
+    "translation": "**模式: 超级汽艇**"
+  },
+  "**Crazy Mode has turned on**": {
+    "translation": "**疯狂模式已开启**"
+  },
+  "**Secret Mode: Super Run**": {
+    "translation": "**隐藏模式: 超级跑跑**"
+  },
+  "**Baka!!!**": {
+    "translation": "**Baka!!!**"
+  },
+  "**Laser or Beam**": {
+    "translation": "**死核刀已开启**"
+  },
+  "**Mode : Laser or Beam**": {
+    "translation": "**模式: 死核刀**"
+  },
+  "**Mode : Rainbow Laser**": {
+    "translation": "**模式: 彩虹刀**"
+  },
+  "**Cirno Disconnected**": {
+    "translation": "**琪露诺已断开链接**"
+  },
+  "**Slay zombies**": {
+    "translation": "**处死僵尸**"
+  },
+  "**Zombies will be teleported in 30 seconds**": {
+    "translation": "**僵尸将在30秒后传送**"
+  },
+  "**Go! Go! Go!**": {
+    "translation": "**冲刺!**"
+  },
+  "**Mode : Tilex Laser**": {
+    "translation": "**模式: 列车刀**"
+  },
+  "[ Frost Columns ]": {
+    "translation": "[ 冰袭方阵 ]"
+  },
+  "[ Freeze Atmosphere ]": {
+    "translation": "[ 急冻大气 ]"
+  },
+  "[ Frost King ]": {
+    "translation": "[ 霜冻之王 ]"
+  },
+  "[ Diamond Blizzard ]": {
+    "translation": "[ 钻石风暴 ]"
+  },
+  "[ Assault Rush ]": {
+    "translation": "[ 霜冻之王 ]"
+  },
+  "**奥义:超⑨武神霸斩**": {
+    "translation": "**奥义:超⑨武神霸斩**"
+  },
+  "[ Sword Freezer ]": {
+    "translation": "[ 剑式制冰器 ]"
+  },
+  "[ Great Crusher ]": {
+    "translation": "[ 巨冰破碎 ]"
+  },
+  "[ Cold Divinity ]": {
+    "translation": "[ 冷冻之神 ]"
+  },
+  "**Mode : Boss Fight**": {
+    "translation": "**模式: BOSS战**"
+  },
+  "**Boss Mode : On**": {
+    "translation": "**BOSS战已开启**"
+  },
+  "**Will come in 10 seconds**": {
+    "translation": "**10秒后开战**"
+  },
+  "**湖上の氷精**": {
+    "translation": "**湖上の氷精**"
+  },
+  "**Laser Mode has turned on**": {
+    "translation": "**烂分模式已开启**"
+  },
+  "**Laser Mode : On**": {
+    "translation": "**跳刀模式: 启动**"
+  },
+  "-> 1": {
+    "translation": "-> 一"
+  },
+  "-> 2": {
+    "translation": "-> 二"
+  },
+  "-> 3": {
+    "translation": "-> 三"
+  },
+  "-> 4": {
+    "translation": "-> 四"
+  },
+  "-> 5": {
+    "translation": "-> 五"
+  },
+  "**Scooter will leave in 5 seconds**": {
+    "translation": "**滑板5秒后离开**"
+  }
+}

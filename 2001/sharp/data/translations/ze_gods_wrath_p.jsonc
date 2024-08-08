@@ -1,0 +1,91 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Find the next portal and jump into it***": {
+    "translation": "***找到下一个入口并跳入其中***"
+  },
+  "****Zombie burner gun/Human healer gun****": {
+    "translation": "****僵尸燃烧枪/人体治疗枪****"
+  },
+  "****Map created by GrandOp****": {
+    "translation": "****作者:GrandOp 汉化:heless@Fys****"
+  },
+  "***Wind!***": {
+    "translation": "***风!***"
+  },
+  "***Bridge has been atevated***": {
+    "translation": "***桥已经激活***"
+  },
+  "***Defend your self untill the gate opens***": {
+    "translation": "***保护你自己,直到大门打开***"
+  },
+  "***The gate is opening!***": {
+    "translation": "***大门打开了!***"
+  },
+  "***A chunk of floor is breaking off! we can ride it to the other side!***": {
+    "translation": "***一大块地板要断了!我们可以把它移到另一边!***"
+  },
+  "***Destroy the crystals and wait for the bridge to appear***": {
+    "translation": "***摧毁水晶并等待桥梁出现***"
+  },
+  "***Destroy the crystals to enable the bridge***": {
+    "translation": "***摧毁水晶以启用桥梁***"
+  },
+  "***Destroy the crystals powering the God's heart***": {
+    "translation": "***摧毁为神之之心提供动力的水晶***"
+  },
+  "***You have made it to the Citadel***": {
+    "translation": "***你已经到达了城堡***"
+  },
+  "***Dont stay here for too long!***": {
+    "translation": "***不要在这里呆太久!***"
+  },
+  "***We must get into the Other its is where the god heart lies***": {
+    "translation": "***我们必须进入他者,它是神心所在的地方***"
+  },
+  "***We can get into the Other by takeing the portal outside these doors***": {
+    "translation": "***我们可以通过这些门外的传送门进入他者***"
+  },
+  "***Doors will break in 20 secounds***": {
+    "translation": "***门将在20后打开***"
+  },
+  "***Metal fence will be destroyed in 14 secounds***": {
+    "translation": "***金属围栏将在14秒后被摧毁***"
+  },
+  "****Zombie burner gun will set all zombies close by on fire****": {
+    "translation": "****僵尸燃烧枪会让附近的所有僵尸着火****"
+  },
+  "***Metal wall is down!***": {
+    "translation": "***金属墙倒塌了!***"
+  },
+  "****Zombies close by will burn!****": {
+    "translation": "****附近的僵尸会燃烧!****"
+  },
+  "****Zombie burner will reset in 40 secounds****": {
+    "translation": "****僵尸燃烧器有四十秒cd****"
+  },
+  "***You got 60 secounds to get out of the Other***": {
+    "translation": "***你有60秒的时间可以离开***"
+  },
+  "***The Other is going to hell! Make sure your  inside the saferoom when it blows***": {
+    "translation": "***另一个人要下地狱了!确保在吹风时进入安全室***"
+  },
+  "***Run back to the portal!***": {
+    "translation": "***跑回入口!***"
+  },
+  "***Safe room door is closeing***": {
+    "translation": "***安全室的门正在关闭***"
+  },
+  "***Got 15 secounds to get inside the safe room!***": {
+    "translation": "***15秒后进入安全室!***"
+  }
+}

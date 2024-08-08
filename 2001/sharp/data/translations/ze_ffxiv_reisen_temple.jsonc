@@ -262,6 +262,10 @@
   "> The Second Temple has light up,Platform will rise in 30 sec. <": {
     "translation": "> 第二座神社亮起,平台将在30秒后升起. <"
   },
+  "> The Second Temple has light up,Platform will rise in 20 sec. <": {
+    "translation": "> 第二座神社亮起,平台将在20秒后升起. <",
+    "blocked": true
+  },
   "> Byakko is still here,Beware. <": {
     "translation": "> 白虎还在这里,当心. <"
   },

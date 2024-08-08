@@ -1,0 +1,151 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "--Elevator 2 leaving in 10 seconds--": {
+    "translation": "--二号电梯在10秒后离开--"
+  },
+  "--Elevator 2 going up in 2 seconds--": {
+    "translation": "--二号电梯在2秒后上升--"
+  },
+  "--Are you sure you want to kill the Weighted Companion Cube?--": {
+    "translation": "--你真的想对同伴方块动手吗?--"
+  },
+  "--YES____      NO_____--": {
+    "translation": "--确定      我再想想--"
+  },
+  "--YES _X_--": {
+    "translation": "--确定--"
+  },
+  "--That was a quick answer! Patience is a virtue--": {
+    "translation": "--你回答的真快啊! 耐心是一种美德--"
+  },
+  "--What is the rush? Did the Companion Cube said something bad?--": {
+    "translation": "--你急什么 同伴方块说了什么坏话吗--"
+  },
+  "--We are trying to escape from zombies! And we adore the companion cube--": {
+    "translation": "--我们正在从僵尸魔爪中逃脱 我们都喜欢同伴方块--"
+  },
+  "--You love an inanimate object! How silly!--": {
+    "translation": "--你居然喜欢一个方块! 脑子多少沾点!--"
+  },
+  "--But for the last time are you extremely sure you want this?--": {
+    "translation": "--问你最后一次 你真的想要这个吗--"
+  },
+  "--If thats what you REALLY want--": {
+    "translation": "--如果这真的是你所想的话--"
+  },
+  "--5--": {
+    "translation": "--五--"
+  },
+  "--4--": {
+    "translation": "--四--"
+  },
+  "--3--": {
+    "translation": "--三--"
+  },
+  "--Doors are open you horrible people--": {
+    "translation": "--门开了 你们这帮吸血鬼--"
+  },
+  "--2--": {
+    "translation": "--二--"
+  },
+  "--1--": {
+    "translation": "--一--"
+  },
+  "--Survive 30 seconds!--": {
+    "translation": "--存活30秒--"
+  },
+  "--Doors clossing in 5--": {
+    "translation": "--门在5秒后关--"
+  },
+  "--Doors closed--": {
+    "translation": "--门关了 哦豁--"
+  },
+  "--Doors will reopen in 8 seconds--": {
+    "translation": "--门在8秒后重新打开 快跑啊--"
+  },
+  "**Hint: Crouch to go over the glass**": {
+    "translation": "**提示:蹲下越过玻璃**"
+  },
+  "--Welcome to the Aperture Science Center--": {
+    "translation": "--欢迎来到光圈科技实验室--"
+  },
+  "--Map made by Eugenio **Motanum** Roman--": {
+    "translation": "--地图作者:Eugenio **Motanum** Roman 翻译:夜里很饿@风云社--"
+  },
+  "--Sponsored by ]HeLL[ Clan--": {
+    "translation": "--特别感谢 ]HeLL[ Clan--"
+  },
+  "--**HINT: Crouch to clear the orange sphere!**--": {
+    "translation": "--**提示 蹲下来躲避蹦蹦蹦的小球**--"
+  },
+  "--Office doors open in 20 seconds--": {
+    "translation": "--门在20秒后开--"
+  },
+  "--Hold this position from any zombies--": {
+    "translation": "--守住这里别把姜丝放过来--"
+  },
+  "--Office doors are now closed--": {
+    "translation": "--办公室的门关了--"
+  },
+  "--Office doors will reopen in 20 seconds--": {
+    "translation": "--办公室的门在20秒后重新打开--"
+  },
+  "--Office doors are now Open--": {
+    "translation": "--办公室的门开了--"
+  },
+  "--Office doors close in 5--": {
+    "translation": "--办公室的门5秒后关闭--"
+  },
+  "--Congratulations--": {
+    "translation": "--恭喜通关--"
+  },
+  "--Cake will follow up shortly--": {
+    "translation": "--蛋糕马上就送过来了--"
+  },
+  "--Cutting the cake in 5--": {
+    "translation": "--蛋糕5秒后切开咯--"
+  },
+  "--Cake is being Cut! You are too late--": {
+    "translation": "--蛋糕已经被切了!你们太迟了--"
+  },
+  "--Fighting GLaDOS--": {
+    "translation": "--和GLaDos比划比划 让她看看什么是黑手--"
+  },
+  "--Protect yourself from the zombies for 60 seconds!--": {
+    "translation": "--守住僵尸60秒--"
+  },
+  "--Lift doors open in 10 seconds!--": {
+    "translation": "--电梯门10秒后打开--"
+  },
+  "--GLaDOS is exploding! Take cover!--": {
+    "translation": "--Glados要爆炸了!找掩护别被炸死喽--"
+  },
+  "--Escape lift doors closing in 10 seconds--": {
+    "translation": "--逃生电梯门在10秒后关闭--"
+  },
+  "--Lift has now left Aperture Science--": {
+    "translation": "--正在离开光圈科技实验室--"
+  },
+  "--We hope you have enjoyed your stay at Aperture Science!--": {
+    "translation": "--我们希望你能享受在光圈科技里美好的时光!--"
+  },
+  "--Thanks for Playing!--": {
+    "translation": "--感谢游玩!翻译夜里很饿@风云社--"
+  },
+  "--Zombie teleport in 25 secs!--": {
+    "translation": "--僵尸在25秒后传送!--"
+  },
+  "**--**AFK KILLER ENABLED!**--**": {
+    "translation": "**--**挂机的咸鱼们要趋势了**--**"
+  }
+}

@@ -1,0 +1,91 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>>Right-Elevator leaving in 10 seconds<<<": {
+    "translation": ">>>右侧电梯10秒后离开<<<"
+  },
+  ">>>Left-Elevator unlocked<<<": {
+    "translation": ">>>左侧电梯解锁<<<"
+  },
+  ">>>Left-Elevator leaving in 10 seconds<<<": {
+    "translation": ">>>左侧电梯在10秒内离开<<<"
+  },
+  ">>>Door opening in 10 seconds<<<": {
+    "translation": ">>>10秒后开门<<<"
+  },
+  ">>>DOOR OPENING IN 5 SECONDS<<<": {
+    "translation": ">>>5秒后开门<<<"
+  },
+  ">>>Lightbridge deactivating in 8 sec<<<": {
+    "translation": ">>>光桥在8秒后停用<<<"
+  },
+  ">>>Generator section losing air...vacuum in 10 seconds": {
+    "translation": ">>>发电机部门失压中,10秒后进入真空"
+  },
+  ">>>Hold the cantina 25 seconds<<<": {
+    "translation": ">>>守住小酒吧25秒<<<"
+  },
+  ">>>10 seconds left<<<": {
+    "translation": ">>>还剩10秒<<<"
+  },
+  ">>>May the force be with you!<<<": {
+    "translation": ">>>愿原力与你同在!<<<"
+  },
+  ">>>Inner areas being cleaned in 10 seconds<<<": {
+    "translation": ">>>内部区域在10秒后完成清理<<<"
+  },
+  ">>>Right-Lock closing in 10 seconds<<<": {
+    "translation": ">>>右侧气闸在10秒后关闭<<<"
+  },
+  ">>>Left-Lock closing in 10 seconds<<<": {
+    "translation": ">>>左侧气闸在10秒后关闭<<<"
+  },
+  ">>>Map created by FreeZe<<<": {
+    "translation": ">>>作者:FreeZe 汉化:墨鸢@Fys<<<"
+  },
+  ">>>Zombies detected ! Try to escape from Death-Star<<<": {
+    "translation": ">>>检测到僵尸!快点逃离死星!<<<"
+  },
+  ">>>Spawn Sections losing air...vacuum in 10 seconds<<<": {
+    "translation": ">>>出生点正在失压,10秒后进入真空<<<"
+  },
+  "Testers: Fuu Belafarinrod Senne Teddy": {
+    "translation": "测试人员:Fuu,Belafarinrod,Senne,Teddy"
+  },
+  ">>>60 seconds until vacuum in Spawn Sections<<<": {
+    "translation": ">>>出生点还有六十秒进入真空状态<<<"
+  },
+  ">>>30 seconds until vacuum<<<": {
+    "translation": ">>还有30秒进入真空状态<<<"
+  },
+  ">>>Lambda-shuttle departing in 15 seconds<<<": {
+    "translation": ">>>兰姆达穿梭机15秒后离港<<<"
+  },
+  ">>>DEATH-STAR EXPLODING IN 5 SECONDS<<<": {
+    "translation": ">>>死星将在5秒后爆炸<<<"
+  },
+  ">>>!3!<<<": {
+    "translation": ">>>!3!<<<"
+  },
+  ">>>!2!<<<": {
+    "translation": ">>>!2!<<<"
+  },
+  ">>>!1!<<<": {
+    "translation": ">>>!1!<<<"
+  },
+  ">>>RAMP CLOSING<<<": {
+    "translation": ">>>机舱正在关闭<<<"
+  },
+  ">>>HOLD THE LOCK 30 SECONDS<<<": {
+    "translation": ">>>守住这个气闸30秒<<<"
+  }
+}

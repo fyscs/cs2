@@ -1,0 +1,43 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "30 seconds": {
+    "translation": "30秒"
+  },
+  "This is my first map,thanks for playing": {
+    "translation": "这是我的第一张图,感谢游玩"
+  },
+  "20 secconds": {
+    "translation": "20秒"
+  },
+  "ZMtp enabled": {
+    "translation": "已启用 ZM传送"
+  },
+  "40 seconds": {
+    "translation": "40秒"
+  },
+  "25 seconds": {
+    "translation": "25秒"
+  },
+  "5 seconds": {
+    "translation": "5秒"
+  },
+  "[...SACRIFICE...]": {
+    "translation": "[...牺牲...]"
+  },
+  "something changed...": {
+    "translation": "一切都已经变得不一样了..."
+  },
+  "25 sceonds": {
+    "translation": "25秒"
+  }
+}

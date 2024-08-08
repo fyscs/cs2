@@ -6,6 +6,9 @@
     // Bullshit Message
     {
       "classname": "env_message"
+    },
+    {
+      "classname": "env_hudhint"
     }
   ],
   "modify": [
@@ -28,18 +31,6 @@
       "insert": {
         "spawnflags": "5"
       }
-    }
-  ],
-  "add": [
-    {
-      "targetname": "fys_servercmd",
-      "classname": "point_servercommand",
-      "hammeruniqueid": "1:1:4357"
-    },
-    {
-      "targetname": "player_weapon_stripper",
-      "classname": "game_player_equip",
-      "spawnflags": "3"
     }
   ]
 }
