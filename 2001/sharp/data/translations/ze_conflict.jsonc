@@ -1,0 +1,131 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "::: Special Thanks : Hweyeon , Yessi , miceadf :::": {
+    "translation": "特别感谢: Hweyeon,Yessi,miceadf"
+  },
+  "::: Map By Rio :::": {
+    "translation": "地图制作: Rio"
+  },
+  "::: Portal is OPEN, FALL BACK :::": {
+    "translation": "传送已开启!快走"
+  },
+  "::: Survival 20 seconds left :::": {
+    "translation": "坚持20秒"
+  },
+  "::: 5 :::": {
+    "translation": "还有5秒"
+  },
+  "::: 4 :::": {
+    "translation": "::: 4 :::",
+    "blocked": true
+  },
+  "::: 3 :::": {
+    "translation": "::: 3 :::",
+    "blocked": true
+  },
+  "::: 2 :::": {
+    "translation": "::: 2 :::",
+    "blocked": true
+  },
+  "::: 1 :::": {
+    "translation": "::: 1 :::",
+    "blocked": true
+  },
+  "::: Survival 30 seconds left :::": {
+    "translation": "还有30秒"
+  },
+  "::: Survival 10 seconds left :::": {
+    "translation": "::: Survival 10 seconds left :::",
+    "blocked": true
+  },
+  "::: End :::": {
+    "translation": "结束了..."
+  },
+  "::: Hold 40 Seconds :::": {
+    "translation": "还有40秒"
+  },
+  "::: 20 Seconds left :::": {
+    "translation": "::: 20 Seconds left :::",
+    "blocked": true
+  },
+  "::: 5 Seconds left :::": {
+    "translation": "::: 5 Seconds left :::",
+    "blocked": true
+  },
+  "::: 140 seconds left :::": {
+    "translation": "::: 140 seconds left :::",
+    "blocked": true
+  },
+  "::: 130 seconds left :::": {
+    "translation": "::: 130 seconds left :::",
+    "blocked": true
+  },
+  "::: 120 seconds left :::": {
+    "translation": "::: 120 seconds left :::",
+    "blocked": true
+  },
+  "::: 110 seconds left :::": {
+    "translation": "::: 110 seconds left :::",
+    "blocked": true
+  },
+  "::: 100 seconds left :::": {
+    "translation": "::: 100 seconds left :::",
+    "blocked": true
+  },
+  "::: 90 seconds left :::": {
+    "translation": "还有90秒"
+  },
+  "::: 80 seconds left :::": {
+    "translation": "::: 80 seconds left :::",
+    "blocked": true
+  },
+  "::: 70 seconds left :::": {
+    "translation": "::: 70 seconds left :::",
+    "blocked": true
+  },
+  "::: 60 seconds left :::": {
+    "translation": "::: 60 seconds left :::",
+    "blocked": true
+  },
+  "::: 50 seconds left :::": {
+    "translation": "::: 50 seconds left :::",
+    "blocked": true
+  },
+  "::: 40 seconds left :::": {
+    "translation": "::: 40 seconds left :::",
+    "blocked": true
+  },
+  "::: 30 seconds left :::": {
+    "translation": "::: 30 seconds left :::",
+    "blocked": true
+  },
+  "::: 10 seconds left :::": {
+    "translation": "::: 10 seconds left :::",
+    "blocked": true
+  },
+  "::: Hold 30 Seconds :::": {
+    "translation": "还有30秒"
+  },
+  "::: Hold 45 Seconds :::": {
+    "translation": "还有45秒"
+  },
+  "::: Hold 50 Seconds :::": {
+    "translation": "还有50秒"
+  },
+  "::: Hold 25 Seconds :::": {
+    "translation": "还有25秒"
+  },
+  "::: Hold 20 Seconds :::": {
+    "translation": "还有20秒"
+  }
+}

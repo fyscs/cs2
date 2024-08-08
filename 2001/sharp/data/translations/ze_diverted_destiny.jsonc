@@ -1,0 +1,319 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Water Nymph is now spammable!": {
+    "translation": "水之女神准备完成了!"
+  },
+  "Water Nymph has been picked up": {
+    "translation": "水之女神加入了队伍"
+  },
+  "Firewall has been picked up": {
+    "translation": "火墙已经被拾取"
+  },
+  "Cooldown: 90 Seconds Duration: 10 Seconds": {
+    "translation": "冷却: 九十秒 持续时间: 十秒"
+  },
+  "An available loot point has been found": {
+    "translation": "找到一个可用的战利品点"
+  },
+  "Loot Item has been picked up": {
+    "translation": "战利品已经被拾取"
+  },
+  "CD: 5 Seconds": {
+    "translation": "CD: 五秒"
+  },
+  "Zombie Fireball has been picked up": {
+    "translation": "僵尸火球已被拾取"
+  },
+  "Cooldown: 30 Seconds": {
+    "translation": "冷却: 三十秒"
+  },
+  "Zombie Flight has been picked up": {
+    "translation": "僵尸飞行已被拾取"
+  },
+  "Cooldown: 30 Seconds | Duration: 5 Seconds": {
+    "translation": "冷却: 三十秒 | 持续时间: 五秒"
+  },
+  "Warp Item has been picked up": {
+    "translation": "扭转万象已被拾取"
+  },
+  "One time use!": {
+    "translation": "只能使用一次!"
+  },
+  "30 Seconds": {
+    "translation": "30 秒"
+  },
+  "TP in 10 Seconds": {
+    "translation": "还有 10 秒传送"
+  },
+  "Next Stage has been Triggered": {
+    "translation": "下一阶段已被触发"
+  },
+  "Zombie Heal has been picked up": {
+    "translation": "僵尸治愈已被拾取"
+  },
+  "Cooldown: 60 Seconds | Duration: 10 Seconds": {
+    "translation": "冷却: 六十秒 | 持续: 十秒"
+  },
+  "Zombie Gravity has been picked up": {
+    "translation": "僵尸引力已被拾取"
+  },
+  "Cooldown: 90 Seconds | Duration: 5 Seconds": {
+    "translation": "冷却: 九十秒 | 持续: 五秒"
+  },
+  "Doors will close in 10 Seconds": {
+    "translation": "大门将在 10 秒后关闭"
+  },
+  "10 Seconds": {
+    "translation": "10 秒"
+  },
+  "Shortcut will be opened": {
+    "translation": "捷径即将开放"
+  },
+  "We can't get passed through that thing yet": {
+    "translation": "我们还不能通过那东西"
+  },
+  "We should find a way": {
+    "translation": "我们应该想个办法"
+  },
+  "Right door opens in 20 Seconds": {
+    "translation": "右门将在 20 秒后打开"
+  },
+  "Left door opens in 20 Seconds": {
+    "translation": "左门将在 20 秒后打开"
+  },
+  "Survive for 60 Seconds": {
+    "translation": "存活 60 秒"
+  },
+  "Survive for 30 Seconds": {
+    "translation": "存活 30 秒"
+  },
+  "Yellow Fireball has been picked up": {
+    "translation": "金色火球已被拾取"
+  },
+  "Blue Fireball has been picked up": {
+    "translation": "蓝色火球已被拾取"
+  },
+  "Green Fireball has been picked up": {
+    "translation": "绿色火球已被拾取"
+  },
+  "Red Fireball has been picked up": {
+    "translation": "红色火球已被拾取"
+  },
+  "ZM TP in 10 Seconds": {
+    "translation": "僵尸将在 10 秒后传送"
+  },
+  "20 Seconds": {
+    "translation": "20 秒"
+  },
+  "ZM TP in 15 Seconds": {
+    "translation": "僵尸将在 15 秒后传送"
+  },
+  "45 Seconds": {
+    "translation": "45 秒"
+  },
+  "Map by KadianS": {
+    "translation": "地图作者: KadianS 汉化:莫恒语@Fys"
+  },
+  "Problems? Contact me": {
+    "translation": "发现问题? 联系我"
+  },
+  "Have fun!": {
+    "translation": "玩得开心!"
+  },
+  "Zombie Items have been spawned": {
+    "translation": "僵尸神器已生成"
+  },
+  "Boss is dead!": {
+    "translation": "Boss 已被击败!"
+  },
+  "Hurry! Get to the entrance!": {
+    "translation": "快点! 赶往入口处!"
+  },
+  "Heal has been picked up": {
+    "translation": "神圣治愈已被拾取"
+  },
+  "60 Seconds CD | 10 Seconds Duration": {
+    "translation": "六十秒 CD | 十秒持续时间"
+  },
+  "Flame has been picked up": {
+    "translation": "圣火已被拾取"
+  },
+  "60 Seconds CD | 5 Seconds Duration": {
+    "translation": "六十秒 CD | 五秒持续时间"
+  },
+  "Scourge": {
+    "translation": "天灾"
+  },
+  "Get on a body of water!": {
+    "translation": "登上水域!"
+  },
+  "Devour": {
+    "translation": "吞噬"
+  },
+  "Escape is leaving in 30 Seconds": {
+    "translation": "将在 30 秒后离开"
+  },
+  "Loading Stage 2": {
+    "translation": "加载阶段二"
+  },
+  "We're back here": {
+    "translation": "我们回到了这里"
+  },
+  "We might be able to go through the courtyard now": {
+    "translation": "现在我们可以穿过院子了"
+  },
+  "Loading Stage 1": {
+    "translation": "加载阶段一"
+  },
+  "Right door closes in 10 Seconds": {
+    "translation": "右门将在 10 秒后关闭"
+  },
+  "We got Green and Yellow's power": {
+    "translation": "我们有绿色与金色的力量"
+  },
+  "What do we do now?": {
+    "translation": "现在我们该怎么办?"
+  },
+  "...": {
+    "translation": "..."
+  },
+  "We got enough power to charge through the courtyard defense": {
+    "translation": "我们有足够的能量冲破院子的防御"
+  },
+  "We have to go back though..": {
+    "translation": "我们必须回去.."
+  },
+  "We'll have to go back here tomorrow": {
+    "translation": "我们明天还得再来一趟"
+  },
+  "We'll be more prepared using these two's powers": {
+    "translation": "我们将利用这两个力量做好更充分的准备"
+  },
+  "We don't know where's blue though": {
+    "translation": "我们不知道蓝色在哪里"
+  },
+  "Blue's long dead, let's just get back.": {
+    "translation": "蓝色早已消亡, 我们回去吧."
+  },
+  "Blue's long dead, what did you expect from Red's reign": {
+    "translation": "蓝色早已消亡, 你对红色的统治有什么期望"
+  },
+  "Let's just get back": {
+    "translation": "我们回去吧"
+  },
+  "[GET OUT]": {
+    "translation": "[离开]"
+  },
+  "[NUKE IN 180 SECONDS]": {
+    "translation": "[核爆 180 秒后]"
+  },
+  "Spawning Hammers": {
+    "translation": "衍生之锤"
+  },
+  "Elevator will rise in 20 Seconds": {
+    "translation": "电梯将在 20 秒后上升"
+  },
+  "Elevator will break in 5 Seconds": {
+    "translation": "电梯将在 5 秒后破裂"
+  },
+  "It's that thing..": {
+    "translation": "就是那个东西.."
+  },
+  "Shoot it!": {
+    "translation": "射击它!"
+  },
+  "[Defend yourself while shooting it]": {
+    "translation": "[射击时保护自己]"
+  },
+  "Loot points have been depleted": {
+    "translation": "战利品点数已经耗尽"
+  },
+  "Maximum amount of loot has been reached!": {
+    "translation": "已达到最大战利品数量!"
+  },
+  "Spawning Loot Points": {
+    "translation": "生成战利品点"
+  },
+  "Shoot it!!": {
+    "translation": "射击它!!"
+  },
+  "Get away from the elevator!": {
+    "translation": "远离电梯!"
+  },
+  "Did we kill it..?": {
+    "translation": "我们打败它了吗..?"
+  },
+  "Wait, It's about to explode!!": {
+    "translation": "等等, 马上就要爆炸了!!"
+  },
+  "Zombie Attack": {
+    "translation": "僵尸进攻"
+  },
+  "Steam": {
+    "translation": "蒸汽"
+  },
+  "Absorb": {
+    "translation": "吸收"
+  },
+  "100%": {
+    "translation": "100%"
+  },
+  "25%": {
+    "translation": "25%"
+  },
+  "75%": {
+    "translation": "75%"
+  },
+  "50%": {
+    "translation": "50%"
+  },
+  "Zombies has been Released": {
+    "translation": "尸笼打开了"
+  },
+  "Survive until Blue has been charged up": {
+    "translation": "生存直到蓝色充能完成"
+  },
+  "Where are we..?": {
+    "translation": "我们在哪..?"
+  },
+  "Look on top, it's blue..?": {
+    "translation": "看上面,那是蓝色..?"
+  },
+  "Quick, no time to waste. Let's find a way to obtain blue's power": {
+    "translation": "快,没有时间可以浪费了.让我们想办法获得蓝色的力量"
+  },
+  "Pull four levers around the place to charge blue up": {
+    "translation": "拉下四周的拉杆来为蓝色充能"
+  },
+  "Fully Charged": {
+    "translation": "充能完成"
+  },
+  "Step unto the playform to recieve blue's power.": {
+    "translation": "进入平台去接收蓝色的力量."
+  },
+  "Survive for 60 more seconds": {
+    "translation": "再坚持 60 秒"
+  },
+  "Kill it in 60 Seconds": {
+    "translation": "在 60 秒内击败它"
+  },
+  "Cleared!": {
+    "translation": "清除!"
+  },
+  "Blue's going to contain that thing": {
+    "translation": "蓝色将包含那个东西"
+  },
+  "We need to get out of here!": {
+    "translation": "我们必须离开这里!"
+  }
+}

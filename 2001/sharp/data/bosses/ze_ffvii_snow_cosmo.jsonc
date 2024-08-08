@@ -1,0 +1,59 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Genesis_Counter",
+      "hitbox": "lvl4_end_boss",
+      "display": "杰内西斯"
+    },
+    {
+      "iterator": "fix2_boss_hp",
+      "hitbox": "Ifrit_Phys_Body",
+      "display": "伊弗利特"
+    },
+    {
+      "iterator": "lvl2_Gi_Nattak_Counter",
+      "hitbox": "lvl3_end_boss",
+      "display": "Boss"
+    },
+    {
+      "iterator": "fix_boss_hp",
+      "hitbox": "Boss_Hitbox",
+      "display": "基纳塔克"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "4983",
+      "display": "杰诺瓦"
+    },
+    {
+      "identity": "4981",
+      "display": "希瓦"
+    },
+    {
+      "identity": "4979",
+      "display": "伊弗利特"
+    }
+  ]
+}

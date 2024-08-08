@@ -1,0 +1,139 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "== THANKS SERVERS : Zeddy Servers ==": {
+    "translation": "== 感谢Zeddy服务器的帮助 =="
+  },
+  "== SPECIAL THANKS : Hweyeon , Tsukasa , Koen ==": {
+    "translation": "== 特别感谢: Hweyeon , Tsukasa , Koen =="
+  },
+  "== Original Material By Antosha ==": {
+    "translation": "== 感谢Antosha的原创素材 =="
+  },
+  "== Map By Rakka ==": {
+    "translation": "== 地图制作:Rakka 地图翻译:小妖梦@风云社 =="
+  },
+  "== Port By SIRloin ==": {
+    "translation": "== 地图移植: SIRloin =="
+  },
+  "*** 5 SECONDS LEFT ***": {
+    "translation": "*** 还剩5秒 ***"
+  },
+  "*** LEAVING IN 30 SECONDS ***": {
+    "translation": "*** 将于30秒后离开 ***"
+  },
+  "*** HOLD 40 SECONDS ***": {
+    "translation": "*** 防守40秒 ***"
+  },
+  "*** ALL PLAYERS ARE TELEPORTED ***": {
+    "translation": "*** 所有玩家已传送 ***"
+  },
+  "*** THANK YOU FOR PLAYING ***": {
+    "translation": "*** 感谢你的游玩 ***"
+  },
+  "*** Map By Rakka ***": {
+    "translation": "*** 地图制作:Rakka 地图翻译:小妖梦@风云社 ***"
+  },
+  "*** Port By SIRloin ***": {
+    "translation": "*** 地图移植:SIRloin ***"
+  },
+  "Secret ALL TRIGGER...": {
+    "translation": "真结局:寻找并触发所有的彩蛋"
+  },
+  "*** HOLD 120 SECONDS ***": {
+    "translation": "*** 最终の门将在120秒后开启 ***"
+  },
+  "*** 80 SECONDS LEFT ***": {
+    "translation": "*** 剩余80秒 ***",
+    "blocked": true
+  },
+  "*** 60 SECONDS LEFT ***": {
+    "translation": "*** 剩余60秒 ***",
+    "blocked": true
+  },
+  "*** 40 SECONDS LEFT ***": {
+    "translation": "*** 剩余40秒 ***",
+    "blocked": true
+  },
+  "*** 20 SECONDS LEFT ***": {
+    "translation": "*** 剩余20秒 ***"
+  },
+  "*** 10 SECONDS LEFT ***": {
+    "translation": "*** 剩余10秒 ***"
+  },
+  "*** END ***": {
+    "translation": "*** 完结 ***"
+  },
+  "*** HOLD 50 SECONDS ***": {
+    "translation": "***  ***"
+  },
+  "*** HOLD 30 SECONDS ***": {
+    "translation": "*** 还有30秒 ***"
+  },
+  "*** HOLD 5 SECONDS ***": {
+    "translation": "*** 剩余5秒 ***"
+  },
+  "*** LEAVING IN 55 SECONDS ***": {
+    "translation": "*** 将于55秒后离开 ***"
+  },
+  "*** FALL BACK ***": {
+    "translation": "***撤退 ***"
+  },
+  "*** HOLD 80 SECONDS ***": {
+    "translation": "*** 还有80秒 ***"
+  },
+  "*** DOOR OPENING IN 50 SECONDS ***": {
+    "translation": "*** 门50秒后打开 ***"
+  },
+  "*** HOLD 20 SECONDS ***": {
+    "translation": "*** 还有20秒 ***"
+  },
+  "*** DOOR OPENING IN 20 SECONDS ***": {
+    "translation": "*** 门20秒后打开 ***"
+  },
+  "*** DOOR IS OPEN ***": {
+    "translation": "*** 门开了 ***"
+  },
+  "[ADMINROOMS] change for STAGE 1...": {
+    "translation": "[权限X] 管理员选择了第一关..."
+  },
+  "[ADMINROOMS] change for STAGE 2...": {
+    "translation": "[权限X] 管理员选择了第二关..."
+  },
+  "*** HOLD 25 SECONDS ***": {
+    "translation": "*** 还有25秒 ***"
+  },
+  "*** CONGRATURATION ! END ***": {
+    "translation": "*** 于此终结 ***"
+  },
+  "> [ITEM MESSAGE] ZM.SPEEDER PICK UP (Cool : 60s) <": {
+    "translation": "> 神器信息:ZM极速已被拾取,冷却一分钟 <"
+  },
+  "> [ITEM MESSAGE] ZM.CANNON PICK UP (Cool : 40s) <": {
+    "translation": "> 神器信息:ZM大炮被拾取,冷却四十秒 <"
+  },
+  "> [ITEM MESSAGE] P.PLAZMA PICK UP (Cool : 120s) <": {
+    "translation": "> 神器信息:黯灭已被拾起,冷却二分钟 <"
+  },
+  "> [ITEM MESSAGE] Y.CANNON PICK UP (Cool : 30s) <": {
+    "translation": "> 神器信息:推推已被拾起,冷却半分钟 <"
+  },
+  "> [ITEM MESSAGE] XOLY PICK UP (Cool :Once Only) <": {
+    "translation": "> 神器信息:天堂已被拾起,仅一次 <"
+  },
+  "> [ITEM MESSAGE] B.CANNON PICK UP (Cool : 60s) <": {
+    "translation": "> 神器信息:暗门已被拾取,冷却一分钟 <"
+  },
+  "> [ITEM MESSAGE] G.CANNON PICK UP (Cool : 20s) <": {
+    "translation": "> 神器信息:冰眼已被拾起,冷却二十秒 <"
+  }
+}

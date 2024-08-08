@@ -1,0 +1,118 @@
+{
+  "remove": [
+    // 所有手雷
+    {
+      "classname": "weapon_incgrenade"
+    },
+    {
+      "classname": "weapon_molotov"
+    },
+    {
+      "classname": "weapon_smokegrenade"
+    },
+    {
+      "classname": "weapon_flashbang"
+    },
+    {
+      "classname": "weapon_decoy"
+    },
+    {
+      "classname": "weapon_tagrenade"
+    },
+    {
+      "classname": "weapon_healthshot"
+    },
+    // Bomb / Hostage
+    {
+      "classname": "weapon_c4"
+    },
+    {
+      "classname": "hostage_entity"
+    },
+    {
+      "classname": "func_hostage_rescue"
+    },
+    {
+      "classname": "func_bomb_target"
+    },
+    // Buy
+    {
+      "classname": "func_buyzone"
+    },
+    // Bullshit Message
+    {
+      "classname": "env_message"
+    },
+    // game_player_equip
+    {
+      "classname": "game_player_equip",
+      "spawnflags": "0"
+    },
+    {
+      "classname": "game_player_equip",
+      "spawnflags": "2"
+    },
+    {
+      "classname": "game_player_equip",
+      "spawnflags": "4"
+    }
+  ],
+  "modify": [
+    {
+      "match": {
+        "classname": "game_player_equip"
+      },
+      "delete": {
+        "weapon*": "weapon_flashbang"
+      }
+    },
+    {
+      "match": {
+        "classname": "game_player_equip"
+      },
+      "delete": {
+        "weapon*": "weapon_smokegrenade"
+      }
+    },
+    {
+      "match": {
+        "classname": "game_player_equip"
+      },
+      "delete": {
+        "weapon*": "weapon_tagrenade"
+      }
+    },
+    {
+      "match": {
+        "classname": "game_player_equip"
+      },
+      "delete": {
+        "weapon*": "weapon_decoy"
+      }
+    },
+    {
+      "match": {
+        "classname": "game_player_equip"
+      },
+      "delete": {
+        "weapon*": "weapon_healthshot"
+      }
+    },
+    {
+      "match": {
+        "classname": "game_player_equip"
+      },
+      "delete": {
+        "weapon*": "weapon_molotov"
+      }
+    },
+    {
+      "match": {
+        "classname": "game_player_equip"
+      },
+      "delete": {
+        "weapon*": "weapon_incgrenade"
+      }
+    }
+  ]
+}

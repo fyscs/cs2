@@ -1,0 +1,229 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<< A wild Noniking came out!!! >>>": {
+    "translation": "**太美丽了年糕王,诶呀这不nino吗? **"
+  },
+  "Last Fight <<< 10 >>>": {
+    "translation": "**最后一舞,坚持10秒!**"
+  },
+  "Last Fight <<< 05 >>>": {
+    "translation": "**最后一舞,坚持5秒!",
+    "blocked": true
+  },
+  "Zombie Advance": {
+    "translation": "**僵尸:嘟嘟嘟嘟嘟嘟嘟嘟~~~**"
+  },
+  "DOOR OPEN  <<< 20 >>>": {
+    "translation": "**门开还有20秒**"
+  },
+  "DOOR OPEN  <<< 15 >>>": {
+    "translation": "**门开还有15秒**",
+    "blocked": true
+  },
+  "DOOR OPEN  <<< 10 >>>": {
+    "translation": "**门开还有10秒**",
+    "blocked": true
+  },
+  "DOOR OPEN  <<< 05 >>>": {
+    "translation": "**门开还有05秒**",
+    "blocked": true
+  },
+  "Ready to Move <<< 10 >>>": {
+    "translation": "**准备行动,还有10秒**"
+  },
+  "Ready to Move <<< 05 >>>": {
+    "translation": "准备行动,还有5秒",
+    "blocked": true
+  },
+  "Get ready to act  <<< 10 >>>": {
+    "translation": "**准备行动,还有10秒**"
+  },
+  "Get ready to act  <<< 05 >>>": {
+    "translation": "准备行动,还有5秒",
+    "blocked": true
+  },
+  "Wood Break <<< 20 >>>": {
+    "translation": "**木板还有20秒破碎**"
+  },
+  "Wood Break <<< 15 >>>": {
+    "translation": "木板还有15秒破碎",
+    "blocked": true
+  },
+  "Wood Break <<< 10 >>>": {
+    "translation": "木板还有10秒破碎",
+    "blocked": true
+  },
+  "Wood Break <<< 05 >>>": {
+    "translation": "木板还有5秒破碎",
+    "blocked": true
+  },
+  "The Water is going Up": {
+    "translation": "**水面正在上升!**"
+  },
+  "Elevator door will open soon": {
+    "translation": "**电梯门正在打开..**"
+  },
+  "Zombies advance!": {
+    "translation": "**僵尸:嘟嘟嘟嘟嘟嘟嘟嘟~~~**"
+  },
+  "RUN": {
+    "translation": "**快跑!**"
+  },
+  "The elevator door has opened": {
+    "translation": "**电梯门开了...**"
+  },
+  "The elevator door will reopen in 30 seconds": {
+    "translation": "**电梯门将在30秒后再次打开**"
+  },
+  "Defend 40 seconds  !": {
+    "translation": "**防守40秒!**"
+  },
+  "Be careful, zombies are coming from another way": {
+    "translation": "**小心,僵尸将从另一侧进攻**"
+  },
+  "Good Luck !": {
+    "translation": "**祝你好运!**"
+  },
+  "<Unkown Radio> Leave this place, Find me on the edge of the world": {
+    "translation": "**<...>想办法离开这里,开始我们的旅程吧**"
+  },
+  "<Unkown Radio> It's time to wake up, soldiers with a burning heart": {
+    "translation": "**<...>是时候振作起来了,怀有炽热之心的士兵们啊**"
+  },
+  "<Unkown Radio> The world is in chaos": {
+    "translation": "**<...>世界已处于水深火热之中...**"
+  },
+  "<Unkown Radio> ... ...": {
+    "translation": "**<...> ... ...**"
+  },
+  "Special thank for ClouNine & Trazix for Updated helps": {
+    "translation": "**十分感谢 ClouNine & Trazix 对于更新的帮助**"
+  },
+  "CSGO Port & Update by Nino": {
+    "translation": "**csgo移植 & 更新 by Nino**"
+  },
+  "Map by Trazix & How Super Terrible": {
+    "translation": "**地图制作: Trazix & How Super Terrible**"
+  },
+  "Welcome on Objective Fire Rescape": {
+    "translation": "**行动代号:浴火重生**"
+  },
+  "CS2 Port by @Seth": {
+    "translation": "**CS2版本移植:@Seth**"
+  },
+  "shoot the wall!": {
+    "translation": "**快把墙打碎!**"
+  },
+  "Steam Off": {
+    "translation": "**蒸汽已关闭!**"
+  },
+  "Prepare to leave": {
+    "translation": "**准备撤退..**"
+  },
+  "C4 is on": {
+    "translation": "**C4已安装**"
+  },
+  "Overloading the powerbox": {
+    "translation": "**电源箱正在过载**"
+  },
+  "DOOR OPEN": {
+    "translation": "**门开了!**"
+  },
+  "Starting the platform": {
+    "translation": "**平台正在上升..**"
+  },
+  "Don't stay in the elevator": {
+    "translation": "**不要待在电梯里!**"
+  },
+  "Let's move!": {
+    "translation": "**开始行动!!**"
+  },
+  "The elevator has opened! Get inside": {
+    "translation": "**电梯门开了!快进去!**"
+  },
+  "The elevator will open  in 10 seconds": {
+    "translation": "**电梯门还有10秒开**"
+  },
+  "We are blocked by those eletric wires.": {
+    "translation": "**我们被那些电线挡住了!**"
+  },
+  "Find a way to turn off the eletric.": {
+    "translation": "**找到电闸,关掉它...**"
+  },
+  "Run to the elevator": {
+    "translation": "**到电梯那里去**"
+  },
+  "Electricity is Off": {
+    "translation": "**电源关闭**"
+  },
+  "Find a way up there before the doors are closed !": {
+    "translation": "**在门关之前想办法上去!!**"
+  },
+  "The water level is increasing": {
+    "translation": "**水面正在上升!**"
+  },
+  "KEEP DEFENDING": {
+    "translation": "**保持火力!**"
+  },
+  "Water Up": {
+    "translation": "**水面上升**"
+  },
+  "prepare for your last rush": {
+    "translation": "**快到最后一段路了..**"
+  },
+  "Get Ready ?": {
+    "translation": "**准备好了吗?**"
+  },
+  "Don't forget to close the door ...": {
+    "translation": "**记得把门关上...**"
+  },
+  "The door is opening soon": {
+    "translation": "**门正在打开!**"
+  },
+  "Felt something was wrong": {
+    "translation": "**感觉有什么不对劲..**"
+  },
+  "The elevator stopped at the wrong floor": {
+    "translation": "**经典之电梯停错楼梯了..**"
+  },
+  "Other side wall is break": {
+    "translation": "**另一侧的墙壁破开了**"
+  },
+  "Jump on the lift!": {
+    "translation": "**跳上电梯!**"
+  },
+  "The glass is going to break!": {
+    "translation": "**玻璃就要碎了...**"
+  },
+  "<Unknown Radio>Yes,that it!Keep running!": {
+    "translation": "**<...>对,就是这样!保持移动!**"
+  },
+  "<Unknown Radio>Once you get outside,all will be safe!": {
+    "translation": "**<...>一旦你出去了,一切都会安全的!**"
+  },
+  "<Unknown Radio>We gonna to rescue other squad first,Come on!": {
+    "translation": "**<...>我们要先营救别的小队,来吧!**"
+  },
+  "<Unknown Radio>It's call Objective Filth,Sounds familiar huh?": {
+    "translation": "**<...>他们称之为filth小队,听起来很熟悉吧?**"
+  },
+  "<Unknown Radio>..Vertigo?...": {
+    "translation": "**<...>..Vertigo小队?...**"
+  },
+  "<Unknown Radio>Trust me,You won't want to hear about it.": {
+    "translation": "**<...>信我,你不想听到这个消息的.**"
+  },
+  "<Unknown Radio>Attacker,Blow that damn place now.": {
+    "translation": "**<...>各单位注意,现在炸掉那个该死的出口!**"
+  }
+}

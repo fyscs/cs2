@@ -1,0 +1,511 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<< a player has picked up wind >>": {
+    "translation": "<< 一位玩家捡起了风 >>"
+  },
+  "<< A player has picked up heal >>": {
+    "translation": "<< 一位玩家捡起了奶 >>"
+  },
+  "<< 5 more seconds >>": {
+    "translation": "<< 再等5秒 >>"
+  },
+  "<< the front wall will disappear in 15 seconds >>": {
+    "translation": "<< 墙在15秒后消失 >>"
+  },
+  "<< A player has got a letter A >>": {
+    "translation": "<< 一位玩家捡起了字母A >>"
+  },
+  "<< INSANE I Complete >>": {
+    "translation": "<< 关卡完成 >>"
+  },
+  "<< boss fight will begin in 10 seconds >>": {
+    "translation": "<< 准备10秒后打boss >>"
+  },
+  "<< Haste >>": {
+    "translation": "<< 急速 >>"
+  },
+  "<< Be Careful! You only have 120 seconds to defeat the boss >>": {
+    "translation": "<< 注意 你们只有两分钟干掉他 >>"
+  },
+  "<< Push >>": {
+    "translation": "<< 推力 按wwwwwwwww >>"
+  },
+  "<< Drain >>": {
+    "translation": "<< 吸力 按sssssssss >>"
+  },
+  "<< Trials of Sword >>": {
+    "translation": "<< 审判之剑 小心四周>>"
+  },
+  "<< Fallen Sky >>": {
+    "translation": "<< 天穹陨落 小心头顶>>"
+  },
+  "<< Misaka will use holy in 6 seconds >>": {
+    "translation": "<< Misaka将在6秒后使用秒杀 >>"
+  },
+  "<< Misaka is using cannon >>": {
+    "translation": "<< Misaka 使用了电磁炮 >>"
+  },
+  "<< Wind >>": {
+    "translation": "<< 狂风 >>"
+  },
+  "<< Congratulation !!! >>": {
+    "translation": "<< 恭喜你 !!! >>"
+  },
+  "<< You've win all stage ??? >>": {
+    "translation": "<< 你全流程通关了 ??? >>"
+  },
+  "<< Shooting Misaka >>": {
+    "translation": "<< 朝Misaka开枪 >>"
+  },
+  "<<You only have 25 seconds to get to the end >>": {
+    "translation": "<<防守25秒 >>"
+  },
+  "<< I Know that you work hard to get here >>": {
+    "translation": "<< 我知道 你来到这里一定很不容易 >>"
+  },
+  "<< Its the time to meet the final >>": {
+    "translation": "<< 是时候该做个了断了 >>"
+  },
+  "<< INSANE II Selected >>": {
+    "translation": "<< 已选择第二关 >>"
+  },
+  "<< 55 seconds left >>": {
+    "translation": "<< 还剩55秒 >>"
+  },
+  "<< INSANE I Selected >>": {
+    "translation": "<< 管理选择了 EX 一 >>"
+  },
+  "<< RTV I Selected >>": {
+    "translation": "<< 管理选择了RTV一 >>"
+  },
+  "<< teleport will be enabled in 20 seconds >>": {
+    "translation": "<< 人类在20秒后传送 >>"
+  },
+  "<< teleport will be enabled in 10 seconds >>": {
+    "translation": "<< 人类在10秒后传送 >>"
+  },
+  "<< Why you come here again? >>": {
+    "translation": "<< 你为啥还来这里? >>"
+  },
+  "<< Survive for 165 seconds!!! >>": {
+    "translation": "<< 开黑165秒!!! >>"
+  },
+  "<< 120 seconds >>": {
+    "translation": "<< 还剩120秒 >>"
+  },
+  "<< 60 seconds >>": {
+    "translation": "<< 还剩60秒 >>"
+  },
+  "<< 30 seconds >>": {
+    "translation": "<< 还剩30秒 >>"
+  },
+  "<< hold for 15 seconds >>": {
+    "translation": "<< 防守15秒 >>"
+  },
+  "<< Do you think this is over? >>": {
+    "translation": "<< 你以为完了吗? >>"
+  },
+  "<< ... >>": {
+    "translation": "<< ... >>"
+  },
+  "<< Try to Get to The End !!! >>": {
+    "translation": "<< 走到路的尽头 !!! >>"
+  },
+  "<< Be careful about the abnormal gravity >>": {
+    "translation": "<< 低重力列车刀 >>"
+  },
+  "<< and also be careful about the wall on your back >>": {
+    "translation": "<< 走的慢的要被南梁撅哦 >>"
+  },
+  "<< You only have 10 seconds to get to the end >>": {
+    "translation": "<< 你还剩10秒到终点 >>"
+  },
+  "<< The boss appears again !!! >>": {
+    "translation": "<< 御坂回来了 what can i say !!! >>"
+  },
+  "<< Shooting it and dodge the laser!!>>": {
+    "translation": "<< 甘霖娘'还soloking呢!!>>"
+  },
+  "<< 5 >>": {
+    "translation": "<< 5 >>"
+  },
+  "<< 4 >>": {
+    "translation": "<< 4 >>"
+  },
+  "<< 3 >>": {
+    "translation": "<< 3 >>"
+  },
+  "<< 2 >>": {
+    "translation": "<< 2 >>"
+  },
+  "<< 1 >>": {
+    "translation": "<< 1 >>"
+  },
+  "<< The boss will be unkillable after 25 seconds >>": {
+    "translation": "<< 你只有25秒打败御坂 >>"
+  },
+  "<< Stage 3 true end complete>>": {
+    "translation": "<< 第三关真结局完成>>"
+  },
+  "<< A player has got the letter I >>": {
+    "translation": "<< 一位玩家找到了字母 I >>"
+  },
+  "<< A player has got the letter S >>": {
+    "translation": "<< 一位玩家找到了字母 S >>"
+  },
+  "<< A player has got the letter A >>": {
+    "translation": "<< 一位玩家找到了字母 A >>"
+  },
+  "<< A player has got the letter K >>": {
+    "translation": "<< 一位玩家找到了字母 K >>"
+  },
+  "<< You've already got all 6 secret letters >>": {
+    "translation": "<< 你们找齐了六个隐藏的字母 >>"
+  },
+  "<< A player has got the letter M >>": {
+    "translation": "<< 一位玩家找到了字母 M >>"
+  },
+  "<< Stage 3 Complete >>": {
+    "translation": "<< 第三关完成 >>"
+  },
+  "<< try to find another end of Stage 3 >>": {
+    "translation": "<< 第三关还有一个真结局 >>"
+  },
+  "<< zombie will release in 10 seconds >>": {
+    "translation": "<< 僵尸将在10秒后传送 >>"
+  },
+  "<< the final door will open in 30 seconds >>": {
+    "translation": "<< 最后大门在30秒后打开 >>"
+  },
+  "<< Dark Wave >>": {
+    "translation": "<< 死灵乱魔 多段推 >>"
+  },
+  "<< Absolute Purification >>": {
+    "translation": "<< 绝对净化'旋转刀 >>"
+  },
+  "<< Flame of Revenge >>": {
+    "translation": "<< 是替身攻击 boss召唤了小弟 >>"
+  },
+  "<< Sign of Death >>": {
+    "translation": "<< 死从天降 天坠 >>"
+  },
+  "<< Hunting Instinct >>": {
+    "translation": "<< 四面来到 >>"
+  },
+  "<< hold for 55 seconds >>": {
+    "translation": "<< 守住55秒 >>"
+  },
+  "<< Stage 3 Selected >>": {
+    "translation": "<< 已选择第三关 >>"
+  },
+  "<< Shooting the guard >>": {
+    "translation": "<< 朝守卫开枪 >>"
+  },
+  "<< the wall will break in 30 seconds >>": {
+    "translation": "<< 墙壁在30秒后消失 >>"
+  },
+  "<< the fence will disappear in 20 seconds >>": {
+    "translation": "<< 铁网在20秒后消失 >>"
+  },
+  "<< hold for 15 seconds until the guards permit us to go >>": {
+    "translation": "<< 守住15秒 直到守卫放我们走 >>"
+  },
+  "<< the wall will break in 25 seconds >>": {
+    "translation": "<< 墙在25秒后消失 >>"
+  },
+  "<< the platform will move in 15 seconds >>": {
+    "translation": "<< 木板在15秒后开始移动 >>"
+  },
+  "<< teleport will enable in 20 seconds >>": {
+    "translation": "<< 传送装置 20秒 >>"
+  },
+  "<< Stage 2 Selected >>": {
+    "translation": "<< 已选择第二关 >>"
+  },
+  "<< Stage 1 Selected >>": {
+    "translation": "<< 已选择第一关 >>"
+  },
+  "<< Stage 2 Complete >>": {
+    "translation": "<< 第二关完成 >>"
+  },
+  "<< climb to the top and shooting the guard, so that the teleport can be activated >>": {
+    "translation": "<< 爬到顶部然后打守卫 传送才能激活 >>"
+  },
+  "<< Be Careful, only shooting the head of the guard may cause damage >>": {
+    "translation": "<< 只有打守卫的头才有伤害 >>"
+  },
+  "<< So we meet the second time >>": {
+    "translation": "<< 我们又见面了 >>"
+  },
+  "<< Try your best to survive from the attack >>": {
+    "translation": "<< 尽你所能活下来吧hhh >>"
+  },
+  "<< To escape this tower!!! >>": {
+    "translation": "<< 逃离这座塔!!! >>"
+  },
+  "<< You only have 60 seconds >>": {
+    "translation": "<< 你只有60秒 >>"
+  },
+  "<< You only have 30 seconds >>": {
+    "translation": "<< 你只有30秒 >>"
+  },
+  "<< You only have 10 seconds >>": {
+    "translation": "<< 你只有10秒 >>"
+  },
+  "<< the guard will disappear in 30 seconds >>": {
+    "translation": "<< 守卫在30秒后消失 >>"
+  },
+  "<< zombie will teleport in 20 seconds >>": {
+    "translation": "<< 僵尸在20秒后传送 >>"
+  },
+  "<< hold for 30 seconds >>": {
+    "translation": "<< 守住30秒 >>"
+  },
+  "<< we can go into the tower in 35 seconds >>": {
+    "translation": "<< 高塔在35秒后开放 >>"
+  },
+  "<< zombie will teleport in 10 seconds >>": {
+    "translation": "<< 僵尸在10秒后传送 >>"
+  },
+  "<< hold for 25 seconds >>": {
+    "translation": "<< 守住25秒 >>"
+  },
+  "<< the teleport will enable in 30 seconds >>": {
+    "translation": "<< 传送在30秒后激活 >>"
+  },
+  "<< zombie will come in 5 seconds >>": {
+    "translation": "<< 僵尸5秒后到达 >>"
+  },
+  "<< the way will be able to pass in 15 seconds >>": {
+    "translation": "<< 守住15秒 >>"
+  },
+  "<< Stage 2 >>": {
+    "translation": "<< 第二关 >>"
+  },
+  "<< Stage 1 >>": {
+    "translation": "<< 第一关 >>"
+  },
+  "<< Stage 3 >>": {
+    "translation": "<< 第三关 >>"
+  },
+  "<< INSANE I >>": {
+    "translation": "<< EX 一 >>"
+  },
+  "<< INSANE II >>": {
+    "translation": "<< EX 二 >>"
+  },
+  "<< Defeat The Final Misaka To Win This Map >>": {
+    "translation": "<< 快点干掉御坂 >>"
+  },
+  "<< RTV II >>": {
+    "translation": "<< RTV二 >>"
+  },
+  "<< RTV I >>": {
+    "translation": "<< RTV一 >>"
+  },
+  "<< INSANE III >>": {
+    "translation": "<< EX 三 >>"
+  },
+  "<< 调关房传送按钮已解锁 >>": {
+    "translation": "<< 调关房传送按钮已解锁 >>"
+  },
+  "<< Stage 1 Complete >>": {
+    "translation": "<< 第一关完成 >>"
+  },
+  "<< Giga Drain >>": {
+    "translation": "<< 两段吸力 按住ssssss >>"
+  },
+  "<< Reaping Slash >>": {
+    "translation": "<< 蹲蹲蹲蹲蹲蹲蹲下 >>"
+  },
+  "<< MEGA PUSH >>": {
+    "translation": "<< 推推推 按住wwwwww >>"
+  },
+  "<< the platform will rise in 15 seconds >>": {
+    "translation": "<< 石板15秒后上升 >>"
+  },
+  "<< we need to wait the platform for 25 seconds >>": {
+    "translation": "<< 防守25秒 等待板子降下来 >>"
+  },
+  "<< the wall will disappear in 30 seconds >>": {
+    "translation": "<< 防守30秒直到路开 >>"
+  },
+  "<< human teleported >>": {
+    "translation": "<< 人类已传送 >>"
+  },
+  "<< zombie will be teleported soon >>": {
+    "translation": "<< 姜丝马上就来了哦 >>"
+  },
+  "<< zombie teleported >>": {
+    "translation": "<< 来了 他们来了 >>"
+  },
+  "<< map by Misaka >>": {
+    "translation": "<< 作者 Misaka 汉化:夜里很饿@风云社 >>"
+  },
+  "<< special thanks to koyomaple, Excarliber and gneL >>": {
+    "translation": "<< 鸣谢 koyomaple, Excarliber 以及 gneL >>"
+  },
+  "<< we can go inside the room in 20 seconds >>": {
+    "translation": "<< 20秒后我们可以进入房间里 >>"
+  },
+  "<< defend for 10 seconds >>": {
+    "translation": "<< 防守10秒 >>"
+  },
+  "<< we can reach the top in 50 seconds >>": {
+    "translation": "<< 继续防守50秒 >>"
+  },
+  "<< the glass wall will break in 15 seconds >>": {
+    "translation": "<< 再守15秒 >>"
+  },
+  "<< the platform will move again in 10 seconds >>": {
+    "translation": "<< 木板10秒后上升 >>"
+  },
+  "<< 5 seconds to move >>": {
+    "translation": "<< 还剩5秒 >>"
+  },
+  "<< defeat the boss >>": {
+    "translation": "<< 干掉Boss >>"
+  },
+  "<< the way will be able to pass in 25 seconds >>": {
+    "translation": "<< 空气墙在25秒后消失 >>"
+  },
+  "<< we need to find a way to go on >>": {
+    "translation": "<< 我们得找一条路离开 >>"
+  },
+  "<< It's Misaka Again!!! >>": {
+    "translation": "<< 御坂又来了!!! >>"
+  },
+  "<< wait for a moment >>": {
+    "translation": "<< 等一会 你别急 >>"
+  },
+  "<< the ladder is able to climb >>": {
+    "translation": "<< 僵尸梯子开了 >>"
+  },
+  "<< teleport will enable in 40 seconds >>": {
+    "translation": "<< 传送装置40秒后 >>"
+  },
+  "<< the final platform will move in 3 seconds >>": {
+    "translation": "<< 平台在3秒后移动 >>"
+  },
+  "<< wait ...... something may happen ...... >>": {
+    "translation": "<< 等等 有点不对劲...... >>"
+  },
+  "<< It's Misaka !!! >>": {
+    "translation": "<< 是御坂 >>"
+  },
+  "<< dodge the laser !!! >>": {
+    "translation": "<< 高低刀 >>"
+  },
+  "<< more laser is coming !!! >>": {
+    "translation": "<< 列车刀来喽 >>"
+  },
+  "<< up and down !!! >>": {
+    "translation": "<< 上下刀 >>"
+  },
+  "<< defend for 15 seconds >>": {
+    "translation": "<< 守住15秒 >>"
+  },
+  "<< A zombie has picked up speed >>": {
+    "translation": "<< 一只姜丝捡起了加速 >>"
+  },
+  "<< You have already win this map >>": {
+    "translation": "<< 你已经通关了 >>"
+  },
+  "<< RTV plz >>": {
+    "translation": "<< RTV 搞快点 >>"
+  },
+  "<< do not hear what I say? >>": {
+    "translation": "<< 你们没听见我说啥吗? >>"
+  },
+  "<< RTV!!! >>": {
+    "translation": "<< RTV!!! >>"
+  },
+  "<< boss is defeated >>": {
+    "translation": "<< boss被打败了 >>"
+  },
+  "<< a bridge appears >>": {
+    "translation": "<< 路出来了 >>"
+  },
+  "<< zombie will release soon >>": {
+    "translation": "<< 姜丝来了哦 >>"
+  },
+  "<< Misaka is defeated >>": {
+    "translation": "<< 御坂被打败了 >>"
+  },
+  "<< the guard will disappear in 25 seconds >>": {
+    "translation": "<< 守卫在25秒后消失 >>"
+  },
+  "<< INSANE III Selected >>": {
+    "translation": "<< 已选择EX 三 >>"
+  },
+  "<< The wall will break in 35 seconds >>": {
+    "translation": "<< 墙在35秒后消失 >>"
+  },
+  "OnBreak>command>Command>** The wall will break in 12 seconds **>0>1": {
+    "translation": "OnBreak>command>Command>** The wall will break in 12 seconds **>0>1"
+  },
+  "OnBreak>command>Command>** Something may happen in 20 seconds... ** >22>1": {
+    "translation": "OnBreak>command>Command>** Something may happen in 20 seconds... ** >22>1"
+  },
+  "<< Ending in 12 seconds... >>": {
+    "translation": "<< 还剩12秒 >>"
+  },
+  "<< I know what you want... >>": {
+    "translation": "<< 我知道你想要什么... >>"
+  },
+  "<< Good Luck... >>": {
+    "translation": "<< 祝好运... >>"
+  },
+  "*** Hold for the final 45 seconds ***": {
+    "translation": "*** 守住45秒 ***"
+  },
+  "*** Devil Wave - 恶魔冲击 ***": {
+    "translation": "*** Devil Wave - 恶魔冲击 ***"
+  },
+  "*** Deadly Vortex - 致命漩涡 ***": {
+    "translation": "*** Deadly Vortex - 致命漩涡 ***"
+  },
+  "*** Undead Legion - 亡灵军团 ***": {
+    "translation": "*** Undead Legion - 亡灵军团 ***"
+  },
+  "*** Divine penalty - 神罚 ***": {
+    "translation": "*** Divine penalty - 神罚 ***"
+  },
+  "*** Embattle - 四面楚歌 ***": {
+    "translation": "*** Embattle - 四面楚歌 ***"
+  },
+  "*** Crippling strike - 致残打击 ***": {
+    "translation": "*** Crippling strike - 致残打击 ***"
+  },
+  "*** 10 ***": {
+    "translation": "*** 10 ***"
+  },
+  "*** Survive for 20 seconds!!! ***": {
+    "translation": "*** 还剩20秒 ***"
+  },
+  "*** Insane III Complete ***": {
+    "translation": "*** EX 三完成 ***"
+  },
+  "*** You are the legend of this map!!! ***": {
+    "translation": "*** 你征服了这个地图 ***"
+  },
+  "*** Map by Misaka, special thanks to memories for Insane III ***": {
+    "translation": "*** 作者Misaka, 特别感谢对ex三的回忆 ***"
+  },
+  "<< RTV II Selected  >>": {
+    "translation": "<< RTV二 已选择  >>"
+  },
+  "<< Nuke in 5 seconds >>": {
+    "translation": "<< 核爆5秒后 >>"
+  }
+}

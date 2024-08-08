@@ -1,0 +1,61 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "brand_boss_hp_counter",
+      "backup": "",
+      "counter": "brand_boss_hp_bar",
+      "increase": true,
+      "hitbox": "brand_boss_hitbox",
+      "display": "Block"
+    },
+    {
+      "iterator": "st1_boss_math3",
+      "hitbox": "st1_boss_break3",
+      "display": "Block"
+    },
+    {
+      "iterator": "st3_boss_hp_counter",
+      "backup": "",
+      "counter": "st3_boss_hp_bar",
+      "increase": true,
+      "hitbox": "st3_boss_hitbox",
+      "display": "Block"
+    },
+    {
+      "iterator": "st4_miniboss_math",
+      "hitbox": "st4_miniboss_hitbox",
+      "display": "Block"
+    },
+    {
+      "iterator": "st1_boss_math1",
+      "hitbox": "st1_boss_break1",
+      "display": "Block"
+    },
+    {
+      "iterator": "st1_boss_math2",
+      "hitbox": "st1_boss_break2",
+      "display": "Block"
+    }
+  ]
+}

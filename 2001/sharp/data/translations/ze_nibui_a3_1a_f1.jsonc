@@ -1,0 +1,127 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Elevator leaving in 40 seconds***": {
+    "translation": "***电梯:40秒***"
+  },
+  "***Elevator leaving in 10 seconds***": {
+    "translation": "***电梯:10秒***"
+  },
+  "***Elevator leaving in 25 seconds***": {
+    "translation": "***电梯:25秒***"
+  },
+  "***Walls will break in 15 seconds***": {
+    "translation": "***电梯:15秒***"
+  },
+  "*** ...4... ***": {
+    "translation": "*** ...4... ***"
+  },
+  "*** ...2... ***": {
+    "translation": "*** ...2... ***"
+  },
+  "*** ...3... ***": {
+    "translation": "*** ...3... ***"
+  },
+  "***Wall will break in 15 seconds***": {
+    "translation": "***防守:15秒***"
+  },
+  "***AFK tp in 10 seconds***": {
+    "translation": "***僵尸传送:10秒***"
+  },
+  "*** ...1 ***": {
+    "translation": "*** ...1 ***"
+  },
+  "***Walls will break in 20 seconds***": {
+    "translation": "***防守:20秒***"
+  },
+  "***Walls will break in 10 seconds***": {
+    "translation": "***防守:10秒***"
+  },
+  "***Door opens in 40 seconds***": {
+    "translation": "***门:40秒***"
+  },
+  "***Door opens in 30 seconds***": {
+    "translation": "***门:30秒***"
+  },
+  "***Door opens in 15 seconds***": {
+    "translation": "***门:15秒***"
+  },
+  "***The door is opening***": {
+    "translation": "***门开了***"
+  },
+  "***Elevator will leave in 15 seconds***": {
+    "translation": "***电梯:15秒***"
+  },
+  "***Wall will break in 20 seconds***": {
+    "translation": "***防守:20秒***"
+  },
+  "***AFK tp in 15 seconds***": {
+    "translation": "***僵尸传送:15秒***"
+  },
+  "***Wall will break in 10 seconds***": {
+    "translation": "***防守:10秒***"
+  },
+  "***Wall will break in 30 seconds***": {
+    "translation": "***防守:30秒***"
+  },
+  "***Elevators will start in 20 seconds***": {
+    "translation": "***电梯:20秒***"
+  },
+  "***Elevator will start in 20 seconds***": {
+    "translation": "***电梯:20秒***"
+  },
+  "***Ladder shortcut open in 10 seconds***": {
+    "translation": "***梯子捷径[一]:10秒***"
+  },
+  "***Second ladder shortcut open in 10 seconds***": {
+    "translation": "***梯子捷径[二]:10秒***"
+  },
+  "***Wall will break in 25 seconds***": {
+    "translation": "***防守:25秒***"
+  },
+  "***Cover here for 40 seconds***": {
+    "translation": "***防守:40秒***"
+  },
+  "***Cover here for 20 more seconds***": {
+    "translation": "***防守:20秒***"
+  },
+  "***Final ladder is open in 10 seconds***": {
+    "translation": "***梯子:10秒***"
+  },
+  "***Final door will be closed in 30 seconds***": {
+    "translation": "***最终の门:30秒***"
+  },
+  "***Final nuke inbound***": {
+    "translation": "***核爆***"
+  },
+  "***AFK TP in 40 seconds***": {
+    "translation": "***挂机传送:40秒***"
+  },
+  "***AFK TP in 20 seconds***": {
+    "translation": "***挂机传送:20秒***"
+  },
+  "***Inner wall will break in 10 seconds***": {
+    "translation": "***内墙:10秒***"
+  },
+  "***Wall will break in 5 seconds***": {
+    "translation": "***防守:5秒***"
+  },
+  "***The wall will break in 30 seconds***": {
+    "translation": "***防守:30秒***"
+  },
+  "*** 5... ***": {
+    "translation": "*** 5... ***"
+  },
+  "***Kill any remaining zombies inside***": {
+    "translation": "***杀死进来的僵尸***"
+  }
+}

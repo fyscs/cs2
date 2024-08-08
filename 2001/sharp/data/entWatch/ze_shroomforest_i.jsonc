@@ -22,7 +22,7 @@
 [
   {
     "name": "终极菇",
-    "shortName": "爆",
+    "shortName": "终极",
     "buttonClass": "func_button",
     "hammerId": "931",
     "cooldown": 75,
@@ -33,7 +33,7 @@
   },
   {
     "name": "弹药菇",
-    "shortName": "射",
+    "shortName": "弹药",
     "buttonClass": "func_button",
     "hammerId": "1080",
     "cooldown": 60,
@@ -44,7 +44,7 @@
   },
   {
     "name": "草墙菇",
-    "shortName": "墙",
+    "shortName": "草墙",
     "buttonClass": "func_button",
     "hammerId": "1184",
     "cooldown": 60,
@@ -66,7 +66,7 @@
   },
   {
     "name": "重力菇",
-    "shortName": "凝",
+    "shortName": "重力",
     "buttonClass": "func_button",
     "hammerId": "1217",
     "cooldown": 60,
@@ -88,7 +88,7 @@
   },
   {
     "name": "冰冻菇",
-    "shortName": "冰",
+    "shortName": "冰砖",
     "buttonClass": "func_button",
     "hammerId": "1237",
     "cooldown": 60,
@@ -99,7 +99,7 @@
   },
   {
     "name": "地雷菇",
-    "shortName": "坬",
+    "shortName": "地雷",
     "buttonClass": "func_button",
     "hammerId": "8890",
     "maxUses": 6,
