@@ -1,0 +1,130 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Security doors closing in 10!": {
+    "translation": "大门10秒后关了"
+  },
+  "Door opening in 5 seconds!": {
+    "translation": "门在5秒后打开"
+  },
+  "*** Difficulty : rtv ***": {
+    "translation": "*** RTV关 护眼注意哦***"
+  },
+  "*** Difficulty : Insane ***": {
+    "translation": "*** 难度 半截入土 ***"
+  },
+  "*** Difficulty : Extreme ***": {
+    "translation": "*** 难度 困难 ***"
+  },
+  "*** Difficulty : Hard ***": {
+    "translation": "*** 难度 老司机 ***"
+  },
+  "*** Difficulty : Normal ***": {
+    "translation": "*** 难度 咸鱼 ***"
+  },
+  "*** Difficulty : Easy ***": {
+    "translation": "*** 难度 萌新 ***"
+  },
+  "** ADMIN : RESET EXTREME BOSS LOSE VALUE TO DEFAULT **": {
+    "translation": "** 管理将困难BOSS设置为默认值 **"
+  },
+  "** EXTREME BOSS OVERRIDE CAN BE PRESSED AFTER STAGE 1 **": {
+    "translation": "** 在第一关之后 可以按下EX的BOSS超控 **"
+  },
+  "** ADMIN : Set stage to Hard. **": {
+    "translation": "** 管理选择了老司机难度 **"
+  },
+  "** ADMIN : Set stage to Normal. **": {
+    "translation": "** 管理选择了咸鱼难度 **"
+  },
+  "** ADMIN : Set stage to Extreme. **": {
+    "translation": "** 管理选择了困难难度 **"
+  },
+  "** ADMIN : Set stage to Insane. **": {
+    "translation": "** 管理选择了入土难度 **"
+  },
+  "** ADMIN : FORCE EXTREME BOSS OFF **": {
+    "translation": "** 管理关闭了困难的BOSS **"
+  },
+  "** ADMIN : FORCE EXTREME BOSS ON **": {
+    "translation": "** 管理打开了困难的BOSS **"
+  },
+  "** ADMIN : Set stage to RTV. **": {
+    "translation": "** 管理选择了RTV关 **"
+  },
+  "** ADMIN : FORCE DDR **": {
+    "translation": "** 管理 强制DDR **"
+  },
+  "** 3 **": {
+    "translation": "** 三 **"
+  },
+  "** 2 **": {
+    "translation": "** 二 **"
+  },
+  "** 1 **": {
+    "translation": "** 一 **"
+  },
+  "** ADMIN : Set stage to Easy. **": {
+    "translation": "** 管理选择了萌新难度 **"
+  },
+  "Incoming nuke!!!": {
+    "translation": "侦测到在途的聚变打击!!!"
+  },
+  "Elevator leaving in 3 seconds!": {
+    "translation": "电梯在3秒后跑路了"
+  },
+  "Mini train leaving in 5 seconds!": {
+    "translation": "火车在5秒后跑路了"
+  },
+  "Tracks crashed ahead.": {
+    "translation": "纳尼 铁道没了"
+  },
+  "Tram leaving in 10 seconds!": {
+    "translation": "damn车在10秒后出发"
+  },
+  "Train leaving in 30 seconds!": {
+    "translation": "火车30秒后就润了"
+  },
+  "Train leaving in 20 seconds!": {
+    "translation": "火车20秒后就润了"
+  },
+  "Train leaving in 10 seconds!": {
+    "translation": "火车10秒后就润了"
+  },
+  "Train is leaving!": {
+    "translation": "火车跑路了"
+  },
+  "Helicopter leaves 20 seconds!": {
+    "translation": "牢大还有20秒就接我们走了"
+  },
+  "remaining 5 seconds!": {
+    "translation": "还剩5秒"
+  },
+  "Door opening in 15 seconds!": {
+    "translation": "门在15秒后打开"
+  },
+  "Hold 20 seconds!": {
+    "translation": "守住20秒"
+  },
+  "Door opening in 80 seconds!": {
+    "translation": "门在80秒后开 (卧槽你认真的)"
+  },
+  "Remaining 40 seconds!": {
+    "translation": "还剩40秒"
+  },
+  "Remaining 10 seconds!": {
+    "translation": "还剩10秒"
+  },
+  "Remaining 15 seconds!": {
+    "translation": "还剩15秒"
+  }
+}
