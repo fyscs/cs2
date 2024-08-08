@@ -1,0 +1,46 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Luckybox_5": {
+    "translation": "彩蛋⑤"
+  },
+  "Luckybox_10": {
+    "translation": "彩蛋⑩"
+  },
+  "Luckybox_9": {
+    "translation": "彩蛋⑨"
+  },
+  "Luckybox_8": {
+    "translation": "彩蛋⑧"
+  },
+  "Luckybox_7": {
+    "translation": "彩蛋⑦"
+  },
+  "Luckybox_6": {
+    "translation": "彩蛋⑥"
+  },
+  "error": {
+    "translation": "密码错误"
+  },
+  "Luckybox_4": {
+    "translation": "彩蛋④"
+  },
+  "Luckybox_2": {
+    "translation": "彩蛋②"
+  },
+  "Luckybox_3": {
+    "translation": "彩蛋③"
+  },
+  "Luckybox_1": {
+    "translation": "彩蛋①"
+  }
+}
