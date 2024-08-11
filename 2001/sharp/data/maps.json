@@ -1436,6 +1436,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_silent_hill_3_flee": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
   "ze_silent_hill_blackblood": {
     "certainTimes": [-1],
     "price": 500,
