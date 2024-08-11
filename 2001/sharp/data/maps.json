@@ -764,6 +764,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_industrial_dejavu": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 120,
+    "nomination": false,
+    "admin": false
+  },
   "ze_infiltration_final_p": {
     "certainTimes": [-1],
     "price": 300,
