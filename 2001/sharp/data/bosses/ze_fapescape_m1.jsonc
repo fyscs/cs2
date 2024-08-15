@@ -1,0 +1,75 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "boss_5attackhp",
+      "backup": "boss_5hp_default",
+      "counter": "boss_5shigehp",
+      "hitbox": "boss_5hpyhitbox",
+      "display": "Boss"
+    },
+    {
+      "iterator": "boss_2attackhp",
+      "backup": "boss_2hp_default",
+      "counter": "boss_2shigehp",
+      "hitbox": "boss_2hpyhitbox",
+      "display": "Boss"
+    },
+    {
+      "iterator": "boss_1attackhp",
+      "backup": "boss_1hp_default",
+      "counter": "boss_1shigehp",
+      "hitbox": "boss_1hpyhitbox",
+      "display": "Boss"
+    },
+    {
+      "iterator": "boss_3attackhp",
+      "backup": "boss_3hp_default",
+      "counter": "boss_3shigehp",
+      "hitbox": "boss_3hpyhitbox",
+      "display": "Boss"
+    },
+    {
+      "iterator": "boss_4attackhp",
+      "backup": "boss_4hp_default",
+      "counter": "boss_4shigehp",
+      "hitbox": "boss_4hpyhitbox",
+      "display": "Boss"
+    },
+    {
+      "iterator": "boss_61hp",
+      "hitbox": "boss_61hpyhitbox",
+      "display": "Phase1"
+    },
+    {
+      "iterator": "boss_62hp",
+      "hitbox": "boss_62hpyhitbox",
+      "display": "Phase2"
+    },
+    {
+      "iterator": "boss_63hp",
+      "hitbox": "boss_63hpyhitbox",
+      "display": "Phase3"
+    }
+  ]
+}
