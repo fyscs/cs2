@@ -1,0 +1,337 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***AFK player will teleport in 20seconds***": {
+    "translation": "***AFK玩家将在20秒内传送***"
+  },
+  "***Right path will open in 5sec***": {
+    "translation": "***正确的路将在5秒后开启***"
+  },
+  "***zombies will teleport into castle soon***": {
+    "translation": "***僵尸很快就会传送到城堡***"
+  },
+  "***door open in 40 sec***": {
+    "translation": "***门40秒后打开***"
+  },
+  "***door open in 30 sec***": {
+    "translation": "***门30秒后打开***"
+  },
+  "***door open in 20 sec***": {
+    "translation": "***门20秒后打开***"
+  },
+  "***door open in 10 sec***": {
+    "translation": "***门10秒后打开***"
+  },
+  "***mian door openning***": {
+    "translation": "***开门了***"
+  },
+  "***door will open in 20seconds***": {
+    "translation": "***门将在20秒后打开***"
+  },
+  "***zombie will teleport soon***": {
+    "translation": "***僵尸很快就会传送***"
+  },
+  "***5seconds left***": {
+    "translation": "***还剩5秒***"
+  },
+  "***the last defend,after 20second the bridge will break***": {
+    "translation": "***20秒后断桥***"
+  },
+  "***the last defend,after 25second the bridge will break***": {
+    "translation": "***25秒后断桥***"
+  },
+  "***wait 25second for legobox explore***": {
+    "translation": "***等待25秒***"
+  },
+  "***15seconds left***": {
+    "translation": "***还剩15秒***"
+  },
+  "***door will break in 25second***": {
+    "translation": "***门将在25秒后破裂***"
+  },
+  "***door will break in 15second***": {
+    "translation": "***门将在15秒后破裂***"
+  },
+  "***door will break in 5second***": {
+    "translation": "***门将在5秒后破裂***"
+  },
+  "***door wil break in 5second***": {
+    "translation": "***门5秒后就会破***"
+  },
+  "***door wil break in 20second***": {
+    "translation": "***门将在20秒内破裂***"
+  },
+  "***Noob Down***": {
+    "translation": "***新手下来***"
+  },
+  "***boss door opening in 25sec***": {
+    "translation": "***老板让你在门口等25秒***"
+  },
+  "***Final door will appear in 20 Seconds***": {
+    "translation": "***最后一扇门将在20秒后出现***"
+  },
+  "***Final door will appear in 10 Seconds***": {
+    "translation": "***最后一扇门将在10秒后出现***"
+  },
+  "***Another road will appear soon***": {
+    "translation": "***另一条路很快就会出现***"
+  },
+  "***Why zombies are in helicopter? You Fail***": {
+    "translation": "***僵尸上来了?那你还是去死吧***"
+  },
+  "***the last defend,after 30second the heli will take off***": {
+    "translation": "***牢大将在30秒后带我们离开***"
+  },
+  "***the last defend,after 20second the heli will take off***": {
+    "translation": "***牢大将在20秒后带我们离开***"
+  },
+  "*** Stage2 Level Completed! ***": {
+    "translation": "*** 第二关已完成! ***"
+  },
+  "*** Stage EX2 Level Completed! ***": {
+    "translation": "*** EX二已完成! ***"
+  },
+  "*** Stage1 Level Completed! ***": {
+    "translation": "*** 第一关已完成! ***"
+  },
+  "*** Stage EX1 Level Completed! ***": {
+    "translation": "*** EX一已完成! ***"
+  },
+  "***army door will open in 20seconds***": {
+    "translation": "***门20秒后开***"
+  },
+  "***wait 15second for door break***": {
+    "translation": "***门开还有15秒***"
+  },
+  "***armored car now is charging,wait 25second for start***": {
+    "translation": "***泥头车准备就绪!25秒后全给你创死***"
+  },
+  "***armored car now is charging,wait 15second for start***": {
+    "translation": "***泥头车正在充电!等15秒钟***"
+  },
+  "***door wil open in 25second***": {
+    "translation": "***门将在25秒内打开***"
+  },
+  "***door wil open in 15second***": {
+    "translation": "***门将在15秒内打开***"
+  },
+  "***door wil open in 5second***": {
+    "translation": "***门将在5秒内打开***"
+  },
+  "***door will open in 5second***": {
+    "translation": "***门将在5秒后打开***"
+  },
+  "***door will open in 10second***": {
+    "translation": "***门将在10秒后打开***"
+  },
+  "***door will open in 20second***": {
+    "translation": "***门将在20秒后打开***"
+  },
+  "***next door wil open in 5second***": {
+    "translation": "***隔壁5秒后开门***"
+  },
+  "***next door wil open in 15second***": {
+    "translation": "***隔壁15秒后开门***"
+  },
+  "***next door wil open in 25second***": {
+    "translation": "***隔壁25秒后开门***"
+  },
+  "***final boss door will open in 5second***": {
+    "translation": "***鸡哥让你在等5秒***"
+  },
+  "***final boss door will open in 10second***": {
+    "translation": "***鸡哥让你在等10秒***"
+  },
+  "***final boss door will open in 20second***": {
+    "translation": "***鸡哥让你在等20秒***"
+  },
+  "***hold 25seconds for bridge appear***": {
+    "translation": "***守住25秒等桥出来***"
+  },
+  "***zombies are in fly,You Fail***": {
+    "translation": "***牢大不想带着僵尸走!所以牢大要坠机了***"
+  },
+  "***wait 25seconds forplane open engine.***": {
+    "translation": "***等待25秒,牢大会把我们带走.***"
+  },
+  "***engine opening!***": {
+    "translation": "***牢大要走楼!***"
+  },
+  "*** Stage3 Level Completed! ***": {
+    "translation": "*** 关卡-三已完成 ***"
+  },
+  "***the factory door will open in 25seconds***": {
+    "translation": "***工厂门将在25秒后打开***"
+  },
+  "***the factory door will open in 5seconds***": {
+    "translation": "***工厂门将在5秒后打开***"
+  },
+  "***the factory door now opening***": {
+    "translation": "***工厂的大门现在打开了***"
+  },
+  "***the other path door now opening***": {
+    "translation": "***另一扇门现在打开了***"
+  },
+  "***Bridge now incoming,still hold zombies!***": {
+    "translation": "***桥延伸过来了,守住僵尸!***"
+  },
+  "***run!!!***": {
+    "translation": "***跑路***"
+  },
+  "***hold a few seconds until the path appear***": {
+    "translation": "***守会,马上有路了***"
+  },
+  "***wait a few seconds until the bridge down***": {
+    "translation": "***等会,等桥塌下来***"
+  },
+  "***hold a few seconds until the door open***": {
+    "translation": "***等会,一会门就开***"
+  },
+  "***this is final door,hold 10seconds and wait it break!!!***": {
+    "translation": "***等门开!还有10秒***"
+  },
+  "***Door break ,run!!!***": {
+    "translation": "***门开了!!跑路!***"
+  },
+  "***Zombies will teleport soon...***": {
+    "translation": "***僵尸很快就会传送...***"
+  },
+  "***this is the final rocket for survive,hold it and defend zombies 45second***": {
+    "translation": "***火箭将在45秒后起飞!别让僵尸上来!***"
+  },
+  "***this is the final rocket for survive,hold it and defend zombies 20second***": {
+    "translation": "***火箭将在20秒后起飞!别让僵尸上来!***"
+  },
+  "***5seconds left!!!***": {
+    "translation": "***还剩5秒!!!***"
+  },
+  "***zombies will teleport soon***": {
+    "translation": "***僵尸要传送喽~***"
+  },
+  "*** Stage EX3 Level Completed! ***": {
+    "translation": "*** EX三已完成 ***"
+  },
+  "*** CONGRATULATIONS  YOU HAVE BEATEN THE MAP! ***": {
+    "translation": "*** 恭喜!你完成了该张地图所有关卡 ***"
+  },
+  "***Why zombies in rocker?,You Fail***": {
+    "translation": "***僵尸上来了?那你GG了***"
+  },
+  "*** ZM stage***": {
+    "translation": "*** ZM***"
+  },
+  "***try to alive and protect your ass away from zombis,time left 120Second***": {
+    "translation": "***120秒活下去***"
+  },
+  "*** Level 1 ***": {
+    "translation": "*** 关卡-一 ***"
+  },
+  "*** Level 2 ***": {
+    "translation": "*** 关卡-二***"
+  },
+  "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **": {
+    "translation": "** 鸡你太美 **"
+  },
+  "** Turning on:... **": {
+    "translation": "** 打开:... **"
+  },
+  "*** Level 3 ***": {
+    "translation": "*** 关卡-三 ***"
+  },
+  "***door will open in 30seconds***": {
+    "translation": "***门将在30秒后打开***"
+  },
+  "***door will open in 10seconds***": {
+    "translation": "***门将在10秒后打开***"
+  },
+  "***door opening***": {
+    "translation": "***开门***"
+  },
+  "*** OH NOOES ***": {
+    "translation": "*** 哦!不 ***"
+  },
+  "*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***": {
+    "translation": "*** 快杀了RICK！！ ***"
+  },
+  "***railings will open in 20seconds***": {
+    "translation": "***栏杆将在20秒后打开***"
+  },
+  "***zombies path spawn***": {
+    "translation": "***僵尸测路开启***"
+  },
+  "***Bigdoor will open in 30seconds***": {
+    "translation": "***大门将在30秒后打开***"
+  },
+  "*** door is charge,opening in 35 seconds ***": {
+    "translation": "*** 门正在充电，35秒后打开 ***"
+  },
+  "*** door is charge,opening in 20 seconds ***": {
+    "translation": "*** 门正在充电，20秒后打开 ***"
+  },
+  "*** door is charge,opening in 10 seconds ***": {
+    "translation": "*** 门正在充电，10秒后打开 ***"
+  },
+  "*** door is charge,opening in 5 seconds ***": {
+    "translation": "*** 门已充电，5秒后打开 ***"
+  },
+  "***Left Door will break in 5 Seconds***": {
+    "translation": "***左车门将在5秒后破裂***"
+  },
+  "***Right Door will break in 5 Seconds***": {
+    "translation": "***右侧车门将在5秒后破裂***"
+  },
+  "***Boss room Teleport Machine will active in 20 Seconds***": {
+    "translation": "***传送机器将在20秒后激活***"
+  },
+  "***Boss room Teleport Machine activite***": {
+    "translation": "***传送机器启动了***"
+  },
+  "***final boss is dead,now it is time to escape***": {
+    "translation": "***BOSS死力!我们可以跑路喽***"
+  },
+  "***care the zombies, they still alive !!!***": {
+    "translation": "***小心僵尸***"
+  },
+  "***succeed find a organ***": {
+    "translation": "***成功找到了一处机关***"
+  },
+  "***A player pick up heal,it can heal human ,in ex3 mode,it can use twice***": {
+    "translation": "***一位玩家获得了奶 最终关可使用次数+①***"
+  },
+  "***A player pick up sword***": {
+    "translation": "***一位玩家获得大宝剑***"
+  },
+  "***A player pick mine,player can control when it explore,it can use 6 times***": {
+    "translation": "***玩家拾起了地雷，抬头E可以引爆 六次使用***"
+  },
+  "***A player pick up basketball***": {
+    "translation": "***一位玩家获得了鸡哥的宝物***"
+  },
+  "***A player pick up flame,when it use,it need times to charge oil***": {
+    "translation": "***玩家拾起了火焰喷射器***"
+  },
+  "***A player pick up pushgun***": {
+    "translation": "***玩家拾起了推力枪***"
+  },
+  "***A player pick up legowall,only human can damage it and break it***": {
+    "translation": "***一名玩家获得了乐高积木 只有人类才可以破坏它***"
+  },
+  "***A player pick up rpg***": {
+    "translation": "***一名玩家拿起rpg***"
+  },
+  "***A player pick up in jail item***": {
+    "translation": "***一位玩家获得了监狱传送枪***"
+  },
+  "***A player pick up ammo box ***": {
+    "translation": "***玩家拿起弹药箱 ***"
+  }
+}
