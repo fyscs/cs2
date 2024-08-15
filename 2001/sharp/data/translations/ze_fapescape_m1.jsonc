@@ -260,7 +260,7 @@
     "translation": "*** 哦!不 ***"
   },
   "*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***": {
-    "translation": "*** 快杀了RICK！！ ***"
+    "translation": "*** 快杀了RICK!! ***"
   },
   "***railings will open in 20seconds***": {
     "translation": "***栏杆将在20秒后打开***"
@@ -272,16 +272,16 @@
     "translation": "***大门将在30秒后打开***"
   },
   "*** door is charge,opening in 35 seconds ***": {
-    "translation": "*** 门正在充电，35秒后打开 ***"
+    "translation": "*** 门正在充电,35秒后打开 ***"
   },
   "*** door is charge,opening in 20 seconds ***": {
-    "translation": "*** 门正在充电，20秒后打开 ***"
+    "translation": "*** 门正在充电,20秒后打开 ***"
   },
   "*** door is charge,opening in 10 seconds ***": {
-    "translation": "*** 门正在充电，10秒后打开 ***"
+    "translation": "*** 门正在充电,10秒后打开 ***"
   },
   "*** door is charge,opening in 5 seconds ***": {
-    "translation": "*** 门已充电，5秒后打开 ***"
+    "translation": "*** 门已充电,5秒后打开 ***"
   },
   "***Left Door will break in 5 Seconds***": {
     "translation": "***左车门将在5秒后破裂***"
@@ -311,7 +311,7 @@
     "translation": "***一位玩家获得大宝剑***"
   },
   "***A player pick mine,player can control when it explore,it can use 6 times***": {
-    "translation": "***玩家拾起了地雷，抬头E可以引爆 六次使用***"
+    "translation": "***玩家拾起了地雷,抬头E可以引爆 六次使用***"
   },
   "***A player pick up basketball***": {
     "translation": "***一位玩家获得了鸡哥的宝物***"
