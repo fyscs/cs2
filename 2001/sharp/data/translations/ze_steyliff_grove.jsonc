@@ -1,0 +1,223 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "> A player has learned [ DarkSword ] magic, <": {
+    "translation": "> 玩家已经学会了[暗剑], <"
+  },
+  "> A player has learned [ HolySword ] magic, <": {
+    "translation": "> 一位玩家学会了圣光, <"
+  },
+  "> A player has learned [ Avant ] magic, <": {
+    "translation": "> 一个玩家学会了[前卫]魔法, <"
+  },
+  "> A player has learned [ Elusive ] magic, <": {
+    "translation": "> 玩家已经学会了[神出鬼没]魔法, <"
+  },
+  "> A player has learned [ Summons ] magic, <": {
+    "translation": "> 玩家已经学会了[召唤]魔法, <"
+  },
+  "> A player has learned [ Benefic ] magic, <": {
+    "translation": "> 玩家已经学会了[增益]魔法, <"
+  },
+  "> A zombie has learned [ Malefic ] magic, <": {
+    "translation": "> 僵尸学会了[凶星]魔法, <"
+  },
+  "* DarkSword in Malefic *": {
+    "translation": "* 暗剑 *"
+  },
+  "* HolySword in Malefic *": {
+    "translation": "* 圣光 *"
+  },
+  "* Fire in Malefic *": {
+    "translation": "* 火 *"
+  },
+  "* Aero in Malefic *": {
+    "translation": "* 升空 *"
+  },
+  "* Thunder in Malefic *": {
+    "translation": "* 雷电 *"
+  },
+  "* Water in Malefic *": {
+    "translation": "* 水 *"
+  },
+  "* Blizzard in Malefic *": {
+    "translation": "* 暴风雪 *"
+  },
+  "* Cure in Malefic *": {
+    "translation": "* 治愈 *"
+  },
+  "> A player has learned [ Dia ] magic, <": {
+    "translation": "> 玩家已经学会了[迪亚]魔法, <"
+  },
+  "> A player has learned [ Elixir ] magic, <": {
+    "translation": "> 一名玩家学会了[灵丹妙药]魔法, <"
+  },
+  "> A player has learned [ Aero ] magic, <": {
+    "translation": "> 僵尸学会了[升空]魔法, <"
+  },
+  "> A zombie has learned [ Siphon ] magic, <": {
+    "translation": "> 僵尸学会了[虹吸]魔法, <"
+  },
+  "> A zombie has learned [ Umbral ] magic, <": {
+    "translation": "> 一个僵尸学会了[深黯之影]魔法, <"
+  },
+  "* Umbral Assault *": {
+    "translation": "* 深黯之影 *"
+  },
+  "> A zombie has learned [ Gravity ] magic, <": {
+    "translation": "> 僵尸学会了[黑洞]魔法, <"
+  },
+  "> A zombie has learned [ Impact ] magic, <": {
+    "translation": "> 僵尸学会了[冲击]魔法, <"
+  },
+  "> A zombie has learned [ Foul ] magic, <": {
+    "translation": "> 僵尸学会了[污秽]魔法, <"
+  },
+  "> A zombie has learned [ Despair ] magic, <": {
+    "translation": "> 僵尸学会了[绝望]魔法, <"
+  },
+  "> A zombie has learned [ Frazzle ] magic, <": {
+    "translation": "> 僵尸已经学会了[诅咒]魔法, <"
+  },
+  "* Frazzle Curse *": {
+    "translation": "* 弗雷泽诅咒 *"
+  },
+  "> A zombie has learned [ Ward ] magic, <": {
+    "translation": "> 僵尸已经学会了[毒]魔法, <"
+  },
+  "* Ward Unfold *": {
+    "translation": "*展开*"
+  },
+  "> A player has learned [ Cure ] magic, <": {
+    "translation": "> 玩家已经学会了[治愈]魔法, <"
+  },
+  "> A player has learned [ Fire ] magic, <": {
+    "translation": "> 玩家已经学会了[火]魔法, <"
+  },
+  "> A player has learned [ Thunder ] magic, <": {
+    "translation": "> 玩家已经学会了[雷霆]魔法, <"
+  },
+  "> A player has learned [ Water ] magic, <": {
+    "translation": "> 玩家已经学会了[水]魔法, <"
+  },
+  "> A player has learned [ Blizzard ] magic, <": {
+    "translation": "> 玩家已经学会了[暴雪]魔法, <"
+  },
+  "< Original - Final Fantasy XV >": {
+    "translation": "< 来源 - 最终幻想VX >"
+  },
+  "< - Steyliff Grove - >": {
+    "translation": "< - 斯基弗利树林迷宫 - >"
+  },
+  "< ver. Preview >": {
+    "translation": "< 预览版本 >"
+  },
+  "< Final Fantasy VX - Steyliff Grove >": {
+    "translation": "< 最终幻想XV:斯基弗利树林迷宫 >"
+  },
+  "< Map+ Eugen & Joucho >": {
+    "translation": "< 地图作者: Eugen & Joucho地图翻译:@余清茗染 >"
+  },
+  "> The door will open in 25 seconds. <": {
+    "translation": "> 门将在25秒后打开. <"
+  },
+  "> The door will open in 15 seconds. <": {
+    "translation": "> 门将在15秒后打开. <"
+  },
+  "< This journey is coming to an end... >": {
+    "translation": "< 这段旅程即将结束... >"
+  },
+  "> The eerie magic disappeared... <": {
+    "translation": "> 诡异的魔法消失了... <"
+  },
+  "> Defend until the gates open. <": {
+    "translation": "> 防守直到大门打开. <"
+  },
+  "> Switch has been triggered, <": {
+    "translation": "> 开关已触发, <"
+  },
+  "> The door will open in 10 seconds. <": {
+    "translation": "> 门将在10秒后打开. <"
+  },
+  "> The door will open in 20 seconds. <": {
+    "translation": "> 门将在20秒后打开 <"
+  },
+  "> The road ahead has been destroyed. <": {
+    "translation": "> 前面的路被毁了. <"
+  },
+  "> New task: Defeat ??? Magna <": {
+    "translation": "> 新任务:失败???麦格纳 <"
+  },
+  "> The battle will begin in 10 seconds. <": {
+    "translation": "> 战斗将在10秒后开始. <"
+  },
+  "> Switch 1 has been triggered, <": {
+    "translation": "> 开关一已被触发, <"
+  },
+  "> Switch 2 has been triggered, <": {
+    "translation": "> 开关二已被触发, <"
+  },
+  "> Switch 3 has been triggered, <": {
+    "translation": "> 开关三已触发, <"
+  },
+  "> Switch 4 has been triggered, <": {
+    "translation": "> 开关四已触发, <"
+  },
+  "> The platform rises after 10 seconds. <": {
+    "translation": "> 10秒后平台升起. <"
+  },
+  "AraneaHighwind > Night falls,": {
+    "translation": "AraneaHighwind > 夜幕降临,"
+  },
+  "AraneaHighwind > Wait quietly for the maze gate to open.": {
+    "translation": "AraneaHighwind > 静静地等待迷宫门打开."
+  },
+  "❀>4": {
+    "translation": "❀>4"
+  },
+  "❀>3": {
+    "translation": "❀>3"
+  },
+  "❀>?": {
+    "translation": "❀>?"
+  },
+  "❀>2": {
+    "translation": "❀>2"
+  },
+  "❀>1": {
+    "translation": "❀>1"
+  },
+  "> Side task: Chocobo Hide and Seek <": {
+    "translation": "> 次要任务:和鸡哥进行捉迷藏 <"
+  },
+  "> What!? The divine beast of the underworld! <": {
+    "translation": "> 纳尼!冥界的神兽! <"
+  },
+  "> New task: Defeat Quetzalcoatl <": {
+    "translation": "> 新任务:击败克萨尔科塔尔 <"
+  },
+  "> The battle will begin in 15 seconds. <": {
+    "translation": "> 战斗将在15秒后开始. <"
+  },
+  "* Despair Devoured *": {
+    "translation": "*绝望吞噬*"
+  },
+  "Zombie Item Lock": {
+    "translation": "僵尸技能关闭"
+  },
+  "Zombie Item Unlock": {
+    "translation": "僵尸技能解锁"
+  },
+  "天平总是倾斜于某一端,": {
+    "translation": "天平总是倾斜于某一端,"
+  }
+}
