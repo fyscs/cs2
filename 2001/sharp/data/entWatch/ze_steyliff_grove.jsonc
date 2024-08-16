@@ -297,7 +297,7 @@
   },
   {
     "name": "Ward",
-    "shortName": "",
+    "shortName": "冲锋",
     "buttonClass": "func_button",
     "hammerId": "16604",
     "triggerId": ["16602"],
