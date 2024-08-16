@@ -1,4 +1,11 @@
 {
+   "ttt_amongus_beta": {
+    "certainTimes": [-1],
+    "price": 250,
+    "cooldown": 10,
+    "nomination": false,
+    "admin": false
+  }, 
   "ttt_capistrano_night": {
     "certainTimes": [-1],
     "price": 250,
