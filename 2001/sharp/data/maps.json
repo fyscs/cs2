@@ -1646,6 +1646,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_urban_laby_of_death_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 80,
+    "nomination": false,
+    "admin": false
+  },
   "ze_venice_escape_p": {
     "certainTimes": [-1],
     "price": 300,
