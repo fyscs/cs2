@@ -1478,6 +1478,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_steyliff_grove": {
+    "certainTimes": [-1],
+    "price": 550,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
   "ze_strange_escape_p": {
     "certainTimes": [-1],
     "price": 300,
