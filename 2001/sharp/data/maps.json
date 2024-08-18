@@ -369,7 +369,7 @@
     "price": 700,
     "cooldown": 150,
     "nomination": true,
-    "admin": false
+    "admin": true
   },
   "ze_death_star_escape_p": {
     "certainTimes": [-1],
