@@ -26,5 +26,15 @@
       "hitbox": "gargantua_physbox",
       "display": "Gargantua"
     }
+  ],
+  "Monsters": [
+    {
+      "identity": "568",
+      "display": "barnacle"
+    },
+    {
+      "identity": "11700",
+      "display": "Boom"
+    }
   ]
 }
