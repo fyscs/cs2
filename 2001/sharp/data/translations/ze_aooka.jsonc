@@ -1,0 +1,314 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** A player has acquired Heal Magick **": {
+    "translation": "** 一名玩家获得了治疗魔法 **"
+  },
+  "** A player has acquired Gold Magick **": {
+    "translation": "** 一名玩家获得了金环魔法 **"
+  },
+  "** A player has acquired Fire Magick **": {
+    "translation": "** 一名玩家获得了火焰魔法 **"
+  },
+  "** A player has acquired Ice Magick **": {
+    "translation": "** 一名玩家获得了寒冰魔法 **"
+  },
+  "** A player has acquired Electric Magick **": {
+    "translation": "** 一名玩家获得了闪电魔法 **"
+  },
+  "** A player has acquired Present Magick **": {
+    "translation": "** 一名玩家获得了礼物魔法 **"
+  },
+  "** A player has acquired Wind Magick **": {
+    "translation": "** 一名玩家获得了狂风魔法 **"
+  },
+  "** A player has acquired Water Magick **": {
+    "translation": "** 一名玩家获得了水魔法 **"
+  },
+  "< A zombie has acquired End Magick >": {
+    "translation": "< 亡灵获得了终结魔法 >"
+  },
+  "< A zombie has acquired IceFire Magick >": {
+    "translation": "< 亡灵获得了冰火魔法 >"
+  },
+  "< A zombie has acquired Rise Magick >": {
+    "translation": "< 亡灵获得了加速魔法 >"
+  },
+  "< A zombie has acquired Shield Magick >": {
+    "translation": "< 亡灵获得了护盾魔法 >"
+  },
+  "< A zombie has acquired Lure Magick >": {
+    "translation": "< 亡灵获得了黑洞魔法 >"
+  },
+  "< A zombie has acquired Shackles Magick >": {
+    "translation": "< 亡灵获得了虚弱魔法 >"
+  },
+  "<r.i.p ??? ???,??????,P???A???F???F???>": {
+    "translation": "<r.i.p ??? ???,??????,P???A???F???F???>",
+    "blocked": true
+  },
+  "< Meat - Holy >": {
+    "translation": "< 神圣<快去两边墙壁> >"
+  },
+  "< Meat - Ultima >": {
+    "translation": "< 终极<站门两边> >"
+  },
+  "< Meat - Thunder >": {
+    "translation": "< 雷霆<躲避特效> >"
+  },
+  "< Meat - Fire of Shield >": {
+    "translation": "< 火焰护盾<快停枪> >"
+  },
+  "< Meat - Fire of Cure >": {
+    "translation": "< 火焰治疗<远离火焰> >"
+  },
+  "< Izzo! >": {
+    "translation": "< Izzo! >"
+  },
+  "<The gate will open in 25 seconds>": {
+    "translation": "<大门25秒后打开>"
+  },
+  "<Hold here>": {
+    "translation": "<坚持住>"
+  },
+  "<Activate teleport crystal after 15 seconds>": {
+    "translation": "<传送水晶15秒后启动>"
+  },
+  "< Meat - Gravity >": {
+    "translation": "< 黑洞<远离中间!> >"
+  },
+  "< Meat - Wind >": {
+    "translation": "< 飓风 >"
+  },
+  "<The gate will open in 30 seconds>": {
+    "translation": "<大门30秒后打开>"
+  },
+  "<The temple will be destroyed in 120 seconds>": {
+    "translation": "<神殿将于两分钟后毁灭..>"
+  },
+  "<You are the map champion!!!>": {
+    "translation": "<你征服了这张地图 huh>"
+  },
+  "ZE_Aooka3 Map by vueru": {
+    "translation": "龙之殿V3 作者:vueru"
+  },
+  "Thanks:冰雪葬泪\\Eugen - Fong\\Lishang - Spxctator": {
+    "translation": "Thanks:冰雪葬泪 Eugen - Fong Lishang - Spxctator"
+  },
+  "<Gate will open in 20 seconds>": {
+    "translation": "<大门20秒后打开>"
+  },
+  "<Door will open in 20 seconds>": {
+    "translation": "<大门20秒后打开>"
+  },
+  "<Door will broken in 20 seconds>": {
+    "translation": "<大门20秒后打开>"
+  },
+  "<Hole here>": {
+    "translation": "<保持防守>"
+  },
+  "<Gate will open in 30 seconds>": {
+    "translation": "<大门30秒后打开>"
+  },
+  "* Stage I *": {
+    "translation": "* 关卡 I *"
+  },
+  "* Stage II *": {
+    "translation": "* 关卡 II *"
+  },
+  "* Stage III *": {
+    "translation": "* 关卡 III *"
+  },
+  "* Stage IV *": {
+    "translation": "* 关卡 IV *"
+  },
+  "<Gate will open in 35 seconds>": {
+    "translation": "<大门35秒后打开>"
+  },
+  "<Gate will open in 25 seconds>": {
+    "translation": "<大门25秒后打开>"
+  },
+  "<The wall will broken in 20 seconds>": {
+    "translation": "<墙20秒后破开>"
+  },
+  "<Gate will open in 10 seconds>": {
+    "translation": "<大门10秒后打开>"
+  },
+  "< Spider - Twins >": {
+    "translation": "< 双生<远离特效> >"
+  },
+  "< Spider - Dark Light >": {
+    "translation": "< 黑暗之光 >"
+  },
+  "< Soul - Electric >": {
+    "translation": "< 电球 >"
+  },
+  "< Soul - Nibble Away Up >": {
+    "translation": "< 啃食 >"
+  },
+  "< Enter the Gold range to avoid damage >": {
+    "translation": "< 快进入金环范围内 >"
+  },
+  "< Soul - Rise Nibble Away Up >": {
+    "translation": "< 加速啃食 >"
+  },
+  ">* 10 seconds *<": {
+    "translation": ">* 10秒 *<"
+  },
+  ">* 5 seconds *<": {
+    "translation": ">* 5秒 *<"
+  },
+  "< Spider - Lock Star >": {
+    "translation": "< 星之锁<中间不要动> >"
+  },
+  "< Spider - Solution Star >": {
+    "translation": "< 星之解<远离中间> >"
+  },
+  "< Spider - Gemini >": {
+    "translation": "< 双子星 >"
+  },
+  "< Spider - Death Star >": {
+    "translation": "< 死亡之星 >"
+  },
+  "< Spider - Ask Spirit >": {
+    "translation": "< 灵魂索取<蹲下躲避伤害> >"
+  },
+  "< Spider - Heavenly Sin >": {
+    "translation": "< 天降罪恶 >"
+  },
+  "< Spider - Time Cocoon >": {
+    "translation": "< 时间之茧<远离脚下白色特效> >"
+  },
+  "< Spider - Sand Wind >": {
+    "translation": "< 沙尘暴<抵抗吸力> >"
+  },
+  "<Defend until the gate is closed>": {
+    "translation": "<在大门关上之前继续防守>"
+  },
+  "<Zombies are coming in!>": {
+    "translation": "<亡灵已经进来了>"
+  },
+  "<It's safe for the time being...>": {
+    "translation": "<暂时安全了...>"
+  },
+  "OnPressed>Command>Command>The gate will open in 30 seconds>0>1": {
+    "translation": "<大门30秒后打开>"
+  },
+  "<Door will broken in 25 seconds>": {
+    "translation": "<门25秒后打开!>"
+  },
+  "<Wait for the water to rise>": {
+    "translation": "<等待水面升起...>"
+  },
+  "<The water is rising>": {
+    "translation": "<水面正在升起...>"
+  },
+  "<The door will broken in 10 seconds>": {
+    "translation": "<门10秒后打开!>"
+  },
+  "< Boot - Starfall >": {
+    "translation": "< 星落 <注意星星!> >"
+  },
+  "< Boot - Snow >": {
+    "translation": "< 雪环 <看脚下!> >"
+  },
+  "< Boot - Repair >": {
+    "translation": "< 自愈 <停止射击!> >"
+  },
+  "< Boot - Vortex >": {
+    "translation": "< 旋涡 <抵抗吸力!> >"
+  },
+  "< Boot - Poison >": {
+    "translation": "< 毒气 <动起来!> >"
+  },
+  "< Boot - Mire >": {
+    "translation": "< 泥潭 <站外圈栏杆!> >"
+  },
+  "<The gate will open in 15 seconds>": {
+    "translation": "<大门15秒后打开>"
+  },
+  ">Gate will open in 30 seconds<": {
+    "translation": ">大门30秒后打开<"
+  },
+  "<Barrier is gone !!>": {
+    "translation": "<障碍物已被清除!!>"
+  },
+  "<There seems to be a road under this slate...>": {
+    "translation": "<这石板下面似乎有一条暗道...>"
+  },
+  "<5 seconds>": {
+    "translation": "<5秒>"
+  },
+  "<The crystal is broken?>": {
+    "translation": "<水晶被破坏了吗?"
+  },
+  "< Meat - Ice Blade >": {
+    "translation": "< 冰霜之刃 >"
+  },
+  "< Meat - Waters >": {
+    "translation": "< 涡漩 >"
+  },
+  "< Meat - Sand Dust >": {
+    "translation": "< 沙尘<蹲下!> >"
+  },
+  "< Meat - Space Cocoon >": {
+    "translation": "< 空间转移<远离中间特效!>>"
+  },
+  "<Meat wakes up in 10 seconds>": {
+    "translation": "<BOOS将于10秒后苏醒!>"
+  },
+  "< Meat - Fire >": {
+    "translation": "< 火焰<站到台阶上> >"
+  },
+  "<Wait for 15 seconds>": {
+    "translation": "<等待15秒>"
+  },
+  "<The gate will open in 35 seconds>": {
+    "translation": "<大门35秒后打开>"
+  },
+  "<Zombie Item is Disable>": {
+    "translation": "<亡灵物品已被禁用>"
+  },
+  "<Zombie Item is Enable>": {
+    "translation": "<亡灵物品已被启用>"
+  },
+  "ZE_Aooka3": {
+    "translation": "龙之殿V3"
+  },
+  "Map by vueru": {
+    "translation": "作者:vueru"
+  },
+  "Port by Hephasfos": {
+    "translation": "移植:Hephasfos 汉化:Zeyu1"
+  },
+  "> Stage I <": {
+    "translation": "> 关卡 I <"
+  },
+  "<Gate will open in 15 seconds>": {
+    "translation": "<大门15秒后打开>"
+  },
+  "---ZE_Aooka---": {
+    "translation": "---ZE_Aooka---"
+  },
+  "<Start in 5 seconds>": {
+    "translation": "<探险旅程将在5秒后开启>"
+  },
+  "> Stage II <": {
+    "translation": "> 关卡 II <"
+  },
+  "> Stage III <": {
+    "translation": "> 关卡 III <"
+  },
+  "> Stage IV <": {
+    "translation": "> 关卡 IV <"
+  }
+}
