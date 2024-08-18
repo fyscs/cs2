@@ -1,0 +1,114 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<< ... ... >>>": {
+    "translation": "<<< ... ... >>>",
+    "blocked": true
+  },
+  "<<< wait for a while the tram is coming >>>": {
+    "translation": "电车就要来了,等会"
+  },
+  "<<< zombies are comming from behind >>>": {
+    "translation": "僵尸从后面过来了"
+  },
+  "<<< the glass looks weak, watchout... >>>": {
+    "translation": "玻璃看起来不怎么结实,小心..."
+  },
+  "<<< Those cases blocked our way >>>": {
+    "translation": "那些箱子挡住我们路了.."
+  },
+  "<<< defend zombies, the cases will break soon >>>": {
+    "translation": "箱子马上就碎了,坚持会"
+  },
+  "<<<Mapper: Nino>>>": {
+    "translation": "地图制作: Nino 文本翻译: Lia"
+  },
+  "<<<Script: 7ychu5>>>": {
+    "translation": "地图脚本: 7ychu5"
+  },
+  "<<<Bad things happening in this area...>>>": {
+    "translation": "这里发生了很恐怖的事情..."
+  },
+  "<<<We got the order from the higher level>>>": {
+    "translation": "我们得到了高层的指示"
+  },
+  "<<<move to the X-13 facility and wait for the next command>>>": {
+    "translation": "前往X①③设施并等待更进一步指令"
+  },
+  "<<<find out the train under this tunnel>>>": {
+    "translation": "在隧道底部找到火车"
+  },
+  "<<<goodluck>>>": {
+    "translation": "祝你们好运"
+  },
+  "<<<Music: Trazix>>>": {
+    "translation": "地图音乐: Trazix"
+  },
+  "<<CS2 Port by @Seth>>>": {
+    "translation": "CS2移植: @Seth"
+  },
+  "<< Gargantua is going to self-destruction and kills everyone! >>": {
+    "translation": "泰坦即将自毁以杀掉在场所有人!"
+  },
+  "<< It's too late... >>": {
+    "translation": "太迟了!..."
+  },
+  "<<< +38 survivors detected >>>": {
+    "translation": "检测到剩余人数大于设定值"
+  },
+  "<<< Yes, we made it >>>": {
+    "translation": "是的，我们做到了"
+  },
+  "<<< Now take a deep breath, zombies will start an insane attack >>>": {
+    "translation": "现在准备好,尸潮即将发动攻击"
+  },
+  "<<< -38 survivors detected >>>": {
+    "translation": "检测到剩余人数小于设定值"
+  },
+  "<<< Prepare to fight for your life >>>": {
+    "translation": "准备为生存而战"
+  },
+  "<<< Current Ending: The StarFire >>>": {
+    "translation": "结局: 星星之火"
+  },
+  "<<< Current Ending: Dance with Fire >>>": {
+    "translation": "结局: 烈火之舞"
+  },
+  "<<< ... >>>": {
+    "translation": "<<< ... >>>",
+    "blocked": true
+  },
+  "<<< the door get stuck >>>": {
+    "translation": "门卡住了"
+  },
+  "<<< let's try some violent way >>>": {
+    "translation": ">>大力出奇迹>>"
+  },
+  "<<< good >>>": {
+    "translation": "不错!"
+  },
+  "<<< The train seems to be working >>>": {
+    "translation": "火车看起来动了"
+  },
+  "<<< Harry up! let's move to the last tunnel >>>": {
+    "translation": "快点,到最后的隧道那去"
+  },
+  "<<<guess we need to act separately..>>>": {
+    "translation": "看起来要分头行动了.."
+  },
+  "Heal out of uses.": {
+    "translation": "治疗包已耗尽."
+  },
+  "Music Triggered.": {
+    "translation": "音乐已触发"
+  }
+}
