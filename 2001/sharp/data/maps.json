@@ -59,7 +59,7 @@
     "certainTimes": [-1],
     "price": 500,
     "cooldown": 80,
-    "nomination": false,
+    "nomination": true,
     "admin": false
   },
   "ze_aoraitsu_reloaded": {
