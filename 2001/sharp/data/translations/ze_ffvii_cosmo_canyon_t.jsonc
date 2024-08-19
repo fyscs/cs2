@@ -285,6 +285,7 @@
   },
   "**Wait 5 more seconds**": {
     "translation": "**再等待5秒**",
+    "blocked": "true"
   },
   "**Shinra gates will open in 25 seconds**": {
     "translation": "神罗大门还有25秒打开"
