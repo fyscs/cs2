@@ -21,8 +21,8 @@
 
 [
   {
-    "name": "药水",
-    "shortName": "药水",
+    "name": "凤凰药水",
+    "shortName": "凤凰",
     "buttonClass": "func_button",
     "hammerId": "3883",
     "cooldown": 0,
@@ -44,7 +44,7 @@
     "count": 1
   },
   {
-    "name": "毒药",
+    "name": "浮毒",
     "shortName": "毒",
     "buttonClass": "func_physbox",
     "hammerId": "4259",
@@ -110,8 +110,8 @@
     "count": 1
   },
   {
-    "name": "重力",
-    "shortName": "重力",
+    "name": "黑洞",
+    "shortName": "黑洞",
     "buttonClass": "func_physbox",
     "hammerId": "4775",
     "cooldown": 60,
@@ -145,7 +145,7 @@
   },
   {
     "name": "迷惑",
-    "shortName": "迷惑",
+    "shortName": "[ZM]迷惑",
     "buttonClass": "func_button",
     "hammerId": "4394",
     "triggerId": ["4400"],
@@ -157,7 +157,7 @@
   },
   {
     "name": "冰",
-    "shortName": "冰",
+    "shortName": "[ZM]冰",
     "buttonClass": "func_button",
     "hammerId": "3332",
     "triggerId": ["3333"],
@@ -168,8 +168,8 @@
     "count": 1
   },
   {
-    "name": "小鸡",
-    "shortName": "鸡王",
+    "name": "仙人掌",
+    "shortName": "仙人掌",
     "buttonClass": "func_button",
     "hammerId": "17789",
     "triggerId": ["2711"],
