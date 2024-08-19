@@ -334,6 +334,7 @@
   },
   "**10 SECONDS LEFT**": {
     "translation": "**10秒后离开**",
+    "blocked": "true"
   },
   "**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**": {
     "translation": "基纳塔克正在召唤终极,快点快点!!"
