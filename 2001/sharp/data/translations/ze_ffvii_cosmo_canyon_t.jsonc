@@ -215,8 +215,7 @@
     "translation": "正在将所有人类传送到天文台"
   },
   "**15 SECONDS LEFT!**": {
-    "translation": "还有15秒",
-    "blocked": true
+    "translation": "还有15秒"
   },
   "**30 SECONDS LEFT!**": {
     "translation": "还有30秒"
@@ -285,8 +284,7 @@
     "translation": "大门还有30秒打开"
   },
   "**Wait 5 more seconds**": {
-    "translation": "**Wait 5 more seconds**",
-    "blocked": true
+    "translation": "**再等待5秒**",
   },
   "**Shinra gates will open in 25 seconds**": {
     "translation": "神罗大门还有25秒打开"
@@ -334,8 +332,7 @@
     "translation": "门还有40秒打开"
   },
   "**10 SECONDS LEFT**": {
-    "translation": "**10 SECONDS LEFT**",
-    "blocked": true
+    "translation": "**10秒后离开**",
   },
   "**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**": {
     "translation": "基纳塔克正在召唤终极,快点快点!!"
@@ -365,8 +362,7 @@
     "translation": "管理员已结束关卡"
   },
   "**The barman will open the door in 5 seconds**": {
-    "translation": "**The barman will open the door in 5 seconds**",
-    "blocked": true
+    "translation": "**酒馆将在5秒后打开**",
   },
   "**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**": {
     "translation": "僵尸来了,酒馆后门还有25秒打开"
@@ -375,8 +371,7 @@
     "translation": "撤退"
   },
   "**5 SECONDS LEFT**": {
-    "translation": "**5 SECONDS LEFT**",
-    "blocked": true
+    "translation": "**5秒后开门**",
   },
   "**...Are you surprised?...**": {
     "translation": "没感到惊喜吗?.."
@@ -400,7 +395,7 @@
     "translation": "玩家获得了终极"
   },
   "**A player has picked up ELECTRO materia**": {
-    "translation": "玩家获得了沉睡"
+    "translation": "玩家获得了雷电"
   },
   "**A player has picked up EARTH materia**": {
     "translation": "玩家获得了土墙"
@@ -436,6 +431,6 @@
     "translation": "玩家获得了火焰"
   },
   "**Zombie cactus has been picked up**": {
-    "translation": "僵尸小鸡已被拾起"
+    "translation": "仙人掌已被拾起"
   }
 }
