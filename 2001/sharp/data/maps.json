@@ -54,6 +54,13 @@
     "cooldown": 30,
     "nomination": false,
     "admin": false
+  }, 
+  "ze_aooka": {
+    "certainTimes": [-1],
+    "price": 500,
+    "cooldown": 80,
+    "nomination": false,
+    "admin": false
   },
   "ze_aoraitsu_reloaded": {
     "certainTimes": [-1],
