@@ -285,7 +285,7 @@
   },
   "**Wait 5 more seconds**": {
     "translation": "**再等待5秒**",
-    "blocked": "true"
+    "blocked": true
   },
   "**Shinra gates will open in 25 seconds**": {
     "translation": "神罗大门还有25秒打开"
@@ -334,7 +334,7 @@
   },
   "**10 SECONDS LEFT**": {
     "translation": "**10秒后离开**",
-    "blocked": "true"
+    "blocked": true
   },
   "**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**": {
     "translation": "基纳塔克正在召唤终极,快点快点!!"
