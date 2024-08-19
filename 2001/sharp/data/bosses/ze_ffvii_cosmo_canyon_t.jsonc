@@ -1,0 +1,62 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Special_Health",
+      "backup": "Special_HealthInit",
+      "counter": "Special_HealthCount",
+      "increase": true,
+      "hitbox": "Boss_Hitbox",
+      "display": "Boss"
+    },
+    {
+      "iterator": "lvl2_Gi_Nattak_Counter",
+      "hitbox": "lvl2_Boss_Hitbox",
+      "display": "Boss"
+    },
+    {
+      "iterator": "Genesis_Counter",
+      "hitbox": "lvl4_end_boss",
+      "display": "Boss"
+    },
+    {
+      "iterator": "Shinra_Last_Genesis_Counter",
+      "hitbox": "Shinra_Last_Genesis_Phys",
+      "display": "Boss"
+    },
+    {
+      "iterator": "Special_Health",
+      "backup": "Special_HealthInit",
+      "counter": "Special_HealthCount",
+      "increase": true,
+      "hitbox": "Last_Genesis_Phys_Body",
+      "display": "Boss"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "3462",
+      "display": "Final"
+    }
+  ]
+}
