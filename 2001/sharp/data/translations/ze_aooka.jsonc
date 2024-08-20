@@ -93,13 +93,13 @@
     "translation": "<大门30秒后打开>"
   },
   "<The temple will be destroyed in 120 seconds>": {
-    "translation": "<神殿将于两分钟后毁灭..>"
+    "translation": "<神殿将于120秒后毁灭..>"
   },
   "<You are the map champion!!!>": {
     "translation": "<你征服了这张地图 huh>"
   },
   "ZE_Aooka3 Map by vueru": {
-    "translation": "龙之殿V3 作者:vueru"
+    "translation": "龙之殿V3 作者:vueru "
   },
   "Thanks:冰雪葬泪 Eugen - Fong Lishang - Spxctator": {
     "translation": "Thanks:冰雪葬泪 Eugen - Fong Lishang - Spxctator"
@@ -249,7 +249,7 @@
     "translation": "<5秒>"
   },
   "<The crystal is broken?>": {
-    "translation": "<水晶被破坏了吗?"
+    "translation": "<水晶被破坏了吗?>"
   },
   "< Meat - Ice Blade >": {
     "translation": "< 冰霜之刃 >"
@@ -285,10 +285,10 @@
     "translation": "龙之殿V3"
   },
   "Map by vueru": {
-    "translation": "作者:vueru"
+    "translation": "作者:vueru 汉化:Zeyu1"
   },
-  "Port by Hephasfos": {
-    "translation": "移植:Hephasfos 汉化:Zeyu1"
+  "Port by Hephasfos Support by BiliBili ELaiNa娜娜桑": {
+    "translation": "移植:Hephasfos , 感谢: BiliBili ELaiNa娜娜桑"
   },
   "> Stage I <": {
     "translation": "> 关卡 I <"
