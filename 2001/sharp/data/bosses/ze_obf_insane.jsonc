@@ -20,21 +20,10 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Counters": [
-    {
-      "iterator": "garg_hp",
-      "hitbox": "gargantua_physbox",
-      "display": "Gargantua"
-    }
-  ],
   "Monsters": [
     {
-      "identity": "568",
-      "display": "barnacle"
-    },
-    {
-      "identity": "11700",
-      "display": "Boom"
+      "identity": "261",
+      "display": "Gargantua"
     }
   ]
 }
