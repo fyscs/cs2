@@ -1,4 +1,11 @@
 {
+ "ttt_biocube_night": {
+    "certainTimes": [-1],
+    "price": 250,
+    "cooldown": 15,
+    "nomination": false,
+    "admin": false
+  }, 
  "ttt_community_pool_2017_v2": {
     "certainTimes": [-1],
     "price": 250,
