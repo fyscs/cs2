@@ -171,13 +171,13 @@
     "translation": "< 星之锁<中间不要动> >"
   },
   "< Spider - Solution Star >": {
-    "translation": "< 星之解<远离中间> >"
+    "translation": "< 星之解 >"
   },
   "< Spider - Gemini >": {
     "translation": "< 双子星 >"
   },
   "< Spider - Death Star >": {
-    "translation": "< 死亡之星 >"
+    "translation": "< 死亡之星<远离中间> >"
   },
   "< Spider - Ask Spirit >": {
     "translation": "< 灵魂索取<蹲下躲避伤害> >"
@@ -264,7 +264,7 @@
     "translation": "< 空间转移<远离中间特效!>>"
   },
   "<Meat wakes up in 10 seconds>": {
-    "translation": "<BOOS将于10秒后苏醒!>"
+    "translation": "<BOSS将于10秒后苏醒!>"
   },
   "< Meat - Fire >": {
     "translation": "< 火焰<站到台阶上> >"
