@@ -974,6 +974,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_magus_v2_4": {
+    "certainTimes": [-1],
+    "price": 350,
+    "cooldown": 50,
+    "nomination": true,
+    "admin": false
+  },
   "ze_mario_tower_p": {
     "certainTimes": [-1],
     "price": 300,
