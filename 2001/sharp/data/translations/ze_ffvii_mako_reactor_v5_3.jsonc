@@ -108,15 +108,15 @@
     "blocked": true
   },
   "**  90 SECONDS LEFT **": {
-    "translation": "**  剩余90秒! **",
-    "blocked": true
+    "translation": "**  剩余90秒! **"
   },
   "**  100 SECONDS LEFT **": {
     "translation": "**  剩余100秒! **",
     "blocked": true
   },
   "**  110 SECONDS LEFT **": {
-    "translation": "**  剩余110秒! **"
+    "translation": "**  剩余110秒! **",
+    "blocked": true
   },
   "** EXPLOSION IN 120 SECONDS **": {
     "translation": "** 距离魔光炉爆炸还剩一百二十秒! **"
@@ -230,13 +230,13 @@
     "translation": "** 巴哈姆特正在施放黑洞魔法-按住S抵抗它! **"
   },
   "** 3 COWBELLS LEFT! **": {
-    "translation": "** 还剩下3个COWBELLS! **"
+    "translation": "** 还剩下③个COWBELLS! **"
   },
   "** 2 COWBELLS LEFT! **": {
-    "translation": "** 还剩下2个COWBELLS! **"
+    "translation": "** 还剩下②个COWBELLS! **"
   },
   "** 1 COWBELLS LEFT!!! **": {
-    "translation": "** 还剩下1个COWBELLS!! **"
+    "translation": "** 还剩下①个COWBELLS!! **"
   },
   "** ADMIN PRESSED KILL ALL BUTTON **": {
     "translation": "** 管理员按下了处死所有人的按钮 **"
