@@ -1,0 +1,1029 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***PLAYER PICKED UP ITEM - SPEEDER***": {
+    "translation": "玩家已拾起 >> 加速 <<"
+  },
+  "***PLAYER PICKED UP ITEM - HEALING SHITBOX***": {
+    "translation": "玩家已拾起 >> 治疗包 <<"
+  },
+  "***SOMETHING IS COMING...***": {
+    "translation": "有什么要发生了..."
+  },
+  "***RUN***": {
+    "translation": "快跑..."
+  },
+  "***GET UP ON THAT ROCK***": {
+    "translation": "到那块石头上去!!"
+  },
+  "***PROLOGUE COMPLETE***": {
+    "translation": ">> 序章已完成 <<"
+  },
+  "***SANTA CLAUS WILL PAY FOR HIS DEEDS***": {
+    "translation": "圣诞老人会为他的所作所为付出代价.."
+  },
+  "***MUFASA.. IS DEAD...***": {
+    "translation": "木法沙..已经死了..."
+  },
+  "***FALL BACK***": {
+    "translation": "撤退!!"
+  },
+  "***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 40 SECONDS***": {
+    "translation": "下层的门40秒后开启"
+  },
+  "***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 5 SECONDS***": {
+    "translation": "***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***SELF-DESTRUCT SEQUENCE HAS BEEN INITIATED***": {
+    "translation": "自毁程序已经启动"
+  },
+  "***ESCAPE THE BEAVER STEELWORKS FACILITY***": {
+    "translation": "快离开板鸭工厂!"
+  },
+  "***LASER SHUTDOWN IN 20 SECONDS***": {
+    "translation": "激光还有20秒关闭"
+  },
+  "***LASER SHUTDOWN IN 5 SECONDS***": {
+    "translation": "***LASER SHUTDOWN IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***FINAL ELEVATOR DOOR IS CLOSING***": {
+    "translation": "电梯门正在关闭"
+  },
+  "***FINAL ELEVATOR DOOR WILL CLOSE IN 30 SECONDS***": {
+    "translation": "电梯门将在30秒后关闭"
+  },
+  "***FINAL ELEVATOR DOOR WILL CLOSE IN 5 SECONDS***": {
+    "translation": "***FINAL ELEVATOR DOOR WILL CLOSE IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***PRIMARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***": {
+    "translation": "门还有20秒开启"
+  },
+  "***ELEVATOR OPENS IN 15 SECONDS***": {
+    "translation": "电梯门还有15秒打开"
+  },
+  "***ELEVATOR DOOR IS OPEN***": {
+    "translation": "电梯门打开了"
+  },
+  "***ELEVATOR LEAVES IN 5 SECONDS***": {
+    "translation": "电梯门还有5秒关闭"
+  },
+  "***SECONDARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***": {
+    "translation": "第二扇门20秒后打开"
+  },
+  "***STEELWORKS DOOR WILL OPEN IN 30 SECONDS***": {
+    "translation": "工厂大门还有30秒打开"
+  },
+  "***STEELWORKS DOOR IS OPENING***": {
+    "translation": "工厂大门正在打开"
+  },
+  "***STEELWORKS DOOR WILL CLOSE IN 5 SECONDS***": {
+    "translation": "工厂大门还有5秒关闭"
+  },
+  "***STEELWORKS DOOR IS CLOSING***": {
+    "translation": "工厂大门正在关闭"
+  },
+  "***THE BEAVERS ARE AGRESSIVE***": {
+    "translation": "板鸭们非常暴躁.."
+  },
+  "***THE BEAVERS ARE COMING***": {
+    "translation": "板鸭们冲过来了"
+  },
+  "***STEELWORKS DOOR WILL OPEN IN 5 SECONDS***": {
+    "translation": "门将在5秒后打开"
+  },
+  "***INNER INNEST INCEST BEAVER BLASTDOOR IS OPENING IN 15 SECONDS***": {
+    "translation": "内部的门15秒后打开"
+  },
+  "***DRAWBRIDGE WILL DRAW ITSELF IN 5 SECONDS***": {
+    "translation": "吊桥5秒后延伸"
+  },
+  "***DRAWBRIDGE IS DRAWING***": {
+    "translation": "路正在开启"
+  },
+  "***SEWER BLASTDOOR IS OPENING***": {
+    "translation": "下水道的门正在开启"
+  },
+  "***SEWER BLASTDOOR WILL OPEN IN 40 SECONDS***": {
+    "translation": "下水道的门40秒后打开"
+  },
+  "***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***": {
+    "translation": "第一处卷帘门15秒后开启"
+  },
+  "***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING***": {
+    "translation": "门打开了"
+  },
+  "***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING***": {
+    "translation": "卷帘门正在开启"
+  },
+  "***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***": {
+    "translation": "*卷帘门15秒后打开"
+  },
+  "***INCEST***": {
+    "translation": "德国骨科..."
+  },
+  "***WINCEST***": {
+    "translation": "兄弟情深..."
+  },
+  "***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING***": {
+    "translation": "门开了.."
+  },
+  "***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***": {
+    "translation": "这扇门15秒后打开"
+  },
+  "***INNER BEAVER BLASTDOOR IS OPENING IN 20 SECONDS***": {
+    "translation": "防爆门20秒后打开"
+  },
+  "***DRAWBRIDGE HAS BEEN DRAWED***": {
+    "translation": "吊桥可以走了"
+  },
+  "***THAT SEEMS TO BE THE LAST OF THEM***": {
+    "translation": "看起来是最后一批了"
+  },
+  "***THE GATEFACE IS PLEASED WITH YOUR CHOCOLATE SERVICE***": {
+    "translation": "看起来他很满意你的巧克力服务.."
+  },
+  "***YOU MAY NOW ENTER***": {
+    "translation": "你现在可以通过了"
+  },
+  "***HEAD TOWARDS SANTA'S FACTORY***": {
+    "translation": "前往圣诞工厂"
+  },
+  "***BE PREPARED FOR ANYTHING***": {
+    "translation": "为一切做好准备"
+  },
+  "***FIND THE BUTTONS***": {
+    "translation": "找到那些开关"
+  },
+  "***TIP - YOU CAN BREAK THE RUSTY METAL***": {
+    "translation": "提示:部分东西可以被破坏"
+  },
+  "***SANTA'S LAIR GATE IS CLOSING IN 10 SECONDS***": {
+    "translation": "Santa老窝的门10秒后关闭"
+  },
+  "***SANTA'S LAIR GATE IS CLOSING***": {
+    "translation": "门正在关闭"
+  },
+  "***FIND THE BABY - PRESS THE BUTTON IN ORDER TO OPEN THE SEXY VENT GATE***": {
+    "translation": "找到按钮,就可以开启通风口"
+  },
+  "***MAIN ELEVATOR IS LEAVING***": {
+    "translation": "主电梯正在离开"
+  },
+  "***MAIN ELEVATOR IS LEAVING IN 5 SECONDS***": {
+    "translation": "***MAIN ELEVATOR IS LEAVING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***OPENING DOORS***": {
+    "translation": "正在开门..."
+  },
+  "***OPENING DOORS IN 5 SECONDS***": {
+    "translation": "***OPENING DOORS IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***OPENING DOORS IN 10 SECONDS***": {
+    "translation": "门10秒后打开"
+  },
+  "***OPENING UPPER CHAPEL DOOR IN 10 SECONDS***": {
+    "translation": "教堂门10秒后打开"
+  },
+  "***OPENING UPPER CHAPEL DOOR IN 5 SECONDS***": {
+    "translation": "***OPENING UPPER CHAPEL DOOR IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***OPENING UPPER CHAPEL DOOR***": {
+    "translation": "教堂门正在打开"
+  },
+  "***BRIDGE EXIT GATE IS OPENING***": {
+    "translation": "桥上的出口打开了"
+  },
+  "***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***": {
+    "translation": "***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***BRIDGE EXIT GATE IS OPENING IN 15 SECONDS***": {
+    "translation": "桥上的出口15秒后开启"
+  },
+  "***HEAD TOWARD SANTAS LAIR***": {
+    "translation": "前往圣诞老人的老窝"
+  },
+  "***YOUR FEET BECOME NIMBLE THROUGH DETERMINATION***": {
+    "translation": "决心已定,你的脚步放开了"
+  },
+  "***NAZI NIPPLE***": {
+    "translation": "这是什么"
+  },
+  "***BLACK HOLE***": {
+    "translation": "黑洞"
+  },
+  "***MAIN ELEVATOR IS LEAVING IN 20 SECONDS***": {
+    "translation": "电梯"
+  },
+  "***OPENING BASE SOCRATES ELEVATOR GATE***": {
+    "translation": "主电梯20秒后离开"
+  },
+  "***BUTTON 1 PRESSED***": {
+    "translation": "按钮一已确认"
+  },
+  "***BUTTON 2 PRESSED***": {
+    "translation": "按钮二已确认"
+  },
+  "***BUTTON 3 PRESSED***": {
+    "translation": "按钮三已确认"
+  },
+  "***YOU CAN NOW ADVANCE***": {
+    "translation": "可以继续前进了"
+  },
+  "***SEXY REINDEER IS OPENING IN 15 SECONDS***": {
+    "translation": "驯鹿之门还有15秒打开"
+  },
+  "***SEXY REINDEER IS OPENING IN 5 SECONDS***": {
+    "translation": "***SEXY REINDEER IS OPENING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***SEXY REINDEER IS SPREADING***": {
+    "translation": "门打开了"
+  },
+  "***MAJOR FACE WALL EXPLODES IN 15 SECONDS***": {
+    "translation": "离爆炸还有15秒"
+  },
+  "***MAJOR FACE WALL IS ABOUT TO EXPLODE***": {
+    "translation": "就要爆炸了"
+  },
+  "***MAJOR FACE WALL WENT BOOM***": {
+    "translation": "嘣!!!!"
+  },
+  "***THE PIZZA IS AGGRESSIVE***": {
+    "translation": "披萨极其暴力"
+  },
+  "***LEFT LEFT SECOND FACE WALL HAS EXPLODED***": {
+    "translation": "左边第二道墙爆炸了"
+  },
+  "***LEFT LEFT SECOND FACE WALL OPENS IN 30 SECONDS***": {
+    "translation": "左边第二道墙还有30秒开启"
+  },
+  "***RIGHT RIGHT SECOND FACE WALL HAS EXPLODED***": {
+    "translation": "右边第二道墙爆炸了"
+  },
+  "***RIGHT RIGHT SECOND FACE WALL OPENS IN 20 SECONDS***": {
+    "translation": "左边第二道墙还有20秒开启"
+  },
+  "***GET INSIDE SANTAS LAIR***": {
+    "translation": "进入圣诞老人的老巢"
+  },
+  "***SEXY VENT GATE IS OPENING***": {
+    "translation": "通风口开启了"
+  },
+  "***SEXY VENT GATE IS OPENING IN 5 SECONDS***": {
+    "translation": "***SEXY VENT GATE IS OPENING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***SEXY VENT GATE IS OPENING IN 20 SECONDS***": {
+    "translation": "通风口20秒后打开"
+  },
+  "***THE BABYLON BABY BUTTON HAS BEEN TOUCHED***": {
+    "translation": "按钮已被按下"
+  },
+  "***THE BABYLON BABY IS PLEASED WITH YOUR ASSISTANCE***": {
+    "translation": "对方很满意..."
+  },
+  "***20 SECONDS UNTIL DEPARTURE***": {
+    "translation": "还有20秒离开"
+  },
+  "***5 SECONDS UNTIL DEPARTURE***": {
+    "translation": "***5 SECONDS UNTIL DEPARTURE***",
+    "blocked": true
+  },
+  "***THE BURRITO SHITTER IS DEPARTING***": {
+    "translation": "卷饼车正在启动"
+  },
+  "***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***": {
+    "translation": "你只要花四十刀就可以让老哥带你跑路"
+  },
+  "***YOU MANAGED TO SCRAPE TOGETHER 41$ FROM YOUR TUITION MONEY***": {
+    "translation": "最后想办法从学费里挤出了四十一刀乐"
+  },
+  "***NEXT STOP - ILLEGALITY***": {
+    "translation": "下一站: 混沌"
+  },
+  "***THE MEXISLED WOULD PREFER YOU TO CALL IT -THE BURRITO SHITTER-***": {
+    "translation": "老哥更希望你把它称为: 卷饼喷射器"
+  },
+  "***PLEASE COMPLY TO THIS REQUEST OR YOUR CLUB PENGUIN ACCOUNT WILL BE DISABLED***": {
+    "translation": "请服从这个要求,不然你的号就别想要了"
+  },
+  "***PUNISHING EDGERS WITH BURRITO LOVE***": {
+    "translation": "用卷饼的爱一路向前"
+  },
+  "***SANTA FACTORY DOOR IS OPENING IN 20 SECONDS***": {
+    "translation": "圣诞老人的工厂20秒后开启"
+  },
+  "***SANTA FACTORY DOOR IS OPENING IN 5 SECONDS***": {
+    "translation": "***SANTA FACTORY DOOR IS OPENING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***SANTA FACTORY DOOR IS OPENING***": {
+    "translation": "圣诞老人的工厂正在打开"
+  },
+  "***SMELL THE DANK MIXTAPE***": {
+    "translation": "用心感受这些老掉牙的混音带"
+  },
+  "***THE MIXTAPE IS OUT OF CONTROL***": {
+    "translation": "混音带不受控制了"
+  },
+  "***SATISFY THE LIPS WITH SEWER CHOCOLATE IN ORDER TO ENTER***": {
+    "translation": "用下水巧克力塞满那两片东西..."
+  },
+  "***7 SMEARED HUMANS SHOULD BE ABLE TO SATISFY THOSE SORE LIPS***": {
+    "translation": "大概只要七个人给他舔舔就够了"
+  },
+  "***GOOD LUCK***": {
+    "translation": "好运兄弟!"
+  },
+  "***HITLERS TEETH ARE NOW BROKEN***": {
+    "translation": "邪恶的门牙被敲烂了"
+  },
+  "***DEMOCRACY HEREBY WINS THE SUPERBOWL***": {
+    "translation": "团结的力量获胜了"
+  },
+  "***SECRET SANTA CHAPEL DOOR IS OPENING IN 20 SECONDS***": {
+    "translation": "圣诞教堂的门20秒后打开"
+  },
+  "***SECRET SANTA CHAPEL DOOR IS OPENING***": {
+    "translation": "圣诞教堂的门打开了"
+  },
+  "***RIGHT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***": {
+    "translation": "右侧电梯10秒后离开"
+  },
+  "***RIGHT PRIMAL ELEVATOR IS LEAVING***": {
+    "translation": "右侧电梯离开了"
+  },
+  "***LEFT PRIMAL ELEVATOR IS LEAVING***": {
+    "translation": "左侧电梯离开了"
+  },
+  "***LEFT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***": {
+    "translation": "左侧电梯10秒后离开"
+  },
+  "***SECONDARY PROTOCOL ELEVATOR IS LEAVING***": {
+    "translation": "电梯二号正在离开"
+  },
+  "***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 30 SECONDS***": {
+    "translation": "电梯二号30秒后离开"
+  },
+  "***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 5 SECONDS***": {
+    "translation": "***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***MAGIC ZOMBIE PUSH IS DISABLED***": {
+    "translation": "僵尸PUSH已经消失"
+  },
+  "***ZOMBIES CAN NOW GET YOU FROM THE SIDES***": {
+    "translation": "僵尸可以从两边上来找你玩"
+  },
+  "***FACTORY DOOR OPENS IN 10 SECONDS***": {
+    "translation": "工厂门还有10秒打开"
+  },
+  "***FACTORY DOOR OPENS IN 5 SECONDS***": {
+    "translation": "***FACTORY DOOR OPENS IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***FACTORY DOOR OPENS IN 4 SECONDS***": {
+    "translation": "***FACTORY DOOR OPENS IN 4 SECONDS***",
+    "blocked": true
+  },
+  "***FACTORY DOOR OPENS IN 3 SECONDS***": {
+    "translation": "***FACTORY DOOR OPENS IN 3 SECONDS***",
+    "blocked": true
+  },
+  "***FACTORY DOOR OPENS IN 2 SECONDS***": {
+    "translation": "***FACTORY DOOR OPENS IN 2 SECONDS***",
+    "blocked": true
+  },
+  "***FACTORY DOOR OPENS IN 1 SECOND***": {
+    "translation": "***FACTORY DOOR OPENS IN 1 SECOND***",
+    "blocked": true
+  },
+  "***BLACK HOLE AND NAZI NIPPLE HAS BEEN ACTIVATED***": {
+    "translation": "两处开关均已成功触发"
+  },
+  "***GLASS WILL BREAK IN 5 SECONDS***": {
+    "translation": "玻璃将在5秒后碎开"
+  },
+  "***FINAL GATE IS CLOSING***": {
+    "translation": "最后的门正在关闭"
+  },
+  "***FINAL GATE IS CLOSING IN 5 SECONDS***": {
+    "translation": "***FINAL GATE IS CLOSING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***FINAL GATE IS CLOSING IN 15 SECONDS***": {
+    "translation": "最后的门15秒后关闭"
+  },
+  "***THIS IS WRONG...***": {
+    "translation": "不对...***"
+  },
+  "***THIS.. IS THE TRUTH***": {
+    "translation": "这...这才是真实的一切"
+  },
+  "***SOCRATES WISHES SILENTLY***": {
+    "translation": "灼眼默默在祈祷"
+  },
+  "***SOCRATES FEELS YOU***": {
+    "translation": "灼眼察觉到了你"
+  },
+  "***SOCRATES REGRETS YOUR DEEDS***": {
+    "translation": "灼眼对你所为感到遗憾"
+  },
+  "***SOCRATES CRAVES***": {
+    "translation": "灼眼渴望着什么"
+  },
+  "***SOCRATES PLAYS NINTENDO 64***": {
+    "translation": "灼眼在玩任天堂"
+  },
+  "***SOCRATES IS NEAR***": {
+    "translation": "灼眼就在附近"
+  },
+  "***SOCRATES WELCOMES YOU***": {
+    "translation": "灼眼欢迎你的到来"
+  },
+  "***SOCRATES IS SANTA***": {
+    "translation": "灼眼就是圣诞老人"
+  },
+  "***SOCRATES IS JUDGING YOU***": {
+    "translation": "灼眼正在挑你的刺"
+  },
+  "***SOCRATES HAS TO CLEANSE YOU***": {
+    "translation": "灼眼不得不驱逐你"
+  },
+  "***SOCRATES DESPISES YOU***": {
+    "translation": "灼眼看不起你"
+  },
+  "***SOCRATES IMAGINES***": {
+    "translation": "灼眼正在思考"
+  },
+  "***SOCRATES WILL ARRIVE***": {
+    "translation": "灼眼就要来了"
+  },
+  "***SOCRATES WILL CLEANSE***": {
+    "translation": "灼眼将会净化一切"
+  },
+  "***SOCRATES WILL DESTROY***": {
+    "translation": "灼眼将会毁灭一切"
+  },
+  "***SOCRATES CARES FOR NO MAN***": {
+    "translation": "灼眼什么人都不在乎"
+  },
+  "***SOCRATES IS***": {
+    "translation": "灼眼是..."
+  },
+  "***SOCRATES NEEDS BENDER***": {
+    "translation": "灼眼需要狂欢"
+  },
+  "***SOCRATES FEEDS***": {
+    "translation": "灼眼需要养料"
+  },
+  "***OUTER GATE WILL OPEN IN 20 SECONDS***": {
+    "translation": "外门20秒后打开"
+  },
+  "***OUTER GATE WILL OPEN IN 5 SECONDS***": {
+    "translation": "***OUTER GATE WILL OPEN IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***MOVE IT***": {
+    "translation": "开溜"
+  },
+  "***THE TRUE ELEVATOR IS LEAVING***": {
+    "translation": "真理电梯正在上升"
+  },
+  "***THE TRUE ELEVATOR IS LEAVING IN 5 SECONDS***": {
+    "translation": "***THE TRUE ELEVATOR IS LEAVING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***THE TRUE ELEVATOR IS LEAVING IN 30 SECONDS***": {
+    "translation": "真理电梯30秒后离开"
+  },
+  "***SOCRATES PONDERS***": {
+    "translation": "灼眼在沉思.."
+  },
+  "***SOCRATES CRIES***": {
+    "translation": "灼眼在哭泣.."
+  },
+  "***SOCRATES IS BLOSSOMING***": {
+    "translation": "灼眼很自信.."
+  },
+  "***SOCRATES ERECTS***": {
+    "translation": "灼眼立了.."
+  },
+  "***SOCRATES CANNOT KEEP***": {
+    "translation": "灼眼撑不住了"
+  },
+  "***SOCRATES RUMBLES YOUR WILL***": {
+    "translation": "灼眼看穿了你的内心"
+  },
+  "***SOCRATES SELLS GASOLINE***": {
+    "translation": "灼眼在出售汽油"
+  },
+  "***CENTER GATE IS OPENING IN 30 SECONDS***": {
+    "translation": "中间的门30秒后打开"
+  },
+  "***CENTER GATE IS OPENING IN 5 SECONDS***": {
+    "translation": "***CENTER GATE IS OPENING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***CENTER GATE IS OPENING***": {
+    "translation": "中间的门打开了"
+  },
+  "***OUTER WALL ENTRANCE IS OPENING IN 30 SECONDS***": {
+    "translation": "外墙的入口30秒后开启"
+  },
+  "***OUTER WALL ENTRANCE IS OPENING IN 5 SECONDS***": {
+    "translation": "***OUTER WALL ENTRANCE IS OPENING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***OUTER WALL ENTRANCE IS OPENING***": {
+    "translation": "外墙入口打开了"
+  },
+  "***INNER UPPER GATE IS OPENING***": {
+    "translation": "内侧门打开了"
+  },
+  "***INNER UPPER GATE IS OPENING IN 40 SECONDS***": {
+    "translation": "内侧门还有40秒打开"
+  },
+  "***INNER UPPER GATE IS OPENING IN 5 SECONDS***": {
+    "translation": "***INNER UPPER GATE IS OPENING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***ELEVATOR SHAFT GATE IS OPENING IN 5 SECONDS***": {
+    "translation": "***ELEVATOR SHAFT GATE IS OPENING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***ELEVATOR SHAFT GATE IS OPENING***": {
+    "translation": "电梯井门打开了"
+  },
+  "***ELEVATOR SHAFT GATE IS OPENING IN 30 SECONDS***": {
+    "translation": "电梯井门还有30秒打开"
+  },
+  "***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***": {
+    "translation": "底部电梯还有20秒离开"
+  },
+  "***LOWER ELEVATOR IS LEAVING IN 5 SECONDS***": {
+    "translation": "***LOWER ELEVATOR IS LEAVING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***LOWER ELEVATOR IS LEAVING***": {
+    "translation": "底部电梯离开了"
+  },
+  "***LOWER GATE IS OPENING IN 35 SECONDS***": {
+    "translation": "底部的门35秒后打开"
+  },
+  "***LOWER GATE IS OPENING IN 5 SECONDS***": {
+    "translation": "***LOWER GATE IS OPENING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***LOWER GATE IS OPENING***": {
+    "translation": "底部的门打开了"
+  },
+  "***OUTER ELEVATOR IS LEAVING IN 40 SECONDS***": {
+    "translation": "外部电梯40秒后离开"
+  },
+  "***OUTER ELEVATOR IS LEAVING IN 5 SECONDS***": {
+    "translation": "***OUTER ELEVATOR IS LEAVING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***OUTER ELEVATOR IS LEAVING***": {
+    "translation": "外部电梯离开了"
+  },
+  "***TRAM 1 IS LEAVING IN 20 SECONDS***": {
+    "translation": "电车一20秒后离开"
+  },
+  "***TRAM 1 IS LEAVING***": {
+    "translation": "电车一离开了"
+  },
+  "***TRAM 2 IS LEAVING IN 10 SECONDS***": {
+    "translation": "电车二10秒后离开"
+  },
+  "***TRAM 2 IS LEAVING***": {
+    "translation": "电车二离开了"
+  },
+  "***THE FINAL ELEVATOR IS LEAVING IN 50 SECONDS***": {
+    "translation": "最后的电梯50秒后上升"
+  },
+  "***THE FINAL ELEVATOR IS LEAVING IN 20 SECONDS***": {
+    "translation": "***THE FINAL ELEVATOR IS LEAVING IN 20 SECONDS***",
+    "blocked": true
+  },
+  "***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***": {
+    "translation": "***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***",
+    "blocked": true
+  },
+  "***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***": {
+    "translation": "***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***THE FINAL ELEVATOR IS LEAVING***": {
+    "translation": "最后的电梯离开了"
+  },
+  "***UPPER TOWER DOOR IS OPENING IN 20 SECONDS***": {
+    "translation": "上层塔门还有20秒开启"
+  },
+  "***UPPER TOWER DOOR IS OPENING***": {
+    "translation": "上层塔门打开了"
+  },
+  "***SANTA'S DOOR IS OPENING IN 20 SECONDS***": {
+    "translation": "圣诞老人的门20秒后打开"
+  },
+  "***SANTA'S DOOR IS OPENING***": {
+    "translation": "圣诞老人的门打开了"
+  },
+  "***SANTA'S DOOR IS CLOSING***": {
+    "translation": "圣诞老人的门正在关闭"
+  },
+  "***SANTA'S DOOR IS CLOSING IN 5 SECONDS***": {
+    "translation": "***SANTA'S DOOR IS CLOSING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***SANTA'S DOOR IS CLOSING IN 4 SECONDS***": {
+    "translation": "***SANTA'S DOOR IS CLOSING IN 4 SECONDS***",
+    "blocked": true
+  },
+  "***SANTA'S DOOR IS CLOSING IN 3 SECONDS***": {
+    "translation": "***SANTA'S DOOR IS CLOSING IN 3 SECONDS***",
+    "blocked": true
+  },
+  "***SANTA'S DOOR IS CLOSING IN 2 SECONDS***": {
+    "translation": "***SANTA'S DOOR IS CLOSING IN 2 SECONDS***",
+    "blocked": true
+  },
+  "***SANTA'S DOOR IS CLOSING IN 1 SECONDS***": {
+    "translation": "***SANTA'S DOOR IS CLOSING IN 1 SECONDS***",
+    "blocked": true
+  },
+  "***OUTER GATE IS OPENING IN 50 SECONDS***": {
+    "translation": "外门50秒后打开"
+  },
+  "***OUTER GATE IS OPENING IN 10 SECONDS***": {
+    "translation": "***OUTER GATE IS OPENING IN 10 SECONDS***",
+    "blocked": true
+  },
+  "***OUTER GATE IS OPENING***": {
+    "translation": "外门正在开启"
+  },
+  "***SOCRATES IS ALL***": {
+    "translation": "灼眼就是一切"
+  },
+  "***SOCRATES IS NOTHING***": {
+    "translation": "灼眼一无所有"
+  },
+  "***SOCRATES IS AWAKENED***": {
+    "translation": "灼眼醒了"
+  },
+  "***SOCRATES IS NOTHING AT ALL***": {
+    "translation": "灼眼什么也不是"
+  },
+  "***SOCRATES DOES NOT EXIST***": {
+    "translation": "灼眼并不存在"
+  },
+  "***THE TRUE TRAM IS LEAVING***": {
+    "translation": "真理电车正在离开"
+  },
+  "***THE TRUE TRAM IS LEAVING IN 5 SECONDS***": {
+    "translation": "***THE TRUE TRAM IS LEAVING IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***THE TRUE TRAM IS LEAVING IN 30 SECONDS***": {
+    "translation": "真理电车30秒后离开"
+  },
+  "***MAP RESET - GOING BACK TO PROLOUGE***": {
+    "translation": "时间重置: 返回序章"
+  },
+  "***IT FEELS LIKE YOU MISSED SOMETHING***": {
+    "translation": "看起来你遗忘了什么东西"
+  },
+  "***IS THIS THE REAL ENDING?***": {
+    "translation": "这真的是结局吗"
+  },
+  "***WHAT...***": {
+    "translation": "什么..."
+  },
+  "***YOU WANT TO STOP...***": {
+    "translation": "你想停下来..."
+  },
+  "***YOU DO NOT WANT TO DO THIS ANYMORE...***": {
+    "translation": "你不想再继续下去了..."
+  },
+  "***YOU FEEL LIKE THE WORLD IS GOING TO BREAK APART SOON...***": {
+    "translation": "感觉就像世界要崩塌了..."
+  },
+  "***YOU SUDDENLY FEEL UNEASY ABOUT FACING SANTA...***": {
+    "translation": "你突然对直面圣诞老人感到不适..."
+  },
+  "***THE TRUE PATH IS CLEAR NOW***": {
+    "translation": "真理之路已向你敞开"
+  },
+  "***YOU HAVE DEFILED MUFASAS CORPSE***": {
+    "translation": "你玷污了木法沙的尸体"
+  },
+  "***YOU SICK BASTARDS...***": {
+    "translation": "你可真是个混蛋..."
+  },
+  "***SKIPPING CUTSCENE***": {
+    "translation": "正在快进..."
+  },
+  "***PLAYER PICKED UP ITEM - HERDER***": {
+    "translation": "玩家拾取了: 推力枪"
+  },
+  "***PLAYER PICKED UP ITEM - MINI CANNON***": {
+    "translation": "玩家拾取了: 转管机枪"
+  },
+  "***PLAYER PICKED UP ITEM - BEAM CANNON***": {
+    "translation": "玩家拾取了: 激光炮"
+  },
+  "***PLAYER PICKED UP ITEM - ROCKET CANNON***": {
+    "translation": "玩家拾取了: 火箭炮"
+  },
+  "***ZOMBIE DETECTED - YOU FAIL***": {
+    "translation": "已检测到僵尸,你失败了"
+  },
+  "***MUFASA IS PRAYING FOR THE TRUTH***": {
+    "translation": "木法沙在为真相祈祷"
+  },
+  "***ZAZU IS PRAYING FOR THE TRUTH***": {
+    "translation": "沙祖在为真相祈祷"
+  },
+  "***LUFFAREN HAS ENTERED THE ADMIN ROOM***": {
+    "translation": "LUFFAREN已进入调关房"
+  },
+  "***THIS GATE WILL OPEN ONCE BOTH PATHS HAVE BEEN CLEARED***": {
+    "translation": "两边的路清理完成后门就会开"
+  },
+  "***THE ETERNAL TRUTH HAS BEEN RETRACTED***": {
+    "translation": "永恒的真理已被埋葬"
+  },
+  "***SOCRATES IS ALWAYS WATCHING***": {
+    "translation": "灼眼一直在观察着"
+  },
+  "***UPPER GATE IS OPENING***": {
+    "translation": "上层的门打开了"
+  },
+  "***UPPER GATE IS OPENING IN 30 SECONDS***": {
+    "translation": "上层的门还有30秒打开"
+  },
+  "***LOWER GATE IS OPENING IN 30 SECONDS***": {
+    "translation": "下层的门还有30秒打开"
+  },
+  "***KONY2012***": {
+    "translation": "未知..."
+  },
+  "***SORRY...***": {
+    "translation": "对不起..."
+  },
+  "***ACT 2 COMPLETE***": {
+    "translation": "第二节已完成"
+  },
+  "***ACT 1 COMPLETE***": {
+    "translation": "第一节已完成"
+  },
+  "***THE CURSE OF ETERNAL TRUTH HAS BEEN LIFTED***": {
+    "translation": "永恒真理的诅咒已被破除"
+  },
+  "***YOU ARE THE ETERNAL LEGENDS***": {
+    "translation": "你们是永远的传奇"
+  },
+  "***THE ETERNAL TRUTH HAS BEEN SUMMONED***": {
+    "translation": "永恒的真理已被召唤"
+  },
+  "***SOCRATES WILL BE WITH YOU FOREVER***": {
+    "translation": "灼眼将永远伴随你"
+  },
+  "***THE ETERNAL TRUTH LOOMS***": {
+    "translation": "永恒的真理隐约可见"
+  },
+  "***SPECIAL SOCRATES ZOMBIE TELEPORT IN 5***": {
+    "translation": "僵尸将于5秒后传送"
+  },
+  "***4***": {
+    "translation": "***4***",
+    "blocked": true
+  },
+  "***3***": {
+    "translation": "***3***",
+    "blocked": true
+  },
+  "***2***": {
+    "translation": "***2***",
+    "blocked": true
+  },
+  "***UNO***": {
+    "translation": "UNO"
+  },
+  "***THE MAPPER FELT THE NEED TO COMPENSATE FOR SOMETHING THAT HE LACKED***": {
+    "translation": "作者觉得有必要对他缺失的东西进行弥补"
+  },
+  "***DON'T TELL HIM I SAID THAT***": {
+    "translation": "不要告诉他是我说的"
+  },
+  "***LUFFAREN HAS ENTERED THE GAME***": {
+    "translation": "Luffaren进入了游戏"
+  },
+  "***...***": {
+    "translation": "***...***",
+    "blocked": true
+  },
+  "***THERE IS NOTHING LEFT FOR YOU HERE...***": {
+    "translation": "这里已没有你的东西..."
+  },
+  "***NOTHING IS NOT REAL***": {
+    "translation": "一切都是虚假的"
+  },
+  "***LEAVE THIS REALM***": {
+    "translation": "远离这一切"
+  },
+  "***THE TRUTH IS UNFORGIVING***": {
+    "translation": "真相毫无宽容之心"
+  },
+  "***PERISH***": {
+    "translation": "灭亡..."
+  },
+  "***YOU HAVE DONE IT!***": {
+    "translation": "你做到了!!"
+  },
+  "***YOU HAVE DEFEATED SOCRATES - THE TRUE SANTA!***": {
+    "translation": "你击败了灼眼,真正的圣诞老人"
+  },
+  "***YOU WILL BE REMEMBERED AS CHAMPIONS***": {
+    "translation": "你将作为冠军被铭记"
+  },
+  "***THANK YOU FOR PLAYING***": {
+    "translation": "感谢各位的游玩"
+  },
+  "***MAP MADE BY - LUFFAREN***": {
+    "translation": "地图制作:Luffaren 文本重制:Liasticl"
+  },
+  "***THE END***": {
+    "translation": "由此结束.."
+  },
+  "*** - TRUE SANTA - ***": {
+    "translation": ">> 真正的圣诞老人 <<"
+  },
+  "***SPEEDER ITEMS ACTIVATED***": {
+    "translation": "加速已完成激活"
+  },
+  "***WANNA SKIP TO EXTREME MODE? > STEP ON THE PLATFORM***": {
+    "translation": "想要直接开始极限模式,那就站上平台吧"
+  },
+  "***THE VOTE HAS SPOKEN***": {
+    "translation": ">> 结果已经表明 >>"
+  },
+  "***ENABLING EXTREME MODE***": {
+    "translation": ">> 正在启动极限模式 >>"
+  },
+  "***RESTARTING ROUND***": {
+    "translation": ">> 正在重启回合 >>"
+  },
+  "***HAIL TRUMP***": {
+    "translation": "大统领嘟嘟嘟"
+  },
+  "***80% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***": {
+    "translation": "百分之八十的投票才能通过"
+  },
+  "***TRUMP IS PROUD OF YOU***": {
+    "translation": "大统领为你而自豪"
+  },
+  "***WANNA REVERT BACK TO NORMAL MODE? > STEP ON THE PLATFORM***": {
+    "translation": "想要从普通模式重新开始,那就站上平台吧"
+  },
+  "***REVERTING TO NORMAL MODE***": {
+    "translation": ">> 正在启动普通模式 >>"
+  },
+  "***STOP THE COUNT!!!!!***": {
+    "translation": "一句话:不玩别来"
+  },
+  "***IT HAS COME TO THE MAPMAKERS ATTENTION THAT YOU DON'T ENJOY HIS FRESH MIXTAPE...***": {
+    "translation": "作者注意到你对他的作品不怎么喜欢..."
+  },
+  "***THE MAPMAKER THINKS THAT YOU MAY NEED SOME PUNISHMENT FOR SUCH INSOLENCE***": {
+    "translation": "作者觉得你得为你的傲慢付出代价"
+  },
+  "***BE PREPARED FOR SOMETHING SPECIAL...***": {
+    "translation": "准备好来点特别的..."
+  },
+  "***...SOMETHING VERY SPECIAL...***": {
+    "translation": "一些非常特别的..."
+  },
+  "***ZOMBIES GOT INSIDE - YOU LOSE***": {
+    "translation": "僵尸进来了,你输了"
+  },
+  "***SIMBA IS PRAYING FOR THE TRUTH***": {
+    "translation": "辛巴在为真相祈祷"
+  },
+  "*** - SANTA - ***": {
+    "translation": ">> 圣诞老人 <<"
+  },
+  "***YOU HAVE DEFEATED SANTA***": {
+    "translation": "你击败了圣诞老人"
+  },
+  "***FOR NOW... IT SEEMS***": {
+    "translation": "暂时是这样..."
+  },
+  "***YOU HAVE DEFEATED SANTA CLAUS***": {
+    "translation": "你已击败圣诞老人.."
+  },
+  "***MUFASAS DEATH HAS BEEN AVENGED***": {
+    "translation": "木法沙的仇已报"
+  },
+  "***PEACE WILL NOW SPREAD THROUGH THE LANDS***": {
+    "translation": "和平将洒满这片大地"
+  },
+  "*** - BIG SANTA - ***": {
+    "translation": ">> 巨型圣诞老人 <<"
+  },
+  "***ROCK WALL WILL BREAK IN 5 SECONDS***": {
+    "translation": "***ROCK WALL WILL BREAK IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***ROCK WALL WILL BREAK IN 15 SECONDS***": {
+    "translation": "岩石15秒后倒塌"
+  },
+  "***SNOW WALL WILL BREAK IN 10 SECONDS***": {
+    "translation": "雪墙将在10秒后倒塌"
+  },
+  "***STAGE SET - PROLOGUE***": {
+    "translation": "关卡设定至: 序章"
+  },
+  "***STAGE SET - ACT I***": {
+    "translation": "关卡设定至: 第一节"
+  },
+  "***STAGE SET - ACT II***": {
+    "translation": "关卡设定至: 第二节"
+  },
+  "***STAGE SET - ACT III***": {
+    "translation": "关卡设定至: 第三节"
+  },
+  "***THE ULTIMATE MURDER BUTTON HAS BEEN PRESSED***": {
+    "translation": "终极重开按钮已按下"
+  },
+  "***MERRY XMAS***": {
+    "translation": "圣诞快乐兄弟们"
+  },
+  "***...AND HAPPY SIMBA DAY***": {
+    "translation": "还有辛巴节"
+  },
+  "^This fella is a silly-willy that everyone should point and laugh at!": {
+    "translation": "这人的天真,可不得狠狠嘲笑!"
+  },
+  "^That was the stupidest thing i've ever heard as a map": {
+    "translation": "那可是我听过最愚蠢的东西"
+  },
+  "ALL HAIL LUFFAREN, THE GOD OF BEAVERS AND DREAMS!": {
+    "translation": "向卤粉致敬"
+  },
+  "U WOT M8": {
+    "translation": "U WOT M8",
+    "blocked": true
+  },
+  "Hey there everyone, you should totally send Luffaren some hot nudes ASAP!": {
+    "translation": "嘿兄弟们,你们可得赶紧给卤粉看点好康的!"
+  },
+  "...": {
+    "translation": "...",
+    "blocked": true
+  },
+  "HEY EVERYONE! Kaemon is a wet biscuit!!!": {
+    "translation": "嗨兄弟们! Kaemon只是个老玩具罢了!!!"
+  },
+  "Type 1 if you are jerking it right now": {
+    "translation": "左下角扣字以示敬意"
+  },
+  "YOU AND EVERYONE YOU KNOW WILL DIE ONE DAY": {
+    "translation": "你与你所识的所有人总有一天会嗝屁"
+  },
+  "SEND ALL YOUR NUDES TO LUFFAREN!!!": {
+    "translation": "快给卤粉发涩图!!!"
+  },
+  "^Wtf are you even talking about?": {
+    "translation": "靠你们在聊些什么?"
+  },
+  "What": {
+    "translation": "什么"
+  },
+  "HEY GUYS!": {
+    "translation": "嗨兄弟们!"
+  },
+  "Everyone should really consider sending Luffaren some nudes": {
+    "translation": "真不给卤粉发点好看的吗"
+  },
+  "Where da nudes for Luffaren b at?": {
+    "translation": "给卤粉的瑟图在哪里?"
+  }
+}
