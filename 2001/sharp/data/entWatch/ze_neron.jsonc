@@ -32,8 +32,8 @@
     "count": 1
   },
   {
-    "name": "深橙",
-    "shortName": "深橙",
+    "name": "加速",
+    "shortName": "加速",
     "buttonClass": "func_button",
     "hammerId": "1684",
     "triggerId": ["2397"],
@@ -44,8 +44,8 @@
     "count": 1
   },
   {
-    "name": "绿",
-    "shortName": "绿",
+    "name": "护盾",
+    "shortName": "护盾",
     "buttonClass": "func_button",
     "hammerId": "2779",
     "cooldown": 70,
@@ -55,8 +55,8 @@
     "count": 1
   },
   {
-    "name": "红",
-    "shortName": "红",
+    "name": "能量球",
+    "shortName": "能量球",
     "buttonClass": "func_button",
     "hammerId": "2470",
     "cooldown": 0,
@@ -66,8 +66,8 @@
     "count": 1
   },
   {
-    "name": "深紫",
-    "shortName": "深紫",
+    "name": "黑洞",
+    "shortName": "黑洞",
     "buttonClass": "func_button",
     "hammerId": "2794",
     "triggerId": ["2807"],
@@ -78,8 +78,8 @@
     "count": 1
   },
   {
-    "name": "深绿",
-    "shortName": "深绿",
+    "name": "激光",
+    "shortName": "激光",
     "buttonClass": "func_button",
     "hammerId": "1511",
     "triggerId": ["2471"],
@@ -90,8 +90,8 @@
     "count": 1
   },
   {
-    "name": "橙",
-    "shortName": "橙",
+    "name": "墙",
+    "shortName": "墙",
     "buttonClass": "func_button",
     "hammerId": "4141",
     "cooldown": 65,
@@ -101,8 +101,8 @@
     "count": 1
   },
   {
-    "name": "深红",
-    "shortName": "深红",
+    "name": "ZM能量球",
+    "shortName": "ZM能量球",
     "buttonClass": "func_button",
     "hammerId": "4154",
     "triggerId": ["4157"],
@@ -113,8 +113,8 @@
     "count": 1
   },
   {
-    "name": "蓝",
-    "shortName": "蓝",
+    "name": "传送枪",
+    "shortName": "传送枪",
     "buttonClass": "func_button",
     "hammerId": "1695",
     "cooldown": 70,
@@ -124,8 +124,8 @@
     "count": 1
   },
   {
-    "name": "深蓝",
-    "shortName": "深蓝",
+    "name": "冰冻球",
+    "shortName": "冰冻球",
     "buttonClass": "func_button",
     "hammerId": "1854",
     "triggerId": ["2378"],
