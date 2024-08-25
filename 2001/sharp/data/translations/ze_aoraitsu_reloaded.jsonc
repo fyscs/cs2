@@ -14,31 +14,31 @@
     "translation": "| 夏墨牌电梯将在15秒后离开咯 |"
   },
   "| 门将在20秒后打开 |": {
-    "translation": "| 门将在20秒后打开 |"
+    "translation": "| 门还有20秒开 |"
   },
   "| 你输了 |": {
     "translation": "| 你输了 |"
   },
   "| 门将在30秒后开启 |": {
-    "translation": "| 门将在30秒后开启 |"
+    "translation": "| 门还有30秒开 |"
   },
   "| 门已开启 |": {
     "translation": "| 门已开启 |"
   },
   "| 门将在15秒后开启 |": {
-    "translation": "| 门将在15秒后开启 |"
+    "translation": "| 大门将在15秒后开启 |"
   },
   ">>> 管理员修改至[世界终结] <<<": {
     "translation": ">>> 管理员修改至[世界终结] <<<"
   },
   "| 门将在25秒后开启 |": {
-    "translation": "| 门将在25秒后开启 |"
+    "translation": "| 大门将在25秒后开启 |"
   },
   "| 门将在30秒后打开|": {
-    "translation": "| 门将在30秒后打开|"
+    "translation": "| 大门将在30秒后开启|"
   },
   "| 30 |": {
-    "translation": "| 30 |"
+    "translation": "| 剩余30秒 |"
   },
   "| 门会在5秒后关闭 |": {
     "translation": "| 门会在5秒后关闭 |"
@@ -53,19 +53,19 @@
     "translation": "| EP.零 完成 |"
   },
   "| 最后的30秒! |": {
-    "translation": "| 最后的30秒! |"
+    "translation": "| 防守!剩余30秒! |"
   },
   "|人类墙与僵尸球类神器将在进入BOSS房后关闭|": {
     "translation": "|人类墙与僵尸球类神器将在进入BOSS房后关闭|"
   },
   "| 25 |": {
-    "translation": "| 25 |"
+    "translation": "| 剩余25秒 |"
   },
   "| 20 |": {
-    "translation": "| 20 |"
+    "translation": "| 剩余20秒 |"
   },
   "| 传送阵还有40秒准备好 |": {
-    "translation": "| 传送阵还有40秒准备好 |"
+    "translation": "| 最后の传送!防守40秒 |"
   },
   "| 最后的房间已打开.. |": {
     "translation": "| 最后的房间已打开.. |"
@@ -74,10 +74,10 @@
     "translation": ">>> 管理员修改至[前幕] <<<"
   },
   "| 道路将在30秒后开启 |": {
-    "translation": "| 道路将在30秒后开启 |"
+    "translation": "| 道路在30秒后开启 |"
   },
   "| 门将在25秒后关闭 |": {
-    "translation": "| 门将在25秒后关闭 |"
+    "translation": "| 门将于25秒后关闭 |"
   },
   ">>> 管理员修改至[第二幕]  <<<": {
     "translation": ">>> 管理员修改至[第二幕]  <<<"
@@ -95,13 +95,13 @@
     "translation": ">>> 管理员结束了回合 <<<"
   },
   "| 35秒后门就要开了 |": {
-    "translation": "| 35秒后门就要开了 |"
+    "translation": "| 剩余35秒门开 |"
   },
   "| EP.1 Complete |": {
     "translation": "| EP.一 完成 |"
   },
   "| 最后25秒? |": {
-    "translation": "| 最后25秒? |"
+    "translation": "| 最后の25秒? |"
   },
   "| 35 |": {
     "translation": "| 35 |"
@@ -110,7 +110,7 @@
     "translation": "| 门已打开 |"
   },
   "| 嗯哼?怎么还有30秒? |": {
-    "translation": "| 嗯哼?怎么还有30秒? |"
+    "translation": "| 怎么还有30秒我丢? |"
   },
   "| 25秒 |": {
     "translation": "| 25秒 |"
@@ -119,7 +119,7 @@
     "translation": "| 电梯来了 小心断口! |"
   },
   "| 20秒后电梯就会上升 |": {
-    "translation": "| 20秒后电梯就会上升 |"
+    "translation": "| 电梯将在20秒后上升 |"
   },
   "AoraitsuR TU0|R7 24/07/16 02:10": {
     "translation": "AoraitsuR TU0|R7 24/07/16 02:10"
@@ -140,13 +140,13 @@
     "translation": "[X] 最高生命值 一百五"
   },
   "| 距离BOSS核爆还有100秒 |": {
-    "translation": "| 距离BOSS核爆还有100秒 |"
+    "translation": "| 距离BOSS核爆还剩100秒 朝上面开枪! |"
   },
   "| 守住25秒 |": {
-    "translation": "| 守住25秒 |"
+    "translation": "| 防守25秒 |"
   },
   "| 门将在25秒后打开 |": {
-    "translation": "| 门将在25秒后打开 |"
+    "translation": "| 大门将于25秒后打开 |"
   },
   "| 你让僵尸碰到球了，你们输了 |": {
     "translation": "| 你让僵尸碰到球了,你们输了 |"
@@ -155,7 +155,7 @@
     "translation": "| 你杀死了BOSS |"
   },
   "| 门还有25秒关闭 |": {
-    "translation": "| 门还有25秒关闭 |"
+    "translation": "| 还剩25秒关门 |"
   },
   "啊哈哈..": {
     "translation": "啊哈哈.."
