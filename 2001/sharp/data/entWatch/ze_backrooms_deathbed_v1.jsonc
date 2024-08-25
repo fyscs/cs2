@@ -25,10 +25,9 @@
     "shortName": "闪",
     "buttonClass": "func_button",
     "hammerId": "5687",
-    "cooldown": 1,
     "team": 3,
     "knife": false,
-    "mode": 2,
+    "mode": 1,
     "count": 1
   },
   {
@@ -36,10 +35,9 @@
     "shortName": "闪",
     "buttonClass": "func_button",
     "hammerId": "5709",
-    "cooldown": 1,
     "team": 3,
     "knife": false,
-    "mode": 2,
+    "mode": 1,
     "count": 1
   }
 ]
