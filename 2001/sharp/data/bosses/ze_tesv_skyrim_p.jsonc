@@ -1,0 +1,67 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "counter_1",
+      "hitbox": "st1_dragonphysbox",
+      "backup": "counter_1_backup",
+      "counter": "BossHpIterations4",
+      "display": "奥杜因"
+    },
+    {
+      "iterator": "dw_hp",
+      "backup": "dw_hp_backup",
+      "counter": "BossHpIterations2",
+      "hitbox": "counter_3",
+      "display": "百夫长"
+    },
+    {
+      "iterator": "counter_2",
+      "backup": "counter_2_backup",
+      "counter": "BossHpIterations3",
+      "hitbox": "boss_2_break",
+      "display": "奥杜因"
+    },
+    {
+      "iterator": "counter_3",
+      "backup": "bosshpbackup",
+      "counter": "BossHpIterations",
+      "hitbox": "sovng_boss_break",
+      "display": "奥杜因"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "712",
+      "display": "龙祭司"
+    },
+    {
+      "identity": "10472",
+      "display": "机械"
+    },
+    {
+      "identity": "29310",
+      "display": "DP"
+    }
+  ]
+}
