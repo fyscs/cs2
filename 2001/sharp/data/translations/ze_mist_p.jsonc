@@ -1,0 +1,122 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Cleansing Aura has been acquired ***": {
+    "translation": "净化光环已被拾取"
+  },
+  "*** Static Field has been acquired ***": {
+    "translation": "静电立场已被拾取"
+  },
+  "*** Toxic Haze has been acquired ***": {
+    "translation": "毒雾已被拾取"
+  },
+  "*** Spirit Burst has been acquired ***": {
+    "translation": "心灵爆发已被拾取"
+  },
+  "*** Acid Flame has been acquired ***": {
+    "translation": "腐蚀火焰已被拾取"
+  },
+  "*** Ice Nova has been acquired ***": {
+    "translation": "冰霜新星已被拾取"
+  },
+  "*** You have failed to slay the dragon in time! ***": {
+    "translation": "你们必须及时击败龙之亡灵"
+  },
+  "*** Map by Soft Serve ***": {
+    "translation": "地图制作:Soft Serve 文本翻译:Lia"
+  },
+  "*** 30 seconds ***": {
+    "translation": "还有30秒"
+  },
+  "*** 15 seconds ***": {
+    "translation": "还有15秒"
+  },
+  "*** 5 seconds ***": {
+    "translation": "还有5秒",
+    "blocked": true
+  },
+  "*** 60 seconds ***": {
+    "translation": "还有60秒"
+  },
+  "*** The mechanism is broken. Ring the bell manually. ***": {
+    "translation": "机关坏了,需要手动敲钟"
+  },
+  "*** 120 seconds ***": {
+    "translation": "还有120秒"
+  },
+  "*** 90 seconds ***": {
+    "translation": "还有90秒"
+  },
+  "*** 10 ***": {
+    "translation": "还有10秒"
+  },
+  "*** 9 ***": {
+    "translation": "*** 9 ***",
+    "blocked": true
+  },
+  "*** 8 ***": {
+    "translation": "*** 8 ***",
+    "blocked": true
+  },
+  "*** 7 ***": {
+    "translation": "*** 7 ***",
+    "blocked": true
+  },
+  "*** 6 ***": {
+    "translation": "*** 6 ***",
+    "blocked": true
+  },
+  "*** 5 ***": {
+    "translation": "*** 5 ***",
+    "blocked": true
+  },
+  "*** 4 ***": {
+    "translation": "*** 4 ***",
+    "blocked": true
+  },
+  "*** 3 ***": {
+    "translation": "*** 3 ***",
+    "blocked": true
+  },
+  "*** 2 ***": {
+    "translation": "*** 2 ***",
+    "blocked": true
+  },
+  "*** 1 ***": {
+    "translation": "*** 1 ***",
+    "blocked": true
+  },
+  "*** Congratulations! You have claimed the throne! ***": {
+    "translation": "祝贺你们! 你们成功了!"
+  },
+  "*** Practice mode enabled ***": {
+    "translation": "练习模式已启用"
+  },
+  "*** You can restart the round now ***": {
+    "translation": "现在可以重启回合了"
+  },
+  "*** Or don't. What do I care? I'm not your daddy ***": {
+    "translation": "或者不要?反正我也管不着"
+  },
+  "*** Normal mode enabled ***": {
+    "translation": "普通模式已启用"
+  },
+  "*** Do it. And call me daddy ***": {
+    "translation": "装逼我让你飞起来!"
+  },
+  "*** 10 seconds ***": {
+    "translation": "还有10秒"
+  },
+  "*** 20 seconds ***": {
+    "translation": "还有20秒"
+  }
+}
