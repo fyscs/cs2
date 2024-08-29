@@ -26,7 +26,7 @@ Copyright © 2019-2024 FyS. ALL RIGHTS RESERVED.
 - 地图名一律使用``小写``
 - PR标题匹配 (Regex)
   - ``^新增地图\:\s(ze|mg|ttt|jb|bhop|surf|kz|kzpro|vnl|skz|bkz|xc|dr|deathrun|de|cs)_[a-zA-Z0-9_]+$``
-  - ``^(修改|补充)地图(数据|翻译|Boss|关卡|按钮|参数|神器|通关奖励|Stripper|Nuke|VScript)?\:\s(ze|mg|ttt|jb|bhop|surf|kz|kzpro|vnl|skz|bkz|xc|dr|deathrun|de|cs)_[a-zA-Z0-9_]+$``
+  - ``^(修改|补充)地图(数据|翻译|Boss|关卡|按钮|参数|神器|通关奖励|Stripper|Nuke|VScript|Mapper)?\:\s(ze|mg|ttt|jb|bhop|surf|kz|kzpro|vnl|skz|bkz|xc|dr|deathrun|de|cs)_[a-zA-Z0-9_]+$``
 
 ## License
 
