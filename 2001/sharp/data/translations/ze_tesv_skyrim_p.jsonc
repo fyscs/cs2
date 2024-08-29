@@ -1,0 +1,295 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Hold for 25 seconds ***": {
+    "translation": "等待25秒"
+  },
+  ">> Kill the remaining Zombies! <<": {
+    "translation": "清除剩余的僵尸!"
+  },
+  ">> We need to inform the Jarl of Whiterun that the dragons are attacking! <<": {
+    "translation": "我们需要告知城主关于龙正在攻击这里的消息"
+  },
+  ">> City door opens in 35 seconds! <<": {
+    "translation": "城门于35秒后开启!"
+  },
+  ">> Hold them back for 25 more seconds! <<": {
+    "translation": "坚持25秒!"
+  },
+  ">> Defend the bridge until door opens! <<": {
+    "translation": "门就要开了!守住桥这里!"
+  },
+  ">> IT'S A DRAGON! <<": {
+    "translation": "是龙!!"
+  },
+  ">> SHOOT IT! <<": {
+    "translation": "快朝它射击!"
+  },
+  ">> THE DRAGON IS GOING TO KILL US ALL !!! <<": {
+    "translation": "龙会杀了我们所有人!!"
+  },
+  ">> Exit through the secret door! <<": {
+    "translation": "从秘密通道离开这里!!"
+  },
+  ">> Dragon has been spotted outside Whiterun! <<": {
+    "translation": "已在雪漫城外发现龙的踪迹!"
+  },
+  ">> Go through the balcony door! <<": {
+    "translation": "穿过阳台的门!"
+  },
+  ">> Stage Completed! <<": {
+    "translation": ">> 关卡已完成 <<"
+  },
+  ">> Run for the bridge of Dragons Reach!! <<": {
+    "translation": "在龙到达之前去敲得另一边!"
+  },
+  ">> City door opens in 25 seconds! <<": {
+    "translation": "城门25秒后打开"
+  },
+  ">> HOLD THEM BACK! <<": {
+    "translation": "守住!"
+  },
+  ">> We need to get away from these dragons! <<": {
+    "translation": "我们需要赶紧远离这些龙!!"
+  },
+  ">> Go through the house to the sewers! <<": {
+    "translation": "穿过这里到排水道那去!"
+  },
+  ">> Door Opens In 20 Seconds! <<": {
+    "translation": "门还有20秒打开!"
+  },
+  ">> Fall Back Now! <<": {
+    "translation": "现在撤退!"
+  },
+  ">> We need to hold the Plains District for 45 seconds HOLD THEM BACK! <<": {
+    "translation": "还有40秒,我们得守住这里!"
+  },
+  ">> Door Closes in 25 seconds <<": {
+    "translation": "门还有25秒关闭"
+  },
+  ">> Keep Defending! <<": {
+    "translation": "保持防守!!"
+  },
+  ">> Door Closes in 15 seconds <<": {
+    "translation": "门还有15秒关闭"
+  },
+  ">> Door Closes in 5 seconds <<": {
+    "translation": ">> Door Closes in 5 seconds <<",
+    "blocked": true
+  },
+  ">> The dragon is fleeing! <<": {
+    "translation": "龙逃走了!!"
+  },
+  ">> Run towards the tower now! <<": {
+    "translation": "快到塔那里去!!"
+  },
+  ">> Hold here for 30 seconds! <<": {
+    "translation": "守住,还有30秒!"
+  },
+  ">> City gate closes in 50 seconds <<": {
+    "translation": "城门还有50秒关闭"
+  },
+  ">> Defend until someone gets the key from the other room! <<": {
+    "translation": "去另个房间拿钥匙,赶紧守住!"
+  },
+  ">> Run for the helgen keep NOW! <<": {
+    "translation": "快到赫尔根"
+  },
+  ">> We killed the Dragonpriest! <<": {
+    "translation": "我们成功杀掉了龙祭司!"
+  },
+  ">> Hold the zombies back until the teleporter activates! <<": {
+    "translation": "守住这里,传送就要启动了!"
+  },
+  ">> The teleporter is working JUMP INTO IT!  <<": {
+    "translation": "传送阵启动了,快进来!"
+  },
+  ">> Kill the Dragonpriest! <<": {
+    "translation": "杀掉龙祭司!"
+  },
+  ">> Elevator leaves in 20 seconds! <<": {
+    "translation": "还有20秒离开这里!"
+  },
+  ">> Elevator leaves in 5 seconds! <<": {
+    "translation": ">> Elevator leaves in 5 seconds! <<",
+    "blocked": true
+  },
+  ">> USE THE ELDER SCROLL NOW <<": {
+    "translation": ">> 现在使用卷轴!! <<"
+  },
+  ">> You Have Defeated Alduin <<": {
+    "translation": "你击败了奥杜因!"
+  },
+  "** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **": {
+    "translation": "你完成了地图,恭喜!!"
+  },
+  "** MAP BY P'A'SS AND KIM !!! **": {
+    "translation": "地图制作:P'A'SS,KIM 文本翻译:Lia"
+  },
+  ">> Kill The Remaining Zombie! <<": {
+    "translation": "清除剩余的僵尸!!"
+  },
+  ">> We need to hold the Plains District for 40 seconds HOLD THEM BACK! <<": {
+    "translation": "还有40秒,我们得守住平原地区!"
+  },
+  "*** THE ELDER SCROLL MADE IT TO THE END ***": {
+    "translation": "上古卷轴已成功带回"
+  },
+  "*** YOU CAN NOW USE IT ON NEXT STAGE ***": {
+    "translation": "你将能在下一关使用它"
+  },
+  ">> Admin Pressed Kill All button! <<": {
+    "translation": ">> 管理员按下处死按钮! <<"
+  },
+  ">> Door Opens in 45 seconds <<": {
+    "translation": "门还有45秒打开"
+  },
+  ">> Go Downstairs to the Treasure room and take the Elder Scroll! <<": {
+    "translation": "下楼去藏宝室那里拿上上古卷轴!!"
+  },
+  ">> Find a way to open the Door! <<": {
+    "translation": "想办法把门打开!!"
+  },
+  ">> Elevator leaves in 30 seconds! <<": {
+    "translation": "电梯30秒后离开!!"
+  },
+  ">> Elevator leaves in 10 seconds! <<": {
+    "translation": ">> Elevator leaves in 10 seconds! <<",
+    "blocked": true
+  },
+  ">> Elevator is leaving! <<": {
+    "translation": "电梯正在离开!"
+  },
+  ">> Lever has been pressed! <<": {
+    "translation": "开关已按下!!"
+  },
+  ">> Run for the Mead Hall <<": {
+    "translation": "快到大厅去"
+  },
+  "*** Door opens in 25 seconds! ***": {
+    "translation": "还有25秒"
+  },
+  "*** FALL BACK ***": {
+    "translation": "撤退.."
+  },
+  "*** We got the key! ***": {
+    "translation": "找到钥匙了! ***"
+  },
+  "*** Door should open soon! ***": {
+    "translation": "门应该马上就开了!"
+  },
+  "*** Door opens in 30 seconds ***": {
+    "translation": "门还有30秒开启"
+  },
+  "*** Kill the remaining zombies! ***": {
+    "translation": "清除剩余的僵尸"
+  },
+  "*** Stage Completed ***": {
+    "translation": "关卡已完成!"
+  },
+  ">> Defend the bridge don't let the zombies on the other side! <<": {
+    "translation": "在桥这里守住,不要让僵尸过来!!"
+  },
+  ">> Fall back Now!! <<": {
+    "translation": "快走!! <<"
+  },
+  ">>> Doors open in 25 seconds <<<": {
+    "translation": "门还有25秒打开"
+  },
+  "*** Door will open in 25 seconds ***": {
+    "translation": "门25秒后打开"
+  },
+  "*** Lever has been pulled! ***": {
+    "translation": "控制杆已拉下!"
+  },
+  "*** Hold for just 25 seconds more! ***": {
+    "translation": "再坚持25秒"
+  },
+  "*** Door will open in 30 seconds ***": {
+    "translation": "这扇门30秒后打开"
+  },
+  "*** You have found the switch! ***": {
+    "translation": "去找开关!!"
+  },
+  "*** Hold the bridges for 30 seconds ***": {
+    "translation": "在桥这里守30秒"
+  },
+  "*** Hold the cave for 30 seconds ***": {
+    "translation": "在这里守30秒"
+  },
+  "*** Seems like the lever is broken ***": {
+    "translation": "看起来控制杆坏了"
+  },
+  "*** Find a way to fix it! ***": {
+    "translation": "想办法把它修好"
+  },
+  "*** There should be a switch for that door somewhere! ***": {
+    "translation": "门的控制杆应该在附近"
+  },
+  "*** Good job ***": {
+    "translation": "干的不错"
+  },
+  "*** The doors will now open a bit faster! ***": {
+    "translation": "这扇门会提早一会打开"
+  },
+  "*** Hold for 45 seconds OR find a way to make it open faster ***": {
+    "translation": "等待45秒,或者想办法提前把门打开"
+  },
+  ">>> KILL THE REMAINING ZOMBIES <<<": {
+    "translation": ">> 清除剩余的僵尸! <<"
+  },
+  "*** Stage completed! ***": {
+    "translation": ">> 关卡已完成 <<"
+  },
+  ">> Stage 2 Whiterun <<": {
+    "translation": ">> 章节二: 雪漫城 <<"
+  },
+  ">> Stage 5 Sovngarde <<": {
+    "translation": ">> 章节五: 松加德 <<"
+  },
+  "*** Map By P'a'ss and Kim ***": {
+    "translation": "地图制作:P'a'ss and Kim"
+  },
+  ">> Stage 1 Helgen <<": {
+    "translation": ">> 章节一: 赫尔根 <<"
+  },
+  ">> Stage 4 Dwemer ruins <<": {
+    "translation": ">> 章节四: 锻莫遗迹 <<"
+  },
+  ">> Stage 3 Road To Dwemer Ruins <<": {
+    "translation": ">> 章节三: 前往锻莫遗迹 <<"
+  },
+  ">> WARMUP ROUND <<": {
+    "translation": ">> 热身回合 <<"
+  },
+  ">>> After winning a round you will get 100 points which equals with 1 level  <<<": {
+    "translation": ">> 成功通过一关后你将获得一级神器等级 <<"
+  },
+  ">>> Level 1 item requires 100 points Level 2 item requires 200 points and so on. <<<": {
+    "translation": ">> 一级神器需要通一关,二级两关.以此类推 <<"
+  },
+  ">>> When round starts you have small amount of time to pick an item before the zombies spawn <<<": {
+    "translation": ">> 回合开始后在僵尸出现前你有时间可以拾取神器 <<"
+  },
+  ">>> AFTER PICKING UP AN ITEM YOU CAN USE THEIR ATTACKS WITH EITHER LEFT OR RIGHT MOUSE CLICK <<<": {
+    "translation": ">> 拾取神器后使用鼠标左右键启用特殊攻击 <<"
+  },
+  ">>> Shooting the Zombie items in the head will push them back! <<<": {
+    "translation": ">> 射击僵尸神器头部有击退效果 <<"
+  },
+  ">>> ONLY 1 OF EACH HUMAN ITEMS CAN BE TAKEN AT ONCE <<<": {
+    "translation": ">> 人类神器仅能由一人拾取 <<"
+  },
+  ">> The dragon is fleeing! Run to the Helgen keep! <<": {
+    "translation": "奥杜因逃走了!快进入赫尔根城堡!!"
+  }
+}
