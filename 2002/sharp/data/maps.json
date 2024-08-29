@@ -1,4 +1,11 @@
 {
+  "ttt_cs2_screamcastle_final": {
+    "certainTimes": [-1],
+    "price": 250,
+    "cooldown": 12,
+    "nomination": false,
+    "admin": false
+  }, 
  "ttt_biocube_night": {
     "certainTimes": [-1],
     "price": 250,
