@@ -21,38 +21,5 @@
   // count        (int)      -> 神器个数
 
 [
-  {
-    "name": "治疗",
-    "shortName": "治疗",
-    "buttonClass": "func_button",
-    "hammerId": "31069",
-    "cooldown": 70,
-    "team": 3,
-    "knife": false,
-    "mode": 2,
-    "count": 1
-  },
-  {
-    "name": "狂风",
-    "shortName": "狂风",
-    "buttonClass": "func_button",
-    "hammerId": "31104",
-    "cooldown": 60,
-    "team": 3,
-    "knife": false,
-    "mode": 2,
-    "count": 1
-  },
-  {
-    "name": "加速",
-    "shortName": "加速",
-    "buttonClass": "func_button",
-    "hammerId": "31121",
-    "triggerId": ["31119"],
-    "cooldown": 50,
-    "team": 2,
-    "knife": true,
-    "mode": 2,
-    "count": 1
-  }
+
 ]
