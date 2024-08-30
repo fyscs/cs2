@@ -1,7 +1,9 @@
 // entWatch configuration file generator.
-// EntWatch Version v23
+// EntWatch Version v22
 // Copyright 2024 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
+
+  // 下一代entWatch配置文件 V23
 
   // 可用字段:
   // name          (string)     -> 名字
