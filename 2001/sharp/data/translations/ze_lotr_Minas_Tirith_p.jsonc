@@ -44,7 +44,7 @@
     "translation": "** 保卫星辰堡垒! 我们不能不战而退! ( 30 S)**"
   },
   "** THIS IS THE LAST STAND AT FIRST LEVEL ** FIGHT UNTIL THE SIGNAL **": {
-    "translation": "** 这是 LEVEL 1 的最后一战 ** 战斗直至信号出现 **"
+    "translation": "** 这是第一层的最后一站 ** 战斗直至信号出现 **"
   },
   "** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **": {
     "translation": "** 使用障碍物盖住大门,或者防守 60 S ! **"
@@ -287,7 +287,7 @@
     "translation": "** EX模式 : 已开启 **"
   },
   "** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 5**": {
-    "translation": "** 僵尸商店的所有神器已解锁,但不包括炎魔 **"
+    "translation": "** 僵尸商店的所有神器已解锁,但不包括5级神器 **"
   },
   "** CONSTANT METEOR HAS BEEN ENABLED **": {
     "translation": "** 天谴：启用(注意躲避地面红色特效,远离天谴音效) **"
