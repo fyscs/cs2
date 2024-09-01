@@ -31,6 +31,55 @@
       "insert": {
         "spawnflags": "5"
       }
+    },
+    //fix map placed grenade...
+    {
+      "match": {
+        "classname": "weapon_flashbang"
+      },
+      "insert": {
+        "subclass_name": "43"
+      }
+    },
+    {
+      "match": {
+        "classname": "weapon_hegrenade"
+      },
+      "insert": {
+        "subclass_name": "44"
+      }
+    },
+    {
+      "match": {
+        "classname": "weapon_smokegrenade"
+      },
+      "insert": {
+        "subclass_name": "45"
+      }
+    },
+    {
+      "match": {
+        "classname": "weapon_molotov"
+      },
+      "insert": {
+        "subclass_name": "46"
+      }
+    },
+    {
+      "match": {
+        "classname": "weapon_decoy"
+      },
+      "insert": {
+        "subclass_name": "47"
+      }
+    },
+    {
+      "match": {
+        "classname": "weapon_incgrenade"
+      },
+      "insert": {
+        "subclass_name": "48"
+      }
     }
   ]
 }

@@ -20,5 +20,10 @@
   ],
   "button": [
     "2004/sharp/data/games"
+  ],
+  "plain": [
+    "2001/sharp/data/mappers.json",
+    "2001/sharp/data/scripts.json",
+    "2002/sharp/data/weapons"
   ]
 }
