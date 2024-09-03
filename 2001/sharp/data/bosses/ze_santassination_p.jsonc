@@ -23,33 +23,36 @@
   "Breakables": [
     {
       "target": "bosss_hp",
-      "display": "Santa"
+      "display": "瘦猴圣诞老人",
+      "hitbox": "boss_s_model"
     },
     {
       "target": "bosss_hp1",
-      "display": "Santa Claus"
+      "display": "肥宅圣诞老人",
+      "hitbox": "boss_sb_model"
     },
     {
       "target": "bosss_hp2",
-      "display": "Zyzz"
+      "display": "灼眼尊者",
+      "hitbox": "boss_t_model"
     }
   ],
   "Monsters": [
     {
       "identity": "4304",
-      "display": "比翼双飞"
+      "display": "灼眼の大头小分队"
     },
     {
       "identity": "1221",
-      "display": "板鸭"
+      "display": "灼眼の板鸭"
     },
     {
       "identity": "756",
-      "display": "氯化钠"
+      "display": "灼眼の律化娜"
     },
     {
       "identity": "519",
-      "display": "RGB大头"
+      "display": "灼眼のRGB大头"
     }
   ]
 }
