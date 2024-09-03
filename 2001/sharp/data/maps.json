@@ -537,7 +537,7 @@
     "price": 1000,
     "cooldown": 120,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_ffvii_fako_reactor": {
     "certainTimes": [-1],
@@ -678,7 +678,7 @@
     "price": 700,
     "cooldown": 80,
     "nomination": false,
-    "admin": true
+    "admin": false
   },
   "ze_greece_escape_p": {
     "certainTimes": [-1],
@@ -1427,7 +1427,7 @@
     "price": 650,
     "cooldown": 120,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_saw_p": {
     "certainTimes": [-1],
