@@ -32,9 +32,9 @@
       "display": "轮回王"
     },
     {
-      "iterator": "Guard_Health",
-      "backup": "Guard_Health_Init",
-      "counter": "Boss_Overlay_Counter",
+      "iterator": "Gabranth_HP",
+      "backup": "Gabranth_HPInit",
+      "counter": "Gabranth_HPBar",
       "increase": true,
       "hitbox": "Guard_1_Physbox",
       "display": "小学生"
