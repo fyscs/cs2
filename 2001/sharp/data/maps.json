@@ -462,6 +462,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_escape2024": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": true
+  },
   "ze_escape_the_eye_p": {
     "certainTimes": [-1],
     "price": 300,
