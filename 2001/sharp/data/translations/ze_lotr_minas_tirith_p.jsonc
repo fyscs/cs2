@@ -68,7 +68,7 @@
     "translation": "** 存活 25 秒! **"
   },
   "*** This map is a port in progress and is not currently available to play on your server. Feel free to change map. ***": {
-    "translation": "*** 这张地图正在搬运的过程中,当前不能在服务器游玩. 请更换. ***"
+    "translation": "*** 这张地图正在搬运的过程中,当前不能在服务器游玩, 请更换 ***"
   },
   "** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **": {
     "translation": "** 回合将在几秒后正式开始 ** 检查你的地图分数从而选择对应级别的神器 **"
@@ -131,7 +131,7 @@
     "translation": "** 从第一层开始! **"
   },
   "** THE WHITE KNIGHT IS READY ROCK THE WORLD**": {
-    "translation": "** 白骑士已就绪，他将撼动整个世界 **"
+    "translation": "** 白骑士已就绪,他将撼动整个世界 **"
   },
   "** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **": {
     "translation": "** .. 暗影与烈火交织的怪物出现了 ... **"
@@ -161,7 +161,7 @@
     "translation": "** 大门关上了 **"
   },
   "** ZOMBIES ARE COMMING! CLOSE THE DOOR! **": {
-    "translation": "** 兽人来了! 关上大门! **"
+    "translation": "** 僵尸来了! 关上大门! **"
   },
   "** STAGE COMPLETED **": {
     "translation": "** 本关完成 **"
@@ -236,7 +236,7 @@
     "translation": "** 管理员按下了处死按钮.. **"
   },
   "** THIS IS THE MOMENT OF THE TRUTH ** FIGHT LIKE YOU HAVE NEVER FIGHTED BEFORE! **": {
-    "translation": "** 至关重要的时刻 ** 像从未战斗过那样去战斗! **"
+    "translation": "** 现在是至关重要的时刻 ** 像从未战斗过那样去战斗! **"
   },
   "** UNLIMITED AMMO ON **": {
     "translation": "** 无限弹药开启 **"
