@@ -126,10 +126,10 @@
     "shortName": "电",
     "buttonClass": "func_button",
     "hammerId": "1619",
-    "cooldown": 75,
+    "cooldown": 0,
     "team": 3,
     "knife": false,
-    "mode": 2,
+    "mode": 1,
     "count": 1
   },
   {
