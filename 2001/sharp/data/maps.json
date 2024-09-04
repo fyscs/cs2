@@ -930,7 +930,7 @@
     "price": 800,
     "cooldown": 160,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_lotr_mines_of_moria_p": {
     "certainTimes": [-1],
