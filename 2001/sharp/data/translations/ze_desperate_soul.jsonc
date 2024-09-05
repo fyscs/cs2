@@ -1,0 +1,532 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Get on the Altar Transfer**": {
+    "translation": ">> 到圣坛上去 >>"
+  },
+  ">>Anger Roar<<": {
+    "translation": ">>怒之咆哮<<"
+  },
+  ">>Fiery Wings<<": {
+    "translation": ">>烈焰之翼<<"
+  },
+  ">>Dragon Breath<<": {
+    "translation": ">>龙之吐息<<"
+  },
+  ">>Scarlet Whisper<<": {
+    "translation": ">>猩红低语<<"
+  },
+  ">>Sable Pearl<<": {
+    "translation": ">>暗夜之珠<<"
+  },
+  ">>Mortal Chorus<<": {
+    "translation": ">>亡语<<"
+  },
+  "**Nithhogg has released Twilight of The Gods, run into the shield quickly**": {
+    "translation": "尼斯霍格已经释放了众神的微光,快躲进护盾"
+  },
+  ">>Horrid Roar<<": {
+    "translation": ">>狂野咆哮<<"
+  },
+  ">>Akh Morn<<": {
+    "translation": ">>晨光<<"
+  },
+  ">>Cauterize<<": {
+    "translation": ">>灼热炎帝<<"
+  },
+  "**Nithhogg is casting <The advent of despair: Gotterdammerung>": {
+    "translation": "尼斯霍格正在释放<绝望的降临:戈特达默隆>"
+  },
+  "**A player has picked up <EarthlyStar>**": {
+    "translation": "一名玩家拾起了 < 辰星 >"
+  },
+  "**It seems that we are going to the depths of the cave**": {
+    "translation": "看来我们要前往洞穴深处了"
+  },
+  "**Nade do more damage in 10 seconds**": {
+    "translation": "手雷能造成更多伤害,还有10秒"
+  },
+  "**Item can do more damage**": {
+    "translation": "神器能造成更多伤害"
+  },
+  "**Battle commencing in 21 seconds!**": {
+    "translation": "**Battle commencing in 21 seconds!**"
+  },
+  "**Battle commencing in 20 seconds!**": {
+    "translation": "**Battle commencing in 20 seconds!**"
+  },
+  "**Battle commencing in 15 seconds!**": {
+    "translation": "**Battle commencing in 15 seconds!**"
+  },
+  "**Battle commencing in 10 seconds!**": {
+    "translation": "**Battle commencing in 10 seconds!**"
+  },
+  "**Battle commencing in 5 seconds!**": {
+    "translation": "**Battle commencing in 5 seconds!**"
+  },
+  "**Battle commencing in 4 seconds!**": {
+    "translation": "**Battle commencing in 4 seconds!**"
+  },
+  "**Battle commencing in 3 seconds!**": {
+    "translation": "**Battle commencing in 3 seconds!**"
+  },
+  "**Battle commencing in 2 seconds!**": {
+    "translation": "**Battle commencing in 2 seconds!**"
+  },
+  "**Battle commencing in 1 seconds!**": {
+    "translation": "**Battle commencing in 1 seconds!**"
+  },
+  "**Door will open in 20 seconds**": {
+    "translation": "**Door will open in 20 seconds**"
+  },
+  "**The statues seem to contain some secrets.**": {
+    "translation": "**The statues seem to contain some secrets.**"
+  },
+  "**Door has opened**": {
+    "translation": "**Door has opened**"
+  },
+  "**Door will open in 15 seconds**": {
+    "translation": "**Door will open in 15 seconds**"
+  },
+  "**Elevator will start in 30 seconds**": {
+    "translation": "**Elevator will start in 30 seconds**"
+  },
+  "**This is...altar transfer? Wait! The altar convergence of energy**": {
+    "translation": "**This is...altar transfer? Wait! The altar convergence of energy**"
+  },
+  "**Full ready for battle! It seems that we have to go through another adventure**": {
+    "translation": "**Full ready for battle! It seems that we have to go through another adventure**"
+  },
+  "**Hold here!**": {
+    "translation": "**Hold here!**"
+  },
+  "**Found the lever and activate it!**": {
+    "translation": "**Found the lever and activate it!**"
+  },
+  "**Damn it! Where is this? There is a cave here to avoid it!**": {
+    "translation": "**Damn it! Where is this? There is a cave here to avoid it!**"
+  },
+  "**Here is like a super ancient monuments? We try to get ready to go, prepare for the adventure**": {
+    "translation": "**Here is like a super ancient monuments? We try to get ready to go, prepare for the adventure**"
+  },
+  "**Our world seems there have been some changes! Things that should not belong to our world appear in our world!**": {
+    "translation": "**Our world seems there have been some changes! Things that should not belong to our world appear in our world!**"
+  },
+  "**Fall Back!!!**": {
+    "translation": "**Fall Back!!!**"
+  },
+  "[Secret Quest] You found the energy crystal , item <Wisp> has unlocked!": {
+    "translation": "[Secret Quest] You found the energy crystal , item <Wisp> has unlocked!"
+  },
+  "**Wait! What is that! Shit! How is there a black dragon here!!!**": {
+    "translation": "**Wait! What is that! Shit! How is there a black dragon here!!!**"
+  },
+  "**Shoot it immediately!!!**": {
+    "translation": "**Shoot it immediately!!!**"
+  },
+  "**Prepare for emergency landing!!!**": {
+    "translation": "**Prepare for emergency landing!!!**"
+  },
+  "**Wait! Wait! She wants to attack us!**": {
+    "translation": "**Wait! Wait! She wants to attack us!**"
+  },
+  "**You are too late!!!**": {
+    "translation": "**You are too late!!!**"
+  },
+  "**The owl statue's eyes take on an eerie glow. As the light fades, the statuette has disappeared**": {
+    "translation": "**The owl statue's eyes take on an eerie glow. As the light fades, the statuette has disappeared**"
+  },
+  "**We successfully deliver the statuette to the base**": {
+    "translation": "**We successfully deliver the statuette to the base**"
+  },
+  "**The magic around is flowing to the door**": {
+    "translation": "**The magic around is flowing to the door**"
+  },
+  "**The statue! We found it!**": {
+    "translation": "**The statue! We found it!**"
+  },
+  "**We need but return it to the other base**": {
+    "translation": "**We need but return it to the other base**"
+  },
+  "**<Tips>: Press <E> to pick up the statue**": {
+    "translation": "**<Tips>: Press <E> to pick up the statue**"
+  },
+  "**This door will close in 20 seconds**": {
+    "translation": "**This door will close in 20 seconds**"
+  },
+  "**Oh, what happen? It's teleport magic!!!**": {
+    "translation": "**Oh, what happen? It's teleport magic!!!**"
+  },
+  "**It seems we must get to the right teleport magic array**": {
+    "translation": "**It seems we must get to the right teleport magic array**"
+  },
+  "**Get hurry!!!The mist here is poisonous**": {
+    "translation": "**Get hurry!!!The mist here is poisonous**"
+  },
+  "**It seems that we are temporarily safe. Item <Wisp> is also available now**": {
+    "translation": "**It seems that we are temporarily safe. Item <Wisp> is also available now**"
+  },
+  "**Look, it's a owl statue**": {
+    "translation": "**Look, it's a owl statue**"
+  },
+  "**Oh, it's disappeared**": {
+    "translation": "**Oh, it's disappeared**"
+  },
+  "**We need to find another one owl statue**": {
+    "translation": "**We need to find another one owl statue**"
+  },
+  "**It seems there is a strange energy emanating from the eyes of the statues in the corridors of this place**": {
+    "translation": "**It seems there is a strange energy emanating from the eyes of the statues in the corridors of this place**"
+  },
+  "**You Failed**": {
+    "translation": "**You Failed**"
+  },
+  "**Waiting for your teammates in 30 seconds**": {
+    "translation": "**Waiting for your teammates in 30 seconds**"
+  },
+  "**Item <Wisp> is temporarily unavailable**": {
+    "translation": "**Item <Wisp> is temporarily unavailable**"
+  },
+  "**Teleportation magic is about to start, keep defence**": {
+    "translation": "**Teleportation magic is about to start, keep defence**"
+  },
+  "**The curse of light and darkness has been eliminated**": {
+    "translation": "**The curse of light and darkness has been eliminated**"
+  },
+  "**Defend for 30 seconds**": {
+    "translation": "**Defend for 30 seconds**"
+  },
+  "**Waiting for the wave**": {
+    "translation": "**Waiting for the wave**"
+  },
+  "**Many floors with the same pattern......**": {
+    "translation": "**Many floors with the same pattern......**"
+  },
+  "**Seems to be able to break the floor...**": {
+    "translation": "**Seems to be able to break the floor...**"
+  },
+  "**But it is better not to do this**": {
+    "translation": "**But it is better not to do this**"
+  },
+  "**Remember the glowing floor...**": {
+    "translation": "**Remember the glowing floor...**"
+  },
+  "**Wait here for more than 15 seconds...**": {
+    "translation": "**Wait here for more than 15 seconds...**"
+  },
+  "**It looks like the entrance to a relic**": {
+    "translation": "**It looks like the entrance to a relic**"
+  },
+  "**This is a road with no end in sight**": {
+    "translation": "**This is a road with no end in sight**"
+  },
+  "**What is waiting for us**": {
+    "translation": "**What is waiting for us**"
+  },
+  "**Light ahead...**": {
+    "translation": "**Light ahead...**"
+  },
+  "**No way......**": {
+    "translation": "**No way......**"
+  },
+  "**There is a strange stone with some pattern on it**": {
+    "translation": "**There is a strange stone with some pattern on it**"
+  },
+  "**Seems to combine the two patterns into one**": {
+    "translation": "**Seems to combine the two patterns into one**"
+  },
+  "**There is a step, climb up and try!**": {
+    "translation": "**There is a step, climb up and try!**"
+  },
+  "<Tips>Stare at the stone for at least 1 seconds.": {
+    "translation": "<Tips>Stare at the stone for at least 1 seconds."
+  },
+  "<Tips>Only one human can be assigned to trigger.": {
+    "translation": "<Tips>Only one human can be assigned to trigger."
+  },
+  "**About 10 seconds**": {
+    "translation": "**About 10 seconds**"
+  },
+  "**The door will open soon**": {
+    "translation": "**The door will open soon**"
+  },
+  "**Solve the clock puzzle or defend 40 seconds**": {
+    "translation": "**Solve the clock puzzle or defend 40 seconds**"
+  },
+  "**Dead end? No way, there should be able to find another path...**": {
+    "translation": "**Dead end? No way, there should be able to find another path...**"
+  },
+  "**Rocks will break in 20 seconds**": {
+    "translation": "**Rocks will break in 20 seconds**"
+  },
+  "**Rocks will break in 15 seconds**": {
+    "translation": "**Rocks will break in 15 seconds**"
+  },
+  "**Oh..Landvedi..Why are you appeared like this? Such a mess..**": {
+    "translation": "**Oh..Landvedi..Why are you appeared like this? Such a mess..**"
+  },
+  "**There is no way in.No,no,where is the key to get into the hidden way? Find it at once.**": {
+    "translation": "**There is no way in.No,no,where is the key to get into the hidden way? Find it at once.**"
+  },
+  "**Zombies get on**": {
+    "translation": "**Zombies get on**"
+  },
+  "**Slate has activated, waiting for 30 seconds**": {
+    "translation": "**Slate has activated, waiting for 30 seconds**"
+  },
+  "**Elevator will leave in 20 seconds**": {
+    "translation": "**Elevator will leave in 20 seconds**"
+  },
+  "**Is you? Vidal? Why are you standing against us..I can't believe what will happen next.**": {
+    "translation": "**Is you? Vidal? Why are you standing against us..I can't believe what will happen next.**"
+  },
+  "**Zombies activated the lever , teleport afk players immediately!": {
+    "translation": "**Zombies activated the lever , teleport afk players immediately!"
+  },
+  "**Rocks will break in 40 seconds**": {
+    "translation": "**Rocks will break in 40 seconds**"
+  },
+  "**This rock will break after 15 seconds**": {
+    "translation": "**This rock will break after 15 seconds**"
+  },
+  "**Here should be the way to the next stop so defend right here.**": {
+    "translation": "**Here should be the way to the next stop so defend right here.**"
+  },
+  "**We can't let those creatures approach to us.**": {
+    "translation": "**We can't let those creatures approach to us.**"
+  },
+  "**Let me check how to activate it...**": {
+    "translation": "**Let me check how to activate it...**"
+  },
+  "**Ok, it has been activated.Lets go!!!**": {
+    "translation": "**Ok, it has been activated.Lets go!!!**"
+  },
+  "**There seems to be no road here , keep defending!!!**": {
+    "translation": "**There seems to be no road here , keep defending!!!**"
+  },
+  "**Hold on for 10 seconds**": {
+    "translation": "**Hold on for 10 seconds**"
+  },
+  "**Maybe we will face that Dragon next.**": {
+    "translation": "**Maybe we will face that Dragon next.**"
+  },
+  "**Well then, this should be the end of our plan.**": {
+    "translation": "**Well then, this should be the end of our plan.**"
+  },
+  "**You ready? We are the last hope that they can rely on.**": {
+    "translation": "**You ready? We are the last hope that they can rely on.**"
+  },
+  "**The direction of the statues seem to contain some secrets.**": {
+    "translation": "**The direction of the statues seem to contain some secrets.**"
+  },
+  "**The Firn...Honestly I have a bad feeling about the ice gorge in the front.**": {
+    "translation": "**The Firn...Honestly I have a bad feeling about the ice gorge in the front.**"
+  },
+  "**All units reload your weapons and prepared for any emergencies.**": {
+    "translation": "**All units reload your weapons and prepared for any emergencies.**"
+  },
+  "**It shouldn't be so quiet like what it covers, something must be hiding below.**": {
+    "translation": "**It shouldn't be so quiet like what it covers, something must be hiding below.**"
+  },
+  "**Strange, where can we find that coagent...?**": {
+    "translation": "**Strange, where can we find that coagent...?**"
+  },
+  "**Remember to get the item<Urd>, its under the waterfall.**": {
+    "translation": "**Remember to get the item<Urd>, its under the waterfall.**"
+  },
+  "**The place where all begins and all goes to rest**": {
+    "translation": "**The place where all begins and all goes to rest**"
+  },
+  "**And our mission is not over yet**": {
+    "translation": "**And our mission is not over yet**"
+  },
+  "**Pressed the old switch, it seems that something is going to happen**": {
+    "translation": "**Pressed the old switch, it seems that something is going to happen**"
+  },
+  "**The door seems to be about to open**": {
+    "translation": "**The door seems to be about to open**"
+  },
+  "**You better not jump on those stone lanterns**": {
+    "translation": "**You better not jump on those stone lanterns**"
+  },
+  "**A player get <Darkness>**": {
+    "translation": "**A player get <Darkness>**"
+  },
+  "**A player get <Brightness>": {
+    "translation": "**A player get <Brightness>"
+  },
+  "**A player has picked up <Asylum>**": {
+    "translation": "**A player has picked up <Asylum>**"
+  },
+  "**A zombie has picked up <Rescue>**": {
+    "translation": "**A zombie has picked up <Rescue>**"
+  },
+  "**A player has picked up <Holy>**": {
+    "translation": "**A player has picked up <Holy>**"
+  },
+  "Dark Soul Gem -> 1/10": {
+    "translation": "Dark Soul Gem -> 1/10"
+  },
+  "Dark Soul Gem -> 2/10": {
+    "translation": "Dark Soul Gem -> 2/10"
+  },
+  "Dark Soul Gem -> 3/10": {
+    "translation": "Dark Soul Gem -> 3/10"
+  },
+  "Dark Soul Gem -> 4/10": {
+    "translation": "Dark Soul Gem -> 4/10"
+  },
+  "Dark Soul Gem -> 5/10": {
+    "translation": "Dark Soul Gem -> 5/10"
+  },
+  "Dark Soul Gem -> 6/10": {
+    "translation": "Dark Soul Gem -> 6/10"
+  },
+  "Dark Soul Gem -> 7/10": {
+    "translation": "Dark Soul Gem -> 7/10"
+  },
+  "Dark Soul Gem -> 8/10": {
+    "translation": "Dark Soul Gem -> 8/10"
+  },
+  "Dark Soul Gem -> 9/10": {
+    "translation": "Dark Soul Gem -> 9/10"
+  },
+  "Dark Soul Gem -> 10/10": {
+    "translation": "Dark Soul Gem -> 10/10"
+  },
+  "**Magica will activated after 15 seconds**": {
+    "translation": "**Magica will activated after 15 seconds**"
+  },
+  "**Keep zombies away**": {
+    "translation": "**Keep zombies away**"
+  },
+  "**He disappeared, the Altar Transfer has been activated**": {
+    "translation": "**He disappeared, the Altar Transfer has been activated**"
+  },
+  "**Nah. It's end for now. Why are the fragments of Diablo appeared here? Nevermind, We'd better leave here now.**": {
+    "translation": "**Nah. It's end for now. Why are the fragments of Diablo appeared here? Nevermind, We'd better leave here now.**"
+  },
+  "**Diablo is going to cast <Inferno Tempest>**": {
+    "translation": "**Diablo is going to cast <Inferno Tempest>**"
+  },
+  "**Shoot him or use <Verdandi>**": {
+    "translation": "**Shoot him or use <Verdandi>**"
+  },
+  "**A zombie has picked up <Heal>**": {
+    "translation": "**A zombie has picked up <Heal>**"
+  },
+  "**A player has picked up <Mimir>**": {
+    "translation": "**A player has picked up <Mimir>**"
+  },
+  "**A player has picked up <Verdandi>**": {
+    "translation": "**A player has picked up <Verdandi>**"
+  },
+  "**A player has picked up <Urd>**": {
+    "translation": "**A player has picked up <Urd>**"
+  },
+  "**A player has picked up <Wisp>**": {
+    "translation": "**A player has picked up <Wisp>**"
+  },
+  "**A zombie has picked up <Water>**": {
+    "translation": "**A zombie has picked up <Water>**"
+  },
+  "**A player has picked up <Dawn>**": {
+    "translation": "**A player has picked up <Dawn>**"
+  },
+  "**A player has picked up <Planet Befall>**": {
+    "translation": "**A player has picked up <Planet Befall>**"
+  },
+  "**EndRound**": {
+    "translation": "**EndRound**"
+  },
+  "**Stage 4 has been chosen**": {
+    "translation": "**Stage 4 has been chosen**"
+  },
+  "**Stage 2 has been chosen**": {
+    "translation": "**Stage 2 has been chosen**"
+  },
+  "**Is Diablo! Nein! Another fake one,a fragment of its power..Shit! It's going to attack. fire at will!**": {
+    "translation": "**Is Diablo! Nein! Another fake one,a fragment of its power..Shit! It's going to attack. fire at will!**"
+  },
+  "**Stage 0 has been chosen**": {
+    "translation": "**Stage 0 has been chosen**"
+  },
+  "**Stage 1 has been chosen**": {
+    "translation": "**Stage 1 has been chosen**"
+  },
+  "**Stage 3 has been chosen**": {
+    "translation": "**Stage 3 has been chosen**"
+  },
+  "**Altar transfer will activate after 30 seconds**": {
+    "translation": "**Altar transfer will activate after 30 seconds**"
+  },
+  "**Looks like here is the world he mentioned, and it must be the sourse of Nidhogg The Dragon.**": {
+    "translation": "**Looks like here is the world he mentioned, and it must be the sourse of Nidhogg The Dragon.**"
+  },
+  "**Be ware, take everything might be useful to our plan.**": {
+    "translation": "**Be ware, take everything might be useful to our plan.**"
+  },
+  "**This is the only way to guard our world that we have to make it become real.**": {
+    "translation": "**This is the only way to guard our world that we have to make it become real.**"
+  },
+  "Chapter -> 1 - The Dread Biter": {
+    "translation": "Chapter -> 1 - The Dread Biter"
+  },
+  "**That was close.I don't want to face it twice anymore. But I have to things are not so simple like what he says...Then what will be the next one?**": {
+    "translation": "**That was close.I don't want to face it twice anymore. But I have to things are not so simple like what he says...Then what will be the next one?**"
+  },
+  "**What a wasteland...No,according to the index,here should be the Asgard Forest. What the hell is going on here...?**": {
+    "translation": "**What a wasteland...No,according to the index,here should be the Asgard Forest. What the hell is going on here...?**"
+  },
+  "Chapter -> 2 - Song of Chaos": {
+    "translation": "Chapter -> 2 - Song of Chaos"
+  },
+  "**Warm Round**": {
+    "translation": "**Warm Round**"
+  },
+  "**30 seconds remaining**": {
+    "translation": "**30 seconds remaining**"
+  },
+  "**20 seconds remaining**": {
+    "translation": "**20 seconds remaining**"
+  },
+  "**10 seconds remaining**": {
+    "translation": "**10 seconds remaining**"
+  },
+  "**Guard the border between life and death...**": {
+    "translation": "**Guard the border between life and death...**"
+  },
+  "Chapter -> 4 - Ordinary Place": {
+    "translation": "Chapter -> 4 - Ordinary Place"
+  },
+  "**We need to activate the mechanism of the ruins to let the magic flow out**": {
+    "translation": "**We need to activate the mechanism of the ruins to let the magic flow out**"
+  },
+  "**So we have to reach the center of the ruins**": {
+    "translation": "**So we have to reach the center of the ruins**"
+  },
+  "Chapter -> 3 - Confessional of Toupasa the Elder": {
+    "translation": "Chapter -> 3 - Confessional of Toupasa the Elder"
+  },
+  "**Survive and resist the zombies**": {
+    "translation": "**Survive and resist the zombies**"
+  },
+  "**We can immediately go home**": {
+    "translation": "**We can immediately go home**"
+  },
+  "**The adventures of different worlds are really thrilling, we have found completely different civilizations with us**": {
+    "translation": "**The adventures of different worlds are really thrilling, we have found completely different civilizations with us**"
+  },
+  "Chapter -> 0 - Alienation of the World": {
+    "translation": "Chapter -> 0 - Alienation of the World"
+  }
+}

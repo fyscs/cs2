@@ -406,6 +406,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_desperate_soul": {
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 550,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": true
+  },
   "ze_diamond_cube_v1_cs2": {
     "certainTimes": [-1],
     "price": 300,
