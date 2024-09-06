@@ -44,8 +44,8 @@
     "count": 1
   },
   {
-    "name": "终极",
-    "shortName": "终极",
+    "name": "究极",
+    "shortName": "究极",
     "buttonClass": "func_button",
     "hammerId": "6006",
     "cooldown": 20,
@@ -56,7 +56,7 @@
   },
   {
     "name": "Ichika",
-    "shortName": "伊奇",
+    "shortName": "伊奇卡",
     "buttonClass": "func_button",
     "hammerId": "5003",
     "cooldown": 0,
@@ -67,8 +67,8 @@
     "count": 1
   },
   {
-    "name": "治疗",
-    "shortName": "治疗",
+    "name": "地星",
+    "shortName": "地星",
     "buttonClass": "func_button",
     "hammerId": "3441",
     "cooldown": 60,
@@ -111,8 +111,8 @@
     "count": 1
   },
   {
-    "name": "火焰",
-    "shortName": "火焰",
+    "name": "拂晓",
+    "shortName": "拂晓",
     "buttonClass": "func_button",
     "hammerId": "2615",
     "cooldown": 60,
@@ -133,8 +133,8 @@
     "count": 1
   },
   {
-    "name": "黑暗",
-    "shortName": "黑暗",
+    "name": "暗影",
+    "shortName": "暗影",
     "buttonClass": "func_button",
     "hammerId": "5443",
     "triggerId": ["5444"],
@@ -145,8 +145,8 @@
     "count": 1
   },
   {
-    "name": "光明",
-    "shortName": "光明",
+    "name": "光翼",
+    "shortName": "光翼",
     "buttonClass": "func_button",
     "hammerId": "5439",
     "triggerId": ["5440"],
@@ -157,8 +157,8 @@
     "count": 1
   },
   {
-    "name": "拯救",
-    "shortName": "拯救",
+    "name": "营救",
+    "shortName": "营救",
     "buttonClass": "func_button",
     "hammerId": "5866",
     "triggerId": ["5861"],
@@ -169,8 +169,8 @@
     "count": 1
   },
   {
-    "name": "恢复",
-    "shortName": "恢复",
+    "name": "治愈",
+    "shortName": "治愈",
     "buttonClass": "func_button",
     "hammerId": "3511",
     "triggerId": ["3512"],
