@@ -1,0 +1,37 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>Stair door opens in 15 sec<<": {
+    "translation": ">>楼梯门15秒后打开<<"
+  },
+  ">>Door will open in 20 sec<<": {
+    "translation": ">>大门将在20秒后打开<<"
+  },
+  ">>Go!<<": {
+    "translation": ">>别停下 奔跑起来!<<"
+  },
+  ">>Tram departs in 20 sec<<": {
+    "translation": ">>电车将在20秒后发车<<"
+  },
+  ">>Go open the door!!<<": {
+    "translation": ">>去开门!!<<"
+  },
+  ">>Train will leave in 35 sec<<": {
+    "translation": ">>火车将在35秒后出发<<"
+  },
+  ">>Door open. Run!<<": {
+    "translation": ">>门开了. 跑!<<"
+  },
+  ">>metal gate open in 15 sec<<": {
+    "translation": ">>金属门在15秒内打开<<"
+  }
+}
