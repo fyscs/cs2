@@ -1072,6 +1072,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_mountain_escape_snow": {
+    "certainTimes": [-1],
+    "price": 600,
+    "cooldown": 160,
+    "nomination": false,
+    "admin": false
+  },
   "ze_namviet_p": {
     "certainTimes": [-1],
     "price": 300,
