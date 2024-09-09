@@ -616,6 +616,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_flying_world": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 80,
+    "nomination": false,
+    "admin": false
+  },
    "ze_fond_dream": {
     "certainTimes": [-1],
     "price": 700,
