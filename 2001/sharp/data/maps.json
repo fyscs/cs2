@@ -411,7 +411,7 @@
     "price": 550,
     "cooldown": 100,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_diamond_cube_v1_cs2": {
     "certainTimes": [-1],
