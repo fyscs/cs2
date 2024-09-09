@@ -1513,6 +1513,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_skyscraper_city_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 80,
+    "nomination": false,
+    "admin": false
+  },
   "ze_slender_escape_p": {
     "certainTimes": [-1],
     "price": 450,
