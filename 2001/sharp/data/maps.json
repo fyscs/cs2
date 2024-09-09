@@ -376,7 +376,7 @@
     "price": 700,
     "cooldown": 150,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_death_star_escape_p": {
     "certainTimes": [-1],
@@ -411,7 +411,7 @@
     "price": 550,
     "cooldown": 100,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_diamond_cube_v1_cs2": {
     "certainTimes": [-1],
@@ -474,7 +474,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": true
+    "admin": false
   },
   "ze_escape_the_eye_p": {
     "certainTimes": [-1],
@@ -613,6 +613,13 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 50,
+    "nomination": false,
+    "admin": false
+  },
+  "ze_flying_world": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 80,
     "nomination": false,
     "admin": false
   },
@@ -944,7 +951,7 @@
     "price": 800,
     "cooldown": 160,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_lotr_mines_of_moria_p": {
     "certainTimes": [-1],
@@ -1070,6 +1077,13 @@
     "price": 650,
     "cooldown": 80,
     "nomination": true,
+    "admin": false
+  },
+  "ze_mountain_escape_snow": {
+    "certainTimes": [-1],
+    "price": 600,
+    "cooldown": 160,
+    "nomination": false,
     "admin": false
   },
   "ze_namviet_p": {
@@ -1511,6 +1525,13 @@
     "price": 500,
     "cooldown": 60,
     "nomination": true,
+    "admin": false
+  },
+  "ze_skyscraper_city_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 80,
+    "nomination": false,
     "admin": false
   },
   "ze_slender_escape_p": {
