@@ -1,0 +1,55 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>>一楼梯子即将打开 5 seconds left<<<": {
+    "translation": ">>>一楼梯子还剩5秒打开 <<<"
+  },
+  ">>>30 seconds left<<<": {
+    "translation": ">>>还剩30秒<<<"
+  },
+  ">>>20 seconds left<<<": {
+    "translation": ">>>还剩20秒<<<"
+  },
+  ">>>zombie tp in 10 seconds left<<<": {
+    "translation": ">>>还剩10秒<<<"
+  },
+  ">>>快跑，否则要进入二次元了 !<<<": {
+    "translation": ">>>快跑,否则要进入二次元了!<<<"
+  },
+  ">>>地图作者：ze探险家<<<": {
+    "translation": ">>>地图作者:ze探险家<<<"
+  },
+  ">>>祝你游玩愉快<<<": {
+    "translation": ">>>祝你游玩愉快<<<"
+  },
+  ">>>tp in 20 seconds<<<": {
+    "translation": ">>>20秒传送挂机的小卡拉米<<<"
+  },
+  ">>>tp in 10 seconds<<<": {
+    "translation": ">>>10秒传送挂机的小卡拉米<<<"
+  },
+  ">>>20 seconds<<<": {
+    "translation": ">>>20秒<<<"
+  },
+  ">>>30 seconds<<<": {
+    "translation": ">>>30秒<<<"
+  },
+  ">>>tp in 10 seconds left<<<": {
+    "translation": ">>>10秒传送挂机的小卡拉米<<<"
+  },
+  ">>>tp in 25 seconds<<<": {
+    "translation": ">>>25秒传送挂机的小卡拉米<<<"
+  },
+  ">>>僵尸被阻挡 10 seconds<<<": {
+    "translation": ">>>僵尸被阻挡 10 秒<<<"
+  }
+}
