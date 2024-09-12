@@ -23,9 +23,6 @@
   "Counters": [
     {
       "iterator": "radiation_hpcounter",
-      "backup": "",
-      "counter": "radiation_hpmasscounter",
-      "increase": true,
       "hitbox": "radiation_target",
       "display": "Deadcore"
     }
