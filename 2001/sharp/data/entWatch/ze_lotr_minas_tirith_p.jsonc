@@ -43,7 +43,7 @@
     "knife": false,
     "hud": false,
     "mode": 3,
-    "count": 5
+    "count": 1
   },
   {
     "name": "书架",
@@ -55,7 +55,7 @@
     "knife": false,
     "hud": false,
     "mode": 3,
-    "count": 7
+    "count": 1
   },
   {
     "name": "栅栏",
@@ -67,7 +67,7 @@
     "knife": false,
     "hud": false,
     "mode": 3,
-    "count": 5
+    "count": 1
   },
   {
     "name": "木筐",
@@ -79,7 +79,7 @@
     "knife": false,
     "hud": false,
     "mode": 3,
-    "count": 4
+    "count": 1
   },
   {
     "name": "木板",
@@ -91,7 +91,7 @@
     "knife": false,
     "hud": false,
     "mode": 3,
-    "count": 8
+    "count": 1
   },
   {
     "name": "草堆",
@@ -103,7 +103,7 @@
     "knife": false,
     "hud": false,
     "mode": 3,
-    "count": 5
+    "count": 1
   },
   {
     "name": "铃",
@@ -127,7 +127,7 @@
     "knife": false,
     "hud": false,
     "mode": 3,
-    "count": 11
+    "count": 1
   },
   {
     "name": "木桶",
@@ -139,7 +139,7 @@
     "knife": false,
     "hud": false,
     "mode": 3,
-    "count": 7
+    "count": 1
   },
   {
     "name": "桌子",
@@ -151,7 +151,7 @@
     "knife": false,
     "hud": false,
     "mode": 3,
-    "count": 4
+    "count": 1
   },
   {
     "name": "木箱",
@@ -163,13 +163,13 @@
     "knife": false,
     "hud": false,
     "mode": 3,
-    "count": 7
+    "count": 1
   },
   {
     "name": "炸药桶",
     "shortName": "炸药",
     "buttonClass": "func_button",
-    "hammerId": "351",
+    "hammerId": "736",
     "maxUses": 1,
     "team": 3,
     "knife": false,
@@ -186,7 +186,7 @@
     "knife": false,
     "hud": false,
     "mode": 0,
-    "count": 10
+    "count": 1
   },
   {
     "name": "火把",
@@ -197,7 +197,7 @@
     "knife": false,
     "hud": false,
     "mode": 0,
-    "count": 10
+    "count": 1
   },
   {
     "name": "骑士",
@@ -223,7 +223,7 @@
     "knife": true,
     "hud": true,
     "mode": 0,
-    "count": 4
+    "count": 5
   },
   {
     "name": "骑兵",
@@ -236,7 +236,7 @@
     "knife": true,
     "hud": true,
     "mode": 3,
-    "count": 1
+    "count": 3
   },
   {
     "name": "旗帜",
@@ -248,7 +248,7 @@
     "knife": true,
     "hud": true,
     "mode": 0,
-    "count": 4
+    "count": 5
   },
   {
     "name": "重甲兵",
@@ -260,7 +260,7 @@
     "knife": true,
     "hud": true,
     "mode": 0,
-    "count": 2
+    "count": 3
   },
   {
     "name": "梯子",
@@ -357,7 +357,7 @@
     "knife": true,
     "hud": true,
     "mode": 0,
-    "count": 1
+    "count": 3
   },
   {
     "name": "戒灵",
@@ -369,6 +369,6 @@
     "knife": true,
     "hud": true,
     "mode": 0,
-    "count": 4
+    "count": 5
   }
 ]
