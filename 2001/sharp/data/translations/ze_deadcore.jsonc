@@ -11,16 +11,16 @@
 
 {
   ">>> css port by xen <<<": {
-    "translation": ">>> 地图原移植CSS xen <<<"
+    "translation": ">> CSS移植: xen <"
   },
   ">>> Map by Airvulpes <<<": {
-    "translation": ">>> 地图作者: Airvulpes 地图汉化:小妖梦@风云社<<<"
+    "translation": ">> 地图制作: Airvulpes <<"
   },
   ">>> csgo k3 version port by koen <<<": {
-    "translation": ">>> 后由koen 移植到CSGO <<<"
+    "translation": ">> K版由koen移植至CSGO <<"
   },
   ">>> cs2 port by Tenshi. <<<": {
-    "translation": ">>> 又双叒叕由Tenshi移植至CS2. <<<"
+    "translation": ">> CS2移植: Tenshi<<"
   },
   "> Stage - Insane D <": {
     "translation": "> INSANE D-噩梦 <"
@@ -35,9 +35,46 @@
     "translation": "> C关 <"
   },
   "> Stage - D <": {
-    "translation": "> NORMAL D-正常 <"
+    "translation": "> NORMAL D-普通 <"
   },
   "> Just kidding <": {
-    "translation": "> 正在播放万恶之曲:名前のない怪物 -表演时间到 <"
+    "translation": ">> 老板换碟 >>"
+  },
+  ">>> 20 seconds left <<<": {
+    "translation": "还有20秒"
+  },
+  ">>> 30 seconds left <<<": {
+    "translation": "还有20秒"
+  },
+  ">>> Hold 40 seconds <<<": {
+    "translation": "还有20秒"
+  },
+  ">>> 10 seconds left <<<": {
+    "translation": "还有10秒",
+    "blocked": true
+  },
+  ">>> Hold 30 seconds <<<": {
+    "translation": "还有30秒"
+  },
+  ">>> Hold 20 seconds <<<": {
+    "translation": "还有20秒"
+  },
+  ">>> Hold 10 seconds <<<": {
+    "translation": "还有10秒",
+    "blocked": true
+  },
+  ">>> Hold 5 seconds <<<": {
+    "translation": "还有5秒",
+    "blocked": true
+  },
+  ">>> 5 seconds left <<<": {
+    "translation": "还有5秒",
+    "blocked": true
+  },
+  ">>> Hold 15 seconds <<<": {
+    "translation": "还有20秒"
+  },
+  ">>> 90 <<<": {
+    "translation": "还有90秒"
   }
 }
