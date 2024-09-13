@@ -98,19 +98,6 @@
         "weapon32": "weapon_*"
       }
     },
-    // fix door breaker
-    {
-      "match": {
-        "classname": "prop_door_rotating",
-        "health": "0"
-      },
-      "delete": {
-        "health": "0"
-      },
-      "insert": {
-        "health": "99999999"
-      }
-    },
     //fix map placed grenade...
     {
       "match": {
