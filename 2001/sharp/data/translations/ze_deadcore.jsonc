@@ -44,10 +44,10 @@
     "translation": "还有20秒"
   },
   ">>> 30 seconds left <<<": {
-    "translation": "还有20秒"
+    "translation": "还有30秒"
   },
   ">>> Hold 40 seconds <<<": {
-    "translation": "还有20秒"
+    "translation": "还有40秒"
   },
   ">>> 10 seconds left <<<": {
     "translation": "还有10秒",
@@ -72,7 +72,7 @@
     "blocked": true
   },
   ">>> Hold 15 seconds <<<": {
-    "translation": "还有20秒"
+    "translation": "还有15秒"
   },
   ">>> 90 <<<": {
     "translation": "还有90秒"
