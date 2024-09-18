@@ -47,7 +47,7 @@
     "translation": "** ...... **"
   },
   "** We have infiltrated the financial sector **": {
-    "translation": "** 我门已经渗透其中了... **"
+    "translation": "** 我们已经渗透其中了... **"
   },
   "** We back now backtrack into the trenches and infiltrate the Undercity ! **": {
     "translation": "** 我们现在回到战壕,渗透入地下城,再坚持一会! **"
@@ -71,7 +71,7 @@
     "translation": "** 保持火力,门很快就会打开了... **"
   },
   "** HOLD! These doors will take a bit to unlock! **": {
-    "translation": "** 别急,解锁这些门还需要一点时间,请再坚持一会... **"
+    "translation": "** 别急,解锁这些门还需要一点时间,再坚持一会... **"
   },
   "** Keep it up! 5 seconds left! RESIST! **": {
     "translation": "** 保持火力,还剩下5秒,坚持! **"
@@ -83,7 +83,7 @@
     "translation": "** 在这里我们应该可以到达任何一个区域. **"
   },
   "** SCENE 1: Depths of Erebus **": {
-    "translation": "** 场景1:埃里伯斯的深度 **"
+    "translation": "** 场景1:埃里伯斯 **"
   },
   "** The distant sound from the underground trains can be heard... **": {
     "translation": "** 可以听见远处有地铁的声音... **"
@@ -110,7 +110,7 @@
     "translation": "** 坚持住,已经是凌门一脚了! **"
   },
   "** Security overwritten! The door will open soon! **": {
-    "translation": "** 权限解锁了!门很快就要打开了! **"
+    "translation": "** 权限已覆写!门很快就要打开了! **"
   },
   "** Keep holding! It's about to open! RESIST! **": {
     "translation": "** 守住!就要开门了!坚持住! **"
@@ -155,10 +155,10 @@
     "translation": "** XX的,我们根本不应该让他们通过! **"
   },
   "** One last bit! Rush towards the basement and sewers! We need to reach the sealed cargo bay! **": {
-    "translation": "** 结束了!冲向地下室和下水道!我们要到达密封的货仓! **"
+    "translation": "** 结束了!冲向地下室和下水道!我们需要去那里密封的货仓! **"
   },
   "** This is an abandoned link from the sewer system to the loading bay! **": {
-    "translation": "** 这是一条从下水道系统到装卸区的废弃路段! **"
+    "translation": "** 这是一条从能抵达装卸区的被废弃的下水道系统! **"
   },
   "** It was used to connect with the proletariat trenches but is rarely used nowadays... **": {
     "translation": "** 他曾被用来连接无产阶级战壕,但是现在很少使用了... **"
