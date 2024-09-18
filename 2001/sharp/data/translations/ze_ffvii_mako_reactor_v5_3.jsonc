@@ -128,7 +128,8 @@
     "translation": "** 还剩30秒 **"
   },
   "**  120 SECONDS LEFT **": {
-    "translation": "**  剩余120秒 **"
+    "translation": "**  剩余120秒 **",
+    "blocked": true
   },
   "** 20 SECONDS LEFT **": {
     "translation": "** 还有20秒 **"
