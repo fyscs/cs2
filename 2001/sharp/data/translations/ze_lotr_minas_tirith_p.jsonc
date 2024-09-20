@@ -20,19 +20,19 @@
     "translation": "** 控制杆已经被按下 ** 大门将会在 10 秒内打开 ! **"
   },
   "** DEFEND THIS PLACE FOR 35 SECONDS **": {
-    "translation": "** 在这个地方防守 35 S! **"
+    "translation": "** 在这个地方防守 35 秒! **"
   },
   "** THEY ARE TRYING TO GET IN ** SHOOT! **": {
     "translation": "** 兽人大军正在尝试侵入 ** 朝他们射击! **"
   },
   "** DEFEND THIS PLACE FOR 70 SECONDS! **": {
-    "translation": "** 在这个地方防守 70 S! **"
+    "translation": "** 在这个地方防守 70 秒! **"
   },
   "** DOORS UNLOCKED ** RETREAT ! **": {
     "translation": "** 大门解锁 ** 撤退 ! **"
   },
   "** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *": {
-    "translation": "** 在平民疏散之前守住建筑! *"
+    "translation": "** 守住建筑以确保平民被完全疏散! *"
   },
   "** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **": {
     "translation": "** 用弩炮继续防守米纳斯! **"
@@ -41,13 +41,13 @@
     "translation": "** 大门正在打开 **"
   },
   "** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**": {
-    "translation": "** 保卫星辰堡垒! 我们不能不战而退! ( 30 S)**"
+    "translation": "** 保卫星辰堡垒! 我们不能不战而退! ( 30 秒)**"
   },
   "** THIS IS THE LAST STAND AT FIRST LEVEL ** FIGHT UNTIL THE SIGNAL **": {
     "translation": "** 这是第一层的最后一站 ** 战斗直至信号出现 **"
   },
   "** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **": {
-    "translation": "** 使用障碍物盖住大门,或者防守 60 S ! **"
+    "translation": "** 使用障碍物盖住大门,或者防守 60 秒 ! **"
   },
   "** DOOR 2 LOCKED **": {
     "translation": "** 二门已关闭 **"
@@ -83,16 +83,16 @@
     "translation": "** 热身回合 **"
   },
   "** Tip 1 : press +use on pickable objects to build barricades **": {
-    "translation": "** 提示一 : 使用可拾取的路障来制造障碍 **"
+    "translation": "** 提示一 : 按E可以放置你所拾取的障碍物,但是请不要盖人! **"
   },
   "** Tip 2 : reach and win the end of a stage to level up **": {
-    "translation": "** 提示二 : 到达并取得一个阶段的胜利来升级 **"
+    "translation": "** 提示二 : 作为人类存活并且通关可以获得地图等级 **"
   },
   "** Tip 3 : take items at zombie and human shops in spawn **": {
-    "translation": "** 提示三 : 出生后再僵尸或者人类商店购买神器 **"
+    "translation": "** 提示三 : 僵尸或者人类神器都在出生点 **"
   },
   "** Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately **": {
-    "translation": "** 提示四 : 你当前的等级总是显示在新回合中,将你的击杀分数除以一百 **"
+    "translation": "** 提示四 : 你当前的等级总是显示在新回合中,每通过一关等级增加一级 **"
   },
   "** Tip 5 : barricades health depends on the size and material **": {
     "translation": "** 提示五 : 路障的血量取决于它的尺寸和材料 **"
@@ -104,25 +104,25 @@
     "translation": "** 提示七 : 卫兵能暂缓僵尸进攻 * 但是你的子弹能穿过他们 **"
   },
   "** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **": {
-    "translation": "** 提示八 : 僵尸梯子和炸弹都是很强大的神器 * 优先击杀这些僵尸! **"
+    "translation": "** 提示八 : 僵尸梯子和炸弹都是很强大的神器 * 优先攻击这些僵尸! **"
   },
   "** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **": {
-    "translation": "** 提示九 : 你可以将障碍物建在卫兵后面,从而获得最好的效果 **"
+    "translation": "** 提示九 : 你可以将障碍物放置在卫兵后面,从而获得最好的效果 **"
   },
   "** Tip 10 : horse and armor (while shield is not broken) items can push zombies **": {
-    "translation": "** 提示十 : 骑兵和重甲兵 (当他们的保护没有被破坏时) 能推动僵尸 **"
+    "translation": "** 提示十 : 骑兵和重甲兵 (当他们的护盾没有被破坏时) 能推动僵尸 **"
   },
   "** Tip 11 : Balrog scream heals near zombies and increases speed temporally **": {
-    "translation": "** 提示十一 : 炎魔的怒吼可以治疗附近的僵尸,并暂时加速他们 **"
+    "translation": "** 提示十一 : 炎魔的怒吼可以治疗附近的僵尸,并短暂加速他们 **"
   },
   "** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS **": {
-    "translation": "** 热身回合 ** 回合将在 10 S 后重启 **"
+    "translation": "** 热身回合 ** 回合将在 10 秒 后重启 **"
   },
   "** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **": {
     "translation": "** 提示十二 : 第四关的 WC 在第二座塔的顶部 (在木制斜坡后右转) **"
   },
   "** Tip 13 : Gandalf +You shall not pass!+ is DAWDS and White Knight is AADDSWSW **": {
-    "translation": "** 提示十三 : 甘道夫的 你不能通过! 是DAWDS,白骑士的是AADDSWSW **"
+    "translation": "** 提示十三 : 甘道夫的*贤者之语光*是DAWDS,白骑士的是AADDSWSW **"
   },
   "** WARMUP ROUND IS OVER! **": {
     "translation": "** 热身回合结束! **"
@@ -173,7 +173,7 @@
     "translation": "** 当前阶段 >> 第二部分 >> 守卫主城门 **"
   },
   "** THE ROUND HAS STARTED ** TAKE ONE OF THE PORTALS ** MASSIVE TELEPORTATION IN 20 SECONDS **": {
-    "translation": "** 回合已经开始 ** 选择一个入口 **  20 S 后进行大规模传送 **"
+    "translation": "** 回合已经开始 ** 选择一个入口 **  20 秒 后进行大规模传送 **"
   },
   "**CURRENT STAGE >> PART 3 >> CATAPULTS **": {
     "translation": "** 当前阶段 >> 第三部分 >> 投石车 **"
@@ -215,10 +215,10 @@
     "translation": "** 升降梯将在 10 S 后离开 **"
   },
   "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **": {
-    "translation": "** 路开了 ** 前往米纳斯提里斯顶部 ** 存活 80 S **"
+    "translation": "** 路开了 ** 前往米纳斯提里斯顶部 ** 存活 80 秒 **"
   },
   "** All humans at bottom part will die in 15 seconds **": {
-    "translation": "** 底部的人将在 15 S 后死亡 **"
+    "translation": "** 底部的人将在 15 秒后被兽人大军吞没! **"
   },
   "** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **": {
     "translation": "** 守住大门,守住米纳斯提利斯 ! **"
@@ -272,7 +272,7 @@
     "translation": "** 我们深陷困境! 为了我们的生存而战!  **"
   },
   "** WE ARE NEAR THE TOP OF MINAS TIRITH  ** HOLD THIS PLACE FOR 30 SECONDS **": {
-    "translation": "** 我们即将抵达米纳斯提利斯之顶了  ** 在这里坚持 30 S **"
+    "translation": "** 我们即将抵达米纳斯提利斯之顶了  ** 在这里坚持 30 秒 **"
   },
   "** THIS IS THE LAST POINT OF THE MAP ** SURVIVE THE REMAINING TIME **": {
     "translation": "** 本图最后一战! ** 生存到最后一刻 **"

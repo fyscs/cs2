@@ -21,25 +21,31 @@
   },
   "*** 10 SECONDS LEFT ***": {
     "translation": "*** 还剩10秒 ***",
+    "blocked": true
   },
   "*** 20 SECONDS LEFT ***": {
     "translation": "*** 还剩20秒 ***",
+    "blocked": true
   },
   "*** 30 SECONDS LEFT ***": {
     "translation": "*** 还剩30秒 ***",
-
+    "blocked": true
   },
   "*** 40 SECONDS LEFT ***": {
     "translation": "*** 还剩40秒 ***",
+    "blocked": true
   },
   "*** 50 SECONDS LEFT ***": {
     "translation": "*** 还剩50秒 ***",
+    "blocked": true
   },
   "*** 60 SECONDS LEFT ***": {
     "translation": "*** 还剩60秒 ***",
+    "blocked": true
   },
   "*** 70 SECONDS LEFT ***": {
     "translation": "*** 还剩70秒 ***",
+    "blocked": true
   },
   "*** ALL PLAYER IS TELEPORT ***": {
     "translation": "*** 所有玩家已传送 ***"
@@ -52,6 +58,7 @@
   },
   "*** 5 SECONDS LEFT ***": {
     "translation": "*** 还剩5秒 ***",
+    "blocked": true
   },
   "*** HOLD 25 SECONDS ***": {
     "translation": "*** 坚守25秒 ***"
@@ -76,18 +83,23 @@
   },
   "***  5 SECONDS LEFT ***": {
     "translation": "***  还剩5秒 ***",
+    "blocked": true
   },
   "***  4 SECONDS LEFT ***": {
     "translation": "***  还剩4秒 ***",
+    "blocked": true
   },
   "***  3 SECONDS LEFT ***": {
     "translation": "***  还剩3秒 ***",
+    "blocked": true
   },
   "***  2 SECONDS LEFT ***": {
     "translation": "***  还剩2秒 ***",
+    "blocked": true
   },
   "***  1 SECONDS LEFT ***": {
     "translation": "***  还剩1秒 ***",
+    "blocked": true
   },
   "+= Stage 2 COMPLETE =+": {
     "translation": "+= 第二关完成 =+"

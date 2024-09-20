@@ -58,7 +58,7 @@
     "name": "礼物",
     "shortName": "礼物",
     "buttonClass": "func_button",
-    "hammerId": "10902",
+    "hammerId": "11360",
     "cooldown": 60,
     "team": 3,
     "knife": false,
