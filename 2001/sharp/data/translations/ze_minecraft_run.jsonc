@@ -1,0 +1,31 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Hold 60 Seconds": {
+    "translation": "防守60秒"
+  },
+  "teleport zombies in 15 seconds , Don't stay on the first floor": {
+    "translation": "僵尸将在15秒后传送 远离一楼!!!"
+  },
+  "Hold 55 Seconds": {
+    "translation": "防守55秒"
+  },
+  "The boat will leave in 20 seconds": {
+    "translation": "距离船开还剩20秒"
+  },
+  "Hold 45 Seconds": {
+    "translation": "防守45秒"
+  },
+  "Survive 45 seconds": {
+    "translation": "最后的45秒 不要被僵尸抓屁股了哦"
+  }
+}

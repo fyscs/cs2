@@ -1,0 +1,86 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** 40 ***": {
+    "translation": "还有40秒"
+  },
+  "*** 30 ***": {
+    "translation": "还有30秒"
+  },
+  "30": {
+    "translation": "还有30秒"
+  },
+  "*** 15 ***": {
+    "translation": "还有15秒"
+  },
+  "*** 60 ***": {
+    "translation": "还有60秒"
+  },
+  "*** 10 ***": {
+    "translation": "*** 10 ***",
+    "blocked": true
+  },
+  "*** STAGE FAILED ***": {
+    "translation": "<< 回合失败 <<"
+  },
+  "*** ZOMBIE GOT INSIDE THE LIFT ***": {
+    "translation": ">> 僵尸上来了 <<"
+  },
+  "> Stage Reset! <": {
+    "translation": "> 关卡已重置 <"
+  },
+  "> Enable Stage Red D! <": {
+    "translation": "> 已启用 Red D! <"
+  },
+  "> Enable Stage Purple D! <": {
+    "translation": "> 已启用 Purple D! <"
+  },
+  "> Enable Stage White D! <": {
+    "translation": "> 已启用 White D! <"
+  },
+  "*** 20 ***": {
+    "translation": "还有20秒"
+  },
+  "> STAGE - A <": {
+    "translation": "> 关卡 - A <"
+  },
+  "> STAGE - B <": {
+    "translation": "> 关卡 - B <"
+  },
+  "> STAGE - C <": {
+    "translation": "> 关卡 - C <"
+  },
+  "> STAGE - D <": {
+    "translation": "> 关卡 - D <"
+  },
+  "> Stage **B** was skiped! <": {
+    "translation": "> 关卡B已被跳过 <"
+  },
+  "> Stage **C** was skiped! <": {
+    "translation": "> 关卡C已被跳过! <"
+  },
+  "*** END ***": {
+    "translation": ">> 回合结束 >>"
+  },
+  "> Stage **A** was skiped! <": {
+    "translation": "> 关卡A已被跳过! <"
+  },
+  "map modify by 兎RB": {
+    "translation": "地图附加模组: 兎RB"
+  },
+  "map by Airvulps": {
+    "translation": "地图作者: Airvulps"
+  },
+  "map port by SIRloin": {
+    "translation": "地图移植: SIRloin"
+  }
+}
