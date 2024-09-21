@@ -1058,6 +1058,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_minecraft_run": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": false,
+    "admin": false
+  },
   "ze_minecraft_sakura": {
     "certainTimes": [-1],
     "price": 300,
