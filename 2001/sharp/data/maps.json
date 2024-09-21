@@ -808,7 +808,7 @@
   },
   "ze_iceworld_athletic_cs2": {
     "certainTimes": [-1],
-    "price": 500,
+    "price": 300,
     "cooldown": 60,
     "nomination": true,
     "admin": false
