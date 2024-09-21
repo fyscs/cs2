@@ -925,6 +925,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_little_trip": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
   "ze_loom": {
     "certainTimes": [-1],
     "price": 300,
