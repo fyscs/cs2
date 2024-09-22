@@ -228,5 +228,8 @@
   },
   "*** Ladders open in 25 seconds ***": {
     "translation": "*** 梯子将在25秒后升起 ***"
+  },
+  "*** Door Opening in 25 seconds! ***": {
+    "translation": "*** 门将在25秒后打开 ***"
   }
 }
