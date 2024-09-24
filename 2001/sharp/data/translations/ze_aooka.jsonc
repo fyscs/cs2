@@ -200,7 +200,7 @@
   "<It's safe for the time being...>": {
     "translation": "<暂时安全了...>"
   },
-  "OnPressed>Command>Command>The gate will open in 30 seconds>0>1": {
+  "The gate will open in 30 seconds": {
     "translation": "<大门30秒后打开>"
   },
   "<Door will broken in 25 seconds>": {
@@ -310,5 +310,8 @@
   },
   "> Stage IV <": {
     "translation": "> 关卡 IV <"
+  },
+  "<Kohh has been disabled>": {
+    "translation": "<传送已被禁用,Boss战后启用>"
   }
 }
