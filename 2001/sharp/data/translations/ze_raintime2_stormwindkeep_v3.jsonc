@@ -1,0 +1,409 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<--A player picked up the gao da-->": {
+    "translation": "<--玩家成为了白骑士-->"
+  },
+  "<-- A player picked up the Incendiary Feather Immortal -- >": {
+    "translation": "<-- 玩家成为了符华 -- >"
+  },
+  "** Start difficult mode **": {
+    "translation": "** 开启困难模式 **"
+  },
+  "** Zombies break through the gate, and humans fail **": {
+    "translation": "** 僵尸突破了大门,人类失败 **"
+  },
+  "***you win***": {
+    "translation": "***通过***"
+  },
+  "** 20s **": {
+    "translation": "** 坚持20秒 **"
+  },
+  "** In the last 30 seconds, we can set off fireworks **": {
+    "translation": "** 最后的30秒 **"
+  },
+  "** 3s **": {
+    "translation": "** 3s **"
+  },
+  "** Zombies enter the gate, and humans fail **": {
+    "translation": "** 僵尸进入了大门,人类失败 **"
+  },
+  "***8s***": {
+    "translation": "***8s***"
+  },
+  "** The game is just beginning **": {
+    "translation": "** 只不过是个开始 **"
+  },
+  "** 30s **": {
+    "translation": "** 30s **"
+  },
+  "**Increasing zombie speed**": {
+    "translation": "**Increasing zombie speed**"
+  },
+  "** Zombie reached the end **": {
+    "translation": "** 僵尸到达了终点 **"
+  },
+  "*** 20s ***": {
+    "translation": "*** 20s ***"
+  },
+  "** Defend for 20 seconds and wait for the event to occur **": {
+    "translation": "** 守住,还有20秒 **"
+  },
+  "** you killed my pet **": {
+    "translation": "** 你杀掉了我的玩具 **"
+  },
+  "** Want to leave? Stupid! **": {
+    "translation": "** 竟然想要离开?愚蠢!! **"
+  },
+  "** The dead won't let you go **": {
+    "translation": "** 死者不会让你走 **"
+  },
+  "** To kill re be killed by him **": {
+    "translation": "** To kill re be killed by him **"
+  },
+  "** greedy human beings **": {
+    "translation": "** 贪婪的人类啊 **"
+  },
+  "** you must pay! **": {
+    "translation": "** 你必须给馒头! **"
+  },
+  "** The guardians will bury you with their lives **": {
+    "translation": "** 守卫者将会把你们埋葬于此 **"
+  },
+  "** will be buried with you! **": {
+    "translation": "** 将与你一起埋葬! **"
+  },
+  "** It's the guardian **": {
+    "translation": "** 它是守护者 **"
+  },
+  "** Guardian:expe **": {
+    "translation": "** 守护者:expe **"
+  },
+  "** Guardian:earthquake **": {
+    "translation": "** Guardian:earthquake **"
+  },
+  "** Call of the dead **": {
+    "translation": "** 亡灵的呼唤 **"
+  },
+  "** Defend zombies for 20 seconds and wait for the door to open **": {
+    "translation": "** 守住20秒,门就要开了 **"
+  },
+  "** Don't let zombies break through the line of defense. Wait for the gate to close **": {
+    "translation": "** 不要让僵尸撕开防线,门就要关上了 **"
+  },
+  "***Hold on for 10 seconds***": {
+    "translation": "***坚持10秒***"
+  },
+  "***Hold on for another 20 seconds***": {
+    "translation": "***还需要20秒***"
+  },
+  "***Zombie teleportation has 10 seconds left": {
+    "translation": "***僵尸传送还有10秒"
+  },
+  "***Activate transfer in 30 seconds***": {
+    "translation": "***传送30秒后开启***"
+  },
+  "** 40 **": {
+    "translation": "** 40 **"
+  },
+  "***Turn on transfer in 45 seconds***": {
+    "translation": "***传送45秒后开启***"
+  },
+  "** Boss released the laser **": {
+    "translation": "** Boss 释放了激光 **"
+  },
+  "** Boss releases the black hole **": {
+    "translation": "** Boss释放了黑洞 **"
+  },
+  "** Boss released the earthquake **'": {
+    "translation": "** Boss释放了地震 **'"
+  },
+  "** Boss released the lightning **": {
+    "translation": "** Boss 释放了闪电 **"
+  },
+  "** Boss releases the blade of hell **": {
+    "translation": "** Boss释放了地狱之刃 **"
+  },
+  "** Boss uses Yangyan to attack **": {
+    "translation": "** Boss使用了阳炎攻击 **"
+  },
+  "***Hold on for 25 seconds***": {
+    "translation": "***坚持25秒***"
+  },
+  "** The road is open. Let's go **": {
+    "translation": "** 路开了,走吧 **"
+  },
+  "***50 seconds left***": {
+    "translation": "***剩余 50 秒***"
+  },
+  "** Hold for 20 seconds and wait for the gate to open **": {
+    "translation": "** 门还有20秒打开 **"
+  },
+  "***zomblie 10 teleport***": {
+    "translation": "***僵尸10秒传送***"
+  },
+  "**10s**": {
+    "translation": "**10s**"
+  },
+  "***last 20 seconds***": {
+    "translation": "***还有20秒***"
+  },
+  "***hold on 20s***": {
+    "translation": "***坚持20秒***"
+  },
+  "** The game is over and mankind wins **": {
+    "translation": "** 游戏结束,人类获得胜利 **"
+  },
+  "** Wait 30 seconds to open the channel **": {
+    "translation": "** 等待 30 秒打开通道 **"
+  },
+  "** 35s **": {
+    "translation": "** 35s **"
+  },
+  "** Wait 30 seconds, hold the zombie **": {
+    "translation": "** 等待30秒,拖住僵尸 **"
+  },
+  "** Pay attention to the road under your feet. This is not a place for fun **": {
+    "translation": "** 当心脚下的路,可不是闹着玩的 **"
+  },
+  "** Hold on for 30 seconds. Don't let the zombies break through the line **": {
+    "translation": "** 保持30秒,别让僵尸突破防线 **"
+  },
+  "** Retreat, find the next route, watch out for zombies **": {
+    "translation": "** 撤退,找其他的路,当心僵尸 **"
+  },
+  "** It seems that we have missed the planned path. In short, we should find a way to get out of here **": {
+    "translation": "** 看起来跟计划有点不同,得找条路离开这里 **"
+  },
+  "** This is? An abandoned fortress **": {
+    "translation": "** 这里是?一处废弃的堡垒 **"
+  },
+  "** Try to blast the boulder in 25 seconds **": {
+    "translation": "** 尝试爆破,还有25秒 **"
+  },
+  "** ??????30s???????????? **": {
+    "translation": "** ??????30s???????????? **"
+  },
+  "** Break the wooden door after 40 seconds **": {
+    "translation": "** 木门40秒后破开 **"
+  },
+  "** The way into the valley is blocked. We have to find a way to blast it **": {
+    "translation": "** 进入峡谷的路被堵住了,我们得想办法炸开它 **"
+  },
+  "** Wait 20 seconds and open the iron door below **": {
+    "translation": "** 等待20秒 **"
+  },
+  "** 25s **": {
+    "translation": "** 25s **"
+  },
+  "***please hold on***": {
+    "translation": "***请稍等***"
+  },
+  "***hold on 30s***": {
+    "translation": "***等待30秒***"
+  },
+  "** Evil spirit, it's dead.Dead? **": {
+    "translation": "** 邪恶之灵,它确是死了吗 **"
+  },
+  "** Anyway, we must get out of here as soon as possible! **": {
+    "translation": "** 不论如何,我们得赶快出去 **"
+  },
+  "** Defend zombies for 20 seconds **": {
+    "translation": "** 守住20秒 **"
+  },
+  "** Please wait for 10 seconds **": {
+    "translation": "** 等待10秒 **"
+  },
+  "A player has picked up the book": {
+    "translation": "玩家获得了书本"
+  },
+  "*** The beginning...The end. ***": {
+    "translation": "*** 这是开始...也是结束. ***"
+  },
+  "** Well done, defend the window for 15 seconds **": {
+    "translation": "** 不错,守住窗户,还有15秒 **"
+  },
+  "** The transmitter has 15 seconds to trigger **": {
+    "translation": "** 传送器还有15秒触发 **"
+  },
+  "**A player has picked up the book**": {
+    "translation": "**玩家获得了书本二**"
+  },
+  "** good job! This book records how to unlock the switch and protect it **": {
+    "translation": "** 可以的,这本书记录了如何解锁开关去保护它 **"
+  },
+  "** You need to throw it on the designated altar **": {
+    "translation": "** 你得把它扔到祭坛上去 **"
+  },
+  "** Hold on for 20s **": {
+    "translation": "** 守住20秒 **"
+  },
+  "** Open the door in 10 seconds **": {
+    "translation": "** 在 10 秒内打开门 **"
+  },
+  "** Hold for 15 seconds **": {
+    "translation": "** 守住15秒 **"
+  },
+  "** The gate is open. Retreat **": {
+    "translation": "** 门开了,撤退 **"
+  },
+  "** Route change, drag the zombie for 30 seconds **": {
+    "translation": "** 改变路线,拖猪僵尸30秒 **"
+  },
+  "** Open the road in 25 seconds and hold your ground! **": {
+    "translation": "** 在 25 秒内打开道路并坚守阵地! **"
+  },
+  "** Open the small door in 25 seconds **": {
+    "translation": "** 小门还有25秒打开 **"
+  },
+  "<<< 6 >>>": {
+    "translation": "<<< 6 >>>"
+  },
+  "<<< 5 >>>": {
+    "translation": "<<< 5 >>>"
+  },
+  "<<< 4 >>>": {
+    "translation": "<<< 4 >>>"
+  },
+  "<<< 3 >>>": {
+    "translation": "<<< 3 >>>"
+  },
+  "<<< 2 >>>": {
+    "translation": "<<< 2 >>>"
+  },
+  "<<< 1 >>>": {
+    "translation": "<<< 1 >>>"
+  },
+  "<<< The roads in the town have been destroyed. There's nothing we can do but continue to the valley >>>": {
+    "translation": "<<< 这里的路已经被毁了,我们只能继续前往峡谷 >>>"
+  },
+  "** The door opened, trying to get in the direction of the light **": {
+    "translation": "** 门关了,尽量跟着光的方向走 **"
+  },
+  "** 250s **": {
+    "translation": "** 250s **"
+  },
+  "** Resist zombies for 30 seconds **": {
+    "translation": "** 抵挡僵尸30秒 **"
+  },
+  "** Break the small door, please wait **": {
+    "translation": "** 等会,正在破开小门 **"
+  },
+  "** After 30 seconds, open the wooden door and activate the final transmission **": {
+    "translation": "** 木门30秒后开启,即将启动最终的传送 **"
+  },
+  "<<< ?????????????????????_ >>>": {
+    "translation": "<<< ?????????????????????_ >>>"
+  },
+  "** The switch has been pressed. Retreat **": {
+    "translation": "** 按钮已按下,撤退 **"
+  },
+  "** The external gate is about to be opened **": {
+    "translation": "** 外部的门即将打开 **"
+  },
+  "** Everything is strange, but there is no way but to retreat **": {
+    "translation": "** 一切都很诡异,只能撤退了 **"
+  },
+  "** This is? The buildings of Stormwind city left behind before? **": {
+    "translation": "** 这里是?残余的暴风城建筑? **"
+  },
+  "** The door is closed, there is no way out! **": {
+    "translation": "** 门已经关了,没出去的路 **"
+  },
+  "** The iron door below is about to open **": {
+    "translation": "** 下面的铁门即将开启 **"
+  },
+  "** About to open the iron door on the top floor **": {
+    "translation": "** 顶层的铁门即将打开 **"
+  },
+  "** 15s **": {
+    "translation": "** 15s **"
+  },
+  "**  20s door open **": {
+    "translation": "**  20秒门开 **"
+  },
+  "** There is also a locked switch, which may take some time **": {
+    "translation": "** 这里同样有个锁住的开关,需要些时间 **"
+  },
+  "** Zombies have 10 seconds to teleport **": {
+    "translation": "** 僵尸还有10秒传送 **"
+  },
+  "**Human victory**": {
+    "translation": "**人类胜利**"
+  },
+  "<<< This is the southwest outpost in Lordaeron,Stormwind Keep >>>": {
+    "translation": "<<< 这里是洛丹伦的西南方,暴风城 >>>"
+  },
+  "<<< The Ministry has completely collapsed and needs to be reported to Lordaeron urgently >>>": {
+    "translation": "<<< 这里已经彻底毁灭,需要立即汇报给洛丹伦 >>>"
+  },
+  "<<< Although we have left the town temporarily, there are evil spirits bound there >>>": {
+    "translation": "<<< 只要我们离开这里,邪恶之灵还会回到这里 >>>"
+  },
+  "<<< We'll cross the valley ahead to find our way to Lordaeron >>>": {
+    "translation": "<<< 我们要穿过峡谷,找到回洛丹伦的路 >>>"
+  },
+  "<<< May Lordaeron shine on us! >>>": {
+    "translation": "<<< 愿洛丹伦保佑我们 >>>"
+  },
+  "<<< May Lordaeron protect us >>>": {
+    "translation": "<<< 愿洛丹伦与我们同在 >>>"
+  },
+  "<<< However, we should pay attention to the houses in towns. We do not know when the enemy will launch an attack >>>": {
+    "translation": "<<< 不过,我们得小心点,我们不知道敌人何时会发起袭击 >>>"
+  },
+  "<<< Time waits for no one. We need to get out of here as soon as possible >>>": {
+    "translation": "<<< 时间不等人,我们得赶紧离开这里 >>>"
+  },
+  "<<< Although the reason is not clear, the manipulators behind it will definitely stop us >>>": {
+    "translation": "<<< 即使看起来不是很明朗,但背后的操纵者一定会尝试阻止我们 >>>"
+  },
+  "<<< We stumbled into the storm fortress >>>": {
+    "translation": "<<< 我们困在这里了 >>>"
+  },
+  "** Please wait 30 seconds **": {
+    "translation": "** 还有30秒 **"
+  },
+  "**A zombie has speed item**": {
+    "translation": "**僵尸拾取了加速**"
+  },
+  ">> A player picked up the circular wind <<": {
+    "translation": ">> 一位玩家捡到了环风 <<"
+  },
+  ">>One player picker up the flame<<": {
+    "translation": ">>一位玩家捡到了火<<"
+  },
+  ">> A player picked up lightning <<": {
+    "translation": ">> 一位玩家捡到了闪电 <<"
+  },
+  ">> A player has picked up healing <<": {
+    "translation": ">> 一位玩家捡到了治疗 <<"
+  },
+  ">>One player picked up the wind<<": {
+    "translation": ">>一位玩家捡到了直风<<"
+  },
+  ">> A player picked up soil <<": {
+    "translation": ">> 一位玩家捡到了墙 <<"
+  },
+  "** A player picked up the zombie health **": {
+    "translation": "** 僵尸拾取了奶 **"
+  },
+  "** A player picked up the Divine power **": {
+    "translation": "** 僵尸拾取了黑洞 **"
+  },
+  "** A player picked up the poison **": {
+    "translation": "** 僵尸拾取了毒 **"
+  },
+  "** A player picked up the Frozen **": {
+    "translation": "** 僵尸拾取了跳刀 **"
+  }
+}
