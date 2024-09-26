@@ -145,7 +145,7 @@
     "shortName": "束缚",
     "buttonClass": "func_button",
     "hammerId": "13194",
-    "triggerId": "13227",
+    "triggerId": ["13227"],
     "cooldown": 60,
     "team": 2,
     "knife": true,
