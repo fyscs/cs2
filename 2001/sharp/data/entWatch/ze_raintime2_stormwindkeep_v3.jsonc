@@ -21,8 +21,8 @@
 
 [
   {
-    "name": "高达",
-    "shortName": "高达",
+    "name": "骑士",
+    "shortName": "骑士",
     "buttonClass": "game_ui",
     "hammerId": "1813",
     "triggerId": ["1899"],
@@ -48,7 +48,7 @@
   },
   {
     "name": "加速",
-    "shortName": "[PR#]zm_speed_knife",
+    "shortName": "加速",
     "buttonClass": "func_button",
     "hammerId": "1955",
     "triggerId": ["1957"],
@@ -107,7 +107,7 @@
   },
   {
     "name": "直风",
-    "shortName": "[PR#]Item_wind_gun",
+    "shortName": "直风",
     "buttonClass": "func_button",
     "hammerId": "2085",
     "cooldown": 60,
@@ -119,7 +119,7 @@
   },
   {
     "name": "墙",
-    "shortName": "[PR#]Item_wall_gun",
+    "shortName": "墙",
     "buttonClass": "func_button",
     "hammerId": "2096",
     "cooldown": 60,
@@ -143,7 +143,7 @@
   },
   {
     "name": "黑洞",
-    "shortName": "[PR#]Zombie_Gravityd",
+    "shortName": "黑洞",
     "buttonClass": "func_button",
     "hammerId": "2136",
     "triggerId": ["2140"],
