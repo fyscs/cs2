@@ -1,0 +1,223 @@
+// entWatch configuration file generator.
+// EntWatch Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // name         (string)   -> 名字
+  // shortName    (string)   -> 计分板短名
+  // buttonClass  (string)   -> 按钮的classname
+  // hammerId     (string)   -> 武器HammerId
+  // triggerId    (string[]) -> 触发器HammerId
+  // containerId  (string)   -> 容器HammerId
+  // maxUses      (int)      -> 最大使用次数
+  // initCooldown (int)      -> 初始化冷却时间
+  // cooldown     (int)      -> 冷却时间
+  // team         (int)      -> 3 = 人类, 2 = 僵尸
+  // knife        (bool)     -> 是否是匕首, 填错捡不起来
+  // soulEvent    (string)   -> 灵魂绑定IO
+  // hud          (bool)     -> Hud面板显示
+  // mode         (int)      -> 0 = 无按钮, 1 = 仅提示, 2 = CD型, 3 = 次数型, 4 = 次数+CD型, 5 = 使用一定次数后进入CD型, 6 = 燃料型(OnHitMin), 7 = 燃料型(OnHitMax), 8 = 计数型(类似狮子王MiniCanon)
+  // count        (int)      -> 神器个数
+
+[
+  {
+    "name": "墙",
+    "shortName": "墙",
+    "buttonClass": "func_button",
+    "hammerId": "1431",
+    "cooldown": 60,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "风",
+    "shortName": "风",
+    "buttonClass": "func_button",
+    "hammerId": "1474",
+    "cooldown": 60,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "雷电",
+    "shortName": "电",
+    "buttonClass": "func_button",
+    "hammerId": "1475",
+    "cooldown": 60,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "推力",
+    "shortName": "推力",
+    "buttonClass": "func_button",
+    "hammerId": "1484",
+    "cooldown": 60,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "钥匙",
+    "shortName": "钥匙",
+    "buttonClass": "func_button",
+    "hammerId": "1772",
+    "cooldown": 0,
+    "team": 3,
+    "knife": false,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "符华",
+    "shortName": "符华",
+    "buttonClass": "game_ui",
+    "hammerId": "1128",
+    "triggerId": ["1129"],
+    "cooldown": 0,
+    "team": 3,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "剑圣",
+    "shortName": "剑圣",
+    "buttonClass": "game_ui",
+    "hammerId": "1184",
+    "triggerId": ["1192"],
+    "cooldown": 0,
+    "team": 3,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "白骑士",
+    "shortName": "高达",
+    "buttonClass": "game_ui",
+    "hammerId": "1309",
+    "triggerId": ["1298"],
+    "cooldown": 0,
+    "team": 3,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "护盾",
+    "shortName": "护盾",
+    "buttonClass": "func_button",
+    "hammerId": "1399",
+    "triggerId": ["1406"],
+    "cooldown": 0,
+    "team": 2,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "[ZM]治疗",
+    "shortName": "[ZM]治疗",
+    "buttonClass": "func_button",
+    "hammerId": "1412",
+    "triggerId": ["1408"],
+    "cooldown": 65,
+    "team": 2,
+    "knife": true,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "毒",
+    "shortName": "毒",
+    "buttonClass": "func_button",
+    "hammerId": "1439",
+    "triggerId": ["1437"],
+    "cooldown": 60,
+    "team": 2,
+    "knife": true,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "黑洞",
+    "shortName": "黑洞",
+    "buttonClass": "func_button",
+    "hammerId": "1456",
+    "triggerId": ["1457"],
+    "cooldown": 60,
+    "team": 2,
+    "knife": true,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "祭司",
+    "shortName": "祭司",
+    "buttonClass": "game_ui",
+    "hammerId": "1497",
+    "triggerId": ["1495"],
+    "cooldown": 0,
+    "team": 2,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "激光",
+    "shortName": "激光",
+    "buttonClass": "func_button",
+    "hammerId": "6581",
+    "triggerId": ["6579"],
+    "cooldown": 60,
+    "team": 2,
+    "knife": true,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "勇士",
+    "shortName": "勇士",
+    "buttonClass": "game_ui",
+    "hammerId": "6698",
+    "triggerId": ["6696"],
+    "cooldown": 0,
+    "team": 2,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "Boss",
+    "shortName": "Boss",
+    "buttonClass": "game_ui",
+    "hammerId": "6759",
+    "triggerId": ["6780"],
+    "cooldown": 0,
+    "team": 2,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "暗影",
+    "shortName": "暗影",
+    "buttonClass": "game_ui",
+    "hammerId": "6904",
+    "triggerId": ["6919"],
+    "cooldown": 0,
+    "team": 2,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  }
+]
