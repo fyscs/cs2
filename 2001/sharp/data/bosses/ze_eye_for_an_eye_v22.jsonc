@@ -31,11 +31,5 @@
       "hitbox": "Boss_break",
       "display": "Eye"
     }
-  ],
-  "Monsters": [
-    {
-    "identity": "2885",
-    "display": "Door"
-    }
   ]
 }
