@@ -206,10 +206,10 @@
     "buttonClass": "func_button",
     "hammerId": "13489",
     "triggerId": ["13577"],
-    "maxUses": 1,
+    "cooldown": 0,
     "team": 2,
     "knife": true,
-    "mode": 3,
+    "mode": 1,
     "count": 1
   },
   {
@@ -303,14 +303,14 @@
     "count": 1
   },
   {
-    "name": "萨科",
-    "shortName": "萨科",
+    "name": "小丑",
+    "shortName": "小丑",
     "buttonClass": "func_button",
     "hammerId": "13777",
-    "maxUses": 1,
+    "cooldown": 0,
     "team": 3,
     "knife": false,
-    "mode": 3,
+    "mode": 1,
     "count": 1
   },
   {
@@ -329,7 +329,7 @@
     "shortName": "卡尔",
     "buttonClass": "game_ui",
     "hammerId": "13823",
-    "cooldown": 60,
+    "cooldown": 0,
     "team": 3,
     "knife": false,
     "mode": 2,
@@ -352,6 +352,17 @@
     "buttonClass": "func_button",
     "hammerId": "14550",
     "cooldown": 15,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "直线冰",
+    "shortName": "冰",
+    "buttonClass": "func_button",
+    "hammerId": "13820",
+    "cooldown": 60,
     "team": 3,
     "knife": false,
     "mode": 2,
