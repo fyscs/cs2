@@ -152,7 +152,7 @@
   {
     "name": "龙祭祀",
     "shortName": "龙祭",
-    "buttonClass": "func_button",
+    "buttonClass": "game_ui",
     "hammerId": "1497",
     "cooldown": 75,
     "triggerId": ["1495"],
@@ -174,8 +174,8 @@
     "count": 1
   },
   {
-    "name": "boss",
-    "shortName": "boss",
+    "name": "Boss",
+    "shortName": "Boss",
     "buttonClass": "game_ui",
     "hammerId": "6759",
     "triggerId": ["6780"],
@@ -193,6 +193,30 @@
     "team": 3,
     "knife": false,
     "mode": 0,
+    "count": 1
+  },
+  {
+    "name": "勇士",
+    "shortName": "勇士",
+    "buttonClass": "game_ui",
+    "hammerId": "6698",
+    "triggerId": ["6696"],
+    "cooldown": 0,
+    "team": 2,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "暗影",
+    "shortName": "暗影",
+    "buttonClass": "game_ui",
+    "hammerId": "6904",
+    "triggerId": ["6919"],
+    "cooldown": 0,
+    "team": 2,
+    "knife": true,
+    "mode": 1,
     "count": 1
   }
 ]
