@@ -1,0 +1,232 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<< TESLA COMING >>": {
+    "translation": "<< 特斯拉已被拾取 >>"
+  },
+  "<< A player has picked up water magic >>": {
+    "translation": "<< 一名玩家拾取了水神器 >>"
+  },
+  "<< A player has picked up holy magic >>": {
+    "translation": "<< 一名玩家拾取了终极(只有一次机会,小心使用) >>"
+  },
+  "<< A zombie has picked up heal magic >>": {
+    "translation": "<< 一名僵尸拾取了奶(它可以防终极) >>"
+  },
+  "<< A zombie has picked up ice magic >>": {
+    "translation": "<< 一名僵尸拾取了冰 >>"
+  },
+  "<< A zombie has picked up nuke magic >>": {
+    "translation": "<< 一名僵尸拾取了秒杀 >>"
+  },
+  "<< A zombie has picked up gravity magic >>": {
+    "translation": "<< 一名僵尸拾取了黑洞 >>"
+  },
+  "<< A player has picked up fantasy crystal >>": {
+    "translation": "<< 一名玩家拾取幻想水晶 >>"
+  },
+  "<< A player has picked up heal magic >>": {
+    "translation": "<<  一名玩家拾取了治疗神器 >>"
+  },
+  "<< A player has picked up electro magic >>": {
+    "translation": "<< 一名玩家拾取了电神器 >>"
+  },
+  "<< A player has picked up wind magic >>": {
+    "translation": "<< 一名玩家拾取了风神器 >>"
+  },
+  "<< A player has picked up earth magic >>": {
+    "translation": "<< 一名玩家拾取了土神器 >>"
+  },
+  "<< STAGE Fail...... >>": {
+    "translation": "<< 关卡失败...... >>"
+  },
+  "-- 20 --": {
+    "translation": "-- 20 --"
+  },
+  "--- Tesla dead...... ---": {
+    "translation": "--- 特斯拉紫砂了...... ---"
+  },
+  "--- Its a SOLO WIN !!! ---": {
+    "translation": "--- 我去!!!SOLO大神!!!无敌了你!!! ---"
+  },
+  "--- Map by Misaka ---": {
+    "translation": "--- 地图作者:Misaka 地图翻译:小妖梦@风云社 ---"
+  },
+  "--- Rework by K.KID ---": {
+    "translation": "--- 地图重置:K.KID ---"
+  },
+  "--- Its a TEAM WIN !!! ---": {
+    "translation": "--- team win才是真正的通关!!! ---"
+  },
+  "--- 5 seconds ---": {
+    "translation": "--- 剩余5秒 ---"
+  },
+  "--- zombie can go in 7 seconds ---": {
+    "translation": "--- 僵尸将在7秒后开始移动 ---"
+  },
+  "--- Round will fail if no one complete in 30 seconds ---": {
+    "translation": "--- 如果30秒内没有人完成,回合将失败 ---"
+  },
+  "--- Survive for 180 seconds ---": {
+    "translation": "--- 存活180秒 ---"
+  },
+  "-- STAGE EX - ZM --": {
+    "translation": "-- 第六关-ZM模式 --"
+  },
+  "--- Do not trust the black laser!!! ---": {
+    "translation": "--- 不要相信黑色的刀!!! ---"
+  },
+  "--- Congratulations!!! ---": {
+    "translation": "--- 恭喜通关!!! ---"
+  },
+  "--- You are the King of the FANTASY ---": {
+    "translation": "--- 你就是天幻之王!!! ---"
+  },
+  "--- Map by Misaka, Rework by K.KID ---": {
+    "translation": "--- 地图作者:Misaka 地图重置:K.KID 汉化:小妖梦@风云社 ---"
+  },
+  "--- Zombie ESCAPE!!! ---": {
+    "translation": "--- 僵尸成功逃脱 ---"
+  },
+  "--- Fail...... ---": {
+    "translation": "--- 失败...... ---"
+  },
+  "--- Normal Ending ---": {
+    "translation": "--- Normal结束 ---"
+  },
+  "--- Misaka Ending ---": {
+    "translation": "--- Misaka结束 ---"
+  },
+  "--- Prepare to face the real FANTASY ---": {
+    "translation": "--- 直面真实的幻想吧 ---"
+  },
+  "--- Boss is using ULTIMATE FIRE!!! Use Water or Heal to reduce the damage!!! ---": {
+    "translation": "--- BOSS正在使用地狱之火!!!使用水或治疗来抵消伤害!!! ---"
+  },
+  "--- Purple Core Recover 500 HP ---": {
+    "translation": "--- 紫色核心将恢复五百HP ---"
+  },
+  "--- Flash Cannon ---": {
+    "translation": "--- 激光大炮(寻找最大缝钻) ---"
+  },
+  "--- Rainbow Cage ---": {
+    "translation": "--- 彩虹牢笼 ---"
+  },
+  "--- Rotating Blade ---": {
+    "translation": "--- 旋转之刃 ---"
+  },
+  "--- Creation Shield ---": {
+    "translation": "--- 恶之回盾(反伤,快停枪) ---"
+  },
+  "--- Ominous Wind ---": {
+    "translation": "--- 幻妖之风 ---"
+  },
+  "--- Pure Fury ---": {
+    "translation": "--- 纯粹の怒(防守尸笼) ---"
+  },
+  "--- Earth Power ---": {
+    "translation": "--- 巨岩之力(平台上升) ---"
+  },
+  "--- Pressure ---": {
+    "translation": "--- 威の压(蹲下) ---"
+  },
+  "--- Sinister Omen ---": {
+    "translation": "--- 凶之恶兆 ---"
+  },
+  "--- Fallen Star ---": {
+    "translation": "--- 坠落之星 ---"
+  },
+  "--- Aurora Veil ---": {
+    "translation": "--- 极光面纱 ---"
+  },
+  "-- 15 --": {
+    "translation": "-- 15 --"
+  },
+  "-- 40 --": {
+    "translation": "-- 40 --"
+  },
+  "STAGE V - NIGHTMARE MODE": {
+    "translation": "第五关-噩兆"
+  },
+  "-- 25 --": {
+    "translation": "-- 25 --"
+  },
+  "-- 30 --": {
+    "translation": "-- 30 --"
+  },
+  "<< STAGE COMPLETE >>": {
+    "translation": "<< 通关 >>"
+  },
+  "<< Zombie ESCAPE!!! >>": {
+    "translation": "<< 人类失败!!! >>"
+  },
+  "-- STAGE III - HARD MODE --": {
+    "translation": "-- 第三关-困难 --"
+  },
+  "--- Admin select EASY Mode ---": {
+    "translation": "--- 管理员选择了简单难度 ---"
+  },
+  "--- Admin select NORMAL Mode ---": {
+    "translation": "--- 管理员选择了普通难度 ---"
+  },
+  "--- Admin select HARD Mode ---": {
+    "translation": "--- 管理员选择了困难难度 ---"
+  },
+  "--- Admin select LUNATIC Mode ---": {
+    "translation": "--- 管理员选择了疯狂难度 ---"
+  },
+  "--- Admin select NIGHTMARE Mode ---": {
+    "translation": "--- 管理员选择了噩兆难度 ---"
+  },
+  "--- Admin Select Extra Mode ---": {
+    "translation": "--- 管理员选择了ZM模式 ---"
+  },
+  "-- STAGE IV - LUNATIC MODE --": {
+    "translation": "-- 第四关-疯狂 --"
+  },
+  "-- 90 --": {
+    "translation": "-- 90 --"
+  },
+  "-- 10 --": {
+    "translation": "-- 10 --"
+  },
+  "- MISAKA is blocking our way!!! -": {
+    "translation": "- Misaka挡住了我们的路!!! -"
+  },
+  "-- 33 --": {
+    "translation": "-- 33 --"
+  },
+  "-- 85 --": {
+    "translation": "-- 85 --"
+  },
+  "-- 50 --": {
+    "translation": "-- 50 --"
+  },
+  "-- STAGE I - EASY MODE --": {
+    "translation": "-- 第一关-简单 --"
+  },
+  "-- STAGE II - NORMAL MODE --": {
+    "translation": "-- 第二关-普通 --"
+  },
+  "--25 --": {
+    "translation": "--25 --"
+  },
+  "--- ze_sky_fantasy_v2 ---": {
+    "translation": "---ze_sky_fantasy_v2<天空幻想V2>---"
+  },
+  "-- 终极将在10秒后爆炸 --": {
+    "translation": "-- 终极将在10秒后爆炸 --"
+  },
+  "-- God --": {
+    "translation": "-- 神 --"
+  }
+}
