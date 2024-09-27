@@ -1,0 +1,187 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** --Female martial god-- **": {
+    "translation": "** --玩家已获取<符华>-- **"
+  },
+  "** fuhua got increase **": {
+    "translation": "** 符华得到了加强 **"
+  },
+  "** her health can heal huamn  **": {
+    "translation": "** 她的奶可以治愈人类  **"
+  },
+  "** human got heal can increase their speed  **": {
+    "translation": "** 人类获得治疗可以提高速度  **"
+  },
+  "** vanish **": {
+    "translation": "** 消除 **"
+  },
+  "<--Blademaster-->": {
+    "translation": "<--玩家已获取<剑圣>-->"
+  },
+  "<< blademaster good at stop muti zombie >>": {
+    "translation": "<< 剑圣擅长于阻挡多数僵尸 >>"
+  },
+  "<< Rclike and S+Lclike will make zombie remove more speed  >>": {
+    "translation": "<< 现在右键和S左键攻击减速效果更强  >>"
+  },
+  "<--knight-->": {
+    "translation": "<--<白骑士>进入了战场-->"
+  },
+  "<< knight has strong strength and powerful skill >>": {
+    "translation": "<< 白骑士拥有强大的力量和强大的技能 >>"
+  },
+  "<< Top E and SAWDL could make more damage >>": {
+    "translation": "<< 抬头 E ,以及 SAWDL 现在会造成更多伤害 >>"
+  },
+  "** shield **": {
+    "translation": "**  <盾>已捡起 **"
+  },
+  "** health **": {
+    "translation": "** <奶>已捡起 **"
+  },
+  "** wall **": {
+    "translation": "** <墙>已捡起 **"
+  },
+  "** position **": {
+    "translation": "** <毒>已捡起 **"
+  },
+  "** gravity **": {
+    "translation": "** <黑洞>已捡起 **"
+  },
+  "** sharp wind **": {
+    "translation": "** <直线风>已捡起 **"
+  },
+  "** lightening **": {
+    "translation": "** <电>已捡起 **"
+  },
+  "** surround wind **": {
+    "translation": "** <环形风>已捡起 **"
+  },
+  "** T3 **": {
+    "translation": "** T3 **"
+  },
+  "** 20s **": {
+    "translation": "** 20秒 **"
+  },
+  "** 25s **": {
+    "translation": "** 25秒 **"
+  },
+  "** 35s **": {
+    "translation": "** 35秒 **"
+  },
+  "** another door **": {
+    "translation": "** 寻找其他的门 **"
+  },
+  "** 15s **": {
+    "translation": "** 15秒 **"
+  },
+  "** 45s **": {
+    "translation": "** 45秒 **"
+  },
+  "** Throw the book to the opposite altar **": {
+    "translation": "** 把书扔到对面的祭坛上 **"
+  },
+  "** 40s **": {
+    "translation": "** 40秒 **"
+  },
+  "** 18s **": {
+    "translation": "** 18秒 **"
+  },
+  "** 30s **": {
+    "translation": "** 30秒 **"
+  },
+  "** 10s **": {
+    "translation": "** 10秒 **"
+  },
+  "** 50s **": {
+    "translation": "** 50秒 **"
+  },
+  "** painted eggshell **": {
+    "translation": "** 彩蛋开启 **"
+  },
+  "<<< level1 >>>": {
+    "translation": "<<< 第一关 >>>"
+  },
+  "<<< level2 >>>": {
+    "translation": "<<< 第二关 >>>"
+  },
+  "<<< level3 >>>": {
+    "translation": "<<< 第三关 >>>"
+  },
+  "<<< ex1 >>>": {
+    "translation": "<<< EX ① >>>"
+  },
+  "<<< ex2 >>>": {
+    "translation": "<<< EX ② >>>"
+  },
+  "** lift was broken keep holding  **": {
+    "translation": "** 电梯已被破坏,保持防守  **"
+  },
+  "** you win **": {
+    "translation": "** 人类胜利 **"
+  },
+  "** shoot mental door **": {
+    "translation": "** 射击大门! **"
+  },
+  "** hold on 30s **": {
+    "translation": "** 防守30秒 **"
+  },
+  "**A player has picked up the book**": {
+    "translation": "**玩家获得了书本**"
+  },
+  "**4**": {
+    "translation": "**4**"
+  },
+  "**ex open **": {
+    "translation": "**EX模式已开启 **"
+  },
+  "** 1 **": {
+    "translation": "** 1 **"
+  },
+  "** 3 **": {
+    "translation": "** 3 **"
+  },
+  "** 2 **": {
+    "translation": "** 2 **"
+  },
+  "** fight 40s **": {
+    "translation": "** 防守40秒 **"
+  },
+  "<<< level-ex1 >>>": {
+    "translation": "<<< EX ① >>>"
+  },
+  "<<< level-ex2 >>>": {
+    "translation": "<<< EX ② >>>"
+  },
+  "Version 24.9.23": {
+    "translation": "Version 24.9.23"
+  },
+  "<<< 15s >>>": {
+    "translation": "<<< 15秒 >>>"
+  },
+  "<<somewhere button has unlock>>": {
+    "translation": "<<某些地方的按钮已被禁用>>"
+  },
+  "<< caidan active >>": {
+    "translation": "<< 彩蛋已开启 >>"
+  },
+  "<< all skin become stronger >>": {
+    "translation": "<< 所有的皮肤变得更牛犇 >>"
+  },
+  "<--DC->": {
+    "translation": "<--DC->"
+  },
+  "<--Other world hero come to help->": {
+    "translation": "<--看来有其他地方的人来帮助我们了->"
+  }
+}
