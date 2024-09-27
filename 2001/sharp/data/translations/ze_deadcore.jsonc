@@ -1,0 +1,80 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> css port by xen <<<": {
+    "translation": ">> CSS移植: xen <"
+  },
+  ">>> Map by Airvulpes <<<": {
+    "translation": ">> 地图制作: Airvulpes <<"
+  },
+  ">>> csgo k3 version port by koen <<<": {
+    "translation": ">> K版由koen移植至CSGO <<"
+  },
+  ">>> cs2 port by Tenshi. <<<": {
+    "translation": ">> CS2移植: Tenshi<<"
+  },
+  "> Stage - Insane D <": {
+    "translation": "> INSANE D-噩梦 <"
+  },
+  "> Stage - A <": {
+    "translation": "> A关 <"
+  },
+  "> Stage - B <": {
+    "translation": "> B关 <"
+  },
+  "> Stage - C <": {
+    "translation": "> C关 <"
+  },
+  "> Stage - D <": {
+    "translation": "> NORMAL D-普通 <"
+  },
+  "> Just kidding <": {
+    "translation": ">> 老板换碟 >>"
+  },
+  ">>> 20 seconds left <<<": {
+    "translation": "还有20秒"
+  },
+  ">>> 30 seconds left <<<": {
+    "translation": "还有30秒"
+  },
+  ">>> Hold 40 seconds <<<": {
+    "translation": "还有40秒"
+  },
+  ">>> 10 seconds left <<<": {
+    "translation": "还有10秒",
+    "blocked": true
+  },
+  ">>> Hold 30 seconds <<<": {
+    "translation": "还有30秒"
+  },
+  ">>> Hold 20 seconds <<<": {
+    "translation": "还有20秒"
+  },
+  ">>> Hold 10 seconds <<<": {
+    "translation": "还有10秒",
+    "blocked": true
+  },
+  ">>> Hold 5 seconds <<<": {
+    "translation": "还有5秒",
+    "blocked": true
+  },
+  ">>> 5 seconds left <<<": {
+    "translation": "还有5秒",
+    "blocked": true
+  },
+  ">>> Hold 15 seconds <<<": {
+    "translation": "还有15秒"
+  },
+  ">>> 90 <<<": {
+    "translation": "还有90秒"
+  }
+}

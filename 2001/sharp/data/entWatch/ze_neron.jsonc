@@ -1,23 +1,24 @@
 // entWatch configuration file generator.
-// EntWatch Version v21
+// EntWatch Version v22
 // Copyright 2024 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
-  // name         (string) -> 名字
-  // shortName    (string) -> 计分板短名
-  // buttonClass  (string) -> 按钮的classname
-  // hammerId     (string) -> 武器HammerId
-  // triggerId    (string) -> 触发器HammerId
-  // containerId  (string) -> 容器HammerId
-  // maxUses      (int)    -> 最大使用次数
-  // initCooldown (int)    -> 初始化冷却时间
-  // cooldown     (int)    -> 冷却时间
-  // team         (int)    -> 3 = 人类, 2 = 僵尸
-  // knife        (bool)   -> 是否是匕首, 填错捡不起来
-  // soulEvent    (string) -> 灵魂绑定IO
-  // mode         (int)    -> 0 = 无按钮, 1 = 仅提示, 2 = CD型, 3 = 次数型, 4 = 次数+CD型, 5 = 使用一定次数后进入CD型, 6 = 燃料型(OnHitMin), 7 = 燃料型(OnHitMax), 8 = 计数型(类似狮子王MiniCanon)
-  // count        (int)    -> 神器个数
+  // name         (string)   -> 名字
+  // shortName    (string)   -> 计分板短名
+  // buttonClass  (string)   -> 按钮的classname
+  // hammerId     (string)   -> 武器HammerId
+  // triggerId    (string[]) -> 触发器HammerId
+  // containerId  (string)   -> 容器HammerId
+  // maxUses      (int)      -> 最大使用次数
+  // initCooldown (int)      -> 初始化冷却时间
+  // cooldown     (int)      -> 冷却时间
+  // team         (int)      -> 3 = 人类, 2 = 僵尸
+  // knife        (bool)     -> 是否是匕首, 填错捡不起来
+  // soulEvent    (string)   -> 灵魂绑定IO
+  // hud          (bool)     -> Hud面板显示
+  // mode         (int)      -> 0 = 无按钮, 1 = 仅提示, 2 = CD型, 3 = 次数型, 4 = 次数+CD型, 5 = 使用一定次数后进入CD型, 6 = 燃料型(OnHitMin), 7 = 燃料型(OnHitMax), 8 = 计数型(类似狮子王MiniCanon)
+  // count        (int)      -> 神器个数
 
 [
   {
@@ -32,8 +33,8 @@
     "count": 1
   },
   {
-    "name": "深橙",
-    "shortName": "深橙",
+    "name": "加速",
+    "shortName": "加速",
     "buttonClass": "func_button",
     "hammerId": "1684",
     "triggerId": ["2397"],
@@ -44,8 +45,8 @@
     "count": 1
   },
   {
-    "name": "绿",
-    "shortName": "绿",
+    "name": "护盾",
+    "shortName": "护盾",
     "buttonClass": "func_button",
     "hammerId": "2779",
     "cooldown": 70,
@@ -55,8 +56,8 @@
     "count": 1
   },
   {
-    "name": "红",
-    "shortName": "红",
+    "name": "能量球",
+    "shortName": "能量球",
     "buttonClass": "func_button",
     "hammerId": "2470",
     "cooldown": 0,
@@ -66,8 +67,8 @@
     "count": 1
   },
   {
-    "name": "深紫",
-    "shortName": "深紫",
+    "name": "黑洞",
+    "shortName": "黑洞",
     "buttonClass": "func_button",
     "hammerId": "2794",
     "triggerId": ["2807"],
@@ -78,8 +79,8 @@
     "count": 1
   },
   {
-    "name": "深绿",
-    "shortName": "深绿",
+    "name": "激光",
+    "shortName": "激光",
     "buttonClass": "func_button",
     "hammerId": "1511",
     "triggerId": ["2471"],
@@ -90,8 +91,8 @@
     "count": 1
   },
   {
-    "name": "橙",
-    "shortName": "橙",
+    "name": "墙",
+    "shortName": "墙",
     "buttonClass": "func_button",
     "hammerId": "4141",
     "cooldown": 65,
@@ -101,8 +102,8 @@
     "count": 1
   },
   {
-    "name": "深红",
-    "shortName": "深红",
+    "name": "ZM能量球",
+    "shortName": "ZM能量球",
     "buttonClass": "func_button",
     "hammerId": "4154",
     "triggerId": ["4157"],
@@ -113,8 +114,8 @@
     "count": 1
   },
   {
-    "name": "蓝",
-    "shortName": "蓝",
+    "name": "传送枪",
+    "shortName": "传送枪",
     "buttonClass": "func_button",
     "hammerId": "1695",
     "cooldown": 70,
@@ -124,8 +125,8 @@
     "count": 1
   },
   {
-    "name": "深蓝",
-    "shortName": "深蓝",
+    "name": "冰冻球",
+    "shortName": "冰冻球",
     "buttonClass": "func_button",
     "hammerId": "1854",
     "triggerId": ["2378"],

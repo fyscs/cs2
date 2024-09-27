@@ -1,0 +1,106 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**fail...**": {
+    "translation": "**失败...**"
+  },
+  "**20 seconds until the gate opens**": {
+    "translation": "**距离大门打开 20 秒**"
+  },
+  "**time limit 210 seconds**": {
+    "translation": "**时间限制: 210秒**"
+  },
+  "**time limit 200 seconds**": {
+    "translation": "**时间限制: 200秒**"
+  },
+  "**time limit 150 seconds**": {
+    "translation": "**时间限制: 150秒**"
+  },
+  "**time limit 120 seconds**": {
+    "translation": "**时间限制: 120秒**"
+  },
+  "**time limit 90 seconds**": {
+    "translation": "**时间限制: 90秒**"
+  },
+  "**time limit 60 seconds**": {
+    "translation": "**时间限制: 60秒**"
+  },
+  "**20 seconds until CT teleports**": {
+    "translation": "**距离传送还有 20 秒**"
+  },
+  "**teleport!!**": {
+    "translation": "**传送!!!**"
+  },
+  "**90seconds defend and escape**": {
+    "translation": "**防守90秒后逃脱**"
+  },
+  "**We were able to go through the forest**": {
+    "translation": "**我们可以穿过森林**"
+  },
+  "**30 seconds until the zombies teleport**": {
+    "translation": "**防守30秒  直到僵尸传送**"
+  },
+  "**Cover 30seconds!!**": {
+    "translation": "**持续30秒!!**"
+  },
+  "**30 seconds until the truck departs**": {
+    "translation": "**距离卡车出发还有 30 秒**"
+  },
+  "**122 seconds until the gate opens**": {
+    "translation": "**离大门打开还有122秒**"
+  },
+  "**OPEN!!**": {
+    "translation": "**开门!!**"
+  },
+  "**30 seconds until the gate opens**": {
+    "translation": "**离大门打开还有30秒**"
+  },
+  "**nuke!!**": {
+    "translation": "**核爆!!**"
+  },
+  "**Open**": {
+    "translation": "**开门**"
+  },
+  "**40 seconds until the gate opens**": {
+    "translation": "**离大门打开还有40秒**"
+  },
+  "**14 seconds until the gate opens**": {
+    "translation": "**离大门打开还有14秒**"
+  },
+  "**15 seconds until the gate opens**": {
+    "translation": "**离大门打开还有13秒s**"
+  },
+  "**20 seconds for the gate to close**": {
+    "translation": "**20秒后大门关闭**"
+  },
+  "**Change level -Stage2**": {
+    "translation": "**第二阶段**"
+  },
+  "**13 seconds until the boat leaves**": {
+    "translation": "**离船出发还有 13 秒**"
+  },
+  "**30 seconds until the wall breaks**": {
+    "translation": "**还有 30 秒墙就会倒塌**"
+  },
+  "**break!!**": {
+    "translation": "**快跑!!**"
+  },
+  "**Change level -Stage1**": {
+    "translation": "**第一阶段**"
+  },
+  "**55 seconds until the gate opens**": {
+    "translation": "**还有 55 秒大门就会打开**"
+  },
+  "**10 seconds until the gate opens**": {
+    "translation": "**还有 10 秒大门就开了**"
+  }
+}

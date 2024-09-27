@@ -1,0 +1,238 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Snow picked up***": {
+    "translation": "***泡泡枪已被拿起***"
+  },
+  "***Heal picked up***": {
+    "translation": "***治疗已被拿起***"
+  },
+  "***Ice picked up***": {
+    "translation": "***冰已被拿起***"
+  },
+  "***Wind picked up***": {
+    "translation": "***风已被拿起***"
+  },
+  "***A PLAYER SLAIN BY A BARREL***": {
+    "translation": "***一位玩家被桶杀死***"
+  },
+  "***Barrel picked up***": {
+    "translation": "***桶已被拿起***"
+  },
+  "***Rocket - Right click to shot***": {
+    "translation": "***火箭 - 右键射击***"
+  },
+  "***grenade picked up***": {
+    "translation": "***手雷制造机已被拿起***"
+  },
+  "***ChainSaw Picked up***": {
+    "translation": "***电锯已被拿起***"
+  },
+  "***Wall picked up***": {
+    "translation": "***墙已被拿起***"
+  },
+  "***Zombie picked up Laser***": {
+    "translation": "***僵尸拾取了激光***"
+  },
+  "***Zombie picked up Pizza***": {
+    "translation": "***僵尸拾取了披萨***"
+  },
+  "***Player Picked up Pulse***": {
+    "translation": "***脉冲已被拿起***"
+  },
+  "***AFK Teleport in 35 seconds***": {
+    "translation": "***35秒后传送挂机玩家***"
+  },
+  "***AFK Teleport in 10 seconds***": {
+    "translation": "***10秒后传送挂机玩家***"
+  },
+  "***AFK Teleport in 8 seconds***": {
+    "translation": "***8秒后传送挂机玩家***"
+  },
+  "***A Train is coming...***": {
+    "translation": "***泥头车来咯...***"
+  },
+  "***Zombie picked up Jump***": {
+    "translation": "***僵尸拾取了高跳***"
+  },
+  "***A PLAYER BLOW UP WITH HELICOPTER***": {
+    "translation": "***一位玩家摧毁了直升机***"
+  },
+  "***Helicopter 2 explode in 3s***": {
+    "translation": "***直升机②将在3秒后爆炸***"
+  },
+  "***Helicopter explode in 3s***": {
+    "translation": "***直升机①将在3秒后爆炸***"
+  },
+  "***Train aboarded***": {
+    "translation": "***列车来咯***"
+  },
+  "***Level Failed***": {
+    "translation": "***失败***"
+  },
+  "***All Boxes are broken***": {
+    "translation": "***所有物件都已损坏***"
+  },
+  "***Resist for 30 seconds***": {
+    "translation": "***坚持30秒***"
+  },
+  "***You clear sofa mode***": {
+    "translation": "***[SOFA]模式***"
+  },
+  "***Timed Out***": {
+    "translation": "***时间没啦***"
+  },
+  "***CURRENT MODE >>>SOFA<<<***": {
+    "translation": "***当前模式 >>>[SOFA]<<<***"
+  },
+  "***ADMIN CHANGED MODE [SOFA]***": {
+    "translation": "***管理员选择了[SOFA]模式***"
+  },
+  "***ADMIN ENABLE ADDON MODE [METEOR]***": {
+    "translation": "***管理员添加了[天谴]模块 ***"
+  },
+  "***ADMIN ENABLE ADDON MODE [LOW GRAVITY]***": {
+    "translation": "***管理员添加了[低重力]模块***"
+  },
+  "***WARM UP ROUIND***": {
+    "translation": "***热身回合***"
+  },
+  "***50 SECONDS LEFT***": {
+    "translation": "***还剩50秒***"
+  },
+  "***20 SECONDS LEFT***": {
+    "translation": "***还剩20秒***"
+  },
+  "***10 SECONDS LEFT***": {
+    "translation": "***还剩10秒***"
+  },
+  "***WARM UP ROUND END***": {
+    "translation": "***热身结束***"
+  },
+  "***40 SECONDS LEFT***": {
+    "translation": "***还剩40秒***"
+  },
+  "***30 SECONDS LEFT***": {
+    "translation": "***还剩30秒***"
+  },
+  "[MUSIC] Camellia vs Akira Complex - Reality Distortion": {
+    "translation": "[音乐] Camellia vs Akira Complex - Reality Distortion"
+  },
+  "[MUSIC] Pendulum - Encoder": {
+    "translation": "[音乐] Pendulum - Encoder"
+  },
+  "[MUSIC] We Are Number One Remix but by The Living Tombstone": {
+    "translation": "[音乐] We Are Number One Remix but by The Living Tombstone"
+  },
+  "[MUSIC] Waterflame - Glorious morning": {
+    "translation": "[音乐] Waterflame - Glorious morning"
+  },
+  "[MUSIC] a_hisa - floral": {
+    "translation": "[音乐] a_hisa - floral"
+  },
+  "[MUSIC] Pendulum - Crush": {
+    "translation": "[音乐] Pendulum - Crush"
+  },
+  "[MUSIC] Talesweaver - Reminiscene": {
+    "translation": "[音乐] Talesweaver - Reminiscene"
+  },
+  "[MUSIC] Kaneko Chiharu - Silent Blue": {
+    "translation": "[音乐] Kaneko Chiharu - Silent Blue"
+  },
+  "[MUSIC] SimplePlan - Last One Standing": {
+    "translation": "[音乐] SimplePlan - Last One Standing"
+  },
+  "[MUSIC] a_hisa - Snow Cloud": {
+    "translation": "[音乐] a_hisa - Snow Cloud"
+  },
+  "[MUSIC] Pendulum - Vulture": {
+    "translation": "[音乐] Pendulum - Vulture"
+  },
+  "[MUSIC] I'm Gonna Be - The Proclaimers Remix": {
+    "translation": "[音乐] I'm Gonna Be - The Proclaimers Remix"
+  },
+  "[MUSIC] Kaneko Chiharu - TEmPTaTiON": {
+    "translation": "[音乐] Kaneko Chiharu - TEmPTaTiON"
+  },
+  "[MUSIC]  Avicii - Waiting for Love": {
+    "translation": "[音乐]  Avicii - Waiting for Love"
+  },
+  "[MUSIC] Pendulum - Witchcraft": {
+    "translation": "[音乐] Pendulum - Witchcraft"
+  },
+  "***Zombie picked up Freeze***": {
+    "translation": "***僵尸拾取了冰冻***"
+  },
+  "***ADMIN ENABLE ADDON MODE [FOG]***": {
+    "translation": "***管理员添加了[大雾]模块***"
+  },
+  "***Speed picked up***": {
+    "translation": "***加速已被拿起***"
+  },
+  "***Zombie picked up Gravity***": {
+    "translation": "***僵尸拾取了黑洞***"
+  },
+  "***Zombie picked up Nuke***": {
+    "translation": "***僵尸拾取了终极***"
+  },
+  "***ADMIN ENABLE ADDON MODE [LOW FRICTION]***": {
+    "translation": "***管理员添加了[低摩擦]模块***"
+  },
+  "***Player picked up Radio***": {
+    "translation": "***一位玩家拿起点歌机***"
+  },
+  "***ADMIN CHANGED MODE [CUSTOM]***": {
+    "translation": "***管理员选择了[自定义]模式***"
+  },
+  "***ADMIN CHANGED MODE [NORMAL]***": {
+    "translation": "***管理员选择了[普通]模式***"
+  },
+  "***CURRENT MODE >>>NORMAL<<<***": {
+    "translation": "***当前模式 >>>[普通]<<<***"
+  },
+  "***CURRENT MODE >>>CUSTOM<<<***": {
+    "translation": "***当前模式 >>>[自定义]<<<***"
+  },
+  "***Modified by Reflelia***": {
+    "translation": "***地图修改: Reflelia  汉化:Zeyu1***"
+  },
+  "***Special Thanks to Mentalspin***": {
+    "translation": "***特别鸣谢: Mentalspin***"
+  },
+  "***Nuke impact***": {
+    "translation": "***核弹爆炸***"
+  },
+  "***1***": {
+    "translation": "***1***"
+  },
+  "***2***": {
+    "translation": "***2***"
+  },
+  "***3***": {
+    "translation": "***3***"
+  },
+  "***4***": {
+    "translation": "***4***"
+  },
+  "***5***": {
+    "translation": "***5***"
+  },
+  "***Nuke launched***": {
+    "translation": "***核弹发射***"
+  },
+  "***Jump portal opened***": {
+    "translation": "***高空跳跃已开启***"
+  },
+  "***bunnyhopping enable***": {
+    "translation": "***连跳已开启***"
+  }
+}

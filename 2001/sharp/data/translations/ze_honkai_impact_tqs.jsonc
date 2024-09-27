@@ -1,0 +1,70 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**A player has picked up Ammo**": {
+    "translation": "玩家拾起了弹药补给"
+  },
+  "**Hold For 20seconds**": {
+    "translation": "还有20秒"
+  },
+  "**Final 10seconds**": {
+    "translation": "最后10秒"
+  },
+  "**Nuke Enable**": {
+    "translation": "核爆已启动"
+  },
+  "**Hold here for 15seconds****": {
+    "translation": "在这里守15秒"
+  },
+  "**Hold For 25seconds**": {
+    "translation": "守住25秒"
+  },
+  "**Cover here untile the ladder fall down**": {
+    "translation": "梯子就要降下来了,坚持住"
+  },
+  "**Hold here**": {
+    "translation": "守住这里"
+  },
+  "**Teleport afk at 10seconds**": {
+    "translation": "10秒后传送AFK玩家"
+  },
+  "**Hold For 30seconds**": {
+    "translation": "等待30秒"
+  },
+  "**Hold For 35seconds**": {
+    "translation": "等待35秒"
+  },
+  "**Door is closing in 20seconds**": {
+    "translation": "门20秒后关闭"
+  },
+  "**Teleport all players outside the door in 5seconds**": {
+    "translation": "5秒后传送仍在外面的玩家"
+  },
+  "**Hold For 25seconds,Teleport all players not in the glowing range in 5seconds**": {
+    "translation": "5秒后传送不在区域内的玩家"
+  },
+  "**Teleport all players not in the glowing range in 25seconds**": {
+    "translation": "25秒后传送不在区域内的玩家"
+  },
+  "**infinite Ammo Remaining: 10seconds**": {
+    "translation": "弹药补给效果持续十秒"
+  },
+  "**A player has picked up Ice**": {
+    "translation": "玩家拾起了冰"
+  },
+  "**Boss is dead,Fall Back!!!**": {
+    "translation": "Boss被消灭,快撤退"
+  },
+  "**Boss approaching**": {
+    "translation": "Boss接近中"
+  }
+}

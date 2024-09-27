@@ -1,0 +1,121 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>>WAIT C4 EXPLOSION<<<": {
+    "translation": ">>>等待炸弹爆炸<<<"
+  },
+  ">>>5 SECONDS LEFT<<<": {
+    "translation": ">>>还剩5秒<<<"
+  },
+  ">>>RUN<<<": {
+    "translation": ">>>快跑<<<"
+  },
+  ">>>20 SECONDS LEFT<<<": {
+    "translation": ">>>还剩20秒<<<"
+  },
+  ">>> WAIT FLYING BOAT AT THE TOP OF THE LIGHTHOUSE<<<": {
+    "translation": ">>> 在灯塔顶等飞船 <<<"
+  },
+  ">>>FLYING BOAT LEAVING IN 10 SECONDS<<<": {
+    "translation": ">>>飞船10秒后离开<<<"
+  },
+  ">>>WAIT THE FLYING BOAT 15 SECONDS<<<": {
+    "translation": ">>>守住飞船15秒<<<"
+  },
+  ">>>DOORS CLOSING IN 25 SECONDS<<<": {
+    "translation": ">>>门将25秒后关闭<<<"
+  },
+  ">>>DOORS CLOSING IN 5 SECONDS<<<": {
+    "translation": ">>>门将5秒后关闭<<<"
+  },
+  ">>>BREAK THE WOODEN BLOCKER ON TOP<<<": {
+    "translation": ">>>把上边的木头打碎<<<"
+  },
+  ">>>THE OTHER NEED TO COVER<<<": {
+    "translation": ">>>守住僵尸<<<"
+  },
+  ">>>FLYING BOAT WILL LEAVE IN 15 SECONDS<<<": {
+    "translation": ">>>飞船15秒后离开<<<"
+  },
+  ">>>CONTROL PANEL ACTIVATED<<<": {
+    "translation": ">>>按钮被按下了<<<"
+  },
+  ">>>COVER 25 SECONDS<<<": {
+    "translation": ">>>守住僵尸25秒<<<"
+  },
+  ">>>RUN TO THE NEXT CONTROL PANEL<<<": {
+    "translation": ">>>按下下一个按钮<<<"
+  },
+  ">>>TAKE THE LADDER<<<": {
+    "translation": ">>>*快爬梯子下去<<<"
+  },
+  ">>>RUN TO THE LAST CONTROL PANEL<<<": {
+    "translation": ">>>快去按下最后一个按钮<<<"
+  },
+  ">>>COVER 20 SECONDS<<<": {
+    "translation": ">>>守住僵尸20秒<<<"
+  },
+  ">>>LIFT LEAVING IN 15 SECONDS<<<": {
+    "translation": ">>>电梯15秒后离开<<<"
+  },
+  ">>>RUN TO THE CONTROL ROOM AND ACTIVATE THE PANEL<<<": {
+    "translation": ">>>快跑到控制室按下按钮<<<"
+  },
+  ">>>FLIGHING BOAT LEAVING IN 15 SECONDS<<<": {
+    "translation": ">>>飞船15秒后离开<<<"
+  },
+  ">>>ACTIVATE THE GENERATOR<<<": {
+    "translation": ">>>发电机启动了<<<"
+  },
+  ">>>DOOR WILL OPEN IN 30 SECONDS<<<": {
+    "translation": ">>>门30秒后打开<<<"
+  },
+  ">>RUN TO THE LAB<<": {
+    "translation": ">>快去实验室<<"
+  },
+  ">>>START THE GENERATOR TO OPEN THE DOOR<<<": {
+    "translation": ">>>启动发电机,门马上开了<<<"
+  },
+  ">>>COVER 45 SECONDS<<<": {
+    "translation": ">>>守住僵尸45秒<<<"
+  },
+  ">>>RUN TO THE AIRPORT BUILDING<<<": {
+    "translation": ">>>快去机场<<<"
+  },
+  ">>>ZOMBIES FLIGHING BOAT LEAVING<<<": {
+    "translation": ">>>僵尸飞船起飞了<<<"
+  },
+  ">>>CT FLIGHING BOAT LEAVING<<<": {
+    "translation": ">>>人类飞船起飞了<<<"
+  },
+  ">>>ZOMBIES FLIGHING BOAT LEAVING IN 10 SECONDS<<<": {
+    "translation": ">>>僵尸飞船10秒后离开<<<"
+  },
+  ">>>CT FLIGHING BOAT LEAVING IN 15 SECONDS<<<": {
+    "translation": ">>>人类飞船15秒后离开<<<"
+  },
+  ">>>FOLLOW THE BLUE LIGHT<<<<": {
+    "translation": ">>>有蓝光的那个才是人类的飞船<<<<"
+  },
+  ">>>RUN TO THE CT FLIGHING BOAT<<<<": {
+    "translation": ">>>快上人类飞船<<<<"
+  },
+  ">>>MAP BY LeGrem<<<": {
+    "translation": ">>>地图作者: LeGrem 汉化:Zeyu1<<<"
+  },
+  ">>>OVER 15 CT - DOOR ON 1ST FLOOR IS OPEN<<<": {
+    "translation": ">>>剩余人类超过15人 - 一楼大门开启<<<"
+  },
+  ">>>OVER 30 CT - DOOR ON 2ND FLOOR IS OPEN<<<": {
+    "translation": ">>>剩余人类超过30人 - 二楼大门开启<<<"
+  }
+}

@@ -1,0 +1,438 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**RAGE MODE**": {
+    "translation": ">> 终极模式 >>"
+  },
+  "**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**": {
+    "translation": "你必须清理掉剩余僵尸"
+  },
+  "**ZE_FFVII_COSMO_CANYON**": {
+    "translation": "最终幻想: 宇宙峡谷"
+  },
+  "**Map by Headshooter.SC & HaRyDe**": {
+    "translation": "地图制作: Headshooter.SC,HaRyDe 文本翻译: Lia"
+  },
+  "**Now you can get out of Cave of Gi**": {
+    "translation": "现在你可以离开这里了"
+  },
+  "**Gi Nattack is escaped**": {
+    "translation": "基纳塔克跑了!!"
+  },
+  "**The rock will explode in 25 seconds**": {
+    "translation": "岩石将在25秒后炸开"
+  },
+  "**The detonator seems to be broken**Go another way**": {
+    "translation": "引爆器故障了,走另一边"
+  },
+  "**FIND ALL THE GOLDEN CHESTS TO GET A SPECIAL  ITEM THAT WILL HELP YOU ON GI NATTAK**": {
+    "translation": "找到所有隐藏物品以解锁特殊神器,那会对你们的战斗很有帮助"
+  },
+  "**CHEST SIDEQUEST STARTED**": {
+    "translation": "支线任务启动!!"
+  },
+  "**Gi Nattak is spawning minions. Watch out for them**": {
+    "translation": "基纳塔克正在生成召唤物,当心!"
+  },
+  "** EXTREME mode is beaten. Get ready for your last challenge ...**": {
+    "translation": "极限模式已完成,准备面临最后的挑战"
+  },
+  "**Genesis is defeated. Get back in the elevator**": {
+    "translation": "已击败杰内西斯,返回电梯!!"
+  },
+  "[Cloud] Really do not think that he could lose that easy.. Anyways the base will explode soon.": {
+    "translation": "[克劳德] 别把这一切想得太简单...不过基地快要爆炸了"
+  },
+  "[Cloud] See you on the top evacuation point.": {
+    "translation": "[克劳德] 在上层撤离点再见吧"
+  },
+  "**Cover here for 5 seconds before we clear this obstacle**": {
+    "translation": "还需要5秒清理完成"
+  },
+  "**The gates will open in 25 seconds**": {
+    "translation": "大门还有25秒打开"
+  },
+  "[Cloud] Nice job! I hope that we are done with them for once and for all. The next stop is Cosmo Canyon..": {
+    "translation": "[克劳德] 不错!希望这是一了百了,下来该去宇宙峡谷了"
+  },
+  "**You have beaten Cosmo Canyon!! Congratulations !! **": {
+    "translation": "你已完成宇宙峡谷的所有挑战!恭喜!!"
+  },
+  "[Red-XIII] Anyways we need to defeat Gi Nattak for once and for all..": {
+    "translation": "[赤红十三] 不论怎样我们要彻底击败基纳塔克.."
+  },
+  "[Red-XIII] That guy could summon Bahamut.. Where did he take that power?": {
+    "translation": "[赤红十三] 那家伙能召唤巴哈姆特..他从哪里得到的力量?"
+  },
+  "**EXTREME MODE**": {
+    "translation": ">> 极限模式 >>"
+  },
+  "[Genesis] Anyways Gi Nattak soul is mine now and I can realize my plan.. Farewell!": {
+    "translation": "[杰内西斯] 无论如何基纳塔克的灵魂都归我所有,我也能实现我的计划..再见了!!"
+  },
+  "[Genesis] Huh.. Did not think that you will survive..": {
+    "translation": "[杰内西斯] 嚯..没想到你还能活下来.."
+  },
+  "[Cloud] This is so bad.. Theres one of the Shinra bases nearby. I guess here we will find him.": {
+    "translation": "[克劳德] 太糟了..附近是有一处神罗基地的,我想我们能在这找到他"
+  },
+  "[Red-XIII] Possibly he needs the Gi Nattak soul.. Because it contains huge amount of power.": {
+    "translation": "[赤红十三] 他很可能需要基纳塔克的灵魂..因为其蕴含着巨大的能量"
+  },
+  "This was 1st Class SOLDIER Genesis.. But what did he forget here?": {
+    "translation": "[克劳德] 那是杰内西斯..但是他遗忘了什么在这里吗?"
+  },
+  "[Red-XIII] Cloud do you know that guy?": {
+    "translation": "[赤红十三] 你认识那家伙吗?"
+  },
+  "[Cloud] Sh#t! He ran away.. I guess Shinra will notice Bahamut above Cosmo Canyon and we will have more destructions then..": {
+    "translation": "[克劳德] 草!他跑了..我想神罗会注意到上空的巴哈姆特的,我们要有更多麻烦了.."
+  },
+  "**Ifrit is defeated! Get on the airship**": {
+    "translation": "已击败伊芙利特!快上飞船"
+  },
+  "**Get on the rocks to get saved!!!**": {
+    "translation": "快上石头,要结束了!"
+  },
+  "**GI NATTAK USES LAVA SUPERATTACK**": {
+    "translation": "基纳塔克使用了岩浆攻击"
+  },
+  "**The gates of gi cave will open in 15 seconds**": {
+    "translation": "基纳塔克的洞穴15秒后开启"
+  },
+  "**We are almost at Cosmo Canyon**": {
+    "translation": "就快到宇宙峡谷了"
+  },
+  "**Defend here for 25 seconds until the gates open**": {
+    "translation": "门还有25秒打开"
+  },
+  "**Gates are open. Welcome to Cosmo Canyon**": {
+    "translation": "门打开了,欢迎来到宇宙峡谷"
+  },
+  "**The gates will open in 15 seconds**": {
+    "translation": "大门还有15秒打开"
+  },
+  "**WARMUP ROUND**": {
+    "translation": ">> 热身回合 >>"
+  },
+  "**GRENADES DO A LOT OF DAMAGE. USE THEM!**": {
+    "translation": "手雷会造成大量伤害!!"
+  },
+  "**SOME OF YOUR ITEMS CAN DAMAGE THE BOSS**": {
+    "translation": "部分神器会对Boss造成伤害"
+  },
+  "**We got the power. The gates will open in 15 seconds**": {
+    "translation": "电力恢复了!大门还有15秒打开"
+  },
+  "**The power is lost. Defend until the emergency generators are on**": {
+    "translation": "断电了,等待应急电源恢复!!"
+  },
+  "**Chest Quest completed!**": {
+    "translation": "支线任务已完成"
+  },
+  "**The reward is waiting for you in the gi cave**": {
+    "translation": "奖品已在洞穴内等待着你们"
+  },
+  "[Cloud] No problem. I will wait for you in there..": {
+    "translation": "[克劳德] 没问题,我会在那里等你.."
+  },
+  "[Red-XIII] There I will give you all the stuff you need.": {
+    "translation": "[赤红十三] 在那里我会给你你需要的一切."
+  },
+  "[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave.": {
+    "translation": "[赤红十三] 当然,但我还需要去处理一些事情..我会在基纳塔克的洞穴那找你"
+  },
+  "[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?": {
+    "translation": "[克劳德] 所以是..我们能找到些东西把我们的飞船修好..对吧?"
+  },
+  "[Red-XIII] Do not worry. I know this place.. I was born in here..": {
+    "translation": "[赤红十三] 别担心,我对这里很熟悉..这是我的故乡.."
+  },
+  "[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!": {
+    "translation": "[克劳德] Hmm..我们的引擎貌似坏了..我们被困在沙漠中央了!"
+  },
+  "**NORMAL MODE**": {
+    "translation": ">> 普通模式 >>"
+  },
+  "[Cloud] Yea I wish you good luck. When you end with him I go repair our airship..": {
+    "translation": "[克劳德] 祝你好运,你们的事情结束之后我会去修理我们的飞船.. "
+  },
+  "[Red-XIII] Do not bring this close to your heart.. He died like a hero and I hope that you guys can defeat him..": {
+    "translation": "[赤红十三] 别想太多..他是以英雄的身份死去.我希望你们能击败他.."
+  },
+  "[Cloud] Oh what a pity..": {
+    "translation": "[克劳德] 真遗憾.."
+  },
+  "[Red-XIII] And he sacrificed himself in order to save the Cosmo Canyon..": {
+    "translation": "[赤红十三] 他为拯救宇宙峡谷牺牲了自己.."
+  },
+  "[Red-XIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak..": {
+    "translation": "[赤红十三] 这是精灵的古老洞穴,很久之前我的父亲曾经直面基纳塔克"
+  },
+  "[Cloud] Thanks. But one question.. What did we forget here?": {
+    "translation": "[克劳德] 好的. 但还有一个问题.. 我们是不是忘了什么?"
+  },
+  "[Red-XIII] Yes. They helped me a lot. Did you ask for that? This is for you..": {
+    "translation": "[赤红十三] 是的. 他们帮了我很多.你是要那个吗?给你.."
+  },
+  "[Cloud] Ay.. There you are!": {
+    "translation": "[克劳德] 啊..你在这里!"
+  },
+  "**NORMAL mode was beaten. Unlocking HARD mode **": {
+    "translation": "普通模式已完成,困难模式已解锁"
+  },
+  "**Wait until something happens**": {
+    "translation": "有什么要发生了"
+  },
+  "**The gi gate will open in 35 seconds**": {
+    "translation": "基纳塔克的洞穴35秒后打开"
+  },
+  "**Jenova is defeated!**": {
+    "translation": "杰诺瓦已被击败!"
+  },
+  "**Ifrit is defeated!**": {
+    "translation": "伊芙利特已被击败!"
+  },
+  "**WINNERS GONNA CHANGE NEXT STAGE**": {
+    "translation": "胜利者将选择下一关卡"
+  },
+  "**The platform is leaving**": {
+    "translation": "电梯正在离开"
+  },
+  "**Defend here for 15 seconds before the platform leaves**": {
+    "translation": "电梯还有15秒离开"
+  },
+  "**Teleporting humans to the Observatory**": {
+    "translation": "正在将所有人类传送到天文台"
+  },
+  "**15 SECONDS LEFT!**": {
+    "translation": "还有15秒"
+  },
+  "**30 SECONDS LEFT!**": {
+    "translation": "还有30秒"
+  },
+  "**1 MINUTES LEFT!**": {
+    "translation": "还有一分钟"
+  },
+  "**2 MINUTES LEFT!**": {
+    "translation": "还有两分钟"
+  },
+  "[Cloud] So lets start from the Temple of the Ancients..": {
+    "translation": "[克劳德] 先从古代神殿开始吧.."
+  },
+  "[Cloud] Sounds good.. we need to keep moving. We still have to stop Sephiroth.. So we still have a lot to do.": {
+    "translation": "[克劳德] 听起来不错..我们得保持前进.我们要去组织萨菲罗斯..所以还有很多需要做的"
+  },
+  "[Red-XIII] I guess we can rest for a bit here and keep going then.. What do you think?": {
+    "translation": "[赤红十三] 我想我们可以在这里休息一下然后继续..你觉得怎么样?"
+  },
+  "[Red-XIII] I cannot find enough words to thank them for all... they did a really good job.": {
+    "translation": "[赤红十三] 我对他们的感激无以言表..他们真的干得漂亮."
+  },
+  "[Cloud] These guys could defeat Genesis and Jenova. I think that is one problem solved for us.": {
+    "translation": "[克劳德] 这些人能击败杰内西斯和杰诺瓦.我觉得这算给我们解决了个问题."
+  },
+  "[Red-XIII] Cosmo Canyon is almost back to normal. The observatory still needs to be repaired.": {
+    "translation": "[赤红十三] 宇宙峡谷几乎恢复正常了.但是天文台还需要整修."
+  },
+  "**Map has been beaten. Find a place to defend yourself on and keep the zombies away from it**": {
+    "translation": "地图已通关. 找个僵尸摸不到的地方守住"
+  },
+  "**ZM MODE**": {
+    "translation": ">> ZM模式 >>"
+  },
+  "**Gi Nattak is using fire**": {
+    "translation": "基纳塔克正在释放火焰"
+  },
+  "**Gi Nattak is using gravity**": {
+    "translation": "基纳塔克正在释放重力,往后退"
+  },
+  "**Gi Nattak has healed 300 hp**": {
+    "translation": "基纳塔克恢复了自身血量!!"
+  },
+  "**Gi Nattak is using wind**": {
+    "translation": "基纳塔克正在释放暴风"
+  },
+  "**Gi Nattak is using aspil**": {
+    "translation": "基纳塔克正在释放摄魂术,快蹲下"
+  },
+  "**Gi Nattak is using poison**": {
+    "translation": "基纳塔克正在使用毒药"
+  },
+  "**Gi Nattak is using shield**": {
+    "translation": "基纳塔克正在使用护盾"
+  },
+  "**Gi Nattak is using silence**": {
+    "translation": "基纳塔克使用了沉默"
+  },
+  "**Gi Nattak is using Fire Nova!!! Get out of middle**": {
+    "translation": "基纳塔克释放了火焰新星!!离开中间!"
+  },
+  "**Gi Nattak is using teleport**": {
+    "translation": "基纳塔克正在使用传送"
+  },
+  "**The gates will open in 30 seconds**": {
+    "translation": "大门还有30秒打开"
+  },
+  "**Wait 5 more seconds**": {
+    "translation": "**再等待5秒**",
+    "blocked": true
+  },
+  "**Shinra gates will open in 25 seconds**": {
+    "translation": "神罗大门还有25秒打开"
+  },
+  "[Cloud] If you succeed with that then we explode the base with Jenova.": {
+    "translation": "[克劳德] 如果你成功了,我们会用杰诺瓦炸掉基地."
+  },
+  "[Cloud] Especially if he got Gi Nattak soul.. Hard to imagine how mighty he will become..": {
+    "translation": "[克劳德] 如果他得到了基纳塔克的灵魂.. 很难想象他会变得多么强大.."
+  },
+  "[Cloud] Guys be careful! If Genesis is really here then it might be Jenova.. Fighting them both will not be easy..": {
+    "translation": "[克劳德] 大家小心!如果杰内西斯真的在这那么杰诺瓦也会在这..和他们战斗可不会简单.."
+  },
+  "**Cover here for 10 seconds before we clear this obstacle**": {
+    "translation": "坚持10秒,正在清理障碍物"
+  },
+  "**You are too slow**": {
+    "translation": "太慢了,太慢了!!"
+  },
+  "**HARD MODE**": {
+    "translation": ">> 困难模式 >>"
+  },
+  "[Genesis] Due to you I found what I need.. Face your death here..": {
+    "translation": "[杰内西斯] 靠你我才找到了我想要的.. 在这里面对你的死亡吧.."
+  },
+  "[Cloud] Oh sh#t. Theres a stranger right near our airship. Be careful..": {
+    "translation": "[克劳德] 靠. 有陌生人在我们的飞船附近,小心.."
+  },
+  "[Cloud] Just in case.. I will bring the ship to the end of the canyon and will take you away..": {
+    "translation": "[克劳德] 只是保险..我会把飞船开到峡谷终点那带你走.."
+  },
+  "[Red-XIII] Hope he will not escape this time? I afraid that we could attract extra attention..": {
+    "translation": "[赤红十三] 希望他这次不要跑了? 恐怕我们会引来不必要的关注.."
+  },
+  "[Cloud] Hurry! Get on the airship! I can not stay for long here!": {
+    "translation": "[Cloud] 快点!快上飞船!我在这等不了太久!!"
+  },
+  "**Hard mode is beaten. Challenge yourself in EXTREME mode ! **": {
+    "translation": "困难模式已完成,挑战极限模式吧!"
+  },
+  "**Shiva is defeated!**": {
+    "translation": "希瓦已被击败!"
+  },
+  "**DOOR OPENS IN 40 SECONDS**": {
+    "translation": "门还有40秒打开"
+  },
+  "**10 SECONDS LEFT**": {
+    "translation": "**10秒后离开**",
+    "blocked": true
+  },
+  "**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**": {
+    "translation": "基纳塔克正在召唤终极,快点快点!!"
+  },
+  "**This is your last hold point**": {
+    "translation": "最后的守点了!"
+  },
+  "**Get on the rocks and hold 25 seconds**": {
+    "translation": "快上岩石,守25秒"
+  },
+  "[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time..": {
+    "translation": "[赤红十三] 恭喜!你做到了..但看起来基纳塔克还是逃跑了..下次我们会击败它的.."
+  },
+  "**The elevator will leave in 15 seconds**": {
+    "translation": "电梯还有15秒离开"
+  },
+  "** Nades do more damage. **": {
+    "translation": "手雷能造成更多伤害."
+  },
+  "**THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS**": {
+    "translation": "石堆将在25秒后炸开"
+  },
+  "**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**": {
+    "translation": "管理员已通过调关房更改关卡"
+  },
+  "**ADMIN PRESSED KILL ALL BUTTON**": {
+    "translation": "管理员已结束关卡"
+  },
+  "**The barman will open the door in 5 seconds**": {
+    "translation": "**酒馆将在5秒后打开**"
+  },
+  "**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**": {
+    "translation": "僵尸来了,酒馆后门还有25秒打开"
+  },
+  "**FALL BACK**": {
+    "translation": "撤退"
+  },
+  "**5 SECONDS LEFT**": {
+    "translation": "**5秒后开门**"
+  },
+  "**...Are you surprised?...**": {
+    "translation": "没感到惊喜吗?.."
+  },
+  "**...Didn't you expect me?...**": {
+    "translation": "没想到是我吗??.."
+  },
+  "**...Oh okay i'm disappearing...**": {
+    "translation": "好吧好吧我走了.."
+  },
+  "**A player has picked up Phoenix Down**": {
+    "translation": "玩家获得了凤凰"
+  },
+  "**A player has picked up SLEEP materia**": {
+    "translation": "玩家获得了沉睡"
+  },
+  "**A player has picked up BIO materia**": {
+    "translation": "玩家获得了浮毒"
+  },
+  "**A player has picked up ULTIMA materia**": {
+    "translation": "玩家获得了终极"
+  },
+  "**A player has picked up ELECTRO materia**": {
+    "translation": "玩家获得了雷电"
+  },
+  "**A player has picked up EARTH materia**": {
+    "translation": "玩家获得了土墙"
+  },
+  "**A player has picked up WIND materia**": {
+    "translation": "玩家获得了暴风"
+  },
+  "**A player has picked up HEAL materia**": {
+    "translation": "玩家获得了治疗"
+  },
+  "**THE WINNERS HAD SELECTED THE MODE**": {
+    "translation": "胜利者已经选择了关卡"
+  },
+  "**A player has picked up GRAVITY materia**": {
+    "translation": "玩家获得了重力"
+  },
+  "**Zombie Confuse has been picked up**": {
+    "translation": "僵尸迷惑已拾起"
+  },
+  "**The airship to Shinra will arrive in 30 seconds**": {
+    "translation": "去神罗基地的飞船30秒后到达"
+  },
+  "**The airship is right here...**": {
+    "translation": "飞船到了..."
+  },
+  "[Cloud] Hold on! I will take you on the airship.. And then we will go to Shinra base.": {
+    "translation": "[克劳德] 坚持住!我会带你上飞船..然后我们去神罗基地."
+  },
+  "[Cloud] Red-XIII will stay here and will help to reestablish the Village.": {
+    "translation": "[克劳德] 赤红十三会留在这里帮助重建村庄."
+  },
+  "**A player has picked up FIRE materia**": {
+    "translation": "玩家获得了火焰"
+  },
+  "**Zombie cactus has been picked up**": {
+    "translation": "仙人掌已被拾起"
+  }
+}

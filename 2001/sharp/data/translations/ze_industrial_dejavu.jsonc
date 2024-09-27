@@ -1,0 +1,190 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Resist for 30 seconds! ***": {
+    "translation": "*** 防守30秒! ***"
+  },
+  "*** Resist for 10 more seconds! ***": {
+    "translation": "*** 再撑10秒! ***"
+  },
+  "*** GO! GO! GO! MOVE OUT! ***": {
+    "translation": "*** 快走! ***"
+  },
+  "*** Door opens in 20 seconds! ***": {
+    "translation": "*** 大门还有20秒打开! ***"
+  },
+  "*** That's what I call a love machinegun! ***": {
+    "translation": "*** 偶我的上帝!这把迷你缸充满着如此多的爱意 ***"
+  },
+  "*** I believe it's time for my four o'clock tea. ***": {
+    "translation": "*** 我想是时候喝四点钟的下午茶了. ***"
+  },
+  "*** 'cause I'm as free as a bird now... ***": {
+    "translation": "*** '因为我现在自由得像只小鸟一样... ***"
+  },
+  "*** Hold the house for 24 seconds! ***": {
+    "translation": "*** 在这座房子防守24秒! ***"
+  },
+  "*** Windows that don't have a wooden plank are breakable! ***": {
+    "translation": "*** 没有用木板加固的窗户非常容易碎 小心! ***"
+  },
+  "*** GO BACK! IT'S GONNA BLOW! ***": {
+    "translation": "*** 回去 它会爆炸的! ***"
+  },
+  "*** Strangely near door opens in 12 seconds. ***": {
+    "translation": "*** 附近的门将在12秒后打开. ***"
+  },
+  "*Laser wall generator has been picked up. Press +USE (E) to activate.*": {
+    "translation": "*激光墙已被拾取.按E即可使用它*"
+  },
+  "*It has a 60 seconds cooldown.*": {
+    "translation": "*它有六十秒的冷却时间.*"
+  },
+  "* Zombie heal has been picked up. Press +USE (E) to activate.*": {
+    "translation": "* 僵尸治疗被拾取.按E即可使用它.*"
+  },
+  "*It has a 90 seconds cooldown.*": {
+    "translation": "*它有九十秒的冷却时间.*"
+  },
+  "* Zombie rage has been picked up. Press +USE (E) to activate.*": {
+    "translation": "* 僵尸狂怒已被拾取.按E即可使用它.*"
+  },
+  "*It has a 120 seconds cooldown.*": {
+    "translation": "*它有一百二十秒的冷却时间.*"
+  },
+  "* Vortex zombie has been summoned. Press +USE (E) to activate.*": {
+    "translation": "* 僵尸旋涡已被拾取.按E即可使用它.*"
+  },
+  "**Flamethrower has been picked up. Press +Use (E) to activate**": {
+    "translation": "**火焰喷射器已被捡起.按E即可使用它**"
+  },
+  "**Fuel lasts about 10 seconds. **": {
+    "translation": "**可持续灼烧僵尸10秒. **"
+  },
+  "*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***": {
+    "translation": "*** 推力已被捡起.按E即可使用它.他有六十秒冷却 ***"
+  },
+  "*Ammo Box has been picked up. Press +USE (E) to activate.*": {
+    "translation": "*弹药已被捡起.按E即可使用它..*"
+  },
+  "*** Boat leaves in 40 seconds. ***": {
+    "translation": "*** 小船将在40秒后启航. ***"
+  },
+  "*** RESIST!!! 10 SECONDS!!!. ***": {
+    "translation": "*** 防守! !还有10秒!!!. ***"
+  },
+  "***Evacuate!!!***": {
+    "translation": "***疏散!!!***"
+  },
+  "*** CURRENT MODE: EXTREME ***": {
+    "translation": "*** 当前模式:EX ***"
+  },
+  "*** ZOMBIE WEAPONS & MASSIVE HEALTH ***": {
+    "translation": "*** 僵尸将拥有全部的武器和大量生命值 ***"
+  },
+  "*** HELPING PUSHES DISABLED ***": {
+    "translation": "*** 哦这可以更好的帮助它们,应该也许好像吧 ***"
+  },
+  "*** CURRENT MODE: HARD ***": {
+    "translation": "*** 当前模式:HARD ***"
+  },
+  "*** ZOMBIE WEAPONS & LARGE HEALTH ***": {
+    "translation": "*** 僵尸将拥有武器和大量生命值 ***"
+  },
+  "*** CURRENT MODE: NORMAL ***": {
+    "translation": "*** 当前模式:NORMAL ***"
+  },
+  "*** ZOMBIE WEAPONS & NORMAL HEALTH ***": {
+    "translation": "*** 僵尸有部分武器和正常的生命值 ***"
+  },
+  "*** EXIT HELP PUSH ACTIVATED ON NORMAL MODE ***": {
+    "translation": "*** 退出帮助按钮将在NORMAL模式下激活 ***"
+  },
+  "*** CURRENT MODE: EASY ***": {
+    "translation": "*** 当前模式:简单 ***"
+  },
+  "*** NO ZOMBIE WEAPONS & REGULAR HEALTH ***": {
+    "translation": "*** 僵尸没有武器和常规的生命值 ***"
+  },
+  "*** HELPING PUSHES ACTIVATED ON EASY MODE ***": {
+    "translation": "*** 帮助推力器已在简单模式下激活 ***"
+  },
+  "*** ZOMBIES DETECTED - INVALID VICTORY ***": {
+    "translation": "*** 检测到僵尸-失败 ***"
+  },
+  "*** RANDOM ZOMBIE WEAPON SPAWNED BY ADMIN ***": {
+    "translation": "*** 管理员已选择僵尸随机武器生产 ***"
+  },
+  "*** RANDOM WEAPON SPAWNED BY ADMIN ***": {
+    "translation": "*** 管理员已选择随机武器生产 ***"
+  },
+  "*** NUKE ACTIVATED BY ADMIN ***": {
+    "translation": "*** 核爆已被管理员激活 ***"
+  },
+  "*** LEVEL CHANGED TO HARD ***": {
+    "translation": "*** 管理员选择了:HARD模式 ***"
+  },
+  "*** LEVEL CHANGED TO EXTREME ***": {
+    "translation": "*** 管理员选择了:EX模式 ***"
+  },
+  "*** LEVEL CHANGED TO NORMAL ***": {
+    "translation": "*** 管理员选择了:NORMAL模式 ***"
+  },
+  "*** LEVEL CHANGED TO EASY ***": {
+    "translation": "*** 管理员选择了:EASY模式 ***"
+  },
+  "*** Well done! Now it will get interesting on the HARD mode! ***": {
+    "translation": "*** 做得好!下一关为HARD模式 HARD模式下地图将会变得更加有趣! ***"
+  },
+  "*** We did it! Moving on to the NORMAL mode! ***": {
+    "translation": "*** 我们成功了!下一关为NORMAL模式! ***"
+  },
+  "*** That was pure luck! Let's see if you are as lucky on EXTREME mode! ***": {
+    "translation": "*** 靠运气过关罢了!让我们看看你在EX模式下是否也这么幸运! ***"
+  },
+  "*** Unbelievable! You won EXTREME mode! ***": {
+    "translation": "*** 难以置信!你通关了EX模式! ***"
+  },
+  "*** The map level will stay on this mode for you to keep playing the hardest difficulty... If you dare. ***": {
+    "translation": "*** 地图关卡将保持这种模式. ***"
+  },
+  "*** Door closes in 8 seconds! ***": {
+    "translation": "*** 8秒后关门! ***"
+  },
+  "*** The boss has been defeated! ***": {
+    "translation": "*** BOSS已被击败! ***"
+  },
+  "*** HOLD! The door opens in 15 seconds!!! ***": {
+    "translation": "*** 守住,大门将在15秒后打开!!! ***"
+  },
+  "*** GO! GO! GO! LET'S LEAVE THIS PLACE! ***": {
+    "translation": "*** 走吧!走吧!走吧!让我们离开这个鬼地方! ***"
+  },
+  "*** ADMIN ENABLED BOSS ***": {
+    "translation": "*** 已启动BOSS ***"
+  },
+  "*** OH NOES!!! IT'S A BOSS WITH STRANGELY FAMILIAR LOOKS!!! ***": {
+    "translation": "*** 它是一个有着奇怪家族风格的BOSS!!!老实说我很不喜欢他的口味 ***"
+  },
+  "*** Bunker door opens in 15 seconds. ***": {
+    "translation": "*** 煤仓门15秒后打开. ***"
+  },
+  "*** HOLD! The bunker will seal in 15 seconds! ***": {
+    "translation": "*** 守住!掩体将在15秒后关门 ***"
+  },
+  "*** Helicopter comes in 30 seconds. ***": {
+    "translation": "*** 直升机将30秒后到达. ***"
+  },
+  "*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***": {
+    "translation": "*** 工业循环 - 最初是一天完成的 ***"
+  }
+}
