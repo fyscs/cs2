@@ -206,10 +206,9 @@
     "buttonClass": "func_button",
     "hammerId": "13489",
     "triggerId": ["13577"],
-    "maxUses": 1,
     "team": 2,
     "knife": true,
-    "mode": 3,
+    "mode": 1,
     "count": 1
   },
   {
