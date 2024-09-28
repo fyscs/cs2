@@ -1,0 +1,190 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> DOOR WILL OPEN IN 20S <<<": {
+    "translation": ">>> 门在20秒后开咯~ <<<"
+  },
+  ">>> !!! WARNING !!! 5S <<<": {
+    "translation": ">>>  还剩5秒  <<<"
+  },
+  ">>> ZOMBIES TELEPORT ENABLE NOW <<<": {
+    "translation": ">>> 僵尸传送点已激活 <<<"
+  },
+  ">>> TELEPORT DISABLE 5S<<<": {
+    "translation": ">>> 传送5秒后禁用<<<"
+  },
+  ">>> RUN <<<": {
+    "translation": ">>> 该跑了 吸血鬼们~ <<<"
+  },
+  "****> Music: Position Music - Dark Walk Album (Epic Action Dramatic Music)  - EpicMusicVn)  <****": {
+    "translation": "****> 音乐 Position Music - Dark Walk Album (Epic Action Dramatic Music)  - EpicMusicVn)  <****"
+  },
+  "****> Music: OST Resident Evil_ Extinction  Charlie Clouser - Convoy (Remix)  <****": {
+    "translation": "****> 音乐 OST Resident Evil_ Extinction  Charlie Clouser - Convoy (Remix)  <****"
+  },
+  "****> Music: Zack Hemsey  -  Mind Heist  <****": {
+    "translation": "****> 音乐: Zack Hemsey  -  Mind Heist  <****"
+  },
+  "****> Music: The Dark Knight Rises  <****": {
+    "translation": "****> 音乐: The Dark Knight Rises  <****"
+  },
+  "****> Music: Inception (2010) Mombasa Suite (Soundtrack OST)  <****": {
+    "translation": "****> 音乐 Inception (2010) Mombasa Suite (Soundtrack OST)  <****"
+  },
+  ">>> !!! WARNING !!! THE NUCLEAR ROOM'S VENT HAS BEEN BROKEN <<<": {
+    "translation": ">>> 哎呀 这里马上要爆炸了 里昂们快跑啊 <<<"
+  },
+  ">>>  USE THE FORK TO FORCE THE SECURITY DOOR <<<": {
+    "translation": ">>>  想办法把警卫室的门打开 <<<"
+  },
+  ">>> ZOMBIES HAVE TO WAIT 5S BEFORE THE NUCLEAR ROOM OPENS <<<": {
+    "translation": ">>> 僵尸我知道你很急 再等五秒才能开饭哦~ <<<"
+  },
+  ">>> THE MINES WILL BLOW UP IN 30S <<<": {
+    "translation": ">>> 大雷在30秒后爆炸 你猜猜大雷有没有伤害 <<<"
+  },
+  ">>> THE MINE WILL BLOW UP IN 30S <<<": {
+    "translation": ">>> 墙在30秒后炸开 <<<"
+  },
+  ">>> SHOOT WINDOW TO ACCESS TO THE FIRE EXTINGUISHER  <<<": {
+    "translation": ">>> 打碎橱窗 拿出灭火器灭火  <<<"
+  },
+  ">>> SHOOT THE WOODEN WALL    <<<": {
+    "translation": ">>> 把木墙射爆~    <<<"
+  },
+  ">>> SHOOT THE ELEVATOR CEILING TO ACCESS THE CONTROL ROOM <<<": {
+    "translation": ">>> 射爆天花板 然后爬上去触发啊 僵尸们头要被刷麻了 <<<"
+  },
+  ">>> PRINCIPAL DOOR AT SPAWN JUST BLOW UP <<<": {
+    "translation": ">>> 出生点的大门爆炸了 <<<"
+  },
+  ">>> THE SECURITY DOORS WILL BLOW UP IN 30S <<<": {
+    "translation": ">>> 门在30秒后打开 <<<"
+  },
+  ">>> !!! SHOOT THE GLASS UPON THE WINDOW !!!  <<<": {
+    "translation": ">>> 快tm把窗户射爆 别卡脚了哦  <<<"
+  },
+  "****> Music: Metal Gear Solid OST : Escape  <****": {
+    "translation": "****> 哎 怎么感觉头皮好凉啊  <****"
+  },
+  ">>>!!! WARNING !!! 5S <<<": {
+    "translation": ">>>  还剩5秒  <<<"
+  },
+  ">>> THE FINAL DOOR WILL START OPENING IN 35S <<<": {
+    "translation": ">>> 最终大门在35秒后打开 烂分就在眼前 <<<"
+  },
+  ">>> WE'RE HACKING SECURITY DOOR, HOLD HERE FOR 30S <<<": {
+    "translation": ">>> 指挥在下载小电影 里昂们再等个30秒吧 <<<"
+  },
+  ">>> !!! WARNING !!! WOODEN WALL WILL BREAK IN 15S <<<": {
+    "translation": ">>> 小心哦 木板在15秒后就碎了哦 <<<"
+  },
+  ">>> !!! FIRE EXTINGUISHED IN 5S!!! <<<": {
+    "translation": ">>> 大火在5秒后扑灭 <<<"
+  },
+  ">>> THE FIRE WILL BE MASTERED IN 30S   <<<": {
+    "translation": ">>> 大火在30秒后扑灭   <<<"
+  },
+  "****> Map created By GroSSoMineTTo <****": {
+    "translation": "****> 地图作者 GroSSoMineTTo 翻译夜里很饿@风云社 <****"
+  },
+  "****> Thanks to ZombieUnlimited community <****": {
+    "translation": "****> 感谢 ZombieUnlimited 社区 <****"
+  },
+  "****> Special thanks to BloodyKiller,Icecream & Moltard <****": {
+    "translation": "****> 特别感谢以下人员 BloodyKiller,Icecream & Moltard <****"
+  },
+  ">>> !!! WARNING !!! 5S LEFT <<<": {
+    "translation": ">>> 还剩5秒 <<<"
+  },
+  ">>> HOLD FOR 30S ON THE TRUCK <<<": {
+    "translation": ">>> 守住30秒 别被爆菊了~ <<<"
+  },
+  ">>> ESCAPE ON THE ROOF, GOODLUCK HUMANS <<<": {
+    "translation": ">>> 快跑啊 里昂们 呲溜呲溜呲溜 <<<"
+  },
+  ">>> THE SECURITY DOOR WILL OPEN IN 5S <<<": {
+    "translation": ">>> 门在5秒后打开 <<<"
+  },
+  ">>> WAIT 20S BEFORE THE FENCE BLOWS UP <<<": {
+    "translation": ">>> 猜猜20秒后这油桶会不会炸死人 <<<"
+  },
+  ">>> ZOMBIES HAVE TO WAIT 5S BEFORE THE DOOR RE-OPENS <<<": {
+    "translation": ">>> 僵尸还得等个5秒 你先别急 <<<"
+  },
+  ">>> HOLD THIS POSITION FOR 30S <<<": {
+    "translation": ">>> 守住这里30秒 <<<"
+  },
+  ">>> !!! WARNING !!! 5S <<": {
+    "translation": ">>> 还剩5秒 <<<"
+  },
+  ">>> HUMANS HAVE TO COVER FOR 50S, GOOD LUCK <<<": {
+    "translation": ">>> 人类还得再收50秒 你们就吸吧 一吸一个不吱声 <<<"
+  },
+  ">>> !!! WARNING !!! THE ELEVATOR WILL BLOW UP IN 5S <<<": {
+    "translation": ">>> 哎呀 电梯5秒后会发生什么呢 <<<"
+  },
+  ">>> THE ELEVATOR WILL LEAVE IN 15S <<<": {
+    "translation": ">>> 电梯15秒后要跑了哦 <<<"
+  },
+  "****> Maps Created By GroSSo MineTTo<****": {
+    "translation": "****> 吸血作者:GroSSo MineTTo 翻译夜里很饿@风云社<****"
+  },
+  ">>> KILL ALL ZOMBIES IN THE CAGE <<<": {
+    "translation": ">>> 给我狠狠的刷尸笼 <<<"
+  },
+  ">>> THE HELICOPTER LEAVING NOW <<<": {
+    "translation": ">>> 牢大飞走了 他肘了一生终于肘开了飞机门 <<<"
+  },
+  ">>> THE HELICOPTER WILL LEAVE IN 30S <<<": {
+    "translation": ">>> 牢大30秒接我们走了 MAN <<<"
+  },
+  ">>> CONTROL TOWER DOOR IN CORRIDOR WILL OPEN IN 5S, THE WINDOW UPON THE DOOR WILL AUTOMATICALLY BREAK <<<": {
+    "translation": ">>> 门在5秒后打开 门上的窗户自动打破 <<<"
+  },
+  ">>> THE DOOR TO ACCESS CONTROL TOWER WILL CLOSE IN 5S <<<": {
+    "translation": ">>> 门还有5秒就关了哦~ <<<"
+  },
+  ">>> RUN  <<<": {
+    "translation": ">>> XX指挥 撤退也不说 后面忘了  <<<"
+  },
+  ">>> THE CONTROL TOWER DOOR WILL OPEN IN 30S <<<": {
+    "translation": ">>> 控制塔的门在30秒后打开 <<<"
+  },
+  ">>> THE TYROLEAN DOOR WILL RE-OPEN IN 5S <<<": {
+    "translation": ">>> 防火门在5秒后重新打开 <<<"
+  },
+  ">>> THE TYROLEAN DOOR WILL OPEN IN 30S <<<": {
+    "translation": ">>> 防火门在30秒后打开 <<<"
+  },
+  ">>> THE COMMAND ROOM DOOR WILL RE-OPEN IN 5S <<<": {
+    "translation": ">>> 指挥室的门在5秒后重新打开 <<<"
+  },
+  ">>> THE WINDOW AND WALL WILL BLOW UP IN 30S <<<": {
+    "translation": ">>> 窗户30秒后打开 有没有洛杉矶糊人上去展示一下( <<<"
+  },
+  ">>> THE CONTAINER DOOR WILL OPEN IN 5 S, THE WALL UPON THE WARHOUSE DOOR WILL BREAK UP IN 5S <<<": {
+    "translation": ">>> 集装箱门在五秒后打开 仓库门上的墙壁在五秒后裂开 <<<"
+  },
+  ">>> THE WARHOUSE DOOR WILL OPEN IN 20 SECONDS <<<": {
+    "translation": ">>> 仓库大门在20秒后打开 <<<"
+  },
+  ">>> THE SECURITY DOOR WILL OPEN IN 20S <<<": {
+    "translation": ">>> 萌新不妙门在20后打开 <<<"
+  },
+  ">>> !!! WARNING !!! SECURITY DOOR WILL CLOSE IN 5S <<<": {
+    "translation": ">>> 哎呀 门还有5秒就关了哦~ <<<"
+  },
+  ">>> THE PRINCIPAL DOOR IS OPENING RIGHT NOW <<<": {
+    "translation": ">>> 僵尸出生点大门要打开了哦 <<<"
+  }
+}
