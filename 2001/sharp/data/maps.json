@@ -1149,7 +1149,7 @@
     "nomination": false,
     "admin": false
   },
-    "ze_nuke_p": {
+  "ze_nuke_p": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
