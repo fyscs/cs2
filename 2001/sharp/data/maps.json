@@ -1149,7 +1149,14 @@
     "nomination": false,
     "admin": false
   },
-  "ze_nuke_p": {
+    "ze_nuke_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false
+  },
+  "ze_nuclear_site_survie_by_gm": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
