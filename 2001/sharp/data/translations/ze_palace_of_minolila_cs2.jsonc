@@ -176,13 +176,10 @@
     "translation": "<< 按钮似乎已经坏了 >>"
   },
   "<< Be careful!!! Do not press it again!!! Try to find another button!!!>>": {
-    "translation": "<< 当心！不要再继续按了,尝试寻找另一个按钮吧！！>"
+    "translation": "<< 当心!不要再继续按了,尝试寻找另一个按钮吧!>"
   },
   "<< 按钮似乎已经坏了 >>": {
     "translation": "<< 按钮似乎已经坏了 >>"
-  },
-  "<< 当心！不要再继续按了,尝试寻找另一个按钮吧！！>>": {
-    "translation": "<< 当心！不要再继续按了,尝试寻找另一个按钮吧！！>>"
   },
   "<< Door will open in 20 seconds >>": {
     "translation": "<<大门将在20秒后打开>"
@@ -311,7 +308,7 @@
     "translation": "???: 你忘记我是谁了吗?我们在黑石城可是见过一面的哦~"
   },
   "### ???: Thats right, I'm Dr.X, the mayor of the black stone city ###": {
-    "translation": "???: 没错,我是黑石城的市长X博士。"
+    "translation": "???: 没错,我是黑石城的市长X博士"
   },
   "### Dr.X: I never think that you can survive from that ruin ###": {
     "translation": "X博士: 我从没想过你能从那场废墟之中存活下来"
