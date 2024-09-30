@@ -48,7 +48,7 @@
   },
   "**Increasing zombie speed**": {
     "translation": "**僵尸开启了加速**",
-    "blocked":true
+    "blocked": true
   },
   "** Zombie reached the end **": {
     "translation": "** 僵尸到达了终点 **"
