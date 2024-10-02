@@ -196,13 +196,13 @@
     "count": 1
   },
   {
-    "name": "勇士",
-    "shortName": "勇士",
+    "name": "魔卫",
+    "shortName": "魔卫",
     "buttonClass": "game_ui",
     "hammerId": "6698",
     "triggerId": ["6696"],
     "cooldown": 0,
-    "team": 2,
+    "team": 3,
     "knife": true,
     "mode": 1,
     "count": 1
