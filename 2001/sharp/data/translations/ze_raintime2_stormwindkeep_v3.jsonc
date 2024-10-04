@@ -11,10 +11,10 @@
 
 {
   "<--A player picked up the gao da-->": {
-    "translation": "<--玩家成为了白骑士-->"
+    "translation": "<-- 一位玩家成为了白骑士-->"
   },
   "<-- A player picked up the Incendiary Feather Immortal -- >": {
-    "translation": "<-- 玩家成为了符华 -- >"
+    "translation": "<-- 一位玩家成为了符华 -- >"
   },
   "** Start difficult mode **": {
     "translation": "** 开启困难模式 **"
@@ -23,7 +23,7 @@
     "translation": "** 僵尸突破了大门,人类失败 **"
   },
   "***you win***": {
-    "translation": "***通过***"
+    "translation": "***你!过!关!***"
   },
   "** 20s **": {
     "translation": "** 坚持20秒 **"
@@ -47,7 +47,8 @@
     "translation": "** 30s **"
   },
   "**Increasing zombie speed**": {
-    "translation": "**Increasing zombie speed**"
+    "translation": "**僵尸开启了加速**",
+    "blocked": true
   },
   "** Zombie reached the end **": {
     "translation": "** 僵尸到达了终点 **"
@@ -68,13 +69,13 @@
     "translation": "** 死者不会让你走 **"
   },
   "** To kill re be killed by him **": {
-    "translation": "** To kill re be killed by him **"
+    "translation": "**打败他,亦或者被他打败**"
   },
   "** greedy human beings **": {
     "translation": "** 贪婪的人类啊 **"
   },
   "** you must pay! **": {
-    "translation": "** 你必须给馒头! **"
+    "translation": "** 你必须要为此付出代价! **"
   },
   "** The guardians will bury you with their lives **": {
     "translation": "** 守卫者将会把你们埋葬于此 **"
@@ -89,7 +90,7 @@
     "translation": "** 守护者:expe **"
   },
   "** Guardian:earthquake **": {
-    "translation": "** Guardian:earthquake **"
+    "translation": "** 守护者:地震 **"
   },
   "** Call of the dead **": {
     "translation": "** 亡灵的呼唤 **"
@@ -128,7 +129,7 @@
     "translation": "** Boss释放了地震 **'"
   },
   "** Boss released the lightning **": {
-    "translation": "** Boss 释放了闪电 **"
+    "translation": "** Boss释放了闪电 **"
   },
   "** Boss releases the blade of hell **": {
     "translation": "** Boss释放了地狱之刃 **"
@@ -191,7 +192,7 @@
     "translation": "** 尝试爆破,还有25秒 **"
   },
   "** ??????30s???????????? **": {
-    "translation": "** ??????30s???????????? **"
+    "translation": "**30s**"
   },
   "** Break the wooden door after 40 seconds **": {
     "translation": "** 木门40秒后破开 **"
@@ -206,7 +207,7 @@
     "translation": "** 25s **"
   },
   "***please hold on***": {
-    "translation": "***请稍等***"
+    "translation": "***再坚持一下***"
   },
   "***hold on 30s***": {
     "translation": "***等待30秒***"
@@ -257,7 +258,7 @@
     "translation": "** 门开了,撤退 **"
   },
   "** Route change, drag the zombie for 30 seconds **": {
-    "translation": "** 改变路线,拖猪僵尸30秒 **"
+    "translation": "** 改变路线,拖住僵尸30秒 **"
   },
   "** Open the road in 25 seconds and hold your ground! **": {
     "translation": "** 在 25 秒内打开道路并坚守阵地! **"
@@ -302,7 +303,7 @@
     "translation": "** 木门30秒后开启,即将启动最终的传送 **"
   },
   "<<< ?????????????????????_ >>>": {
-    "translation": "<<< ?????????????????????_ >>>"
+    "translation": "<<< ????????????????????? >>>"
   },
   "** The switch has been pressed. Retreat **": {
     "translation": "** 按钮已按下,撤退 **"
