@@ -1,0 +1,70 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> BOSS DIED !!! <<<": {
+    "translation": ">>>Boss死了!<<<"
+  },
+  ">>> LASER BOSS FIGHT !!! <<<": {
+    "translation": ">>> LASER BOSS FIGHT !!! <<<"
+  },
+  ">>> BOSS FIGHT IN 8 SECONDS <<<": {
+    "translation": ">>>Boss战还有8秒<<<"
+  },
+  ">>> BOSS FIGHT !!! <<<": {
+    "translation": ">>>Boss战!<<<"
+  },
+  ">>> TIME IS OVER !!! <<<": {
+    "translation": ">>>时间到了!<<<"
+  },
+  ">>> ZOMBIES COME OUT AT 20 SECONDS <<<": {
+    "translation": ">>>僵尸们将在20秒后来袭<<<"
+  },
+  ">>> ZOMBIES ARE OUT !!! <<<": {
+    "translation": ">>>僵尸们出笼了!<<<"
+  },
+  ">>> ZOMBIES COME OUT AT 30 SECONDS <<<": {
+    "translation": ">>>僵尸们将在30秒后来袭<<<"
+  },
+  ">>> PLATFORM WILL OPEN IN 46 SECONDS <<<": {
+    "translation": ">>>前方平台还有46秒上升<<<"
+  },
+  ">>> AFK TELEPORT IN 30 SECONDS <<<": {
+    "translation": ">>>挂机玩家将在30秒后传送<<<"
+  },
+  ">>> MAP BY PIROTEXNIK <<<": {
+    "translation": ">>>地图作者:PIROTEXNIK 翻译:creeper_kk<<<"
+  },
+  ">>> HOLD 50 SECONDS <<<": {
+    "translation": ">>>守住50秒!<<<"
+  },
+  ">>> ZOMBIES COME OUT AT 25 SECONDS <<<": {
+    "translation": ">>>僵尸们将在25秒后出笼<<<"
+  },
+  ">>> HOLD 53 SECONDS <<<": {
+    "translation": ">>>守住53秒<<<"
+  },
+  ">>> HOLD 55 SECONDS <<<": {
+    "translation": ">>>守住55秒<<<"
+  },
+  ">>> 15 SECONDS LEFT !!! <<<": {
+    "translation": ">>>15秒<<<"
+  },
+  ">>> SURVIVOR LOSED !!! <<<": {
+    "translation": ">>>你们输了!!! <<<"
+  },
+  ">>> BEHIND !!! <<<": {
+    "translation": ">>> 看后面,僵尸 !!! <<<"
+  },
+  ">>> KILL ALL THE ZOMBIES! !!! <<<": {
+    "translation": ">>> 击杀剩余的僵尸! !!! <<<"
+  }
+}
