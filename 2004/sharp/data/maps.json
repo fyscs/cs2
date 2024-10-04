@@ -215,5 +215,12 @@
     "cooldown": 10,
     "nomination": false,
     "admin": false
+  },
+  "mg_kyxnya_cs2": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false
   }
 }
