@@ -448,7 +448,7 @@
     "nomination": true,
     "admin": false
   },
-  "ze_elevator_escape_p": {
+  "ze_easy_escape_v4": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
@@ -1640,6 +1640,13 @@
     "admin": false
   },
   "ze_stab_town_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false
+  },
+  "ze_sst2_p": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
