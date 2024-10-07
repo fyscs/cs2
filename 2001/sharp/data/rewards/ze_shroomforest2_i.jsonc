@@ -28,5 +28,9 @@
   "6": {
     "rankPasses": 8,
     "econPasses": 8
+  },
+  "7": {
+    "rankPasses": 10,
+    "econPasses": 10
   }
 }
