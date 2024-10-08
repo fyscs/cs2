@@ -1,4 +1,11 @@
 {
+   "ttt_cs2_tumbleweed_v1_3": {
+    "certainTimes": [-1],
+    "price": 250,
+    "cooldown": 15,
+    "nomination": false,
+    "admin": false
+  },
   "ttt_cs2_dust2_night": {
     "certainTimes": [-1],
     "price": 250,
