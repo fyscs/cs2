@@ -1,0 +1,403 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<": {
+    "translation": "<< 僵尸拾起了 隐身 <<"
+  },
+  ">>> PLAYER HAS PICKED UP ZOMBIE DRUG <<<": {
+    "translation": "<< 僵尸拾起了 致盲 <<"
+  },
+  ">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<": {
+    "translation": "<< 僵尸拾起了 黑洞 <<"
+  },
+  ">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<": {
+    "translation": "<< 僵尸拾起了 巫毒 <<"
+  },
+  ">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<": {
+    "translation": "<< 僵尸拾起了 烈火 <<"
+  },
+  ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<": {
+    "translation": "<< 僵尸拾起了 恢复 <<"
+  },
+  ">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<": {
+    "translation": "<< 僵尸拾起了 秒杀 <<"
+  },
+  ">>> PLAYER HAS PICKED UP AMMO <<<": {
+    "translation": "<< 玩家获得了 弹药补给 <<"
+  },
+  ">>> PLAYER HAS PICKED UP KILLER <<<": {
+    "translation": "<< 玩家获得了 终极魔法 <<"
+  },
+  ">>> PLAYER HAS PICKED UP HEDGE <<<": {
+    "translation": "<< 玩家获得了 墙魔法 <<"
+  },
+  ">>> PLAYER HAS PICKED UP PUSH <<<": {
+    "translation": "<< 玩家获得了 风魔法 <<"
+  },
+  ">>> PLAYER HAS PICKED UP LIGHTNING <<<": {
+    "translation": "<< 玩家获得了 雷电魔法 <<"
+  },
+  ">>> PLAYER HAS PICKED UP HEAL <<<": {
+    "translation": "<< 玩家获得了 治疗魔法 <<"
+  },
+  ">>> PLAYER HAS PICKED UP ICE <<<": {
+    "translation": "<< 玩家获得了 冰魔法 <<"
+  },
+  ">>> PLAYER HAS PICKED UP FIRE <<<": {
+    "translation": "<< 玩家获得了 火魔法 <<"
+  },
+  ">>> PLAYER HAS PICKED UP GRAVITY <<<": {
+    "translation": "<< 玩家获得了 重力魔法 <<"
+  },
+  ">>> ENTRANCE DOOR OPENING <<<": {
+    "translation": "入口大门正在打开"
+  },
+  ">>> SPIDER IS COMING <<<": {
+    "translation": "<蜘蛛>就要来了"
+  },
+  ">>> DRAGON IS COMING <<<": {
+    "translation": "<暴龙>就要来了"
+  },
+  ">>> TROLL IS COMING <<<": {
+    "translation": "<巨魔>就要来了"
+  },
+  ">>> BALROG USE LASER <<<": {
+    "translation": "<炎魔>使用了跳刀,蹲下"
+  },
+  ">>> BALROG USED KILLER <<<": {
+    "translation": "<炎魔>使用了终极,到后面去"
+  },
+  ">>> BALROG USED FIRE <<<": {
+    "translation": "<炎魔>使用了烈焰"
+  },
+  ">>> BALROG USED PUSH <<<": {
+    "translation": "<炎魔>使用了风暴,抵抗"
+  },
+  ">>> BALROG USED GRAVITY <<<": {
+    "translation": "<炎魔>使用了重力,不要靠近"
+  },
+  ">>> BALROG USED POISON <<<": {
+    "translation": "<炎魔>使用了蛊毒"
+  },
+  ">>> BALROG IS COMING <<<": {
+    "translation": "<炎魔>就要来了"
+  },
+  ">>> GARGANTUA IS COMING KEEP RUNNING <<<": {
+    "translation": "<泰坦>要来了,快跑"
+  },
+  ">>> SHOOT DRAGON <<<": {
+    "translation": "快打龙!!"
+  },
+  ">>> BRIDGE IS BROKEN <<<": {
+    "translation": ">> 桥断了 <<"
+  },
+  ">>> BALROG IS BACK <<<": {
+    "translation": ">> 炎魔回来了 <<"
+  },
+  ">>> HOLD 10 SECONDS <<<": {
+    "translation": "还有10秒"
+  },
+  ">>> HOLD 20 SECONDS <<<": {
+    "translation": "还有20秒"
+  },
+  ">>> AFK TELEPORT IN 5 SECONDS <<<": {
+    "translation": "AFK传送还有5秒生效"
+  },
+  ">>> IT'S DRAGON <<<": {
+    "translation": ">> 是龙 >>"
+  },
+  ">>> LOADING KILLER 20 SECONDS <<<": {
+    "translation": ">> 终极还有20秒爆炸 >>"
+  },
+  ">> LOADING KILLER 10 SECONDS <<<": {
+    "translation": ">> LOADING KILLER 10 SECONDS <<<",
+    "blocked": true
+  },
+  ">> LOADING KILLER 5 SECONDS <<<": {
+    "translation": ">> LOADING KILLER 5 SECONDS <<<",
+    "blocked": true
+  },
+  ">>> HOLD 25 SECONDS <<<": {
+    "translation": "等待25秒"
+  },
+  ">>> AFK TELEPORT IN 10 SECONDS <<<": {
+    "translation": "AFK传送还有10秒生效"
+  },
+  ">>> HOLD 5 SECONDS <<<": {
+    "translation": "还有5秒"
+  },
+  ">>> HOLD 15 SECONDS <<<": {
+    "translation": "还有15秒"
+  },
+  ">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<": {
+    "translation": "传送器还有20秒激活"
+  },
+  ">>> DOOR CLOSING <<<": {
+    "translation": ">> 门正在关闭 <<"
+  },
+  ">>> HOLD 30 SECONDS <<<": {
+    "translation": "还有30秒"
+  },
+  ">>> HOLD 35 SECONDS <<<": {
+    "translation": "还有35秒"
+  },
+  ">>> 5 SECONDS REMAINING. DON'T DELAY <<<": {
+    "translation": ">>> 5 SECONDS REMAINING. DON'T DELAY <<<",
+    "blocked": true
+  },
+  ">>> RUN <<<": {
+    "translation": ">> 快跑!! >>"
+  },
+  ">>> IT'S BALROG <<<": {
+    "translation": ">> 是炎魔! >>"
+  },
+  ">>> BALROG IS ESCAPED <<<": {
+    "translation": "炎魔逃跑了"
+  },
+  ">>> HOLD 40 SECONDS <<<": {
+    "translation": "坚持40秒"
+  },
+  ">>> HOLD 15 SECONDS<<<": {
+    "translation": "还有15秒"
+  },
+  ">>> NOOB TRASHED <<<": {
+    "translation": "<< 菜鸟退避 <<"
+  },
+  ">>> HOLD 45 SECONDS <<<": {
+    "translation": "还有45秒"
+  },
+  ">>> STAGE 1 <<<": {
+    "translation": ">> 关卡 一 >>"
+  },
+  ">>> STAGE 2 <<<": {
+    "translation": ">> 关卡 二 >>"
+  },
+  ">>> STAGE 3 <<<": {
+    "translation": ">> 关卡 三 >>"
+  },
+  ">>> STAGE 4 <<<": {
+    "translation": ">> 关卡 四 >>"
+  },
+  ">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<": {
+    "translation": ">> 传送将于10秒后启动 >>"
+  },
+  ">>> STAGE 5 <<<": {
+    "translation": ">> 关卡 五 >>"
+  },
+  ">>> Map by Moray <<<": {
+    "translation": "地图制作:Moray 文本翻译:Lia"
+  },
+  ">>> Thanks to nano (Help & Ideas) <<<": {
+    "translation": "> 感谢Nano的创意与帮助 >"
+  },
+  ">>> ADMIN CHANGED TO STAGE 1 <<<": {
+    "translation": ">> 管理员设定至 关卡一 >>"
+  },
+  ">>> ADMIN CHANGED TO STAGE 2 <<<": {
+    "translation": ">> 管理员设定至 关卡二 >>"
+  },
+  ">>> ADMIN CHANGED TO STAGE 3 <<<": {
+    "translation": ">> 管理员设定至 关卡三 >>"
+  },
+  ">>> ADMIN CHANGED TO STAGE 4 <<<": {
+    "translation": ">> 管理员设定至 关卡四 >>"
+  },
+  ">>> ADMIN CHANGED TO STAGE 5 <<<": {
+    "translation": ">> 管理员设定至 关卡五 >>"
+  },
+  ">>> FAIL ROUND <<<": {
+    "translation": "<<< 回合失败 <<<"
+  },
+  ">>> STAGE 1 COMPLETED <<<": {
+    "translation": ">> 第一关已完成 >>"
+  },
+  ">>> STAGE 4 COMPLETED <<<": {
+    "translation": ">> 第四关已完成 >>"
+  },
+  ">>> STAGE 5 COMPLETED <<<": {
+    "translation": ">> 第五关已完成 >>"
+  },
+  ">>> STAGE 2 COMPLETED <<<": {
+    "translation": ">> 第二关已完成 >>"
+  },
+  ">>> STAGE 3 COMPLETED <<<": {
+    "translation": ">> 第三关已完成 >>"
+  },
+  ">>> GARGANTUA USED KILLER. GO SIDE <<<": {
+    "translation": "<泰坦>使用了终极,去边缘"
+  },
+  ">>> GARGANTUA USED FIRE <<<": {
+    "translation": "<泰坦>使用了火焰"
+  },
+  ">>> GARGANTUA USED ICE <<<": {
+    "translation": "<泰坦>使用了寒冰"
+  },
+  ">>> GARGANTUA USED PUSH <<<": {
+    "translation": "<泰坦>使用了暴风"
+  },
+  ">>> GARGANTUA USED POISON <<<": {
+    "translation": "<泰坦>使用了毒"
+  },
+  ">>> GARGANTUA USED GRAVITY <<<": {
+    "translation": "<泰坦>使用了黑洞"
+  },
+  ">>> GARGANTUA IS COMING <<<": {
+    "translation": "<泰坦>要来了"
+  },
+  ">>> ADMIN PRESSED KILL ALL BUTTON <<<": {
+    "translation": ">> 管理员正在重启回合 >>"
+  },
+  ">>> WARMUP ROUND 40 SECONDS REMAINING <<<": {
+    "translation": "<热身回合> 还有40秒"
+  },
+  ">>> WARMUP ROUND 30 SECONDS REMAINING <<<": {
+    "translation": ">>> WARMUP ROUND 30 SECONDS REMAINING <<<",
+    "blocked": true
+  },
+  ">>> WARMUP ROUND 20 SECONDS REMAINING <<<": {
+    "translation": ">>> WARMUP ROUND 20 SECONDS REMAINING <<<",
+    "blocked": true
+  },
+  ">>> WARMUP ROUND 10 SECONDS REMAINING <<<": {
+    "translation": ">>> WARMUP ROUND 10 SECONDS REMAINING <<<",
+    "blocked": true
+  },
+  ">>> WARMUP ROUND END <<<": {
+    "translation": "<热身回合> 结束"
+  },
+  ">>> BREAK STATUE TO GET ITEM <<<": {
+    "translation": ">> 击碎雕像,获取神器 >>"
+  },
+  ">>> BALROG USED SHIELD <<<": {
+    "translation": "<炎魔>使用了护盾"
+  },
+  ">>> BALROG USED HEAL <<<": {
+    "translation": "<炎魔>使用了治疗"
+  },
+  ">>> ALL ZM ITEMS IS DISABLED <<<": {
+    "translation": ">> [ZM]神器已禁用 >>"
+  },
+  ">>> SHOOT GARGANTUA <<<": {
+    "translation": "快射击!!"
+  },
+  ">>> SPIDER IS DEFEATED <<<": {
+    "translation": "已击败<蜘蛛>"
+  },
+  ">>> DRAGON IS DEFEATED <<<": {
+    "translation": "已击败<暴龙>"
+  },
+  ">>> GATE OPENING IN 10 SECONDS <<<": {
+    "translation": "大门还有10秒打开"
+  },
+  ">>> GARGANTUA IS DEFEATED <<<": {
+    "translation": "已击败<泰坦>"
+  },
+  ">>> BALROG IS DEFEATED <<<": {
+    "translation": "已击败<炎魔>"
+  },
+  ">>> DRAGON IS DEFEATED KEEP RUNNING <<<": {
+    "translation": "已击败暴龙,快走"
+  },
+  ">>> SPIDER USED POISON <<<": {
+    "translation": "<蜘蛛>使用了浮毒"
+  },
+  ">>> DRAGON USED FIRE <<<": {
+    "translation": "<暴龙>使用了火焰"
+  },
+  ">>> DRAGON USED GRAVITY <<<": {
+    "translation": "<暴龙>使用了重力"
+  },
+  ">>> DRAGON USED POISON <<<": {
+    "translation": "<暴龙>使用了毒"
+  },
+  ">>> DRAGON USED WATER <<<": {
+    "translation": "<暴龙>使用了水"
+  },
+  ">>> DRAGON USED PUSH <<<": {
+    "translation": "<暴龙>使用了推力"
+  },
+  ">>> GATE OPENING IN 5 SECONDS <<<": {
+    "translation": "还有5秒"
+  },
+  ">>> TROLL IS DEFEATED <<<": {
+    "translation": "已击败<巨魔>"
+  },
+  ">>> STAGE 6 <<<": {
+    "translation": ">> 关卡 六 >>"
+  },
+  ">>> SURVIVE 4 MINUTES <<<": {
+    "translation": "<生存>四分钟"
+  },
+  ">>> 3 MINUTES LEFT <<<": {
+    "translation": "还有三分钟"
+  },
+  ">>> 2 MINUTES LEFT <<<": {
+    "translation": "还有二分钟"
+  },
+  ">>> 1 MINUTES LEFT <<<": {
+    "translation": "还有60秒"
+  },
+  ">>> 30 SECONDS LEFT <<<": {
+    "translation": ">>> 30 SECONDS LEFT <<<",
+    "blocked": true
+  },
+  ">>> 20 SECONDS LEFT <<<": {
+    "translation": ">>> 20 SECONDS LEFT <<<",
+    "blocked": true
+  },
+  ">>> 10 SECONDS LEFT <<<": {
+    "translation": ">>> 10 SECONDS LEFT <<<",
+    "blocked": true
+  },
+  ">>> 5 <<<": {
+    "translation": ">>> 5 <<<",
+    "blocked": true
+  },
+  ">>> 4 <<<": {
+    "translation": ">>> 4 <<<",
+    "blocked": true
+  },
+  ">>> 3 <<<": {
+    "translation": ">>> 3 <<<",
+    "blocked": true
+  },
+  ">>> 2 <<<": {
+    "translation": ">>> 2 <<<",
+    "blocked": true
+  },
+  ">>> 1 <<<": {
+    "translation": ">>> 1 <<<",
+    "blocked": true
+  },
+  ">>> TELEPORTED TO CASTLE GET OUT<<<": {
+    "translation": ">> 已传送至城堡,快离开这里 >>"
+  },
+  ">>> ADMIN CHANGED TO STAGE 6 <<<": {
+    "translation": ">> 管理员设定至 关卡六 >>"
+  },
+  ">>> STAGE 6 COMPLETED <<<": {
+    "translation": ">> 第六关已完成 >>"
+  },
+  ">>> AFK TELEPORT IN 3 SECONDS <<<": {
+    "translation": "AFK传送还有3秒生效"
+  },
+  "*** Defeat the boss within 20 seconds! ***": {
+    "translation": ">> 在20秒内击杀泰坦 <<"
+  },
+  "*** Defeat the boss within 10 seconds! ***": {
+    "translation": "*** Defeat the boss within 10 seconds! ***",
+    "blocked": true
+  },
+  "*** failed to defeat the boss ***": {
+    "translation": ">> 失败 >>"
+  }
+}
