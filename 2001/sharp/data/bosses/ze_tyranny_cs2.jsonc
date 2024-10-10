@@ -72,6 +72,27 @@
       "counter": "bosslvl1_counter3",
       "hitbox": "bosslvl1_hit",
       "display": "Spider"
+    },
+    {
+      "iterator": "bosslvl5_counter1",
+      "backup": "bosslvl5_counter2",
+      "counter": "bosslvl5_counter3",
+      "hitbox": "bosslvl5_hit",
+      "display": "Balrog"
+    },
+    {
+      "iterator": "bosslvl3_end_counter1",
+      "backup": "bosslvl3_end_counter2",
+      "counter": "bosslvl3_end_counter3",
+      "hitbox": "bosslvl3_end_dragon_hit",
+      "display": "Dragon"
+    },
+    {
+      "iterator": "bosslvl3_counter1",
+      "backup": "bosslvl3_counter2",
+      "counter": "bosslvl3_counter3",
+      "hitbox": "bosslvl3_hit",
+      "display": "Dragon"
     }
   ],
   "Monsters": [
