@@ -29,7 +29,7 @@
     {
       "iterator": "fix2_boss_hp",
       "hitbox": "Ifrit_Phys_Body",
-      "display": "伊弗利特"
+      "display": "杰内西斯"
     },
     {
       "iterator": "lvl2_Gi_Nattak_Counter",
@@ -40,17 +40,19 @@
       "iterator": "fix_boss_hp",
       "hitbox": "Boss_Hitbox",
       "display": "基纳塔克"
-    }
-  ],
-  "Monsters": [
+    },
     {
-      "identity": "4983",
+      "iterator": "Shinra_Jenova_Counter",
+      "hitbox": "Shinra_Jenova_Phys",
       "display": "杰诺瓦"
     },
     {
-      "identity": "4981",
+      "iterator": "Shinra_Shiva_Counter",
+      "hitbox": "Shinra_Shiva_Phys",
       "display": "希瓦"
-    },
+    }
+  ],
+  "Monsters": [
     {
       "identity": "4979",
       "display": "伊弗利特"
