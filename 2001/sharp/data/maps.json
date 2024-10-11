@@ -1322,7 +1322,7 @@
     "price": 550,
     "cooldown": 140,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_panic_escape_p": {
     "certainTimes": [-1],

@@ -158,7 +158,7 @@
     "translation": "<<地心引力>>"
   },
   "<< Boss is using Aurora Veil >>": {
-    "translation": "<<极光屏障>"
+    "translation": "<<极光屏障>>"
   },
   "<< Hold for 15 seconds >>": {
     "translation": "<<守住15秒>>"
@@ -176,13 +176,13 @@
     "translation": "<< 按钮似乎已经坏了 >>"
   },
   "<< Be careful!!! Do not press it again!!! Try to find another button!!!>>": {
-    "translation": "<< 当心!不要再继续按了,尝试寻找另一个按钮吧!>"
+    "translation": "<< 当心!不要再继续按了,尝试寻找另一个按钮吧!>>"
   },
   "<< 按钮似乎已经坏了 >>": {
     "translation": "<< 按钮似乎已经坏了 >>"
   },
   "<< Door will open in 20 seconds >>": {
-    "translation": "<<大门将在20秒后打开>"
+    "translation": "<<大门将在20秒后打开>>"
   },
   "<<现在可以在水下行走了>>": {
     "translation": "<<现在可以在水下行走了>>"
@@ -347,7 +347,7 @@
     "translation": "<<站在中间继续防守>>"
   },
   "<< We will teleport back in 30 seconds >>": {
-    "translation": "<<我们将在30秒内传送回来>>"
+    "translation": "<<我们将在30秒后传送回去>>"
   },
   "<< WTF...... Final 10 seconds!!! Hold on!!! >>": {
     "translation": "<<最后10秒!守住!>>"
@@ -380,7 +380,8 @@
     "translation": "是能量核心!!快开枪把它摧毁了!!"
   },
   "<< Be careful! Zombies will be released in 120 seconds >>": {
-    "translation": "<<小心!僵尸们将在120秒后被释放>>"
+    "translation": "<<小心!僵尸们将在120秒后被释放>>",
+    "blocked": true
   },
   "### ???: Who are you...... ###": {
     "translation": "???: 你是谁..."
@@ -443,7 +444,7 @@
     "translation": "<<僵尸逃脱了...>>"
   },
   "<< Defend for 35 seconds, I will open the door >>": {
-    "translation": "<<守住35秒!>>"
+    "translation": "<<守住35秒>>"
   },
   "<< Door will close in 10 seconds! Do not let zomebies out!!! >>": {
     "translation": "<<10秒钟后门就会关上,别让僵尸出去>>"
@@ -464,25 +465,25 @@
     "translation": "<<守住30秒>>"
   },
   "<< Door will Open in 15 seconds >>": {
-    "translation": "<<还有15秒门开>>"
+    "translation": "<<门在15秒后打开>>"
   },
   "<< Teleporter will enable in 15 seconds >>": {
     "translation": "<<传送器将在15秒后启用>>"
   },
   "<<管理员按下重启本回合按钮 5秒后重启>": {
-    "translation": "<<管理员按下重启本回合按钮 5秒后重启>"
+    "translation": "<<管理员按下重启本回合按钮 5秒后重启>>"
   },
   "<<管理员按下重启本回合按钮 4秒后重启>": {
-    "translation": "<<管理员按下重启本回合按钮 4秒后重启>"
+    "translation": "<<管理员按下重启本回合按钮 4秒后重启>>"
   },
   "<<管理员按下重启本回合按钮 3秒后重启>": {
-    "translation": "<<管理员按下重启本回合按钮 3秒后重启>"
+    "translation": "<<管理员按下重启本回合按钮 3秒后重启>>"
   },
   "<<管理员按下重启本回合按钮 2秒后重启>": {
-    "translation": "<<管理员按下重启本回合按钮 2秒后重启>"
+    "translation": "<<管理员按下重启本回合按钮 2秒后重启>>"
   },
   "<<管理员按下重启本回合按钮 1秒后重启>": {
-    "translation": "<<管理员按下重启本回合按钮 1秒后重启>"
+    "translation": "<<管理员按下重启本回合按钮 1秒后重启>>"
   },
   "lbrush": {
     "translation": "lbrush",
