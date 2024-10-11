@@ -380,8 +380,7 @@
     "translation": "是能量核心!!快开枪把它摧毁了!!"
   },
   "<< Be careful! Zombies will be released in 120 seconds >>": {
-    "translation": "<<小心!僵尸们将在120秒后被释放>>",
-    "blocked": true
+    "translation": "<<小心!僵尸们将在二分钟后被释放>>"
   },
   "### ???: Who are you...... ###": {
     "translation": "???: 你是谁..."
@@ -405,7 +404,7 @@
     "translation": "米诺莉拉: 他在那里做了很多有关僵尸的实验.."
   },
   "### Minolila: And he imprisoned his own daughter in this palace so that no one will know what he did ###": {
-    "translation": "米诺莉拉: 他把=将自己的女儿囚禁在这个宫殿里,这样就没有人知道他做了什么"
+    "translation": "米诺莉拉: 他将自己的女儿囚禁在这个宫殿里,这样就没有人知道他做了什么"
   },
   "### Minolila: So this is my request ###": {
     "translation": "米诺莉拉: 所以这是我的要求"
