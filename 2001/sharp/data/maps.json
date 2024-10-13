@@ -1660,7 +1660,7 @@
     "nomination": true,
     "admin": false
   },
-  "ze_sisyphus_p": {
+  "ze_sisyphus": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
