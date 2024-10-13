@@ -1,0 +1,137 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> YOU ARE LISTENING TO || GFL ON 66.6 FM || SPONSORED BY GHOSTFAP.COM <<<": {
+    "translation": ">>> YOU ARE LISTENING TO || GFL ON 66.6 FM || SPONSORED BY GHOSTFAP.COM <<<",
+    "blocked": true
+  },
+  ">>> NOW PLAYING: a-ha - Take On Me <<<": {
+    "translation": ">>> 正在播放: a-ha - Take On Me <<<"
+  },
+  ">>> NOW PLAYING: American Football - Never Meant <<<": {
+    "translation": ">>> 正在播放: American Football - Never Meant <<<"
+  },
+  ">>> NOW PLAYING: Beck - Loser <<<": {
+    "translation": ">>> 正在播放: Beck - Loser <<<"
+  },
+  ">>> NOW PLAYING: Billy Idol - Rebel Yell <<<": {
+    "translation": ">>> 正在播放: Billy Idol - Rebel Yell <<<"
+  },
+  ">>> NOW PLAYING: Boa - Duvet <<<": {
+    "translation": ">>> 正在播放: Boa - Duvet <<<"
+  },
+  ">>> NOW PLAYING: Cortex - Devil's Dance <<<": {
+    "translation": ">>> 正在播放: Cortex - Devil's Dance <<<"
+  },
+  ">>> NOW PLAYING: Hideki Taniuchi - Death Note <<<": {
+    "translation": ">>> 正在播放: Hideki Taniuchi - Death Note <<<"
+  },
+  ">>> NOW PLAYING: Duster - Me And The Birds <<<": {
+    "translation": ">>> 正在播放: Duster - Me And The Birds <<<"
+  },
+  ">>> NOW PLAYING: Eiffel 65 - Blue <<<": {
+    "translation": ">>> 正在播放: Eiffel 65 - Blue <<<"
+  },
+  ">>> NOW PLAYING: Eyeliner - Payphone <<<": {
+    "translation": ">>> 正在播放: Eyeliner - Payphone <<<"
+  },
+  ">>> NOW PLAYING: Iron Maiden - The Trooper <<<": {
+    "translation": ">>> 正在播放: Iron Maiden - The Trooper <<<"
+  },
+  ">>> NOW PLAYING: Loverboy - Workin' For The Weekend <<<": {
+    "translation": ">>> 正在播放: Loverboy - Workin' For The Weekend <<<"
+  },
+  ">>> NOW PLAYING: Melty Blood OST - Neco Arc <<<": {
+    "translation": ">>> 正在播放: Melty Blood OST - Neco Arc <<<"
+  },
+  ">>> NOW PLAYING: Men at Work - Down Under <<<": {
+    "translation": ">>> 正在播放: Men at Work - Down Under <<<"
+  },
+  ">>> NOW PLAYING: Modest Mouse - Sunspots In The House Of The Late Scapegoat <<<": {
+    "translation": ">>> 正在播放: Modest Mouse - Sunspots In The House Of The Late Scapegoat <<<"
+  },
+  ">>> NOW PLAYING: Outkast - Hey Ya! <<<": {
+    "translation": ">>> 正在播放: Outkast - Hey Ya! <<<"
+  },
+  ">>> NOW PLAYING: Penpals - Tell Me Why <<<": {
+    "translation": ">>> 正在播放: Penpals - Tell Me Why <<<"
+  },
+  ">>> NOW PLAYING: The Pixies - Where Is My Mind? <<<": {
+    "translation": ">>> 正在播放: The Pixies - Where Is My Mind? <<<"
+  },
+  ">>> NOW PLAYING: Radiohead - Knives Out <<<": {
+    "translation": ">>> 正在播放: Radiohead - Knives Out <<<"
+  },
+  ">>> NOW PLAYING: Gorillaz - Melancholy Hill <<<": {
+    "translation": ">>> 正在播放: Gorillaz - Melancholy Hill <<<"
+  },
+  ">>> NOW PLAYING: Silver Fins - Waiting So Long <<<": {
+    "translation": ">>> 正在播放: Silver Fins - Waiting So Long <<<"
+  },
+  ">>> NOW PLAYING: Nujabes - Shiki no Uta <<<": {
+    "translation": ">>> 正在播放: Nujabes - Shiki no Uta <<<"
+  },
+  ">>> NOW PLAYING: Susumu Hirasawa - Gats <<<": {
+    "translation": ">>> 正在播放: Susumu Hirasawa - Gats <<<"
+  },
+  ">>> NOW PLAYING: Tears for Fears - Everybody Wants To Rule The World <<<": {
+    "translation": ">>> 正在播放: Tears for Fears - Everybody Wants To Rule The World <<<"
+  },
+  ">>> NOW PLAYING: The Drums - Money <<<": {
+    "translation": ">>> 正在播放: The Drums - Money <<<"
+  },
+  ">>> NOW PLAYING: Sonic The Hedgehog OVA - South Island <<<": {
+    "translation": ">>> 正在播放: Sonic The Hedgehog OVA - South Island <<<"
+  },
+  ">>> NOW PLAYING: Sonic The Hedgehog OVA - Look-a-Like <<<": {
+    "translation": ">>> 正在播放: Sonic The Hedgehog OVA - Look-a-Like <<<"
+  },
+  ">>> NOW PLAYING: Sonic The Hedgehog OVA - Land of Darkness <<<": {
+    "translation": ">>> 正在播放: Sonic The Hedgehog OVA - Land of Darkness <<<"
+  },
+  ">>> NOW PLAYING: Nujabes - Battlecry <<<": {
+    "translation": ">>> 正在播放: Nujabes - Battlecry <<<"
+  },
+  ">>> NOW PLAYING: Ghost in the Shell SAC - Somewhere in the Silence <<<": {
+    "translation": ">>> 正在播放: Ghost in the Shell SAC - Somewhere in the Silence <<<"
+  },
+  ">>> NOW PLAYING: Space Dandy OST - Fatty But Oh So Goody <<<": {
+    "translation": ">>> 正在播放: Space Dandy OST - Fatty But Oh So Goody <<<"
+  },
+  "Janitor selected Level 1": {
+    "translation": "第一关"
+  },
+  "Janitor selected Level 2": {
+    "translation": "第二关"
+  },
+  "Janitor selected Level 3": {
+    "translation": "第三个"
+  },
+  "Janitor selected Level 4": {
+    "translation": "第四关"
+  },
+  "Janitor selected Level 5": {
+    "translation": "第五关"
+  },
+  "Janitor selected Level 6": {
+    "translation": "第六关"
+  },
+  "Janitor selected Level 7": {
+    "translation": "第七关"
+  },
+  "Janitor selected Level 8": {
+    "translation": "第八关"
+  },
+  "MAP ERROR: SHIT IS FUCKED!!!! attempting to reset the boulder...": {
+    "translation": "地图错误:正在尝试重置岩石..."
+  }
+}

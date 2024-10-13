@@ -40,9 +40,6 @@
   "** Cidolfus is gone, we have to find a way to get out from here first. **": {
     "translation": "** 西德逃走了,我们现在得想办法离开这里 **"
   },
-  "": {
-    "translation": ""
-  },
   "** Gravity **": {
     "translation": "** 重力 **"
   },
@@ -189,5 +186,11 @@
   },
   "<Gabranth> You will be judged,By my sword!": {
     "translation": "<加布朗斯> 你将会被我的圣剑审判!"
+  },
+  "** ADMIN HAS SWITCH ENDING 2 AT THIS ROUND.**": {
+    "translation": "** 管理员选择了结局② **"
+  },
+  "** ADMIN HAS SWITCH ENDING 1 AT THIS ROUND.**": {
+    "translation": "** 管理员选择了结局① **"
   }
 }

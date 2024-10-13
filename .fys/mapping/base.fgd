@@ -931,6 +931,8 @@
 	dynamicEntityName(target_destination) : "Dynamic Entity Name" : "" : "Name of the dynamic prop_door_rotating_physics entity to check for dynamic factor calculation."
 	dynamicProxyPoint(local_point) : "Dynamic Proxy Point" : "" : "Position of a proxy point across a dynamic point to use for visiblity calculation. Make sure to set the Occlusion Radius such that it is entirely on one side of the dynamic object."
 	dynamicMaximumOcclusion(float) : "Dynamic Maximum Occlusion" : "1.0" : "Value when the dynamic occlusion is considered fully unoccluded and return 1."
+
+	input SetUnbreakable(void) : "Set Unbreakable."
 ]
 
 @PointClass base( Targetname, SndOpvarSetPointBase ) tags( Sound ) iconsprite("editor/snd_opvar_set.vmat") box_world_aligned( box_inner_mins, box_inner_maxs ) box_world_aligned( box_outer_mins, box_outer_maxs ) = snd_opvar_set_aabb :
@@ -3874,11 +3876,21 @@
 	TriggerOnce(boolean) : "Trigger Once" : 0 : "Deletes the logic relay after firing an OnTrigger() or a connected OnSpawn() output"
 	FastRetrigger(boolean) : "Fast Retrigger" : 0 : "Without this, the logic_relay will wait until all inputs connected to OnTrigger() have fired before retriggering"
 	PassthroughCaller(boolean) : "Pass through caller" : 0 : "If set, this logic_relay will be ignored by !caller in downstream IO connections. Instead, the previous caller in the IO chain will be found by !caller."
-	
+	target(string)	: "target" : "" : "target's targetname"
+	health(integer) : "health" : "" : "the actual fov value (16~179)"
+
+	spawnflags(flags) =
+	[
+		32 : "frozen" : 0
+		64 : "fov changer" : 0
+		128 : "disarm" : 0
+	]
 	// Inputs
 	input Trigger(void) : "Trigger the relay, causing its OnTrigger output to fire if it is enabled."
 	input Toggle(void) : "Toggle the relay between enabled and disabled."
 	input CancelPending(void) : "Cancel any events fired by this relay that are currently pending in the I/O event queue."
+	input EnableCamera(void) : "EnableCamera."
+	input DisableCamera(void) : "DisableCamera."
 	
 	// Outputs
 	output OnSpawn(void) : "Fired when the relay is spawned. If the relay is set to only trigger once, it will "+

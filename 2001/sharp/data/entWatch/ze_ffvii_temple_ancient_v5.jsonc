@@ -33,8 +33,8 @@
     "count": 1
   },
   {
-    "name": "黑洞",
-    "shortName": "黑洞",
+    "name": "土",
+    "shortName": "土",
     "buttonClass": "func_button",
     "hammerId": "1638",
     "cooldown": 75,
@@ -77,8 +77,8 @@
     "count": 1
   },
   {
-    "name": "电",
-    "shortName": "电",
+    "name": "毒",
+    "shortName": "毒",
     "buttonClass": "func_button",
     "hammerId": "1617",
     "cooldown": 50,
