@@ -1836,7 +1836,7 @@
   },
   "ze_tyranny_cs2": {
     "certainTimes": [-1],
-    "price": 650,
+    "price": 500,
     "cooldown": 85,
     "nomination": true,
     "admin": false
