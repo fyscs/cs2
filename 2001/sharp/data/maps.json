@@ -1666,6 +1666,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_sisyphus": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": true
+  },
   "ze_stab_town_p": {
     "certainTimes": [-1],
     "price": 300,
