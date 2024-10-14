@@ -117,7 +117,7 @@
     "price": 350,
     "cooldown": 60,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_artika_base_p": {
     "certainTimes": [-1],
