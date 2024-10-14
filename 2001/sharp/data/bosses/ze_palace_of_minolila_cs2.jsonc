@@ -25,28 +25,28 @@
       "iterator": "2boss_hp",
       "hitbox": "2_boss_hitbox",
       "backup": "2boss_hp_add",
-      "mass": 75,
+      "backup": "",
       "display": "Boss",
       "counter": "2boss_hp_left"
     },
     {
       "iterator": "ex1_boss_hp",
       "hitbox": "ex1_boss_hitbox",
-      "mass": 40,
+      "backup": "",
       "display": "X博士",
       "counter": "ex1_boss_hp"
     },
     {
       "iterator": "ex1_final_boss_hp",
       "hitbox": "ex1_final_boss_hitbox",
-      "mass": 80,
+      "backup": "",
       "display": "X博士",
       "counter": "ex1_final_boss_hp"
     },
     {
       "iterator": "ex2_final_boss_hp",
       "hitbox": "ex2_final_laser_hitbox",
-      "mass": 60,
+      "backup": "",
       "display": "米诺莉拉",
       "counter": "ex2_final_boss_hp"
     },
@@ -69,14 +69,14 @@
     {
       "iterator": "3_final_boss_hp",
       "hitbox": "3_final_boss_hitbox",
-      "mass": 65,
+      "backup": "",
       "display": "X博士",
       "counter": "3_final_boss_hp"
     },
     {
       "iterator": "ex2_boss_black_hp",
       "hitbox": "ex2_boss_black_hitbox",
-      "mass": 50,
+      "backup": "",
       "display": "black",
       "counter": "ex2_boss_black_hp"
     }
