@@ -139,6 +139,13 @@
       "display": "Boss",
       "counter": "phase2_hp_indicator",
       "backup": ""
+    },
+    {
+      "iterator": "phase1_boss_hp",
+      "hitbox": "phase1_boss_hitbox",
+      "display": "Boss",
+      "counter": "phase1_boss_hp",
+      "backup": ""
     }
   ],
   "Breakables": [
