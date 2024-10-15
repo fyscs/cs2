@@ -896,6 +896,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_insanitycity_t": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false
+  },
   "ze_jiangnan_town_v3_1": {
     "certainTimes": [-1],
     "price": 300,
