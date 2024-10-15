@@ -131,7 +131,7 @@
       "hitbox": "phase2_boss_hitbox",
       "display": "Boss",
       "counter": "phase1_boss_hp",
-       "backup": ""
+      "backup": ""
     },
     {
       "iterator": "phase2_boss_hp_bar9",
