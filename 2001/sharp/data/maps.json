@@ -525,6 +525,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_eye_for_an_eye_v22": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 45,
+    "nomination": true,
+    "admin": false
+  },
   "ze_fabulous": {
     "certainTimes": [-1],
     "price": 400,
@@ -1743,6 +1750,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_surf_hp": {
+    "certainTimes": [12,13,14,15,16,17,18,19,20,21,22],
+    "price": 800,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
   "ze_surf_okitsu_shonyudo": {
     "certainTimes": [12,13,14,15,16,17,18,19,20,21,22],
     "price": 300,
@@ -1990,13 +2004,6 @@
   },
   "ze_ffxiv_the_orbonne_monastery": {
     "certainTimes": [11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 800,
-    "cooldown": 100,
-    "nomination": true,
-    "admin": false
-  },
-  "ze_surf_hp": {
-    "certainTimes": [12,13,14,15,16,17,18,19,20,21,22],
     "price": 800,
     "cooldown": 100,
     "nomination": true,
