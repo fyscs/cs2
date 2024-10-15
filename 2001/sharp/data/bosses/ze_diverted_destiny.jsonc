@@ -20,135 +20,135 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-    "Counters": [
-      {
-        "iterator": "phase3_boss_hp1",
-        "hitbox": "phase3_boss_hitbox",
-        "display": "Boss",
-        "counter": "phase1_boss_hp",
-        "backup": ""
-      },
-      {
-        "iterator": "phase3_boss_hp2",
-        "hitbox": "phase3_boss_hitbox",
-        "display": "Boss",
-        "counter": "phase1_boss_hp",
-        "backup": ""
-      },
-      {
-        "iterator": "phase3_boss_hp3",
-        "hitbox": "phase3_boss_hitbox",
-        "display": "Boss",
-        "counter": "phase1_boss_hp",
-        "backup": ""
-      },
-      {
-        "iterator": "phase3_boss_hp4",
-        "hitbox": "phase3_boss_hitbox",
-        "display": "Boss",
-        "counter": "phase1_boss_hp",
-        "backup": ""
-      },
-      {
-        "iterator": "semi_boss_hp_counter_01",
-        "hitbox": "semi_boss_hitbox",
-        "display": "Boss",
-        "counter": "semi_boss_hp_counter_01",
-        "backup": ""
-      },
-      {
-        "iterator": "semi_boss_hp_counter_02",
-        "hitbox": "semi_boss_hitbox",
-        "display": "Boss",
-        "counter": "semi_boss_hp_counter_02",
-        "backup": ""
-      },
-      {
-        "iterator": "semi_boss_hp_counter_03",
-        "hitbox": "semi_boss_hitbox",
-        "display": "Boss",
-        "counter": "semi_boss_hp_counter_03",
-        "backup": ""
-      },
-      {
-        "iterator": "semi_boss_hp_counter_04",
-        "hitbox": "semi_boss_hitbox",
-        "display": "Boss",
-        "counter": "semi_boss_hp_counter_04",
-        "backup": ""
-      },
-      {
-        "iterator": "phase2_boss_hp_bar1",
-        "hitbox": "phase2_boss_hitbox",
-        "display": "Boss",
-        "counter": "phase1_boss_hp",
-        "backup": ""
-      },
-      {
-        "iterator": "phase2_boss_hp_bar2",
-        "hitbox": "phase2_boss_hitbox",
-        "display": "Boss",
-        "counter": "phase1_boss_hp",
-        "backup": ""
-      },
-      {
-        "iterator": "phase2_boss_hp_bar3",
-        "hitbox": "phase2_boss_hitbox",
-        "display": "Boss",
-        "counter": "phase1_boss_hp",
-        "backup": ""
-      },
-      {
-        "iterator": "phase2_boss_hp_bar4",
-        "hitbox": "phase2_boss_hitbox",
-        "display": "Boss",
-        "counter": "phase1_boss_hp",
-        "backup": ""
-      },
-      {
-        "iterator": "phase2_boss_hp_bar5",
-        "hitbox": "phase2_boss_hitbox",
-        "display": "Boss",
-        "counter": "phase1_boss_hp",
-        "backup": ""
-      },
-      {
-        "iterator": "phase2_boss_hp_bar6",
-        "hitbox": "phase2_boss_hitbox",
-        "display": "Boss",
-        "counter": "phase1_boss_hp",
-        "backup": ""
-      },
-      {
-        "iterator": "phase2_boss_hp_bar7",
-        "hitbox": "phase2_boss_hitbox",
-        "display": "Boss",
-        "counter": "phase1_boss_hp",
-        "backup": ""
-      },
-      {
-        "iterator": "phase2_boss_hp_bar8",
-        "hitbox": "phase2_boss_hitbox",
-        "display": "Boss",
-        "counter": "phase1_boss_hp",
-        "backup": ""
-      },
-      {
-        "iterator": "phase2_boss_hp_bar9",
-        "hitbox": "phase2_boss_hitbox",
-        "display": "Boss",
-        "counter": "phase1_boss_hp",
-        "backup": ""
-      }
-      ],
-    "Breakables": [
-      {
-        "target": "container1_hitbox",
-        "display": "Container"
-      },
-      {
-        "target": "container2_hitbox",
-        "display": "Container"
-      }
-    ]
-  }
+  "Counters": [
+    {
+      "iterator": "phase3_boss_hp1",
+      "hitbox": "phase3_boss_hitbox",
+      "display": "Boss",
+      "counter": "phase1_boss_hp",
+      "backup": ""
+    },
+    {
+      "iterator": "phase3_boss_hp2",
+      "hitbox": "phase3_boss_hitbox",
+      "display": "Boss",
+      "counter": "phase1_boss_hp",
+      "backup": ""
+    },
+    {
+      "iterator": "phase3_boss_hp3",
+      "hitbox": "phase3_boss_hitbox",
+      "display": "Boss",
+      "counter": "phase1_boss_hp",
+      "backup": ""
+    },
+    {
+      "iterator": "phase3_boss_hp4",
+      "hitbox": "phase3_boss_hitbox",
+      "display": "Boss",
+      "counter": "phase1_boss_hp",
+      "backup": ""
+    },
+    {
+      "iterator": "semi_boss_hp_counter_01",
+      "hitbox": "semi_boss_hitbox",
+      "display": "Boss",
+      "counter": "semi_boss_hp_counter_01",
+      "backup": ""
+    },
+    {
+      "iterator": "semi_boss_hp_counter_02",
+      "hitbox": "semi_boss_hitbox",
+      "display": "Boss",
+      "counter": "semi_boss_hp_counter_02",
+      "backup": ""
+    },
+    {
+      "iterator": "semi_boss_hp_counter_03",
+      "hitbox": "semi_boss_hitbox",
+      "display": "Boss",
+      "counter": "semi_boss_hp_counter_03",
+      "backup": ""
+    },
+    {
+      "iterator": "semi_boss_hp_counter_04",
+      "hitbox": "semi_boss_hitbox",
+      "display": "Boss",
+      "counter": "semi_boss_hp_counter_04",
+      "backup": ""
+    },
+    {
+      "iterator": "phase2_boss_hp_bar1",
+      "hitbox": "phase2_boss_hitbox",
+      "display": "Boss",
+      "counter": "phase1_boss_hp",
+      "backup": ""
+    },
+    {
+      "iterator": "phase2_boss_hp_bar2",
+      "hitbox": "phase2_boss_hitbox",
+      "display": "Boss",
+      "counter": "phase1_boss_hp",
+      "backup": ""
+    },
+    {
+      "iterator": "phase2_boss_hp_bar3",
+      "hitbox": "phase2_boss_hitbox",
+      "display": "Boss",
+      "counter": "phase1_boss_hp",
+      "backup": ""
+    },
+    {
+      "iterator": "phase2_boss_hp_bar4",
+      "hitbox": "phase2_boss_hitbox",
+      "display": "Boss",
+      "counter": "phase1_boss_hp",
+      "backup": ""
+    },
+    {
+      "iterator": "phase2_boss_hp_bar5",
+      "hitbox": "phase2_boss_hitbox",
+      "display": "Boss",
+      "counter": "phase1_boss_hp",
+      "backup": ""
+    },
+    {
+      "iterator": "phase2_boss_hp_bar6",
+      "hitbox": "phase2_boss_hitbox",
+      "display": "Boss",
+      "counter": "phase1_boss_hp",
+      "backup": ""
+    },
+    {
+      "iterator": "phase2_boss_hp_bar7",
+      "hitbox": "phase2_boss_hitbox",
+      "display": "Boss",
+      "counter": "phase1_boss_hp",
+      "backup": ""
+    },
+    {
+      "iterator": "phase2_boss_hp_bar8",
+      "hitbox": "phase2_boss_hitbox",
+      "display": "Boss",
+      "counter": "phase1_boss_hp",
+       "backup": ""
+    },
+    {
+      "iterator": "phase2_boss_hp_bar9",
+      "hitbox": "phase2_boss_hitbox",
+      "display": "Boss",
+      "counter": "phase1_boss_hp",
+      "backup": ""
+    }
+  ],
+  "Breakables": [
+    {
+      "target": "container1_hitbox",
+      "display": "Container"
+    },
+    {
+      "target": "container2_hitbox",
+      "display": "Container"
+    }
+  ]
+}
