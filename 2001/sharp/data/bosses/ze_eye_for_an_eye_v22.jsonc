@@ -24,12 +24,16 @@
     {
       "iterator": "eye_door_counter",
       "hitbox": "eye_door_break",
-      "display": "Eye Door"
+      "display": "Eye Door",
+      "counter": "eye_door_counter",
+      "backup": ""
     },
     {
       "iterator": "boss_per",
       "hitbox": "Boss_break",
-      "display": "Eye"
+      "display": "Eye",
+      "counter": "boss_per",
+      "backup": ""
     }
   ]
 }
