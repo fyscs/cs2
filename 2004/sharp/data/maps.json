@@ -10,14 +10,14 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
-    "nomination": false,
+    "nomination": true,
     "admin": false
   },
   "mg_clouds_multigames_v2": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
-    "nomination": false,
+    "nomination": true,
     "admin": false
   },
   "mg_dream_xmas_edition_3": {
@@ -31,7 +31,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
-    "nomination": false,
+    "nomination": true,
     "admin": false
   },
   "mg_hype2": {
@@ -59,7 +59,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
-    "nomination": false,
+    "nomination": true,
     "admin": false
   },
   "mg_lego_multigames_r1c1": {
@@ -101,7 +101,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
-    "nomination": false,
+    "nomination": true,
     "admin": false
   },
   "mg_pudding_multigames": {
@@ -185,14 +185,14 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
-    "nomination": false,
+    "nomination": true,
     "admin": false
   },
   "mg_weapon_case_arenas_v1_2": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
-    "nomination": false,
+    "nomination": true,
     "admin": false
   },
   "mg_wl_multigames": {
