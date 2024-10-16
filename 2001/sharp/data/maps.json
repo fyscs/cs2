@@ -36,14 +36,14 @@
   },
   "ze_angels_of_death": {
     "certainTimes": [-1],
-    "price": 550,
+    "price": 450,
     "cooldown": 80,
     "nomination": true,
     "admin": false
   },
   "ze_antartika_p": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 400,
+    "price": 300,
     "cooldown": 50,
     "nomination": true,
     "admin": false
@@ -57,14 +57,14 @@
   }, 
   "ze_aooka": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 500,
+    "price": 400,
     "cooldown": 80,
     "nomination": true,
     "admin": false
   },
   "ze_aoraitsu_reloaded": {
     "certainTimes": [-1],
-    "price": 600,
+    "price": 500,
     "cooldown": 80,
     "nomination": true,
     "admin": false
@@ -93,7 +93,7 @@
   },
   "ze_arcana_heart": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 800,
+    "price": 700,
     "cooldown": 80,
     "nomination": true,
     "admin": false
@@ -114,10 +114,10 @@
   }, 
   "ze_arknights_initium": {
     "certainTimes": [-1],
-    "price": 400,
+    "price": 350,
     "cooldown": 60,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_artika_base_p": {
     "certainTimes": [-1],
@@ -156,14 +156,14 @@
   },
   "ze_awaker": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 500,
+    "price": 400,
     "cooldown": 80,
     "nomination": true,
     "admin": false
   },
   "ze_aware": {
     "certainTimes": [-1],
-    "price": 500,
+    "price": 400,
     "cooldown": 80,
     "nomination": true,
     "admin": false
@@ -191,7 +191,7 @@
   },
   "ze_basic_geometric": {
     "certainTimes": [-1],
-    "price": 500,
+    "price": 450,
     "cooldown": 80,
     "nomination": true,
     "admin": false
@@ -254,21 +254,21 @@
   },
   "ze_boatescape888": {
     "certainTimes": [-1],
-    "price": 1000,
+    "price": 900,
     "cooldown": 100,
     "nomination": true,
     "admin": false
   },
   "ze_boatescape999": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 700,
+    "price": 600,
     "cooldown": 100,
     "nomination": true,
     "admin": false
   },
   "ze_boatescape_ultimate": {
     "certainTimes": [-1],
-    "price": 1000,
+    "price": 900,
     "cooldown": 100,
     "nomination": true,
     "admin": false
@@ -331,14 +331,14 @@
   },
   "ze_clockwork": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 500,
+    "price": 450,
     "cooldown": 60,
     "nomination": true,
     "admin": false
   },
   "ze_color_levels": {
     "certainTimes": [-1],
-    "price": 400,
+    "price": 350,
     "cooldown": 100,
     "nomination": true,
     "admin": false
@@ -373,7 +373,7 @@
   },
   "ze_darkest_hour": {
     "certainTimes": [-1],
-    "price": 500,
+    "price": 400,
     "cooldown": 100,
     "nomination": true,
     "admin": false
@@ -390,7 +390,7 @@
     "price": 700,
     "cooldown": 150,
     "nomination": true,
-    "admin": false
+    "admin": true
   },
   "ze_death_star_escape_p": {
     "certainTimes": [-1],
@@ -422,7 +422,7 @@
   },
   "ze_desperate_soul": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 550,
+    "price": 500,
     "cooldown": 100,
     "nomination": true,
     "admin": false
@@ -436,7 +436,7 @@
   },
   "ze_diverted_destiny": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 550,
+    "price": 500,
     "cooldown": 60,
     "nomination": true,
     "admin": false
@@ -471,7 +471,7 @@
   },
   "ze_eizures_b2": {
     "certainTimes": [12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 850,
+    "price": 800,
     "cooldown": 160,
     "nomination": true,
     "admin": false
@@ -506,7 +506,7 @@
   },
   "ze_eternal_journey": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 500,
+    "price": 400,
     "cooldown": 60,
     "nomination": true,
     "admin": false
@@ -523,13 +523,6 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false
-  },
-  "ze_eye_for_an_eye_v22": {
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 45,
-    "nomination": true,
     "admin": false
   },
   "ze_fabulous": {
@@ -643,7 +636,14 @@
     "cooldown": 60,
     "nomination": true,
     "admin": false
-  },
+  }, 
+  "ze_ffxiv_the_orbonne_monastery": {
+    "certainTimes": [11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 700,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  }, 
   "ze_firewall_laboratory_part1_p": {
     "certainTimes": [-1],
     "price": 300,
@@ -667,14 +667,14 @@
   },
    "ze_fond_dream": {
     "certainTimes": [-1],
-    "price": 700,
+    "price": 600,
     "cooldown": 80,
     "nomination": true,
     "admin": false
   },
   "ze_forhidden_slicoo_cs2": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 700,
+    "price": 600,
     "cooldown": 100,
     "nomination": true,
     "admin": false
@@ -684,7 +684,7 @@
     "price": 500,
     "cooldown": 100,
     "nomination": true,
-    "admin": false
+    "admin": true
   },
   "ze_forius_just_run_p": {
     "certainTimes": [-1],
@@ -695,7 +695,7 @@
   },
   "ze_forsaken_temple": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 800,
+    "price": 700,
     "cooldown": 80,
     "nomination": true,
     "admin": false
@@ -744,7 +744,7 @@
   },
   "ze_grau_p": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 700,
+    "price": 600,
     "cooldown": 80,
     "nomination": true,
     "admin": false
@@ -814,21 +814,21 @@
   },
   "ze_honkai_impact_changkongshi": {
     "certainTimes": [-1],
-    "price": 400,
+    "price": 350,
     "cooldown": 60,
     "nomination": true,
     "admin": false
   },
   "ze_honkai_impact_tqs": {
     "certainTimes": [-1],
-    "price": 400,
+    "price": 350,
     "cooldown": 60,
     "nomination": true,
     "admin": true
   },
   "ze_hydroponic_garden": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 700,
+    "price": 600,
     "cooldown": 80,
     "nomination": true,
     "admin": false
@@ -863,7 +863,7 @@
   },
   "ze_illusory_world": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 800,
+    "price": 700,
     "cooldown": 60,
     "nomination": true,
     "admin": false
@@ -897,13 +897,6 @@
     "admin": false
   },
   "ze_interception_p": {
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 30,
-    "nomination": false,
-    "admin": false
-  },
-  "ze_insanitycity_t": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
@@ -954,7 +947,7 @@
   },
   "ze_l0v0l_p": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 800,
+    "price": 700,
     "cooldown": 80,
     "nomination": true,
     "admin": false
@@ -975,7 +968,7 @@
   },
   "ze_lightnight_v1": {
     "certainTimes": [-1],
-    "price": 550,
+    "price": 450,
     "cooldown": 60,
     "nomination": true,
     "admin": false
@@ -1136,21 +1129,21 @@
   },  
   "ze_misaka": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 650,
+    "price": 600,
     "cooldown": 80,
     "nomination": true,
     "admin": false
   },
   "ze_mist_p": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 650,
+    "price": 600,
     "cooldown": 80,
     "nomination": true,
     "admin": false
   },
   "ze_mountain_escape_snow": {
     "certainTimes": [-1],
-    "price": 600,
+    "price": 500,
     "cooldown": 160,
     "nomination": false,
     "admin": false
@@ -1164,7 +1157,7 @@
   },
    "ze_neron": {
     "certainTimes": [11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 550,
+    "price": 500,
     "cooldown": 100,
     "nomination": true,
     "admin": false
@@ -1232,13 +1225,6 @@
     "nomination": true,
     "admin": false
   },
-  "ze_obf_npst_v2": {
-    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 2000,
-    "cooldown": 160,
-    "nomination": true,
-    "admin": false
-  },
   "ze_obf_rescape": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 2000,
@@ -1276,7 +1262,7 @@
   },
   "ze_ocean_heart_cs2": {
     "certainTimes": [-1],
-    "price": 500,
+    "price": 400,
     "cooldown": 60,
     "nomination": true,
     "admin": false
@@ -1311,7 +1297,7 @@
   },
   "ze_oneiros_p": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 500,
+    "price": 400,
     "cooldown": 60,
     "nomination": true,
     "admin": false
@@ -1346,14 +1332,14 @@
   },
   "ze_palace_adventure": {
     "certainTimes": [-1],
-    "price": 550,
+    "price": 450,
     "cooldown": 60,
     "nomination": true,
     "admin": false
   },
   "ze_palace_of_minolila_cs2": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 550,
+    "price": 500,
     "cooldown": 140,
     "nomination": true,
     "admin": false
@@ -1395,7 +1381,7 @@
   },
   "ze_platformer_p": {
     "certainTimes": [-1],
-    "price": 400,
+    "price": 300,
     "cooldown": 100,
     "nomination": false,
     "admin": false
@@ -1416,7 +1402,7 @@
   },
   "ze_popkart_b3": {
     "certainTimes": [-1],
-    "price": 500,
+    "price": 400,
     "cooldown": 60,
     "nomination": true,
     "admin": false
@@ -1465,14 +1451,14 @@
   },
   "ze_p_v_z": {
     "certainTimes": [-1],
-    "price": 650,
+    "price": 550,
     "cooldown": 60,
     "nomination": true,
     "admin": false
   },
   "ze_r_w_b_ulti_cs2": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 600,
+    "price": 500,
     "cooldown": 60,
     "nomination": true,
     "admin": false
@@ -1507,7 +1493,7 @@
   },
   "ze_rizomata_p": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 800,
+    "price": 700,
     "cooldown": 80,
     "nomination": true,
     "admin": false
@@ -1528,14 +1514,14 @@
   },
   "ze_raintime2_stormwindkeep_v3": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 800,
+    "price": 700,
     "cooldown": 160,
     "nomination": true,
     "admin": false
   },
   "ze_rt0_genesis_cs2": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 800,
+    "price": 700,
     "cooldown": 160,
     "nomination": true,
     "admin": false
@@ -1619,7 +1605,7 @@
   },
   "ze_silent_hill_2_illusion": {
     "certainTimes": [-1],
-    "price": 550,
+    "price": 450,
     "cooldown": 80,
     "nomination": true,
     "admin": false
@@ -1647,7 +1633,7 @@
   },
   "ze_sky_fantasy_v1": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 600,
+    "price": 550,
     "cooldown": 80,
     "nomination": true,
     "admin": false
@@ -1675,7 +1661,7 @@
   },
   "ze_silent_hill_blackblood": {
     "certainTimes": [-1],
-    "price": 500,
+    "price": 400,
     "cooldown": 60,
     "nomination": false,
     "admin": false
@@ -1724,7 +1710,7 @@
   },
   "ze_steyliff_grove": {
     "certainTimes": [-1],
-    "price": 550,
+    "price": 450,
     "cooldown": 100,
     "nomination": true,
     "admin": false
@@ -1752,7 +1738,7 @@
   },
   "ze_surf_hp": {
     "certainTimes": [12,13,14,15,16,17,18,19,20,21,22],
-    "price": 800,
+    "price": 700,
     "cooldown": 100,
     "nomination": true,
     "admin": false
@@ -1843,7 +1829,7 @@
   },
   "ze_toy_world_final": {
     "certainTimes": [-1],
-    "price": 550,
+    "price": 450,
     "cooldown": 80,
     "nomination": true,
     "admin": false
@@ -1870,15 +1856,15 @@
     "admin": false
   },
   "ze_tyranny_cs2": {
-    "certainTimes": [-1],
-    "price": 500,
+    "certainTimes": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 650,
     "cooldown": 85,
     "nomination": true,
-    "admin": false
+    "admin": true
   },
   "ze_uchiha_legacy": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 1000,
+    "price": 900,
     "cooldown": 100,
     "nomination": true,
     "admin": false
@@ -1899,7 +1885,7 @@
   },
   "ze_undertale_sans_final": {
     "certainTimes": [-1],
-    "price": 400,
+    "price": 300,
     "cooldown": 100,
     "nomination": true,
     "admin": false
@@ -1934,7 +1920,7 @@
   },
   "ze_visualizer": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 700,
+    "price": 600,
     "cooldown": 80,
     "nomination": true,
     "admin": false
@@ -1976,7 +1962,7 @@
   },
   "ze_zertinan": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 700,
+    "price": 600,
     "cooldown": 80,
     "nomination": true,
     "admin": false
@@ -2000,13 +1986,6 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false
-  },
-  "ze_ffxiv_the_orbonne_monastery": {
-    "certainTimes": [11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 800,
-    "cooldown": 100,
-    "nomination": true,
     "admin": false
   }
 }
