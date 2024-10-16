@@ -177,5 +177,74 @@
   },
   "port by lopb to cs2||Thanks fong,Tenshi,x1aOFu and 气流 for offering help": {
     "translation": "移植:lopb 汉化:Zeyu1"
+  },
+  "We fall into an underground cave?": {
+    "translation": "我们是在地下的洞穴吗?"
+  },
+  "need time to open this gate": {
+    "translation": "门正在打开"
+  },
+  "Something is actived": {
+    "translation": "看样子某些事件正在发生"
+  },
+  "What's this place? Weird magic teleport us to here": {
+    "translation": "这是什么地方?奇怪的魔法把我们传送到这里"
+  },
+  "This is a corpse.What happened to the advanced team?": {
+    "translation": "这是一具尸体?先锋小组怎么了!?"
+  },
+  "It seems like we have to go left side": {
+    "translation": "看来我们必须从左边走"
+  },
+  "It needs some time": {
+    "translation": "我们需要一些时间"
+  },
+  "It seems to need a key,Maybe we should look around": {
+    "translation": "看来需要一把钥匙,也许我们应该四处看看"
+  },
+  "hold on": {
+    "translation": "守住"
+  },
+  "It seems like we have to go right side": {
+    "translation": "看来我们必须从右边走"
+  },
+  "the middle way is blocked,destroy the iron fence": {
+    "translation": "中间的路被堵住了,赶快摧毁铁栅栏"
+  },
+  "Wait for the gate to open": {
+    "translation": "等待大门打开"
+  },
+  "try to give life to crystals to activate it": {
+    "translation": "正在尝试激活水晶"
+  },
+  "Arbitration has arrived!": {
+    "translation": "一位玩家获得了空间震"
+  },
+  "*stage set to 1*": {
+    "translation": "已选择第一关"
+  },
+  "*stage set to 2*": {
+    "translation": "已选择第二关"
+  },
+  "*stage set to 3*": {
+    "translation": "已选择第三关"
+  },
+  "C4 is going to explode!!!": {
+    "translation": "C4爆炸了!"
+  },
+  "why there are so many dragons at this island?": {
+    "translation": "这座岛上怎么那么多魔龙??"
+  },
+  "According to radar before our helicopter crashed,There seems to be a huge building nearby,We need to take a look": {
+    "translation": "根据直升机坠毁前的雷达显示,附近似乎有一座巨大的建筑,我们需要去看看"
+  },
+  "The gate is opening": {
+    "translation": "大门正在打开"
+  },
+  "It looks like a church, we need to get in": {
+    "translation": "看起来像教堂,我们得进去看看"
+  },
+  "Wait for the church gate to open": {
+    "translation": "等待教堂大门打开"
   }
 }
