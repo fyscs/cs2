@@ -511,6 +511,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_eye_for_an_eye_v22": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 45,
+    "nomination": true,
+    "admin": false
+  },
   "ze_evil_mansion_p": {
     "certainTimes": [-1],
     "price": 300,
@@ -903,6 +910,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_insanitycity_t": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false
+  },
   "ze_jiangnan_town_v3_1": {
     "certainTimes": [-1],
     "price": 300,
@@ -1219,6 +1233,13 @@
     "admin": false
   },
   "ze_obf_npst_v1": {
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 2000,
+    "cooldown": 160,
+    "nomination": true,
+    "admin": false
+  },
+  "ze_obf_npst_v2": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 2000,
     "cooldown": 160,
@@ -1856,8 +1877,8 @@
     "admin": false
   },
   "ze_tyranny_cs2": {
-    "certainTimes": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 650,
+    "certainTimes": [-1],
+    "price": 500,
     "cooldown": 85,
     "nomination": true,
     "admin": true
