@@ -10,24 +10,24 @@
   // econDamage (int) -> 伤害结算龙晶比例
   // 缺少的值将会继承base
 
-  {
-    "base": {
-      "rankPasses": 6,
-      "rankDamage": 14000,
-      "econPasses": 4,
-      "econDamage": 18000
-    },
-    "2": {
-      "rankPasses": 8,
-      "econPasses": 6
-    },
-    "3": {
-      "rankPasses": 9,
-      "econPasses": 6
-    },
-    "4": {
-      "rankPasses": 10,
-      "econPasses": 6
-    }
+{
+  "base": {
+    "rankPasses": 6,
+    "rankDamage": 14000,
+    "econPasses": 4,
+    "econDamage": 18000
+  },
+  "2": {
+    "rankPasses": 8,
+    "econPasses": 6
+  },
+  "3": {
+    "rankPasses": 9,
+    "econPasses": 6
+  },
+  "4": {
+    "rankPasses": 10,
+    "econPasses": 6
   }
+}
   
