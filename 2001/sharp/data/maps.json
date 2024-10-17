@@ -1211,6 +1211,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_ny_marathon_p2": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": false,
+    "admin": false
+  },
   "ze_obf_filth_v1": {
     "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 2000,
