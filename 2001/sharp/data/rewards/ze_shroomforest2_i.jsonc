@@ -19,18 +19,18 @@
   },
   "4": {
     "rankPasses": 6,
-    "econPasses": 6
+    "econPasses": 5
   },
   "5": {
     "rankPasses": 6,
-    "econPasses": 6
+    "econPasses": 5
   },
   "6": {
     "rankPasses": 8,
-    "econPasses": 8
+    "econPasses": 6
   },
   "7": {
     "rankPasses": 10,
-    "econPasses": 10
+    "econPasses": 8
   }
 }
