@@ -1379,6 +1379,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_parking_cs2": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": true
+  },
   "ze_paycheck_p": {
     "certainTimes": [-1],
     "price": 500,
