@@ -11,31 +11,31 @@
 
 {
   "** A player has adquired GRAVITY MATERIA **": {
-    "translation": "** 一名玩家获得了黑洞魔石 **"
+    "translation": "** 一名玩家获得了黑洞神器 **"
   },
   "** A player has adquired ULTIMA MATERIA **": {
-    "translation": "** 一名玩家获得了终极魔石 **"
+    "translation": "** 一名玩家获得了终极神器 **"
   },
   "** A player has adquired FIRE MATERIA **": {
-    "translation": "** 一名玩家获得了火魔石 **"
+    "translation": "** 一名玩家获得了火神器 **"
   },
   "** A player has adquired EARTH MATERIA **": {
-    "translation": "** 一名玩家获得了土魔石 **"
+    "translation": "** 一名玩家获得了土神器 **"
   },
   "** A player has adquired WIND MATERIA **": {
-    "translation": "** 一名玩家获得了风魔石 **"
+    "translation": "** 一名玩家获得了风神器 **"
   },
   "** A player has adquired ELECTRO MATERIA **": {
-    "translation": "** 一名玩家获得了电魔石 **"
+    "translation": "** 一名玩家获得了电神器 **"
   },
   "** A player has adquired ICE MATERIA **": {
-    "translation": "** 一名玩家获得了冰魔石 **"
+    "translation": "** 一名玩家获得了冰神器 **"
   },
   "** A player has adquired HEAL MATERIA **": {
-    "translation": "** 一名玩家获得了治疗魔石 **"
+    "translation": "** 一名玩家获得了治疗神器 **"
   },
   "** BAHAMUT IS DEAD ** KEEP RUNNING **": {
-    "translation": "** 巴哈姆特已击败-往上跑! **"
+    "translation": "** 巴哈姆特已死-往上跑! **"
   },
   "**** MAP BY: Hannibal[SPA] (Rafuron) ****": {
     "translation": "**** 地图作者: Hannibal[SPA] (Rafuron) 地图翻译:小妖梦@风云社 ****"
@@ -59,7 +59,7 @@
     "translation": "** 我们已经到达魔光炉的核心了  ...**"
   },
   "** ... Cloud is planting the bomb **": {
-    "translation": "** ... 克劳德正在安放炸弹 **"
+    "translation": "** ... 正在安放炸弹,是时候该结束一切了 **"
   },
   "** Bomb has been planted  **  Run **": {
     "translation": "** 炸弹已被安放-快走! **"
@@ -147,10 +147,10 @@
     "translation": "** 7秒后开门 **"
   },
   "**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **": {
-    "translation": "**恭喜你!你成功通关普通模式!更难的挑战将从困难模式开始! **"
+    "translation": "**恭喜你!你成功通关NORMAL模式!更难的挑战将从HARD模式开始! **"
   },
   "** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! **": {
-    "translation": "** 成功!你通关了困难模式-下一关为极限模式-祝你好运 **"
+    "translation": "** 成功!你通关了HARD模式-下一关为EX模式-祝你好运 **"
   },
   "** Dont stop shooting ! Dont let him attack !": {
     "translation": "** 保持火力!别给巴哈姆特喘息的机会 !"
@@ -180,7 +180,7 @@
     "translation": "** 这个怪物准备攻击我们 ! **"
   },
   "** YOU DID IT! YOU WON EXTREME ! YOU OWN! **": {
-    "translation": "** 你做到了!你成功通关极限模式!-你无敌了! **"
+    "translation": "** 做到了!你成功通关EX模式!-你无敌了! **"
   },
   "**Nice done! You interrumped Sephiroth s attack**": {
     "translation": "**干得好!你打断了萨菲罗斯的攻击**"
@@ -201,19 +201,19 @@
     "translation": "** 做好准备迎接巴哈姆特 **"
   },
   "** BAHAMUT HAS CAST FIRE! **": {
-    "translation": "** 巴哈姆特正在施放火元素!!-往后退! **"
+    "translation": "** 巴哈姆特正在施放火魔法!!-往后退! **"
   },
   "** BAHAMUT HAS CAST ICE **": {
-    "translation": "** 巴哈姆特正在施放冰元素! **"
+    "translation": "** 巴哈姆特正在施放冰魔法! **"
   },
   "** BAHAMUT HAS CAST ELECTRO! **": {
-    "translation": "** 巴哈姆特正在施放电元素!- 跳上高处! **"
+    "translation": "** 巴哈姆特正在施放电魔法!- 跳上高处! **"
   },
   "** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **": {
-    "translation": "** 巴哈姆特正在施放土元素- 打碎它! **"
+    "translation": "** 巴哈姆特正在施放土魔法- 打碎它! **"
   },
   "** BAHAMUT HAS CAST WIND **": {
-    "translation": "** 巴哈姆特正在施放风元素 **"
+    "translation": "** 巴哈姆特正在施放风魔法 **"
   },
   "** BAHAMUT HAS HEALED 300 HIT POINTS**": {
     "translation": "** 巴哈姆特恢复了三百血**"
@@ -225,19 +225,19 @@
     "translation": "** 终极将在10秒后爆炸 **"
   },
   "** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **": {
-    "translation": "** 所有的牛铃彩蛋都已被找到** 本回合巴哈姆特将不再释放技能 **"
+    "translation": "** 所有的COWBELLS都已被找到** 巴哈姆特将不会再出技能 **"
   },
   "** BAHAMUT HAS CAST GRAVITY **": {
-    "translation": "** 巴哈姆特正在施放黑洞元素-向后抵抗! **"
+    "translation": "** 巴哈姆特正在施放黑洞魔法-按住S抵抗它! **"
   },
   "** 3 COWBELLS LEFT! **": {
-    "translation": "** 还剩下三个牛铃彩蛋! **"
+    "translation": "** 还剩下三个COWBELLS! **"
   },
   "** 2 COWBELLS LEFT! **": {
-    "translation": "** 还剩下两个牛铃彩蛋! **"
+    "translation": "** 还剩下两个COWBELLS! **"
   },
   "** 1 COWBELLS LEFT!!! **": {
-    "translation": "** 还剩下一个牛铃彩蛋!! **"
+    "translation": "** 还剩下一个COWBELLS!! **"
   },
   "** ADMIN PRESSED KILL ALL BUTTON **": {
     "translation": "** 管理员按下了处死所有人的按钮 **"
@@ -246,13 +246,13 @@
     "translation": "**它死了,快往上跑 ! **"
   },
   "** COLOR DUE TO EXTREME DIFFICULTY **": {
-    "translation": "**提示:极限模式开始地图颜色将会发生变化 **"
+    "translation": "**提示:EX模式开始地图颜色将会发生变化 **"
   },
   "**CURRENT DIFFICULTY ** >> EXTREME II << **": {
-    "translation": "**当前难度 ** >> 极限II模式 EXTREME II << **"
+    "translation": "**当前难度 ** >> EXTREME II << **"
   },
   "** NO MORE COWBELL BONUS **": {
-    "translation": "** 敲铃人彩蛋已被全部触发 **"
+    "translation": "** COWBELL已被全部拾取,彩蛋已触发 **"
   },
   "** HUMAN VICTORY IN 20 SECONDS **": {
     "translation": "** 距离人类胜利还有20秒 **"
@@ -270,19 +270,19 @@
     "translation": "** 距离人类胜利还有四分钟 **"
   },
   "** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **": {
-    "translation": "** 僵尸生存模式-找个地方存活下去 **"
+    "translation": "** ZM模式-找个地方存活下去 **"
   },
   "** MAP COMPLETED  ** ZM ROUNDS **": {
     "translation": "** 全图通关 **"
   },
   "**CURRENT DIFFICULTY ** >> HARD << **": {
-    "translation": "**当前难度 ** >> 困难模式Hard << **"
+    "translation": "**当前难度 ** >> HARD模式 << **"
   },
   "**CURRENT DIFFICULTY ** >> EXTREME << **": {
-    "translation": "**当前难度 ** >> 极限模式EXTREME << **"
+    "translation": "**当前难度 ** >> EXTREME模式 << **"
   },
   "**CURRENT DIFFICULTY ** >> NORMAL << **": {
-    "translation": "**当前难度 ** >> 普通模式NORMAL << **"
+    "translation": "**当前难度 ** >> NORMAL模式 << **"
   },
   "*** MATERIAS AT LVL 2 ***": {
     "translation": "*** 当前神器等级:二 ***"
