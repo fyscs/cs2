@@ -23,10 +23,10 @@
     "translation": "**防守20秒**"
   },
   "**Nades do more damage**": {
-    "translation": "**手雷能对BOSS造成更高的伤害**"
+    "translation": "**手雷能对BOSS造成更多伤害**"
   },
   "** ADMIN HAS SELECTED EASY MODE IN THE ADMIN ROOM **": {
-    "translation": "** 管理员选择了普通模式 **"
+    "translation": "** 管理员选择了简单模式 **"
   },
   "**THE GATES WILL OPEN IN 20 SECONDS**": {
     "translation": "**大门将在20秒后打开**"
@@ -38,10 +38,11 @@
     "translation": "**僵尸出笼,你们打得太慢了**"
   },
   "**MAP BY HaRyDe & Headshooter.SC**": {
-    "translation": "**地图作者: HaRyDe & Headshooter.SC 地图汉化:大明&小妖梦@风云社**"
+    "translation": "**地图作者: HaRyDe & Headshooter.SC 地图汉化:大明&小妖梦@风云社 校正:superjond**"
   },
   "**ZE_FFXII_FEYWOOD**": {
-    "translation": "**欢迎游玩 幻妖之森**"
+    "translation": "**最终幻想12:幻妖之森**",
+    "blocked": true
   },
   "**Special thanks to Kaesar Batnik_Ref.smd Kaem Hannibal[SPA] (effects from his maps) and Slayerdragon**": {
     "translation": "**特别感谢: Kaesar Batnik_Ref.smd Kaem Hannibal[SPA], Slayerdragon**",
@@ -63,34 +64,34 @@
     "translation": "**高爆手雷现在不能对他造成伤害了**"
   },
   "(allahu-akbar)": {
-    "translation": "(阿拉胡阿克巴)"
+    "translation": "(安拉胡阿可巴)"
   },
   "**..WHAT IS IT?!**": {
     "translation": "**..这是什么?!**"
   },
   "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**": {
-    "translation": "**人类获得冰(等级一)**"
+    "translation": "**人类获得 寒冰 (等级一)**"
   },
   "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**": {
-    "translation": "**人类获得冰(等级二)**"
+    "translation": "**人类获得 寒冰 (等级二)**"
   },
   "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**": {
-    "translation": "**人类获得冰(等级三)**"
+    "translation": "**人类获得 寒冰 (等级三)**"
   },
   "**ZOMBIES HAVE ESCAPED**": {
     "translation": "**僵尸逃脱了**"
   },
   "**THE HENNE MINES ENTRANCE WILL OPEN IN 20 SECONDS**": {
-    "translation": "**赫尼魔石矿洞大门20秒后打开**"
+    "translation": "**赫尼魔石矿洞大门入口20秒后打开**"
   },
   "**Good luck...**": {
     "translation": "**祝你好运...**"
   },
   "**THE WAY WILL OPEN IN 25 SECONDS**KEEP DEFENDING**": {
-    "translation": "**25秒后道路可通**保持防守**"
+    "translation": "**25秒后道路开放**保持防守**"
   },
   "**THE WAY IS OPENED**": {
-    "translation": "**道路已通**"
+    "translation": "**道路已开放**"
   },
   "**UNFORTUNATELY THERE IS AN ERROR IN THE LEVEL SYSTEM**": {
     "translation": "**无**"
@@ -108,31 +109,31 @@
     "translation": "**墓穴大门20秒后打开**"
   },
   "+100 EXP GAINED. YOU HAVE LEVELED UP": {
-    "translation": "获得一百EXP. 你成功升级了"
+    "translation": "获得一百EXP. 你升级了"
   },
   "** GOOD JOB [YOU WON LEVEL 3] **": {
     "translation": "** 干的漂亮(你赢得了第三关) **"
   },
   "**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**": {
-    "translation": "**僵尸获得烈火(等级一)**"
+    "translation": "**僵尸获得 火焰 (等级一)**"
   },
   "**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**": {
-    "translation": "**僵尸获得火(等级二)**"
+    "translation": "**僵尸获得 火焰 (等级二)**"
   },
   "**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 3)**": {
-    "translation": "**僵尸获得火(等级三)**"
+    "translation": "**僵尸获得 火焰 (等级三)**"
   },
   "**THE SOLO WINNER WILL BE THE KING OF THE NEXT ROUND**": {
-    "translation": "**SOLO的人将会是下一轮的冠军**"
+    "translation": "**SOLO冠军将制霸下一回合**"
   },
   "**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**": {
-    "translation": "**人类获得风(等级一)**"
+    "translation": "**人类获得 旋风 (等级一)**"
   },
   "**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**": {
-    "translation": "**人类获得风(等级二)**"
+    "translation": "**人类获得 旋风 (等级二)**"
   },
   "**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**": {
-    "translation": "**人类获得风(等级三)**"
+    "translation": "**人类获得 旋风 (等级三)**"
   },
   "** GOOD JOB [YOU WON LEVEL 1] **": {
     "translation": "** 干的漂亮(你成功通关了第一关) **"
@@ -150,10 +151,10 @@
     "translation": "**世界聚焦于你!**"
   },
   "**2 MINUTES LEFT!**": {
-    "translation": "**二分钟!**"
+    "translation": "**还剩两分钟!**"
   },
   "**1 MINUTE LEFT**": {
-    "translation": "**一分钟!**"
+    "translation": "**还剩一分钟!**"
   },
   "**30 SECONDS LEFT!**": {
     "translation": "**剩余30秒!**"
@@ -165,7 +166,7 @@
     "translation": "**5秒!!!**"
   },
   "**TELEPORTING SOLO WINNER IN THE ADMIN ROOM. NOW HE WILL DECIDE...**": {
-    "translation": "**SOLOの人将被传送至调关房决定下一关关卡...**"
+    "translation": "**SOLO冠军将被传送至调关房决定下一关关卡...**"
   },
   "**THE WAY WILL OPEN IN 25 SECONDS**": {
     "translation": "**25秒后开路**"
@@ -186,25 +187,25 @@
     "translation": "**龙翼展开**"
   },
   "SHOOT THE GLASS BALL BEFORE IT IS TOO LATE": {
-    "translation": "趁现在,将玻璃球射出去!"
+    "translation": "趁现在将玻璃球打碎!"
   },
   "YOU WON THE MAP. YOU GOT MAXIMUM ITEM LEVEL ANYWAY": {
     "translation": "恭喜你通关了地图"
   },
   "EXTREME MODE - Discover the Garamsythe Waterway. WARNING - Esper.": {
-    "translation": "EX模式 - 探索加兰塞斯水道 - Esper."
+    "translation": "极限模式 - 探索加兰塞斯水道"
   },
   "OnTrigger>cmd>Command>**THE TOMB GATES WILL OPEN IN 20 SECONDS**>0.00>1": {
     "translation": "墓穴大门将在20秒后打开"
   },
   "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**": {
-    "translation": "**人类获得电(Lv.1)**"
+    "translation": "**人类获得 雷电 (等级一)**"
   },
   "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**": {
-    "translation": "**人类获得电(Lv.2)**"
+    "translation": "**人类获得 雷电 (等级二)**"
   },
   "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**": {
-    "translation": "**人类获得电(Lv.3)**"
+    "translation": "**人类获得 雷电 (等级三)**"
   },
   "**ZODIARK READIES DARK. USE HEAL IF NESSESARY**": {
     "translation": "**暗雨**"
@@ -219,13 +220,13 @@
     "translation": "**龙卷风**"
   },
   "**CHAOS HAS CAST DARKAGA**": {
-    "translation": "**重力抓取**"
+    "translation": "**重力**"
   },
   "**CHAOS HAS CAST BLIZZAGA**": {
     "translation": "**暴风雪**"
   },
   "**CHAOS IS CASTING HOLY**GET OUT OF HIM!!!**": {
-    "translation": "**轮回王释放神圣之力!远离他!!!**"
+    "translation": "**轮回王正在释放神圣魔法!快远离!!!**"
   },
   "**YOU HAVE FAILED**": {
     "translation": "**人类失败**"
@@ -234,28 +235,28 @@
     "translation": "**支线任务: 寻找陆行鸟 已完成**"
   },
   "**CHOCOBO SHOP IS OPENED FOREVER HAVE A GOOD RIDE!**": {
-    "translation": "**巧克力店将祝你有个好的旅程!**"
+    "translation": "**陆行鸟商店已开放，祝你一路顺风!**"
   },
   "**THE FENCES WILL OPEN SOON**": {
     "translation": "**两侧铁门10秒后打开**"
   },
   "**CHOCHOBO SIDEQUEST STRATED**": {
-    "translation": "**陆行鸟重拳出击**"
+    "translation": "**陆行鸟支线任务启动**"
   },
   "**FIND 300 GIL TO UNLOCK CHOCOBOS ON SPAWN**": {
-    "translation": "**找到三百gil解锁陆行鸟**"
+    "translation": "**搜寻三百gil解锁陆行鸟商店**"
   },
   "**DEFEND THE GROUND FOR 30 SECONDS**": {
     "translation": "**守住这里30秒**"
   },
   "** Nades do more damage **": {
-    "translation": "** 手雷能造成更高的伤害 **"
+    "translation": "** 手雷能造成更多的伤害 **"
   },
   "**THIS IS A DRAGON**WE MUST KILL HIM**": {
-    "translation": "**一只野生的龙挡住了去路!把它驯服**"
+    "translation": "**一只野生的龙挡住了去路!杀了他**"
   },
   "NORMAL MODE - Explore the Necrohol of Nabudis. WARNING - Esper.": {
-    "translation": "普通模式 -  探索死都纳布迪斯. ." 
+    "translation": "普通模式 -  探索死都纳布迪斯. " 
   },
   "**THE TELEPORTER WILL BE ACTIVE IN 20 SECONDS**": {
     "translation": "**传送器20秒后激活**"
@@ -267,13 +268,13 @@
     "translation": "**飞船受到了守护者的攻击**"
   },
   "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**": {
-    "translation": "**僵尸获得秒杀(等级一)**"
+    "translation": "**僵尸获得 秒杀 (等级一)**"
   },
   "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**": {
-    "translation": "**僵尸获得秒杀(等级二)**"
+    "translation": "**僵尸获得 秒杀 (等级二)**"
   },
   "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 3)**": {
-    "translation": "**僵尸获得秒杀(等级三)**"
+    "translation": "**僵尸获得 秒杀 (等级三)**"
   },
   "**Welcome to Garland airship**": {
     "translation": "**欢迎来到加兰德飞船**"
@@ -291,7 +292,7 @@
     "translation": "**你已经杀死了佐迪亚克,是时候该逃离赫尼魔石矿了**"
   },
   "**THE END GATES WILL OPEN IN 50 SECONDS**": {
-    "translation": "**最终の门50秒后打开**"
+    "translation": "**最终大门50秒后打开**"
   },
   "50 SECONDS LEFT": {
     "translation": "剩余50秒"
@@ -315,7 +316,7 @@
     "translation": "剩余20秒"
   },
   "**THE END DOOR WILL OPEN IN 10 SECONDS**GET READY FOR THE END FIGHT**": {
-    "translation": "**10秒后最终の门打开!准备最后的战斗**"
+    "translation": "**10秒后最终大门打开!准备最后的战斗**"
   },
   "15 SECONDS LEFT": {
     "translation": "剩余15秒"
@@ -327,22 +328,22 @@
     "translation": "剩余5秒"
   },
   "**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**": {
-    "translation": "**僵尸获得黑洞(等级一)**"
+    "translation": "**僵尸获得 黑洞 (等级一)**"
   },
   "**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**": {
-    "translation": "**僵尸获得黑洞(等级二)**"
+    "translation": "**僵尸获得 黑洞 (等级二)**"
   },
   "**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 3)**": {
-    "translation": "**僵尸获得黑洞(等级三)**"
+    "translation": "**僵尸获得 黑洞 (等级三)**"
   },
   "**WE HAVE DEFEATED CHAOS**": {
-    "translation": "**轮回王: 小喽啰们下次见**"
+    "translation": "**轮回王已被击败**"
   },
   "**WE HAVE TO LEAVE THIS TEMPLE AS SOON AS POSSIBLE**": {
     "translation": "**我们必须尽快离开这座墓穴**"
   },
   "**THE TELEPORTER WILL BE ACTIVE IN 10 SECONDS**": {
-    "translation": "**传送机将在10秒内启动**"
+    "translation": "**传送器将在10秒内启动**"
   },
   "**THE GATES ARE OPENING**": {
     "translation": "**大门正在打开**"
@@ -396,28 +397,29 @@
     "translation": "**墓穴大门25秒后关闭**"
   },
   "**THE TOMB GATES WILL CLOSE IN 5 SECONDS**": {
-    "translation": "**T墓穴大门5秒后关闭**"
+    "translation": "**墓穴大门5秒后关闭**"
   },
   "** ADMIN HAS SELECTED EXTREME MODE IN THE ADMIN ROOM **": {
-    "translation": "** 管理员在调关房中选择了EX模式 **"
+    "translation": "** 管理员在调关房中选择了极限模式 **"
   },
   "**CHUCHULAINN HAS HEALED 150 HP**": {
-    "translation": "**不净王回复了一百五HP**"
+    "translation": "**不净王回复了150HP**",
+    "blocked": true
   },
   "**CHUCHULAINN HAS USED SHIELD(YOU CAN'T USE ITEMS FOR 10 SEC)**": {
-    "translation": "**不净王使用了神器沉默(10秒内人类神器沉默)**"
+    "translation": "**不净王使用了护盾(10秒内人类神器沉默)**"
   },
   "**CHUCHULAINN HAS USED MASSIVE POSION ATTACK GET OUT OF HIM TO SURVIVE**": {
     "translation": "**不净王释放了大量的毒雾!快远离**"
   },
   "** ADMIN HAS SELECTED ZOMBIE ROUND IN THE ADMIN ROOM **": {
-    "translation": "** 管理员在调关房中选择了ZM模式 **"
+    "translation": "** 管理员在调关房中选择了僵尸感染模式 **"
   },
   "**YOU NEED TO BREAK CRYSTALS IN SIDE ROOMS TO GET ACCESS TO DOORS**": {
-    "translation": "**打破两边房间的水晶打开大门**"
+    "translation": "**打破两边房间的水晶解锁大门**"
   },
   "**THE MOST POWERFUL ATTACK IS IN 5 SECONDS**": {
-    "translation": "**5秒内攻击加强**"
+    "translation": "**5秒内将释放最强力的攻击**"
   },
   "** YOU HAVE FAILED **": {
     "translation": "** 你失败了 **"
@@ -429,13 +431,13 @@
     "translation": "**在僵尸抓到我们之前打败龙**"
   },
   "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**": {
-    "translation": "**人类获得黑洞(等级一)**"
+    "translation": "**人类获得 黑洞 (等级一)**"
   },
   "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**": {
-    "translation": "**人类获得黑洞(等级二)**"
+    "translation": "**人类获得 黑洞 (等级二)**"
   },
   "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**": {
-    "translation": "**人类获得黑洞(等级三)**"
+    "translation": "**人类获得 黑洞 (等级三)**"
   },
   "**ZODIARK READIES FLARE**": {
     "translation": "**耀斑**"
@@ -444,7 +446,7 @@
     "translation": "**佐迪亚克使用了护盾(免疫子弹和手雷)**"
   },
   "**WATCH OUT FOR THE STRONG WIND**": {
-    "translation": "**小心龙造成的大风!别被吹下去**"
+    "translation": "**小心龙造成的大风!抵抗!**"
   },
   "**THE DRAGON HAS CAST DARKAGA**": {
     "translation": "**龙之吞噬**"
@@ -453,55 +455,55 @@
     "translation": "**龙毒喷吐**"
   },
   "**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**": {
-    "translation": "**人类获得奶(等级一)**"
+    "translation": "**人类获得 治疗 (等级一)**"
   },
   "**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**": {
-    "translation": "**人类获得奶(等级二)**"
+    "translation": "**人类获得 治疗 (等级二)**"
   },
   "**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**": {
-    "translation": "**人类获得奶(等级三)**"
+    "translation": "**人类获得 治疗 (等级三)**"
   },
   "**OH NO! THIS IS A CHAOS**": {
-    "translation": "**轮回王: 小喽啰们又来跳刀了**"
+    "translation": "**是轮回王**"
   },
   "10% POWER": {
-    "translation": "能量激活百分之十"
+    "translation": "能量:百分之十"
   },
   "20% POWER": {
-    "translation": "能量激活百分之二十"
+    "translation": "能量:百分之二十"
   },
   "30% POWER": {
-    "translation": "能量激活百分之三十"
+    "translation": "能量:百分之三十"
   },
   "40% POWER": {
-    "translation": "能量激活百分之四十"
+    "translation": "能量:百分之四十"
   },
   "50% POWER": {
-    "translation": "能量激活百分之五十"
+    "translation": "能量:百分之五十"
   },
   "60% POWER": {
-    "translation": "能量激活百分之六十"
+    "translation": "能量:百分之六十"
   },
   "70% POWER": {
-    "translation": "能量激活百分之七十"
+    "translation": "能量:百分之七十"
   },
   "80% POWER": {
-    "translation": "能量激活百分之八十"
+    "translation": "能量:百分之八十"
   },
   "90% POWER": {
-    "translation": "能量激活百分之九十"
+    "translation": "能量:百分之九十"
   },
   "HARD MODE - Explore the Golmore Jungle and locate the Jungle Tomb. WARNING - Dragon.": {
-    "translation": "困难模式 - 探索葛尔摩大密林,寻找丛林墓穴. ."
+    "translation": "困难模式 - 探索葛尔摩大森林,寻找丛林墓穴. ."
   },
   "**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**": {
-    "translation": "**僵尸获得治疗(等级一)**"
+    "translation": "**僵尸获得 治疗 (等级一)**"
   },
   "**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 2)**": {
-    "translation": "**僵尸获得治疗(等级二)**"
+    "translation": "**僵尸获得 治疗 (等级二)**"
   },
   "**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 3)**": {
-    "translation": "**僵尸获得治疗(等级三)**"
+    "translation": "**僵尸获得 治疗 (等级三)**"
   },
   "**CACTUAR BLOCKED THE ROAD**SHOOT HIM!**": {
     "translation": "**仙人掌挡住了去路!攻击它!**"
@@ -513,7 +515,7 @@
     "translation": "**撤退,还剩10秒**"
   },
   "**YOU ARE ENTERING THE GOLMORE JUNGLE**GOOD LUCK**": {
-    "translation": "**你进入了戈尔摩亚大森林!祝你好运**"
+    "translation": "**你进入了葛尔摩大森林!祝你好运**"
   },
   "**YOU WILL ENTER IN 5 SECONDS**": {
     "translation": "**5秒后可以进入**"
@@ -528,7 +530,7 @@
     "translation": "热身回合-等待玩家加入地图"
   },
   "**YOU WILL ENTER THE ARENA IN 10 SECONDS****": {
-    "translation": "**10秒后可以进入矿穴深处****"
+    "translation": "**10秒后可以进入角斗场****"
   },
   "**ZOMBE CAGE OPEN**YOU HAVE FAILED**": {
     "translation": "**尸笼打开了!你失败了**"
@@ -546,16 +548,16 @@
     "translation": "***佐迪亚克准备释放爆炸!快远离他!!!***"
   },
   "**WE HAVE A EPIC SOLO WINNER!!!**": {
-    "translation": "**欧我的上帝,看看是谁SOLO了!!!**"
+    "translation": "**噢我的天,看看是谁SOLO了!!!**"
   },
   "**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**": {
-    "translation": "*人类获得火(等级一)**"
+    "translation": "**人类获得 火焰 (等级一)**"
   },
   "**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**": {
-    "translation": "**人类获得火(等级二)**"
+    "translation": "**人类获得 火焰 (等级二)**"
   },
   "**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**": {
-    "translation": "**人类获得火(等级三)**"
+    "translation": "**人类获得 火焰 (等级三)**"
   },
   "**THE GATE WILL OPEN IN 20 SECONDS**": {
     "translation": "**大门20秒后打开**"
@@ -588,31 +590,36 @@
     "translation": "到桥的另一边,防守30秒"
   },
   "HASTE +1": {
-    "translation": "急速+一"
+    "translation": "仇恨值+1",
+    "blocked": true
   },
   "HASTE +2": {
-    "translation": "急速+二"
+    "translation": "仇恨值+2",
+    "blocked": true
   },
   "HASTE +3": {
-    "translation": "急速+三"
+    "translation": "仇恨值+3",
+    "blocked": true
   },
   "HASTE +4": {
-    "translation": "急速+四"
+    "translation": "仇恨值+4",
+    "blocked": true
   },
   "HASTE +5(MAX POWER)": {
-    "translation": "急速+五(已升满)"
+    "translation": "仇恨值+5(最高)",
+    "blocked": true
   },
   "**THE BOSS IS DAMAGED BUT NOW HE'S THE MOST DANGEROUS**": {
-    "translation": "**佐迪亚克受伤了!但是他还是很危险**"
+    "translation": "**佐迪亚克进入濒死状态!攻击力提升**"
   },
   "**KILL HIM FASTER**": {
     "translation": "**尽快杀了他**"
   },
   "ZOMBIE ROUND - Survive with zombies.": {
-    "translation": "ZM关-生存下去."
+    "translation": "僵尸感染模式-生存下去."
   },
   "**THE MAP IS BEATEN. ZOMBIE ROUNDS**": {
-    "translation": "**地图已通关!ZM模式加入中**"
+    "translation": "**地图已通关!当前模式为僵尸感染模式**"
   },
   "**THE TELEPORTER TO RABANASTRA IS OPENED**": {
     "translation": "**前往失落之都拉巴纳斯塔的传送已经激活**"
@@ -627,12 +634,12 @@
     "translation": "**僵尸陆行鸟已被拾取**"
   },
   "**Cactus found. The player who did it got 1 level**": {
-    "translation": "**支线: 找到仙人掌!奖励: 提升一个等级**"
+    "translation": "**仙人掌支线已完成，奖励: 提升一级神器等级**"
   },
   "YOU FOUND THE CACTUS. YOU GOT 100 EXP AND LEVELED UP": {
-    "translation": "恭喜你找到了仙人掌.你得到了一百个经验值并提升一级"
+    "translation": "一位玩家找到了仙人掌.该玩家得到了一百经验值并提升一级神器等级"
   },
   "**A PLAYER HAS ACQUIRED BERSERK MAGICK**": {
-    "translation": "**人类获得补给道具(抬头按E切换弹药/加速)**"
+    "translation": "**人类获得 狂暴 魔法(抬头按E切换弹药/加速)**"
   }
 }
