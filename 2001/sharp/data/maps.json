@@ -931,6 +931,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_jurassic_park_story_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": false
+  },
   "ze_k19_escape_p": {
     "certainTimes": [-1],
     "price": 300,
