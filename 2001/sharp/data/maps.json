@@ -119,6 +119,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_arknights_sows": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": true
+  },
   "ze_artika_base_p": {
     "certainTimes": [-1],
     "price": 300,
