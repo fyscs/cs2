@@ -112,7 +112,10 @@
     "blocked": true
   },
   "** Cover here till the boxes explode **": {
-    "translation": "** Cover here till the boxes explode **"
+    "translation": "守住,障碍物即将爆炸"
+  },
+  "**defend 25 secs**": {
+    "translation": "还有25秒"
   },
   "[ADMIN] Added [INSANE DIFFICULTY] for next round.": {
     "translation": "[管理员] 已启用 Insane模组."
