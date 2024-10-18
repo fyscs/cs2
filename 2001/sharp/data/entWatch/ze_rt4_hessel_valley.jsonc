@@ -415,7 +415,8 @@
     "knife": true,
     "mode": 2,
     "count": 1
-  },{
+  },
+  {
     "name": "传送",
     "shortName": "传送",
     "buttonClass": "func_button",
