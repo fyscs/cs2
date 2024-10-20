@@ -50,21 +50,24 @@
       "iterator": "Nihi_Hp_Counter_C",
       "hitbox": "Nihilanth_HitBox_Main",
       "display": "Nihi:Phase3"
+    },
+    {
+      "iterator": "Nihi_Crystal_A_Counter",
+      "hitbox": "Nihi_Crystal_A_Phy",
+      "display": "CryStal:A"
+    },
+    {
+      "iterator": "Nihi_Crystal_B_Counter",
+      "hitbox": "Nihi_Crystal_B_Phy",
+      "display": "CryStal:B"
+    },
+    {
+      "iterator": "Nihi_Crystal_C_Counter",
+      "hitbox": "Nihi_Crystal_C_Phy",
+      "display": "CryStal:C"
     }
   ],
   "Monsters": [
-    {
-      "identity": "30852",
-      "display": "CryStal"
-    },
-    {
-      "identity": "30856",
-      "display": "CryStal"
-    },
-    {
-      "identity": "30858",
-      "display": "CryStal"
-    },
     {
       "identity": "31178",
       "display": "Barnacle"
