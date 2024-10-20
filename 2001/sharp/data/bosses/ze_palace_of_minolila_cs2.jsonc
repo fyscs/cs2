@@ -25,7 +25,6 @@
       "iterator": "2boss_hp",
       "hitbox": "2_boss_hitbox",
       "backup": "2boss_hp_add",
-      "backup": "",
       "display": "Boss",
       "counter": "2boss_hp_left"
     },
@@ -33,22 +32,19 @@
       "iterator": "ex1_boss_hp",
       "hitbox": "ex1_boss_hitbox",
       "backup": "",
-      "display": "X博士",
-      "counter": "ex1_boss_hp"
+      "display": "X博士"
     },
     {
       "iterator": "ex1_final_boss_hp",
       "hitbox": "ex1_final_boss_hitbox",
       "backup": "",
-      "display": "X博士",
-      "counter": "ex1_final_boss_hp"
+      "display": "X博士"
     },
     {
       "iterator": "ex2_final_boss_hp",
       "hitbox": "ex2_final_laser_hitbox",
       "backup": "",
-      "display": "米诺莉拉",
-      "counter": "ex2_final_boss_hp"
+      "display": "米诺莉拉"
     },
     {
       "iterator": "ex2_boss_hp",
@@ -70,15 +66,13 @@
       "iterator": "3_final_boss_hp",
       "hitbox": "3_final_boss_hitbox",
       "backup": "",
-      "display": "X博士",
-      "counter": "3_final_boss_hp"
-    },
+      "display": "X博士"
+    }
+  ],
+  "Monsters": [
     {
-      "iterator": "ex2_boss_black_hp",
-      "hitbox": "ex2_boss_black_hitbox",
-      "backup": "",
-      "display": "black",
-      "counter": "ex2_boss_black_hp"
+      "identity": "2523",
+      "display": "Black"
     }
   ]
 }
