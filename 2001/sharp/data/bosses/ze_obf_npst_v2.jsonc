@@ -29,7 +29,7 @@
     {
       "iterator": "Nihi_Hp_Counter_D",
       "hitbox": "Nihilanth_HitBox_Head",
-      "display": "Head"
+      "display": "Nihi:Head"
     },
     {
       "iterator": "Sniper_Counter",
@@ -50,23 +50,25 @@
       "iterator": "Nihi_Hp_Counter_C",
       "hitbox": "Nihilanth_HitBox_Main",
       "display": "Nihi:Phase3"
-    }
-  ],
-  "Monsters": [
-    {
-      "identity": "30852",
-      "display": "CryStal"
     },
     {
-      "identity": "30856",
-      "display": "CryStal"
+      "iterator": "Nihi_Crystal_A_Counter",
+      "hitbox": "Nihi_Crystal_A_Phy",
+      "display": "CryStal:A"
     },
     {
-      "identity": "30858",
-      "display": "CryStal"
+      "iterator": "Nihi_Crystal_B_Counter",
+      "hitbox": "Nihi_Crystal_B_Phy",
+      "display": "CryStal:B"
     },
     {
-      "identity": "31178",
+      "iterator": "Nihi_Crystal_C_Counter",
+      "hitbox": "Nihi_Crystal_C_Phy",
+      "display": "CryStal:C"
+    },
+    {
+      "iterator": "barnacle_counter",
+      "hitbox": "barnacle_physbox",
       "display": "Barnacle"
     }
   ]
