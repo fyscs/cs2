@@ -29,7 +29,7 @@
     {
       "iterator": "Nihi_Hp_Counter_D",
       "hitbox": "Nihilanth_HitBox_Head",
-      "display": "Head"
+      "display": "Nihi:Head"
     },
     {
       "iterator": "Sniper_Counter",
@@ -65,11 +65,10 @@
       "iterator": "Nihi_Crystal_C_Counter",
       "hitbox": "Nihi_Crystal_C_Phy",
       "display": "CryStal:C"
-    }
-  ],
-  "Monsters": [
+    },
     {
-      "identity": "31178",
+      "iterator": "barnacle_counter",
+      "hitbox": "barnacle_physbox",
       "display": "Barnacle"
     }
   ]
