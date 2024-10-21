@@ -1,0 +1,61 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** DEFEND/NUKE 30s ***": {
+    "translation": "*** 还有30秒核爆 ***"
+  },
+  "*** NUKE 2 *** ": {
+    "translation": "*** 2 *** "
+  },
+  "*** NUKE 3 *** ": {
+    "translation": "*** 3 *** "
+  },
+  "*** NUKE 1 *** ": {
+    "translation": "*** 1 *** "
+  },
+  "*** Map by: Kappoochino ***": {
+    "translation": "*** 作者: Kappoochino 汉化:元帅***"
+  },
+  "*** rtv *** ": {
+    "translation": "*** 可以换图啦 *** "
+  },
+  "*** Zombies (all) tp in 15 s ***": {
+    "translation": "*** 15秒后僵尸传送 ***"
+  },
+  "*** DEFEND 10s***": {
+    "translation": "*** 防守10秒***"
+  },
+  "*** FALL BACK ***": {
+    "translation": "*** 撤退! ***"
+  },
+  ">>> DEFEND 30s <<<": {
+    "translation": ">>> 防守30秒 <<<"
+  },
+  ">>> FALL BACK <<<": {
+    "translation": ">>> 撤退! <<<"
+  },
+  "*** Special Thanks testing: GFL & MAPEADORES  ***": {
+    "translation": "*** 特别鸣谢: GFL & MAPEADORES  ***"
+  },
+  "*** Zombies TP in 5 sec! *** ": {
+    "translation": "*** 5秒后僵尸传送! *** "
+  },
+  "* * *Defend 30 seconds * * *": {
+    "translation": "* * *防守30秒 * * *"
+  },
+  "* * * FALL BACK * * *": {
+    "translation": "* * * 撤退 * * *"
+  },
+  "*** Zombies tp in 10 seconds ***": {
+    "translation": "*** 10秒后僵尸传送 ***"
+  }
+}
