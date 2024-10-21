@@ -54,7 +54,7 @@
     "cooldown": 30,
     "nomination": false,
     "admin": false
-  }, 
+  },
   "ze_aooka": {
     "certainTimes": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 500,
@@ -76,7 +76,6 @@
     "nomination": true,
     "admin": false
   },
-
   "ze_aperturescience_p": {
     "certainTimes": [-1],
     "price": 300,
@@ -111,13 +110,20 @@
     "cooldown": 60,
     "nomination": true,
     "admin": false
-  }, 
+  },
   "ze_arknights_initium": {
     "certainTimes": [-1],
     "price": 400,
     "cooldown": 60,
     "nomination": true,
     "admin": false
+  },
+  "ze_arknights_sows": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": true
   },
   "ze_artika_base_p": {
     "certainTimes": [-1],
@@ -588,28 +594,14 @@
     "nomination": false,
     "admin": true
   },
-  "ze_ffxii_feywood_t": {
+  "ze_ffvii_mako_reactor_v5_3": {
     "certainTimes": [12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 1000,
     "cooldown": 120,
     "nomination": true,
     "admin": false
   },
-  "ze_ffxii_westersand_v8": {
-    "certainTimes": [12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 1000,
-    "cooldown": 120,
-    "nomination": true,
-    "admin": true
-  },
-   "ze_ffvii_mako_reactor_v5_3": {
-    "certainTimes": [12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 1000,
-    "cooldown": 120,
-    "nomination": true,
-    "admin": false
-  },
-   "ze_ffvii_mako_reactor_v6_p": {
+  "ze_ffvii_mako_reactor_v6_p": {
     "certainTimes": [12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 1000,
     "cooldown": 120,
@@ -630,7 +622,21 @@
     "nomination": true,
     "admin": false
   },
+  "ze_ffxii_feywood_t": {
+    "certainTimes": [12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 1000,
+    "cooldown": 120,
+    "nomination": true,
+    "admin": false
+  },
   "ze_ffxii_westersand_v7_t": {
+    "certainTimes": [12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 1000,
+    "cooldown": 120,
+    "nomination": true,
+    "admin": false
+  },
+  "ze_ffxii_westersand_v8": {
     "certainTimes": [12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 1000,
     "cooldown": 120,
@@ -641,6 +647,13 @@
     "certainTimes": [12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 500,
     "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
+  "ze_ffxiv_the_orbonne_monastery": {
+    "certainTimes": [11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 800,
+    "cooldown": 100,
     "nomination": true,
     "admin": false
   },
@@ -665,7 +678,7 @@
     "nomination": false,
     "admin": false
   },
-   "ze_fond_dream": {
+  "ze_fond_dream": {
     "certainTimes": [-1],
     "price": 700,
     "cooldown": 80,
@@ -896,14 +909,14 @@
     "nomination": true,
     "admin": false
   },
-  "ze_interception_p": {
+  "ze_insanitycity_t": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
     "nomination": false,
     "admin": false
   },
-  "ze_insanitycity_t": {
+  "ze_interception_p": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
@@ -919,6 +932,13 @@
   },
   "ze_journey_p": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": false
+  },
+  "ze_jurassic_park_story_p": {
+    "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
     "nomination": true,
@@ -1140,7 +1160,7 @@
     "cooldown": 30,
     "nomination": false,
     "admin": false
-  },  
+  },
   "ze_misaka": {
     "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 650,
@@ -1169,7 +1189,7 @@
     "nomination": false,
     "admin": false
   },
-   "ze_neron": {
+  "ze_neron": {
     "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 550,
     "cooldown": 100,
@@ -1204,14 +1224,14 @@
     "nomination": false,
     "admin": false
   },
-  "ze_nuke_p": {
+  "ze_nuclear_site_survie_by_gm": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
     "nomination": false,
     "admin": false
   },
-  "ze_nuclear_site_survie_by_gm": {
+  "ze_nuke_p": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
@@ -1260,14 +1280,14 @@
     "nomination": true,
     "admin": false
   },
-  "ze_obj_rampage_v1_2": {
+  "ze_obj_escalation_v1": {
     "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 2000,
     "cooldown": 160,
     "nomination": true,
     "admin": false
   },
-  "ze_obj_escalation_v1": {
+  "ze_obj_rampage_v1_2": {
     "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 2000,
     "cooldown": 160,
@@ -1348,6 +1368,13 @@
     "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 1000,
     "cooldown": 160,
+    "nomination": true,
+    "admin": false
+  },
+  "ze_p_v_z": {
+    "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 800,
+    "cooldown": 60,
     "nomination": true,
     "admin": false
   },
@@ -1477,13 +1504,6 @@
     "nomination": false,
     "admin": false
   },
-  "ze_p_v_z": {
-    "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 800,
-    "cooldown": 60,
-    "nomination": true,
-    "admin": false
-  },
   "ze_r_w_b_ulti_cs2": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 600,
@@ -1496,6 +1516,13 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
+    "admin": false
+  },
+  "ze_raintime2_stormwindkeep_v3": {
+    "certainTimes": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 800,
+    "cooldown": 160,
+    "nomination": true,
     "admin": false
   },
   "ze_random_p": {
@@ -1538,13 +1565,6 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false
-  },
-  "ze_raintime2_stormwindkeep_v3": {
-    "certainTimes": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 800,
-    "cooldown": 160,
-    "nomination": true,
     "admin": false
   },
   "ze_rt0_genesis_cs2": {
@@ -1624,13 +1644,6 @@
     "nomination": true,
     "admin": true
   },
-  "ze_simple_teamplay_p": {
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 40,
-    "nomination": false,
-    "admin": false
-  },
   "ze_siberia_1990_p": {
     "certainTimes": [-1],
     "price": 300,
@@ -1642,6 +1655,55 @@
     "certainTimes": [-1],
     "price": 550,
     "cooldown": 80,
+    "nomination": true,
+    "admin": false
+  },
+  "ze_silent_hill_3_dawn": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
+  "ze_silent_hill_3_flee": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
+  "ze_silent_hill_blackblood": {
+    "certainTimes": [-1],
+    "price": 500,
+    "cooldown": 60,
+    "nomination": false,
+    "admin": false
+  },
+  "ze_simple_teamplay_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 40,
+    "nomination": false,
+    "admin": false
+  },
+  "ze_sisyphus": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": true
+  },
+  "ze_sky_fantasy_v1": {
+    "certainTimes": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 600,
+    "cooldown": 80,
+    "nomination": true,
+    "admin": false
+  },
+  "ze_sky_fantasy_v2": {
+    "certainTimes": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 550,
+    "cooldown": 140,
     "nomination": true,
     "admin": false
   },
@@ -1666,20 +1728,6 @@
     "nomination": true,
     "admin": false
   },
-  "ze_sky_fantasy_v1": {
-    "certainTimes": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 600,
-    "cooldown": 80,
-    "nomination": true,
-    "admin": false
-  },
-  "ze_sky_fantasy_v2": {
-    "certainTimes": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 550,
-    "cooldown": 140,
-    "nomination": true,
-    "admin": false
-  },
   "ze_sorrento_escape_p": {
     "certainTimes": [-1],
     "price": 300,
@@ -1687,42 +1735,14 @@
     "nomination": false,
     "admin": false
   },
-  "ze_silent_hill_3_flee": {
-    "certainTimes": [-1],
-    "price": 400,
-    "cooldown": 100,
-    "nomination": true,
-    "admin": false
-  },
-  "ze_silent_hill_blackblood": {
-    "certainTimes": [-1],
-    "price": 500,
-    "cooldown": 60,
-    "nomination": false,
-    "admin": false
-  },
-  "ze_silent_hill_3_dawn": {
-    "certainTimes": [-1],
-    "price": 400,
-    "cooldown": 100,
-    "nomination": true,
-    "admin": false
-  },
-  "ze_sisyphus": {
+  "ze_sst2_p": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
-    "nomination": true,
-    "admin": true
+    "nomination": false,
+    "admin": false
   },
   "ze_stab_town_p": {
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 30,
-    "nomination": false,
-    "admin": false
-  },
-  "ze_sst2_p": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
@@ -2021,13 +2041,6 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false
-  },
-  "ze_ffxiv_the_orbonne_monastery": {
-    "certainTimes": [11,12,13,14,15,16,17,18,19,20,21,22,23],
-    "price": 800,
-    "cooldown": 100,
-    "nomination": true,
     "admin": false
   }
 }
