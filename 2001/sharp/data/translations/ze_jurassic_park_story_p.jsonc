@@ -1,0 +1,238 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>>>Tazer has been picked<<<<": {
+    "translation": ">>>>Tazer 已被拾取<<<<"
+  },
+  ">>>>Flamethrower has been picked<<<<": {
+    "translation": ">>>>喷火器 已被拾取 <<<<"
+  },
+  ">>LOCKDOWN IN 5s<<": {
+    "translation": ">>5秒后上锁<<"
+  },
+  ">>LOCKDOWN IN 45s<<": {
+    "translation": ">>45秒后上锁<<"
+  },
+  ">>LOCKDOWN IN 20s<<": {
+    "translation": ">>20秒后上锁<<"
+  },
+  ">>HELICOPTER ON WAY<<": {
+    "translation": ">>直升机正在路上<<"
+  },
+  ">>BUNKER LOCKDOWN IN 5s<<": {
+    "translation": ">>5秒后地堡上锁<<"
+  },
+  ">>BUNKER LOCKDOWN IN 45s<<": {
+    "translation": ">>45秒后地堡上锁<<"
+  },
+  ">>BUNKER LOCKDOWN IN 20s<<": {
+    "translation": ">>20秒内锁定地堡<<"
+  },
+  ">>GO TO THE MAIN DOOR<<": {
+    "translation": ">>前往正门<<"
+  },
+  ">>PLANK BROKEN ! FIND THE HOLE IN THE FENCE ON LEFT<<": {
+    "translation": ">>找到左侧栅栏上的洞<<"
+  },
+  ">>GO INTO THE OFFICE AND PRESS THE BUTTON<<": {
+    "translation": ">>进入办公室并按下按钮<<"
+  },
+  ">>WELCOME TO JURASSIC PARK<<": {
+    "translation": ">>欢迎来到侏罗纪公园<<"
+  },
+  ">>TRIGGER THE C4 TO BLOW UP THE TREE<<": {
+    "translation": ">>触发 C4 炸毁树木<<"
+  },
+  ">>ZM USE THE MANUAL BUTTON TO OPEN THE DOOR<<": {
+    "translation": ">>ZM 需要使用手动按钮开门<<"
+  },
+  ">>RUN !<<": {
+    "translation": ">>快跑 !<<"
+  },
+  ">>EXPLOSION IN 25s !<<": {
+    "translation": ">>25 秒后爆炸!<<"
+  },
+  ">>ZOMBIES CLIMB THE HILL<<": {
+    "translation": ">>僵尸爬到了山头<<"
+  },
+  ">>CLIMB TO THE TREE ! TAKE CARE !<<": {
+    "translation": ">>爬到树上! 小心!<<"
+  },
+  ">>TAKEOFF IN 15s<<": {
+    "translation": ">>15 秒内起飞<<"
+  },
+  ">>TAKEOFF<<": {
+    "translation": ">>起飞咯<<"
+  },
+  ">>TAKEOFF IN 10s<<": {
+    "translation": ">>10 秒内起飞<<"
+  },
+  ">>TAKEOFF IN 5s<<": {
+    "translation": ">>5 秒内起飞<<"
+  },
+  ">>RESTART THE POWER IN Jurassic Park<<": {
+    "translation": ">>重启侏罗纪公园的能源<<"
+  },
+  ">>FOLLOW THE RED PIPE<<": {
+    "translation": ">>沿着红管走<<"
+  },
+  ">>RESTORE THE POWER TO OPEN THE DOOR<<": {
+    "translation": ">>恢复开门的电源<<"
+  },
+  ">>LYSINE CONTINGENGY ACTIVATED<<": {
+    "translation": ">>启动应急能源<<"
+  },
+  ">>LYSINE CONTINGENGY ACTIVATION IN 15s<<": {
+    "translation": ">>15 秒后激活<<"
+  },
+  ">>MAP BY LeGrem<<": {
+    "translation": ">>地图作者: LeGrem  汉化:Zeyu1<<"
+  },
+  ">>BOAT LEAVING IN 45s<<": {
+    "translation": ">>船45秒后离开<<"
+  },
+  ">>THE BOAT IS LEAVING THE DOCK<<": {
+    "translation": ">>船要离开码头了<<"
+  },
+  ">>BOAT LEAVING IN 5s<<": {
+    "translation": ">>船5秒后离开<<"
+  },
+  ">>BOAT LEAVING IN 20s<<": {
+    "translation": ">>船20秒后离开<<"
+  },
+  ">>SYSTEM ENABLE IN 40s<<": {
+    "translation": ">>40秒后系统启动<<"
+  },
+  ">>COVER THE DOOR<<": {
+    "translation": ">>把门关上<<"
+  },
+  ">>THAT WINDOW DON'T LOOK VERY STRONG<<": {
+    "translation": ">>那扇窗户看起来不太结实<<"
+  },
+  ">>TAKE CARE !<<": {
+    "translation": ">>小心 !<<"
+  },
+  ">>SYSTEM ENABLE IN 20s<<": {
+    "translation": ">>20秒后系统启动<<"
+  },
+  ">>SYSTEM ENABLE IN 5s<<": {
+    "translation": ">>5秒后系统启动<<"
+  },
+  ">>TAKE THE LADDER ! BREAKING IN 10s<<": {
+    "translation": ">>上梯子! 它10秒后消失!<<"
+  },
+  ">>TAKE THE LADDER ! BREAKING IN 5s<<": {
+    "translation": ">>上梯子! 它5秒后消失!<<"
+  },
+  ">>LADDER BROKEN ! YOU ARE DEAD IF YOU STILL THERE<<": {
+    "translation": ">>梯子坏了! 如果你还在那里,你就死定了<<"
+  },
+  ">>GO TO THE CONTROL ROOM RESTART THE SYSTEM<<": {
+    "translation": ">>前往控制室重启系统<<"
+  },
+  ">>FOLLOW THE SIGN ON THE WALL<<": {
+    "translation": ">>跟着墙上的标志走<<"
+  },
+  ">>JEEPS LEAVING IN 5s AND 8s<<": {
+    "translation": ">>吉普车5秒后离开<<"
+  },
+  ">>RUN. REX BLOCK THE ZOMBIES<<": {
+    "translation": ">>快跑! 有东西在阻挡僵尸!<<"
+  },
+  ">>WAIT T-REX HELP<<": {
+    "translation": ">>等待T-REX的救援<<"
+  },
+  ">>COVER 6s<<": {
+    "translation": ">>掩护6秒<<"
+  },
+  ">>PREPARE TO COVER<<": {
+    "translation": ">>掩护!<<"
+  },
+  ">>CT COVER UNTIL T-REX ATTACK<<": {
+    "translation": ">在T-REX攻击前打好掩护<<"
+  },
+  ">>DOCK ESCAPE<<": {
+    "translation": ">>船坞逃生路线<<"
+  },
+  ">>BUNKER ESCAPE<<": {
+    "translation": ">>地堡逃生路线<<"
+  },
+  ">>HELIPAD ESCAPE<<": {
+    "translation": ">>直升机逃生路线<<"
+  },
+  ">>DAY<<": {
+    "translation": ">>白天已开启<<"
+  },
+  ">>NIGHT<<": {
+    "translation": ">>夜晚已开启<<"
+  },
+  ">>GO TO THE BUNKER AND RESTORE THE POWER<<": {
+    "translation": ">>去地堡恢复电力<<"
+  },
+  ">>GO TO THE BUNKER QUICK ! <<": {
+    "translation": ">>快去地堡! <<"
+  },
+  ">>CT : COVER UNTIL T-REX BREAK THE FENCE<<": {
+    "translation": ">>CT : 掩护! 直到霸王龙冲破栅栏<<"
+  },
+  ">>GALLIMIMUS PADDOCKS : DISABLE<<": {
+    "translation": ">>GALLIMIMUS 围场: 已禁用<<"
+  },
+  ">>TRICERATOPS PADDOCKS : DISABLE<<": {
+    "translation": ">>TRICERATOPS 围场: 已禁用<<"
+  },
+  ">>BRACHIOSAURUS PADDOCKS : DISABLE<<": {
+    "translation": ">>BRACHIOSAURUS 围场 : 已禁用<<"
+  },
+  ">>DILOPHAUSAURUS PADDOCKS : DISABLE<<": {
+    "translation": ">>DILOPHAUSAURUS 围场 : 已禁用<<"
+  },
+  ">>RESERVE PADDOCKS 2 : DISABLE<<": {
+    "translation": ">>围场 二 : 已禁用<<"
+  },
+  ">>RESERVE PADDOCKS 1 : DISABLE<<": {
+    "translation": ">>围场 一 : 已禁用<<"
+  },
+  ">>VISITOR RIDE SYSTEM : DISABLE<<": {
+    "translation": ">>访客系统 : 已禁用<<"
+  },
+  ">>BACKUP SYSTEM : DISABLE<<": {
+    "translation": ">>备用系统 : 已禁用<<"
+  },
+  ">>VIDEO SYSTEM : DISABLE<<": {
+    "translation": ">>视频系统 : 已禁用<<"
+  },
+  ">>CHECKING PADDOCKS<<": {
+    "translation": ">>正在检查<<"
+  },
+  ">>PHONE COMMUNICATION : DISABLE<<": {
+    "translation": ">>电话通讯 : 已禁用<<"
+  },
+  ">>LIGHT POWER GRID : DISABLE<<": {
+    "translation": ">>电网 : 已禁用<<"
+  },
+  ">>DOOR SECURITY SYSTEM : DISABLE<<": {
+    "translation": ">>门禁系统 : 已禁用<<"
+  },
+  ">>SYSTEM CHECKING PROCESS<<": {
+    "translation": ">>系统正在检查程序<<"
+  },
+  ">>GLOBAL FENCE PERIMETER : DISABLE<<": {
+    "translation": ">>全部围栏 : 已禁用<<"
+  },
+  ">>T-REX PADDOCKS : DISABLE<<": {
+    "translation": ">>T-REX 围场 : 已禁用<<"
+  },
+  ">>GLOBAL FAILURE OF ALL SYSTEMS<<": {
+    "translation": ">>所有系统全面瘫痪<<"
+  }
+}
