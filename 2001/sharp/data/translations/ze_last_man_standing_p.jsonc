@@ -1,0 +1,121 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** a JUGGERNAUT has been picked up! **": {
+    "translation": "机械狗已加入战场!"
+  },
+  "[>Jumper< entered the game]": {
+    "translation": "飞跃者已加入战斗!"
+  },
+  "[>Vortigaunt< entered the game]": {
+    "translation": "弗地岗人已加入战斗!"
+  },
+  "[>Summoner< entered the game]": {
+    "translation": "黑洞法师已加入战斗!"
+  },
+  "[>Tank< entered the game]": {
+    "translation": "僵尸坦克已加入战斗!"
+  },
+  "[>Alma< entered the game]": {
+    "translation": "女鬼已加入战斗!"
+  },
+  "++ MAP BY HANNIBAL[SPA] / Rafuron ++": {
+    "translation": "地图作者:HANNIBAL[SPA] / Rafuron"
+  },
+  "++ Thanks to George and Sgt. zuff ++": {
+    "translation": "感谢George和Sgt. zuff"
+  },
+  "Warmup: 90 seconds": {
+    "translation": "热身结束还有90秒"
+  },
+  "Warmup: 80 seconds": {
+    "translation": "热身结束还有80秒",
+    "blocked": true
+  },
+  "Warmup: 70 seconds": {
+    "translation": "热身结束还有70秒",
+    "blocked": true
+  },
+  "Warmup: 60 seconds": {
+    "translation": "热身结束还有60秒",
+    "blocked": true
+  },
+  "Warmup: 50 seconds": {
+    "translation": "热身结束还有50秒",
+    "blocked": true
+  },
+  "Warmup: 40 seconds": {
+    "translation": "热身结束还有40秒",
+    "blocked": true
+  },
+  "Warmup: 30 seconds": {
+    "translation": "热身结束还有30秒",
+    "blocked": true
+  },
+  "Warmup: 20 seconds": {
+    "translation": "热身结束还有20秒",
+    "blocked": true
+  },
+  "Warmup: 10 seconds": {
+    "translation": "热身结束还有10秒",
+    "blocked": true
+  },
+  "Warmup: 5 seconds": {
+    "translation": "热身结束还有50秒",
+    "blocked": true
+  },
+  "Warmup over": {
+    "translation": "热身回合结束"
+  },
+  "** ADMIN END ROUND **": {
+    "translation": "**管理员强制结束本回合**"
+  },
+  "** EXTREME MODE ENABLED **": {
+    "translation": "EXTREME难度已加载"
+  },
+  "++Stage 5 Set++": {
+    "translation": "管理员调整为第五关"
+  },
+  "++Stage 3 Set++": {
+    "translation": "管理员调整为第三关"
+  },
+  "** ALL EVENTS ENABLED **": {
+    "translation": "全事件已加载"
+  },
+  "++Stage 4 Set++": {
+    "translation": "管理员调整为第四关"
+  },
+  "** COMPLETE MAP RESET **": {
+    "translation": "管理员重置了地图"
+  },
+  "++Stage 2 Set++": {
+    "translation": "管理员调整为第二关"
+  },
+  "++Stage 1 Set++": {
+    "translation": "管理员调整为第一关"
+  },
+  "** ZOMBIES TRIGGERED! YOU LOSE **": {
+    "translation": "不!僵尸比你更快的触发了开关"
+  },
+  "|||FAR RIGHT CONSOLE PRESSED|||": {
+    "translation": "最右边的控制台已按下"
+  },
+  "|||LEFT CONSOLE PRESSED|||": {
+    "translation": "左边的控制台已按下"
+  },
+  "|||FAR LEFT CONSOLE PRESSED|||": {
+    "translation": "最左边的控制台已按下"
+  },
+  "|||RIGHT CONSOLE PRESSED|||": {
+    "translation": "右边的控制台已按下"
+  }
+}
