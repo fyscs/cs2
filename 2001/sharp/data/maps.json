@@ -979,6 +979,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_last_man_standing_p": {
+    "certainTimes": [13,14,15,16,17,18,19,20,21,22,23],
+    "price": 2000,
+    "cooldown": 120,
+    "nomination": true,
+    "admin": true
+  },
   "ze_lazers_p": {
     "certainTimes": [-1],
     "price": 300,
