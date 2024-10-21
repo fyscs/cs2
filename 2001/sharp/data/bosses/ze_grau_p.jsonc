@@ -23,7 +23,7 @@
   "Counters": [
     {
       "iterator": "counter_st3_boss_vida",
-      "backup": "",
+      "mass": 70,
       "counter": "counter_st3_boss_vida_bar",
       "hitbox": "st3_boss_break",
       "display": "Block"
