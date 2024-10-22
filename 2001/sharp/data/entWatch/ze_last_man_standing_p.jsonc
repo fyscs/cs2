@@ -22,8 +22,19 @@
 
 [
   {
-    "name": "Paranoid",
-    "shortName": "Para",
+    "name": "老司机",
+    "shortName": "司机",
+    "buttonClass": "func_button",
+    "hammerId": "6",
+    "cooldown": 0,
+    "team": 3,
+    "knife": false,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "喷火枪",
+    "shortName": "喷火",
     "buttonClass": "func_button",
     "hammerId": "13729",
     "cooldown": 0,
@@ -44,8 +55,8 @@
     "count": 1
   },
   {
-    "name": "免疫",
-    "shortName": "免疫",
+    "name": "免疫装置",
+    "shortName": "免疫装置",
     "buttonClass": "game_ui",
     "hammerId": "4544",
     "cooldown": 0,
@@ -66,8 +77,8 @@
     "count": 1
   },
   {
-    "name": "加速",
-    "shortName": "加速",
+    "name": "超越极限",
+    "shortName": "超越极限",
     "buttonClass": "func_button",
     "hammerId": "4520",
     "cooldown": 0,
@@ -77,8 +88,8 @@
     "count": 1
   },
   {
-    "name": "激光",
-    "shortName": "激光",
+    "name": "免疫枪",
+    "shortName": "免疫枪",
     "buttonClass": "func_button",
     "hammerId": "4494",
     "cooldown": 0,
@@ -121,8 +132,8 @@
     "count": 1
   },
   {
-    "name": "雷枪",
-    "shortName": "雷枪",
+    "name": "风枪",
+    "shortName": "风枪",
     "buttonClass": "func_button",
     "hammerId": "954",
     "cooldown": 0,
@@ -141,7 +152,7 @@
     "team": 3,
     "knife": false,
     "mode": 1,
-    "count": 1
+    "count": 15
   },
   {
     "name": "地雷",
@@ -225,8 +236,8 @@
     "count": 1
   },
   {
-    "name": "高跳",
-    "shortName": "高跳",
+    "name": "飞扑",
+    "shortName": "飞扑",
     "buttonClass": "game_ui",
     "hammerId": "630",
     "triggerId": ["624"],
@@ -262,7 +273,7 @@
   },
   {
     "name": "黑洞法师",
-    "shortName": "黑洞",
+    "shortName": "法师",
     "buttonClass": "game_ui",
     "hammerId": "353",
     "triggerId": ["350"],
