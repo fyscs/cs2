@@ -60,10 +60,10 @@
     "shortName": "榴弹",
     "buttonClass": "func_button",
     "hammerId": "5830",
-    "cooldown": 4,
+    "cooldown": 5,
     "team": 3,
     "knife": false,
-    "mode": 3,
+    "mode": 2,
     "count": 1
   },
   {
@@ -84,7 +84,7 @@
     "cooldown": 45,
     "team": 3,
     "knife": false,
-    "mode": 3,
+    "mode": 2,
     "count": 1
   },
   {
