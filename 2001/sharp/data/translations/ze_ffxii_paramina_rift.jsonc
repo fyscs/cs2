@@ -1,0 +1,460 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** MATEUS TRICKED US! IT'S A FAKE ESPER! **": {
+    "translation": ">> 玛提乌斯骗了我们!这是假的!! >>"
+  },
+  "** Player has acquired the esper MATEUS **": {
+    "translation": "<< 玩家获得了 皇帝 <<"
+  },
+  "** Player has acquired a HOLY-POTION **": {
+    "translation": "<< 玩家获得了 神圣药水 <<"
+  },
+  "** Player has acquired a SPEED-POTION **": {
+    "translation": "<< 玩家获得了 速度药水 <<"
+  },
+  "** Player has acquired a AMMO-POTION **": {
+    "translation": "<< 玩家获得了 补给药水 <<"
+  },
+  "** Player has acquired a HI-POTION **": {
+    "translation": "<< 玩家获得了 大回复药水 <<"
+  },
+  "** Player has acquired a HP-POTION **": {
+    "translation": "<< 玩家获得了 小回复药水 <<"
+  },
+  "** Player has learned AERO (WIND MAGICK)**": {
+    "translation": "<< 玩家掌握了 风魔法 <<"
+  },
+  "** Player has learned POISON (POISON MAGICK)**": {
+    "translation": "<< 玩家掌握了 毒魔法 <<"
+  },
+  "** Player has learned BLIZZARD (ICE MAGICK)**": {
+    "translation": "<< 玩家掌握了 冰魔法 <<"
+  },
+  "** Player has learned FIRE (FIRE MAGICK)**": {
+    "translation": "<< 玩家掌握了 火魔法 <<"
+  },
+  "** Player has learned CURE (HEAL MAGICK)**": {
+    "translation": "<< 玩家掌握了 治疗魔法 <<"
+  },
+  ">>The esper MATEUS is killed in action<<": {
+    "translation": ">>The esper MATEUS is killed in action<<"
+  },
+  ">>The esper MATEUS has been summoned<<": {
+    "translation": ">> <玛提乌斯> 已被召唤 <<"
+  },
+  "** BUTTON PRESSED - HOLD 20 SECONDS **": {
+    "translation": "已按下按钮,等待20秒"
+  },
+  "** END OF THE LINE **": {
+    "translation": ">> 决一死战 <<"
+  },
+  "** YOU HAVE FAILED.. **": {
+    "translation": "<< 你失败了 <<"
+  },
+  "** KILL REMAINING ZOMBIES **": {
+    "translation": ">> 清理剩余的僵尸 >>"
+  },
+  "** COVER AND WAIT FOR SOMETHING TO HAPPEN **": {
+    "translation": ">> 守住,有什么要发生了 >>"
+  },
+  "** THE SWORD WILL OPEN THE WAY SOON **": {
+    "translation": ">> 路径即将开放 >>"
+  },
+  "** SHOOT THE SWARM BEFORE THEY CAN ATTACK **": {
+    "translation": "快朝它们射击!!"
+  },
+  "** OH NO - THEY SUMMONED CHAOS **": {
+    "translation": "哦不,它们召唤了 <轮回王>"
+  },
+  "** CHAOS IS CASTING RAINS OF TERROR **": {
+    "translation": "<轮回王> 正在使用"
+  },
+  "** REMEMBER TO HOLD THE ZOMBIES TOO!! **": {
+    "translation": "同时守住僵尸!!!!"
+  },
+  "** NADES DO A LOT OF DAMAGE **": {
+    "translation": "手雷会造成大量伤害!"
+  },
+  "** IT SEEMS THAT THE ENTRANCE TO THE SHRINE IS BLOCKED BY ICE PIKES **": {
+    "translation": "看起来遗迹的入口被冰锥堵住了"
+  },
+  "** YOU COULD USE FIRE TO MELT IT FASTER.. **": {
+    "translation": "可以使用<火>来使它更快融化..."
+  },
+  "** HOLD 25 SECONDS **": {
+    "translation": "坚持25秒"
+  },
+  "** 5 SECONDS LEFT **": {
+    "translation": "** 5 SECONDS LEFT **",
+    "blocked": true
+  },
+  "** HOLD 20 SECONDS BEFORE A RANDOM PATH OPENS **": {
+    "translation": "随机路径将在20秒后开放"
+  },
+  "** HOLD 5 MORE SECONDS **": {
+    "translation": "** HOLD 5 MORE SECONDS **",
+    "blocked": true
+  },
+  "** WE ARE ALMOST OUT THIS FOREST **": {
+    "translation": "我们快离开丛林了"
+  },
+  "** DEFEND HERE TILL THIS GATE OPENS **": {
+    "translation": "守住,门就要打开了"
+  },
+  "** 5 MORE SECONDS **": {
+    "translation": "** 5 MORE SECONDS **",
+    "blocked": true
+  },
+  "** 15 MORE SECONDS **": {
+    "translation": "还有15秒"
+  },
+  "** MAKE A STAND HERE TILL WE FOUND A WAY OUT **": {
+    "translation": "守住这里,正在寻找出路"
+  },
+  "** WE HAVE TO JUMP IF WE WANT TO ESCAPE THE TEMPLE! **": {
+    "translation": "我们得跳下去,才能离开神殿"
+  },
+  "** HOLD 30 SECONDS UNTIL THE WAY OPENS **": {
+    "translation": "还有30秒开放"
+  },
+  "** GATES OPEN IN 30 SECONDS **": {
+    "translation": "大门还有30秒打开"
+  },
+  "** GATES OPEN IN 5 SECONDS **": {
+    "translation": "** GATES OPEN IN 5 SECONDS **",
+    "blocked": true
+  },
+  "** GATE OPENS IN 5 SECONDS **": {
+    "translation": "** GATE OPENS IN 5 SECONDS **",
+    "blocked": true
+  },
+  "** GATE OPENS IN 15 SECONDS **": {
+    "translation": "大门还有15秒开启"
+  },
+  "** ELEVATOR WILL LEAVE IN 30 SECONDS **": {
+    "translation": "电梯将在30秒后离开"
+  },
+  "** ELEVATOR WILL LEAVE IN 5 SECONDS **": {
+    "translation": "** ELEVATOR WILL LEAVE IN 5 SECONDS **",
+    "blocked": true
+  },
+  "** HOLD THE ELEVATOR TILL WE REACH THE TOP **": {
+    "translation": "守住电梯!我们要前往顶层!!"
+  },
+  "** GET IN THE TREASURE ROOM!! **": {
+    "translation": "快进来藏宝室!!!"
+  },
+  "** DEFEND 25 SECONDS **": {
+    "translation": "坚持25秒"
+  },
+  "** LIFT IS LEAVING IN 5 SECONDS **": {
+    "translation": "** LIFT IS LEAVING IN 5 SECONDS **",
+    "blocked": true
+  },
+  "** LIFT IS LEAVING AGAIN - GET IN **": {
+    "translation": "电梯即将再次启动,快进来"
+  },
+  "** MAP BY SLAYERDRAGON & NOCTALI **": {
+    "translation": "地图制作:SLAYERDRAGON & OCTALI 文本翻译:Liastical"
+  },
+  "** ALL STATUES HAVE BEEN ALIGNED.. **": {
+    "translation": ">> 所有雕像已完成校准.. >>"
+  },
+  "** .. HOLD 10 MORE SECONDS **": {
+    "translation": ">> 还有10秒 >>"
+  },
+  "** BOSS HAS BEEN STAGGERED **": {
+    "translation": ">>> Boss进入虚弱状态 >>>"
+  },
+  "** STAGGERED (12 SECS LEFT) **": {
+    "translation": "<虚弱状态> 还有12秒",
+    "blocked": true
+  },
+  "** STAGGERED (11 SECS LEFT) **": {
+    "translation": "** STAGGERED (11 SECS LEFT) **",
+    "blocked": true
+  },
+  "** STAGGERED (10 SECS LEFT) **": {
+    "translation": "** STAGGERED (10 SECS LEFT) **",
+    "blocked": true
+  },
+  "** BULLETS/NADES DOES 200 '/. DAMAGE ON BOSS FOR 10 SECONDS **": {
+    "translation": ">>> 子弹与手雷将在此段时间内对Boss造成大量伤害 >>>"
+  },
+  "** STAGGERED (9 SECS LEFT) **": {
+    "translation": "** STAGGERED (9 SECS LEFT) **",
+    "blocked": true
+  },
+  "** STAGGERED (13 SECS LEFT) **": {
+    "translation": "** STAGGERED (13 SECS LEFT) **",
+    "blocked": true
+  },
+  "** STAGGERED (15 SECS LEFT) **": {
+    "translation": "<虚弱状态> 还有15秒"
+  },
+  "** STAGGERED (14 SECS LEFT) **": {
+    "translation": "** STAGGERED (14 SECS LEFT) **",
+    "blocked": true
+  },
+  "** STAGGERED (8 SECS LEFT) **": {
+    "translation": "** STAGGERED (8 SECS LEFT) **",
+    "blocked": true
+  },
+  "** STAGGERED (7 SECS LEFT) **": {
+    "translation": "** STAGGERED (7 SECS LEFT) **",
+    "blocked": true
+  },
+  "** STAGGERED (6 SECS LEFT) **": {
+    "translation": "** STAGGERED (6 SECS LEFT) **",
+    "blocked": true
+  },
+  "** STAGGERED (5 SECS LEFT) **": {
+    "translation": "** STAGGERED (5 SECS LEFT) **",
+    "blocked": true
+  },
+  "** STAGGERED (4 SECS LEFT) **": {
+    "translation": "** STAGGERED (4 SECS LEFT) **",
+    "blocked": true
+  },
+  "** STAGGERED (3 SECS LEFT) **": {
+    "translation": "** STAGGERED (3 SECS LEFT) **",
+    "blocked": true
+  },
+  "** STAGGERED (2 SECS LEFT) **": {
+    "translation": "** STAGGERED (2 SECS LEFT) **",
+    "blocked": true
+  },
+  "** STAGGERED (1 SEC LEFT) **": {
+    "translation": "** STAGGERED (1 SEC LEFT) **",
+    "blocked": true
+  },
+  "** STAGGERED (DONE) **": {
+    "translation": ">>> <虚弱状态> 已结束 >>>"
+  },
+  "** MATEUS IS DEAD! GO ESCAPE TO THE FOREST! **": {
+    "translation": "<玛提乌斯>死了,快去丛林那里!!"
+  },
+  "** [DIFFICULTY] NORMAL **": {
+    "translation": "<难度>: NORMAL"
+  },
+  "** YOU KILLED MATEUS **": {
+    "translation": "你击杀了玛提乌斯!!!"
+  },
+  "** [DIFFICULTY] INSANE **": {
+    "translation": "<难度>: INSANE"
+  },
+  "** YOU DEFEATED MATEUS **": {
+    "translation": "你击败了玛提乌斯!!!"
+  },
+  "** [STAGE 1] PARAMINA RIFT **": {
+    "translation": "[关卡]: 帕拉米纳峡谷"
+  },
+  "** [STAGE 2] STILSHRINE OF MIRIAM **": {
+    "translation": "[关卡]: 米利暗遗迹"
+  },
+  "** 15 SECONDS BEFORE EVERYONE FREEZES TO DEATH!  **": {
+    "translation": ">> 距离死亡还有15秒 >>"
+  },
+  "** BOSS MATEUS CHARGES HIS LAST ATTACK!  **": {
+    "translation": "<玛提乌斯> 使用了终极一击!!"
+  },
+  "** CHAOS IS DEFEATED ONCE AND FOR ALL **": {
+    "translation": "<轮回王> 已被彻底击败!!"
+  },
+  "** HOLD THE ENTRANCE FOR 30 SECONDS **": {
+    "translation": "守住入口,还有30秒"
+  },
+  "** THIS IS THE END OF THE FIRST STAGE **": {
+    "translation": "这里是第一关最后一个守点了"
+  },
+  "** MAKE SURE NO ZOMBIES ENTER THE SHRINE **": {
+    "translation": ">> 确保不要有僵尸进来 >>"
+  },
+  "** HOLD THE ENTRANCE FOR 10 SECONDS **": {
+    "translation": "** HOLD THE ENTRANCE FOR 10 SECONDS **",
+    "blocked": true
+  },
+  "** HOLD THE ENTRANCE FOR 5 SECONDS **": {
+    "translation": "** HOLD THE ENTRANCE FOR 5 SECONDS **",
+    "blocked": true
+  },
+  "** HOLD THE ENTRANCE FOR 20 SECONDS **": {
+    "translation": "** HOLD THE ENTRANCE FOR 20 SECONDS **",
+    "blocked": true
+  },
+  "** BOSS SPAWNED SOME MINIONS **": {
+    "translation": "<Boss> 召唤了一些仆从!"
+  },
+  "** OH GOD ITS MATEUS! SHOOT IT! **": {
+    "translation": "是<玛提乌斯>!!快开枪!!"
+  },
+  "Stage 1 - Find a way through Paramina Rift and locate the \nStilshrine of Miriam..": {
+    "translation": "关卡一: 找寻道路穿过帕拉米纳峡谷,确定米利暗遗迹的位置"
+  },
+  "Stage 2 - Find the hidden treasures and defeat the Esper Mateus in \nStilshrine of Miriam..": {
+    "translation": "关卡二: 找到隐藏的物品,并击败躲藏在遗迹内的皇帝玛提乌斯"
+  },
+  "** MATEUS IS CHARGING FOR SUPERATTACK **": {
+    "translation": "<玛提乌斯> 正在准备使用寒冰攻击"
+  },
+  "** Congratulations - you won STAGE 1 NORMAL **": {
+    "translation": "祝贺你们!你完成了<普通难度>关卡一"
+  },
+  "** Congratulations - you won STAGE 2 NORMAL **": {
+    "translation": "祝贺你们!你完成了<普通难度>关卡二"
+  },
+  "** Congratulations - you won STAGE 1 INSANE **": {
+    "translation": "祝贺你们!你完成了<疯狂难度>关卡一"
+  },
+  "** There is an error in the level system. **": {
+    "translation": "关卡设置出现了错误"
+  },
+  "** Congratulations - you won STAGE 2 INSANE **": {
+    "translation": "祝贺你们!你完成了<疯狂难度>关卡二"
+  },
+  "** SOLVE THE BUTTON PUZZLE **": {
+    "translation": "完成<按钮解密>"
+  },
+  "** SOLVE THE STATUE PUZZLE **": {
+    "translation": "完成<雕像解密>"
+  },
+  "** THE RIGHT WAY HAS BEEN OPENED **": {
+    "translation": ">> <右边> 的道路已打开 >>"
+  },
+  "** THE LEFT WAY HAS BEEN OPENED **": {
+    "translation": ">> <左边> 的道路已打开 >>"
+  },
+  "** YOU HAVE COMPLETED THE SIDE QUEST **": {
+    "translation": "你们已完成 <支线任务>"
+  },
+  "** POTIONS REWARD OBTAINED IN STAGE 2 **": {
+    "translation": "<随机奖励> 已于第二关准备就绪"
+  },
+  "35 GIL OBTAINED BY DEACTIVATING A TOWER": {
+    "translation": "已破坏<塔>, 获得Gil 三十五"
+  },
+  "TREASURE +1 GIL FOUND": {
+    "translation": "获得Gil 一"
+  },
+  "TREASURE +27 GIL FOUND": {
+    "translation": "获得Gil 二十七"
+  },
+  "TREASURE +53 GIL FOUND": {
+    "translation": "获得Gil 五十三"
+  },
+  "TREASURE +64 GIL FOUND": {
+    "translation": "获得Gil 六十四"
+  },
+  "TREASURE +71 GIL FOUND": {
+    "translation": "获得Gil 七十一"
+  },
+  "TREASURE +87 GIL FOUND": {
+    "translation": "获得Gil 八十七"
+  },
+  "TREASURE +100 GIL FOUND": {
+    "translation": "获得Gil 一百"
+  },
+  "TREASURE +113 GIL FOUND": {
+    "translation": "获得Gil 一百一十三"
+  },
+  "TREASURE +120 GIL FOUND": {
+    "translation": "获得Gil 一百二十"
+  },
+  "1/5 TOWERS DESTROYED!": {
+    "translation": "已摧毁一座塔"
+  },
+  "2/5 TOWERS DESTROYED!": {
+    "translation": "已摧毁二座塔"
+  },
+  "3/5 TOWERS DESTROYED!": {
+    "translation": "已摧毁三座塔"
+  },
+  "4/5 TOWERS DESTROYED!": {
+    "translation": "已摧毁四座塔"
+  },
+  "ALL TOWERS DESTROYED!": {
+    "translation": "所有塔已被摧毁"
+  },
+  "** A WAY HAS BEEN OPENED **": {
+    "translation": "一条路开启了"
+  },
+  "** ZE FFXII PARAMINA RIFT **": {
+    "translation": "ZE_帕拉米亚峡谷"
+  },
+  "** MAP Ported To CSGO By Asami **": {
+    "translation": "CSGO移植:Asami"
+  },
+  "** MAP Ported To CS2 By Futues Rewrtten & Tenshi. **": {
+    "translation": "CS2移植: Futues Rewrtten & Tenshi."
+  },
+  "** THE ICE IS MELTED - DOOR SHOULD BE OPEN SOON **": {
+    "translation": "冰融化了,门应该很快就开了"
+  },
+  "** BARRIER 1 OPENS IN 20 SECS **": {
+    "translation": "障碍物一还有20秒清除"
+  },
+  "** BARRIER 2 OPENS IN 20 SECS **": {
+    "translation": "障碍物二还有20秒清除"
+  },
+  "** MYSTERIOUS ROOM WILL OPEN IN 30 SECONDS **": {
+    "translation": "神秘房间30秒后开放"
+  },
+  "** 5 MORE SECONDS LEFT BEFORE ENTERING THE MYSTERIOUS ROOM **": {
+    "translation": "** 5 MORE SECONDS LEFT BEFORE ENTERING THE MYSTERIOUS ROOM **",
+    "blocked": true
+  },
+  "** HOLD HERE TILL THE GATE OPENS **": {
+    "translation": "守住!门就要开了"
+  },
+  "** 5 MORE SECONDS TILL GATE OPENS **": {
+    "translation": "** 5 MORE SECONDS TILL GATE OPENS **",
+    "blocked": true
+  },
+  "** GATE WILL OPEN IN 25 SECONDS **": {
+    "translation": "大门25秒后打开"
+  },
+  "** DOOR WILL OPEN IN 30 SECONDS **": {
+    "translation": "还有30秒"
+  },
+  "** 5 MORE SECONDS TILL DOOR OPENS **": {
+    "translation": "** 5 MORE SECONDS TILL DOOR OPENS **",
+    "blocked": true
+  },
+  "** YOU FOUND A WAY TO OPEN THE GATE **": {
+    "translation": "你发现了打开门的方法"
+  },
+  "** SHOULDNT BE TOO LONG TILL IT OPENS.. **": {
+    "translation": "应该花不了多长时间..."
+  },
+  "** DOOR WILL OPEN IN 25 SECONDS **": {
+    "translation": "还有25秒"
+  },
+  "** [ADMIN] LEVEL CHANGED TO STAGE 1 NORMAL **": {
+    "translation": "[管理员]: 已设定至第一关 Normal"
+  },
+  "** [ADMIN] LEVEL CHANGED TO STAGE 1 INSANE **": {
+    "translation": "[管理员]: 已设定至第一关 Insane"
+  },
+  "** [ADMIN] LEVEL CHANGED TO STAGE 2 NORMAL **": {
+    "translation": "[管理员]: 已设定至第二关 Normal"
+  },
+  "** [ADMIN] LEVEL CHANGED TO STAGE 2 INSANE **": {
+    "translation": "[管理员]: 已设定至第二关 Insane"
+  },
+  "** BARRIER 1 OPENS IN 15 SECS **": {
+    "translation": "障碍物一还有15秒清除"
+  },
+  "** BARRIER 2 OPENS IN 15 SECS **": {
+    "translation": "障碍物二还有15秒清除"
+  }
+}
