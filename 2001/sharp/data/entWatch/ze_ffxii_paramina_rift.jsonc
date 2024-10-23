@@ -160,8 +160,8 @@
     "count": 1
   },
   {
-    "name": "黑洞",
-    "shortName": "黑洞",
+    "name": "秒杀",
+    "shortName": "秒杀",
     "buttonClass": "func_button",
     "hammerId": "13031",
     "triggerId": ["13322"],
@@ -184,8 +184,8 @@
     "count": 1
   },
   {
-    "name": "秒杀",
-    "shortName": "秒杀",
+    "name": "黑洞",
+    "shortName": "黑洞",
     "buttonClass": "func_button",
     "hammerId": "13032",
     "triggerId": ["13324"],
