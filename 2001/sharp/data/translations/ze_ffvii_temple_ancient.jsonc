@@ -1,0 +1,403 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**[Sephiroth] I'll see you again!**": {
+    "translation": "**[萨菲罗斯]我们会再见面的!**"
+  },
+  "**Cloud die! You lose!**": {
+    "translation": "**克劳德阵亡了! 你失败了!**"
+  },
+  "**[CLOUD] Zombies esaped!**": {
+    "translation": "**[克劳德] 僵尸已经逃离了!**"
+  },
+  "**? ? ?**": {
+    "translation": "**? ? ?**"
+  },
+  "OnPass>cmd>Command>**[CLOUD] Stay here it should be safe I'll check what happens in next room!**>0.00>1": {
+    "translation": "**[克劳德] 待在这里应该很安全,我去看看隔壁发生了什么事!**"
+  },
+  "OnPass>cmd>Command>**[CLOUD] Golem blocking the way shoot!**>6.00>1": {
+    "translation": "**[克劳德] 巨像挡住了的去路!**"
+  },
+  "OnPressed>cmd>Command>**Defend here until something happen!**>2.00>1": {
+    "translation": "**守住这里,直到发生什么事**"
+  },
+  "OnPressed>cmd>Command>**Black Materia has been picked up well done!**>0.00>1": {
+    "translation": "**黑色魔晄已被拾起!**"
+  },
+  "OnTrigger>cmd>Command>**Stage 2 [NIGHTMARE] was beaten congratulation you won map **>0.00>1": {
+    "translation": "**关卡二 [噩梦] 通关! **"
+  },
+  "OnTrigger>cmd>Command>**[SEPHIROTH] Despair will lead to your end!**>0.00>1": {
+    "translation": "**[萨菲罗斯] 绝望将导致你的终结!**"
+  },
+  "OnPass>cmd>Command>**[SEPHIROTH] Do you still yearn for the light?**>0.00>1": {
+    "translation": "**[萨菲罗斯] 你是否依然渴望光明?**"
+  },
+  "**[SEPHIROTH] I will... never be a memory!**": {
+    "translation": "**[萨菲罗斯] 我将......永远不会成为回忆!**"
+  },
+  "**[HIGHWIND] Come on guys! We don't have much time!**": {
+    "translation": "**[高风] 来吧,伙计们!我们时间不多了!**"
+  },
+  "**[HIGHWIND] Temple going to explode! Keep running!**": {
+    "translation": "**[高风] 神殿要爆炸了 继续跑!**"
+  },
+  "**Sephiroth has casted Healing Magick! Stop shooting!**": {
+    "translation": "**萨菲罗斯治愈自身! 停止射击!**"
+  },
+  "**Sephiroth has casted Damage Magick!**": {
+    "translation": "**萨菲罗斯激活双倍攻击!**"
+  },
+  "**Sephiroth has casted Limit Breaker**": {
+    "translation": "**萨菲罗斯激活双倍攻击**"
+  },
+  "**Kill Bomb Summons!**": {
+    "translation": "**杀死左右两边的召唤物!**"
+  },
+  "**Sephiroth summons Bomb beast!**": {
+    "translation": "**萨菲罗斯正在召唤杀戮机器!**"
+  },
+  "**[SEPHIROTH] Know your place!**": {
+    "translation": "**[萨菲罗斯] 认清自己的定位!**"
+  },
+  "**[CLOUD] We don't have time on it! Back to the temple we need to find sephiroth!**": {
+    "translation": "**[克劳德] 我们没时间了 回到我们要找的寺庙寻找萨菲罗斯!**"
+  },
+  "**[CLOUD] I need time to open this doors! Hold here for 12 seconds!**": {
+    "translation": "**[克劳德] 我需要时间打开这扇门!在这里防守 12 秒!**"
+  },
+  "**[CLOUD] Hold here! the gate will open in 12 seconds!**": {
+    "translation": "**[克劳德] 大门还有12秒开启!**"
+  },
+  "**[CLOUD] It's last hold! Sephiroth must be here! I can feel it!**": {
+    "translation": "**[克劳德] 最后的守点了! 萨菲罗斯肯定在这! 我感觉到了!**"
+  },
+  "**Stage 1 [EXTREME] was beaten. Unlocking Stage 2 [EXTREME]**": {
+    "translation": "**关卡一 [极限] 通关!**"
+  },
+  "**[CLOUD] Zombies esaped": {
+    "translation": "**[克劳德] 僵尸已经逃离了!"
+  },
+  "**[CLOUD] God used magick! We going to level 1 [Normal]**": {
+    "translation": "**[克劳德] 我们正在前往 [普通]第一关**"
+  },
+  "**[CLOUD] God used magick! We going to level 2 [Normal]**": {
+    "translation": "**[克劳德] 我们正在前往 [普通]第二关**"
+  },
+  "**[CLOUD] God used magick! We going to level 1 [Extreme]**": {
+    "translation": "**[克劳德] 我们正在前往 [极限]第一关**"
+  },
+  "**[CLOUD] God used magick! We going to level 2 [Extreme]**": {
+    "translation": "**[克劳德] 我们正在前往 [极限]第二关**"
+  },
+  "**Crystal has been picked up!**": {
+    "translation": "**水晶已被拾起!**"
+  },
+  "**[CLOUD] Well done! Doors will open in 10 seconds!**": {
+    "translation": "**[克劳德] 大门还有10秒开启**"
+  },
+  "**[CLOUD] Tri-Face has been killed! Keep running!**": {
+    "translation": "**[克劳德] 三头怪被击败了! 快跑!**"
+  },
+  "**[HIGHWIND] Hold this area! We leaving in 18 seconds!**": {
+    "translation": "**[高风] 防守18秒 我们才能离开!**"
+  },
+  "**[CLOUD] It's last hold! Defend this bridge for 20 seconds!**": {
+    "translation": "**[克劳德] 最后的守点! 防守20秒!**"
+  },
+  "**Stage 1 was beaten. Unlocking Stage 2**": {
+    "translation": "**关卡一 已通关**"
+  },
+  "**Zombie detected!**": {
+    "translation": "**检测到僵尸!**"
+  },
+  "**[CLOUD] Golem has been killed! Keep running!**": {
+    "translation": "**[克劳德] Golem 已被击败! 快跑!**"
+  },
+  "**[CLOUD] Tri-Face is going to jump! Don't stay on the middle**": {
+    "translation": "**[克劳德]  三头怪要跳起来了! 远离中间!**"
+  },
+  "**[CLOUD] Tri-Face is healing himself**": {
+    "translation": "**[克劳德] 风暴攻击!抵抗它!**"
+  },
+  "**[CLOUD]  Tri-Face has casted Wind Attack! reist it!**": {
+    "translation": "**[克劳德]  三头怪使用了风暴攻击!抵抗它!**"
+  },
+  "**[CLOUD] Tri- Face has casted Gravity Attack!**": {
+    "translation": "**[克劳德] 三头怪使用了重力攻击! 远离它!**"
+  },
+  "***[CLOUD] Tri-Face has casted Shield! Don't shoot**": {
+    "translation": "***[克劳德] 三头怪使用了反伤! 停止射击**"
+  },
+  "***[CLOUD] Tri-Face has casted Poison Attack! Don't stay on the middle**": {
+    "translation": "***[克劳德] 三头怪使用了剧毒! 远离中间!**"
+  },
+  "***[CLOUD] Tri-Face has casted Fire Attack!**": {
+    "translation": "***[克劳德] 三头怪使用了火焰攻击!**"
+  },
+  "**[CLOUD] The gate will open in 15 seconds! Defend!**": {
+    "translation": "**[克劳德] 15秒大门开启**"
+  },
+  "**[CLOUD] Hold this area for 15 seconds!**": {
+    "translation": "**[克劳德] 防守15秒!**"
+  },
+  "**[CLOUD] Black Materia finally! I'm going to check next part of temple! Stay here!**": {
+    "translation": "**[克劳德] 黑色魔晄! 我要去检查寺庙的下一个区域!留在这里**"
+  },
+  "**[CLOUD] Dragon has casted Gravity Attack! Move to the sides!**": {
+    "translation": "**[克劳德] 巨龙使用了幻境攻击!往左右两边移动!**"
+  },
+  "**[CLOUD] Dragon has casted Gravity Attack! We must destroy meteor": {
+    "translation": "**[克劳德] 巨龙使用了幻境攻击!射击头顶陨石!"
+  },
+  "**[CLOUD] If we want enter the ancient temple first activate teleport crystal!**": {
+    "translation": "**[克劳德] 如果我们要进入神庙,首先要激活传送水晶!**"
+  },
+  "**[CLOUD] Hold this area for 10 seconds!**": {
+    "translation": "**[克劳德] 防守10秒!**"
+  },
+  "**[CLOUD] I need time to open this gate!**": {
+    "translation": "**[克劳德] 我需要时间打开这大门!**"
+  },
+  "**[CLOUD] Hold this area for 20 seconds!**": {
+    "translation": "**[克劳德] 防守20秒!**"
+  },
+  "**[CLOUD] Hold here for 5 seconds!**": {
+    "translation": "**[克劳德] 防守5秒**"
+  },
+  "**[CLOUD] Wait here! We don't know what waiting downstairs**": {
+    "translation": "**[克劳德] 在这等着! 我们不知道下面发生了什么**"
+  },
+  "**[Cloud] it's safe downstairs! Jump!**": {
+    "translation": "**[克劳德] 快跳,下面很安全!**"
+  },
+  "**[CLOUD] The doors are locked! We need crystal to open them**": {
+    "translation": "**[克劳德] 门是锁着的!我们需要水晶来打开它们**"
+  },
+  "**[CLOUD] Go to the cave find way to the crystal and back herel**": {
+    "translation": "**[克劳德] 前往洞穴,找到通往水晶的路,然后回到这里** "
+  },
+  "**[CLOUD] I can see 1 crystal downstairs!**": {
+    "translation": "**[克劳德] 我看见一个水晶在下面!** "
+  },
+  "**[CLOUD] After get to the cave you get teleported to random lower floor!**": {
+    "translation": "**[克劳德] 到达洞穴后,你会被传送到随机的下一层!** "
+  },
+  "**[CLOUD] Try to find way to lowest floor and take crystal to open the gates!**": {
+    "translation": "**[克劳德] 设法找到通往最底层的路,并用水晶打开大门!** "
+  },
+  "**[CLOUD] Defend here for 10 seconds!**": {
+    "translation": "**[克劳德] 防守10秒!**"
+  },
+  "**[CLOUD] Gates are open keep running!**": {
+    "translation": "**[克劳德] 大门正在开启!**"
+  },
+  "**[CLOUD] I will try to open gate but it will take some time**": {
+    "translation": "**[克劳德] 我会尝试打开大门,但需要一些时间**"
+  },
+  "**[CLOUD] The only way is through this gate**": {
+    "translation": "**[克劳德] 唯一的路就是通过这扇门**"
+  },
+  "**[CLOUD] Hold here for 10 seconds**": {
+    "translation": "**[克劳德] 防守10秒**"
+  },
+  "**[CLOUD] Defend this gates for 10 seconds**": {
+    "translation": "**[克劳德] 防守10秒**"
+  },
+  "**[CLOUD] It will be easier here but you have to wait a moment**": {
+    "translation": "**[克劳德] 在这里会容易些,但你得等一会儿**"
+  },
+  "**[CLOUD] This place looks familiar this is where Sephiroth is hiding**": {
+    "translation": "**[克劳德] 这个地方看起来很熟悉,这就是萨菲罗斯的藏身之处**"
+  },
+  "**[CLOUD] Hold here for 15 seconds**": {
+    "translation": "**[克劳德] 防守15秒**"
+  },
+  "**[AERIS] This is Sephiroth!**": {
+    "translation": "**[艾瑞丝] 是萨菲罗斯!**"
+  },
+  "**[Sephiroth] Good to see you cloud!**": {
+    "translation": "**[萨菲罗斯] 很高兴能看到你 克劳德!**"
+  },
+  "**[Cloud] Sephiroth what you want!?**": {
+    "translation": "**[克劳德] 萨菲罗斯 你想要干什么!?**"
+  },
+  "**[Sephiroth] What I want cloud it's the sails of darkness of the cosmos this planet as my vessel**": {
+    "translation": "**[萨菲罗斯] 我想要的云是宇宙的黑暗之帆,这个星球是我的船**"
+  },
+  "**[Sephiroth] All you know could be illusion**": {
+    "translation": "**[萨菲罗斯] 你所知道的一切可能都是幻觉**"
+  },
+  "**Sephiroth escaped the gates will open in 15 seconds!**": {
+    "translation": "**萨菲罗斯逃脱 大门将在 15 秒后打开!**"
+  },
+  "**[CLOUD] Hold this area for 10 seconds**": {
+    "translation": "**[克劳德] 防守10秒**"
+  },
+  "*** FALL BACK ***": {
+    "translation": "*** 撤退 ***"
+  },
+  "**[AERIS] Cloud take the crystal!**": {
+    "translation": "**[艾瑞丝] 克劳德 快拿走水晶!**"
+  },
+  "**The Ruby Dragon has been killed!**": {
+    "translation": "**巨龙已被杀死!**"
+  },
+  "**[CLOUD] Ruby dragon blocking the way!**": {
+    "translation": "**[克劳德] 巨龙挡住了去路**"
+  },
+  "**[CLOUD] We must defeat that beast to get Materia**": {
+    "translation": "**[克劳德] 我们必须打败它,才能获得材料**"
+  },
+  "**[CLOUD] Nades do bigger damage**": {
+    "translation": "**[克劳德] 手雷可以造成更大伤害**"
+  },
+  "**WARMUP ROUND**": {
+    "translation": "**热身回合**"
+  },
+  "**STAGE 2 [EXTREME]**": {
+    "translation": "**关卡二 [极限]**"
+  },
+  "**STAGE 1 [EXTREME]**": {
+    "translation": "**关卡一 [极限]**"
+  },
+  "**STAGE 2 [NORMAL]**": {
+    "translation": "**关卡二 [普通] **"
+  },
+  "**STAGE 1 [NORMAL]**": {
+    "translation": "**关卡一 [普通]**"
+  },
+  "**STAGE 2 [NIGHTMARE]**": {
+    "translation": "**关卡二 [噩梦]**"
+  },
+  "**Zombie Mode**": {
+    "translation": "**ZM已开启**"
+  },
+  "[AERIS] This is the Temple of the Ancients***": {
+    "translation": "[艾瑞丝] 这里是古代种神庙***"
+  },
+  "**Map Created by Microsoft Edge and DarkRoad**": {
+    "translation": "**地图作者: Microsoft Edge , DarkRoad  汉化:Zeyu1 **"
+  },
+  "[AERIS] I feel it! the knowledge of the Ancients floating**": {
+    "translation": "[艾瑞丝] 我感觉到了!古代种的知识在浮动**"
+  },
+  "[AERIS] I want to go inside!**": {
+    "translation": "[艾瑞丝] 我想进去看看!**"
+  },
+  "OnPass>cmd>Command>**[CLOUD] Hurry take the crystal!**": {
+    "translation": "**[克劳德] 快点拿走水晶!**"
+  },
+  "OnPressed>cmd>Command>**Defend here until teleport will be enable!**>2.00>1": {
+    "translation": "**守住这里,直到传送阵启用!**"
+  },
+  "OnPass>cmd>Command>**[CLOUD] Something is wrong here better prepare to fight**>0.00>1": {
+    "translation": "**[克劳德] 这里有些不对劲,最好准备战斗**"
+  },
+  "OnTrigger>cmd>Command>**Stage 2 was beaten. Unlocking Stage 1 [EXTREME]**>0.00>1": {
+    "translation": "**关卡 二 已通关**"
+  },
+  "OnTrigger>cmd>Command>**Stage 2 [EXTREME] was beaten congratulation you won map**>0.00>1": {
+    "translation": "**关卡二 [噩梦]已通关,你征服了这张地图**"
+  },
+  "OnPass>cmd>Command>**[SEPHIROTH] im understand you looking for me**>0.00>1": {
+    "translation": "**[萨菲罗斯] 我知道你在找我**"
+  },
+  "OnTrigger>cmd>Command>**[SEPHIROTH] i'm rule of the planet**>0.00>1": {
+    "translation": "**[萨菲罗斯] 我是地球的主宰**"
+  },
+  "**Hold here for 12 seconds!**": {
+    "translation": "*防守12秒!**"
+  },
+  "**Go Go Go**": {
+    "translation": "**Go Go Go**"
+  },
+  "**Hold this area for 10 seconds!**": {
+    "translation": "**防守10秒!**"
+  },
+  "**Hold this area for 15 seconds!**": {
+    "translation": "**防守15秒!**"
+  },
+  "**Run to the upper floor**": {
+    "translation": "**跑到楼上去**"
+  },
+  "**Defend here for 15 seconds**": {
+    "translation": "**防守15秒**"
+  },
+  "**Get Inside this hole**": {
+    "translation": "**进入这个洞!**"
+  },
+  "**Next path is open": {
+    "translation": "**下一条路已经开放"
+  },
+  "**Wait until something happens**": {
+    "translation": "**保持等待**"
+  },
+  "**Go go go!**": {
+    "translation": "**Go go go!**"
+  },
+  "**Get up to the white sphere**": {
+    "translation": "**到白色球体上去**"
+  },
+  "**One of the paths is chosen randomly**": {
+    "translation": "**随机选择其中一条路径**"
+  },
+  "**[AERIS] Find way to next part of temple": {
+    "translation": "**[艾瑞丝] 找到通往神庙下一部分的路"
+  },
+  "**[AERIS] Cloud has been moved to another part of temple**": {
+    "translation": "**[艾瑞丝] 克劳德已被转移到神庙的另一部分**"
+  },
+  "**[AERIS] Anyway": {
+    "translation": "**[艾瑞丝] 无论如何"
+  },
+  "**[AERIS] I know it's going to be tough": {
+    "translation": "**[艾瑞丝] 我知道这很困难"
+  },
+  "**Poison materia has been destroyed**": {
+    "translation": "** 毒元素已被拾取 **"
+  },
+  "**Earth materia has been destroyed**": {
+    "translation": "**土元素已被拾取 **"
+  },
+  "**Ice materia has been destroyed**": {
+    "translation": "** 冰元素已被拾取 **"
+  },
+  "**Fire materia has been destroyed**": {
+    "translation": "** 火元素已被拾取 **"
+  },
+  "**Wind materia has been destroyed**": {
+    "translation": "** 风元素已被拾取 **"
+  },
+  "**Hold here until HIGHWIND arrive!**": {
+    "translation": "**保持防守,直到HIGHWIND抵达!**"
+  },
+  "**[SEPHIROTH] im understand you looking for me**": {
+    "translation": "**[萨菲罗斯] 我明白你在找我**"
+  },
+  "**[HIGHWIND] Hold this area! We leaving in 12 seconds!**": {
+    "translation": "**[高风] 保持防守! 我们还有12秒离开!**"
+  },
+  "**Kill Shiva Summon!**": {
+    "translation": "**干掉 Shiva Summon!**"
+  },
+  "**Sephiroth summons Shiva!**": {
+    "translation": "**萨菲罗斯正在召唤 Shiva!**"
+  },
+  "**Kill Ifrit Summon!**": {
+    "translation": "**干掉 Ifrit 召唤物!**"
+  },
+  "**Sephiroth summons Ifrit!**": {
+    "translation": "**萨菲罗斯召唤了 Ifrit!**"
+  }
+}
