@@ -98,10 +98,9 @@
     "buttonClass": "func_button",
     "hammerId": "13165",
     "triggerId": ["13211"],
-    "cooldown": 30,
     "team": 2,
     "knife": false,
-    "mode": 2,
+    "mode": 1,
     "count": 1
   },
   {
@@ -378,18 +377,6 @@
     "team": 2,
     "knife": true,
     "mode": 2,
-    "count": 1
-  },
-  {
-    "name": "Boss",
-    "shortName": "Boss",
-    "buttonClass": "game_ui",
-    "hammerId": "12840",
-    "triggerId": ["12841"],
-    "cooldown": 0,
-    "team": 2,
-    "knife": true,
-    "mode": 1,
     "count": 1
   },
   {
