@@ -1,51 +1,20 @@
-// Console SayText i18n file generator.
-// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// Round Reward configuration file generator.
+// Reward Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
-  // blocked    (bool) -> 屏蔽本句输出
-  // clearText  (bool) -> 清除所有HUD文本
-  // clearTimer (bool) -> 清除所有倒计时
-  // countdown  (int)  -> 添加特殊的独立的倒计时
+  // rankPasses (int) -> 通关云点
+  // rankDamage (int) -> 伤害结算云点比例
+  // econPasses (int) -> 通关龙晶
+  // econDamage (int) -> 伤害结算龙晶比例
+  // 缺少的值将会继承base
 
 {
-  "20s": {
-    "translation": "20秒"
-  },
-  "10s": {
-    "translation": "10秒"
-  },
-  "5s": {
-    "translation": "5秒"
-  },
-  "It's locked": {
-    "translation": "怎么上锁了"
-  },
-  "I should go back": {
-    "translation": "我会回来的"
-  },
-  "run!": {
-    "translation": "快跑!"
-  },
-  "nuke in 5s": {
-    "translation": "核爆还剩5秒"
-  },
-  "-Thank for playing this map-": {
-    "translation": "-感谢游玩-"
-  },
-  "The toilet is open": {
-    "translation": "厕所门已经开了"
-  },
-  "-Map by oVo-": {
-    "translation": "-地图作者 oVo-"
-  },
-  "-This is my first map-": {
-    "translation": "-这是我的第一张地图-"
-  },
-  "-It is not good enough-": {
-    "translation": "-或许不是特别完美-"
-  },
-  "喵~": {
-    "translation": "喵~"
+  "base": {
+    "rankPasses": 6,
+    "rankDamage": 18000,
+    "econPasses": 4,
+    "econDamage": 20000
   }
 }
