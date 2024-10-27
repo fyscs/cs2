@@ -1714,6 +1714,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_silenthill_pt": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": false,
+    "admin": false
+  },
   "ze_simple_teamplay_p": {
     "certainTimes": [-1],
     "price": 300,
