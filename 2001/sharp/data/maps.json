@@ -1644,6 +1644,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_serpentis_temple": {
+    "certainTimes": [11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 800,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": true
+  },
   "ze_sex_mod_hentai_beachescape_camper_p": {
     "certainTimes": [-1],
     "price": 300,
