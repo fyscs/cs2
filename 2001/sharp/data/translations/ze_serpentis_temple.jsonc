@@ -1,0 +1,319 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> Map By Nostar & Moltard <<<": {
+    "translation": "地图制作:Nostar&Moltard 文本翻译:Zeyu1,Lia"
+  },
+  ">>> STAGE 5 LOADED <<<": {
+    "translation": ">> 第五关 >>"
+  },
+  ">>> You are no match for her <<<": {
+    "translation": ">> 你不是她的对手 >>"
+  },
+  ">>> But It's too early for celebrating <<<": {
+    "translation": "<< 还没到庆祝的时候 <<"
+  },
+  ">>> Impressive <<<": {
+    "translation": "<< 印象深刻 <<"
+  },
+  ">>> YOU WON STAGE 4 ! <<<": {
+    "translation": ">> 你通过了第四关 >>"
+  },
+  ">>> PUSH REMAINING ZOMBIES <<<": {
+    "translation": "<< 处理剩余的僵尸 <<"
+  },
+  ">>> THE BRIDGE IS GOING TO BREAK IN 15 SECONDS <<<": {
+    "translation": ">> 桥梁将在15秒后破坏 >>"
+  },
+  ">>> ELEVATOR WILL MOVE IN 20 SECONDS <<<": {
+    "translation": ">> 电梯将在20秒后离开 >>"
+  },
+  ">>> Get in the portal <<<": {
+    "translation": ">> 进入传送门 >>"
+  },
+  ">>> DOOR OPENS IN 20 SECONDS <<<": {
+    "translation": ">> 门将在20秒后打开 >>"
+  },
+  ">>> NUKE IN 7 SECONDS <<<": {
+    "translation": ">> 将于7秒后结束 >>"
+  },
+  ">>> ZM TELEPORT IN 5 SECONDS <<<": {
+    "translation": ">> 僵尸传送还有5秒 >>"
+  },
+  ">>> FINAL NUKE IN 20 SECONDS ! KILL HIM ! <<<": {
+    "translation": ">> 你只剩下20秒 >>"
+  },
+  ">>> DOOR OPEN IN 20 SECONDS <<<": {
+    "translation": "门还有20秒打开"
+  },
+  ">>> AFK TELEPORT IN 5 SECONDS <<<": {
+    "translation": "AFK传送还有5秒"
+  },
+  ">>> DOOR OPEN IN 25 SECONDS <<<": {
+    "translation": "门还有25秒打开"
+  },
+  ">>> Fire Snake has been picked <<<": {
+    "translation": "<火焰> 已被拾起"
+  },
+  ">>> KILL REMAINING ZOMBIES <<<": {
+    "translation": ">> 清理剩余的僵尸 >>"
+  },
+  ">>> YOU WON STAGE 3 ! <<<": {
+    "translation": ">> 你通过了第三关 >>"
+  },
+  ">>> STAGE 4 LOADED <<<": {
+    "translation": "<< 第四关已加载 <<"
+  },
+  ">>> DOORS CLOSE IN 20 SECONDS <<<": {
+    "translation": ">> 门还有20秒关闭 >>"
+  },
+  ">>> DOOR OPEN ! <<<": {
+    "translation": ">> 门打开了 >>"
+  },
+  ">>> HOLD HERE 30 SECONDS <<<": {
+    "translation": ">> 坚持30秒 >>"
+  },
+  ">>> Heal/Ammo Snake has been picked <<<": {
+    "translation": "<治疗> 已被拾取"
+  },
+  ">>> HOLD 25 SECONDS <<<": {
+    "translation": ">> 还要25秒 >>"
+  },
+  ">>> FALL BACK <<<": {
+    "translation": ">> 撤退 >>"
+  },
+  ">>> ZM TELEPORT IN 10 SECONDS <<<": {
+    "translation": ">> 僵尸还有10秒传送 >>"
+  },
+  ">>> Snake come in 20 seconds <<<": {
+    "translation": ">> 还有20秒 >>"
+  },
+  ">>> CRYSTAL HAS BEEN ACTIVATED <<<": {
+    "translation": "<< 水晶已被激活 <<"
+  },
+  ">>> HOLD HERE <<<": {
+    "translation": ">>> 守住这里 <<<"
+  },
+  ">>> Poison Snake has been picked <<<": {
+    "translation": "<毒> 已被拾取"
+  },
+  ">>> A sacrifice is necessary to open this passage <<<": {
+    "translation": "需要 <献祭> 才能打开道路"
+  },
+  ">>> The passage will be open in 10 seconds <<<": {
+    "translation": ">> 道路将在10秒后打开 <<"
+  },
+  ">>> DOOR CLOSE IN 5 SECONDS ! <<<": {
+    "translation": "还有5秒"
+  },
+  ">>> YOU WON STAGE 1 ! <<<": {
+    "translation": ">> 你通过了第一关 >>"
+  },
+  ">>> STAGE 2 LOADED <<<": {
+    "translation": ">> 已加载第二关 >>"
+  },
+  ">>> DOOR OPEN IN 10 SECONDS <<<": {
+    "translation": ">> 门还有10秒开启 >>"
+  },
+  ">>> DOORS OPEN IN 30 SECONDS <<<": {
+    "translation": ">> 还有30秒 >>"
+  },
+  ">>> AFK TELEPORT IN 15 SECONDS <<<": {
+    "translation": ">>AFK传送还有15秒<<"
+  },
+  ">>> TELEPORT IN 30 SECONDS <<<": {
+    "translation": ">>还有30秒传送<<"
+  },
+  ">>> PORTAL IS READY ! FALL BACK ! <<<": {
+    "translation": ">>传送已开启!撤退!!<<"
+  },
+  ">>> The portal is open in 30 seconds <<<": {
+    "translation": ">>传送还有30秒开启<<"
+  },
+  ">>> GET TO THE DOOR ! <<<": {
+    "translation": ">>快去门门那里<<"
+  },
+  ">>> AFK TELE IN 5 SECONDS <<<": {
+    "translation": ">>AFK传送还有5秒<<"
+  },
+  ">>> NEXT DOOR OPEN IN 10 SECONDS <<<": {
+    "translation": ">>还有10秒打开下一扇门<<"
+  },
+  ">>> HOLD 15 SECONDS <<<": {
+    "translation": ">> 坚持15秒 >>"
+  },
+  ">>> DOOR CLOSE IN 10 SECONDS <<<": {
+    "translation": ">> 门还有10秒关闭 <<"
+  },
+  ">>> Map By Nostar <<<": {
+    "translation": ">> 地图制作:Nostar <<"
+  },
+  ">>> STAGE 3 LOADED <<<": {
+    "translation": ">> 已加载第三关 >>"
+  },
+  ">>> YOU WON STAGE 2 ! <<<": {
+    "translation": ">> 你通过了第二关! <<"
+  },
+  ">>> AFK TELEPORT IN 10 SECONDS <<<": {
+    "translation": ">> AFK传送还有10秒 <<"
+  },
+  ">>> DOORS OPEN IN 20 SECONDS <<<": {
+    "translation": ">> 还有20秒开门 <<"
+  },
+  ">>> First doors will be close in 5 seconds <<<": {
+    "translation": ">> 第一扇门还有5秒关闭 <<"
+  },
+  ">>> DOOR CLOSE IN 25 SECONDS <<<": {
+    "translation": ">> 门还有25秒关闭 <<"
+  },
+  ">>> YOU WON THE MAP ! <<<": {
+    "translation": ">>> 你征服了这张地图 ! <<<"
+  },
+  ">>> ARTIFACT DETECTED ! <<<": {
+    "translation": ">>> 检测到水晶 ! <<<"
+  },
+  ">>> THE MISSION WAS A SUCCESS ! <<<": {
+    "translation": ">>> 任务完成!! <<<"
+  },
+  ">>> YOU FORGOT THE ARTIFACT <<<": {
+    "translation": ">>> 未检测到水晶! <<<"
+  },
+  ">>> MISSION FAILED ! <<<": {
+    "translation": ">>> 任务失败! <<<"
+  },
+  ">>> TELEPORT IN 20 SECONDS <<<": {
+    "translation": ">>> 20秒后传送 <<<"
+  },
+  ">>> PORTAL WILL BE OPEN IN 20 SECONDS <<<": {
+    "translation": ">>> 大门将在20秒后开启 <<<"
+  },
+  ">>> HOLD HERE 25 SECONDS <<<": {
+    "translation": ">>> 防守25秒 <<<"
+  },
+  ">>> HOLD HERE 20 SECONDS <<<": {
+    "translation": ">>> 防守20秒 <<<"
+  },
+  ">>> A lever has been activated <<<": {
+    "translation": ">>> 杠杆已被拉起 <<<"
+  },
+  ">>> C4 EXPLODE IN 20 SECONDS <<<": {
+    "translation": ">>>  C4将在20秒后爆炸 <<<"
+  },
+  ">>> C4 EXPLODE IN 25 SECONDS <<<": {
+    "translation": ">>>  C4将在25秒后爆炸 <<<"
+  },
+  ">>> DOOR OPENS IN 10 SECONDS <<<": {
+    "translation": ">>> 门将在10秒后开启 <<<"
+  },
+  ">>> DOOR OPEN IN 15 SECONDS <<<": {
+    "translation": ">>> 门将在15秒后开 <<<"
+  },
+  ">>> ZM / AFK TELEPORT IN 5 SECONDS <<<": {
+    "translation": ">>> 咸鱼传送将在5秒后开启 <<<"
+  },
+  ">>> DOOR OPEN IN 5 SECONDS <<<": {
+    "translation": ">>> 门还有5秒开启 <<<"
+  },
+  ">>> DOORS OPEN IN 10 SECONDS <<<": {
+    "translation": ">>> 门还有10秒开启 <<<"
+  },
+  ">>> RUN !!! <<<": {
+    "translation": ">>> 快跑 !!! <<<"
+  },
+  ">>> ITEMS : ONLY USEABLE ONCE <<<": {
+    "translation": ">>> ITEMS : 只能使用一次 <<<"
+  },
+  ">>> It's the Artifact ! <<<": {
+    "translation": ">>> 这是一件神器! <<<"
+  },
+  ">>> This is why we came here <<<": {
+    "translation": ">>> 这就是我们来到这里的原因 <<<"
+  },
+  ">>> Grab it and don't lose it or this mission was all for nothing <<<": {
+    "translation": ">>> 抓住它,别把他丢了它,否则这个任务就失败了 <<<"
+  },
+  ">>> FALL BACK !!! <<<": {
+    "translation": ">>> 撤退 !!! <<<"
+  },
+  ">>> HELICOPTER MOVE IN 10 SECONDS ! <<<": {
+    "translation": ">>> 直升机还有10秒离开! <<<"
+  },
+  ">>> TELEPORT IN 10 SECONDS <<<": {
+    "translation": ">>> 10秒后传送 <<<"
+  },
+  "[ADMIN ROOM] NUKE IN 5 SECONDS !": {
+    "translation": "5秒后核爆!"
+  },
+  ">>> GET ON THE MIDDLE <<<": {
+    "translation": ">>> 快跳到中间去 <<<"
+  },
+  ">>> STAGE 1 <<<": {
+    "translation": ">>> 关卡 一 <<<"
+  },
+  ">>> STAGE 2 <<<": {
+    "translation": ">>> 关卡 二 <<<"
+  },
+  ">>> STAGE 3 <<<": {
+    "translation": ">>> 关卡 三 <<<"
+  },
+  ">>> STAGE 4 <<<": {
+    "translation": ">>> 关卡 四 <<<"
+  },
+  ">>> STAGE 5 <<<": {
+    "translation": ">>> 关卡 五 <<<"
+  },
+  ">>> Find a way to reach the temple <<<": {
+    "translation": ">>> 得想办法到达神庙 <<<"
+  },
+  ">>> WARMUP ROUND (60 sec) <<<": {
+    "translation": ">>> 热身剩余60秒 <<<"
+  },
+  ">>> WARMUP ROUND (50 sec) <<<": {
+    "translation": ">>> 热身剩余50秒 <<<"
+  },
+  ">>> WARMUP ROUND (40 sec) <<<": {
+    "translation": ">>> 热身剩余40秒 <<<"
+  },
+  ">>> WARMUP ROUND (30 sec) <<<": {
+    "translation": ">>> 热身剩余30秒 <<<"
+  },
+  ">>> WARMUP ROUND (20 sec) <<<": {
+    "translation": ">>> 热身剩余20秒 <<<"
+  },
+  ">>> WARMUP ROUND (10 sec) <<<": {
+    "translation": ">>> 热身剩余10秒 <<<"
+  },
+  ">>> Stage 1 loaded <<<": {
+    "translation": ">>> 关卡一 正在载入... <<<"
+  },
+  ">>> This map is based on mg_Serpentis_Temple by Kaemon and Luffaren <<<": {
+    "translation": ">>> 地图基于 mg_Serpentis_Temple 作者: Kaemon and Luffaren <<<"
+  },
+  ">>> Many assets from the original map were used <<<": {
+    "translation": ">>> 使用初版地图的部分材质 <<<"
+  },
+  "[ADMIN ROOM] STAGE 3 NEXT ROUND": {
+    "translation": "[ADMIN ROOM] 关卡三 已设置"
+  },
+  "[ADMIN ROOM] STAGE 2 NEXT ROUND": {
+    "translation": "[ADMIN ROOM] 关卡二 已设置"
+  },
+  "[ADMIN ROOM] STAGE 1 NEXT ROUND": {
+    "translation": "[ADMIN ROOM] 关卡一 已设置"
+  },
+  "[ADMIN ROOM] STAGE 5 NEXT ROUND": {
+    "translation": "[ADMIN ROOM] 关卡五 已设置"
+  },
+  "[ADMIN ROOM] STAGE 4 NEXT ROUND": {
+    "translation": "[ADMIN ROOM] 关卡四 已设置"
+  }
+}
