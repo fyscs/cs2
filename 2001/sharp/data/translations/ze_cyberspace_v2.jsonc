@@ -1,0 +1,316 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">> Defend for 20 seconds <<": {
+    "translation": ">> 等待20秒 <<"
+  },
+  ">> 5 seconds left <<": {
+    "translation": ">> 5 seconds left <<",
+    "blocked": true
+  },
+  ">> Zombie TP in 5 seconds <<": {
+    "translation": ">> 僵尸还有5秒传送 <<"
+  },
+  ">> Zombies release in 5 seconds <<": {
+    "translation": ">> 僵尸还有5秒释放 <<"
+  },
+  "<System> ** Welcome to Cyberspace! **": {
+    "translation": "<系统提示> 这里是模拟空间"
+  },
+  ">> Zombie TP in 10 seconds <<": {
+    "translation": ">> 僵尸还有10秒传送 <<"
+  },
+  "** I hear someone's voice from somewhere... **": {
+    "translation": "我听到了一些传来的声音..."
+  },
+  "<???> ** Something is protecting this system... but there must be a way to break through. **": {
+    "translation": "<???> 有机制正在保护这里...但是一定有办法出去"
+  },
+  ">> Defend for 40 seconds <<": {
+    "translation": ">> 还有40秒 <<"
+  },
+  ">> Timer stopped <<": {
+    "translation": ">> 计时器已停止 <<"
+  },
+  ">> Beam stopped <<": {
+    "translation": ">> 激光消失了 <<"
+  },
+  ">> Defend for 30 seconds <<": {
+    "translation": ">> 等待30秒 <<"
+  },
+  ">> Zombie TP in 15 seconds <<": {
+    "translation": ">> 僵尸还有15秒传送 <<"
+  },
+  ">> Admin set to Zombie Mode <<": {
+    "translation": ">> 关卡已设定至 ZM <<"
+  },
+  ">> Admin set to Overdrive Mode <<": {
+    "translation": ">> 关卡已设定至 OverDrive <<"
+  },
+  ">> Survive 220 seconds <<": {
+    "translation": ">> Survive 220 seconds <<",
+    "blocked": true
+  },
+  ">> Survive 180 seconds <<": {
+    "translation": ">> Survive 180 seconds <<",
+    "blocked": true
+  },
+  ">> Survive 120 seconds <<": {
+    "translation": ">> 生存120秒 <<"
+  },
+  ">> Survive 60 seconds <<": {
+    "translation": ">> Survive 60 seconds <<",
+    "blocked": true
+  },
+  ">> Survive 30 seconds <<": {
+    "translation": ">> Survive 30 seconds <<",
+    "blocked": true
+  },
+  "** ze_Cyberspace **": {
+    "translation": ">> 虚拟空间危机 >>"
+  },
+  "** Thank you for playing! **": {
+    "translation": "** 感谢各位的游玩! **"
+  },
+  ">> Cyberspace has broken down <<": {
+    "translation": ">> 模拟空间已被破坏 <<"
+  },
+  ">> Type RTV <<": {
+    "translation": ">> 该换图了 <<"
+  },
+  "** Reset all Secret triggers **": {
+    "translation": "** 已重置所有彩蛋触发 **"
+  },
+  "** Activate all Secret triggers **": {
+    "translation": "** 已完成所有彩蛋触发 **"
+  },
+  "** Activate Secret 5 **": {
+    "translation": "** 激活第五处 **"
+  },
+  "** Activate Secret 4 **": {
+    "translation": "** 激活第四处 **"
+  },
+  "** Activate Secret 3 **": {
+    "translation": "** 激活第三处 **"
+  },
+  "** Activate Secret 2 **": {
+    "translation": "** 激活第二处 **"
+  },
+  "** Activate Secret 1 **": {
+    "translation": "** 激活第一处 **"
+  },
+  ">> Defend for 15 seconds <<": {
+    "translation": ">> 坚持15秒 <<"
+  },
+  ">> 10 more seconds <<": {
+    "translation": ">> 还有10秒 <<"
+  },
+  ">> Defend for 5 seconds <<": {
+    "translation": ">> 还有5秒 <<"
+  },
+  ">> platform start in 20 seconds <<": {
+    "translation": ">> 平台20秒后移动 <<"
+  },
+  ">> Chapter 2 Completed <<": {
+    "translation": ">第二关> 已完成"
+  },
+  ">> Humans not detected <<": {
+    "translation": ">> 未检测到人类 <<"
+  },
+  ">> Failed <<": {
+    "translation": ">> 回合失败 <<"
+  },
+  ">> Escape from Cyberspace! <<": {
+    "translation": ">> 逃离这里! <<"
+  },
+  ">> End of System in 120 seconds <<": {
+    "translation": ">> 系统将于120秒后下线 <<"
+  },
+  ">> End of System in 100 seconds <<": {
+    "translation": ">> End of System in 100 seconds <<",
+    "blocked": true
+  },
+  ">> End of System in 80 seconds <<": {
+    "translation": ">> End of System in 80 seconds <<",
+    "blocked": true
+  },
+  ">> End of System in 60 seconds <<": {
+    "translation": ">> End of System in 60 seconds <<",
+    "blocked": true
+  },
+  ">> End of System in 40 seconds <<": {
+    "translation": ">> End of System in 40 seconds <<",
+    "blocked": true
+  },
+  ">> End of System in 20 seconds <<": {
+    "translation": ">> End of System in 20 seconds <<",
+    "blocked": true
+  },
+  ">> 5 <<": {
+    "translation": ">> 5 <<",
+    "blocked": true
+  },
+  ">> 4 <<": {
+    "translation": ">> 4 <<",
+    "blocked": true
+  },
+  ">> 3 <<": {
+    "translation": ">> 3 <<",
+    "blocked": true
+  },
+  ">> 2 <<": {
+    "translation": ">> 2 <<",
+    "blocked": true
+  },
+  ">> 1 <<": {
+    "translation": ">> 1 <<",
+    "blocked": true
+  },
+  ">> End of System in 140 seconds <<": {
+    "translation": ">> End of System in 140 seconds <<",
+    "blocked": true
+  },
+  ">> Defend for 12 seconds <<": {
+    "translation": ">> 还有12秒 <<"
+  },
+  "<System> ** ...System is unstable. **": {
+    "translation": "<系统提示> ** 系统检测到波动. **"
+  },
+  "<System> ** Shutdown completed. **": {
+    "translation": "<系统提示> ** 已完成关机. **"
+  },
+  "<System> ** Start shutdown... **": {
+    "translation": "<系统提示> ** 已启动关机程序... **"
+  },
+  ">> Timeleft : 10 <<": {
+    "translation": ">> Timeleft : 10 <<",
+    "blocked": true
+  },
+  ">> Timeleft : 30 <<": {
+    "translation": ">> Timeleft : 30 <<",
+    "blocked": true
+  },
+  ">> Timeleft : 60 <<": {
+    "translation": ">> 还有60秒 <<"
+  },
+  ">> Timeleft : 5 <<": {
+    "translation": ">> Timeleft : 5 <<",
+    "blocked": true
+  },
+  ">> Zombies have reached the wall <<": {
+    "translation": ">> 僵尸已接触到防火墙 <<"
+  },
+  ">> Defend for 25 seconds <<": {
+    "translation": ">> 防守25秒 <<"
+  },
+  ">> Watch your step <<": {
+    "translation": ">> 注意脚下 <<"
+  },
+  ">> Admin set to Chapter Ex <<": {
+    "translation": ">> 关卡已设定至 Chapter Ex <<"
+  },
+  "** ... **": {
+    "translation": "** 等待中 **"
+  },
+  "** System is corrupted. **": {
+    "translation": "** 系统出现严重错误. **"
+  },
+  "** Repairing system. **": {
+    "translation": "** 正在尝试自动修复. **"
+  },
+  "** Repairing system.. **": {
+    "translation": "** 正在尝试自动修复.. **"
+  },
+  "** Repairing system... **": {
+    "translation": "** 正在尝试自动修复... **"
+  },
+  "** Repair complete. **": {
+    "translation": "** 修复已完成. **"
+  },
+  ">> Admin set to Chapter 1 <<": {
+    "translation": ">> 关卡已设定至 Chapter ① <<"
+  },
+  ">> Last defend for 20 seconds <<": {
+    "translation": ">> 最后的20秒 <<"
+  },
+  ">> Chapter 1 Completed <<": {
+    "translation": ">第一关> 已完成"
+  },
+  ">> Zombies detected <<": {
+    "translation": ">> 系统检测到僵尸 <<"
+  },
+  ">> Chapter Ex Completed <<": {
+    "translation": "<Ex> 已完成"
+  },
+  ">> Defend for 35 seconds <<": {
+    "translation": ">> 还有35秒 <<"
+  },
+  ">> Watch out for Zombies <<": {
+    "translation": ">> 小心僵尸 <<"
+  },
+  "<???> ** This place... it's not just a playground, it's something... **": {
+    "translation": "<???> 这里没有想象的那么简单,这里是..."
+  },
+  ">> platform appeared <<": {
+    "translation": ">> 平台出现了 <<"
+  },
+  ">> Admin set to Chapter 2 <<": {
+    "translation": ">> 关卡已设定至 Chapter ② <<"
+  },
+  ">> Admin set to Chapter 3 <<": {
+    "translation": ">> 关卡已设定至 Chapter ③ <<"
+  },
+  ">> 100 seconds <<": {
+    "translation": ">> 还有100秒 <<"
+  },
+  ">> 80 seconds <<": {
+    "translation": ">> 80 seconds <<",
+    "blocked": true
+  },
+  ">> 60 seconds <<": {
+    "translation": ">> 60 seconds <<",
+    "blocked": true
+  },
+  ">> 40 seconds <<": {
+    "translation": ">> 40 seconds <<",
+    "blocked": true
+  },
+  ">> 20 seconds <<": {
+    "translation": ">> 20 seconds <<",
+    "blocked": true
+  },
+  ">> 5 seconds <<": {
+    "translation": ">> 5 seconds <<",
+    "blocked": true
+  },
+  ">> look down <<": {
+    "translation": ">> 在深渊之中... <<"
+  },
+  "** I hear a message from somewhere... **": {
+    "translation": "** 我听到了什么... **"
+  },
+  "<System> ** Entry beyond this point is prohibited. Please turn back. **": {
+    "translation": "<系统提示> ** 已检测到非法闯入,请不要向前 **"
+  },
+  "<???> ** It looks like a security program is working. We have to be careful... **": {
+    "translation": "<???> ** 看起来保全程序正在工作,我们得小心点... **"
+  },
+  ">> Admin set to Chapter 0 <<": {
+    "translation": ">> 关卡已设定至 Chapter 0 <<"
+  },
+  "<???> ** If anyone is listening to this... **": {
+    "translation": "<???> ** 如果有人能听到这则消息... **"
+  },
+  "<???> ** Don't repeat my mistake. And... break this trend before more damage is done. **": {
+    "translation": "<???> ** 不要重蹈覆辙,小心应对这里的状况**"
+  }
+}
