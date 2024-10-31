@@ -57,9 +57,9 @@
     }
   ],
   "Monsters": [
-      {
-        "display": "变大变高",
-        "identity": "11909"
-      }
+    {
+      "display": "变大变高",
+      "identity": "11909"
+    }
   ]
 }
