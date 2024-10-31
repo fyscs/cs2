@@ -1483,7 +1483,7 @@
     "nomination": true,
     "admin": false
   },
-  "ze_popkart_b3": {
+  "ze_popkart": {
     "certainTimes": [-1],
     "price": 500,
     "cooldown": 60,
