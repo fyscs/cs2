@@ -55,5 +55,11 @@
       "hitbox": "Room5_Phys_1",
       "display": "Loom:1st"
     }
+  ],
+  "Monsters": [
+      {
+        "display": "变大变高",
+        "identity": "11909"
+      }
   ]
 }
