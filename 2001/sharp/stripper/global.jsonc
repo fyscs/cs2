@@ -149,18 +149,6 @@
     },
     {
       "match": {
-        "classname": "weapon_p250"
-      },
-      "delete": {
-        "classname": "weapon_deagle"
-      },
-      "insert": {
-        "classname": "weapon_deagle",
-        "subclass_name": "1"
-      }
-    },
-    {
-      "match": {
         "classname": "weapon_elite"
       },
       "delete": {
