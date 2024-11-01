@@ -48,16 +48,16 @@
       "counter": "Skeleton_Boss_HealthCount3",
       "hitbox": "Skeleton_Boss_Phys3",
       "display": "Skeleton:3rd"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "767",
+      "display": "Satan"
     },
     {
-      "iterator": "",
-      "hitbox": "",
-      "display": ""
-    },
-    {
-      "iterator": "",
-      "hitbox": "",
-      "display": ""
+      "identity": "4340",
+      "display": "LaserFinal"
     }
   ]
 }
