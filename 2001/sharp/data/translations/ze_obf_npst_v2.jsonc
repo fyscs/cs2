@@ -1,0 +1,176 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<< THE DOOR HAS OPENED >>>": {
+    "translation": "门开了"
+  },
+  "<<< Prepare to fight for your life!!! >>>": {
+    "translation": "为生存而战!!"
+  },
+  "RUN": {
+    "translation": "快跑!!!"
+  },
+  "The door opened": {
+    "translation": "门打开了!!"
+  },
+  "<<< Call the elevator >>>": {
+    "translation": "呼叫电梯!!"
+  },
+  "Climb up the ladder": {
+    "translation": "爬上梯子!!"
+  },
+  "<<< Prepare for the Battle of Your Life >>>": {
+    "translation": "生存之战!!!"
+  },
+  "<<< They are coming... >>>": {
+    "translation": "<< 他们来了 <<"
+  },
+  "DON'T TOUCH THE LASERS": {
+    "translation": ">> 不要去碰激光 >>"
+  },
+  "<<< The electricity should be cut off in a few seconds >>>": {
+    "translation": "<< 电力将在片刻后断开 <<"
+  },
+  "<<< Electricity is OFF >>>": {
+    "translation": ">> 电力中断 <<"
+  },
+  "<<< The door leading to the elevator are open! >>>": {
+    "translation": ">> 去往电梯的门打开了 >>"
+  },
+  "Map by Trazix": {
+    "translation": "地图制作:Trazix 文本翻译:Lia"
+  },
+  "CS2 by Nino": {
+    "translation": "CS2部分由Nino呈现"
+  },
+  "v2 Update by @Seth": {
+    "translation": "地图更新:@Seth"
+  },
+  "Welcome on Objective NPST": {
+    "translation": "行动代号:NPST"
+  },
+  "Good Luck !": {
+    "translation": "祝你们好运!"
+  },
+  "<<< The door is opening get inside !>>>": {
+    "translation": ">> 门开了,快进来! >>"
+  },
+  "They are coming": {
+    "translation": ">> 他们来了 >>"
+  },
+  "DOOR IS OPEN": {
+    "translation": "门开了"
+  },
+  "DOOR HAS OPENED": {
+    "translation": "门已经开了"
+  },
+  "<<< DOOR IS OPEN >>>": {
+    "translation": ">> 门开了 >>"
+  },
+  "<<<5>>>": {
+    "translation": "还有5秒"
+  },
+  "<<<4>>>": {
+    "translation": "<<<4>>>",
+    "blocked": true
+  },
+  "<<<3>>>": {
+    "translation": "<<<3>>>",
+    "blocked": true
+  },
+  "<<<2>>>": {
+    "translation": "<<<2>>>",
+    "blocked": true
+  },
+  "<<<1>>>": {
+    "translation": "<<<1>>>",
+    "blocked": true
+  },
+  "<<< GO GO GOOOO >>>": {
+    "translation": "快跑!!"
+  },
+  "<<< It's not finished >>>": {
+    "translation": ">>> 并没有结束 >>>"
+  },
+  "<<< Get out of here !!! >>>": {
+    "translation": ">>> 快离开这里 >>>"
+  },
+  "<<< The yellow door Area 9 will open in 10 seconds >>>": {
+    "translation": ">> 实验室区域的门10秒后打开 >>"
+  },
+  "<<< The yellow door leading to the HUB will open soon >>>": {
+    "translation": ">> 实验室区域的门即将打开 >>"
+  },
+  "Elevator door opened": {
+    "translation": "电梯门开了"
+  },
+  "The fire will burn out in a few seconds": {
+    "translation": "火焰消失还有一会"
+  },
+  "RUNNNNN !!!!": {
+    "translation": "快跑!!"
+  },
+  "<<< We are not giving thanks to Waffel for hepling >>>": {
+    "translation": ">> 感谢Waffel的帮助 >>"
+  },
+  "THE DOOR OPENED RIGHT SIDE": {
+    "translation": "右边的门打开了"
+  },
+  "THE DOOR IS OPENING": {
+    "translation": "门正在打开"
+  },
+  "<<< The water level is increasing >>>": {
+    "translation": ">> 水平面正在上升 >>"
+  },
+  "<<< The door is going to open >>>": {
+    "translation": "门马上就开了"
+  },
+  "<<< Prepare to shoot >>>": {
+    "translation": ">> 准备射击 >>"
+  },
+  "<<< The door is about to open.. >>>": {
+    "translation": ">> 门就要开了 <<"
+  },
+  "<<< The vent is going to explode... >>>": {
+    "translation": ">> 障碍物即将爆炸 >>"
+  },
+  "<<< The door is going to open in 10 sec >>>": {
+    "translation": "门还有10秒打开"
+  },
+  "<<< The Sewer is going to open in 10 sec >>>": {
+    "translation": "下水道还有10秒打开"
+  },
+  "<<< The Flames is going to burn out in 10 sec >>>": {
+    "translation": "火焰还有10秒消失"
+  },
+  "<<< The vent is going to open in 10 sec >>>": {
+    "translation": "障碍物清除还有10秒"
+  },
+  "<<< Prepare to run. >>>": {
+    "translation": "<< 准备跑路 <<"
+  },
+  "<<< The fence has broken >>>": {
+    "translation": "障碍物已破坏"
+  },
+  "<检测到泰坦离场,10秒后执行处死事件>": {
+    "translation": "<检测到泰坦离场,10秒后执行处死事件>"
+  },
+  "<已触发处死事件>": {
+    "translation": "<已触发处死事件>"
+  },
+  "[ Go. ]": {
+    "translation": "走了走了"
+  },
+  "[ Its time to end this.. ]": {
+    "translation": "是时候终结这一切了..."
+  }
+}

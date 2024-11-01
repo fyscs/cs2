@@ -1,0 +1,75 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Garg_Counter_HP",
+      "hitbox": "Garg_Hitbox",
+      "display": "Gargantua"
+    },
+    {
+      "iterator": "Nihi_Hp_Counter_D",
+      "hitbox": "Nihilanth_HitBox_Head",
+      "display": "Nihi:Head"
+    },
+    {
+      "iterator": "Sniper_Counter",
+      "hitbox": "Sniper_Hitbox",
+      "display": "Sniper"
+    },
+    {
+      "iterator": "Nihi_Hp_Counter_A",
+      "hitbox": "Nihilanth_HitBox_Main",
+      "display": "Nihi:Phase1"
+    },
+    {
+      "iterator": "Nihi_Hp_Counter_B",
+      "hitbox": "Nihilanth_HitBox_Main",
+      "display": "Nihi:Phase2"
+    },
+    {
+      "iterator": "Nihi_Hp_Counter_C",
+      "hitbox": "Nihilanth_HitBox_Main",
+      "display": "Nihi:Phase3"
+    },
+    {
+      "iterator": "Nihi_Crystal_A_Counter",
+      "hitbox": "Nihi_Crystal_A_Phy",
+      "display": "CryStal:A"
+    },
+    {
+      "iterator": "Nihi_Crystal_B_Counter",
+      "hitbox": "Nihi_Crystal_B_Phy",
+      "display": "CryStal:B"
+    },
+    {
+      "iterator": "Nihi_Crystal_C_Counter",
+      "hitbox": "Nihi_Crystal_C_Phy",
+      "display": "CryStal:C"
+    },
+    {
+      "iterator": "barnacle_counter",
+      "hitbox": "barnacle_physbox",
+      "display": "Barnacle"
+    }
+  ]
+}

@@ -98,10 +98,9 @@
     "buttonClass": "func_button",
     "hammerId": "13165",
     "triggerId": ["13211"],
-    "cooldown": 30,
     "team": 2,
     "knife": false,
-    "mode": 2,
+    "mode": 1,
     "count": 1
   },
   {
@@ -365,6 +364,54 @@
     "cooldown": 60,
     "team": 3,
     "knife": false,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "捆绑",
+    "shortName": "捆绑",
+    "buttonClass": "func_button",
+    "hammerId": "13138",
+    "triggerId": ["13221"],
+    "cooldown": 60,
+    "team": 2,
+    "knife": true,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "自爆",
+    "shortName": "自爆",
+    "buttonClass": "func_button",
+    "hammerId": "13160",
+    "triggerId": ["13215"],
+    "cooldown": 60,
+    "team": 2,
+    "knife": true,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "Position",
+    "shortName": "坐标",
+    "buttonClass": "func_button",
+    "hammerId": "13187",
+    "triggerId": ["13213"],
+    "cooldown": 60,
+    "team": 2,
+    "knife": true,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "传送",
+    "shortName": "传送",
+    "buttonClass": "func_button",
+    "hammerId": "13482",
+    "triggerId": ["13579"],
+    "cooldown": 60,
+    "team": 2,
+    "knife": true,
     "mode": 2,
     "count": 1
   }

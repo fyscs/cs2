@@ -146,6 +146,30 @@
       "insert": {
         "subclass_name": "48"
       }
+    },
+    {
+      "match": {
+        "classname": "weapon_elite"
+      },
+      "delete": {
+        "classname": "weapon_deagle"
+      },
+      "insert": {
+        "classname": "weapon_deagle",
+        "subclass_name": "1"
+      }
+    },
+    {
+      "match": {
+        "classname": "weapon_glock"
+      },
+      "delete": {
+        "classname": "weapon_glock"
+      },
+      "insert": {
+        "classname": "weapon_usp_silencer",
+        "subclass_name": "61"
+      }
     }
   ]
 }

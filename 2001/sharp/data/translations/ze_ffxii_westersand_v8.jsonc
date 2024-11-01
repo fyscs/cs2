@@ -1,0 +1,364 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** Boss Fight in 5s **": {
+    "translation": "** Boss Fight in 5s **",
+    "blocked": true
+  },
+  "** Boss Fight in 10s **": {
+    "translation": "Boss战10秒后开始"
+  },
+  "** Nades do more damage (2s) **": {
+    "translation": "<手雷>能造成更多伤害"
+  },
+  "** The guardians are defeated - Escape ! **": {
+    "translation": "守卫已被击败,离开这里!"
+  },
+  "** The final gate will open in 40 seconds **": {
+    "translation": "最终之门40秒后打开"
+  },
+  "** The final gate will open in 5 seconds **": {
+    "translation": "** The final gate will open in 5 seconds **",
+    "blocked": true
+  },
+  "** Nades do more damage (8s) **": {
+    "translation": "<手雷> 能造成更多伤害"
+  },
+  "** The second door will open in 15 seconds **": {
+    "translation": "第二扇门还有15秒开启"
+  },
+  "** The first door will open in 10 seconds **": {
+    "translation": "第一扇门还有10秒开启"
+  },
+  "** Keep defending!! **": {
+    "translation": "保持防守!! **"
+  },
+  "** Teleporters will be ready in 5 seconds ! **": {
+    "translation": "** Teleporters will be ready in 5 seconds ! **",
+    "blocked": true
+  },
+  "** Teleporters will be ready in 20 seconds ! **": {
+    "translation": "传送器将于20秒后就绪"
+  },
+  "** NUKE IN 10 SECONDS **": {
+    "translation": "** NUKE IN 10 SECONDS **",
+    "blocked": true
+  },
+  "** NUKE IN 20 SECONDS **": {
+    "translation": "** NUKE IN 20 SECONDS **",
+    "blocked": true
+  },
+  "** TELEPORTING EVERYONE TO CHOCOBORACE **": {
+    "translation": "正在传送至陆行鸟跑道"
+  },
+  "** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **": {
+    "translation": "10秒后传送至陆行鸟跑道"
+  },
+  "** NUKE IN 40 SECONDS **": {
+    "translation": "** NUKE IN 40 SECONDS **",
+    "blocked": true
+  },
+  "** NUKE IN 60 SECONDS **": {
+    "translation": "** NUKE IN 60 SECONDS **",
+    "blocked": true
+  },
+  "** NUKE IN 80 SECONDS **": {
+    "translation": "还有80秒"
+  },
+  "** NUKE IN 100 SECONDS **": {
+    "translation": "** NUKE IN 100 SECONDS **",
+    "blocked": true
+  },
+  "** NUKE IN 120 SECONDS **": {
+    "translation": "** NUKE IN 120 SECONDS **",
+    "blocked": true
+  },
+  "** NUKE IN 140 SECONDS **": {
+    "translation": "** NUKE IN 140 SECONDS **",
+    "blocked": true
+  },
+  "** NUKE IN 160 SECONDS **": {
+    "translation": "** NUKE IN 160 SECONDS **",
+    "blocked": true
+  },
+  "** NUKE IN 180 SECONDS **": {
+    "translation": "** NUKE IN 180 SECONDS **",
+    "blocked": true
+  },
+  "** NUKE IN 200 SECONDS **": {
+    "translation": "** NUKE IN 200 SECONDS **",
+    "blocked": true
+  },
+  "** Defend until the guards open the airport. **": {
+    "translation": "坚持住,守卫即将开放机场区域"
+  },
+  "** Airport opened. **": {
+    "translation": "机场区域已开放"
+  },
+  "** Defend 30 seconds until the guards open the hallway. **": {
+    "translation": "大厅区域还有30秒开放"
+  },
+  "** 5 Seconds left **": {
+    "translation": "** 5 Seconds left **",
+    "blocked": true
+  },
+  "** Cover here till the boxes explode **": {
+    "translation": "守住,障碍物即将爆炸"
+  },
+  "**defend 25 secs**": {
+    "translation": "还有25秒"
+  },
+  "[ADMIN] Added [INSANE DIFFICULTY] for next round.": {
+    "translation": "[管理员] 已启用 Insane模组."
+  },
+  "[ADMIN] Selected [HARD MODE] for next round.": {
+    "translation": "[管理员] 设定关卡至 Hard."
+  },
+  "[ADMIN] Selected [EXTREME MODE] for next round.": {
+    "translation": "[管理员] 设定关卡至 Extreme."
+  },
+  "[ADMIN] Selected [EPIC MODE] for next round.": {
+    "translation": "[管理员] 设定关卡至 Epic."
+  },
+  "[ADMIN] Selected [GOD MODE] for next round.": {
+    "translation": "[管理员] 设定关卡至 God."
+  },
+  "[ADMIN] Removed [INSANE DIFFICULTY] for next round.": {
+    "translation": "[管理员] 已禁用 Insane模组."
+  },
+  "[ADMIN] Has set [EVENT MODE] for this map. Restarting round in 5 seconds.": {
+    "translation": "[管理员] 已设置特殊模式,正在重启回合."
+  },
+  "[ADMIN] Restarting round in 5 seconds.": {
+    "translation": "[管理员] 正在重启回合."
+  },
+  "[ADMIN] Selected [ZM MODE] for next round.": {
+    "translation": "[管理员] 设定关卡至 ZM."
+  },
+  "** THANKS FOR PLAYING **": {
+    "translation": "感谢各位游玩"
+  },
+  "** MAP BY SLAYERDRAGON & NOCTALI **": {
+    "translation": "地图制作:SlayerDragon,Noctali 文本翻译:Lia"
+  },
+  "** Zombies Have Escaped **": {
+    "translation": "僵尸成功逃离"
+  },
+  "** Bomb planted - hold 30 seconds **": {
+    "translation": "炸弹已安放,等待30秒"
+  },
+  "** 10 more seconds until explosion **": {
+    "translation": "还有10秒爆炸",
+    "blocked": true
+  },
+  "** Belias is defeated - Escape the tomb ! **": {
+    "translation": "贝利亚斯已被击败,离开这里!!"
+  },
+  "** The main door opens in 25 seconds **": {
+    "translation": "主门还有25秒打开"
+  },
+  "** Final door opens in 10 seconds! **": {
+    "translation": "最后的门10秒后打开"
+  },
+  "** Teleporter will be ready in 10 seconds ! **": {
+    "translation": "传送器将于10秒后就绪"
+  },
+  "** Teleporter will be ready in 5 seconds ! **": {
+    "translation": "** Teleporter will be ready in 5 seconds ! **",
+    "blocked": true
+  },
+  "** The main door opens in 5 seconds **": {
+    "translation": "主门将于5秒后开启"
+  },
+  "** Belias is immune for fire and nades **": {
+    "translation": "<贝利亚斯> 免疫火魔法与手雷的攻击"
+  },
+  "** A player has learned Wind magick. **": {
+    "translation": "玩家获得了 风魔法"
+  },
+  "** A player has learned Heal magick. **": {
+    "translation": "玩家获得了 治疗魔法"
+  },
+  "** A player has learned Earth magick. **": {
+    "translation": "玩家获得了 大地魔法"
+  },
+  "** A player has learned Fire magick. **": {
+    "translation": "玩家获得了 火焰魔法"
+  },
+  "** A player has learned Electro magick. **": {
+    "translation": "玩家获得了 雷电魔法"
+  },
+  "** A player has learned Water magick. **": {
+    "translation": "玩家获得了 水魔法"
+  },
+  "** FIRE NOVA INBOUND **": {
+    "translation": "火焰新星来袭"
+  },
+  "** METEOR INBOUND **": {
+    "translation": "流星 来袭"
+  },
+  "** USE ELECTRO TO BREAK IT **": {
+    "translation": "使用 电 来击碎"
+  },
+  "** USE WATER TO DODGE IT  **": {
+    "translation": "使用 水 来抵挡"
+  },
+  "** You have failed... **": {
+    "translation": "你失败了..."
+  },
+  "** ZOMBIES RELEASED IN 2 SECS **": {
+    "translation": "僵尸将在2秒后释放"
+  },
+  "** We have a Godmode SoloWinner ! **": {
+    "translation": "<< Solo冠军已产生!! <<"
+  },
+  "[WINNER] Selected [HARD MODE] for next round.": {
+    "translation": "胜利者为下回合选择了 >> Hard关卡 <<."
+  },
+  "[WINNER] Selected [EXTREME MODE] for next round.": {
+    "translation": "胜利者为下回合选择了 >> Extreme关卡 <<."
+  },
+  "[WINNER] Selected [EPIC MODE] for next round.": {
+    "translation": "胜利者为下回合选择了 >> Epic关卡 <<."
+  },
+  "[WINNER] Selected [GOD MODE] for next round.": {
+    "translation": "胜利者为下回合选择了 >> God关卡 <<."
+  },
+  "** Chaos has been defeated - RUN !!!!! **": {
+    "translation": "轮回王已被击败,快跑!!!"
+  },
+  "** The airship reactors are going to explode !! **": {
+    "translation": "飞船反应炉就要爆炸了!!"
+  },
+  "** Hold 20 seconds until the door opens **": {
+    "translation": "还有20秒开启"
+  },
+  "** 5 seconds remaining **": {
+    "translation": "** 5 seconds remaining **",
+    "blocked": true
+  },
+  "** You may enter the tomb in 15 seconds **": {
+    "translation": "你将在15秒后进入古墓"
+  },
+  "** A random way will open in 10 seconds **": {
+    "translation": "还有10秒开启随机路线"
+  },
+  "** ZOMBIE JAIL OPEN ! **": {
+    "translation": "尸笼已开启!"
+  },
+  "** The fence will break in 5s **": {
+    "translation": "障碍物还有5秒清除"
+  },
+  "** Defend here so the guards will open the gates to the city ! **": {
+    "translation": "守住这里!守卫会打开通往城市的道路!"
+  },
+  "** Be aware of fake donations - groups and profiles ! **": {
+    "translation": "请注意识别假的捐助信息,群组以及资料"
+  },
+  "** Go to the end of the road ! **": {
+    "translation": "到路的尽头那去!"
+  },
+  "** 5 SECS REMAINING **": {
+    "translation": "** 5 SECS REMAINING **",
+    "blocked": true
+  },
+  "** 10 SECS REMAINING **": {
+    "translation": "** 10 SECS REMAINING **",
+    "blocked": true
+  },
+  "** 20 SECS REMAINING **": {
+    "translation": "** 20 SECS REMAINING **",
+    "blocked": true
+  },
+  "** 40 SECS REMAINING **": {
+    "translation": "** 40 SECS REMAINING **",
+    "blocked": true
+  },
+  "** 30 SECS REMAINING **": {
+    "translation": "** 30 SECS REMAINING **",
+    "blocked": true
+  },
+  "** 50 SECS REMAINING **": {
+    "translation": "** 50 SECS REMAINING **",
+    "blocked": true
+  },
+  "** 60 SECS REMAINING **": {
+    "translation": "还有60秒"
+  },
+  "** The arena will open in 20 seconds **": {
+    "translation": "竞技场还有20秒开启"
+  },
+  "** Gates will open in 15 seconds **": {
+    "translation": "大门还有15秒开启"
+  },
+  "** The next door opens in 15 seconds **": {
+    "translation": "还有15秒"
+  },
+  "** The doors will open in 5 seconds **": {
+    "translation": "** The doors will open in 5 seconds **",
+    "blocked": true
+  },
+  "** The doors will open in 25 seconds **": {
+    "translation": "这扇门还有25秒打开"
+  },
+  "** The dragon has been defeated **": {
+    "translation": "龙已被击败"
+  },
+  "** There is an error in the level system. **": {
+    "translation": "<< 关卡系统发生错误 <<"
+  },
+  "** Congratulations - You won [GODMODE - INSANE] **": {
+    "translation": "恭喜! 你通过了 >> God关卡 Insane模式>>"
+  },
+  "** Congratulations - You won [EPIC - INSANE] **": {
+    "translation": "恭喜! 你通过了 >> Epic关卡 Insane模式>>"
+  },
+  "** Congratulations - You won [EXTREME - INSANE] **": {
+    "translation": "恭喜! 你通过了 >> Extreme关卡 Insane模式>>"
+  },
+  "** Congratulations - You won [HARD - INSANE] **": {
+    "translation": "恭喜! 你通过了 >> Hard关卡 Insane模式 >>"
+  },
+  "** Congratulations - You won [ZOMBIE MOD] **": {
+    "translation": "恭喜! 你通过了 >> ZM 关卡 >>"
+  },
+  "** Congratulations - You won [GODMODE] **": {
+    "translation": "恭喜! 你通过了 >> God 关卡 >>"
+  },
+  "** Congratulations - You won [EPIC] **": {
+    "translation": "恭喜! 你通过了 >> Epic 关卡 >>"
+  },
+  "** Congratulations - You won [EXTREME] **": {
+    "translation": "恭喜! 你通过了 >> Extreme 关卡 >>"
+  },
+  "** Congratulations - You won [HARD] **": {
+    "translation": "恭喜! 你通过了 >> Hard 关卡 >>"
+  },
+  "** [INSANE DIFFICULTY ADDED] **": {
+    "translation": ">> Insane模组已启用 >>"
+  },
+  "** [HARD MODE] **": {
+    "translation": ">> 关卡 Hard >>"
+  },
+  "** [EXTREME MODE] **": {
+    "translation": ">> 关卡 Extreme >>"
+  },
+  "** [EPIC MODE] **": {
+    "translation": ">> 关卡 Epic >>"
+  },
+  "** [GOD MODE] **": {
+    "translation": ">> 关卡 God >>"
+  },
+  "** [ZM MODE] **": {
+    "translation": ">> 关卡 ZM >>"
+  }
+}

@@ -1,0 +1,103 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** BHOP/KZ PLAYERS YOU FAIL ME **": {
+    "translation": "** BHOP/KZ的糕手 你们行不行啊  **"
+  },
+  "** SURF PLAYERS YOU FAIL ME **": {
+    "translation": "** 滑翔的糕手不行啊 **"
+  },
+  "** SHOOT THE GLASS **": {
+    "translation": "** 把玻璃打破~ **"
+  },
+  "** The gate will break in 15 sec": {
+    "translation": "** 大门在15秒后打开"
+  },
+  "** The door will close in 15": {
+    "translation": "** 门还有15秒就关了"
+  },
+  "** The doors will open in 25 sec **": {
+    "translation": "** 大门在25秒后打开 **"
+  },
+  "** FALL BACK **": {
+    "translation": "** 溜溜溜~快跑啊~吸血了~ **"
+  },
+  "** The door will open in 30 sec **": {
+    "translation": "** 大门在30秒后打开"
+  },
+  "** The door will open in 15 sec **": {
+    "translation": "** 大门在15秒后打开"
+  },
+  "** Get in side the second room **": {
+    "translation": "** 快进第二个房间 **"
+  },
+  "** Teleport will enable in 20 sec **": {
+    "translation": "** 传送在20秒后激活 **"
+  },
+  "** The zombies are coming **": {
+    "translation": "** 来了 他们来了 我们是他们的一龙晶~ **"
+  },
+  "** Teleporting zombies **": {
+    "translation": "** 僵尸传送了 开饭了~ **"
+  },
+  "** Teleporting humans **": {
+    "translation": "** 传送人类 **"
+  },
+  "** Defend for 30 second **": {
+    "translation": "** 开黑坚守30秒 **"
+  },
+  "** THANKS TO EVERYONE WHO HELPED ME MAKE THIS **": {
+    "translation": "** 感谢所有帮过我的人~ **"
+  },
+  "** If surf is not completed in 60 sec the zombies will be released **": {
+    "translation": "** 如果六十秒内滑翔糕手没过去 僵尸就开饭了~ **"
+  },
+  "** The zombies will be released in 30 sec **": {
+    "translation": "** 僵尸30秒后就出来了哦~ **"
+  },
+  "** The teleport will enable in 30 sec **": {
+    "translation": "** 传送在30秒后激活 **"
+  },
+  "** Make sure that you're on the block **": {
+    "translation": "** 确保你在传送板子上 不然和僵尸贴贴哦**"
+  },
+  "** PRESS SPACE **": {
+    "translation": "** 快拍空格让你装b飞起来! **"
+  },
+  "** The gate will open in 40 sec **": {
+    "translation": "** 门在40秒后打开 **"
+  },
+  "** The gate will open in 30 sec **": {
+    "translation": "** 门在30秒后打开 **"
+  },
+  "** Map made by li-ion **": {
+    "translation": "** 地图作者 li-ion 翻译夜里很饿@风云社 **"
+  },
+  "** My first map hope you like it, enjoy **": {
+    "translation": "** 作者 我的第一张地图 希望各位喜欢~ **"
+  },
+  "** NUKE IN 5 **": {
+    "translation": "** 核爆五秒后来了 **"
+  },
+  "** 4 **": {
+    "translation": "** 四 **"
+  },
+  "** 2 **": {
+    "translation": "** 二 **"
+  },
+  "** 3 **": {
+    "translation": "** 三 **"
+  },
+  "** 1 **": {
+    "translation": "** 一 **"
+  }
+}

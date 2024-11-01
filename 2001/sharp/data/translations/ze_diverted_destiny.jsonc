@@ -10,6 +10,121 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
+  "PROVE YOURSELF": {
+    "translation": "证明自己"
+  },
+  "A metal pipe has been picked up": {
+    "translation": "钢管已被拾起"
+  },
+  "A lever has been pulled": {
+    "translation": "杠杆已被拉动"
+  },
+  "Cooldown: 45 Seconds | Duration: 5 Seconds": {
+    "translation": "冷却: 四十五秒 | 持续时间: 五秒"
+  },
+  "Want to donate? Visit my Patreon!": {
+    "translation": "想要捐赠?请访问我的 Patreon!",
+    "blocked": true
+  },
+  "Admin room is on top of spawn": {
+    "translation": "调关房就在出生点的正上方"
+  },
+  "Turn up your graphics settings to enjoy the best experience!": {
+    "translation": "调高图形设置,享受最佳体验!"
+  },
+  "Quick!! Get on!! Let's get out of here!!": {
+    "translation": "快!上车!让我们离开这里!!"
+  },
+  "We got it!": {
+    "translation": "我们做到了!"
+  },
+  "15 Seconds": {
+    "translation": "15秒"
+  },
+  "We'll go back here tomorrow": {
+    "translation": "我们明天再返回这里"
+  },
+  "Blue's long dead": {
+    "translation": "蓝色已消亡"
+  },
+  "ZM Flight item is READY": {
+    "translation": "僵尸飞行已就绪"
+  },
+  "ZM Flight item has been used.": {
+    "translation": "僵尸飞行已被使用."
+  },
+  "Look, a flying vehicle!": {
+    "translation": "抬头!有个飞行器!"
+  },
+  "It's powered by magic, I've never seen this kind before..": {
+    "translation": "它是由魔法驱动的,但我从来没见过这种魔法."
+  },
+  "Whatever! We just need to learn how to control it! Defend first!": {
+    "translation": "管它呢 我们只需要学会如何控制它!先防守!"
+  },
+  "Failed!": {
+    "translation": "失败!"
+  },
+  "I think Blue's going to contain Red": {
+    "translation": "我认为蓝色将压制红色"
+  },
+  "That might require this place to react abnormaly, in short: explode!": {
+    "translation": "爆炸了!"
+  },
+  "What's happening?": {
+    "translation": "发生了什么?"
+  },
+  "It's starting!": {
+    "translation": "开始了!"
+  },
+  "Doors will be opened in 10 Seconds": {
+    "translation": "10 秒后开门"
+  },
+  "Quick! Let's find a way to escape!": {
+    "translation": "我们想办法逃走!"
+  },
+  "We have to be quick!, this things going to be a big one!": {
+    "translation": "我们得快点,这将是个大问题!"
+  },
+  "We escaped..": {
+    "translation": "我们逃脱了.."
+  },
+  "Look at that view..": {
+    "translation": "看看这景色.."
+  },
+  "Congratulations! You won the map!": {
+    "translation": "恭喜! 你拿下了这张地图!"
+  },
+  "Stage 1 has been set!": {
+    "translation": "已选择第①关!"
+  },
+  "Stage 2 has been set!": {
+    "translation": "已选择第②关!"
+  },
+  "Legacy Stage has been set!": {
+    "translation": "已选择困难关!"
+  },
+  "Loading Legacy Stage": {
+    "translation": "正在加载困难关卡"
+  },
+  "Legacy Stage has been Triggered": {
+    "translation": "困难关卡已触发"
+  },
+  "I won't let you go through the boss again lol": {
+    "translation": "我不会让你再经历一次BOSS的考验了 lol"
+  },
+  "You won!": {
+    "translation": "你赢了!"
+  },
+  "One must stay on the platform or humans lose!": {
+    "translation": "必须留在平台上,否则我们就输了!"
+  },
+  "Look down!": {
+    "translation": "看下面!"
+  },
+  "No one is on the platform!": {
+    "translation": "没有人在平台上!"
+  },
   "Water Nymph is now spammable!": {
     "translation": "水之女神准备完成了!"
   },

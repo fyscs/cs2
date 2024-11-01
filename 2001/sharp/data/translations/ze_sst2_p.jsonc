@@ -1,0 +1,74 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+
+{
+  "Song: Tool - Lateralus": {
+    "translation": "歌曲:Tool  Lateralus"
+  },
+  "***Cave Wall Will Collapse in 18 Seconds***": {
+    "translation": "***第一面墙在18秒后坍塌***"
+  },
+  "***Lift Returning Across Canyon***": {
+    "translation": "***电梯正在路上***"
+  },
+  "***Dropship Arrival in 60 Seconds***": {
+    "translation": "***星际飞船支援在60秒后抵达!请坚守阵地!***"
+  },
+  "***Dropship Arrival in 30 Seconds***": {
+    "translation": "***星际飞船支援在30秒后抵达***"
+  },
+  "***Dropship Arrival in 10 Seconds***": {
+    "translation": "***星际飞船支援在10秒后抵达***"
+  },
+  "***Dropship has Arrived***": {
+    "translation": "***星际飞船已抵达***"
+  },
+  "***Nuking Planet Surface in 60 Seconds***": {
+    "translation": "***侦测到我方核爆打击将在60秒后抵达***"
+  },
+  "***BugHole has Opened in Center of Outpost***": {
+    "translation": "***一个白洞在前哨站中心打开了****"
+  },
+  "***Second Cave Wall Will Collapse in 20 Seconds***": {
+    "translation": "***第二面墙将在20秒后坍塌***"
+  },
+  "***Defend This Location***": {
+    "translation": "***防守这个地方***"
+  },
+  "***Lift Departing in 5 Seconds***": {
+    "translation": "***电梯还有5秒启动***"
+  },
+  ">>>Map Created By: Bill Smauz<<<": {
+    "translation": ">>>制作:Bill Smauz  汉化:Zeyu1<<<"
+  },
+  "Thanks: Kaemon and Struki and Jazzman": {
+    "translation": "感谢: Kaemon and Struki and Jazzman"
+  },
+  "Thanks To: The SteamGamers Community": {
+    "translation": "感谢: The SteamGamers Community"
+  },
+  "***12 Seconds to Enter the Outpost***": {
+    "translation": "***12秒之内进入前哨站***"
+  },
+  "***APC Starting in 5 Seconds***": {
+    "translation": "***无敌装甲车将在5秒后出发***"
+  },
+  "***Stay Within the APC's Interior***": {
+    "translation": "***待在车里!不要动!***"
+  },
+  "***Dropship Departing in 15 Seconds***": {
+    "translation": "***星际飞船在15秒后起飞***"
+  },
+  "***Dropship is Departing***": {
+    "translation": "***星际飞船已离开***"
+  }
+}

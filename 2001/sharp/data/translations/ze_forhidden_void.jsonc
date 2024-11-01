@@ -1,0 +1,250 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Human_Medical is picked!": {
+    "translation": "一位玩家拾取了医疗包"
+  },
+  "Zombie_Poison is picked!": {
+    "translation": "亡灵获取了剧毒魔法!"
+  },
+  "Zombie_Dark is picked!": {
+    "translation": "亡灵获取了黑洞魔法!"
+  },
+  "Zombie_Doom is picked!": {
+    "translation": "亡灵获取了秒杀魔法!"
+  },
+  "Zombie_FireBall is picked!": {
+    "translation": "亡灵获取了火球魔法!"
+  },
+  "Zombie_Cursed is picked!": {
+    "translation": "亡灵获取了诅咒魔法!"
+  },
+  "Human_Flame is picked!": {
+    "translation": "一位玩家获得了火焰魔法!"
+  },
+  "Human_Sand is picked!": {
+    "translation": "一位玩家获得了流沙魔法!"
+  },
+  "Human_Wind is picked!": {
+    "translation": "一位玩家获得了风魔法!"
+  },
+  "Zombie_Heal is picked!": {
+    "translation": "一位玩家获得了治疗魔法!"
+  },
+  "Human_SpaceShock is picked!": {
+    "translation": "一位玩家获得了终极魔法!"
+  },
+  "Human_Ammo is picked!": {
+    "translation": "一位玩家获得了弹药包!"
+  },
+  "Human_Earth is picked!": {
+    "translation": "一位玩家拾取了土魔法!"
+  },
+  "Human_Gravity is picked!": {
+    "translation": "一位玩家获得了重力魔法!"
+  },
+  "Human_Heal is picked!": {
+    "translation": "一位玩家获得了治疗魔法!"
+  },
+  "We have to take back our devices,Search the missing devices around the crash site!!!": {
+    "translation": "我们必须取回我们的设备,快在坠机地点周围搜寻丢失的设备!"
+  },
+  "a locked gate, destroy it!": {
+    "translation": "摧毁那扇上锁的门!"
+  },
+  "It seems like a altar,need something to active it": {
+    "translation": "它看起来像个祭坛,我们需要寻找一些东西来激活它"
+  },
+  "Altar is now functioning,we need to defend until it's completed": {
+    "translation": "祭坛已开始运行,我们需要防守直到它完工"
+  },
+  "The portal is open, get in now!!!": {
+    "translation": "入口已打开,快进来!!"
+  },
+  "We don't have enough items to active this altar!": {
+    "translation": "我们没有足够的东西来激活这个祭坛!"
+  },
+  "Altar is emitting strange energy, it's corrupting us!!!": {
+    "translation": "祭坛散发出奇怪的能量,它在腐蚀我们!"
+  },
+  "We made it! Those sacrificial companions will be memorialized forever.We can't fail them.The portal is going to open,get in now!": {
+    "translation": "我们成功了 不能辜负他们,传送门就要打开了,现在就进去!"
+  },
+  "Wait for the path to open": {
+    "translation": "等待道路打开!"
+  },
+  "Wait for the path to extend": {
+    "translation": "等待道路延展!"
+  },
+  "Wait for the slate to move": {
+    "translation": "等待石板移动!"
+  },
+  "Wait for the slate to rise": {
+    "translation": "等待石板升起"
+  },
+  "A strange crystal, try to touch it": {
+    "translation": "这里有个奇怪的水晶,触摸它试试看"
+  },
+  "Crystal has been activated, wait for it to function": {
+    "translation": "水晶已被激活"
+  },
+  "Portal is now open": {
+    "translation": "门正在打开!"
+  },
+  "defend until entrance opens": {
+    "translation": "守到门开!"
+  },
+  "Gate is opening": {
+    "translation": "门正在打开!"
+  },
+  "Left Side": {
+    "translation": "左边!"
+  },
+  "Right Side": {
+    "translation": "右边!"
+  },
+  "Wait for the crystal to fall": {
+    "translation": "等待水晶落下"
+  },
+  "trigger the crystal to activate portal": {
+    "translation": "触发水晶激活传送门"
+  },
+  "Portal is open": {
+    "translation": "门正在打开"
+  },
+  "Wait for the iron fence to open": {
+    "translation": "等待铁栅栏打开"
+  },
+  "Teleport is activated": {
+    "translation": "传送已开启"
+  },
+  "defend until the crystal falls": {
+    "translation": "守到水晶落下"
+  },
+  "Obstacle has been moved": {
+    "translation": "障碍物已被移除"
+  },
+  "trigger the crystal to activate the slate": {
+    "translation": "触发水晶 激活石板"
+  },
+  "The crystal is activated, wait for the slate to function": {
+    "translation": "水晶已激活,等待石板打开"
+  },
+  "trigger 3 slates to activate the mechanism": {
+    "translation": "触发③块石板以启动装置"
+  },
+  "wait for the path to clear": {
+    "translation": "等待道路畅通"
+  },
+  "Is this inside the building?": {
+    "translation": "这是在那座建筑里面吗?"
+  },
+  "Wait for the gate to fall": {
+    "translation": "等待大门落下"
+  },
+  "Find crystal to remove the barrier of the gate": {
+    "translation": "找到水晶,清除大门旁的障碍"
+  },
+  "Wait for the barrier to disappear": {
+    "translation": "等待障碍消失"
+  },
+  "Wait for the tunnel to open": {
+    "translation": "等待隧道开启"
+  },
+  "The tunnel is open": {
+    "translation": "隧道已开启"
+  },
+  "She disappeared, we need to leave this place now!!!": {
+    "translation": "她消失了,我们必须马上离开这个地方!"
+  },
+  "This is the end,Get in and leave this s**t place!!!": {
+    "translation": "前方就是终点!离开这个鬼地方!"
+  },
+  "We made it! What's the place? Again???": {
+    "translation": "我们成功了 那是什么地方? 又来了??"
+  },
+  "map:forhidden void||original made by Blackrock": {
+    "translation": "禁地:虚空 作者:黑岩"
+  },
+  "port by lopb to cs2||Thanks fong,Tenshi,x1aOFu and 气流 for offering help": {
+    "translation": "移植:lopb 汉化:Zeyu1"
+  },
+  "We fall into an underground cave?": {
+    "translation": "我们是在地下的洞穴吗?"
+  },
+  "need time to open this gate": {
+    "translation": "门正在打开"
+  },
+  "Something is actived": {
+    "translation": "看样子某些事件正在发生"
+  },
+  "What's this place? Weird magic teleport us to here": {
+    "translation": "这是什么地方?奇怪的魔法把我们传送到这里"
+  },
+  "This is a corpse.What happened to the advanced team?": {
+    "translation": "这是一具尸体?先锋小组怎么了!?"
+  },
+  "It seems like we have to go left side": {
+    "translation": "看来我们必须从左边走"
+  },
+  "It needs some time": {
+    "translation": "我们需要一些时间"
+  },
+  "It seems to need a key,Maybe we should look around": {
+    "translation": "看来需要一把钥匙,也许我们应该四处看看"
+  },
+  "hold on": {
+    "translation": "守住"
+  },
+  "It seems like we have to go right side": {
+    "translation": "看来我们必须从右边走"
+  },
+  "the middle way is blocked,destroy the iron fence": {
+    "translation": "中间的路被堵住了,赶快摧毁铁栅栏"
+  },
+  "Wait for the gate to open": {
+    "translation": "等待大门打开"
+  },
+  "try to give life to crystals to activate it": {
+    "translation": "正在尝试激活水晶"
+  },
+  "Arbitration has arrived!": {
+    "translation": "一位玩家获得了空间震"
+  },
+  "*stage set to 1*": {
+    "translation": "已选择第一关"
+  },
+  "*stage set to 2*": {
+    "translation": "已选择第二关"
+  },
+  "*stage set to 3*": {
+    "translation": "已选择第三关"
+  },
+  "C4 is going to explode!!!": {
+    "translation": "C4爆炸了!"
+  },
+  "why there are so many dragons at this island?": {
+    "translation": "这座岛上怎么那么多魔龙??"
+  },
+  "According to radar before our helicopter crashed,There seems to be a huge building nearby,We need to take a look": {
+    "translation": "根据直升机坠毁前的雷达显示,附近似乎有一座巨大的建筑,我们需要去看看"
+  },
+  "The gate is opening": {
+    "translation": "大门正在打开"
+  },
+  "It looks like a church, we need to get in": {
+    "translation": "看起来像教堂,我们得进去看看"
+  },
+  "Wait for the church gate to open": {
+    "translation": "等待教堂大门打开"
+  }
+}

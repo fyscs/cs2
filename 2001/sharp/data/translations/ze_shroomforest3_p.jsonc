@@ -1,0 +1,637 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** NICE JOB!!! ***": {
+    "translation": ">> 干得漂亮!! >>"
+  },
+  "*** ELEVATOR LEAVING IN 5 seconds ***": {
+    "translation": "*** ELEVATOR LEAVING IN 5 seconds ***",
+    "blocked": true
+  },
+  "*** ELEVATOR LEAVING IN 20 seconds ***": {
+    "translation": "电梯还有20秒离开"
+  },
+  ">> PLAYER HAS PICKED UP CHARMANDER POKEBALL <<": {
+    "translation": ">> 玩家获得了 小火龙 >>"
+  },
+  ">> ZOMBIE GHASTLY POKEBALL HAS BEEN PICKED UP<<": {
+    "translation": "<< [ZM]鬼斯已拾取 <<"
+  },
+  ">> PLAYER HAS PICKED UP DITTO POKEBALL <<": {
+    "translation": ">> 玩家获得了 百变怪 >>"
+  },
+  ">> PLAYER HAS PICKED UP PIKACHU POKEBALL <<": {
+    "translation": ">> 玩家获得了 皮卡丘 >>"
+  },
+  ">> PLAYER HAS PICKED UP BULBASAUR POKEBALL <<": {
+    "translation": ">> 玩家获得了 妙蛙种子 >>"
+  },
+  ">> PLAYER HAS PICKED UP SQUIRTLE POKEBALL <<": {
+    "translation": ">> 玩家获得了 杰尼杰尼 >>"
+  },
+  ">> PLAYER HAS PICKED UP ELECTRO <<": {
+    "translation": ">> 玩家获得了 电 >>"
+  },
+  ">> PLAYER HAS PICKED UP FIRE <<": {
+    "translation": ">> 玩家获得了 火 >>"
+  },
+  ">> A PLAYER HAS FOUND A LADDER RUNG <<": {
+    "translation": ">> 有玩家找到了 梯子的木条 >>"
+  },
+  "*** PLAYER FOUND A KEY ***": {
+    "translation": ">> 钥匙 已被找到! >>"
+  },
+  ">> PLAYER HAS PICKED UP UNLIMITED AMMO <<": {
+    "translation": ">> 玩家获得了 弹药补给 >>"
+  },
+  ">> PLAYER HAS PICKED UP HEAL <<": {
+    "translation": ">> 玩家获得了 治疗 <<"
+  },
+  ">> PLAYER HAS PICKED UP 6 MINES <<": {
+    "translation": ">> 玩家获得了 地雷 <<"
+  },
+  ">> ALL 6 MINES USED <<": {
+    "translation": ">> 地雷已耗尽 >>"
+  },
+  ">> PLAYER HAS PICKED UP ICE <<": {
+    "translation": ">> 玩家获得了 冰 <<"
+  },
+  ">> PLAYER HAS PICKED UP WIND <<": {
+    "translation": ">> 玩家获得了 风 <<"
+  },
+  ">> PLAYER HAS PICKED UP GRAVITY <<": {
+    "translation": ">> 玩家获得了 重力 <<"
+  },
+  ">> PLAYER HAS PICKED UP WATER <<": {
+    "translation": ">> 玩家获得了 水 <<"
+  },
+  ">> PLAYER HAS PICKED UP EARTH <<": {
+    "translation": ">> 玩家获得了 草墙 <<"
+  },
+  "*** SNORLAX IS MAKING US SLEEPY ***": {
+    "translation": "<卡比兽> 正使我们昏昏欲睡"
+  },
+  "*** DEFEAT HIM BEFORE IT'S TOO LATE ***": {
+    "translation": ">> 尽快击败它!!! >>"
+  },
+  "*** SHOOT BEFORE IT'S TOO LATE ***": {
+    "translation": ">> 快点!快点! >>"
+  },
+  "*** SNORLAX USED HYPERBEAM ***": {
+    "translation": "<卡比兽> 使用了破坏光束!!"
+  },
+  "*** SNORLAX IS GOING TO USE HYPERBEAM ***": {
+    "translation": "<卡比兽> 即将释放破坏光束!!"
+  },
+  "*** IT'S SUPER EFFECTIVE !!! ***": {
+    "translation": ">> 毁天灭地!! >>"
+  },
+  "*** ESCAPE WHILE HE IS ASLEEP ***": {
+    "translation": "<< 趁它睡着了赶紧跑!! <<"
+  },
+  ">> A POKEBALL HAS BEEN PICKED UP <<": {
+    "translation": ">> 宝可梦球已拾取!! >>"
+  },
+  ">> THE MASTERBALL HAS BEEN PICKED UP <<": {
+    "translation": "<< 大师球已拾取!!! <<"
+  },
+  ">> SHINY PIKACHU HAS BEEN PICKED UP <<": {
+    "translation": ">> 闪亮皮卡丘已获得!! >>"
+  },
+  ">> WE CAN LEAVE THIS WORLD NOW <<": {
+    "translation": ">> 我们可以离开这里了 >>"
+  },
+  ">> DEFEND FOR 40 SECONDS <<": {
+    "translation": ">> 坚持40秒 <<"
+  },
+  ">> 5 SECONDS LEFT !!! <<": {
+    "translation": ">> 5 SECONDS LEFT !!! <<",
+    "blocked": true
+  },
+  ">> BE CAREFUL <<": {
+    "translation": ">> 当心!! <<"
+  },
+  ">> SATAN IS HIDING SOMEWHERE <<": {
+    "translation": ">> 撒旦就躲在这里 <<"
+  },
+  ">> THIS IS THE BRINK OF TIME <<": {
+    "translation": ">> 是时空裂隙 <<"
+  },
+  ">> DEFEND UNTIL SOMETHING HAPPENS <<": {
+    "translation": ">> 有什么就要发生了 <<"
+  },
+  ">> TimeLoop Ending <<": {
+    "translation": ">> 结局: 时空循环 <<"
+  },
+  ">> Good Ending <<": {
+    "translation": ">> 结局: 就此结束 <<"
+  },
+  ">> Play ShroomForest1 to continue this beautiful adventure <<": {
+    "translation": ">> 再次从头开始这趟旅途吧 >>"
+  },
+  ">> (That wouldn't have happened if you killed Satan) <<": {
+    "translation": ">> 如果成功击杀撒旦,那么结局不会如此 <<"
+  },
+  ">> Thanks for being part of this incredible adventure <<": {
+    "translation": ">> 感谢你选择成为这趟不可思议旅途的一员 <<"
+  },
+  ">> 40 SECONDS UNTIL SATAN DISAPPEAR INTO THE FUTURE ! <<": {
+    "translation": ">> 只有40秒 <<"
+  },
+  ">> WE NEED TO KILL HIM BEFORE IT'S TOO LATE !! <<": {
+    "translation": ">> !!需要尽快击败它!! <<"
+  },
+  ">> WE WILL STOP SATAN NO MATTER WHAT !!! <<": {
+    "translation": ">> 不论代价!!! <<"
+  },
+  ">> TOO LATE ! <<": {
+    "translation": ">> 太迟了! <<"
+  },
+  ">> DEFEND 20 SECONDS <<": {
+    "translation": ">> 坚持20秒 <<"
+  },
+  ">> 5 SECONDS LEFT <<": {
+    "translation": ">> 5 SECONDS LEFT <<",
+    "blocked": true
+  },
+  "** 5 Zombies have Sacrificed to gift Satan 5 Special Powers **": {
+    "translation": "僵尸的献祭给予了撒旦新的特殊力量"
+  },
+  "-- [ZOMBIES] You can still find Satan's Powers during the fight --": {
+    "translation": "僵尸们:战斗中你们扔可以给撒旦寻找新的力量"
+  },
+  "-- [ZOMBIES] No More Powers to find --": {
+    "translation": ">> 撒旦已获得全力 <<"
+  },
+  "-- [ZOMBIES] You can explore the Hell during the fight -->3>1": {
+    "translation": ">> 在地狱中搜寻力量吧,僵尸们 <<"
+  },
+  "** Satan can summon Fire Minions **": {
+    "translation": "<撒旦> 现在可以召唤火焰仆从"
+  },
+  "** Satan control the Ice **": {
+    "translation": "<撒旦> 可以控制寒冰"
+  },
+  "** Satan can summon Tornado Minions **": {
+    "translation": "<撒旦> 可以召唤风暴仆从"
+  },
+  "** Satan control the Electricity **": {
+    "translation": "<撒旦> 可以控制雷电"
+  },
+  "** Satan is immune to Grenades **": {
+    "translation": "<撒旦> 免疫手榴弹伤害"
+  },
+  "** Satan can summon Water Minions **": {
+    "translation": "<撒旦> 可以召唤水之仆从"
+  },
+  "** Satan's Speed Increased **": {
+    "translation": "<撒旦> 的速度加快了"
+  },
+  "** Satan control the Explosions **": {
+    "translation": "<撒旦> 可以产生爆炸"
+  },
+  "** Satan can summon Ultimate Minions **": {
+    "translation": "<撒旦> 可以召唤终极"
+  },
+  ">> SATAN ABSORB NADES TO HEAL HIMSELF <<": {
+    "translation": "<撒旦> 正通过 手雷 恢复自身血量"
+  },
+  ">> OH NO!! SATAN IS ALIVE ! <<": {
+    "translation": ">> 不!撒旦还没有消失 <<"
+  },
+  ">> SATAN OPENED A PORTAL TO HELL !!! <<": {
+    "translation": ">> 撒旦用传送门逃进了地狱 <<"
+  },
+  "-- [ZOMBIES] Find Satan's Powers to make him stronger --": {
+    "translation": "<< 僵尸们:寻找撒旦的力量可以使它变得更强大! <<"
+  },
+  ">> PIKACHU NAZI SACRIFICED HIS SOUL TO FINISH THE BIRTH !! <<": {
+    "translation": ">> 纳粹皮卡丘献祭了自己完成了这一切!! <<"
+  },
+  ">> WE WERE TOO LATE !!! <<": {
+    "translation": ">> 我们太迟了!!! <<"
+  },
+  ">> SATAN IS HEADING TO THE TIMEMACHINE ROOM !!! <<": {
+    "translation": ">> 撒旦正在前往时光机!!! <<"
+  },
+  ">> STOP HIM BEFORE IT'S TOO LATE !! <<": {
+    "translation": ">> 阻止它!!! <<"
+  },
+  ">> DEFEND FOR 30 SECONDS <<": {
+    "translation": ">> 坚持30秒 <<"
+  },
+  ">> ZOMBIES ESCAPED!! LEVEL FAILED!! <<": {
+    "translation": ">> 僵尸逃离了!!回合失败!! <<"
+  },
+  ">> You beat the map ! <<": {
+    "translation": ">> 你完成了地图! <<"
+  },
+  ">> Congratulations ! <<": {
+    "translation": ">> 祝贺你们! <<"
+  },
+  ">> THE CLOCK IS A TIME MACHINE !!! <<": {
+    "translation": ">> 钟表是一台时光机!!! <<"
+  },
+  ">> PUT THE SHINY PIKACHU INSIDE IT <<": {
+    "translation": ">> 把皮卡丘放进去!! <<"
+  },
+  ">> ENTER IN THE CLOCK FROM THE BACK <<": {
+    "translation": ">> 从后面打开闹钟!! <<"
+  },
+  ">> DEFEND WHILE WE REPAIR THE LADDER <<": {
+    "translation": ">> 正在修理梯子!坚持住 <<"
+  },
+  ">> FIND 1 RUNG TO FIX IT <<": {
+    "translation": ">> 找到木条修复它! <<"
+  },
+  ">> THE LADDER IS BROKEN <<": {
+    "translation": ">> 梯子坏了! <<"
+  },
+  ">> WE CAN REPAIR THE LADDER <<": {
+    "translation": ">> 我们可以修好它 <<"
+  },
+  ">> DEFEND ! <<": {
+    "translation": ">> 防守阵型! <<"
+  },
+  ">> RUN !!!! <<": {
+    "translation": ">> 快跑! <<"
+  },
+  ">> THE LADDER IS FIXED ! <<": {
+    "translation": ">> 梯子修好了! <<"
+  },
+  ">> THE TIME MACHINE IS ALMOST READY !!! <<": {
+    "translation": ">> 时光机即将准备就绪!!! <<"
+  },
+  ">> DEFEND !!! <<": {
+    "translation": ">> 守住!!! <<"
+  },
+  ">> YOU TOOK TOO LONG !! <<": {
+    "translation": ">> 太慢了!! <<"
+  },
+  ">> PIKACHU CAUGHT HIMSELF !! <<": {
+    "translation": ">> 皮卡丘自投罗网!! <<"
+  },
+  ">> POKEMON WON'T FOLLOW YOU IN THIS CAVE <<": {
+    "translation": ">> 皮卡丘在这里不会跟着你 <<"
+  },
+  "*** Doors opening in 5 seconds ***": {
+    "translation": "*** Doors opening in 5 seconds ***",
+    "blocked": true
+  },
+  "*** Doors opening in 30 seconds ***": {
+    "translation": ">> 门还有30秒打开 <<"
+  },
+  ">> OH NO !! SATAN IS IN THE TIMEMACHINE ! <<": {
+    "translation": ">> 哦不!! 撒旦进入了时光机! <<"
+  },
+  ">> KEEP ZOMBIES OUT OF THE ROOM <<": {
+    "translation": ">> 不要让僵尸进来!! <<"
+  },
+  ">> GET READY FOR THE FINAL FIGHT !! <<": {
+    "translation": ">> 最后一战!! <<"
+  },
+  ">> PIKACHU IS POWERING UP THE TIME MACHINE !!! <<": {
+    "translation": ">> 皮卡丘正在给时光机充能!!! <<"
+  },
+  ">> STAY ON THE BOOK <<": {
+    "translation": ">> 待在上面!! <<"
+  },
+  ">> PIKACHU IS GETTING OUT OF CONTROL !! <<": {
+    "translation": ">> 皮卡丘失控了!! <<"
+  },
+  ">> IT SHOULD BE SAFER <<": {
+    "translation": ">> 应该安全了 <<"
+  },
+  ">> THE OVERLOAD IS RECHARGING THE RADIO !! <<": {
+    "translation": ">> 正在给收音机重新充能!! <<"
+  },
+  ">> GO ON THE BOOK ! <<": {
+    "translation": ">> 快到书本上去! <<"
+  },
+  ">> ZOMBIES IN THE SAFE AREA <<": {
+    "translation": ">> 僵尸进入了安全区域 <<"
+  },
+  ">> LEVEL FAILED <<": {
+    "translation": ">> 回合失败 <<"
+  },
+  ">> LEVEL COMPLETED!! <<": {
+    "translation": ">> 关卡已完成!! <<"
+  },
+  ">> PLAYER HAS CHOSEN: TIME LOOP <<": {
+    "translation": ">> 玩家已选择: 时空轮回 <<"
+  },
+  ">> PLAYER HAS CHOSEN: POKEBALL EXTREME <<": {
+    "translation": ">> 玩家已选择: 宝可梦球Extreme <<"
+  },
+  ">> PLAYER HAS CHOSEN: CAVES EXTREME <<": {
+    "translation": ">> 玩家已选择: 洞穴Extreme <<"
+  },
+  ">> PLAYER HAS CHOSEN: DEAD TREE EXTREME <<": {
+    "translation": ">> 玩家已选择: 死树Extreme <<"
+  },
+  ">> PLAYER HAS CHOSEN: POKEBALL NORMAL <<": {
+    "translation": ">> 玩家已选择: 宝可梦球Normal <<"
+  },
+  ">> PLAYER HAS CHOSEN: CAVES NORMAL <<": {
+    "translation": ">> 玩家已选择: 洞穴Normal <<"
+  },
+  ">> PLAYER HAS CHOSEN: DEAD TREE <<": {
+    "translation": ">> 玩家已选择: 死树Normal <<"
+  },
+  ">> TAKE THE POKEBALL <<": {
+    "translation": ">> 拿起宝可梦球 <<"
+  },
+  ">> TAKE THE MASTERBALL <<": {
+    "translation": ">> 拿起大师球 <<"
+  },
+  ">> OH NO!! IT'S PIKACHU NAZI <<": {
+    "translation": ">> 哦不!!是纳粹皮卡丘 <<"
+  },
+  ">> KILL HIM BEFORE HE GIVE BIRTH TO SATAN <<": {
+    "translation": ">> 不要让他完成撒旦的降生!! <<"
+  },
+  ">> PIKACHU NAZI IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<": {
+    "translation": ">> 皮卡丘正在使用十万伏特,保持射击!!!! <<"
+  },
+  ">> NOBODY ESCAPED!! LEVEL FAILED!! <<": {
+    "translation": ">> 无人生还!! <<"
+  },
+  ">> ZOMBIES INSIDE THE ELEVATOR <<": {
+    "translation": ">> 僵尸冲进电梯了!! <<"
+  },
+  "*** Door opening in 20 seconds ***": {
+    "translation": ">> 还有20秒打开 >>"
+  },
+  "*** Door opening in 5 seconds ***": {
+    "translation": "*** Door opening in 5 seconds ***",
+    "blocked": true
+  },
+  ">> IT'S A SHINY PIKACHU !!! <<": {
+    "translation": ">> 是闪亮皮卡丘!!! <<"
+  },
+  ">> CATCH HIM. HE IS OUR WAY OUT !!! <<": {
+    "translation": ">> 抓到它,它是我们离开这里的唯一方法!!! <<"
+  },
+  "*** Doors are open! RUN!! ***": {
+    "translation": "门开了,快跑!!!"
+  },
+  "*** ELEVATOR LEAVING IN 30 seconds ***": {
+    "translation": "电梯30秒后离开"
+  },
+  "*** YOU WOKE UP SNORLAX ***": {
+    "translation": "你惊醒了 <卡比兽>"
+  },
+  "*** IT ATTACKED IN A GRUMPY RAGE !!! ***": {
+    "translation": "<卡比兽> 愤怒了"
+  },
+  "*** Gym opening in 5 seconds ***": {
+    "translation": "*** Gym opening in 5 seconds ***",
+    "blocked": true
+  },
+  "*** Gym opening in 20 seconds ***": {
+    "translation": "门还有20秒打开"
+  },
+  "*** RUN INTO THE GYM !!!! ***": {
+    "translation": "快进来!! ***"
+  },
+  "*** Guard House opening in 5 seconds ***": {
+    "translation": "*** Guard House opening in 5 seconds ***",
+    "blocked": true
+  },
+  "*** Guard House opening in 30 seconds ***": {
+    "translation": "房门还有30秒打开"
+  },
+  "*** Defend until the path is clear ***": {
+    "translation": ">> 路径障碍物即将清除 >>"
+  },
+  "*** The path is open! RUN!! ***": {
+    "translation": "清理完成,继续前进"
+  },
+  "*** Tunnel opening in 5 seconds ***": {
+    "translation": "*** Tunnel opening in 5 seconds ***",
+    "blocked": true
+  },
+  "*** Tunnel opening in 20 seconds ***": {
+    "translation": "隧道20秒后开启"
+  },
+  "*** Door is open!!! ***": {
+    "translation": "门开了!!"
+  },
+  "*** Door is open! RUN!! ***": {
+    "translation": "门开了!快跑!!"
+  },
+  "*** Door opening in 30 seconds ***": {
+    "translation": "门还有30秒开启"
+  },
+  "*** ZOMBIES TAKE THE SIDEWAY ***": {
+    "translation": "僵尸可以走侧路"
+  },
+  ">> ZOMBIES ABOARD!! LEVEL FAILED!! <<": {
+    "translation": ">> 僵尸上来了!!回合失败!! <<"
+  },
+  ">> Special Thanks to nano <<": {
+    "translation": ">> 特别致谢: nano <<"
+  },
+  ">> Map by TaskuVaras and Moltard <<": {
+    "translation": ">> 地图制作:TaskuVaras,Moltard 文本翻译:Lia<<"
+  },
+  ">> There is an error in the level system <<": {
+    "translation": ">> 关卡系统出现错误 <<"
+  },
+  "*** SNORLAX USED REST ***": {
+    "translation": "<卡比兽> 又睡着了"
+  },
+  ">> THE SKELETONS HAVE BEEN DEFEATED !!! <<": {
+    "translation": ">> 骷髅士兵已被击败!!! <<"
+  },
+  ">> GO IN THE TIMEMACHINE !! <<": {
+    "translation": ">> 快进入时光机!! <<"
+  },
+  ">> 5 SECONDS LEFT !! <<": {
+    "translation": ">> 5 SECONDS LEFT !! <<",
+    "blocked": true
+  },
+  ">> DEFEND 20 SECONDS !! <<": {
+    "translation": "坚持20秒!!"
+  },
+  ">> HE WON'T GO FAR ! <<": {
+    "translation": ">> 它跑不了多远! <<"
+  },
+  ">> SATAN IS ESCAPING !! <<": {
+    "translation": ">> 撒旦跑了!! <<"
+  },
+  ">> THE WORLD WILL FINALLY BE IN PEACE !!! <<": {
+    "translation": ">> 世界终将归于平静!!! <<"
+  },
+  ">> WE ELIMINATED SATAN BEFORE HE COULD TIME TRAVEL !!! <<": {
+    "translation": ">> 我们成功终结了撒旦!!! <<"
+  },
+  ">> PIKACHU NAZI HAS BEEN DEFEATED !!! <<": {
+    "translation": ">> 纳粹皮卡丘已击败!!! <<"
+  },
+  "*** Gate opening in 25 seconds ***": {
+    "translation": "大门还有25秒打开"
+  },
+  "*** Gate opening in 5 seconds ***": {
+    "translation": "*** Gate opening in 5 seconds ***",
+    "blocked": true
+  },
+  ">> ALL THE RUNGS ARE FOUND <<": {
+    "translation": ">> 所有的木条已找到 <<"
+  },
+  ">> FIND 3 RUNGS TO FIX IT <<": {
+    "translation": ">> 找到三块木条 <<"
+  },
+  ">> 2 MORE RUNGS TO FIND <<": {
+    "translation": ">> 还需要两个 <<"
+  },
+  ">> 1 MORE RUNG TO FIND <<": {
+    "translation": ">> 还需要一个 <<"
+  },
+  ">> RESTARTING ROUND IN 5 SECONDS <<": {
+    "translation": ">> 正在重启回合,还有5秒 <<"
+  },
+  "*** THERE IS AN EMERGENCY SWITCH ON THIS FLOOR ***": {
+    "translation": ">> 有个 [应急开关] 在这里 >>"
+  },
+  "*** ELEVATOR IS STUCK ***": {
+    "translation": "电梯卡住了"
+  },
+  "*** RESCUE DRAGON LEAVING IN 15 SECONDS ***": {
+    "translation": "地狱龙15秒后离开"
+  },
+  "*** RESCUE DRAGON LEAVING IN 30 SECONDS ***": {
+    "translation": "地狱龙30秒后离开"
+  },
+  "*** Defend for 20 seconds ***": {
+    "translation": "坚持20秒"
+  },
+  "*** Defend for 5 seconds ***": {
+    "translation": "*** Defend for 5 seconds ***",
+    "blocked": true
+  },
+  ">> KILL THEM BEFORE IT'S TOO LATE <<": {
+    "translation": ">> 快击败它!! <<"
+  },
+  ">> OH NO!! IT'S THE SPOOKY SCARY SKELETONS <<": {
+    "translation": ">> 是骷髅士兵!!! <<"
+  },
+  "*** Defend for 30 seconds ***": {
+    "translation": "还有30秒"
+  },
+  ">> OH NO!! IT'S THE KNIGHT <<": {
+    "translation": ">> 是地狱骑士!!! <<"
+  },
+  "*** LIFT LEAVING IN 5 seconds ***": {
+    "translation": "*** LIFT LEAVING IN 5 seconds ***",
+    "blocked": true
+  },
+  "*** LIFT LEAVING IN 15 seconds ***": {
+    "translation": "平台将在15秒后离开"
+  },
+  "*** LIFT LEAVING IN 30 seconds ***": {
+    "translation": "平台将在30秒后离开"
+  },
+  "*** THE LIFT IS BROKEN ! ***": {
+    "translation": "平台被破坏了!!!"
+  },
+  "*** WE HAVE TO GO DEEPER INTO THE CAVE ***": {
+    "translation": "我们需要深入洞窟!!"
+  },
+  "*** HOLD WHILE WE OPEN THE WAY ***": {
+    "translation": "坚持一会,路就要开了"
+  },
+  ">> THE MOLE IS COMING BACK ! WATCH OUT !! <<": {
+    "translation": ">> 鼹鼠要回来了!!当心!! <<"
+  },
+  ">> DEFEND!! KEEP ZOMBIES IN THE CAVE <<": {
+    "translation": ">> 保持防守!!把僵尸压在洞穴内 <<"
+  },
+  ">> THE MOLE WILL HELP US GET OUT <<": {
+    "translation": ">> 鼹鼠会帮助我们出去 <<"
+  },
+  ">> IT'S A DEAD END !! <<": {
+    "translation": ">> 是死路!! <<"
+  },
+  ">> DEFEND WHILE THE MOLE IS DIGGING <<": {
+    "translation": ">> 在鼹鼠挖掘时保持防守 <<"
+  },
+  ">> PUT SHINY PIKACHU IN THE CLOCK <<": {
+    "translation": ">> 把皮卡丘放进闹钟 <<"
+  },
+  "*** Doors opening in 20 seconds ***": {
+    "translation": "还有20秒"
+  },
+  "*** BOARD IS BROKEN RUUUUUUN!! ***": {
+    "translation": "木板炸碎了!!快跑"
+  },
+  "*** WAIT TILL BOMBS BREAK THIS BOARD ***": {
+    "translation": ">> 等待炸弹爆炸 >>"
+  },
+  "*** Door opening in 25 seconds ***": {
+    "translation": "还有25秒"
+  },
+  "*** THE WAY IS OPEN! RUUUN! ***": {
+    "translation": "路开了,快走!!!"
+  },
+  ">> LEVEL: DEAD TREE <<": {
+    "translation": ">> 关卡: 死树 <<"
+  },
+  ">> LEVEL: CAVES <<": {
+    "translation": ">> 关卡: 洞窟 <<"
+  },
+  ">> LEVEL: POKEBALL <<": {
+    "translation": ">> 关卡: 宝可梦球 <<"
+  },
+  ">> EXTREME MODE ADDED <<": {
+    "translation": ">> 关卡: 已启用Extreme模式 <<"
+  },
+  ">> LEVEL: TIME LOOP <<": {
+    "translation": ">> 关卡: 时空轮回 <<"
+  },
+  ">> WARMUP ROUND <<": {
+    "translation": ">> 关卡: 热身回合 <<"
+  },
+  ">> 40 SECONDS LEFT <<": {
+    "translation": ">> 40 SECONDS LEFT <<"
+  },
+  ">> 30 SECONDS LEFT <<": {
+    "translation": ">> 30 SECONDS LEFT <<",
+    "blocked": true
+  },
+  ">> 20 SECONDS LEFT <<": {
+    "translation": ">> 20 SECONDS LEFT <<",
+    "blocked": true
+  },
+  ">> 10 SECONDS LEFT <<": {
+    "translation": ">> 10 SECONDS LEFT <<",
+    "blocked": true
+  },
+  ">> WARMUP ROUND END <<": {
+    "translation": ">> 热身回合结束 <<"
+  },
+  ">> MAP IS OVER <<": {
+    "translation": ">> 地图关卡结束 <<"
+  },
+  ">> TELEPORTER TO ADMIN ROOM AVAILABLE <<": {
+    "translation": ">> 调关房传送已启用 <<"
+  },
+  ">> NUKE ALL IN 30 SECONDS <<": {
+    "translation": ">> 将于30秒后处死 <<"
+  },
+  "*** Castle Gate is opening ***": {
+    "translation": "城堡大门正在开启"
+  },
+  ">> THE KNIGHT HAS BEEN DEFEATED !!! <<": {
+    "translation": ">> 击败了地狱骑士!!! <<"
+  }
+}

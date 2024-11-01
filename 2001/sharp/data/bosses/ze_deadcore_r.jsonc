@@ -23,6 +23,9 @@
   "Counters": [
     {
       "iterator": "radiation_hpcounter",
+      "mass": 41,
+      "counter": "radiation_hpmasscounter",
+      "increase": true,
       "hitbox": "radiation_target",
       "display": "Deadcore"
     }

@@ -1,0 +1,108 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "bosslvl5_laser_counter",
+      "hitbox": "bosslvl5_laser_hit",
+      "display": "LaserFinal"
+    },
+    {
+      "iterator": "bosslvl5_end_counter1",
+      "backup": "bosslvl5_end_counter2",
+      "counter": "bosslvl5_end_counter3",
+      "hitbox": "bosslvl5_end_hit",
+      "display": "Dragon"
+    },
+    {
+      "iterator": "bosslvl2_end_counter1",
+      "backup": "bosslvl2_end_counter2",
+      "counter": "bosslvl2_end_counter3",
+      "hitbox": "bosslvl2_end_hit",
+      "display": "Dragon"
+    },
+    {
+      "iterator": "bosslvl4_counter1",
+      "backup": "bosslvl4_counter2",
+      "counter": "bosslvl4_counter3",
+      "hitbox": "bosslvl4_hit",
+      "display": "Titan"
+    },
+    {
+      "iterator": "bosslvl5_garg_counter1",
+      "backup": "bosslvl5_garg_counter2",
+      "counter": "bosslvl5_garg_counter3",
+      "hitbox": "bosslvl5_garg_hit",
+      "display": "Gargantua"
+    },
+    {
+      "iterator": "bosslvl2_counter1",
+      "backup": "bosslvl2_counter2",
+      "counter": "bosslvl2_counter3",
+      "hitbox": "bosslvl2_hit",
+      "display": "Troll"
+    },
+    {
+      "iterator": "bosslvl6_counter",
+      "hitbox": "bosslvl6_hit",
+      "display": "LaserFinal"
+    },
+    {
+      "iterator": "bosslvl1_counter1",
+      "backup": "bosslvl1_counter2",
+      "counter": "bosslvl1_counter3",
+      "hitbox": "bosslvl1_hit",
+      "display": "Spider"
+    },
+    {
+      "iterator": "bosslvl5_counter1",
+      "backup": "bosslvl5_counter2",
+      "counter": "bosslvl5_counter3",
+      "hitbox": "bosslvl5_hit",
+      "display": "Balrog"
+    },
+    {
+      "iterator": "bosslvl3_end_counter1",
+      "backup": "bosslvl3_end_counter2",
+      "counter": "bosslvl3_end_counter3",
+      "hitbox": "bosslvl3_end_dragon_hit",
+      "display": "Dragon"
+    },
+    {
+      "iterator": "bosslvl3_counter1",
+      "backup": "bosslvl3_counter2",
+      "counter": "bosslvl3_counter3",
+      "hitbox": "bosslvl3_hit",
+      "display": "Dragon"
+    }
+  ],
+  "Monsters": [
+    {
+      "display": "Shield",
+      "identity": "5990"
+    },
+    {
+      "display": "Shield",
+      "identity": "5992"
+    }
+  ]
+}

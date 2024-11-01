@@ -1,0 +1,63 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Boss_Health",
+      "backup": "Boss_HealthInit",
+      "counter": "Boss_HealthCount",
+      "hitbox": "Snorlax_Boss_Phys",
+      "display": "Boss"
+    },
+    {
+      "iterator": "Skeleton_Boss_Health1",
+      "backup": "Skeleton_Boss_HealthInit1",
+      "counter": "Skeleton_Boss_HealthCount1",
+      "hitbox": "Skeleton_Boss_Phys1",
+      "display": "Skeleton:1st"
+    },
+    {
+      "iterator": "Skeleton_Boss_Health2",
+      "backup": "Skeleton_Boss_HealthInit2",
+      "counter": "Skeleton_Boss_HealthCount2",
+      "hitbox": "Skeleton_Boss_Phys2",
+      "display": "Skeleton:2nd"
+    },
+    {
+      "iterator": "Skeleton_Boss_Health3",
+      "backup": "Skeleton_Boss_HealthInit3",
+      "counter": "Skeleton_Boss_HealthCount3",
+      "hitbox": "Skeleton_Boss_Phys3",
+      "display": "Skeleton:3rd"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "767",
+      "display": "Satan"
+    },
+    {
+      "identity": "4340",
+      "display": "LaserFinal"
+    }
+  ]
+}
