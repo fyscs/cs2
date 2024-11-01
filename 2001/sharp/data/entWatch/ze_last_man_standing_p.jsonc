@@ -320,18 +320,6 @@
     "count": 1
   },
   {
-    "name": "Alex",
-    "shortName": "Alex",
-    "buttonClass": "game_ui",
-    "hammerId": "126",
-    "triggerId": ["13197"],
-    "cooldown": 0,
-    "team": 2,
-    "knife": true,
-    "mode": 1,
-    "count": 1
-  },
-  {
     "name": "机甲",
     "shortName": "机甲",
     "buttonClass": "game_ui",
