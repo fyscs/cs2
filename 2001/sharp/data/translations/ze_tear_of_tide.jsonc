@@ -24,5 +24,61 @@
   },
   "No one survived.WaterElf went berserk!": {
     "translation": "无人生还!水精灵已进入暴走状态!!"
+  },
+  "door will open in 40 sec !": {
+    "translation": "大门还有40秒开启"
+  },
+  "door will open in 5 sec !": {
+    "translation": "大门还有5秒开启"
+  },
+  "This map is inspired by Ori": {
+    "translation": ">> This map is inspired by Ori >>",
+    "blocked": true
+  },
+  "Map requires Unlock Lua and CS2Fix": {
+    "translation": ">> 你净化了水精灵! >>",
+    "blocked": true
+  },
+  "Hope you enjoy": {
+    "translation": "祝你游玩愉快!!"
+  },
+  "Map create by lopb ,thanks script support by 7ychu5,thanks materials and particle support by Tenshi.": {
+    "translation": "地图作者:lopb  特别鸣谢:7ychu5 Tenshi"
+  },
+  "wall will break in 40 sec !": {
+    "translation": "墙还有40秒打开"
+  },
+  "door will open in 30 sec !": {
+    "translation": ">> 门还有30秒开启! >>"
+  },
+  "you can use finger after 30 sec!": {
+    "translation": "你还有30秒就可以操作了!!"
+  },
+  "Looking for 3 heal elements": {
+    "translation": ">> 寻找 ③ 个治疗元素 >>"
+  },
+  "door will open in 20 sec !": {
+    "translation": ">> 门还有20秒开启! >>"
+  },
+  "raise after 40 sec !": {
+    "translation": "40 秒后升起!!"
+  },
+  "Is time to clear tide !": {
+    "translation": "是时候清理潮汐了!"
+  },
+  "DarkCreatures are one step ahead of you!": {
+    "translation": "黑暗生物先你一步"
+  },
+  "be careful !": {
+    "translation": ">> 小心! >>"
+  },
+  "door will open in 10 sec !": {
+    "translation": "门还有30秒开启!!"
+  },
+  "WaterElf is in a frenzy, get out of here quickly!": {
+    "translation": " 水精灵正在陷入疯狂,快离开这里"
+  },
+  "Run! Run! Run! Run! Run! Run!": {
+    "translation": ">> 快跑!快! >>"
   }
 }
