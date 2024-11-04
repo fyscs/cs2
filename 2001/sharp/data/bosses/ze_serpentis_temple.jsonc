@@ -35,7 +35,7 @@
       "counter": "Room8_Boss_HpCounter",
       "increase": true,
       "hitbox": "Nostar_Boss_Break_2",
-      "display": "Nostar"
+      "display": "杂种"
     },
     {
       "iterator": "HPCounter",
@@ -58,7 +58,7 @@
   ],
   "Monsters": [
     {
-      "display": "变大变高",
+      "display": "变大变高の杂种",
       "identity": "11909"
     }
   ]
