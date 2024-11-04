@@ -25,7 +25,6 @@
       "iterator": "Boss_Flandre",
       "hitbox": "co_Flandre_hitbox",
       "backup": "",
-      "counter": "Boss_Flandre",
       "display": "Flandre"
     }
   ],
