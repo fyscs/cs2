@@ -27,6 +27,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_aepp_nano_grid2_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
   "ze_alien_mountain_escape_p": {
     "certainTimes": [-1],
     "price": 300,
