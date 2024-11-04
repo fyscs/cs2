@@ -44,7 +44,7 @@
     "translation": ">> 门将在20秒后打开 >>"
   },
   ">>> NUKE IN 7 SECONDS <<<": {
-    "translation": ">> 将于7秒后结束 >>"
+    "translation": ">> 7秒后核爆 快去平台边缘! >>"
   },
   ">>> ZM TELEPORT IN 5 SECONDS <<<": {
     "translation": ">> 僵尸传送还有5秒 >>"
@@ -230,7 +230,7 @@
     "translation": ">>> 快跑 !!! <<<"
   },
   ">>> ITEMS : ONLY USEABLE ONCE <<<": {
-    "translation": ">>> ITEMS : 只能使用一次 <<<"
+    "translation": ">>> 注意 : 神器只能使用一次 <<<"
   },
   ">>> It's the Artifact ! <<<": {
     "translation": ">>> 这是一件神器! <<<"
@@ -251,7 +251,7 @@
     "translation": ">>> 10秒后传送 <<<"
   },
   "[ADMIN ROOM] NUKE IN 5 SECONDS !": {
-    "translation": "5秒后核爆!"
+    "translation": "[ADMIN ROOM] 5秒后核爆!"
   },
   ">>> GET ON THE MIDDLE <<<": {
     "translation": ">>> 快跳到中间去 <<<"
@@ -315,5 +315,8 @@
   },
   "[ADMIN ROOM] STAGE 4 NEXT ROUND": {
     "translation": "[ADMIN ROOM] 关卡四 已设置"
+  },
+  ">>>Due to CS2' issue, dont jump on the elevator!!!<<<": {
+    "translation": "不要在电梯上跳跃!"
   }
 }
