@@ -27,6 +27,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_aepp_nano_grid2_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
   "ze_alien_mountain_escape_p": {
     "certainTimes": [-1],
     "price": 300,
@@ -1295,6 +1302,13 @@
     "admin": false
   },
   "ze_obf_npst_v2": {
+    "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 2000,
+    "cooldown": 160,
+    "nomination": true,
+    "admin": false
+  },
+  "ze_obf_rampage_v2_legacy": {
     "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 2000,
     "cooldown": 160,

@@ -22,16 +22,15 @@
 {
   "Counters": [
     {
-      "iterator": "Boss_Flandre",
-      "hitbox": "co_Flandre_hitbox",
-      "backup": "",
-      "display": "Flandre"
+      "iterator": "drone_counter",
+      "hitbox": "drone_hitbox",
+      "display": "小飞机"
     }
   ],
   "Monsters": [
     {
-      "display": "Pepe",
-      "identity": "961"
+      "identity": "17826",
+      "display": "直升机"
     }
   ]
 }
