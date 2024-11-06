@@ -100,9 +100,6 @@
   "Portal is now open": {
     "translation": "门正在打开!"
   },
-  "defend until entrance opens [50 sec]": {
-    "translation": "门在50秒后打开!"
-  },
   "Gate is opening [5 sec] {
     "translation": "门5秒后打开!"
   },
