@@ -100,7 +100,7 @@
   "Portal is now open": {
     "translation": "门正在打开!"
   },
-  "Gate is opening [5 sec] {
+  "Gate is opening [5 sec]": {
     "translation": "门5秒后打开!"
   },
   "Left Side": {
@@ -137,7 +137,7 @@
     "translation": "水晶30秒后激活,等待石板打开"
   },
   "trigger 3 slates to activate the mechanism": {
-    "translation": "触发③块石板以启动装置
+    "translation": "触发③块石板以启动装置"
   },
   "wait for the path to clear [22 sec]": {
     "translation": "道路22秒后畅通"
@@ -276,5 +276,8 @@
   },
   "We don't have enough items to active this altar! [40 sec]": {
     "translation": "等待40秒启动这个祭坛"
+  },
+  "defend until entrance opens [50 sec]": {
+    "translation": "门在50秒后打开!"
   }
 }
