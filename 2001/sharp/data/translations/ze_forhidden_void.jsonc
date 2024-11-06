@@ -79,14 +79,14 @@
   "We made it! Those sacrificial companions will be memorialized forever.We can't fail them.The portal is going to open,get in now!": {
     "translation": "我们成功了 不能辜负他们,传送门就要打开了,现在就进去!"
   },
-  "Wait for the path to open": {
-    "translation": "等待道路打开!"
+  "Wait for the path to open [20 sec]": {
+    "translation": "道路20秒后打开!"
   },
-  "Wait for the path to extend": {
-    "translation": "等待道路延展!"
+  "Wait for the path to extend [22 sec]": {
+    "translation": "道路22秒后延展!"
   },
-  "Wait for the slate to move": {
-    "translation": "等待石板移动!"
+  "Wait for the slate to move [30 sec]": {
+    "translation": "石板30秒后移动!"
   },
   "Wait for the slate to rise": {
     "translation": "等待石板升起"
@@ -94,17 +94,17 @@
   "A strange crystal, try to touch it": {
     "translation": "这里有个奇怪的水晶,触摸它试试看"
   },
-  "Crystal has been activated, wait for it to function": {
-    "translation": "水晶已被激活"
+  "Crystal has been activated, wait for it to function [16 sec]": {
+    "translation": "水晶16秒后激活"
   },
   "Portal is now open": {
     "translation": "门正在打开!"
   },
-  "defend until entrance opens": {
-    "translation": "守到门开!"
+  "defend until entrance opens [50 sec]": {
+    "translation": "门在50秒后打开!"
   },
-  "Gate is opening": {
-    "translation": "门正在打开!"
+  "Gate is opening [5 sec] {
+    "translation": "门5秒后打开!"
   },
   "Left Side": {
     "translation": "左边!"
@@ -112,8 +112,8 @@
   "Right Side": {
     "translation": "右边!"
   },
-  "Wait for the crystal to fall": {
-    "translation": "等待水晶落下"
+  "Wait for the crystal to fall [23 sec]": {
+    "translation": "水晶23秒后落下"
   },
   "trigger the crystal to activate portal": {
     "translation": "触发水晶激活传送门"
@@ -121,14 +121,14 @@
   "Portal is open": {
     "translation": "门正在打开"
   },
-  "Wait for the iron fence to open": {
-    "translation": "等待铁栅栏打开"
+  "Wait for the iron fence to open [30 sec]": {
+    "translation": "铁栅栏30秒后打开"
   },
   "Teleport is activated": {
     "translation": "传送已开启"
   },
-  "defend until the crystal falls": {
-    "translation": "守到水晶落下"
+  "defend until the crystal falls [63 sec]": {
+    "translation": "水晶还有63秒落下"
   },
   "Obstacle has been moved": {
     "translation": "障碍物已被移除"
@@ -136,29 +136,29 @@
   "trigger the crystal to activate the slate": {
     "translation": "触发水晶 激活石板"
   },
-  "The crystal is activated, wait for the slate to function": {
-    "translation": "水晶已激活,等待石板打开"
+  "The crystal is activated, wait for the slate to function [30 sec]": {
+    "translation": "水晶30秒后激活,等待石板打开"
   },
   "trigger 3 slates to activate the mechanism": {
-    "translation": "触发③块石板以启动装置"
+    "translation": "触发③块石板以启动装置
   },
-  "wait for the path to clear": {
-    "translation": "等待道路畅通"
+  "wait for the path to clear [22 sec]": {
+    "translation": "道路22秒后畅通"
   },
   "Is this inside the building?": {
     "translation": "这是在那座建筑里面吗?"
   },
-  "Wait for the gate to fall": {
-    "translation": "等待大门落下"
+  "Wait for the gate to fall [30 sec]": {
+    "translation": "大门30秒后落下"
   },
   "Find crystal to remove the barrier of the gate": {
     "translation": "找到水晶,清除大门旁的障碍"
   },
-  "Wait for the barrier to disappear": {
-    "translation": "等待障碍消失"
+  "Wait for the barrier to disappear [30 sec]": {
+    "translation": "障碍30秒后消失"
   },
-  "Wait for the tunnel to open": {
-    "translation": "等待隧道开启"
+  "Wait for the tunnel to open [24 sec]": {
+    "translation": "隧道24秒后开启"
   },
   "The tunnel is open": {
     "translation": "隧道已开启"
@@ -181,11 +181,11 @@
   "We fall into an underground cave?": {
     "translation": "我们是在地下的洞穴吗?"
   },
-  "need time to open this gate": {
-    "translation": "门正在打开"
+  "need time to open this gate [35 sec] ": {
+    "translation": "门35秒后打开"
   },
-  "Something is actived": {
-    "translation": "看样子某些事件正在发生"
+  "Something is actived [30 sec]": {
+    "translation": "看样子某些事件等待30秒后才能知道"
   },
   "What's this place? Weird magic teleport us to here": {
     "translation": "这是什么地方?奇怪的魔法把我们传送到这里"
@@ -196,14 +196,14 @@
   "It seems like we have to go left side": {
     "translation": "看来我们必须从左边走"
   },
-  "It needs some time": {
-    "translation": "我们需要一些时间"
+  "It needs some time [18 sec]": {
+    "translation": "我们需要18秒,保持防守"
   },
   "It seems to need a key,Maybe we should look around": {
     "translation": "看来需要一把钥匙,也许我们应该四处看看"
   },
-  "hold on": {
-    "translation": "守住"
+  "hold on [24 sec]": {
+    "translation": "守住24秒"
   },
   "It seems like we have to go right side": {
     "translation": "看来我们必须从右边走"
@@ -229,8 +229,8 @@
   "*stage set to 3*": {
     "translation": "已选择第三关"
   },
-  "C4 is going to explode!!!": {
-    "translation": "C4爆炸了!"
+  "C4 is going to explode [5 sec] !!!": {
+    "translation": "C4还有5秒爆炸!"
   },
   "why there are so many dragons at this island?": {
     "translation": "这座岛上怎么那么多魔龙??"
@@ -238,13 +238,46 @@
   "According to radar before our helicopter crashed,There seems to be a huge building nearby,We need to take a look": {
     "translation": "根据直升机坠毁前的雷达显示,附近似乎有一座巨大的建筑,我们需要去看看"
   },
-  "The gate is opening": {
-    "translation": "大门正在打开"
+  "The gate is opening [6 sec]": {
+    "translation": "大门还有6秒打开"
   },
   "It looks like a church, we need to get in": {
     "translation": "看起来像教堂,我们得进去看看"
   },
-  "Wait for the church gate to open": {
-    "translation": "等待教堂大门打开"
+  "Wait for the church gate to open [50 sec]": {
+    "translation": "教堂大门50秒后打开"
+  },
+  "Devices are all collected!!!": {
+    "translation": "所有设备均已集齐"
+  },
+  "fence is ready to open": {
+    "translation": "栅栏马上打开"
+  },
+  "Wait for tunnel open [18 sec]": {
+    "translation": "隧道18秒后开启"
+  },
+  "Holy Spirit Prayer [5 sec]": {
+    "translation": "圣灵祷告5秒后开启"
+  },
+  "The pull rod has been pulled down [30 sec]": {
+    "translation": "拉杆已拉下,等待30秒"
+  },
+  "Path is clear, time to move": {
+    "translation": "道路已经畅通,是时候出发了"
+  },
+  "This corpse has a C4,Use it to destroy the stone below": {
+    "translation": "这具尸体上有一个 C4,用它摧毁下方的石头"
+  },
+  "We need to spend some time to dismantle this iron gate [15 sec]": {
+    "translation": "我们需要15秒拆除这扇铁门"
+  },
+  "set C4 to destroy the rock": {
+    "translation": "安装C4,摧毁这些岩石"
+  },
+  "s**t!We still need 5 pieces,altar is devouring all of us,it wants our lives to fill its gaps": {
+    "translation": "我们还需要 ⑤ 块,祭坛正在吞噬我们所有人,它想要我们的生命来填补它的空缺"
+  },
+  "We don't have enough items to active this altar! [40 sec]": {
+    "translation": "等待40秒启动这个祭坛"
   }
 }
