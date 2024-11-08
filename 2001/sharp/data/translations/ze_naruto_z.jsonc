@@ -1,0 +1,242 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***DOOR WILL OPEN IN 5 SECONDS***": {
+    "translation": "***DOOR WILL OPEN IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***DOOR WILL OPEN IN 15 SECONDS***": {
+    "translation": "门还有15秒打开"
+  },
+  "***SECOND DOOR WILL OPEN IN 15 SECONDS***": {
+    "translation": "第二扇门还有15秒打开"
+  },
+  "***SECOND DOOR WILL OPEN IN 30 SECONDS***": {
+    "translation": "第二扇门还有30秒打开"
+  },
+  "***SECOND DOOR WILL OPEN IN 5 SECONDS***": {
+    "translation": "***SECOND DOOR WILL OPEN IN 5 SECONDS***",
+    "blocked": true
+  },
+  "***DOORS OPENING NOW***": {
+    "translation": "<< 门正在打开 <<"
+  },
+  "***5 SECOND LEFT***": {
+    "translation": "***5 SECOND LEFT***",
+    "blocked": true
+  },
+  "***10 SECOND LEFT***": {
+    "translation": "***10 SECOND LEFT***",
+    "blocked": true
+  },
+  "***15 SECOND LEFT***": {
+    "translation": "还有15秒"
+  },
+  "***HOLD THIS POSITION***": {
+    "translation": "守住这里"
+  },
+  "***20 SECOND LEFT***": {
+    "translation": "还有20秒"
+  },
+  "***30 SECOND LEFT***": {
+    "translation": "还有30秒"
+  },
+  "***40 SECOND LEFT***": {
+    "translation": "还有40秒"
+  },
+  "***10 SECONDS LEFT***": {
+    "translation": "还有10秒"
+  },
+  "***CITY AFK TELEPORT IN 10s***": {
+    "translation": ">> AFK传送还有10秒 >>"
+  },
+  "***20 SECONDS LEFT***": {
+    "translation": "还有20秒"
+  },
+  "***30 SECONDS LEFT***": {
+    "translation": "还有30秒"
+  },
+  "***25 SECONDS LEFT***": {
+    "translation": "还有25秒"
+  },
+  "***35 SECONDS LEFT***": {
+    "translation": "还有35秒"
+  },
+  "***Naruto will open the way ! Follow him !***": {
+    "translation": "鸣人即将带路!跟紧他!!!"
+  },
+  "***FORTRESS AFK TELEPORT IN 10s***": {
+    "translation": "丛林处AFK传送还有10秒"
+  },
+  "***FORTRESS AFK TELEPORT***": {
+    "translation": "丛林处AFK传送已完成"
+  },
+  "***Naruto is fighting Sasuke! Go find and help him!***": {
+    "translation": "纳鲁多正在大战萨斯给,想办法帮助他!!!"
+  },
+  "***YOU NEED TO DEFEND THE TOWN 1MIN***": {
+    "translation": "需要在这里坚持一分钟"
+  },
+  "***DEFEND AGAIN 45s***": {
+    "translation": "需要坚持45秒"
+  },
+  "***DEFEND AGAIN 30s***": {
+    "translation": "***DEFEND AGAIN 30s***",
+    "blocked": true
+  },
+  "***DEFEND AGAIN 15s***": {
+    "translation": "***DEFEND AGAIN 15s***",
+    "blocked": true
+  },
+  "***DEFEND AGAIN 10s***": {
+    "translation": "***DEFEND AGAIN 10s***",
+    "blocked": true
+  },
+  "***DEFEND AGAIN 5s***": {
+    "translation": "***DEFEND AGAIN 5s***",
+    "blocked": true
+  },
+  "***KILL ALL ZOMBIE SURVIVOR***": {
+    "translation": ">> 清理剩余的僵尸 >>"
+  },
+  "***HUMANS SUCCEFULLY DEFEND KONOHA***": {
+    "translation": "人类成功保全了木叶村"
+  },
+  "***NEXT DIFFICULTY  EXTREM***": {
+    "translation": "<< 下一关卡: Extreme <<"
+  },
+  "***Admin Room Abuse ! Kill all players ***": {
+    "translation": "[管理员] 正在重启回合!"
+  },
+  "***Admin Room Abuse ! Next Difficulty : Extrem ***": {
+    "translation": "[管理员] 已设定至 Extreme"
+  },
+  "***Admin Room Abuse ! Next Difficulty : Hard ***": {
+    "translation": "[管理员] 已设定至 Hard"
+  },
+  "***Admin Room Abuse ! Next Difficulty : Normal ***": {
+    "translation": "[管理员] 已设定至 Normal"
+  },
+  "***Admin Room Abuse ! Next Difficulty : Easy ***": {
+    "translation": "[管理员] 已设定至 Easy"
+  },
+  "*** A bike has been found! Someone is ready for the 100th ''Tour De France''! ***": {
+    "translation": "<自行车>已被找到,是时候开始法国之旅了"
+  },
+  "***5 SECONDS LEFT***": {
+    "translation": "***5 SECONDS LEFT***",
+    "blocked": true
+  },
+  "***HOLD THIS POSTION***": {
+    "translation": "守住这里"
+  },
+  "***Cave way will open in 10s !***": {
+    "translation": "***Cave way will open in 10s !***",
+    "blocked": true
+  },
+  "***Cave way will open in 20s !***": {
+    "translation": "洞穴的路还有20秒开启"
+  },
+  ">> There is an error in the level system <<": {
+    "translation": ">> 关卡设置出现了错误 <<"
+  },
+  ">>>Map by CriSsys<<<": {
+    "translation": ">地图制作:CriSsys 文本翻译:Lia<"
+  },
+  ">>>Help tips opinions and adjustements by Aeris004<<<": {
+    "translation": ">>感谢来自Aeris004的意见与具体改动<<"
+  },
+  ">>>Thanks to FireWavezZ<<<": {
+    "translation": ">>感谢 FireWavezZ 的帮助<<"
+  },
+  "***!!! THIS IS A WARMUP ROUND !!!***": {
+    "translation": "<< 热身回合 <<"
+  },
+  "***!!! WAITING FOR MORE PLAYERS !!!***": {
+    "translation": "<< 热身回合:正在等待玩家 <<"
+  },
+  "***!!! FIRST ZOMBIE INFECTION DISABLE FOR THIS ROUND !!!***": {
+    "translation": "<< 本回合无僵尸出现 <<"
+  },
+  "***!!! GAME WILL START IN FEW SECOND !!!***": {
+    "translation": "<< 流程即将开始 <<"
+  },
+  "***!!! CURRENT DIFFICULTY : EASY !!!***": {
+    "translation": ">> 当前难度: Easy >>"
+  },
+  "***!!! CURRENT DIFFICULTY : NORMAL !!!***": {
+    "translation": ">> 当前难度: Normal >>"
+  },
+  "***!!! CURRENT DIFFICULTY : HARD !!!***": {
+    "translation": ">> 当前难度: Hard >>"
+  },
+  "***!!! CURRENT DIFFICULTY EXTREM !!!***": {
+    "translation": ">> 当前难度: Extreme >>"
+  },
+  "***40 SECONDS LEFT***": {
+    "translation": "还有40秒"
+  },
+  "***45 SECONDS LEFT***": {
+    "translation": "还有45秒"
+  },
+  "***!!! NEXT DIFFICULTY : NORMAL !!!***": {
+    "translation": "<< 下一关卡: Normal <<"
+  },
+  "***!!! NEXT DIFFICULTY : HARD !!!***": {
+    "translation": "<< 下一关卡: Hard <<"
+  },
+  "***DEFEAT SASUKE BEFORE NARUTO UNLEASHES HIS POWERFUL ATTACK***": {
+    "translation": "在鸣人释放超级攻击前击败佐助!!!"
+  },
+  "***NARUTO IS FIGHTING AGAINST SASUKE***": {
+    "translation": "鸣人正在与佐助激战!!"
+  },
+  "***HUMANS NOW CAN'T PROTECT THE VILLAGE***": {
+    "translation": "人类未能保住木叶村"
+  },
+  "***NARUTO HAS BEEN KILLED BY ZOMBIES***": {
+    "translation": "鸣人被僵尸围攻致死"
+  },
+  "***NEXT DIFFICULTY : HARD ***": {
+    "translation": "<< 下一关卡: Hard <<"
+  },
+  "***NEXT DIFFICULTY : EXTREM ***": {
+    "translation": "<< 下一关卡: Extreme <<"
+  },
+  "***NEXT DIFFICULTY : NORMAL ***": {
+    "translation": "<< 下一关卡: Normal <<"
+  },
+  "***NEXT DIFFICULTY : EASY ***": {
+    "translation": "<< 下一关卡: Easy <<"
+  },
+  "***YOU CAN CHOOSE THE NEXT DIFFICULTY***": {
+    "translation": "<< 现在你可以选择下一关卡了 <<"
+  },
+  "***YOU BEAT EXTREME DIFFICULTY***": {
+    "translation": "你通过了 Extreme 难度!!"
+  },
+  "***YOU DID IT !!! YOU DEFEATED SASUKE***": {
+    "translation": "你做到了!! 你击败了佐助!!!"
+  },
+  "***NARUTO WILL SOON USE HIS SPECIAL ATTACK.***": {
+    "translation": "鸣人即将使用他的超级攻击!!"
+  },
+  "***NARUTO IS PREPARING HIS FINAL ATTACK. HE WILL USE YOUR REMAINING HEALTH!***": {
+    "translation": "鸣人正在准备使用终极攻击,会消耗掉所有人的生命!!!"
+  },
+  "***NARUTO USED YOUR POWER... YOU CAN'T HELP HIM ANYMORE***": {
+    "translation": "鸣人释放了终极攻击...现在你们帮不了他了..."
+  },
+  "***DEFEAT SASUKE BEFORE NARUTO USES HIS ULTIMATE ATTACK***": {
+    "translation": "在鸣人使用终极攻击前击败佐助!!!"
+  }
+}
