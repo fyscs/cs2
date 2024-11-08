@@ -23,13 +23,13 @@
     "translation": ">> 准备好... >>"
   },
   "The doors opening in 30s": {
-    "translation": ">> 门还有30秒打开 >>"
+    "translation": ">> 门还有28秒打开 >>"
   },
   "RUN": {
     "translation": "快跑!!!"
   },
   "Door open in 55 sec": {
-    "translation": "<< 还有55秒打开 <<"
+    "translation": "<< 还有53秒打开 <<"
   },
   "We need to hack the computer and upload the virus!": {
     "translation": "我们需要骇入电脑上传病毒!!"
@@ -65,7 +65,7 @@
     "translation": "未完待续..."
   },
   "Bomb will blow up to in 110 sec.": {
-    "translation": "炸弹将于110秒后爆炸."
+    "translation": "炸弹将于108秒后爆炸."
   },
   "we still alive..": {
     "translation": "我们还活着.."
@@ -77,7 +77,7 @@
     "translation": "快上来!!!"
   },
   "We have to stay here for 80 sec.": {
-    "translation": "在这里坚持80秒."
+    "translation": "在这里坚持78秒."
   },
   "Power is OFF": {
     "translation": "电力已切断!!"
@@ -122,7 +122,7 @@
     "translation": "不好的感觉..."
   },
   "We only could stay for 115 sec": {
-    "translation": "还有115秒"
+    "translation": "还有113秒"
   },
   "GET ON THE ELEVATOR": {
     "translation": "快上电梯"
@@ -134,7 +134,7 @@
     "translation": "当心!"
   },
   "DEFEND 70 SECONDS": {
-    "translation": "还要70秒"
+    "translation": "还要63秒"
   },
   "Zombie triggered,we have fail.": {
     "translation": "僵尸完成了触发,我们失败了."
