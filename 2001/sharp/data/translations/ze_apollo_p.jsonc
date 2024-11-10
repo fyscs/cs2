@@ -1,0 +1,52 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Zombies can now climb on the side of the rocket lift***": {
+    "translation": "***僵尸现在可以爬上火箭升降梯的侧面***"
+  },
+  "***Tram Leaving Momentarily***": {
+    "translation": "***电车马上就启动了***"
+  },
+  "***Airlock Door Opening In 5 Seconds***": {
+    "translation": "***气闸门在5秒内打开***"
+  },
+  "***Aux Door Opening In 15 Seconds***": {
+    "translation": "***辅门在15秒内打开***"
+  },
+  "***Outdoor Tram Starting in 45 Seconds***": {
+    "translation": "***电车45秒后启动***"
+  },
+  "***Outdoor Tram Starting in 30 Seconds***": {
+    "translation": "***电车30秒后启动***"
+  },
+  "***Outdoor Tram Starting in 5 Seconds***": {
+    "translation": "***电车5秒后启动***"
+  },
+  "***Rocket Lift Leaving In 20 Seconds***": {
+    "translation": "***火箭20秒后起飞***"
+  },
+  "<Rocket Launch In 30 Seconds>": {
+    "translation": "***30秒后发射火箭***"
+  },
+  "<Rocket Launch In 20 Seconds>": {
+    "translation": "***20秒后发射火箭***"
+  },
+  "<Rocket Launch In 10 Seconds>": {
+    "translation": "***10秒后发射火箭***"
+  },
+  "<Rocket Launch In 5 Seconds>": {
+    "translation": "***5秒后发射火箭***"
+  },
+  "<<ROCKET LAUNCHING>>": {
+    "translation": "***火箭发射***"
+  }
+}
