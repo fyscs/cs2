@@ -68,5 +68,15 @@
       "hitbox": "phase4_Hitbox",
       "display": "亡灵"
     }
+  ],
+  "Monsters": [
+    {
+      "identity": "416",
+      "display": "小石头人"
+    },
+    {
+      "identity": "451",
+      "display": "牛牛"
+    }
   ]
 }
