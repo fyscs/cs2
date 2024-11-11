@@ -1,0 +1,72 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "havan_Health",
+      "backup": "havan_HealthBackup",
+      "counter": "havan_HealthCount",
+      "increase": true,
+      "hitbox": "havan_Hitbox",
+      "display": "石头人一号"
+    },
+    {
+      "iterator": "xyz_havan_Health",
+      "backup": "xyz_havan_HealthBackup",
+      "counter": "xyz_havan_HealthCount",
+      "increase": true,
+      "hitbox": "xyz_havan_Hitbox",
+      "display": "石头人二号"
+    },
+    {
+      "iterator": "djinn_Health",
+      "backup": "djinn_HealthBackup",
+      "counter": "djinn_HealthCount",
+      "increase": true,
+      "hitbox": "djinn_Hitbox",
+      "display": "亡灵"
+    },
+    {
+      "iterator": "phase3_health_main",
+      "mass": 100,
+      "counter": "phase3_healthcount",
+      "hitbox": "phase3_hitbox",
+      "display": "Danmaku"
+    },
+    {
+      "iterator": "xz_havan_Health",
+      "backup": "xz_havan_HealthBackup",
+      "counter": "xz_havan_HealthCount",
+      "increase": true,
+      "hitbox": "xz_havan_Hitbox",
+      "display": "石头人三号"
+    },
+    {
+      "iterator": "phase4_Health",
+      "backup": "phase4_HealthBackup",
+      "counter": "phase4_HealthCount",
+      "increase": true,
+      "hitbox": "phase4_Hitbox",
+      "display": "亡灵"
+    }
+  ]
+}
