@@ -1,0 +1,91 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** JUMP DOWN NOW AND ESCAPE THE OBELISK ***": {
+    "translation": "跳下来,快跑!!!!"
+  },
+  "*** STACK ***": {
+    "translation": ">> 跑毒TIME <<"
+  },
+  "*** PLAYER HAS PICKED UP TORNADO ***": {
+    "translation": ">> 玩家拾取了 <风暴> >>"
+  },
+  "*** PLAYER HAS PICKED UP PYRAMID ***": {
+    "translation": ">> 玩家拾取了 <金字塔?> >>"
+  },
+  "*** PLAYER HAS PICKED UP AMMO ***": {
+    "translation": ">> 玩家拾取了 <弹药补给> >>"
+  },
+  "*** PLAYER HAS PICKED UP SAND ***": {
+    "translation": ">> 玩家拾取了 <流沙> >>"
+  },
+  "*** PLAYER HAS PICKED UP HEAL ***": {
+    "translation": ">> 玩家拾取了 <治疗> >>"
+  },
+  "*** KILL HIM NOW ***": {
+    "translation": ">>> 现在,快朝它射击! >>>"
+  },
+  "*** YOU GOT HIM ***": {
+    "translation": ">> 你做到了!! <<"
+  },
+  "*** SURVIVE FOR 60 SECONDS ***": {
+    "translation": "<< 坚持60秒 <<"
+  },
+  "*** 30 SECONDS LEFT ***": {
+    "translation": "*** 30 SECONDS LEFT ***",
+    "blocked": true
+  },
+  "*** 10 SECONDS LEFT ***": {
+    "translation": "*** 10 SECONDS LEFT ***",
+    "blocked": true
+  },
+  "*** HEAL MODIFIED ***": {
+    "translation": "<< [治疗] 的效果已被削弱! <<"
+  },
+  "*** NOT BAD ***": {
+    "translation": ">> 还不赖... >>"
+  },
+  "*** DEFEND UNTIL SOMETHING HAPPEN ***": {
+    "translation": "有什么就要发生了..."
+  },
+  "*** JUMP NOW ***": {
+    "translation": "就是现在,快跳!"
+  },
+  "*** ENTRANCE OPENS IN 25 SECONDS ***": {
+    "translation": ">> 入口还有25秒打开 >>"
+  },
+  "*** 5 SECONDS LEFT ***": {
+    "translation": "*** 5 SECONDS LEFT ***",
+    "blocked": true
+  },
+  "*** GRATE OPENS IN 15 SECONDS ***": {
+    "translation": "还有15秒"
+  },
+  "*** LIFT MOVING IN 20 SECONDS ***": {
+    "translation": ">> 平台还有20秒离开 >>"
+  },
+  "*** 15 SECONDS LEFT ***": {
+    "translation": "还有15秒"
+  },
+  "*** 20 SECONDS LEFT ***": {
+    "translation": "还有20秒"
+  },
+  "*** GRATE OPENS IN 30 SECONDS ***": {
+    "translation": "还有30秒打开"
+  },
+  "*** OBELISK ENTRANCE OPENS IN 25 SECONDS  ***": {
+    "translation": ">> 入口还有25秒开启 >>"
+  },
+  "<< EX Mode Enable! >>": {
+    "translation": "<< [Ex Mode] 已启用! <<"
+  }
+}
