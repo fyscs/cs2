@@ -774,7 +774,7 @@
     "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false
+    "admin": true
   },
   "ze_gear_palace": {
     "certainTimes": [-1],
@@ -1754,7 +1754,7 @@
     "price": 300,
     "cooldown": 50,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_siberia_1990_p": {
     "certainTimes": [-1],
