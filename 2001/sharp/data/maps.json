@@ -1593,7 +1593,7 @@
     "price": 500,
     "cooldown": 60,
     "nomination": true,
-    "admin": false
+    "admin": true
   },
   "ze_puta_p": {
     "certainTimes": [-1],
