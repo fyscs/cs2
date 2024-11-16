@@ -1,0 +1,436 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>SECRET: Found the Vox Populi Token<<": {
+    "translation": ">>隐藏物品: 已找到<人民之声>标志 <<"
+  },
+  ">>SECRET: Found the Airship Token<<": {
+    "translation": ">>隐藏物品: 已找到<飞船>标志 <<"
+  },
+  ">>SECRET: Found the Bird Token<<": {
+    "translation": ">>隐藏物品: 已找到<夜莺>标志 <<"
+  },
+  ">>SECRET: Found the Cage Token<<": {
+    "translation": ">>隐藏物品: 已找到<鸟笼>标志 <<"
+  },
+  ">>>The Big Daddy is lurking<<<": {
+    "translation": ">>>大老爹潜伏在附近<<<"
+  },
+  ">>>A Little Sister has been spotted nearby<<<": {
+    "translation": ">>>小妹妹被目击到在附近出现过<<<"
+  },
+  ">>>Introduction Complete<<<": {
+    "translation": ">> 介绍部分结束 >>"
+  },
+  ">>TIP #6: Gene Tonics take effect on death. Don't die in vain!<<": {
+    "translation": "提示: 基因补正将受死亡影响,不要白白死去"
+  },
+  ">>TIP #5: Little Sister can harvest corpses to buff her teammates. Search them out!<<": {
+    "translation": "提示: 小妹妹可以吸收尸体的能量增强僵尸,尽力收集"
+  },
+  ">>TIP #4: Upgrade your Plasmids at Power to the People stations. Upgrades are PERMANENT. Choose carefully!<<": {
+    "translation": "提示: 升级站可以升级神器等级,效果永续.请合理选择"
+  },
+  ">>TIP #3: Plasmids are limited use. Keep count!<<": {
+    "translation": "提示: 所有神器均有<使用次数>限制,请合理使用"
+  },
+  ">>TIP #2: Repeated losses will make the map easier. Don't give up!<<": {
+    "translation": "提示: 多次回合失败将触发难度削弱,请不要放弃!"
+  },
+  ">>>Warmup ends in 60 seconds<<<": {
+    "translation": "<热身回合> 还有60秒结束"
+  },
+  ">>TIP #1: Big Daddy is immensely strong. Don't let him get close<<": {
+    "translation": "提示: 大老爹无可匹敌,不要让他靠近"
+  },
+  ">>1999 is a special mode<<": {
+    "translation": "1999是一个特殊的关卡"
+  },
+  ">>Its long and difficult<<": {
+    "translation": "不短也不简单"
+  },
+  ">>Enjoy it<<": {
+    "translation": "享受游玩吧"
+  },
+  ">>TIP #7: Lost health? Visit a health station to recover it!<<": {
+    "translation": "提示: 医疗站可以恢复HP"
+  },
+  ">>Introduction<<": {
+    "translation": ">> 介绍部分 >>"
+  },
+  ">>Chapter 1 - Welcome to Rapture<<": {
+    "translation": "第一章 - 欢迎来到海底城"
+  },
+  ">>Chapter 2 - Fort Frolic<<": {
+    "translation": "第二章 - 娱乐场"
+  },
+  ">>Chapter 3 - Arcadia<<": {
+    "translation": "第三章 - 阿卡迪亚"
+  },
+  ">>Chapter 4 - Hephaestus<<": {
+    "translation": "第四章 - 赫菲斯托斯"
+  },
+  ">>Extra Chapter - 1999<<": {
+    "translation": "额外关卡: 1999"
+  },
+  "You've come to the wrong place, go back": {
+    "translation": "你来了不该来的地方,快回去"
+  },
+  "I warned you before...": {
+    "translation": "我已经警告过你了..."
+  },
+  ">>>A Patriot is awake. Kill it!<<<": {
+    "translation": "爱国者守卫已苏醒,快击碎它"
+  },
+  ">>Kill the Patriot<<": {
+    "translation": "击杀爱国者守卫!"
+  },
+  "*ADMIN Room: Plasmids set to max level*": {
+    "translation": "[管理员] 神器已设置 <最高等级>"
+  },
+  "*ADMIN Room: Slaying CTs": {
+    "translation": "[管理员] 正在重启回合"
+  },
+  ">>>Congratulations<<": {
+    "translation": ">> 祝贺你们!! >>"
+  },
+  ">>>Thank you for playing<<": {
+    "translation": "感谢游玩"
+  },
+  ">>It's your chance. Kill the Songbird<<": {
+    "translation": "机会来了,击杀夜莺!!"
+  },
+  ">>Wait for garden access - 20s<<": {
+    "translation": "等待进入花园,还有20秒"
+  },
+  ">>Defend while the door opens - 50s<<": {
+    "translation": "等待大门打开,还有50秒"
+  },
+  ">>Defend until the doors close - 15s<<": {
+    "translation": "等待大门关闭,还有15秒"
+  },
+  ">>Tip: The Songbird is vulnerable only to headshots. Remember this<<": {
+    "translation": "[提示] 夜莺只有<头部>可以造成伤害"
+  },
+  ">>Wait for the security door to open - 20s<<": {
+    "translation": "安全门还有20秒开启"
+  },
+  ">>Wait for Trophy Room access - 35s<<": {
+    "translation": "陈列室还有35秒打开"
+  },
+  ">>Door is open<<": {
+    "translation": "门开了"
+  },
+  ">>AFK teleport in 5s<<": {
+    "translation": "AFK传送还有5秒启动"
+  },
+  ">>There are 2 ways to go. Someone must take the upper path<<": {
+    "translation": "这里有两条路,必须要有人走上面"
+  },
+  ">>They must go and open the lower door from behind<<": {
+    "translation": "他们必须从后面打开下面的门"
+  },
+  ">>Hold the Wineries - 25s<<": {
+    "translation": "还有25秒"
+  },
+  "*AFK teleport in 5s*": {
+    "translation": "AFK传送还有5秒启动"
+  },
+  ">>Wait for the storage doors to open - 60<<": {
+    "translation": "储藏区的门还有60秒打开"
+  },
+  ">>Detonate and Destroy the tunnel<<": {
+    "translation": "炸毁这里!!"
+  },
+  ">>Wait for access to the Bathysphere - 35s<<": {
+    "translation": "等待进入潜水球,还有35秒"
+  },
+  ">>Splicers must not make it past the marker<<": {
+    "translation": "僵尸不能越过这里"
+  },
+  ">>Service must end before you may enter - 25s<<": {
+    "translation": "需要等待25秒"
+  },
+  ">>Elevator will be leaving soon<<": {
+    "translation": "电梯即将离开"
+  },
+  ">>Hephaestus security checks in progress.. - 15s<<": {
+    "translation": "[赫菲斯托斯]正在安全检查,还有15秒"
+  },
+  ">>Wait for access to Fort Frolic<<": {
+    "translation": "等待进入娱乐场"
+  },
+  "*ADMIN Room: Set Chapter 4 ending to BAD*": {
+    "translation": "[管理员] 已设定第四章结局为 <Bad>"
+  },
+  "*ADMIN Room: Set Chapter 4 ending to GOOD*": {
+    "translation": "[管理员] 已设定第四章结局为 <Good>"
+  },
+  "*ADMIN Room: Difficulty permanently set to HARD*": {
+    "translation": "[管理员] 已固定难度为 <困难>"
+  },
+  "*ADMIN Room: Difficulty permanently set to EASY*": {
+    "translation": "[管理员] 已固定难度为 <简单>"
+  },
+  "*ADMIN Room: Next round set to 1999 mode. GOOD LUCK!*": {
+    "translation": "[管理员] 已设定至 Mode:1999"
+  },
+  "*ADMIN Room: Next round set to Chapter 4*": {
+    "translation": "[管理员] 已设定至 第四章"
+  },
+  "*ADMIN Room: Next round set to Chapter 3*": {
+    "translation": "[管理员] 已设定至 第三章"
+  },
+  "*ADMIN Room: Next round set to Chapter 2*": {
+    "translation": "[管理员] 已设定至 第二章"
+  },
+  "*ADMIN Room: Next round set to Chapter 1*": {
+    "translation": "[管理员] 已设定至 第一章"
+  },
+  ">>Wait for Hephaestus to open - 15s<<": {
+    "translation": "等待开启,还有15秒"
+  },
+  ">>Hephaestus is open<<": {
+    "translation": "赫菲斯托斯 已开放"
+  },
+  ">>Get back to the elevator<<": {
+    "translation": ">>> 回电梯那里去 >>>"
+  },
+  ">>Laser incoming<<": {
+    "translation": ">> 激光束 >>"
+  },
+  ">>Hold until secuity door releases - 15s<<": {
+    "translation": "安全门还有15秒开启"
+  },
+  ">>Hold the Balcony<<": {
+    "translation": "守住这里!!!"
+  },
+  ">>Hold the Decompression Chamber<<": {
+    "translation": "守住减压室"
+  },
+  ">>Defend until Cohen opens the doors - 20s<<": {
+    "translation": "坚持住,门还有20秒打开"
+  },
+  "*Splicers have been blocked for 8 seconds*": {
+    "translation": "僵尸将被阻挡8秒"
+  },
+  "*Splicers have been freed!*": {
+    "translation": "僵尸已被释放"
+  },
+  ">>Wait for Siren Alley doors to open - 15s<<": {
+    "translation": "警戒区的门还有15秒打开"
+  },
+  ">>Hold until the security door releases<<": {
+    "translation": "等待安全门开放"
+  },
+  ">>Hold Julie Langford's Garden<<": {
+    "translation": "守住朱莉的花园"
+  },
+  ">>>Bad ending obtained!<<<": {
+    "translation": ">> 已达成 [虚假结局] >>"
+  },
+  ">>>Find the secrets for the true ending<<<": {
+    "translation": "找寻线索以达成真实的结局"
+  },
+  ">>Thank you for playing. Try 1999 mode for a true challenge<<": {
+    "translation": ">> 感谢游玩,现在可以尝试关卡1999,挑战真正的结局>>"
+  },
+  ">>Campaign Completed<<": {
+    "translation": ">> 流程已完成 >>"
+  },
+  ">>Chapter Completed<<": {
+    "translation": ">> 章节已完成 >>"
+  },
+  ">>>Chapter complete<<<": {
+    "translation": ">> 章节完成 >>"
+  },
+  ">>Evaporate the flood water<<": {
+    "translation": "排出积水.."
+  },
+  ">>AFK Teleport in 5s<<": {
+    "translation": "AFK传送还有5秒启动"
+  },
+  ">>Defend the Bathysphere - 40s<<": {
+    "translation": "守卫潜水球,还有40秒"
+  },
+  ">>>Bathysphere door opens in 20 seconds<<<": {
+    "translation": "潜水球舱门还有20秒打开"
+  },
+  "*AFK teleport in 3s*": {
+    "translation": "AFK传送还有3秒启动"
+  },
+  ">>Elevator is leaving - 5s<<": {
+    "translation": "电梯还有5秒离开"
+  },
+  "***Plasmid upgraded: Insect Swarm 2": {
+    "translation": ">> [蜂群] 升级至 二级 >>"
+  },
+  "***Plasmid upgraded: Insect Swarm 3": {
+    "translation": ">> [蜂群] 升级至 三级 >>"
+  },
+  "***Plasmid obtained: Insect Swarm***": {
+    "translation": ">> 已获得 [蜂群] >>"
+  },
+  "***Plasmid obtained: Winter Blast***": {
+    "translation": ">> 已获得 [寒霜] >>"
+  },
+  "***Plasmid upgraded: Winter Blast 2***": {
+    "translation": ">> [寒霜] 升级至 二级 >>"
+  },
+  "***Plasmid upgraded: Winter Blast 3***": {
+    "translation": ">> [寒霜] 升级至 三级 >>"
+  },
+  "***Plasmid upgraded: Gravity Well 2***": {
+    "translation": ">> [重力] 升级至 二级 >>"
+  },
+  "***Plasmid upgraded: Gravity Well 3***": {
+    "translation": ">> [重力] 升级至 三级 >>"
+  },
+  "***Plasmid obtained: Gravity Well***": {
+    "translation": ">> 已获得 [重力] >>"
+  },
+  "***Plasmid upgraded: Sonic Boom 2***": {
+    "translation": ">> [音爆] 升级至 二级 >>"
+  },
+  "***Plasmid upgraded: Sonic Boom 3***": {
+    "translation": ">> [音爆] 升级至 三级 >>"
+  },
+  "***Plasmid obtained: Sonic Boom***": {
+    "translation": ">> 已获得 [音爆] >>"
+  },
+  "***Plasmid upgraded: Incinerate 2***": {
+    "translation": ">> [焚化] 升级至 二级 >>"
+  },
+  "***Plasmid upgraded: Incinerate 3***": {
+    "translation": ">> [焚化] 升级至 三级 >>"
+  },
+  "***Plasmid obtained: Incinerate***": {
+    "translation": ">> 已获得 [焚化] >>"
+  },
+  "***Plasmid upgraded: Electro Bolt 2***": {
+    "translation": ">> [静电] 升级至 二级 >>"
+  },
+  "***Plasmid upgraded: Electro Bolt 3***": {
+    "translation": ">> [静电] 升级至 三级 >>"
+  },
+  "***Plasmid obtained: Electro Bolt***": {
+    "translation": ">> 已获得 [静电] >>"
+  },
+  ">>Elevator 2 leaving - 5s<<": {
+    "translation": "电梯二还有5秒离开"
+  },
+  ">>>All emblems obtained<<<": {
+    "translation": "所有的<标记>已完成收集"
+  },
+  ">>Go up the stairs<<": {
+    "translation": "快上楼梯!!"
+  },
+  ">>>ESCAPE FAILED!<<<": {
+    "translation": ">> 失败了! >>"
+  },
+  ">>>CONGRATULATIONS!<<<": {
+    "translation": ">> 祝贺你们!! >>"
+  },
+  ">>>TRUE ENDING OBTAINED<<<": {
+    "translation": ">> 已达成 [真实结局] >>"
+  },
+  ">>>ELIZABETH: This is it! Defend the boat!<<<": {
+    "translation": "守住这里!!"
+  },
+  ">>>ELIZABETH: The boat! GET IN THE BOAT<<<": {
+    "translation": "船!!快上小船!!"
+  },
+  ">>>Elizabeth can't control the tear! Teleport in 5 seconds<<<": {
+    "translation": "伊丽莎白控制不住裂隙了,还有5秒即将传送"
+  },
+  ">>You must wait for the islands to align - 30s<<": {
+    "translation": "需要等待30秒进行校准"
+  },
+  ">>Elizabeth is searching for a tear - 50s<<": {
+    "translation": "伊丽莎白正在寻找裂隙,还有50秒"
+  },
+  ">>>Jump onto the rail!<<<": {
+    "translation": ">> 快跳上滑轨!! >>"
+  },
+  ">>Wait for rail access - 15s<<": {
+    "translation": "等待滑轨开放,还有15秒"
+  },
+  ">>Hold the doorway - 5s<<": {
+    "translation": "还有5秒,坚持住"
+  },
+  ">>Defend Jasmine Jolie's room - 60s<<": {
+    "translation": "等待进入朱莉的房间,还有60秒"
+  },
+  ">>Defend while the door unfreezes - 20s<<": {
+    "translation": "等待大门打开,还有20秒"
+  },
+  ">>>Chapter failed<<<": {
+    "translation": "<< 回合失败 <<"
+  },
+  ">>Wait for Poseidon Plaza to unfreeze<<": {
+    "translation": "等待海神广场开放"
+  },
+  ">>Board and defend the Rapture Metro<<": {
+    "translation": "登上并守住火车!!"
+  },
+  ">>Current Difficulty: Easy<<": {
+    "translation": "当前难度: >> 简单 >>"
+  },
+  ">>Current Difficulty: Hard<<": {
+    "translation": "当前难度: >> 困难 >>"
+  },
+  ">>ze_bioshock<<": {
+    "translation": "ZE_生化奇兵"
+  },
+  ">>Map by DormantLemon<<": {
+    "translation": "地图制作:DormantLemon 文本翻译:Lia"
+  },
+  ">>Wait for Bathysphere arrival - 25s<<": {
+    "translation": "等待潜水球抵达,还有25秒"
+  },
+  ">>Bathysphere is docking...<<": {
+    "translation": "潜水球正在对接..."
+  },
+  ">>Wait for corridor to drain...<<": {
+    "translation": "等待走廊排水完成..."
+  },
+  "That's a Little Sister. Looks like she's alone...": {
+    "translation": "是一个小妹妹,看起来她很孤独..."
+  },
+  ">>Hide or hold until the exit has drained - 84s<<": {
+    "translation": "还有84秒,等待出口开放"
+  },
+  ">>Hold until the security door unlocks<<": {
+    "translation": "等待安全门打开"
+  },
+  ">>Get in the Bathysphere - 12s<<": {
+    "translation": "快进来,还有12秒"
+  },
+  ">>Wait for the arrival of Rapture Metro<<": {
+    "translation": "等待火车抵达"
+  },
+  ">>Hold the Atrium - 22s<<": {
+    "translation": "守住大堂,还有22秒"
+  },
+  ">>Elevator 1 leaving - 5s<<": {
+    "translation": "电梯一还有5秒离开"
+  },
+  ">>Wait for the elevators arrival<<": {
+    "translation": "等待电梯抵达"
+  },
+  ">>Cohen has fled!<<": {
+    "translation": ">> 科恩逃跑了!! >>"
+  },
+  ">>Its your lucky day, kid<<": {
+    "translation": "算你走运,小子"
+  }
+}
