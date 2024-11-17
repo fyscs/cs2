@@ -190,5 +190,20 @@
   },
   ">>Each use will reduce people's tendency to violence <<": {
     "translation": ">>每一次使用都会惊吓人类不敢开枪<<"
+  },
+  "*** Zombies teleport in 7 seconds ***": {
+    "translation": ">>僵尸7秒后传送<<"
+  },
+  "<<<The left glass will shatter in 5 seconds>>>": {
+    "translation": ">>左侧玻璃会在5秒后破碎<<"
+  },
+  ">>It works! The gate will be suspended for 20 seconds!<<": {
+    "translation": ">>闸门将暂停20秒<<"
+  },
+  ">>Zombie thrust will shut down in 7 seconds<<": {
+    "translation": ">>僵尸推力将在7秒后消失<<"
+  },
+  "*** There seems to be something hidden on the back of this pool, which makes me feel scared***": {
+    "translation": ">>这个水池的背面似乎隐藏着什么东西,这让我感到有些恐惧<<"
   }
 }

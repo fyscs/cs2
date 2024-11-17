@@ -18,7 +18,7 @@
     "price": 250,
     "cooldown": 15,
     "nomination": false,
-    "admin": false
+    "admin": true
   },
     "ttt_cs2_chateau": {
     "certainTimes": [-1],
