@@ -145,6 +145,16 @@
     "mode": 0,
     "count": 1
   },
+  {
+    "name": "桐人Lite",
+    "shortName": "桐人Lite",
+    "hammerId": "12869",
+    "triggerId": ["12887","12833","12913"],
+    "team": 3,
+    "knife": true,
+    "mode": 0,
+    "count": 1
+  },
   // TODO 僵尸神器都是2按钮, 所以现在暂时不支持CD
   {
     "name": "[ZM]黑洞",
