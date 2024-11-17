@@ -148,11 +148,13 @@
   {
     "name": "桐人Lite",
     "shortName": "桐人Lite",
+    "buttonClass": "func_button",
     "hammerId": "12869",
     "triggerId": ["12887","12833","12913"],
+    "cooldown": 60,
     "team": 3,
     "knife": true,
-    "mode": 0,
+    "mode": 2,
     "count": 1
   },
   // TODO 僵尸神器都是2按钮, 所以现在暂时不支持CD
