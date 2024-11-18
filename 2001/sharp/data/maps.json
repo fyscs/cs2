@@ -22,7 +22,7 @@
   },
   "ze_30_seconds_p": {
     "certainTimes": [-1],
-    "price": 300,connect 110.42.9.138:27055
+    "price": 300,
     "cooldown": 60,
     "nomination": true,
     "admin": true
