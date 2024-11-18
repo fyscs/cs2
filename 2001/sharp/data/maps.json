@@ -252,6 +252,13 @@
     "admin": false
   },
   "ze_biohazard_manor_004_p": {
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 550,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
+  "ze_bioshock_v6_cs2": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 50,
