@@ -1532,6 +1532,13 @@
     "nomination": false,
     "admin": true
   },
+  "ze_pd2_crime_art": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": true
+  },
   "ze_percocet_p": {
     "certainTimes": [-1],
     "price": 300,
