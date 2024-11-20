@@ -1,0 +1,79 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Stage4_Boss_Bergan_HP_Main",
+      "backup": "Stage4_Boss_Bergan_HP_Middle",
+      "counter": "Stage4_Boss_Bergan_HP_End",
+      "hitbox": "Stage4_Boss_Bergan_Phys_Body",
+      "display": "Bergan"
+    },
+    {
+      "iterator": "Stage-1_Ending_Gabranth_HP",
+      "hitbox": "Stage-1_Ending_Gabranth_func",
+      "display": "Gabranth"
+    },
+    {
+      "iterator": "Stage3_End_Guard_HP",
+      "hitbox": "Stage3_End_Guard_Phys",
+      "display": "Guard"
+    },
+    {
+      "iterator": "Stage4_Ending_Bergan_HP",
+      "hitbox": "Stage4_Ending_Bergan_Func",
+      "display": "Bergan"
+    },
+    {
+      "iterator": "Mateus_Health_HP_Main",
+      "backup": "Mateus_Health_Middle",
+      "counter": "Mateus_Health_End",
+      "hitbox": "Stage3_Mateus_Phys_Body",
+      "display": "Mateus"
+    },
+    {
+      "iterator": "Dragon_Aevis_Health_HP_Main",
+      "backup": "Dragon_Aevis_Health_Middle",
+      "counter": "Dragon_Aevis_Health_End",
+      "hitbox": "Dragon_Aevis_Phys_Body",
+      "display": "Aevis"
+    },
+    {
+      "iterator": "Stage-1_Gabranth_HP_Main",
+      "backup": "Stage-1_Gabranth_HP_Middle",
+      "counter": "Stage-1_Gabranth_HP_End",
+      "hitbox": "Stage-1_Gabranth_Phys_Body",
+      "display": "Gabranth"
+    },
+    {
+      "iterator": "Hydro_Health",
+      "hitbox": "Hydro_physbox",
+      "display": "Myath"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "2018",
+      "display": "Mini"
+    }
+  ]
+}
