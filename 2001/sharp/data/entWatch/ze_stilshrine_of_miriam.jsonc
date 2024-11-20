@@ -34,6 +34,17 @@
     "count": 1
   },
   {
+    "name": "王者之剑",
+    "shortName": "圣剑",
+    "buttonClass": "func_button",
+    "hammerId": "3107",
+    "cooldown": 0,
+    "team": 3,
+    "knife": false,
+    "mode": 1,
+    "count": 1
+  },
+  {
     "name": "治疗",
     "shortName": "治疗",
     "buttonClass": "func_button",
