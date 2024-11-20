@@ -1931,6 +1931,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_stilshrine_of_miriam": {
+    "certainTimes": [-1],
+    "price": 600,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
   "ze_strange_escape_p": {
     "certainTimes": [-1],
     "price": 300,

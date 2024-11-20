@@ -1,0 +1,325 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**A Player has acquired Esper Mateus**": {
+    "translation": "玩家获得了 <玛提乌斯>"
+  },
+  "**Judge Bergan has casted Holy Magick": {
+    "translation": "<贝甘> 使用了 [终极]"
+  },
+  "**The Gate will open in 35 second!**": {
+    "translation": "大门还有35秒开启"
+  },
+  "**Judge Bergan escape! We need to find him and kill once for all!**": {
+    "translation": "贝甘逃掉了!我们需要找到他并直接杀掉他!"
+  },
+  "**Most likely Judge Bergan want escape by ship! Exit the tower fast!**": {
+    "translation": "看起来贝甘想乘飞船逃离这里,动作快点!"
+  },
+  "**You are too slow!**": {
+    "translation": "太慢了!"
+  },
+  "**Nade do more damage!**": {
+    "translation": "[手雷] 可以造成更高伤害"
+  },
+  "**We need to defeat Gabranth once for all! Shoot him!**": {
+    "translation": "我们需要彻底击败伽布拉斯,快朝他射击"
+  },
+  "**Mateus come back again! Shoot!**": {
+    "translation": "玛提乌斯又回来了!快射击!"
+  },
+  "**Mateus vanquished! Keep running!**": {
+    "translation": "玛提乌斯已战败!继续前进!"
+  },
+  "**A Player has acquired Heal Magick**": {
+    "translation": "玩家获得了 <治疗魔法>"
+  },
+  "**A Player has acquired Oil Magick**": {
+    "translation": "玩家获得了 <黏油魔法>"
+  },
+  "**A Player has acquired Thunder Magick**": {
+    "translation": "玩家获得了 <雷电魔法>"
+  },
+  "**A Player has acquired Fire Magick**": {
+    "translation": "玩家获得了 <火焰魔法>"
+  },
+  "**A Player has acquired Blizzard Magick**": {
+    "translation": "玩家获得了 <暴雪魔法>"
+  },
+  "**A Player has acquired Dark Magick**": {
+    "translation": "玩家获得了 <黑洞魔法>"
+  },
+  "**Hold area for 45 seconds!**": {
+    "translation": "还需要45秒"
+  },
+  "**Hold here for 15 seconds!**": {
+    "translation": "还有15秒"
+  },
+  "**The Gate of Tower will open in 24 seconds**": {
+    "translation": "塔楼的大门24秒后开启"
+  },
+  "**We need to stop Imperial army! If you lose they capture city!**": {
+    "translation": "我们需要阻止帝国军队继续前进,如果输了他们会拿下这座城市!"
+  },
+  "**Find General and kill him! You can't lose!**": {
+    "translation": "找到军团长并杀了他,我们没有退路!"
+  },
+  "**If you defeat Judge! Find way out and get out of here!**": {
+    "translation": "一旦击败了审判长,就想办法离开这里!"
+  },
+  "**Hold this area  for 25 seconds!**": {
+    "translation": "守住这里,还有25秒!"
+  },
+  "**A Player has acquired Wind Magick**": {
+    "translation": "玩家获得了 <风暴魔法>"
+  },
+  "**A Player has acquired Earth Magick**": {
+    "translation": "玩家获得了 <大地魔法>"
+  },
+  "**You have beaten map! Congratulations! **": {
+    "translation": "恭喜!你们攻克了这张地图!"
+  },
+  "**Nades do more damage**": {
+    "translation": "[手雷] 可以造成更高伤害!"
+  },
+  "**Defeat Judge Bergan before ship escape! If you lose we never see him again!**": {
+    "translation": "在飞船离开前击败贝甘,失败的话就再也找不到他了!"
+  },
+  "**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**": {
+    "translation": "你必须清理剩余的僵尸"
+  },
+  "**Hold this area for 28 seconds!**": {
+    "translation": "还有28秒,守住这里!"
+  },
+  "**Hold here for 25 seconds!**": {
+    "translation": "还有25秒"
+  },
+  "**Level has been changed on Hard Mode** ": {
+    "translation": "[管理员] 已设置至关卡: Hard"
+  },
+  "**Level has been changed on Extreme Mode**": {
+    "translation": "[管理员] 已设置至关卡: Extreme"
+  },
+  "**Level has been changed on Normal Mode**": {
+    "translation": "[管理员] 已设置至关卡: Normal"
+  },
+  "**Cactuar blocked the road!**": {
+    "translation": "仙人掌挡住了去路!!"
+  },
+  "**To get that materia you need to shoot him!*": {
+    "translation": "你只有射击才能拿到那个东西!"
+  },
+  "**Level has been changed on Ultimate Mode** ": {
+    "translation": "[管理员] 已设置至关卡: Ultimate"
+  },
+  "**The way will open in 20 seconds**": {
+    "translation": "路径将在20秒后打开"
+  },
+  "**Hold this area for 25 seconds!**": {
+    "translation": "等待25秒"
+  },
+  "**Imperial army must have set a trap beforehand. Find Gabrantha and get out of here!**": {
+    "translation": "帝国军队在前面设下了陷阱,找到伽布拉斯并离开这里!"
+  },
+  "**Stage completed!**": {
+    "translation": ">> 关卡已完成 >>"
+  },
+  "**Gabranth must heal his wounds and he?s probably escaped to the city?s underworld. Find him and kill!**": {
+    "translation": "伽布拉斯一定治好了自己的伤.可能会趁机逃到城市地下去.找到并杀了他!"
+  },
+  "**Gabranth couldn?t easily died! We need to find him as soon as possible before the imperial army attacks!**": {
+    "translation": "伽布拉斯没这么容易死.我们得在军团进攻前尽快找到他!"
+  },
+  "**Hold here for 20 seconds!**": {
+    "translation": "还有20秒"
+  },
+  "**We are almost there! Keep defending!**": {
+    "translation": "我们快到了,继续防守!"
+  },
+  "**We get the hell back to city and soon as possible!**": {
+    "translation": "我们需要尽快返回城市"
+  },
+  "**What could it mean?**": {
+    "translation": "那是什么?"
+  },
+  "**Smoke?**": {
+    "translation": "是???"
+  },
+  "**Hold here! I will take you on the airship.. And then we will back to city!**": {
+    "translation": "守住这里!我会开飞船来接你..然后我们回城市去"
+  },
+  "**The way past the colossus is open!**": {
+    "translation": "穿过巨像的道路已经打开!"
+  },
+  "**Hold this area until way is open!**": {
+    "translation": "守住这里直到道路开启!"
+  },
+  "**The Gates will open in 20 seconds!**": {
+    "translation": "大门将在20秒后打开!"
+  },
+  "**Hold this area for 8 seconds!**": {
+    "translation": "还有8秒"
+  },
+  "**Well done! Teleport lantern has been activeted!**": {
+    "translation": "不错,传送已被激活!"
+  },
+  "**Wait 12 seconds until teleport is enable!**": {
+    "translation": "传送还有12秒钟启动!"
+  },
+  "**Hold this area until teleport start working!**": {
+    "translation": "守住这里直到传送器启动!"
+  },
+  "**The Gates of Cold Distance will open in 20 seconds!": {
+    "translation": "离别步廊的大门20秒后开启"
+  },
+  "**The Gates Walk of Prescience will open in 15 seconds!": {
+    "translation": "远谋回廊的大门25秒后开启"
+  },
+  "**Hold this area for 17 seconds!**": {
+    "translation": "守住这里,还有17秒!"
+  },
+  "**Defend until the gates is open!**": {
+    "translation": "守住直到大门打开!"
+  },
+  "**Esper Mateus vanquished!**": {
+    "translation": "玛提乌斯已战败"
+  },
+  "**The Gates are open! Hurry up take Sword of Kings!**": {
+    "translation": "门开了!快点拿起王者之剑!"
+  },
+  "**A player picked up Sword of Kings**": {
+    "translation": "玩家获得了 <王者之剑>"
+  },
+  "**Only player with Sword of Kings can save you! Don't let him die!**": {
+    "translation": "只有持有王者之剑的玩家能拯救你们!不要让他死了!"
+  },
+  "**Hold this area for 20 seconds!**": {
+    "translation": "还有20秒"
+  },
+  "**We don't have time! Hurry up!**": {
+    "translation": "我们没时间了,快点!"
+  },
+  "**Find the answers to what's happening in this city**": {
+    "translation": "调查这座城市里到底发生了什么"
+  },
+  "**It's last hold! defend here for 22 seconds!**": {
+    "translation": "最后一战!守住这里22秒!"
+  },
+  "**Dragon Aevis vanquished!**": {
+    "translation": "枭龙已战败!"
+  },
+  "**Now we can enter new segment on temple! Find button and open new area!*": {
+    "translation": "现在我们可以探索庙宇其他部分了!找到按钮开启新的区域!"
+  },
+  "**Welcome to Stilshrine of Miriam!**": {
+    "translation": "欢迎来到弥利亚姆遗迹"
+  },
+  "**The Stilshrine of Miriam will open in 15 seconds**": {
+    "translation": "弥利亚姆遗迹将在15秒后开启"
+  },
+  "**An ancient shrine deep within the Jagd Ramooda**": {
+    "translation": "坐落于拉姆达大陆深处的古代遗迹"
+  },
+  "**Like Raithwall?s tomb this too was constructed in the time of the Galtean Alliance**": {
+    "translation": "就像莱斯沃尔,这座陵墓也是在加尔特联盟时期建造的"
+  },
+  "**Originally to honor the ancient god of swords and martial**": {
+    "translation": "起初是用来歌颂古时的剑神与战争之神"
+  },
+  "**It is said that a Gran Kiltias of long ago selected the Stilshrine to house the relics of Dynast-King Raithwall!**": {
+    "translation": "据传格兰基尔提亚选择用这座遗迹去纪念历代王莱斯沃尔"
+  },
+  "**You Journed across the Paramina Rift to the Stilshrine of Miriam**": {
+    "translation": "你们的旅途穿过帕拉密纳峡谷并来到了弥利亚姆遗迹"
+  },
+  "**here rests the gift he entrusted to the Gran Kiltias of his time**": {
+    "translation": "这是交付给格兰基尔提亚的馈赠"
+  },
+  "**Seek it out. The Sword of Kings... can cut through nethicite!**": {
+    "translation": "彻底搜查清楚.据说王者之剑可以斩断破魔石!"
+  },
+  "**We have to check what the next segment of the temple is hiding in front of us!**": {
+    "translation": "前面还有很多未知的事物,我们需要尽快探索"
+  },
+  "**Go to the undiscovered part of the temple and explore its nooks and crannies!**": {
+    "translation": "探索神庙里未知的一切..."
+  },
+  "**Be careful! Stars are falling from the sky they can be dangerous to us!**": {
+    "translation": "小心,星屑正在坠落,对我们来说很危险!"
+  },
+  "**In the distant past the Great Condemner too sought such power and was stricken down by the gods!**": {
+    "translation": "在遥远的过去,至高君主获得了强大魔力,并受到了神明的庇佑"
+  },
+  "** Even now his spirit is bound within the Stilshrine of Miriam**": {
+    "translation": "即便如今,他的灵魂仍与遗迹同在"
+  },
+  "**Know the fate of those who have fallen in their search for strength**": {
+    "translation": "知晓曾在寻求力量旅途中沉沦之人的命运"
+  },
+  "**Try to survive in the city area for 180 seconds!**": {
+    "translation": "尝试生存三分钟"
+  },
+  "**Map Status: No Stripper!**": {
+    "translation": "地图状态: 未使用Stripper"
+  },
+  "**ze_stilshrine_of_the_miriam**": {
+    "translation": "ZE_米利暗遗迹"
+  },
+  "**Thanks to Moltard and Kurimu for help": {
+    "translation": "感谢Moltard与Kurimu的帮助"
+  },
+  "**Special thanks to Vueru for textures": {
+    "translation": "特别感谢Vueru在材质上的帮助"
+  },
+  "**Map by Ma/l/go**": {
+    "translation": "地图制作:Malgo 文本翻译:Lia"
+  },
+  "**Well done! Teleport lantern has been activeted!": {
+    "translation": "不错,传送已被激活!"
+  },
+  "**The Gates of Ward of Measure will open in 15 seconds!**": {
+    "translation": "平衡之守护的大门15秒后开启"
+  },
+  "**We need to find teleport lantern!**": {
+    "translation": "我们需要找到晓光台座"
+  },
+  "**Walk of Mind segment will unlock in 23 seconds!**": {
+    "translation": "风墙将在23秒后解锁!"
+  },
+  "**The Gates will open in 15 seconds!**": {
+    "translation": "大门将在15秒后打开!"
+  },
+  "**The Gates Ward of Steel will open in 20 seconds!": {
+    "translation": "钢铁之守护的大门20秒后开启"
+  },
+  "**Hold this area for 15 seconds!**": {
+    "translation": "守住这里,还有15秒!"
+  },
+  "**The Gates will open in 10 seconds!**": {
+    "translation": "大门将在10秒后打开!"
+  },
+  "**The Myath blocking path! Shoot him!**": {
+    "translation": "尸龙麦斯封锁了前路!开枪射击!"
+  },
+  "**The Myath is defeated! Keep running!**": {
+    "translation": "尸龙麦斯被击败了!继续前进!"
+  },
+  "**Hold here for 10 seconds!**": {
+    "translation": "还有10秒"
+  },
+  "**You can't fail**": {
+    "translation": "<< 你已无退路! <<"
+  },
+  "**Find and kill General of Imperial Army then try to get the hell out of here**": {
+    "translation": "找到杀掉军团长后赶紧离开这里!"
+  }
+}
