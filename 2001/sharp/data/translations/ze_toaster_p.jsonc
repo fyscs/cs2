@@ -1,0 +1,217 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***DOOR IS OPEN - FALL BACK***": {
+    "translation": "***大门已打开,快走***"
+  },
+  "***DOOR OPENING IN 10 SECONDS***": {
+    "translation": "***大门在10秒内打开***"
+  },
+  "***BUTTON PRESSED***": {
+    "translation": "***按钮已按下***"
+  },
+  "***RUN FOR IT***": {
+    "translation": "***运行它***"
+  },
+  "***THE TOASTER IS ABOUT TO TOAST TOAST!***": {
+    "translation": "***烤面包机要烤面包了***"
+  },
+  "***ESCAPE THE TOASTER***": {
+    "translation": "***逃离烤面包机(原路返回)***"
+  },
+  "***THE TOASTER HAS BEEN TURNED ON***": {
+    "translation": "***烤面包机已被打开***"
+  },
+  "***GET OUT OF THE TOASTER***": {
+    "translation": "***逃离烤面包机***"
+  },
+  "***THE TOASTER IS ABOUT TO TOAST TOAST IN 10 SECONDS***": {
+    "translation": "***烤面包机10秒内烤土司面包***"
+  },
+  "***GET OUT OF THERE***": {
+    "translation": "***离开那里***"
+  },
+  "***THE TOASTER IS ABOUT TO TOAST TOAST IN 5 SECONDS***": {
+    "translation": "***烤面包机5秒内烤土司面包***"
+  },
+  "***THE TOASTER IS ABOUT TO TOAST TOAST IN 4 SECONDS***": {
+    "translation": "***烤面包机4秒内烤土司面包***"
+  },
+  "***THE TOASTER IS ABOUT TO TOAST TOAST IN 3 SECONDS***": {
+    "translation": "***烤面包机3秒内烤土司面包***"
+  },
+  "***THE TOASTER IS ABOUT TO TOAST TOAST IN 2 SECONDS***": {
+    "translation": "***烤面包机2秒内烤土司面包***"
+  },
+  "***THE TOASTER IS ABOUT TO TOAST TOAST IN 1 SECOND***": {
+    "translation": "***烤面包机1秒内烤土司面包***"
+  },
+  "***THE TOASTER IS TOASTING TOAST***": {
+    "translation": "***烤面包机正在烤土司面包***"
+  },
+  "***GET TOASTED!***": {
+    "translation": "***拿到烤面包!***"
+  },
+  "***DOOR OPENING IN 20 SECONDS***": {
+    "translation": "***大门20秒内开启***"
+  },
+  "***DOOR OPENING IN 5 SECONDS***": {
+    "translation": "***大门5秒内开启***"
+  },
+  "***DOOR IS OPEN***": {
+    "translation": "***大门已打开***"
+  },
+  "***SOMETHING IS BLOCKING THE LEVER***": {
+    "translation": "***有东西挡住了平台杠杆***"
+  },
+  "***BREAK THE BLOCKING METAL PIECE UNDERNEATH***": {
+    "translation": "***破坏下面的金属片状物***"
+  },
+  "***LOCATE AND PRESS ALL FIVE BUTTONS***": {
+    "translation": "***按下五个按钮***"
+  },
+  "***INITIATE THE TOASTER***": {
+    "translation": "***启动烤箱***"
+  },
+  "***GET UP ALL THE WAY TO THE MIDDLE SECTION ON TOP***": {
+    "translation": "***(走这条路去顶部的中端)***"
+  },
+  "***THE STAIRS ARE BROKEN***": {
+    "translation": "***(楼梯坏掉了)***"
+  },
+  "***HOLD THERE FOR AS LONG AS POSSIBLE BEFORE JUMPING ON THE TOASTER***": {
+    "translation": "***在跳上烤面包机之前,尽可能的守住这里***"
+  },
+  "***FLY OUT WITH THE TOAST OR DIE***": {
+    "translation": "***飞出烤面包机或者死亡***"
+  },
+  "***INCOMING TOAST - LEFT CHAMBER***": {
+    "translation": "***插入烤面包-左边***"
+  },
+  "***INCOMING TOAST - RIGHT CHAMBER***": {
+    "translation": "***插入烤面包-右边***"
+  },
+  "***INCOMING TOAST - BOTH CHAMBERS***": {
+    "translation": "***插入烤面包-两个房间***"
+  },
+  "***THIS PLACE IS FALLING APART***": {
+    "translation": "***这个地方正在坠落并且分离***"
+  },
+  "***YOU MUST HURRY***": {
+    "translation": "***你必须搞快点***"
+  },
+  "***THE TOASTER IS GOING TO TOAST TOAST IN 3 MINUTES***": {
+    "translation": "***烤面包机将要烤面包三分钟(三分钟后爆炸)***"
+  },
+  "***THE TOASTER IS GOING TO TOAST TOAST IN 1 MINUTE***": {
+    "translation": "***烤面包机将要烤面包一分钟***"
+  },
+  "***THE TOASTER IS GOING TO TOAST TOAST IN 30 SECONDS***": {
+    "translation": "***烤面包机将要烤面包30秒***"
+  },
+  "***THE TOASTER IS GOING TO TOAST TOAST IN 20 SECONDS***": {
+    "translation": "***烤面包机将要烤面包20秒***"
+  },
+  "***THE TOASTER IS GOING TO TOAST TOAST IN 2 MINUTES***": {
+    "translation": "***烤面包机将要烤面包二分钟***"
+  },
+  "***YOU MADE IT***": {
+    "translation": "***你做到了***"
+  },
+  "***YOU COMPLETED THE MISSION - AND ESCAPED THE TOASTER***": {
+    "translation": "***你完成了任务-逃离了烤面包机***"
+  },
+  "***WAIT A SECOND...***": {
+    "translation": "***等一会...***"
+  },
+  "***ITS NICOLAS CAGE!***": {
+    "translation": "***是尼古拉斯 凯奇!***"
+  },
+  "***UR***": {
+    "translation": "***UR***"
+  },
+  "***MAP BY - LUFFAREN***": {
+    "translation": "***地图作者: Luffaren***"
+  },
+  "***LEVER GOING UP IN 5 SECONDS***": {
+    "translation": "***平台5秒内上升***"
+  },
+  "***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***": {
+    "translation": "***不要尝试跳近路-它会把你传送回去的***"
+  },
+  "***FOLLOW THE ARROWS TO AVOID DEAD ENDS***": {
+    "translation": "***跟着箭头走,别进死胡同了***"
+  },
+  "***ELEVATOR IS LEAVING IN 10 SECONDS***": {
+    "translation": "***电梯10秒后离开***"
+  },
+  "***ELEVATOR IS LEAVING IN 5 SECONDS***": {
+    "translation": "***电梯5秒后离开***"
+  },
+  "***ELEVATOR IS LEAVING IN 4 SECONDS***": {
+    "translation": "***电梯4秒后离开***"
+  },
+  "***ELEVATOR IS LEAVING IN 3 SECONDS***": {
+    "translation": "***电梯3秒后离开***"
+  },
+  "***ELEVATOR IS LEAVING IN 2 SECONDS***": {
+    "translation": "***电梯2秒后离开***"
+  },
+  "***LAGEVATOR IS LEAVING IN 1 SECOND***": {
+    "translation": "***电梯1秒后离开***"
+  },
+  "***ELEVATOR IS LEAVING***": {
+    "translation": "***电梯已离开***"
+  },
+  "***ELEVATOR IS LEAVING IN 25 SECONDS***": {
+    "translation": "***电梯25秒后离开***"
+  },
+  "***ELEVATOR IS LEAVING IN 1 SECOND***": {
+    "translation": "***电梯1秒后离开***"
+  },
+  "***ELEVATOR IS LEAVING IN 15 SECONDS***": {
+    "translation": "***电梯15秒后离开***"
+  },
+  "***YOU DID IT***": {
+    "translation": "***你做到了***"
+  },
+  "***HOLD THEM OFF UNTIL THE LEVER IS ALL THE WAY DOWN***": {
+    "translation": "***阻止他们,直到平台杠杆下滑***"
+  },
+  "*** ZOMBIES HAVE ESCAPED THE TOASTER! ***": {
+    "translation": "*** 僵尸逃离了烤面包机! ***"
+  },
+  "***A TOASTER HAS BEEN PICKED UP***": {
+    "translation": "***有人类捡到了面包机!***"
+  },
+  "***THE PEANUT BUTTER HAS BEEN PICKED UP***": {
+    "translation": "***有人类捡到了花生酱!***"
+  },
+  "***SOME SOUR MILK HAS BEEN PICKED UP***": {
+    "translation": "***有人类捡到了酸奶!***"
+  },
+  "***YUUCK***": {
+    "translation": "***YUUCK***"
+  },
+  "***A JALAPENO HAS BEEN PICKED UP***": {
+    "translation": "***有人类捡到了辣椒!***"
+  },
+  "***A METAL ASS HAS BEEN PICKED UP***": {
+    "translation": "***有人类捡到了铁屁屁!***"
+  },
+  "***DEBRIS REMOVED - FALL BACK***": {
+    "translation": "***障碍清除了-搞快点***"
+  },
+  "***REMOVING DEBRIS - 5 SECONDS***": {
+    "translation": "***清除障碍-5秒***"
+  }
+}
