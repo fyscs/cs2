@@ -9,7 +9,6 @@
     "ttt_cs2_damons_mansion_a3": {
     "certainTimes": [-1],
     "price": 300,
-
     "cooldown": 15,
     "nomination": false,
     "admin": false
