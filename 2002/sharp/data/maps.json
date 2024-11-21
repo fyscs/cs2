@@ -6,6 +6,14 @@
     "nomination": false,
     "admin": false
   },
+    "ttt_cs2_damons_mansion_a3": {
+    "certainTimes": [-1],
+    "price": 300,
+
+    "cooldown": 15,
+    "nomination": false,
+    "admin": false
+  },
     "ttt_cs2_terrortrain_v1": {
     "certainTimes": [-1],
     "price": 250,
