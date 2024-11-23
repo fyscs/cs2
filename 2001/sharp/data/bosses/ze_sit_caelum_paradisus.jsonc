@@ -26,5 +26,11 @@
       "hitbox": "boss_hitbox",
       "display": "Paradisus"
     }
+  ],
+  "Monsters": [
+    {
+      "identity": "2645",
+      "display": "Guardian"
+    }
   ]
 }
