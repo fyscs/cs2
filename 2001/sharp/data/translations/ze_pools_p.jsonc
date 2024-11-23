@@ -9,4 +9,45 @@
   // clearTimer (bool) -> 清除所有倒计时
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
-{}
+{
+  "opens 20 s": {
+    "translation": "还有20秒"
+  },
+  "afk tp 20 s": {
+    "translation": "AFK传送还有20秒"
+  },
+  "deep water in this region will damage you": {
+    "translation": "进入本区域所有深水区会造成伤害"
+  },
+  "opens": {
+    "translation": "门开了"
+  },
+  "map by king buzzo": {
+    "translation": "地图制作:king buzzo"
+  },
+  "opens 10 s": {
+    "translation": "还有10秒"
+  },
+  "5 s": {
+    "translation": "还有5秒",
+    "blocked": true
+  },
+  "socre a goal to open the next door": {
+    "translation": "把球打进去才能打开下一道门"
+  },
+  "door opens 20 s": {
+    "translation": "还有20秒"
+  },
+  "opens 25 s": {
+    "translation": "还有25秒打开"
+  },
+  "this is the final door, run!": {
+    "translation": "这里是最后一扇门了,快跑"
+  },
+  "nuke in 20 seconds": {
+    "translation": "核爆将于20秒后启动"
+  },
+  "water rises, shoot the ball into the goal": {
+    "translation": "水面上升了,快把球打进去!"
+  }
+}
