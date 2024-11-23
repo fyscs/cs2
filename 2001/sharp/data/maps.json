@@ -597,9 +597,9 @@
   "ze_fall_guys": {
     "certainTimes": [-1],
     "price": 300,
-    "cooldown": 60,
+    "cooldown": 80,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_fapescape_katrina": {
     "certainTimes": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
