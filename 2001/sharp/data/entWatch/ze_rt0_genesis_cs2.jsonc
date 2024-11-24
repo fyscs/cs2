@@ -34,6 +34,17 @@
     "count": 1
   },
   {
+    "name": "炎骑士",
+    "shortName": "炎骑士",
+    "buttonClass": "game_ui",
+    "hammerId": "6904",
+    "triggerId": ["6919"],
+    "team": 3,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  },
+  {
     "name": "符华",
     "shortName": "符华",
     "buttonClass": "game_ui",
