@@ -1854,6 +1854,13 @@
     "nomination": true,
     "admin": true
   },
+  "ze_sit_caelum_paradisus": {
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22],
+    "price": 400,
+    "cooldown": 70,
+    "nomination": true,
+    "admin": false
+  },
   "ze_sky_fantasy_v1": {
     "certainTimes": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 600,
