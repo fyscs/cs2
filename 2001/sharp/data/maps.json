@@ -937,6 +937,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_ice_cavern_z": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": true
+  },
   "ze_icecap_escape_p": {
     "certainTimes": [-1],
     "price": 300,
