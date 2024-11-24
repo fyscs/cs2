@@ -1,0 +1,82 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "?": {
+    "translation": "?"
+  },
+  "<<< Bar door opens in 30 seconds! >>>": {
+    "translation": "<<< 蝙蝠洞闸门30秒后开启! >>>"
+  },
+  "<<< Zombies teleport in 20 seconds! >>>": {
+    "translation": "<<< 僵尸将于20秒后传送! >>>"
+  },
+  "<<< Gates open in 10 seconds! >>>": {
+    "translation": "<<< 大门将于10秒后开启!准备防守! >>>"
+  },
+  "<<< Gastly Wind >>>": {
+    "translation": "<<< 寒冰之息 >>>"
+  },
+  "<<< Killzone >>>": {
+    "translation": "<<< 严寒炼狱 >>>"
+  },
+  "<<< Replenish >>>": {
+    "translation": "<<< 冰霜铠甲 >>>"
+  },
+  "<<< Gate opens in 30 seconds! >>>": {
+    "translation": "<<< 机关房出口将于30秒后开启! >>>"
+  },
+  "<<< Crystals break in 30 seconds! >>>": {
+    "translation": "<<< 寒冰结晶将于30秒后破碎 防守!  >>>"
+  },
+  "<<< Zombies teleport in 45 seconds! >>>": {
+    "translation": "<<< 45秒后僵尸传送 >>>"
+  },
+  "<<< Bridge appearing in 5 seconds! >>>": {
+    "translation": "<<< 冰桥5秒后出现! >>>"
+  },
+  "<<< Zombies teleport in 60 seconds! >>>": {
+    "translation": "<<< 60秒后僵尸传送 >>>"
+  },
+  "<<< Outside door closes in 15 seconds! >>>": {
+    "translation": "<<< 神庙大门15秒后关闭  >>>"
+  },
+  "<<< Zombies teleport in 30 seconds! >>>": {
+    "translation": "<<< 30秒后僵尸传送 >>>"
+  },
+  "<<< Ice breaking in 60 seconds! >>>": {
+    "translation": "<<< 寒冰将于60秒后融化! >>>"
+  },
+  "<<< Ice breaks in 45 seconds! >>>": {
+    "translation": "<<< 寒冰将于45秒后融化! >>>"
+  },
+  "<<< Blade stopping! >>>": {
+    "translation": "<<< 刀刃停止! >>>"
+  },
+  "<<< Icicles break in 10 seconds! >>>": {
+    "translation": "<<< 冰柱将于10秒后破碎! >>>"
+  },
+  "<<< Last hold! Hold for 60 seconds! >>>": {
+    "translation": "<<< 最后的防守!再坚持60秒! >>>"
+  },
+  "<<< 25 more seconds! >>>": {
+    "translation": "<<< 还有25秒! >>>"
+  },
+  "<<< Ladder on side of platform has been broken watch out!!!": {
+    "translation": "<<<  平台侧面的梯子打开了当心!"
+  },
+  "<<< Gate opens in 60 seconds! >>>": {
+    "translation": "<<< 大门将于60秒后开启>>>"
+  },
+  "<<< Cavern door opens in 45 seconds! >>>": {
+    "translation": "<<< 冰雪神庙大门将于45秒后开启! >>>"
+  }
+}
