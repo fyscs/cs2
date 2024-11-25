@@ -902,6 +902,13 @@
     "nomination": false,
     "admin": true
   },
+  "ze_hold2_boring_z": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": true
+  },
   "ze_hold_em_p": {
     "certainTimes": [-1],
     "price": 300,
