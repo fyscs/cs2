@@ -1,0 +1,46 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Zombie on elevator**": {
+    "translation": "**僵尸传送**"
+  },
+  "**Map By R1cko27**": {
+    "translation": "**地图作者: R1cko27  汉化:Zeyu1**"
+  },
+  "**Moving Walls**": {
+    "translation": "**移动墙壁**"
+  },
+  "**Revolving Platforms**": {
+    "translation": "**旋转平台**"
+  },
+  "**Crazy Rock**": {
+    "translation": "**疯狂摇滚**"
+  },
+  "**King of the Mountain**": {
+    "translation": "**勇爬高峰**"
+  },
+  "**Fruit Race**": {
+    "translation": "**水果竞速*"
+  },
+  "**Skipping Rope**": {
+    "translation": "**跳绳**"
+  },
+  "**KZ**": {
+    "translation": "**KZ**"
+  },
+  "**Fragile floor**": {
+    "translation": "**碎裂的地板**"
+  },
+  "**UP**": {
+    "translation": "**看上面!**"
+  }
+}

@@ -1,0 +1,76 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** The Elevator will leave in 10 seconds. Don't miss it! **": {
+    "translation": "** 电梯10秒后上升 **"
+  },
+  "** The police wants to stop you! **": {
+    "translation": "** 我们受到了雇佣兵的袭击,别停下! **"
+  },
+  "** Shoot them! **": {
+    "translation": "** 向他们射击! **"
+  },
+  "** GET IN THE CHOPPA! **": {
+    "translation": "** 冲冲冲 **"
+  },
+  "** HOLD 40 SECONDS **": {
+    "translation": "** 防守40秒 **"
+  },
+  "** 5 SECONDS LEFT  **": {
+    "translation": "** 还有5秒  **"
+  },
+  "** HOLD THE KITCHEN! DON'T LET ZOMBIES IN! **": {
+    "translation": "** 守住厨房,别让僵尸进来 **"
+  },
+  "** DOOR IS OPENING **": {
+    "translation": "** 卧室门打开了 **"
+  },
+  "** MAKE YOUR WAY TO THE OFFICE **": {
+    "translation": "** 找到办公室的路 **"
+  },
+  "** HOLD THE BEDROOM **": {
+    "translation": "** 守住卧室!<这是xnn搞基现场> **"
+  },
+  "** THE OFFICE SHOULD BE AT YOUR RIGHT SIDE **": {
+    "translation": "** 办公室在你们的右边 **"
+  },
+  "** USE THE COMPUTER TO OPEN THE DOOR TO THE ROOF!! **": {
+    "translation": "** 用电脑打开去屋顶的门 **"
+  },
+  "** 30 SECONDS TO UNLOCK THE DOOR **": {
+    "translation": "** 通往屋顶的门30秒后才打开<别偷跑 上面门还没开呢> **"
+  },
+  "** BATHROOM DOOR OPENS IN 15 SECONDS **": {
+    "translation": "** 厕所15秒后开放 **"
+  },
+  "** DOOR IS OPEN **": {
+    "translation": "** 厕所门开了 **"
+  },
+  "** DOOR OPENS IN 20 SECONDS **": {
+    "translation": "** 厕所门还有20秒打开 **"
+  },
+  "** GO TO THE BATHROOM **": {
+    "translation": "** 快进厕所 **"
+  },
+  "** MAP MADE BY DARKOGRE AND PATRAO! **": {
+    "translation": "** 地图作者: DARKOGRE PATRAO  汉化:Zeyu1 **"
+  },
+  "** Truck leaving in 15 seconds! **": {
+    "translation": "** 卡车15秒后出发 **"
+  },
+  "** USE THE COMPUTERS TO OPEN THE DOOR **": {
+    "translation": "** 摁下电脑开关来打开大门 **"
+  },
+  "** TURN THE LASERS OFF **": {
+    "translation": "** 关闭激光 **"
+  }
+}
