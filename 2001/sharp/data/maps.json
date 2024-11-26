@@ -501,7 +501,7 @@
     "price": 500,
     "cooldown": 80,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_dragonball_snakeway_p": {
     "certainTimes": [-1],
