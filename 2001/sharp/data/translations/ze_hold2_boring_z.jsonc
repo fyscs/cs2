@@ -1,0 +1,253 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** Zombie Buff : INVIS **": {
+    "translation": "** 姜丝Buff : 隐身 **"
+  },
+  "** Zombie Buff : SPEED **": {
+    "translation": "** 姜丝Buff : 加速 **"
+  },
+  "** Zombie Buff : GODMODE **": {
+    "translation": "** 姜丝Buff : 吴迪 **"
+  },
+  "** Hold here 20s ! **": {
+    "translation": "** 守住20喵 ! **"
+  },
+  "** Level 1 - Easy **": {
+    "translation": "** 第一关 - 咸咸咸咸咸鱼~ **"
+  },
+  "** Level 2 - Hard **": {
+    "translation": "** 第二关 - 杂杂杂杂杂鱼~ **"
+  },
+  "** Door 1# will be opened in 90 seconds ! **": {
+    "translation": "** 第一扇大门在90秒后打开! **"
+  },
+  "** Door 1# will be opened in 60 seconds ! **": {
+    "translation": "** 第一扇大门在60秒后打开! **"
+  },
+  "** Door 1# will be opened in 30 seconds ! **": {
+    "translation": "** 第一扇大门在30秒后打开! **"
+  },
+  "** Door 1# will be opened in 10 seconds ! **": {
+    "translation": "** 第一扇大门在10秒后打开! **"
+  },
+  "** Map by ClariceTang **": {
+    "translation": "** 地图作者 ClariceTang  翻译:夜里很饿@风云社**"
+  },
+  "** Welcome to this shit map **": {
+    "translation": "** 欢迎来玩这张史图 **"
+  },
+  "** Its very boring and very hard , but end is funny .**": {
+    "translation": "** 这图非常难而且很无聊 , 但结尾最后有好康的 .**"
+  },
+  "** Have a good time , guys ! **": {
+    "translation": "** 大伙赤石吃的开心哦! **"
+  },
+  "** Model by K. **": {
+    "translation": "** 模型来源 K. **"
+  },
+  "** Music by MapleStory **": {
+    "translation": "** 音乐来源 MapleStory **"
+  },
+  "** Door 2# will be opened in 10 seconds ! **": {
+    "translation": "** 第二道大门在10秒后打开 **"
+  },
+  "** Door 2# will be opened in 30 seconds ! **": {
+    "translation": "** 第二道大门在30秒后打开 **"
+  },
+  "** Door 2# will be opened in 60 seconds ! **": {
+    "translation": "** 第二道大门在60秒后打开 **"
+  },
+  "** Door 2# will be opened in 90 seconds ! **": {
+    "translation": "** 第二道大门在90秒后打开 **"
+  },
+  "** Door 3# will be opened in 10 seconds ! **": {
+    "translation": "** 第三道大门在10秒后打开 **"
+  },
+  "** Door 3# will be opened in 30 seconds ! **": {
+    "translation": "** 第三道大门在30秒后打开 **"
+  },
+  "** Door 3# will be opened in 60 seconds ! **": {
+    "translation": "** 第三道大门在60秒后打开 **"
+  },
+  "** Door 3# will be opened in 90 seconds ! **": {
+    "translation": "** 第三道大门在90秒后打开 **"
+  },
+  "** Door 4# will be opened in 10 seconds ! **": {
+    "translation": "** 第四道大门在10秒后打开 **"
+  },
+  "** Door 4# will be opened in 30 seconds ! **": {
+    "translation": "** 第四道大门在30秒后打开 **"
+  },
+  "** Door 4# will be opened in 60 seconds ! **": {
+    "translation": "** 第四道大门在60秒后打开 **"
+  },
+  "** Door 4# will be opened in 90 seconds ! **": {
+    "translation": "** 第四道大门在90秒后打开 **"
+  },
+  "** Door 5# will be opened in 10 seconds ! **": {
+    "translation": "** 第五道大门在10秒后打开 **"
+  },
+  "** Door 5# will be opened in 30 seconds ! **": {
+    "translation": "** 第五道大门在30秒后打开 **"
+  },
+  "** Door 5# will be opened in 60 seconds ! **": {
+    "translation": "** 第五道大门在60秒后打开 **"
+  },
+  "** Door 5# will be opened in 90 seconds ! **": {
+    "translation": "** 第五道大门在90秒后打开 **"
+  },
+  "** Door 6# will be opened in 10 seconds ! **": {
+    "translation": "** 第六道大门在10秒后打开 **"
+  },
+  "** Door 6# will be opened in 30 seconds ! **": {
+    "translation": "** 第六道大门在30秒后打开 **"
+  },
+  "** Door 6# will be opened in 60 seconds ! **": {
+    "translation": "** 第六道大门在60秒后打开 **"
+  },
+  "** Door 6# will be opened in 90 seconds ! **": {
+    "translation": "** 第六道大门在90秒后打开 **"
+  },
+  "** Door 7# will be opened in 10 seconds ! **": {
+    "translation": "** 第七道大门在10秒后打开 **"
+  },
+  "** Door 7# will be opened in 30 seconds ! **": {
+    "translation": "** 第七道大门在30秒后打开 **"
+  },
+  "** Door 7# will be opened in 60 seconds ! **": {
+    "translation": "** 第七道大门在60秒后打开 **"
+  },
+  "** Door 7# will be opened in 90 seconds ! **": {
+    "translation": "** 第七道大门在90秒后打开 终于要完了 **"
+  },
+  "** There is no way here ! **": {
+    "translation": "** 哎呀 好像没路了 **"
+  },
+  "** Hold 30s ! **": {
+    "translation": "** 守住30喵 ! **"
+  },
+  "** Watch out laser !!! **": {
+    "translation": "** 小心前方来刀 跳或者蹲!!! **"
+  },
+  "** Musicbox picker up **": {
+    "translation": "** 有有有有有玩家拿起了 阴乐播放器 **"
+  },
+  "** Sound Playing - Abovethetreetops **": {
+    "translation": "** 正在播放 - Abovethetreetops **"
+  },
+  "** Sound Playing - Badguys **": {
+    "translation": "** 正在播放 - Badguys **"
+  },
+  "** Sound Playing - Bamboogym **": {
+    "translation": "** 正在播放 - Bamboogym **"
+  },
+  "** Sound Playing - Darkmountain **": {
+    "translation": "** 正在播放 - Darkmountain **"
+  },
+  "** Sound Playing - Dragondream **": {
+    "translation": "** 正在播放 - Dragondream **"
+  },
+  "** Sound Playing - Florallife **": {
+    "translation": "** 正在播放 - Florallife **"
+  },
+  "** Sound Playing - flyinginabluedream **": {
+    "translation": "** 正在播放 - flyinginabluedream **"
+  },
+  "** Sound Playing - Goshanghai **": {
+    "translation": "** 正在播放 - Goshanghai **"
+  },
+  "** Sound Playing - Snowdrop **": {
+    "translation": "** 正在播放 - Snowdrop **"
+  },
+  "** Sound Playing - Subway **": {
+    "translation": "** 正在播放 - Subway **"
+  },
+  "** Sound Playing - Warmregard **": {
+    "translation": "** 正在播放 - Warmregard **"
+  },
+  "** Sound Playing - Whitechristmas **": {
+    "translation": "** 正在播放 - Whitechristmas **"
+  },
+  "** Sound Playing - My Soul,Your Beats! **": {
+    "translation": "** 正在播放 - My Soul,Your Beats! **"
+  },
+  "** Sound Playing - ファタール - Fatal **": {
+    "translation": "** 正在播放 - ファタール - Fatal **"
+  },
+  "** Sound Playing - </emotional> **": {
+    "translation": "** 正在播放 - </emotional> **"
+  },
+  "** Sound Playing - Monster **": {
+    "translation": "** 正在播放 - Monster **"
+  },
+  "** Sound Playing - Maps **": {
+    "translation": "** 正在播放 - Maps **"
+  },
+  "** Sound Playing - Payphone **": {
+    "translation": "** 正在播放 - Payphone **"
+  },
+  "** Sound Playing - grayscale dominator **": {
+    "translation": "** 正在播放 - grayscale dominator **"
+  },
+  "** Sound Playing - HIGHEST **": {
+    "translation": "** 正在播放 - HIGHEST **"
+  },
+  "** Sound Playing - Credens justitiam **": {
+    "translation": "** 正在播放 - Credens justitiam **"
+  },
+  "** Sound Playing - tuki **": {
+    "translation": "** 正在播放 - tuki **"
+  },
+  "** Sound Playing - TRUE **": {
+    "translation": "** 正在播放 - TRUE **"
+  },
+  "** Sound Playing - Into The Night **": {
+    "translation": "** 正在播放 - Into The Night **"
+  },
+  "** Sound Playing - 策马奔腾 **": {
+    "translation": "** 正在播放 - 策马奔腾 **"
+  },
+  "** Sound Playing - 二拜天地 **": {
+    "translation": "** 正在播放 - 二拜天地 **"
+  },
+  "** Sound Playing - 孤寂百年 **": {
+    "translation": "** 正在播放 - 孤寂百年 **"
+  },
+  "** Sound Playing - 江郎才尽 **": {
+    "translation": "** 正在播放 - 江郎才尽 **"
+  },
+  "** Sound Playing - 烂泥 **": {
+    "translation": "** 正在播放 - 烂泥 **"
+  },
+  "** Sound Playing - 郎的诱惑 **": {
+    "translation": "** 正在播放 - 郎的诱惑 **"
+  },
+  "** Sound Playing - 求神呐 **": {
+    "translation": "** 正在播放 - 求神呐 **"
+  },
+  "** Sound Playing - 全是爱 **": {
+    "translation": "** 正在播放 - 全是爱 **"
+  },
+  "** Sound Playing - 山河图 **": {
+    "translation": "** 正在播放 - 山河图 **"
+  },
+  "** Sound Playing - 危险派对 **": {
+    "translation": "** 正在播放 - 危险派对 **"
+  },
+  "** Sound Playing - 自由飞翔 **": {
+    "translation": "** 正在播放 - 自由飞翔 **"
+  },
+  "** Sound Playing - 自由自在 **": {
+    "translation": "** 正在播放 - 自由自在 **"
+  }
+}
