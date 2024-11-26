@@ -499,9 +499,9 @@
   "ze_dnb_realms_a1": {
     "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 500,
-    "cooldown": 80,
+    "cooldown": 100,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_dragonball_snakeway_p": {
     "certainTimes": [-1],
