@@ -34,7 +34,7 @@
     {
       "iterator": "Special_Health",
       "backup": "Special_HealthInit",
-      "counetr": "Special_HealthCount",
+      "counter": "Special_HealthCount",
       "increase": true,
       "hitbox": "Hashmel_Hitbox",
       "display": "Hashmel"
