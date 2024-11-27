@@ -1,0 +1,78 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Fat_Nigger_Counter",
+      "hitbox": "Fat_Nigger_Phys",
+      "display": "Fatt"
+    },
+    {
+      "iterator": "Stage_4_End_Guard_Counter",
+      "hitbox": "Stage_4_End_Guard_Phys",
+      "display": "LaserFinal"
+    },
+    {
+      "iterator": "Special_Health",
+      "backup": "Special_HealthInit",
+      "counetr": "Special_HealthCount",
+      "increase": true,
+      "hitbox": "Hashmel_Hitbox",
+      "display": "Hashmel"
+    },
+    {
+      "iterator": "Stage_2_End_Dragon_Counter",
+      "hitbox": "Stage_2_End_Boss_Phys",
+      "display": "Dragon"
+    },
+    {
+      "iterator": "Stage_3_End_Boss_Counter",
+      "hitbox": "Stage_3_End_Boss_Phys",
+      "display": "LaserFinal"
+    },
+    {
+      "iterator": "Stage_24_End_Famfrit_Counter",
+      "hitbox": "Stage_24_End_Famfrit_Phys",
+      "display": "Famfrit"
+    },
+    {
+      "iterator": "Famfrit_Holy_Summon_Counter",
+      "hitbox": "Famfrit_Phys_Body_Holy",
+      "display": "Body Holy"
+    },
+    {
+      "iterator": "Famfrit_Fire_Summon_Counter",
+      "hitbox": "Famfrit_Phys_Body_Fire",
+      "display": "Body Fire"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "2525",
+      "display": "Famfrit"
+    },
+    {
+      "identity": "3822",
+      "display": "Zalera"
+    }
+  ]
+}
