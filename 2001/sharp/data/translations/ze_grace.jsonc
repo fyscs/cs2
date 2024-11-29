@@ -1,0 +1,43 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "> 30": {
+    "translation": "30秒"
+  },
+  "> ZE_GRACE": {
+    "translation": "> ZE_GRACE"
+  },
+  "> Map by Tianli": {
+    "translation": "> 作者: Tianli  文本:Zeyu1"
+  },
+  "> Special thanks : Easter": {
+    "translation": ">特别鸣谢: Easter"
+  },
+  "> Something sinister happened in heaven ...": {
+    "translation": "> 天堂发生了不祥之事 ..."
+  },
+  "> TAKE THE PLUNGE !": {
+    "translation": "> 让我们大展伸手吧!"
+  },
+  "> 40": {
+    "translation": "> 40秒"
+  },
+  "> 20": {
+    "translation": "> 20秒"
+  },
+  "> White": {
+    "translation": "> 白"
+  },
+  "> Gold": {
+    "translation": "> 金"
+  }
+}
