@@ -1861,6 +1861,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_silent_hill_3_dawn_full": {
+    "certainTimes": [-1],
+    "price": 800,
+    "cooldown": 120,
+    "nomination": true,
+    "admin": true
+  },
   "ze_silent_hill_3_flee": {
     "certainTimes": [-1],
     "price": 400,
