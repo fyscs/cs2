@@ -1,0 +1,247 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<!!!> FALL BACK <!!!>": {
+    "translation": "<!!!> 撤退 <!!!>"
+  },
+  "<!!!> DOOR OPEN <!!!>": {
+    "translation": "<!!!> 门开了 <!!!>"
+  },
+  "<!!!> HOLD THIS POSITION <!!!>": {
+    "translation": "<!!!> 守住这里 <!!!>"
+  },
+  "<!!!> 10 SECONDS <!!!>": {
+    "translation": "<!!!> 10 秒 <!!!>"
+  },
+  "<!!!> 5 SECONDS <!!!>": {
+    "translation": "<!!!> 5 秒 <!!!>"
+  },
+  "<!!!> 20 SECONDS <!!!>": {
+    "translation": "<!!!> 20 秒 <!!!>"
+  },
+  "<!!!> 30 SECONDS <!!!>": {
+    "translation": "<!!!> 30 秒 <!!!>"
+  },
+  "<!!!> 40 SECONDS <!!!>": {
+    "translation": "<!!!> 40 秒 <!!!>"
+  },
+  "<!!!> 50 SECONDS <!!!>": {
+    "translation": "<!!!> 50 秒 <!!!>"
+  },
+  "<!!!> 60 SECONDS <!!!>": {
+    "translation": "<!!!> 60 秒 <!!!>"
+  },
+  "<!!!> FINAL DOOR CLOSING IN <!!!>": {
+    "translation": "<!!!> 最后一道门要关闭了 <!!!>"
+  },
+  "<!!!> DEFEND THIS POSITION <!!!>": {
+    "translation": "<!!!> 守住这里 <!!!>"
+  },
+  "<!!!> PART 2 - CASTLE KEEP PASSED <!!!>": {
+    "translation": "<!!!> 第二章 通过 <!!!>"
+  },
+  "<!!!> ZOMBIE'S DETECTED - YOU LOSE <!!!>": {
+    "translation": "<!!!> 僵尸胜利 <!!!>"
+  },
+  "# FALL BACK - DOOR #": {
+    "translation": "从门那里撤退"
+  },
+  "# 5 SECONDS #": {
+    "translation": "# 5 秒 #"
+  },
+  "# HOLD HERE #": {
+    "translation": "# 保持防守 #"
+  },
+  "# FINAL DOOR CLOSING IN 50 SECONDS #": {
+    "translation": "# 最后一道门将在50秒后关闭 #"
+  },
+  "# 40 SECONDS #": {
+    "translation": "# 40 秒 #"
+  },
+  "# 30 SECONDS #": {
+    "translation": "# 30 秒 #"
+  },
+  "# 20 SECONDS #": {
+    "translation": "# 20 秒 #"
+  },
+  "# 10 SECONDS #": {
+    "translation": "# 10 秒 #"
+  },
+  "<!!!> PART 3 - TRAM RIDE PASSED <!!!>": {
+    "translation": "<!!!> 第三章 通过 <!!!>"
+  },
+  "<!!!> EASY COMPLETED <!!!>": {
+    "translation": "<!!!> 轻松完成 <!!!>"
+  },
+  "# FINAL DOOR CLOSING IN 40 SECONDS #": {
+    "translation": "# 最后一道门将在40秒后关闭 #"
+  },
+  "# FINAL DOOR CLOSING IN 20 SECONDS #": {
+    "translation": "# 最后一道门将在20秒后关闭 #"
+  },
+  "<!!!> MED COMPLETED <!!!>": {
+    "translation": "<!!!> 任务完成 <!!!>"
+  },
+  "<!!!> MAP COMPLETED <!!!>": {
+    "translation": "<!!!> 你征服了这张地图 <!!!>"
+  },
+  "# TRAM ON ITS WAY #": {
+    "translation": "# 电车正在赶来 #"
+  },
+  "# DOOR OPEN #": {
+    "translation": "# 门开了 #"
+  },
+  "<!!!> HOLD HERE <!!!>": {
+    "translation": "<!!!> 保持防守 <!!!>"
+  },
+  "# VENT OPEN IN 15 SECONDS #": {
+    "translation": "# 排气管道将15秒后打开 #"
+  },
+  "# VENT OPEN #": {
+    "translation": "# 排气管道正在打开 #"
+  },
+  "# DOOR OPEN IN 20 SECONDS #": {
+    "translation": "#门20秒后打开 #"
+  },
+  "# SANDBAG WALL #": {
+    "translation": "# 限制项目:沙袋墙 #"
+  },
+  "# BAZOOKA #": {
+    "translation": "# 限制项目:火箭炮 #"
+  },
+  "<!!!> GATE OPEN <!!!>": {
+    "translation": "<!!!> 门开了 <!!!>"
+  },
+  "# BLACK MAGIC #": {
+    "translation": "# 限制:古娜拉黑暗魔法 #"
+  },
+  "<!!!> PART 1 - ESCAPE! PASSED <!!!>": {
+    "translation": "<!!!> 第一章 通过<!!!>"
+  },
+  "# MG42 AMMO #": {
+    "translation": "# MG42机枪弹药装载 #"
+  },
+  "<!!!> GATE OPEN IN 30 SECONDS <!!!>": {
+    "translation": "<!!!> 闸门30秒后打开 <!!!>"
+  },
+  "# MG42 AMMO LOADED #": {
+    "translation": "# MG42机枪部署完毕 #"
+  },
+  "# UNLIMITED AMMO #": {
+    "translation": "# 无限子弹 #"
+  },
+  "# UNLIMITED AMMO - 14 SECONDS #": {
+    "translation": "# 无限子弹:十四秒 #"
+  },
+  "<!!!> GO GO GO <!!!>": {
+    "translation": "<!!!> 冲冲冲 <!!!>"
+  },
+  "<!!!> DOOR CLOSING IN 15 SECONDS <!!!>": {
+    "translation": "<!!!> 门将在5秒后关闭 <!!!>"
+  },
+  "<!!!> GO LEFT <!!!>": {
+    "translation": "<!!!> 左边 <!!!>"
+  },
+  "<!!!> UP THE STAIRS <!!!>": {
+    "translation": "<!!!> 往螺旋楼梯上方走 <!!!>"
+  },
+  "# FLAMETHROWER #": {
+    "translation": "# 火焰喷射器 #"
+  },
+  "# FLAMETHROWER RE-FUELED #": {
+    "translation": "# 火焰喷射器燃料重装 #"
+  },
+  "# MAGIC - FOG #": {
+    "translation": "# 古娜拉暗黑魔法: 烟雾 #"
+  },
+  "# MAGIC - FREEZE #": {
+    "translation": "# 古娜拉黑暗秘法:魔法冻结 #"
+  },
+  "# FLAMETHROWER EMPTY #": {
+    "translation": "# 火焰喷射器燃气用完了 #"
+  },
+  "# TURN TRAM POWER ON #": {
+    "translation": "# 电车开关被触发 #"
+  },
+  "# TRAM ARRIVED #": {
+    "translation": "# 电车来了 #"
+  },
+  "# TRAM IS LEAVING #": {
+    "translation": "# 电车离开 #"
+  },
+  "# GO GO #": {
+    "translation": "# 快跑快跑! #"
+  },
+  "# HOLD TRAM #": {
+    "translation": "# 守住电车 #"
+  },
+  "# TRAM START IN 20 SECONDS #": {
+    "translation": "# 电车20秒后重新出发 #"
+  },
+  "# TORCH #": {
+    "translation": "# 火炬 #"
+  },
+  "# PART 3 - TRAM RIDE #": {
+    "translation": "# 第三章: 电车逃亡 #"
+  },
+  "# MAP BY JB_GAMBLE #": {
+    "translation": "# 地图作者:JB_GAMBLE  文本:Zeyu1 #"
+  },
+  "# RETURN TO CASTLE WOLFENSTEIN #": {
+    "translation": "# 重返德军总部 #"
+  },
+  "# PART 2 - CASTLE KEEP #": {
+    "translation": "# 第二章: 城堡保卫战 #"
+  },
+  "# PART 1 - ESCAPE! #": {
+    "translation": "# 第一章: 逃脱 #"
+  },
+  "# MISSION 1 - OMINOUS RUMORS #": {
+    "translation": "# 任务:不详的谣言 #"
+  },
+  "# WARM UP ROUND #": {
+    "translation": "# 热身环节#"
+  },
+  "# HOLD THIS POSITION #": {
+    "translation": "# 在这个位置防守僵尸#"
+  },
+  "# PRESS BUTTON #": {
+    "translation": "# 按下按扭 #"
+  },
+  "<!!!> ACTIVATE LEVER <!!!>": {
+    "translation": "<!!!> 激活杠杆 <!!!>"
+  },
+  "<!!!> GATE OPEN IN 20 SECONDS <!!!>": {
+    "translation": "<!!!> 闸门20秒后打开 <!!!>"
+  },
+  "# ITEM RESTRICTION - BLACK MAGIC #": {
+    "translation": "# 限制:古娜拉黑暗魔法 #"
+  },
+  "# ITEM RESTRICTION - BAZOOKA #": {
+    "translation": "# 限制:火箭炮 #"
+  },
+  "# ITEM RESTRICTION - SANDBAG WALL #": {
+    "translation": "# 限制:沙袋墙 #"
+  },
+  "# ITEM RESTRICTION - FLAMETHROWER #": {
+    "translation": "# 限制:喷火器 #"
+  },
+  "# ITEM RESTRICTION - UNLIMITED AMMO #": {
+    "translation": "# 限制:无限弹药 #"
+  },
+  "# NUKE IN 10 SECONDS #": {
+    "translation": "# 10秒后核爆 #"
+  },
+  "# TRAM START IN 30 SECONDS #": {
+    "translation": "# 电车将在30秒后离开 #"
+  }
+}
