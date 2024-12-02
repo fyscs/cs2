@@ -1973,6 +1973,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_stardust_a03": {
+    "certainTimes": [-1],
+    "price": 500,
+    "cooldown": 80,
+    "nomination": true,
+    "admin": true
+  },
   "ze_starwars_v2fix": {
     "certainTimes": [-1],
     "price": 500,
