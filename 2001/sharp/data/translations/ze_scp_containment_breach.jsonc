@@ -1,0 +1,133 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<A player picked up SCP-714 - The Jaded Ring>": {
+    "translation": "<一位玩家获取了 SCP-714 - 弹药>"
+  },
+  "<A player picked up SCP-500 - Panacea>": {
+    "translation": "<一位玩家获取了 SCP-500 - 治疗>"
+  },
+  "< SCP-106 has been escaped >": {
+    "translation": "< 恐怖老人-[scp106]收容失效 >"
+  },
+  "< SCP-049 has been escaped >": {
+    "translation": "< 疫医-[scp049]收容失效 >"
+  },
+  "<SCP-106 escaped....>": {
+    "translation": "<恐怖老人-[scp106] 已逃逸....>"
+  },
+  "<What the.......?>": {
+    "translation": "<怎么会...这样!>"
+  },
+  "<Do not let SCP-106 across the GATE A!!>": {
+    "translation": "<不能让恐怖老人逃出设施 保卫A区!!>"
+  },
+  "< Judgement of Cornerstone >": {
+    "translation": "< 当心!注意地面! >"
+  },
+  "< SCP-096 has been escaped >": {
+    "translation": "< TheShy-[scp096]收容失效 >"
+  },
+  "<The doors will open in 35 seconds>": {
+    "translation": "<这扇门将于35秒后开启>"
+  },
+  "<The next door will open in 25 seconds>": {
+    "translation": "<下一扇门将在25秒后开启>"
+  },
+  "<The door will open in 15 seconds>": {
+    "translation": "<这扇门将于15秒后开启>"
+  },
+  "<Where are we....?>": {
+    "translation": "<我们...这是在哪儿??>"
+  },
+  "<Defend here for 15 seconds>": {
+    "translation": "<防守15秒>"
+  },
+  "<Something is coming...>": {
+    "translation": "<有些东西正在逼近...>"
+  },
+  "<20>": {
+    "translation": "<20>"
+  },
+  "< 25 >": {
+    "translation": "< 25 >"
+  },
+  "< Detonating The Alpha Warheads in T-Minus 185 seconds >": {
+    "translation": "< 阿尔法核弹会在185秒内引爆 >"
+  },
+  "< All personnel are adviced to enter the nearest blast shelter immediately. >": {
+    "translation": "< 警告!请设施最近的人员立即进入庇护所! >"
+  },
+  "ze_SCP_Containment_Breach": {
+    "translation": "ze_SCP_Containment_Breach"
+  },
+  "This map is based on SCP Contaiment Breach": {
+    "translation": "这张图是基于SCP[收容失效]制作"
+  },
+  "map by Mochi/Pohmian": {
+    "translation": "地图作者: Mochi/Pohmian 文本:Zeyu1"
+  },
+  "<SCP-106 has been defeated!!>": {
+    "translation": "<恐怖老人[scp106]已被重新收容>"
+  },
+  "<SCP-106 has been defeated>": {
+    "translation": "<恐怖老人[scp106]已被重新收容>"
+  },
+  "<Escape from Pokect Dimension>": {
+    "translation": "<赶快逃离出来>"
+  },
+  "<Defend the Gate A>": {
+    "translation": "<保卫A区大门>"
+  },
+  "< Someone is approaching us... >": {
+    "translation": "< 有什么东西正在接近我们...... >"
+  },
+  "<The door will open>": {
+    "translation": "<门开了>"
+  },
+  "<Check Point will open in 20 seconds>": {
+    "translation": "<检查点将于20秒后开放>"
+  },
+  "< SCP-079 Containment Room will open soon >": {
+    "translation": "< 旧AI[scp079]收容区即将开放 >"
+  },
+  "<We have failed...>": {
+    "translation": "<我们失败了...>"
+  },
+  "< SCP-1048-A has been defeated >": {
+    "translation": "< 泰迪熊建造者[SCP-1048-A]已被重新收容 >"
+  },
+  "<The tesla will be disabled in 20 seconds>": {
+    "translation": "<高压电网将于20秒后关闭>"
+  },
+  "<The next door will open in 30 seconds>": {
+    "translation": "<下一扇门将在30秒后开启>"
+  },
+  "< SCP-1048-A >": {
+    "translation": "< 小心泰迪熊建造者[SCP-1048-A] >"
+  },
+  "<The door will open soon>": {
+    "translation": "<大门即将开放>"
+  },
+  "<The next door will open in 15 seconds>": {
+    "translation": "<下一扇门将在15秒后开启>"
+  },
+  "<The doors will open in 50 seconds>": {
+    "translation": "<这扇门将于50秒后开启>"
+  },
+  "<We will reach Check Point>": {
+    "translation": "<我们即将抵达检查点>"
+  },
+  "<We escaped from SITE-19>": {
+    "translation": "<逃离成功,祝贺!>"
+  }
+}
