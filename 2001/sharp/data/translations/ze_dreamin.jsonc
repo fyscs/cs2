@@ -1,0 +1,216 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Freezer picked up***": {
+    "translation": ">> 玩家已获得[冰] >>"
+  },
+  "***Recovery picked up***": {
+    "translation": ">> 玩家已获得[治疗] >>"
+  },
+  "***Wind picked up***": {
+    "translation": ">> 玩家已获得[风] >>"
+  },
+  "***Snow picked up***": {
+    "translation": ">> 玩家已获得[雪] >>"
+  },
+  "***Zombie picked up Gravity***": {
+    "translation": "<< 僵尸已拾起 [黑洞] <<"
+  },
+  "***Zombie picked up Nuke***": {
+    "translation": "<< 僵尸已拾起 [秒杀] <<"
+  },
+  "***Zombie picked up Ice***": {
+    "translation": "<< 僵尸已拾起 [寒冰] <<"
+  },
+  "***Zombie picked up Heal***": {
+    "translation": "<< 僵尸已拾起 [治疗] <<"
+  },
+  "***DIFFICULTY SET TO -4-***": {
+    "translation": "[管理员] 已设置至 第四关"
+  },
+  "***DIFFICULTY SET TO -3-***": {
+    "translation": "[管理员] 已设置至 第三关"
+  },
+  "***DIFFICULTY SET TO [DREAM]": {
+    "translation": "[管理员] 已设置至 [DREAM]"
+  },
+  "***DIFFICULTY SET TO [FADE]": {
+    "translation": "[管理员] 已设置至 [FADE]"
+  },
+  "***Resist 20 seconds***": {
+    "translation": "还有20秒"
+  },
+  "***Reflection will cast in 2s*": {
+    "translation": ">>> [反伤] 效果还有2秒启动 >>>"
+  },
+  "***Reflection ended***": {
+    "translation": "<<< [反伤] 效果结束 <<<"
+  },
+  "***Reflection will cast in 1s*": {
+    "translation": "***Reflection will cast in 1s*",
+    "blocked": true
+  },
+  "***Reflection Casted***": {
+    "translation": ">>> 反伤 <<<"
+  },
+  "***Ende***": {
+    "translation": "<< 回合结束 <<"
+  },
+  "***Failed***": {
+    "translation": "<< 你失败了 <<"
+  },
+  "***All items will Disable in 4 seconds***": {
+    "translation": "***All items will Disable in 4 seconds***",
+    "blocked": true
+  },
+  "***All items will Disable in 3 seconds***": {
+    "translation": "***All items will Disable in 3 seconds***",
+    "blocked": true
+  },
+  "***All items will Disable in 1 seconds***": {
+    "translation": "***All items will Disable in 1 seconds***",
+    "blocked": true
+  },
+  "***All items will Disable in 2 seconds***": {
+    "translation": "***All items will Disable in 2 seconds***",
+    "blocked": true
+  },
+  "***All items will Disable in 5 seconds***": {
+    "translation": ">> 神器将在5秒后禁用 >>"
+  },
+  "***Hold 20 seconds***": {
+    "translation": "等待20秒"
+  },
+  "***Resist 15 seconds***": {
+    "translation": "抵抗15秒"
+  },
+  "***Portal open in 30 seconds***": {
+    "translation": "传送还有30秒启动"
+  },
+  "***Door open in 20 seconds***": {
+    "translation": "门还有20秒开启"
+  },
+  "***Door break in 20 seconds***": {
+    "translation": "还有20秒"
+  },
+  "***20 seconds***": {
+    "translation": "需要20秒"
+  },
+  "***CURRENT LEVEL - 3 -***": {
+    "translation": ">> 第三关 >>"
+  },
+  "***First Door Break in 20 seconds***": {
+    "translation": "还有20秒打开"
+  },
+  "***Bridge opening...***": {
+    "translation": "道路正在开放..."
+  },
+  "***Hold until Door Break***": {
+    "translation": "守住直到门开"
+  },
+  "***Hold 30 seconds***": {
+    "translation": "等待30秒"
+  },
+  "***Resist 30 seconds***": {
+    "translation": "抵抗30秒"
+  },
+  "***HOLD UNTIL GATE OPEN***": {
+    "translation": "门马上就要开了"
+  },
+  "***ESCAPE***": {
+    "translation": ">> 成功了 >>"
+  },
+  "***Spread out***": {
+    "translation": ">> 黑球 >>"
+  },
+  "***Danger Field***": {
+    "translation": ">> 煎蛋 >>"
+  },
+  "***For Upper***": {
+    "translation": ">> 激光 >>"
+  },
+  "***Laser***": {
+    "translation": ">> 跳刀 >>"
+  },
+  "***Last elevator come down in 30 seconds***": {
+    "translation": "平台还有30秒到达"
+  },
+  "***Last elevator goes up in 7 seconds***": {
+    "translation": "离上升还有7秒"
+  },
+  "***CURRENT LEVEL - 1 -***": {
+    "translation": ">> 第一关 >>"
+  },
+  "***CURRENT LEVEL - 2 -***": {
+    "translation": ">> 第二关 >>"
+  },
+  "***Zombie Escaped***": {
+    "translation": ">> 僵尸跑路了 >>"
+  },
+  "***RESIST FOR 35 SECONDS***": {
+    "translation": "抵挡35秒"
+  },
+  "***HOLD FOR 20 SECONDS***": {
+    "translation": "等待20秒"
+  },
+  "***RESIST 25 SECONDS***": {
+    "translation": "等待25秒"
+  },
+  "***TELEPORT ENABLE IN 30 SECONDS***": {
+    "translation": "传送30秒后启动"
+  },
+  "***Elevator rise up in 10 seconds***": {
+    "translation": "平台还有10秒上升"
+  },
+  "***Map by Reflelia***": {
+    "translation": "地图制作:Reflelia 文本翻译:Lia"
+  },
+  "***Thanks to Shizuru[idea] / uuz[model]***": {
+    "translation": "感谢Shizuru在创意上的帮助,同时感谢uuz在模型上的帮助"
+  },
+  "***Particle Effect by Airvulpes***": {
+    "translation": "粒子特效由Airvulpes提供"
+  },
+  "***Teleport activates in 45 seconds***": {
+    "translation": "传送还有45秒启动"
+  },
+  "***Break the box***": {
+    "translation": "击碎那个!!"
+  },
+  "***Run!***": {
+    "translation": "快跑!!"
+  },
+  "***Zombie teleport in 10 seconds***": {
+    "translation": "僵尸还有10秒传送"
+  },
+  "***Go Back to teleport place***": {
+    "translation": "回到传送点!!"
+  },
+  "***Final teleport enable in 35 seconds***": {
+    "translation": "最后的传送还有35秒启动"
+  },
+  "***5 seconds left***": {
+    "translation": "还有5秒"
+  },
+  "***Gravity Casted***": {
+    "translation": ">> 引力 >>"
+  },
+  "***Wind Casted***": {
+    "translation": ">> 风暴 >>"
+  },
+  "***Thruster Casted***": {
+    "translation": ">> 击飞 >>"
+  },
+  "***Ice Casted***": {
+    "translation": ">> 寒冰 >>"
+  }
+}
