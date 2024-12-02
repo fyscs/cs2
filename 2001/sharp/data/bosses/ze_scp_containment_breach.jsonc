@@ -24,7 +24,17 @@
     {
       "iterator": "end_scp106_counter",
       "hitbox": "end_scp106_phy",
-      "display": "SCP-106"
+      "display": "SCP_106"
+    },
+    {
+      "iterator": "Boss_Health",
+      "hitbox": "Boss_Physbox",
+      "display": "Boss"
+    },
+    {
+      "iterator": "1048_counter",
+      "hitbox": "SCP1048A_break",
+      "display": "SCP_1048"
     }
   ]
 }
