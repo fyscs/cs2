@@ -26,9 +26,10 @@
     "shortName": "火箭",
     "buttonClass": "func_button",
     "hammerId": "3481",
+    "cooldown": 7,
     "team": 3,
     "knife": false,
-    "mode": 0,
+    "mode": 2,
     "count": 2
   },
   {
@@ -83,6 +84,6 @@
     "knife": false,
     "mode": 0,
     "hud": false,
-    "count": 10
+    "count": 30
   }
 ]
