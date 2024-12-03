@@ -23,8 +23,9 @@
   "Counters": [
     {
       "iterator": "boss_math",
-      "backup": "",
-      "hitbox": "boss_hpbar_overlaycounter",
+      "mass": 40,
+      "counter": "boss_hpbar_overlaycounter",
+      "hitbox": "boss_phys2",
       "display": "鼠鼠面包"
     }
   ]
