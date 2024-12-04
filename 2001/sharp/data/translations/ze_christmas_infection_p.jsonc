@@ -47,7 +47,7 @@
     "translation": "邪恶的圣诞巨魔出现了..."
   },
   "** The core has been found! Take it to the boat! **": {
-    "translation": "核心已找到!带它去船上！"
+    "translation": "核心已找到!带它去船上!"
   },
   "** The boat has energy again! We will be able to leave now!!! **": {
     "translation": "船恢复了动力!我们现在可以离开了"
@@ -230,7 +230,7 @@
   },
   "** LAST 5 SECONDS! GET READY!!! **": {
     "translation": "** LAST 5 SECONDS! GET READY!!! **",
-    "blocked" : true
+    "blocked": true
   },
   "** Hold a bit! The door will open in 20 seconds! **": {
     "translation": "门将在20秒后打开!"
