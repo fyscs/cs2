@@ -1,0 +1,336 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "* Trampoline placer has been picked up. Press +USE (E) to place a trampoline. *": {
+    "translation": "蹦床已被拾取,按E放置"
+  },
+  "** Zombie heal has been picked up. Press +USE (E) to activate.**": {
+    "translation": "僵尸治疗已被拾取,按E使用"
+  },
+  "** Napalm candle has been picked up. Press +USE (E) to activate **": {
+    "translation": "喷火已被拾起,按E使用"
+  },
+  "** Tree placer has been picked up. Press +USE (E) to place a tree. **": {
+    "translation": "大树已被拾取,按E防放置"
+  },
+  "** Ice boomerang has been picked up. Press +USE (E) to throw it. **": {
+    "translation": "冰镖已被拾取,按E掷出"
+  },
+  "** Icewall spawner has been picked up. Press +USE (E) to spawn a wall. **": {
+    "translation": "冰墙已被拾取,按E生成"
+  },
+  "** Zombie present placer has been picked up. Press +USE (E) to place a present. **": {
+    "translation": "僵尸礼物已被拾取,按E放置"
+  },
+  "* Whirpool summoner has been picked up. Press +USE (E) to summon*": {
+    "translation": "漩涡已被拾取,按E召唤"
+  },
+  "** Zombie fog has been picked up. Press +USE (E) to activate **": {
+    "translation": "僵尸迷雾已被拾取,按E激活"
+  },
+  "** Snowball launcher has been picked up. Press +USE (E) to launch a snowball. **": {
+    "translation": "雪球发射器已被拾取,按E发射"
+  },
+  "** Magical lantern has been picked up. Press +USE (E) to activate it. **": {
+    "translation": "魔法灯笼已被拾取,按E激活"
+  },
+  "** An evil christmas ogre has appeared... **": {
+    "translation": "邪恶的圣诞巨魔出现了..."
+  },
+  "** The core has been found! Take it to the boat! **": {
+    "translation": "核心已找到!带它去船上！"
+  },
+  "** The boat has energy again! We will be able to leave now!!! **": {
+    "translation": "船恢复了动力!我们现在可以离开了"
+  },
+  "** Resist for 15 seconds! **": {
+    "translation": "坚持15秒!"
+  },
+  "** LAST 5 SECONDS! KEEP HOLDING!!! **": {
+    "translation": "** LAST 5 SECONDS! KEEP HOLDING!!! **",
+    "blocked": true
+  },
+  "** HOLD! The door is opening in 10 seconds! **": {
+    "translation": "门将在10秒后打开,守住"
+  },
+  "*** The door opens in 30 seconds ***": {
+    "translation": "门将在30秒后打开"
+  },
+  "*** The door opens in 10 seconds. Hold! ***": {
+    "translation": "*** The door opens in 10 seconds. Hold! ***",
+    "blocked": true
+  },
+  "*** The door opens in 5 seconds. RESIST!!! ***": {
+    "translation": "*** The door opens in 5 seconds. RESIST!!! ***",
+    "blocked": true
+  },
+  "*** Hold the bridge! The door opens in 20 seconds! ***": {
+    "translation": "守住桥!门还有20秒打开"
+  },
+  "** Well done! The door opens in 20 seconds. RESIST!!! **": {
+    "translation": "做得好!门将在20秒后打开"
+  },
+  "** Hold! The door will open in 25 seconds! **": {
+    "translation": "门将在25秒后打开"
+  },
+  "** Only 5 seconds left! RESIST! **": {
+    "translation": "** Only 5 seconds left! RESIST! **",
+    "blocked": true
+  },
+  "** We have to hold this area for 40 seconds until the doors open! **": {
+    "translation": "还需要坚持40秒"
+  },
+  "** Keep defending! 15 seconds left! **": {
+    "translation": "继续防守!剩下15秒"
+  },
+  "** 5 seconds! RESIST!!! **": {
+    "translation": "** 5 seconds! RESIST!!! **",
+    "blocked": true
+  },
+  "** Hold! The door opens in 20 seconds!!! **": {
+    "translation": "门将在20秒后打开"
+  },
+  "** KEEP HOLDING! 5 MORE SECONDS!!! **": {
+    "translation": "** KEEP HOLDING! 5 MORE SECONDS!!! **",
+    "blocked": true
+  },
+  "** Storage area door opening in 15 seconds. HOLD! **": {
+    "translation": "*储藏区的门将在15秒后打开"
+  },
+  "** Hold a bit! The door will open in 15 seconds! **": {
+    "translation": "坚持一下!门将在15秒后打开!"
+  },
+  "** THIS IS OUR LAST STAND! **": {
+    "translation": "最后一搏!"
+  },
+  "** DEFEND THE CHRISTMAS AIRBOAT FOR 50 SECONDS!!! **": {
+    "translation": "防守圣诞飞船50秒"
+  },
+  "** RESIST! 30 SECONDS LEFT!!! **": {
+    "translation": "** RESIST! 30 SECONDS LEFT!!! **",
+    "blocked": true
+  },
+  "** LAST 5 SECONDS! RESIST!!! **": {
+    "translation": "** LAST 5 SECONDS! RESIST!!! **",
+    "blocked": true
+  },
+  "** Hold 10 more seconds! The second doors will open soon!**": {
+    "translation": "再坚持10秒!第二扇门即将打开!"
+  },
+  "** 15 SECONDS! KEEP IT UP!!! **": {
+    "translation": "15秒!坚持住!"
+  },
+  "** Well done! The door will open in 15 seconds! **": {
+    "translation": "做得好!门将在15秒后打开!"
+  },
+  "*** HOLD! The elevator will leave in 25 seconds! ***": {
+    "translation": "电梯将在25秒后离开!"
+  },
+  "*** FALL BACK! THE ELEVATOR LEAVES IN 5 SECONDS! ***": {
+    "translation": "*** FALL BACK! THE ELEVATOR LEAVES IN 5 SECONDS! ***",
+    "blocked": true
+  },
+  "*** Activate both control pannels at once to unlock the door! ***": {
+    "translation": "同时激活两个控制开关来打开门!"
+  },
+  "*** Activate one of the control pannels! ***": {
+    "translation": "已激活一个控制开关!"
+  },
+  "** AN ADMIN CHANGED THE LEVEL TO EASY! **": {
+    "translation": "[管理员] 设定关卡至 EASY!"
+  },
+  "** AN ADMIN CHANGED THE LEVEL TO MEDIUM! **": {
+    "translation": "[管理员] 设定关卡至  MEDIUM!"
+  },
+  "** AN ADMIN CHANGED THE LEVEL TO TOUGH! **": {
+    "translation": "[管理员] 设定关卡至  TOUGH!"
+  },
+  "** AN ADMIN CHANGED THE LEVEL TO APOCALYPSE! **": {
+    "translation": "[管理员] 设定关卡至  APOCALYPSE!"
+  },
+  "** RESIST! There are two ways they can come from! **": {
+    "translation": "坚持住!他们可以从两个方向进攻!"
+  },
+  "** The way is locked! Open the doors pressing the buttons at the control area! **": {
+    "translation": "路被堵住了!按下控制区的按钮打开门!"
+  },
+  "** Systems activated! Doors opening in 10 seconds! **": {
+    "translation": "系统已激活!门将在10秒后打开!"
+  },
+  "** Hold! The doors will open in 15 seconds! **": {
+    "translation": "门将在15秒后打开!"
+  },
+  "** You have beaten easy mode... Let's see now how you do in MEDIUM! **": {
+    "translation": "你通过了简单模式."
+  },
+  "** Well done! The things are now getting interesting at TOUGH mode!!! **": {
+    "translation": "做得好!正在前往困难模式!"
+  },
+  "** You werent expected to get this far... GET READY FOR THE APOCALYPSE!!! **": {
+    "translation": "没想到能走到这一步...正在启动末日模式!"
+  },
+  "** UNBELIEVABLE!!! You have beaten the map! Next round will be barricade and level vote! **": {
+    "translation": "难以置信!你通关了地图!下回合为关卡投票"
+  },
+  "** The core is being deactivated... **": {
+    "translation": "核心正在失效..."
+  },
+  "** We need to get into the safety bunker! Resist until the doors open!!! **": {
+    "translation": "我们必须进入掩体!坚持直到门打开!"
+  },
+  "** The core has become unstable! The reactor will explode!!! **": {
+    "translation": "核心不稳定!反应堆即将爆炸!"
+  },
+  "** Fall back! The hot air balloon is here!!! **": {
+    "translation": "后退!热气球来了!"
+  },
+  "** SHOOT! Zombies can jump into the balloon!!! **": {
+    "translation": "开火!僵尸可以跳进热气球!"
+  },
+  "** Resist! The doors will open in 10 seconds!!! **": {
+    "translation": "门将在10秒后打开!"
+  },
+  "** RESIST FOR 20 SECONDS! Help is on the way! **": {
+    "translation": "援助正在赶来!坚持20秒!"
+  },
+  "*** THIS IS OUR LAST STAND! Keep the zombies out of the bunker!!! ***": {
+    "translation": "最后一搏!守住僵尸不要让其靠近掩体!"
+  },
+  "*** The door has locked! We need to resist until it keeps moving! ***": {
+    "translation": "门锁住了!坚持住!"
+  },
+  "*** ALMOST THERE! KEEP DEFENDING!!! ***": {
+    "translation": "快到了!继续防守!"
+  },
+  "** AN ADMIN PRESSED THE NUKE BUTTON! **": {
+    "translation": "[管理员] 重启回合..."
+  },
+  "** AN ADMIN CHANGED THE LEVEL TO BARRICADE AND VOTE ROUND! **": {
+    "translation": "[管理员] 设定关卡至 ZM及关卡投票"
+  },
+  "** We have to hold this area for 60 seconds until the doors open! **": {
+    "translation": "坚持60秒"
+  },
+  "** Keep defending! 30 seconds left! **": {
+    "translation": "** Keep defending! 30 seconds left! **",
+    "blocked": true
+  },
+  "** 15 seconds! RESIST!!! **": {
+    "translation": "** 15 seconds! RESIST!!! **",
+    "blocked": true
+  },
+  "** LAST 5 SECONDS! GET READY!!! **": {
+    "translation": "** LAST 5 SECONDS! GET READY!!! **",
+    "blocked" : true
+  },
+  "** Hold a bit! The door will open in 20 seconds! **": {
+    "translation": "门将在20秒后打开!"
+  },
+  "** DEFEND THE CHRISTMAS AIRBOAT! THE STAR OF THE NORTH IS FALLING! **": {
+    "translation": "守住飞船!北方之星即将陨落!"
+  },
+  "** THE CORE OF THE AIRBOAT IS MISSING! WE HAVE TO FIND IT!!! **": {
+    "translation": "飞船的核心丢失了!我们必须找到它!!"
+  },
+  "** TIP: The core must be brought back to the back of the ship to leave. **": {
+    "translation": "提示:核心必须带回飞船后才能离开."
+  },
+  "** THE STAR OF THE NORTH WILL WIPE EVERYTHING OUT IN 20 SECONDS! **": {
+    "translation": "北方之星将在20秒后摧毁一切!"
+  },
+  "*** ZOMBIES DETECTED ON THE BALLOON - INVALID VICTORY!!! ***": {
+    "translation": "僵尸登上了气球,回合失败"
+  },
+  "*** ZOMBIES DETECTED ON BUNKER - INVALID VICTORY ***": {
+    "translation": "僵尸入侵了掩体,回合失败"
+  },
+  "** Red and blue presents will contain zombie and human items respectively. **": {
+    "translation": "红色和蓝色的礼物分别包含僵尸和人类的神器"
+  },
+  "** TIP: You can pick up special items from the spinning presents randomly placed in the map. **": {
+    "translation": "提示: 你可以从地图上随机出现的旋转礼物中拾取神器."
+  },
+  "** CURRENT LEVEL: BARRICADE AND LEVEL VOTE **": {
+    "translation": "当前关卡: ZM与关卡投票"
+  },
+  "** ZE_CHRISTMAS_INFECTION **": {
+    "translation": "ZE_圣诞大逃亡"
+  },
+  "** Survive for 4 minutes to get to the vote level! **": {
+    "translation": "生存四分钟,才能进入关卡投票!"
+  },
+  "** Only humans will be able to vote! **": {
+    "translation": "只有人类才能进行投票!"
+  },
+  "** Two minutes left! RESIST! **": {
+    "translation": "剩下二分钟!坚持住!"
+  },
+  "** Just one minute! Keep it up! **": {
+    "translation": "只剩一分钟!继续加油!"
+  },
+  "** LAST 30 SECONDS! HOLD THE LAST BIT! **": {
+    "translation": "最后30秒!"
+  },
+  "** 15 SECONDS!!! **": {
+    "translation": "** 15 SECONDS!!! **",
+    "blocked": true
+  },
+  "** RESIST! 5 SECONDS!!! **": {
+    "translation": "** RESIST! 5 SECONDS!!! **",
+    "blocked": true
+  },
+  "** Well done! Vote for the level you want to play! **": {
+    "translation": "投票选择你想玩的关卡!"
+  },
+  "** If after 30 seconds no level has been selected the nuke will activate! **": {
+    "translation": "30秒后如果没有选择关卡,核爆将启动!"
+  },
+  "** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE EASY! **": {
+    "translation": "投票结果: 下个关卡将是 EASY!"
+  },
+  "** Select one of the endings pressing the buttons! Nuke in 30 seconds! **": {
+    "translation": "选择一个结局!核爆将在30秒后启动!"
+  },
+  "** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE MEDIUM! **": {
+    "translation": "投票结果: 下个关卡将是 MEDIUM!"
+  },
+  "** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE TOUGH! **": {
+    "translation": "投票结果: 下个关卡将是 TOUGH!"
+  },
+  "** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE APOCALYPSE! **": {
+    "translation": "投票结果: 下个关卡将是 APOCALYPSE!"
+  },
+  "** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE BARRICADE AND VOTE AGAIN! **": {
+    "translation": "投票结果: 下个关卡将是 ZM及关卡投票!"
+  },
+  "** No level was chosen in time! The next level will be random!!! **": {
+    "translation": "未选择关卡! 即将进行随机!!!"
+  },
+  "*** ZOMBIES DETECTED ON BOAT - INVALID VICTORY!!! ***": {
+    "translation": "僵尸在船上! 失败了!!"
+  },
+  "** IT'S TOO LATE! THE BOAT WILL NOT DO IT IN TIME! WE WILL DIE! **": {
+    "translation": "太迟了!船来不及离开了!我们要呱了!"
+  },
+  "** CURRENT LEVEL: EASY **": {
+    "translation": "当前难度: EASY!"
+  },
+  "** CURRENT LEVEL: MEDIUM **": {
+    "translation": "当前难度: MEDIUM!"
+  },
+  "** CURRENT LEVEL: TOUGH **": {
+    "translation": "当前难度: TOUGH!"
+  },
+  "** CURRENT LEVEL: APOCALYPSE **": {
+    "translation": "当前难度: APOCALYPSE!"
+  }
+}
