@@ -349,6 +349,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_christmas_infection_p": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 70,
+    "nomination": true,
+    "admin": false
+  },
   "ze_christmas_p": {
     "certainTimes": [-1],
     "price": 300,
