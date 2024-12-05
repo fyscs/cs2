@@ -2216,7 +2216,7 @@
     "price": 500,
     "cooldown": 100,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_undertale_sans_final": {
     "certainTimes": [-1],
