@@ -1,0 +1,46 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*A player became a SMN*": {
+    "translation": "*一位玩家获得了 SMN *"
+  },
+  "Warmup": {
+    "translation": "热身回合"
+  },
+  "Normal": {
+    "translation": "普通"
+  },
+  "Hard": {
+    "translation": "困难"
+  },
+  "Extreme": {
+    "translation": "极限"
+  },
+  "*A player became a BLM*": {
+    "translation": "*一位玩家获得了 黑魔*"
+  },
+  "*A player became a SGE*": {
+    "translation": "*一位玩家获得了 贤者*"
+  },
+  "*A player acquires the fire element.*": {
+    "translation": "*一位玩家习得了火魔法.*"
+  },
+  "*A player acquires the Electricity element.*": {
+    "translation": "*一位玩家习得了电魔法.*"
+  },
+  "*A player acquires the Bio element.*": {
+    "translation": "*一位玩家习得了毒魔法.*"
+  },
+  "*A player acquires the Speed.*": {
+    "translation": "*一位玩家习得了加速魔法.*"
+  }
+}
