@@ -1,0 +1,100 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** SUCCESSFUL ESCAPE ***": {
+    "translation": "*** SUCCESSFUL ESCAPE ***"
+  },
+  "**DOOR OPENS IN 20 SECONDS**": {
+    "translation": "**DOOR OPENS IN 20 SECONDS**"
+  },
+  "**STRONGHOLD ENTRANCE OPENS IN 20 SECONDS**": {
+    "translation": "**STRONGHOLD ENTRANCE OPENS IN 20 SECONDS**"
+  },
+  "**DOORS OPENS IN 20 SECONDS**": {
+    "translation": "**DOORS OPENS IN 20 SECONDS**"
+  },
+  "**DOOR OPENS IN 10 SECONDS**": {
+    "translation": "**DOOR OPENS IN 10 SECONDS**"
+  },
+  "**DOOR OPENS IN 25 SECONDS**": {
+    "translation": "**DOOR OPENS IN 25 SECONDS**"
+  },
+  "*** SHIP LEAVING IN 60 SECONDS ***": {
+    "translation": "*** SHIP LEAVING IN 60 SECONDS ***"
+  },
+  "*** 30 SECONDS LEFT ***": {
+    "translation": "*** 30 SECONDS LEFT ***"
+  },
+  "*** 10 SECONDS LEFT ***": {
+    "translation": "*** 10 SECONDS LEFT ***"
+  },
+  "*** Map by m4dara ***": {
+    "translation": "*** Map by m4dara ***"
+  },
+  "**DOORS OPENS IN 15 SECONDS**": {
+    "translation": "**DOORS OPENS IN 15 SECONDS**"
+  },
+  "**ELEVATOR MOVING..**": {
+    "translation": "**ELEVATOR MOVING..**"
+  },
+  "*** DOOR OPENING SOON..***": {
+    "translation": "*** DOOR OPENING SOON..***"
+  },
+  "*** ZOMBIE DETECTED ***": {
+    "translation": "*** ZOMBIE DETECTED ***"
+  },
+  "*** ELEVATOR MOVING IN 30 SECONDS ***": {
+    "translation": "*** ELEVATOR MOVING IN 30 SECONDS ***"
+  },
+  "***DOOR OPENING SOON..***": {
+    "translation": "***DOOR OPENING SOON..***"
+  },
+  "*** A SHIP IS WAITING FOR YOU ***": {
+    "translation": "*** A SHIP IS WAITING FOR YOU ***"
+  },
+  "**CAVE ENTRANCE OPENS IN 25 SECONDS**": {
+    "translation": "**CAVE ENTRANCE OPENS IN 25 SECONDS**"
+  },
+  "*** PUSH THE WHEEL TOGETHER TO MOVE THE BRIDGE ***": {
+    "translation": "*** PUSH THE WHEEL TOGETHER TO MOVE THE BRIDGE ***"
+  },
+  "Zombies got ahead of humans, slaying all humans...": {
+    "translation": "Zombies got ahead of humans, slaying all humans..."
+  },
+  "zombie ahead of humans +1": {
+    "translation": "zombie ahead of humans +1"
+  },
+  "***PLAYER PICKED UP EXPLOSIVE BOW ***": {
+    "translation": "***PLAYER PICKED UP EXPLOSIVE BOW ***"
+  },
+  "***PLAYER PICKED UP FLAMETHROWER***": {
+    "translation": "***PLAYER PICKED UP FLAMETHROWER***"
+  },
+  "***PLAYER PICKED UP SPEED POTION***": {
+    "translation": "***PLAYER PICKED UP SPEED POTION***"
+  },
+  "***PLAYER PICKED UP BOW ***": {
+    "translation": "***PLAYER PICKED UP BOW ***"
+  },
+  "***PLAYER PICKED UP HEAL POTION***": {
+    "translation": "***PLAYER PICKED UP HEAL POTION***"
+  },
+  "*** PLAYER PICKED UP BARREL***": {
+    "translation": "*** PLAYER PICKED UP BARREL***"
+  },
+  "***PLAYER PICKED UP AMMO POTION***": {
+    "translation": "***PLAYER PICKED UP AMMO POTION***"
+  },
+  "***PLAYER PICKED UP SHOTGUN ***": {
+    "translation": "***PLAYER PICKED UP SHOTGUN ***"
+  }
+}
