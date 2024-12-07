@@ -1,0 +1,157 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** We're getting close! If we can get into the pumpkin besides the oven we will be safe! **": {
+    "translation": "** 我们快到了!如果我们能进入烤箱旁边的南瓜,我们就安全了! **"
+  },
+  "** We should inspect that giant pumpkin sitting on the stool! **": {
+    "translation": "** 我认为我们应该检查下这个坐在凳子上的大南瓜,他看起来有些奇怪! **"
+  },
+  "** THAT'S IT! WE'RE GONNA BLOW IT UP! **": {
+    "translation": "** 就是这样!把他给炸掉! **"
+  },
+  "** HOLD AND STAY AFFAR UNTIL THE C4 CHARGE GOES OFF! **": {
+    "translation": "** 在炸弹爆炸前守住这里! **"
+  },
+  "** MOVE! THE DARN THING IS OUT OF THE WAY! **": {
+    "translation": "** 快走!该死的东西挡道了! **"
+  },
+  "** Hey look! It's Billy the friendly ghost! **": {
+    "translation": "** 瞧瞧这是谁!是比利♂ 他是友善的鬼魂! **"
+  },
+  "** The tell tale is told to tell that Billy turns spooky things stale! Zombies will become vulnerable! **": {
+    "translation": "** 这个故事告诉我们比利会让恐怖的东西荡然无存!僵尸会变得脆弱! **"
+  },
+  "** And thus Billy the friendly ghost removed all spooky things from the world **": {
+    "translation": "** 最后,友好的鬼魂比利把世界上所有诡异的东西都驱逐干净了 **"
+  },
+  "** and conveniently led our diminute human friends to the end of their little story! **": {
+    "translation": "** 顺手就把我们这些矮小的人类朋友带到了他们小故事的结尾! **"
+  },
+  "** THE END **": {
+    "translation": "** 故事完结 **"
+  },
+  "** This seems to be a dead end! HOLD UNTIL SOMETHING HAPPENS! **": {
+    "translation": "** 这似乎是个死胡同!等等看会发生什么事! **"
+  },
+  "** Nothing yet... KEEP IT UP! **": {
+    "translation": "** 什么都没有. . . 坚持下去! **"
+  },
+  "** We need to resist... Something must open! **": {
+    "translation": "** 防守此地!一定有什么东西已经打开了 **"
+  },
+  "** Will we be here forever? Have the mapmakers left us at our stake?! That can't be! **": {
+    "translation": "** 我们会永远在这里吗?地图作者把我们丢在了这么危险的地方?!他怎么忍心的! **"
+  },
+  "** It looks like this Halloween will be the end... of it all... **": {
+    "translation": "** 看起来这个万圣节要结束了…一切都... **"
+  },
+  "** We can't get past here with that stove turned on! **": {
+    "translation": "** 该死,炉子还开着,但我们进不去! **"
+  },
+  "** What can we do? **": {
+    "translation": "** 我们还能做些什么呢? **"
+  },
+  "** The gas counter! If we mess it up the gas might stop flowing - perhaps? **": {
+    "translation": "** 如果我们拆了这个煤气柜,这些气体可能会停下来? **"
+  },
+  "** There is some screaking sound in the distance - maybe something is lurking in the darkness! **": {
+    "translation": "** 不远处好像有尖叫声--也许这片黑暗中潜伏着什么东西! **"
+  },
+  "** Try to get that old toy going! We must get out of here! **": {
+    "translation": "** 试着把那个旧玩具拿开!我们必须离开这里! **"
+  },
+  "** We need to reach the top! **": {
+    "translation": "** 我们必须要到达顶端! **"
+  },
+  "** Something spooky seems to be going on that table! **": {
+    "translation": "** 桌子上好像有什么鬼东西! **"
+  },
+  "** The spirits marked the 'H' leter... **": {
+    "translation": "** 鬼魂们标记了字母'H'... **"
+  },
+  "** 'A'... **": {
+    "translation": "** 'A'... **"
+  },
+  "** 'L'... **": {
+    "translation": "** 'L'... **"
+  },
+  "** 'L' again... **": {
+    "translation": "** 又是'L'... **"
+  },
+  "** 'O'... **": {
+    "translation": "** 'O'... **"
+  },
+  "** 'W'... **": {
+    "translation": "** 'W'... **"
+  },
+  "** 'E'... **": {
+    "translation": "** 'E'... **"
+  },
+  "** 'E' yet again... **": {
+    "translation": "** 又是'E'... **"
+  },
+  "** 'N'... **": {
+    "translation": "** 'N'... **"
+  },
+  "** It spelled 'HALLOWEEN'! **": {
+    "translation": "** 它的拼写是'万圣节'! **"
+  },
+  "** Something is happening! **": {
+    "translation": "** 发生了什么事! **"
+  },
+  "** Who would have guessed? **": {
+    "translation": "** 谁能猜到呢? **"
+  },
+  "** The seance is beginning and the spirits are calling... **": {
+    "translation": "** 降神开始了,灵魂在召唤着什么...... **"
+  },
+  "** GET GOING! WE HAVE ENOUGH KINETIC ENERGY! **": {
+    "translation": "** 快走!我们有足够的动能! **"
+  },
+  "** THE TOP DOOR IS OPENING 5 SECONDS! **": {
+    "translation": "** 头顶的门5秒后开启! **"
+  },
+  "** We need to make the door move! **": {
+    "translation": "** 我们得让门动起来! **"
+  },
+  "** It looks as if it would probably open if we get the wheel moving... **": {
+    "translation": "** 如果我们能将轮子转起来的话,头顶的门或许就能打开... **"
+  },
+  "** WE CAN'T SEEM TO PROGRESS AHEAD... **": {
+    "translation": "** 我们似乎无法取得进展... **"
+  },
+  "** HOLD UNTIL WE FIGURE SOMETHING OUT! **": {
+    "translation": "** 等我们想出办法再说! **"
+  },
+  "** THE WINDOW! GET ON IT! **": {
+    "translation": "** 窗户!快点! **"
+  },
+  "** There seems to be a nasty bug infestation! **": {
+    "translation": "** 这里似乎有讨厌的虫子出没! 真该死**"
+  },
+  "** Luckily bugs tend to dislike bright lights! **": {
+    "translation": "** 幸好虫子不喜欢明亮的灯光! **"
+  },
+  "** Get on the lamp! Quick! The spell might not last long! **": {
+    "translation": "** 跳到灯上!快!咒语可能不会持续太久! **"
+  },
+  "** OOOAAAAAAAAAAAAH! The darn thing almost squashed us! **": {
+    "translation": "** akashdajksgdxzhjk!那该死的东西差点把我们给压扁了! **"
+  },
+  "** Being up here the reasonable way to solve the situation would be to go for a swim... If you know what I mean! **": {
+    "translation": "** 想要解决问题的前提是我们必须游过去,懂我意思吗! **"
+  },
+  "** MS. WHISKERS HAS WHISKED US! IT'S ALL OVER! **": {
+    "translation": "** 别动,斯奎尔斯女士已经把我们赶走了!一切都结束了! **"
+  }
+}
