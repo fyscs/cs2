@@ -1,0 +1,102 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** SUCCESSFUL ESCAPE ***": {
+    "translation": ">> 成功逃离 >>"
+  },
+  "**DOOR OPENS IN 20 SECONDS**": {
+    "translation": "还有20秒"
+  },
+  "**STRONGHOLD ENTRANCE OPENS IN 20 SECONDS**": {
+    "translation": "城堡大门20秒后打开"
+  },
+  "**DOORS OPENS IN 20 SECONDS**": {
+    "translation": "还有20秒打开"
+  },
+  "**DOOR OPENS IN 10 SECONDS**": {
+    "translation": "还有10秒"
+  },
+  "**DOOR OPENS IN 25 SECONDS**": {
+    "translation": "还有25秒打开"
+  },
+  "*** SHIP LEAVING IN 60 SECONDS ***": {
+    "translation": "小船60秒后离开"
+  },
+  "*** 30 SECONDS LEFT ***": {
+    "translation": "*** 30 SECONDS LEFT ***",
+    "blocked": true
+  },
+  "*** 10 SECONDS LEFT ***": {
+    "translation": "*** 10 SECONDS LEFT ***",
+    "blocked": true
+  },
+  "*** Map by m4dara ***": {
+    "translation": "地图制作:M4dara 文本翻译:Lia"
+  },
+  "**DOORS OPENS IN 15 SECONDS**": {
+    "translation": "还有15秒"
+  },
+  "**ELEVATOR MOVING..**": {
+    "translation": "电梯移动中.."
+  },
+  "*** DOOR OPENING SOON..***": {
+    "translation": "门就要开了..."
+  },
+  "*** ZOMBIE DETECTED ***": {
+    "translation": ">> 僵尸已逃离 >>"
+  },
+  "*** ELEVATOR MOVING IN 30 SECONDS ***": {
+    "translation": "电梯30秒后移动"
+  },
+  "***DOOR OPENING SOON..***": {
+    "translation": "门马上就开了"
+  },
+  "*** A SHIP IS WAITING FOR YOU ***": {
+    "translation": "有一艘小船正在等待..."
+  },
+  "**CAVE ENTRANCE OPENS IN 25 SECONDS**": {
+    "translation": "洞穴门25秒后打开"
+  },
+  "*** PUSH THE WHEEL TOGETHER TO MOVE THE BRIDGE ***": {
+    "translation": "推动转轮移动桥梁..."
+  },
+  "Zombies got ahead of humans, slaying all humans...": {
+    "translation": "僵尸已越过人类防线,正在处死..."
+  },
+  "zombie ahead of humans +1": {
+    "translation": "<< 僵尸已越过人类防线 <<"
+  },
+  "***PLAYER PICKED UP EXPLOSIVE BOW ***": {
+    "translation": ">> 玩家已拾取 [爆炸弩] >>"
+  },
+  "***PLAYER PICKED UP FLAMETHROWER***": {
+    "translation": ">> 玩家已拾取 [火焰] >>"
+  },
+  "***PLAYER PICKED UP SPEED POTION***": {
+    "translation": ">> 玩家已拾取 [加速药水] >>"
+  },
+  "***PLAYER PICKED UP BOW ***": {
+    "translation": ">> 玩家已拾取 [弩箭] >>"
+  },
+  "***PLAYER PICKED UP HEAL POTION***": {
+    "translation": ">> 玩家已拾取 [治疗药水] >>"
+  },
+  "*** PLAYER PICKED UP BARREL***": {
+    "translation": ">> 玩家已拾取 [炸药桶] >>"
+  },
+  "***PLAYER PICKED UP AMMO POTION***": {
+    "translation": ">> 玩家已拾取 [弹药补给] >>"
+  },
+  "***PLAYER PICKED UP SHOTGUN ***": {
+    "translation": ">> 玩家已拾取 [霰弹枪] >>"
+  }
+}
