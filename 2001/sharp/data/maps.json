@@ -18,6 +18,7 @@
     "price": 700,
     "cooldown": 80,
     "nomination": true,
+    
     "admin": false
   },
   "ze_30_seconds_p": {
@@ -1266,7 +1267,7 @@
     "nomination": false,
     "admin": false
   },
-  "ze_mars_escape_xmas_p": {
+  "ze_mars_escape_xmas": {
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
