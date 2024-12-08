@@ -902,6 +902,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_halloween_house_p": {
+    "certainTimes": [-1],
+    "price": 500,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
   "ze_hammer_bunker_part1": {
     "certainTimes": [-1],
     "price": 300,
