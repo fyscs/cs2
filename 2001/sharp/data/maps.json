@@ -1630,6 +1630,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_permafrost": {
+    "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22],
+    "price": 550,
+    "cooldown": 90,
+    "nomination": true,
+    "admin": false
+  },
   "ze_platformer_p": {
     "certainTimes": [-1],
     "price": 400,
