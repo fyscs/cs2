@@ -1,0 +1,66 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "SETH_S4_M4BOSS_COUN_HIT",
+      "backup": "SETH_S4_M4BOSS_COU_STACK",
+      "counter": "SETH_S4_M4BOSS_COUN_BAR",
+      "hitbox": "s4_finalboss_return_physbox",
+      "display": "MindBlock"
+    },
+    {
+      "iterator": "SETH_S2_BOSS_COUN_HIT",
+      "backup": "SETH_S2_BOSS_COU_STACK",
+      "counter": "SETH_S2_BOSS_COUN_BAR",
+      "hitbox": "s2_boss_breakable",
+      "display": "Green"
+    },
+    {
+      "iterator": "SETH_S3_BOSS_COUN_HIT",
+      "backup": "SETH_S3_BOSS_COU_STACK",
+      "counter": "SETH_S3_BOSS_COUN_BAR",
+      "hitbox": "ball_boss_physbox",
+      "display": "Ball"
+    },
+    {
+      "iterator": "SETH_S4_M1BOSS_COUN_HIT",
+      "backup": "SETH_S4_M1BOSS_COU_STACK",
+      "counter": "SETH_S4_M1BOSS_COUN_BAR",
+      "hitbox": "s4_miniboss_physbox",
+      "display": "MiniBox1"
+    },
+    {
+      "iterator": "SETH_S4_M2BOSS_COUN_HIT",
+      "backup": "SETH_S4_M2BOSS_COU_STACK",
+      "counter": "SETH_S4_M2BOSS_COUN_BAR",
+      "hitbox": "s4_smallboss2_physbox",
+      "display": "MiniBox2"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "3438",
+      "display": "Block"
+    }
+  ]
+}
