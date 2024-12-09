@@ -2323,6 +2323,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_watagi_sanatorium": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
   "ze_winter_warehouse_p": {
     "certainTimes": [-1],
     "price": 300,
