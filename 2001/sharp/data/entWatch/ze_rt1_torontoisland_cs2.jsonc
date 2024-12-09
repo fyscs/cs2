@@ -79,6 +79,17 @@
     "count": 1
   },
   {
+    "name": "破坏者",
+    "shortName": "破坏者",
+    "buttonClass": "func_button",
+    "hammerId": "8218",
+    "triggerId": ["8220"],
+    "team": 3,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  },
+  {
     "name": "诅咒",
     "shortName": "诅咒",
     "buttonClass": "func_button",
