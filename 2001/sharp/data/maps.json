@@ -2225,6 +2225,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_tyranny2": {
+    "certainTimes": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 500,
+    "cooldown": 85,
+    "nomination": true,
+    "admin": false
+  },
   "ze_uchiha_legacy": {
     "certainTimes": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 1000,

@@ -1,0 +1,276 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> Blessed ancient scroll has been Found <<<": {
+    "translation": ">>> Blessed ancient scroll has been Found <<<"
+  },
+  ">>> Ballista has been Found <<<": {
+    "translation": ">> [弩炮]已被找到 >>"
+  },
+  ">>> Bible has been Found <<<": {
+    "translation": ">> [圣经]已被找到 >>"
+  },
+  ">>> Player has picked up Meteor Staff <<<": {
+    "translation": ">> 玩家已拾取[流星] >>"
+  },
+  ">>> Player has picked up Crystal Staff <<<": {
+    "translation": ">> 玩家已拾取[水晶] >>"
+  },
+  ">>> Player has picked up Venom Staff <<<": {
+    "translation": ">> 玩家已拾取[毒药] >>"
+  },
+  ">>> Player has picked up Tornado Staff <<<": {
+    "translation": ">> 玩家已拾取[风暴] >>"
+  },
+  ">>> Player has picked up Heal Staff <<<": {
+    "translation": ">> 玩家已拾取[治疗] >>"
+  },
+  ">>> Player has picked up Sacred Staff <<<": {
+    "translation": ">> 玩家已拾取[恐惧] >>"
+  },
+  ">>> Player has picked up Shade Staff <<<": {
+    "translation": ">> 玩家已拾取[暗影] >>"
+  },
+  ">>> Player has picked up Ammo <<<": {
+    "translation": ">> 玩家已拾取[弹药] >>"
+  },
+  ">>> Player has picked up Ballista <<<": {
+    "translation": ">> 玩家已拾取[弩炮] >>"
+  },
+  ">>> Player has picked up Bible <<<": {
+    "translation": ">> 玩家已拾取[圣经] >>"
+  },
+  ">>> Player has picked up Blood Orb  <<<": {
+    "translation": ">> 僵尸已拾取[血怒] >>"
+  },
+  ">>> Player has picked up Explosive Barrel  <<<": {
+    "translation": ">> 僵尸已拾取[炸药桶] >>"
+  },
+  ">>> Player has picked up Necromancy  <<<": {
+    "translation": ">> 僵尸已拾取[妖术] >>"
+  },
+  ">>> Player has picked up Guillotine  <<<": {
+    "translation": ">> 僵尸已拾取[断头台] >>"
+  },
+  ">>> Player has picked up Abyss  <<<": {
+    "translation": ">> 僵尸已拾取[虚无深渊] >>"
+  },
+  ">>> Rakiora has been slain... <<<": {
+    "translation": ">>> 终于击败了... <<<"
+  },
+  ">>> Diablo is Coming <<<": {
+    "translation": ">>> 迪亚波罗要来了 <<<"
+  },
+  ">>> You feel an ominous presence  <<<": {
+    "translation": ">>> 你感觉到了啊米诺斯的存在  <<<"
+  },
+  ">>> Hold 15 Seconds <<<": {
+    "translation": ">>> 等待15秒 <<<"
+  },
+  ">>> Map by Moray and nano <<<": {
+    "translation": ">地图制作:Moray and nano 文本翻译:Lia<"
+  },
+  ">>> Updates by HOBGOBLIN and djinnz <<<": {
+    "translation": ">>由HOBGOBLIN与djinnz后续更新<<"
+  },
+  ">>>[Admin] Stage 5 Activated <<<": {
+    "translation": ">> [管理员] 已设置至 第五关 >>"
+  },
+  ">>>[Admin] Stage 3 Activated <<<": {
+    "translation": ">> [管理员] 已设置至 第三关 >>"
+  },
+  ">>>[Admin] Stage 4 Activated <<<": {
+    "translation": ">> [管理员] 已设置至 第四关 >>"
+  },
+  ">>>[Admin] Stage 2 Activated <<<": {
+    "translation": ">> [管理员] 已设置至 第二关 >>"
+  },
+  ">>>[Admin] Stage 1 Activated <<<": {
+    "translation": ">> [管理员] 已设置至 第一关 >>"
+  },
+  ">>> Stage 1 <<<": {
+    "translation": ">> 第一关 <<"
+  },
+  ">>> Stage 2 <<<": {
+    "translation": ">> 第二关 <<"
+  },
+  ">>> Stage 3 <<<": {
+    "translation": ">> 第三关 <<"
+  },
+  ">>> Stage 4 <<<": {
+    "translation": ">> 第四关 <<"
+  },
+  ">>> Stage 5 <<<": {
+    "translation": ">> 第五关 <<"
+  },
+  "*** Right Door Opening in 15 Seconds ***": {
+    "translation": ">> 右边门还有15秒打开 >>"
+  },
+  "*** Left Door Opening in 15 Seconds ***": {
+    "translation": ">> 左边门还有15秒打开 >>"
+  },
+  "*** Left Door Opening in 20 Seconds ***": {
+    "translation": ">> 左边门还有20秒打开 >>"
+  },
+  "*** Middle Door Opening in 20 Seconds ***": {
+    "translation": ">> 中间门还有20秒打开 >>"
+  },
+  ">>> Hold 30 Seconds <<<": {
+    "translation": ">> 还有30秒 >>"
+  },
+  ">>> AFK Teleport 10 Seconds <<<": {
+    "translation": ">>AFK传送还有10秒<<"
+  },
+  ">>> Hold 25 Seconds <<<": {
+    "translation": ">还有25秒<"
+  },
+  ">>> AFK Teleport in 10 Seconds <<<": {
+    "translation": "> AFK传送还有10秒 <"
+  },
+  ">>> Something lurks in the water... <<<": {
+    "translation": ">> 有东西隐藏在水里 >>"
+  },
+  ">>> Hold 20 Seconds <<<": {
+    "translation": ">> 等待20秒 >>"
+  },
+  ">>> Hold 10 Seconds <<<": {
+    "translation": ">> 等待10秒 >>"
+  },
+  ">>> Door Closing in 15 Seconds <<<": {
+    "translation": ">> 门还有15秒关闭 >>"
+  },
+  ">>>[Admin] Shade Staff Unlocked <<<": {
+    "translation": ">> [管理员] 暗影已解锁 >>"
+  },
+  ">>>[Admin] Bible Unlocked <<<": {
+    "translation": ">> [管理员] 圣经已解锁 >>"
+  },
+  ">>>[Admin] Sacred Staff Unlocked <<<": {
+    "translation": ">> [管理员] 暗影已解锁 >>"
+  },
+  ">>>[Admin] Ballista Unlocked <<<": {
+    "translation": ">> [管理员] 弩炮已解锁 >>"
+  },
+  ">>>[Admin] Ammo Unlocked <<<": {
+    "translation": ">> [管理员] 弹药已解锁 >>"
+  },
+  ">>> ZM TP IN 15 SECONDS <<<": {
+    "translation": ">> 僵尸将在15秒后传送 >>"
+  },
+  ">>> Dragon is Coming <<<": {
+    "translation": ">> 龙 来了 >>"
+  },
+  ">>> Round Failed <<<": {
+    "translation": ">> 回合失败 >>"
+  },
+  ">>> Stage 5 Completed <<<": {
+    "translation": ">> 已完成 第五关 <<"
+  },
+  ">>> Stage 4 Completed <<<": {
+    "translation": ">> 已完成 第四关 <<"
+  },
+  ">>> Stage 3 Completed <<<": {
+    "translation": ">> 已完成 第三关 <<"
+  },
+  ">>> Stage 2 Completed <<<": {
+    "translation": ">> 已完成 第二关 <<"
+  },
+  ">>> Stage1 Completed <<<": {
+    "translation": ">> 已完成 第一关 <<"
+  },
+  ">>> Spider has been Defeated <<<": {
+    "translation": ">>蜘蛛 已被击杀<<"
+  },
+  ">>> Dragon has been Defeated <<<": {
+    "translation": ">>龙 已被击杀<<"
+  },
+  ">>> Angra has been Defeated <<<": {
+    "translation": ">>安哥拉 已被击杀<<"
+  },
+  ">>> Diablo has been Defeated <<<": {
+    "translation": ">>迪亚布罗 已被击杀<<"
+  },
+  ">>> Troll has been Defeated <<<": {
+    "translation": ">>巨魔 已被击杀<<"
+  },
+  ">>> Gargantua has been Defeated <<<": {
+    "translation": ">>泰坦 已被击杀<<"
+  },
+  ">>> Spider is Coming <<<": {
+    "translation": ">>蜘蛛 来了<<"
+  },
+  ">>> Hold 40 Seconds <<<": {
+    "translation": ">>等待 40秒<<"
+  },
+  ">>> Hold 35 Seconds <<<": {
+    "translation": ">>等待 35秒<<"
+  },
+  "*** Library Route Opened ***": {
+    "translation": "图书馆 已开放"
+  },
+  "*** Meeting Room Route Opened ***": {
+    "translation": "会客厅 已开放"
+  },
+  ">>> The water tremors... <<<": {
+    "translation": ">> 水面在震动 >>"
+  },
+  ">>> SHOOT!!! <<<": {
+    "translation": ">>射击!!<<"
+  },
+  ">>> Fall Back <<<": {
+    "translation": ">>撤退!!<<"
+  },
+  ">>> Don't Delay <<<": {
+    "translation": ">> 不要浪费时间 <<"
+  },
+  ">>> 5 Seconds Left <<<": {
+    "translation": ">>> 5 Seconds Left <<<",
+    "blocked": true
+  },
+  ">>> 10 Seconds Left <<<": {
+    "translation": ">>还有10秒<<"
+  },
+  ">>> Hold 5 Seconds <<<": {
+    "translation": ">> 还有5秒 >>"
+  },
+  ">>> AFK Teleport in 5 Seconds <<<": {
+    "translation": ">> AFK传送还有5秒 >>"
+  },
+  ">>> Rakiora is Coming <<<": {
+    "translation": ">>拉克奥拉 来了<<"
+  },
+  ">>> Zombies Teleport in 10 Seconds <<<": {
+    "translation": ">> 僵尸传送还有10秒 >>"
+  },
+  ">>> Gargantua is Coming <<<": {
+    "translation": ">>泰坦 来了<<"
+  },
+  ">>> Troll is Coming <<<": {
+    "translation": ">>巨魔 来了<<"
+  },
+  ">>> Hold 30 Seconds  <<<": {
+    "translation": ">> 等待30秒 >>"
+  },
+  ">>> DIABLO DEEMS YOUR SACRIFICE WORTHY <<<": {
+    "translation": ">>> DIABLO DEEMS YOUR SACRIFICE WORTHY <<<",
+    "blocked": true
+  },
+  ">>> TRUE ENDING ENABLED <<<": {
+    "translation": ">> 真实结局 >>"
+  },
+  ">>> SECRET EASTER EGG COMPLETED <<<": {
+    "translation": ">> 分支任务已完成 >>"
+  },
+  ">>> Zombie Teleport in 10 Seconds <<<": {
+    "translation": ">> 僵尸传送还有10秒< <"
+  }
+}
