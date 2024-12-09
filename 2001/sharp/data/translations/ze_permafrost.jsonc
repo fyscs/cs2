@@ -1,0 +1,160 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** LAST LIFT MOVING IN 15 SECONDS **": {
+    "translation": "最后的电梯15秒后启动"
+  },
+  "** DOOR OPENS IN 20 SECONDS **": {
+    "translation": "门将在20秒后开启"
+  },
+  "** DOOR OPENING IN 10 SECONDS **": {
+    "translation": "门将在10秒后开启"
+  },
+  "** ZM PUSH DISABLING IN 10 SECONDS **": {
+    "translation": "ZM PUSH 将在10秒后失效"
+  },
+  "** ICE STONE HAS BEEN PICKED UP **": {
+    "translation": "<< [冰石] 已被拾起 <<"
+  },
+  "** BLUE FIRE HAS BEEN PICKED UP **": {
+    "translation": "<< [蓝火] 已被拾起 <<"
+  },
+  "** ICE HAS BEEN PICKED UP **": {
+    "translation": "<< [冰锋] 已被拾起 <<"
+  },
+  "** GG **": {
+    "translation": ">> 游戏结束 <<"
+  },
+  "** DOOR OPENING IN 20 SECONDS **": {
+    "translation": "门将在20秒后开启"
+  },
+  "** ZOMBIES GOT ON PLATFORM **": {
+    "translation": "<< 僵尸上来了 <<"
+  },
+  "** ROUND FAILED **": {
+    "translation": "<< 回合失败 <<"
+  },
+  "** LIFT MOVING IN 25 SECONDS **": {
+    "translation": "电梯将在25秒后启动"
+  },
+  "** DOOR OPENING IN 25 SECONDS **": {
+    "translation": "门将在25秒后开启"
+  },
+  "** LIFT MOVING IN 20 SECONDS **": {
+    "translation": "电梯将在20秒后启动"
+  },
+  "** DOOR OPENS IN 30 SECONDS **": {
+    "translation": "门将在30秒后开启"
+  },
+  "** FIRST DOOR WILL OPEN IN 25 SECONDS **": {
+    "translation": "第一扇门25秒后打开"
+  },
+  "** DOOR OPENS IN 25 SECONDS **": {
+    "translation": "门还有25秒打开"
+  },
+  "** HEAL HAS BEEN PICKED UP **": {
+    "translation": "<< [治疗] 已被拾起 <<"
+  },
+  "** ZOMBIE HEAL HAS BEEN PICKED UP **": {
+    "translation": "<< [ZM治疗] 已被拾取<<"
+  },
+  "** ZOMBIE GRAVITY HAS BEEN PICKED UP **": {
+    "translation": "<< [ZM黑洞] 已被拾取<<"
+  },
+  "** ZOMBIE FREEZEBALL HAS BEEN PICKED UP **": {
+    "translation": "<< [ZM减速] 已被拾取<<"
+  },
+  "** DOORS OPENING IN 20 SECONDS **": {
+    "translation": "门将在20秒后开启"
+  },
+  "** DOOR OPENS IN 15 SECONDS **": {
+    "translation": "门将在15秒后开启"
+  },
+  "** BOSS DOOR OPENS IN 20 SECONDS **": {
+    "translation": "BOSS之门将在20秒后开启"
+  },
+  "** DUNGEON DOOR OPEN IN 10 SECONDS **": {
+    "translation": "地牢的门将在10秒后开启"
+  },
+  "** ZM TP ENABLING IN 5 SECONDS **": {
+    "translation": "ZM传送将在5秒后开启"
+  },
+  "** DEFEND HERE FOR 15 SECONDS **": {
+    "translation": "在这里防守15秒"
+  },
+  "** DOOR OPENING IN 15 SECONDS **": {
+    "translation": "门将在15秒后开启"
+  },
+  "** RUN BACK FAST **": {
+    "translation": "快跑!!"
+  },
+  "** IT'S NOT OVER YET **": {
+    "translation": ">> 还没结束 >>"
+  },
+  "** THE DRAGON IS COMING BACK IN 10 SECONDS **": {
+    "translation": "龙将在10秒后回归"
+  },
+  "** KILL HIM ONCE AGAIN **": {
+    "translation": "再次击败它!!!"
+  },
+  "** BOSS CAN NOW DO ATTACK COMBOS **": {
+    "translation": "BOSS现在可以使用连击Combo"
+  },
+  "** BRIDGE COLLAPSING IN 30 SECONDS **": {
+    "translation": "桥梁将在30秒后坍塌"
+  },
+  "** BOSS DOOR OPENING IN 20 SECONDS **": {
+    "translation": "BOSS之门将在20秒后开启"
+  },
+  "** THE DRAGON CAME BACK **": {
+    "translation": "龙回来了"
+  },
+  "** THE DRAGON HAS REACHED THE END **": {
+    "translation": "<< 到此为止 <<"
+  },
+  "** THE DRAGON HAS BEEN DEFEATED **": {
+    "translation": "龙已被击败!!"
+  },
+  "** GET ON THE LAST PLATFORM BEFORE BRIDGES COLLAPSE **": {
+    "translation": "在桥梁坍塌前赶到终点去"
+  },
+  "** 40 SECONDS LEFT **": {
+    "translation": "剩余40秒"
+  },
+  "** HUMAN ITEMS DISABLED **": {
+    "translation": ">> 人类神器已禁用 <<"
+  },
+  "** STAGE 4 SET AS NEXT STAGE **": {
+    "translation": "[管理员] 设定关卡至 四"
+  },
+  "** STAGE 3 SET AS NEXT STAGE **": {
+    "translation": "[管理员] 设定关卡至 三"
+  },
+  "** STAGE 2 SET AS NEXT STAGE **": {
+    "translation": "[管理员] 设定关卡至 二"
+  },
+  "** STAGE 1 SET AS NEXT STAGE **": {
+    "translation": "[管理员] 设定关卡至 一"
+  },
+  "** HARDMODE ENABLED **": {
+    "translation": ">> [困难模式] 已启用 >>"
+  },
+  "** GOOD LUCK **": {
+    "translation": ">> 祝你们好运 >>"
+  },
+  "** CHECKPOINT REACHED **": {
+    "translation": ">>>> 已抵达检查点 >>>>"
+  },
+  "** HARDMODE ENABLED FOR NEXT STAGE **": {
+    "translation": "[困难模式] 将于下回合启用"
+  }
+}
