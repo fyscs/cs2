@@ -1,0 +1,88 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<!> バリケードを破壊 -- Destroying the barricade 30 sec <!>": {
+    "translation": "距离路障摧毁还剩30秒<!>"
+  },
+  "<!> バリケードを破壊 -- Destroying the barricade 10 sec <!>": {
+    "translation": "距离路障摧毁还剩10秒 <!>"
+  },
+  "<!> バリケードを破壊 -- Destroying the barricade 40 sec <!>": {
+    "translation": "距离路障摧毁还剩40秒 <!>"
+  },
+  "<!> ドアを開く -- Open the door 30 sec <!>": {
+    "translation": "门将在30秒后开启 <!>"
+  },
+  "<!> ドアを開く -- Open the door 10 sec <!>": {
+    "translation": "门将在30秒后开启 <!>"
+  },
+  "<!> 最後の防衛だ -- This is the last defense 40 sec <!>": {
+    "translation": "这是最后の防守!守住这40秒 <!>"
+  },
+  "<!> 最後の防衛だ -- This is the last defense 10 sec <!>": {
+    "translation": "最后の防守!守住这40秒 <!>"
+  },
+  "<!> 人間たちは脱出した -- The humans escaped <!>": {
+    "translation": " 干的漂亮,我们成功逃了出去 <!>"
+  },
+  "<!> ゾンビが入ってきた！ -- Zombies or entered the elevator! <!>": {
+    "translation": "僵尸进入了电梯! <!>"
+  },
+  "<!> 古びたレコードを再生した <!>": {
+    "translation": "<!> 旧唱片在播放 <!>"
+  },
+  "<!> Music : Awake <!>": {
+    "translation": "<!> 正在播放:Awake <!>"
+  },
+  "<!> Music : Aquarius <!>": {
+    "translation": "<!> 正在播放:Aquarius <!>"
+  },
+  "\"幽霊少女 :\"": {
+    "translation": "\"幽灵少女:\""
+  },
+  "\"「いつからここにいるのか分からない...」\"": {
+    "translation": "\"「不知道从何时开始在这里...」\""
+  },
+  "\"「私がなぜ死んでいるのかも分からない...」\"": {
+    "translation": "\"「我也不知道我为什么会死...」\""
+  },
+  "\"「一つ分かることと言えば...」\"": {
+    "translation": "\"「要说明白一点的话...」\""
+  },
+  "\"「渡木トンネルへ行かなければならないということ...」\"": {
+    "translation": "\"「那就是必须要去渡木隧道...」\""
+  },
+  "\"「そこに私を知るための何かがあるかもしれないから...」\"": {
+    "translation": "\"「因为那里也许有为了了解我而存在的东西...」\""
+  },
+  "\"「この場所は療養所...」\"": {
+    "translation": "\"「这个地方是疗养院...」\""
+  },
+  "\"「なぜだかここにいると落ち着くような...」\"": {
+    "translation": "\"「不知道为什么只要在这里心就会平静下来...」\""
+  },
+  "\"「古い防空壕...」\"": {
+    "translation": "\"「古老的防空洞...」\""
+  },
+  "\"「私には辺りが燃えているように感じる...」\"": {
+    "translation": "\"「周围是起火了吗...」\""
+  },
+  "\"「ここは何かの儀式場...？」\"": {
+    "translation": "\"「这里是什么仪式场...?」\""
+  },
+  "\"「ここからトンネルへ行けるかもしれない...」\"": {
+    "translation": "\"「也许从这里可以通往渡木隧道...」\""
+  },
+  "<!> バリケードを破壊 -- Destroying the barricade 15 sec <!>": {
+    "translation": "距离路障摧毁还剩15秒 <!>"
+  }
+}
