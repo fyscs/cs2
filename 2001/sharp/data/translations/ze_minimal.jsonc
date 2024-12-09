@@ -1,0 +1,86 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "| Zombie slow |": {
+    "translation": "<< [ZM] 减速球 <<"
+  },
+  "| Human slow |": {
+    "translation": "<< [HM] 减速 <<"
+  },
+  "| Human ammo |": {
+    "translation": "<< [HM] 弹药补给 <<"
+  },
+  "| Zombie fireball |": {
+    "translation": "<< [ZM] 火球 <<"
+  },
+  "| Zombie freezeball |": {
+    "translation": "<< [ZM] 寒冰 <<"
+  },
+  "| Zombie ring |": {
+    "translation": "<< [ZM] 秒杀 <<"
+  },
+  "| Human freezer |": {
+    "translation": "<< [HM] 冰冻 <<"
+  },
+  "| Human laser wall |": {
+    "translation": "<< [HM] 激光墙 <<"
+  },
+  "| Zombie heal|speed |": {
+    "translation": "<< [ZM] 恢复 <<"
+  },
+  "| Zombie gravity |": {
+    "translation": "<< [ZM] 引力 <<"
+  },
+  "| Human gravity |": {
+    "translation": "<< [HM] 黑洞 <<"
+  },
+  "| Human push |": {
+    "translation": "<< [HM] 推力 <<"
+  },
+  "| 5 |": {
+    "translation": "还有5秒",
+    "blocked": true
+  },
+  "| 10 |": {
+    "translation": "还有10秒"
+  },
+  "| 20 |": {
+    "translation": "还有20秒"
+  },
+  "| 15 |": {
+    "translation": "还有15秒"
+  },
+  "| 30 |": {
+    "translation": "还有30秒"
+  },
+  "| 25 |": {
+    "translation": "还有25秒"
+  },
+  "| WARMUP ROUND |": {
+    "translation": "| 热身回合 |"
+  },
+  "| Cyan |": {
+    "translation": "| 第一关 |"
+  },
+  "| Loading simulation.. |": {
+    "translation": "| 正在载入.. |"
+  },
+  "| Green |": {
+    "translation": "| 第二关 |"
+  },
+  "| Purple |": {
+    "translation": "| 第三关 |"
+  },
+  "| Blue |": {
+    "translation": "| 第四关 |"
+  }
+}

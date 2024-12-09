@@ -1301,6 +1301,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_minimal": {
+    "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 550,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
   "ze_mirrors_edge_reborn_p": {
     "certainTimes": [-1],
     "price": 300,
