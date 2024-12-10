@@ -22,68 +22,14 @@
 
 [
   {
-    "name": "火箭炮",
-    "shortName": "火箭",
+    "name": "Music",
+    "shortName": "Music",
     "buttonClass": "func_button",
-    "hammerId": "3481",
-    "cooldown": 7,
+    "hammerId": "41",
+    "cooldown": 120,
     "team": 3,
     "knife": false,
     "mode": 2,
-    "count": 2
-  },
-  {
-    "name": "激光炮",
-    "shortName": "激光",
-    "buttonClass": "func_button",
-    "hammerId": "3518",
-    "team": 3,
-    "knife": false,
-    "mode": 0,
-    "count": 2
-  },
-  {
-    "name": "米尼岗",
-    "shortName": "机枪",
-    "buttonClass": "func_button",
-    "hammerId": "3589",
-    "containerId": "3601",
-    "team": 3,
-    "knife": false,
-    "mode": 0,
-    "count": 2
-  },
-  {
-    "name": "推力枪",
-    "shortName": "推力",
-    "buttonClass": "func_button",
-    "hammerId": "3706",
-    "team": 3,
-    "knife": false,
-    "mode": 0,
-    "count": 5
-  },
-  {
-    "name": "治疗包",
-    "shortName": "治疗",
-    "buttonClass": "func_button",
-    "hammerId": "830",
-    "cooldown": 0,
-    "team": 3,
-    "maxUses": 1,
-    "knife": false,
-    "mode": 3,
-    "count": 8
-  },
-  {
-    "name": "加速",
-    "shortName": "加速",
-    "buttonClass": "func_button",
-    "hammerId": "547",
-    "team": 3,
-    "knife": false,
-    "mode": 0,
-    "hud": false,
-    "count": 30
+    "count": 1
   }
 ]

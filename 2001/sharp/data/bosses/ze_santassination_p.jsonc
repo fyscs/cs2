@@ -34,7 +34,7 @@
     {
       "target": "bosss_hp2",
       "display": "灼眼尊者",
-      "hitbox": "boss_t_model"
+      "hitbox": "bosss_hp2"
     }
   ],
   "Monsters": [

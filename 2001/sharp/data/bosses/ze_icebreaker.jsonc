@@ -22,32 +22,36 @@
 {
   "Counters": [
     {
-      "iterator": "boss_health_main",
-      "mass": 90,
-      "counter": "boss_healthcount",
-      "hitbox": "boss_physbox",
-      "display": "Ball⑥"
+      "iterator": "1_turret_hp",
+      "hitbox": "1_Turret_hitbox",
+      "display": "Turret1"
     },
     {
-      "iterator": "stage2_track_counter",
-      "hitbox": "stage2_track_breakable",
-      "display": "Ball②"
-    },
-    {
-      "iterator": "s5_sphere_boss_counter",
-      "hitbox": "s5_sphereboss_breakables",
-      "display": "Ball⑤"
-    },
-    {
-      "iterator": "stage2_track_counter",
-      "hitbox": "stage2_track_breakable",
-      "display": "Yellow"
+      "iterator": "math_hp_capsule",
+      "hitbox": "ball_turret",
+      "display": "Ball"
     }
   ],
   "Monsters": [
     {
-      "identity": "4471",
-      "display": "Purple"
+      "identity": "17914",
+      "display": "Helicopter"
+    },
+    {
+      "identity": "17545",
+      "display": "MG5000"
+    },
+    {
+      "identity": "541",
+      "display": "Turret"
+    },
+    {
+      "identity": "1485",
+      "display": "Heli"
+    },
+    {
+      "identity": "18117",
+      "display": "Ball"
     }
   ]
 }

@@ -22,68 +22,61 @@
 
 [
   {
-    "name": "火箭炮",
-    "shortName": "火箭",
+    "name": "弹药",
+    "shortName": "弹药",
     "buttonClass": "func_button",
-    "hammerId": "3481",
-    "cooldown": 7,
+    "hammerId": "5131",
+    "cooldown": 80,
     "team": 3,
     "knife": false,
     "mode": 2,
-    "count": 2
+    "count": 1
   },
   {
-    "name": "激光炮",
-    "shortName": "激光",
-    "buttonClass": "func_button",
-    "hammerId": "3518",
-    "team": 3,
-    "knife": false,
-    "mode": 0,
-    "count": 2
-  },
-  {
-    "name": "米尼岗",
-    "shortName": "机枪",
-    "buttonClass": "func_button",
-    "hammerId": "3589",
-    "containerId": "3601",
-    "team": 3,
-    "knife": false,
-    "mode": 0,
-    "count": 2
-  },
-  {
-    "name": "推力枪",
-    "shortName": "推力",
-    "buttonClass": "func_button",
-    "hammerId": "3706",
-    "team": 3,
-    "knife": false,
-    "mode": 0,
-    "count": 5
-  },
-  {
-    "name": "治疗包",
+    "name": "治疗",
     "shortName": "治疗",
     "buttonClass": "func_button",
-    "hammerId": "830",
-    "cooldown": 0,
+    "hammerId": "5105",
+    "cooldown": 60,
     "team": 3,
-    "maxUses": 1,
     "knife": false,
-    "mode": 3,
-    "count": 8
+    "mode": 2,
+    "count": 1
   },
   {
-    "name": "加速",
+    "name": "恐怖老人",
+    "shortName": "恐怖老人",
+    "buttonClass": "func_button",
+    "hammerId": "1436",
+    "triggerId": ["1434"],
+    "cooldown": 30,
+    "team": 3,
+    "knife": true,
+    "mode": 3,
+    "count": 1
+  },
+  {
+    "name": "疫医",
+    "shortName": "疫医",
+    "buttonClass": "func_button",
+    "hammerId": "1321",
+    "triggerId": ["1319"],
+    "cooldown": 60,
+    "team": 2,
+    "knife": true,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "TheShy",
     "shortName": "加速",
     "buttonClass": "func_button",
-    "hammerId": "547",
-    "team": 3,
-    "knife": false,
-    "mode": 0,
-    "hud": false,
-    "count": 30
+    "hammerId": "1329",
+    "triggerId": ["1327"],
+    "cooldown": 100,
+    "team": 2,
+    "knife": true,
+    "mode": 2,
+    "count": 1
   }
 ]

@@ -20,34 +20,22 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Counters": [
+  "Breakables": [
     {
-      "iterator": "boss_health_main",
-      "mass": 90,
-      "counter": "boss_healthcount",
-      "hitbox": "boss_physbox",
-      "display": "Ball⑥"
+      "target": "Rat_Breakable",
+      "display": "老鼠"
     },
     {
-      "iterator": "stage2_track_counter",
-      "hitbox": "stage2_track_breakable",
-      "display": "Ball②"
+      "target": "Rat_Physbox",
+      "display": "老鼠"
     },
     {
-      "iterator": "s5_sphere_boss_counter",
-      "hitbox": "s5_sphereboss_breakables",
-      "display": "Ball⑤"
+      "target": "Rat_Plank_Breakable",
+      "display": "老鼠"
     },
     {
-      "iterator": "stage2_track_counter",
-      "hitbox": "stage2_track_breakable",
-      "display": "Yellow"
-    }
-  ],
-  "Monsters": [
-    {
-      "identity": "4471",
-      "display": "Purple"
+      "target": "CounterBreakable",
+      "display":  "水表"
     }
   ]
 }

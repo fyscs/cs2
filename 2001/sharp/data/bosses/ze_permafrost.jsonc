@@ -22,32 +22,39 @@
 {
   "Counters": [
     {
-      "iterator": "boss_health_main",
-      "mass": 90,
-      "counter": "boss_healthcount",
-      "hitbox": "boss_physbox",
-      "display": "Ball⑥"
+      "iterator": "creta_Health",
+      "backup": "creta_HealthBackup",
+      "counter": "creta_HealthCount",
+      "hitbox": "creta_Hitbox",
+      "display": "Creta"
     },
     {
-      "iterator": "stage2_track_counter",
-      "hitbox": "stage2_track_breakable",
-      "display": "Ball②"
+      "iterator": "wwx_health",
+      "mass": 13,
+      "counter": "wwx_segment",
+      "hitbox": "wwx_boss_hitbox",
+      "display": "Boss"
     },
     {
-      "iterator": "s5_sphere_boss_counter",
-      "hitbox": "s5_sphereboss_breakables",
-      "display": "Ball⑤"
+      "iterator": "yzx_health",
+      "mass": 50,
+      "counter": "yzx_segment",
+      "hitbox": "yzx_dragon_hitbox",
+      "display": "Dragon"
     },
     {
-      "iterator": "stage2_track_counter",
-      "hitbox": "stage2_track_breakable",
-      "display": "Yellow"
-    }
-  ],
-  "Monsters": [
+      "iterator": "xwz_health",
+      "mass": 50,
+      "counter": "xwz_segment",
+      "hitbox": "xwz_boss_hitbox",
+      "display": "Boss"
+    },
     {
-      "identity": "4471",
-      "display": "Purple"
+      "iterator": "jzx_health",
+      "mass": 55,
+      "counter": "jzx_segment",
+      "hitbox": "jzx_boss_hitbox",
+      "display": "Boss"
     }
   ]
 }

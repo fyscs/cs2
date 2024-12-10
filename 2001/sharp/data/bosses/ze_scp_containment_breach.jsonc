@@ -22,32 +22,19 @@
 {
   "Counters": [
     {
-      "iterator": "boss_health_main",
-      "mass": 90,
-      "counter": "boss_healthcount",
-      "hitbox": "boss_physbox",
-      "display": "Ball⑥"
+      "iterator": "end_scp106_counter",
+      "hitbox": "end_scp106_phy",
+      "display": "SCP_106"
     },
     {
-      "iterator": "stage2_track_counter",
-      "hitbox": "stage2_track_breakable",
-      "display": "Ball②"
+      "iterator": "Boss_Health",
+      "hitbox": "Boss_Physbox",
+      "display": "Boss"
     },
     {
-      "iterator": "s5_sphere_boss_counter",
-      "hitbox": "s5_sphereboss_breakables",
-      "display": "Ball⑤"
-    },
-    {
-      "iterator": "stage2_track_counter",
-      "hitbox": "stage2_track_breakable",
-      "display": "Yellow"
-    }
-  ],
-  "Monsters": [
-    {
-      "identity": "4471",
-      "display": "Purple"
+      "iterator": "1048_counter",
+      "hitbox": "SCP1048A_break",
+      "display": "SCP_1048"
     }
   ]
 }

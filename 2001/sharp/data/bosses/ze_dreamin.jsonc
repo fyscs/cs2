@@ -22,32 +22,37 @@
 {
   "Counters": [
     {
-      "iterator": "boss_health_main",
-      "mass": 90,
-      "counter": "boss_healthcount",
-      "hitbox": "boss_physbox",
-      "display": "Ball⑥"
+      "iterator": "final_hp",
+      "hitbox": "final_hitbox",
+      "display": "Final"
     },
     {
-      "iterator": "stage2_track_counter",
-      "hitbox": "stage2_track_breakable",
-      "display": "Ball②"
+      "iterator": "st3_hp",
+      "hitbox": "st3_hitbox",
+      "display": "Loom"
     },
     {
-      "iterator": "s5_sphere_boss_counter",
-      "hitbox": "s5_sphereboss_breakables",
-      "display": "Ball⑤"
+      "iterator": "hpcounter2",
+      "mass": 50,
+      "counter": "HPCounterIterator2",
+      "hitbox": "boss_target",
+      "display": "Boss"
     },
     {
-      "iterator": "stage2_track_counter",
-      "hitbox": "stage2_track_breakable",
-      "display": "Yellow"
+      "iterator": "blade_hp",
+      "hitbox": "boss_target2",
+      "display": "Blade"
+    },
+    {
+      "iterator": "rtv_linelaser_count",
+      "hitbox": "rtv_linelaser_hp",
+      "display": "Dreamin"
     }
   ],
-  "Monsters": [
+  "Breakables": [
     {
-      "identity": "4471",
-      "display": "Purple"
+      "target": "st2_hitbox",
+      "display": "Boss"
     }
   ]
 }
