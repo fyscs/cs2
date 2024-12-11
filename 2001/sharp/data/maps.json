@@ -2127,6 +2127,13 @@
     "nomination": true,
     "admin": true
   },
+  "ze_tensor_of_ice": {
+    "certainTimes": [-1],
+    "price": 450,
+    "cooldown": 150,
+    "nomination": true,
+    "admin": false
+  },
   "ze_tesv_skyrim_i": {
     "certainTimes": [-1],
     "price": 1200,
