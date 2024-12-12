@@ -2048,7 +2048,7 @@
     "price": 500,
     "cooldown": 80,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_starwars_v2fix": {
     "certainTimes": [-1],
@@ -2181,7 +2181,7 @@
     "price": 550,
     "cooldown": 120,
     "nomination": true,
-    "admin": false
+    "admin": true
   },
   "ze_totemo_roka_p": {
     "certainTimes": [-1],

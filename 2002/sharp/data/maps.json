@@ -6,6 +6,13 @@
     "nomination": false,
     "admin": false
   },
+  "ttt_cs2_slender_slayers": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 20,
+    "nomination": false,
+    "admin": false
+  },
   "ttt_cs2_terminal": {
     "certainTimes": [-1],
     "price": 250,
