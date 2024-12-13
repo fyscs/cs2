@@ -2127,7 +2127,7 @@
     "nomination": true,
     "admin": true
   },
-  "ze_tensor_of_ice": {
+  "ze_tensor_of_ice_v1_1": {
     "certainTimes": [-1],
     "price": 450,
     "cooldown": 150,
