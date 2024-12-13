@@ -1,0 +1,244 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**The gate 1 will open in 30 seconds**": {
+    "translation": "**第一道门将在30秒后打开**"
+  },
+  "***The electricity in on. You can push the panels to open the gates***": {
+    "translation": "***电源接通了, 现在你可以打开大门.***"
+  },
+  "**THE ADMIN SET BLOWOUT. U GONNA DIE IN 20 SECONDS**": {
+    "translation": "**管理员按下了核爆，你将在20秒后死去.**"
+  },
+  "**ADMIN SET LEVEL 3 IN THE ADMIN ROOM**": {
+    "translation": "**管理员设置了关卡三**"
+  },
+  "**ADMIN SET LEVEL 2 IN THE ADMIN ROOM**": {
+    "translation": "**管理员设置了关卡二**"
+  },
+  "**ADMIN SET LEVEL 1 IN THE ADMIN ROOM**": {
+    "translation": "**管理员设置了关卡一**"
+  },
+  "**ADMIN SET LEVEL 4 IN THE ADMIN ROOM**": {
+    "translation": "**管理员设置了关卡四**"
+  },
+  "**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**": {
+    "translation": "**管理员设置了关卡五**"
+  },
+  "sm_c**UNKNOWN ARTEFACT** +50% COMPLETE": {
+    "translation": "未知人工制品增加百分之五十完成度"
+  },
+  "sm_c**UNKNOWN ARTEFACT**+50% COMPLETE": {
+    "translation": "未知人工制品增加百分之五十完成度"
+  },
+  "**This is a map based on the game STALKER**": {
+    "translation": "**这是一张基于<潜行者:切尔诺贝利>游戏制作的地图**"
+  },
+  "**The map isn't eazy. It needs good ZE skills and good teamplay**": {
+    "translation": "**这张地图并不简单, 它需要很好的ZE技巧和团队配合.**"
+  },
+  "<<<This is an error level, please contact the author>>>": {
+    "translation": "<<<这是一个错误关卡, 请联系地图作者Haryde & headshooter>>>"
+  },
+  "**Gate 1 will open in 8 seconds**": {
+    "translation": "**第一道门将在8秒后开放**"
+  },
+  "**Gate 2 will open in 8 seconds**": {
+    "translation": "**第二道门将在8秒后开放**"
+  },
+  "**Gate 3 will open in 8 seconds**": {
+    "translation": "**第三道门将在8秒后开放**"
+  },
+  "**Gate 4 will open in 8 seconds**": {
+    "translation": "**第四道门将在8秒后开放**"
+  },
+  "<< Level 1 >>": {
+    "translation": "**关卡一**"
+  },
+  "<< Level 2 >>": {
+    "translation": "**关卡二**"
+  },
+  "<< Level 3 >>": {
+    "translation": "**关卡三**"
+  },
+  "<< Level 4 >>": {
+    "translation": "**关卡四**"
+  },
+  "<< Level 5 >>": {
+    "translation": "**关卡五**"
+  },
+  "**Lab door 2 will open in 13 seconds**": {
+    "translation": "**实验室门②将在13秒后打开**"
+  },
+  "**Lab door 2 will open for zombies in 18 seconds**": {
+    "translation": "**实验室门②将在18秒后为僵尸开放**"
+  },
+  "**Lab door 1 will open in 11 seconds**": {
+    "translation": "**实验室门①将在11秒后打开**"
+  },
+  "**Lab door 1 will open for zombies in 18 seconds**": {
+    "translation": "**实验室门①将在18秒后打开**"
+  },
+  "**Hold this position for 5 seconds**": {
+    "translation": "**坚守阵地5秒**"
+  },
+  "**Hold for 10 seconds before the gates open**": {
+    "translation": "**10秒后门打开**"
+  },
+  "**The blowout will be in 65 seconds. Get to the bunker and defend it**": {
+    "translation": "**核爆将于65秒后到达,战士们活下去!**"
+  },
+  "**The door to the shelter won't open properly. We need to break it down**": {
+    "translation": "**避难所的门打不开,我们需要破坏它**"
+  },
+  "**Looks like there's a road behind this wall**": {
+    "translation": "**墙后面好像有路!**"
+  },
+  "<<Break this wall open with a hammer>>": {
+    "translation": "**用锤子把门砸开!**"
+  },
+  "**Hold the place for 25 seconds**": {
+    "translation": "**坚守阵地25秒**"
+  },
+  "**Wait for others for 5 more seconds**": {
+    "translation": "**再守5秒钟**"
+  },
+  "**Hold 25 seconds**": {
+    "translation": "**坚守阵地25秒**"
+  },
+  "**Zombie WIN**": {
+    "translation": "**僵尸阵营获胜**"
+  },
+  "**Hold them 25 seconds until door closes**": {
+    "translation": "**坚守25秒后门关闭**"
+  },
+  "**This is the last hold point**": {
+    "translation": "**这里是最后的守点**"
+  },
+  "** LEVEL COMPLETED!! **": {
+    "translation": "**关卡完成! ! !**"
+  },
+  "***Break the spheres to escape***": {
+    "translation": "***打碎这个球,快跑!!!***"
+  },
+  "<<<Thank you for playing !!!>>": {
+    "translation": "<<<感谢您的游玩! 作者:Haryde & headshooter 翻译:礼绮罗Reikira>>"
+  },
+  "The boss battle starts in ten seconds": {
+    "translation": "BOSS战将于10秒后开始"
+  },
+  "**OPENING THE GATES (15 SECONDS)**": {
+    "translation": "**15秒后打开闸门**"
+  },
+  "**THE LEVEL IS FAILED**": {
+    "translation": "**关卡失败**"
+  },
+  "**ZOMBIES MADE IT TO THE SECOND WAY**": {
+    "translation": "**僵尸进入了侧路**"
+  },
+  "**The documents are here!**": {
+    "translation": "**文件在这里!**"
+  },
+  "**We are too close!**": {
+    "translation": "**我们马上要胜利了!**"
+  },
+  "**Defend a bit**": {
+    "translation": "**再守一会!**"
+  },
+  "**The door will explode in a few seconds!**": {
+    "translation": "**门很快就会打开!**"
+  },
+  "**RUN RUN RUN!!!**": {
+    "translation": "**孩子们快跑!!!**"
+  },
+  "***Zombie WIN***": {
+    "translation": "**僵尸阵营获胜**"
+  },
+  "<<<It's too slow, it's about to explode here>>>": {
+    "translation": "**太慢了,这里马上要爆炸了**"
+  },
+  "**We should get out of here**": {
+    "translation": "**我们得尽快离开这里**"
+  },
+  "**The BloodSucker is dead.Run!**": {
+    "translation": "**吸血鬼已经死了,快跑!**"
+  },
+  "**GO INTO THE TELEPORTER***": {
+    "translation": "**快进电梯!!!***"
+  },
+  "**NOW WE ARE READY TO GO**": {
+    "translation": "**现在我们可以出发了**"
+  },
+  "**Take a break, find a few things and move on**": {
+    "translation": "**休息一下,找些物品再继续前进**"
+  },
+  "**The weather is getting worse and worse**": {
+    "translation": "**天气越来越差了...**"
+  },
+  "Ruby!!!": {
+    "translation": "Ruby!!!"
+  },
+  "**The door wil open in 10 seconds**": {
+    "translation": "**门将在10秒后打开**"
+  },
+  "**Wait a minute**": {
+    "translation": "**稍等一会**"
+  },
+  "**Get out of here**": {
+    "translation": "**离开这里！**"
+  },
+  "**Wait for the people in the back**": {
+    "translation": "**等一下后面的人**"
+  },
+  "**PLAY AS YOU CAN**": {
+    "translation": "**尽你所能**"
+  },
+  "**YOU HAVE FAILED**": {
+    "translation": "**你失败了**"
+  },
+  "**YOU ARE TOO CLOSE TO WIN**KEEP HOLDING**": {
+    "translation": "**坚持住, 马上就要大获全胜了!**"
+  },
+  "**HE IS DEAD!!NICE WORK!!**": {
+    "translation": "**他死了,干得好!**"
+  },
+  "**THEY WANT TO KILL US!! SHOOT AS U CAN!!!**": {
+    "translation": "**他想杀了我们,快点杀了它!**"
+  },
+  "**THE END TELEPORTER WILL OPEN SOON**": {
+    "translation": "**最后的电梯即将打开**"
+  },
+  "**DON'T LET HIM TO FAIL US!!**": {
+    "translation": "**别让他杀了我们**"
+  },
+  "**A player picked up spikeball**": {
+    "translation": "**一名玩家捡起了治愈.**"
+  },
+  "**A player picked up nightstar**": {
+    "translation": "**一名玩家捡起了减速.**"
+  },
+  "**A player picked up a piece of flesh**": {
+    "translation": "**一名玩家捡起了风.**"
+  },
+  "**Prototype N62 was picked up**": {
+    "translation": "**高斯枪已被捡起.**"
+  },
+  "**A player picked up fireball**": {
+    "translation": "**一名玩家捡起了火球.**"
+  },
+  "**A player picked up meatchunk**": {
+    "translation": "**一名玩家捡起了重力.**"
+  },
+  "**A player picked up flash**": {
+    "translation": "**一名玩家捡起了闪电风暴.**"
+  }
+}
