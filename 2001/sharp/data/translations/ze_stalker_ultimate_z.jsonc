@@ -17,7 +17,7 @@
     "translation": "***电源接通了, 现在你可以打开大门.***"
   },
   "**THE ADMIN SET BLOWOUT. U GONNA DIE IN 20 SECONDS**": {
-    "translation": "**管理员按下了核爆，你将在20秒后死去.**"
+    "translation": "**管理员按下了核爆, 你将在20秒后死去.**"
   },
   "**ADMIN SET LEVEL 3 IN THE ADMIN ROOM**": {
     "translation": "**管理员设置了关卡三**"
@@ -32,7 +32,7 @@
     "translation": "**管理员设置了关卡四**"
   },
   "**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**": {
-    "translation": "**管理员设置了关卡五**"
+    "translation": "**管理员设置了ZM关卡**"
   },
   "sm_c**UNKNOWN ARTEFACT** +50% COMPLETE": {
     "translation": "未知人工制品增加百分之五十完成度"
@@ -74,7 +74,7 @@
     "translation": "**关卡四**"
   },
   "<< Level 5 >>": {
-    "translation": "**关卡五**"
+    "translation": "**ZM关卡**"
   },
   "**Lab door 2 will open in 13 seconds**": {
     "translation": "**实验室门②将在13秒后打开**"
@@ -194,7 +194,7 @@
     "translation": "**稍等一会**"
   },
   "**Get out of here**": {
-    "translation": "**离开这里！**"
+    "translation": "**离开这里!**"
   },
   "**Wait for the people in the back**": {
     "translation": "**等一下后面的人**"
