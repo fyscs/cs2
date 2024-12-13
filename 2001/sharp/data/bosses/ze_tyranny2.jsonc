@@ -23,31 +23,45 @@
   "Monsters": [
     {
       "identity": "9685",
-      "display": "Spider"
+      "hitbox": "s1boss_hit",
+      "counter": "bosshp1",
+      "display": "蜘蛛女王"
     },
     {
       "identity": "10868",
-      "display": "Troll"
+      "hitbox": "s2boss_hit",
+      "counter": "bosshp1",
+      "display": "巨魔"
     },
     {
       "identity": "9594",
-      "display": "Dragon"
+      "hitbox": "s3boss_hit",
+      "counter": "bosshp1",
+      "display": "远古巨龙"
     },
     {
       "identity": "10837",
-      "display": "Gargantua"
+      "hitbox": "s4boss_hit",
+      "counter": "bosshp1",
+      "display": "怪兽"
     },
     {
       "identity": "10892",
-      "display": "Diablo"
+      "hitbox": "s5boss_hit",
+      "counter": "bosshp1",
+      "display": "暗黑破坏神"
     },
     {
       "identity": "9567",
-      "display": "Dragon"
+      "hitbox": "s5boss_angra_hit",
+      "counter": "bosshp1",
+      "display": "门神龙"
     },
     {
       "identity": "9399",
-      "display": "Diablo"
+      "hitbox": "s5boss_diablo_hit",
+      "counter": "bosshp1",
+      "display": "暗黑破坏神"
     }
   ]
 }
