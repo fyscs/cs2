@@ -20,7 +20,7 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Breakables": [
+  "Monsters": [
     {
       "identity": "1479",
       "display": "萨菲罗斯"
