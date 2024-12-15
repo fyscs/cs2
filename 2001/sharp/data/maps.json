@@ -907,7 +907,7 @@
     "price": 500,
     "cooldown": 100,
     "nomination": true,
-    "admin": false
+    "admin": true
   },
   "ze_hammer_bunker_part1": {
     "certainTimes": [-1],
