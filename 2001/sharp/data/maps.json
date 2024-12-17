@@ -994,6 +994,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_icebreaker": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 80,
+    "nomination": true,
+    "admin": false
+  },  
   "ze_ice_cavern_z": {
     "certainTimes": [-1],
     "price": 400,
