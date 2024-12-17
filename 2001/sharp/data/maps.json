@@ -1958,7 +1958,7 @@
     "price": 800,
     "cooldown": 120,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_silent_hill_3_flee": {
     "certainTimes": [-1],
