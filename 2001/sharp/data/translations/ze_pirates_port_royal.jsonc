@@ -53,7 +53,7 @@
     "translation": "*** 还剩10秒  ***"
   },
   "*** >>> RUN! <<< ***": {
-    "translation": "*** 撤退，快跑！ ***"
+    "translation": "*** 撤退,快跑! ***"
   },
   "*** >>> DOOR CLOSES IN 25 SEC <<< ***": {
     "translation": "*** 门25秒后关闭 ***"
@@ -80,13 +80,13 @@
     "translation": "*** 守住僵尸等待大炮射击黑珍珠号 ***"
   },
   "*** >>> RUN TO THE PRISON! <<< ***": {
-    "translation": "*** 快往监狱跑！ ***"
+    "translation": "*** 快往监狱跑! ***"
   },
   "*** >>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW *** ***": {
-    "translation": "*** 坚守监狱！！打碎铁门拯救杰克船长 ***"
+    "translation": "*** 坚守监狱!!打碎铁门拯救杰克船长 ***"
   },
   "*** >>> RUN TO THE BLACK PEARL <<< ***": {
-    "translation": "*** 往黑珍珠号上跑！ ***"
+    "translation": "*** 往黑珍珠号上跑! ***"
   },
   "*** >>> DEFEND THE BLACK PEARL 45 SECONDS! <<< ***": {
     "translation": "*** 坚守黑珍珠号45秒! ***"
@@ -188,10 +188,10 @@
     "translation": "*** 这是一个海盗!快弄了他 ***"
   },
   "*** >>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<< ***": {
-    "translation": "*** 使用手雷可以对海盗造成巨额伤害,炸飞他吧！ ***"
+    "translation": "*** 使用手雷可以对海盗造成巨额伤害,炸飞他吧! ***"
   },
   "*** >>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<< ***": {
-    "translation": "*** 他去世了，赶紧往宝藏室跑！***"
+    "translation": "*** 他去世了，赶紧往宝藏室跑!***"
   },
   "*** >>> HOLD ZOMBIES FOR 20 sec <<< ***": {
     "translation": "*** 抵御僵尸20秒等待藏宝室大门关闭***"
@@ -242,7 +242,7 @@
     "translation": "*** 坚守45秒等待大门打开***"
   },
   "*** >>> HOLD <<< ***": {
-    "translation": "*** 守住僵尸！***"
+    "translation": "*** 守住僵尸!***"
   },
   "*** >>> KRAKEN HAS USED WAVE TO CLEAR THE PATH <<< ***": {
     "translation": "*** 克拉肯吐了一口老坛清理道路***"
@@ -293,7 +293,7 @@
     "translation": "*** 巴博萨去世了***"
   },
   "*** >>> YOU HAVE WON THE MAP <<< ***": {
-    "translation": "*** 恭喜你们征服了这张地图，成为海贼王的男人！***"
+    "translation": "*** 恭喜你们征服了这张地图,成为海贼王的男人!***"
   },
   "*** BARBOSSA picked up ***": {
     "translation": "*** 警告: 一名僵尸已成为巴博萨! ***"
