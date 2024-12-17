@@ -11,7 +11,7 @@
 
 {
   "*A player became a SMN*": {
-    "translation": "*一位玩家获得了 SMN *"
+    "translation": "*一位玩家获得了 召唤 *"
   },
   "Warmup": {
     "translation": "热身回合"
@@ -42,5 +42,50 @@
   },
   "*A player acquires the Speed.*": {
     "translation": "*一位玩家习得了加速魔法.*"
+  },
+  "* Defend until the gates open 20s *": {
+    "translation": "*防守20秒*"
+  },
+  "* Defend until the gates open 30 *": {
+    "translation": "防守30秒"
+  },
+  "Defend until the gates open 25 *": {
+    "translation": "防守25秒"
+  },
+  "* Defend until the gates open 25s": {
+    "translation": "防守25秒"
+  },
+  "* Defend until the gates open 20 *": {
+    "translation": "防守20秒"
+  },
+  "* Defend until the gates open 32s *": {
+    "translation": "*防守32秒*"
+  },
+  "* Defend until the gates open 25s *": {
+    "translation": "防守25秒"
+  },
+  "* Defend until the gates open 22s *": {
+    "translation": "防守22秒"
+  },
+  "* Defend until the gates open 30s *": {
+    "translation": "防守30秒"
+  },
+  "* Defend until the gates open 15s *": {
+    "translation": "防守15秒"
+  },
+  "* Defend until the gates open 27s *": {
+    "translation": "防守27秒"
+  },
+  "*A player acquires the fire ice.*": {
+    "translation": "一位玩家习得了冰火魔法"
+  },
+  "< Map by runa&MercuryQaQ >": {
+    "translation": "< 地图作者:runa&MercuryQaQ  文本:Zeyu1>"
+  },
+  "< Special thanks to seth and 7ychu5 for their special effects support >": {
+    "translation": "< 特别鸣谢: seth and 7ychu5 特效支持 >"
+  },
+  "< Special thanks to Tenshi and Shana for their technical help >": {
+    "translation": "< 特别鸣谢: Tenshi and Shana 技术支持 >"
   }
 }
