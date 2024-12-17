@@ -20,7 +20,7 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Monsters": [
+  "Counters": [
     {
       "identity": "9685",
       "iterator": "bosshp1",
