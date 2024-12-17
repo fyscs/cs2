@@ -1,3 +1,4 @@
+
 {
   "ze_20_seconds_v1": {
     "certainTimes": [-1],
@@ -1657,6 +1658,13 @@
     "cooldown": 90,
     "nomination": true,
     "admin": false
+  },
+ "ze_pirates_port_roya": {
+   "certainTimes": [-1],
+   "price": 500,
+   "cooldown": 100,
+   "nomination": true,
+   "admin": false
   },
   "ze_platformer_p": {
     "certainTimes": [-1],
