@@ -1,5 +1,5 @@
 // entWatch configuration file generator.
-// EntWatch Version v22
+// EntWatch Version v21
 // Copyright 2024 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
@@ -21,10 +21,10 @@
 
 [
   {
-    "name": "治愈",
-    "shortName": "治愈",
+    "name": "夜星",
+    "shortName": "夜星",
     "buttonClass": "func_button",
-    "hammerId": "28320",
+    "hammerId": "28621",
     "cooldown": 55,
     "team": 3,
     "knife": false,
@@ -32,10 +32,32 @@
     "count": 1
   },
   {
-    "name": "减速",
-    "shortName": "减速",
+    "name": "高斯枪",
+    "shortName": "高斯枪",
     "buttonClass": "func_button",
-    "hammerId": "28338",
+    "hammerId": "28629",
+    "maxUses": 1,
+    "team": 3,
+    "knife": false,
+    "mode": 3,
+    "count": 1
+  },
+  {
+    "name": "火焰",
+    "shortName": "火焰",
+    "buttonClass": "func_button",
+    "hammerId": "28640",
+    "cooldown": 55,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "治愈",
+    "shortName": "治愈",
+    "buttonClass": "func_button",
+    "hammerId": "28661",
     "cooldown": 55,
     "team": 3,
     "knife": false,
@@ -46,42 +68,8 @@
     "name": "风",
     "shortName": "风",
     "buttonClass": "func_button",
-    "hammerId": "28347",
+    "hammerId": "28677",
     "cooldown": 55,
-    "team": 3,
-    "knife": false,
-    "mode": 2,
-    "count": 1
-  },
-  {
-    "name": "高斯枪",
-    "shortName": "手炮",
-    "buttonClass": "func_button",
-    "hammerId": "28363",
-    "cooldown": 5,
-    "maxUses": 4,
-    "team": 3,
-    "knife": false,
-    "mode": 4,
-    "count": 1
-  },
-  {
-    "name": "火球",
-    "shortName": "火球",
-    "buttonClass": "func_button",
-    "hammerId": "28373",
-    "cooldown": 55,
-    "team": 3,
-    "knife": false,
-    "mode": 2,
-    "count": 1
-  },
-  {
-    "name": "火焰",
-    "shortName": "火焰",
-    "buttonClass": "func_button",
-    "hammerId": "28390",
-    "cooldown": 25,
     "team": 3,
     "knife": false,
     "mode": 2,
@@ -91,8 +79,8 @@
     "name": "重力",
     "shortName": "重力",
     "buttonClass": "func_button",
-    "hammerId": "28397",
-    "cooldown": 60,
+    "hammerId": "28704",
+    "cooldown": 15,
     "team": 3,
     "knife": false,
     "mode": 2,
@@ -100,10 +88,32 @@
   },
   {
     "name": "闪电风暴",
-    "shortName": "终极",
+    "shortName": "闪电风暴",
     "buttonClass": "func_button",
-    "hammerId": "28419",
+    "hammerId": "28737",
     "cooldown": 100,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "脑波怪",
+    "shortName": "脑波怪",
+    "buttonClass": "func_button",
+    "hammerId": "28910",
+    "cooldown": 60,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "吸血鬼",
+    "shortName": "吸血鬼",
+    "buttonClass": "func_button",
+    "hammerId": "28924",
+    "cooldown": 45,
     "team": 3,
     "knife": false,
     "mode": 2,
