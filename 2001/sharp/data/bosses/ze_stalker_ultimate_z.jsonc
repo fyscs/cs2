@@ -20,53 +20,53 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Monsters": [
+  "Counters": [
     {
       "identity": "23083",
+      "iterator": "Boss_HP",
       "hitbox": "Mob_Hitbox",
-      "counter": "Boss_HP",
       "display": "蓝色光球"
     },
     {
       "identity": "22946",
       "hitbox": "BloodSucker_Hitbox",
-      "counter": "Boss_HP",
+      "iterator": "Boss_HP",
       "display": "吸血鬼"
     },
     {
       "identity": "13107",
       "hitbox": "boss3_break",
-      "counter": "Boss_HP",
+      "iterator": "Boss_HP",
       "display": "橘色光球"
     },
     {
       "identity": "28036",
       "hitbox": "Lvl3_End_Boss_HitBox",
-      "counter": "Lvl3_End_Boss_HP",
+      "iterator": "Lvl3_End_Boss_HP",
       "display": "光球"
     },
     {
       "identity": "28241",
       "hitbox": "Lvl4_Boss_1_HitBox",
-      "counter": "Lvl4_Boss_1_HP",
+      "iterator": "Lvl4_Boss_1_HP",
       "display": "一阶段吸血鬼"
     },
     {
       "identity": "28215",
       "hitbox": "Lvl4_Boss_2_Hitbox",
-      "counter": "Lvl4_Boss_2_HP",
+      "iterator": "Lvl4_Boss_2_HP",
       "display": "二阶段吸血鬼"
     },
     {
       "identity": "27906",
       "hitbox": "Lvl4_End_Boss_1_HitBox",
-      "counter": "Lvl4_End_Boss_1_HP",
+      "iterator": "Lvl4_End_Boss_1_HP",
       "display": "一阶段光球"
     },
     {
       "identity": "27969",
       "hitbox": "Lvl4_End_Boss_2_HitBox",
-      "counter": "Lvl4_End_Boss_2_Laser_HP",
+      "iterator": "Lvl4_End_Boss_2_Laser_HP",
       "display": "二阶段光球"
     }
   ]
