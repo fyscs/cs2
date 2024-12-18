@@ -1,0 +1,46 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> 40秒后集体传送 <<<": {
+    "translation": ">>> 40秒后集体传送 <<<"
+  },
+  ">>> 10秒后断桥 <<<": {
+    "translation": ">>> 10秒后断桥 <<<"
+  },
+  ">>> 10秒后集体传送 <<<": {
+    "translation": ">>> 10秒后集体传送 <<<"
+  },
+  ">>> 5秒后集体传送 <<<": {
+    "translation": ">>> 5秒后集体传送 <<<"
+  },
+  ">>> 60秒后断桥 <<<": {
+    "translation": ">>> 60秒后断桥 <<<"
+  },
+  ">>> 尸笼15秒后释放 <<<": {
+    "translation": ">>> 尸笼15秒后释放 <<<"
+  },
+  ">>> 30秒集体传送 <<<": {
+    "translation": ">>> 30秒集体传送 <<<"
+  },
+  ">>> 防守60秒后人类传送 <<<": {
+    "translation": ">>> 防守60秒后人类传送 <<<"
+  },
+  ">>> 10秒后开始传送 <<<": {
+    "translation": ">>> 10秒后开始传送 <<<"
+  },
+  ">>> 作者 Mapper：港村村长 <<<": {
+    "translation": ">>> 作者 Mapper:港村村长 <<<"
+  },
+  ">>> 移植 Port：凯尔希的老公 <<<": {
+    "translation": ">>> 移植 Port:凯尔希的老公 <<<"
+  }
+}
