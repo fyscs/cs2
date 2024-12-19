@@ -22,6 +22,17 @@
 
 [
   {
+    "name": "治疗",
+    "shortName": "治疗",
+    "buttonClass": "func_physbox",
+    "hammerId": "19424",
+    "team": 3,
+    "knife": false,
+    "maxUses": 1,
+    "mode": 3,
+    "count": 2
+  },
+  {
     "name": "外星装置",
     "shortName": "装置",
     "buttonClass": "func_physbox",
