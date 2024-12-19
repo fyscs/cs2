@@ -362,9 +362,6 @@
   ">>Come out of the Palace and defend the zombies<<": {
     "translation": ">>走出宫殿,守住僵尸<<"
   },
-  ">>The side door will open in 10 seconds<<": {
-    "translation": ">>侧路的门将在10秒后打开<<"
-  },
   ">>The elevator will leave in 5 seconds<<": {
     "translation": ">>电梯将在5秒后离开<<"
   },
@@ -383,10 +380,4 @@
   ">>THE ELEVATOR WILL LEAVE IN 5 SECONDS<<": {
     "translation": ">>电梯将在5秒后离开<<"
   },
-  ">>THE LIBRARY DOOR WILL OPEN IN 30 SECONDS<<": {
-    "translation": ">>图书馆大门将在30秒后打开<<"
-  },
-  ">>THE DOOR WILL OPEN IN 15 SECONDS<<": {
-    "translation": ">>大门将在15秒后打开<<"
-  }
 }
