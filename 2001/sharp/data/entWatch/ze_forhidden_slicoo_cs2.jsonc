@@ -43,7 +43,7 @@
     "team": 2,
     "knife": true,
     "mode": 2,
-    "count": 1
+    "count": 2
   },
   {
     "name": "冰锥",
@@ -135,7 +135,7 @@
     "team": 3,
     "knife": false,
     "mode": 1,
-    "count": 1
+    "count": 2
   },
   {
     "name": "护盾",
