@@ -28,271 +28,271 @@
   "*** MEDALLION picked up ***": {
     "translation": "*** 勋章已被拾取 ***"
   },
-  "*** Map made by Puklica ***": {
+  "Map made by Puklica": {
     "translation": "*** 地图作者: Puklica 地图翻译:林兮@风云社 ***"
   },
-  "*** >>> |LEVEL 1| <<< ***": {
+  ">>> |LEVEL 1| <<<": {
     "translation": "*** 当前关卡 ** >> 第一关 << ***"
   },
-  "*** >>> GATE OPENS IN 20 SEC <<< ***": {
+  ">>> GATE OPENS IN 20 SEC <<<": {
     "translation": "*** 大门还有20秒后打开  ***"
   },
-  "*** >>> >>> GATE IS OPENING <<< <<< ***": {
+  ">>> >>> GATE IS OPENING <<< <<<": {
     "translation": "*** 大门正在打开  ***"
   },
-  "*** >>> GATE CLOSES IN 5 SEC <<< ***": {
+  ">>> GATE CLOSES IN 5 SEC <<<": {
     "translation": "*** 离大门关闭还有5秒  ***"
   },
-  "*** >>> GATE IS CLOSING <<< ***": {
+  ">>> GATE IS CLOSING <<<": {
     "translation": "*** 大门正在关闭 ***"
   },
-  "*** >>> DEFEND THE VILLAGE FOR 40 SEC! <<< ***": {
+  ">>> DEFEND THE VILLAGE FOR 40 SEC! <<<": {
     "translation": "*** 坚守村庄40秒 ***"
   },
-  "*** >>> 10 SECONDS REMAINING <<< ***": {
+  ">>> 10 SECONDS REMAINING <<<": {
     "translation": "*** 还剩10秒  ***"
   },
-  "*** >>> RUN! <<< ***": {
+  ">>> RUN! <<<": {
     "translation": "*** 撤退,快跑! ***"
   },
-  "*** >>> DOOR CLOSES IN 25 SEC <<< ***": {
+  ">>> DOOR CLOSES IN 25 SEC <<<": {
     "translation": "*** 门25秒后关闭 ***"
   },
-  "*** >>> DOOR CLOSES IN 5 SEC <<< ***": {
+  ">>> DOOR CLOSES IN 5 SEC <<<": {
     "translation": "*** 门还剩5秒后关闭 ***"
   },
-  "*** >>> HORSES LEAVING IN 10 SEC <<< ***": {
+  ">>> HORSES LEAVING IN 10 SEC <<<": {
     "translation": "*** 马车10秒后离开 ***"
   },
-  "***  ***ACTIVATE ALL CANNONS*** ***": {
+  ">>> ACTIVATE ALL CANNONS <<<": {
     "translation": "*** 激活所有大炮 ***"
   },
-  "*** >>> GATE CLOSES IN 18 SEC <<< ***": {
+  ">>> GATE CLOSES IN 18 SEC <<<": {
     "translation": "*** 大门将在18秒后关闭 ***"
   },
-  "*** >>> GATE IS CLOSING! <<< ***": {
+  ">>> GATE IS CLOSING! <<<": {
     "translation": "*** 大门正在关闭 ***"
   },
-  "*** >>> ALL CANNONS ACTIVATED <<< ***": {
+  ">>> ALL CANNONS ACTIVATED <<<": {
     "translation": "*** 所有大炮已经激活 ***"
   },
-  "*** >>> WAIT FOR THE SHOT FROM BLACK PEARL <<< ***": {
+  ">>> WAIT FOR THE SHOT FROM BLACK PEARL <<<": {
     "translation": "*** 守住僵尸等待大炮射击黑珍珠号 ***"
   },
-  "*** >>> RUN TO THE PRISON! <<< ***": {
+  ">>> RUN TO THE PRISON! <<<": {
     "translation": "*** 快往监狱跑! ***"
   },
-  "*** >>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW *** ***": {
+  ">>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW ***": {
     "translation": "*** 坚守监狱!!打碎铁门拯救杰克船长 ***"
   },
-  "*** >>> RUN TO THE BLACK PEARL <<< ***": {
+  ">>> RUN TO THE BLACK PEARL <<<": {
     "translation": "*** 往黑珍珠号上跑! ***"
   },
-  "*** >>> DEFEND THE BLACK PEARL 45 SECONDS! <<< ***": {
+  ">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<": {
     "translation": "*** 坚守黑珍珠号45秒! ***"
   },
-  "*** >>> LAST 10 SECONDS REMAINING <<< ***": {
+  ">>> LAST 10 SECONDS REMAINING <<<": {
     "translation": "*** 剩余最后10秒 ***"
   },
-  "***  |Admin Room| ***Admin has changed difficulty to LEVEL 1 *** ***": {
+  "|Admin Room| ***Admin has changed difficulty to LEVEL 1 ***": {
     "translation": "*** [管理员]选择了第一关 ***"
   },
-  "***  |Admin Room| ***Admin has changed difficulty to LEVEL 2 *** ***": {
+  "|Admin Room| ***Admin has changed difficulty to LEVEL 2 ***": {
     "translation": "*** [管理员]选择了第二关 ***"
   },
-  "***  |Admin Room| ***Admin has changed difficulty to LEVEL 3 *** ***": {
+  "|Admin Room| ***Admin has changed difficulty to LEVEL 3 ***": {
     "translation": "*** [管理员]选择了第三关 ***"
   },
-  "***  |Admin Room| ***Admin has changed difficulty to LEVEL 4 *** ***": {
+  "|Admin Room| ***Admin has changed difficulty to LEVEL 4 ***": {
     "translation": "*** [管理员]选择了第四关 ***"
   },
-  "***  |Admin Room| ***Admin has changed difficulty to LEVEL 5 *** ***": {
+  "|Admin Room| ***Admin has changed difficulty to LEVEL 5 ***": {
     "translation": "*** [管理员]选择了第五关 ***"
   },
-  "***  |Admin Room| *** ADMIN SLAYING EVERYONE *** ***": {
+  "|Admin Room| *** ADMIN SLAYING EVERYONE ***": {
     "translation": "*** [管理员]处死全体玩家 ***"
   },
-  "*** >>> |LEVEL 2| <<< ***": {
+  ">>> |LEVEL 2| <<<": {
     "translation": "*** 当前关卡 ** >> 第二关 << ***"
   },
-  "*** >>> DOOR CLOSES IN 20 SEC <<< ***": {
+  ">>> DOOR CLOSES IN 20 SEC <<<": {
     "translation": "*** 小门20秒后关闭 ***"
   },
-  "***  >>> DOOR CLOSES IN 10 SEC <<< ***": {
+  ">>> DOOR CLOSES IN 10 SEC <<<": {
     "translation": "*** 小门10秒后关闭 ***"
   },
-  "*** >>> GATE IS CLOSING IN 25 SEC <<< ***": {
+  ">>> GATE IS CLOSING IN 25 SEC <<<": {
     "translation": "*** 大门将在25秒后关闭 ***"
   },
-  "*** >>> GATE IS CLOSING IN 5 SEC <<< ***": {
+  ">>> GATE IS CLOSING IN 5 SEC <<<": {
     "translation": "*** 大门将在5秒后关闭 ***"
   },
-  "***  (CT) >>>--SHOOT CANNON--<<< ***": {
+  "(CT) >>>--SHOOT CANNON--<<<": {
     "translation": "人类开枪射击大炮! ***"
   },
-  "*** (ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<": {
+  "(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<": {
     "translation": "*** 僵尸需要齐心协力推动大炮(僵尸靠近大炮可以推动) ***"
   },
-  "*** >>> CANNON HAS BEEN DESTROYED <<< ***": {
+  ">>> CANNON HAS BEEN DESTROYED <<<": {
     "translation": "*** 大炮已被人类摧毁 ***"
   },
-  "*** >>> THE SHIP DEPARTS IN 25 sec <<< ***": {
+  ">>> THE SHIP DEPARTS IN 25 sec <<<": {
     "translation": "*** 黑珍珠号25秒后离开 ***"
   },
-  "*** >>> ENTRANCE TO THE SHELTER IS OPENING IN 25 SEC <<< ***": {
+  ">>> ENTRANCE TO THE SHELTER IS OPENING IN 25 SEC <<<": {
     "translation": "*** 避难所的入口将在25秒后打开 ***"
   },
-  "*** >>> SHELTER OPENING <<< ***": {
+  ">>> SHELTER OPENING <<<": {
     "translation": "*** 避难所入口已经打开 ***"
   },
-  "*** >>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<< ***": {
+  ">>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<": {
     "translation": "*** 25秒后毁灭小岛 ***"
   },
-  "*** >>> 5 SEC REMAINING <<< ***": {
+  ">>> 5 SEC REMAINING <<<": {
     "translation": "*** 还剩5秒 ***"
   },
-  "*** >>> SHELTER CLOSING <<< ***": {
+  ">>> SHELTER CLOSING <<<": {
     "translation": "*** 避难所入口已经关闭 ***"
   },
-  "*** *** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 *** ***": {
+  "*** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 ***": {
     "translation": "*** 你通过了第二关.第三关加载中... ***"
   },
-  "*** >>> DOOR OPENS IN 10 SEC <<< ***": {
+  ">>> DOOR OPENS IN 10 SEC <<<": {
     "translation": "*** 铁门10秒后打开 ***"
   },
-  "*** >>> HOLD FOR 15 SEC <<< ***": {
+  ">>> HOLD FOR 15 SEC <<<": {
     "translation": "*** 坚守15秒 ***"
   },
-  "*** >>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<< ***": {
+  ">>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<<": {
     "translation": "*** >>>触发木轮将吊桥放下<<< ***"
   },
-  "***  >>> BRIDGE IS DOWN. RUN! <<< ***": {
+  ">>> BRIDGE IS DOWN. RUN! <<<": {
     "translation": "*** 吊桥降下来了.快溜! ***"
   },
-  "*** >>> GET ONTO THE SHIP <<< ***": {
+  ">>> GET ONTO THE SHIP <<<": {
     "translation": "*** 赶紧往黑珍珠号上跑! ***"
   },
-  "*** >>> DOOR OPENS IN 25 sec <<< ***": {
+  ">>> DOOR OPENS IN 25 sec <<<": {
     "translation": "*** 船舱门25秒后打开 ***"
   },
-  "*** >>> DOOR OPENS IN 5 SEC <<< ***": {
+  ">>> DOOR OPENS IN 5 SEC <<<": {
     "translation": "*** 船舱门5秒后打开 ***"
   },
-  "*** >>> DOOR CLOSES IN 15 sec <<< ***": {
+  ">>> DOOR CLOSES IN 15 sec <<<": {
     "translation": "*** 船舱门15秒后关闭 ***"
   },
-  "*** >>> DOOR IS OPEN! RUN!!! <<< ***": {
+  ">>> DOOR IS OPEN! RUN!!! <<<": {
     "translation": "*** 船舱门开了!快跑!***"
   },
-  "*** >>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<< ***": {
+  ">>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<": {
     "translation": "*** 这是一个海盗!快弄了他 ***"
   },
-  "*** >>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<< ***": {
+  ">>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<<": {
     "translation": "*** 使用手雷可以对海盗造成巨额伤害,炸飞他吧! ***"
   },
-  "*** >>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<< ***": {
+  ">>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<": {
     "translation": "*** 他去世了,赶紧往宝藏室跑!***"
   },
-  "*** >>> HOLD ZOMBIES FOR 20 sec <<< ***": {
+  ">>> HOLD ZOMBIES FOR 20 sec <<<": {
     "translation": "*** 抵御僵尸20秒等待藏宝室大门关闭***"
   },
-  "*** *** YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 *** ***": {
+  "*** YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***": {
     "translation": "*** 你通过了第三关.第四关加载中...***"
   },
-  "*** >>> |LEVEL 3| <<< ***": {
+  ">>> |LEVEL 3| <<<": {
     "translation": "*** 当前关卡 ** >> 第三关 <<***"
   },
-  "*** >>> |LEVEL 4| <<< ***": {
+  ">>> |LEVEL 4| <<<": {
     "translation": "*** 当前关卡 ** >> 第四关 <<***"
   },
-  "*** >>> HOLD THE CELLAR FOR 30 SEC <<< ***": {
+  ">>> HOLD THE CELLAR FOR 30 SEC <<<": {
     "translation": "*** 守住酒窖30秒等待逃离密道打开***"
   },
-  "*** >>> CELLAR OPENING IN 5 SEC <<< ***": {
+  ">>> CELLAR OPENING IN 5 SEC <<<": {
     "translation": "*** 地窖5秒后打开***"
   },
-  "*** >>> RUN AWAY FROM THE ZOMBIES! <<< ***": {
+  ">>> RUN AWAY FROM THE ZOMBIES! <<<": {
     "translation": "*** 快跑!别让僵尸挠你屁股!***"
   },
-  "***  >>> HOLD FOR 25 SEC <<< ***": {
+  ">>> HOLD FOR 25 SEC <<<": {
     "translation": "*** 坚守25秒等待铁门打开***"
   },
-  "*** >>> HOLD THE ZOMBIES AS LONG AS POSSIBLE <<< ***": {
+  ">>> HOLD THE ZOMBIES AS LONG AS POSSIBLE <<<": {
     "translation": "*** 尽量把僵尸压在前线!以免巴博萨的炸弹炸死你***"
   },
-  "*** >>> BARBOSSA IS COMING IN 5 SEC <<< ***": {
+  ">>> BARBOSSA IS COMING IN 5 SEC <<<": {
     "translation": "*** 巴博萨还有5秒到达战场***"
   },
-  "*** >>> IT'S BARBOSSA. KILL HIM! <<< ***": {
+  ">>> IT'S BARBOSSA. KILL HIM! <<<": {
     "translation": "*** 快杀了巴博萨!千万别被他近身了!***"
   },
-  "*** >>> HE HAS DISAPPEARED. RUN! <<< ***": {
+  ">>> HE HAS DISAPPEARED. RUN! <<<": {
     "translation": "*** 他怎么突然消失了?管不了这么多了我们先跑到船上!***"
   },
-  "*** *** YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 *** ***": {
+  "*** YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***": {
     "translation": "*** 你通过了第四关.第五关加载中...***"
   },
-  "*** >>> |LEVEL 5| <<< ***": {
+  ">>> |LEVEL 5| <<<": {
     "translation": "*** 当前关卡 ** >> 第五关 <<***"
   },
-  "*** >>> GATE OPENING <<< ***": {
+  ">>> GATE OPENING <<<": {
     "translation": "*** 大门正在打开***"
   },
-  "*** >>> >>> HOLD FOR 45 SEC <<< ***": {
+  ">>> >>> HOLD FOR 45 SEC <<<": {
     "translation": "*** 坚守45秒等待大门打开***"
   },
-  "*** >>> HOLD <<< ***": {
+  ">>> HOLD <<<": {
     "translation": "*** 守住僵尸!***"
   },
-  "*** >>> KRAKEN HAS USED WAVE TO CLEAR THE PATH <<< ***": {
+  ">>> KRAKEN HAS USED WAVE TO CLEAR THE PATH <<<": {
     "translation": "*** 克拉肯吐了一口老坛清理道路***"
   },
-  "*** >>> HOLD FOR 35 SEC <<< ***": {
+  ">>> HOLD FOR 35 SEC <<<": {
     "translation": "*** 坚守35秒***"
   },
-  "*** >>> DOOR OPENS IN 30 SEC <<< ***": {
+  ">>> DOOR OPENS IN 30 SEC <<<": {
     "translation": "*** 船舱门30秒后打开***"
   },
-  "*** >>> IT'S KRAKEN. KILL HIM! <<< ***": {
+  ">>> IT'S KRAKEN. KILL HIM! <<<": {
     "translation": "*** 是海怪克拉肯!快打败它!***"
   },
-  "*** >>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<< ***": {
+  ">>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<": {
     "translation": "*** 高爆手雷和神器能对BOSS造成伤害,快使用它们!***"
   },
-  "*** ||| KRAKEN HAS THROWN BARRELS ON YOU ||| ***": {
+  "||| KRAKEN HAS THROWN BARRELS ON YOU |||": {
     "translation": "*** 八爪叫兽扔出了滚桶***"
   },
-  "*** ||| KRAKEN HAS USED VORTEX ||| ***": {
+  "||| KRAKEN HAS USED VORTEX |||": {
     "translation": "*** 八爪叫兽转了起来(面对它快按住S后退)***"
   },
-  "*** ||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE ||| ***": {
+  "||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||": {
     "translation": "*** 八爪叫兽抓取了一只僵尸***"
   },
-  "*** ||| KRAKEN HAS SENT A WAVE ON YOU ||| ***": {
+  "||| KRAKEN HAS SENT A WAVE ON YOU |||": {
     "translation": "*** 八爪叫兽使用了海浪***"
   },
-  "*** ||| KRAKEN HAS SENT A BUBBLES ON YOU ||| ***": {
+  "||| KRAKEN HAS SENT A BUBBLES ON YOU |||": {
     "translation": "*** 八爪叫兽使用了气泡***"
   },
-  "*** >>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< ***": {
+  ">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<<": {
     "translation": "*** 克拉肯去世了.快向前方的小岛移动***"
   },
-  "***  >>> RUN TO THE CAVE <<< ***": {
+  ">>> RUN TO THE CAVE <<<": {
     "translation": "*** 快跑进山洞***"
   },
-  "*** >>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE! <<< ***": {
+  ">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE! <<<": {
     "translation": "*** 巴博萨又出现了!这次要让他立即去世!***"
   },
-  "*** *** LAST MEDALLION picked up *** ***": {
+  "*** LAST MEDALLION picked up ***": {
     "translation": "*** 捡起最后的勋章***"
   },
-  "*** >>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<< ***": {
+  ">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<": {
     "translation": "*** 最后的勋章已被放入宝箱***"
   },
-  "*** >>> BARBOSSA IS DEAD <<< ***": {
+  ">>> BARBOSSA IS DEAD <<<": {
     "translation": "*** 巴博萨去世了***"
   },
-  "*** >>> YOU HAVE WON THE MAP <<< ***": {
+  ">>> YOU HAVE WON THE MAP <<<": {
     "translation": "*** 恭喜你们征服了这张地图,成为海贼王的男人!***"
   },
   "*** BARBOSSA picked up ***": {
