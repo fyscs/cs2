@@ -1,5 +1,5 @@
 // entWatch configuration file generator.
-// EntWatch Version v22
+// EntWatch Version v21
 // Copyright 2024 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
@@ -90,8 +90,8 @@
     "name": "巴博萨",
     "shortName": "船长",
     "buttonClass": "func_button",
-    "hammerId": "33763",
-    "triggerId": ["9843"],
+    "hammerId": "10408",
+    "triggerId": ["10412"],
     "team": 2,
     "knife": true,
     "mode": 1,
