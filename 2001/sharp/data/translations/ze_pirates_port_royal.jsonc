@@ -158,7 +158,7 @@
     "translation": "*** 你通过了第二关.第三关加载中... ***"
   },
   ">>> DOOR OPENS IN 10 SEC <<<": {
-    "translation": "*** 铁门10秒后打开 ***"
+    "translation": "*** 门10秒后打开 ***"
   },
   ">>> HOLD FOR 15 SEC <<<": {
     "translation": "*** 坚守15秒 ***"
@@ -173,16 +173,16 @@
     "translation": "*** 赶紧往黑珍珠号上跑! ***"
   },
   ">>> DOOR OPENS IN 25 sec <<<": {
-    "translation": "*** 船舱门25秒后打开 ***"
+    "translation": "*** 门25秒后打开 ***"
   },
   ">>> DOOR OPENS IN 5 SEC <<<": {
-    "translation": "*** 船舱门5秒后打开 ***"
+    "translation": "*** 门5秒后打开 ***"
   },
   ">>> DOOR CLOSES IN 15 sec <<<": {
-    "translation": "*** 船舱门15秒后关闭 ***"
+    "translation": "*** 门15秒后关闭 ***"
   },
   ">>> DOOR IS OPEN! RUN!!! <<<": {
-    "translation": "*** 船舱门开了!快跑!***"
+    "translation": "*** 门开了!快跑!***"
   },
   ">>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<": {
     "translation": "*** 这是一个海盗!快弄了他 ***"
@@ -238,11 +238,11 @@
   ">>> GATE OPENING <<<": {
     "translation": "*** 大门正在打开***"
   },
-  ">>> >>> HOLD FOR 45 SEC <<<": {
+  ">>> HOLD FOR 45 SEC <<<": {
     "translation": "*** 坚守45秒等待大门打开***"
   },
   ">>> HOLD <<<": {
-    "translation": "*** 守住僵尸!***"
+    "translation": "*** 守住僵尸40秒!***"
   },
   ">>> KRAKEN HAS USED WAVE TO CLEAR THE PATH <<<": {
     "translation": "*** 克拉肯吐了一口老坛清理道路***"
@@ -251,7 +251,7 @@
     "translation": "*** 坚守35秒***"
   },
   ">>> DOOR OPENS IN 30 SEC <<<": {
-    "translation": "*** 船舱门30秒后打开***"
+    "translation": "*** 门30秒后打开***"
   },
   ">>> IT'S KRAKEN. KILL HIM! <<<": {
     "translation": "*** 是海怪克拉肯!快打败它!***"
@@ -259,7 +259,7 @@
   ">>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<": {
     "translation": "*** 高爆手雷和神器能对BOSS造成伤害,快使用它们!***"
   },
-  "||| KRAKEN HAS THROWN BARRELS ON YOU |||": {
+  "||| KRAKEN HAS THROWN BARREL ON YOU |||": {
     "translation": "*** 八爪叫兽扔出了滚桶***"
   },
   "||| KRAKEN HAS USED VORTEX |||": {
@@ -295,7 +295,10 @@
   ">>> YOU HAVE WON THE MAP <<<": {
     "translation": "*** 恭喜你们征服了这张地图,成为海贼王的男人!***"
   },
-  "*** BARBOSSA picked up ***": {
+  "+++ BARBOSSA picked up +++": {
     "translation": "*** 警告: 一名僵尸已成为巴博萨! ***"
+    },
+  "!!! KILL ALL ZOMBIES !!!": {
+    "translation": "人类无敌模组启动,刷死所有僵尸!"
   }
 }
