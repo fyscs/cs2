@@ -41,6 +41,13 @@
       "counter": "barbossa_hp_iterations",
       "hitbox": "barbossa_hit",
       "display": "Barbossa"
+    },
+    {
+      "iterator": "cannon_counter",
+      "backup": "boss_hp_backup",
+      "counter": "boss_hp_iterations",
+      "hitbox": "cannon_boss_base",
+      "display": "Cannon"
     }
   ],
   "Monsters": [
