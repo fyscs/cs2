@@ -1685,7 +1685,7 @@
    "price": 500,
    "cooldown": 100,
    "nomination": true,
-   "admin": true
+   "admin": false
   },
   "ze_platformer_p": {
     "certainTimes": [-1],
