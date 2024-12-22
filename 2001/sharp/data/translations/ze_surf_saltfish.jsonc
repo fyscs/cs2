@@ -10,37 +10,31 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "~~60s~~": {
-    "translation": "~~60s~~"
+  "< Defend 40s before entering the door >": {
+    "translation": "< 在进门前防守40s >"
   },
-  "~~30s~~": {
-    "translation": "~~30s~~"
+  "< FALLBACK >": {
+    "translation": "< 撤退 >"
   },
-  "~~10s~~": {
-    "translation": "~~10s~~"
+  "< Special Thanks to Heyfumi and Killik >": {
+    "translation": "< 特别鸣谢 Heyfumi和Killik >"
   },
-  "~~ Keep away from the door 45S ~~": {
-    "translation": "~~ 远离门口,45秒后开门 ~~"
+  "< RESIST 60 SECONDS >": {
+    "translation": "< 抵抗60秒 >"
   },
-  "run~~~!!!": {
-    "translation": "跑~~~!!!"
+  "< DEFEND 60 SECONDS >": {
+    "translation": "< 防守60s >"
   },
-  "~ Map Ported By Kuroki ~": {
-    "translation": "~地图作者:Kuroki地图汉化:余清茗染@fys ~"
+  "< YOU WON THE MAP! CONGRATULATIONS! >": {
+    "translation": "< 你通关了这张地图! 恭喜! >"
   },
-  "---60s---": {
-    "translation": "---60s---"
+  "< 10 SECONDS REMAINING >": {
+    "translation": "< 剩余10秒 >"
   },
-  "---30s---": {
-    "translation": "---30s---"
+  "< REVERSE >": {
+    "translation": "< 反向 >"
   },
-  "---10s---": {
-    "translation": "---10s---"
-  },
-  "~~15s~~": {
-    "translation": "~~15s~~"
-  },
-  "10s boom~": {
-    "translation": "10s boom~"
+  "< DEFEND 15 SECONDS >": {
+    "translation": "< 防御15秒 >"
   }
 }
