@@ -18,16 +18,12 @@
     "econDamage": 20000
   },
   "1": {
-    "rankPasses": 3,
-    "econPasses": 5
+    "rankPasses": 5,
+    "econPasses": 4
   },
   "4": {
     "rankPasses": 18,
     "econPasses": 14
-  },
-  "5": {
-    "rankPasses": 3,
-    "econPasses": 10
   },
   "6": {
     "rankPasses": 15,
