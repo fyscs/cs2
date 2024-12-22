@@ -1,0 +1,343 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Blackwater main gates will open in 60 sec": {
+    "translation": "大门将在60秒后开启"
+  },
+  "Blackwater main gates will open in 5 sec": {
+    "translation": "医院大门将在5秒后开启"
+  },
+  "Blackwater hospital doors will open in 20 sec": {
+    "translation": "大门将在20秒后开启"
+  },
+  "Find the key to the maternity ward": {
+    "translation": "找到妇产科病房的钥匙"
+  },
+  "The door will close in 20 sec": {
+    "translation": "门将在20秒后关闭"
+  },
+  "Good, we escaped from her, now we need to find a key from secret lab": {
+    "translation": "很好,我们躲开了她,现在我们需要从秘密实验室找到钥匙"
+  },
+  "The door will close in 30 sec": {
+    "translation": "门将在30秒后关闭"
+  },
+  "Good, we found lever that will move wardrobe": {
+    "translation": "好,衣柜被我们推开了"
+  },
+  "Seems this wardrobe cant be moved, there might be secret passage": {
+    "translation": "好像这衣柜可以移动,找一下有没有秘密通道"
+  },
+  "Find the key from storage room": {
+    "translation": "找到储藏室钥匙"
+  },
+  "The door will close in 5 sec": {
+    "translation": "门将在5秒后关闭"
+  },
+  "The door will open in 25 sec": {
+    "translation": " 门将在25秒后开启"
+  },
+  "Who owns this casket?": {
+    "translation": "谁拥有这个?"
+  },
+  "Omg did you hear that? Someone broke in": {
+    "translation": "你听到了吗?好像有其他人闯了进来?"
+  },
+  "The door will close in 25 sec": {
+    "translation": "门将在25秒后关闭"
+  },
+  "Who is this? Looks like a little girl": {
+    "translation": "???前方怎么有个小萝莉?"
+  },
+  "Oh god she is scary, run for your lifes": {
+    "translation": "shit,她居然是鬼,快跑!"
+  },
+  "Stage 1 - Completed": {
+    "translation": "第一关-医院完成"
+  },
+  ">> Kill The Remaining Zombie! <<": {
+    "translation": ">> 杀死剩下的僵尸 <<"
+  },
+  "Doors to Blackwater underground lab will open in 30 sec": {
+    "translation": "医院地下实验室大门将在30秒后开启"
+  },
+  "The doors will close in 20 sec": {
+    "translation": "门将在20秒后关闭"
+  },
+  "AFK TELEPORT IN 5 SECOND": {
+    "translation": "僵尸将在5秒后传送"
+  },
+  "MAP BY FRENCHY": {
+    "translation": "作者:FRENCHY 文本:Zeyu1 "
+  },
+  "AFK TELEPORT IN 10 SECOND": {
+    "translation": "僵尸将在10秒后传送"
+  },
+  "Girl is dead now we can pass through": {
+    "translation": "小女鬼死了,大家赶紧跑!"
+  },
+  "The door will open in 20 sec": {
+    "translation": "门将在20秒后开启"
+  },
+  "Pick up the key": {
+    "translation": "快拿上钥匙"
+  },
+  "Door to wc will open in 30 sec": {
+    "translation": "厕所门将在30秒后打开"
+  },
+  "Pick up the key for the second floor room": {
+    "translation": "拿上二楼房间的钥匙"
+  },
+  "Door to the storage room will open in 25 sec": {
+    "translation": "储藏室大门将在25秒后开启"
+  },
+  "Find crowbar to break down the wc door": {
+    "translation": "快找撬棍把厕所门撬开"
+  },
+  "Activate lever to power up the lab": {
+    "translation": "激活开关来启动实验室"
+  },
+  "Finally we got into the lab, now we need to power it up": {
+    "translation": "我们终于进入了实验室,现在需要给实验室通电"
+  },
+  "Lever is in guard post, find the key": {
+    "translation": "一部分人找钥匙一部分人防守,快!"
+  },
+  "This is main lab, we need to find keys from experimental rooms": {
+    "translation": "这里就是主实验室吗?真诡异,我们赶紧找钥匙"
+  },
+  "Door to the main office will open in 5 sec": {
+    "translation": "通往办公室的门将在5秒后打开"
+  },
+  "Door to the main office will open in 10 sec": {
+    "translation": "通往办公室的门将在10秒后开启"
+  },
+  "This is main office, we need to find key to other rooms": {
+    "translation": "这里办公室,我们需要找到其他房间的钥匙"
+  },
+  "The door will open in 10 sec": {
+    "translation": "门将在10秒后开启"
+  },
+  "To open 2-nd door we need 6 keycards": {
+    "translation": "要打开第二扇门,我们需要6张钥匙卡"
+  },
+  "Office doors will close in 10 sec": {
+    "translation": "办公室门的会在10秒后关闭"
+  },
+  "Now we need to find other 3 keycards in main lab": {
+    "translation": "现在我们需要在主实验室找到另外3张钥匙卡"
+  },
+  "The doors will close in 15 sec": {
+    "translation": "门将会在15秒后关闭"
+  },
+  "Door to 2-nd lab will open in 20 sec": {
+    "translation": "第二实验室的门将在20秒后开启"
+  },
+  "OK we found 6 keycards now we can enter to second part of the lab": {
+    "translation": "我们找到了6张钥匙卡,现在可以进入第二实验室了"
+  },
+  "Door to main lab will open in 20 sec": {
+    "translation": "主实验室的门将在20秒后开启"
+  },
+  "Pull the lever": {
+    "translation": "按下拉杆"
+  },
+  "Find the key for left side of experimental rooms": {
+    "translation": "有人找到了左侧实验室的钥匙"
+  },
+  "Door to 2-nd lab will open in 25 sec": {
+    "translation": "第二实验室的门将在25秒后开启"
+  },
+  "Doors to left side of the lab will open in 5sec": {
+    "translation": "实验室左侧的门将在5秒后打开"
+  },
+  "We need to gather chemicals for the bomb that will clear the way": {
+    "translation": "我们需要收集化学材料制作炸弹来清理道路"
+  },
+  "Door into office will open in 15 sec": {
+    "translation": "办公室的门将在15秒后开启"
+  },
+  "Door to the right side of the lab will open in 15 sec": {
+    "translation": "实验室右侧的门将在15秒后打开"
+  },
+  "The door will open in 15 sec": {
+    "translation": "门将在15秒后打开"
+  },
+  "Door to storage room will open in 30 sec": {
+    "translation": "储藏室大门将在30秒后打开"
+  },
+  "The door will close in 15 sec": {
+    "translation": "门将会在15秒后关闭"
+  },
+  "NICE! we have 1 out of 3 chemicals": {
+    "translation": "已经找到了三分之一的化学材料"
+  },
+  "Door to storage room will open in 20 sec": {
+    "translation": "储藏室大门将在20秒后开启"
+  },
+  "We finally got crowbar, now we can remove wooden blocks": {
+    "translation": "我们找到了撬棍,现在可以撬开木头了"
+  },
+  "Door into office will open in 20 sec": {
+    "translation": "办公室门将在20秒后开启"
+  },
+  "We need crowbar to remove wooden blocks from wardrobe": {
+    "translation": "我们需要撬棍才能把衣柜上的木头撬开"
+  },
+  "Pick up the key from locked office, you will find crowbar there": {
+    "translation": "拿上钥匙打开锁着的办公室,那里应该有撬棍"
+  },
+  "NICE! we got power back, all is left are chemicals for the bomb": {
+    "translation": "好!我们成功重启了电力,剩下的就是寻找制作炸弹所需的化学材料"
+  },
+  "Door to storage room will open in 30 sec": {
+    "translation": "储藏室大门将在30秒后打开"
+  },
+  "Frenchy is retarded, just pick up the meat": {
+    "translation": "只需要把肉捡起来就行了"
+  },
+  "We found 2-nd chemical, last one is on the left side of the lab": {
+    "translation": "我们发现了第二种化学液体,最后一种可能在实验室的左边"
+  },
+  "Omg! We need to kill that hunter": {
+    "translation": "厚礼蟹!!! 赶快杀死猎人"
+  },
+  "Hunter will break the storage room door in 30 sec": {
+    "translation": "丧尸将在30秒后打破储藏室的门"
+  },
+  "Door to guard post will open in 30 sec": {
+    "translation": "隔离门将在30秒后开启"
+  },
+  "Door to guard post will open in 5 sec": {
+    "translation": "隔离门将在5秒后开启"
+  },
+  "Bomb is ready we are good to go": {
+    "translation": "炸弹安装好了,我们走"
+  },
+  "Stage 2 - Completed": {
+    "translation": "第二关-实验室完成"
+  },
+  "The door to the sewer will open in 40 sec": {
+    "translation": "大门将在40秒后开启"
+  },
+  "The door to the sewer will close in 10 sec": {
+    "translation": "大门将在10秒后关闭"
+  },
+  "AFK TELEPORT IN 15 SECOND": {
+    "translation": "僵尸将在15秒后传送"
+  },
+  "[ADMIN] Selected [STAGE 3] for next round. Restarting round in 5 seconds.": {
+    "translation": "管理员选择第三关. 5秒后重启"
+  },
+  "[ADMIN] Selected [STAGE 2] for next round. Restarting round in 5 seconds.": {
+    "translation": "管理员选择第二关. 5秒后重启"
+  },
+  "[ADMIN] Selected [STAGE 1] for next round. Restarting round in 5 seconds.": {
+    "translation": "管理员选择第一关. 5秒后重启"
+  },
+  "Oh god its Decayed, we need to kill him to escape": {
+    "translation": "它的身体都腐烂成这样了!看样子我们得打败腐尸才能走了!"
+  },
+  "We got into last stage and need to finish with this and save the world from blackwater": {
+    "translation": "为了拯救这个该死的世界,我们只能背水一战了!"
+  },
+  "Find the key from sewer door": {
+    "translation": "从下水道找到钥匙"
+  },
+  "Door will close in 15 sec": {
+    "translation": "门将会在15秒后关闭"
+  },
+  "Leave blackwater complex": {
+    "translation": "我们离开了黑水镇"
+  },
+  "Water control panel room will open in 25 sec": {
+    "translation": "控制室将在25秒后开启 "
+  },
+  "Water control panel room will open in 5 sec": {
+    "translation": "控制室将在5秒后开启"
+  },
+  "Find the pot, we will be needing it for liquid": {
+    "translation": "找些瓶子,我们需要它来装某种液体"
+  },
+  "We need to drown entire blackwater complex, activate all 3 pump levers": {
+    "translation": "我们要淹没整个黑水镇地下试验室,并开启3个水泵"
+  },
+  "Door will open in 25 sec": {
+    "translation": "门将在25秒后开启"
+  },
+  "We need a drill for liquid inside the barrels": {
+    "translation": "我们需要向瓶内灌液体"
+  },
+  "Sewer door will open in 30 sec": {
+    "translation": "下水道门将在30秒后打开"
+  },
+  "Door with second lever will open in 30 sec": {
+    "translation": "第二个水泵门将在30秒后开启"
+  },
+  "Activate pump lever": {
+    "translation": "开启水泵"
+  },
+  "Door with first lever will open in 30 sec": {
+    "translation": "第一个水泵门将在30秒后开启"
+  },
+  "Water control panel room will open in 30 sec": {
+    "translation": "控制室大门将在30后开启"
+  },
+  "Press the button to drown entire complex, we will have enough time to escape before everything blows up": {
+    "translation": "为了确保我们能够毁灭并且离开这里,我们需要打开所有水泵的开关."
+  },
+  "Door with third lever will open in 20 sec": {
+    "translation": "第三个水泵门将在20秒后开启"
+  },
+  "THE DOOR OPEN 20 SECOND": {
+    "translation": "门将在20秒后开启"
+  },
+  "Drill the barrel": {
+    "translation": "将化学试剂装入桶中"
+  },
+  "The emergency exit will open in 30 sec": {
+    "translation": "紧急出口将在30秒后打开"
+  },
+  "Elevator will leave in 40 sec": {
+    "translation": "电梯将在40秒后离开"
+  },
+  "Door will open in 15 sec": {
+    "translation": "门将在15秒后打开"
+  },
+  "Elevator will leave in 20 sec": {
+    "translation": "电梯将在20秒后离开"
+  },
+  "Door will open in 10 sec": {
+    "translation": "门将在10秒后开启"
+  },
+  "The emergency exit will open in 20 sec": {
+    "translation": "紧急出口将在20秒后打开 "
+  },
+  "Stage 3 - Completed": {
+    "translation": "第三关-下水道完成"
+  },
+  "This is the end, we got out of the blackwater complex": {
+    "translation": " 终于结束了,我们总算离开了黑水镇实验室,噩梦终将结束 "
+  },
+  "[STAGE 1 HOSPITAL OF BLACKWATER]": {
+    "translation": "关卡一 医院"
+  },
+  "[STAGE 2 LABORATORY OF BLACKWATER]": {
+    "translation": "关卡二 实验室"
+  },
+  "[STAGE 3 SEWERAGE OF BLACKWATER]": {
+    "translation": "关卡三 下水道"
+  },
+  "The door will open in 30 sec": {
+    "translation": "门将在30秒后开启"
+  }
+}

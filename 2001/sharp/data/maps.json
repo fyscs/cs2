@@ -2198,6 +2198,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_the_curse_of_blackwater": {
+    "certainTimes": [-1],
+    "price": 800,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
   "ze_thousand_steps_p": {
     "certainTimes": [-1],
     "price": 300,
