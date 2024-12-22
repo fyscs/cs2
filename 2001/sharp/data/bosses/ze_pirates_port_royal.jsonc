@@ -48,12 +48,16 @@
       "counter": "boss_hp_iterations",
       "hitbox": "cannon_boss_base",
       "display": "Cannon"
-    }
-  ],
-  "Monsters": [
+    },
     {
-      "identity": "33764",
-      "display": "Barbossa"
+      "iterator": "final_barbossa_counter",
+      "hitbox": "final_barbossa_hit",
+      "display": "BarbossaF1"
+    },
+    {
+      "iterator": "final_barbossa_counter2",
+      "hitbox": "final_barbossa_hit",
+      "display": "BarbossaF2"
     }
   ]
 }
