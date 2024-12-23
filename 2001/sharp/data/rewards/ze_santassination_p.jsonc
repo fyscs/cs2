@@ -17,20 +17,24 @@
     "econPasses": 8,
     "econDamage": 20000
   },
+  "1": {
+    "rankPasses": 5,
+    "econPasses": 4
+  },
   "4": {
-    "rankPasses": 15,
-    "econPasses": 12
+    "rankPasses": 18,
+    "econPasses": 14
   },
   "6": {
-    "rankPasses": 12,
-    "econPasses": 10
-  },
-  "7": {
     "rankPasses": 15,
     "econPasses": 12
   },
+  "7": {
+    "rankPasses": 18,
+    "econPasses": 14
+  },
   "8": {
-    "rankPasses": 25,
-    "econPasses": 18
+    "rankPasses": 30,
+    "econPasses": 20
   }
 }
