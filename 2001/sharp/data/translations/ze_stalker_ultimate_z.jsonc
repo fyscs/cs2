@@ -1,7 +1,7 @@
-  // Console SayText i18n file generator.
-  // i18n Version v21
-  // Copyright 2024 Kyle 'Kxnrl' Frankiss.
-  // https://github.com/Kxnrl
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
 
   // 可用字段:
   // blocked    (bool) -> 屏蔽本句输出
