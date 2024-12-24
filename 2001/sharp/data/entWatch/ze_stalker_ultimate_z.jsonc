@@ -36,10 +36,10 @@
     "shortName": "高斯枪",
     "buttonClass": "func_button",
     "hammerId": "28629",
-    "maxUses": 1,
+    "cooldown": 5,
     "team": 3,
     "knife": false,
-    "mode": 3,
+    "mode": 2,
     "count": 1
   },
   {
