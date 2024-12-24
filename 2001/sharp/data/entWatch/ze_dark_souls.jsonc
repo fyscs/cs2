@@ -1,0 +1,245 @@
+// entWatch configuration file generator.
+// EntWatch Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // name         (string)   -> 名字
+  // shortName    (string)   -> 计分板短名
+  // buttonClass  (string)   -> 按钮的classname
+  // hammerId     (string)   -> 武器HammerId
+  // triggerId    (string[]) -> 触发器HammerId
+  // containerId  (string)   -> 容器HammerId
+  // maxUses      (int)      -> 最大使用次数
+  // initCooldown (int)      -> 初始化冷却时间
+  // cooldown     (int)      -> 冷却时间
+  // team         (int)      -> 3 = 人类, 2 = 僵尸
+  // knife        (bool)     -> 是否是匕首, 填错捡不起来
+  // soulEvent    (string)   -> 灵魂绑定IO
+  // hud          (bool)     -> Hud面板显示
+  // mode         (int)      -> 0 = 无按钮, 1 = 仅提示, 2 = CD型, 3 = 次数型, 4 = 次数+CD型, 5 = 使用一定次数后进入CD型, 6 = 燃料型(OnHitMin), 7 = 燃料型(OnHitMax), 8 = 计数型(类似狮子王MiniCanon)
+  // count        (int)      -> 神器个数
+
+[
+  {
+    "name": "祝福",
+    "shortName": "弹药",
+    "buttonClass": "func_button",
+    "hammerId": "26306",
+    "cooldown": 10,
+    "team": 3,
+    "knife": false,
+    "maxUses": 12,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "隐形身躯",
+    "shortName": "免疫",
+    "buttonClass": "func_button",
+    "hammerId": "26250",
+    "cooldown": 8,
+    "team": 3,
+    "knife": false,
+    "maxUses": 4,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "黑暗风暴",
+    "shortName": "减速",
+    "buttonClass": "func_button",
+    "hammerId": "26228",
+    "cooldown": 10,
+    "team": 3,
+    "knife": false,
+    "maxUses": 12,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "混乱风暴",
+    "shortName": "爆燃",
+    "buttonClass": "func_button",
+    "hammerId": "26207",
+    "cooldown": 10,
+    "team": 3,
+    "knife": false,
+    "maxUses": 12,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "诸神之怒",
+    "shortName": "神怒",
+    "buttonClass": "func_button",
+    "hammerId": "26185",
+    "cooldown": 2,
+    "team": 3,
+    "knife": false,
+    "maxUses": 12,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "闪电之矛",
+    "shortName": "雷枪",
+    "buttonClass": "func_button",
+    "hammerId": "26161",
+    "cooldown": 3,
+    "team": 3,
+    "knife": false,
+    "maxUses": 12,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "白龙之息",
+    "shortName": "冰封",
+    "buttonClass": "func_button",
+    "hammerId": "26133",
+    "cooldown": 7,
+    "team": 3,
+    "knife": false,
+    "maxUses": 12,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "火球术",
+    "shortName": "火球",
+    "buttonClass": "func_button",
+    "hammerId": "26109",
+    "cooldown": 3,
+    "team": 3,
+    "knife": false,
+    "maxUses": 18,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "灵魂巨弩",
+    "shortName": "巨弩",
+    "buttonClass": "func_button",
+    "hammerId": "26044",
+    "cooldown": 3,
+    "team": 3,
+    "knife": false,
+    "maxUses": 18,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "黑暗灵球",
+    "shortName": "黑球",
+    "buttonClass": "func_button",
+    "hammerId": "26020",
+    "cooldown": 3,
+    "team": 3,
+    "knife": false,
+    "maxUses": 12,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "圣光治愈",
+    "shortName": "治疗",
+    "buttonClass": "func_button",
+    "hammerId": "25954",
+    "cooldown": 7,
+    "team": 3,
+    "knife": false,
+    "maxUses": 12,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "元素瓶",
+    "shortName": "奶",
+    "buttonClass": "func_button",
+    "hammerId": "25937",
+    "cooldown": 5,
+    "team": 3,
+    "knife": false,
+    "maxUses": 12,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "绿花草",
+    "shortName": "加速",
+    "buttonClass": "func_button",
+    "hammerId": "25904",
+    "cooldown": 7,
+    "team": 3,
+    "knife": false,
+    "maxUses": 12,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "潜力",
+    "shortName": "潜力",
+    "buttonClass": "func_button",
+    "hammerId": "26284",
+    "triggerId": ["26285"],
+    "cooldown": 8,
+    "team": 2,
+    "knife": true,
+    "maxUses": 12,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "大雾",
+    "shortName": "大雾",
+    "buttonClass": "func_button",
+    "hammerId": "26268",
+    "triggerId": ["26269"],
+    "cooldown": 15,
+    "team": 2,
+    "knife": true,
+    "maxUses": 20,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "冲击波",
+    "shortName": "冲击",
+    "buttonClass": "func_button",
+    "hammerId": "26068",
+    "triggerId": ["26079"],
+    "cooldown": 3,
+    "team": 2,
+    "knife": true,
+    "maxUses": 20,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "猛毒",
+    "shortName": "猛毒",
+    "buttonClass": "func_button",
+    "hammerId": "25997",
+    "triggerId": ["25998"],
+    "cooldown": 20,
+    "team": 2,
+    "knife": true,
+    "maxUses": 20,
+    "mode": 4,
+    "count": 1
+  },
+  {
+    "name": "黑焰",
+    "shortName": "黑焰",
+    "buttonClass": "func_button",
+    "hammerId": "25970",
+    "triggerId": ["25971"],
+    "cooldown": 3,
+    "team": 2,
+    "knife": true,
+    "maxUses": 20,
+    "mode": 4,
+    "count": 1
+  }
+]
