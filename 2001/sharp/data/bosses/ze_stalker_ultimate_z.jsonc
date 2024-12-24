@@ -69,5 +69,11 @@
       "iterator": "Lvl4_End_Boss_2_Laser_HP",
       "display": "二阶段光球"
     }
+  ],
+  "Monsters": [
+    {
+      "identity": "13107",
+      "display": "橘色光球"
+    }
   ]
 }
