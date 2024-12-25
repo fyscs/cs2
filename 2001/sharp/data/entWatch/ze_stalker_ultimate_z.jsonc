@@ -25,10 +25,9 @@
     "shortName": "夜星",
     "buttonClass": "func_button",
     "hammerId": "28621",
-    "cooldown": 55,
     "team": 3,
     "knife": false,
-    "mode": 2,
+    "mode": 1,
     "count": 1
   },
   {
@@ -36,10 +35,9 @@
     "shortName": "高斯枪",
     "buttonClass": "func_button",
     "hammerId": "28629",
-    "maxUses": 1,
     "team": 3,
     "knife": false,
-    "mode": 3,
+    "mode": 1,
     "count": 1
   },
   {
@@ -58,10 +56,9 @@
     "shortName": "治愈",
     "buttonClass": "func_button",
     "hammerId": "28661",
-    "cooldown": 55,
     "team": 3,
     "knife": false,
-    "mode": 2,
+    "mode": 1,
     "count": 1
   },
   {
@@ -69,10 +66,9 @@
     "shortName": "风",
     "buttonClass": "func_button",
     "hammerId": "28677",
-    "cooldown": 55,
     "team": 3,
     "knife": false,
-    "mode": 2,
+    "mode": 1,
     "count": 1
   },
   {
@@ -80,10 +76,9 @@
     "shortName": "重力",
     "buttonClass": "func_button",
     "hammerId": "28704",
-    "cooldown": 15,
     "team": 3,
     "knife": false,
-    "mode": 2,
+    "mode": 1,
     "count": 1
   },
   {
@@ -91,10 +86,9 @@
     "shortName": "闪电风暴",
     "buttonClass": "func_button",
     "hammerId": "28737",
-    "cooldown": 100,
     "team": 3,
     "knife": false,
-    "mode": 2,
+    "mode": 1,
     "count": 1
   },
   {
@@ -103,8 +97,8 @@
     "buttonClass": "func_button",
     "hammerId": "28910",
     "cooldown": 60,
-    "team": 3,
-    "knife": false,
+    "team": 2,
+    "knife": true,
     "mode": 2,
     "count": 1
   },
@@ -114,8 +108,8 @@
     "buttonClass": "func_button",
     "hammerId": "28924",
     "cooldown": 45,
-    "team": 3,
-    "knife": false,
+    "team": 2,
+    "knife": true,
     "mode": 2,
     "count": 1
   }
