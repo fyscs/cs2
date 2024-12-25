@@ -25,19 +25,13 @@
       "identity": "23083",
       "iterator": "Boss_HP",
       "hitbox": "Mob_Hitbox",
-      "display": "蓝色光球"
+      "display": "BOSS"
     },
     {
       "identity": "22946",
       "hitbox": "BloodSucker_Hitbox",
       "iterator": "Boss_HP",
-      "display": "吸血鬼"
-    },
-    {
-      "identity": "13107",
-      "hitbox": "boss3_break",
-      "iterator": "Boss_HP",
-      "display": "橘色光球"
+      "display": "BOSS"
     },
     {
       "identity": "28036",
@@ -68,6 +62,12 @@
       "hitbox": "Lvl4_End_Boss_2_HitBox",
       "iterator": "Lvl4_End_Boss_2_Laser_HP",
       "display": "二阶段光球"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "13107",
+      "display": "橘色光球"
     }
   ]
 }
