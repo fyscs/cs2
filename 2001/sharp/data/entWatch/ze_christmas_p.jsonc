@@ -37,7 +37,7 @@
     "shortName": "重力",
     "buttonClass": "func_physbox",
     "hammerId": "147",
-    "cooldown": 30,
+    "cooldown": 75,
     "team": 3,
     "knife": false,
     "mode": 2,
