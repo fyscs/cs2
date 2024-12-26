@@ -123,7 +123,7 @@
   {
     "id": "496",
     "cd": 300,
-    "mode": 0,
+    "mode": 3,
     "name": "玻璃屋-电击枪",
     "class": "func_button",
     "event": "OnPressed"
@@ -139,7 +139,7 @@
   {
     "id": "837",
     "cd": 300,
-    "mode": 0,
+    "mode": 3,
     "name": "1v1-电击枪",
     "class": "func_button",
     "event": "OnPressed"
