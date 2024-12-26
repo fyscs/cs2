@@ -441,6 +441,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_dark_souls": {
+    "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 450,
+    "cooldown": 110,
+    "nomination": true,
+    "admin": false
+  },
   "ze_deadcore": {
     "certainTimes": [12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 700,
