@@ -48,6 +48,13 @@
     "nomination": false,
     "admin": false
   },
+  "mg_just_multigames_v3": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 15,
+    "nomination": false,
+    "admin": false
+  },
   "mg_ke_multigame": {
     "certainTimes": [-1],
     "price": 300,
