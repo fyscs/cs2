@@ -84,6 +84,12 @@
       "counter": "Boss_HealthCount_snake",
       "hitbox": "s3_snake_hitbox",
       "display": "无敌蟒蛇大王"
+    },
+    {
+      "identity": "4748",
+      "iterator": "s2_snake_counter",
+      "hitbox": "s2_snake_shade_unlock",
+      "display": "水蛇"
     }
   ],
   "Monsters": [
