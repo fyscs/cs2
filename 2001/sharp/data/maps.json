@@ -1796,7 +1796,7 @@
     "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
-    "nomination": false,
+    "nomination": true,
     "admin": false
   },
   "ze_ratatouille": {
