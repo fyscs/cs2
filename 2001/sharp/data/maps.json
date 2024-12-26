@@ -2065,6 +2065,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_squid_game": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 80,
+    "nomination": true,
+    "admin": false
+  },
   "ze_sst2_p": {
     "certainTimes": [-1],
     "price": 300,
