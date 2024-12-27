@@ -1384,7 +1384,7 @@
     "price": 600,
     "cooldown": 160,
     "nomination": true,
-    "admin": false
+    "admin": true
   },
   "ze_namviet_p": {
     "certainTimes": [-1],
