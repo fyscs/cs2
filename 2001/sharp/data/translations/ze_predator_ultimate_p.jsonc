@@ -10,6 +10,72 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
+  "***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***": {
+    "translation": "*** 你们必须按下角落的四个球体才能生存! ***"
+  },
+  "***HOLD ON TO YOUR HELMETS!***": {
+    "translation": "*** 带上你们的头盔! ***"
+  },
+  "***YOU ARE TOO SLOW!***": {
+    "translation": "*** 你太磨叽了! ***"
+  },
+  "***THE PREDATOR IS CHARGING AN ATTACK!***": {
+    "translation": "*** 铁血战士正在蓄力攻击! ***"
+  },
+  "***RUN TOWARDS THE ELEVATOR!***": {
+    "translation": "*** 前往电梯! ***"
+  },
+  "***THE CORE IS GOING UNSTABLE***": {
+    "translation": "*** 核心极度不稳定 ***"
+  },
+  "***RUN TOWARDS THE FINAL ROOM***": {
+    "translation": "*** 快跑到最后的房间去 ***"
+  },
+  "***YOU HAVE DEFEATED THE PREDATOR!***": {
+    "translation": "*** 你打败了铁血战士! ***"
+  },
+  "***HOLD FOR 20 SECONDS***": {
+    "translation": "*** 防守僵尸20秒 ***"
+  },
+  "***C4 ACTIVATED***": {
+    "translation": "*** C4 已放置 ***"
+  },
+  "***FIRST AID PICKED UP***": {
+    "translation": "*** 有玩家捡到了治疗(一次性) ***"
+  },
+  "***PLAYER PICKED UP GRENADE LAUNCHER***": {
+    "translation": "*** 有玩家捡到了榴弹发射器 ***"
+  },
+  "***PLAYER PICKED UP CLAYMORE MINES***": {
+    "translation": "*** 有玩家捡到了阔剑地雷 ***"
+  },
+  "***HOLD FOR 30 SECONDS***": {
+    "translation": "*** 防守僵尸30秒 ***"
+  },
+  "***PLAYER PICKED UP AMMO DISPENSER***": {
+    "translation": "*** 有玩家捡到了弹药 ***"
+  },
+  "***PLAYER PICKED UP MINI GUN***": {
+    "translation": "*** 有玩家捡到了米尼岗 ***"
+  },
+  "***PLAYER PICKED UP ALIEN SAMPLE***": {
+    "translation": "*** 有玩家捡到了异形样本 ***"
+  },
+  "***PLAYER PICKED UP FLAMETHROWER***": {
+    "translation": "*** 有玩家捡到了火焰喷射器 ***"
+  },
+  "***PLAYER PICKED UP ALIEN DEVICE***": {
+    "translation": "*** 有玩家捡到了异形设备 ***"
+  },
+  "***PLAYER PICKED UP PUSH GUN***": {
+    "translation": "*** 有玩家捡到了推力枪 ***"
+  },
+  "***PLAYER PICKED UP IMPULSOR***": {
+    "translation": "*** 有玩家捡到了脉冲 ***"
+  },
+  "***PLAYER PICKED UP GAUSS RIFLE***": {
+    "translation": "*** 有玩家捡到了高斯枪 ***"
+  },
   "***ELEVATOR'S HERE***": {
     "translation": "***电梯在这***"
   },
