@@ -59,7 +59,8 @@
     "translation": "*** 门25秒后关闭 ***"
   },
   ">>> DOOR CLOSES IN 5 SEC <<<": {
-    "translation": "*** 门还剩5秒后关闭 ***"
+    "translation": "*** 门还剩5秒后关闭 ***",
+    "blocked": true
   },
   ">>> HORSES LEAVING IN 10 SEC <<<": {
     "translation": "*** 马车10秒后离开 ***"
