@@ -25,7 +25,7 @@
       "iterator": "drg7_hp_1",
       "mass": 174,
       "counter": "drg7_hp_3",
-      "increase" : true,
+      "increase": true,
       "hitbox": "drg7_hitbox",
       "display": "阿拉斯"
     }
