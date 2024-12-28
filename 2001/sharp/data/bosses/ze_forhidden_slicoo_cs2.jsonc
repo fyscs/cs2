@@ -23,21 +23,24 @@
   "Counters": [
     {
       "iterator": "drg7_hp_1",
+      "mass": 174,
+      "counter": "drg7_hp_3",
+      "increase" : true,
       "hitbox": "drg7_hitbox",
       "display": "阿拉斯"
     }
   ],
-  "Breakables": [
+  "Monsters": [
     {
-      "target": "lfkb_boss_phys",
+      "identity": "4134",
       "display": "拉法库巴"
     },
     {
-      "target": "ex_end_hitbox",
-      "display": "ex_end"
+      "identity": "17238",
+      "display": "EndEx"
     },
     {
-      "target": "els_hitbox",
+      "target": "17181",
       "display": "魔女精灵"
     }
   ]
