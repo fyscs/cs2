@@ -195,6 +195,13 @@
     "nomination": false,
     "admin": false
   },
+  "mg_wannabe_multigames_v1": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 15,
+    "nomination": false,
+    "admin": false
+  },
   "mg_warmcup_headshot_sfw_fys": {
     "certainTimes": [14,15,16,17,18,19,20,21,22,23],
     "price": 300,
