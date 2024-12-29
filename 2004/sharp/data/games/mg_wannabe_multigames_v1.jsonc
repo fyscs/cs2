@@ -106,7 +106,7 @@
   },
   {
     "id": "3502",
-    "cd": 300,
+    "cd": 600,
     "mode": 6,
     "name": "闯关",
     "class": "func_button",
