@@ -113,5 +113,13 @@
     "name": "生死四角",
     "class": "func_button",
     "event": "OnPressed"
+  },
+  {
+    "id": "17521",
+    "cd": 240,
+    "mode": 0,
+    "name": "爆头战",
+    "class": "func_button",
+    "event": "OnPressed"
   }
 ]
