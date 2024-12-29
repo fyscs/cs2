@@ -56,5 +56,10 @@
       "hitbox": "sss5_l_laser_hitbox",
       "display": "Final"
     }
-  ]
+  ],
+  "Monsters": [
+    {
+      "identity": "12055",
+      "display": "传送水晶"
+    }
 }
