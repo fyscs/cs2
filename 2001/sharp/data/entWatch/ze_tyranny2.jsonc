@@ -22,7 +22,7 @@
 
 [
   {
-    "name": "流星",
+    "name": "流星权杖",
     "shortName": "流星",
     "buttonClass": "func_button",
     "hammerId": "8734",
@@ -33,7 +33,7 @@
     "count": 1
   },
   {
-    "name": "水晶",
+    "name": "水晶权杖",
     "shortName": "水晶",
     "buttonClass": "func_button",
     "hammerId": "8729",
@@ -44,8 +44,8 @@
     "count": 1
   },
   {
-    "name": "毒",
-    "shortName": "毒",
+    "name": "毒液权杖",
+    "shortName": "毒液",
     "buttonClass": "func_button",
     "hammerId": "8719",
     "cooldown": 60,
@@ -55,8 +55,8 @@
     "count": 1
   },
   {
-    "name": "风暴",
-    "shortName": "风",
+    "name": "飓风权杖",
+    "shortName": "飓风",
     "buttonClass": "func_button",
     "hammerId": "8725",
     "cooldown": 60,
@@ -66,8 +66,8 @@
     "count": 1
   },
   {
-    "name": "治疗",
-    "shortName": "治疗",
+    "name": "治愈权杖",
+    "shortName": "治愈",
     "buttonClass": "func_button",
     "hammerId": "8630",
     "cooldown": 60,
@@ -77,30 +77,31 @@
     "count": 1
   },
   {
-    "name": "恐惧",
-    "shortName": "终极",
+    "name": "恐惧权杖",
+    "shortName": "恐惧",
     "buttonClass": "func_button",
     "hammerId": "8635",
-    "cooldown": 0,
+    "cooldown": 60,
     "team": 3,
     "knife": false,
     "maxUses": 2,
-    "mode": 3,
+    "mode": 4,
     "count": 1
   },
   {
-    "name": "暗影",
-    "shortName": "暗影",
+    "name": "阴影权杖",
+    "shortName": "阴影",
     "buttonClass": "func_button",
     "hammerId": "8641",
     "cooldown": 60,
     "team": 3,
     "knife": false,
-    "mode": 2,
+    "maxUses": 2,
+    "mode": 4,
     "count": 1
   },
   {
-    "name": "弹药",
+    "name": "弹药箱",
     "shortName": "弹药",
     "buttonClass": "func_button",
     "hammerId": "8645",
@@ -129,19 +130,19 @@
     "cooldown": 70,
     "team": 3,
     "knife": false,
-    "mode": 2,
+    "maxUses": 2,
+    "mode": 4,
     "count": 1
   },
   {
-    "name": "血怒",
-    "shortName": "血怒",
+    "name": "血咒之力",
+    "shortName": "血咒",
     "buttonClass": "func_button",
     "hammerId": "9126",
     "triggerId": ["9117"],
-    "cooldown": 60,
     "team": 2,
     "knife": true,
-    "mode": 2,
+    "mode": 1,
     "count": 1
   },
   {
@@ -157,8 +158,8 @@
     "count": 1
   },
   {
-    "name": "妖术",
-    "shortName": "妖术",
+    "name": "巫术之力",
+    "shortName": "巫术",
     "buttonClass": "func_button",
     "hammerId": "9094",
     "triggerId": ["9097"],
@@ -169,8 +170,8 @@
     "count": 1
   },
   {
-    "name": "闸刀",
-    "shortName": "闸刀",
+    "name": "断头台",
+    "shortName": "断头台",
     "buttonClass": "func_button",
     "hammerId": "9036",
     "triggerId": ["9038"],
@@ -181,7 +182,7 @@
     "count": 1
   },
   {
-    "name": "深渊",
+    "name": "虚空之力",
     "shortName": "虚空",
     "buttonClass": "func_button",
     "hammerId": "9023",
@@ -193,3 +194,5 @@
     "count": 1
   }
 ]
+  
+  

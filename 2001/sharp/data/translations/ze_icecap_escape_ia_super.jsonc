@@ -1,0 +1,244 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<< Shadow appears in its strongest form >>>": {
+    "translation": "<<< 暗影以其最强的形态现世 >>>"
+  },
+  "** THE WHITE KNIGHT IS READY ROCK THE WORLD **": {
+    "translation": "** 白衣骑士已准备战斗 **"
+  },
+  "> Nuke in 10s <": {
+    "translation": "> 10秒后核爆 <"
+  },
+  "***5***": {
+    "translation": "***5***"
+  },
+  "***4***": {
+    "translation": "***4***"
+  },
+  "***3***": {
+    "translation": "***3***"
+  },
+  "***2***": {
+    "translation": "***2***"
+  },
+  "***1***": {
+    "translation": "***1***"
+  },
+  "wait 12 sec": {
+    "translation": "等待12秒"
+  },
+  "**bride move in 10secs**": {
+    "translation": "**兽颅将在10秒后离开**"
+  },
+  "***Tram leaving in 17secs.***": {
+    "translation": "***有轨电车17秒后离开!***"
+  },
+  "*player pickup sound*": {
+    "translation": "*有人拾取了音频枪*"
+  },
+  "*Shoot Sephiroth,kill him*": {
+    "translation": "*朝萨菲罗斯开枪!*"
+  },
+  "*Sephiroth coming*": {
+    "translation": "*萨菲罗斯来了*"
+  },
+  ">模式正在加载中...<": {
+    "translation": ">模式正在加载中...<"
+  },
+  "***Gate opening in 55secs.***": {
+    "translation": "***门将在55秒后开启***"
+  },
+  "***Gate opening in 5secs.***": {
+    "translation": "***门将在5秒后开启.***"
+  },
+  "***Gate opening in 30secs.***": {
+    "translation": "***门将在30秒后开启***"
+  },
+  "***Start up the Helicopter.***": {
+    "translation": "***正在启动直升机***"
+  },
+  "***Tram leaving in 10secs.***": {
+    "translation": "***有轨电车10秒后离开!***"
+  },
+  "***Boat 1 leaving in 10secs.***": {
+    "translation": "***船一10秒后出发***"
+  },
+  "***Boat 2 leaving in 5secs.***": {
+    "translation": "***船二5秒后出发***"
+  },
+  "***...WashTub leaving in 3secs...***": {
+    "translation": "***...洗衣盆将在3秒后离开...***"
+  },
+  "***Boat 3 leaving in 10secs.***": {
+    "translation": "***船三10秒后出发***"
+  },
+  "***Boat 4 leaving in 10secs.***": {
+    "translation": "***船四10秒后出发***"
+  },
+  "***Bobsled leaving in 5secs.***": {
+    "translation": "***雪橇将在5秒后离开!***"
+  },
+  "> Nuke in 50s <": {
+    "translation": "> 50秒后核爆 <"
+  },
+  "***...WashBucket leaving in 5secs...Seriously?***": {
+    "translation": "***...水桶5秒后离开...认真的吗?***"
+  },
+  "***Helicopter leaving in 5secs.***": {
+    "translation": "***直升机5秒后离开***"
+  },
+  "***Final Boat leaving in 75secs.***": {
+    "translation": "***最后的船将在75秒后离开***"
+  },
+  "***WashTub leaving in 30secs.***": {
+    "translation": "***洗衣盆将在30秒后离开***"
+  },
+  "***WashTub leaving in 5secs.***": {
+    "translation": "***洗衣盆将在5秒后离开***"
+  },
+  "***Final Boat leaving in 30secs.***": {
+    "translation": "***最后的船将在30秒后离开***"
+  },
+  "***Final Boat leaving in 5secs.***": {
+    "translation": "***最后的船将在5后离开***"
+  },
+  "***WashTub leaving in 65secs.***": {
+    "translation": "***洗衣盆将在65秒后离开***"
+  },
+  "***Ice Wall breaking in 10secs.***": {
+    "translation": "***冰墙将在10秒后碎掉***"
+  },
+  "***First shortcuts opening in 15secs.***": {
+    "translation": "***第一条近路将在15秒后开放***"
+  },
+  "***Second shortcuts opening in 15secs.***": {
+    "translation": "***第二条近路将在15秒后开放***"
+  },
+  "*Genesis laser in 6s*": {
+    "translation": "*杰内西斯正在思考人生,6秒后他可能会来个反手掏*"
+  },
+  "***Armory open.***": {
+    "translation": "***武器库开启***"
+  },
+  ">人类的皮肤会是...<": {
+    "translation": ">人类的皮肤会是...<"
+  },
+  ">大卫！<": {
+    "translation": ">大卫!<"
+  },
+  ">魔神！<": {
+    "translation": ">魔神!<"
+  },
+  ">白骑士！<": {
+    "translation": ">白骑士!<"
+  },
+  ">甘道夫！<": {
+    "translation": ">甘道夫!<"
+  },
+  ">桐人！<": {
+    "translation": ">桐人!<"
+  },
+  ">涅普顿！<": {
+    "translation": ">涅普顿!<"
+  },
+  ">全皮肤模式...<": {
+    "translation": ">全皮肤模式...<"
+  },
+  ">热身回合...攀登岛屿...<": {
+    "translation": ">热身回合...攀登岛屿...<"
+  },
+  ">无皮肤<": {
+    "translation": ">无皮肤<"
+  },
+  ">还有冰天雪地!!!<": {
+    "translation": ">还有冰天雪地!!!<"
+  },
+  ">小提示:水面被聪明的妖精冻结了<": {
+    "translation": ">小提示:水面被聪明的妖精冻结了<"
+  },
+  ">所有水面上的载具都将无法使用<": {
+    "translation": ">所有水面上的载具都将无法使用<"
+  },
+  ">僵尸的皮肤会是...<": {
+    "translation": ">僵尸的皮肤会是...<"
+  },
+  ">艾利克斯！<": {
+    "translation": ">艾利克斯!<"
+  },
+  ">伽布拉斯！<": {
+    "translation": ">伽布拉斯!<"
+  },
+  ">炎魔！<": {
+    "translation": ">炎魔!<"
+  },
+  ">巨魔！<": {
+    "translation": ">巨魔!<"
+  },
+  ">龙祭司！<": {
+    "translation": ">龙祭司!<"
+  },
+  ">巨人！<": {
+    "translation": ">巨人!<"
+  },
+  ">英雄模式...<": {
+    "translation": ">英雄模式...<"
+  },
+  ">Only the chosen may survive!<": {
+    "translation": ">只有被选中的人才能生存下来<"
+  },
+  ">随机皮肤...攀登岛屿...<": {
+    "translation": ">随机皮肤...攀登岛屿...<"
+  },
+  ">克隆皮肤...攀登岛屿...<": {
+    "translation": ">克隆皮肤...攀登岛屿...<"
+  },
+  ">随机皮肤...<": {
+    "translation": ">随机皮肤...<"
+  },
+  "++Admin choose to skip warmup++": {
+    "translation": "[管理员] 选择 跳过热身"
+  },
+  "++Admin choose Random Item And Laser++": {
+    "translation": "[管理员] 选择 随机模式+跳刀"
+  },
+  "++Admin choose Random Item++": {
+    "translation": "[管理员] 选择 随机模式"
+  },
+  "++Admin choose All Item++": {
+    "translation": "[管理员] 选择 全皮肤模式"
+  },
+  "++Admin choose Clone++": {
+    "translation": "[管理员] 选择 克隆模式"
+  },
+  "++Admin choose Freezzz++": {
+    "translation": "[管理员] 选择 冰天雪地模式"
+  },
+  "++Admin choose Nuke!!!++": {
+    "translation": "[管理员] 选择 炸死你们所有人"
+  },
+  "<< Misaka will help you >>": {
+    "translation": "<< 御坂美琴将会帮助你 >>"
+  },
+  "<< The cannon will deactive if misaka pick other magic >>": {
+    "translation": "<< 御坂美琴的电磁炮将会在拾取其他神器后失效 >>"
+  },
+  "<< Fire >>": {
+    "translation": "<< 火 >>"
+  },
+  "<< Ice >>": {
+    "translation": "<< 冰 >>"
+  },
+  "<< Wind >>": {
+    "translation": "<< 风 >>"
+  }
+}

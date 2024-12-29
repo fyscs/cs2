@@ -20,34 +20,98 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Monsters": [
+  "Counters": [
     {
       "identity": "9685",
-      "display": "Spider"
+      "iterator": "bosshp1",
+      "backup": "bosshp2",
+      "counter": "bosshp3",
+      "hitbox": "s1boss_hit",
+      "display": "BOSS"
     },
     {
       "identity": "10868",
-      "display": "Troll"
+      "iterator": "bosshp1",
+      "backup": "bosshp2",
+      "counter": "bosshp3",
+      "hitbox": "s2boss_hit",
+      "display": "BOSS"
     },
     {
       "identity": "9594",
-      "display": "Dragon"
+      "iterator": "bosshp1",
+      "backup": "bosshp2",
+      "counter": "bosshp3",
+      "hitbox": "s3boss_hit",
+      "display": "BOSS"
     },
     {
       "identity": "10837",
-      "display": "Gargantua"
+      "iterator": "bosshp1",
+      "backup": "bosshp2",
+      "counter": "bosshp3",
+      "hitbox": "s4boss_hit",
+      "display": "BOSS"
     },
     {
       "identity": "10892",
-      "display": "Diablo"
+      "iterator": "bosshp1",
+      "backup": "bosshp2",
+      "counter": "bosshp3",
+      "hitbox": "s5boss_hit",
+      "display": "BOSS"
     },
     {
       "identity": "9567",
-      "display": "Dragon"
+      "iterator": "bosshp1",
+      "backup": "bosshp2",
+      "counter": "bosshp3",
+      "hitbox": "s5boss_angra_hit",
+      "display": "BOSS"
     },
     {
       "identity": "9399",
-      "display": "Diablo"
+      "iterator": "bosshp1",
+      "backup": "bosshp2",
+      "counter": "bosshp3",
+      "hitbox": "s5boss_diablo_hit",
+      "display": "BOSS"
+    },
+    {
+      "identity": "7477",
+      "iterator": "snake_math",
+      "backup": "Boss_HealthBackup_snake",
+      "counter": "Boss_HealthCount_snake",
+      "hitbox": "s3_snake_hitbox",
+      "display": "无敌蟒蛇大王"
+    },
+    {
+      "identity": "4748",
+      "iterator": "s2_snake_counter",
+      "hitbox": "s2_snake_shade_unlock",
+      "display": "水蛇"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "12843",
+      "display": "左侧雕像彩蛋"
+    },
+    {
+      "identity": "12845",
+      "display": "中间雕像彩蛋"
+    },
+    {
+      "identity": "12847",
+      "display": "右侧雕像彩蛋"
+    },
+    {
+      "identity": "8343",
+      "display": "上层木板"
+    },
+    {
+      "identity": "8341",
+      "display": "下层木板"
     }
   ]
 }

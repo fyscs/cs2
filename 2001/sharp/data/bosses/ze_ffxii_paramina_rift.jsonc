@@ -57,5 +57,31 @@
       "hitbox": "Boss_Physbox",
       "display": "玛提乌斯"
     }
+  ],
+  "Monsters": [
+    {
+      "identity": "15600",
+      "display": "水晶塔1"
+    },
+    {
+      "identity": "15604",
+      "display": "水晶塔2"
+    },
+    {
+      "identity": "15608",
+      "display": "水晶塔3"
+    },
+    {
+      "identity": "15602",
+      "display": "水晶塔5"
+    },
+    {
+      "identity": "15598",
+      "display": "水晶塔6"
+    },
+    {
+      "identity": "14940",
+      "display": "皇帝水晶"
+    }
   ]
 }

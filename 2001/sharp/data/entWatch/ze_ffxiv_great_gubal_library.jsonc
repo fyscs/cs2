@@ -67,6 +67,17 @@
     "count": 1
   },
   {
+    "name": "召唤",
+    "shortName": "召唤",
+    "buttonClass": "func_button",
+    "hammerId": "15788",
+    "cooldown": 45,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
+  },
+  {
     "name": "火",
     "shortName": "火",
     "buttonClass": "func_button",
@@ -108,6 +119,54 @@
     "team": 3,
     "knife": false,
     "mode": 3,
+    "count": 1
+  },
+  {
+    "name": "[ZM]黑洞",
+    "shortName": "[ZM]黑洞",
+    "buttonClass": "func_button",
+    "hammerId": "24853",
+    "triggerId": ["24851"],
+    "cooldown": 70,
+    "team": 2,
+    "knife": false,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "[ZM]治疗",
+    "shortName": "[ZM]治疗",
+    "buttonClass": "func_button",
+    "hammerId": "24910",
+    "triggerId": ["24908"],
+    "cooldown": 65,
+    "team": 2,
+    "knife": false,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "[ZM]沉默",
+    "shortName": "[ZM]沉默",
+    "buttonClass": "func_button",
+    "hammerId": "24970",
+    "triggerId": ["24968"],
+    "cooldown": 70,
+    "team": 2,
+    "knife": false,
+    "mode": 2,
+    "count": 1
+  },
+  {
+    "name": "[ZM]护盾",
+    "shortName": "[ZM]护盾",
+    "buttonClass": "func_button",
+    "hammerId": "24952",
+    "triggerId": ["24950"],
+    "cooldown": 70,
+    "team": 2,
+    "knife": false,
+    "mode": 2,
     "count": 1
   }
 ]

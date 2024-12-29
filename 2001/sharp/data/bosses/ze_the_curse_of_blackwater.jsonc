@@ -1,0 +1,72 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Counter_heal",
+      "display": "girl",
+      "hitbox": "Physbox_Sofya"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "9683",
+      "display": "pincher1"
+    },
+    {
+      "identity": "9685",
+      "display": "pincher2"
+    },
+    {
+      "identity": "9374",
+      "display": "pincher3"
+    },
+    {
+      "identity": "9376",
+      "display": "pincher4"
+    },
+    {
+      "identity": "3106",
+      "display": "decayed1"
+    },
+    {
+      "identity": "3112",
+      "display": "decayed2"
+    },
+    {
+      "identity": "9303",
+      "display": "decayed3"
+    },
+    {
+      "identity": "9298",
+      "display": "decayed4"
+    },
+    {
+      "identity": "9111",
+      "display": "girl1"
+    },
+    {
+      "identity": "9106",
+      "display": "girl2"
+    }
+  ]
+}

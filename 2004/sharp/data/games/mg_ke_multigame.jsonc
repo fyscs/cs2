@@ -1,0 +1,179 @@
+// MiniGames game mode configuration file generator.
+// MGGames Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+// enum /* MiniGameMode */
+//
+// Invalid      = -1,
+// Guns         = 0, // 对枪
+// Nade         = 1, // 手雷
+// Knife        = 2, // 拼刀
+// Taser        = 3, // 电击枪
+// Dodgeball    = 4, // 躲避球
+// RaceCombat   = 5, // Race给枪    LongJump, Bhop, Race, Clmib, Combat
+// RaceBonus    = 6, // Race刷分    LongJump, Bhop, Race, Clmib, 刷分
+// Survival     = 7, // 生存        JumpRope, FallingBox etc...
+// RaceSurvival = 8, // Race生存    LongJump, Bhop, Race, Clmib, Survival
+// Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
+[
+  {
+    "id": "6742",
+    "cd": 300,
+    "mode": 2,
+    "name": "足球",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "6739",
+    "cd": 300,
+    "mode": 2,
+    "name": "大足球",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "6560",
+    "cd": 300,
+    "mode": 7,
+    "name": "天线宝宝",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4560",
+    "cd": 300,
+    "mode": 0,
+    "name": "买枪混战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4560",
+    "cd": 300,
+    "mode": 0,
+    "name": "买枪混战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4146",
+    "cd": 300,
+    "mode": 0,
+    "name": "个人战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4183",
+    "cd": 300,
+    "mode": 0,
+    "name": "团队战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4555",
+    "cd": 300,
+    "mode": 0,
+    "name": "买枪混战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4182",
+    "cd": 300,
+    "mode": 0,
+    "name": "个人战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4185",
+    "cd": 300,
+    "mode": 0,
+    "name": "团队战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "155",
+    "cd": 300,
+    "mode": 0,
+    "name": "环形屋混战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "148",
+    "cd": 300,
+    "mode": 0,
+    "name": "玻璃屋-nova",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "150",
+    "cd": 300,
+    "mode": 0,
+    "name": "玻璃屋-截短喷",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "496",
+    "cd": 300,
+    "mode": 3,
+    "name": "玻璃屋-电击枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "842",
+    "cd": 300,
+    "mode": 0,
+    "name": "1v1-左轮",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "837",
+    "cd": 300,
+    "mode": 3,
+    "name": "1v1-电击枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "844",
+    "cd": 300,
+    "mode": 0,
+    "name": "1v1-沙鹰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1388",
+    "cd": 300,
+    "mode": 9,
+    "name": "你追我跑-警追",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1389",
+    "cd": 300,
+    "mode": 9,
+    "name": "你追我跑-匪追",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "6091",
+    "cd": 300,
+    "mode": 2,
+    "name": "溜冰",
+    "class": "func_button",
+    "event": "OnPressed"
+  }
+]

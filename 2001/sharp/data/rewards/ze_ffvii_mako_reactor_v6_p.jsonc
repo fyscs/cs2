@@ -12,17 +12,17 @@
 
 {
   "base": {
-    "rankPasses": 6,
+    "rankPasses": 8,
     "rankDamage": 12000,
-    "econPasses": 5,
+    "econPasses": 6,
     "econDamage": 15000
   },
   "4": {
-    "rankPasses": 8,
-    "econPasses": 6
+    "rankPasses": 12,
+    "econPasses": 10
   },
   "5": {
-    "rankPasses": 10,
-    "econPasses": 8
+    "rankPasses": 15,
+    "econPasses": 10
   }
 }

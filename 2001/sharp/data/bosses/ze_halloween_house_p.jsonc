@@ -20,22 +20,14 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Breakables": [
+  "Monsters": [
     {
-      "target": "Rat_Breakable",
-      "display": "老鼠"
+      "identity": "602",
+      "display": "老鼠一只"
     },
     {
-      "target": "Rat_Physbox",
-      "display": "老鼠"
-    },
-    {
-      "target": "Rat_Plank_Breakable",
-      "display": "老鼠"
-    },
-    {
-      "target": "CounterBreakable",
-      "display":  "水表"
+      "identity": "2196",
+      "display": "大水表"
     }
   ]
 }

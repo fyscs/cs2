@@ -96,5 +96,197 @@
   },
   "Ho ho ho! Santa's comin' to Mars tonight fellas!": {
     "translation": "哈哈哈!圣诞老人今晚要来火星了,伙计们!"
+  },
+  "** BAHAMUT HAS CAST GRAVITY **": {
+    "translation": "** 圣诞老人正在施放黑洞魔法-按住S抵抗它! **"
+  },
+  "** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **": {
+    "translation": "** 警告!圣诞老人正在施放终极!!!- 准备使用治疗神器 ++ **"
+  },
+  "** ULTIMA CAST WILL SUCCED IN 10 SECONDS **": {
+    "translation": "** 终极将在10秒后爆炸 **"
+  },
+  "** BAHAMUT HAS HEALED 150 HIT POINTS**": {
+    "translation": "** 圣诞老人正在治疗自身**"
+  },
+  "** BAHAMUT HAS CAST WIND **": {
+    "translation": "** 圣诞老人正在施放风魔法 **"
+  },
+  "** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **": {
+    "translation": "** 圣诞老人正在施放土魔法- 打碎它!  **"
+  },
+  "** BAHAMUT HAS CAST ELECTRO! **": {
+    "translation": "** 圣诞老人正在施放电魔法!- 跳上高处! **"
+  },
+  "** BAHAMUT HAS CAST ICE **": {
+    "translation": "** 圣诞老人正在施放冰魔法!**"
+  },
+  "** BAHAMUT HAS CAST FIRE! **": {
+    "translation": "** 圣诞老人正在施放火魔法!!-往后退! **"
+  },
+  "** BAHAMUT IS CASTING ** PREPARE YOURSELF **": {
+    "translation": "**  做好准备迎接巴哈姆特 **"
+  },
+  "**Nice done! You interrumped Sephiroth's attack**": {
+    "translation": "** 干的漂亮,你成功的阻挡了萨菲罗斯的进攻!**"
+  },
+  "**Bahamut has been defeated ! ** Go go! Run upstairs ! **": {
+    "translation": "**圣诞老人已经死亡**逃离此地! **"
+  },
+  "** RUN! **": {
+    "translation": "** 跑! **"
+  },
+  "** DOOR OPENS IN 35 S **": {
+    "translation": "** 大门将在35秒后开启 **"
+  },
+  "** Go to the control room to open it earlier **": {
+    "translation": "** 快进入最后的控制室 **"
+  },
+  "**Door is open**": {
+    "translation": "**门开了**"
+  },
+  "**Door is opening in 5**": {
+    "translation": "**5秒后开门**"
+  },
+  "**Elevator is leaving in 10s**": {
+    "translation": "**电梯将在10秒后离开**"
+  },
+  "**Keep shooting ! We dont know what it can do **": {
+    "translation": "**保持火力!我们还不知道他会做什么!**"
+  },
+  "** We have reached the core  ...**": {
+    "translation": "** 我们已经到达魔光炉的核心了  ...**"
+  },
+  "** ... Cloud is planting the bomb **": {
+    "translation": "** ... 正在安放炸弹,是时候该结束一切了 ** "
+  },
+  "** Bomb has been planted  **  Run **": {
+    "translation": "** 炸弹已被安放-快走 **"
+  },
+  "**Door is opening in 10 seconds**": {
+    "translation": "**大门还有10秒开**"
+  },
+  "** Dont stop shooting ! Dont let him attack !": {
+    "translation": "** 保持火力!别给圣诞老人喘息的机会"
+  },
+  "** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **": {
+    "translation": "** 提示:手雷将对boss造成更高的伤害**"
+  },
+  "** The monster is going to attack ! **": {
+    "translation": "** 这个怪物准备攻击我们 ! **"
+  },
+  "** EXPLOSION IN 145 SECONDS **": {
+    "translation": "** 距离魔光炉爆炸还剩145秒! **"
+  },
+  "**  10 SECONDS LEFT **": {
+    "translation": "**  10 秒**"
+  },
+  "**  20 SECONDS LEFT **": {
+    "translation": "**  20 秒**"
+  },
+  "**  30 SECONDS LEFT **": {
+    "translation": "**  30 秒**"
+  },
+  "**  40 SECONDS LEFT **": {
+    "translation": "**  40 秒**"
+  },
+  "**  50 SECONDS LEFT **": {
+    "translation": "**  50 秒**"
+  },
+  "**  60 SECONDS LEFT **": {
+    "translation": "**  60 秒**"
+  },
+  "**  70 SECONDS LEFT **": {
+    "translation": "**  70 秒**"
+  },
+  "**  80 SECONDS LEFT **": {
+    "translation": "**  80 秒**"
+  },
+  "**  90 SECONDS LEFT **": {
+    "translation": "**  90 秒**"
+  },
+  "**  100 SECONDS LEFT **": {
+    "translation": "**  100 秒**"
+  },
+  "**  110 SECONDS LEFT **": {
+    "translation": "**  110 秒**"
+  },
+  "** EXPLOSION IN 120 SECONDS **": {
+    "translation": "** 距离魔光炉爆炸还剩一百二十秒! **"
+  },
+  "** EXPLOSION IN 130 SECONDS **": {
+    "translation": "** 距离魔光炉爆炸还剩一百三十秒! **"
+  },
+  "** 30 SECONDS LEFT **": {
+    "translation": "** 30 秒**"
+  },
+  "**  120 SECONDS LEFT **": {
+    "translation": "**  120 秒**"
+  },
+  "** 20 SECONDS LEFT **": {
+    "translation": "** 20 秒**"
+  },
+  "** 10 SECONDS LEFT **": {
+    "translation": "** 10 秒**"
+  },
+  "** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **": {
+    "translation": "** 圣诞老人即将要消灭我们所有人!-快开枪! **"
+  },
+  "** YOU ARE THE MASTERS OF MAKO REACTOR! **": {
+    "translation": "** 你就是MAKO唯一のking! **"
+  },
+  "** YOU DID IT! YOU WON EXTREME ! YOU OWN! **": {
+    "translation": "** 做到了!你成功通关EX模式!-你无敌了! **"
+  },
+  "** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! **": {
+    "translation": "** 成功!你通关了HARD模式-下一关为EX模式-祝你好运**"
+  },
+  "**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **": {
+    "translation": "**恭喜你!你成功通关NORMAL模式!更难的挑战将从HARD模式开始! **"
+  },
+  "** ZOMBIES HAVE INFECTED THE BUNKER **": {
+    "translation": "** 僵尸胜利 **"
+  },
+  "** WHAT THE FUCK!!!!!!!!!!!!!!!!!!!!!!!!! ***": {
+    "translation": "** 我嘞个豆!!!!!!!!!!!!!!!!!!!!!!!!! ***"
+  },
+  "** Bahamut is going to cast Mega Flare !! Shoot !! **": {
+    "translation": "** 圣诞老人正在施放百万核爆 !! 朝他开枪!! **"
+  },
+  "** Bahamut is in attack position ** Keep firing !! **": {
+    "translation": "** 圣诞老人正在蓄力**继续朝他射击 !!  **"
+  },
+  "*** MATERIALS AT LVL 1 ***": {
+    "translation": "*** 材料① ***"
+  },
+  "*** MATERIALS AT LVL 2 ***": {
+    "translation": "*** 材料② ***"
+  },
+  "**CURRENT DIFFICULTY ** >> EXTREME II << **": {
+    "translation": "**当前难度 ** >> EXTREME II << **"
+  },
+  "REBUYS ARE DISABLED! FALL DAMAGE IS ENABLED!": {
+    "translation": "启用坠落伤害!"
+  },
+  "** ALL COWBELLS HAVE BEEN BROKEN **": {
+    "translation": "** 所有的COWBELLS都已被找到*"
+  },
+  "** BAHAMUT WILL NOT USE MATERIALS **": {
+    "translation": "*** 圣诞老人将不会再出技能 **"
+  },
+  "** 3 COWBELLS LEFT! **": {
+    "translation": "**还剩下三个COWBELLS!**"
+  },
+  "** 2 COWBELLS LEFT! **": {
+    "translation": "** 还剩下两个COWBELLS! **"
+  },
+  "** 1 COWBELL LEFT!!! **": {
+    "translation": "** 还剩下一个COWBELLS! **"
+  },
+  "** NO COWBELL BONUS **": {
+    "translation": "** 已经没有COWBELLS了 **"
+  },
+  "help me step bro - i'm stuck!": {
+    "translation": "帮帮我,兄弟 我卡住了!"
   }
 }

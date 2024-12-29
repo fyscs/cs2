@@ -358,5 +358,23 @@
   ">>10 seconds remaining<<": {
     "translation": ">>还剩10秒.<<",
     "blocked": true
-  }
+  },
+  ">>Come out of the Palace and defend the zombies<<": {
+    "translation": ">>走出宫殿,守住僵尸<<"
+  },
+  ">>The elevator will leave in 5 seconds<<": {
+    "translation": ">>电梯将在5秒后离开<<"
+  },
+  ">>The library door will open in 30 seconds<<": {
+    "translation": ">>图书馆大门将在30秒后打开<<"
+  },
+  ">>The door will open in 15 seconds<<": {
+    "translation": ">>大门将在15秒后打开<<"
+  },
+  ">>LOOKS LIKE THIS IS A SMALL PATH,BREAK THE METALFENCE<<": {
+    "translation": ">>看起来这是一条小路,打破金属栅栏<<"
+  },
+  ">>THE SIDE DOOR WILL OPEN IN 10 SECONDS<<": {
+    "translation": ">>侧路的门将在10秒后打开<<"
+  },
 }

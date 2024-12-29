@@ -931,8 +931,6 @@
 	dynamicEntityName(target_destination) : "Dynamic Entity Name" : "" : "Name of the dynamic prop_door_rotating_physics entity to check for dynamic factor calculation."
 	dynamicProxyPoint(local_point) : "Dynamic Proxy Point" : "" : "Position of a proxy point across a dynamic point to use for visiblity calculation. Make sure to set the Occlusion Radius such that it is entirely on one side of the dynamic object."
 	dynamicMaximumOcclusion(float) : "Dynamic Maximum Occlusion" : "1.0" : "Value when the dynamic occlusion is considered fully unoccluded and return 1."
-
-	input SetUnbreakable(void) : "Set Unbreakable."
 ]
 
 @PointClass base( Targetname, SndOpvarSetPointBase ) tags( Sound ) iconsprite("editor/snd_opvar_set.vmat") box_world_aligned( box_inner_mins, box_inner_maxs ) box_world_aligned( box_outer_mins, box_outer_maxs ) = snd_opvar_set_aabb :
@@ -3438,6 +3436,7 @@
 	input Unlock(void) : "Unlock the door."
 	input SetRotationDistance(float) : "Set the distance (in degrees) between Open and Closed."
 	input SetSpeed(float) : "Set the speed at which the door rotates. 100 is default."
+	input SetUnbreakable(void) : "Set Unbreakable."
 ]
 
 
@@ -3891,6 +3890,8 @@
 	input CancelPending(void) : "Cancel any events fired by this relay that are currently pending in the I/O event queue."
 	input EnableCamera(void) : "EnableCamera."
 	input DisableCamera(void) : "DisableCamera."
+	input EnableCameraAll(void) : "EnableCameraAll."
+	input DisableCameraAll(void) : "DisableCameraAll."
 	
 	// Outputs
 	output OnSpawn(void) : "Fired when the relay is spawned. If the relay is set to only trigger once, it will "+
@@ -7745,5 +7746,4 @@ centered_box_oriented
 	"Causes nav mesh to be generated here and at all points that are reachable via ground movement from here."
 [
 ]
-
 
