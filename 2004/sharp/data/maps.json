@@ -118,6 +118,13 @@
     "nomination": true,
     "admin": false
   },
+  "mg_potatogames_04": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 15,
+    "nomination": false,
+    "admin": false
+  },
   "mg_pudding_multigames": {
     "certainTimes": [-1],
     "price": 300,
