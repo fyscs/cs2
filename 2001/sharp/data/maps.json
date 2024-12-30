@@ -1190,6 +1190,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_lila_panic_escape_p": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 80,
+    "nomination": true,
+    "admin": false
+  },
   "ze_little_trip": {
     "certainTimes": [-1],
     "price": 300,
