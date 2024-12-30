@@ -615,6 +615,13 @@
     "cooldown": 30,
     "nomination": false,
     "admin": false
+  },  
+  "ze_eye_factory_escape": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
   },
   "ze_eye_for_an_eye_v22": {
     "certainTimes": [-1],
