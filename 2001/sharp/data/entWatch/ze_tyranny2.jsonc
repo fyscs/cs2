@@ -84,7 +84,7 @@
     "cooldown": 60,
     "team": 3,
     "knife": false,
-    "maxUses": 2,
+    "maxUses": 1,
     "mode": 4,
     "count": 1
   },
