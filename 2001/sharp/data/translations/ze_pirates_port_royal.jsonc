@@ -215,7 +215,7 @@
     "translation": "快跑!别让僵尸挠你屁股!"
   },
   ">>> HOLD FOR 25 SEC <<<": {
-    "translation": "坚守25秒等待铁门打开"
+    "translation": "坚守25秒"
   },
   ">>> HOLD THE ZOMBIES AS LONG AS POSSIBLE <<<": {
     "translation": "尽量把僵尸压在前线!以免巴博萨的炸弹炸死你"
@@ -307,7 +307,7 @@
   "||| KRAKEN HAS THROWN BARRELS ON YOU |||": {
     "translation": "八爪叫兽扔出了滚桶"
   },
-  ">>> |LEVEL 5 KRAKEN GOD!| <<<": {
+  ">>> |LEVEL 6 KRAKEN GOD!| <<<": {
     "translation": "当前关卡 >> 第六关,神级大章鱼模组加载中... <<"
   },
   ">>> GODLY KRAKEN HAS USED DOUBLE WAVE TO CLEAR THE PATH <<<": {
@@ -321,5 +321,17 @@
   },
   ">>> YOU ARE A REAL PIRATE! <<<": {
     "translation": "我是要成为海贼王的男人"
+  },
+  ">>> DOOR OPENS IN 15 SEC <<<": {
+    "translation": "门15秒后打开"
+  },
+  ">>> HOLD FOR 30 SEC <<<": {
+    "translation": "坚守30秒"
+  },
+  ">>> DOOR OPENS IN 20 SEC <<<": {
+    "translation": "门20秒后打开"
+  },
+  ">>> HOLD FOR 20 SEC <<<": {
+    "translation": "坚守20秒"
   }
 }
