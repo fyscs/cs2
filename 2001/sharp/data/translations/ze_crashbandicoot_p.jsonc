@@ -1,0 +1,118 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** GET OFF THE ELEVATOR!!!***": {
+    "translation": "撤离至电梯**"
+  },
+  "***HOLD FOR 20 seconds***": {
+    "translation": "** 防守20秒 **"
+  },
+  "***GO!GO!GO!***": {
+    "translation": "** 快跑 **"
+  },
+  "***GO!***": {
+    "translation": "** 快跑 **"
+  },
+  "LEVEL COMPLETED!!": {
+    "translation": "** 任务完成"
+  },
+  "***HOLD FOR 10 seconds***": {
+    "translation": "** 防守10秒 **"
+  },
+  "***STAY ON GLOWING AREA OR...***": {
+    "translation": "** 呆在发光区域 **"
+  },
+  "***--- YOU WILL DIE WHEN BALLOON STARTS MOVING***": {
+    "translation": "** 气球移动之时,人类暴毙之日 **"
+  },
+  "***TRY TO KILL IT WITH SOMETHING ELSE***": {
+    "translation": "** 杀死它 **"
+  },
+  "***CORTEX DOESNT TAKE DAMAGE FROM BULLETS***": {
+    "translation": "** 子弹无法对其造成伤害 **"
+  },
+  "***NOW FINISH THE LEVEL TO UNLOCK APPLE-CANNON***": {
+    "translation": "** 完成本关可载入 APPLE-CANNON **"
+  },
+  ">> PLAYER HAS CHOSEN LEVEL 1<<": {
+    "translation": "** 第一关载入 **"
+  },
+  ">> PLAYER HAS CHOSEN LEVEL 2<<": {
+    "translation": "** 第二关载入 **"
+  },
+  ">> PLAYER HAS CHOSEN LEVEL EXTREME 2<<": {
+    "translation": "** 第四关载入 **"
+  },
+  ">> PLAYER HAS CHOSEN LEVEL EXTREME 1<<": {
+    "translation": "** 第三关载入 **"
+  },
+  ">> NUKE LAUNCHED<<": {
+    "translation": "** 核爆 **"
+  },
+  "***ZOMBIES INSIDE!!!***": {
+    "translation": "** 僵尸进来了 **"
+  },
+  "***APPLE-CANNON UNLOCKED FOR NEXT ROUNDS***": {
+    "translation": "** APPLE-CANNON-将在下一轮中解锁 **"
+  },
+  "*** Defend both sides***": {
+    "translation": "** 防守住这两条路 **"
+  },
+  "*** SHOOT THE WALL ***": {
+    "translation": "** 朝墙设计 **"
+  },
+  "***HOLD FOR 30 seconds***": {
+    "translation": "** 防守30秒 **"
+  },
+  "*** UKA UKA IS DEFEATED! RUN TO SAFETY!***": {
+    "translation": "** UKA 被我们淦死了,撤离到安全区域 **"
+  },
+  "***DEFEND FOR 10 SECONDS!!***": {
+    "translation": "** 防守10秒 **"
+  },
+  ">> PLAYER HAS CHOSEN LEVEL 3<<": {
+    "translation": "** 第三关载入 **"
+  },
+  ">> PLAYER HAS CHOSEN LEVEL EXTREME 3<<": {
+    "translation": "** 第六关载入 **"
+  },
+  "***Hold for 10 seconds***": {
+    "translation": "** 防守10秒 **"
+  },
+  ">>LEVEL 1<<": {
+    "translation": "** 第一关载入 **"
+  },
+  ">>LEVEL 1 Extreme<<": {
+    "translation": "** 第四关载入 **"
+  },
+  ">>LEVEL 2<<": {
+    "translation": "** 第二关载入 **"
+  },
+  ">>LEVEL 2 Extreme<<": {
+    "translation": "** 第五关载入  **"
+  },
+  ">>LEVEL 3<<": {
+    "translation": "** 第三关载入  **"
+  },
+  ">>LEVEL 3 Extreme<<": {
+    "translation": "** 第六关载入 **"
+  },
+  ">>PLAYER HAS PICKED UP APPLE-CANNON<<": {
+    "translation": "** 苹果发射器已被捡起 **"
+  },
+  "*** OH NO! ITS UKA UKA!!!***": {
+    "translation": "** 这是什么玩意 **"
+  },
+  "*** KILL IT BEFORE IT DOES SOMETHING***": {
+    "translation": "** 淦死它 **"
+  }
+}
