@@ -28,7 +28,7 @@
     "hammerId": "624",
     "team": 3,
     "knife": false,
-    "mode": 1,
+    "mode": 0,
     "count": 6
   },
   {
@@ -36,9 +36,10 @@
     "shortName": "花生酱",
     "buttonClass": "func_button",
     "hammerId": "642",
+    "cooldown": 5,
     "team": 3,
     "knife": false,
-    "mode": 1,
+    "mode": 2,
     "count": 6
   },
   {
@@ -46,19 +47,21 @@
     "shortName": "酸奶",
     "buttonClass": "func_button",
     "hammerId": "650",
+    "cooldown": 6,
     "team": 3,
     "knife": false,
-    "mode": 1,
+    "mode": 2,
     "count": 6
   },
   {
-    "name": "辣椒",
-    "shortName": "辣椒",
+    "name": "胡椒",
+    "shortName": "胡椒",
     "buttonClass": "func_button",
     "hammerId": "658",
+    "cooldown": 11,
     "team": 3,
     "knife": false,
-    "mode": 1,
+    "mode": 2,
     "count": 6
   },
   {
@@ -66,9 +69,10 @@
     "shortName": "铁腚",
     "buttonClass": "func_button",
     "hammerId": "671",
+    "cooldown": 10,
     "team": 3,
     "knife": false,
-    "mode": 1,
+    "mode": 2,
     "count": 6
   }
 ]
