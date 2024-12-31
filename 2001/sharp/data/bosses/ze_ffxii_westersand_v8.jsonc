@@ -43,5 +43,19 @@
       "hitbox": "Espers_Belias_Physbox",
       "display": "Belias"
     }
+  ],
+  "Monsters": [
+    {
+      "identity": "4393",
+      "display": "玛提乌斯"
+    },
+    {
+      "identity": "4389",
+      "display": "卡奥斯"
+    },
+    {
+      "identity": "4391",
+      "display": "贝利亚斯"
+    }
   ]
 }
