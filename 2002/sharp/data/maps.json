@@ -76,6 +76,13 @@
     "nomination": false,
     "admin": false
   },
+   "ttt_cs2_mako_reactor": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 20,
+    "nomination": false,
+    "admin": false
+  },
   "ttt_cs2_toxa_west_v2": {
     "certainTimes": [-1],
     "price": 250,
