@@ -177,7 +177,7 @@
     "buttonClass": "func_button",
     "hammerId": "5355",
     "triggerId": ["5359"],
-    "team": 3,
+    "team": 2,
     "knife": true,
     "mode": 1,
     "count": 20
@@ -245,7 +245,7 @@
     "buttonClass": "func_button",
     "hammerId": "6061",
     "triggerId": ["6064"],
-    "team": 3,
+    "team": 2,
     "knife": true,
     "mode": 1,
     "count": 20
