@@ -26,11 +26,9 @@
     "shortName": "弹药",
     "buttonClass": "func_button",
     "hammerId": "26306",
-    "cooldown": 10,
     "team": 3,
     "knife": false,
-    "maxUses": 12,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
@@ -38,11 +36,9 @@
     "shortName": "免疫",
     "buttonClass": "func_button",
     "hammerId": "26250",
-    "cooldown": 8,
     "team": 3,
     "knife": false,
-    "maxUses": 4,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
@@ -50,11 +46,9 @@
     "shortName": "减速",
     "buttonClass": "func_button",
     "hammerId": "26228",
-    "cooldown": 10,
     "team": 3,
     "knife": false,
-    "maxUses": 12,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
@@ -62,11 +56,9 @@
     "shortName": "爆燃",
     "buttonClass": "func_button",
     "hammerId": "26207",
-    "cooldown": 10,
     "team": 3,
     "knife": false,
-    "maxUses": 12,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
@@ -74,11 +66,9 @@
     "shortName": "神怒",
     "buttonClass": "func_button",
     "hammerId": "26185",
-    "cooldown": 2,
     "team": 3,
     "knife": false,
-    "maxUses": 12,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
@@ -86,11 +76,9 @@
     "shortName": "雷枪",
     "buttonClass": "func_button",
     "hammerId": "26161",
-    "cooldown": 3,
     "team": 3,
     "knife": false,
-    "maxUses": 12,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
@@ -98,11 +86,9 @@
     "shortName": "冰封",
     "buttonClass": "func_button",
     "hammerId": "26133",
-    "cooldown": 7,
     "team": 3,
     "knife": false,
-    "maxUses": 12,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
@@ -110,11 +96,9 @@
     "shortName": "火球",
     "buttonClass": "func_button",
     "hammerId": "26109",
-    "cooldown": 3,
     "team": 3,
     "knife": false,
-    "maxUses": 18,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
@@ -122,11 +106,9 @@
     "shortName": "巨弩",
     "buttonClass": "func_button",
     "hammerId": "26044",
-    "cooldown": 3,
     "team": 3,
     "knife": false,
-    "maxUses": 18,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
@@ -134,35 +116,29 @@
     "shortName": "黑球",
     "buttonClass": "func_button",
     "hammerId": "26020",
-    "cooldown": 3,
     "team": 3,
     "knife": false,
-    "maxUses": 12,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
     "name": "圣光治愈",
-    "shortName": "治疗",
+    "shortName": "圣光治愈",
     "buttonClass": "func_button",
     "hammerId": "25954",
-    "cooldown": 7,
     "team": 3,
     "knife": false,
-    "maxUses": 12,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
     "name": "元素瓶",
-    "shortName": "奶",
+    "shortName": "元素瓶",
     "buttonClass": "func_button",
     "hammerId": "25937",
-    "cooldown": 5,
     "team": 3,
     "knife": false,
-    "maxUses": 12,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
@@ -170,11 +146,9 @@
     "shortName": "加速",
     "buttonClass": "func_button",
     "hammerId": "25904",
-    "cooldown": 7,
     "team": 3,
     "knife": false,
-    "maxUses": 12,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
@@ -183,11 +157,9 @@
     "buttonClass": "func_button",
     "hammerId": "26284",
     "triggerId": ["26285"],
-    "cooldown": 8,
     "team": 2,
     "knife": true,
-    "maxUses": 12,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
@@ -196,11 +168,9 @@
     "buttonClass": "func_button",
     "hammerId": "26268",
     "triggerId": ["26269"],
-    "cooldown": 15,
     "team": 2,
     "knife": true,
-    "maxUses": 20,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
@@ -209,11 +179,9 @@
     "buttonClass": "func_button",
     "hammerId": "26068",
     "triggerId": ["26079"],
-    "cooldown": 3,
     "team": 2,
     "knife": true,
-    "maxUses": 20,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
@@ -222,11 +190,9 @@
     "buttonClass": "func_button",
     "hammerId": "25997",
     "triggerId": ["25998"],
-    "cooldown": 20,
     "team": 2,
     "knife": true,
-    "maxUses": 20,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   },
   {
@@ -235,11 +201,9 @@
     "buttonClass": "func_button",
     "hammerId": "25970",
     "triggerId": ["25971"],
-    "cooldown": 3,
     "team": 2,
     "knife": true,
-    "maxUses": 20,
-    "mode": 4,
+    "mode": 1,
     "count": 1
   }
 ]
