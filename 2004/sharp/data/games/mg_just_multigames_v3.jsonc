@@ -91,7 +91,7 @@
   {
     "id": "2419",
     "cd": 360,
-    "mode": 1,
+    "mode": 6,
     "name": "攀登",
     "class": "func_button",
     "event": "OnPressed"
