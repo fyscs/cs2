@@ -35,5 +35,20 @@
       "increase": true,
       "display": "Boss"
     }
+  ],
+  "Monsters": [
+    {
+      "identity": "Tomb_01_Crystall_1",
+      "display": "水晶1"
+    },
+    {
+      "identity": "Tomb_01_Crystall_2",
+      "display": "水晶2"
+    },
+    {
+      "identity": "Boss_Cactus_Break",
+      "display": "隐身仙人掌"
+    }
   ]
+}
 }
