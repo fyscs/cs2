@@ -129,6 +129,7 @@
 	input AddContext(string) : "Adds a context to this entity's list of response contexts. The format should be 'key:value'."
 	input RemoveContext(string) : "Remove a context from this entity's list of response contexts. The name should match the 'key' of a previously added context."
 	input ClearContext(void) : "Removes all contexts in this entity's list of response contexts."
+	input AddScore(integer) : "AddScore."
 
 	input FireUser1(void) : "Causes this entity's OnUser1 output to be fired."
 	input FireUser2(void) : "Causes this entity's OnUser2 output to be fired."
