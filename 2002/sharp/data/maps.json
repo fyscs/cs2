@@ -76,7 +76,7 @@
     "nomination": false,
     "admin": false
   },
-   "ttt_cs2_mako_reactor": {
+  "ttt_cs2_mako_reactor": {
     "certainTimes": [-1],
     "price": 400,
     "cooldown": 20,
