@@ -182,19 +182,19 @@
     "translation": "**但当失落的Izalith在恶魔的攻击下沦陷后,这个地方就变得不适合生活了,即使是死人也不例外**"
   },
   "** 1/6 crystal lizards were collected **": {
-    "translation": "**水晶蜥蜴-①**"
+    "translation": "**水晶蜥蜴-①/⑥**"
   },
   "** 2/6 crystal lizards were collected **": {
-    "translation": "**水晶蜥蜴-②**"
+    "translation": "**水晶蜥蜴-②/⑥**"
   },
   "** 3/6 crystal lizards were collected **": {
-    "translation": "**水晶蜥蜴-③**"
+    "translation": "**水晶蜥蜴-③/⑥**"
   },
   "** 4/6 crystal lizards were collected **": {
-    "translation": "**水晶蜥蜴-④**"
+    "translation": "**水晶蜥蜴-④/⑥**"
   },
   "** 5/6 crystal lizards were collected **": {
-    "translation": "**水晶蜥蜴-⑤**"
+    "translation": "**水晶蜥蜴-⑤/⑥**"
   },
   "** Items damage has been increased **": {
     "translation": "**神器的伤害已提高**"
@@ -254,40 +254,40 @@
     "translation": "眼球进度--正在进行"
   },
   "** Eye collected 1/7**": {
-    "translation": "**眼球进度--①**"
+    "translation": "**眼球进度--①/⑦**"
   },
   "** Eye collected 2/7**": {
-    "translation": "**眼球进度--②**"
+    "translation": "**眼球进度--②/⑦**"
   },
   "** Eye collected 3/7**": {
-    "translation": "**眼球进度--③**"
+    "translation": "**眼球进度--③/⑦**"
   },
   "** Eye collected 4/7**": {
-    "translation": "**眼球进度--④**"
+    "translation": "**眼球进度--④/⑦**"
   },
   "** Eye collected 5/7**": {
-    "translation": "**眼球进度--⑤**"
+    "translation": "**眼球进度--⑤/⑦**"
   },
   "** Eye collected6/7**": {
-    "translation": "**眼球进度--⑥**"
+    "translation": "**眼球进度--⑥/⑦**"
   },
   "** Eye collected 7/7**": {
-    "translation": "**眼球进度--⑦**"
+    "translation": "**眼球进度--⑦/⑦**"
   },
   "** not enough haryde(nigger) coins for true ending **": {
     "translation": "**没有足够的硬币无法达成真正的结局**"
   },
   "** Fire keeper soul has been picked up 1/5 **": {
-    "translation": "**魂魄进度---①**"
+    "translation": "**防火女魂魄进度---①/⑤**"
   },
   "** Fire keeper soul has been picked up 2/5 **": {
-    "translation": "**魂魄进度---②**"
+    "translation": "**防火女魂魄进度---②/⑤**"
   },
   "** Fire keeper soul has been picked up 3/5 **": {
-    "translation": "**魂魄进度---③**"
+    "translation": "**防火女魂魄进度---③/⑤**"
   },
   "** Fire keeper soul has been picked up 4/5 **": {
-    "translation": "**魂魄进度---④**"
+    "translation": "**防火女魂魄进度---④/⑤**"
   },
   "** Base health has been increased **": {
     "translation": "基础生命值已增加"
@@ -296,7 +296,7 @@
     "translation": "**黑暗之魂**"
   },
   "** Special thanks to Brunelazo343 for custom skins **": {
-    "translation": "**特别鸣谢: Brunelazo**"
+    "translation": "**特别鸣谢: Brunelazo343**"
   },
   "** The paths of this location often run along the edge of deep crevices. ready at any moment to hide the corpse of an unwary traveler in its womb **": {
     "translation": "**这里的小路经常沿着深不见底的裂缝边缘延伸,随时都可能把不小心的旅行者的尸体藏在裂缝里**"
@@ -347,7 +347,7 @@
     "translation": "乌拉席露灭亡后 先知的背叛以及四位王子失踪......"
   },
   "**...Gwyn realized that the abyss is right around him. Then he gathered his last strength...**": {
-    "translation": "格温意识到他彻底笼罩在深渊之中.于是他凝聚起最后的力量"
+    "translation": "葛温意识到他彻底笼罩在深渊之中.于是他凝聚起最后的力量"
   },
   "**...He ordered his Black Knightes to seal the passage to the First Flame...**": {
     "translation": "他向黑骑士下令 封锁初始之火的道路"
@@ -371,24 +371,27 @@
     "translation": "**存活10秒**"
   },
   "** The Final gates will close in 10 seconds **": {
-    "translation": "大门将在 10 秒后关闭"
+    "translation": "最终大门将在 10 秒后关闭"
   },
   "** The Final gates will close in 20 seconds **": {
-    "translation": "大门将在 20 秒后关闭"
+    "translation": "最终大门将在 20 秒后关闭"
   },
   "** The Final gates will close in 40 seconds **": {
-    "translation": "大门将在 40 秒后关闭"
+    "translation": "最终大门将在 40 秒后关闭"
   },
   "** The Final gates will close in 120 seconds **": {
-    "translation": "大门将在 120 秒后关闭"
+    "translation": "最终大门将在 120 秒后关闭"
   },
   "** To Link the Fire ending was completed **": {
-    "translation": "初火掠夺战已完成"
+    "translation": "<< 传火 >> - 结局已完成"
   },
   "** All items charges are restored **": {
     "translation": "所有神器均重置"
   },
   "** Map by HaRyDe. Microsoft. Kotya **": {
     "translation": "地图作者: HaRyDe. Microsoft. Kotya 文本:Zeyu1"
+  },
+  "** Dark Lord ending was completed **": {
+    "translation": "<< 灭火 >> - 结局已完成"
   }
 }
