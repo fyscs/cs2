@@ -18,7 +18,7 @@
 [
   {
     "id": "3460",
-    "cd": 300,
+    "cd": 400,
     "mode": 0,
     "name": "AWP",
     "class": "func_button",
@@ -26,7 +26,7 @@
   },
   {
     "id": "3475",
-    "cd": 300,
+    "cd": 400,
     "mode": 0,
     "name": "喷子",
     "class": "func_button",
@@ -34,7 +34,7 @@
   },
   {
     "id": "3578",
-    "cd": 300,
+    "cd": 400,
     "mode": 2,
     "name": "足球",
     "class": "func_button",
@@ -42,7 +42,7 @@
   },
   {
     "id": "3472",
-    "cd": 300,
+    "cd": 400,
     "mode": 0,
     "name": "跳狙飞人",
     "class": "func_button",
@@ -50,7 +50,7 @@
   },
   {
     "id": "3719",
-    "cd": 300,
+    "cd": 400,
     "mode": 7,
     "name": "躲避球",
     "class": "func_button",
@@ -58,39 +58,23 @@
   },
   {
     "id": "3610",
-    "cd": 300,
+    "cd": 400,
     "mode": 2,
     "name": "刀战",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "3684",
-    "cd": 300,
+    "id": "15099",
+    "cd": 600,
     "mode": 2,
-    "name": "1v1-双枪",
-    "class": "func_button",
-    "event": "OnPressed"
-  },
-  {
-    "id": "3687",
-    "cd": 300,
-    "mode": 2,
-    "name": "1v1-57手枪",
-    "class": "func_button",
-    "event": "OnPressed"
-  },
-  {
-    "id": "3681",
-    "cd": 300,
-    "mode": 2,
-    "name": "1v1-沙鹰",
+    "name": "1v1-手枪",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
     "id": "3507",
-    "cd": 300,
+    "cd": 400,
     "mode": 7,
     "name": "跳绳",
     "class": "func_button",
@@ -98,7 +82,7 @@
   },
   {
     "id": "3497",
-    "cd": 300,
+    "cd": 600,
     "mode": 7,
     "name": "攀登",
     "class": "func_button",
@@ -114,7 +98,7 @@
   },
   {
     "id": "3495",
-    "cd": 300,
+    "cd": 400,
     "mode": 0,
     "name": "滑道",
     "class": "func_button",
@@ -122,7 +106,7 @@
   },
   {
     "id": "3495",
-    "cd": 300,
+    "cd": 400,
     "mode": 7,
     "name": "隧道",
     "class": "func_button",
