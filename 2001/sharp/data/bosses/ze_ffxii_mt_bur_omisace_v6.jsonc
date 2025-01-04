@@ -1,0 +1,73 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Venat_mini_boss_HP",
+      "hitbox": "Venat_mini_boss_physbox",
+      "display": "Venat"
+    },
+    {
+      "iterator": "Bergan_boss1_attack_moon_HP",
+      "hitbox": "bergan_boss1_attack_moon_breakable",
+      "display": "BERGAN_Pre"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "3617",
+      "display": "Bergan"
+    },
+    {
+      "identity": "3666",
+      "display": "Adrammelech"
+    },
+    {
+      "identity": "4488",
+      "display": "LaserEnding2nd"
+    },
+    {
+      "identity": "5236",
+      "display": "BehemothRed"
+    },
+    {
+      "identity": "6093",
+      "display": "LaserEnding1st"
+    },
+    {
+      "identity": "5539",
+      "display": "Mojie"
+    },
+    {
+      "identity": "4666",
+      "display": "Gabranth"
+    },
+    {
+      "identity": "2677",
+      "display": "Sanctuary_Keeper"
+    },
+    {
+      "identity": "3769",
+      "display": "Bergan"
+    }
+  ]
+}
