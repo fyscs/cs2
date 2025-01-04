@@ -81,11 +81,10 @@
     "shortName": "恐惧",
     "buttonClass": "func_button",
     "hammerId": "8635",
-    "cooldown": 60,
     "team": 3,
     "knife": false,
-    "maxUses": 2,
-    "mode": 4,
+    "maxUses": 1,
+    "mode": 3,
     "count": 1
   },
   {
