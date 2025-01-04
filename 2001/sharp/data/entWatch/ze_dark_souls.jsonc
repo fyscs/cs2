@@ -43,7 +43,7 @@
   },
   {
     "name": "黑暗风暴",
-    "shortName": "减速",
+    "shortName": "黑暗风暴",
     "buttonClass": "func_button",
     "hammerId": "26228",
     "team": 3,
@@ -83,7 +83,7 @@
   },
   {
     "name": "白龙之息",
-    "shortName": "冰封",
+    "shortName": "白龙",
     "buttonClass": "func_button",
     "hammerId": "26133",
     "team": 3,
@@ -204,6 +204,16 @@
     "team": 2,
     "knife": true,
     "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "提灯",
+    "shortName": "提灯",
+    "buttonClass": "func_button",
+    "hammerId": "33527",
+    "team": 3,
+    "knife": false,
+    "mode": 0,
     "count": 1
   }
 ]
