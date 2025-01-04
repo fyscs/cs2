@@ -1,0 +1,75 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Nael_HP",
+      "hitbox": "Nael_hitbox",
+      "display": "Nael"
+    },
+    {
+      "iterator": "ADS_HP",
+      "hitbox": "ADS_hitbox_1",
+      "display": "ADS_1"
+    },
+    {
+      "iterator": "Phoenix5_HP",
+      "hitbox": "Phoenix5_hitbox",
+      "display": "Phoenix_5"
+    },
+    {
+      "iterator": "Phoenix4_HP",
+      "hitbox": "Phoenix4_hitbox",
+      "display": "Phoenix_4"
+    },
+    {
+      "iterator": "ADS7_Hp",
+      "hitbox": "ADS7_hitbox",
+      "display": "ADS_7"
+    },
+    {
+      "iterator": "Nael2_Hp_math",
+      "hitbox": "Nael2_hitbox",
+      "display": "Nael_2"
+    },
+    {
+      "iterator": "P4_Boss_HP",
+      "hitbox": "Nael4_Hitbox",
+      "display": "Boss"
+    },
+    {
+      "iterator": "Phoenix1_HP",
+      "hitbox": "Phoenix1_hitbox",
+      "display": "Phoenix_1"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "1859",
+      "display": "Bahamut"
+    },
+    {
+      "identity": "1693",
+      "display": "Golden_Bahamut"
+    }
+  ]
+}
