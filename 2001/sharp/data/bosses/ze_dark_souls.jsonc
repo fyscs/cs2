@@ -51,5 +51,15 @@
       "hitbox": "Gwyn_Hitbox",
       "display": "Gwyn"
     }
+  ],
+  "Monsters": [
+    {
+      "identity": "26706",
+      "display": "NPC"
+    },
+    {
+      "identity": "27277",
+      "display": "Borov"
+    }
   ]
 }
