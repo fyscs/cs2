@@ -1,0 +1,34 @@
+// entWatch configuration file generator.
+// EntWatch Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // name         (string) -> 名字
+  // shortName    (string) -> 计分板短名
+  // buttonClass  (string) -> 按钮的classname
+  // hammerId     (string) -> 武器HammerId
+  // triggerId    (string) -> 触发器HammerId
+  // containerId  (string) -> 容器HammerId
+  // maxUses      (int)    -> 最大使用次数
+  // initCooldown (int)    -> 初始化冷却时间
+  // cooldown     (int)    -> 冷却时间
+  // team         (int)    -> 3 = 人类, 2 = 僵尸
+  // knife        (bool)   -> 是否是匕首, 填错捡不起来
+  // soulEvent    (string) -> 灵魂绑定IO
+  // mode         (int)    -> 0 = 无按钮, 1 = 仅提示, 2 = CD型, 3 = 次数型, 4 = 次数+CD型, 5 = 使用一定次数后进入CD型, 6 = 燃料型(OnHitMin), 7 = 燃料型(OnHitMax), 8 = 计数型(类似狮子王MiniCanon)
+  // count        (int)    -> 神器个数
+
+[
+  {
+    "name": "[PR#]JudahOath_Weapon",
+    "shortName": "[PR#]JudahOath_Weapon",
+    "buttonClass": "func_button",
+    "hammerId": "7230",
+    "cooldown": 92,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
+  }
+]
