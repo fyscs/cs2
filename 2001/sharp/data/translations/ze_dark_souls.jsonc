@@ -251,28 +251,28 @@
     "translation": "Champion模式"
   },
   "** Eye collected 0/7**": {
-    "translation": "眼球进度--正在进行"
+    "translation": "** 深红之眼进度 ⓪/⑦**"
   },
   "** Eye collected 1/7**": {
-    "translation": "**眼球进度--①/⑦**"
+    "translation": "** 深红之眼进度 ①/⑦**"
   },
   "** Eye collected 2/7**": {
-    "translation": "**眼球进度--②/⑦**"
+    "translation": "** 深红之眼进度 ②/⑦**"
   },
   "** Eye collected 3/7**": {
-    "translation": "**眼球进度--③/⑦**"
+    "translation": "** 深红之眼进度 ③/⑦**"
   },
   "** Eye collected 4/7**": {
-    "translation": "**眼球进度--④/⑦**"
+    "translation": "** 深红之眼进度 ④/⑦**"
   },
   "** Eye collected 5/7**": {
-    "translation": "**眼球进度--⑤/⑦**"
+    "translation": "** 深红之眼进度 ⑤/⑦**"
   },
   "** Eye collected6/7**": {
-    "translation": "**眼球进度--⑥/⑦**"
+    "translation": "** 深红之眼进度 ⑥/⑦**"
   },
   "** Eye collected 7/7**": {
-    "translation": "**眼球进度--⑦/⑦**"
+    "translation": "** 深红之眼进度 ⑦/⑦**"
   },
   "** not enough haryde(nigger) coins for true ending **": {
     "translation": "**没有足够的硬币无法达成真正的结局**"
@@ -314,7 +314,7 @@
     "translation": "**管理员设置了正常模式**"
   },
   "** The crimson eye has been picked up **": {
-    "translation": "**防守10秒**"
+    "translation": "**深红之眼已被捡起**"
   },
   "**The gate of a ruined church will open in 30 seconds**": {
     "translation": "**教堂大门将在30秒后开启**"
@@ -353,7 +353,7 @@
     "translation": "他向黑骑士下令 封锁初始之火的道路"
   },
   "**...Gwyn knew that only the Dark Lord will be able to reach him... and the First flame...**": {
-    "translation": "格温知道只有黑暗之王才能触及他...和初始之火...**"
+    "translation": "葛温知道只有黑暗之王才能触及他...和初始之火...**"
   },
   "**... Choose your destiny ...**": {
     "translation": "-请选择您的命运-"
