@@ -728,6 +728,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_ffxii_mt_bur_omisace_v6": {
+    "certainTimes": [11,12,13,14,15,16,17,18,19,20,21,22],
+    "price": 500,
+    "cooldown": 120,
+    "nomination": true,
+    "admin": false
+  },
   "ze_ffxii_paramina_rift": {
     "certainTimes": [12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 800,
