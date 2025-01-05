@@ -22,8 +22,8 @@
 
 [
   {
-    "name": "祝福",
-    "shortName": "弹药",
+    "name": "祝福武器",
+    "shortName": "祝福",
     "buttonClass": "func_button",
     "hammerId": "26306",
     "team": 3,
@@ -33,7 +33,7 @@
   },
   {
     "name": "隐形身躯",
-    "shortName": "免疫",
+    "shortName": "隐形身躯",
     "buttonClass": "func_button",
     "hammerId": "26250",
     "team": 3,
@@ -52,8 +52,8 @@
     "count": 1
   },
   {
-    "name": "混乱风暴",
-    "shortName": "爆燃",
+    "name": "火焰风暴",
+    "shortName": "火焰风暴",
     "buttonClass": "func_button",
     "hammerId": "26207",
     "team": 3,
@@ -72,8 +72,8 @@
     "count": 1
   },
   {
-    "name": "闪电之矛",
-    "shortName": "雷枪",
+    "name": "阳光之枪",
+    "shortName": "阳光之枪",
     "buttonClass": "func_button",
     "hammerId": "26161",
     "team": 3,
@@ -82,8 +82,8 @@
     "count": 1
   },
   {
-    "name": "白龙之息",
-    "shortName": "白龙",
+    "name": "白龙吐息",
+    "shortName": "白龙吐息",
     "buttonClass": "func_button",
     "hammerId": "26133",
     "team": 3,
@@ -92,7 +92,7 @@
     "count": 1
   },
   {
-    "name": "火球术",
+    "name": "火球",
     "shortName": "火球",
     "buttonClass": "func_button",
     "hammerId": "26109",
@@ -102,8 +102,8 @@
     "count": 1
   },
   {
-    "name": "灵魂巨弩",
-    "shortName": "巨弩",
+    "name": "灵魂巨箭",
+    "shortName": "灵魂巨箭",
     "buttonClass": "func_button",
     "hammerId": "26044",
     "team": 3,
@@ -112,8 +112,8 @@
     "count": 1
   },
   {
-    "name": "黑暗灵球",
-    "shortName": "黑球",
+    "name": "黑暗弹",
+    "shortName": "黑暗弹",
     "buttonClass": "func_button",
     "hammerId": "26020",
     "team": 3,
@@ -122,8 +122,8 @@
     "count": 1
   },
   {
-    "name": "圣光治愈",
-    "shortName": "圣光治愈",
+    "name": "阳光疗愈",
+    "shortName": "阳光疗愈",
     "buttonClass": "func_button",
     "hammerId": "25954",
     "team": 3,
@@ -143,7 +143,7 @@
   },
   {
     "name": "绿花草",
-    "shortName": "加速",
+    "shortName": "绿花草",
     "buttonClass": "func_button",
     "hammerId": "25904",
     "team": 3,
@@ -152,8 +152,8 @@
     "count": 1
   },
   {
-    "name": "潜力",
-    "shortName": "潜力",
+    "name": "内在潜力",
+    "shortName": "内在潜力",
     "buttonClass": "func_button",
     "hammerId": "26284",
     "triggerId": ["26285"],
@@ -163,8 +163,8 @@
     "count": 1
   },
   {
-    "name": "大雾",
-    "shortName": "大雾",
+    "name": "喷射酸液",
+    "shortName": "喷射酸液",
     "buttonClass": "func_button",
     "hammerId": "26268",
     "triggerId": ["26269"],
@@ -175,7 +175,7 @@
   },
   {
     "name": "冲击波",
-    "shortName": "冲击",
+    "shortName": "冲击波",
     "buttonClass": "func_button",
     "hammerId": "26068",
     "triggerId": ["26079"],
@@ -185,8 +185,8 @@
     "count": 1
   },
   {
-    "name": "猛毒",
-    "shortName": "猛毒",
+    "name": "猛毒雾",
+    "shortName": "猛毒雾",
     "buttonClass": "func_button",
     "hammerId": "25997",
     "triggerId": ["25998"],
