@@ -1113,6 +1113,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_isla_nublar_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
   "ze_jiangnan_town_v3_1": {
     "certainTimes": [-1],
     "price": 300,
