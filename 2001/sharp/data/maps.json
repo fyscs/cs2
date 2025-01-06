@@ -615,6 +615,13 @@
     "cooldown": 30,
     "nomination": false,
     "admin": false
+  },  
+  "ze_eye_factory_escape": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
   },
   "ze_eye_for_an_eye_v22": {
     "certainTimes": [-1],
@@ -721,6 +728,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_ffxii_mt_bur_omisace_v6": {
+    "certainTimes": [11,12,13,14,15,16,17,18,19,20,21,22],
+    "price": 500,
+    "cooldown": 120,
+    "nomination": true,
+    "admin": false
+  },
   "ze_ffxii_paramina_rift": {
     "certainTimes": [12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 800,
@@ -746,6 +760,13 @@
     "certainTimes": [12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 1000,
     "cooldown": 120,
+    "nomination": true,
+    "admin": false
+  },  
+  "ze_ffxiv_coil_of_bahamut": {
+    "certainTimes": [11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 500,
+    "cooldown": 100,
     "nomination": true,
     "admin": false
   },
@@ -1092,6 +1113,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_isla_nublar_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
   "ze_jiangnan_town_v3_1": {
     "certainTimes": [-1],
     "price": 300,
@@ -1104,6 +1132,13 @@
     "price": 300,
     "cooldown": 30,
     "nomination": true,
+    "admin": false
+  },
+  "ze_jurassicpark_escape_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
     "admin": false
   },
   "ze_jurassic_park_story_p": {
@@ -1187,6 +1222,13 @@
     "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 550,
     "cooldown": 60,
+    "nomination": true,
+    "admin": false
+  },
+  "ze_lila_panic_escape_p": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 80,
     "nomination": true,
     "admin": false
   },
@@ -1384,7 +1426,7 @@
     "price": 600,
     "cooldown": 160,
     "nomination": true,
-    "admin": true
+    "admin": false
   },
   "ze_namviet_p": {
     "certainTimes": [-1],
@@ -1530,6 +1572,13 @@
     "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 1800,
     "cooldown": 160,
+    "nomination": true,
+    "admin": false
+  },
+  "ze_obj_void_v1": {
+    "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 1500,
+    "cooldown": 150,
     "nomination": true,
     "admin": false
   },
@@ -2038,7 +2087,7 @@
     "admin": false
   },
   "ze_skygarden": {
-    "certainTimes": [-1],
+    "certainTimes": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 500,
     "cooldown": 60,
     "nomination": true,
@@ -2190,6 +2239,13 @@
     "cooldown": 100,
     "nomination": true,
     "admin": true
+  },
+  "ze_temple_of_phantom_cs2": {
+    "certainTimes": [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 600,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
   },
   "ze_tensor_of_ice_v1_1": {
     "certainTimes": [-1],

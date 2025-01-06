@@ -438,6 +438,7 @@
 	// Inputs
 	input ShowHudHint(void) : "Shows the hint message."
 	input HideHudHint(void) : "Hides the hint message."
+	input SetMessage(String) : "SetMessage."
 ]
 
 @PointClass base(Targetname, Angles) tags( PlayerPosition )studio("characters/models/shared/spawn/ctm_spawnpoint.vmdl")

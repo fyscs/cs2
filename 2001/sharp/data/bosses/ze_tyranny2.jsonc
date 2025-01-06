@@ -58,6 +58,7 @@
       "iterator": "bosshp1",
       "backup": "bosshp2",
       "counter": "bosshp3",
+      "stages": 1,
       "hitbox": "s5boss_hit",
       "display": "BOSS"
     },
@@ -66,6 +67,7 @@
       "iterator": "bosshp1",
       "backup": "bosshp2",
       "counter": "bosshp3",
+      "stages": 2,
       "hitbox": "s5boss_angra_hit",
       "display": "BOSS"
     },
@@ -74,6 +76,7 @@
       "iterator": "bosshp1",
       "backup": "bosshp2",
       "counter": "bosshp3",
+      "stages": 3,
       "hitbox": "s5boss_diablo_hit",
       "display": "BOSS"
     },

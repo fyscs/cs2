@@ -1,0 +1,118 @@
+// entWatch configuration file generator.
+// EntWatch Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // name         (string)   -> 名字
+  // shortName    (string)   -> 计分板短名
+  // buttonClass  (string)   -> 按钮的classname
+  // hammerId     (string)   -> 武器HammerId
+  // triggerId    (string[]) -> 触发器HammerId
+  // containerId  (string)   -> 容器HammerId
+  // maxUses      (int)      -> 最大使用次数
+  // initCooldown (int)      -> 初始化冷却时间
+  // cooldown     (int)      -> 冷却时间
+  // team         (int)      -> 3 = 人类, 2 = 僵尸
+  // knife        (bool)     -> 是否是匕首, 填错捡不起来
+  // soulEvent    (string)   -> 灵魂绑定IO
+  // hud          (bool)     -> Hud面板显示
+  // mode         (int)      -> 0 = 无按钮, 1 = 仅提示, 2 = CD型, 3 = 次数型, 4 = 次数+CD型, 5 = 使用一定次数后进入CD型, 6 = 燃料型(OnHitMin), 7 = 燃料型(OnHitMax), 8 = 计数型(类似狮子王MiniCanon)
+  // count        (int)      -> 神器个数
+
+[
+  {
+    "name": "推力",
+    "shortName": "推力",
+    "buttonClass": "game_ui",
+    "hammerId": "3185",
+    "cooldown": 0,
+    "team": 3,
+    "knife": false,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "寒冰",
+    "shortName": "寒冰",
+    "buttonClass": "game_ui",
+    "hammerId": "11505",
+    "cooldown": 0,
+    "team": 3,
+    "knife": false,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "冰",
+    "shortName": "冰",
+    "buttonClass": "game_ui",
+    "hammerId": "11515",
+    "triggerId": ["11524"],
+    "cooldown": 0,
+    "team": 2,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "推",
+    "shortName": "推",
+    "buttonClass": "game_ui",
+    "hammerId": "11531",
+    "triggerId": ["11526"],
+    "cooldown": 0,
+    "team": 2,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "Damage1",
+    "shortName": "Dam1",
+    "buttonClass": "func_button",
+    "hammerId": "11556",
+    "triggerId": ["11583"],
+    "cooldown": 0,
+    "team": 2,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "Damage2",
+    "shortName": "Dam2",
+    "buttonClass": "func_button",
+    "hammerId": "11565",
+    "triggerId": ["11584"],
+    "cooldown": 0,
+    "team": 2,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "Damage3",
+    "shortName": "Dam3",
+    "buttonClass": "func_button",
+    "hammerId": "11570",
+    "triggerId": ["11587"],
+    "cooldown": 0,
+    "team": 2,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  },
+  {
+    "name": "Damage4",
+    "shortName": "Dam4",
+    "buttonClass": "func_button",
+    "hammerId": "11581",
+    "triggerId": ["11590"],
+    "cooldown": 0,
+    "team": 2,
+    "knife": true,
+    "mode": 1,
+    "count": 1
+  }
+]

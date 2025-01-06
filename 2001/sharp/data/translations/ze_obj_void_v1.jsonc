@@ -1,0 +1,340 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Humans remains : -37": {
+    "translation": "人数设定:少于 设定值"
+  },
+  "Fast Ending Triggered": {
+    "translation": ">> 快速结局 >>"
+  },
+  "Humans remains : +37": {
+    "translation": "人数设定:大于 设定值"
+  },
+  "Normal Ending Triggered": {
+    "translation": "<< 普通结局 <<"
+  },
+  "This is it.": {
+    "translation": "就是这里了."
+  },
+  "The Source of the zombie infection...": {
+    "translation": "丧尸危机的源头..."
+  },
+  "Humans must reach the Core of the facility and destroy the lab": {
+    "translation": "必须抵达设施的核心位置,炸毁实验室"
+  },
+  "You'll have to go to the Maintenance Area to turn off the power first however.": {
+    "translation": "我们首先要去储藏区把电闸拉了"
+  },
+  "And Optionally take a quick break at the armory to catch supplies before going into the labs.": {
+    "translation": "在进入实验室之前可以到军械库稍做休息,同时也可以补充装备.."
+  },
+  "Make sure to not stay behind. The Void will consume those who remain alone.": {
+    "translation": "保持移动不要掉队!尸潮会吞噬掉那些离队的人"
+  },
+  "Best of luck.": {
+    "translation": "祝你们好运"
+  },
+  "CSGO Ported/Modified by TuPu": {
+    "translation": "CSGO移植/修改:TuPu"
+  },
+  "Find the main Power Control Room.": {
+    "translation": "找到电力主控制室!"
+  },
+  "The Door seems to be stuck...": {
+    "translation": "门看起来卡住了..."
+  },
+  "It will take a bit to get the button working again": {
+    "translation": "重新运作还得一会"
+  },
+  "Defend for 1 minutes": {
+    "translation": "大概60秒"
+  },
+  "Door opened": {
+    "translation": "门开了"
+  },
+  "They are here!": {
+    "translation": "就在这里!"
+  },
+  "We need some time to take down the ladder.": {
+    "translation": "需要些时间把梯子放下来"
+  },
+  "Keep holding until we can get it down": {
+    "translation": "在这之前守住!"
+  },
+  "Keep holding until the door closed!!": {
+    "translation": "门关之前守住!"
+  },
+  "The keypad is stuck.": {
+    "translation": "面板卡住了."
+  },
+  "Defend until we repair it.": {
+    "translation": "需要时间修复,守住"
+  },
+  "Go! Get in the control room!": {
+    "translation": "快进入控制室"
+  },
+  "Another side door is opened!": {
+    "translation": "另一边的门开了"
+  },
+  "The Main Power Control Room is ahead!": {
+    "translation": "主控室就在前面"
+  },
+  "Go through the door to your left.": {
+    "translation": "穿过门到左边去"
+  },
+  "And make sure to not touch that deadly liquid below...": {
+    "translation": "不要碰下面的有毒液体..."
+  },
+  "Well. It seems safe here. Take a time to rest before..": {
+    "translation": "看起来是安全屋,可以在那里休整一下.."
+  },
+  "Shit": {
+    "translation": "靠"
+  },
+  "Hold the gate until the power comes back": {
+    "translation": "电力正在恢复,守住"
+  },
+  "33%": {
+    "translation": "还有两处"
+  },
+  "66%": {
+    "translation": "还有一处"
+  },
+  "Its back! Run through the Door!": {
+    "translation": "又来了,快穿过门"
+  },
+  "This facility is on the edge of collapsing.": {
+    "translation": "设施处在崩溃边缘"
+  },
+  "We must find and destroy the main labs as soon as possible.": {
+    "translation": "我们需要尽快摧毁主实验室"
+  },
+  "Cade this area and defend until we can bring down the wood panel.": {
+    "translation": "在我们拆除障碍物时确保这里安全"
+  },
+  "Its down! Keep moving.": {
+    "translation": "清除完成,保持移动"
+  },
+  "We're almost out of the Storage & Maintenance Wing of the Facility": {
+    "translation": "我们快要离开设施的储藏区域了"
+  },
+  "We just need to cross the cliffside and reach the elevator to go to the labs below.": {
+    "translation": "我们只需穿过悬崖到电梯那就能去到下面的实验室了"
+  },
+  "It seems that the door to the cliffside is locked however.  We're gonna have to take a detour around": {
+    "translation": "看起来边缘区域的道路被封锁了,得绕路了!"
+  },
+  "Get Ready to defend.": {
+    "translation": "准备防守"
+  },
+  "Hold for 40s!": {
+    "translation": "还有40秒"
+  },
+  "The Door gave away! Its open!": {
+    "translation": "门开了!"
+  },
+  "Watch out the pipe!": {
+    "translation": "小心管道"
+  },
+  "Shit.": {
+    "translation": "Cao"
+  },
+  "There's zombies below": {
+    "translation": "下面有僵尸"
+  },
+  "Hold the Cliffside until we can get the door fixed.": {
+    "translation": "守住边缘区域!正在想办法打开这扇门!"
+  },
+  "The door is open.": {
+    "translation": "门开了"
+  },
+  "Gate '2' is opening...": {
+    "translation": "门二正在打开..."
+  },
+  "Gate '2' will open in 1 minute.": {
+    "translation": "门二还有60秒打开"
+  },
+  "Fall back!": {
+    "translation": "撤退"
+  },
+  "We're safe here.": {
+    "translation": "这里是安全的"
+  },
+  "The door on right will be open soon.": {
+    "translation": "右边的门马上就要开了"
+  },
+  "Find the Main Reactor.": {
+    "translation": "找到主反应堆"
+  },
+  "Keep on moving.": {
+    "translation": "保持移动"
+  },
+  "Door locked.": {
+    "translation": "门锁上了"
+  },
+  "Defend for 30s.": {
+    "translation": "还有30秒"
+  },
+  "Its open! Keep going further into the labs.": {
+    "translation": "门开了,向实验室内部继续前进!"
+  },
+  "Defend here! Door opening in 30 seconds.": {
+    "translation": "门还有30秒打开"
+  },
+  "Defend yourself!": {
+    "translation": "坚守!"
+  },
+  "Its opening! Get running and dont get left behind!": {
+    "translation": "门开了!保持移动不要掉队!"
+  },
+  "This door is open really slow, defend the line!": {
+    "translation": "这扇门启动很慢,守住!"
+  },
+  "The Door will open in 30s": {
+    "translation": "还有30秒打开"
+  },
+  "This is it. The Control Room before the reactor.": {
+    "translation": "是这里.反应堆的前置控制室"
+  },
+  "We must disable the security systems before we can open the door however.": {
+    "translation": "开这扇门之前我们必须要关掉安全系统!"
+  },
+  "Here they come!": {
+    "translation": "僵尸来了"
+  },
+  "Resist until the Security System is shut off!": {
+    "translation": "守住这里!安全系统下线还需要一点时间"
+  },
+  "The Security system is down! Open the door and run to the reactor!": {
+    "translation": "安全系统已下线!开门并尽快前往反应堆!"
+  },
+  "This is the entrance to the Core!": {
+    "translation": "守住反应堆入口!"
+  },
+  "Hold here until we can get the Door to open!": {
+    "translation": "在我们把门打开之前守住这里!"
+  },
+  "Its opening! Get inside first!": {
+    "translation": "门开了!快进来!"
+  },
+  "Hold the Bridge!": {
+    "translation": "守住这座桥!"
+  },
+  "Watch out the falling debris from the top of the reactor!": {
+    "translation": "小心反应堆上方掉下来的碎片!"
+  },
+  "That wont hold them for long.": {
+    "translation": "那玩意挡不了它们太久"
+  },
+  "The Core Self Destruct sequence will begin in 15 seconds.": {
+    "translation": "核心自毁程序将于15秒后启动"
+  },
+  "The Reactor self destruct sequence has started!": {
+    "translation": "核心自毁程序启动!"
+  },
+  "The Core Self Destruct sequence will begin in few minutes.": {
+    "translation": "核心自毁程序将于一会之后后启动"
+  },
+  "They're coming.": {
+    "translation": "僵尸来了..."
+  },
+  "Turn the valves to destabilize the core!": {
+    "translation": ">> 扭转阀门使核心超载 >>"
+  },
+  "The gate will open in 25 seconds. Defend!": {
+    "translation": "门还有25秒打开"
+  },
+  "Its opening! Run!": {
+    "translation": "正在打开,快跑"
+  },
+  "Hold here until the door opens!": {
+    "translation": "门还要一会才能打开"
+  },
+  "It seems to have worked.": {
+    "translation": "看起来有用了!"
+  },
+  "The Whole system restarted.": {
+    "translation": "系统正在重启"
+  },
+  "50 Seconds till the panel gets working. Keep defending the hallways!": {
+    "translation": "控制面板还有50秒恢复作用"
+  },
+  "The System restarted! Open the door and head to the control room!": {
+    "translation": "系统完成重启!打开门前往控制室"
+  },
+  "The door mechanism is burnt": {
+    "translation": "门的传动部分已经烧毁!"
+  },
+  "We need to find a way to repair it": {
+    "translation": "需要想办法修复"
+  },
+  "Oh fuck.": {
+    "translation": "哦草"
+  },
+  "A Battery should be enough to get the thing running again.": {
+    "translation": "需要块动力电池,这样应该能重新启动"
+  },
+  "Try to look around for one.": {
+    "translation": "想办法找一块"
+  },
+  "Split up and defend both sides.": {
+    "translation": "分开防守两边"
+  },
+  "We need to configuration both side panel": {
+    "translation": "需要重新设置两边面板"
+  },
+  "Decontamination Process Started.": {
+    "translation": "净化程序已启动!"
+  },
+  "20 Seconds Remaining. Stay here and defend.": {
+    "translation": "还有20秒"
+  },
+  "The doors are unlocked! Activate the eyescanner and keep moving forward!": {
+    "translation": "门已解除锁定,完成扫描并继续前进!"
+  },
+  "We are almost on the other side.": {
+    "translation": "我们就快到那里了"
+  },
+  "Just like a little bit more and we should reach the Research Labs": {
+    "translation": "我们离实验室应该不远了!"
+  },
+  "Defend for 40s": {
+    "translation": "防守40秒"
+  },
+  "Door gave in. Keep moving!": {
+    "translation": "不要放弃,继续前进"
+  },
+  "GENERATOR STARTUP ACTIVATED.": {
+    "translation": "发电机正在暖机"
+  },
+  "Resist for about 1 minute.": {
+    "translation": "需要大概60秒"
+  },
+  "The Generator is working! Get the hell out of here!": {
+    "translation": "发电机启动了!快离开这里"
+  },
+  "This thing is gonna be loud once it starts warming up.": {
+    "translation": "这玩意启动的时候声音还蛮大的."
+  },
+  "Lots of zombies are inbound": {
+    "translation": "大量僵尸来袭"
+  },
+  "The Emergency Generator!": {
+    "translation": "紧急发电机!"
+  },
+  "Press both buttons to turn it on!": {
+    "translation": "按下两处按钮启动它"
+  },
+  "Go into that office before the zombies catch up with us.": {
+    "translation": "在被追上之前到那办公室里面去!"
+  }
+}
