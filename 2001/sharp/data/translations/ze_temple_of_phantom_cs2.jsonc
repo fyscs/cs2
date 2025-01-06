@@ -1,0 +1,184 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Holy Magic has been picked up**": {
+    "translation": "一名玩家捡起圣灵"
+  },
+  "**Void Mystery has been picked up**": {
+    "translation": "一只僵尸捡起邪灵"
+  },
+  "**Release the Son of Death from the Void and rush towards the target**": {
+    "translation": "从虚空中释放死亡之子,冲向前方"
+  },
+  "**Right click to form a Void Shield to resist human attacks**": {
+    "translation": "右击形成盾,抵御人类攻击"
+  },
+  "** ...GRAVITY INBOUND AT THE ENDING !! **": {
+    "translation": "重力将在最后结局登场!"
+  },
+  "**Light Summoning Magic has been picked up**": {
+    "translation": "光之召唤已被拾取"
+  },
+  "**Secret of Ice has been picked up**": {
+    "translation": "神秘之寒冰已被拾起"
+  },
+  "**Right click to release a small snowstorm to slow down surrounding enemies**": {
+    "translation": " 右键释放暴风雪减速周围的僵尸 "
+  },
+  "**Freeze enemies around 5 seconds after release**": {
+    "translation": " 释放后定身僵尸五秒 "
+  },
+  "**The Dark Mystery has been picked up**": {
+    "translation": " *神秘之黑暗已被拾起 "
+  },
+  "**Right click to release the Ice Blue Blade to damage and slow down the enemy**": {
+    "translation": " 右键释放冰剑对敌人造成伤害以及减速** "
+  },
+  "**Release the dark magic to heal and accelerate**": {
+    "translation": " 释放黑魔法治愈并加速 "
+  },
+  "**The fire of extinction has been picked up**": {
+    "translation": " 绝灭之火已被拾起 "
+  },
+  "**The extreme cold storm has been picked up**": {
+    "translation": " 极寒风暴已被拾取 "
+  },
+  "**Secret Chaos has been picked up**": {
+    "translation": " 神秘之混沌已被拾取  "
+  },
+  "**Right click can destroy all human artifact effects instantly**": {
+    "translation": " 右键可以立即终结所有人类神器的效果 "
+  },
+  "**Release chaotic magic to blind enemies**": {
+    "translation": " 释放混乱魔法遮蔽敌人视觉 "
+  },
+  "**The torch has been picked up**": {
+    "translation": " 火把已被拾起 "
+  },
+  "**The wind has been picked up**": {
+    "translation": " 风已被拾起 "
+  },
+  "** 5 **": {
+    "translation": " 5 "
+  },
+  "** 20 **": {
+    "translation": " 20 "
+  },
+  "** 18 **": {
+    "translation": " 18 "
+  },
+  "**30 **": {
+    "translation": " 30 "
+  },
+  "** 60 **": {
+    "translation": " 60 "
+  },
+  "** Regional Slave **": {
+    "translation": " 奴隶 "
+  },
+  "** Great Earthquake **": {
+    "translation": " 地震 "
+  },
+  "** 45 **": {
+    "translation": " 45 "
+  },
+  "** Sky Roar **": {
+    "translation": "  天空咆哮 "
+  },
+  "** Fire Field **": {
+    "translation": " 烈焰之地 "
+  },
+  "** Lava Rise **": {
+    "translation": " 岩浆升起 "
+  },
+  "** 40 **": {
+    "translation": "** 40 **"
+  },
+  "** Phase 2 **": {
+    "translation": "**第二关 **"
+  },
+  "** Freezing air **": {
+    "translation": "**  寒风凛冽 **"
+  },
+  "** scorching sun **": {
+    "translation": "**  炎阳 **"
+  },
+  "** Big storm **": {
+    "translation": "**  风暴 **"
+  },
+  "** Freezing cold **": {
+    "translation": "**  严寒 **"
+  },
+  "** Frozen miles **": {
+    "translation": "** 千里冰封 **"
+  },
+  "** Burning with fire **": {
+    "translation": "**   烈焰燃烧 **"
+  },
+  "** Highly toxic **": {
+    "translation": ">> 剧毒 <<"
+  },
+  "** Unfreezing zombies **": {
+    "translation": " 僵尸解冻 "
+  },
+  "** phase 1 complete**": {
+    "translation": " 关卡完成 "
+  },
+  "** phase 2**": {
+    "translation": " 第二关 "
+  },
+  "** phase 1**": {
+    "translation": " 第一关 "
+  },
+  "** 35 **": {
+    "translation": " 35 "
+  },
+  "**you only have 350 seconds to kill this dragon**": {
+    "translation": " 战斗时限只有六分钟 "
+  },
+  "** 10 **": {
+    "translation": " 10 "
+  },
+  "** 80 **": {
+    "translation": " 80 "
+  },
+  "** 25 **": {
+    "translation": " 25 "
+  },
+  "** 50 **": {
+    "translation": " 50 "
+  },
+  "**Right click to wield a weapon to launch an attack**": {
+    "translation": " 右键挥动武器发动攻击 "
+  },
+  "**Quick use SAWDWDSA can release the ultimate magic**": {
+    "translation": " SAWDWDSA可以释放终级魔法 "
+  },
+  "**A player chose the Holy Knight**": {
+    "translation": " 一位玩家选择成为神圣骑士 "
+  },
+  "**Can use Holy Light to heal allies and slow down enemies**": {
+    "translation": " 使用圣光治愈同伴,减速敌人 "
+  },
+  "**Use the power of the Holy Sword to attack the enemy remotely**": {
+    "translation": " 使用圣剑的力量攻击远处的敌人 "
+  },
+  "** Phase 1 **": {
+    "translation": " 关卡一 "
+  },
+  "** The far door opens after 20 seconds **": {
+    "translation": " 门20秒后打开 "
+  },
+  "** ze_temple_of_phantom_v2 **": {
+    "translation": " 幻想神殿 文本:Zeyu1"
+  }
+}
