@@ -1,0 +1,247 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>A zombie got some power from Shiva<<": {
+    "translation": "***一位僵尸获得了冰神希瓦的力量***"
+  },
+  ">>Iron Chariot<<": {
+    "translation": "钢铁战车"
+  },
+  ">>Dalamud Dive<<": {
+    "translation": "杜拉姆俯冲"
+  },
+  ">>Lunar Dynamo<<": {
+    "translation": "月环"
+  },
+  ">>10<<": {
+    "translation": "10"
+  },
+  ">>Million Nuclear Explosionst<<": {
+    "translation": "百万核爆"
+  },
+  "|||No.1 Lunar Dynamo|||": {
+    "translation": "月环"
+  },
+  "|||No.1 Iron Chariot|||": {
+    "translation": "钢铁战车"
+  },
+  ">>Collision<<": {
+    "translation": "俯冲"
+  },
+  ">>Revelation<<": {
+    "translation": "启示"
+  },
+  ">>Gravity<<": {
+    "translation": "引力"
+  },
+  ">>A zombie got some power from Titan<<": {
+    "translation": "一位僵尸获得了土神泰坦的力量"
+  },
+  ">> Piercing Laser <<": {
+    "translation": "激光"
+  },
+  ">> Repelling Cannon <<": {
+    "translation": "加农炮"
+  },
+  ">>Provoke<<": {
+    "translation": "激发"
+  },
+  ">>Bahamut is going to destroy us with trillions of nuclear explosions<<": {
+    "translation": "巴哈姆特会用数万亿核爆消灭我们"
+  },
+  ">>The phoenix's shrill cry curs through the pall of desperation!<<": {
+    "translation": "不死鸟尖锐的叫声在绝望的阴云中怒吼"
+  },
+  ">> Gleaming steel, take fire and descend! <<": {
+    "translation": "闪耀的钢铁战车,携带着天火降临"
+  },
+  ">> Gleaming steel, plunge and take fiery edge! <<": {
+    "translation": "***直升机还有60秒到达***"
+  },
+  ">> From red moon I draw steel, in my descent to bare! <<": {
+    "translation": "我从红月中汲取能量,我下方将会夷为平地"
+  },
+  ">> From red moon I descend, upon burning earth to tread! <<": {
+    "translation": "我从红月下降临,踏上这燃烧的大地"
+  },
+  ">>From red moon I descend, a hail of stars to bring! <<": {
+    "translation": "我从红月下降临,带来星辰陨石"
+  },
+  ">>From on high I descend, a hail of stars to bring!<<": {
+    "translation": "***我从高处降临,带来星辰陨石***"
+  },
+  ">>A zombie got some power from Ramuh<<": {
+    "translation": "一位僵尸获得了雷神拉姆的力量"
+  },
+  ">>A zombie got some power from Garuda<<": {
+    "translation": "一位僵尸获得了风神迦楼罗的力量"
+  },
+  ">>A zombie got some power from Ifrit<<": {
+    "translation": "一位僵尸获得了火神伊弗利特的力量"
+  },
+  ">>A player has picked up Electric <<": {
+    "translation": "一名玩家已捡起电"
+  },
+  ">>Fountain of Fire<<": {
+    "translation": "地涌之火"
+  },
+  ">>Shield<<": {
+    "translation": "护盾"
+  },
+  ">>BrandofPurgatory<<": {
+    "translation": "炼狱印记"
+  },
+  ">>FlamesofUnforgiveness<<": {
+    "translation": "不可饶恕之火"
+  },
+  ">>A player has learned an ability from Bard<<": {
+    "translation": "一位玩家成为了吟游诗人"
+  },
+  ">>A player has learned an ability from Astrologian <<": {
+    "translation": "一位玩家成为了占星术士"
+  },
+  ">>A player has learned an ability from White Mage <<": {
+    "translation": "一位玩家成为了白魔法师"
+  },
+  ">>Map by Runa<<": {
+    "translation": "地图作者: Runa 文本:Zeyu1"
+  },
+  ">>Thanks to Tianli & Dakotec and i7 for providing models<<": {
+    "translation": "特别鸣谢: Tianli & Dakotec and i7"
+  },
+  "Stage -> Bahamut": {
+    "translation": "关卡-巴哈姆特"
+  },
+  "Stage -> Truth": {
+    "translation": "关卡-真源之章"
+  },
+  "Stage -> Aggression": {
+    "translation": "关卡-入侵之章"
+  },
+  "Stage ->Encounter": {
+    "translation": "关卡-邂逅之章"
+  },
+  ">>AFK 12s<<": {
+    "translation": "12秒后传送"
+  },
+  ">>Defend 20s<<": {
+    "translation": "防守20秒"
+  },
+  ">>Wait until the platform go up<<": {
+    "translation": "等待直到平台上升"
+  },
+  ">>Zombies can climb up from both sides<<": {
+    "translation": "*僵尸可以从两侧爬上去"
+  },
+  ">>Phoenix is going to wake up in 10 seconds<<": {
+    "translation": "蛮神不死鸟将在10秒后苏醒"
+  },
+  ">>Defend<<": {
+    "translation": "保持防守"
+  },
+  ">>AFK 5s<<": {
+    "translation": "5秒后传送"
+  },
+  ">>Provoke Unlock <<": {
+    "translation": " Provoke Unlock"
+  },
+  ">>Look! There is a teleporter<<": {
+    "translation": "这里有个传送器"
+  },
+  ">>The road on the right is blocked. We should find another way to go<<": {
+    "translation": "右边的路被堵住了!我们只能寻找其他的路了"
+  },
+  ">>YOU FAIL<<": {
+    "translation": "失败"
+  },
+  ">>Defend 15s<<": {
+    "translation": "防守15秒"
+  },
+  ">>Defend until both sides doors open<<": {
+    "translation": "守住直到两边的门打开"
+  },
+  ">>Destory ADS in 180s<<": {
+    "translation": "在180秒内摧毁自主防御系统"
+  },
+  ">>Small ADS can provide speed to zombie<<": {
+    "translation": "小型ADS会为僵尸提供加速"
+  },
+  ">>Destory small ADS can also reduce the main ADS hp<<": {
+    "translation": "摧毁小型自主防御系统也可降低最终防御系统的血量"
+  },
+  ">>AFK 40s<<": {
+    "translation": "40秒传送"
+  },
+  ">>AFK 80s<<": {
+    "translation": "80秒传送"
+  },
+  ">>Last defense, keep holding here for 15s!<<": {
+    "translation": "最后的防守,守住这最后的15秒"
+  },
+  ">>Defend until the path is clear<<": {
+    "translation": "守住直到区域清空"
+  },
+  ">>Defend 40s for the teleport<<": {
+    "translation": "还有40秒传送"
+  },
+  ">>Bahamut is going to wake up in 10 seconds<<": {
+    "translation": "巴哈姆特将在10秒后苏醒"
+  },
+  ">>Zenos : Yout won't stay alive from here.<<": {
+    "translation": "芝诺斯:你不会活着离开这里"
+  },
+  ">>Phoenix is going to destroy us with FlamesofRebirth<<": {
+    "translation": "不死鸟将使用重生之火消灭我们"
+  },
+  ">>9<<": {
+    "translation": "9"
+  },
+  ">>8<<": {
+    "translation": "8"
+  },
+  ">>7<<": {
+    "translation": "7"
+  },
+  ">>6<<": {
+    "translation": "6"
+  },
+  ">>5<<": {
+    "translation": "5"
+  },
+  ">>4<<": {
+    "translation": "4"
+  },
+  ">>3<<": {
+    "translation": "3"
+  },
+  ">>2<<": {
+    "translation": "2"
+  },
+  ">>1<<": {
+    "translation": "1"
+  },
+  ">>0<<": {
+    "translation": "0"
+  },
+  ">>Bahamut<<": {
+    "translation": "巴哈姆特遭遇战"
+  },
+  ">>Truth<<": {
+    "translation": "真源之章"
+  },
+  ">>Aggression<<": {
+    "translation": "入侵之章"
+  },
+  ">>Encounter<<": {
+    "translation": "邂逅之章"
+  }
+}
