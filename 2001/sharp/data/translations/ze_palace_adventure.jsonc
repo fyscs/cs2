@@ -20,10 +20,10 @@
     "translation": "**僵尸大逃亡**"
   },
   "**Wind[Forward]**": {
-    "translation": "**风[前进]**"
+    "translation": "**风[后退]**"
   },
   "**Wind[Backward]**": {
-    "translation": "**风[向后]**"
+    "translation": "**风[前进]**"
   },
   "**[ice Laser]**": {
     "translation": "**[冰激光]**"
@@ -53,13 +53,13 @@
     "translation": "**僵尸逃脱**"
   },
   "**Flame Holy**": {
-    "translation": "**火焰神圣**"
+    "translation": "**火焰神圣[跳入身后水池]**"
   },
   "**Wind of Destruction**": {
-    "translation": "**毁灭之风**"
+    "translation": "**毁灭之风[后退]**"
   },
   "**Burn of Wind**": {
-    "translation": "**风的燃烧**"
+    "translation": "**风的燃烧[前进]**"
   },
   "**Dance of Death**": {
     "translation": "**死亡之舞**"
