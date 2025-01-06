@@ -21,8 +21,8 @@
 
 [
   {
-    "name": "[PR#]JudahOath_Weapon",
-    "shortName": "[PR#]JudahOath_Weapon",
+    "name": "犹大",
+    "shortName": "犹大",
     "buttonClass": "func_button",
     "hammerId": "7230",
     "cooldown": 92,
