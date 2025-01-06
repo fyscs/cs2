@@ -1,184 +1,168 @@
-// Console SayText i18n file generator.
-// i18n Version v21
+// entWatch configuration file generator.
+// EntWatch Version v21
 // Copyright 2024 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
-  // blocked    (bool) -> 屏蔽本句输出
-  // clearText  (bool) -> 清除所有HUD文本
-  // clearTimer (bool) -> 清除所有倒计时
-  // countdown  (int)  -> 添加特殊的独立的倒计时
+  // name         (string) -> 名字
+  // shortName    (string) -> 计分板短名
+  // buttonClass  (string) -> 按钮的classname
+  // hammerId     (string) -> 武器HammerId
+  // triggerId    (string) -> 触发器HammerId
+  // containerId  (string) -> 容器HammerId
+  // maxUses      (int)    -> 最大使用次数
+  // initCooldown (int)    -> 初始化冷却时间
+  // cooldown     (int)    -> 冷却时间
+  // team         (int)    -> 3 = 人类, 2 = 僵尸
+  // knife        (bool)   -> 是否是匕首, 填错捡不起来
+  // soulEvent    (string) -> 灵魂绑定IO
+  // mode         (int)    -> 0 = 无按钮, 1 = 仅提示, 2 = CD型, 3 = 次数型, 4 = 次数+CD型, 5 = 使用一定次数后进入CD型, 6 = 燃料型(OnHitMin), 7 = 燃料型(OnHitMax), 8 = 计数型(类似狮子王MiniCanon)
+  // count        (int)    -> 神器个数
 
-{
-  "**Holy Magic has been picked up**": {
-    "translation": "一名玩家捡起圣灵"
+[
+  {
+    "name": "圣灵",
+    "shortName": "圣灵",
+    "buttonClass": "func_button",
+    "hammerId": "2685",
+    "cooldown": 50,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
   },
-  "**Void Mystery has been picked up**": {
-    "translation": "一只僵尸捡起邪灵"
+  {
+    "name": "邪灵",
+    "shortName": "邪灵",
+    "buttonClass": "func_button",
+    "hammerId": "2667",
+    "triggerId": ["2664"],
+    "cooldown": 50,
+    "team": 2,
+    "knife": true,
+    "mode": 2,
+    "count": 1
   },
-  "**Release the Son of Death from the Void and rush towards the target**": {
-    "translation": "从虚空中释放死亡之子,冲向前方"
+  {
+    "name": "天雷",
+    "shortName": "天雷",
+    "buttonClass": "func_button",
+    "hammerId": "2637",
+    "cooldown": 120,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
   },
-  "**Right click to form a Void Shield to resist human attacks**": {
-    "translation": "右击形成盾,抵御人类攻击"
+  {
+    "name": "寒霜",
+    "shortName": "寒霜",
+    "buttonClass": "func_button",
+    "hammerId": "2615",
+    "triggerId": ["2613"],
+    "cooldown": 50,
+    "team": 2,
+    "knife": true,
+    "mode": 2,
+    "count": 1
   },
-  "** ...GRAVITY INBOUND AT THE ENDING !! **": {
-    "translation": "重力将在最后结局登场!"
+  {
+    "name": "巫医",
+    "shortName": "巫医",
+    "buttonClass": "func_button",
+    "hammerId": "2606",
+    "triggerId": ["2604"],
+    "cooldown": 120,
+    "team": 2,
+    "knife": true,
+    "mode": 2,
+    "count": 1
   },
-  "**Light Summoning Magic has been picked up**": {
-    "translation": "光之召唤已被拾取"
+  {
+    "name": "烈焰",
+    "shortName": "烈焰",
+    "buttonClass": "func_button",
+    "hammerId": "2579",
+    "cooldown": 75,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
   },
-  "**Secret of Ice has been picked up**": {
-    "translation": "神秘之寒冰已被拾起"
+  {
+    "name": "寒风",
+    "shortName": "寒风",
+    "buttonClass": "func_button",
+    "hammerId": "2541",
+    "cooldown": 75,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
   },
-  "**Right click to release a small snowstorm to slow down surrounding enemies**": {
-    "translation": " 右键释放暴风雪减速周围的僵尸 "
+  {
+    "name": "混沌",
+    "shortName": "混沌",
+    "buttonClass": "func_button",
+    "hammerId": "2533",
+    "triggerId": ["2531"],
+    "cooldown": 120,
+    "team": 2,
+    "knife": true,
+    "mode": 2,
+    "count": 1
   },
-  "**Freeze enemies around 5 seconds after release**": {
-    "translation": " 释放后定身僵尸五秒 "
+  {
+    "name": "暴风",
+    "shortName": "暴风",
+    "buttonClass": "func_button",
+    "hammerId": "1444",
+    "cooldown": 75,
+    "team": 3,
+    "knife": false,
+    "mode": 2,
+    "count": 1
   },
-  "**The Dark Mystery has been picked up**": {
-    "translation": " *神秘之黑暗已被拾起 "
+  {
+    "name": "符华",
+    "shortName": "符华",
+    "buttonClass": "func_button",
+    "hammerId": "1402",
+    "triggerId": ["1405"],
+    "team": 3,
+    "knife": true,
+    "mode": 1,
+    "count": 1
   },
-  "**Right click to release the Ice Blue Blade to damage and slow down the enemy**": {
-    "translation": " 右键释放冰剑对敌人造成伤害以及减速** "
+  {
+    "name": "骑士",
+    "shortName": "骑士",
+    "buttonClass": "func_button",
+    "hammerId": "2449",
+    "triggerId": ["2461"],
+    "team": 3,
+    "knife": true,
+    "mode": 1,
+    "count": 1
   },
-  "**Release the dark magic to heal and accelerate**": {
-    "translation": " 释放黑魔法治愈并加速 "
+  {
+    "name": "火把①",
+    "shortName": "火把①",
+    "buttonClass": "func_button",
+    "hammerId": "4860",
+    "team": 3,
+    "knife": false,
+    "mode": 0,
+    "count": 1
   },
-  "**The fire of extinction has been picked up**": {
-    "translation": " 绝灭之火已被拾起 "
-  },
-  "**The extreme cold storm has been picked up**": {
-    "translation": " 极寒风暴已被拾取 "
-  },
-  "**Secret Chaos has been picked up**": {
-    "translation": " 神秘之混沌已被拾取  "
-  },
-  "**Right click can destroy all human artifact effects instantly**": {
-    "translation": " 右键可以立即终结所有人类神器的效果 "
-  },
-  "**Release chaotic magic to blind enemies**": {
-    "translation": " 释放混乱魔法遮蔽敌人视觉 "
-  },
-  "**The torch has been picked up**": {
-    "translation": " 火把已被拾起 "
-  },
-  "**The wind has been picked up**": {
-    "translation": " 风已被拾起 "
-  },
-  "** 5 **": {
-    "translation": " 5 "
-  },
-  "** 20 **": {
-    "translation": " 20 "
-  },
-  "** 18 **": {
-    "translation": " 18 "
-  },
-  "**30 **": {
-    "translation": " 30 "
-  },
-  "** 60 **": {
-    "translation": " 60 "
-  },
-  "** Regional Slave **": {
-    "translation": " 奴隶 "
-  },
-  "** Great Earthquake **": {
-    "translation": " 地震 "
-  },
-  "** 45 **": {
-    "translation": " 45 "
-  },
-  "** Sky Roar **": {
-    "translation": "  天空咆哮 "
-  },
-  "** Fire Field **": {
-    "translation": " 烈焰之地 "
-  },
-  "** Lava Rise **": {
-    "translation": " 岩浆升起 "
-  },
-  "** 40 **": {
-    "translation": "** 40 **"
-  },
-  "** Phase 2 **": {
-    "translation": "**第二关 **"
-  },
-  "** Freezing air **": {
-    "translation": "**  寒风凛冽 **"
-  },
-  "** scorching sun **": {
-    "translation": "**  炎阳 **"
-  },
-  "** Big storm **": {
-    "translation": "**  风暴 **"
-  },
-  "** Freezing cold **": {
-    "translation": "**  严寒 **"
-  },
-  "** Frozen miles **": {
-    "translation": "** 千里冰封 **"
-  },
-  "** Burning with fire **": {
-    "translation": "**   烈焰燃烧 **"
-  },
-  "** Highly toxic **": {
-    "translation": ">> 剧毒 <<"
-  },
-  "** Unfreezing zombies **": {
-    "translation": " 僵尸解冻 "
-  },
-  "** phase 1 complete**": {
-    "translation": " 关卡完成 "
-  },
-  "** phase 2**": {
-    "translation": " 第二关 "
-  },
-  "** phase 1**": {
-    "translation": " 第一关 "
-  },
-  "** 35 **": {
-    "translation": " 35 "
-  },
-  "**you only have 350 seconds to kill this dragon**": {
-    "translation": " 战斗时限只有六分钟 "
-  },
-  "** 10 **": {
-    "translation": " 10 "
-  },
-  "** 80 **": {
-    "translation": " 80 "
-  },
-  "** 25 **": {
-    "translation": " 25 "
-  },
-  "** 50 **": {
-    "translation": " 50 "
-  },
-  "**Right click to wield a weapon to launch an attack**": {
-    "translation": " 右键挥动武器发动攻击 "
-  },
-  "**Quick use SAWDWDSA can release the ultimate magic**": {
-    "translation": " SAWDWDSA可以释放终级魔法 "
-  },
-  "**A player chose the Holy Knight**": {
-    "translation": " 一位玩家选择成为神圣骑士 "
-  },
-  "**Can use Holy Light to heal allies and slow down enemies**": {
-    "translation": " 使用圣光治愈同伴,减速敌人 "
-  },
-  "**Use the power of the Holy Sword to attack the enemy remotely**": {
-    "translation": " 使用圣剑的力量攻击远处的敌人 "
-  },
-  "** Phase 1 **": {
-    "translation": " 关卡一 "
-  },
-  "** The far door opens after 20 seconds **": {
-    "translation": " 门20秒后打开 "
-  },
-  "** ze_temple_of_phantom_v2 **": {
-    "translation": " 幻想神殿 文本:Zeyu1"
+  {
+    "name": "火把②",
+    "shortName": "火把②",
+    "buttonClass": "func_button",
+    "hammerId": "4867",
+    "team": 3,
+    "knife": false,
+    "mode": 0,
+    "count": 1
   }
-}
+]
