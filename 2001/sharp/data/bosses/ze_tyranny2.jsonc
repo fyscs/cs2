@@ -115,6 +115,14 @@
     {
       "identity": "8341",
       "display": "下层木板"
+    },
+    {
+      "identity": "9567",
+      "display": "门神龙(hitbox)"
+    },
+    {
+      "identity": "9399",
+      "display": "暗黑破坏神(hitbox)"
     }
   ]
 }
