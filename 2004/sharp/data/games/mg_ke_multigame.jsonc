@@ -18,7 +18,7 @@
 [
   {
     "id": "6742",
-    "cd": 300,
+    "cd": 600,
     "mode": 2,
     "name": "足球",
     "class": "func_button",
@@ -26,7 +26,7 @@
   },
   {
     "id": "6739",
-    "cd": 300,
+    "cd": 600,
     "mode": 2,
     "name": "大足球",
     "class": "func_button",
@@ -34,7 +34,7 @@
   },
   {
     "id": "6560",
-    "cd": 300,
+    "cd": 600,
     "mode": 7,
     "name": "天线宝宝",
     "class": "func_button",
@@ -42,7 +42,7 @@
   },
   {
     "id": "4560",
-    "cd": 300,
+    "cd": 600,
     "mode": 0,
     "name": "买枪混战",
     "class": "func_button",
@@ -50,7 +50,7 @@
   },
   {
     "id": "4560",
-    "cd": 300,
+    "cd": 600,
     "mode": 0,
     "name": "买枪混战",
     "class": "func_button",
@@ -58,7 +58,7 @@
   },
   {
     "id": "4146",
-    "cd": 300,
+    "cd": 600,
     "mode": 0,
     "name": "个人战",
     "class": "func_button",
@@ -66,7 +66,7 @@
   },
   {
     "id": "4183",
-    "cd": 300,
+    "cd": 600,
     "mode": 0,
     "name": "团队战",
     "class": "func_button",
@@ -74,7 +74,7 @@
   },
   {
     "id": "4555",
-    "cd": 400,
+    "cd": 600,
     "mode": 0,
     "name": "买枪混战",
     "class": "func_button",
@@ -82,7 +82,7 @@
   },
   {
     "id": "4182",
-    "cd": 400,
+    "cd": 600,
     "mode": 0,
     "name": "个人战",
     "class": "func_button",
@@ -90,7 +90,7 @@
   },
   {
     "id": "4185",
-    "cd": 400,
+    "cd": 600,
     "mode": 0,
     "name": "团队战",
     "class": "func_button",
@@ -98,7 +98,7 @@
   },
   {
     "id": "155",
-    "cd": 400,
+    "cd": 600,
     "mode": 0,
     "name": "环形屋混战",
     "class": "func_button",
@@ -106,7 +106,7 @@
   },
   {
     "id": "148",
-    "cd": 400,
+    "cd": 600,
     "mode": 0,
     "name": "玻璃屋-nova",
     "class": "func_button",
@@ -114,7 +114,7 @@
   },
   {
     "id": "150",
-    "cd": 400,
+    "cd": 600,
     "mode": 0,
     "name": "玻璃屋-截短喷",
     "class": "func_button",
@@ -122,7 +122,7 @@
   },
   {
     "id": "496",
-    "cd": 400,
+    "cd": 600,
     "mode": 3,
     "name": "玻璃屋-电击枪",
     "class": "func_button",
@@ -154,7 +154,7 @@
   },
   {
     "id": "1388",
-    "cd": 400,
+    "cd": 600,
     "mode": 9,
     "name": "你追我跑-警追",
     "class": "func_button",
@@ -162,7 +162,7 @@
   },
   {
     "id": "1389",
-    "cd": 400,
+    "cd": 600,
     "mode": 9,
     "name": "你追我跑-匪追",
     "class": "func_button",
@@ -170,7 +170,7 @@
   },
   {
     "id": "6091",
-    "cd": 400,
+    "cd": 600,
     "mode": 2,
     "name": "溜冰",
     "class": "func_button",
