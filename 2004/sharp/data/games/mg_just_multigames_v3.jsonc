@@ -43,7 +43,7 @@
   {
     "id": "2545",
     "cd": 360,
-    "mode": 0,
+    "mode": 5,
     "name": "连跳拿枪",
     "class": "func_button",
     "event": "OnPressed"
