@@ -1,6 +1,6 @@
 // Round Reward configuration file generator.
 // Reward Version v22
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -13,35 +13,35 @@
 
 {
   "1": {
-    "rankPasses": 6,
-    "rankDamage": 12000,
+    "rankPasses": 8,
+    "rankDamage": 18000,
     "rankIntern": 0.4,
-    "econPasses": 4,
-    "econDamage": 16000,
+    "econPasses": 6,
+    "econDamage": 20000,
     "econIntern": 0.2
   },
   "2": {
-    "rankPasses": 6,
-    "rankDamage": 12000,
-    "rankIntern": 0.4,
-    "econPasses": 4,
-    "econDamage": 16000,
-    "econIntern": 0.2
+    "rankPasses": 8,
+    "rankDamage": 18000,
+    "rankIntern": 0.68,
+    "econPasses": 6,
+    "econDamage": 20000,
+    "econIntern": 0.45
   },
   "3": {
-    "rankPasses": 6,
-    "rankDamage": 12000,
-    "rankIntern": 0.4,
-    "econPasses": 4,
-    "econDamage": 16000,
-    "econIntern": 0.2
+    "rankPasses": 10,
+    "rankDamage": 18000,
+    "rankIntern": 0.68,
+    "econPasses": 8,
+    "econDamage": 20000,
+    "econIntern": 0.45
   },
   "4": {
-    "rankPasses": 6,
-    "rankDamage": 12000,
+    "rankPasses": 12,
+    "rankDamage": 18000,
     "rankIntern": 0.68,
-    "econPasses": 4,
-    "econDamage": 16000,
-    "econIntern": 0.2
+    "econPasses": 10,
+    "econDamage": 20000,
+    "econIntern": 0.45
   }
 }
