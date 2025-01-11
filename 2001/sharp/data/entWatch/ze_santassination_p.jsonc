@@ -58,9 +58,10 @@
     "shortName": "推力",
     "buttonClass": "func_button",
     "hammerId": "3706",
+    "cooldown": 5,
     "team": 3,
     "knife": false,
-    "mode": 0,
+    "mode": 2,
     "count": 5
   },
   {

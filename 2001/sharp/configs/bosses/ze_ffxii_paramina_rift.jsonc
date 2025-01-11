@@ -1,0 +1,91 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Guardian_Counter",
+      "hitbox": "Guardian_Break",
+      "display": "Guardian"
+    },
+    {
+      "iterator": "Fin_Boss_Counter",
+      "hitbox": "Fin_Boss_Physbox",
+      "display": "玛提乌斯"
+    },
+    {
+      "iterator": "Boss_Health_Crystal",
+      "hitbox": "Boss_Armor_Crystal",
+      "display": "水晶"
+    },
+    {
+      "iterator": "Minion_Health",
+      "hitbox": "Minion_Armor",
+      "display": "Minion"
+    },
+    {
+      "iterator": "Chaos_Health",
+      "backup": "Chaos_Health_Init",
+      "increase": true,
+      "counter": "Chaos_Overlay_Counter",
+      "hitbox": "Chaos_Physbox",
+      "display": "轮回王"
+    },
+    {
+      "iterator": "Boss_Health",
+      "backup": "Boss_Health_Init",
+      "increase": true,
+      "counter": "Boss_Overlay_Counter",
+      "hitbox": "Boss_Physbox",
+      "display": "玛提乌斯"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "15600",
+      "display": "水晶塔1"
+    },
+    {
+      "identity": "15604",
+      "display": "水晶塔2"
+    },
+    {
+      "identity": "15608",
+      "display": "水晶塔3"
+    },
+    {
+      "identity": "15602",
+      "display": "水晶塔5"
+    },
+    {
+      "identity": "15598",
+      "display": "水晶塔6"
+    },
+    {
+      "identity": "14940",
+      "display": "皇帝水晶"
+    },
+    {
+      "identity": "15540",
+      "display": "冰面"
+    }
+  ]
+}

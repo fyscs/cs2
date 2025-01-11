@@ -1,0 +1,197 @@
+// MiniGames game mode configuration file generator.
+// MGGames Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // enum /* MiniGameMode */
+  //
+  // Invalid      = -1,
+  // Guns         = 0, // 对枪
+  // Nade         = 1, // 手雷
+  // Knife        = 2, // 拼刀
+  // Taser        = 3, // 电击枪
+  // Dodgeball    = 4, // 躲避球
+  // RaceCombat   = 5, // Race给枪    LongJump, Bhop, Race, Clmib, Combat
+  // RaceBonus    = 6, // Race刷分    LongJump, Bhop, Race, Clmib, 刷分
+  // Survival     = 7, // 生存        JumpRope, FallingBox etc...
+  // RaceSurvival = 8, // Race生存    LongJump, Bhop, Race, Clmib, Survival
+  // Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
+
+[
+  {
+    "id": "3041",
+    "cd": 400,
+    "mode": 7,
+    "name": "绝命司机",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3045",
+    "cd": 600,
+    "mode": 5,
+    "name": "打椅子",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3043",
+    "cd": 600,
+    "mode": 6,
+    "name": "Climb",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3053",
+    "cd": 600,
+    "mode": 6,
+    "name": "闯关",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3051",
+    "cd": 600,
+    "mode": 2,
+    "name": "躲避墙",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3049",
+    "cd": 600,
+    "mode": 2,
+    "name": "电梯",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3047",
+    "cd": 600,
+    "mode": 2,
+    "name": "刀战角斗场",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3061",
+    "cd": 400,
+    "mode": 2,
+    "name": "刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3059",
+    "cd": 600,
+    "mode": 6,
+    "name": "长跳",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3057",
+    "cd": 600,
+    "mode": 2,
+    "name": "抢板凳",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3055",
+    "cd": 600,
+    "mode": 7,
+    "name": "跳绳",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3063",
+    "cd": 400,
+    "mode": 4,
+    "name": "烟雾弹",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3003",
+    "cd": 400,
+    "mode": 0,
+    "name": "混战M249",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2995",
+    "cd": 400,
+    "mode": 0,
+    "name": "混战SCOUT",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2997",
+    "cd": 400,
+    "mode": 0,
+    "name": "混战AWP",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3007",
+    "cd": 400,
+    "mode": 0,
+    "name": "混战AK",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3009",
+    "cd": 400,
+    "mode": 0,
+    "name": "混战M4",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3011",
+    "cd": 400,
+    "mode": 0,
+    "name": "混战霰弹",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3065",
+    "cd": 600,
+    "mode": 0,
+    "name": "足球",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3090",
+    "cd": 600,
+    "mode": 6,
+    "name": "简单模式BHOP",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3092",
+    "cd": 600,
+    "mode": 6,
+    "name": "困难模式BHOP",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "2999",
+    "cd": 400,
+    "mode": 0,
+    "name": "混战沙鹰",
+    "class": "func_button",
+    "event": "OnPressed"
+  }
+]

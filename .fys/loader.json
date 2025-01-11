@@ -10,22 +10,22 @@
     "2001/sharp/data/rewards"
   ],
   "boss": [
-    "2001/sharp/data/bosses"
+    "2001/sharp/configs/bosses"
   ],
   "translations": [
-    "2001/sharp/data/translations",
-    "2004/sharp/data/translations"
+    "2001/sharp/configs/translations",
+    "2004/sharp/configs/translations"
   ],
   "map_data": [
-    "2001/sharp/data/maps.json",
-    "2002/sharp/data/maps.json",
-    "2004/sharp/data/maps.json"
+    "2001/sharp/configs/maps.json",
+    "2002/sharp/configs/maps.json",
+    "2004/sharp/configs/maps.json"
   ],
   "button": [
-    "2004/sharp/data/games"
+    "2004/sharp/configs/games"
   ],
   "plain": [
-    "2001/sharp/data/mappers.json",
-    "2002/sharp/data/weapons"
+    "2001/sharp/configs/mappers.json",
+    "2002/sharp/configs/weapons"
   ]
 }

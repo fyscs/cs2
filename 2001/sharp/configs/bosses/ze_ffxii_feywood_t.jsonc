@@ -1,0 +1,53 @@
+// BossHP configuration file generator.
+// Boss Version v22
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Boss_HP_2",
+      "backup": "Boss_HP",
+      "counter": "Boss_HPbar_Counter",
+      "increase": true,
+      "display": "Boss"
+    },
+    {
+      "iterator": "lvl5_Boss_HP_2",
+      "backup": "lvl5_Boss_HP",
+      "counter": "lvl5_Boss_HPbar_Counter",
+      "increase": true,
+      "display": "Boss"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "Tomb_01_Crystall_1",
+      "display": "水晶1"
+    },
+    {
+      "identity": "Tomb_01_Crystall_2",
+      "display": "水晶2"
+    },
+    {
+      "identity": "Boss_Cactus_Break",
+      "display": "隐身仙人掌"
+    }
+  ]
+}

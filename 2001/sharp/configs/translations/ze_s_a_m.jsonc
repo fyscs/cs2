@@ -1,0 +1,380 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>Map by Tenshi.<<": {
+    "translation": ">>地图作者:天子 地图翻译:墨鸢@Fys<<"
+  },
+  ">>ze_S_A_M ver:2.0.19<<": {
+    "translation": ">>刀剑神域-剑与魔法:2.0.19版本<<"
+  },
+  ">>Special Thanks: Lopb, @Seth, Kxnrl<<": {
+    "translation": ">>特别鸣谢:Lopb,@Seth,kxnrl<<"
+  },
+  ">>The door will open in 30 seconds<<": {
+    "translation": ">>大门将在30秒后打开<<"
+  },
+  ">>The side door will open in 15 seconds<<": {
+    "translation": ">>侧门将在15秒后打开<<"
+  },
+  "<<TRAMPLE>>": {
+    "translation": "<<战争践踏>>"
+  },
+  "<<SHAKE WAVE>>": {
+    "translation": "<<震天荡地>>"
+  },
+  "<<CRUSH>>": {
+    "translation": "<<粉碎空间>>"
+  },
+  "<<DRAW>>": {
+    "translation": "<<致命引力>>"
+  },
+  ">>The door will open in 25 seconds<<": {
+    "translation": ">>大门将在25秒后打开<<**"
+  },
+  "<<SHAKE WAVE WORLD>>": {
+    "translation": "<<震荡世界>>"
+  },
+  ">>Stage 1<<": {
+    "translation": ">>第一关已载入<<"
+  },
+  ">>Go to the Palace<<": {
+    "translation": ">>前往圣灵殿堂<<"
+  },
+  ">>Stage 2<<": {
+    "translation": ">>第二关已载入<<"
+  },
+  ">>Stage 3<<": {
+    "translation": ">>第三关已载入<<"
+  },
+  ">>Stage 4<<": {
+    "translation": ">>第四关已载入<<"
+  },
+  ">>Stage 5<<": {
+    "translation": ">>第五关已载入<<"
+  },
+  ">>ZM<<": {
+    "translation": ">>ZM关已载入<<"
+  },
+  ">>60 seconds remaining<<": {
+    "translation": "**>>剩余60秒<<**",
+    "blocked": true
+  },
+  ">>120 seconds remaining<<": {
+    "translation": ">>剩余120秒<<",
+    "blocked": true
+  },
+  ">>180 seconds remaining<<": {
+    "translation": ">>剩余180秒<<"
+  },
+  "**A Player has picked up <Earth Magic>**": {
+    "translation": "**一名玩家学会了<要岩>**"
+  },
+  "**Player has picked up <Heal Magic>**": {
+    "translation": "**一名玩家学会了<治愈>**"
+  },
+  "**A player has picked up <Lightning Magic>**": {
+    "translation": "**一名玩家学会了<电环>**"
+  },
+  "**A Player has picked up <Tornado Magic>**": {
+    "translation": "**一名玩家学会了<飓风>**"
+  },
+  "**A player has picked up <Trace Magic>**": {
+    "translation": "**一名玩家拾起了<克隆水晶>**"
+  },
+  "**A Player has picked up <Ultima Magic>**": {
+    "translation": "**一名玩家学会了<终焉之奏>**"
+  },
+  "**A Player has picked up <Water Magic>**": {
+    "translation": "**一名玩家学会了<浮游>**"
+  },
+  "**A Player has picked up <Gravity Magic>**": {
+    "translation": "**一名玩家学会了<黑洞>**"
+  },
+  "**A Player has picked up [ZM]<Gravity>**": {
+    "translation": "**有僵尸学会了<黑洞>**"
+  },
+  "**A Player has picked up [ZM]<Shield>**": {
+    "translation": "**有僵尸学会了<护盾>**"
+  },
+  "**A Player has picked up [ZM]<Stealth>**": {
+    "translation": "**有僵尸学会了<眩隐>**"
+  },
+  "**A Player has picked up [ZM]<Ice>**": {
+    "translation": "**有僵尸学会了<寒霜>**"
+  },
+  "**A Player has picked up <Crystal>**": {
+    "translation": "**一名玩家拾起了<水晶>**"
+  },
+  ">>Crystal not placed<<": {
+    "translation": ">>水晶还未放置<<"
+  },
+  ">>Stage Failed<<": {
+    "translation": ">>通关失败<<"
+  },
+  ">>The teleporter will be ready in 15 seconds<<": {
+    "translation": ">>传送阵将在15秒后启动<<"
+  },
+  "<<SPURT>>": {
+    "translation": "<<喷发>>"
+  },
+  "<<EVIL>>": {
+    "translation": "<<灾祸>>"
+  },
+  "<<BLUE MARKER>>": {
+    "translation": "<<蓝色标记!>>"
+  },
+  "<<QUAKE>>": {
+    "translation": "<<地震>>"
+  },
+  "<<ORANGE MARKER>>": {
+    "translation": "<<橙色标记!>>"
+  },
+  "<<MEGALITH>>": {
+    "translation": "<<巨石>>"
+  },
+  ">>The teleporter will be ready in 20 seconds<<": {
+    "translation": ">>传送阵将在20秒后启动<<*"
+  },
+  ">>Come out of the Palace and defend the zombies<<": {
+    "translation": ">>离开圣灵殿堂,守住僵尸<<"
+  },
+  ">>Hold for 10 seconds<<": {
+    "translation": ">>坚守10秒钟<<"
+  },
+  ">>The door will open in 20 seconds<<": {
+    "translation": ">>门将在20秒后打开<<"
+  },
+  ">>The elevator will rise in 30 seconds<<": {
+    "translation": ">>平台将在30秒后上升<<"
+  },
+  ">>GET ON THE AIRSHIP!!!<<": {
+    "translation": ">>快上飞船!!!<<"
+  },
+  ">>RUN OUT OF HERE!!!<<": {
+    "translation": ">>离开这里!!!<<"
+  },
+  "<<FLARE>>": {
+    "translation": "<<圣光坠落>>*"
+  },
+  ">>WE HAVE DESTROYED IT<<": {
+    "translation": ">>我们已经摧毁了它!<<"
+  },
+  ">>ESCAPE HERE!!!RUN BACK!!!<<": {
+    "translation": ">>离开这里!!搞快点!!!<<**"
+  },
+  "<<CURSE>>": {
+    "translation": "<<炎魔诅咒>>"
+  },
+  "<<TORRENT>>": {
+    "translation": "<<喷射水流>>"
+  },
+  "<<HEALTH GRABBING>>": {
+    "translation": "<<治愈回复>>"
+  },
+  "<<COLLAPSAR>>": {
+    "translation": "<<黑洞龙卷>>"
+  },
+  "<<SHADOW BLADE>>": {
+    "translation": "<<黑影骑士>>"
+  },
+  ">>The door on the left has opened<<": {
+    "translation": ">>左边的门已开启<<"
+  },
+  ">>The door on the right has opened<<": {
+    "translation": ">>右边的门已开启<<"
+  },
+  "<COAGULATION>": {
+    "translation": "<冰霜法阵>"
+  },
+  "<ICE STORM>": {
+    "translation": "<寒冰风暴>"
+  },
+  "<ICE SHIELD>": {
+    "translation": "<寒冰之盾>"
+  },
+  ">>Its ice dragon<<": {
+    "translation": ">>是冰霜巨龙!<<**"
+  },
+  "<WRATH OF WINTER>": {
+    "translation": "<凛冬之怒>"
+  },
+  ">>Balrog is casting Flame Nova,  use <Lightning> to resist it<<": {
+    "translation": ">>巴罗格正在施放圣光坠落,用<电环>来对抗它<<"
+  },
+  ">>Flame Nova cast will succeed in 10 seconds<<": {
+    "translation": ">>圣光坠落将在10秒后释放!小心!<<"
+  },
+  "**Stage 4 has been chosen**": {
+    "translation": "**已选择第四关**"
+  },
+  "**Stage 5 has been chosen**": {
+    "translation": "**已选择第五关**"
+  },
+  "**ZM has been chosen**": {
+    "translation": "**已选择ZM关**"
+  },
+  "**Stage 2 has been chosen**": {
+    "translation": "**已选择第二关**"
+  },
+  "**Stage 1 has been chosen**": {
+    "translation": "**已选择第一关**"
+  },
+  "**Stage 3 has been chosen**": {
+    "translation": "**已选择第三关**"
+  },
+  ">>The town gate will open in 15 seconds<<": {
+    "translation": "**城门将在15秒后打开**"
+  },
+  ">>Zombies get in<<": {
+    "translation": "**僵尸进来了!**"
+  },
+  ">>Defence for 30 seconds<<": {
+    "translation": "**防守30秒**"
+  },
+  ">>Breaking crystals<<": {
+    "translation": "**打破水晶!**"
+  },
+  ">>The elevator will leave in 15 seconds<<": {
+    "translation": "**平台将在15秒后离开!**"
+  },
+  ">>Defence for 20 seconds<<": {
+    "translation": "**防守20秒**"
+  },
+  ">>Defence for 15 seconds<<": {
+    "translation": "**防守15秒**",
+    "blocked": true
+  },
+  ">>Go to the Stela<<": {
+    "translation": "**前往传送阵!**"
+  },
+  ">>The rock will break in 15 seconds<<": {
+    "translation": "**岩石将在15秒后破碎**",
+    "blocked": true
+  },
+  ">>The rock will break in 25 seconds<<": {
+    "translation": "**岩石将在25秒后破碎**",
+    "blocked": true
+  },
+  ">>The rock will break in 30 seconds<<": {
+    "translation": "**岩石将在30秒后破碎**",
+    "blocked": true
+  },
+  ">>The rock will break in 40 seconds<<": {
+    "translation": "**岩石将在40秒后破碎**"
+  },
+  ">>The Stela will activate in 15 seconds<<": {
+    "translation": "**传送阵将在15秒后激活**"
+  },
+  ">>The Gate will close in 70 seconds<<": {
+    "translation": "**大门将在70秒后关闭**"
+  },
+  ">>Activate crystal tower<<": {
+    "translation": "**激活水晶塔**"
+  },
+  ">>The Flame Domain Gate will open in 30 seconds<<": {
+    "translation": "**炼狱之门将在30秒后打开**"
+  },
+  ">>Activate two buttons<<": {
+    "translation": "**激活两个按钮**"
+  },
+  ">>Wait for 6 seconds<<": {
+    "translation": "**等待6秒**"
+  },
+  ">>Finding the Crystal<<": {
+    "translation": "**寻找水晶**"
+  },
+  ">>The Void Gate will open in 30 seconds<<": {
+    "translation": "**虚空之门将在30秒后打开**"
+  },
+  ">>The crystal has been placed<<": {
+    "translation": "**水晶已放置**"
+  },
+  ">>Something forthcoming<<": {
+    "translation": "**等待未知事件的出现**"
+  },
+  ">>Wait for 20 seconds<<": {
+    "translation": "**等待20秒**"
+  },
+  ">>Zombies get on<<": {
+    "translation": "**僵尸上来了**"
+  },
+  ">>THE AIRSHIP LEAVING IN 15 SEC<<": {
+    "translation": "**飞船将在15秒后离开**"
+  },
+  "<<CHAOSTORM>>": {
+    "translation": "**混乱风暴**"
+  },
+  "<<COLLAPSE>>": {
+    "translation": "**毁灭坍塌**"
+  },
+  "<<ANGER SHIELD>>": {
+    "translation": "**愤怒之盾**"
+  },
+  ">>HE ESCAPED!!!VOID GATE HAS OPENED NOW!!!CATCH UP!!!<<": {
+    "translation": ">>他逃走了!!!虚空之门现已开启!!!追上他!!!<<"
+  },
+  ">>He is casting <Shadow Bringer><<": {
+    "translation": ">>他正在释放<暗影使者><<"
+  },
+  ">>OH!IT'S SHADOW GUARD<<": {
+    "translation": ">>噢!是暗影守卫<<"
+  },
+  ">>KILL HIM!!!<<": {
+    "translation": ">>杀了他!!!<<"
+  },
+  ">>IT SEEMS SOMEONE IS BLOCKING THE WAY<<": {
+    "translation": ">>额,道路似乎被什么人拦住了<<"
+  },
+  ">>SHOOT IT!!!<<": {
+    "translation": ">>开枪!!!<<"
+  },
+  ">>WE DEFEAT HIM<<": {
+    "translation": ">>我们击败了他!<<"
+  },
+  ">>KEEP DEFENCE<<": {
+    "translation": ">>保持防守<<"
+  },
+  ">>CRYSTAL IS INJECTING ENERGY<<": {
+    "translation": ">>水晶正在注入能量<<"
+  },
+  ">>WE WILL BE ABLE TO LEAVE SOON<<": {
+    "translation": ">>我们很快就能离开.<<"
+  },
+  ">>Hold for 20 seconds<<": {
+    "translation": ">>防守20秒.<<"
+  },
+  ">>20 seconds remaining<<": {
+    "translation": ">>还剩20秒.<<"
+  },
+  ">>10 seconds remaining<<": {
+    "translation": ">>还剩10秒.<<",
+    "blocked": true
+  },
+  ">>Come out of the Palace and defend the zombies<<": {
+    "translation": ">>走出宫殿,守住僵尸<<"
+  },
+  ">>The elevator will leave in 5 seconds<<": {
+    "translation": ">>电梯将在5秒后离开<<"
+  },
+  ">>The library door will open in 30 seconds<<": {
+    "translation": ">>图书馆大门将在30秒后打开<<"
+  },
+  ">>The door will open in 15 seconds<<": {
+    "translation": ">>大门将在15秒后打开<<"
+  },
+  ">>Looks like this is a small path,break the metalfence<<": {
+    "translation": ">>看起来这是一条小路,快打破金属栅栏<<"
+  },
+  ">>THE SIDE DOOR WILL OPEN IN 10 SECONDS<<": {
+    "translation": ">>侧路的门将在10秒后打开<<"
+  },
+}

@@ -1,0 +1,189 @@
+// MiniGames game mode configuration file generator.
+// MGGames Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // enum /* MiniGameMode */
+  //
+  // Invalid      = -1,
+  // Guns         = 0, // 对枪
+  // Nade         = 1, // 手雷
+  // Knife        = 2, // 拼刀
+  // Taser        = 3, // 电击枪
+  // Dodgeball    = 4, // 躲避球
+  // RaceCombat   = 5, // Race给枪    LongJump, Bhop, Race, Clmib, Combat
+  // RaceBonus    = 6, // Race刷分    LongJump, Bhop, Race, Clmib, 刷分
+  // Survival     = 7, // 生存        JumpRope, FallingBox etc...
+  // RaceSurvival = 8, // Race生存    LongJump, Bhop, Race, Clmib, Survival
+  // Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
+
+[
+  {
+    "id": "1151",
+    "cd": 600,
+    "mode": 8,
+    "name": "超级跑跑",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1148",
+    "cd": 600,
+    "mode": 0,
+    "name": "1v1沙鹰爆头",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "817",
+    "cd": 600,
+    "mode": 0,
+    "name": "1v1沙鹰100hp",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "789",
+    "cd": 600,
+    "mode": 3,
+    "name": "电击枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1143",
+    "cd": 600,
+    "mode": 2,
+    "name": "35hp刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1037",
+    "cd": 600,
+    "mode": 2,
+    "name": "100hp刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1146",
+    "cd": 600,
+    "mode": 0,
+    "name": "大狙",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1159",
+    "cd": 600,
+    "mode": 5,
+    "name": "bhop",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1157",
+    "cd": 600,
+    "mode": 2,
+    "name": "布丁在哪里",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1155",
+    "cd": 600,
+    "mode": 7,
+    "name": "布丁炸弹",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1153",
+    "cd": 600,
+    "mode": 2,
+    "name": "足球",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1167",
+    "cd": 600,
+    "mode": 0,
+    "name": "主机传送器(买枪)",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "993",
+    "cd": 600,
+    "mode": 0,
+    "name": "连喷",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1165",
+    "cd": 600,
+    "mode": 0,
+    "name": "手枪对决",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1163",
+    "cd": 600,
+    "mode": 0,
+    "name": "ak47",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1161",
+    "cd": 600,
+    "mode": 0,
+    "name": "m4a1-s",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1169",
+    "cd": 600,
+    "mode": 2,
+    "name": "滑冰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "808",
+    "cd": 600,
+    "mode": 2,
+    "name": "1v1刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "989",
+    "cd": 600,
+    "mode": 1,
+    "name": "手雷",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "1171",
+    "cd": 600,
+    "mode": 0,
+    "name": "随机冲锋枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "991",
+    "cd": 600,
+    "mode": 0,
+    "name": "渴血之枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  }
+]

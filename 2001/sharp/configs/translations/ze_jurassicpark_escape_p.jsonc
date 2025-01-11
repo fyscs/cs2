@@ -1,0 +1,76 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***MAP By thegregster101***": {
+    "translation": "***地图作者:thegregster101 地图翻译:白姬拉萨姆博***"
+  },
+  "***MAKE YOUR WAY TO THE EXTRACTION POINT***": {
+    "translation": "***前往撤离点***"
+  },
+  "***TRUCK LEAVING 8 SECONDS***": {
+    "translation": "***距离卡车离开还有8秒***"
+  },
+  "***GO GO! GATE IS NOW OPEN!!***": {
+    "translation": "***快润! 大门已经打开了!!***"
+  },
+  "***DEFEND THE LOADING BAY 40 SECONDS***": {
+    "translation": "***在装卸区防御 40 秒!!***"
+  },
+  "***LOADING BAY GATE CLOSING IN 20 SECONDS***": {
+    "translation": "***装卸区闸门在 20 秒内关闭***"
+  },
+  "***YOU MUST NOW DEFEND THE BOXES***": {
+    "translation": "***你现在必须守住箱子***"
+  },
+  "***DINO TRANSPORTER LEAVING IN 10 SECONDS***": {
+    "translation": "***恐龙在 10 秒后离开***"
+  },
+  "***BUTTON OVERIDE ACTIVATED***": {
+    "translation": "***按钮覆盖已激活***"
+  },
+  "***THE LAST GATES ARE NOW OPEN***": {
+    "translation": "***最后的大门现已打开***"
+  },
+  "***HATCHING CENTRE HAS BEEN BROKEN INTO***": {
+    "translation": "***最孵化中心已被闯入***"
+  },
+  "***C4 EXPLOING IN 10 SECONDS***": {
+    "translation": "***C4 在 10 秒内爆炸***"
+  },
+  "***C4 EXPLODING IN 5 SECONDS***": {
+    "translation": "***C4 在 5 秒内爆炸***"
+  },
+  "***LAST GATES CLOSED!***": {
+    "translation": "***最后的大门关闭了!***"
+  },
+  "***CALL THE MAIN LAND...... TELL THEM TO SEND THE DAMN HELICOPTERS***": {
+    "translation": "***呼叫 MAIN LAND......告诉他们派来那些该死的直升机!***"
+  },
+  "***DEFEND THE HELI PAD***": {
+    "translation": "***保卫直升机停机坪!***"
+  },
+  "***WIPE OUT GAS INBOUND!***": {
+    "translation": "***消除GAS INBOUND!***"
+  },
+  "***HELI INBOUND***": {
+    "translation": "***直升机到达***"
+  },
+  "***HELI INBOUND 60 SECONDS***": {
+    "translation": "***直升机还有60秒到达***"
+  },
+  "***HELI INBOUND 30 SECONDS": {
+    "translation": "***直升机还有30秒到达***"
+  },
+  "***HELI INBOUND 15 SECONDS***": {
+    "translation": "***直升机还有15秒到达***"
+  }
+}
