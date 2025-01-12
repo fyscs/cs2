@@ -12,7 +12,7 @@
   // econIntern (float) -> 低保龙晶比例 (每分钟)
 
 {
-  "6": {
+  "1": {
     "rankPasses": 12,
     "rankDamage": 18000,
     "rankIntern": 0.68,
