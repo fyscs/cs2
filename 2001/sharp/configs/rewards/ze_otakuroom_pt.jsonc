@@ -30,7 +30,7 @@
   },
   "3": {
     "rankPasses": 6,
-    "rankDamage": 2000,
+    "rankDamage": 20000,
     "rankIntern": 0.4,
     "econPasses": 5,
     "econDamage": 25000,
