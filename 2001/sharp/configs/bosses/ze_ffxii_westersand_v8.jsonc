@@ -56,6 +56,18 @@
     {
       "identity": "4391",
       "display": "贝利亚斯"
+    },
+    {
+      "identity": "4375",
+      "display": "小学生(hitbox)"
+    },
+    {
+      "identity": "2545",
+      "display": "轮回王(hitbox)"
+    },
+    {
+      "identity": "4377",
+      "display": "无敌暴龙大王(hitbox)"
     }
   ]
 }
