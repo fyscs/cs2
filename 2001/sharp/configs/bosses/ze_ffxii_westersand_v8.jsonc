@@ -59,7 +59,7 @@
     },
     {
       "identity": "4375",
-      "display": "无敌小学生大王(hitbox)"
+      "display": "小学生(hitbox)"
     },
     {
       "identity": "2545",
@@ -67,7 +67,7 @@
     },
     {
       "identity": "4377",
-      "display": "无敌暴龙大王(hitbox)"
+      "display": "龙(hitbox)"
     }
   ]
 }
