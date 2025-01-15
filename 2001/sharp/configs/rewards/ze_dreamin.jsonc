@@ -39,9 +39,9 @@
   "4": {
     "rankPasses": 10,
     "rankDamage": 18000,
-    "rankIntern": 0.4,
+    "rankIntern": 0.6,
     "econPasses": 8,
     "econDamage": 20000,
-    "econIntern": 0.2
+    "econIntern": 0.48
   }
 }
