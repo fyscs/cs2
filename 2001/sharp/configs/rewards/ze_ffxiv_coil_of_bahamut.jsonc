@@ -23,25 +23,25 @@
   "2": {
     "rankPasses": 8,
     "rankDamage": 20000,
-    "rankIntern": 0.68,
+    "rankIntern": 0.4,
     "econPasses": 6,
     "econDamage": 24000,
-    "econIntern": 0.36
+    "econIntern": 0.24
   },
   "3": {
     "rankPasses": 10,
     "rankDamage": 20000,
-    "rankIntern": 0.68,
+    "rankIntern": 0.4,
     "econPasses": 8,
     "econDamage": 24000,
-    "econIntern": 0.46
+    "econIntern": 0.24
   },
   "4": {
     "rankPasses": 12,
     "rankDamage": 20000,
-    "rankIntern": 0.68,
+    "rankIntern": 0.48,
     "econPasses": 9,
     "econDamage": 24000,
-    "econIntern": 0.46
+    "econIntern": 0.25
   }
 }

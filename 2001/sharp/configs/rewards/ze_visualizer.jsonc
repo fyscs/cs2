@@ -47,17 +47,17 @@
   "5": {
     "rankPasses": 10,
     "rankDamage": 18000,
-    "rankIntern": 0.55,
+    "rankIntern": 0.4,
     "econPasses": 8,
     "econDamage": 22000,
-    "econIntern": 0.45
+    "econIntern": 0.24
   },
   "6": {
     "rankPasses": 12,
     "rankDamage": 18000,
-    "rankIntern": 0.68,
+    "rankIntern": 0.4,
     "econPasses": 10,
     "econDamage": 23000,
-    "econIntern": 0.56
+    "econIntern": 0.24
   }
 }
