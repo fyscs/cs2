@@ -38,15 +38,15 @@
   ],
   "Monsters": [
     {
-      "identity": "Tomb_01_Crystall_1",
+      "identity": "1336",
       "display": "水晶1"
     },
     {
-      "identity": "Tomb_01_Crystall_2",
+      "identity": "1347",
       "display": "水晶2"
     },
     {
-      "identity": "Boss_Cactus_Break",
+      "identity": "4260",
       "display": "隐身仙人掌"
     }
   ]
