@@ -1701,6 +1701,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_paradise_t": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": false,
+    "admin": false
+  },
   "ze_paranoia_cs2": {
     "certainTimes": [-1],
     "price": 500,
