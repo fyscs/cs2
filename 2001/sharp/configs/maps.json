@@ -1310,7 +1310,7 @@
     "admin": false
   },
   "ze_mabinogi_f4_1_cs2": {
-    "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "price": 300,
     "cooldown": 30,
     "nomination": true,
