@@ -1547,6 +1547,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_obj_ember": {
+    "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 1600,
+    "cooldown": 160,
+    "nomination": true,
+    "admin": false
+  },
   "ze_obj_encounter": {
     "certainTimes": [10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 2000,
