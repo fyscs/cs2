@@ -165,7 +165,7 @@
   {
     "id": "3065",
     "cd": 600,
-    "mode": 0,
+    "mode": 10,
     "name": "足球",
     "class": "func_button",
     "event": "OnPressed"
