@@ -117,7 +117,7 @@
   {
     "id": "202",
     "cd": 300,
-    "mode": 2,
+    "mode": 10,
     "name": "1hp足球",
     "class": "func_button",
     "event": "OnPressed"
@@ -125,7 +125,7 @@
   {
     "id": "127",
     "cd": 300,
-    "mode": 2,
+    "mode": 10,
     "name": "50hp足球",
     "class": "func_button",
     "event": "OnPressed"
@@ -133,7 +133,7 @@
   {
     "id": "129",
     "cd": 300,
-    "mode": 2,
+    "mode": 10,
     "name": "100hp足球",
     "class": "func_button",
     "event": "OnPressed"

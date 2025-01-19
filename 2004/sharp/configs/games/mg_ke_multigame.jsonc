@@ -19,7 +19,7 @@
   {
     "id": "6742",
     "cd": 600,
-    "mode": 2,
+    "mode": 10,
     "name": "足球",
     "class": "func_button",
     "event": "OnPressed"
@@ -27,7 +27,7 @@
   {
     "id": "6739",
     "cd": 600,
-    "mode": 2,
+    "mode": 10,
     "name": "大足球",
     "class": "func_button",
     "event": "OnPressed"

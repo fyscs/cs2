@@ -29,7 +29,7 @@
   {
     "id": "1609",
     "cd": 240,
-    "mode": 7,
+    "mode": 10,
     "name": "1血足球",
     "class": "func_button",
     "event": "OnPressed"
@@ -37,7 +37,7 @@
   {
     "id": "1611",
     "cd": 240,
-    "mode": 7,
+    "mode": 10,
     "name": "100血足球",
     "class": "func_button",
     "event": "OnPressed"
