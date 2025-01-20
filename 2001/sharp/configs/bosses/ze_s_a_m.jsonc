@@ -22,29 +22,44 @@
 {
   "Counters": [
     {
-      "iterator": "Troll_Hp_Counter",
+      "iterator": "Troll_Hp",
+      "count": "Troll_Hp_Counter",
+      "backup": "Troll_Hp_Get",
+      "increase": true,
       "hitbox": "Troll_Box",
-      "display": "Troll"
+      "display": "巨魔"
     },
     {
-      "iterator": "S2_Boss_Hp_Counter",
+      "iterator": "S2_Boss_Hp",
+      "count": "S2_Boss_Hp_Counter",
+      "backup": "S2_Boss_Hp_Get",
+      "increase": true,
       "hitbox": "S2_Boss_Box",
-      "display": "Crystal"
+      "display": "水晶"
     },
     {
-      "iterator": "Castle_Hp_Counter",
+      "iterator": "Castle_Hp",
+      "count": "Castle_Hp_Counter",
+      "backup": "Castle_Hp_Get",
+      "increase": true,
       "hitbox": "Castle_Hitbox",
-      "display": "Castle"
+      "display": "轮回王"
     },
     {
-      "iterator": "Dr_Hp_Counter",
+      "iterator": "Dr_Hp",
+      "count": "Dr_Hp_Counter",
+      "backup": "Dr_Hp_Get",
+      "increase": true,
       "hitbox": "Dr_Hitbox",
-      "display": "Dragon"
+      "display": "冰龙"
     },
     {
-      "iterator": "Bal_Hp_Counter",
+      "iterator": "Bal_Hp",
+      "count": "Bal_Hp_Counter",
+      "backup": "Bal_Hp_Get",
+      "increase": true,
       "hitbox": "Bal_Hitbox",
-      "display": "Balrog"
+      "display": "炎魔"
     }
   ],
   "Monsters": [
