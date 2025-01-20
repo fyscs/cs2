@@ -279,5 +279,8 @@
   },
   "** A player has learned Water magick. **": {
     "translation": "** 一位玩家习得了水魔法. **"
+  },
+  "*** 25s ***": {
+    "translation": "还有25秒"
   }
 }
