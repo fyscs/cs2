@@ -1,6 +1,6 @@
 // Round Reward configuration file generator.
 // Reward Version v22
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -12,20 +12,20 @@
   // econIntern (float) -> 低保龙晶比例 (每分钟)
 
 {
-"1": {
-"rankPasses": 7,
-"rankDamage": 28000,
-"rankIntern": 0.4,
-"econPasses": 5,
-"econDamage": 32000,
-"econIntern": 0.2
-},
-"2": {
-"rankPasses": 7,
-"rankDamage": 28000,
-"rankIntern": 0.4,
-"econPasses": 5,
-"econDamage": 32000,
-"econIntern": 0.2
-}
-}
+  "1": {
+    "rankPasses": 7,
+    "rankDamage": 28000,
+    "rankIntern": 0.4,
+    "econPasses": 5,
+    "econDamage": 30000,
+    "econIntern": 0.2
+  },
+  "2": {
+      "rankPasses": 7,
+      "rankDamage": 28000,
+      "rankIntern": 0.4,
+      "econPasses": 5,
+      "econDamage": 30000,
+      "econIntern": 0.2
+    }
+  }
