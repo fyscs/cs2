@@ -11,13 +11,21 @@
   // econDamage (int)   -> 伤害结算龙晶比例
   // econIntern (float) -> 低保龙晶比例 (每分钟)
 
-{
-  "1": {
-    "rankPasses": 4,
-    "rankDamage": 20000,
-    "rankIntern": 0.4,
-    "econPasses": 3,
-    "econDamage": 24000,
-    "econIntern": 0.2
+  {
+    "1": {
+      "rankPasses": 8,
+      "rankDamage": 28000,
+      "rankIntern": 0.4,
+      "econPasses": 6,
+      "econDamage": 32000,
+      "econIntern": 0.2
+    },
+    "2": {
+      "rankPasses": 8,
+      "rankDamage": 28000,
+      "rankIntern": 0.4,
+      "econPasses": 6,
+      "econDamage": 32000,
+      "econIntern": 0.2
+    }
   }
-}
