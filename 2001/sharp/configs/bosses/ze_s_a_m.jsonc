@@ -23,7 +23,7 @@
   "Counters": [
     {
       "iterator": "Troll_Hp",
-      "count": "Troll_Hp_Counter",
+      "counter": "Troll_Hp_Counter",
       "backup": "Troll_Hp_Get",
       "increase": true,
       "hitbox": "Troll_Box",
@@ -31,7 +31,7 @@
     },
     {
       "iterator": "S2_Boss_Hp",
-      "count": "S2_Boss_Hp_Counter",
+      "counter": "S2_Boss_Hp_Counter",
       "backup": "S2_Boss_Hp_Get",
       "increase": true,
       "hitbox": "S2_Boss_Box",
@@ -39,7 +39,7 @@
     },
     {
       "iterator": "Castle_Hp",
-      "count": "Castle_Hp_Counter",
+      "counter": "Castle_Hp_Counter",
       "backup": "Castle_Hp_Get",
       "increase": true,
       "hitbox": "Castle_Hitbox",
@@ -47,7 +47,7 @@
     },
     {
       "iterator": "Dr_Hp",
-      "count": "Dr_Hp_Counter",
+      "counter": "Dr_Hp_Counter",
       "backup": "Dr_Hp_Get",
       "increase": true,
       "hitbox": "Dr_Hitbox",
@@ -55,7 +55,7 @@
     },
     {
       "iterator": "Bal_Hp",
-      "count": "Bal_Hp_Counter",
+      "counter": "Bal_Hp_Counter",
       "backup": "Bal_Hp_Get",
       "increase": true,
       "hitbox": "Bal_Hitbox",
