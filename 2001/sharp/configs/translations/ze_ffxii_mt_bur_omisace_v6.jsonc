@@ -515,7 +515,7 @@
     "translation": "神殿守卫使用了<烈焰法球>"
   },
   "**Sanctuary Keeper has casted Carnage of Phantoms!**": {
-    "translation": "神殿守卫使用了<幻影爆散>"
+    "translation": "神殿守卫使用了<幻影爆散>--抵抗后风!"
   },
   "**Sanctuary Keeper has casted Wave of Redemption!**": {
     "translation": "神殿守卫使用了<救赎波涛>"
@@ -527,13 +527,13 @@
     "translation": ">> 快离开中间 >>"
   },
   "**Sanctuary Keeper has casted Annihilate!**": {
-    "translation": "神殿守卫使用了<湮灭>"
+    "translation": "神殿守卫使用了<湮灭>--将释放全屏秒杀!"
   },
   "**Get to the teleport to to avoid death!**": {
     "translation": "神殿守卫使用了<无效>"
   },
   "**Sanctuary Keeper has casted Wind Rage!**": {
-    "translation": "神殿守卫使用了<风怒>"
+    "translation": "神殿守卫使用了<风怒>--抵抗前风!"
   },
   "**Sanctuary Keeper has casted Flare of Freezing!**": {
     "translation": "神殿守卫使用了<急冻>"
