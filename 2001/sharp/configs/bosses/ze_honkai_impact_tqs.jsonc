@@ -23,8 +23,10 @@
   "Counters": [
     {
       "iterator": "Boss_HitBox_Counter",
+      "counter": "Boss_HpBar_Counter",
+      "backup": "Boss_Hp_Reserve",
       "hitbox": "Boss_hitbox",
-      "display": "Plane"
+      "display": "牢大"
     }
   ]
 }
