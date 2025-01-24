@@ -3,9 +3,6 @@
     "2001/csgo/cfg/map-configs",
     "2004/csgo/cfg/map-configs"
   ],
-  "entwatch": [
-    "2001/sharp/data/entWatch"
-  ],
   "round_reward": [
     "2001/sharp/configs/rewards"
   ],
