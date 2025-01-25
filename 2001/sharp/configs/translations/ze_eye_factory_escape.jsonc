@@ -16,10 +16,10 @@
   "** 一位玩家捡起了喷火器,有燃料限制 **": {
     "translation": "** 一位玩家捡起了喷火器,有燃料限制 **"
   },
-  "** 一位玩家捡起了火箭筒,可以使用八次 **": {
-    "translation": "** 一位玩家捡起了火箭筒,可以使用八次 **"
+  "** 一位玩家捡起了火箭筒,可以使用十次 **": {
+    "translation": "** 一位玩家捡起了火箭筒,可以使用十次 **"
   },
-  "** 矿车将在10秒后启动 **": {
+  "** The mining car will start in 10 seconds **": {
     "translation": "** 矿车将在10秒后启动 **"
   },
   "** 僵尸追上来了，摧毁他们的矿车": {
@@ -40,10 +40,10 @@
   "** 我们对工厂内部一无所知,小心行事 **": {
     "translation": "** 我们对工厂内部一无所知,小心行事 **"
   },
-  "** 第一扇门将在15秒后打开,请稍候 **": {
+  "** The first door will open in 15 seconds, please wait **": {
     "translation": "** 第一扇门将在15秒后打开,请稍候 **"
   },
-  "** 第二扇门将在10秒后打开,请稍候 **": {
+  "** The second door will open in 10 seconds, please wait **": {
     "translation": "** 第二扇门将在10秒后打开,请稍候 **"
   },
   "** 试着调查一下电脑,也许我们能找到一些东西 **": {
@@ -55,16 +55,16 @@
   "** 我们发现墙后面有一部电梯 **": {
     "translation": "** 我们发现墙后面有一部电梯 **"
   },
-  "** 电梯将在30秒后启动,摧毁掉这堵墙 **": {
+  "** The elevator will start in 30 seconds and destroy this wall **": {
     "translation": "** 电梯将在30秒后启动,摧毁掉这堵墙 **"
   },
-  "** 这扇门是锁着的,给我15秒 **": {
+  "** This door is locked, give me 15 seconds **": {
     "translation": "** 这扇门是锁着的,给我15秒 **"
   },
   "** 这个按钮可以把桥吊到水上 **": {
     "translation": "** 这个按钮可以把桥吊到水上 **"
   },
-  "** 等待30秒守住僵尸,直到桥升起 **": {
+  "** Wait for 30 seconds to hold onto the zombies until the bridge rises **": {
     "translation": "** 等待30秒守住僵尸,直到桥升起 **"
   },
   "** 桥出现了,后退 **": {
@@ -79,7 +79,7 @@
   "** 小心梯子 **": {
     "translation": "** 小心梯子 **"
   },
-  "** 门将在25秒后开启 **": {
+  "** The goalkeeper will open in 25 seconds **": {
     "translation": "** 门将在25秒后开启 **"
   },
   "** 我感觉门后有一个危险的陷阱 **": {
@@ -88,7 +88,7 @@
   "** 为坠落做好准备 **": {
     "translation": "** 为坠落做好准备 **"
   },
-  "** 这道门将在30秒后开门 **": {
+  "** This goalkeeper will open the door in 20 seconds **": {
     "translation": "** 这道门将在30秒后开门 **"
   },
   "** 艹,这是个陷阱 **": {
@@ -133,7 +133,7 @@
   "** 这里充满了异常...**": {
     "translation": "** 这里充满了异常...**"
   },
-  "** 门将在25秒后打开 **": {
+  "** The goalkeeper will open in 25 seconds **": {
     "translation": "** 门将在25秒后打开 **"
   },
   "** 我们成功了!电梯即将启动  **": {
@@ -151,10 +151,10 @@
   "** 道路打开,撤退 **": {
     "translation": "** 道路打开,撤退 **"
   },
-  "** 请给我30秒 **": {
+  "** Please give me 30 seconds **": {
     "translation": "** 请给我30秒 **"
   },
-  "** c4已放置,请等待40秒 **": {
+  "** The explosives have been placed, please wait for 40 seconds **": {
     "translation": "** c4已放置,请等待40秒 **"
   },
   "** 离c4远点 **": {
@@ -172,7 +172,7 @@
   "** 但电源被切断了 **": {
     "translation": "** 但电源被切断了 **"
   },
-  "** 门将在15秒后打开 **": {
+  "** The goalkeeper will open in 15 seconds **": {
     "translation": "** 门将在15秒后打开 **"
   },
   "** 前方的路被门挡住...**": {
@@ -193,7 +193,7 @@
   "** fuck,这魔眼到处都是  **": {
     "translation": "** fuck,这魔眼到处都是  **"
   },
-  "** 安全屋将在30秒后开放  **": {
+  "** The safe house will open in 30 seconds  **": {
     "translation": "** 安全屋将在30秒后开放  **"
   },
   "** 门打开了,快进去 **": {
@@ -211,7 +211,7 @@
   "** 这个集装箱挡住了电梯,发电机需要足够的动力来移动它 **": {
     "translation": "** 这个集装箱挡住了电梯,发电机需要足够的动力来移动它 **"
   },
-  "** 电梯将在20秒后离开 **": {
+  "** The elevator will leave in 20 seconds **": {
     "translation": "** 电梯将在20秒后离开 **"
   },
   "** 这两个按钮需要同时按下 **": {
@@ -223,7 +223,7 @@
   "** 我们应该离开这里**": {
     "translation": "** 我们应该离开这里**"
   },
-  "** 伸缩桥将会在25秒后移动 **": {
+  "** The telescopic bridge will move in 25 seconds **": {
     "translation": "** 伸缩桥将会在25秒后移动 **"
   },
   "** 收到指挥部的消息,这家工厂下面有一条旧隧道 **": {
@@ -232,7 +232,7 @@
   "** 指挥部已经准备好让我们出去的路了 **": {
     "translation": "** 指挥部已经准备好让我们出去的路了 **"
   },
-  "** 门将在15秒之后打开 **": {
+  "** The goalkeeper will open in 15 seconds **": {
     "translation": "** 门将在15秒后打开 **"
   },
   "** 如果我们需要撤退的话 **": {
@@ -244,7 +244,7 @@
   "** 身份验证成功 **": {
     "translation": "** 身份验证成功 **"
   },
-  "** 将在30秒后为您开启 **": {
+  "** It will be activated for you in 30 seconds **": {
     "translation": "** 将在30秒后为您开启 **"
   },
   "** 我们需要员工卡才能解锁道路 **": {
@@ -271,16 +271,16 @@
   "** 找到逃生的路 **": {
     "translation": "** 找到逃生的路 **"
   },
-  "** 电梯将在35秒后离开! **": {
+  "** The elevator will leave in 35 seconds! **": {
     "translation": "** 电梯将在35秒后离开! **"
   },
-  "** 我们将在30秒后逃离这里 **": {
-    "translation": "** 我们将在30秒后逃离这里 **"
+  "** We will escape from here in 40 seconds **": {
+    "translation": "** 我们将在40秒后逃离这里 **"
   },
   "** 快点跳上矿车 **": {
     "translation": "** 快点跳上矿车 **"
   },
-  "** 这是一道电子锁，我需要30秒时间破解 **": {
+  "** This is an electronic lock, I need 30 seconds to crack it **": {
     "translation": "** 这是一道电子锁,我需要30秒时间破解 **"
   },
   "** 我们成功了，逃离了工厂 **": {
@@ -310,16 +310,16 @@
   "<< 完成 >>": {
     "translation": "<< 完成 >>"
   },
-  "<< 导弹将在五秒后投放 >>": {
+  "<< The missile will be launched in five seconds >>": {
     "translation": "<< 导弹将在5秒后投放 >>"
   },
   "<< 地图制作[淦]and[零度] >>": {
-    "translation": "<< 地图制作[淦]and[零度] >>"
+    "translation": "<< 地图制作[淦]and[零度] 地图翻译[Zeyu1]and[白姬]>>"
   },
   "<< 感谢您的游玩 >>": {
     "translation": "<< 感谢您的游玩 >>"
   },
-  "** 门将在35秒后打开 **": {
+  "** The goalkeeper will open in 35 seconds **": {
     "translation": "** 门将在35秒后打开 **"
   },
   "** 检查前方的门有可能是连接到外面的门 **": {
@@ -334,7 +334,7 @@
   "** 线索已经收集,但我们来时的路线已经关闭 **": {
     "translation": "** 线索已经收集,但我们来时的路线已经关闭 **"
   },
-  "** 给我15秒破坏这个木箱 **": {
+  "** Give me 15 seconds to destroy this wooden crate **": {
     "translation": "** 给我15秒破坏这个木箱 **"
   },
   "** 一位玩家捡起了治疗,90秒cd **": {
@@ -397,7 +397,10 @@
   "Player has picked up gravity.": {
     "translation": "** 黑洞已被拾取"
   },
-  "发电机正在发电,需要15秒钟的时间": {
+  "** The generator is generating electricity and will take 15 seconds **": {
     "translation": "** 发电机正在发电,需要15秒钟的时间 **"
+  },
+  "** Zombies still have three seconds to teleport **": {
+    "translation": "** 僵尸还有 3 秒的时间来传送 **"
   }
 }
