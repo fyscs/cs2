@@ -1,0 +1,97 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** PROTECT THE HOOKAH! DON'T LET ZOMBIES IN! ***": {
+    "translation": "*** 守住这里! 别让僵尸进来! ***"
+  },
+  "*** Sarin toxic gas will be released in 40 seconds ***": {
+    "translation": "*** 守住啊!还有40秒给僵尸送上天! ***"
+  },
+  "*** Map finished! Thanks for playing ***": {
+    "translation": "*** 全图通关!感谢您的游玩! 地图翻译 >> 茜茜 << ***"
+  },
+  "*** Teleporting everyone soon! Climb! ***": {
+    "translation": "*** 马上传送所有人! 快跳上去! ***"
+  },
+  "*** Hold for 40 seconds! ***": {
+    "translation": "*** 防守40秒! ***"
+  },
+  "*** Find and press the exit door button to get out ***": {
+    "translation": "*** 找到出口按钮按下即可离开 ***"
+  },
+  "*** Exit door breaking in 20 seconds ***": {
+    "translation": "*** 守到20秒门开 ***"
+  },
+  "*** Maze door breaking in 20 seconds! ***": {
+    "translation": "*** 迷宫门还有20秒门开! ***"
+  },
+  "*** Don't get lost! stick together! ***": {
+    "translation": "*** 不要迷路! 团结一致! ***"
+  },
+  "*** Glass slides open in 15 seconds ***": {
+    "translation": "*** 玻璃还有15秒挪动 ***"
+  },
+  "*** Both buttons pressed ***": {
+    "translation": "*** 二个按钮已触发 ***"
+  },
+  "*** Slide doors breaking in 20 seconds ***": {
+    "translation": "*** 铁网还有20秒打开 ***"
+  },
+  "*** Hold for 30 Seconds ***": {
+    "translation": "*** 防守30秒 ***"
+  },
+  "*** Map By HooKaSmoKa ***": {
+    "translation": "*** 地图作者 HooKaSmoKa ***"
+  },
+  "*** Survive for 40 seconds until teleport is active ***": {
+    "translation": "*** 寻找神秘打野点,存活40秒传送 ***"
+  },
+  "*** Zombies teleporting in 10 seconds ***": {
+    "translation": "*** 僵尸还有10秒到达战场 ***"
+  },
+  "***  Find two buttons to open the sewer gates!!! ***": {
+    "translation": "***  找到二个按钮,打开下水道铁网!!! ***"
+  },
+  "*** Looks like we'll have to deal with this first... ***": {
+    "translation": "*** 看来我们得先解决这个问题... ***"
+  },
+  "*** Exit door breaking in 25 seconds ***": {
+    "translation": "*** 出口将在25秒破碎 ***"
+  },
+  "*** Door closes in 15 seconds! ***": {
+    "translation": "*** 还有15秒关门! ***"
+  },
+  "*** Door Opens in 40 Seconds ***": {
+    "translation": "*** 40秒门开! ***"
+  },
+  "*** teleporting all players in 20 seconds ***": {
+    "translation": "*** 20秒传送所有人 ***"
+  },
+  "*** Choose a frog to open the path! ***": {
+    "translation": "*** 选择一只青蛙 打开前面的路! ***"
+  },
+  "*** Door opens in 5 seconds ***": {
+    "translation": "*** 5秒内门开 ***"
+  },
+  "*** Slide down ***": {
+    "translation": "*** 往下滑 ***"
+  },
+  "*** Get in ! ***": {
+    "translation": "*** 快进去 ! ***"
+  },
+  "*** go press the buttons, quickly! ***": {
+    "translation": "*** 快去按按钮! ***"
+  },
+  "*** Run! find a way out! zombies are right behind you! ***": {
+    "translation": "*** 跑起来!找到出口!僵尸就要追屁屁了! ***"
+  }
+}
