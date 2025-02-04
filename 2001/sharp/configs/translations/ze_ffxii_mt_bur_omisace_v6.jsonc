@@ -188,22 +188,22 @@
     "translation": "[贝甘]即将掷出剑刃,不要待在一起"
   },
   "**Judge Bergan has cased Flash of Burning Souls!**": {
-    "translation": "[贝甘]使用了 <燃烧之魂>"
+    "translation": "[贝甘]使用了 <燃烧之魂>--远离中场火焰!"
   },
   "**Judge Bergan has casted Dedication Aura!**": {
-    "translation": "[贝甘]使用了 <献祭之光>"
+    "translation": "[贝甘]使用了 <献祭之光>--反伤!"
   },
   "**Judge Bergan has casted Rage of Magic!**": {
     "translation": "[贝甘]使用了 <魔力爆散>"
   },
   "**Judge Bergan has casted Aura of Water!**": {
-    "translation": "[贝甘]使用了 <水华>"
+    "translation": "[贝甘]使用了 <水华>--抵抗前风!"
   },
   "**Judge Bergan has casted Flash of Shattering!**": {
     "translation": "[贝甘]使用了 <闪耀破碎>"
   },
   "**All Bergan attacks do double damage!**": {
-    "translation": "[贝甘]使用了 <双倍伤害>"
+    "translation": "[贝甘]接下来的所有攻击都将造成双倍伤害!"
   },
   "**Judge Bergan has casted Frost Fury!**": {
     "translation": "[贝甘]使用了 <霜寒爆裂>"
@@ -212,10 +212,10 @@
     "translation": "[贝甘]使用了 <瘟疫蔓延>"
   },
   "**Judge Bergan has casted Soul Siphon!**": {
-    "translation": "[贝甘]使用了 <灵魂虹吸>"
+    "translation": "[贝甘]使用了 <灵魂虹吸>--头顶火球!"
   },
   "**Judge Bergan has casted Tranquility Wave!**": {
-    "translation": "[贝甘]使用了 <静爆>"
+    "translation": "[贝甘]使用了 <静爆>--抵抗后风!"
   },
   "**[Bash] Well done! You interrupted the attack and now you may attack Judge Berga**": {
     "translation": "好!你中断了它的攻击,现在可以继续了"
@@ -269,7 +269,7 @@
     "translation": "[手雷]可以造成更多伤害!"
   },
   "**[Gabranth] Ha Defend?! You!?**": {
-    "translation": "[加布拉斯] 抵抗?!你?!"
+    "translation": "[加布拉斯] 哈!抵抗?!你?!"
   },
   "**A player has picked up Ensanguined Shield**": {
     "translation": "玩家已拾起 [染血之盾]"
@@ -461,7 +461,7 @@
     "translation": "[加布拉斯]使用了 <暴怒>"
   },
   "**Judge Gabranth has casted Voidness Bolt!**": {
-    "translation": "[加布拉斯]使用了 <虚空电闪>"
+    "translation": "[加布拉斯]使用了 <虚空电闪>--注意脚底!"
   },
   "**Judge Gabranth has casted Frost Bolt!**": {
     "translation": "[加布拉斯]使用了 <霜寒闪电>"
@@ -485,7 +485,7 @@
     "translation": "[加布拉斯]使用了 <头骨融化>"
   },
   "**Judge Gabranth has casted Cruel Paralysis!**": {
-    "translation": "[加布拉斯]使用了 <在这停顿>"
+    "translation": "[加布拉斯]使用了 <电闪雷鸣>"
   },
   "**[Vaan] Judge Gabranth has casted his final attack! Kill him quickly!**": {
     "translation": "[加布拉斯]使用了 <最终攻击>!快点!!!"
@@ -515,7 +515,7 @@
     "translation": "神殿守卫使用了<烈焰法球>"
   },
   "**Sanctuary Keeper has casted Carnage of Phantoms!**": {
-    "translation": "神殿守卫使用了<幻影爆散>"
+    "translation": "神殿守卫使用了<幻影爆散>--抵抗后风!"
   },
   "**Sanctuary Keeper has casted Wave of Redemption!**": {
     "translation": "神殿守卫使用了<救赎波涛>"
@@ -527,13 +527,13 @@
     "translation": ">> 快离开中间 >>"
   },
   "**Sanctuary Keeper has casted Annihilate!**": {
-    "translation": "神殿守卫使用了<湮灭>"
+    "translation": "神殿守卫使用了<湮灭>--将释放全屏秒杀!"
   },
   "**Get to the teleport to to avoid death!**": {
     "translation": "神殿守卫使用了<无效>"
   },
   "**Sanctuary Keeper has casted Wind Rage!**": {
-    "translation": "神殿守卫使用了<风怒>"
+    "translation": "神殿守卫使用了<风怒>--抵抗前风!"
   },
   "**Sanctuary Keeper has casted Flare of Freezing!**": {
     "translation": "神殿守卫使用了<急冻>"
@@ -626,7 +626,7 @@
     "translation": "[贝甘]使用了魔石!我们必须杀掉他!"
   },
   "**Judge Bergan summons Esper Chaos!**": {
-    "translation": "[贝甘]召唤了 <卡奥斯>"
+    "translation": "[贝甘]召唤了 <轮回王>"
   },
   "**Judge Bergan summons Esper Famfirt!**": {
     "translation": "[贝甘]召唤了 <法姆弗里特>"
@@ -641,7 +641,7 @@
     "translation": "[贝甘]召唤了 <谢米哈扎>"
   },
   "**Judge Bergan summons Esper Ultima!**": {
-    "translation": "[贝甘]召唤了 <阿尔蒂玛>"
+    "translation": "[贝甘]召唤了 <阿尔蒂玛>--全体100hp"
   },
   "**You are too slow**": {
     "translation": "太慢了..."
