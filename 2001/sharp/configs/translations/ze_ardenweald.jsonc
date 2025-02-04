@@ -10,292 +10,88 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "<< TIPS: HUMAN now are uninfectable >>": {
-    "translation": "<< 提示: 人类现在有防化服 >>"
+  ">>>被你发现了<<<": {
+    "translation": ">>>被你发现了<<<"
   },
-  "<< Do Not Let zombies destroy the crystal >>": {
-    "translation": "<< 别让僵尸摧毁水晶 >>"
+  ">>>你好像走错了<<<": {
+    "translation": ">>>你好像走错了<<< >>"
   },
-  "<< Lets start! The Final Ten heros!!! >>": {
-    "translation": "<< 最后的十个栽种 看你们表现了!!! >>"
+  ">>>前方的路很难走，要仔细辨别哦，5 seconds left<<<": {
+    "translation": ">>>5秒后门开<<<"
   },
-  "<< zombie will only have 50 hp in the final 30 seconds >>": {
-    "translation": "<< 僵尸最后三十秒将会变得虚弱(只有五十血) >>"
+  ">>>还需要再等一会哦,30second left<<<": {
+    "translation": ">>>坚守30秒<<<"
   },
-  "<< 180 seconds left >>": {
-    "translation": "<< 180 >>"
+  ">>>还需要再等一会哦,10second left<<<": {
+    "translation": ">>>坚守10秒<<<"
   },
-  "<< Final 30 seconds !!! >>": {
-    "translation": "<< 30 >>"
+  ">>>石碑印记，指明道路。独一无二，引领前路<<<": {
+    "translation": ">>>石碑印记,指明道路.独一无二,引领前路<<<"
   },
-  "<< 120 seconds left >>": {
-    "translation": "<< 120 >>"
+  ">>>地图作者：ze探险家<<<": {
+    "translation": ">>>地图作者:ze探险家 文本翻译:秋言不会跳刀<<<"
   },
-  "<< 60 seconds left >>": {
-    "translation": "<< 60  >>"
+  ">>>欢迎来到炽蓝仙野<<<": {
+    "translation": ">>>欢迎来到炽蓝仙野<<<"
   },
-  "<< Hero will have no limit ammo in the last 30 seconds  >>": {
-    "translation": "<< 本关最后时间将会拥有无限子弹  >>"
+  ">>>找出不同图案解锁机关<<<": {
+    "translation": ">>>找出不同图案解锁机关<<<"
   },
-  "<< HERO MODE >>": {
-    "translation": "<< 英雄模式 >>"
+  ">>>祝你好运<<<": {
+    "translation": ">>>祝你好运<<<"
   },
-  "<< Shooting the crystal to become the HERO >>": {
-    "translation": "<< 摧毁水晶变成救世主! >>"
+  ">>>你需要找到机关才能打开迷雾之门<<<": {
+    "translation": ">>>你需要找到机关才能打开迷雾之门<<<"
   },
-  "<< ONLY HAS 30 seconds to become the HERO >>": {
-    "translation": "<< 你只有30秒的时间! >>"
+  ">>>咦，这个宝石是干嘛的<<<": {
+    "translation": ">>>咦,这个宝石是干嘛的<<<"
   },
-  "<< FAIL...... >>": {
-    "translation": "<< GG! >>"
+  ">>>10 seconds<<<": {
+    "translation": ">>>再阻挡10秒<<<"
   },
-  "<< wait for 25 seconds >>": {
-    "translation": "<< 等待25秒 >>"
+  ">>>终于出来了！小心前方荆棘！，15second<<<": {
+    "translation": ">>>小心前方荆棘,我们还需要坚守15秒<<<"
   },
-  "<< who permit you to press the button? >>": {
-    "translation": "<< 谁允许的你按下按钮? >>"
+  ">>>不采一株桑，不踏一粒石。自问此时心，不足何时足。10 seconds left<<<": {
+    "translation": ">>>坚守10秒<<<"
   },
-  "<< defend for 30 seconds >>": {
-    "translation": "<< 防守30秒 >>"
+  ">>>太好了，你找到了<<<": {
+    "translation": ">>>太好了,你找到了<<<"
   },
-  "Map made by Misaka": {
-    "translation": "地图作者: Misaka"
+  ">>>同类同形，虚无之路。唯一印记，唯一正途<<<": {
+    "translation": ">>>同类同形,虚无之路,唯一印记,唯一正途<<<"
   },
-  "Port by Hephasfos": {
-    "translation": "移植: Hephasfos 汉化:Zeyu1"
+  ">>>开关已全部激活 20 seconds left<<<": {
+    "translation": ">>>石板将在20秒后上升<<<"
   },
-  "<< What are you doing??? >>": {
-    "translation": "<< 你在干什么??? >>"
+  ">>>10 seconds left<<<": {
+    "translation": ">>>还剩10秒<<<"
   },
-  "<< DeathRun Complete !!! >>": {
-    "translation": "<< 死亡奔跑 已完成!!! >>"
+  ">>>板子即将上升 20 seconds left<<<": {
+    "translation": ">>>板子将再20秒后上升<<<"
   },
-  "<< Zombie win >>": {
-    "translation": "<< 僵尸胜利 >>"
+  ">>>30 seconds left<<<": {
+    "translation": ">>>还剩30秒<<<"
   },
-  "<< OHHHHHH ITS E PICK LEGEND !!! >>": {
-    "translation": "<< 我测 你才是Epick的神 !!! >>"
+  ">>>第一关胜利<<<": {
+    "translation": ">>>第一关胜利<<<"
   },
-  "<< the second save point will be activated in 30 seconds >>": {
-    "translation": "<< 存档点二解锁: 30秒 >>"
+  ">>>道路还有10秒显现, 10 seconds left<<<": {
+    "translation": ">>>道路还有10秒显现,坚持住<<<"
   },
-  "<< TEAM MODE >>": {
-    "translation": "<< 团队模式 >>"
+  ">>>道路还有20秒显现, 20 seconds left<<<": {
+    "translation": ">>>道路还有20秒显现,坚持住<<<"
   },
-  "<< zombie will come in 5 seconds >>": {
-    "translation": "<< 僵尸还有5秒就来了! >>"
+  ">>>tp in 10 seconds<<<": {
+    "translation": ">>>10秒后传送<<<"
   },
-  "<< DEATHRUN MODE >>": {
-    "translation": "<< 死跑模式 >>"
+  ">>>tp in 30 seconds<<<": {
+    "translation": ">>>30秒后传送<<<"
   },
-  "<< SOLO MODE >>": {
-    "translation": "<< solo(孤儿)模式 >>"
+  ">>>胜利<<<": {
+    "translation": ">>>恭喜你胜利了<<<"
   },
-  "<< DEFENSE MODE >>": {
-    "translation": "<< 防守模式DE >>"
-  },
-  "<< BUTTON MODE >>": {
-    "translation": "<< 按钮模式 >>"
-  },
-  "<< zombie will come in 20 seconds >>": {
-    "translation": "<< 僵尸还有20秒就来了! >>"
-  },
-  "<< FROG MODE >>": {
-    "translation": "<< 简单滑翔 >>"
-  },
-  "<< You have already win 4 mode!!! >>": {
-    "translation": "<< 你已经赢了四轮!!! >>"
-  },
-  "<< Now its the entertainment time!!! >>": {
-    "translation": "<< 娱乐时间!!! >>"
-  },
-  "<< The first save point has been unlocked ! >>": {
-    "translation": "<< 存存档点一解锁 ! >>"
-  },
-  "<< Welcome to DeathRun!!! >>": {
-    "translation": "<< 欢迎来到死跑模式!!! >>"
-  },
-  "<< Try your best to get to the end >>": {
-    "translation": "<< 尽你最大的努力活到最后! >>"
-  },
-  "<< So Are You READY? >>": {
-    "translation": "<< 你准备好了吗? >>"
-  },
-  "<< GO!!! >>": {
-    "translation": "<< GO!!! >>"
-  },
-  "<< You can jump back to go to the button room >>": {
-    "translation": "<< 你可以跳回按钮房 >>"
-  },
-  "<< Be careful!!! All players will die if you do not finish the deathrun in 250 seconds >>": {
-    "translation": "<< 注意!全体二百五十秒后飞升 >>"
-  },
-  "<< 249 seconds left >>": {
-    "translation": "<< 249 >>"
-  },
-  "<< 150 seconds >>": {
-    "translation": "<< 150  >>"
-  },
-  "<< 60 seconds >>": {
-    "translation": "<< 60  >>"
-  },
-  "<< Human win >>": {
-    "translation": "<< 人类胜利 >>"
-  },
-  "<< Let's play a game now >>": {
-    "translation": "<< 一起来玩个游戏吧 >>"
-  },
-  "<< You can see there are 8 platforms >>": {
-    "translation": "<< 这里有八个平台 >>"
-  },
-  "<< After a little time, only a few number of platform will be safe >>": {
-    "translation": "<< 每过一段时间, 将仅有少数平台是安全的 >>"
-  },
-  "<< so now, choose the number that you like >>": {
-    "translation": "<< 选择你的幸运数字 >>"
-  },
-  "<< Round 1 >>": {
-    "translation": "<< 第一回合 >>"
-  },
-  "<< 10 seconds to choose >>": {
-    "translation": "<< 你有十秒的时间来选择 >>"
-  },
-  "<< Round 2 >>": {
-    "translation": "<< 第二回合 >>"
-  },
-  "<< It seems that you are less than 16 guys >>": {
-    "translation": "<< 存活人数过少, 小游戏难度已更改 >>"
-  },
-  "<< OK, I will let you win this game easier >>": {
-    "translation": "<< 这场游戏将会很轻松 >>"
-  },
-  "<< press the button and defend zombie >>": {
-    "translation": "<< 摁下按钮!继续防守! >>"
-  },
-  "<< Press 8 button to win the game >>": {
-    "translation": "<< 摁下八个按钮来赢得本场胜利 >>"
-  },
-  "<< the light will change to green if the button can be pressed >>": {
-    "translation": "<< 指示灯为绿色, 按钮解锁 >>"
-  },
-  "<< You only have 120 seconds >>": {
-    "translation": "<< 120秒! >>"
-  },
-  "<< You Done It !!! >>": {
-    "translation": "<< 你做到了!!! >>"
-  },
-  "<< defend for final 30 seconds >>": {
-    "translation": "<< 最终防守: 30秒 >>"
-  },
-  "<< zombie now has low gravity! >>": {
-    "translation": "<< 僵尸低重力! >>"
-  },
-  "<< NO!!! zombie has touched that fucking face >>": {
-    "translation": "<< 僵尸触碰到了滑稽脸,完蛋咯 >>"
-  },
-  "<< wait for 15 seconds >>": {
-    "translation": "<< 等待15秒 >>"
-  },
-  "<< afk tele in 20 seconds >>": {
-    "translation": "<< 20秒后僵尸传送 >>"
-  },
-  "<<boat will move in 15 seconds >>": {
-    "translation": "<<船还有15秒启动 >>"
-  },
-  "<< zombie can move in 15 seconds >>": {
-    "translation": "<< 15秒后僵尸就来啦 >>"
-  },
-  "<< solo time will begin in 15 seconds !!!! >>": {
-    "translation": "<< 孤儿时间还有15秒开启 !!!! >>"
-  },
-  "<< wait for 10 seconds >>": {
-    "translation": "<< 还剩10秒 >>"
-  },
-  "<< zombie can go in 10 seconds >>": {
-    "translation": "<< 10秒后僵尸就来啦 >>"
-  },
-  "<< YOU GET IT >>": {
-    "translation": "<< 你做到了 >>"
-  },
-  "<< teleport human >>": {
-    "translation": "<< 人类传送n >>"
-  },
-  "<< zombie teleport in 5 seconds >>": {
-    "translation": "<< 5秒后僵尸传送 >>"
-  },
-  "<< NOBODY WIN THE LASER TEST >>": {
-    "translation": "<< 无人存活 >>"
-  },
-  "<< DIE >>": {
-    "translation": "<< 失败! >>"
-  },
-  "<< hold for 30 seconds >>": {
-    "translation": "<< 防守30秒 >>"
-  },
-  "<< A Bridge Appears >>": {
-    "translation": "<< 桥出现了 >>"
-  },
-  "<< teleport in 30 seconds >>": {
-    "translation": "<< 30秒后传送s >>"
-  },
-  "<< After a little time, only 1 platform will be safe >>": {
-    "translation": "<< 将仅有一个平台是安全的 >>"
-  },
-  "<< Now let's start the final game >>": {
-    "translation": "<< 开始最后一场游戏 >>"
-  },
-  "<< Choose Mode...... >>": {
-    "translation": "<< 选择模式中..... >>"
-  },
-  "<< YOU ARE NOT LUCKY >>": {
-    "translation": "<< 你真幸运 >>"
-  },
-  "<< defense for 120 seconds >>": {
-    "translation": "<< 防守120秒 >>"
-  },
-  "<< 90 seconds >>": {
-    "translation": "<< 防守90秒 >>"
-  },
-  "<< 30 seconds >>": {
-    "translation": "<< 防守30秒 >>"
-  },
-  "<< zombie now has low gravity!!! >>": {
-    "translation": "<< 僵尸低重力! >>"
-  },
-  "<< hold for 60 seconds >>": {
-    "translation": "<< 防守60秒 >>"
-  },
-  "<< hold for 10 seconds >>": {
-    "translation": "<< 防守10秒 >>"
-  },
-  "<< Defend for 12 seconds >>": {
-    "translation": "<< 防守12秒 >>"
-  },
-  "<< No Short Cut >>": {
-    "translation": "<< 我的发? >>"
-  },
-  "<< Shooting the mode that you want to play!!! >>": {
-    "translation": "<< 射击你想选择的模式!!! >>"
-  },
-  "<< Random Pick >>": {
-    "translation": "<< 随机选择 >>"
-  },
-  "<< It seems that you destroy some fucking things >>": {
-    "translation": "<< 打掉滑稽脸, 按钮解锁 >>"
-  },
-  "<< defend for 10 seconds >>": {
-    "translation": "<< 防守10秒 >>"
-  },
-  "<< a player has picked up wind >>": {
-    "translation": "<< 一位玩家捡起了风神器 >>"
-  },
-  "<< it has a 50 seconds cool down >>": {
-    "translation": "<< 他有五十秒冷却 >>"
-  },
-  "<< Look at that fucking face >>": {
-    "translation": "<< 妈惹法克 >>"
-  },
-  "<< Watch Out !!!! >>": {
-    "translation": "<< 小心 !!!! >>"
+  ">>>被你发现了,10second left<<<": {
+    "translation": ">>>迷雾之门10秒后散去<<<"
   }
 }
