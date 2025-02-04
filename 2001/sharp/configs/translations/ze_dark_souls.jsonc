@@ -10,6 +10,24 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
+  "*** Admin Abuse: FCS ***": {
+    "translation": "** >> 管理员 << 滥用: << 防火女魂魄 >> **"
+  },
+  "*** Admin Abuse: Lizard ***": {
+    "translation": "** >> 管理员 << 滥用: << 宝石结晶虫 >> **"
+  },
+  "*** Admin Abuse: Embers ***": {
+    "translation": "** >> 管理员 << 滥用: << 余烬 >> **"
+  },
+  "** Version 1.0.1.3 **": {
+    "translation": "** Version 1.0.1.3 **"
+  },
+  "** Find the lever to open the bottom gate in the Depths. You have 35 seconds **": {
+    "translation": "** 在深渊中找到开启底部闸门的杠杆. 你有35秒的时间 **"
+  },
+  "** Do it faster next time! You lost! **": {
+    "translation": "** 下次动作快点! You lost! **"
+  },
   "** The Sen's Fortress gates will open in 30 seconds **": {
     "translation": "** 要塞的大门将在 30 秒后打开 **"
   },
@@ -275,7 +293,7 @@
     "translation": "** << 龟裂血红眼眸 >> ⑦/⑦ **"
   },
   "** not enough haryde(nigger) coins for true ending **": {
-    "translation": "** 没有足够的 << 眼球 >> 无法达成真正的结局 **"
+    "translation": "** 没有足够的 << 龟裂血红眼眸 >> 无法达成真正的结局 **"
   },
   "** Fire keeper soul has been picked up 1/5 **": {
     "translation": "** << 防火女魂魄进度 >> ①/⑤ **"
@@ -303,9 +321,6 @@
   },
   "** So be careful and watch your step **": {
     "translation": "** 所以要小心谨慎 **"
-  },
-  "** Find the lever to open the bottom gate in the Depths **": {
-    "translation": "** 找到打开下水道大门的开关 **"
   },
   "** Admin Set Champion mode **": {
     "translation": "** 管理员设置了 Champion 模式 **"
