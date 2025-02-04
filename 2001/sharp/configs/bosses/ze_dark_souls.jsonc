@@ -54,12 +54,20 @@
   ],
   "Monsters": [
     {
-      "identity": "26706",
+      "identity": "143386",
       "display": "NPC"
     },
     {
-      "identity": "27277",
+      "identity": "143390",
       "display": "Borov"
+    },
+    {
+      "identity": "145197",
+      "display": "slime"
+    },
+    {
+      "identity": "143384",
+      "display": "block"
     }
   ]
 }
