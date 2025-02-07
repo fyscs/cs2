@@ -89,7 +89,7 @@
     "translation": "*** Boss 正在释放屏障 ***"
   },
   "*** Boss used hurt ***": {
-    "translation": "*** Boss 使用了反伤 ***"
+    "translation": "*** 快蹲下! ***"
   },
   "*** Crouch! ***": {
     "translation": "*** Crouch! ***"
@@ -98,6 +98,6 @@
     "translation": "*** Boss 正在释放推力 ***"
   },
   "*** Press W! ***": {
-    "translation": "*** 摁住S键! ***"
+    "translation": "*** 摁住W键! ***"
   }
 }
