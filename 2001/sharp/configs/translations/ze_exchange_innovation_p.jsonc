@@ -1,0 +1,100 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "ATENÇÃO - A GRADE IRÁ ABRIR EM 30 SEGUNDOS": {
+    "translation": "注意 - 闸门将在 >> 30 << 秒后开启!"
+  },
+  "WARNING - GRATE WILL OPEN IN 30 SECONDS": {
+    "translation": "警告 - >> 30 << 秒后闸门开启!"
+  },
+  "NÍVEL DE INFECÇÃO: DESCONHECIDO": {
+    "translation": "感染指数: 无法识别!"
+  },
+  "ATENÇÃO: ARMAS DETECTADAS": {
+    "translation": "警报: 侦测到武器!"
+  },
+  "LEVEL OF INFECTION: UNKNOWN": {
+    "translation": "感染等级: 无法判定!"
+  },
+  "ATTENTION: WEAPONS DETECTED": {
+    "translation": "警报: 侦测到武装!"
+  },
+  "MODO DESTRUIÇÃO FOI ATIVADO": {
+    "translation": "终极破坏模式启动!"
+  },
+  "EXPLOSION OVERRIDE MODE ACTIVATED": {
+    "translation": "爆炸超载模式启动!"
+  },
+  "O MUNDO ESTARÁ PERDIDO": {
+    "translation": "世界终局已至!"
+  },
+  "THE WORLD WILL BE LOST": {
+    "translation": "世界终局已至!"
+  },
+  "ATENÇÃO - A PORTA IRÁ ABRIR EM 15 SEGUNDOS": {
+    "translation": "警告 - 主闸门 >> 15 << 秒后开启!"
+  },
+  "WARNING - DOOR WILL OPEN IN 15 SECONDS": {
+    "translation": "警告 - 主通道闸门 >> 15 << 秒后开启!"
+  },
+  "VOCÊ CHEGOU NA TORRE DE RÁDIO !": {
+    "translation": "你已抵达无线电塔 !"
+  },
+  "OS BARCOS IRÃO PARTIR EM 30 SEGUNDOS !": {
+    "translation": "舰队起航倒计时: >> 30 << 秒!"
+  },
+  "YOU REACHED THE RADIO TOWER !": {
+    "translation": "你已抵达无线电塔 !"
+  },
+  "BOATS WILL LEAVE IN 30 SECONDS !": {
+    "translation": "舰队起航倒计时: >> 30 << 秒!"
+  },
+  "ATENÇÃO - O ELEVADOR IRÁ SUBIR EM 10 SEGUNDOS": {
+    "translation": "警告 - 电梯 >> 10 << 秒后启动!"
+  },
+  "WARNING - ELEVATOR WILL START IN 10 SECONDS": {
+    "translation": "警告 - 电梯 >> 10 << 秒后启动!"
+  },
+  "ATENÇÃO - O PORTÃO IRÁ ABRIR EM 30 SEGUNDOS": {
+    "translation": "警告 - 闸门将在 >> 30 << 秒后开启!"
+  },
+  "ATENÇÃO - O ELEVADOR IRÁ SUBIR EM 30 SEGUNDOS": {
+    "translation": "警告 - 电梯 >> 30 << 秒后启动!"
+  },
+  "WARNING - ELEVATOR WILL START IN 30 SECONDS": {
+    "translation": "警告 -警告 - 电梯 >> 30 << 秒后启动!"
+  },
+  "WARNING - BLASTDOOR WILL OPEN IN 30 SECONDS": {
+    "translation": "警告 - 防爆闸门将在 >> 30 << 秒后开启!"
+  },
+  "ATENÇÃO - O PORTÃO IRÁ ABRIR EM 20 SEGUNDOS": {
+    "translation": "警告 - 闸门将在 >> 20 << 秒后开启!"
+  },
+  "WARNING - BLASTDOOR WILL OPEN IN 20 SECONDS": {
+    "translation": "警告 - 防爆闸门将在 >> 20 << 秒后开启!"
+  },
+  "MAP MADE BY N!kO | NickMaps": {
+    "translation": "地图由N!kO制作 | NickMaps | 地图翻译: >> 茜茜 <<"
+  },
+  "SCANNER IN PROGRESS...": {
+    "translation": "扫描程序运行中..."
+  },
+  "THANKS TO DenniS": {
+    "translation": "特别鸣谢 DenniS"
+  },
+  "ATENÇÃO - O PORTÃO IRÁ ABRIR EM 10 SEGUNDOS": {
+    "translation": "警告 - 闸门将在 >> 10 << 秒后开启!"
+  },
+  "VERIFICAÇÃO EM PROGRESSO...": {
+    "translation": "验证进行中..."
+  }
+}
