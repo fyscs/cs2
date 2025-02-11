@@ -20,7 +20,7 @@
     "translation": ">>>5秒后门开<<<"
   },
   ">>>还需要再等一会哦,30second left<<<": {
-    "translation": ">>>坚守30秒<<<"
+    "translation": ">>>还剩30秒<<<"
   },
   ">>>还需要再等一会哦,10second left<<<": {
     "translation": ">>>坚守10秒<<<"
@@ -50,10 +50,10 @@
     "translation": ">>>再阻挡10秒<<<"
   },
   ">>>终于出来了！小心前方荆棘！，15second<<<": {
-    "translation": ">>>小心前方荆棘,我们还需要坚守15秒<<<"
+    "translation": ">>>小心前方荆棘,15秒后僵尸传送<<<"
   },
   ">>>不采一株桑，不踏一粒石。自问此时心，不足何时足。10 seconds left<<<": {
-    "translation": ">>>坚守10秒<<<"
+    "translation": ">>>还剩10秒<<<"
   },
   ">>>太好了，你找到了<<<": {
     "translation": ">>>太好了,你找到了<<<"
@@ -62,7 +62,7 @@
     "translation": ">>>同类同形,虚无之路,唯一印记,唯一正途<<<"
   },
   ">>>开关已全部激活 20 seconds left<<<": {
-    "translation": ">>>石板将在20秒后上升<<<"
+    "translation": ">>>石板将在20秒后破碎<<<"
   },
   ">>>10 seconds left<<<": {
     "translation": ">>>还剩10秒<<<"
