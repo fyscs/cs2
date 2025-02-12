@@ -194,7 +194,7 @@
   "EXTREME MODE - Discover the Garamsythe Waterway. WARNING - Esper.": {
     "translation": "EX模式 - 探索加兰塞斯水道 - Esper."
   },
-  "OnTrigger>cmd>Command>**THE TOMB GATES WILL OPEN IN 20 SECONDS**>0.00>1": {
+  "**THE TOMB GATES WILL OPEN IN 20 SECONDS**": {
     "translation": "墓穴大门将在20秒后打开"
   },
   "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**": {
@@ -575,16 +575,16 @@
   "**WE KILLED HIM. GO TO THE END OF THE ROAD***": {
     "translation": "**我们杀了他,快离开这里***"
   },
-  "OnTrigger>Cmd>Command>**THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**>5.00>1": {
+  "**THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**": {
     "translation": "大门将在15秒后打开,保持防守"
   },
   "**HE IS DEAD**GO AWAY FROM THE TEMPLE!!**": {
     "translation": "**他死了!快逃离王墓!!**"
   },
-  "OnTrigger>cmd>Command>**THE LAST GATES WILL OPEN IN 20 SECONDS**>0.00>1": {
+  "**THE LAST GATES WILL OPEN IN 20 SECONDS**": {
     "translation": "最后一道闸门将在20秒内打开"
   },
-  "OnTrigger>cmd>Command>**GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**>25.00>1": {
+  "**GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**": {
     "translation": "到桥的另一边,防守30秒"
   },
   "HASTE +1": {
