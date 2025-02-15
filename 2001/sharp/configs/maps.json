@@ -1855,6 +1855,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_rabanastre_royal": {
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
+    "price": 500,
+    "cooldown": 120,
+    "nomination": true,
+    "admin": false
+  },
   "ze_raccoon_facility_p": {
     "certainTimes": [-1],
     "price": 300,
