@@ -62,6 +62,66 @@
     {
       "identity": "29310",
       "display": "DP"
+    },
+    {
+      "identity": "29286",
+      "display": "巨人phy1"
+    },
+    {
+      "identity": "29281",
+      "display": "巨人phy2"
+    },
+    {
+      "identity": "29288",
+      "display": "巨人phy3"
+    },
+    {
+      "identity": "29290",
+      "display": "巨人phy4"
+    },
+    {
+      "identity": "29292",
+      "display": "巨人phy5"
+    },
+    {
+      "identity": "29194",
+      "display": "巨魔phy1"
+    },
+    {
+      "identity": "29199",
+      "display": "巨魔phy2"
+    },
+    {
+      "identity": "29201",
+      "display": "巨魔phy3"
+    },
+    {
+      "identity": "29203",
+      "display": "巨魔phy4"
+    },
+    {
+      "identity": "29205",
+      "display": "巨魔phy5"
+    },
+    {
+      "identity": "29247",
+      "display": "狼人phy1"
+    },
+    {
+      "identity": "29249",
+      "display": "狼人phy2"
+    },
+    {
+      "identity": "29251",
+      "display": "狼人phy3"
+    },
+    {
+      "identity": "29253",
+      "display": "狼人phy4"
+    },
+    {
+      "identity": "29255",
+      "display": "狼人phy5"
     }
   ]
 }
