@@ -36,12 +36,12 @@
     "econDamage": 20000,
     "econIntern": 0.2
   },
-  "4d": {
+  "4": {
     "rankPasses": 8,
     "rankDamage": 18000,
     "rankIntern": 0.4,
     "econPasses": 5,
-    "econDamage": 2000,
+    "econDamage": 20000,
     "econIntern": 0.2
   }
 }
