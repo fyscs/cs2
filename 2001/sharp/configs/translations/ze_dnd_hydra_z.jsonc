@@ -10,9 +10,6 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "**AFK teleport in 5 seconds**": {
-    "translation": "**AFK在5秒内传送**"
-  },
   "**40 seconds until rocks are cleared**": {
     "translation": "**距离岩石被清除还有40秒**"
   },
