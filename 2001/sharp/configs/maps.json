@@ -252,6 +252,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_biohazard2_sewer_004": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 50,
+    "nomination": false,
+    "admin": false
+  },
   "ze_biohazard_manor_004_p": {
     "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
     "price": 550,
