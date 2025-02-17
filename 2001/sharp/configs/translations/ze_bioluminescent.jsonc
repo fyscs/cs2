@@ -1,0 +1,75 @@
+// Console SayText i18n file generator.
+// Copyright 2023 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** You took too long to trigger! Slaying humans... **": {
+    "translation": "触发过慢,正在处死人类..."
+  },
+  "** FIRST DOOR WILL OPEN IN 30 SECONDS **": {
+    "translation": "第一扇门30秒后打开"
+  },
+  "** DOOR WILL OPEN IN 20 SECONDS **": {
+    "translation": "20秒后开启"
+  },
+  "** LIFT MOVING IN 15 SECONDS **": {
+    "translation": "平台15秒后启动"
+  },
+  "** LIFT MOVING IN 20 SECONDS **": {
+    "translation": "平台20秒后启动"
+  },
+  "** DOOR OPENS IN 15 SECONDS **": {
+    "translation": "还有15秒开启"
+  },
+  "** LIFT MOVING IN 25 SECONDS **": {
+    "translation": "平台25秒后启动"
+  },
+  "** ZM TELEPORT IN 15 SECONDS **": {
+    "translation": "僵尸传送还有15秒"
+  },
+  "** LIFT MOVING IN 10 SECONDS **": {
+    "translation": "平台10秒后启动"
+  },
+  "** DOOR OPENS IN 20 SECONDS **": {
+    "translation": "还有20秒开启"
+  },
+  "** 20 **": {
+    "translation": "20"
+  },
+  "** 15 **": {
+    "translation": "15"
+  },
+  "** 10 **": {
+    "translation": "10"
+  },
+  "** 5 **": {
+    "translation": "5"
+  },
+  "| HEAL HAS BEEN PICKED UP |": {
+    "translation": "治疗已被拾起"
+  },
+  "** DOORS OPEN IN 25 SECONDS **": {
+    "translation": "门25秒后打开"
+  },
+  "** LIFTS WILL RISE IN 15 SECONDS **": {
+    "translation": "平台15秒后上升"
+  },
+  "** DOORS OPEN IN 15 SECONDS **": {
+    "translation": "门15秒后打开"
+  },
+  "** DOOR WILL OPEN IN 15 SECONDS **": {
+    "translation": "15秒后开启"
+  },
+  "** LIFT RISE IN 10 SECONDS **": {
+    "translation": "平台10秒后上升"
+  },
+  "** DOORS OPEN IN 20 SECONDS **": {
+    "translation": "门20秒后打开"
+  }
+}
