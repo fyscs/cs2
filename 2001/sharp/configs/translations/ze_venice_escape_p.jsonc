@@ -48,7 +48,7 @@
     "translation": "船三45秒后离开"
   },
   "***Boat 3 leaving in 5secs!***": {
-    "translation": "***Boat 3 leaving in 5secs!***",
+    "translation": "***船三5秒后离开!***",
     "blocked": true
   },
   "***Nukes ready for launch!***": {
@@ -70,14 +70,14 @@
     "translation": "船二5秒后离开"
   },
   "***Helicopter leaving in 75secs!": {
-    "translation": "***Helicopter leaving in 75secs!",
+    "translation": "***直升机75秒后离开!",
     "blocked": true
   },
   "***Helicopter leaving in 30secs!": {
     "translation": "直升机30秒后离开"
   },
   "***Helicopter leaving in 5secs!": {
-    "translation": "***Helicopter leaving in 5secs!",
+    "translation": "***直升机5秒后离开!",
     "blocked": true
   },
   "***Lift 2 leaving in 5secs!***": {
@@ -90,7 +90,7 @@
     "translation": "小船一还有10秒离开"
   },
   "***Boat 5 leaving in 5secs!***": {
-    "translation": "***Boat 5 leaving in 5secs!***",
+    "translation": "***船五还有5秒离开!***",
     "blocked": true
   },
   "***Boat 5 leaving in 60secs!***": {
