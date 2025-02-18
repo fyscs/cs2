@@ -2513,6 +2513,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_v0u0v_p": {
+    "certainTimes": [9,10,11,12,13,14,15,16,17,18,19,20,21,22],
+    "price": 450,
+    "cooldown": 90,
+    "nomination": true,
+    "admin": false
+  },
   "ze_venice_escape_p": {
     "certainTimes": [-1],
     "price": 300,

@@ -1,0 +1,265 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> STAGE5 COMPLETED <<<": {
+    "translation": ">>> EX2已完成 <<<"
+  },
+  ">>> HOLD 10 SECONDS <<<": {
+    "translation": ">>> 还剩10秒 <<<"
+  },
+  ">>> ROUTE 1 :HOLD 25 SECONDS <<<": {
+    "translation": ">>> 路线1:还剩25秒 <<<"
+  },
+  ">>> BOMB 2 HAS BEEN ACTIVATED <<<": {
+    "translation": ">>> 炸弹2已激活 <<<"
+  },
+  ">>> BOMB 1 HAS BEEN ACTIVATED <<<": {
+    "translation": ">>> 炸弹1已激活 <<<"
+  },
+  ">>> ROUTE 2 : HOLD 15 SECONDS <<<": {
+    "translation": ">>> 路线2:还剩15秒 <<<"
+  },
+  ">>> THE SHIP DEPARTING IN 20 SECONDS <<<": {
+    "translation": ">>> 船将在20秒内出发 <<<"
+  },
+  ">>> STAGE4 COMPLETED <<<": {
+    "translation": ">>> EX1已完成 <<<"
+  },
+  ">>> HOLD 20 SECONDS <<<": {
+    "translation": ">>> 还剩20秒 <<<"
+  },
+  ">>> STAGE2 COMPLETED <<<": {
+    "translation": ">>> 第二关已完成 <<<"
+  },
+  ">>> THE SHIP DEPARTING IN 15 SECONDS <<<": {
+    "translation": ">>> 船将在15秒内出发 <<<"
+  },
+  ">>> STAGE1 COMPLETED <<<": {
+    "translation": ">>> 第一关已完成 <<<"
+  },
+  ">>> AFK TELEPORT IN 10 SECONDS <<<": {
+    "translation": ">>> 10秒内传送挂机 <<<"
+  },
+  ">>> OPENING THE PARABITE'S NEST <<<": {
+    "translation": ">>>打开回億的巢穴 <<<"
+  },
+  ">>> HOLD 15 SECONDS <<<": {
+    "translation": ">>> 还剩15秒 <<<"
+  },
+  ">>> HOLD 25 SECONDS <<<": {
+    "translation": ">>> 还剩25秒<<<"
+  },
+  ">>> OPENING THE GATE TO THE MINE <<<": {
+    "translation": ">>> 打开通往矿山的大门 <<<"
+  },
+  ">>> HOLD 5 SECONDS <<<": {
+    "translation": ">>> 还剩5秒 <<<"
+  },
+  ">>> HOLD 35 SECONDS <<<": {
+    "translation": ">>> 还剩35秒 <<<"
+  },
+  ">>> ROUTE 1 : HOLD 25 SECONDS <<<": {
+    "translation": ">>> 路线1:还剩25秒 <<<"
+  },
+  ">>> HOLD 30 SECONDS <<<": {
+    "translation": ">>> 还剩30秒 <<<"
+  },
+  ">>> ROUTE 2 : HOLD 25 SECONDS <<<": {
+    "translation": ">>> 路线2:还剩25秒 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP WIND TOILET <<<": {
+    "translation": ">>> 已拾取推力马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP WATER TOILET <<<": {
+    "translation": ">>> 已拾取水马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP EARTH TOILET <<<": {
+    "translation": ">>> 已拾取土马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP GRAVITY TOILET <<<": {
+    "translation": ">>> 已拾取黑马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP POISON TOILET <<<": {
+    "translation": ">>> 已拾取毒马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<": {
+    "translation": ">>> 已拾取R8马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP ICE TOILET <<<": {
+    "translation": ">>> 已拾取冰马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP FIRE TOILET <<<": {
+    "translation": ">>> 已拾取火马桶 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<": {
+    "translation": ">>> 僵尸已拾取治疗 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP SLOWER SPHERE <<<": {
+    "translation": ">>> 已拾取减速 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<": {
+    "translation": ">>> 已拾取激光 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<": {
+    "translation": ">>> 僵尸已拾取黑洞 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP PUSH <<<": {
+    "translation": ">>> 已拾取环风 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP AMMO <<<": {
+    "translation": ">>> 已拾取弹药 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP HEAL <<<": {
+    "translation": ">>> 已拾取治疗 <<<"
+  },
+  "** ZOMBIES HAVE REACHED THE DOOR FIRST, SLAYING HUMANS **": {
+    "translation": "** **僵尸贴到了门，人类处死** **"
+  },
+  ">>> Stage1 Activated <<<": {
+    "translation": ">>> 第一关 <<<"
+  },
+  ">>> Stage4 Activated <<<": {
+    "translation": ">>> EX1 <<<"
+  },
+  ">>> Stage2 Activated <<<": {
+    "translation": ">>> 第二关 <<<"
+  },
+  ">>> Stage5 Activated <<<": {
+    "translation": ">>> EX2 <<<"
+  },
+  ">>> Stage3 Activated <<<": {
+    "translation": ">>> 第三关 <<<"
+  },
+  ">>> Stage6 Activated <<<": {
+    "translation": ">>> EX3 <<<"
+  },
+  ">>> PRIEST CASTED GRAVITY <<<": {
+    "translation": ">>> 神父释放了重力,注意脚底光圈 <<<"
+  },
+  ">>> PRIEST CASTED GHOST <<<": {
+    "translation": ">>> 神父释放了幽灵球 <<<"
+  },
+  ">>> PRIEST CASTED CANNON <<<": {
+    "translation": ">>> 神父使用了加农炮 <<<"
+  },
+  ">>> PRIEST IS COMING <<<": {
+    "translation": ">>> 神父来了,小心! <<<"
+  },
+  ">>> TIME TO AVOID CANCER LAZERS <<<": {
+    "translation": ">>> 准备跳刀 <<<"
+  },
+  ">>> DOOR CLOSING <<<": {
+    "translation": ">>> 关门 <<<"
+  },
+  ">>> BLOOPER IS COMING <<<": {
+    "translation": ">>> 秋言来了,小心! <<<"
+  },
+  ">>> BLOOPER USED PUSH <<<": {
+    "translation": ">>> 秋言释放海浪!!!注意!!! <<<"
+  },
+  ">>> BLOOPER USED INK <<<": {
+    "translation": ">>> 秋言吐你一口墨水 <<<"
+  },
+  ">>> BLOOPER USED CANNON <<<": {
+    "translation": ">>> 秋言释放了十字火球 <<<"
+  },
+  ">>> BLOOPER USED SPLASH <<<": {
+    "translation": ">>> 秋言释放了泼水(注意脚下) <<<"
+  },
+  ">>> BLOOPER USED BREATH <<<": {
+    "translation": ">>> 秋言释放了呼吸水冲 <<<"
+  },
+  ">>> BLOOPER USED BEAM <<<": {
+    "translation": ">>> 秋言释放了火刀 <<<"
+  },
+  ">>> SAITAMA IS COMING <<<": {
+    "translation": ">>> 琦玉来了 <<<"
+  },
+  ">>> Map made by Moray <<<": {
+    "translation": ">>> 地图作者:Moray 翻译:秋言不会跳刀 <<<"
+  },
+  ">>> BLOOPER HAS BEEN DEFEATED <<<": {
+    "translation": ">>> 秋言被击败了 <<<"
+  },
+  ">>> SAITAMA HAS BEEN DEFEATED <<<": {
+    "translation": ">>> 琦玉被打败了 <<<"
+  },
+  ">>> PRIEST HAS BEEN DEFEATED <<<": {
+    "translation": ">>> 神父被打败了 <<<"
+  },
+  ">>> BRIDGE ENTRANCE OPENING IN 90 SECONDS <<<": {
+    "translation": ">>> 大桥再90秒后打开 <<<"
+  },
+  ">>> 30 SECONDS LEFT <<<": {
+    "translation": ">>> 还剩30秒 <<<"
+  },
+  ">>> 10 SECONDS LEFT <<<": {
+    "translation": ">>> 还剩10秒 <<<"
+  },
+  ">>> BRIDGE ENTRANCE OPENING IN 120 SECONDS <<<": {
+    "translation": ">>> 大桥在120秒后打开 <<<"
+  },
+  ">>> SANIC HAS BEEN DEFEATED <<<": {
+    "translation": ">>> 傻尼克被打败了 <<<"
+  },
+  ">>> SANIC IS COMING <<<": {
+    "translation": ">>> 傻尼克来了 <<<"
+  },
+  ">>> STAGE6 COMPLETED <<<": {
+    "translation": ">>> EX3已完成 <<<"
+  },
+  ">>> STAGE3 COMPLETED <<<": {
+    "translation": ">>> 第三关已完成 <<<"
+  },
+  ">>> ROUND FAILED <<<": {
+    "translation": ">>> 回合失败 <<<"
+  },
+  ">>> STAGE 1 : VILLAGE MODE <<<": {
+    "translation": ">>> 第一关:村庄 <<<"
+  },
+  ">>> SUNNY LEVEL <<<": {
+    "translation": ">>> 普通模式 <<<"
+  },
+  ">>> STAGE 2 : HILL MODE <<<": {
+    "translation": ">>> 第二关:山林 <<<"
+  },
+  ">>> STAGE 3 : TOWN MODE <<<": {
+    "translation": ">>> 第三关:城镇 <<<"
+  },
+  ">>> STAGE 4 : VILLAGE MODE <<<": {
+    "translation": ">>> EX1:村庄 <<<"
+  },
+  ">>> STAGE 5 : HILL MODE <<<": {
+    "translation": ">>> EX2:山地 <<<"
+  },
+  ">>> GLOOMY LEVEL <<<": {
+    "translation": ">> 困难模式 >>"
+  },
+  ">>> STAGE 6 : TOWN MODE <<<": {
+    "translation": ">>> EX3:城镇 <<<"
+  },
+  "<<< HOLD 45 SECONDS <<<": {
+    "translation": ">>> 还剩45秒 <<<"
+  },
+  "<<< HOLD 30 SECONDS <<<": {
+    "translation": ">>> 还剩30秒 <<<"
+  },
+  "<<< HOLD 10 SECONDS <<<": {
+    "translation": ">>> 还剩10秒 <<<"
+  },
+  "<<< HOLD 20 SECONDS <<<": {
+    "translation": ">>> 还剩20秒 <<<"
+  },
+  "<<< HOLD 15 SECONDS <<<": {
+    "translation": ">>> 还剩15秒 <<<"
+  }
+}
