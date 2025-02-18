@@ -1,0 +1,227 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "< Boss fight start in 10 seconds... >": {
+    "translation": "Boss战还有10秒开始..."
+  },
+  "< You must to kill all the zombies to win >": {
+    "translation": "必须清理剩余的僵尸..."
+  },
+  "< You have defeated Trial mode!Congratulations! >": {
+    "translation": ">> 你通过了 试炼模式,恭喜! >>"
+  },
+  "< Defend until the final gate open! >": {
+    "translation": "最后的门即将打开"
+  },
+  "< 5 seconds >": {
+    "translation": "还有5秒",
+    "blocked": true
+  },
+  "< A random gate will open in 30 seconds >": {
+    "translation": "随机路径30秒后打开"
+  },
+  "< The gate will open in 30 seconds >": {
+    "translation": "大门还有30秒打开"
+  },
+  "< The gate will open in 35 seconds >": {
+    "translation": "大门还有35秒打开"
+  },
+  "< Nades can do more damage >": {
+    "translation": ">> 使用[手雷]造成更多伤害 >>"
+  },
+  "< Moogling is closed now,kupo~ >": {
+    "translation": "现在处于关闭状态,Kupo~"
+  },
+  "< ZM Mode >": {
+    "translation": "<< ZM模式 <<"
+  },
+  "<Next Stage is Normal >": {
+    "translation": ">> 下一回合为 [普通] >>"
+  },
+  "< Trial Mode >": {
+    "translation": "<< 试炼模式 <<"
+  },
+  "< You have defeated normal mode!Congratulations! >": {
+    "translation": ">> 你通过了 普通模式,恭喜! >>"
+  },
+  "< You are too late... >": {
+    "translation": ">> 太迟了... >>"
+  },
+  "< The gate will open in 20 seconds >": {
+    "translation": "大门还有20秒打开"
+  },
+  "< Hard Mode >": {
+    "translation": "<< 困难模式 <<"
+  },
+  "< Extreme Mode >": {
+    "translation": "<< 极限模式 <<"
+  },
+  "< This is the last defend,hold! >": {
+    "translation": ">> 最后的守点 <<"
+  },
+  "< SandMonster has been defeated,get back to Rabanastre >": {
+    "translation": "亡灵已被击败,快回到拉巴纳斯塔去"
+  },
+  "< SandMonster has casted Heal >": {
+    "translation": "[亡灵]使用了 <治疗>"
+  },
+  "< SandMonster has casted Wind >": {
+    "translation": "[亡灵]使用了 <风暴>"
+  },
+  "< SandMonster has casted Gravity >": {
+    "translation": "[亡灵]使用了 <黑洞>"
+  },
+  "< SandMonster has casted Shock >": {
+    "translation": "[亡灵]使用了 <震荡>"
+  },
+  "< SandMonster has casted Sandstorm >": {
+    "translation": "[亡灵]使用了 <沙暴>"
+  },
+  "< SandMoster has casted Quicksand >": {
+    "translation": "[亡灵]使用了 <流沙>"
+  },
+  "< Normal Mode >": {
+    "translation": "<< 普通模式 <<"
+  },
+  "< The path will clear in 30 seconds >": {
+    "translation": "道路30秒后开放"
+  },
+  "< The path will clear in 20 seconds >": {
+    "translation": "道路20秒后开放"
+  },
+  "< ZM Crystall teleport will enable in 5 seconds >": {
+    "translation": "僵尸传送还有5秒开启"
+  },
+  "< Defend!We almost leave the Lowtown soon! >": {
+    "translation": "坚持住,我们就要离开这里了"
+  },
+  "< The arena will open in 40 seconds >": {
+    "translation": "竞技场40秒后开启"
+  },
+  "< Zeromus want casted Bleed to kill us,we must defeated it in 15 seconds >": {
+    "translation": "[泽罗姆斯]使用了流血,我们只剩下15秒了"
+  },
+  "< Zeromus has casted Shock >": {
+    "translation": "[泽罗姆斯]使用了 <冲击波>"
+  },
+  "< Zeromus has casted Fire >": {
+    "translation": "[泽罗姆斯]使用了 <火焰: 远离脚下特效>"
+  },
+  "< Moogling will teleport humans in 8 seconds >": {
+    "translation": "传送将于8秒后启动"
+  },
+  "< Welcome to the Moogling,kupo~ >": {
+    "translation": "欢迎来到这里,Kupo~"
+  },
+  "< Zeromus has casted Aero >": {
+    "translation": "[泽罗姆斯]使用了 <风暴: W>"
+  },
+  "< Zeromus has been defeated...Let's get out of the arena >": {
+    "translation": "[泽罗姆斯]已被击败...我们离开这里"
+  },
+  "< Zeromus has casted Posionrain >": {
+    "translation": "[泽罗姆斯]使用了 <毒雨: AOE>"
+  },
+  "< Zeromus has casted DarkPower!Go to the sunshine in the middle of the arena >": {
+    "translation": "[泽罗姆斯]使用了 <黑暗力量: 去中间>"
+  },
+  "< Zeromus has casted Gravity >": {
+    "translation": "[泽罗姆斯]使用了 <黑洞: S>"
+  },
+  "< Zeromus has casted Holy >": {
+    "translation": "[泽罗姆斯]使用了 <神圣: Ctrl>"
+  },
+  "< Zeroms used Reverse to himself >": {
+    "translation": "[泽罗姆斯]使用了 <吸收: 停止射击>"
+  },
+  "< Zeromus has casted Reverse >": {
+    "translation": "[泽罗姆斯]使用了 <效果反转>"
+  },
+  "< Zeromus has casted Thunder >": {
+    "translation": "[泽罗姆斯]使用了 <雷电: 远离脚下特效>"
+  },
+  "< Zeromus has casted Ice >": {
+    "translation": "[泽罗姆斯]使用了 <寒冰: 减速>"
+  },
+  "< The fight with Zeromes will begin in 10 seconds >": {
+    "translation": "与[泽罗姆斯]的战斗10秒后开始"
+  },
+  "< ZE_RABANASTRE_ROYAL >": {
+    "translation": ">>> 失落之都:拉巴纳斯塔 >>>"
+  },
+  "< Map by Tianli >": {
+    "translation": "地图制作:Tianli"
+  },
+  "< CS2 Version ported by Shana >": {
+    "translation": "CS2地图移植:Shana 文本修改:Lia"
+  },
+  "< Special thanks to Lishang,Koyomaple >": {
+    "translation": "特别感谢:Lishang,Koyomaple"
+  },
+  "<soldier : Sorry,I can't help you>": {
+    "translation": "士兵:对不起,我不能为你提供帮助"
+  },
+  "< The Aerodrome metal gate will open in 20 seconds >": {
+    "translation": "门还有20秒打开"
+  },
+  "< The Airship will leave in 10 seconds >": {
+    "translation": "飞船10秒后离开"
+  },
+  "< The Lowtown gate will open in 15 seconds >": {
+    "translation": "下城的门15秒后打开"
+  },
+  "< The Aerodrome last gate will open in 40 seconds >": {
+    "translation": "最后的门将在40秒后打开"
+  },
+  "< You have defeated Hard mode!Congratulations! >": {
+    "translation": ">> 你通过了 困难模式,恭喜! >>"
+  },
+  "< The Airship will leave in 10 seconds.Hurry up! >": {
+    "translation": "飞船还有10秒离开,快点!"
+  },
+  "< Wait...Who is that? >": {
+    "translation": "那...那是谁?"
+  },
+  "< You have defeated Extreme mode!Congratulations! >": {
+    "translation": ">> 你通过了 极限模式,恭喜! >>"
+  },
+  "< A zombie has acquired Doom Magick >": {
+    "translation": "僵尸拾起了 <毁灭魔法>"
+  },
+  "< Zombie Chocobo has been picked up >": {
+    "translation": "僵尸拾起了 <陆行鸟>"
+  },
+  "< The fight with SandMonster will begin in 10 seconds >": {
+    "translation": "与[沙漠亡灵]的战斗10秒后开始"
+  },
+  "< A player has acquired Cure Magick >": {
+    "translation": "玩家获得了 <治疗魔法>"
+  },
+  "< A player has acquired Scathe Magick >": {
+    "translation": "玩家获得了 <终极魔法>"
+  },
+  "< A player has acquired Thunder Magick >": {
+    "translation": "玩家获得了 <雷电魔法>"
+  },
+  "< A player has acquired Oil Magick >": {
+    "translation": "玩家获得了 <粘油魔法>"
+  },
+  "< A player has acquired Wind Magick >": {
+    "translation": "玩家获得了 <风暴魔法>"
+  },
+  "< A player has acquired Aqua Magick >": {
+    "translation": "玩家获得了 <水魔法>"
+  },
+  "< A zombie has acquired Bleed Magick >": {
+    "translation": "玩家获得了 <流血魔法>"
+  }
+}
