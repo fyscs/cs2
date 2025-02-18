@@ -1,0 +1,46 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**** MAP BY AERIS_004 ****": {
+    "translation": "作者:AERIS_004 文本:Zeyu1"
+  },
+  "***START TRAIN 20 SEC ***": {
+    "translation": "电车20s后运行"
+  },
+  "*** START TRAIN 10 SEC ***": {
+    "translation": "电车10s后运行"
+  },
+  "***START ELEVATOR 15 SEC***": {
+    "translation": "电梯15s后下降"
+  },
+  "*** CATCH GOLD MEDAL ***": {
+    "translation": "金币已拾取"
+  },
+  "***CATCH SILVER MEDAL***": {
+    "translation": "银币已拾取"
+  },
+  "***ELEVATOR UP 14 SEC***": {
+    "translation": "桥14s后上升"
+  },
+  "***CATCH FUSE***": {
+    "translation": "保险丝已拾取"
+  },
+  "***GENERATOR DESACTIVED***": {
+    "translation": "发电机未激活"
+  },
+  "***START ELEVATOR 25 SEC***": {
+    "translation": "塔楼已被摧毁"
+  },
+  "*** GAS ACTIVATED 40 SEC ***": {
+    "translation": "毒气40s后释放"
+  }
+}
