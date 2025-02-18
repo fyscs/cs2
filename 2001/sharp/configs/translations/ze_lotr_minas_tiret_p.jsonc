@@ -1,0 +1,103 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Thanks for materials and ideas to Hannibal [SPA] (Rafuron)**": {
+    "translation": "特别鸣谢:Hannibal [SPA]"
+  },
+  "***MAP BY Limon. [Russian]***": {
+    "translation": "地图作者:Limon 文本:Zeyu1"
+  },
+  "**Gates opening in 30 seconds!**": {
+    "translation": "铁门30s后开启"
+  },
+  "**Gates opening!**": {
+    "translation": "门开了"
+  },
+  "**Gate up ahead appears closed! Defend until we can break it down.**": {
+    "translation": "前面的门看起来是关着的!守住这里直到我们破坏它"
+  },
+  "**We'll get the gate open soon! Gate will be destroyed in 30 seconds!**": {
+    "translation": "大门30s后破开,不要停下来啊!"
+  },
+  "**RUN TO THE TOP!!!**": {
+    "translation": "快往上走"
+  },
+  "**Another gate is closed ahead! This one isn't sturdy...**": {
+    "translation": "前面的门是关着的!不过看起来不是很坚固..."
+  },
+  "**SHOOT IT DOWN!**": {
+    "translation": "拿枪打碎它"
+  },
+  "**The tower is destroyed**": {
+    "translation": "塔楼已被摧毁"
+  },
+  "**!EXPLOSION!**": {
+    "translation": "Boom!!"
+  },
+  "**1 seconds**": {
+    "translation": "1"
+  },
+  "**2 seconds**": {
+    "translation": "2"
+  },
+  "**3 seconds**": {
+    "translation": "3"
+  },
+  "**4 seconds**": {
+    "translation": "4"
+  },
+  "**Explosion in 5 seconds**": {
+    "translation": "5"
+  },
+  "**Welcome to Minas Tirith - City of Kings**": {
+    "translation": "欢迎来到米纳斯提力斯-王者之城"
+  },
+  "**Your mission: don't let zombies capture all city**": {
+    "translation": "不要让敌人占领整座城市"
+  },
+  "**Resist 45s!**": {
+    "translation": "坚持45秒"
+  },
+  "***RUUUN***": {
+    "translation": "快跑"
+  },
+  "**Door closes in 15 seconds!**": {
+    "translation": "门在15s后关闭"
+  },
+  "**The ring has been picked!**": {
+    "translation": "魔戒已被拾起"
+  },
+  "**Gandalf staff has been picked!**": {
+    "translation": "甘道夫已被拾起"
+  },
+  "**Gate will open in 35 seconds**": {
+    "translation": "大门35秒打开"
+  },
+  "**Gate is now open!**": {
+    "translation": "门开了"
+  },
+  "**You must reach the palace on a next tier**": {
+    "translation": "你必须到更上层的宫殿"
+  },
+  "**Gate in throne-room opens in 90 seconds!**": {
+    "translation": "王座的大门90s后打开"
+  },
+  "**Gate is opened!**": {
+    "translation": "门开了"
+  },
+  "**The GATE OPEN in 5s!**": {
+    "translation": "还有5秒"
+  },
+  "**Impact will arrive soon**": {
+    "translation": "核爆来了!"
+  }
+}

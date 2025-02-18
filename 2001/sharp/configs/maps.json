@@ -1281,6 +1281,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_lotr_minas_tiret_p": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 30,
+    "nomination": true,
+    "admin": false
+  },
   "ze_lotr_mines_of_moria_p": {
     "certainTimes": [-1],
     "price": 300,
