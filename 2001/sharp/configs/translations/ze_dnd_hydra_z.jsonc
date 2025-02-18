@@ -1,0 +1,109 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**40 seconds until rocks are cleared**": {
+    "translation": "**距离岩石被清除还有40秒**"
+  },
+  "**AFK Teleport in 5 seconds**": {
+    "translation": "**AFK在5秒内传送**"
+  },
+  "**15 seconds until rocks are cleared**": {
+    "translation": "**距离岩石被清除还有15秒**"
+  },
+  "**Door will open in 25 seconds**": {
+    "translation": "**门将在25秒内打开**"
+  },
+  "**A lever has been pulled**": {
+    "translation": "**已拉动杠杆**"
+  },
+  "**AFK Teleport in 25 seconds**": {
+    "translation": "**AFK在25秒内传送**"
+  },
+  "**Door opens in 25 seconds**": {
+    "translation": "**门在25秒内打开**"
+  },
+  "**Lift raises in 30 seconds**": {
+    "translation": "**电梯30秒后升起**"
+  },
+  "**Defend for 25 seconds**": {
+    "translation": "**防御25秒**"
+  },
+  "**20 seconds until rocks are cleared**": {
+    "translation": "**距离岩石被清除还有20秒**"
+  },
+  "**Quest successful**": {
+    "translation": "**任务成功**"
+  },
+  "**Map completed**": {
+    "translation": "**地图已完成**"
+  },
+  "**Thanks for playing**": {
+    "translation": "**感谢你的游玩 翻译:秋言不会跳刀@风云社**"
+  },
+  "**Nuke in 4 seconds**": {
+    "translation": "**4秒内完成核攻击**"
+  },
+  "**The Hydra breathes acid smoke**": {
+    "translation": "**九头蛇呼吸酸烟**"
+  },
+  "**The Hydra spits acid**": {
+    "translation": "**九头蛇吐酸**"
+  },
+  "**The Hydra screams deafening**": {
+    "translation": "**九头蛇的尖叫声震耳欲聋**"
+  },
+  "**The Hydra is vulnerable**": {
+    "translation": "**九头蛇很脆弱**"
+  },
+  "**The Hydra blasts you with acid**": {
+    "translation": "**九头蛇用强酸攻击你**"
+  },
+  "**The Hydra quakes the earth**": {
+    "translation": "**九头蛇震动地球**"
+  },
+  "**The Hydra lost its right head**": {
+    "translation": "**九头蛇失去了它的右脑**"
+  },
+  "**The Hydra rejuvenates**": {
+    "translation": "**九头蛇恢复活力**"
+  },
+  "**The Hydra dwells beneath the surface**": {
+    "translation": "**九头蛇栖息于地表之下**"
+  },
+  "**The Hydra breaks the earth**": {
+    "translation": "**九头破土而出**"
+  },
+  "**We have to defeat the Hydra soon or it will bury us**": {
+    "translation": "**我们必须尽快击败九头蛇,否则它会埋葬我们**"
+  },
+  "**The hydra is starting to collapse the cave**": {
+    "translation": "**九头蛇开始坍塌洞穴**"
+  },
+  "**The Hydra lost its left head**": {
+    "translation": "**九头蛇失去了左脑**"
+  },
+  "**The Hydra has been defeated**": {
+    "translation": "**九头蛇被打败了**"
+  },
+  "**Retreat to the surface**": {
+    "translation": "**退到水面**"
+  },
+  "**The Hydra is approaching**": {
+    "translation": "**九头蛇正在逼近**"
+  },
+  "**Defend for 40 seconds**": {
+    "translation": "**防御40秒**"
+  },
+  "**Enter the arena now!**": {
+    "translation": "**马上进入竞技场!**"
+  }
+}
