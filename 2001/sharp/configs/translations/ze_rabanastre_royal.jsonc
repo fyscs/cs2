@@ -19,7 +19,7 @@
   "< You have defeated Trial mode!Congratulations! >": {
     "translation": ">> 你通过了 试炼模式,恭喜! >>"
   },
-  " < Defend until the final gate open! >": {
+  "< Defend until the final gate open! >": {
     "translation": "最后的门即将打开"
   },
   "< 5 seconds >": {
@@ -47,7 +47,7 @@
   "<Next Stage is Normal >": {
     "translation": ">> 下一回合为 [普通] >>"
   },
-  " < Trial Mode >": {
+  "< Trial Mode >": {
     "translation": "<< 试炼模式 <<"
   },
   "< You have defeated normal mode!Congratulations! >": {
