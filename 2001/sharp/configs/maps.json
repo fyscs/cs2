@@ -1021,6 +1021,13 @@
     "cooldown": 80,
     "nomination": true,
     "admin": false
+  },  
+  "ze_honkai_impact_3rd_cyberpunk_z": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 60,
+    "nomination": true,
+    "admin": false
   },
   "ze_honkai_impact_changkongshi": {
     "certainTimes": [-1],
