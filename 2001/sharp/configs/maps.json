@@ -826,6 +826,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_flowering": {
+    "certainTimes": [-1],
+    "price": 400,
+    "cooldown": 80,
+    "nomination": true,
+    "admin": false
+  },
   "ze_flying_world": {
     "certainTimes": [-1],
     "price": 300,

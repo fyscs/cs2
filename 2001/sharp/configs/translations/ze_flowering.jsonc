@@ -1,0 +1,79 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "《20s》": {
+    "translation": "还剩20s"
+  },
+  "《30s》": {
+    "translation": "还剩30s"
+  },
+  "《25s》": {
+    "translation": "还剩25s"
+  },
+  "《50s》": {
+    "translation": "还剩50s"
+  },
+  "《230s》": {
+    "translation": "还剩230s"
+  },
+  "《180s》": {
+    "translation": "还剩180s"
+  },
+  "《120s》": {
+    "translation": "还剩120s"
+  },
+  "《90s》": {
+    "translation": "还剩90s"
+  },
+  "Thanks you for playing": {
+    "translation": "感谢你的游玩 翻译:秋言不会跳刀@风云社"
+  },
+  "《35s》": {
+    "translation": "还剩35s"
+  },
+  "Stage-2": {
+    "translation": "阶段-2"
+  },
+  "< Auto Bunnyhopping Enabled >": {
+    "translation": "< 自动 连跳开启 >"
+  },
+  "< It's Laser Party ! >": {
+    "translation": "< 这是跳刀环节! >"
+  },
+  "< InVisible Laser Started >": {
+    "translation": "< 隐藏刀出现了 >"
+  },
+  "RTV": {
+    "translation": "RTV"
+  },
+  "< Admin Pressed Level 1 >": {
+    "translation": "< 管理员选择第一关 >"
+  },
+  "Stage-1": {
+    "translation": "阶段-1"
+  },
+  "< Admin Pressed Level 2 >": {
+    "translation": "< 管理员选择第二关 >"
+  },
+  "< Admin Pressed Last Stage >": {
+    "translation": "< 管理员选择第三关 >"
+  },
+  "Stage-3": {
+    "translation": "阶段-3"
+  },
+  "《80s》": {
+    "translation": "还剩80s"
+  },
+  "《15s》": {
+    "translation": "还剩15s"
+  }
+}
