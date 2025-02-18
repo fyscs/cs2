@@ -27,11 +27,19 @@
     },
     {
       "identity": "349",
-      "display": "巨魔"
+      "display": "巨魔phy1"
     },
     {
       "identity": "21887",
-      "display": "巨魔"
+      "display": "巨魔phy2"
+    },
+    {
+      "identity": "37",
+      "display": "戒灵phy1"
+    },
+    {
+      "identity": "13275",
+      "display": "戒灵phy2"
     }
   ]
 }
