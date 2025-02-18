@@ -2268,6 +2268,13 @@
     "nomination": true,
     "admin": false
   },
+  "ze_surf_happy_2_newbie_village": {
+    "certainTimes": [12,13,14,15,16,17,18,19,20,21,22],
+    "price": 400,
+    "cooldown": 100,
+    "nomination": true,
+    "admin": false
+  },
   "ze_surf_hp": {
     "certainTimes": [12,13,14,15,16,17,18,19,20,21,22],
     "price": 800,
