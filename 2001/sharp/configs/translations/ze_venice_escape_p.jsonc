@@ -23,8 +23,7 @@
     "translation": "船坞门打开了!"
   },
   "***Boat 4 leaving in 5secs!***": {
-    "translation": "船四5秒后离开",
-    "blocked": true
+    "translation": "船四5秒后离开"
   },
   "***Boat 4 leaving in 45secs!***": {
     "translation": "船四45秒后离开"
@@ -33,23 +32,19 @@
     "translation": "核爆还有10秒启动"
   },
   "***3***": {
-    "translation": "***3***",
-    "blocked": true
+    "translation": "***3***"
   },
   "***2***": {
-    "translation": "***2***",
-    "blocked": true
+    "translation": "***2***"
   },
   "***1***": {
-    "translation": "***1***",
-    "blocked": true
+    "translation": "***1***"
   },
   "***Boat 3 leaving in 45secs!***": {
     "translation": "船三45秒后离开"
   },
   "***Boat 3 leaving in 5secs!***": {
-    "translation": "***Boat 3 leaving in 5secs!***",
-    "blocked": true
+    "translation": "***船三5秒后离开***"
   },
   "***Nukes ready for launch!***": {
     "translation": "核爆已准备完成!!"
@@ -70,15 +65,13 @@
     "translation": "船二5秒后离开"
   },
   "***Helicopter leaving in 75secs!": {
-    "translation": "***Helicopter leaving in 75secs!",
-    "blocked": true
+    "translation": "***直升机75秒后离开!"
   },
   "***Helicopter leaving in 30secs!": {
     "translation": "直升机30秒后离开"
   },
   "***Helicopter leaving in 5secs!": {
-    "translation": "***Helicopter leaving in 5secs!",
-    "blocked": true
+    "translation": "***直升机5秒后离开"
   },
   "***Lift 2 leaving in 5secs!***": {
     "translation": "小船二还有5秒离开"
@@ -90,8 +83,7 @@
     "translation": "小船一还有10秒离开"
   },
   "***Boat 5 leaving in 5secs!***": {
-    "translation": "***Boat 5 leaving in 5secs!***",
-    "blocked": true
+    "translation": "***船五还有5秒离开***"
   },
   "***Boat 5 leaving in 60secs!***": {
     "translation": "船五还有60秒离开"
