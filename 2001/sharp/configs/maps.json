@@ -280,6 +280,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_blood_castle": {
+    "certainTimes": [-1],
+    "price": 300,
+    "cooldown": 50,
+    "nomination": false,
+    "admin": false
+  },
   "ze_bluearchive_abydos_b1": {
     "certainTimes": [-1],
     "price": 300,
