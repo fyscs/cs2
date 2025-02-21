@@ -339,5 +339,44 @@
   },
   "The door will open in 30 sec": {
     "translation": "门将在30秒后开启"
+  },
+  "Door to maternity ward will open in 40 sec": {
+    "translation": "产科病房的门将在40秒后打开"
+  },
+  "Door to maternity ward will open in 5 sec": {
+    "translation": "产科病房的门将在5秒后打开"
+  },
+  "Nice, key was found, now we can enter maternity ward room.": {
+    "translation": "很好,钥匙找到了,现在我们可以进入产科病房了"
+  },
+  "Blackwater - this crazy ass bitch not letting us through, we need to get rid of her so we can get to the lab": {
+    "translation": "这个疯子不让我们通过,我们需要摆脱她,这样我们才能去实验室"
+  },
+  "Office doors will open in 20 sec": {
+    "translation": "门将在20秒后打开"
+  },
+  "AFK TELEPORT IN 10 SECODN": {
+    "translation": "僵尸将在10秒后传送"
+  },
+  "The doors will open in 20 sec": {
+    "translation": "门将在20秒后打开"
+  },
+  "The doors to will open in 10 sec": {
+    "translation": "门将在10秒后打开"
+  },
+  "We need to activate all levers to power up doors that jammed with stones": {
+    "translation": "我们需要启动所有杠杆,要给卡住的门通电"
+  },
+  "We have collected a bottle of pill, it can increase the number of times the heal can be used.": {
+    "translation": "收集了一瓶药丸,它可以增加治愈的使用次数"
+  },
+  "We have collected a battery, it can increase the number of times the lantern can be used.": {
+    "translation": "收集了一个电池,它可以增加灯笼的使用次数"
+  },
+  "Sewer door will open in 40 sec": {
+    "translation": "下水道门将在40秒内打开"
+  },
+  "Sewer door will open in 5 sec": {
+    "translation": "下水道门将在5秒内打开"
   }
 }
