@@ -1,0 +1,124 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{    
+  "- 正在抽取小游戏 -": {
+    "translation": "- 正在抽取小游戏 -"
+  },
+  "- 20 -": {
+    "translation": "- 20 -"
+  },
+  "- 30S后启用传送门 -": {
+    "translation": "- 30S后启用传送门 -"
+  },
+  "- 推力枪已被拾取 -": {
+    "translation": "- 推力枪已被拾取 -"
+  },
+  "- 15S后僵尸出笼 -": {
+    "translation": "- 15S后僵尸出笼 -"
+  },
+  "- 20S后僵尸出笼 -": {
+    "translation": "- 20S后僵尸出笼 -"
+  },
+  "- 雷杀成功 -": {
+    "translation": "- 雷杀成功 -"
+  },
+  "- 人类阵营+20HP -": {
+    "translation": "- 人类阵营+20HP -"
+  },
+  "- 即将返回小屋 -": {
+    "translation": "- 即将返回小屋 -"
+  },
+  "- 僵尸胜利 -": {
+    "translation": "- 僵尸胜利 -"
+  },
+  "- 人类-20HP -": {
+    "translation": "- 人类-20HP -"
+  },
+  "- 未检测到玩家 -": {
+    "translation": "- 未检测到玩家 -"
+  },
+  "- 人类胜利 -": {
+    "translation": "- 人类胜利 -"
+  },
+  "- 人类+20HP -": {
+    "translation": "- 人类+20HP -"
+  },
+  "- 人类登顶 -": {
+    "translation": "- 人类登顶 -"
+  },
+  "- 僵尸登顶 -": {
+    "translation": "-- 僵尸登顶 --"
+  },
+  "- 平局 -": {
+    "translation": "- 平局 -"
+  },
+  "- 移动方块可被击碎 -": {
+    "translation": "- 移动方块可被击碎 -"
+  },
+  "- 小游戏结束，正在修正血量 -": {
+    "translation": "- 小游戏结束,正在修正血量 -"
+  },
+  "- 七色花 -": {
+    "translation": "- 七色花 -"
+  },
+  "- 与四周颜色不同的板子会碎裂 -": {
+    "translation": "- 与四周颜色不同的板子会碎裂 -"
+  },
+  "- 扔手雷 -": {
+    "translation": "- 扔手雷 -"
+  },
+  "- 在时限内，用手雷命中移动方块，并达到规定次数 -": {
+    "translation": "- 在时限内，用手雷命中移动方块，并达到规定次数 -"
+  },
+  "- 看谁滑的远 -": {
+    "translation": "- 看谁滑的远 -"
+  },
+  "- 速降 -": {
+    "translation": "- 速降 -"
+  },
+  "- 在时限内到达终点 -": {
+    "translation": "- 在时限内到达终点 -"
+  },
+  "- 每一位人类玩家到达终点，人类阵营+5HP -": {
+    "translation": "- 每一位人类玩家到达终点，人类阵营+5HP -"
+  },
+  "- 每一位僵尸玩家到达终点，人类阵营-5HP -": {
+    "translation": "- 每一位僵尸玩家到达终点，人类阵营-5HP -"
+  },
+  "- 搭方块 -": {
+    "translation": "- 搭方块 -"
+  },
+  "- 僵尸射手 -": {
+    "translation": "- 僵尸射手 -"
+  },
+  "- 躲避僵尸从下方和四周发射的炮弹 -": {
+    "translation": "- 躲避僵尸从下方和四周发射的炮弹 -"
+  },
+  "- 小游戏结束 -": {
+    "translation": "- 小游戏结束 -"
+  },
+  "- 5S后传送 -": {
+    "translation": "- 5S后传送 -"
+  },
+  "- 10S后僵尸出笼 -": {
+    "translation": "- 扔手雷 -"
+  },
+  "- 小游戏时间 -": {
+    "translation": "- 小游戏时间 -"
+  },
+  "- 无人幸存 -": {
+    "translation": "- 无人幸存 -"
+  },
+  "- 僵尸阵营全军覆没 -": {
+    "translation": "- 僵尸阵营全军覆没 -"
+  }
+}
