@@ -1,0 +1,154 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{ 
+  "*** Heal has been acquired ***": {
+    "translation": "- 治疗已被拾取 -"
+  },
+  "*** Rock has been acquired ***": {
+    "translation": "- 岩石已被拾取 -"
+  },
+  "*** Fire has been acquired ***": {
+    "translation": "- 火已被拾取 -"
+  },
+  "*** Water has been acquired ***": {
+    "translation": "- 水已被拾取 -"
+  },
+  "*** Electric has been acquired ***": {
+    "translation": "- 电已被拾取 -"
+  },
+  "*** Wind has been acquired ***": {
+    "translation": "- 风已被拾取 -"
+  },
+  "World Level 01": {
+    "translation": "- 等级 一 -"
+  },
+  "Kill all remaining zombies": {
+    "translation": "- 干掉所有僵尸-"
+  },
+  "Coming to the next level": {
+    "translation": "- 正在加载下一等级 -"
+  },
+  "World Level 02": {
+    "translation": "- 等级 二 -"
+  },
+  "*Corpse tide*": {
+    "translation": "- 尸潮 -"
+  },
+  "*Starfall*": {
+    "translation": "- 星陨 -"
+  },
+  "*In the circle*": {
+    "translation": "- 在圆圈内 -"
+  },
+  "*Outside the circle*": {
+    "translation": "- 在圆圈外 -"
+  },
+  "*Thrust*": {
+    "translation": "- 推力 -"
+  },
+  "*Suction*": {
+    "translation": "-- 吸力-"
+  },
+  "***Try to find more switches***": {
+    "translation": "- 尝试找到更多开关 -"
+  },
+  "***You found a switch***": {
+    "translation": "- 你找到了一个开关 -"
+  },
+  "*The right button is broken*": {
+    "translation": "- 右边的按钮已损坏 -"
+  },
+  "*The left door is about to open in 30s*": {
+    "translation": "- 左门即将在 30 秒内打开 -"
+  },
+  "*The left button is broken*": {
+    "translation": "-左边的按钮已损坏-"
+  },
+  "*The right door is about to open*": {
+    "translation": "- 右门即将打开 -"
+  },
+  "The road will be cleared soon": {
+    "translation": "- 道路即将清理完毕 -"
+  },
+  "Ready to move on to the next location": {
+    "translation": "- 准备前往下一个地点 -"
+  },
+  "Have the conditions to enter the next scene": {
+    "translation": "- 具备进入下一个场景的条件 -"
+  },
+  "Congratulations on completing all levels": {
+    "translation": "- 祝贺您完成所有关卡 -"
+  },
+  "***left***": {
+    "translation": "- 左 -"
+  },
+  "***right***": {
+    "translation": "- 右 -"
+  },
+  "Ending | High mountain |": {
+    "translation": "- 结局 | High mountain | -"
+  },
+  "Ending | Flowing water |": {
+    "translation": "- 结局 | Flowing water |  -"
+  },
+  "*Easy*": {
+    "translation": "| 简单 |"
+  },
+  "*Hard*": {
+    "translation": "| 困难 |"
+  },
+  "***Challenge***": {
+    "translation": "| Challenge |"
+  },
+  "*The left door is about to open*": {
+    "translation": "- 左门即将打开 -"
+  },
+  "Ending | Yangchun |": {
+    "translation": "- 结局 | Yangchun | -"
+  },
+  "Ending | Snow white |": {
+    "translation": "- 结局 | Snow white | -"
+  },
+  "***Stepping stone prank***": {
+    "translation": "- Stepping stone prank -"
+  },
+  "***Bouncing dance steps***": {
+    "translation": "- Bouncing dance steps -"
+  },
+  "***The gift of diamonds***": {
+    "translation": "- 钻石之礼 -"
+  },
+  "***Flaming column***": {
+    "translation": "- 烈焰 -"
+  },
+  "***float***": {
+    "translation": "- float -"
+  },
+  "*Country*": {
+    "translation": "- Country -"
+  },
+  "*Ground explosion*": {
+    "translation": "- Ground explosion -"
+  },
+  "*Corona*": {
+    "translation": "- Corona -"
+  },
+  "*Star spin*": {
+    "translation": "- 星旋 -"
+  },
+  "Ending | Halo |": {
+    "translation": "- 结局 | Halo | -"
+  },
+  "Ending | Seal |": {
+    "translation": "- 结局 | Seal | -"
+  }
+}
