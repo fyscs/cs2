@@ -116,7 +116,8 @@
     "translation": "**再守5秒钟**"
   },
   "**Wait a minute**": {
-    "translation": "**再等一会**"
+    "translation": "**再等20秒**",
+    "countdown": 20
   },
   "**This is the last hold point**": {
     "translation": "**这是最后的守点**"
@@ -128,7 +129,8 @@
     "translation": "**他想杀了我们,快点杀了它!**"
   },
   "**There's an electromagnetic storm coming**": {
-    "translation": "**电磁风暴正在袭来...**"
+    "translation": "**电磁风暴正在袭来,再坚持30秒!**",
+    "countdown": 30
   },
   "**The weather is getting worse and worse**": {
     "translation": "**天气越来越差了...**"
