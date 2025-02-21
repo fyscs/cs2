@@ -1,296 +1,296 @@
 {
-  "ttt_cs2_yakuza": {
+  "ttt_afterglow_v1": {
+    "admin": false,
     "certainTimes": [-1],
-    "price": 350,
-    "cooldown": 20,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_slender_slayers": {
-    "certainTimes": [-1],
-    "price": 400,
-    "cooldown": 20,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_terminal": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 15,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_damons_mansion_a3": {
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 15,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_terrortrain_v1": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 15,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_damons_disco_b2": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 15,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_parkhousefix_sg": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 15,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_chateau": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 15,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_typhoon": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 15,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_tumbleweed_v1_3": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 15,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_dust2_night": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 15,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_mako_reactor": {
-    "certainTimes": [-1],
-    "price": 400,
-    "cooldown": 20,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_moonjam": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 20,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_toxa_west_v2": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 15,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_rose": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 15,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_safehouse_b1": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 15,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2minecraft_village_city": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 12,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_screamcastle_final": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 12,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_biocube_night": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 15,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_community_pool_2017_v2": {
-    "certainTimes": [-1],
-    "price": 250,
     "cooldown": 10,
     "nomination": false,
-    "admin": false
-  },
-  "ttt_cs2_amongus_beta": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 10,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_capistrano_night": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 10,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_backalley": {
-    "certainTimes": [-1],
-    "price": 250,
-    "cooldown": 10,
-    "nomination": false,
-    "admin": false
+    "price": 300
   },
   "ttt_antidote": {
+    "admin": false,
     "certainTimes": [-1],
-    "price": 300,
     "cooldown": 10,
     "nomination": false,
-    "admin": false
-  },
-  "ttt_subway": {
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 10,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_clue": {
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 10,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_afterglow_v1": {
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 10,
-    "nomination": false,
-    "admin": false
+    "price": 300
   },
   "ttt_apehouse_night": {
+    "admin": false,
     "certainTimes": [-1],
-    "price": 300,
     "cooldown": 30,
     "nomination": false,
-    "admin": false
+    "price": 300
+  },
+  "ttt_backalley": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250
   },
   "ttt_bikinibottom": {
+    "admin": false,
     "certainTimes": [-1],
-    "price": 300,
     "cooldown": 10,
     "nomination": false,
-    "admin": false
+    "price": 300
+  },
+  "ttt_biocube_night": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 250
+  },
+  "ttt_capistrano_night": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250
   },
   "ttt_closequarters": {
+    "admin": false,
     "certainTimes": [-1],
-    "price": 300,
     "cooldown": 10,
     "nomination": false,
-    "admin": false
+    "price": 300
+  },
+  "ttt_clue": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300
+  },
+  "ttt_community_pool_2017_v2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250
   },
   "ttt_community_pool_2018": {
+    "admin": false,
     "certainTimes": [-1],
-    "price": 300,
     "cooldown": 10,
     "nomination": false,
-    "admin": false
+    "price": 300
+  },
+  "ttt_cs2_amongus_beta": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250
+  },
+  "ttt_cs2_chateau": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 250
+  },
+  "ttt_cs2_damons_disco_b2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 250
+  },
+  "ttt_cs2_damons_mansion_a3": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 300
+  },
+  "ttt_cs2_dust2_night": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 250
+  },
+  "ttt_cs2_mako_reactor": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 20,
+    "nomination": false,
+    "price": 400
+  },
+  "ttt_cs2_moonjam": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 20,
+    "nomination": false,
+    "price": 250
+  },
+  "ttt_cs2_parkhousefix_sg": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 250
+  },
+  "ttt_cs2_rose": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 250
+  },
+  "ttt_cs2_safehouse_b1": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 250
+  },
+  "ttt_cs2_screamcastle_final": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 12,
+    "nomination": false,
+    "price": 250
+  },
+  "ttt_cs2_slender_slayers": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 20,
+    "nomination": false,
+    "price": 400
+  },
+  "ttt_cs2_terminal": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 250
+  },
+  "ttt_cs2_terrortrain_v1": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 250
+  },
+  "ttt_cs2_toxa_west_v2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 250
+  },
+  "ttt_cs2_tumbleweed_v1_3": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 250
+  },
+  "ttt_cs2_typhoon": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 250
+  },
+  "ttt_cs2_yakuza": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 20,
+    "nomination": false,
+    "price": 350
+  },
+  "ttt_cs2minecraft_village_city": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 12,
+    "nomination": false,
+    "price": 250
   },
   "ttt_edgewinter": {
+    "admin": false,
     "certainTimes": [-1],
-    "price": 300,
     "cooldown": 10,
     "nomination": false,
-    "admin": false
+    "price": 300
   },
   "ttt_egoffice": {
+    "admin": false,
     "certainTimes": [-1],
-    "price": 300,
     "cooldown": 10,
     "nomination": false,
-    "admin": false
+    "price": 300
   },
   "ttt_highschool": {
+    "admin": false,
     "certainTimes": [-1],
-    "price": 300,
     "cooldown": 10,
     "nomination": false,
-    "admin": false
-  },
-  "ttt_murdertown": {
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 10,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_nipperhouse2": {
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 10,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_nuketown": {
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 10,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_terminal": {
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 10,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_waterpark_night_cs2": {
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 10,
-    "nomination": false,
-    "admin": false
-  },
-  "ttt_office_night": {
-    "certainTimes": [-1],
-    "price": 300,
-    "cooldown": 10,
-    "nomination": false,
-    "admin": false
+    "price": 300
   },
   "ttt_militia_original": {
+    "admin": false,
     "certainTimes": [-1],
-    "price": 300,
     "cooldown": 10,
     "nomination": false,
-    "admin": false
+    "price": 300
+  },
+  "ttt_murdertown": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300
+  },
+  "ttt_nipperhouse2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300
+  },
+  "ttt_nuketown": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300
+  },
+  "ttt_office_night": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300
   },
   "ttt_stadium_fix": {
+    "admin": false,
     "certainTimes": [-1],
-    "price": 300,
     "cooldown": 10,
     "nomination": false,
-    "admin": false
+    "price": 300
+  },
+  "ttt_subway": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300
+  },
+  "ttt_terminal": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300
+  },
+  "ttt_waterpark_night_cs2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300
   }
 }
