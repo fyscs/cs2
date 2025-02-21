@@ -26,5 +26,15 @@
       "hitbox": "zombie_doc_health_box",
       "display": "僵尸博士"
     }
+  ],
+  "Monsters": [
+    {
+      "identity": "562",
+      "display": "铁网"
+    },
+    {
+      "identity": "574",
+      "display": "冰车"
+    }
   ]
 }
