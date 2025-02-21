@@ -1,0 +1,235 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "α:这是AI前置的警备系统,居然被启动了吗": {
+    "translation": "α:这是AI前置的警备系统,居然被启动了吗"
+  },
+  "α:守到Ai替我们打开大门": {
+    "translation": "α:守到Ai替我们打开大门"
+  },
+  "α:连机器人都被启用了,看来门不会这么轻易的打开": {
+    "translation": "α:连机器人都被启用了,看来门不会这么轻易的打开"
+  },
+  "α:别让他们靠近我们,他们身上的特殊武器会影响我们": {
+    "translation": "α:别让他们靠近我们,他们身上的特殊武器会影响我们"
+  },
+  "AI:门禁需要45秒后开启": {
+    "translation": "- AI:门禁需要45秒后开启 -"
+  },
+  "α:根据全球运动网络指示超级Ai遭到入侵": {
+    "translation": "α:根据全球运动网络指示超级Ai遭到入侵"
+  },
+  "α:我们需要带着另一个超级AI制作的肃清程序清除入侵带来的影响": {
+    "translation": "- 防守5秒 -"
+  },
+  "α:动作要快,携带上最新的人形AI为我们指令": {
+    "translation": "- α:动作要快,携带上最新的人形AI为我们指令-"
+  },
+  "α:在情况变的更坏之前对AI进行清理": {
+    "translation": "- α:在情况变的更坏之前对AI进行清理 -"
+  },
+  "AI:院门需要7秒打开": {
+    "translation": "AI:院门需要7秒打开"
+  },
+  "Ai:距离破译机械门还需要35秒": {
+    "translation": "- Ai:距离破译机械门还需要35秒 -"
+  },
+  "AI:失败!正在强行破坏机械门,还需要30秒": {
+    "translation": "- AI:失败!正在强行破坏机械门,还需要30秒 -"
+  },
+  "AI:门大概需要20秒开启": {
+    "translation": "AI:门大概需要20秒开启"
+  },
+  "AI:机械门还需要35秒开启": {
+    "translation": "AI:机械门还需要35秒开启"
+  },
+  "AI:大门正在解锁请等待25秒": {
+    "translation": "AI:大门正在解锁请等待25秒"
+  },
+  "α:一部分人清理道路其他人保持火力!": {
+    "translation": "α:一部分人清理道路其他人保持火力!"
+  },
+  "α:动能机停止了,我们得想办法让他动起来": {
+    "translation": "α:动能机停止了,我们得想办法让他动起来"
+  },
+  "AI:先解除左边的安全限制器": {
+    "translation": "AI:先解除左边的安全限制器"
+  },
+  "AI:再打开右边的能量置入器让后面的路开启": {
+    "translation": "AI:再打开右边的能量置入器让后面的路开启"
+  },
+  "AI:身份验证已通过": {
+    "translation": "AI:身份验证已通过"
+  },
+  "AI:限制器已经被解除": {
+    "translation": "-AI:限制器已经被解除-"
+  },
+  "AI:现在通过另一边的身份验证": {
+    "translation": "AI:现在通过另一边的身份验证"
+  },
+  "AI:即将破坏大门": {
+    "translation": "AI:即将破坏大门"
+  },
+  "AI:检测到门内有可触发电路": {
+    "translation": "AI:检测到门内有可触发电路"
+  },
+  "AI:大约还需要40秒": {
+    "translation": "AI:大约还需要40秒"
+  },
+  "AI:预计需要55秒": {
+    "translation": "AI:预计需要55秒"
+  },
+  "AI:距离敌人传送还有5秒": {
+    "translation": "AI:距离敌人传送还有5秒"
+  },
+  "AI:大门已损坏,正在设法破坏": {
+    "translation": "AI:大门已损坏,正在设法破坏"
+  },
+  "AI:还需要25秒": {
+    "translation": "AI:还需要25秒"
+  },
+  "AI:已接入系统,门还需要15秒开启": {
+    "translation": "AI:已接入系统,门还需要15秒开启"
+  },
+  "AI:障碍需要20秒解除": {
+    "translation": "AI:障碍需要20秒解除"
+  },
+  "AI:检查到某个地方已解锁": {
+    "translation": "AI:检查到某个地方已解锁"
+  },
+  "AI:解锁已触发,正在校正回路传送": {
+    "translation": "AI:解锁已触发,正在校正回路传送"
+  },
+  "AI:请先解锁右边的压力器": {
+    "translation": "AI:请先解锁右边的压力器"
+  },
+  "AI:压力器已解锁": {
+    "translation": "AI:压力器已解锁"
+  },
+  "AI:距离物体破坏还需要20秒": {
+    "translation": "AI:距离物体破坏还需要20秒"
+  },
+  "AI:正在解锁": {
+    "translation": "AI:正在解锁"
+  },
+  "AI:密室还需要20秒开启": {
+    "translation": "AI:密室还需要20秒开启"
+  },
+  "AI:检测到墙体后有空间": {
+    "translation": "AI:检测到墙体后有空间"
+  },
+  "AI:正在设法解锁": {
+    "translation": "AI:正在设法解锁"
+  },
+  "地图由子沫official制作": {
+    "translation": "地图由子沫official制作"
+  },
+  "AI:机械门被锁死了": {
+    "translation": "AI:机械门被锁死了"
+  },
+  "AI:还需要30秒": {
+    "translation": "AI:还需要30秒"
+  },
+  "AI:正在启用传送门": {
+    "translation": "AI:正在启用传送门"
+  },
+  "AI:传送还需要10秒": {
+    "translation": "AI:传送还需要10秒"
+  },
+  "α:前面有分叉口,平均去人触发机关": {
+    "translation": "α:前面有分叉口,平均去人触发机关"
+  },
+  "soldier:还需要20秒左右": {
+    "translation": "soldier:还需要20秒左右"
+  },
+  "α:快点清理掉障碍": {
+    "translation": "α:快点清理掉障碍"
+  },
+  "soldier:此处还需要15秒": {
+    "translation": "soldier:此处还需要15秒"
+  },
+  "AI:传送能量5秒后饱和": {
+    "translation": "AI:传送能量5秒后饱和"
+  },
+  "AI:正在进入图书馆": {
+    "translation": "AI:正在进入图书馆"
+  },
+  "AI:密室传送还需要20s": {
+    "translation": "AI:密室传送还需要20s"
+  },
+  "α:快点离开这里": {
+    "translation": "α:快点离开这里"
+  },
+  "α:门要关了,破坏它": {
+    "translation": "α:门要关了,破坏它"
+  },
+  "AI:请等待一会,蓄能中": {
+    "translation": "AI:请等待一会,蓄能中"
+  },
+  "AI:还需要7秒": {
+    "translation": "AI:还需要7秒"
+  },
+  "AI:破坏!传送点设定完毕!": {
+    "translation": "AI:破坏!传送点设定完毕!"
+  },
+  "AI:正在关闭大门!大约还需要20秒": {
+    "translation": "AI:正在关闭大门!大约还需要20秒"
+  },
+  "--  序章谢幕开启  --": {
+    "translation": "--  序章谢幕开启  --"
+  },
+  "AI:正在设法解除结界": {
+    "translation": "AI:正在设法解除结界"
+  },
+  "AI:完成": {
+    "translation": "AI:完成"
+  },
+  "AI:正在远程清理后方道路": {
+    "translation": "AI:正在远程清理后方道路"
+  },
+  "Spectr:此处还需要15秒": {
+    "translation": "Spectr:此处还需要15秒"
+  },
+  "α:破坏桥梁别让他们过来": {
+    "translation": "α:破坏桥梁别让他们过来"
+  },
+  "AI:先打开右边的限制接触器才能使用左边的开关": {
+    "translation": "AI:先打开右边的限制接触器才能使用左边的开关"
+  },
+  "AI:正在解锁,请稍后": {
+    "translation": "AI:正在解锁,请稍后"
+  },
+  "α:已经很接近了": {
+    "translation": "α:已经很接近了"
+  },
+  "<<  序章开始  >>": {
+    "translation": "<<  序章开始  >>"
+  },
+  "<<  序章谢幕  >>": {
+    "translation": "<<  序章谢幕  >>"
+  },
+  "<<  序章  >>": {
+    "translation": "<<  序章  >>"
+  },
+  "<<   救赎之道    >>": {
+    "translation": "<<   救赎之道    >>"
+  },
+  "未完待续": {
+    "translation": "未完待续"
+  },
+  "--  开启史诗模式  --": {
+    "translation": "--  开启史诗模式  --"
+  },
+  "AI:正在重启大门": {
+    "translation": "AI:正在重启大门"
+  }
+}
