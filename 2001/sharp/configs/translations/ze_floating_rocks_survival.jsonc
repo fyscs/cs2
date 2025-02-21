@@ -1,0 +1,82 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2024 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "++ Ze Floating Rocks Survival ++": {
+    "translation": "++ Ze Floating Rocks Survival ++-"
+  },
+  "++ Map by Matias-TM ++": {
+    "translation": "- 地图作者: Matias-TM  文本:Zeyu1-"
+  },
+  "++ Sky by komaokc ++": {
+    "translation": "- 特别鸣谢:komaokc -"
+  },
+  "++ Teleport in 30 seconds ++": {
+    "translation": "- 30秒传送 -"
+  },
+  "++ Teleport in 5 seconds ++": {
+    "translation": "- 5秒传送 -"
+  },
+  "++ Defend 120 seconds ++": {
+    "translation": "- 防守120秒 -"
+  },
+  "++ Defend 5 seconds ++": {
+    "translation": "- 防守5秒 -"
+  },
+  "++ Here comes the zombies! ++": {
+    "translation": "- 僵尸马上来了-"
+  },
+  "++ Stage 02 : Storage ++": {
+    "translation": "- 第二关 -"
+  },
+  "++ Stage 03 : Train Station +": {
+    "translation": "- 第三关 -"
+  },
+  "++ Go to the roof! ++": {
+    "translation": "- 快去屋顶 -"
+  },
+  "++ Zombies : Fall to teleport to the house! ++": {
+    "translation": "- 僵尸将会传送至房间 -"
+  },
+  "++ Tram leaves in 40 seconds ++": {
+    "translation": "- 电车 40 秒后出发 -"
+  },
+  "++ Tram leaves in 5 seconds ++": {
+    "translation": "- 电车 5 秒后出发 -"
+  },
+  "++ Tram leaving!  ++": {
+    "translation": "-- 电车正在离开-"
+  },
+  "++ Stage 04 : Storage House +": {
+    "translation": "- 第四关 -"
+  },
+  "++ Zombies has been teleported to the house! ++": {
+    "translation": "- 僵尸将会传送至房间 -"
+  },
+  "++ Defend 60 seconds ++": {
+    "translation": "- 防守60秒 -"
+  },
+  "++ Stay on the roof! ++": {
+    "translation": "- 待在屋顶上 -"
+  },
+  "++ Nuke deploying in 5 seconds ++": {
+    "translation": "-5秒核爆-"
+  },
+  "++ Nuke deploying! ++": {
+    "translation": "- 核爆正在部署 -"
+  },
+  "++ Now activate the nuke! ++": {
+    "translation": "- 核爆 -"
+  },
+  "++ Humans won! +": {
+    "translation": "- 人类胜利 -"
+  }
+}
