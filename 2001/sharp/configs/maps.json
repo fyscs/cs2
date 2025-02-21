@@ -832,6 +832,13 @@
     "nomination": false,
     "price": 300
   },
+  "ze_floating_rocks_survival": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300
+  },
   "ze_flower": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
@@ -839,13 +846,7 @@
     "nomination": true,
     "price": 500
   },
-  "ze_flowering": {
-    "admin": false,
-    "certainTimes": [-1],
-    "cooldown": 80,
-    "nomination": true,
-    "price": 400
-  },
+
   "ze_flying_world": {
     "admin": false,
     "certainTimes": [-1],
