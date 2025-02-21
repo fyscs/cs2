@@ -2330,6 +2330,13 @@
     "nomination": true,
     "price": 300
   },
+  "ze_surf_shonyudo_v1_cs2": {
+    "admin": false,
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 400
+  },
   "ze_tear_of_tide": {
     "admin": true,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
