@@ -9,7 +9,7 @@
   // clearTimer (bool) -> 清除所有倒计时
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
-{    
+{
   "Rooftop door break in 25 seconds": {
     "translation": "屋顶门25秒打开"
   },
