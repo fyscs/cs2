@@ -2213,7 +2213,7 @@
   },
   "ze_squid_game": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 80,
     "nomination": true,
     "price": 400
