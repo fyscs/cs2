@@ -1,0 +1,43 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Rooftop door break in 25 seconds": {
+    "translation": "屋顶门25秒打开"
+  },
+  "Crane 1 will work in 25 seconds": {
+    "translation": "- 起重机① 25秒后启动-"
+  },
+  "Elevator shortcut open in 10 seconds": {
+    "translation": "- 电梯捷径 10 秒内打开 -"
+  },
+  "Elevator leave in 25 seconds": {
+    "translation": "- 电梯25秒后离开 -"
+  },
+  "Crane 2 will work in 30 seconds": {
+    "translation": "- 起重机② 30秒后启动 -"
+  },
+  "TNT explode in 20 seconds": {
+    "translation": "- TNT20秒后爆炸 -"
+  },
+  "Defend for overpass 15 seconds": {
+    "translation": "- 防守15秒 -"
+  },
+  "Escape truck leave in 10 seconds": {
+    "translation": "- 卡车在 10 秒内离开-"
+  },
+  "Map ported and fix by Stella": {
+    "translation": "- 地图作者: Stella -"
+  },
+  "Original map by Nexon CSO": {
+    "translation": "- 特别鸣谢: Nexon CSO -"
+  }
+}
