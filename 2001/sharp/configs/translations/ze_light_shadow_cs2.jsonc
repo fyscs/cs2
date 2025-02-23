@@ -1,0 +1,157 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<< No one escapes success, the shadow covers the world >>>": {
+    "translation": "没有人能够幸免于难,暗影笼罩着这个世界"
+  },
+  "<<< It's now. Defeat shadow !!!!! >>>": {
+    "translation": "是时候了,驱散这股黑暗!!"
+  },
+  "*** Don't let zombies get the power of light. Hold here ***": {
+    "translation": "别让僵尸夺走光的力量,死守这里"
+  },
+  "<<< 60 seconds left >>>": {
+    "translation": "还有60秒"
+  },
+  "*** stage set to Shadow ***": {
+    "translation": "<< 关卡设定至 Shadow <<"
+  },
+  "<<< 20 seconds left >>>": {
+    "translation": "还有20秒"
+  },
+  "*** Time has been reset, but we have found another way to the temple of light. We need to go ahead of the core ***": {
+    "translation": "时间已经重置,但我们找到了通往光之神殿的的另一种方式,我们需要走在核心的前面"
+  },
+  "<<< 30 seconds left >>>": {
+    "translation": "还有30秒"
+  },
+  "*** We need the power of light here to defeat the shadow ***": {
+    "translation": "唯有光明能驱散暗影"
+  },
+  "<<< zombie is coming,retreat >>>": {
+    "translation": "僵尸来了,撤退"
+  },
+  "*** 10 seconds left ***": {
+    "translation": "还有10秒"
+  },
+  "<<< Zombies are faster than us. We lose >>>": {
+    "translation": "僵尸比我们更快!我们输了"
+  },
+  "<<< Something's wrong >>>": {
+    "translation": "不对劲..."
+  },
+  "<<< Core perceives us ,it will use the power of light to defeat us >>>": {
+    "translation": "核心察觉到了人类的气息,它将会利用光的力量来击败我们"
+  },
+  "<<< Press both squares at the same time >>>": {
+    "translation": "同时按下两处方块"
+  },
+  "<<< You escaped, but the core became shadow >>>": {
+    "translation": "你成功逃离了这里,但核心获得了黑暗之力"
+  },
+  "<<< The ring protects core and restarts the time >>>": {
+    "translation": "光环正在保护着核心来重置时间"
+  },
+  "<<< Now you're facing real shadow >>>": {
+    "translation": "这才是真正的暗影"
+  },
+  "<<< Light has been gone for a long time >>>": {
+    "translation": "光明....早已销声匿迹"
+  },
+  "<<< People only respect the light >>>": {
+    "translation": "人类崇尚着<光明>"
+  },
+  "<<< Shadow disguises light >>>": {
+    "translation": "暗影伪装为<光明>"
+  },
+  "<<< Camouflage weakens shadow >>>": {
+    "translation": "伪装使暗影变得虚弱"
+  },
+  "<<< Maybe one day, shadow will be really defeated >>>": {
+    "translation": "或许有一天,暗影会被彻底击败"
+  },
+  "<<< Shadow ruled the world a long time ago >>>": {
+    "translation": "暗影很早之前统治着这个世界"
+  },
+  "<<< it's too late! >>>": {
+    "translation": "太迟了!!"
+  },
+  "<<< It's too late for you to escape >>>": {
+    "translation": "太迟了走不了了!!"
+  },
+  "<<< A human get wing >>>": {
+    "translation": "人类获得了翅膀"
+  },
+  "<<< Ring has noticed us >>>": {
+    "translation": "<光环>察觉到了我们"
+  },
+  "*** admin set stage ring ***": {
+    "translation": ">> [管理员]设置关卡至 RING >>"
+  },
+  "*** admin set stage core ***": {
+    "translation": ">> [管理员]设置关卡至 CORE >>"
+  },
+  "*** admin set stage escape ***": {
+    "translation": ">> [管理员]设置关卡至 ESCAPE >>"
+  },
+  "*** stage set to Escape ***": {
+    "translation": "<< 关卡设定至 Escape <<"
+  },
+  "<<< Protected by light, you are now immune to zombie attacks, but zombies will still prevent you from escaping >>>": {
+    "translation": "光的力量正在保护我们免受僵尸的袭击,但它们仍然会阻止我们逃离这里"
+  },
+  "<<< Zombie's Freeze is stronger >>>": {
+    "translation": "<< 僵尸冰冻变得更强了 <<"
+  },
+  "<<< Zombies have escaped. You've lost >>>": {
+    "translation": "僵尸逃跑了,你们失败了"
+  },
+  "<<< 15 seconds left >>>": {
+    "translation": "还有15秒"
+  },
+  "<<< 18 seconds left >>>": {
+    "translation": "还有18秒"
+  },
+  "<<< Touch the light block to destroy the core >>>": {
+    "translation": "触碰白色方块来破坏核心"
+  },
+  "<<< The core run away,But we found another way >>>": {
+    "translation": "核心消失了,但我们找到到了另一条路"
+  },
+  "<<< 10 seconds left >>>": {
+    "translation": "还有10秒"
+  },
+  "<<< Core has noticed us >>>": {
+    "translation": "核心注意到了我们"
+  },
+  "<<< Zombies are faster than you. You lose >>>": {
+    "translation": "僵尸比你们更快,你们失败了"
+  },
+  "<<< Beat it! False light ! >>>": {
+    "translation": "击败它!虚伪之光!"
+  },
+  "<<< This is the temple of light, but it has been occupied by the core >>>": {
+    "translation": "这里是光之神殿,但现在它已被核心占据了"
+  },
+  "<<< A human get Freeze >>>": {
+    "translation": "人类获得了寒冰"
+  },
+  "<<< A zombie get Freeze >>>": {
+    "translation": "僵尸拾取了冰冻"
+  },
+  "<<< A zombie get Gravity >>>": {
+    "translation": "僵尸拾取了黑洞"
+  },
+  "lua load": {
+    "translation": ">>> Lua加载中 >>>"
+  }
+}
