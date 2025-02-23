@@ -2197,6 +2197,13 @@
     "nomination": true,
     "price": 500
   },
+  "ze_skyline": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300
+  },
   "ze_skyscraper_city_p": {
     "admin": false,
     "certainTimes": [-1],
