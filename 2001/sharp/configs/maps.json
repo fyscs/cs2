@@ -433,6 +433,13 @@
     "nomination": true,
     "price": 300
   },
+  "ze_contradiction_spiral": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": false,
+    "price": 400
+  },
   "ze_crashbandicoot_p": {
     "admin": false,
     "certainTimes": [-1],
