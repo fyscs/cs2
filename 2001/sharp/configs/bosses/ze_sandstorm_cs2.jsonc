@@ -20,47 +20,11 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Counters": [
-    {
-      "iterator": "mutant_counter",
-      "backup": "mutant_hp_backup",
-      "counter": "mutant_hp_iterations",
-      "hitbox": "mutant_hitbox",
-      "display": "Mutant"
-    },
-    {
-      "iterator": "grg_counter",
-      "backup": "grg_hp_backup",
-      "counter": "grg_hp_iterations",
-      "hitbox": "grg_hitbox",
-      "display": "变异海苔"
-    },
-    {
-      "iterator": "mutant_counter1",
-      "backup": "mutant_hp_backup1",
-      "counter": "mutant_hp_iterations1",
-      "hitbox": "mutant_hitbox1",
-      "display": "Mutant"
-    },
-    {
-      "iterator": "garg_counter",
-      "backup": "garg_hp_backup",
-      "counter": "garg_hp_iterations",
-      "hitbox": "garg_hitbox",
-      "display": "Gargantua"
-    },
-    {
-      "iterator": "sss5_l_laser_counter",
-      "backup": "sss5_l_laser_hp_backup",
-      "counter": "sss5_l_laser_hp_interations",
-      "hitbox": "sss5_l_laser_hitbox",
-      "display": "Final"
-    }
-  ],
   "Monsters": [
     {
       "identity": "12055",
       "display": "传送水晶"
     }
-  ]
+  ],
+  "Proxy": true
 }

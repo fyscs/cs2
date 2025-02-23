@@ -20,16 +20,5 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Counters": [
-    {
-      "iterator": "Venat_mini_boss_HP",
-      "hitbox": "Venat_mini_boss_physbox",
-      "display": "Venat"
-    },
-    {
-      "iterator": "Bergan_boss1_attack_moon_HP",
-      "hitbox": "bergan_boss1_attack_moon_breakable",
-      "display": "BERGAN_Pre"
-    }
-  ]
+  "Proxy": true
 }

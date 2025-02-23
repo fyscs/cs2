@@ -20,47 +20,5 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Counters": [
-    {
-      "iterator": "mutant_counter",
-      "backup": "mutant_hp_backup",
-      "counter": "mutant_hp_iterations",
-      "hitbox": "stg2_mutant_hitbox",
-      "display": "突变体"
-    },
-    {
-      "iterator": "mutant2_counter",
-      "backup": "mutant2_hp_backup",
-      "counter": "mutant2_hp_iterations",
-      "hitbox": "stg3_mutant2_hitbox",
-      "display": "突变体"
-    },
-    {
-      "iterator": "mutant_counter5",
-      "backup": "mutant_hp_backup5",
-      "counter": "mutant_hp_iterations5_2",
-      "hitbox": "stg5_mutant_hitbox",
-      "display": "突变体"
-    },
-    {
-      "iterator": "counter_crys1",
-      "hitbox": "stg5_boss_model_crys1",
-      "display": "水晶"
-    },
-    {
-      "iterator": "counter_crys2",
-      "hitbox": "stg5_boss_model_crys2",
-      "display": "水晶"
-    },
-    {
-      "iterator": "counter_crys3",
-      "hitbox": "stg5_boss_model_crys3",
-      "display": "水晶"
-    },
-    {
-      "iterator": "counter_crys4",
-      "hitbox": "stg5_boss_model_crys4",
-      "display": "水晶"
-    }
-  ]
+  "Proxy": true
 }

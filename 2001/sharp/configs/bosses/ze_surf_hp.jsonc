@@ -20,11 +20,5 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Counters": [
-    {
-      "iterator": "boss_hp_math",
-      "hitbox": "angry_boss",
-      "display": "Boss"
-    }
-  ]
+  "Proxy": true
 }
