@@ -1840,6 +1840,13 @@
     "nomination": false,
     "price": 400
   },
+  "ze_pogworld": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 30,
+    "nomination": false,
+    "price": 200
+  },
   "ze_pokemon_kanto_v1": {
     "admin": false,
     "certainTimes": [-1],
@@ -2630,12 +2637,5 @@
     "cooldown": 30,
     "nomination": false,
     "price": 300
-  },
-  "ze_pogworld": {
-    "admin": false,
-    "certainTimes": [-1],
-    "cooldown": 30,
-    "nomination": false,
-    "price": 200
   }
 }
