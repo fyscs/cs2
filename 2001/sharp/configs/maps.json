@@ -2159,7 +2159,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 60,
-    "nomination": false,
+    "nomination": true,
     "price": 500
   },
   "ze_silenthill_pt": {
