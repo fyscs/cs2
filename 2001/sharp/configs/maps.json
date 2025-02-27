@@ -1476,6 +1476,13 @@
     "nomination": true,
     "price": 650
   },
+  "ze_miside": {
+    "admin": false,
+    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 70,
+    "nomination": true,
+    "price": 450
+  },
   "ze_mist_p": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],

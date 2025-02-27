@@ -1,0 +1,457 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "> A player found Massager? <": {
+    "translation": "一位玩家找到了<按摩器>?"
+  },
+  "> Press E to push zombies away. <": {
+    "translation": "按E使用以推开僵尸"
+  },
+  "> A player found Beam Pistol. <": {
+    "translation": "一位玩家找到了<激光枪>"
+  },
+  "> Press E to shot beam hurt zombies,Hit 10 time will charge the pistol. <": {
+    "translation": "按E射出激光对僵尸造成伤害,10次后手枪会进行充能"
+  },
+  "> Charged shot create blaze area to slow zombie down. <": {
+    "translation": "充能后生成火场减速僵尸"
+  },
+  "> A player found Heart Charm. <": {
+    "translation": "一位玩家找到了<护符>"
+  },
+  "> Press E to heal humans. <": {
+    "translation": "按E使用以治疗人类"
+  },
+  "> A player found Toy Duck <": {
+    "translation": "一位玩家找到了<玩具鸭>"
+  },
+  "> Press E to place a duck to block zombies. <": {
+    "translation": "按E使用放置障碍物阻挡僵尸"
+  },
+  "> A player found Toy Hammer! <": {
+    "translation": "一位玩家找到了<玩具锤>"
+  },
+  "> Press E smash zombies to make them slow down. <": {
+    "translation": "按E使用锤击僵尸造成减速"
+  },
+  "> Zombie push disabled! <": {
+    "translation": "僵尸阻力已失效"
+  },
+  "< ze_MiSide >": {
+    "translation": "ZE_米塔"
+  },
+  "< Map by @Seth >": {
+    "translation": "地图制作:@Seth 文本翻译:Lia"
+  },
+  "< Someone left a message for me. >": {
+    "translation": "有人留了信息给我."
+  },
+  "< Hmm...A new version,from M.K. >": {
+    "translation": "是新版本的"
+  },
+  "< Let me have a look... >": {
+    "translation": "我看看..."
+  },
+  "< Mita: Hi,I'm Mita! >": {
+    "translation": "[米塔]: Hi,我是米塔"
+  },
+  "< Mita: What's your name? >": {
+    "translation": "[米塔]: 你的名字是?"
+  },
+  "< Mita: Nice to meet you,Player! >": {
+    "translation": "[米塔]: 很高兴遇见你!"
+  },
+  "< ...Where am I? >": {
+    "translation": "给我整哪来了?"
+  },
+  "< This place looks familiar. >": {
+    "translation": "看着挺熟悉的"
+  },
+  "< Wait...I'm in the game? >": {
+    "translation": "等等...我在游戏里?"
+  },
+  "< And..Everything looks huge.. >": {
+    "translation": "emmm...所有东西都看着很大.."
+  },
+  "< No,It's me turn smaller,that's not good.. >": {
+    "translation": "不,是我变小了,这可不是什么好事情.."
+  },
+  "< 25 >": {
+    "translation": "还有25秒"
+  },
+  "< Kind Mita: Player,Can you see my message? >": {
+    "translation": "[善良米塔]: 你能看见我的消息吗?"
+  },
+  "< ...Mita? What just happen on me. >": {
+    "translation": "...米塔?我身上到底发生了什么."
+  },
+  "< Kind Mita: It's Crazy Mita done this.. >": {
+    "translation": "[善良米塔]: 是疯狂米塔干的..."
+  },
+  "< Kind Mita: She turn you into this size,Just make sure you can't escape the game. >": {
+    "translation": "[善良米塔]: 她把你变成这样是为了确保你无法逃离游戏"
+  },
+  "< Kind Mita: But don't worry,I still got a way to help you. >": {
+    "translation": "[善良米塔]: 但是不要担心,我还是找到了办法帮助你"
+  },
+  "< Kind Mita: I could modify or move some Models in the game to creat a way for you. >": {
+    "translation": "[善良米塔]: 我可以移动或修改游戏中的模型,来为你创造道路"
+  },
+  "< 20 >": {
+    "translation": "还有20秒"
+  },
+  "< Kind Mita: That..That's not my panties,Don't ask!>.<. >": {
+    "translation": "[善良米塔]: 那...那不是我的短裤,别再问了!"
+  },
+  "< 15 >": {
+    "translation": "还有15秒"
+  },
+  "< Kind Mita: Nice,You have a battery now! >": {
+    "translation": "[善良米塔]: 现在你有块<电池>了!!"
+  },
+  "< Kind Mita: Now get to the bedroom and insert it. >": {
+    "translation": "[善良米塔]: 现在去卧室把<电池>装上."
+  },
+  "< Kind Mita: I'll drag that schoolbag closer,You have to jump on it. >": {
+    "translation": "[善良米塔]: 我会把那个书包拉近点,你要跳上去."
+  },
+  "< Kind Mita: Give me a sec... >": {
+    "translation": "[善良米塔]: 等等..."
+  },
+  "< 5 >": {
+    "translation": "还有5秒"
+  },
+  "< Kind Mita: Get on the plane,I will try to start it up. >": {
+    "translation": "[善良米塔]: 到飞机上去,我会尝试把它启动"
+  },
+  "< Kind Mita: Once you near the door handle,Jump on it then bedroom door will open!. >": {
+    "translation": "[善良米塔]: 靠近门把手的时候,跳上去卧室的门就会打开了!!"
+  },
+  "< Kind Mita: Come on,Ready to take off! >": {
+    "translation": "[善良米塔]: 快点,准备起飞了!!"
+  },
+  "< Kind Mita: Prepare to jump! >": {
+    "translation": "准备跳!!"
+  },
+  "< Kind Mita: You did it! >": {
+    "translation": "你做到了!!"
+  },
+  "< Kind Mita: Get on that bench,Let's go for next battery. >": {
+    "translation": "[善良米塔]: 到凳子上去,找下一块<电池>.."
+  },
+  "< Mita: Um...Player, >": {
+    "translation": "[米塔]: Emmm...玩家桑"
+  },
+  "< Mita: I sort of rushed off earlier, and now this place is a mess... >": {
+    "translation": "[米塔]: 我之前离开的有点匆忙,现在这地方有点乱..."
+  },
+  "< Mita: Could you help me tidy up a bit? >": {
+    "translation": "[米塔]: 你能帮我稍微整理一下吗?"
+  },
+  "> You have 60 sec to finish 3 task! <": {
+    "translation": "你有60秒来完成三个任务!!"
+  },
+  "> Zombie Cage open! <": {
+    "translation": "<<< 尸笼开了 <<<"
+  },
+  "> You still got chance if finish the task! <": {
+    "translation": ">> 能完成任务的话还是有机会的! >>"
+  },
+  "< Mita: Woah.. >": {
+    "translation": "[米塔]: 哇..."
+  },
+  "< Mita: Thank you so much! >": {
+    "translation": "[米塔]: 太感谢你了!"
+  },
+  "< Mita: Hey, I lost my hairbrush… >": {
+    "translation": "[米塔]: Oi,我找不到我的梳子了..."
+  },
+  "< Mita: Could you help me find it? >": {
+    "translation": "[米塔]: 那你能帮帮我吗?"
+  },
+  "< Mita: Try checking the bedside table first—I think I left it there. >": {
+    "translation": "[米塔]: 先看看床边桌子上有没有,我觉得可能丢在那里了."
+  },
+  "< Mita: Just don't look in the oven, okay? >": {
+    "translation": "不要看烤箱里,好吗?"
+  },
+  "< Mita: I already checked there. >": {
+    "translation": "我已经检查过那里了"
+  },
+  "< Mita: You found it! Nice work! >": {
+    "translation": "[米塔]: 你找到了!太好了!"
+  },
+  "< Mita: Hey! I told you not to look in there! >": {
+    "translation": "Oi!我告诉过你不要看那里了!"
+  },
+  "< Mita: Turn around—I'll clean this up! >": {
+    "translation": "转过去,我会收拾这里!"
+  },
+  "> Now its the final task..Clear the zombies! <": {
+    "translation": "现在只剩一件事了..清理僵尸!"
+  },
+  "> Admin select Stage 1! <": {
+    "translation": "[管理员]已设置至->第一关"
+  },
+  "> Admin select Stage 2! <": {
+    "translation": "[管理员]已设置至->第二关"
+  },
+  "> Admin select Stage 3! <": {
+    "translation": "[管理员]已设置至->第三关"
+  },
+  ">> Stage 1 <<": {
+    "translation": ">> 第一关 >>"
+  },
+  ">> Stage 2 <<": {
+    "translation": ">> 第二关 >>"
+  },
+  ">> Stage 3 <<": {
+    "translation": "<< 第三关 <<"
+  },
+  "> Bed walls has no longer sealed. <": {
+    "translation": "封锁目前已经失效"
+  },
+  "< 30 >": {
+    "translation": "还有30秒"
+  },
+  "> Boss area seal up in 5 sec. <": {
+    "translation": "Boss战区域还有5秒封锁"
+  },
+  "< Kind Mita: You have to turn on that shower head,Need some water to jump down >": {
+    "translation": "[善良米塔]: 你需要打开花洒,放些水才能跳下去"
+  },
+  "< Kind Mita: Good job,Grab the battery and left here now! >": {
+    "translation": "[善良米塔]: 好的,拿起<电池>离开这里吧"
+  },
+  "< Kind Mita: I will break that shampoo,Get on those bubble to fly up! >": {
+    "translation": "[善良米塔]: 我会打开那瓶洗发露,登上那些泡泡飞起来!"
+  },
+  "< Kind Mita: Seems like you have to open that vent. >": {
+    "translation": "[善良米塔]: 貌似你得打开那个通风口"
+  },
+  "< Kind Mita: Shot the screw to open it,We need to hide for a while. >": {
+    "translation": "向螺丝射击打开它,我们得躲一会"
+  },
+  "> You need to clear all zombies. <": {
+    "translation": ">>> 清理所有的僵尸 >>>"
+  },
+  ">> Stage 2 Clear!!! <<": {
+    "translation": ">> 第二关已完成 >>"
+  },
+  "< Kind Mita: There has a Portal in my bedroom,It could help you get to the normal size version. >": {
+    "translation": "[善良米塔]: 我的房间里有个传送门,它可以帮助你去到正常大小的版本"
+  },
+  "< Kind Mita: But you need to find 3 battery,Crazy Mita separate them in the house. >": {
+    "translation": "[善良米塔]: 但是你得找到三块<电池>,疯狂米塔把它们扔在房子里了."
+  },
+  "< Kind Mita: Yes!I placed a Icon on the battery,Go get it. >": {
+    "translation": "[善良米塔]: 我在<电池>上放置了标签,去找吧"
+  },
+  "< Kind Mita: I could help you to clear the way,But it take some time. >": {
+    "translation": "我可以帮你清理道路,但是需要点时间."
+  },
+  "< Kind Mita: Last battery is in the kitchen,But seems like that door is locked from here... >": {
+    "translation": "[善良米塔]: 最后一块<电池>在厨房里,但是貌似门是锁着的..."
+  },
+  "< Kind Mita: But don't worry,There's a tv in here and kitchen.>": {
+    "translation": "但是不要担心,但是两边都有电视"
+  },
+  "< Kind Mita: You could get into tv game and out from the kitchen tv.>": {
+    "translation": "你可以从这进去然后从那边出来"
+  },
+  "< Kind Mita: Go on the table,Cappie will help you with the games.>": {
+    "translation": "到桌子上去,Cappie会帮助你应对游戏"
+  },
+  "> Zombie has most of snowball! <": {
+    "translation": "<< 僵尸获得了更多的雪球! <<"
+  },
+  "> Final defend will be harder for human. <": {
+    "translation": "<< 最后的守点会变得更难 <<"
+  },
+  "> Human has most of snowball! <": {
+    "translation": ">> 人类获得了更多的雪球! >>"
+  },
+  "> Final defend will be easy for human. <": {
+    "translation": ">> 最后的守点会变得简单 >>"
+  },
+  "< Cool Mita: It's simple,Just go collect the snowball. >": {
+    "translation": "[酷米塔]: 这很简单的,快去收集雪球吧"
+  },
+  "> Zombie teleport in 10 sec. <": {
+    "translation": "僵尸还有10秒传送"
+  },
+  "< Cool Mita: The most snowball team at scene 2,Scene 3's difficulty will be easy for that team. >": {
+    "translation": "[酷米塔]: 获得雪球最多的一方将在第二关,第三关中拥有优势"
+  },
+  "> Survive for 25 sec.<": {
+    "translation": "坚持25秒"
+  },
+  "> Survive for 30 sec.<": {
+    "translation": "坚持30秒"
+  },
+  "> Zombie teleport in 7 sec. <": {
+    "translation": "僵尸会在7秒后传送"
+  },
+  "< Cool Mita: Anywho...>": {
+    "translation": "[酷米塔]: 有人吗..."
+  },
+  "< Cool Mita: Let's go—— >": {
+    "translation": "[酷米塔]: 冲刺~冲刺~冲~..."
+  },
+  "< Cool Mita: Have some fun! >": {
+    "translation": "[酷米塔]: 玩的开心!!!"
+  },
+  "< A random object will clear... >": {
+    "translation": "随机清除一处物品..."
+  },
+  "< Kind Mita: That fan is still spining.. >": {
+    "translation": "[善良米塔]: 那玩意还在转..."
+  },
+  "< Kind Mita: You need to push something to block the wind. >": {
+    "translation": "[善良米塔]: 你得找点东西把它挡住"
+  },
+  "< Kind Mita: Good job,That fan is no longer working now. >": {
+    "translation": "好的,风扇现在不会工作了"
+  },
+  "< Kind Mita: Almost there... >": {
+    "translation": "[善良米塔]: 就快到了..."
+  },
+  "< Kind Mita: Shot that switch,You need water to get up there. >": {
+    "translation": "打那个开关,你需要水才能浮起来到那里去"
+  },
+  "< Kind Mita: That is Crazy Mita's mannequin! >": {
+    "translation": "那是疯狂米塔的模型!"
+  },
+  "< Kind Mita: But how..how is those mannequin get in this version! >": {
+    "translation": "但...为什么那些模型会到这个版本里来!"
+  },
+  "< Kind Mita: Damn it,Poor Cappie,She must already got killed by her... >": {
+    "translation": "哎,太糟了,她一定已经被她杀了..."
+  },
+  "< Kind Mita: Yes,That's the last battery! >": {
+    "translation": "[善良米塔]: 是的,那是最后一块<电池>!"
+  },
+  "< Kind Mita: Now we just need to go back—— >": {
+    "translation": "现在我们只要回去..."
+  },
+  "< Kind Mita: ?!! >": {
+    "translation": "?????"
+  },
+  "< Kind Mita: Seems like it didn't find you yet. >": {
+    "translation": "看起来它还没找到你"
+  },
+  "< Kind Mita: Go,Jump on the plane,You have to bring the battery to the portal. >": {
+    "translation": "[善良米塔]: 快跳上飞机,你得把<电池>带到传送门那里去"
+  },
+  "< Kind Mita: It's the only way to save you. >": {
+    "translation": "那是唯一能救你的方法"
+  },
+  "< Kind Mita: I will meet you at the right version. >": {
+    "translation": "我会在正确的版本那里等你"
+  },
+  "< Kind Mita: Stay alive for me,Player! >": {
+    "translation": "为了我,请活下去!"
+  },
+  "< Climb up the table and insert last battery! >": {
+    "translation": "爬上桌子,插入最后一块<电池>"
+  },
+  "< It's it... >": {
+    "translation": "这个...."
+  },
+  "< Portal start up in 20 sec. >": {
+    "translation": "传送门20秒后启动"
+  },
+  "< Crazy Mita: Do you like what you see now Player,The gift i prepared for you. >": {
+    "translation": "[疯米]: 喜欢现在的一切吗?这是我为你准备的礼物"
+  },
+  "< Crazy Mita: This is what they deserved,To getting you away from me. >": {
+    "translation": "[疯米]: 把你从我身边夺走,这是她们应得的下场"
+  },
+  "< Crazy Mita: You just can't see how much i love you? >": {
+    "translation": "[疯米]: 你还不感受不到我有多爱你吗?"
+  },
+  "< Crazy Mita: Everything i did for you,And you just destroy them with those other.. >": {
+    "translation": "我为你所做的一切,你却只会与它们一起摧毁掉....与那些...."
+  },
+  "< Crazy Mita: ..Dirty,Annoying,Pathetic Mitas. >": {
+    "translation": "卑鄙,烦人,无聊的米塔"
+  },
+  "< Crazy Mita: I see.. >": {
+    "translation": "[疯米]: 我明白的..."
+  },
+  "< Crazy Mita: All player are the same,Blind heart. >": {
+    "translation": "所有玩家都是一个样子,内心虚伪"
+  },
+  "< Crazy Mita: So,Let me show you my love. >": {
+    "translation": "[疯米]: 所以,我会向你展示我的爱"
+  },
+  "< Crazy Mita: One last time. >": {
+    "translation": "最后一次"
+  },
+  "> Zombie seal enable in 3 sec <": {
+    "translation": "僵尸封锁3秒后开启"
+  },
+  "< Mita! No! You're insane! >": {
+    "translation": "米塔!不!你疯了!!!"
+  },
+  "< Crazy Mita: Ha-ha!WHAT'S THIS? >": {
+    "translation": "[疯米]: 哈哈哈!这又是什么?"
+  },
+  "< Crazy Mita: Is that a new expression I see? >": {
+    "translation": "是新的表情啊?"
+  },
+  "< Crazy Mita: Go on, let me see more!>": {
+    "translation": "继续继续,让我多看点!!!"
+  },
+  "< Crazy Mita: Watching the same old face gets so boring!>": {
+    "translation": "一直同一张臭脸可真是太无聊了!"
+  },
+  "> Final 20 sec. <": {
+    "translation": "最后的20秒"
+  },
+  ">> ZM Mode. <<": {
+    "translation": ">> ZM模式 >>"
+  },
+  ">> Thank for your playing,Hope you all enjoy the map! XD <<": {
+    "translation": "<< 感谢各位的游玩,希望各位都能玩的开心XDD <<"
+  },
+  ">> Survive for 180 sec! <<": {
+    "translation": "<< 还有三分钟 <<"
+  },
+  ">> Nuke in 120 sec! <<": {
+    "translation": "<< 还有二分钟 <<"
+  },
+  ">> Nuke in 60 sec! <<": {
+    "translation": "还有60秒"
+  },
+  ">> Nuke in 30 sec! <<": {
+    "translation": "还有30秒",
+    "blocked": true
+  },
+  ">> Nuke in 20 sec! <<": {
+    "translation": "还有20秒",
+    "blocked": true
+  },
+  ">> Nuke in 10 sec! <<": {
+    "translation": "还有10秒",
+    "blocked": true
+  },
+  "> Admin select Stage ZM! <": {
+    "translation": "[管理员]已设置至->ZM关卡"
+  },
+  "> You need to clear all the zombies. <": {
+    "translation": ">>> 你需要处理所有僵尸!! <<<"
+  },
+  "> Stage 3 clear! <": {
+    "translation": "<< 第三关已完成 <<"
+  }
+}
