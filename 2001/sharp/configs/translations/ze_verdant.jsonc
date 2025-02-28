@@ -1,0 +1,82 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "| HEAL HAS BEEN PICKED UP |": {
+    "translation": "| 治疗已被拾取 |"
+  },
+  "| LIFT WILL MOVE IN 15 SECONDS |": {
+    "translation": "| 电梯将在 15 秒上升 |"
+  },
+  "| LAST DOOR WILL OPEN IN 15 SEC |": {
+    "translation": "| 最后一扇门将在 15 秒后打开 |"
+  },
+  "| ZOMBIES TELEPORT BEHIND IN 15 SEC |": {
+    "translation": "| 僵尸在 15 秒内传送到后方 |"
+  },
+  "| ROCKS WILL BREAK IN 20 SEC |": {
+    "translation": "| 岩石在 20 秒后消失 |"
+  },
+  "| FIRST DOOR WILL OPEN IN 15 SEC |": {
+    "translation": "| 第一扇门将在 15 秒后打开 |"
+  },
+  "| SOMETHING WILL HAPPEN IN 15 SECONDS |": {
+    "translation": "| 等待 15 秒 |"
+  },
+  "| DOORS WILL OPEN IN 10 SEC |": {
+    "translation": "| 门将在 10 秒后打开 |"
+  },
+  "| ARENA DOOR WILL OPEN IN 25 SECONDS |": {
+    "translation": "| 竞技场大门将在 25 秒后打开 |"
+  },
+  "| WAIT HERE FOR 15 SECONDS |": {
+    "translation": "| 在这里等待 15 秒 |"
+  },
+  "| DOOR WILL OPEN IN 25 SECONDS |": {
+    "translation": "| 门将在 25 秒后打开 |"
+  },
+  "| SUCCESS |": {
+    "translation": "| 任务成功 |"
+  },
+  "| DOOR WILL OPEN IN 10 SECONDS |": {
+    "translation": "| 门将在 10 秒后打开 |"
+  },
+  "| 5 |": {
+    "translation": "| 5 |"
+  },
+  "| 4 |": {
+    "translation": "| 4 |"
+  },
+  "| 3 |": {
+    "translation": "| 3 |"
+  },
+  "| 2 |": {
+    "translation": "| 2 |"
+  },
+  "| 1 |": {
+    "translation": "| 1 |"
+  },
+  "| ZOMBIE DETECTED |": {
+    "translation": "| 检测到僵尸 |"
+  },
+  "| ROUND FAILURE |": {
+    "translation": "| 回合失败 |"
+  },
+  "| 25 SECONDS LEFT |": {
+    "translation": "| 25 秒 |"
+  },
+  "| 5 SECONDS LEFT |": {
+    "translation": "| 5 秒 |"
+  },
+  "** You took too long to trigger, slaying all humans... **": {
+    "translation": "** 你触发太慢了,正在处死所有人... **"
+  }
+}
