@@ -2085,6 +2085,13 @@
     "nomination": true,
     "price": 300
   },
+  "ze_sele": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 400
+  },
   "ze_serpentis_temple": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
