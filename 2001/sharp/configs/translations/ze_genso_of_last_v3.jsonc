@@ -1,0 +1,292 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Ancient Elculous Defeated ***": {
+    "translation": "*** 特瓦林战败 ***"
+  },
+  "*** Hand Attack ***": {
+    "translation": "*** 协助设计 ***"
+  },
+  ">>> Failed <<<": {
+    "translation": ">>> 僵尸繁殖了所有人 <<<"
+  },
+  "< ze_genso_of_last_v3 >": {
+    "translation": "< ze_genso_of_last_v3 >"
+  },
+  "Map by Pohmian/Mochi": {
+    "translation": "地图作者:Pohmian/Mochi 地图翻译:白姬"
+  },
+  "Port by 三百度幸运12121": {
+    "translation": "移植作者:三百度幸运12121"
+  },
+  "***The LeftGate is going to open in 40 seconds***": {
+    "translation": "***左の门40秒后打开***"
+  },
+  "***Hold 25seconds***": {
+    "translation": "***防守25秒***"
+  },
+  "***Hold 25 seconds***": {
+    "translation": "***防守25秒***"
+  },
+  "***Middle Gate open in 20 seconds***": {
+    "translation": "***中の门20后打开***"
+  },
+  "***Keep Defending 30 seconds***": {
+    "translation": "***再坚持30秒***"
+  },
+  "***The Last Gate is going to close in 35 seconds. Defend***": {
+    "translation": "***最后の门在35秒后关闭,守住***"
+  },
+  "*** Moving to NORMAL mode ***": {
+    "translation": "*** 加载普通模式 ***"
+  },
+  "[WARM-UP ROUND 50SECONDS]": {
+    "translation": "[热身回合 50秒]"
+  },
+  "[Normal Mode]": {
+    "translation": "[普通模式]"
+  },
+  "[NORMAL MODE - Welcome to the Genso]": {
+    "translation": "[普通模式-欢迎来到理想乡]"
+  },
+  "*** Admin Selected NormalMode ***": {
+    "translation": "*** 管理员选择了普通模式 ***"
+  },
+  "*** The LeftGate is unlocked ***": {
+    "translation": "*** 左の门开了 ***"
+  },
+  "[Hard Mode]": {
+    "translation": "[困难模式]"
+  },
+  "[HARD MODE - Search The Genso to Escape]": {
+    "translation": "[困难模式-找到幻想乡并逃离]"
+  },
+  "*** Admin Selected HardMode ***": {
+    "translation": "*** 管理员选择了困难模式 ***"
+  },
+  "*** The RightGate is unlocked ***": {
+    "translation": "*** 右の门开了 ***"
+  },
+  "***The RightGate is going to open in 40 seconds***": {
+    "translation": "***右の门40秒后开***"
+  },
+  "***Hold 30seconds***": {
+    "translation": "***防守30秒***"
+  },
+  "***Hold 15seconds***": {
+    "translation": "***守住15秒***"
+  },
+  "***The MetalGate is going to break in 20seconds***": {
+    "translation": "***通往二次元的门会在20秒内敞开***"
+  },
+  "***Defend more 15seconds***": {
+    "translation": "***多守15秒***"
+  },
+  "***Defend 35seconds***": {
+    "translation": "***防守35秒***"
+  },
+  "***Defend 25seconds***": {
+    "translation": "***防守25秒***"
+  },
+  "***Defend 25 seconds***": {
+    "translation": "***防守25秒***"
+  },
+  "***Defend 20 seconds***": {
+    "translation": "***防守20秒***"
+  },
+  "*** Its getting dark.... ***": {
+    "translation": "*** 天黑请闭眼.... ***"
+  },
+  "***The Last Gate is going to close in 45 seconds***": {
+    "translation": "***最终の门45后关上***"
+  },
+  "[Soul Mode]": {
+    "translation": "[灵魂模式]"
+  },
+  "[SOUL MODE - Escape From The Genso]": {
+    "translation": "[灵魂模式 - 逃离幻想乡]"
+  },
+  "[TheLast Mode]": {
+    "translation": "[末日模式]"
+  },
+  "[THELAST MODE - The Genso is Going to end]": {
+    "translation": "[末日模式 - 幻想乡终焉]"
+  },
+  "*** Admin Selected ThelastMode ***": {
+    "translation": "*** 管理员选择了末日模式 ***"
+  },
+  "*** Admin Selected SoulMode ***": {
+    "translation": "*** 管理员选择了灵魂模式 ***"
+  },
+  "***You won Normal Mode***": {
+    "translation": "***普通模式通关***"
+  },
+  "***You won Hard Mode***": {
+    "translation": "***困难模式通关***"
+  },
+  "***Failed***": {
+    "translation": "***你被僵尸嗷嗷繁殖了,通关失败***"
+  },
+  "*** The Gates are going to open in 45 seconds***": {
+    "translation": "*** 大门45后开启***"
+  },
+  "***Defend 20seconds***": {
+    "translation": "***防守20秒***"
+  },
+  "***Defend 15seconds***": {
+    "translation": "***防守15秒***"
+  },
+  "[Zombies Mode]": {
+    "translation": "[ZM关]"
+  },
+  "[ZOMBIES MODE - The Genso Ended]": {
+    "translation": "[ZM关]"
+  },
+  "*** Golem Ahglan Defeated ***": {
+    "translation": "*** 无相之岩被击败 ***"
+  },
+  "*** Defend the final 35 seconds ***": {
+    "translation": "*** 防守最后35秒 ***"
+  },
+  "***Defend 30seconds***": {
+    "translation": "***防守30秒***"
+  },
+  "***You won Soul Mode***": {
+    "translation": "***灵魂模式通关***"
+  },
+  "*** !? ***": {
+    "translation": "*** !? ***"
+  },
+  "***The Last Gate completely closed in 55 seconds***": {
+    "translation": "***最终の门55秒后完全关闭***"
+  },
+  "***Hold 20seconds***": {
+    "translation": "***防守20秒***"
+  },
+  "*** 30 seconds ***": {
+    "translation": "*** 防守30秒 ***"
+  },
+  "*** 10 ***": {
+    "translation": "*** 10 ***"
+  },
+  "*** Open in 10seconds ***": {
+    "translation": "*** 10秒内打开 ***"
+  },
+  "*** Open in 20seconds ***": {
+    "translation": "*** 20秒内打开 ***"
+  },
+  "*** failed ***": {
+    "translation": "*** 你输了,僵尸吃掉了你的脑子 ***"
+  },
+  "***You won Thelast Mode***": {
+    "translation": "***末日模式通关***"
+  },
+  "*** The vents are going to open ***": {
+    "translation": "*** 通风口即将打开 ***"
+  },
+  "*** It going to break ***": {
+    "translation": "*** 它快要裂开了 ***"
+  },
+  "*** 1 ***": {
+    "translation": "*** 1 ***"
+  },
+  "*** 2 ***": {
+    "translation": "*** 2 ***"
+  },
+  "*** 3 ***": {
+    "translation": "*** 3 ***"
+  },
+  "*** 4 ***": {
+    "translation": "*** 4 ***"
+  },
+  "*** 5 ***": {
+    "translation": "*** 5 ***"
+  },
+  "*** 10seconds ***": {
+    "translation": "*** 10秒 ***"
+  },
+  "*** 100seconds ***": {
+    "translation": "*** 100秒 ***"
+  },
+  "*** 50seconds ***": {
+    "translation": "*** 50秒 ***"
+  },
+  "***The Last gates will open in 190seconds***": {
+    "translation": "***最终の门在190秒后打开***"
+  },
+  "*** 180seconds ***": {
+    "translation": "*** 180秒 ***"
+  },
+  "*** Escape ***": {
+    "translation": "*** 快离开这个鬼地方 ***"
+  },
+  "*** Gravity ***": {
+    "translation": "*** 万象天引 ***"
+  },
+  "*** Wind ***": {
+    "translation": "*** 神罗天征 ***"
+  },
+  "*** Double Hand Stomp ***": {
+    "translation": "*** 捶你小胸口 ***"
+  },
+  "*** Earth Quake ***": {
+    "translation": "*** 脚底按摩 ***"
+  },
+  "*** The Soul was killed ***": {
+    "translation": "*** 灵魂の心被消灭 ***"
+  },
+  "< ??? >": {
+    "translation": "< ??? >"
+  },
+  "< A?nCie?? E??R?? >": {
+    "translation": "< A?nCie?? E??R?? >"
+  },
+  "***Survive in 180 seconds***": {
+    "translation": "***存活180秒***"
+  },
+  "< Thanks for playing >": {
+    "translation": "< 欢迎游玩 >"
+  },
+  "*** Admin Selected ZombiesMode ***": {
+    "translation": "*** 管理员选择了ZM关 ***"
+  },
+  "*** Defend ***": {
+    "translation": "*** 防守 ***"
+  },
+  "*** Grim Reaper defeated ***": {
+    "translation": "*** 死神被击败 ***"
+  },
+  "*A player has picked up Ice Magic*": {
+    "translation": "*一名玩家捡起来冰魔法*"
+  },
+  "*A player has picked up Fire Magic*": {
+    "translation": "*一名玩家捡起了火魔法*"
+  },
+  "*A player has picked up Wind Magic*": {
+    "translation": "*一名玩家捡起了风魔法*"
+  },
+  "*A player has picked up Heal Magic*": {
+    "translation": "*一名玩家捡起了奶魔法*"
+  },
+  "*** A zombie picked up Heal Magic ***": {
+    "translation": "*** 一只姜丝捡起了奶魔法 ***"
+  },
+  "*** A zombie picked up Warp Magic ***": {
+    "translation": "*** 一只姜丝捡起了扭曲魔法 ***"
+  },
+  "*** A zombie picked up Ice Magic ***": {
+    "translation": "*** 一只姜丝捡起了冰魔法 ***"
+  },
+  "*A player has picked up Ancient Earth Magic*": {
+    "translation": "*一名玩家捡起了土魔法*"
+  }
+}
