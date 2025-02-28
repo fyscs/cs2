@@ -1,0 +1,181 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> MOVING ON TO EXPERIENCED DIFFICULTY <<<": {
+    "translation": ">>> 下一关难度: 极限  <<<"
+  },
+  ">>> MOVING ON TO MASTERFUL DIFFICULTY <<<": {
+    "translation": ">>> 下一关难度: 史诗  <<<"
+  },
+  ">>> MOVING ON TO GODLIKE DIFFICULTY <<<": {
+    "translation": ">>> 下一关难度: 火星 <<<"
+  },
+  ">>> MOVING BACK TO NOVICE DIFFICULTY <<<": {
+    "translation": ">>> 下一关难度: 简单 <<<"
+  },
+  ">>> EXTEND THE BOARDING PLATFORM TO GAIN ACCESS TO THE REPAIR VESSEL <<<": {
+    "translation": ">>> 平台正在延伸 <<<"
+  },
+  "> Map by SubDelt@": {
+    "translation": "> 地图作者: SubDelt 文本:Zeyu1"
+  },
+  "> BERSERK COMBO has been acquired": {
+    "translation": "> 玩家拾取了无限子弹"
+  },
+  ">>> THE N.E.X.U.S. MISSILES HAVE BEEN SECURED <<<": {
+    "translation": ">>> XX号导弹已拿到 <<<"
+  },
+  "> NOVICE DIFFICULTY": {
+    "translation": ">本关难度: 简单"
+  },
+  "> ZE UT2004 CONVOY": {
+    "translation": "> ZE UT2004 CONVOY"
+  },
+  "> EXPERIENCED DIFFICULTY": {
+    "translation": "> 本关难度: 极限"
+  },
+  "> MASTERFUL DIFFICULTY": {
+    "translation": "> 本关难度: 史诗"
+  },
+  "> GODLIKE DIFFICULTY": {
+    "translation": "> 本关难度: 火星"
+  },
+  ">>> THE BOARDING PLATFORM EXTENDS IN 35 SECONDS <<<": {
+    "translation": ">>> 平台在35秒后移动 <<<"
+  },
+  ">>> THE BOARDING PLATFORM EXTENDS IN 15 SECONDS <<<": {
+    "translation": ">>> 平台15秒后移动 <<<"
+  },
+  ">>> THE BOARDING PLATFORM EXTENDS IN 5 SECONDS <<<": {
+    "translation": ">>> 平台在5秒后移动 <<<"
+  },
+  ">>> THE BOARDING PLATFORM HAS BEEN EXTENDED <<<": {
+    "translation": ">>> 登船平台已延伸完毕 <<<"
+  },
+  ">>> DESTROY THE DOOR OF THE REPAIR VESSEL <<<": {
+    "translation": ">>> 打破修理船的门 <<<"
+  },
+  ">>> THE FORWARD WEAPON CACHE HAS BEEN STOLEN! <<<": {
+    "translation": ">>> 是武器库!开启了! <<<"
+  },
+  ">>> THE EXPLOSIVES ARE IN PLACE! <<<": {
+    "translation": ">>> 埋下炸药!快点! <<<"
+  },
+  ">>> EXPLOSION IN 40 SECONDS <<<": {
+    "translation": ">>> 炸弹还有40秒爆炸 <<<"
+  },
+  ">>> EXPLOSION IN 20 SECONDS <<<": {
+    "translation": ">>> 炸弹还有20秒爆炸 <<<"
+  },
+  ">>> EXPLOSION IN 5 SECONDS <<<": {
+    "translation": ">>> 炸弹还有5秒爆炸 <<<"
+  },
+  ">>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<": {
+    "translation": ">>> 你必须打开修理船的后门 <<<"
+  },
+  "> Tip - You can do this by standing near the lever at the rear part of the vessel": {
+    "translation": "> 提示: 你可以做到这一点.通过站在靠近船舶后部的拉杆附近数秒he lever at the rear part of the vessel"
+  },
+  ">>>Enemies reached the objective<<<": {
+    "translation": ">>>敌人已到达目标<<<"
+  },
+  ">>> SIDE DOORS OPEN IN 45 SECONDS <<<": {
+    "translation": ">>> 侧门将在45秒后开启!坚持住! <<<"
+  },
+  ">>> SIDE DOORS OPEN IN 20 SECONDS <<<": {
+    "translation": ">>> 侧门将在20秒后开启!坚持住! <<<"
+  },
+  ">>> SIDE DOORS OPEN IN 5 SECONDS <<<": {
+    "translation": ">>> 侧门将在5秒后开启!坚持住! <<<"
+  },
+  ">>> SIDE DOORS ARE OPENING <<<": {
+    "translation": ">>> 侧门开启!! <<<"
+  },
+  ">>> YOU MUST INFILTRATE THE N.E.X.U.S. TRAILER <<<": {
+    "translation": ">>> 快点进入豪华轿车 <<<"
+  },
+  ">>> N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS <<<": {
+    "translation": ">>> 车将在在40秒后打开舱口 <<<"
+  },
+  ">>> N.E.X.U.S. TRAILER HATCH OPENS IN 5 SECONDS <<<": {
+    "translation": ">>> 车将在在5秒后打开舱口 <<<"
+  },
+  ">>> N.E.X.U.S. TRAILER HATCH IS OPEN! <<<": {
+    "translation": ">>> 车正在打开舱口 <<<"
+  },
+  ">>> YOU CAN NOW RETRIEVE THE N.E.X.U.S. MISSILES <<<": {
+    "translation": ">>> 现在你可以取回车里面导弹 <<<"
+  },
+  ">>> N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS <<<": {
+    "translation": ">>> 车将在在20秒后打开舱口 <<<"
+  },
+  ">>> WE ARE LEAVING IN 10 SECONDS! <<<": {
+    "translation": ">>> 还有10秒钟我们就可以走了 <<<"
+  },
+  ">>> 5 <<<": {
+    "translation": ">>> 5 <<<"
+  },
+  ">>> 4 <<<": {
+    "translation": ">>> 4 <<<"
+  },
+  ">>> 3 <<<": {
+    "translation": ">>> 3 <<<"
+  },
+  ">>> 2 <<<": {
+    "translation": ">>> 2 <<<"
+  },
+  ">>> 1 <<<": {
+    "translation": ">>> 1 <<<"
+  },
+  ">>> GET RID OF THE REMAINING ENEMIES ON THE TRUCK! <<<": {
+    "translation": ">>> 清除卡车上的敌人 <<<"
+  },
+  ">>> NO FRIENDLY FORCES DETECTED ON THE TRUCK <<<": {
+    "translation": ">>> 人类没有在卡车上 <<<"
+  },
+  "> THE KILL ALL BUTTON HAS BEEN PRESSED!": {
+    "translation": "> 寄汤来咯!"
+  },
+  ">>> THE REAR DOOR HAS BEEN OPENED <<<": {
+    "translation": ">>> 后面的门已经打开了!快走 <<<"
+  },
+  ">>> YOU MUST OPEN THE SIDE DOORS OF THE REPAIR VESSEL <<<": {
+    "translation": ">>> 你必须打开修理船的侧门 <<<"
+  },
+  ">>> REINFORCEMENTS ARE ON THE WAY! <<<": {
+    "translation": ">>> 救援到来了!加油! <<<"
+  },
+  ">>> WARNING! INBOUND AIRSTRIKE! <<<": {
+    "translation": ">>> 警告!空中袭击!! <<<"
+  },
+  ">>> SEEK SHELTER WITHIN THE REPAIR VESSEL IMMEDIATELY! <<<": {
+    "translation": ">>> 躲在船里会非常安全!! <<<"
+  },
+  "> REDEEMER has been acquired": {
+    "translation": "> 一位玩家拾取了小型核弹"
+  },
+  ">>> DREADNOUGHT DETECTED! <<<": {
+    "translation": ">>> 战地机甲已出现!! <<<"
+  },
+  ">>> SHOOTING THE CARGO HOLD DOES NOTHING! TRY TO DESTROY THE ENGINE OR KILL THE DRIVER! <<<": {
+    "translation": ">>> 别打了!!快摧毁发动机or kill前面的司机!<<<"
+  },
+  "> ROCKET LAUNCHER has been acquired": {
+    "translation": "> 玩家拾取了火箭发射器"
+  },
+  "> FLAK CANNON has been acquired": {
+    "translation": "> 一位玩家拾取了高射炮!"
+  },
+  "> LIGHTNING RIFLE has been acquired": {
+    "translation": "> 一位玩家拾取了雷电枪"
+  }
+}
