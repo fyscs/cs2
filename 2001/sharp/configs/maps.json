@@ -437,7 +437,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 80,
-    "nomination": false,
+    "nomination": true,
     "price": 400
   },
   "ze_crashbandicoot_p": {
