@@ -29,7 +29,7 @@
     {
       "iterator": "nut_boss_hp",
       "mass": 55,
-      "Counter": "nut_boss_segment",
+      "counter": "nut_boss_segment",
       "hitbox": "nut_boss_breakable",
       "display": "Sphere"
     }
