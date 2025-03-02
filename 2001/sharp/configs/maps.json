@@ -85,7 +85,7 @@
   },
   "ze_aoraitsu_reloaded": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 80,
     "nomination": true,
     "price": 600
@@ -470,7 +470,7 @@
   },
   "ze_darkest_hour": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 100,
     "nomination": true,
     "price": 500
@@ -2430,7 +2430,7 @@
   },
   "ze_tensor_of_ice_v1_1": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 150,
     "nomination": true,
     "price": 450
