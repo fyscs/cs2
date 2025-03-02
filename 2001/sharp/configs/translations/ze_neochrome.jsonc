@@ -1,0 +1,60 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "| | heal | |": {
+    "translation": ">> 已获得 [治疗] >>"
+  },
+  "| | 5 | |": {
+    "translation": "| | 5 | |",
+    "blocked": true
+  },
+  "| | 10 | |": {
+    "translation": "| | 10 | |",
+    "blocked": true
+  },
+  "| | 15 | |": {
+    "translation": "还有15秒"
+  },
+  "| | 30 | |": {
+    "translation": "还有30秒"
+  },
+  "| | 25 | |": {
+    "translation": "还有25秒"
+  },
+  "| | 20 | |": {
+    "translation": "还有20秒"
+  },
+  "| | 1 / 2 | |": {
+    "translation": "还有一处"
+  },
+  "| | 2 / 2 | |": {
+    "translation": "已完成触发"
+  },
+  "| MAP BY NUTWOOMY |": {
+    "translation": "地图制作:NUTWOOMY"
+  },
+  "| | 35 | |": {
+    "translation": "还有35秒"
+  },
+  "| | 1 / 4 | |": {
+    "translation": "<< 还有三处 <<"
+  },
+  "| | 2 / 4 | |": {
+    "translation": "<< 还有二处 <<|"
+  },
+  "| | 3 / 4 | |": {
+    "translation": "<< 还有一处 <<"
+  },
+  "| | 4 / 4 | |": {
+    "translation": "<< 已完成 <<"
+  }
+}

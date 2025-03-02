@@ -1539,6 +1539,13 @@
     "nomination": true,
     "price": 300
   },
+  "ze_neochrome": {
+    "admin": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 450
+  },
   "ze_neron": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
