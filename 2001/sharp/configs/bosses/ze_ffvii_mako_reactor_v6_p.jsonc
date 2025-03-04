@@ -36,6 +36,12 @@
       "display": "Bahamut"
     }
   ],
+  "Breakables": [
+    {
+      "target": "Final_Fulgor_Breakable",
+      "display": "Bahamut"
+    }
+  ],
   "Monsters": [
     {
       "display": "Barrier",
