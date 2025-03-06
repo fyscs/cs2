@@ -1441,6 +1441,13 @@
     "nomination": true,
     "price": 300
   },
+  "ze_minecraft_dragon_castle": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400
+  },
   "ze_minecraft_journey_v1": {
     "admin": false,
     "certainTimes": [-1],
