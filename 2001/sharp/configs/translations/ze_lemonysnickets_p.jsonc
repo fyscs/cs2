@@ -1,0 +1,106 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*You're taking too long!*": {
+    "translation": "*弟弟你太慢了!*"
+  },
+  "*Back Gate Open*": {
+    "translation": "*后面的门开了!撤退*"
+  },
+  "*Gate will open in 55 seconds!*": {
+    "translation": "*大门55秒后打开*"
+  },
+  "*Gate will open in 20 seconds!*": {
+    "translation": "*大门20秒后打开*"
+  },
+  "*5 seconds left!*": {
+    "translation": "*守完5秒后就润*"
+  },
+  "*Gates are open!*": {
+    "translation": "*门开了!*"
+  },
+  "*Defend Inside for 45s!*": {
+    "translation": "*bro再守45秒*"
+  },
+  "*Hold here for 30s!*": {
+    "translation": "*抵御僵尸30秒!守住这里!!*"
+  },
+  "*10 seconds left!*": {
+    "translation": "*10*"
+  },
+  "*Defend here for 30 Seconds*": {
+    "translation": "*在这里防御30秒*"
+  },
+  "*Hold for another 10s!*": {
+    "translation": "*守住僵尸10秒!快了!*"
+  },
+  "*5s left! Get ready to run!*": {
+    "translation": "*还剩5秒,别让躺赢狗卖了*"
+  },
+  "*Someone has to get inside to open the doors*": {
+    "translation": "*需要一个Mvp进去触发*"
+  },
+  "*Portal is Charging*": {
+    "translation": "*传送门需要充能才能打开!我们快去*"
+  },
+  "*Hold here for 65 s*": {
+    "translation": "*防守65秒*"
+  },
+  "*5 Seconds left*": {
+    "translation": "*5*"
+  },
+  "*Castle Doors Open!*": {
+    "translation": "*米奇妙妙屋の门打开了*"
+  },
+  "*Castle Doors open in 15s!*": {
+    "translation": "*米奇妙妙屋将在15秒后开放*"
+  },
+  "*Zombies have crawled through the window!*": {
+    "translation": "*有僵尸从窗户钻进来了,守住!*"
+  },
+  "*Map created by Snake*": {
+    "translation": "*地图作者: Snake 地图翻译:白姬*"
+  },
+  "*5 seconds until gate opens!!*": {
+    "translation": "*守住僵尸5秒直到大门打开!*"
+  },
+  "*Survive another 30 seconds!*": {
+    "translation": "*在这里生存30秒!守住这里!*"
+  },
+  "*Portal 25 percent charged*": {
+    "translation": "*充能完成了25%*"
+  },
+  "*Portal 75 percent charged!!*": {
+    "translation": "*充能完成了75%!!*"
+  },
+  "*Portal 100 percent charged!*": {
+    "translation": "*充能完成了!*"
+  },
+  "*Jump into the middle of the portal!*": {
+    "translation": "*对准传送门跳进去!*"
+  },
+  "*Portal 50 percent charged!*": {
+    "translation": "*充能完成50%!*"
+  },
+  "*Zombie boat door broken!*": {
+    "translation": "*门碎了,姜丝要上船了*"
+  },
+  "*Zombie boat leaving in 10s*": {
+    "translation": "*僵尸の小船10秒后启航*"
+  },
+  "*Zombie boat is leaving!*": {
+    "translation": "*僵尸の小船出发咯!*"
+  },
+  "*Rocket Launched!*": {
+    "translation": "*火箭发射!*"
+  }
+}
