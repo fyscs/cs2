@@ -14,11 +14,11 @@
     "translation": "<<< 30 >>>"
   },
   " <<< 20 >>>": {
-    "translation": "<<< 20 >>>*", 
+    "translation": "<<< 20 >>>", 
     "countdown": 20
   },
   " <<< 10 >>>": {
-    "translation": "<<< 10 >>>"",
+    "translation": "<<< 10 >>>",
     "blocked": true
   },
   " <<< 05 >>>": {
