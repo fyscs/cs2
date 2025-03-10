@@ -583,7 +583,7 @@
   "ze_easy_escape_v4": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 50,
+    "cooldown": 100,
     "nomination": false,
     "price": 300
   },
