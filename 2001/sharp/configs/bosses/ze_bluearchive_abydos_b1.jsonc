@@ -41,12 +41,48 @@
       "backup": "binah_lv3_healthsave_math",
       "hitbox": "binah_boss_health",
       "display": "Binah"
-    }
-  ],
-  "Monsters": [
+    },
     {
-      "identity": "16498",
-      "display": "Arapche"
+      "iterator": "boss_chesed_health",
+      "backup": "boss_chesed_savehealth",
+      "counter": "boss_chesed_health_gauge_math",
+      "hitbox": "chesed_boss_health",
+      "display": "Chesed"
+    },
+    {
+      "iterator": "boss_tower_01_math",
+      "hitbox": "chesed_skill_01_tower_01_health",
+      "display": "Tower1st"
+    },
+    {
+      "iterator": "boss_tower_02_math",
+      "hitbox": "chesed_skill_01_tower_02_health",
+      "display": "Tower2nd"
+    },
+    {
+      "iterator": "s2_raid_tower_health_math_01",
+      "hitbox": "s2_raid_tower_health_01",
+      "display": "s201"
+    },
+    {
+      "iterator": "s2_raid_tower_health_math_02",
+      "hitbox": "s2_raid_tower_02_health",
+      "display": "s202"
+    },
+    {
+      "iterator": "s2_raid_tower_health_math_04",
+      "hitbox": "s2_raid_tower_04_health",
+      "display": "s204" 
+    },
+    {
+      "iterator": "s2_raid_tower_health_math_03",
+      "hitbox": "s2_raid_tower_health_03",
+      "display": "s203" 
+    },
+    {
+      "iterator": "S1_arapche_health_math",
+      "hitbox": "S1_arapche_health",
+      "display": "arapche" 
     }
   ]
 }
