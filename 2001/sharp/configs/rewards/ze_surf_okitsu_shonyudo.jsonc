@@ -13,19 +13,19 @@
 
 {
   "1": {
-    "rankPasses": 7,
+    "rankPasses": 10,
     "rankDamage": 18000,
     "rankIntern": 0.4,
-    "econPasses": 4,
+    "econPasses": 8,
     "econDamage": 24000,
-    "econIntern": 0.2
+    "econIntern": 0.25
   },
   "2": {
-    "rankPasses": 7,
+    "rankPasses": 12,
     "rankDamage": 18000,
-    "rankIntern": 0.4,
-    "econPasses": 5,
+    "rankIntern": 0.45,
+    "econPasses": 9,
     "econDamage": 24000,
-    "econIntern": 0.2
+    "econIntern": 0.3
   }
 }
