@@ -1364,6 +1364,13 @@
     "nomination": true,
     "price": 800
   },
+   "ze_lotr_minas_tirith_recompile": {
+    "admin": true,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 180,
+    "nomination": true,
+    "price": 800
+  },
   "ze_lotr_mines_of_moria_p": {
     "admin": false,
     "certainTimes": [-1],
