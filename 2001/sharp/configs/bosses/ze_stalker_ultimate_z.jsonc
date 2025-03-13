@@ -37,7 +37,8 @@
       "identity": "28241",
       "iterator": "Lvl4_Boss_1_HP",
       "hitbox": "Lvl4_Boss_1_HitBox",
-      "display": "一阶段脑波怪"
+      "stages": "1",
+      "display": "脑波怪"
     },
     {
       "identity": "28036",
@@ -67,7 +68,8 @@
       "identity": "29535",
       "iterator": "Lvl4_Boss_2_HP",
       "hitbox": "Lvl4_Boss_2_Hitbox",
-      "display": "二阶段脑波怪"
+      "stages": "2",
+      "display": "脑波怪"
     }
   ]
 }
