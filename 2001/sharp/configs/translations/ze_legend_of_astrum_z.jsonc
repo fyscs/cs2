@@ -1,0 +1,592 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<Kokkoro's Spear has been picked up>>": {
+    "translation": "<<可可萝的长矛已被捡起>>"
+  },
+  "<<Pecorine's Sword has been picked up>>": {
+    "translation": "<<佩可莉姆的剑已被捡起>>"
+  },
+  "<<Kyaru's Grimore has been picked up>>": {
+    "translation": "<<凯露的魔法书已被捡起>>"
+  },
+  "<<Yuuki's Sword has been picked up!>>": {
+    "translation": "<<优衣的剑已被捡起!>>"
+  },
+  "<<Stage 1 Completed!>>": {
+    "translation": "<<关卡一已完成>>"
+  },
+  "<<You and your guildmates go inside the building...>>": {
+    "translation": "<<你和你的队友们进入房屋...>>"
+  },
+  "** We have found Kyaru's Grimore! **": {
+    "translation": "**我们找到了凯露的魔法书!**"
+  },
+  "<Ameth>: Enabled Re:Dive Mode.": {
+    "translation": "<爱梅斯>:启动Re:Dive模式."
+  },
+  "<Ameth>: Disabled Re:Dive Mode.": {
+    "translation": "<爱梅斯>:关闭Re:Dive模式."
+  },
+  "** The Golem's Dead! Nice one everyone. **": {
+    "translation": "**傀儡已经死了,各位干得好!**"
+  },
+  "** Let us go now to Landosol. It's close. **": {
+    "translation": "**现在让我们去兰德索尔,马上就到了!. **"
+  },
+  "<<The boulders are now gone>>": {
+    "translation": "<<巨石已经碎掉了>>"
+  },
+  "** Door will unlock in 20 seconds. **": {
+    "translation": "**门将在20秒后解锁**"
+  },
+  "** 10 seconds left. **": {
+    "translation": "**还剩10秒**"
+  },
+  "** 5 seconds left. **": {
+    "translation": "**还剩5秒**"
+  },
+  "** The door is closing in 20 seconds. **": {
+    "translation": "**门将在20秒后关闭**"
+  },
+  "** Let us wait for the others. We will close the door in 25 seconds. **": {
+    "translation": "**先等等别人,我们将在25秒后关门**"
+  },
+  "** The door is closing in 10 seconds. **": {
+    "translation": "**门将在10秒后关闭**"
+  },
+  "** 5 more seconds. **": {
+    "translation": "**还需要5秒**"
+  },
+  "** The door is closing! **": {
+    "translation": "**门关上了!**"
+  },
+  "<<Mana Senri - The Omniscient Kaiser>>": {
+    "translation": "<<千里真那 - 霸瞳皇帝>>"
+  },
+  "<<You have 75 seconds to weaken Kaiser before they casts their Union Burst and kill everyone!>>": {
+    "translation": "<<在千里真那释放终极之前你还有75秒击败她>>"
+  },
+  "<Kaiser>: Time to get a little bit more serious...": {
+    "translation": "<千里真那>:看来该认真一点了..."
+  },
+  "<Kaiser>: Rise monsters! Kill these filth.": {
+    "translation": "<千里真那>:召唤怪物,杀了这群渣滓!"
+  },
+  "** Okay. They will close the gates! Everyone get in within 30 seconds. **": {
+    "translation": "**干得好!门将在30秒后关闭,快走!**"
+  },
+  "** 15 seconds left! **": {
+    "translation": "**还有15秒**"
+  },
+  "** 5 seconds left! **": {
+    "translation": "**还有5秒**"
+  },
+  "** The gates are closing! Get inside before it's too late! **": {
+    "translation": "**大门正在关闭!趁现在还来得及进去!**"
+  },
+  "** You found all of our weapons! We can push forward. Let's just wait for 20 seconds for the rest to catch up. **": {
+    "translation": "**你已经找到了所有武器,我们将继续前进!先等20秒让其他人赶上**"
+  },
+  "** 5 seconds. Ready to go? **": {
+    "translation": "**还有5秒,准备出发!**"
+  },
+  "** Let us push forward! **": {
+    "translation": "**快走**"
+  },
+  "** You know what. Keep the weapons for now. We will teach you how to use them in Landosol. **": {
+    "translation": "**保存好武器,我们会在兰德索尔教你们怎么用**"
+  },
+  "** Hold on to it until then. **": {
+    "translation": "**坚持一下**"
+  },
+  "** There is still monsters inside! Get rid of them! **": {
+    "translation": "**里面还有怪物,快清理掉!**"
+  },
+  "** We have found Pecorine's Sword! **": {
+    "translation": "**我们找到了佩可莉姆的剑!**"
+  },
+  "<<You and your guildmates move inside Landosol>>": {
+    "translation": "<<你和你的队友们进入了兰德索尔>>"
+  },
+  "** We have found Kokkoro's Staff! **": {
+    "translation": "**我们找到了可可萝的权杖!**"
+  },
+  "** Wait why is there a golem? **": {
+    "translation": "**等等,为什么这里有傀儡?**"
+  },
+  "** Everyone get over here! Its about to throw a boulder! **": {
+    "translation": "**大家都过来!准备扔一块大石头了!**"
+  },
+  "** You know what. We will teach you how to use our weapons. **": {
+    "translation": "**我们会教你如何使用我们的武器**"
+  },
+  "** Just focus on it and channel your strength through it. It should listen. **": {
+    "translation": "**集中注意力把你的力量传输给它**"
+  },
+  "** And you will be able to cast it's abilities. **": {
+    "translation": "**现在你可以使用它的能力了**"
+  },
+  "<<Items have been unlocked!>>": {
+    "translation": "<<神器已经解锁!>>"
+  },
+  "** From the looks of it the Golem is weak against magic. **": {
+    "translation": "**这些傀儡看起来对魔法的抵抗力很弱**"
+  },
+  "<Kyaru>: I guess my weapon specializes against him!": {
+    "translation": "<凯露>:我猜我的武器对他有奇效!"
+  },
+  "<Pecorine>: Wait. It's Kyaru over there at the cage!": {
+    "translation": "<佩可莉姆>:等等,笼子那边是凯露!"
+  },
+  "<Pecorine>: Damn it. We can't just go over there. We have to go a different route.": {
+    "translation": "<佩可莉姆>:该死,这里过不去,我们必须找另一条路."
+  },
+  "<Pecorine>: But all of the ways over there are blocked!": {
+    "translation": "<佩可莉姆>:所有的路都堵住了!"
+  },
+  "<???>: I think I can help with that. But I think this is the last of the portals I can make.": {
+    "translation": "<???>:我想我能帮上忙,但我想这是我能做的最后一个入口了."
+  },
+  "<Pecorine>: Wait the doors being forced open by monsters!": {
+    "translation": "<佩可莉姆>:等等怪物打开大门!"
+  },
+  "<Pecorine>: Whoever is helping us we need the portal open!": {
+    "translation": "<佩可莉姆>:有人正在帮我们打开入口!"
+  },
+  "<???>: It's open!": {
+    "translation": "<???>:开了!"
+  },
+  "<Kokkoro>: They have managed to follow us over the portal! Keep them from advancing!": {
+    "translation": "<可可萝>: 他们跟着我们进入了入口!快阻止他们!"
+  },
+  "<Ameth>: Restarting the current round...": {
+    "translation": "<爱梅斯>:重新启动当前回合..."
+  },
+  "<Ameth>: Setting the stage to <Stage 2 -- The False Princess>": {
+    "translation": "<爱梅斯>:设置关卡为第二关"
+  },
+  "<Ameth>: Setting the stage to <Stage 1 -- Forest & Landosol>": {
+    "translation": "<爱梅斯>:设置关卡为第一关"
+  },
+  "<Kaiser>: Seems like you made it with the help of Kyaru.": {
+    "translation": "<千里真那>:看来你在凯露的帮助下成功了."
+  },
+  "<Kaiser>: After I'm done with you all. She will get a very hefty punishment.": {
+    "translation": "<千里真那>:等我把你们全解决掉,再去狠狠惩罚她."
+  },
+  "<Kaiser>: Now.": {
+    "translation": "<千里真那>:现在!"
+  },
+  "<Kaiser>: Time to die.": {
+    "translation": "<千里真那>:终焉时刻!!!"
+  },
+  "<<Shadows>>": {
+    "translation": "<<暗影>>"
+  },
+  "** It's gone! **": {
+    "translation": "**它死掉了!**"
+  },
+  "** The bridge is unstable! Get out of there! **": {
+    "translation": "**这座桥不稳!快离开这!**"
+  },
+  "** That was way too close. **": {
+    "translation": "**刚才真是千钧一发**"
+  },
+  "** Let us rest for 10 seconds. There were way too many monsters inside. **": {
+    "translation": "**让我们休息10秒,里面的怪物实在太多了**"
+  },
+  "<Pecorine>: Wait. Where is Kyaru?": {
+    "translation": "<佩可莉姆>:等等,凯露在哪里？"
+  },
+  "<Pecorine>: We got to find her!": {
+    "translation": "<佩可莉姆>:我们得找到她!"
+  },
+  "<Pecorine>: Enough resting! We have got to find her!": {
+    "translation": "<佩可莉姆>:休息够了,我们必须找到她!"
+  },
+  "<<The door can be unlocked>>": {
+    "translation": "<<门可以解锁>>"
+  },
+  "** The door is stuck. Hold on for 30 seconds. **": {
+    "translation": "**门卡住了,坚持30秒**"
+  },
+  "** 15 more seconds. **": {
+    "translation": "**还有15秒**"
+  },
+  "** 5 more seconds. Get ready to push forward. **": {
+    "translation": "**还有5秒,准备前进**"
+  },
+  "** It's open! Let's move forward! **": {
+    "translation": "**门开了,我们继续前进!**"
+  },
+  "** The door will open in 25 seconds! **": {
+    "translation": "**门将在25秒后打开! **"
+  },
+  "** 15 more seconds! Keep them at bay for a little longer! **": {
+    "translation": "**还有15秒,再坚持一会儿!**"
+  },
+  "** 5 more seconds! **": {
+    "translation": "**还有5秒!**"
+  },
+  "** It's open! Lets keep going towards her! **": {
+    "translation": "**门开了,我们继续跟着她前进! **"
+  },
+  "** Pecorine: Seems like the rock wall is blocking the path. I guess I can punch through it. **": {
+    "translation": "**佩可莉姆:看来岩壁挡住了路,不过我想我可以一拳打穿它. **"
+  },
+  "** Pecorine: Give me 20 seconds to warm up and charge the punch. **": {
+    "translation": "**佩可莉姆:给我20秒热身. **"
+  },
+  "** Pecorine: Here we go! **": {
+    "translation": "**佩可莉姆:来吧! **"
+  },
+  "** We have to defeat it here at the bridge. **": {
+    "translation": "**我们必须在这里的桥上击败它.**"
+  },
+  "** SURVIVE **": {
+    "translation": "**生存下去**"
+  },
+  "<Pecorine>: We can't give up now! We have to survive!": {
+    "translation": "<佩可莉姆>:现在不能放弃,我们必须活下去！"
+  },
+  "<Kokkoro>: We got seperated! We have to find each other!": {
+    "translation": "<可可萝>:我们走散了,我们必须找到其他人!"
+  },
+  "<Kyaru>: Hey. I think I can help from here. Although you have to survive for 50 seconds.": {
+    "translation": "<凯露>: 我想我可以帮忙,不过你们得坚持50秒."
+  },
+  "<Pecorine>: Kyaru! Where are you?": {
+    "translation": "<佩可莉姆>:凯露!你在哪?"
+  },
+  "<Kyaru>: Just survive. I'm in Kaiser's space and with my connection I can open a path.": {
+    "translation": "<凯露>:坚持住,我在真娜的空间里,通过我的链接我可以打开一条路."
+  },
+  "<Kyaru>: I'm still gathering the power to open it.": {
+    "translation": "<凯露>:我还在积蓄力量来打开它."
+  },
+  "<Kyaru>: After I open the path. It's up to the new guildmembers. I have chosen a new path with you guys.": {
+    "translation": "<凯露>:等我打开这条路后,就靠新公会成员了.我已经选择和你们一起走新的路."
+  },
+  "<Kyaru>: Defeat Kaiser. For me. For Pecorine.": {
+    "translation": "<凯露>: 击败千里真那!为了我,也为了佩可莉姆!"
+  },
+  "<Kyaru>: 30 more seconds.": {
+    "translation": "<凯露>:还有30秒"
+  },
+  "<Kyaru>: 20 more seconds.": {
+    "translation": "<凯露>:还有20秒"
+  },
+  "<Kyaru>: 10 more seconds.": {
+    "translation": "<凯露>:还有10秒"
+  },
+  "<Kyaru>: 5.": {
+    "translation": "<凯露>: 5."
+  },
+  "<Kyaru>: 4.": {
+    "translation": "<凯露>: 4."
+  },
+  "<Kyaru>: 3.": {
+    "translation": "<凯露>: 3."
+  },
+  "<Kyaru>: 2.": {
+    "translation": "<凯露>: 2."
+  },
+  "<Kyaru>: 1.": {
+    "translation": "<凯露>: 1."
+  },
+  "<Kyaru>: It's open. The path to Kaiser has been open. Defeat Kaiser. So that I am free.": {
+    "translation": "<凯露>:门开了.通往千里真那的路已经打开!击败千里真那,这样我就能自由了."
+  },
+  "<Pecorine>: I'm breaking her out! Give me 30 seconds!": {
+    "translation": "<佩可莉姆>:我正在把她救出来!还剩30秒!"
+  },
+  "** 20 more seconds. **": {
+    "translation": "**还有20秒**"
+  },
+  "** 10 more seconds. **": {
+    "translation": "**还有10秒**"
+  },
+  "<???>: Seems like you have fallen for my trap.": {
+    "translation": "<???>:看来你们中了我的陷阱."
+  },
+  "<???>: You really do care about Kyaru you guys do you...": {
+    "translation": "<???>:你们真的很关心凯露啊..."
+  },
+  "<???>: She really does like being in your little guild.": {
+    "translation": "<???>:她确实很喜欢待在你们的小公会里."
+  },
+  "<Pecorine>: Kaiser Insight... The one that stole my title.": {
+    "translation": "<佩可莉姆>:千里真那...那个偷走我称号的人."
+  },
+  "<Kaiser>: Ah. The Princess that has been forgotten by all.": {
+    "translation": "<千里真那>:啊,是那个被所有人遗忘的公主."
+  },
+  "<Kaiser>: How was the experience? Was it painful?": {
+    "translation": "<千里真那>:感觉如何,痛苦吗?"
+  },
+  "<Kaiser>: No matter. It is time for you and your guildmates to perish.": {
+    "translation": "<千里真那>:无所谓了,现在是时候让你和你的公会成员消失了."
+  },
+  "<Kaiser>: Don't worry about Kyaru. She will be watching you all die.": {
+    "translation": "<千里真那>:不用担心凯露,她会看着你们所有人死去."
+  },
+  "<Kaiser>: This is her punishment after all for not following me.": {
+    "translation": "<千里真那>:毕竟这是她不追随我的惩罚."
+  },
+  "** Crates are blocking the way! Hold 20 seconds. **": {
+    "translation": "**箱子挡住了路!坚持20秒**"
+  },
+  "** Its broken. Let us proceed. **": {
+    "translation": "**箱子破了,我们继续前进.**"
+  },
+  "<Kyaru>: I'm charging an attack. Survive until I can release this attack.": {
+    "translation": "<凯露>:我正在蓄力,坚持到我释放这个攻击."
+  },
+  "<Kyaru>: Kaiser is weak enough.": {
+    "translation": "<凯露>:千里真那已经足够虚弱了."
+  },
+  "** We got one of the keys to unlock the restaurant! **": {
+    "translation": "**我们拿到了解锁餐厅的其中一把钥匙**"
+  },
+  "** Wait. There is no way out! **": {
+    "translation": "**等等,没有出路了**"
+  },
+  "** We are also surrounded! We have to hold on! **": {
+    "translation": "**我们也被包围了,必须坚持住!**"
+  },
+  "** There are too many! Is this going to be the end? **": {
+    "translation": "**敌人太多了!难道我们就要止步于此吗? **"
+  },
+  "<???>: Seems like you need some help over there.": {
+    "translation": "<???>:看来你们需要一些帮助."
+  },
+  "<???>: Im opening a portal over there. Hold on a little bit longer!": {
+    "translation": "<???>:我正在那边开一个传送门,再坚持一会儿!"
+  },
+  "<???>: It's open! Get out of there!": {
+    "translation": "<???>:门开了,快离开那里!"
+  },
+  "<Ameth>: Initializing Re:Dive Mode. This is your final challenge...": {
+    "translation": "<爱梅斯>:正在启动Re:Dive模式,这是你们的最终挑战……"
+  },
+  "<<Inspired by the game Prinecss Connect Re:Dive!>>": {
+    "translation": "**灵感来自游戏<公主连结Re:Dive>**"
+  },
+  "<<By Pasas1345>>": {
+    "translation": "<<作者:Pasas1345 翻译:礼绮罗Reikira>>"
+  },
+  "<<Legend of Astrum>>": {
+    "translation": "<<阿斯特朗传奇>>"
+  },
+  "<<Stage 2 Won!>>": {
+    "translation": "<<关卡二胜利>>"
+  },
+  "<<Re:Dive Mode Complete...>>": {
+    "translation": "<<Re:Dive模式完成...>>"
+  },
+  "<<Congratulations on your victory!>>": {
+    "translation": "<<恭喜你们取得胜利!>>"
+  },
+  "<<Map by Pasas1345>>": {
+    "translation": "<<地图作者:Pasas1345>>"
+  },
+  "<Ameth>: Changing stage to <Stage 1 -- Forest & Landosol>. Turning off Re:Dive Mode.": {
+    "translation": "<爱梅斯>:切换到<第一关——森林与兰德索尔>,关闭Re:Dive模式."
+  },
+  "** 10 more seconds! **": {
+    "translation": "**还有10秒**"
+  },
+  "** It's open! It's a straight path to Kyaru! **": {
+    "translation": "**门开了,这是找凯露最近的路!**"
+  },
+  "** Kyaru: These rocks are in the way! I think I should have enough magic to blow these up. Hold on for 20 seconds. **": {
+    "translation": "**凯露:这些石头挡住了路!我想我的魔力足够炸开它们.坚持20秒. **"
+  },
+  "** Kyaru: 5 more... Charging! **": {
+    "translation": "**凯露:还有5秒...蓄力中!**"
+  },
+  "** Kyaru: The way is clear! **": {
+    "translation": "**凯露:路通了!**"
+  },
+  "** Door will open in 30 seconds. **": {
+    "translation": "**门将在30秒后打开**"
+  },
+  "** The door is now open. **": {
+    "translation": "**门现在开了**"
+  },
+  "** I guess we can close the door here. Lets wait for 30 seconds for the others. **": {
+    "translation": "**我想我们可以在这里关门,等其他人30秒. **"
+  },
+  "** 5 seconds left! Everyone inside! **": {
+    "translation": "**还剩5秒,所有人进来! **"
+  },
+  "** Let us rest here for now... **": {
+    "translation": "**让我们在这里休息一下... **"
+  },
+  "** Why is it very quiet outside? **": {
+    "translation": "**为什么外面这么安静?**"
+  },
+  "** Lets go out through the back door... **": {
+    "translation": "**我们从后门出去吧...**"
+  },
+  "<<YOU FAILED TO HURT KAISER FAST ENOUGH>>": {
+    "translation": "<<你未能及时击败千里真那>>"
+  },
+  "<<Golem>>": {
+    "translation": "<<石像怪>>"
+  },
+  "** We gotta break these planks! Give us 30 seconds! **": {
+    "translation": "** 我们得打破这些木板,给我们30秒!**"
+  },
+  "** 15 more seconds! **": {
+    "translation": "**还有15秒!**"
+  },
+  "** It is broken! Let's keep going. **": {
+    "translation": "**木板破了,我们继续前进.**"
+  },
+  "** Kokkoro: I see my spear right there. Unfortunately it's blocked by a tree. I can summon spirits to carry them. **": {
+    "translation": "**可可萝:我看到我的长矛就在那里。可惜被一棵树挡住了。我可以召唤精灵来搬运它.**"
+  },
+  "** Kokkoro: The way is clear now. We can go on right ahead. **": {
+    "translation": "**可可萝:路现在通了,我们可以继续前进了.**"
+  },
+  "** Kokkoro: This will take 15 seconds. **": {
+    "translation": "**可可萝:这需要15秒.**"
+  },
+  "** Wait... SHADOWS! RUN! **": {
+    "translation": "**等等..是暗影!快跑!**"
+  },
+  "<<Get too close and you will die.>>": {
+    "translation": "<<靠得太近时你会死掉>>"
+  },
+  "** 2 hours later... **": {
+    "translation": "**两个小时后...**"
+  },
+  "** More trees on the way! Hold on for a bit. It will take around 20 seconds again. **": {
+    "translation": "**路上又有树!坚持一下,大概需要20秒.**"
+  },
+  "** Its clear! **": {
+    "translation": "**路通了!**"
+  },
+  "** Now... We may need our weapons. Could you find them in the forest? **": {
+    "translation": "**现在我们可能需要武器,你能在森林里找到它们吗?**"
+  },
+  "** There should be three paths. I think all paths has a weapon of ours. Thanks in advance. **": {
+    "translation": "**这里应该有三条路,我想每条路上都有我们的武器,提前感谢你们帮忙寻找!**"
+  },
+  "<Kyaru>: Take that!": {
+    "translation": "<凯露>:接招吧!"
+  },
+  "<Kokkoro>: I will start sealing her right away!": {
+    "translation": "<可可萝>:我马上封印她!"
+  },
+  "<Kyaru>: Wait something isn't right yet.": {
+    "translation": "<凯露>:等等,有些不对劲."
+  },
+  "<Kaiser>: Help me monsters! Kill THEM!": {
+    "translation": "<千里真那>:怪物们...帮我!杀了他们!"
+  },
+  "<Kyaru>: It's not yet over! Hold them back!": {
+    "translation": "<凯露>:还没结束!挡住他们!"
+  },
+  "<Kokkoro>: 35 more seconds till Kaiser is sealed!": {
+    "translation": "<可可萝>:还有35秒封印千里真那!"
+  },
+  "<Kokkoro>: 25 more seconds till Kaiser is sealed!": {
+    "translation": "<可可萝>:还有25秒封印千里真那!"
+  },
+  "<Kokkoro>: 15 more seconds till Kaiser is sealed!": {
+    "translation": "<可可萝>:还有15秒封印千里真那!"
+  },
+  "<Kaiser>: You monsters are useless! DIE DIE!": {
+    "translation": "<千里真那>:你们这些怪物真没用!都去死吧!"
+  },
+  "<Kokkoro>: 5 more seconds till Kaiser is sealed!": {
+    "translation": "<可可萝>:还有15秒封印千里真那!"
+  },
+  "<Kaiser>: NOOOOOOOOOOO!": {
+    "translation": "<千里真那>:不!!!!!!!!!"
+  },
+  "** The trees are in the way! We'll be able to clear it in 20 seconds. **": {
+    "translation": "**树挡住了路,我们能在20秒内清理掉.**"
+  },
+  "** Just 10 more seconds! **": {
+    "translation": "**还有10秒!**"
+  },
+  "** 5 seconds left. Just one last log. **": {
+    "translation": "**还剩5秒,只剩最后一根木头了.**"
+  },
+  "<<Re:Dive -- The Legend of Astrum>>": {
+    "translation": "<<公主连结 -- 阿斯特朗传奇>>"
+  },
+  "<<Warmup -- 60 seconds>>": {
+    "translation": "<<热身回合 -- 60秒>>"
+  },
+  "<<Let's get familiar with the abilities of the weapons>>": {
+    "translation": "<<让我们熟悉一下武器的能力>>"
+  },
+  "<<Warmup -- 50 seconds>>": {
+    "translation": "<<热身回合 -- 50秒>>"
+  },
+  "<<Kokkoro's Spear - Heals 50 HP. After that it pushes zombies away with the faeries it spawns>>": {
+    "translation": "<<可可萝的长矛 - 治疗50点生命值,之后会召唤精灵击退僵尸>>"
+  },
+  "<<Pecorine's Sword - Become a shield which blocks zombies from going through you.>>": {
+    "translation": "<<佩可莉姆的剑 - 变成盾牌,阻挡僵尸通过.>>"
+  },
+  "<<Pecorine's Sword - After which the sword swings 3 times freezing and pushing back the zombies.>>": {
+    "translation": "<<佩可莉姆的剑 - 之后会挥动3次,冻结并击退僵尸.>>"
+  },
+  "<<Warmup -- 40 seconds>>": {
+    "translation": "热身回合 -- 40秒"
+  },
+  "<<Warmup -- 30 seconds>>": {
+    "translation": "热身回合 -- 30秒"
+  },
+  "<<Warmup -- 20 seconds>>": {
+    "translation": "热身回合 -- 20秒"
+  },
+  "<<Warmup -- 10 seconds>>": {
+    "translation": "热身回合 -- 10秒"
+  },
+  "<<Warmup -- Ending>>": {
+    "translation": "<<热身结束>>"
+  },
+  "<<Kyaru's Grimore - Charge magic which then shoots an orb that damages and slows zombies.>>": {
+    "translation": "<<凯露的魔法书 - 蓄力魔法,之后发射一个球体,对僵尸造成伤害并减速.>>"
+  },
+  "<<Hopefully you'll be able to adventure with everyone.>>": {
+    "translation": "<<希望你们能和所有人一起冒险.>>"
+  },
+  "<<Kokkoro's Spear - After casting a healing aura will appear for 8 seconds.>>": {
+    "translation": "<<可可萝的长矛 - 施放后会生成一个持续8秒的治疗光环.>>"
+  },
+  "<<Stage 2 - The False Princess>>": {
+    "translation": "<<第二关 - 虚假的公主>>"
+  },
+  "<<Stage 1 - Forest & Landosol>>": {
+    "translation": "<<第一关 - 森林与兰德索尔>>"
+  },
+  "<<Map made by Pasas1345>>": {
+    "translation": "<<地图作者:Pasas1345>>"
+  },
+  "<<Inspired by the game: Princess Connect Re:Dive!>>": {
+    "translation": "**灵感来自游戏:<公主连结Re:Dive>!**"
+  },
+  "<<当前版本号码为000>>": {
+    "translation": "<<当前版本号为000>>"
+  },
+  "<<BUG反馈请前往Dc频道>>": {
+    "translation": "<<BUG反馈请前往Dc频道>>"
+  }
+}
