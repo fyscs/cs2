@@ -206,7 +206,7 @@
     "translation": "**让我们休息10秒,里面的怪物实在太多了**"
   },
   "<Pecorine>: Wait. Where is Kyaru?": {
-    "translation": "<佩可莉姆>:等等,凯露在哪里？"
+    "translation": "<佩可莉姆>:等等,凯露在哪里?"
   },
   "<Pecorine>: We got to find her!": {
     "translation": "<佩可莉姆>:我们得找到她!"
@@ -257,7 +257,7 @@
     "translation": "**生存下去**"
   },
   "<Pecorine>: We can't give up now! We have to survive!": {
-    "translation": "<佩可莉姆>:现在不能放弃,我们必须活下去！"
+    "translation": "<佩可莉姆>:现在不能放弃,我们必须活下去!"
   },
   "<Kokkoro>: We got seperated! We have to find each other!": {
     "translation": "<可可萝>:我们走散了,我们必须找到其他人!"
@@ -377,7 +377,7 @@
     "translation": "<???>:门开了,快离开那里!"
   },
   "<Ameth>: Initializing Re:Dive Mode. This is your final challenge...": {
-    "translation": "<爱梅斯>:正在启动Re:Dive模式,这是你们的最终挑战……"
+    "translation": "<爱梅斯>:正在启动Re:Dive模式,这是你们的最终挑战..."
   },
   "<<Inspired by the game Prinecss Connect Re:Dive!>>": {
     "translation": "**灵感来自游戏<公主连结Re:Dive>**"
@@ -401,7 +401,7 @@
     "translation": "<<地图作者:Pasas1345>>"
   },
   "<Ameth>: Changing stage to <Stage 1 -- Forest & Landosol>. Turning off Re:Dive Mode.": {
-    "translation": "<爱梅斯>:切换到<第一关——森林与兰德索尔>,关闭Re:Dive模式."
+    "translation": "<爱梅斯>:切换到<第一关 - 森林与兰德索尔>,关闭Re:Dive模式."
   },
   "** 10 more seconds! **": {
     "translation": "**还有10秒**"
@@ -455,7 +455,7 @@
     "translation": "**木板破了,我们继续前进.**"
   },
   "** Kokkoro: I see my spear right there. Unfortunately it's blocked by a tree. I can summon spirits to carry them. **": {
-    "translation": "**可可萝:我看到我的长矛就在那里。可惜被一棵树挡住了。我可以召唤精灵来搬运它.**"
+    "translation": "**可可萝:我看到我的长矛就在那里,可惜被一棵树挡住了.但是我可以召唤精灵来搬运它.**"
   },
   "** Kokkoro: The way is clear now. We can go on right ahead. **": {
     "translation": "**可可萝:路现在通了,我们可以继续前进了.**"
