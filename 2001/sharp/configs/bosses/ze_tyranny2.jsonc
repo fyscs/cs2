@@ -22,66 +22,13 @@
 {
   "Counters": [
     {
-      "identity": "9685",
       "iterator": "bosshp1",
       "backup": "bosshp2",
       "counter": "bosshp3",
-      "hitbox": "s1boss_hit",
+      "stages": 5,
       "display": "BOSS"
     },
     {
-      "identity": "10868",
-      "iterator": "bosshp1",
-      "backup": "bosshp2",
-      "counter": "bosshp3",
-      "hitbox": "s2boss_hit",
-      "display": "BOSS"
-    },
-    {
-      "identity": "9594",
-      "iterator": "bosshp1",
-      "backup": "bosshp2",
-      "counter": "bosshp3",
-      "hitbox": "s3boss_hit",
-      "display": "BOSS"
-    },
-    {
-      "identity": "10837",
-      "iterator": "bosshp1",
-      "backup": "bosshp2",
-      "counter": "bosshp3",
-      "hitbox": "s4boss_hit",
-      "display": "BOSS"
-    },
-    {
-      "identity": "10892",
-      "iterator": "bosshp1",
-      "backup": "bosshp2",
-      "counter": "bosshp3",
-      "stages": 1,
-      "hitbox": "s5boss_hit",
-      "display": "BOSS"
-    },
-    {
-      "identity": "9567",
-      "iterator": "bosshp1",
-      "backup": "bosshp2",
-      "counter": "bosshp3",
-      "stages": 2,
-      "hitbox": "s5boss_angra_hit",
-      "display": "BOSS"
-    },
-    {
-      "identity": "9399",
-      "iterator": "bosshp1",
-      "backup": "bosshp2",
-      "counter": "bosshp3",
-      "stages": 3,
-      "hitbox": "s5boss_diablo_hit",
-      "display": "BOSS"
-    },
-    {
-      "identity": "7477",
       "iterator": "snake_math",
       "backup": "Boss_HealthBackup_snake",
       "counter": "Boss_HealthCount_snake",
