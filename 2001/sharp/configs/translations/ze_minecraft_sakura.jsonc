@@ -11,22 +11,26 @@
 
 {
   "(30秒后门开）": {
-    "translation": "30秒后门开"
+    "translation": "30秒后门开",
+    "countdown": 30
   },
   "(僵尸被阻挡8秒，快跑！！(o゜▽゜)o☆）": {
     "translation": "僵尸被阻挡8秒,快跑!!"
   },
   "(10秒后门开）": {
-    "translation": "10秒后门开"
+    "translation": "10秒后门开",
+    "countdown": 10
   },
   "（守住码头 是男人就坚持40秒~o( =∩ω∩= )）": {
-    "translation": "守住码头40秒!!!"
+    "translation": "守住码头40秒!!!",
+    "countdown": 40
   },
   "（僵尸10秒后传送 快跑(>▽<)）": {
     "translation": "僵尸10秒后传送 快跑!"
   },
   "（在屋内存活60秒直至后花园门开）": {
-    "translation": "在屋内存活60秒直至后花园门开"
+    "translation": "在屋内存活60秒直至后花园门开",
+    "countdown": 60
   },
   "（僵尸五秒后传送至厕所）": {
     "translation": "僵尸5秒后传送至厕所"
@@ -35,28 +39,33 @@
     "translation": "钓鱼台上的钻石块才是树屋开关!"
   },
   "(树屋将在60s后开放)": {
-    "translation": "树屋将在60秒后开放"
+    "translation": "树屋将在60秒后开放",
+    "countdown": 60
   },
   "(僵尸15秒后传送，开润！）": {
     "translation": "僵尸15秒后传送,开润!"
   },
   "(树屋将在10s后开放)": {
-    "translation": "树屋将在10s后开放"
+    "translation": "树屋将在10s后开放",
+    "countdown": 10
   },
   "啊嘞┌|*´∀｀|┘貌似什么东西忘记触发了喵": {
     "translation": "貌似什么东西忘记触发了"
   },
   "四十秒": {
-    "translation": "防守40秒"
+    "translation": "防守40秒",
+    "countdown": 40
   },
   "（僵尸10秒后传送）": {
     "translation": "僵尸10秒后传送"
   },
   "（码头30秒后开放！）": {
-    "translation": "码头30秒后开放!"
+    "translation": "码头30秒后开放!",
+    "countdown": 30
   },
   "（守住30s）": {
-    "translation": "守住30秒"
+    "translation": "守住30秒",
+    "countdown": 30
   },
   "右侧二楼小屋有一个通往哨站的梯子捏！": {
     "translation": "右侧二楼小屋有一个通往哨站的梯子!"
@@ -65,28 +74,35 @@
     "translation": "二楼小屋开关在秋千旁"
   },
   "二楼门30秒后打开喵！": {
-    "translation": "二楼门30秒后打开!"
+    "translation": "二楼门30秒后打开!",
+    "countdown": 30
   },
   "（侧路15秒后开放）": {
-    "translation": "侧路15秒后开放"
+    "translation": "侧路15秒后开放",
+    "countdown": 15
   },
   "（给米库30秒撬烟囱时间）": {
-    "translation": "烟囱通道30秒后开放!"
+    "translation": "烟囱通道30秒后开放!",
+    "countdown": 30
   },
   "(大门30秒后打开)": {
-    "translation": "大门30秒后打开"
+    "translation": "大门30秒后打开",
+    "countdown": 30
   },
   "(25秒后玻璃碎掉）": {
-    "translation": "25秒后玻璃碎掉"
+    "translation": "25秒后玻璃碎掉",
+    "countdown": 25
   },
   "船舱开关一定在船舵旁边！^O^": {
     "translation": "船舱开关在船舵旁边! "
   },
   "船舱在40秒后打开": {
-    "translation": "船舱在40秒后打开"
+    "translation": "船舱在40秒后打开",
+    "countdown": 40
   },
   "(30秒后门开)": {
-    "translation": "30秒后门开"
+    "translation": "30秒后门开",
+    "countdown": 30
   },
   "(10秒后僵尸传送)": {
     "translation": "10秒后僵尸传送"
@@ -95,7 +111,8 @@
     "translation": "朝着最后一个房间前进吧!"
   },
   "（最后30秒！！）": {
-    "translation": "最后30秒!!!"
+    "translation": "最后30秒!!!",
+    "countdown": 30
   },
   "剧终 感谢游玩！~o( =∩ω∩= )m": {
     "translation": "剧终!!感谢游玩!"
