@@ -1280,6 +1280,13 @@
     "nomination": false,
     "price": 300
   },
+    "ze_legend_of_astrum_z": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300
+  },
   "ze_lemonysnickets_p": {
     "admin": false,
     "certainTimes": [-1],
