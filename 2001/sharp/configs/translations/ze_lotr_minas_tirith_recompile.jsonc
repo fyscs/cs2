@@ -1,0 +1,304 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** Catapult 1 activated **": {
+    "translation": "**一号投石器已经就绪**"
+  },
+  "** Catapult 2 activated **": {
+    "translation": "**二号投石器已经就绪**"
+  },
+  "** THE LEVER HAS BEEN PRESSED ** THE GATE IS OPENING IN 10 SECONDS ! **": {
+    "translation": "**操纵杆已按下,大门将在10秒内打开!**"
+  },
+  "** DEFEND THIS PLACE FOR 35 SECONDS **": {
+    "translation": "**守住35秒!**"
+  },
+  "** THEY ARE TRYING TO GET IN ** SHOOT! **": {
+    "translation": "**兽人大军正在尝试侵入**朝他们射击!**"
+  },
+  "** DEFEND THIS PLACE FOR 70 SECONDS! **": {
+    "translation": "**坚守70秒!**"
+  },
+  "** DOORS UNLOCKED ** RETREAT ! **": {
+    "translation": "**门开了,快走!**"
+  },
+  "** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *": {
+    "translation": "** 守住建筑以确保平民被完全疏散!*"
+  },
+  "** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **": {
+    "translation": "**用弩炮继续防守米纳斯!**"
+  },
+  "** DOOR IS OPENING **": {
+    "translation": "**大门正在打开**"
+  },
+  "** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**": {
+    "translation": "**保卫星辰堡垒! 我们不能不战而退!(30秒)**"
+  },
+  "** THIS IS THE LAST STAND AT FIRST LEVEL ** FIGHT UNTIL THE SIGNAL **": {
+    "translation": "**这是第一层的最后一站**战斗直至信号出现**"
+  },
+  "** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **": {
+    "translation": "**使用障碍物盖住大门,或者防守60秒!**"
+  },
+  "** DOOR 2 LOCKED **": {
+    "translation": "**二门已关闭**"
+  },
+  "** DOOR 1 LOCKED **": {
+    "translation": "**一门已关闭**"
+  },
+  "** WAIT FOR SOME SECONDS! OTHER SURVIVORS COULD COME **": {
+    "translation": "**再等几秒! 可能还有其他幸存者**"
+  },
+  "** THE POSITION IS LOST ** RETREAT **": {
+    "translation": "**这里失守了**撤退!**"
+  },
+  "** ALL GET IN!! ** PREPARE YOUR LAST DEFENSE **": {
+    "translation": "**所有人都进来!!**准备做最后的防守!!**"
+  },
+  "** RESIST 25 SECONDS! **": {
+    "translation": "**存活25秒!**"
+  },
+  "** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **": {
+    "translation": "**幽灵军队正在赶来,准备好做最后决战!**"
+  },
+  "*** This map is a port in progress and is not currently available to play on your server. Feel free to change map. ***": {
+    "translation": "***这张地图正在搬运的过程中,当前不能在服务器游玩,请更换***"
+  },
+  "** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **": {
+    "translation": "**回合将在几秒后正式开始 ** 检查你的地图分数从而选择对应级别的神器**"
+  },
+  "** This is the first round. Wait for more players to restart round or suicide. **": {
+    "translation": "**这是第一回合. 请等待更多的玩家加入来重启回合.**"
+  },
+  "** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS **": {
+    "translation": "**热身回合**回合将在60秒后重启**"
+  },
+  "** WARMUP ROUND **": {
+    "translation": "**热身回合**"
+  },
+  "** Tip 1 : press +use on pickable objects to build barricades **": {
+    "translation": "**提示一:按E可以放置你所拾取的障碍物,但是请不要盖人!**"
+  },
+  "** Tip 2 : reach and win the end of a stage to level up **": {
+    "translation": "**提示二:作为人类存活并且通关可以获得地图等级**"
+  },
+  "** Tip 3 : take items at zombie and human shops in spawn **": {
+    "translation": "**提示三:僵尸或者人类神器都在出生点**"
+  },
+  "** Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately **": {
+    "translation": "**提示四:你当前的等级总是显示在新回合中,每通过一关等级增加一级**"
+  },
+  "** Tip 5 : barricades health depends on the size and material **": {
+    "translation": "**提示五:路障的血量取决于它的尺寸和材料**"
+  },
+  "** Tip 6 : hold spots tend to be long  *  hold as much as possible at previous positions **": {
+    "translation": "**提示六:守点往往很久*尽可能的在上一个点守住**"
+  },
+  "** Tip 7 : guards work as stoppers * but you can shoot throught them **": {
+    "translation": "**提示七:卫兵能暂缓僵尸进攻*但是你的子弹能穿过他们**"
+  },
+  "** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **": {
+    "translation": "**提示八:僵尸梯子和炸弹都是很强大的神器*优先攻击这些僵尸!**"
+  },
+  "** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **": {
+    "translation": "**提示九:你可以将障碍物放置在卫兵后面,从而获得最好的效果**"
+  },
+  "** Tip 10 : horse and armor (while shield is not broken) items can push zombies **": {
+    "translation": "**提示十:骑兵和重甲兵 (当他们的护盾没有被破坏时)能推动僵尸**"
+  },
+  "** Tip 11 : Balrog scream heals near zombies and increases speed temporally **": {
+    "translation": "**提示十一:炎魔的怒吼可以治疗附近的僵尸,并短暂加速他们**"
+  },
+  "** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS **": {
+    "translation": "**热身回合**回合将在10秒后重启**"
+  },
+  "** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **": {
+    "translation": "**提示十二:第四关的WC在第二座塔的顶部(在木制斜坡后右转)**"
+  },
+  "** Tip 13 : Gandalf +You shall not pass!+ is DAWDS and White Knight is AADDSWSW **": {
+    "translation": "**提示十三:甘道夫的*贤者之语光*是DAWDS,白骑士的是AADDSWSW**"
+  },
+  "** WARMUP ROUND IS OVER! **": {
+    "translation": "**热身回合结束!**"
+  },
+  "** STARTING AT FIRST LEVEL! **": {
+    "translation": "**从第一层开始!**"
+  },
+  "** THE WHITE KNIGHT IS READY ROCK THE WORLD**": {
+    "translation": "**白骑士已就绪,他将撼动整个世界**"
+  },
+  "** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **": {
+    "translation": "**.. 暗影与烈火交织的怪物出现了 ... **"
+  },
+  "** MAP BY Hannibal [SPA] (Rafuron) **": {
+    "translation": "**地图作者:Hannibal [SPA] (Rafuron) 翻译:仓鼠H4mster&礼绮罗Reikira  **"
+  },
+  "** THE BOATS ARE COMMING ** PREPARE YOURSELVES **": {
+    "translation": "**兽人大军的船来了**做好准备**"
+  },
+  "** RETREAT !! RIVER ZONE IS LOST **": {
+    "translation": "**撤退!!河流区域已经沦陷了**"
+  },
+  "** WATCH OUT! WE ARE UNDER SIEGE **": {
+    "translation": "**小心!我们被包围了**"
+  },
+  "** OSGILIATH IS LOST ** RETREAT ! **": {
+    "translation": "**我们失去了奥斯吉力亚斯**撤退!**"
+  },
+  "** TAKE THE HORSES  **": {
+    "translation": "**骑马撤退(跳上马背,尽可能不要动方向键)**"
+  },
+  "** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT **": {
+    "translation": "**兽人大军已经突破了我们的防御**撤退**"
+  },
+  "** DOOR IS CLOSED **": {
+    "translation": "**大门关上了**"
+  },
+  "** ZOMBIES ARE COMMING! CLOSE THE DOOR! **": {
+    "translation": "**僵尸来了!关上大门!**"
+  },
+  "** STAGE COMPLETED **": {
+    "translation": "**本关完成**"
+  },
+  "** RETREAT! **": {
+    "translation": "**撤退!**"
+  },
+  "** DOORS LOCKED **": {
+    "translation": "**大门关闭**"
+  },
+  "** THEY ARE IN! RETREAT! **": {
+    "translation": "**兽人大军攻进来了! 撤退!**"
+  },
+  "** THE LIFT IS LEAVING IN 10 SECONDS **": {
+    "translation": "**升降梯将在10秒后离开**"
+  },
+  "** NICE DONE! METAL GATE WILL OPEN IN 10 SECONDS! **": {
+    "translation": "**做得好!金属大门将在10秒后打开!**"
+  },
+  "** A DOOR IS OPEN ** RUN UPSTAIRS ** GO GO GO **": {
+    "translation": "**一扇门打开了**快上楼**尽快!**"
+  },
+  "** WE HAVE LOST THE POSTION ** FALL BACK **": {
+    "translation": "**这个地区失守了**撤退**"
+  },
+  "** STAGE 3 COMPLETED **": {
+    "translation": "**关卡三完成**"
+  },
+  "** FALL BACK! **": {
+    "translation": "**撤退!**"
+  },
+  "** THE CEILING HAS COLLAPSED ** CLIMB THE BROKEN WALL! **": {
+    "translation": "**顶板塌了**从坏掉的墙爬上去!**"
+  },
+  "** LIFT IS LEAVING IN 10 SECONDS **": {
+    "translation": "**升降梯将在10秒后离开**"
+  },
+  "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 90 SECONDS **": {
+    "translation": "**路开了**前往米纳斯提里斯顶部**存活90秒**"
+  },
+  "** All humans at bottom part will die in 15 seconds **": {
+    "translation": "**底部的人将在15秒后被兽人大军吞没!**"
+  },
+  "** Thanks to Kaemon **": {
+    "translation": "**感谢:Kaemon**"
+  },
+  "** WATCH OUT! **": {
+    "translation": "**当心!**"
+  },
+  "** ADMIN PRESSED KILL ALL BUTTON **": {
+    "translation": "**管理员按下了处死按钮.**"
+  },
+  "** THIS IS THE MOMENT OF THE TRUTH ** FIGHT LIKE YOU HAVE NEVER FIGHTED BEFORE! **": {
+    "translation": "**现在是至关重要的时刻**像从未战斗过那样去战斗!**"
+  },
+  "** UNLIMITED AMMO ON **": {
+    "translation": "**无限弹药开启**"
+  },
+  "** YOU DID IT ** YOU WON THE MAP ON ITS HARDEST DIFFICULT ** UNLOCKED ALL ITEMS **": {
+    "translation": "**你做到了**你在本地图最高难度下获胜了**解锁所有神器 **"
+  },
+  "** FEEL FREE TO RTV THE MAP **": {
+    "translation": "**可以输入RTV了**"
+  },
+  "** STAGE 4 COMPLETE ** STARTING AGAIN IN EXTREME MODE! **": {
+    "translation": "**关卡四完成**开启EX模式!**"
+  },
+  "** SIEGE TOWERS HAVE BEEN SET UP ** WE HAVE LOST THE WALLS ** RETREAT **": {
+    "translation": "**攻城塔已就位**我们失去了城墙**撤退**"
+  },
+  "** (LIBRARY) ** DOORS ARE UNLOCKED NOW **": {
+    "translation": "**(图书馆)**门开了,快撤退!**"
+  },
+  "** CURRENT STAGE >> PART 4 >> THE LAST STAND **": {
+    "translation": "**当前阶段>>第四部分>>背水一战**"
+  },
+  "**CURRENT STAGE >> PART 3 >> CATAPULTS **": {
+    "translation": "**当前阶段>>第三部分>>投石车**"
+  },
+  "** THE ROUND HAS STARTED ** TAKE ONE OF THE PORTALS ** MASSIVE TELEPORTATION IN 20 SECONDS **": {
+    "translation": "**回合已经开始**选择一个入口**20秒后进行大规模传送**"
+  },
+  "**CURRENT STAGE >> PART 2 >> MAIN GATES **": {
+    "translation": "**当前阶段>>第二部分>>守卫主城门**"
+  },
+  "**CURRENT STAGE >> PART 1 >> OSGILIATH **": {
+    "translation": "**当前阶段>>第一部分>>星辰堡垒守护战**"
+  },
+  "** GATES ARE CLOSED ** SOMEONE MUST PRESS THE LEVER **": {
+    "translation": "**大门关上了**必须有人按下控制杆**"
+  },
+  "** (DUNGEONS) ** HOLD UNTIL THE HORN SIGNAL **": {
+    "translation": "**(地牢)**坚持住,等待撤退信号**"
+  },
+  "** (DUNGEONS) ** THE DOOR IS UNLOCKED NOW **": {
+    "translation": "**(地牢)**门开了,快撤退!**"
+  },
+  "** (LIBRARY) ** HOLD HERE! ** WAIT UNTIL HORN SIGNAL! **": {
+    "translation": "**(图书馆)**坚持住,等待撤退信号**"
+  },
+  "** WE ARE TRAPPED! FIGHT FOR YOUR LIVES!  **": {
+    "translation": "**我们深陷困境!为了我们的生存而战!**"
+  },
+  "** WE ARE NEAR THE TOP OF MINAS TIRITH  ** HOLD THIS PLACE FOR 30 SECONDS **": {
+    "translation": "**我们即将抵达米纳斯提利斯之顶了**在这里坚持30秒****"
+  },
+  "** KILL THE REMAINING ZOMBIES! **": {
+    "translation": "**击杀残余的兽人军队!**"
+  },
+  "** KILL THE REMAINING ZOMBIES **": {
+    "translation": "**击杀残余的兽人军队!**"
+  },
+  "** EXTREME MODE : ON **": {
+    "translation": "**EX模式:已开启**"
+  },
+  "** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 5**": {
+    "translation": "**僵尸商店的所有神器已解锁,但不包括五级神器**"
+  },
+  "** CONSTANT METEOR HAS BEEN ENABLED **": {
+    "translation": "**天谴:启用(注意躲避地面红色特效,远离天谴音效)**"
+  },
+  "** INCREASED NUMBER OF NAZGULS **": {
+    "translation": "**戒灵的数量变多了..**"
+  },
+  "** ENABLED BLUE COLORCORRECTION AND PARTICLES **": {
+    "translation": "**启用蓝色校正和粒子**"
+  },
+  "** LVL 0 PLAYERS LEVEL UP TO 1 AUTOMATICALLY **": {
+    "translation": "**没有等级的玩家自动升一级**"
+  },
+  "** THIS IS OUT OF CONTROL! RETREAT NOW ! **": {
+    "translation": "**这里失去控制了,快撤!**"
+  },
+  "** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **": {
+    "translation": "**保卫大门,继续在米纳斯提利斯的顶部防御!**"
+  }
+}
