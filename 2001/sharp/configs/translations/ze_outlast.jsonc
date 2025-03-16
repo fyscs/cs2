@@ -16,8 +16,8 @@
   "* *DON'T LET THE ZOMBIES GO INSIDE THE BASEMENT* *": {
     "translation": "* *别让僵尸进入地下室* *"
   },
-  "* *ZOMBIES BROKE THE BARRICADES! * *": {
-    "translation": "* *僵尸冲破了路障！* *"
+  "* *ZOMBIES BROKE THE BARRICADES!* *": {
+    "translation": "* *僵尸冲破了路障!* *"
   },
   "* *BOATS START AT 30 SECONDS* *": {
     "translation": "* *船只将在30秒后启动* *"
@@ -59,13 +59,13 @@
     "translation": "* *坚守15秒* *"
   },
   "* *BILLY IS DEAD, FALL BACK!* *": {
-    "translation": "* *比利已死,快撤退！* *"
+    "translation": "* *比利已死,快撤退!* *"
   },
   "* *DEFEND 10 SECONDS* *": {
     "translation": "* *坚守10秒* *"
   },
   "* *GO TO BUNKER FAST!* *": {
-    "translation": "* *快速前往地堡！* *"
+    "translation": "* *快速前往地堡!* *"
   },
   "* *CONGRATULATIONS STAGE 2 COMPLETE* *": {
     "translation": "* *恭喜完成第二关,地图翻译:白姬拉萨姆博* *"
@@ -80,7 +80,7 @@
     "translation": "* *比利现在获得极速* *"
   },
   "* *WE DIDN'T STOP HIM PREPARING FOR BATTLE!* *": {
-    "translation": "* *我们未能阻止他备战！* *"
+    "translation": "* *我们未能阻止他备战!* *"
   },
   "**NADES DO MORE DAMAGE**": {
     "translation": "**手雷造成更多伤害**"
@@ -104,7 +104,7 @@
     "translation": "* *存活50秒* *"
   },
   "* *RUN BACK NEW DOORS ARE NOW OPEN!* *": {
-    "translation": "* *新门已开,快返回！* *"
+    "translation": "* *新门已开,快返回!* *"
   },
   "* *TURN OFF THE VALVE FOR THE LIFE SUPPORT FLUID RESERVOIR* *": {
     "translation": "* *关闭生命维持液储罐阀门* *"
@@ -125,10 +125,10 @@
     "translation": "* *克里斯·沃克已被击败,立即返回* *"
   },
   "* *THIS IS CHRIS WALKER KILL HIM FASTER!* *": {
-    "translation": "* *这是克里斯·沃克,尽快击杀！* *"
+    "translation": "* *这是克里斯·沃克,尽快击杀!* *"
   },
   "* *THIS IS A GHOST, RUN FROM HIM!!!* *": {
-    "translation": "* *这是幽灵,快逃跑！！！* *"
+    "translation": "* *这是幽灵,快逃跑!!!* *"
   },
   "* *ZOMBIE SHORTCUT OPEN* *": {
     "translation": "* *僵尸捷径已开启* *"
