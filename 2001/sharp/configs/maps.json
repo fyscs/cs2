@@ -1784,6 +1784,13 @@
     "nomination": true,
     "price": 300
   },
+  "ze_outlast": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 300
+  },
   "ze_outpost_escape_p": {
     "admin": false,
     "certainTimes": [-1],
