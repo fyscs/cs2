@@ -1,0 +1,232 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "* *The bomb will explode in 15 seconds* *": {
+    "translation": "* *炸弹将在15秒后爆炸* *"
+  },
+  "* *DON'T LET THE ZOMBIES GO INSIDE THE BASEMENT* *": {
+    "translation": "* *别让僵尸进入地下室* *"
+  },
+  "* *ZOMBIES BROKE THE BARRICADES! * *": {
+    "translation": "* *僵尸冲破了路障！* *"
+  },
+  "* *BOATS START AT 30 SECONDS* *": {
+    "translation": "* *船只将在30秒后启动* *"
+  },
+  "* *1/4 documents found* *": {
+    "translation": "* *已找到1/4的文件* *"
+  },
+  "* *2/4 documents found* *": {
+    "translation": "* *已找到2/4的文件* *"
+  },
+  "* *3/4 documents found* *": {
+    "translation": "* *已找到3/4的文件* *"
+  },
+  "* *4/4 documents found* *": {
+    "translation": "* *已找到所有文件* *"
+  },
+  "* *You found all the secrets Good Job* *": {
+    "translation": "* *你找到了所有彩蛋,准备狠狠吸血* *"
+  },
+  "* *1/6 documents found* *": {
+    "translation": "* *已找到1/6的文件* *"
+  },
+  "* *2/6 documents found* *": {
+    "translation": "* *已找到2/6的文件* *"
+  },
+  "* *3/6 documents found* *": {
+    "translation": "* *已找到3/6的文件* *"
+  },
+  "* *4/6 documents found* *": {
+    "translation": "* *已找到4/6的文件* *"
+  },
+  "* *5/6 documents found* *": {
+    "translation": "* *已找到5/6的文件* *"
+  },
+  "* *6/6 documents found* *": {
+    "translation": "* *已找到所有文件* *"
+  },
+  "* *DEFEND 15 SECONDS* *": {
+    "translation": "* *坚守15秒* *"
+  },
+  "* *BILLY IS DEAD, FALL BACK!* *": {
+    "translation": "* *比利已死,快撤退！* *"
+  },
+  "* *DEFEND 10 SECONDS* *": {
+    "translation": "* *坚守10秒* *"
+  },
+  "* *GO TO BUNKER FAST!* *": {
+    "translation": "* *快速前往地堡！* *"
+  },
+  "* *CONGRATULATIONS STAGE 2 COMPLETE* *": {
+    "translation": "* *恭喜完成第二关,地图翻译:白姬拉萨姆博* *"
+  },
+  "* *YOU LOSE ZOMBIE WIN* *": {
+    "translation": "* *你输了,僵尸获胜* *"
+  },
+  "* *BILLY USE ULTIMATE DONT STAY MIDDLE* *": {
+    "translation": "* *比利使用终极技能,别站在中间* *"
+  },
+  "* *BILLY HAVE HUGE SPEED NOW* *": {
+    "translation": "* *比利现在获得极速* *"
+  },
+  "* *WE DIDN'T STOP HIM PREPARING FOR BATTLE!* *": {
+    "translation": "* *我们未能阻止他备战！* *"
+  },
+  "**NADES DO MORE DAMAGE**": {
+    "translation": "**手雷造成更多伤害**"
+  },
+  "* *DOOR OPEN AT 5 SECONDS* *": {
+    "translation": "* *门将在5秒后开启* *"
+  },
+  "* *THE ROOM IS DISINFECTED WAIT 10 SECONDS* *": {
+    "translation": "* *房间已消毒,等待10秒* *"
+  },
+  "* *GO BACK TO BILLY* *": {
+    "translation": "* *返回比利身边* *"
+  },
+  "* *DEFEND 30 SECONDS* *": {
+    "translation": "* *坚守30秒* *"
+  },
+  "* *DEFEND 5 SECONDS* *": {
+    "translation": "* *坚守5秒* *"
+  },
+  "* *SURVIVE 50 SECONDS* *": {
+    "translation": "* *存活50秒* *"
+  },
+  "* *RUN BACK NEW DOORS ARE NOW OPEN!* *": {
+    "translation": "* *新门已开,快返回！* *"
+  },
+  "* *TURN OFF THE VALVE FOR THE LIFE SUPPORT FLUID RESERVOIR* *": {
+    "translation": "* *关闭生命维持液储罐阀门* *"
+  },
+  "* *DEFEND 20 SECONDS* *": {
+    "translation": "* *坚守20秒* *"
+  },
+  "* *THE REACTOR DOOR WILL OPEN AT 10 SECONDS* *": {
+    "translation": "* *反应堆门将在10秒后开启* *"
+  },
+  "* *AFK TELEPORT IN 10 SECONDS* *": {
+    "translation": "* *挂机者将在10秒后传送* *"
+  },
+  "* *FIND BILLY IN THE MAIN LABARATORY* *": {
+    "translation": "* *在主实验室找到比利* *"
+  },
+  "* *CHRIS WALKER DEFEATED NOW GO BACK* *": {
+    "translation": "* *克里斯·沃克已被击败,立即返回* *"
+  },
+  "* *THIS IS CHRIS WALKER KILL HIM FASTER!* *": {
+    "translation": "* *这是克里斯·沃克,尽快击杀！* *"
+  },
+  "* *THIS IS A GHOST, RUN FROM HIM!!!* *": {
+    "translation": "* *这是幽灵,快逃跑！！！* *"
+  },
+  "* *ZOMBIE SHORTCUT OPEN* *": {
+    "translation": "* *僵尸捷径已开启* *"
+  },
+  "**WARMUP 5 SEC**": {
+    "translation": "**热身准备5秒**"
+  },
+  "**WARMUP ROUND 60 SEC**": {
+    "translation": "**热身回合60秒**"
+  },
+  "* *SECRET DOOR OPEN* *": {
+    "translation": "* *秘密门已开启* *"
+  },
+  "* *TRAP DISABLE* *": {
+    "translation": "* *陷阱已失效* *"
+  },
+  "* *FIND A BACKUP GENERATOR IN THE BASEMENT* *": {
+    "translation": "* *在地下室找到备用发电机* *"
+  },
+  "* *RIGHT BUTTON PRESSED* *": {
+    "translation": "* *右侧按钮已按下* *"
+  },
+  "* *GO BACK TO SERVER ROOM* *": {
+    "translation": "* *返回服务器机房* *"
+  },
+  "* *MIDDLE BUTTON UNLOCK* *": {
+    "translation": "* *中间按钮已解锁* *"
+  },
+  "* *LEFT BUTTON PRESSED* *": {
+    "translation": "* *左侧按钮已按下* *"
+  },
+  "* *DEFEND DOOR 30 SECOND* *": {
+    "translation": "* *守卫门30秒* *"
+  },
+  "* *CONGRATULATIONS STAGE 1 COMPLETE* *": {
+    "translation": "* *恭喜通关第一关* *"
+  },
+  "* *FIRST PRESS 2 BUTTONS IN PUMPS ROOMS* *": {
+    "translation": "* *先在泵房按下2个按钮* *"
+  },
+  "* *DON'T TRY TO FIGHT HIM, HIDE IN THE LOCKER* *": {
+    "translation": "* *不要试图战斗,快进储物柜搞基* *"
+  },
+  "* *Zombies are already open* *": {
+    "translation": "* *僵尸通道已开启* *"
+  },
+  "* *WAIT 10 SECONDS HERE* *": {
+    "translation": "* *在此等待10秒* *"
+  },
+  "* *OKAY LETS GO* *": {
+    "translation": "* *好的,我们出发* *"
+  },
+  "* *DEFEND DOOR 5 MORE SECOND* *": {
+    "translation": "* *再守门5秒* *"
+  },
+  "* *NOW GO BACK TO SERVER ROOM* *": {
+    "translation": "* *现在返回服务器机房* *"
+  },
+  "* *The bomb will explode in 30 seconds* *": {
+    "translation": "* *炸弹将在30秒后爆炸* *"
+  },
+  "* *The bomb will explode in 5 seconds* *": {
+    "translation": "* *炸弹将在5秒后爆炸* *"
+  },
+  "* *FIND THE BOMB AND PLANT IT  ON THE WINDOW* *": {
+    "translation": "* *找到炸弹并安装在窗户上* *"
+  },
+  "* *AFK TELEPORT IN 5 SECONDS* *": {
+    "translation": "* *挂机者将在5秒后传送* *"
+  },
+  "* *DOOR IS LOCKED FIND THE KEY* *": {
+    "translation": "* *门已上锁,寻找钥匙* *"
+  },
+  "* *DEFEND FOR 15 SECONDS* *": {
+    "translation": "* *坚守15秒* *"
+  },
+  "**Stage 1**": {
+    "translation": "**第一关**"
+  },
+  "**Stage 2**": {
+    "translation": "**第二关**"
+  },
+  "* *A PLAYER HAS PICKED UP DICK* *": {
+    "translation": "* *玩家获得了迪克* *"
+  },
+  "* *A PLAYER HAS PICKED UP BOMB* *": {
+    "translation": "* *玩家获得了炸弹* *"
+  },
+  ">>> PLAYER HAS PICKED UP ZM_FIRE_ITEM <<<": {
+    "translation": ">>> 玩家获得了僵尸の火 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP HANDYCAM <<<": {
+    "translation": ">>> 玩家获得了手持摄像机 <<<"
+  },
+  ">>> PLAYER HAS PICKED UP HEAL <<<": {
+    "translation": ">>> 玩家获得了奶 <<<"
+  },
+  "* *BILLY HAS BEEN DEFEATED, GET OUT* *": {
+    "translation": "* *比利已被击败,快撤离* *"
+  }
+}
