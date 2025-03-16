@@ -1,0 +1,175 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "OBJECTIVE -> GREAT DEKU TREE'S MEADOW": {
+    "translation": "目标 -> >> 德库树长老的草地 <<"
+  },
+  "*** 1 ***": {
+    "translation": "*** >> ① << ***"
+  },
+  "OBJECTIVE -> CASTLE COURTYARD": {
+    "translation": "目标 -> >> 城堡庭院 <<"
+  },
+  "*** 2 ***": {
+    "translation": " *** >> ② << *** "
+  },
+  "OBJECTIVE -> GORON CITY": {
+    "translation": "目标 -> >> 鼓隆城 <<"
+  },
+  "*** 3 ***": {
+    "translation": " *** >> ③ << *** "
+  },
+  "OBJECTIVE -> ZORA'S FOUNTAIN": {
+    "translation": "目标 -> >> 卓拉之泉 <<"
+  },
+  "*** 4 ***": {
+    "translation": "*** >> ④ << ***"
+  },
+  "OBJECTIVE -> SACRED FOREST MEADOW": {
+    "translation": "目标 -> >> 神圣森林草地 <<"
+  },
+  "*** 5 ***": {
+    "translation": "*** >> ⑤ << ***"
+  },
+  "OBJECTIVE -> DEATH MOUNTAIN CRATER": {
+    "translation": "目标 -> >> 死亡之山火山口 <<"
+  },
+  "*** 6 ***": {
+    "translation": "*** >> ⑥ << ***"
+  },
+  "OBJECTIVE -> LAKE HYLIA": {
+    "translation": "目标 -> >> 海拉鲁湖 <<"
+  },
+  "*** 7 ***": {
+    "translation": "*** >> ⑦ << ***"
+  },
+  "OBJECTIVE -> KAKARIKO GRAVEYARD": {
+    "translation": "目标 -> >> 卡卡利科墓地 <<"
+  },
+  "*** 8 ***": {
+    "translation": "*** >> ⑧ << ***"
+  },
+  "OBJECTIVE -> DESERT COLOSSUS": {
+    "translation": "目标 -> >> 沙漠巨像 <<"
+  },
+  "*** 9 ***": {
+    "translation": "*** >> ⑨ << ***"
+  },
+  "OBJECTIVE -> TEMPLE OF TIME": {
+    "translation": "目标 -> >> 时之神殿 <<"
+  },
+  "*** 10 ***": {
+    "translation": "*** >> ⑩ << ***"
+  },
+  "*** Original TF2 map by Litronom ***": {
+    "translation": "*** 由 >> Litronom << 原创制作的 TF2 地图***"
+  },
+  "*** Edited for ZE by Soft Serve ***": {
+    "translation": "*** 由 >> Soft Serve << 为ZE修改的地图版本 地图翻译 >> 茜茜 <<***"
+  },
+  "*** STAGE 1 activated from admin room ***": {
+    "translation": "*** >> 管理员 << 已调整关卡至 -> 第一关 ***"
+  },
+  "*** STAGE 2 activated from admin room ***": {
+    "translation": "*** >> 管理员 << 已调整关卡至 -> 第二关 ***"
+  },
+  "*** STAGE 3 activated from admin room ***": {
+    "translation": "*** >> 管理员 << 已调整关卡至 -> 第三关 ***"
+  },
+  "*** STAGE 4 activated from admin room ***": {
+    "translation": "*** >> 管理员 << 已调整关卡至 -> 第四关 ***"
+  },
+  "*** STAGE 5 activated from admin room ***": {
+    "translation": "*** >> 管理员 << 已调整关卡至 -> 第五关 ***"
+  },
+  "*** STAGE 6 activated from admin room ***": {
+    "translation": "*** >> 管理员 << 已调整关卡至 -> 第六关 ***"
+  },
+  "*** STAGE 7 activated from admin room ***": {
+    "translation": "*** >> 管理员 << 已调整关卡至 -> 第七关 ***"
+  },
+  "*** STAGE 8 activated from admin room ***": {
+    "translation": "*** >> 管理员 << 已调整关卡至 -> 第八关 ***"
+  },
+  "*** STAGE 9 activated from admin room ***": {
+    "translation": "*** >> 管理员 << 已调整关卡至 -> 第九关 ***"
+  },
+  "*** STAGE 10 activated from admin room ***": {
+    "translation": "*** >> 管理员 << 已调整关卡至 -> 第十关 ***"
+  },
+  "*** 15 ***": {
+    "translation": "*** >> 15 << ***"
+  },
+  "*** 20 ***": {
+    "translation": "*** >> 20 << ***"
+  },
+  "*** 25 ***": {
+    "translation": "*** >> 25 << ***"
+  },
+  "*** 30 ***": {
+    "translation": "*** >> 30 << ***"
+  },
+  "*** 50 ***": {
+    "translation": "*** >> 50 << ***"
+  },
+  "*** 55 ***": {
+    "translation": "*** >> 55 << ***"
+  },
+  "*** 60 ***": {
+    "translation": "*** >> 60 << ***"
+  },
+  "*** 45 ***": {
+    "translation": "*** >> 45 << ***"
+  },
+  "*** 40 ***": {
+    "translation": "*** >> 40 << ***"
+  },
+  "*** 35 ***": {
+    "translation": "*** >> 35 << ***"
+  },
+  "*** 65 ***": {
+    "translation": "*** >> 65 << ***"
+  },
+  "*** 70 ***": {
+    "translation": "*** >> 70 << ***"
+  },
+  "*** 75 ***": {
+    "translation": "*** >> 75 << ***"
+  },
+  "*** 80 ***": {
+    "translation": "*** >> 80 << ***"
+  },
+  "*** 85 ***": {
+    "translation": "*** >> 85 << ***"
+  },
+  "*** 90 ***": {
+    "translation": "*** >> 90 << ***"
+  },
+  "*** KILL ALL REMAINING ZOMBIES ***": {
+    "translation": "*** 歼灭所有剩余僵尸 ***"
+  },
+  "*** MOVING ON TO THE NEXT STAGE ***": {
+    "translation": "*** 转入下一阶段 ***"
+  },
+  "*** SURVIVE ***": {
+    "translation": "*** 目标 -> >> 生存 << ***"
+  },
+  "*** ALL 5 KEYS HAVE BEEN COLLECTED ***": {
+    "translation": "*** 五把钥匙已全部集齐 ***"
+  },
+  "*** COLLECT 5 KEYS TO PROCEED ***": {
+    "translation": "*** 目标 -> 集齐五把钥匙以继续进程 ***"
+  },
+  "*** KEY COLLECTED ***": {
+    "translation": "*** >> 钥匙 << 已收集 ***"
+  }
+}
