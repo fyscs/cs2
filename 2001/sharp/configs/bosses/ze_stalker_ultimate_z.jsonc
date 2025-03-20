@@ -22,52 +22,52 @@
 {
   "Counters": [
     {
-      "identity": "23083",
-      "iterator": "Boss_HP",
-      "hitbox": "Mob_Hitbox",
-      "display": "BOSS"
-    },
-    {
-      "identity": "22946",
+      "identity": "29394",
+      "iterator": "Lvl2_BloodSucker_Boss_HP",
       "hitbox": "BloodSucker_Hitbox",
-      "iterator": "Boss_HP",
-      "display": "BOSS"
+      "display": "吸血鬼"
     },
     {
-      "identity": "28036",
-      "hitbox": "Lvl3_End_Boss_HitBox",
-      "iterator": "Lvl3_End_Boss_HP",
-      "display": "光球"
+      "identity": "29282",
+      "iterator": "Lvl1_Mob_Boss_HP",
+      "hitbox": "Mob_Hitbox",
+      "display": "蓝色光球"
     },
     {
       "identity": "28241",
-      "hitbox": "Lvl4_Boss_1_HitBox",
       "iterator": "Lvl4_Boss_1_HP",
-      "display": "一阶段吸血鬼"
+      "hitbox": "Lvl4_Boss_1_HitBox",
+      "display": "脑波怪 (第一阶段)"
     },
     {
-      "identity": "28215",
-      "hitbox": "Lvl4_Boss_2_Hitbox",
-      "iterator": "Lvl4_Boss_2_HP",
-      "display": "二阶段吸血鬼"
-    },
-    {
-      "identity": "27906",
-      "hitbox": "Lvl4_End_Boss_1_HitBox",
-      "iterator": "Lvl4_End_Boss_1_HP",
-      "display": "一阶段光球"
+      "identity": "28036",
+      "iterator": "Lvl3_End_Boss_HP",
+      "hitbox": "Lvl3_End_Boss_HitBox",
+      "display": "蓝色光球"
     },
     {
       "identity": "27969",
-      "hitbox": "Lvl4_End_Boss_2_HitBox",
       "iterator": "Lvl4_End_Boss_2_Laser_HP",
-      "display": "二阶段光球"
-    }
-  ],
-  "Monsters": [
+      "hitbox": "Lvl4_End_Boss_2_HitBox",
+      "display": "黄色光球"
+    },
+    {
+      "identity": "27906",
+      "iterator": "Lvl4_End_Boss_1_HP",
+      "hitbox": "Lvl4_End_Boss_1_HitBox",
+      "display": "蓝色光球"
+    },
     {
       "identity": "13107",
-      "display": "橘色光球"
+      "iterator": "boss3_HP",
+      "hitbox": "boss3_break",
+      "display": "黄色光球"
+    },
+    {
+      "identity": "29535",
+      "iterator": "Lvl4_Boss_2_HP",
+      "hitbox": "Lvl4_Boss_2_Hitbox",
+      "display": "脑波怪 (第二阶段)"
     }
   ]
 }
