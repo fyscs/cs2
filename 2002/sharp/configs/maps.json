@@ -83,6 +83,13 @@
     "nomination": false,
     "price": 250
   },
+  "ttt_cs2_ballistrade_ctg": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300
+  },
   "ttt_cs2_chateau": {
     "admin": false,
     "certainTimes": [-1],

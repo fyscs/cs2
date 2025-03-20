@@ -1,0 +1,223 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** HOLD LABORATORY FOR 25 SECONDS **": {
+    "translation": "** 保持实验室25秒 **"
+  },
+  "** GO GO GO **": {
+    "translation": "** 冲冲冲 **"
+  },
+  "** RESIST 15 SECONDS **": {
+    "translation": "** 坚持15秒 **"
+  },
+  "** HOLD PTA ROOM FOR 20 SECONDS **": {
+    "translation": "** 保持PTA房间20秒 **"
+  },
+  "** DOOR OPEN IN 5 SECONDS **": {
+    "translation": "** 门将在5秒后打开 **"
+  },
+  "** DOOR OPENING IN 20 SECONDS **": {
+    "translation": "** 门将在20秒后打开 **"
+  },
+  "***HOLD THE POWER FOR 35 SECONDS***": {
+    "translation": "*** 保持电力35秒 ***"
+  },
+  "**DOORS OPEN**": {
+    "translation": "** 门已打开 **"
+  },
+  "**GO GO GO**": {
+    "translation": "** 冲冲冲 **"
+  },
+  "** DOORS OPEN IN 25 SECONDS **": {
+    "translation": "** 门将在25秒后打开 **"
+  },
+  "** HYDRA IS READY **": {
+    "translation": "** HYDRA已就绪 **"
+  },
+  "** DOOR OPEN IN 10 SECONDS **": {
+    "translation": "** 门将在10秒后打开 **"
+  },
+  "** NORMAL LEVEL CHOOSEN **": {
+    "translation": "** 已选择普通难度 **"
+  },
+  "** HARD LEVEL CHOOSEN **": {
+    "translation": "** 已选择困难难度 **"
+  },
+  "** EXTREME LEVEL CHOOSEN **": {
+    "translation": "** 已选择极限难度 **"
+  },
+  "***YOU WON NORMAL!***": {
+    "translation": "*** 你赢得了普通难度! ***"
+  },
+  "***NEXT LEVEL HARD***": {
+    "translation": "*** 下一关: 困难 ***"
+  },
+  "***YOU WON HARD***": {
+    "translation": "*** 你赢得了困难难度! ***"
+  },
+  "***NEXT LEVEL: EXTREME***": {
+    "translation": "*** 下一关: 极限 ***"
+  },
+  "** KILL ALL **": {
+    "translation": "** 消灭所有敌人 **"
+  },
+  "** RESIST 30 SECONDS **": {
+    "translation": "** 坚持30秒 **"
+  },
+  "** PRESS THE BUTTON **": {
+    "translation": "** 按下按钮 **"
+  },
+  "** PRESS THE CONTROL PANEL **": {
+    "translation": "** 按下控制面板 **"
+  },
+  "** PRESS ALL BUTTONS! **": {
+    "translation": "** 按下所有按钮! **"
+  },
+  "** PRESS THE BUTTON OF THE GENERATOR **": {
+    "translation": "** 按下发电机的按钮 **"
+  },
+  "** PRESS THE BUTTON OF THE ELEVATORS **": {
+    "translation": "** 按下电梯的按钮 **"
+  },
+  "** DOORS OPENING IN 20 SECONDS **": {
+    "translation": "** 门将在20秒后打开 **"
+  },
+  "*** REBOOTING EMERGENCY AUXILIARY ENGINE***": {
+    "translation": "*** 正在重启紧急辅助引擎 ***"
+  },
+  "*** WON'T TAKE LONG***": {
+    "translation": "*** 不会花太久时间 ***"
+  },
+  "***SEARCH 2 CORES FOR REBOOT THE POWER***": {
+    "translation": "*** 搜索2个核心以重启电力 ***"
+  },
+  "** WELL DONE! DOORS OPEN IN 15 SECONDS **": {
+    "translation": "** 干得好! 门将在15秒后打开 **"
+  },
+  "***COVER HERE***": {
+    "translation": "*** 掩护这里 ***"
+  },
+  "***2 HUMANS MUST GO TO ACTIVATE THE VALVE***": {
+    "translation": "*** 需要2名玩家激活阀门 ***"
+  },
+  "***CORE IS GETTING UNESTABLE***": {
+    "translation": "*** 核心变得不稳定 ***"
+  },
+  "***COMMAND FAILED***": {
+    "translation": "*** 指令失败 ***"
+  },
+  "***EVACUATE ALL PERSONAL***": {
+    "translation": "*** 撤离所有人员 ***"
+  },
+  "***ELEVATOR LEAVING***": {
+    "translation": "*** 电梯正在离开 ***"
+  },
+  "*** 3 SECONDS!***": {
+    "translation": "*** 3秒! ***"
+  },
+  "*** 5 SECONDS!***": {
+    "translation": "*** 5秒! ***"
+  },
+  "*** 10 SECONDS!***": {
+    "translation": "*** 10秒! ***"
+  },
+  "*** THE ELEVATOR LEAVES 20 SECONDS ***": {
+    "translation": "*** 电梯将在20秒后离开 ***"
+  },
+  "*** THE ELEVATOR 20 SECONDS ***": {
+    "translation": "*** 电梯20秒 ***"
+  },
+  "***HYDRA LEAVING!!!***": {
+    "translation": "*** HYDRA正在离开!!! ***"
+  },
+  "***HYDRA LEAVE IN 15 SECONDS***": {
+    "translation": "*** HYDRA将在15秒后离开 ***"
+  },
+  "***HYDRA LEAVE IN 5 SECONDS***": {
+    "translation": "*** HYDRA将在5秒后离开 ***"
+  },
+  "*** LEFT VALVE OPENED***": {
+    "translation": "*** 左阀门已打开 ***"
+  },
+  "*** RIGHT VALVE OPENED***": {
+    "translation": "*** 右阀门已打开 ***"
+  },
+  "***WELL DONE! ALL VALVES PRESSED***": {
+    "translation": "*** 干得好! 所有阀门已按下 ***"
+  },
+  "***DOOR OPENS IN 15 SECONDS***": {
+    "translation": "*** 门将在15秒后打开 ***"
+  },
+  "***ELEVATOR LEAVE IN 10 SECONDS***": {
+    "translation": "*** 电梯将在10秒后离开 ***"
+  },
+  "***GO TO THE ELEVATOR!***": {
+    "translation": "*** 赶快去电梯! ***"
+  },
+  "** ZOMBIES IN THE HOVERCRAFT **": {
+    "translation": "** 僵尸已登上气垫船 **"
+  },
+  "** HUMANS LOSE! **": {
+    "translation": "** 人类失败! **"
+  },
+  "***YOU DID IT! YOU WON EXTREME!!!!!***": {
+    "translation": "*** 你做到了! 你赢得了极限难度!!!!! ***"
+  },
+  "***NEXT LEVEL NORMAL***": {
+    "translation": "*** 下一关: 普通 ***"
+  },
+  "** PRESS THE BUTTON! **": {
+    "translation": "** 按下按钮! **"
+  },
+  "***ALL BUTTONS PRESSED!***": {
+    "translation": "*** 所有按钮已按下! ***"
+  },
+  "***DOOR OPENS IN 15 SECONDS!***": {
+    "translation": "*** 门将在15秒后打开! ***"
+  },
+  "*** HOLD ROOM FOR 25 SECONDS ***": {
+    "translation": "*** 保持房间25秒 ***"
+  },
+  "*** GO GO GO ***": {
+    "translation": "*** 冲冲冲 ***"
+  },
+  "** WELL DONE! DOORS OPEN IN 20 SECONDS **": {
+    "translation": "** 干得好! 门将在20秒后打开 **"
+  },
+  "** GO TO THE GENERATOR ROOM AND PRESS THE BUTTONS AT SAME TIME **": {
+    "translation": "** 前往发电机房并同时按下按钮 **"
+  },
+  "*** BUTTONS PRESSED! ***": {
+    "translation": "*** 按钮已按下! ***"
+  },
+  "***COVER HERE 15s***": {
+    "translation": "*** 掩护这里15秒 ***"
+  },
+  "** TRY TO REBOOT THE POWER! **": {
+    "translation": "** 尝试重启电力! **"
+  },
+  "** ZOMBIES ARE IN THE SPACESHIP **": {
+    "translation": "** 僵尸已进入飞船 **"
+  },
+  "** LEVEL: NORMAL **": {
+    "translation": "** 难度: 普通 **"
+  },
+  "** THANKS FOR PLAYING **": {
+    "translation": "** 感谢您的游玩 地图文本 >> Zeyu1 <<**"
+  },
+  "** LEVEL: HARD **": {
+    "translation": "** 难度: 困难 **"
+  },
+  "** LEVEL: EXTREME **": {
+    "translation": "** 难度: 极限 **"
+  }
+}

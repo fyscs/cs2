@@ -20,22 +20,21 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
+  "Counters": [
+    {
+      "iterator": "nano_boss_hp",
+      "hitbox": "Nano_Boss_Physbox",
+      "display": "Nano"
+    }
+  ],
   "Monsters": [
     {
-      "identity": "23453",
-      "display": "B1"
+      "identity": "4146",
+      "display": "NanoFinal"
     },
     {
-      "identity": "18049",
-      "display": "B2"
-    },
-    {
-      "identity": "23494",
-      "display": "B3"
-    },
-    {
-      "identity": "24435",
-      "display": "Zombie"
+      "identity": "4492",
+      "display": "Soldier"
     }
   ]
 }
