@@ -41,6 +41,13 @@
     "nomination": false,
     "price": 300
   },
+  "ze_abandoned_project_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 300
+  },
   "ze_aepp_nano_grid2_p": {
     "admin": false,
     "certainTimes": [-1],
