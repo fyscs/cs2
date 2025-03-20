@@ -1458,7 +1458,7 @@
   "ze_madness": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 60,
+    "cooldown": 80,
     "nomination": true,
     "price": 300
   },
