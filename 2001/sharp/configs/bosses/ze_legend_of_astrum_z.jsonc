@@ -24,18 +24,24 @@
     {
       "identity": "2313",
       "iterator": "stage_1-Boss_HP",
+      "backup": "stage_1-Boss_HPBackup",
+      "counter": "stage_1-Boss_HPSegment",
       "hitbox": "stage_1-Boss_Physbox",
       "display": "傀儡"
     },
     {
       "identity": "960",
       "iterator": "stage_2-Boss_HP",
+      "backup": "stage_2-Boss_BackupHP",
+      "counter": "stage_2-Boss_SegmentHP",
       "hitbox": "stage_2-Chase_Physbox",
       "display": "BOSS"
     },
     {
       "identity": "999",
       "iterator": "stage_3-Boss_HP",
+      "backup": "stage_3-Boss_HPBackup",
+      "counter": "stage_3-Boss_HPSegment",
       "hitbox": "stage_3-Boss_Breakable",
       "display": "千里真那"
     }
