@@ -167,6 +167,13 @@
     "nomination": false,
     "price": 300
   },
+  "ze_ashen_keep_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 140,
+    "nomination": true,
+    "price": 500
+  },
   "ze_atix_apocalypse_p": {
     "admin": false,
     "certainTimes": [-1],
