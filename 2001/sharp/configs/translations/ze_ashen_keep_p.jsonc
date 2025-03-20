@@ -86,24 +86,20 @@
     "translation": "*** 第四关 (ZM) ***"
   },
   "*** 5 minutes left ***": {
-    "translation": "*** 300秒 ***",
-    "countdown": 300
+    "translation": "*** 剩余5分钟 ***"
   },
   "*** 4 minutes left ***": {
-    "translation": "*** 剩余4分钟 ***",
-    "blocked": true
+    "translation": "*** 剩余4分钟 ***"
   },
   "*** 3 minutes left ***": {
-    "translation": "*** 剩余3分钟 ***",
-    "blocked": true
+    "translation": "*** 剩余3分钟 ***"
   },
   "*** 2 minutes left ***": {
-    "translation": "*** 剩余2分钟 ***",
-    "blocked": true
+    "translation": "*** 剩余2分钟 ***"
   },
   "*** 1 minute left ***": {
-    "translation": "*** 剩余1分钟 ***",
-    "blocked": true
+    "translation": "*** 剩余60秒 ***",
+    "countdown": 60
   },
   "*** Inner gate lever is stuck ***": {
     "translation": "*** 内门杠杆卡住了 ***"
