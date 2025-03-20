@@ -29,7 +29,8 @@
       "display": "BOSS"
     },
     {
-      "iterator": "snake_math",
+      "identity": "7477",
+      "iterator": "Boss_Health_snake",
       "backup": "Boss_HealthBackup_snake",
       "counter": "Boss_HealthCount_snake",
       "hitbox": "s3_snake_hitbox",
