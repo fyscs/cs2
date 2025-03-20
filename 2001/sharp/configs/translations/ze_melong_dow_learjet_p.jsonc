@@ -1,0 +1,25 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "@@ Nuke launched! all die!! ha ha ha @@": {
+    "translation": "@@ 核弹已发射! 全都要死!! 哈哈哈哈 @@ 地图翻译 >> 茜茜 <<"
+  },
+  "@@ please wait a learjet!!!! @@": {
+    "translation": "@@ 请稍等一架里尔喷气机!!!! @@"
+  },
+  "@@ no one on island!! @@": {
+    "translation": "@@ 岛上没有人!! @@"
+  },
+  "@@ no one pressed button!! @@": {
+    "translation": "@@ 没有人按下按钮!! @@"
+  }
+}
