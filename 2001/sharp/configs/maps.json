@@ -629,6 +629,13 @@
     "nomination": false,
     "price": 300
   },
+  "ze_empirecity_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300
+  },
   "ze_escape_the_eye_p": {
     "admin": false,
     "certainTimes": [-1],
