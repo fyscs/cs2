@@ -1,23 +1,136 @@
-// Round Reward configuration file generator.
-// Reward Version v22
+// Console SayText i18n file generator.
+// i18n Version v21
 // Copyright 2025 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
-  // rankPasses (int)   -> 通关云点
-  // rankDamage (int)   -> 伤害结算云点比例
-  // rankIntern (float) -> 低保云点比例 (每分钟)
-  // econPasses (int)   -> 通关龙晶
-  // econDamage (int)   -> 伤害结算龙晶比例
-  // econIntern (float) -> 低保龙晶比例 (每分钟)
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "1": {
-    "rankPasses": 9,
-    "rankDamage": 20000,
-    "rankIntern": 0.4,
-    "econPasses": 7,
-    "econDamage": 24000,
-    "econIntern": 0.2
+  "[S2ZE] 20 Seconds Defend!": {
+    "translation": "[S2ZE] 防守 >> 20 << 秒"
+  },
+  "[S2ZE] To climb up, you can go through ladder or rocks.": {
+    "translation": "[S2ZE] 你可以通过梯子或岩石攀爬上去"
+  },
+  "[S2ZE] Fall Back!": {
+    "translation": "[S2ZE] 撤退"
+  },
+  "[S2ZE] CHAPTER I - DOES ANYONE HEAR MY VOICE?": {
+    "translation": "[S2ZE]第一章 - >> 有人能听到我的声音吗 <<"
+  },
+  "[S2ZE] GAME SAVED!": {
+    "translation": "[S2ZE] >> 游戏已保存 <<"
+  },
+  "[S2ZE] Once the door opens, watch out for the chasm.": {
+    "translation": "[S2ZE] 门打开后,小心陷阱"
+  },
+  "[S2ZE] 30 Seconds Defend!": {
+    "translation": "[S2ZE] 防守 >> 30 << 秒!"
+  },
+  "[S2ZE] After moving forward, there is a trap in the corner.": {
+    "translation": "[S2ZE] 直走!拐角处有陷阱."
+  },
+  "[S2ZE] Be careful on the roof, zombies can take shortcuts.": {
+    "translation": "[S2ZE] 小心屋顶 僵尸可能会抄近路"
+  },
+  "[S2ZE] After climbing to the roof of the building opposite, you can enter through the vent or the broken roof.": {
+    "translation": "[S2ZE] 爬上对面建筑的屋顶后,你可以通过通风口或破损的屋顶进入."
+  },
+  "[S2ZE] CHAPTER II - LOST ON YOU": {
+    "translation": "[S2ZE] 第二章 - >> 迷失 <<"
+  },
+  "[S2ZE] After the path is clear, do throw yourself from the next corner to where the helicopter crashed.": {
+    "translation": "[S2ZE] 道路清理完毕后,从下一个拐角跳向直升机坠毁的地方."
+  },
+  "[S2ZE] and stay away from the window.": {
+    "translation": "[S2ZE] >> 远离窗户 <<"
+  },
+  "[S2ZE] AFK Players Teleported": {
+    "translation": "[S2ZE] 挂机玩家已传送"
+  },
+  "[S2ZE] 10 Seconds Defend!": {
+    "translation": "[S2ZE] 防守 >> 10 << 秒"
+  },
+  "[S2ZE] Wait for your teammates to arrive.": {
+    "translation": "[S2ZE] 等待队友到达."
+  },
+  "[S2ZE] Once opened, head towards the building's exit.": {
+    "translation": "[S2ZE] 门打开后 前往建筑物出口"
+  },
+  "[S2ZE] After exiting the building, proceed left.": {
+    "translation": "[S2ZE] 离开建筑后 向左前进"
+  },
+  "[S2ZE] Once the manhole cover is open, proceed through the secret passage.": {
+    "translation": "[S2ZE] 井盖打开后 穿过秘密通道."
+  },
+  "[S2ZE] Don't jump down. Everyone must defend up above, you can jump down when the vehicle moves.": {
+    "translation": "[S2ZE] 不要跳下去,所有人必须在上方防守,等车辆移动后再跳下"
+  },
+  "[S2ZE] Once it's open, proceed into the damaged building.": {
+    "translation": "[S2ZE] 门打开后进入废墟."
+  },
+  "[S2ZE] CHAPTER IV - THE FINAL": {
+    "translation": "[S2ZE] 第四章 - >> 最终之战 <<"
+  },
+  "[S2ZE] GAME SAVED": {
+    "translation": "[S2ZE] >> 游戏已保存 <<"
+  },
+  "[S2ZE] Once it's open, You will go towards the garage door.": {
+    "translation": "[S2ZE] 门打开后 前往车库门."
+  },
+  "[S2ZE] Once it's open, Continue left, go to the last wrecked building.": {
+    "translation": "[S2ZE] 门打开后 向左前进,前往最后一座残破的建筑"
+  },
+  "[S2ZE] And you can use the yellow board as a ladder. Go to the top.": {
+    "translation": "[S2ZE] 你可以使用黄色木板作为梯子,爬到顶端"
+  },
+  "[S2ZE] 40 Seconds Defend!": {
+    "translation": "[S2ZE] 防守 >> 40 << 秒!"
+  },
+  "[S2ZE] After the time is up, stay near the grave because you will be teleported.": {
+    "translation": "[S2ZE] 待在>> 墓地 <<附近才能传送"
+  },
+  "[S2ZE] Fall Back! GRAVE": {
+    "translation": "[S2ZE] 撤退 >> 前往墓地 <<"
+  },
+  "[S2ZE] Waiting Room...": {
+    "translation": "[S2ZE] 等待室..."
+  },
+  "[S2ZE] Don't worry, zombies won't teleport here.": {
+    "translation": "[S2ZE] 别担心 僵尸不会传送到这里"
+  },
+  "[S2ZE] CURRENT: CHAPTER IV": {
+    "translation": "[S2ZE] 当前章节: >> 第四章 <<"
+  },
+  "[S2ZE] CURRENT: CHAPTER II": {
+    "translation": "[S2ZE] 当前章节: >> 第二章 <<"
+  },
+  "[S2ZE] CURRENT: CHAPTER III": {
+    "translation": "[S2ZE] 当前章节: >> 第三章 <<"
+  },
+  "[S2ZE] CURRENT: CHAPTER I": {
+    "translation": "[S2ZE] 当前章节: >> 第一章 <<"
+  },
+  "[S2ZE] CHAPTER III - DO NOT": {
+    "translation": "[S2ZE] 第三章 - >> 禁止 <<"
+  },
+  "[S2ZE] 20 Seconds Final Defense!": {
+    "translation": "[S2ZE] 最终防守20秒"
+  },
+  "[S2ZE] Last 10 Seconds...": {
+    "translation": "[S2ZE] 最后10秒..."
+  },
+  "[S2ZE] Get in!": {
+    "translation": "[S2ZE] 进去!"
+  },
+  "[S2ZE] Thanks For Playing...": {
+    "translation": "[S2ZE] 感谢您的游玩... 地图文本 >> Zeyu1 <<"
+  },
+  "[S2ZE] Cover Fire!": {
+    "translation": "[S2ZE] 掩护射击"
   }
 }
