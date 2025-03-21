@@ -36,6 +36,7 @@
       "counter": "Room8_Boss_HpCounter",
       "hitbox": "Nostar_Boss_Model",
       "reverse": true,
+      "stages": 2,
       "display": "Nostar"
     },
     {
