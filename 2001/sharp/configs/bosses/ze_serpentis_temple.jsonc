@@ -25,41 +25,32 @@
       "iterator": "Room4_Boss_Hp",
       "backup": "Room4_Boss_HpBackup",
       "counter": "Room4_Boss_HpCounter",
-      "increase": true,
-      "hitbox": "Noctali_Boss_Break",
+      "hitbox": "Noctali_Boss_Model",
       "display": "Snake"
     },
     {
       "iterator": "Room8_Boss_Hp",
       "backup": "Room8_Boss_HpBackup",
       "counter": "Room8_Boss_HpCounter",
-      "increase": true,
-      "hitbox": "Nostar_Boss_Break_2",
-      "display": "杂种"
+      "hitbox": "Nostar_Boss_Model",
+      "display": "Nostar"
     },
     {
       "iterator": "HPCounter",
       "backup": "HPCounterBackUp",
       "counter": "HPCounterIterator",
-      "increase": true,
-      "hitbox": "mboss_physhurt",
+      "hitbox": "mboss_model",
       "display": "Medusa"
     },
     {
       "iterator": "Room5_Phys_HpCounter2",
       "hitbox": "Room5_Phys_2",
-      "display": "Loom:2nd"
+      "display": "龙门左护法"
     },
     {
       "iterator": "Room5_Phys_HpCounter1",
       "hitbox": "Room5_Phys_1",
-      "display": "Loom:1st"
-    }
-  ],
-  "Monsters": [
-    {
-      "display": "变大变高の杂种",
-      "identity": "11909"
+      "display": "龙门右护法"
     }
   ]
 }
