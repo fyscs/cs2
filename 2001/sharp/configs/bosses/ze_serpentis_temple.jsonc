@@ -1,5 +1,5 @@
 // BossHP configuration file generator.
-// Boss Version v22
+// Boss Version v23
 // Copyright 2025 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
@@ -14,7 +14,8 @@
   // backup     (string)   -> 后备计数器 (MathCounter only)
   // mass       (int)      -> 后备算法参数 (MathCounter only)
   // counter    (string)   -> 血条计数器 (MathCounter only)
-  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
   // [Npc (Monsters)]
   // display    (string)   -> 显示的名称
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
@@ -25,6 +26,7 @@
       "iterator": "Room4_Boss_Hp",
       "backup": "Room4_Boss_HpBackup",
       "counter": "Room4_Boss_HpCounter",
+      "reverse": true,
       "hitbox": "Noctali_Boss_Model",
       "display": "Snake"
     },
@@ -33,12 +35,14 @@
       "backup": "Room8_Boss_HpBackup",
       "counter": "Room8_Boss_HpCounter",
       "hitbox": "Nostar_Boss_Model",
+      "reverse": true,
       "display": "Nostar"
     },
     {
       "iterator": "HPCounter",
       "backup": "HPCounterBackUp",
       "counter": "HPCounterIterator",
+      "reverse": true,
       "hitbox": "mboss_model",
       "display": "Medusa"
     },
