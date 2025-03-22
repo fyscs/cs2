@@ -402,7 +402,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 80,
-    "nomination": false,
+    "nomination": true,
     "price": 300
   },
   "ze_chronus_p": {
