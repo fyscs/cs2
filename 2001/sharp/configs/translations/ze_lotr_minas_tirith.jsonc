@@ -300,5 +300,11 @@
   },
   "** LVL 0 PLAYERS LEVEL UP TO 1 AUTOMATICALLY **": {
     "translation": "** 没有等级的玩家自动升一级 **"
+  },
+  "** THIS IS OUT OF CONTROL! RETREAT NOW ! **": {
+    "translation": "**这里失去控制了,快撤!**"
+  },
+  "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 90 SECONDS **": {
+    "translation": "**路开了**前往米纳斯提里斯顶部**存活90秒**"
   }
 }
