@@ -24,10 +24,10 @@
   "Counters": [
     {
       "iterator": "boss_hp_counter",
-      "backup": "",
-      "counter": "rtv_hp_left_counter",
+      "mass": 55,
+      "counter": "boss_hp_left_counter",
       "hitbox": "boss_break",
-      "display": "Geometric"
+      "display": "Geo"
     },
     {
       "iterator": "boss_final_hp",
