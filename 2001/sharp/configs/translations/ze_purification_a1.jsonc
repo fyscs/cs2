@@ -41,7 +41,8 @@
     "translation": "** 在讲经台祷告 **"
   },
   "** It looks like it's already ready **": {
-    "translation": "** 看起来已经准备好了 **"
+    "translation": "** 看起来已经准备好了,还有10秒开门**",
+    "countdown": 10
   },
   "** Get ready to leave now **": {
     "translation": "** 现在就准备离开! **"
@@ -158,7 +159,7 @@
     "translation": "☆☆☆ 翻弄「北风和太阳」☆☆☆"
   },
   "*** 130s to defeat her ***": {
-    "translation": "*** 你有一百三十秒的时间去击败她! ***"
+    "translation": "*** 你有130秒的时间去击败她! ***"
   },
   "*** 只剩40s了 ***": {
     "translation": "*** 只剩四十秒了 ***"
