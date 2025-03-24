@@ -1773,9 +1773,9 @@
   "ze_ocarina_of_time": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown":  120,
+    "cooldown":  200,
     "nomination": true,
-    "price": 500
+    "price": 1300
   },
   "ze_ocean_base_escape_p": {
     "admin": false,
