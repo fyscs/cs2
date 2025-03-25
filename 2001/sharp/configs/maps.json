@@ -1021,6 +1021,13 @@
     "nomination": false,
     "price": 300
   },
+  "ze_gtasa_police_station_2_m": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300
+  },
   "ze_halloween_house_p": {
     "admin": true,
     "certainTimes": [-1],
