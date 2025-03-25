@@ -1772,10 +1772,10 @@
   },
   "ze_ocarina_of_time": {
     "admin": false,
-    "certainTimes": [-1],
-    "cooldown":  120,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown":  200,
     "nomination": true,
-    "price": 500
+    "price": 1000
   },
   "ze_ocean_base_escape_p": {
     "admin": false,
