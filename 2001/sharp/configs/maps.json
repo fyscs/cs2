@@ -1616,6 +1616,13 @@
     "nomination": true,
     "price": 550
   },
+  "ze_new_italy_cs2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300
+  },
   "ze_newyork_escape_p": {
     "admin": false,
     "certainTimes": [-1],
