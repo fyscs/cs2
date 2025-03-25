@@ -1,0 +1,106 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "!!! BUNKER CLOSING !!!": {
+    "translation": "!!! 地堡正在关闭 !!!"
+  },
+  "!!! BUNKER CLOSING IN 40 SECONDS !!!": {
+    "translation": "!!! 地堡将在 >> 40 << 秒后关闭 !!!"
+  },
+  "<> PREVIOUS FIRE EXTINGUISHING <>": {
+    "translation": "<> 火势已扑灭 <>"
+  },
+  "<!!!> ZOMBIES DETECTED | YOU FAILED <!!!>": {
+    "translation": "<!!!> 检测到僵尸 | 任务失败 <!!!>"
+  },
+  "!!! BUNKER OPEN IN 60 SECONDS !!!": {
+    "translation": "!!! 地堡将在 >> 60 << 秒后开启 !!!"
+  },
+  "!!! BUNKER OPEN !!!": {
+    "translation": "!!! 地堡已开启 !!!"
+  },
+  "<!!!> HUMANS WIN <!!!>": {
+    "translation": "<!!!> 人类胜利 地图文本: >> 茜茜 << <!!!>"
+  },
+  "<!!!> TRAM LEAVING 60 SECONDS <!!!>": {
+    "translation": "<!!!> 电车将在 >> 60 << 秒后离开 <!!!>"
+  },
+  "<!!!> TRAM LEAVING <!!!>": {
+    "translation": "<!!!> 电车即将离开 <!!!>"
+  },
+  "<!!!> MAP COMPLETE <!!!>": {
+    "translation": "<!!!> 地图已完成 <!!!>"
+  },
+  "<!!!> EASY COMPLETE <!!!>": {
+    "translation": "<!!!> 简单模式完成 <!!!>"
+  },
+  "<!!!> FALL BACK TO HELICOPTER <!!!>": {
+    "translation": "<!!!> 撤退至直升机 <!!!>"
+  },
+  "<!!!> WAIT FOR HELICOPTER <!!!>": {
+    "translation": "<!!!> 等待直升机 <!!!>"
+  },
+  "<!!!> CALL HELICOPTER <!!!>": {
+    "translation": "<!!!> 呼叫直升机 <!!!>"
+  },
+  "<!!!> USE THE RADIO <!!!>": {
+    "translation": "<!!!> 使用无线电 <!!!>"
+  },
+  "<!!!> IN THE OPEN CONTAINER <!!!>": {
+    "translation": "<!!!> 在打开的集装箱内 <!!!>"
+  },
+  "<!!!> HELICOPTER LEAVING <!!!>": {
+    "translation": "<!!!> 直升机即将离开 <!!!>"
+  },
+  "<!!!> HOLD 50 SECONDS <!!!>": {
+    "translation": "<!!!> 坚守 >> 50 << 秒 <!!!>"
+  },
+  "<!!!> COLD MOUNTAIN <!!!>": {
+    "translation": "<!!!> 寒冰山脉 <!!!>"
+  },
+  "<!!!> THE COLD HURTS <!!!>": {
+    "translation": "<!!!> 严寒伤害 <!!!>"
+  },
+  "<!!!> FIRE BARRELS HEALS <!!!>": {
+    "translation": "<!!!> 火桶可恢复生命 <!!!>"
+  },
+  "<!!!> LEVEL 2 <!!!>": {
+    "translation": "<!!!> 第二关 <!!!>"
+  },
+  "<!!!> LEVEL 2 - EASY <!!!>": {
+    "translation": "<!!!> 第二关 - 简 单 <!!!>"
+  },
+  "<!!!> LEVEL 3 - EASY <!!!>": {
+    "translation": "<!!!> 第三关 - 简 单 <!!!>"
+  },
+  "<!!!> LEVEL 4 - EASY <!!!>": {
+    "translation": "<!!!> 第四关 - 简 单 <!!!>"
+  },
+  "<!!!> LEVEL 5 - EASY <!!!>": {
+    "translation": "<!!!> 第五关 - 简 单 <!!!>"
+  },
+  "<!!!> LEVEL 1 - EASY <!!!>": {
+    "translation": "<!!!> 第一关 - 简 单 <!!!>"
+  },
+  "<!!!> LEVEL 1  <!!!>": {
+    "translation": "<!!!> 第一关  <!!!>"
+  },
+  "<!!!> LEVEL 4 <!!!>": {
+    "translation": "<!!!> 第四关 <!!!>"
+  },
+  "<!!!> LEVEL 3 <!!!>": {
+    "translation": "<!!!> 第三关 <!!!>"
+  },
+  "<!!!> LEVEL 5 <!!!>": {
+    "translation": "<!!!> 第五关 <!!!>"
+  }
+}
