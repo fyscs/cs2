@@ -1494,7 +1494,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 60,
-    "nomination": true,
+    "nomination": false,
     "price": 300
   },
   "ze_minecraft_dragon_castle": {
