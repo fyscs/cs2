@@ -2505,6 +2505,13 @@
     "nomination": true,
     "price": 400
   },
+  "ze_surf_sparks_cs2": {
+    "admin": false,
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
+    "cooldown": 180,
+    "nomination": true,
+    "price": 400
+  },
   "ze_surf_vortex_p": {
     "admin": false,
     "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
