@@ -1775,7 +1775,7 @@
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown":  200,
     "nomination": true,
-    "price": 1300
+    "price": 1000
   },
   "ze_ocean_base_escape_p": {
     "admin": false,
