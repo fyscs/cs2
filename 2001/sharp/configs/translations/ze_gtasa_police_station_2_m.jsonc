@@ -1,0 +1,145 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "[MAP] Game Starting For 10 Seconds...": {
+    "translation": "[MAP] 游戏将在 >> 10 << 秒后开始..."
+  },
+  "[GTA:SA] ZM TP For 5 Seconds": {
+    "translation": "[GTA:SA] 僵尸传送倒计时 >> 5 << 秒"
+  },
+  "[GTA:SA] GO! GO! GO!": {
+    "translation": "[GTA:SA] 冲! 冲! 冲!"
+  },
+  "[CT] Humans need to retreat defensively in the long corridor.": {
+    "translation": "[CT] 人类需在长廊进行战术撤退."
+  },
+  "[T] Zombies can crawl in through the window, and sneak in through the secret path at the bus stop.": {
+    "translation": "[T] 僵尸可通过窗户爬入 或从公交站密道潜入."
+  },
+  "[MAP] You will not be able to (compression) the zombies in this map.": {
+    "translation": "[MAP] 本地图无法 (压制) 僵尸群."
+  },
+  "[MAP]  If you try to take advantage of the weaknesses of the map and defend it in positions that will squeeze the zombies, the game will teleport you to the beginning.": {
+    "translation": "[MAP]  若试图利用地图漏洞在压缩僵尸的站位防守 将被传送回起点."
+  },
+  "[MAP] [CT] (Humans Fall Back) If you see this console message, it means there are 5 seconds left until the door opens.": {
+    "translation": "[MAP] [CT] (人类撤退) 此信息出现代表门将在 >> 5 << 秒后开启."
+  },
+  "[GTA:SA] YOU CANNOT GO OUTSIDE": {
+    "translation": "[GTA:SA] 前面的区域以后再来探索吧"
+  },
+  "[GTA:SA] 20 Seconds For Defend (LONG CORRIDOR)": {
+    "translation": "[GTA:SA] 防守 >> 20 << 秒 (长走廊)"
+  },
+  "[CT] Humans Fall Back": {
+    "translation": "[CT] 人类撤退"
+  },
+  "[GTA:SA] 20 Seconds For Defend (STAFF ROOM)": {
+    "translation": "[GTA:SA] 防守 >> 20 << 秒 (员工室)"
+  },
+  "[CT] Break the window and get in, the door is broken. (ADVISOR)": {
+    "translation": "[CT] 破窗进入 门已损坏. (提示)"
+  },
+  "[T] Zombies, Break the entrance door (POLICE DEPARTMENT)": {
+    "translation": "[T] 僵尸需破坏入口门 (警局部门)"
+  },
+  "[GTA:SA] 20 Seconds For Defend (Lock Gate)": {
+    "translation": "[GTA:SA] 防守 >> 20 << 秒 (闸门)"
+  },
+  "[CT] Humans, be careful, (?) Stay away from the sign.": {
+    "translation": "[CT] 人类注意, (?) 远离标识区域."
+  },
+  "[T] Zombies, wait outside on the (NISSAN) branded vehicle, the shortcut will open.": {
+    "translation": "[T] 僵尸请在 (NISSAN) 品牌车辆外等待, 捷径即将开启."
+  },
+  "[CT] Humans Go Right! Please do not stand in the (staff room)": {
+    "translation": "[CT] 人类向右行进! 请勿停留 (员工室)"
+  },
+  "[GTA:SA] 20 Seconds For Defend (VENT)": {
+    "translation": "[GTA:SA] 防守 >> 20 << 秒 (通风口)"
+  },
+  "[T] Zombies, Teleporting For Red Light Place...": {
+    "translation": "[T] 僵尸即将传送至红灯区..."
+  },
+  "[CT+T] The humans and zombies hiding outside were teleported here.": {
+    "translation": "[CT+T] 探险在外的人类与僵尸已被传送至此."
+  },
+  "[CT] Humans, Follow The Arrows": {
+    "translation": "[CT] 人类跟随箭头指引"
+  },
+  "[CT] Humans, Climb the blocks (Tables) and move forward on the metal above.": {
+    "translation": "[CT] 人类攀爬 (桌台) 区块 沿上方金属结构前进."
+  },
+  "[CT] Humans, Don't stop here, the black door will open, shortcut to zombies.": {
+    "translation": "[CT] 人类勿停留, 黑色门体开启后将直连僵尸路线."
+  },
+  "[GTA:SA] 20 Seconds For Defend (LADDER)": {
+    "translation": "[GTA:SA] 防守 >> 20 << 秒 (梯道)"
+  },
+  "[T] Zombies, Your black door will open in 5 seconds.": {
+    "translation": "[T] 僵尸黑色通道 >> 5 << 秒后开启."
+  },
+  "[GTA:SA] 30 Seconds For Defend": {
+    "translation": "[GTA:SA] 防守 >> 30 << 秒"
+  },
+  "[GTA:SA HARD MODE] Okay, you've come so far as a team very well.": {
+    "translation": "[GTA:SA 困难模式] 团队协作表现优异."
+  },
+  "[GTA:SA HARD MODE] But now things have become difficult, there are doors on the right and left, marked Team A and B.": {
+    "translation": "[GTA:SA 困难模式] 现开启左右标有A丨B队的门."
+  },
+  "[GTA:SA HARD MODE] You need to split into 2 teams. If 1 team is invaded by zombies, the game is over.": {
+    "translation": "[GTA:SA 困难模式] 需分两队防守 任一队失守即游戏结束."
+  },
+  "[GTA:SA HARD MODE] GO! GO! GO!": {
+    "translation": "[GTA:SA 困难模式] GO! GO! GO!"
+  },
+  "[GTA:SA HARD MODE] ZM TP ACTIVATE": {
+    "translation": "[GTA:SA 困难模式] 僵尸传送已激活"
+  },
+  "[GTA:SA HARD MODE] 30 SECONDS... (defend)": {
+    "translation": "[GTA:SA 困难模式] >> 30 << 秒... (防守)"
+  },
+  "[GTA:SA HARD MODE] 20 SECONDS... (defend)": {
+    "translation": "[GTA:SA 困难模式] >> 20 << 秒... (防守)"
+  },
+  "[GTA:SA HARD MODE] 10 SECONDS. Everyone Fall Back": {
+    "translation": "[GTA:SA 困难模式] >> 10 << 秒. 全体撤退"
+  },
+  "[GTA:SA HARD MODE] 5 SECONDS. Door Hug!": {
+    "translation": "[GTA:SA 困难模式] >> 5 << 秒. 贴死门!"
+  },
+  "[GTA:SA HARD MODE] GET IN GREEN LIGHT": {
+    "translation": "[GTA:SA 困难模式] 进入绿光区域"
+  },
+  "[MISSION COMPLETED] Game Over": {
+    "translation": "[任务完成] 游戏结束 地图文本: >> 茜茜 <<"
+  },
+  "[CT] Humans, Go Left!": {
+    "translation": "[CT] 人类向左行进!"
+  },
+  "[CT] Humans, I recommend defending on the 2nd floor, because zombies will teleport to where you are": {
+    "translation": "[CT] 建议在二楼防守, 僵尸将传送至你们当前位置"
+  },
+  "[B TEAM] Humans, Please Dont Touch Fires!": {
+    "translation": "[B 队] 人类请勿触碰火焰!"
+  },
+  "Died.": {
+    "translation": "Died."
+  },
+  "[MISSION FAILED] A TEAM is invaded by Zombies.": {
+    "translation": "[任务失败] A 队遭僵尸入侵."
+  },
+  "[MISSION FAILED] B TEAM is invaded by Zombies.": {
+    "translation": "[任务失败] B 队遭僵尸入侵."
+  }
+}
