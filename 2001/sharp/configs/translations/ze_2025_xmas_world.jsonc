@@ -1,0 +1,64 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "+ 4 Years Later... +": {
+    "translation": "+ 四年后... +"
+  },
+  "+ Warning! SnowBalls Coming For 5 Seconds... +": {
+    "translation": "+ 注意! 有雪球滚下来了 持续 >> 5 << 秒... +"
+  },
+  "+ 20 Seconds Defend For Double Doors... +": {
+    "translation": "+ >> 20 <<秒坚守双门防线... +"
+  },
+  "+ Fall Back Guys, Zombies Teleporting For 5 Seconds... +": {
+    "translation": "+ 后撤兄弟们, 僵尸传送倒计时 >> 5 << 秒... +"
+  },
+  "+ 20 Seconds Defend For Strong Defend... +": {
+    "translation": "+ 20秒固守强化防御工事... +"
+  },
+  "+ Run Boys, Zombies Teleporting For 5 Seconds... +": {
+    "translation": "+ 快跑兄弟们, 僵尸即将传送 >> 5 << 秒... +"
+  },
+  "+ 10 Seconds Defend For Russian's House... +": {
+    "translation": "+ >> 10 <<秒守卫安全屋... +"
+  },
+  "+ Get in Bros, 40 Seconds Defend... +": {
+    "translation": "+ 兄弟们快就位, 坚守 >> 40 << 秒... +"
+  },
+  "+ Get Out Dudes!, Zombies Teleported... +": {
+    "translation": "+ 快撤伙计们! 僵尸已传送... +"
+  },
+  "+ 30 Seconds Defend For Military Vehicle... +": {
+    "translation": "+ >> 30 << 秒防守载具... +"
+  },
+  "+ Last 10 Seconds, Humans Teleporting...+": {
+    "translation": "+ 最终 >> 10 << 秒, 人类传送中...+"
+  },
+  "+ Humans Teleported!+": {
+    "translation": "+ 人类已传送!+"
+  },
+  "+ 40 Seconds Survival For Top Floor, (20 sc zm tp) +": {
+    "translation": "+ 顶楼 >> 40 << 秒生存战, ( >> 20 << 秒后僵尸传送) +"
+  },
+  "+ Zombies Teleported +": {
+    "translation": "+ 僵尸已传送 +"
+  },
+  "+ Last 10 Seconds Final! +": {
+    "translation": "+ 最后 >> 10 << 秒决胜时刻! +"
+  },
+  "+ GG! Humans Win EZ!! +": {
+    "translation": "+ GG! 人类轻松取胜!! +"
+  },
+  "+ Everyone RTV! for Frostdrake! +": {
+    "translation": "+ [全剧终]可以进行RTV投票了! 地图文本:>> 茜茜 << +"
+  }
+}
