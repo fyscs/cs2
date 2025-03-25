@@ -47,7 +47,8 @@
     "translation": "+ 人类已传送!+"
   },
   "+ 40 Seconds Survival For Top Floor, (20 sc zm tp) +": {
-    "translation": "+ 顶楼 >> 40 << 秒生存战, ( >> 20 << 秒后僵尸传送) +"
+    "translation": "+ 顶楼 >> 40 << 秒生存战 +",
+    "countdown": 40
   },
   "+ Zombies Teleported +": {
     "translation": "+ 僵尸已传送 +"
