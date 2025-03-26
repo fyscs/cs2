@@ -1,0 +1,169 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Hold 30 seconds**": {
+    "translation": "**坚守 >> 30 << 秒**"
+  },
+  "**Lasers are disabled**": {
+    "translation": "**激光已停用**"
+  },
+  "**Map by R1cko27**": {
+    "translation": "**地图作者: R1cko27 地图文本: >> 茜茜 << **"
+  },
+  "**Jump down**": {
+    "translation": "**向下跳跃**"
+  },
+  "**You Win!**": {
+    "translation": "**胜 利!**"
+  },
+  "**Hold 15 seconds**": {
+    "translation": "**坚守 >> 15 << 秒**"
+  },
+  "**Round Failed**": {
+    "translation": "**回合失败**"
+  },
+  "**The bridge will break in 15 seconds**": {
+    "translation": "**桥梁将在 >> 15 << 秒后坍塌**"
+  },
+  "**I'm calling**": {
+    "translation": "**正在呼叫**"
+  },
+  "**Wait 32 seconds**": {
+    "translation": "**等待 >> 32 << 秒**"
+  },
+  "**Get ready to come in, you don't have much time for this!**": {
+    "translation": "**准备进入, 剩余时间不多!**"
+  },
+  "**Go to the phone, the portal is open!**": {
+    "translation": "**前往电话机 , 传送门已开启!**"
+  },
+  "**Find the right door**": {
+    "translation": "**寻找正确门**"
+  },
+  "**how did you get here?**": {
+    "translation": "**你们怎么到这里的?**"
+  },
+  "**You don't have to see this, go away!**": {
+    "translation": "**无需见证此处, 速速离开!**"
+  },
+  "**Look around!!!**": {
+    "translation": "**环顾四周!!!**"
+  },
+  "**Hold 10 seconds**": {
+    "translation": "**坚守 >> 10 << 秒**"
+  },
+  "**Good Job**": {
+    "translation": "**任务完成**"
+  },
+  "**Go to the teleport**": {
+    "translation": "**前往传送点**"
+  },
+  "**Zombie tp at 20 seconds**": {
+    "translation": "**僵尸 >> 20 << 秒后传送**"
+  },
+  "**Hold 25  seconds**": {
+    "translation": "**坚守 >> 25 << 秒**"
+  },
+  "*** THIS LOOKS LIKE A DEAD END... ***": {
+    "translation": "*** 此路不通... ***"
+  },
+  "*** TRY TO SETUP A PHONE CONNECTION ***": {
+    "translation": "*** 尝试建立电话连接 ***"
+  },
+  "*** GIVE ME SOME SECONDS TO FIND THE CORRECT KEY ***": {
+    "translation": "*** 给我几秒寻找正确密钥 ***"
+  },
+  "**2 Stage!!!**": {
+    "translation": "**第二阶段!!!**"
+  },
+  "***PUSH GUN ITEM PICKED UP***": {
+    "translation": "***推力枪已拾取***"
+  },
+  "**You didn't have time to pass the laser**": {
+    "translation": "**未及时通过激光区**"
+  },
+  "**Defend the phone**": {
+    "translation": "**防守电话机**"
+  },
+  "**Pick up the push gun**": {
+    "translation": "**拾取推力枪**"
+  },
+  "**If zombies come to the phone you will die!!!**": {
+    "translation": "**僵尸接近电话机即全员死亡!!!**"
+  },
+  "**Zombies broke the phone!!!**": {
+    "translation": "**僵尸已破坏电话机!!!**"
+  },
+  "**Stage 2!**": {
+    "translation": "**第二阶段!**"
+  },
+  "**SHOOT THE BOSS!!!**": {
+    "translation": "**击杀 BOSS!!!**"
+  },
+  "**You have 15 seconds**": {
+    "translation": "**剩余 >> 15 << 秒**"
+  },
+  "**Zombie have turned off the trains!**": {
+    "translation": "**僵尸已关闭列车系统!**"
+  },
+  "**All tp at 10 seconds**": {
+    "translation": "**全员 >> 10 << 秒后传送**"
+  },
+  "**Stage 1**": {
+    "translation": "**第一阶段**"
+  },
+  "**Dodge Trains**": {
+    "translation": "**躲避列车**"
+  },
+  "**Human have turned off the trains!**": {
+    "translation": "**人类已关闭列车系统!**"
+  },
+  "**Hold 25 seconds**": {
+    "translation": "**坚守 >> 25 << 秒**"
+  },
+  "**Defend 15 seconds**": {
+    "translation": "**防守 >> 15 << 秒**"
+  },
+  "**Stage 3**": {
+    "translation": "**第三阶段**"
+  },
+  "**Defend 23 seconds**": {
+    "translation": "**防守 >> 23 << 秒**"
+  },
+  "**Keep to the center of the rail!**": {
+    "translation": "**保持在轨道中央!**"
+  },
+  "**Держитесь по центру рельс!**": {
+    "translation": "**保持在轨道中央!**"
+  },
+  "**oh my god, fucking lasers**": {
+    "translation": "**天啊, 这该死的激光**"
+  },
+  "**Keep defending the phone!!!**": {
+    "translation": "**持续防守电话机!!!**"
+  },
+  "**DEFEND ZOMBIES!!!**": {
+    "translation": "**抵御僵尸!!!**"
+  },
+  "***LASER GUN ITEM PICKED UP***": {
+    "translation": "***激光枪已拾取***"
+  },
+  "*** F%&K, THE PATH IS BLOCKED... ***": {
+    "translation": "*** 该死, 路径被封锁... ***"
+  },
+  "*** ONE OF THE DOORS UNLOCK SOON ***": {
+    "translation": "*** 某扇门即将解锁 ***"
+  },
+  "*** ... WE NEED TO FIND ANOTHER WAY ***": {
+    "translation": "*** ... 我们需要另寻出路 ***"
+  }
+}
