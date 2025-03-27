@@ -28,7 +28,7 @@
       "counter": "Room4_Boss_HpCounter",
       "reverse": true,
       "hitbox": "Noctali_Boss_Model",
-      "display": "Snake"
+      "display": "白素贞"
     },
     {
       "iterator": "Room8_Boss_Hp",
@@ -37,7 +37,7 @@
       "hitbox": "Nostar_Boss_Model",
       "reverse": true,
       "stages": 2,
-      "display": "Nostar"
+      "display": "许仙"
     },
     {
       "iterator": "HPCounter",
@@ -45,7 +45,7 @@
       "counter": "HPCounterIterator",
       "reverse": true,
       "hitbox": "mboss_model",
-      "display": "Medusa"
+      "display": "龙门门主"
     },
     {
       "iterator": "Room5_Phys_HpCounter2",
