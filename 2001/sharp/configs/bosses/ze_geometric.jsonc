@@ -1,5 +1,5 @@
 // BossHP configuration file generator.
-// Boss Version v22
+// Boss Version v23
 // Copyright 2025 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
@@ -14,7 +14,8 @@
   // backup     (string)   -> 后备计数器 (MathCounter only)
   // mass       (int)      -> 后备算法参数 (MathCounter only)
   // counter    (string)   -> 血条计数器 (MathCounter only)
-  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
   // [Npc (Monsters)]
   // display    (string)   -> 显示的名称
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
@@ -23,10 +24,10 @@
   "Counters": [
     {
       "iterator": "boss_hp_counter",
-      "backup": "",
-      "counter": "rtv_hp_left_counter",
+      "mass": 55,
+      "counter": "boss_hp_left_counter",
       "hitbox": "boss_break",
-      "display": "Geometric"
+      "display": "Geo"
     },
     {
       "iterator": "boss_final_hp",

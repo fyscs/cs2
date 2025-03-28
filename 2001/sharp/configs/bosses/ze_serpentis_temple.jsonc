@@ -1,5 +1,5 @@
 // BossHP configuration file generator.
-// Boss Version v22
+// Boss Version v23
 // Copyright 2025 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
@@ -14,7 +14,8 @@
   // backup     (string)   -> 后备计数器 (MathCounter only)
   // mass       (int)      -> 后备算法参数 (MathCounter only)
   // counter    (string)   -> 血条计数器 (MathCounter only)
-  // increase   (bool)     -> 是否是OnHitMax模式 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
   // [Npc (Monsters)]
   // display    (string)   -> 显示的名称
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
@@ -25,41 +26,36 @@
       "iterator": "Room4_Boss_Hp",
       "backup": "Room4_Boss_HpBackup",
       "counter": "Room4_Boss_HpCounter",
-      "increase": true,
-      "hitbox": "Noctali_Boss_Break",
-      "display": "Snake"
+      "reverse": true,
+      "hitbox": "Noctali_Boss_Model",
+      "display": "白素贞"
     },
     {
       "iterator": "Room8_Boss_Hp",
       "backup": "Room8_Boss_HpBackup",
       "counter": "Room8_Boss_HpCounter",
-      "increase": true,
-      "hitbox": "Nostar_Boss_Break_2",
-      "display": "杂种"
+      "hitbox": "Nostar_Boss_Model",
+      "reverse": true,
+      "stages": 2,
+      "display": "许仙"
     },
     {
       "iterator": "HPCounter",
       "backup": "HPCounterBackUp",
       "counter": "HPCounterIterator",
-      "increase": true,
-      "hitbox": "mboss_physhurt",
-      "display": "Medusa"
+      "reverse": true,
+      "hitbox": "mboss_model",
+      "display": "龙门门主"
     },
     {
       "iterator": "Room5_Phys_HpCounter2",
       "hitbox": "Room5_Phys_2",
-      "display": "Loom:2nd"
+      "display": "龙门左护法"
     },
     {
       "iterator": "Room5_Phys_HpCounter1",
       "hitbox": "Room5_Phys_1",
-      "display": "Loom:1st"
-    }
-  ],
-  "Monsters": [
-    {
-      "display": "变大变高の杂种",
-      "identity": "11909"
+      "display": "龙门右护法"
     }
   ]
 }

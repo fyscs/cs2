@@ -1,0 +1,50 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "identity": "2313",
+      "iterator": "stage_1-Boss_HP",
+      "backup": "stage_1-Boss_HPBackup",
+      "counter": "stage_1-Boss_HPSegment",
+      "hitbox": "stage_1-Boss_Physbox",
+      "display": "傀儡"
+    },
+    {
+      "identity": "960",
+      "iterator": "stage_2-Boss_HP",
+      "backup": "stage_2-Boss_BackupHP",
+      "counter": "stage_2-Boss_SegmentHP",
+      "hitbox": "stage_2-Chase_Physbox",
+      "display": "BOSS"
+    },
+    {
+      "identity": "999",
+      "iterator": "stage_3-Boss_HP",
+      "backup": "stage_3-Boss_HPBackup",
+      "counter": "stage_3-Boss_HPSegment",
+      "hitbox": "stage_3-Boss_Breakable",
+      "display": "千里真那"
+    }
+  ]
+}
