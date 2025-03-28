@@ -1,0 +1,61 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "End_S5_Bahamut_Hp",
+      "hitbox": "End_S5_Bahamut_Laser_Box",
+      "display": "BahamutEnd"
+    },
+    {
+      "iterator": "Raiden_Laser_Hp",
+      "hitbox": "Raiden_Box",
+      "display": "Raiden"
+    },
+    {
+      "iterator": "Behemoth_Hp",
+      "hitbox": "Behemoth_Hitbox",
+      "display": "Behemoth"
+    },
+    {
+      "iterator": "Dalamud_Hp",
+      "hitbox": "Dalamud_Model",
+      "display": "Dalamud"
+    },
+    {
+      "iterator": "S3_Boss_Hp",
+      "hitbox": "S3_Boss_Hitbox",
+      "display": "Boss"
+    },
+    {
+      "iterator": "Bahamut_Hp",
+      "hitbox": "Bahamut_Hitbox",
+      "display": "Bahamut"
+    },
+    {
+      "iterator": "Z_Bahamut_Hp",
+      "hitbox": "Z_Bahamut_Hitbox",
+      "display": "BahamutZ"
+    }
+  ]
+}
