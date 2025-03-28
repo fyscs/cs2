@@ -1,0 +1,160 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Big Gate Opening | 20 Seconds": {
+    "translation": "黑の门正在打开 | 20 秒"
+  },
+  "Big Gate Opening | 15 Seconds": {
+    "translation": "黑の门正在打开 | 15 秒"
+  },
+  "Big Gate Opening | 10 Seconds": {
+    "translation": "黑の门正在打开 | 10 秒"
+  },
+  "Big Gate Opening | 5 Seconds": {
+    "translation": "黑の门正在打开 | 5 秒"
+  },
+  "Big Gate Opening | 0 Seconds": {
+    "translation": "大大の门正在打开 | 0 秒"
+  },
+  "1/2 Big Glass Breaking | 4 Seconds": {
+    "translation": "第一批玻璃要碎了 | 4 秒"
+  },
+  "White Gate Opening | 20 Seconds": {
+    "translation": "白の门正在打开 | 20秒"
+  },
+  "White Gate Opening | 15 Seconds": {
+    "translation": "白の门正在打开 | 15 秒"
+  },
+  "White Gate Opening | 10 Seconds": {
+    "translation": "白の门正在打开 | 10 秒"
+  },
+  "White Gate Opening | 5 Seconds": {
+    "translation": "白の门正在打开 | 5 秒"
+  },
+  "White Gate Opening | 0 Seconds": {
+    "translation": "白の门正在打开 | 0 秒"
+  },
+  "White Gate Opening | 30 Seconds": {
+    "translation": "白の门正在打开 | 30 秒"
+  },
+  "White Gate Opening | 25 Seconds": {
+    "translation": "白の门正在打开 | 25 秒"
+  },
+  "Gray Door Opening | 20 Seconds": {
+    "translation": "灰の门正在打开 | 20 秒"
+  },
+  "Gray Door Opening | 15 Seconds": {
+    "translation": "灰の门正在打开 | 15 秒"
+  },
+  "Gray Door Opening | 10 Seconds": {
+    "translation": "灰の门正在打开 | 10 秒"
+  },
+  "Gray Door Opening | 5 Seconds": {
+    "translation": "灰の门正在打开 | 5 秒"
+  },
+  "Gray Door Opening | 0 Seconds": {
+    "translation": "灰の门正在打开 | 0 秒"
+  },
+  "Gray Door Opening | 30 Seconds": {
+    "translation": "灰の门正在打开 | 30 秒"
+  },
+  "Gray Door Opening | 25 Seconds": {
+    "translation": "灰の门正在打开 | 25 秒"
+  },
+  "2/2 Big Glass Breaking | 4 Seconds": {
+    "translation": "第二批玻璃要碎了 | 4 秒"
+  },
+  "1/1 Small Gate Opening | 4 Seconds": {
+    "translation": "小小の门正在打开 | 4 秒"
+  },
+  "1/2 Glow Red Target Teleport [ZM] | 10 Seconds": {
+    "translation": "姜丝马上就要传送了 | 10 秒"
+  },
+  "Metal Fence Opening | 20 Seconds": {
+    "translation": "栅栏正在打开 | 20 秒"
+  },
+  "Metal Fence Opening | 15 Seconds": {
+    "translation": "栅栏正在打开 | 15 秒"
+  },
+  "Metal Fence Opening | 10 Seconds": {
+    "translation": "栅栏正在打开 | 10 秒"
+  },
+  "Metal Fence Opening | 5 Seconds": {
+    "translation": "栅栏正在打开 | 5 秒"
+  },
+  "Metal Fence Opening | 0 Seconds": {
+    "translation": "栅栏正在打开 | 0 秒"
+  },
+  "Pink Glass Opening | 30 Seconds": {
+    "translation": "粉の玻璃正在打开 | 30 秒"
+  },
+  "Pink Glass Opening | 25 Seconds": {
+    "translation": "粉の玻璃正在打开 | 25 秒"
+  },
+  "Pink Glass Opening | 20 Seconds": {
+    "translation": "粉の玻璃正在打开 | 20 秒"
+  },
+  "Pink Glass Opening | 15 Seconds": {
+    "translation": "粉の玻璃正在打开 | 15 秒"
+  },
+  "Pink Glass Opening | 10 Seconds": {
+    "translation": "粉の玻璃正在打开 | 10 秒"
+  },
+  "Pink Glass Opening | 5 Seconds": {
+    "translation": "粉の玻璃正在打开 | 5 秒"
+  },
+  "Pink Glass Opening | 0 Seconds": {
+    "translation": "粉の玻璃正在打开 | 0 秒"
+  },
+  "Portal Opening | 20 Seconds": {
+    "translation": "港口马上开放 | 20 秒"
+  },
+  "Portal Opening | 15 Seconds": {
+    "translation": "港口马上开放 | 15 Seconds"
+  },
+  "Portal Opening [Stay in Particle Effect] | 10 Seconds": {
+    "translation": "港口马上开放 [注意站在神秘の特效里] | 10 秒"
+  },
+  "Portal Opening [Stay in Particle Effect] | 5 Seconds": {
+    "translation": "港口马上开放 [注意站在神秘の特效里] | 5 秒"
+  },
+  "Portal Opening [Stay in Particle Effect] | 0 Seconds": {
+    "translation": "港口马上开放 [注意站在神秘の特效里] | 0 秒"
+  },
+  "Just Survival | 30 Seconds": {
+    "translation": "活下来,Bro | 30 秒"
+  },
+  "Just Survival | 25 Seconds": {
+    "translation": "活下来,Bro | 25 秒"
+  },
+  "Just Survival | 20 Seconds": {
+    "translation": "活下来,Bro  | 20 秒"
+  },
+  "Just Survival | 15 Seconds": {
+    "translation": "活下来,Bro | 15 秒"
+  },
+  "Just Survival | 10 Seconds": {
+    "translation": "活下来,Bro | 10 秒"
+  },
+  "Just Survival | 5 Seconds": {
+    "translation": "活下来,Bro | 5 秒"
+  },
+  "Just Survival | 0 Seconds": {
+    "translation": "活下来,Bro | 0 秒"
+  },
+  "Nice Team! - Thanks For Playing Map": {
+    "translation": "兄弟你太team了 - 感谢游玩这张地图"
+  },
+  "Map Made By: MUHAMMETS7": {
+    "translation": "地图作者: MUHAMMETS7 翻译: 白姬拉萨姆博"
+  }
+}

@@ -6,6 +6,13 @@
     "nomination": false,
     "price": 300
   },
+  "ze_2025_xmas_world": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300
+  },
   "ze_2049": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
@@ -235,6 +242,13 @@
     "certainTimes": [-1],
     "cooldown": 60,
     "nomination": true,
+    "price": 300
+  },
+  "ze_barrage_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
     "price": 300
   },
   "ze_basic_geometric": {
@@ -845,6 +859,13 @@
     "cooldown": 120,
     "nomination": true,
     "price": 800
+  },
+  "ze_ffxiv_wanderers_palace": {
+    "admin": false,
+    "certainTimes": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 550
   },
   "ze_firewall_laboratory_part1_p": {
     "admin": false,
@@ -1616,6 +1637,13 @@
     "nomination": true,
     "price": 550
   },
+  "ze_new_italy_cs2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300
+  },
   "ze_newyork_escape_p": {
     "admin": false,
     "certainTimes": [-1],
@@ -2351,6 +2379,13 @@
     "nomination": true,
     "price": 450
   },
+  "ze_sorrento_escape_2016_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 400
+  },
   "ze_sorrento_escape_p": {
     "admin": false,
     "certainTimes": [-1],
@@ -2502,6 +2537,13 @@
     "admin": false,
     "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
     "cooldown": 120,
+    "nomination": true,
+    "price": 400
+  },
+  "ze_surf_sparks_cs2": {
+    "admin": false,
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
+    "cooldown": 180,
     "nomination": true,
     "price": 400
   },

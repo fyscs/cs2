@@ -1,0 +1,239 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>Lalafel: Please take me on the adventure together!!!<<": {
+    "translation": "[拉拉菲尔]:请带上我一起冒险吧!!!"
+  },
+  ">>Boat will leave in 20 seconds<<": {
+    "translation": ">>船只将在20秒后离开<<"
+  },
+  ">>Door will open in 5 seconds<<": {
+    "translation": ">>门将在5秒后开启<<"
+  },
+  ">>Door will open in 25 seconds<<": {
+    "translation": ">>门将在25秒后开启<<"
+  },
+  ">>Activate 4 Nymian Devices<<": {
+    "translation": ">>激活四个尼姆装置<<"
+  },
+  ">>Door will open in 20 seconds<<": {
+    "translation": ">>门将在20秒后开启<<"
+  },
+  ">>Looks the tonberrys blocked the way forward<<": {
+    "translation": ">>看来冬贝利挡住了去路<<"
+  },
+  ">>A mysterious voice: Brave Warrior of Light, looks like there's something wrong with the space here. I will open the way for you, please restore it<<": {
+    "translation": ">>勇敢的光之战士,这里似乎出了问题,我会为你开路,请修好它<<"
+  },
+  ">>The way has been linked<<": {
+    "translation": ">>道路已连接<<"
+  },
+  ">>Door will open in 10 seconds<<": {
+    "translation": ">>门将在10秒后开启<<"
+  },
+  ">>ZM item has been disabled<<": {
+    "translation": ">>[ZM物品] 已被禁用<<"
+  },
+  ">>You Failed<<": {
+    "translation": ">>你失败了<<"
+  },
+  "**A zombie has picked up <Holmgang>**": {
+    "translation": "僵尸拾取了 <决斗>"
+  },
+  ">>Door will open in 15 seconds<<": {
+    "translation": ">>门将在15秒后开启<<"
+  },
+  ">>Wait for 20 seconds<<": {
+    "translation": ">>还有20秒<<"
+  },
+  ">>The elevator will leave in 15 seconds<<": {
+    "translation": ">>电梯将在15秒后离开<<"
+  },
+  ">>Door will open in 30 seconds<<": {
+    "translation": ">>门将在30秒后开启<<"
+  },
+  ">>Defense for 45 seconds<<": {
+    "translation": ">>防守45秒<<"
+  },
+  ">>ADS attack!!!<<": {
+    "translation": ">> ADS攻击!!! <<"
+  },
+  ">>Kill the remaining zombies<<": {
+    "translation": ">>消灭剩余的僵尸<<"
+  },
+  ">>Door will open in 35 seconds<<": {
+    "translation": ">>门将在35秒后开启<<"
+  },
+  ">>Wait for 25 seconds<<": {
+    "translation": ">>等待25秒<<"
+  },
+  ">>Wait for 45 seconds<<": {
+    "translation": ">>等待45秒<<"
+  },
+  "**A player has picked up <Sacred Soil>(Heal)**": {
+    "translation": "一名玩家拾取了<神圣领域> (治疗)"
+  },
+  "**A player has picked up <Chromatic Fantasy>(Ultima)**": {
+    "translation": "一名玩家拾取了<炫彩幻想> (终极)"
+  },
+  "**A player has picked up <Gravity Ⅱ>(Gravity)**": {
+    "translation": "一名玩家拾取了<重力Ⅱ> (重力)"
+  },
+  "**A player has picked up <Doton>(Dirt)**": {
+    "translation": "一名玩家拾取了<土遁> (土)"
+  },
+  "**A player has picked up <Radiant Finale>(Ammo)**": {
+    "translation": "一名玩家拾取了<闪耀终曲> (弹药)"
+  },
+  "**A player has picked up <High Thunder Ⅱ>(Thunder)**": {
+    "translation": "一名玩家拾取了<雷电Ⅱ> (雷电)"
+  },
+  "**A player has picked up <Last Bastion>(Barrier)**": {
+    "translation": "一名玩家拾取了<最终堡垒> (屏障)"
+  },
+  ">>Looks the road is blocked<<": {
+    "translation": ">>看来道路被封锁了<<"
+  },
+  ">>Keep defense<<": {
+    "translation": ">>继续防守<<"
+  },
+  ">>Door will close in 10 seconds<<": {
+    "translation": "门将在10秒后关闭"
+  },
+  ">>Door will close in 30 seconds<<": {
+    "translation": "门将在30秒后关闭"
+  },
+  ">>The Final Door will open in 30 seconds<<": {
+    "translation": "最终之门将在30秒后开启"
+  },
+  ">>The Final Door will close in 15 seconds<<": {
+    "translation": "最终之门将在15秒后关闭"
+  },
+  ">>Upgrade from ze_FFXIV_Wanderers_Palace_v4 created by Altima<<": {
+    "translation": "基于Altima制作的ze_FFXIV_Wanderers_Palace_v4升级制作"
+  },
+  ">>ze_FFXIV_Wanderers_Palace_Rebirth<<": {
+    "translation": ">>放浪神古神殿_重生<<"
+  },
+  ">>Map ported and remade by Runa & Tenshi.<<": {
+    "translation": ">>地图由Runa和Tenshi移植并重制<<"
+  },
+  ">> Normal <<": {
+    "translation": ">> 普通 <<"
+  },
+  ">> Hard <<": {
+    "translation": ">> 困难 <<"
+  },
+  ">> Extreme <<": {
+    "translation": ">> 极限 <<"
+  },
+  ">> Savage <<": {
+    "translation": ">> 绝境 <<"
+  },
+  ">> Ultimate <<": {
+    "translation": ">> 终极 <<"
+  },
+  ">>Looks the Nymian Device is rusty<<": {
+    "translation": ">>看来尼姆装置生锈了<<"
+  },
+  ">>Nymian Device Ⅱ has activated<<": {
+    "translation": "<< 尼姆装置Ⅱ已激活 <<"
+  },
+  ">>Nymian Device Ⅲ has activated<<": {
+    "translation": "<< 尼姆装置Ⅲ已激活 <<"
+  },
+  ">>Nymian Device Ⅳ has activated<<": {
+    "translation": "<< 尼姆装置Ⅳ已激活 <<"
+  },
+  ">>Boat will leave in 15 seconds<<": {
+    "translation": ">>船只将在15秒后离开<<"
+  },
+  ">>Catch up with ADS!!!<<": {
+    "translation": ">>追上ADS!!<<"
+  },
+  ">>EX Flare<<": {
+    "translation": ">>百万核爆<<"
+  },
+  ">>Shoot ADS and zombies<<": {
+    "translation": ">>射击ADS和僵尸!!<<"
+  },
+  ">>Earth Shaker<<": {
+    "translation": ">>大地震撼<<"
+  },
+  ">>Heavens Fall<<": {
+    "translation": ">>天堂陨落<<"
+  },
+  ">>Tempest Wing<<": {
+    "translation": ">>暴风之翼<<"
+  },
+  ">>Flame<<": {
+    "translation": ">>火焰<<"
+  },
+  ">>ADS Attack : Static Storm<<": {
+    "translation": ">>ADS攻击: 风暴<<"
+  },
+  ">>ADS Attack : Dash<<": {
+    "translation": ">>ADS攻击: 冲锋<<"
+  },
+  ">>Bahamut will appear in 5 seconds<<": {
+    "translation": ">>巴哈姆特将在5秒后现身<<"
+  },
+  ">>Bahamut will appear in 4 seconds<<": {
+    "translation": ">>Bahamut will appear in 4 seconds<<",
+    "blocked": true
+  },
+  ">>Bahamut will appear in 3 seconds<<": {
+    "translation": ">>Bahamut will appear in 3 seconds<<",
+    "blocked": true
+  },
+  ">>Bahamut will appear in 2 seconds<<": {
+    "translation": ">>Bahamut will appear in 2 seconds<<",
+    "blocked": true
+  },
+  ">>Bahamut will appear in 1 seconds<<": {
+    "translation": ">>Bahamut will appear in 1 seconds<<",
+    "blocked": true
+  },
+  ">>True Heavens Fall<<": {
+    "translation": ">>真 天堂陨落<<"
+  },
+  ">>True Tempest Wing<<": {
+    "translation": ">>真 暴风之翼<<"
+  },
+  ">>Steam Judge<<": {
+    "translation": ">>审判<<"
+  },
+  ">>Seems the feathers have disappeared<<": {
+    "translation": ">>看起来似乎消失了<<"
+  },
+  ">>You found the ADS!!!<<": {
+    "translation": ">>你找到了ADS!!!<<"
+  },
+  ">>You found Alpha!!!<<": {
+    "translation": ">>你发现了Alpha!!!<<"
+  },
+  ">><Last Bastion> Disappeared<<": {
+    "translation": ">> <终极屏障> 消失了<<"
+  },
+  ">><Doton> Disappeared<<": {
+    "translation": ">> <土> 消失了 <<"
+  },
+  ">><High Thunder Ⅱ> Disappeared<<": {
+    "translation": ">> <雷电> 消失了<<"
+  },
+  ">><Radiant Finale> Disappeared<<": {
+    "translation": ">> <弹药> 消失了 <<"
+  },
+  ">><Gravity Ⅱ> Disappeared<<": {
+    "translation": ">> <重力> 消失了 <<"
+  }
+}
