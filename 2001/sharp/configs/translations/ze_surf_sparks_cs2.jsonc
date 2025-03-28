@@ -1,0 +1,52 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**You did it**": {
+    "translation": "**你做到了**"
+  },
+  "**Now relax and wait for the time to end**": {
+    "translation": "**现在放松放松Z1冷静一下,马上就结束了**"
+  },
+  "**Resist 80 seconds**": {
+    "translation": "**防守80秒**"
+  },
+  "**Map by ApeXe & Bushido**": {
+    "translation": "**地图作者:ApeXe & Bushido 翻译: 白姬**"
+  },
+  "**Based on the map surf_aura**": {
+    "translation": "**地图基于surf_aura制作**"
+  },
+  "**Activating teleport in 20 seconds**": {
+    "translation": "**20秒后传送**"
+  },
+  "**Teleport activated**": {
+    "translation": "**传送了**"
+  },
+  "**Defend 80 seconds**": {
+    "translation": "**防守80秒**"
+  },
+  "**Try to pass this surf**": {
+    "translation": "**尝试通过这个surf**"
+  },
+  "**Everyone is immune during this time**": {
+    "translation": "**现在所有人都是无敌的**"
+  },
+  "**Platform breaks in 20 seconds**": {
+    "translation": "**平台20秒后断裂**"
+  },
+  "**Watch out for lasers!**": {
+    "translation": "**前方来刀!**"
+  },
+  "**You won the map congratulations!**": {
+    "translation": "**你通关了,太牛了!**"
+  }
+}
