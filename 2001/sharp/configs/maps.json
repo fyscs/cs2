@@ -2176,6 +2176,13 @@
     "nomination": true,
     "price": 400
   },
+  "ze_rush_a": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 140,
+    "nomination": true,
+    "price": 450
+  },
   "ze_s_a_m": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
