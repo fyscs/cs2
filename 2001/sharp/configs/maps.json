@@ -244,6 +244,13 @@
     "nomination": true,
     "price": 300
   },
+  "ze_barrage_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300
+  },
   "ze_basic_geometric": {
     "admin": false,
     "certainTimes": [-1],
