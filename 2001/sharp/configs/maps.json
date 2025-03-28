@@ -2652,6 +2652,13 @@
     "nomination": false,
     "price": 300
   },
+  "ze_titanic_escape_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300
+  },
   "ze_tkara_p": {
     "admin": false,
     "certainTimes": [-1],
