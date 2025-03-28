@@ -2561,6 +2561,13 @@
     "nomination": false,
     "price": 300
   },
+  "ze_thorn_final_song": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 400
+  },
   "ze_tilex_escape_p": {
     "admin": false,
     "certainTimes": [-1],
