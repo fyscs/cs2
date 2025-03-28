@@ -2554,6 +2554,13 @@
     "nomination": true,
     "price": 300
   },
+  "ze_survivors_mountain": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 450
+  },
   "ze_tear_of_tide": {
     "admin": true,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
