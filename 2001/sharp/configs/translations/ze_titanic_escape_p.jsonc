@@ -28,12 +28,12 @@
     "blocked": true
   },
   "**The boats will leave in 1 minute!**": {
-    "translation": "**船将在 >> 1 << 分钟后离开!!**",
-    "blocked": true
+    "translation": "**船将在 >> 60 << 秒后离开!!**",
+    "countdown": 60
   },
   "**The boats will leave in 2 minutes!**": {
-    "translation": "**船将在 >> 120 << 秒后离开!!**",
-    "countdown": 120
+    "translation": "**船将在 >> 2 << 分钟后离开!!**",
+    "blocked": true
   },
   "**Final Door will open unlock in 5 seconds**": {
     "translation": "**最终门将在 >> 5 << 秒后开启**"
@@ -64,7 +64,8 @@
     "translation": "**激光 >> 5 << 秒后关闭**"
   },
   "**Elevator 1 is leaving in 5 seconds**": {
-    "translation": "**壹号电梯 >> 5 << 秒后离开**"
+    "translation": "**壹号电梯 >> 5 << 秒后离开**",
+    "countdown": 5
   },
   "**Main elevator is leaving in 15 seconds!!**": {
     "translation": "**主电梯 >> 15 << 秒后离开!!**"
