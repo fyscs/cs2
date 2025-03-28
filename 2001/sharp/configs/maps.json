@@ -2372,6 +2372,13 @@
     "nomination": true,
     "price": 450
   },
+  "ze_sorrento_escape_2016_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 400
+  },
   "ze_sorrento_escape_p": {
     "admin": false,
     "certainTimes": [-1],
