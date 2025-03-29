@@ -23,14 +23,11 @@
 {
   "Counters": [
     {
-      "iterator": "drone_counter",
-      "hitbox": "drone_hitbox",
-      "display": "小飞机"
-    }
-  ],
-  "Monsters": [
-    {
-      "identity": "17826",
+      "iterator": "Boss_HpCounter",
+      "backup": "BossHp_Counter_2",
+      "counter": "BossHpBar_Counter",
+      "hitbox": "New_Boss_Heli_Model",
+      "reverse": true,
       "display": "直升机"
     }
   ]
