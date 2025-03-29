@@ -26,7 +26,6 @@
       "iterator": "Boss_Health",
       "backup": "Boss_Health_Init",
       "counter": "Boss_Overlay_Counter",
-      "increase": true,
       "display": "Boss"
     },
     {
