@@ -21,5 +21,19 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Proxy": true
+  "Proxy": true,
+  "Monsters": [
+    {
+      "identity": "6098",
+      "display": "水晶"
+    },
+    {
+      "identity": "2859",
+      "display": "诅咒之盾"
+    },
+    {
+      "identity": "2558",
+      "display": "仙人掌"
+    }
+  ]
 }
