@@ -26,7 +26,7 @@
       "iterator": "Boss_Health",
       "backup": "Boss_HealthInit",
       "counter": "Boss_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Santa_GiantPhys",
       "display": "Santa"
     }

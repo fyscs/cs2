@@ -26,7 +26,7 @@
       "iterator": "Troll_Hp",
       "counter": "Troll_Hp_Counter",
       "backup": "Troll_Hp_Get",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Troll_Box",
       "display": "巨魔"
     },
@@ -34,7 +34,7 @@
       "iterator": "S2_Boss_Hp",
       "counter": "S2_Boss_Hp_Counter",
       "backup": "S2_Boss_Hp_Get",
-      "increase": true,
+      "reverse": true,
       "hitbox": "S2_Boss_Box",
       "display": "水晶"
     },
@@ -42,7 +42,7 @@
       "iterator": "Castle_Hp",
       "counter": "Castle_Hp_Counter",
       "backup": "Castle_Hp_Get",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Castle_Hitbox",
       "display": "轮回王"
     },
@@ -50,7 +50,7 @@
       "iterator": "Dr_Hp",
       "counter": "Dr_Hp_Counter",
       "backup": "Dr_Hp_Get",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Dr_Hitbox",
       "display": "冰龙"
     },
@@ -58,7 +58,7 @@
       "iterator": "Bal_Hp",
       "counter": "Bal_Hp_Counter",
       "backup": "Bal_Hp_Get",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Bal_Hitbox",
       "display": "炎魔"
     }

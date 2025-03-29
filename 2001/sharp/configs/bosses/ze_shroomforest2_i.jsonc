@@ -27,14 +27,14 @@
       "backup": "Boss_HealthInit",
       "counter": "Boss_HealthCount",
       "display": "Boss",
-      "increase": true
+      "reverse": true
     },
     {
       "iterator": "Satan_Health",
       "backup": "Satan_HealthInit",
       "counter": "Satan_HealthCount",
       "display": "撒旦",
-      "increase": true
+      "reverse": true
     }
   ]
 }

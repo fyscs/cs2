@@ -26,7 +26,7 @@
       "iterator": "Special_Health",
       "backup": "Special_HealthInit",
       "counter": "Special_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Boss_Hitbox",
       "display": "Boss"
     },
@@ -49,7 +49,7 @@
       "iterator": "Special_Health",
       "backup": "Special_HealthInit",
       "counter": "Special_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Last_Genesis_Phys_Body",
       "display": "Boss"
     }

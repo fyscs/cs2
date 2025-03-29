@@ -26,7 +26,7 @@
       "iterator": "brand_boss_hp_counter",
       "mass": 17,
       "counter": "brand_boss_hp_bar",
-      "increase": true,
+      "reverse": true,
       "hitbox": "brand_boss_hitbox",
       "display": "Block"
     },
@@ -39,7 +39,7 @@
       "iterator": "st3_boss_hp_counter",
       "mass": 25,
       "counter": "st3_boss_hp_bar",
-      "increase": true,
+      "reverse": true,
       "hitbox": "st3_boss_hitbox",
       "display": "Block"
     },

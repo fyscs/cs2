@@ -26,7 +26,7 @@
       "iterator": "Drace2_Health",
       "backup": "Drace2_HealthInit",
       "counter": "Drace2_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Drace2_Hitbox",
       "display": "朵蕾丝"
     },
@@ -44,7 +44,7 @@
       "iterator": "Shemhazai_Health",
       "backup": "Shemhazai_HealthInit",
       "counter": "Shemhazai_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Shemhazai_Hitbox",
       "display": "修米哈萨"
     },
@@ -52,7 +52,7 @@
       "iterator": "Drace_Health",
       "backup": "Drace_HealthInit",
       "counter": "Drace_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Drace_Hitbox",
       "display": "朵蕾丝"
     },
@@ -60,7 +60,7 @@
       "iterator": "podir_Health",
       "backup": "podir_HealthInit",
       "counter": "podir_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "podir_Hitbox",
       "display": "珐姆弗里特"
     },
@@ -68,7 +68,7 @@
       "iterator": "Ultima_Health",
       "backup": "Ultima_HealthInit",
       "counter": "Ultima_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Ultima_Hitbox",
       "display": "阿鲁偍玛"
     },
@@ -76,7 +76,7 @@
       "iterator": "Adrammelech_Health",
       "backup": "Adrammelech_HealthInit",
       "counter": "Adrammelech_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Adrammelech_Hitbox",
       "display": "亚德拉梅利克"
     }

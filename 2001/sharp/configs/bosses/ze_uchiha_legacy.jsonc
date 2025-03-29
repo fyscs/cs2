@@ -26,7 +26,7 @@
       "iterator": "654321234_susano_Health",
       "backup": "654321234_susano_HealthBackup",
       "counter": "654321234_susano_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "654321234_susano_Hitbox",
       "display": "须佐能乎终极形态"
     },
@@ -34,7 +34,7 @@
       "iterator": "s2_sasuke_final_health",
       "backup": "s2_sasuke_final_health_backup",
       "counter": "s2_sasuke_final_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "sasuke_ending_hitbox",
       "display": "宇智波佐助"
     },
@@ -47,7 +47,7 @@
       "iterator": "obito_Boss_Health",
       "backup": "obito_Boss_HealthBackup",
       "counter": "obito_Boss_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "obito_boss_Hitbox",
       "display": "宇智波带土"
     },
@@ -60,7 +60,7 @@
       "iterator": "madara_Boss_Health",
       "backup": "madara_Boss_HealthBackup",
       "counter": "madara_Boss_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "madara_boss_Hitbox",
       "display": "宇智波斑"
     },
@@ -68,7 +68,7 @@
       "iterator": "qsdfg_sasuke_Boss_Health",
       "backup": "qsdfg_sasuke_Boss_HealthBackup",
       "counter": "qsdfg_sasuke_Boss_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "qsdfg_sasuke_boss_Hitbox",
       "display": "宇智波佐助"
     },
@@ -76,7 +76,7 @@
       "iterator": "exsdfgh_madara_Health",
       "backup": "exsdfgh_madara_HealthBackup",
       "counter": "exsdfgh_madara_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "exsdfgh_madara_Hitbox",
       "display": "LaserFinal"
     },
@@ -84,7 +84,7 @@
       "iterator": "s1_itachi_Boss_Health",
       "backup": "s1_itachi_Boss_HealthBackup",
       "counter": "s1_itachi_Boss_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "s1_itachi_boss_break",
       "display": "宇智波鼬"
     }

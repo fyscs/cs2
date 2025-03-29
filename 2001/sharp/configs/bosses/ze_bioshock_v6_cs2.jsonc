@@ -26,7 +26,7 @@
       "iterator": "fontaine_Health_BarHP",
       "backup": "fontaine_Health_Init",
       "counter": "fontaine_Health_HP",
-      "increase": true,
+      "reverse": true,
       "hitbox": "fontaine_2_breakable",
       "display": "拉封丹"
     },
@@ -34,7 +34,7 @@
       "iterator": "bouncer_Health_BarHP",
       "backup": "bouncer_Health_Init",
       "counter": "bouncer_Health_HP",
-      "increase": true,
+      "reverse": true,
       "hitbox": "bouncer_physbox",
       "display": "老爹"
     },
@@ -42,7 +42,7 @@
       "iterator": "cohen_Health_BarHP",
       "backup": "cohen_Health_Init",
       "counter": "cohen_Health_HP",
-      "increase": true,
+      "reverse": true,
       "hitbox": "cohen_hitbox",
       "display": "科恩"
     },
@@ -50,7 +50,7 @@
       "iterator": "songbird_Health_BarHP",
       "backup": "songbird_Health_Init",
       "counter": "songbird_Health_HP",
-      "increase": true,
+      "reverse": true,
       "hitbox": "songbird_hitbox_head",
       "display": "夜莺"
     }

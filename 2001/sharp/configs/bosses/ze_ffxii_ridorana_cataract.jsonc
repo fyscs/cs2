@@ -36,7 +36,7 @@
       "iterator": "Special_Health",
       "backup": "Special_HealthInit",
       "counter": "Special_HealthCount",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Hashmel_Hitbox",
       "display": "Hashmel"
     },

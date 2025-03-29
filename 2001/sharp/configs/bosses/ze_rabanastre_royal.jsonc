@@ -26,7 +26,7 @@
       "iterator": "Boss_HP",
       "backup": "Boss_HP_Init",
       "counter": "Boss_HP_Counter",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Boss_Break",
       "display": "Boss"
     },

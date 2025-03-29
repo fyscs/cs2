@@ -36,7 +36,7 @@
       "iterator": "Gabranth_HP",
       "backup": "Gabranth_HPInit",
       "counter": "Gabranth_HPBar",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Guard_1_Physbox",
       "display": "小学生"
     },
@@ -49,7 +49,7 @@
       "iterator": "Boss_Health",
       "backup": "Boss_Health_Init",
       "counter": "Boss_Overlay_Counter",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Boss_Armor_Body",
       "display": "龙"
     }

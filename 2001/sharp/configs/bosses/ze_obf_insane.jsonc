@@ -26,7 +26,7 @@
       "iterator": "Boss_HpCounter",
       "backup": "BossHp_Counter_2",
       "counter": "BossHpBar_Counter",
-      "increase": true,
+      "reverse": true,
       "hitbox": "gargantua_physbox",
       "display": "Gargantua"
     }

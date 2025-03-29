@@ -45,7 +45,7 @@
     {
       "iterator": "Chaos_Health",
       "backup": "Chaos_Health_Init",
-      "increase": true,
+      "reverse": true,
       "counter": "Chaos_Overlay_Counter",
       "hitbox": "Chaos_Physbox",
       "display": "轮回王"
@@ -53,7 +53,7 @@
     {
       "iterator": "Boss_Health",
       "backup": "Boss_Health_Init",
-      "increase": true,
+      "reverse": true,
       "counter": "Boss_Overlay_Counter",
       "hitbox": "Boss_Physbox",
       "display": "玛提乌斯"

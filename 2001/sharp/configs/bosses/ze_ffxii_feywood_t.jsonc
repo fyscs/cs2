@@ -26,14 +26,14 @@
       "iterator": "Boss_HP_2",
       "backup": "Boss_HP",
       "counter": "Boss_HPbar_Counter",
-      "increase": true,
+      "reverse": true,
       "display": "Boss"
     },
     {
       "iterator": "lvl5_Boss_HP_2",
       "backup": "lvl5_Boss_HP",
       "counter": "lvl5_Boss_HPbar_Counter",
-      "increase": true,
+      "reverse": true,
       "display": "Boss"
     }
   ],

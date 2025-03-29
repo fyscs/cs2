@@ -26,7 +26,7 @@
       "iterator": "2_boss_hpcounter",
       "counter": "2_boss_hpmasscounter",
       "mass": 35,
-      "increase": true,
+      "reverse": true,
       "hitbox": "2_boss_target",
       "display": "大地精灵"
     },
@@ -34,7 +34,7 @@
       "iterator": "3_boss_hpcounter",
       "counter": "3_boss_hpmasscounter",
       "mass": 40,
-      "increase": true,
+      "reverse": true,
       "hitbox": "3_boss_target",
       "display": "水之精灵"
     },
@@ -42,7 +42,7 @@
       "iterator": "4_boss_hpcounter",
       "counter": "4_boss_hpmasscounter",
       "mass": 40,
-      "increase": true,
+      "reverse": true,
       "hitbox": "4_boss_target",
       "display": "风之精灵"
     },
@@ -50,7 +50,7 @@
       "iterator": "5_boss_hpcounter",
       "counter": "5_boss_hpmasscounter",
       "mass": 40,
-      "increase": true,
+      "reverse": true,
       "hitbox": "5_boss_target",
       "display": "炎之精灵"
     }

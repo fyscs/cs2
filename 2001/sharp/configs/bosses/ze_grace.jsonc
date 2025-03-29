@@ -26,7 +26,7 @@
       "iterator": "Angel_HP",
       "backup": "Angel_HP_Init",
       "counter": "Angel_HP_Bar",
-      "increase": true,
+      "reverse": true,
       "hitbox": "Angel_Hitbox",
       "display": "Angel"
     }

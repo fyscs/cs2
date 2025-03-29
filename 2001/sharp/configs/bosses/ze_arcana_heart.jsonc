@@ -26,7 +26,7 @@
       "iterator": "Boss_S2_Hp_Main",
       "counter": "Boss_S2_Hp_Counter",
       "mass": 40,
-      "increase": true,
+      "reverse": true,
       "hitbox": "Boss_S2_Hitbox",
       "display": "Heart"
     },
@@ -34,14 +34,14 @@
       "iterator": "Boss_S3_Hp_Main",
       "counter": "Boss_S3_Hp_Counter",
       "mass": 60,
-      "increase": true,
+      "reverse": true,
       "display": "Diamond"
     },
     {
       "iterator": "Boss_S4_Hp_Main",
       "counter": "Boss_S4_Hp_Counter",
       "mass": 50,
-      "increase": true,
+      "reverse": true,
       "hitbox": "Boss_S4_Hitbox",
       "display": "HEART"
     }
