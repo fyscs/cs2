@@ -1333,7 +1333,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 100,
-    "nomination": false,
+    "nomination": true,
     "price": 400
   },
   "ze_lemonysnickets_p": {
