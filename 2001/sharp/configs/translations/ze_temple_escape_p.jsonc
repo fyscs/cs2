@@ -1,0 +1,73 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "++ Crates breaks in 30 seconds ++": {
+    "translation": "++ 箱子将在30秒后破碎 ++"
+  },
+  "++ 5 seconds left! ++": {
+    "translation": "++ 剩余5秒! ++"
+  },
+  "++ Fall back! ++": {
+    "translation": "++ 撤退! ++"
+  },
+  "++ The tram is broken! ++": {
+    "translation": "++ 电车坏了! ++"
+  },
+  "++ Wall breaks in 5 seconds! ++": {
+    "translation": "++ 墙将在5秒后破裂! ++"
+  },
+  "++ Tram leaves in 60 seconds ++": {
+    "translation": "++ 电车将在60秒后离开 ++"
+  },
+  "++ Use the radio to deploy nuke! ++": {
+    "translation": "++ 使用无线电投放核弹! ++"
+  },
+  "++ Ze Temple Escape ++": {
+    "translation": "++ 神庙逃亡 ++"
+  },
+  "++ Map by Matias-TM ++": {
+    "translation": "++ 地图作者: Matias-TM 文本:Zeyu1 ++"
+  },
+  "++ Torch prefab by Fibbs ++": {
+    "translation": "++ 特别鸣谢: Fibbs ++"
+  },
+  "++ Modified textures by Matias-TM ++": {
+    "translation": "++ 贴图修改: Matias-TM ++"
+  },
+  "++ Ported to CS:GO by Matias-TM ++": {
+    "translation": "++ 移植到CS:GO由Matias-TM完成 ++"
+  },
+  "++ Wall breaks in 60 seconds ++": {
+    "translation": "++ 墙将在60秒后破裂 ++"
+  },
+  "++ Nuke deploying in 90 seconds! ++": {
+    "translation": "++ 核弹将在90秒后投放! ++"
+  },
+  "++ Bunker door opens in 5 seconds! ++": {
+    "translation": "++ 地堡门将在5秒后打开! ++"
+  },
+  "++ Bunker door closing! ++": {
+    "translation": "++ 地堡门正在关闭! ++"
+  },
+  "++ Nuke deploying! ++": {
+    "translation": "++ 正在投放核弹! ++"
+  },
+  "++ C4 explodes in 30 seconds ++": {
+    "translation": "++ C4将在30秒后爆炸 ++"
+  },
+  "++ Wall breaks in 30 seconds ++": {
+    "translation": "++ 墙将在30秒后破裂 ++"
+  },
+  "++ Floors breaks in 30 seconds ++": {
+    "translation": "++ 地面将在30秒后破裂 ++"
+  }
+}
