@@ -2177,7 +2177,7 @@
     "price": 400
   },
   "ze_rush_a": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 140,
     "nomination": true,
