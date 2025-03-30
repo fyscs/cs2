@@ -24,7 +24,7 @@
   "Monsters": [
     {
       "identity": "2345",
-      "display": "Npc"
+      "display": "Mesh"
     }
   ]
 }
