@@ -1084,6 +1084,13 @@
     "nomination": false,
     "price": 300
   },
+  "ze_hidden_temple": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 450
+  },
   "ze_hlc_tsunami_v1": {
     "admin": true,
     "certainTimes": [-1],
