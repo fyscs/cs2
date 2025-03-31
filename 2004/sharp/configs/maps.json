@@ -1,6 +1,6 @@
 {
   "mg_01minecraftminigame": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 30,
     "nomination": false,
