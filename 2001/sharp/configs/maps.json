@@ -2338,11 +2338,11 @@
     "price": 300
   },
   "ze_sisyphus": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
-    "cooldown": 60,
+    "cooldown": 300,
     "nomination": true,
-    "price": 300
+    "price": 1000
   },
   "ze_sit_caelum_paradisus": {
     "admin": false,
