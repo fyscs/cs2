@@ -2339,7 +2339,7 @@
   },
   "ze_sisyphus": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
     "cooldown": 300,
     "nomination": true,
     "price": 1000
