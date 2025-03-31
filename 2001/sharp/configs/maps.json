@@ -6,6 +6,13 @@
     "nomination": false,
     "price": 300
   },
+  "ze_2012_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300
+  },
   "ze_2025_xmas_world": {
     "admin": false,
     "certainTimes": [-1],
