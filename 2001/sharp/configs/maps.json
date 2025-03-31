@@ -2484,6 +2484,13 @@
     "nomination": false,
     "price": 300
   },
+  "ze_sunkentemple": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 450
+  },
   "ze_surf_auv": {
     "admin": false,
     "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
