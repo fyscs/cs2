@@ -1301,6 +1301,13 @@
     "nomination": false,
     "price": 300
   },
+  "ze_kage_cs2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 400
+  },
   "ze_kraznov_poopata_p": {
     "admin": false,
     "certainTimes": [-1],

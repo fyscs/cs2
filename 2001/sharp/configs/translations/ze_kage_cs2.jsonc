@@ -1,0 +1,112 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Stage1  ***": {
+    "translation": "*** 第一关 ***"
+  },
+  "*** WarmTime 60s***": {
+    "translation": "*** 热身时间 60秒***"
+  },
+  "--train leave in 10s--": {
+    "translation": "--列车将在 >> 10 << 秒后出发--"
+  },
+  "--train leave in 1s--": {
+    "translation": "--列车将在 >> 1 << 秒后出发--"
+  },
+  "--train leave in 5s--": {
+    "translation": "--列车将在 >> 5 << 秒后出发--"
+  },
+  "--train leave in 3s--": {
+    "translation": "--列车将在 >> 3 << 秒后出发--"
+  },
+  "--train leave in 2s--": {
+    "translation": "--列车将在 >> 2 << 秒后出发--"
+  },
+  "--train leave in 4s--": {
+    "translation": "--列车将在 >> 4 << 秒后出发--"
+  },
+  "--Defense 5s--": {
+    "translation": "--防守 >> 5 << 秒--"
+  },
+  "--Defense 4s--": {
+    "translation": "--防守 >> 4 << 秒--"
+  },
+  "--Defense 3s--": {
+    "translation": "--防守 >> 3 << 秒--"
+  },
+  "--Defense 2s--": {
+    "translation": "--防守 >> 2 << 秒--"
+  },
+  "--Defense 1s--": {
+    "translation": "--防守 >> 1 << 秒--"
+  },
+  "--GO GO GO--": {
+    "translation": "--全速前进!!--"
+  },
+  "--zombie coming in 5s--": {
+    "translation": "--僵尸 >> 5 << 秒后抵达--"
+  },
+  "--zombie coming in 4s--": {
+    "translation": "--僵尸 >> 4 << 秒后抵达--"
+  },
+  "--zombie coming in 3s--": {
+    "translation": "--僵尸 >> 3 << 秒后抵达--"
+  },
+  "--zombie coming in 2s--": {
+    "translation": "--僵尸 >> 2 << 秒后抵达--"
+  },
+  "--zombie coming in 1s--": {
+    "translation": "--僵尸 >> 1 << 秒后抵达--"
+  },
+  "--zombie coming--": {
+    "translation": "--僵尸来了--"
+  },
+  "-- Z teleport in 4s  --": {
+    "translation": "-- 僵尸 >> 4 << 秒后传送  --"
+  },
+  "-- Z teleport in 3s  --": {
+    "translation": "-- 僵尸 >> 3 << 秒后传送  --"
+  },
+  "-- Z teleport in 2s  --": {
+    "translation": "-- 僵尸 >> 2 << 秒后传送  --"
+  },
+  "-- Z teleport in 1s  --": {
+    "translation": "-- 僵尸 >> 1 << 秒后传送  --"
+  },
+  "-- Z teleport in 5s  --": {
+    "translation": "-- 僵尸 >> 5 << 秒后传送  --"
+  },
+  "--zombie coming in 8s--": {
+    "translation": "--僵尸 >> 8 << 秒后抵达--"
+  },
+  "--Defense 35s--": {
+    "translation": "--防守 >> 35 << 秒--"
+  },
+  "--zombie teleport in 7s--": {
+    "translation": "--僵尸 >> 7 << 秒后传送--"
+  },
+  "--Defense--": {
+    "translation": "--防守--"
+  },
+  "--Defense 25s--": {
+    "translation": "--防守 >> 25 << 秒--"
+  },
+  "--z_road opened--": {
+    "translation": "--僵尸通道已开启--"
+  },
+  "--z_road open in 7s--": {
+    "translation": "--僵尸通道 >> 7 << 秒后开启--"
+  },
+  "--z_road open--": {
+    "translation": "--僵尸通道已开放--"
+  }
+}
