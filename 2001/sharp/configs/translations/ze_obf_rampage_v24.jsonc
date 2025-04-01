@@ -1,0 +1,165 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Put the valve on and turn it": {
+    "translation": ">> 装上 <齿轮> 并转动它!! >>"
+  },
+  "Gas was turned off..": {
+    "translation": "<< 蒸汽阀门已关闭 <<"
+  },
+  "Door is opening": {
+    "translation": ">> 门正在打开 >>"
+  },
+  "Prepare..": {
+    "translation": ">> 准备好... >>"
+  },
+  "The doors opening in 28s": {
+    "translation": ">> 门还有30秒打开 >>",
+    "countdown": 30
+  },
+  "RUN": {
+    "translation": "快跑!!!"
+  },
+  "Door open in 53 sec": {
+    "translation": "<< 还有53秒打开 <<"
+  },
+  "We need to hack the computer and upload the virus!": {
+    "translation": "我们需要骇入电脑上传病毒!!"
+  },
+  "We need to turn on the light power..": {
+    "translation": "我们需要启动电源把<灯>打开.."
+  },
+  "Stay inside the room until the zombies outside get teleport!": {
+    "translation": "待在房间里直到僵尸传送!"
+  },
+  "Power has been Activated": {
+    "translation": "电源已启动!!"
+  },
+  "Break the laser power switch!": {
+    "translation": "击碎 <电力开关>!"
+  },
+  "we need to turn on the stovepipe to break a way!": {
+    "translation": "我们需要炸开这里找到出去的路!!"
+  },
+  "Get inside !": {
+    "translation": "快进来!"
+  },
+  "Rampage Mode on": {
+    "translation": "嘟嘟嘟嘟!!!"
+  },
+  "Prepare to fight until the end.": {
+    "translation": "准备好,战至最后一刻!"
+  },
+  "GET ON THE HELICOPTER": {
+    "translation": "快上直升机!!"
+  },
+  "To be continute...": {
+    "translation": "未完待续..."
+  },
+  "Bomb will blow up to in 110 sec.": {
+    "translation": "炸弹将于108秒后爆炸."
+  },
+  "we still alive..": {
+    "translation": "我们还活着.."
+  },
+  "Let's get out of here.": {
+    "translation": "我们离开这里."
+  },
+  "Get on the roof!!!": {
+    "translation": "快上来!!!"
+  },
+  "We have to stay here for 78 sec.": {
+    "translation": "在这里坚持80秒.",
+    "countdown": 80
+  },
+  "Power is OFF": {
+    "translation": "电力已切断!!"
+  },
+  "Power will be cut off in a few moments": {
+    "translation": "电力即将切断"
+  },
+  "The door opening in 15s": {
+    "translation": "门将在15秒后打开"
+  },
+  "Objective Rampage - Chapter Fire": {
+    "translation": "横冲直撞 - 炽焰燎原"
+  },
+  "<<<Rise and shine, Soldiers with burning heart.>>>": {
+    "translation": "<<<去征战四方吧,拥有火热之心的战士们.>>>"
+  },
+  "<<<No one is more deserving of a rest, all the effort in the world would have gone to waste.>>>": {
+    "translation": "<<<不能再停下来了,不然所有努力都会因此而白费.>>>"
+  },
+  "<<<your hour is come again.>>>": {
+    "translation": "<<<又到了你们出场的时候了.>>>"
+  },
+  "<<<The right man in the wrong place can make all the difference in the world.>>>": {
+    "translation": "<<<无论何时都要去做正确的事,不然可能会彻底改变这一切.>>>"
+  },
+  "<<<Wake up and smell the Ashes.>>>": {
+    "translation": "<<<好了,是时候了.>>>"
+  },
+  "<<<Good luck.>>>": {
+    "translation": "<<<祝你们好运.>>>"
+  },
+  "Find a way to turn off the gas": {
+    "translation": "想办法关闭阀门"
+  },
+  "Get in and keep holding until the door is closed!": {
+    "translation": "进来守住!门就要关了"
+  },
+  "Defend until virus get uploaded": {
+    "translation": "病毒正在上传,坚持住"
+  },
+  "Bad feelings...": {
+    "translation": "不好的感觉..."
+  },
+  "We only could stay for 113 sec": {
+    "translation": "还有113秒"
+  },
+  "GET ON THE ELEVATOR": {
+    "translation": "快上电梯"
+  },
+  "Find a way to get into the room!": {
+    "translation": "想办法进来!"
+  },
+  "Watch out!": {
+    "translation": "当心!"
+  },
+  "DEFEND 63 SECONDS": {
+    "translation": "还要63秒"
+  },
+  "Zombie triggered,we have fail.": {
+    "translation": "僵尸完成了触发,我们失败了."
+  },
+  "** A player has adquired ULTIMA MATERIA **": {
+    "translation": "<< 玩家拾取了 [终极] <<"
+  },
+  "** A player has adquired GRAVITY MATERIA **": {
+    "translation": "<< 玩家拾取了 [重力] <<"
+  },
+  "** A player has adquired ELECTRO MATERIA **": {
+    "translation": "<< 玩家拾取了 [电] <<"
+  },
+  "** A player has adquired EARTH MATERIA **": {
+    "translation": "<< 玩家拾取了 [大墙] <<"
+  },
+  "** A player has adquired FIRE MATERIA **": {
+    "translation": "<< 玩家拾取了 [火] <<"
+  },
+  "** A player has adquired WIND MATERIA **": {
+    "translation": "<< 玩家拾取了 [凤] <<"
+  },
+  "** A player has adquired ICE MATERIA **": {
+    "translation": "<< 玩家拾取了 [冰] <<"
+  }
+}
