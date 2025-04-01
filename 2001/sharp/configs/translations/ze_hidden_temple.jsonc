@@ -1,0 +1,247 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "### MAP CREATED BY NARAKA ###": {
+    "translation": "### 地图作者: NARAKA 地图文本: >>茜茜<< ###"
+  },
+  "### WELCOME TO : HIDDEN TEMPLE ##": {
+    "translation": "### 欢迎来到 : 隐庙 ##"
+  },
+  "### KILL THE REMAINING ZOMBIES ###": {
+    "translation": "### 歼灭剩余僵尸 ###"
+  },
+  "### STAGE FAILED ###": {
+    "translation": "### 阶段失败 ###"
+  },
+  "### STAGE COMPLETED ###": {
+    "translation": "### 阶段完成 ###"
+  },
+  "### ALL 2 LEVERS ACTIVATED ###": {
+    "translation": "### 二个杠杆已触发 ###"
+  },
+  "### HOLD FOR 15 SECONDS ###": {
+    "translation": "### 坚守 >> 15 << 秒 ###"
+  },
+  "### YOU HAVE 90 SECONDS LEFT ###": {
+    "translation": "### 剩余 >> 90 << 秒 ###"
+  },
+  "### YOU HAVE 60 SECONDS LEFT ###": {
+    "translation": "### 剩余 >> 60 << 秒 ###"
+  },
+  "### YOU HAVE 30 SECONDS LEFT ###": {
+    "translation": "### 剩余 >> 30 << 秒 ###"
+  },
+  "### YOU HAVE 10 SECONDS LEFT ###": {
+    "translation": "### 剩余 >> 10 << 秒 ###"
+  },
+  "### DEFEND BOTH DOORS ###": {
+    "translation": "### 防守双门 ###"
+  },
+  "### WHILE SOMEONE GOES ACTIVED LEVER ###": {
+    "translation": "### 当有人激活杠杆时 ###"
+  },
+  "### ACTIVE THE LEVER TO OPEN GATES ###": {
+    "translation": "### 激活杠杆开启大门 ###"
+  },
+  ">>> YOU ALL HAVE 2 MINTUES BEFORE  <<<": {
+    "translation": ">>> 全体剩余二分钟  <<<"
+  },
+  "### NARAKA BECOMES IMMORTAL AND RELEASE ZOMBIES ###": {
+    "translation": "### NARAKA - 进入不朽形态并释放尸群 ###"
+  },
+  "###  NARAKA IS IMMORTAL NOW  ###": {
+    "translation": "###  NARAKA - 已获得不朽形态  ###"
+  },
+  ">> YOU HAVE NO CHANCE TO SURVIVE <<": {
+    "translation": ">> 生存概率为零 <<"
+  },
+  "lll NARAKA IS CASTING LIFESTEALER lll": {
+    "translation": "lll NARAKA - 正在施放生命窃取 lll"
+  },
+  "lll NARAKA IS CASTING DEATH BREATH lll": {
+    "translation": "lll NARAKA - 正在施放死亡吐息 lll"
+  },
+  "lll NARAKA IS USING PHYSICAL ATTACK lll": {
+    "translation": "lll NARAKA - 发动物理攻击 lll"
+  },
+  "### SHOOT THE CROSS IN THE MIDDLE ROOM ###": {
+    "translation": "### 射击中央房间的十字标记 ###"
+  },
+  "### TO OPEN CHURCH GATES ###": {
+    "translation": "### 以开启教堂大门 ###"
+  },
+  "### DEFEND UNTIL GATES CLOSED ###": {
+    "translation": "### 坚守至门关闭 ###"
+  },
+  "### 10 SECOND REMAINING ###": {
+    "translation": "### 最后 >> 10 << 秒 ###"
+  },
+  "### GATES OPEN IN 30 SECONDS ###": {
+    "translation": "### 大门 >> 30 << 秒后开启 ###"
+  },
+  "### HOLD FOR 30 SECONDS ###": {
+    "translation": "### 坚守 >> 30 << 秒 ###"
+  },
+  "### DEFEND BOTH SIDES ###": {
+    "translation": "### 两侧同步防守 ###"
+  },
+  "### 10 SECONDS REMAINING ###": {
+    "translation": "### 最后 >> 10 << 秒 ###"
+  },
+  "### ACTIVE 2 LEVERS TO OPEN GATES ###": {
+    "translation": "### 激活两个杠杆开启门 ###"
+  },
+  "### HOLD HERE UNTIL GATES OPEN ###": {
+    "translation": "### 固守此地直至门开启 ###"
+  },
+  "### GATE OPEN !! FALL BACK NOW ###": {
+    "translation": "### 大门打开 !! 立即撤退 ###"
+  },
+  "### LEFT GATES OPEN ###": {
+    "translation": "### 左侧门已开 ###"
+  },
+  "### RIGHT GATES OPEN ###": {
+    "translation": "### 右侧门已开 ###"
+  },
+  "### PRESS THE LAST LEVER ###": {
+    "translation": "### 按下最终开关 ###"
+  },
+  "### HOLD THIS AREA FOR 30 SECONDS ###": {
+    "translation": "### 区域坚守 >> 30 << 秒 ###"
+  },
+  "### FALL BACK NOW !!! ###": {
+    "translation": "### 立即撤退 !!! ###"
+  },
+  "### HOLD A BIT HERE ###": {
+    "translation": "### 短暂固守此地 ###"
+  },
+  "### CHURCH GATES CLOSED IN 10 SECONDS ###": {
+    "translation": "### 教堂大门 >> 10 << 秒后关闭 ###"
+  },
+  "### 5 SECOND REMAINING ###": {
+    "translation": "### 最后 >> 5 << 秒 ###"
+  },
+  "### CHURCH GATES OPEN IN 15 SECONDS ###": {
+    "translation": "### 教堂大门 >> 15 << 秒后开启 ###"
+  },
+  "### DEFEND HERE ###": {
+    "translation": "### 在这里防守 ###"
+  },
+  "### 2 LEVERS NEED TO ACTIVE TO OPEN THE DOOR ###": {
+    "translation": "### 需激活两个杠杆开启门 ###"
+  },
+  "### ZOMBIES ARE COMING FOR LEFT SIDE ###": {
+    "translation": "### 尸王正从左侧冲来 ###"
+  },
+  "## HOLD HERE FOR A BIT ###": {
+    "translation": "## 临时驻守此地 ###"
+  },
+  "### DEFEND THIS HALL WAY ###": {
+    "translation": "### 防守走廊 ###"
+  },
+  "### LIGHT THESE BARRELS AND WAIT ###": {
+    "translation": "### 点燃这些木桶并等待 ###"
+  },
+  ">>> HE'S DEAD. DEFEND UNTIL GATES OPEN <<<": {
+    "translation": ">>> 目标已消灭. 防守至大门打开 <<<"
+  },
+  "### LEFT LEVER ACTIVATED ###": {
+    "translation": "### 左侧拉杆已激活 ###"
+  },
+  "### GATE OPEN IN 30 SECONDS ###": {
+    "translation": "### 大门 >> 30 << 秒后打开 ###"
+  },
+  "### YOU NEED TO CROSS BACK ###": {
+    "translation": "### 需折返穿越 ###"
+  },
+  "### PILLARS GONNA BREAK SOON ###": {
+    "translation": "### 支柱即将崩塌 ###"
+  },
+  "### GATE IS OPENING ###": {
+    "translation": "### 大门开启中 ###"
+  },
+  "### HOLD UNTIL THE GATES CLOSED ###": {
+    "translation": "### 防守至大门关闭 ###"
+  },
+  "### FINAL GATES IS OPENING FALL BACK ###": {
+    "translation": "### 最终门开启 全体撤退! ###"
+  },
+  "### 30 SECONDS REMAINING ###": {
+    "translation": "### 最后 >> 30 << 秒 ###"
+  },
+  "### FINAL GATES OPEN IN 40 SECONDS ###": {
+    "translation": "### 最终大门 >> 40 << 秒后开启 ###"
+  },
+  "### UNTIL FINAL GATES OPEN ###": {
+    "translation": "### 直至最终大门开启 ###"
+  },
+  "### HOLD THESE LADDERS ###": {
+    "translation": "### 守住来时的楼梯,别假摔! ###"
+  },
+  "### RIGHT LEVER ACTIVATED ###": {
+    "translation": "### 右侧拉杆已激活 ###"
+  },
+  "### LEAVE THE ROOM OR DEAD ###": {
+    "translation": "### 撤离房间或死亡 ###"
+  },
+  "### HOLD BOTH SIDES FOR 20 SECONDS ###": {
+    "translation": "### 两侧同步防守 >> 20 << 秒 ###"
+  },
+  "### BARRELS EXPLODE IN 30 SECONDS ###": {
+    "translation": "### 木桶 >> 30 << 秒后爆炸 ###"
+  },
+  "### DONT STAY CLOSE TO THESE BARRELS ###": {
+    "translation": "### 不要靠近木桶 ###"
+  },
+  "### FALL BACKK !! ###": {
+    "translation": "### 撤退 !! ###"
+  },
+  ">>> 1 <<<": {
+    "translation": ">>> 1 <<<"
+  },
+  ">>> 2 <<<": {
+    "translation": ">>> 2 <<<"
+  },
+  ">>> 3 <<<": {
+    "translation": ">>> 3 <<<"
+  },
+  "### NUKE HAS BEEN ACTIVATED FROM ADMIN ROOM ###": {
+    "translation": "### 管理员 - 已启动核弹 ###"
+  },
+  "### ADMIN HAS SELECTED STAGE: I ###": {
+    "translation": "### 管理员 - 选择关卡: I ###"
+  },
+  "### ADMIN HAS SELECTED STAGE: II ###": {
+    "translation": "### 管理员 - 选择关卡: II ###"
+  },
+  "### HOLD THIS HALL UNTIL GATE OPEN ###": {
+    "translation": "### 防守大厅直至大门开启 ###"
+  },
+  "### WARMUP - 50 SECONDS LEFT ###": {
+    "translation": "### 热身阶段 - 剩余 >> 50 << 秒 ###"
+  },
+  "### WARMUP - 40 SECONDS LEFT ###": {
+    "translation": "### 热身阶段 - 剩余 >> 40 << 秒 ###"
+  },
+  "### WARMUP - 30 SECONDS LEFT ###": {
+    "translation": "### 热身阶段 - 剩余 >> 30 << 秒 ###"
+  },
+  "### WARMUP - 20 SECONDS LEFT ###": {
+    "translation": "### 热身阶段 - 剩余 >> 20 << 秒 ###"
+  },
+  "### WARMUP - 10 SECONDS LEFT ###": {
+    "translation": "### 热身阶段 - 剩余 >> 10 << 秒 ###"
+  },
+  "### WARMUP OVER - RESTARTING ROUND ###": {
+    "translation": "### 热身结束 - 重启回合 ###"
+  }
+}

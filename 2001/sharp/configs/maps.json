@@ -6,6 +6,13 @@
     "nomination": false,
     "price": 300
   },
+  "ze_2012_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300
+  },
   "ze_2025_xmas_world": {
     "admin": false,
     "certainTimes": [-1],
@@ -1084,6 +1091,13 @@
     "nomination": false,
     "price": 300
   },
+  "ze_hidden_temple": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 450
+  },
   "ze_hlc_tsunami_v1": {
     "admin": true,
     "certainTimes": [-1],
@@ -1293,6 +1307,13 @@
     "cooldown": 60,
     "nomination": false,
     "price": 300
+  },
+  "ze_kage_cs2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 400
   },
   "ze_kraznov_poopata_p": {
     "admin": false,
@@ -2483,6 +2504,13 @@
     "cooldown": 60,
     "nomination": false,
     "price": 300
+  },
+  "ze_sunkentemple": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 450
   },
   "ze_surf_auv": {
     "admin": false,
