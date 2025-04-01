@@ -1,0 +1,145 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> BLUE <<<": {
+    "translation": ">>> 蓝 - 十  <<<"
+  },
+  ">>> Gate will open in 20 seconds <<<": {
+    "translation": ">>> 大门 20 秒后开启 <<<"
+  },
+  ">>> Gate will close in 15 seconds <<<": {
+    "translation": ">>> 大门 15 秒后关闭 <<<"
+  },
+  ">>> Gate will open in 40 seconds <<<": {
+    "translation": ">>> 大门 40 秒后开启 <<<"
+  },
+  ">>> Gate will close in 10 seconds <<<": {
+    "translation": ">>> 大门 10 秒后关闭 <<<"
+  },
+  "*** YOU KILLED THE BOSS ***": {
+    "translation": "*** BOSS 已被击杀 ***"
+  },
+  ">>> Zombies will teleport in 20 seconds <<<": {
+    "translation": ">>> 僵尸 20 秒后传送 <<<"
+  },
+  ">>> Drawbridge will open in 15 seconds <<<": {
+    "translation": ">>> 吊桥 15 秒后降下 <<<"
+  },
+  ">>> Thanks for playing <<<": {
+    "translation": ">>> 感谢您的游玩 <<<"
+  },
+  ">>> Map made by Ripsaw <<<": {
+    "translation": ">>> 地图作者: Ripsaw 地图文本: >> 茜茜 << <<<"
+  },
+  ">>> Thanks to Luffaren for the lever model <<<": {
+    "translation": ">>> 感谢Luffaren 提供的拉杆模型 <<<"
+  },
+  ">>> Thanks to Syoudous & Enviolinador for help / Tips": {
+    "translation": ">>> 鸣谢 Syoudous & Enviolinador 的协助 / 建议 <<<"
+  },
+  ">>> Door will open in 20 seconds <<<": {
+    "translation": ">>> 门将在 20 秒后打开 <<<"
+  },
+  ">>> Gate will open in 10 seconds <<<": {
+    "translation": ">>> 大门 10 秒后打开 <<<"
+  },
+  ">>> RED <<<": {
+    "translation": ">>> 红 <<<"
+  },
+  ">>> Pit will open in 25 seconds <<<": {
+    "translation": ">>> 陷阱 25 秒后启动 <<<"
+  },
+  ">>> Pit will open in 5 seconds <<<": {
+    "translation": ">>> 陷阱 5 秒后启动 <<<"
+  },
+  ">>> Zombies will teleport in 15 seconds <<<": {
+    "translation": ">>> 僵尸 15 秒后传送 <<<"
+  },
+  ">>> All levers has been pressed <<<": {
+    "translation": ">>> 所有拉杆已触发 <<<"
+  },
+  ">>> Wall will break in 25 seconds <<<": {
+    "translation": ">>> 墙 25 秒后崩塌 <<<"
+  },
+  ">>> PURPLE <<<": {
+    "translation": ">>> 紫 <<<"
+  },
+  ">>> SLASH <<<": {
+    "translation": ">>> 跳刀 <<<"
+  },
+  ">>> GREEN <<<": {
+    "translation": ">>> 绿 <<<"
+  },
+  ">>> YELLOW <<<": {
+    "translation": ">>> 黄 - X <<<"
+  },
+  ">>> Zombies will teleport in 25 seconds <<<": {
+    "translation": ">>> 僵尸 25 秒后传送 <<<"
+  },
+  ">>> Zombies will teleport in 10 seconds <<<": {
+    "translation": ">>> 僵尸 10 秒后传送 <<<"
+  },
+  ">>> Fall pit will break in 20 seconds <<<": {
+    "translation": ">>> 陷坑 20 秒后坍塌 <<<"
+  },
+  ">>> Fall pit will break in 5 seconds <<<": {
+    "translation": ">>> 陷坑 5 秒后坍塌 <<<"
+  },
+  ">>> LFG SUNKENTEMPLE <<<": {
+    "translation": ">>> LFG 沉没神庙 <<<"
+  },
+  ">>> Gate will open in 5 seconds <<<": {
+    "translation": ">>> 大门 5 秒后打开 <<<"
+  },
+  ">>> Gate will open in 15 seconds <<<": {
+    "translation": ">>> 大门 15 秒后打开 <<<"
+  },
+  ">>> Lower gate will open in 40 seconds <<<": {
+    "translation": ">>> 下层门 40 秒后打开 <<<"
+  },
+  ">>> Lower gate will open in 10 seconds <<<": {
+    "translation": ">>> 下层门 40 秒后打开 <<<"
+  },
+  ">>> Upper gate will open in 25 seconds <<<": {
+    "translation": ">>> 上层门 25 秒后打开 <<<"
+  },
+  ">>> Keep defending untill the gate closes <<<": {
+    "translation": ">>> 继续防守,直到大门关闭 <<<"
+  },
+  ">>> Split up and keep defending <<<": {
+    "translation": ">>> 分头继续防守 <<<"
+  },
+  ">>> Zombies teleport in 15 seconds <<<": {
+    "translation": ">>> 僵尸15秒后传送 <<<"
+  },
+  ">>> DEFEND <<<": {
+    "translation": ">>> 防守 <<<"
+  },
+  ">>> Gate is opening <<<": {
+    "translation": ">>> 大门开启中 <<<"
+  },
+  ">>> FIND ANOTHER WAY  FAST <<<": {
+    "translation": ">>> 快速寻找其他路径 <<<"
+  },
+  ">>> Try shooting the walls <<<": {
+    "translation": ">>> 尝试射击墙体 <<<"
+  },
+  ">>> Push has been picked <<<": {
+    "translation": ">>> 推力枪 - 已拾取 <<<"
+  },
+  ">>> Wall has been picked <<<": {
+    "translation": ">>> 墙 - 已拾取 <<<"
+  },
+  ">>> Heal has been picked <<<": {
+    "translation": ">>> 治疗 - 已拾取 <<<"
+  }
+}

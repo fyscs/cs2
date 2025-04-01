@@ -1,0 +1,147 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Lift 3 is leaving in 30 seconds ***": {
+    "translation": "*** 叁号 - 电梯将在 >> 30 << 秒后离开 ***",
+    "countdown": 30
+  },
+  "*** Lift 2 is leaving in 25 seconds ***": {
+    "translation": "*** 贰号 - 电梯将在 >> 25 << 秒后离开 ***",
+    "countdown": 25
+  },
+  "*** Lift 4 is leaving in 25 seconds ***": {
+    "translation": "*** 肆号 - 电梯将在 >> 25 << 秒后离开 ***",
+    "countdown": 25
+  },
+  "*** Lift 1 is leaving in 20 seconds ***": {
+    "translation": "*** 壹号 - 电梯将在 >> 20 << 秒后离开 ***",
+    "countdown": 20
+  },
+  "***Lift is leaving in 5 seconds!***": {
+    "translation": "***电梯将在 >> 5 << 秒后离开!***"
+  },
+  "**You got 60 Damn seconds to close the arkdoor!": {
+    "translation": "**你有 >> 60 << 秒的时间关闭方舟门!"
+  },
+  "[Clear whatever is jamming the gears first!]": {
+    "translation": "[先清理卡住齿轮的东西!]"
+  },
+  "**Keep zombies on a distance! Shoot between the bars!": {
+    "translation": "**和僵尸保持距离! 从栏杆之间射击!"
+  },
+  "**Arc door 4 opening!": {
+    "translation": "**四号方舟门正在打开!"
+  },
+  "**Only a few persons can pass to break what is jamming the gears!***": {
+    "translation": "**去一个人破坏卡住齿轮的东西!***"
+  },
+  "***Don't let zombies break the bars!***": {
+    "translation": "***别让僵尸破坏栏杆!***"
+  },
+  "**Stay fucking defending untill the gears are broken!***": {
+    "translation": "**死守到齿轮被破坏为止!***"
+  },
+  "[The ark door won't close! Something must be jamming the gears!]": {
+    "translation": "[方舟门关不上! 肯定有东西卡住齿轮了!]"
+  },
+  "[Ark door is closing!]": {
+    "translation": "[方舟门正在关闭!]"
+  },
+  "***Hold the cave for 30 seconds!***": {
+    "translation": "***防守洞穴 >> 30 << 秒!***"
+  },
+  "***Don't let the zombies come inside or we're doomed!***": {
+    "translation": "***别让僵尸进来, 否则我们就完蛋了!***"
+  },
+  "***Hold the cave for 15 seconds!***": {
+    "translation": "***防守洞穴 >> 15 << 秒!***"
+  },
+  "***Ruuuuun!***": {
+    "translation": "***快跑啊啊啊!***"
+  },
+  "***...4...***": {
+    "translation": "***...4...***"
+  },
+  "***...3...***": {
+    "translation": "***...3...***"
+  },
+  "***...2...***": {
+    "translation": "***...2...***"
+  },
+  "***...1...***": {
+    "translation": "***...1...***"
+  },
+  "***Defend the top floor!***": {
+    "translation": "***守住顶层!***"
+  },
+  "***Keep Zombies in the cargo!***": {
+    "translation": "***把僵尸留在货舱里!***"
+  },
+  "***Cockpit & Cargo door closing in 5s***": {
+    "translation": "***驾驶舱 & 货舱门 >> 5 << 秒后关闭***"
+  },
+  "***Cockpit door closing in 15s***": {
+    "translation": "***驾驶舱门 >> 15 << 秒后关闭***"
+  },
+  "***Hold the cockpit for 30s!***": {
+    "translation": "***防守驾驶舱 >> 30 << 秒!***"
+  },
+  "***Keep defending the top floor !***": {
+    "translation": "***继续防守顶层 !***"
+  },
+  "***Start the engine by pressing the button!***": {
+    "translation": "***按下按钮启动引擎!***"
+  },
+  "***Cargo door is opening in 15 seconds. HOLD!!!***": {
+    "translation": "***货舱门15秒后开启. 守住!!!***"
+  },
+  "***Make your way to the cockpit and start the engines!***": {
+    "translation": "***前往驾驶舱并启动引擎!***"
+  },
+  "***GO! The door is opening!***": {
+    "translation": "***快跑! 门要开了!***"
+  },
+  "***Goto the cargo door***": {
+    "translation": "***去货舱门***"
+  },
+  "***Cross the metal ropes!***": {
+    "translation": "***穿过钢索!***"
+  },
+  "**Stay fucking defending untill you are told to run in !***": {
+    "translation": "**一直防守,直到有人叫你撤退 !***"
+  },
+  "*** Lift 5 is leaving in 20 seconds ***": {
+    "translation": "*** 伍号 - 电梯将在 >> 20 << 秒后离开 ***",
+    "countdown": 20
+  },
+  "***Appartment lift is opening in 5 seconds!***": {
+    "translation": "***公寓电梯 >> 5 << 秒后打开!***"
+  },
+  "***Appartment lift is opening in 10 seconds!***": {
+    "translation": "***公寓电梯 >> 10 << 秒后打开!***"
+  },
+  "***Keep Zombies outside!***": {
+    "translation": "***把僵尸挡在外面!***"
+  },
+  "***Appartment lift is opening in 20 seconds!***": {
+    "translation": "***公寓电梯 >> 20 << 秒后打开!***"
+  },
+  "***Appartment lift is open! Press the button to activate it!***": {
+    "translation": "***公寓电梯已打开! 按下按钮启动它!***"
+  },
+  "***Go close the ark! Hurry!***": {
+    "translation": "***关闭方舟门! 快!***"
+  },
+  "***RUN into the ark! Hurry!***": {
+    "translation": "***快跑进方舟! 赶快!***"
+  }
+}
