@@ -1735,6 +1735,13 @@
     "nomination": true,
     "price": 2000
   },
+  "ze_obf_rampage_v24": {
+    "admin": true,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown":  300,
+    "nomination": true,
+    "price": 2500
+  },
   "ze_obf_rescape": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
