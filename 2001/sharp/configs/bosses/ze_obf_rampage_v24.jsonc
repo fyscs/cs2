@@ -28,7 +28,23 @@
       "counter": "BossHpBar_Counter",
       "hitbox": "New_Boss_Heli_Model",
       "reverse": true,
-      "display": "直升机"
+      "display": "Bahamut"
+    }
+  ],
+  "Breakables": [
+    {
+      "target": "Fool_Bah_End_Break",
+      "display": "Bahamut"
+    },
+    {
+      "target": "Fool_Seph_End_Break",
+      "display": "Sephiroth"
+    }
+  ],
+  "Monsters": [
+    {
+      "display": "Barnacle",
+      "identity": "18178"
     }
   ]
 }
