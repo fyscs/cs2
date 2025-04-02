@@ -2719,8 +2719,8 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 60,
-    "nomination": false,
-    "price": 300
+    "nomination": true,
+    "price": 400
   },
   "ze_townscapes": {
     "admin": false,
