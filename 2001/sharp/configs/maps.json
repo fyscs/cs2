@@ -2620,9 +2620,9 @@
   "ze_temple_escape_p": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 80,
+    "cooldown": 60,
     "nomination": false,
-    "price": 600
+    "price": 300
   },
   "ze_temple_of_phantom_cs2": {
     "admin": false,
