@@ -114,7 +114,7 @@
   "ze_aot_trost_v6r": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 240,
+    "cooldown": 300,
     "nomination": true,
     "price": 800
   },
@@ -1042,14 +1042,14 @@
     "nomination": false,
     "price": 300
   },
-  "ze_gtasa_police_station_remix_m": {
+  "ze_gtasa_police_station_2_m": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 60,
     "nomination": false,
     "price": 300
   },
-  "ze_gtasa_police_station_2_m": {
+  "ze_gtasa_police_station_remix_m": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 60,
@@ -1350,7 +1350,7 @@
     "nomination": false,
     "price": 300
   },
-    "ze_legend_of_astrum_z": {
+  "ze_legend_of_astrum_z": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 100,
@@ -1490,6 +1490,13 @@
     "nomination": true,
     "price": 300
   },
+  "ze_madness": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 300
+  },
   "ze_magala_castle_p": {
     "admin": false,
     "certainTimes": [-1],
@@ -1529,13 +1536,6 @@
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 60,
-    "nomination": true,
-    "price": 300
-  },
-  "ze_madness": {
-    "admin": false,
-    "certainTimes": [-1],
-    "cooldown": 80,
     "nomination": true,
     "price": 300
   },
@@ -1724,119 +1724,119 @@
   "ze_obf_filth_v1": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  240,
+    "cooldown": 300,
     "nomination": true,
     "price": 2000
   },
   "ze_obf_insane": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  240,
+    "cooldown": 300,
     "nomination": true,
     "price": 2000
   },
   "ze_obf_npst_v1": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  240,
+    "cooldown": 300,
     "nomination": true,
     "price": 2000
   },
   "ze_obf_npst_v2": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  240,
+    "cooldown": 300,
     "nomination": true,
     "price": 2000
   },
   "ze_obf_rampage_v2_legacy": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  240,
+    "cooldown": 300,
     "nomination": true,
     "price": 2000
   },
   "ze_obf_rampage_v24": {
     "admin": true,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  300,
+    "cooldown": 360,
     "nomination": true,
     "price": 2500
   },
   "ze_obf_rescape": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  240,
+    "cooldown": 300,
     "nomination": true,
     "price": 2000
   },
   "ze_obj_ember": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  240,
+    "cooldown": 300,
     "nomination": true,
     "price": 1600
   },
   "ze_obj_encounter": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  240,
+    "cooldown": 300,
     "nomination": true,
     "price": 2000
   },
   "ze_obj_escalation_v1": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  240,
+    "cooldown": 300,
     "nomination": true,
     "price": 2000
   },
   "ze_obj_goosestep_v1": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  240,
+    "cooldown": 300,
     "nomination": true,
     "price": 1600
   },
   "ze_obj_ouroboros_aurora": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  240,
+    "cooldown": 300,
     "nomination": true,
     "price": 2000
   },
   "ze_obj_ouroboros_ragnarok": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  240,
+    "cooldown": 300,
     "nomination": true,
     "price": 1500
   },
   "ze_obj_rampage_v1_2": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  240,
+    "cooldown": 300,
     "nomination": true,
     "price": 2000
   },
   "ze_obj_redemption": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  240,
+    "cooldown": 300,
     "nomination": true,
     "price": 1800
   },
   "ze_obj_void_v1": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  240,
+    "cooldown": 300,
     "nomination": true,
     "price": 1500
   },
   "ze_ocarina_of_time": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown":  200,
+    "cooldown": 200,
     "nomination": true,
     "price": 1000
   },
@@ -1934,7 +1934,7 @@
   "ze_p_v_z": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 240,
+    "cooldown": 300,
     "nomination": true,
     "price": 800
   },
@@ -2659,19 +2659,19 @@
     "nomination": true,
     "price": 800
   },
-  "ze_thousand_steps_p": {
-    "admin": false,
-    "certainTimes": [-1],
-    "cooldown": 60,
-    "nomination": false,
-    "price": 300
-  },
   "ze_thorn_final_song": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 120,
     "nomination": true,
     "price": 400
+  },
+  "ze_thousand_steps_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300
   },
   "ze_tilex_escape_p": {
     "admin": false,
@@ -2687,14 +2687,14 @@
     "nomination": true,
     "price": 550
   },
-  "ze_titanic_sweet_dreams": {
+  "ze_titanic_escape_p": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 60,
     "nomination": false,
     "price": 300
   },
-  "ze_titanic_escape_p": {
+  "ze_titanic_sweet_dreams": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 60,
