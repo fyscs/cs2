@@ -1,0 +1,110 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***** ZOMBIES ARE INFECTING THE AIR *****": {
+    "translation": "***** 僵尸正在污染空气 *****"
+  },
+  "***** HUMANS MUST SURVIVE FOR 1.5 MINUTES *****": {
+    "translation": "***** 人类需存活 >> 90 <<  秒 *****",
+    "countdown": 90
+  },
+  "***** ZOMBIES SEEN AT BLACK LION SWIMMING POOLS ****": {
+    "translation": "***** 黑狮游泳池发现僵尸踪迹 ****"
+  },
+  "***** 45 SECONDS UNTIL AIR BECOMES TOXIC *****": {
+    "translation": "***** >> 45 << 秒后空气将全面污染 *****"
+  },
+  "***** 10 SECONDS UNTIL AIR BECOMES FULLY TOXIC *****": {
+    "translation": "***** >> 10 << 秒后空气完全污染 *****"
+  },
+  "***** GET INSIDE THE BUILDING *****": {
+    "translation": "***** 立即进入建筑物 *****"
+  },
+  "***** 3 *****": {
+    "translation": "***** 3 *****"
+  },
+  "***** 2 *****": {
+    "translation": "***** 2 *****"
+  },
+  "***** 1 *****": {
+    "translation": "***** 1 *****"
+  },
+  "***** BLACK LION SWIMMING POOLS CONTAMINATED *****": {
+    "translation": "***** 黑狮游泳池已遭污染 *****"
+  },
+  "***** DRAINING PUMPS ACTIVATED *****": {
+    "translation": "***** 排水系统已启动 *****"
+  },
+  "***** PUMPS DAMAGED *****": {
+    "translation": "***** 排水泵受损 *****"
+  },
+  "***** PUMP FAILURE IMMINENT *****": {
+    "translation": "***** 泵体即将故障 *****"
+  },
+  "***** DOORS ARE ABOUT TO LOCK..... *****": {
+    "translation": "***** 大门即将锁定..... *****"
+  },
+  "***** WARNING - INCOMING FLOODS *****": {
+    "translation": "***** 警告 - 洪水来袭 *****"
+  },
+  "***** ALL DOORS LOCKED *****": {
+    "translation": "***** 全部大门已锁定 *****"
+  },
+  "***** TOXIC AIR LEVELS RETURNING TO NORMAL *****": {
+    "translation": "***** 空气毒性正在消退 *****"
+  },
+  "***** ESCAPE DOORS S1 & S2 OPENING *****": {
+    "translation": "***** 逃生门 S1 & S2 正在打开 *****"
+  },
+  "***** ESCAPE DOORS E1 & E3 OPENED *****": {
+    "translation": "***** 逃生门 E1 & E3 已打开 *****"
+  },
+  "***** 10 SECONDS BEFORE ESCAPE DOORS OPEN *****": {
+    "translation": "*****  逃生门开启倒计时 >> 10 << 秒 *****"
+  },
+  "***** ESCAPE DOORS C1 OPENING *****": {
+    "translation": "***** 逃生门C1正在打开 *****"
+  },
+  "***** ANTI TOXINS BEING RELEASED ****": {
+    "translation": "***** 空气净化释放中 ****"
+  },
+  "***** 40 SECONDS UNTIL EFFECT ****": {
+    "translation": "***** 倒计时 >> 40 << 秒 ****"
+  },
+  "***** 30 SECONDS UNTIL EFFECT ****": {
+    "translation": "***** 倒计时 >> 30 << 秒 ****"
+  },
+  "***** 5 SECONDS UNTIL EFFECT ****": {
+    "translation": "***** 倒计时 >> 5 << 秒 ****"
+  },
+  "***** 4 SECONDS UNTIL EFFECT ****": {
+    "translation": "***** 倒计时 >> 4 << 秒 ****"
+  },
+  "***** 3 SECONDS UNTIL EFFECT ****": {
+    "translation": "***** 倒计时 >> 3 << 秒 ****"
+  },
+  "***** 2 SECONDS UNTIL EFFECT ****": {
+    "translation": "***** 倒计时 >> 2 << 秒 ****"
+  },
+  "***** 1 SECOND UNTIL EFFECT ****": {
+    "translation": "***** 倒计时 >> 1 << 秒 ****"
+  },
+  "***** GET TO THE SAFETY ROOM ON THE ROOF ****": {
+    "translation": "***** 前往屋顶安全屋 ****"
+  },
+  "***** ANTI TOXIN'S EFFECTIVE": {
+    "translation": "***** 空气净化已生效 ****"
+  },
+  "***** 10 SECONDS UNTIL EFFECT ****": {
+    "translation": "***** 倒计时 >> 10 << 秒 ****"
+  }
+}
