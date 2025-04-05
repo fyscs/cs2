@@ -188,6 +188,13 @@
     "nomination": false,
     "price": 300
   },
+  "mg_copter_tower_v5": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 30,
+    "nomination": false,
+    "price": 300
+  },
   "mg_swag_multigames_v7_fys": {
     "admin": false,
     "certainTimes": [-1],
