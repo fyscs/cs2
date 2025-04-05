@@ -3437,6 +3437,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 25
   },
+  "ze_thriller_escape_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_tilex_escape_p": {
     "admin": false,
     "certainTimes": [-1],
