@@ -71,61 +71,71 @@
     "translation": "*** 一位糕手拿到了冰冻 ***"
   },
   "*** Freeze Ring has a cooldown of 60 secs. ***": {
-    "translation": "*** 冰冻有六十秒的冷却时间 ***"
+    "translation": "*** 冰冻有六十秒的冷却时间 ***",
+    "blocked": true
   },
   "*** Mines has been picked up. ***": {
     "translation": "*** 一位糕手拿到了土豆雷 别当内鬼炸队友 ***"
   },
   "*** Mines can be used up to 6 times. ***": {
-    "translation": "*** 地雷可以用六次 ***"
+    "translation": "*** 地雷可以用六次 ***",
+    "blocked": true
   },
   "*** Flamethrower has been picked up. ***": {
     "translation": "*** 一位断后糕手拿到了喷火器 英雄 救救里昂们吧! ***"
   },
   "*** Flamethrower lasts about 16 secs and can be toggled. ***": {
-    "translation": "*** 喷火器可以喷十六秒 可以切换 ***"
+    "translation": "*** 喷火器可以喷十六秒 可以切换 ***",
+    "blocked": true
   },
   "*** Ammo Box has been picked up. ***": {
     "translation": "*** 一位糕手拿到了弹药箱 ***"
   },
   "*** Ammo Box has a cooldown of 60 secs. ***": {
-    "translation": "***弹药有六十秒的冷却时间 ***"
+    "translation": "***弹药有六十秒的冷却时间 ***",
+    "blocked": true
   },
   "*** Sprint has been picked up. ***": {
     "translation": "*** 一位guer拿到了加速 卖人的gou! ***"
   },
   "*** Sprint has a cooldown of 90 secs. ***": {
-    "translation": "*** 加速有九十秒的冷却时间 ***"
+    "translation": "*** 加速有九十秒的冷却时间 ***",
+    "blocked": true
   },
   "*** Invulnerability has been picked up. ***": {
     "translation": "*** 一位糕手拿到了无敌 ***"
   },
   "*** Invulnerability has a cooldown of 60 secs. ***": {
-    "translation": "*** 无敌的冷却时间是六十秒 ***"
+    "translation": "*** 无敌的冷却时间是六十秒 ***",
+    "blocked": true
   },
   "*** Push Gun has been picked up. ***": {
     "translation": "*** 一位高玩拿到了推力枪 ***"
   },
   "*** Push Gun has a cooldown of 20 secs. ***": {
-    "translation": "*** 推力有二十秒的冷却时间 ***"
+    "translation": "*** 推力有二十秒的冷却时间 ***",
+    "blocked": true
   },
   "*** Zombie Stopper has been picked up. ***": {
     "translation": "*** 一只僵尸在cos路障僵尸 ***"
   },
   "*** Zombie Sucker has a cooldown of 60 secs. ***": {
-    "translation": "*** 吸管有六十秒的冷却时间 ***"
+    "translation": "*** 吸管有六十秒的冷却时间 ***",
+    "blocked": true
   },
   "*** Zombie Sucker has been picked up. ***": {
     "translation": "*** 一只姜丝拿到了吸管 要吸里昂的血了快跑! ***"
   },
   "*** Zombie Rage has a cooldown of 60 secs. ***": {
-    "translation": "*** 僵尸加速有六十秒的冷却时间 ***"
+    "translation": "*** 僵尸加速有六十秒的冷却时间 ***",
+    "blocked": true
   },
   "*** Zombie Rage has been picked up. ***": {
     "translation": "*** 一只南通僵尸拿到了加速 嗷嗷追尾捅菊花! ***"
   },
   "*** Zombie Heal has a cooldown of 60 secs. ***": {
-    "translation": "*** 治疗有六十秒的冷却时间 ***"
+    "translation": "*** 治疗有六十秒的冷却时间 ***",
+    "blocked": true
   },
   "*** Zombie Heal has been picked up. ***": {
     "translation": "*** 一只僵尸拿到了治疗(并没有什么用) ***"
