@@ -47,5 +47,35 @@
       "hitbox": "Stage4_Meat_hit",
       "display": "Meat"
     }
+  ],
+  "Monsters":[
+    {
+      "identity": "3364",
+      "display": "水晶1"
+    },
+    {
+      "identity": "3372",
+      "display": "水晶2"
+    },
+    {
+      "identity": "3384",
+      "display": "水晶3"
+    },
+    {
+      "identity": "3623",
+      "display": "水晶4"
+    },
+    {
+      "identity": "3924",
+      "display": "水晶5"
+    },
+    {
+      "identity": "4215",
+      "display": "水晶6"
+    },
+    {
+      "identity": "3435",
+      "display": "水晶7"
+    }
   ]
 }
