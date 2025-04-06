@@ -57,5 +57,55 @@
       "hitbox": "Z_Bahamut_Hitbox",
       "display": "BahamutZ"
     }
+  ],
+  "Monsters": [
+    {
+      "identity": "24962",
+      "display": "ADS攻击_1"
+    },
+    {
+      "identity": "24974",
+      "display": "ADS攻击_2"
+    },    
+    {
+      "identity": "21205",
+      "display": "冬贝利"
+    },
+    {
+      "identity": "21209",
+      "display": "冬贝利"
+    },    
+    {
+      "identity": "21213",
+      "display": "冬贝利"
+    },
+    {
+      "identity": "21218",
+      "display": "冬贝利"
+    },    
+    {
+      "identity": "21661",
+      "display": "冬贝利"
+    },
+    {
+      "identity": "21665",
+      "display": "冬贝利"
+    },    
+    {
+      "identity": "21669",
+      "display": "冬贝利"
+    },
+    {
+      "identity": "21672",
+      "display": "冬贝利"
+    },    
+    {
+      "identity": "25255",
+      "display": "第四关ADS"
+    },
+    {
+      "identity": "25836",
+      "display": "第五关ADS"
+    }
   ]
 }
