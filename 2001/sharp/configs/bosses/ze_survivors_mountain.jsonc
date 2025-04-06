@@ -1,0 +1,74 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Monsters": [
+    {
+      "identity": "4015",
+      "display": "木板1"
+    },
+    {
+      "identity": "4189",
+      "display": "铁网1"
+    },
+    {
+      "identity": "4489",
+      "display": "木板2"
+    },
+    {
+      "identity": "5382",
+      "display": "铁门"
+    },
+    {
+      "identity": "6321",
+      "display": "木板3"
+    },
+    {
+      "identity": "6337",
+      "display": "铁网2"
+    },
+    {
+      "identity": "6368",
+      "display": "木板4"
+    },
+    {
+      "identity": "6380",
+      "display": "木板5"
+    },
+    {
+      "identity": "6411",
+      "display": "铁网3"
+    },
+    {
+      "identity": "6420",
+      "display": "木板6"
+    },
+    {
+      "identity": "6481",
+      "display": "木板7"
+    },
+    {
+      "identity": "18203",
+      "display": "木板8"
+    }
+  ]
+}
