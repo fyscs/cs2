@@ -3264,7 +3264,7 @@
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
-    "requiredPlayers": 35
+    "requiredPlayers": 20
   },
   "ze_surf_happy_2_newbie_village": {
     "admin": false,
