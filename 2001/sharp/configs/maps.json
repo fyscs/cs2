@@ -413,6 +413,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_black_lion_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_blood_castle": {
     "admin": false,
     "certainTimes": [-1],
