@@ -1,0 +1,103 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<!> 挑戦状を入手した！ <!>": {
+    "translation": "<!> 获得了挑战书 <!>"
+  },
+  "<!> 次ラウンドがシークレットになる！ <!>": {
+    "translation": "<!> 下一回合将转为隐藏Lv 关卡 <!>"
+  },
+  "<!> ドアを開く -- Open the door 10 sec <!>": {
+    "translation": "<!> 大门--10秒后开启 <!>"
+  },
+  "<!> ドアを開く -- Open the door 30 sec <!>": {
+    "translation": "<!> 大门--30秒后开启 <!>"
+  },
+  "<!> ドアを開く -- Open the door 40 sec <!>": {
+    "translation": "<!> 大门--40秒后开启 <!>"
+  },
+  "<!> ドアが閉まる -- Doors close 10 sec <!>": {
+    "translation": "<!> 大门--10秒后关闭 <!>"
+  },
+  "<!> Until the start of the secret Boss 10 sec <!>": {
+    "translation": "<!> 距离隐藏Boss战开始还剩10秒 <!>"
+  },
+  "<!> Until the start of the secret Boss 30 sec <!>": {
+    "translation": "<!> 距离隐藏Boss战开始还剩30秒 <!>"
+  },
+  "レイザード :": {
+    "translation": "雷扎德"
+  },
+  "「隣町へ荷物届けに行ったは良いものの...」": {
+    "translation": "“虽然去邻镇送货是很好啦"
+  },
+  "「まさかこんな夜更けになるとはねえ...」": {
+    "translation": "“没想到会折腾到这么晚啊"
+  },
+  "「道具屋のおばちゃん、つかまると話長いの忘れてたよ」": {
+    "translation": "“都忘了道具店阿姨一逮到人就会聊个没完"
+  },
+  "「この橋も夜に歩きたくないしなぁ」": {
+    "translation": "“而且这桥晚上走起来也很瘆人啊"
+  },
+  "「仕方ない、渡るしかないか」": {
+    "translation": "“没办法,只能硬着头皮过了."
+  },
+  "「今日も随分と話し込んじゃったなぁ」": {
+    "translation": "“今天又聊得太投入了"
+  },
+  "「さっさと渡って早く村へ帰ろう」": {
+    "translation": "“赶紧过桥回村吧"
+  },
+  "「だけどなんか...嫌な予感がするなあ...」": {
+    "translation": "“但总觉得有种不祥的预感"
+  },
+  "「何かに見られているような気がする...」": {
+    "translation": "“好像被什么东西盯着看"
+  },
+  "*** restart Lv2 ***": {
+    "translation": "*** 重新开始 Lv2 ***"
+  },
+  "*** restart Lv1 ***": {
+    "translation": "*** 重新开始 Lv1 ***"
+  },
+  "せんせい :": {
+    "translation": "老师"
+  },
+  "「今回の相手はいままでと比べ物にならないぞ」": {
+    "translation": "“这次的对手和以往完全不在一个级别"
+  },
+  "「常に戦況を見据えなければ勝利を掴めない」": {
+    "translation": "“若不时刻审时度势 便无法抓住胜机"
+  },
+  "「一人一人の技術が試されるだろう」": {
+    "translation": "“这将考验每个人的战斗技巧"
+  },
+  "<!> 戦闘勝利！！ <!>": {
+    "translation": "<!> 战斗胜利!! <!>"
+  },
+  "「この妖精は...ナイアード達か」": {
+    "translation": "这些妖精是娜伊阿德一族吗"
+  },
+  "「水辺に現れると言われる幸運の妖精だったかな」": {
+    "translation": "“记得是传说会现身水边的幸运妖精吧"
+  },
+  "「そんな妖精を見れるなんてこの橋も捨てたもんじゃないな」": {
+    "translation": "能见到这种妖精,这桥也算没白走一趟了"
+  },
+  "「次に来た時には何か良い事がおこりそうかもな...」": {
+    "translation": "“下次再来时,说不定会有好事发生呢"
+  },
+  "<!> ドアが閉まる... -- Doors close 10 sec <!>": {
+    "translation": "<!> 大门10秒后关闭<!>"
+  }
+}
