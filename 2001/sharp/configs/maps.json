@@ -3282,7 +3282,7 @@
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 20
   },
   "ze_surf_hp": {
     "admin": false,
