@@ -3255,7 +3255,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 35
+    "requiredPlayers": -1
   },
   "ze_surf_gypt_p": {
     "admin": false,
