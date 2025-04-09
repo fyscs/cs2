@@ -116,6 +116,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_anzalone_bridge_rewind": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_anzalone_remake": {
     "admin": true,
     "certainTimes": [-1],
