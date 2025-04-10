@@ -11,13 +11,14 @@
 
 {
   "***10 seconds till gates will open. prepare to run***": {
-    "translation": "***还有10秒打开大门.准备开溜!fallback!***"
+    "translation": "还有10秒打开大门"
   },
   "***the gates are open and the zombies have been trapped for 25 seconds. GOGOGO***": {
-    "translation": "***大门已经打开, 僵尸会在笼子里待上25秒. 溜溜溜!!!快走啊!***"
+    "translation": "僵尸将在25秒后追击",
+    "blocked": true
   },
   "***Defend this island for 1.5 minutes***": {
-    "translation": "***在岛上生存90秒!不用多说了开黑!***"
+    "translation": "***在岛上生存90秒!***"
   },
   "***boat leaves in 8 seconds***": {
     "translation": "***船在8秒后离开!上船!***"
@@ -35,7 +36,8 @@
     "translation": "***尸笼还有10秒开启.***"
   },
   "*** the zombies have been trapped for 25 seconds and the teleporter to the next island have been activated. GOGOGO***": {
-    "translation": "***传送器已被激活, 僵尸又得在笼子里待上25秒. 赶快前往下一个岛!僵尸们出不来咯!***"
+    "translation": "僵尸将在25秒后追击",
+    "blocked": true
   },
   "***floating boxes will activate in 17 seconds***": {
     "translation": "***悬浮台将在17秒后激活!快上去!***"
@@ -62,7 +64,8 @@
     "translation": "***在这个岛生存90秒, 90秒后巫师会带你前往天堂之路!走向人生巅峰!赢取白富美!***"
   },
   "***entrance to escape route is now open and the zombies have been trapped for 20 seconds. GOGOGO***": {
-    "translation": "***传送器已经打开, 僵尸会被困住20秒. 溜溜溜!gkd!***"
+    "translation": "僵尸将在20秒后追击",
+    "blocked": true
   },
   "***10 seconds till escape route opens***": {
     "translation": "***传送器还有10秒开启!准备走了!***"
