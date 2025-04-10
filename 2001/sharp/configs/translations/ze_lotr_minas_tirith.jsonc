@@ -305,6 +305,7 @@
     "translation": "**这里失去控制了,快撤!**"
   },
   "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 90 SECONDS **": {
-    "translation": "**路开了**前往米纳斯提里斯顶部**存活90秒**"
+    "translation": "**路开了**前往米纳斯提里斯顶部**存活90秒**",
+    "blocked": true
   }
 }
