@@ -46,28 +46,29 @@
   "测试版本": {
     "translation": "测试版本"
   },
-  "25": {
-    "translation": "还有25秒",
-    "countdown": 25
-  },
-  "30": {
-    "translation": "还有30秒",
-    "countdown": 30
-  },
-  "40": {
-    "translation": "还有40秒",
-    "countdown": 40
-  },
-  "20": {
-    "translation": "还有20秒",
-    "countdown": 20
-  },
-  "10": {
-    "translation": "还有10秒",
-    "countdown": 10
-  },
-  "60": {
-    "translation": "还有60秒",
-    "countdown": 60
-  }
+   "25": {
+     "translation": "25",
+     "countdown": 25
+   },
+   "30": {
+     "translation": "30",
+     "countdown": 30
+   },
+   "40": {
+     "translation": "40",
+     "countdown": 40
+   },
+   "20": {
+     "translation": "20",
+     "countdown": 20
+   },
+   "10": {
+     "translation": "10",
+     "countdown": 10
+   },
+   "60": {
+     "translation": "60",
+     "countdown": 60
+   }
+ }
 }
