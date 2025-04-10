@@ -13,11 +13,21 @@
   "<<30s>>": {
     "translation": "<<30s>>"
   },
+  "<<40s>>": {
+    "translation": "<<电闸将在40s后关闭>>"
+  },
+  "<<35s>>": {
+    "translation": "<<35s>>"
+  },
+  "<<25s>>": {
+    "translation": "<<25s>>"
+  },
   "<<10s>>": {
     "translation": "<<10s>>"
   },
   "<<5s>>": {
-    "translation": "<<5s>>"
+    "translation": "<<5s>>",
+  	"blocked": true
   },
   "阿罗娜<<钢盔团和PMC集团合作占领了阿拜多斯学校>>": {
     "translation": "阿罗娜<<钢盔团和PMC集团合作占领了阿拜多斯学校>>"
