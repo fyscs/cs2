@@ -32,22 +32,27 @@
     "translation": "<< 准备10秒后打boss >>"
   },
   "<< Haste >>": {
-    "translation": "<< 急速 >>"
+    "translation": "<< 急速 >>",
+    "clearTimer": true
   },
   "<< Be Careful! You only have 120 seconds to defeat the boss >>": {
-    "translation": "<< 注意 你们只有两分钟干掉他 >>"
+    "translation": "<< 注意 你们只有120秒的时间干掉他 >>"
   },
   "<< Push >>": {
-    "translation": "<< 推力 按wwwwwwwww >>"
+    "translation": "<< 推力 按wwwwwwwww >>",
+    "clearTimer": true
   },
   "<< Drain >>": {
-    "translation": "<< 吸力 按sssssssss >>"
+    "translation": "<< 吸力 按sssssssss >>",
+    "clearTimer": true
   },
   "<< Trials of Sword >>": {
-    "translation": "<< 审判之剑 小心四周>>"
+    "translation": "<< 审判之剑 小心四周>>",
+    "clearTimer": true
   },
   "<< Fallen Sky >>": {
-    "translation": "<< 天穹陨落 小心头顶>>"
+    "translation": "<< 天穹陨落 小心头顶>>",
+    "clearTimer": true
   },
   "<< Misaka will use holy in 6 seconds >>": {
     "translation": "<< Misaka将在6秒后使用秒杀 >>"
@@ -56,7 +61,8 @@
     "translation": "<< Misaka 使用了电磁炮 >>"
   },
   "<< Wind >>": {
-    "translation": "<< 狂风 >>"
+    "translation": "<< 狂风 >>",
+    "clearTimer": true
   },
   "<< Congratulation !!! >>": {
     "translation": "<< 恭喜你 !!! >>"
@@ -98,13 +104,16 @@
     "translation": "<< 你为啥还来这里? >>"
   },
   "<< Survive for 165 seconds!!! >>": {
-    "translation": "<< 开黑165秒!!! >>"
+    "translation": "<< 开黑165秒!!! >>",
+    "blocked": true
   },
   "<< 120 seconds >>": {
-    "translation": "<< 还剩120秒 >>"
+    "translation": "<< 还剩120秒 >>",
+    "blocked": true
   },
   "<< 60 seconds >>": {
-    "translation": "<< 还剩60秒 >>"
+    "translation": "<< 还剩60秒 >>",
+    "blocked": true
   },
   "<< 30 seconds >>": {
     "translation": "<< 还剩30秒 >>"
@@ -323,13 +332,16 @@
     "translation": "<< 第一关完成 >>"
   },
   "<< Giga Drain >>": {
-    "translation": "<< 两段吸力 按住ssssss >>"
+    "translation": "<< 两段吸力 按住ssssss >>",
+    "clearTimer": true
   },
   "<< Reaping Slash >>": {
-    "translation": "<< 蹲蹲蹲蹲蹲蹲蹲下 >>"
+    "translation": "<< 蹲蹲蹲蹲蹲蹲蹲下 >>",
+    "clearTimer": true
   },
   "<< MEGA PUSH >>": {
-    "translation": "<< 推推推 按住wwwwww >>"
+    "translation": "<< 推推推 按住wwwwww >>",
+    "clearTimer": true
   },
   "<< the platform will rise in 15 seconds >>": {
     "translation": "<< 石板15秒后上升 >>"
@@ -368,7 +380,7 @@
     "translation": "<< 再守15秒 >>"
   },
   "<< the platform will move again in 10 seconds >>": {
-    "translation": "<< 木板10秒后上升 >>"
+    "translation": "<< 平台10秒后上升 >>"
   },
   "<< 5 seconds to move >>": {
     "translation": "<< 还剩5秒 >>"
@@ -452,10 +464,12 @@
     "translation": "<< 墙在35秒后消失 >>"
   },
   "OnBreak>command>Command>** The wall will break in 12 seconds **>0>1": {
-    "translation": "OnBreak>command>Command>** The wall will break in 12 seconds **>0>1"
+    "translation": "OnBreak>command>Command>** The wall will break in 12 seconds **>0>1",
+    "blocked": true
   },
   "OnBreak>command>Command>** Something may happen in 20 seconds... ** >22>1": {
-    "translation": "OnBreak>command>Command>** Something may happen in 20 seconds... ** >22>1"
+    "translation": "OnBreak>command>Command>** Something may happen in 20 seconds... ** >22>1",
+    "blocked": true
   },
   "<< Ending in 12 seconds... >>": {
     "translation": "<< 还剩12秒 >>"
