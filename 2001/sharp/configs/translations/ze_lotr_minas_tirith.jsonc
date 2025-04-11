@@ -215,7 +215,8 @@
     "translation": "** 升降梯将在 10 S 后离开 **"
   },
   "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **": {
-    "translation": "** 路开了 ** 前往米纳斯提里斯顶部 ** 存活 80 秒 **"
+    "translation": "** 路开了 ** 前往米纳斯提里斯顶部 ** 存活 80 秒 **",
+    "blocked": true
   },
   "** All humans at bottom part will die in 15 seconds **": {
     "translation": "** 底部的人将在 15 秒后被兽人大军吞没! **"
@@ -305,6 +306,7 @@
     "translation": "**这里失去控制了,快撤!**"
   },
   "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 90 SECONDS **": {
-    "translation": "**路开了**前往米纳斯提里斯顶部**存活90秒**"
+    "translation": "**路开了**前往米纳斯提里斯顶部**存活90秒**",
+    "blocked": true
   }
 }
