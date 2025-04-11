@@ -51,5 +51,11 @@
   },
   "** Tram leaving in 15 seconds **": {
     "translation": "**轨道运载车将在15s后离开**"
+  },
+  "**The zombies will parachute into the volcano in 40 seconds**": {
+    "translation": "挂机僵尸将在40秒后传送"
+  },
+  "**Missile attack!!**": {
+    "translation": "补嚎,导弹来袭!"
   }
 }
