@@ -39,7 +39,7 @@
   },
   "**Freeze enemies around 5 seconds after release**": {
     "translation": " 释放后定身僵尸五秒 ",
-    "blocked": "true"
+    "blocked": true
   },
   "**The Dark Mystery has been picked up**": {
     "translation": " *神秘之黑暗已被拾起 "
