@@ -62,10 +62,11 @@
     "translation": "测试人员:Fuu,Belafarinrod,Senne,Teddy"
   },
   ">>>60 seconds until vacuum in Spawn Sections<<<": {
-    "translation": ">>>出生点还有六十秒进入真空状态<<<"
+    "translation": ">>>出生点还有60秒进入真空状态<<<"
   },
   ">>>30 seconds until vacuum<<<": {
-    "translation": ">>还有30秒进入真空状态<<<"
+    "translation": ">>还有30秒进入真空状态<<<",
+    "blocked": true
   },
   ">>>Lambda-shuttle departing in 15 seconds<<<": {
     "translation": ">>>兰姆达穿梭机15秒后离港<<<"
