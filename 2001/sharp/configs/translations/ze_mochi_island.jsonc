@@ -11,75 +11,76 @@
 
 {
   "PATH WILL BE OPEN IN 12 SECONDS .": {
-    "translation": "PATH WILL BE OPEN IN 12 SECONDS ."
+    "translation": "通道将在12秒后开放 ."
   },
   "PATH WILL BE OPEN IN 5 SECONDS .": {
-    "translation": "PATH WILL BE OPEN IN 5 SECONDS ."
+    "translation": "通道5秒后开放 ."
   },
   "Path will be open in 15 seconds .": {
-    "translation": "Path will be open in 15 seconds ."
+    "translation": "通道15秒后开放 ."
   },
   "DOOR CLOSES IN 5 SECONDS .": {
-    "translation": "DOOR CLOSES IN 5 SECONDS ."
+    "translation": "神秘の门5秒后关闭 ."
   },
   "Path will be open in 20 seconds .": {
-    "translation": "Path will be open in 20 seconds ."
+    "translation": "通道将在20秒后开放 ."
   },
   "PATH WILL BE OPEN IN 7 SECONDS .": {
-    "translation": "PATH WILL BE OPEN IN 7 SECONDS ."
+    "translation": "通道将在7秒后开放 ."
   },
   "admun slay please :3": {
-    "translation": "admun slay please :3"
+    "translation": "O男猝死一下 :3"
   },
   "::: Admin Room Lv_2 :::": {
-    "translation": "::: Admin Room Lv_2 :::"
+    "translation": "::: 管理员选择了 Lv_2 :::"
   },
   "DOOR OPENS IN 5 SECONDS .": {
-    "translation": "DOOR OPENS IN 5 SECONDS ."
+    "translation": "5秒后门开 ."
   },
   "DOOR OPENS IN 10 SECONDS .": {
-    "translation": "DOOR OPENS IN 10 SECONDS ."
+    "translation": "10秒后门开 ."
   },
   "Path will be open in 25 seconds .": {
-    "translation": "Path will be open in 25 seconds ."
+    "translation": "通道25秒后开放 ."
   },
   "Door opens in 25 seconds .": {
-    "translation": "Door opens in 25 seconds ."
+    "translation": "20秒后门开 ."
   },
   "We'll be leaving in 7 seconds.": {
-    "translation": "We'll be leaving in 7 seconds."
+    "translation": "7秒后我们就能离开这个鬼地方了."
   },
   "Door opens in 15 seconds .": {
-    "translation": "Door opens in 15 seconds ."
+    "translation": "15秒后门开 ."
   },
   "DOOR OPENS IN 7 SECONDS .": {
-    "translation": "DOOR OPENS IN 7 SECONDS ."
+    "translation": "7秒后门开 ."
   },
   "DOOR CLOSES IN 15 SECONDS . KEEP HOLDING !": {
-    "translation": "DOOR CLOSES IN 15 SECONDS . KEEP HOLDING !"
+    "translation": "门15秒后就关了,守住 !"
   },
   "DOOR CLOSES IN 5 SECONDS . KEEP HOLDING !!": {
-    "translation": "DOOR CLOSES IN 5 SECONDS . KEEP HOLDING !!"
+    "translation": "最后5秒 !!"
   },
   "GATE WILL BE AVAILABLE IN 5 SECONDS KEEP HOLDING !": {
-    "translation": "GATE WILL BE AVAILABLE IN 5 SECONDS KEEP HOLDING !"
+    "translation": "大门5秒后开放,守住 !"
   },
   "Gate will be available in 20 seconds keep holding !": {
-    "translation": "Gate will be available in 20 seconds keep holding !"
+    "translation": "大门20秒后开放,守住 !"
   },
   "::: Admin Room WarmupRound :::": {
-    "translation": "::: Admin Room WarmupRound :::"
+    "translation": "::: Admin Room 热身回合 :::"
   },
   "::: Admin Room Lv_1 :::": {
-    "translation": "::: Admin Room Lv_1 :::"
+    "translation": "::: 管理员选择了 Lv_1 :::"
   },
   "The Bridge breaks in 10 seconds .": {
-    "translation": "The Bridge breaks in 10 seconds ."
+    "translation": "10秒后桥断 ."
   },
   "There are 10 seconds left until the wagon departs.": {
-    "translation": "There are 10 seconds left until the wagon departs."
+    "translation": "友谊の小车10秒后离开."
   },
   "Door opens in 12 seconds .": {
-    "translation": "Door opens in 12 seconds ."
+    "translation": "12秒后门开 ."
   }
 }
+
