@@ -47,19 +47,22 @@
     "translation": "*激光墙已被拾取.按E即可使用它*"
   },
   "*It has a 60 seconds cooldown.*": {
-    "translation": "*它有六十秒的冷却时间.*"
+    "translation": "*它有六十秒的冷却时间.*",
+    "blocked": true
   },
   "* Zombie heal has been picked up. Press +USE (E) to activate.*": {
     "translation": "* 僵尸治疗被拾取.按E即可使用它.*"
   },
   "*It has a 90 seconds cooldown.*": {
-    "translation": "*它有九十秒的冷却时间.*"
+    "translation": "*它有九十秒的冷却时间.*",
+    "blocked": true
   },
   "* Zombie rage has been picked up. Press +USE (E) to activate.*": {
     "translation": "* 僵尸狂怒已被拾取.按E即可使用它.*"
   },
   "*It has a 120 seconds cooldown.*": {
-    "translation": "*它有一百二十秒的冷却时间.*"
+    "translation": "*它有一百二十秒的冷却时间.*",
+    "blocked": true
   },
   "* Vortex zombie has been summoned. Press +USE (E) to activate.*": {
     "translation": "* 僵尸旋涡已被拾取.按E即可使用它.*"
@@ -68,10 +71,12 @@
     "translation": "**火焰喷射器已被捡起.按E即可使用它**"
   },
   "**Fuel lasts about 10 seconds. **": {
-    "translation": "**可持续灼烧僵尸10秒. **"
+    "translation": "**可持续灼烧僵尸10秒. **",
+    "blocked": true
   },
   "*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***": {
-    "translation": "*** 推力已被捡起.按E即可使用它.他有六十秒冷却 ***"
+    "translation": "*** 推力已被捡起.按E即可使用它.他有六十秒冷却 ***",
+    "blocked": true
   },
   "*Ammo Box has been picked up. Press +USE (E) to activate.*": {
     "translation": "*弹药已被捡起.按E即可使用它..*"
