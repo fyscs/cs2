@@ -92,25 +92,32 @@
     "translation": "想办法关闭阀门"
   },
   "BLAST DOORS <<< 30 >>>": {
-    "translation": "门开还有<<< 30 >>>"
+    "translation": "门开还有<<< 30 >>>",
+    "countdown": 30
   },
   "BLAST DOORS <<< 25 >>>": {
-    "translation": "门开还有<<< 25 >>>"
+    "translation": "门开还有<<< 25 >>>",
+    "blocked": true
   },
   "BLAST DOORS <<< 20 >>>": {
-    "translation": "门开还有<<< 20 >>>"
+    "translation": "门开还有<<< 20 >>>",
+    "blocked": true
   },
   "BLAST DOORS <<< 15 >>>": {
-    "translation": "门开还有<<< 15 >>>"
+    "translation": "门开还有<<< 15 >>>",
+    "blocked": true
   },
   "BLAST DOORS <<< 10 >>>": {
-    "translation": "门开还有<<< 10 >>>"
+    "translation": "门开还有<<< 10 >>>",
+    "blocked": true
   },
   "BLAST DOORS <<< 05 >>>": {
-    "translation": "门开还有<<< 05 >>>"
+    "translation": "门开还有<<< 05 >>>",
+    "blocked": true
   },
   "BLAST DOORS <<< 00 >>>": {
-    "translation": "门开还有<<< 00 >>>"
+    "translation": "门开还有<<< 00 >>>",
+    "blocked": true
   },
   "Get in and keep holding until the door is closed!": {
     "translation": "进去!守到门关!进去!守到门关!"
@@ -140,25 +147,32 @@
     "translation": "远离控制台!!远离控制台!!!"
   },
   "DOOR OPEN <<< 30 >>>": {
-    "translation": "门开还有<<< 30 >>>"
+    "translation": "门开还有<<< 30 >>>",
+    "countdown": 30
   },
   "DOOR OPEN <<< 25 >>>": {
-    "translation": "门开还有<<< 25 >>>"
+    "translation": "门开还有<<< 25 >>>",
+    "blocked": true
   },
   "DOOR OPEN <<< 20 >>>": {
-    "translation": "门开还有<<< 20 >>>"
+    "translation": "门开还有<<< 20 >>>",
+    "blocked": true
   },
   "DOOR OPEN <<< 15 >>>": {
-    "translation": "门开还有<<< 15 >>>"
+    "translation": "门开还有<<< 15 >>>",
+    "blocked": true
   },
   "DOOR OPEN <<< 10 >>>": {
-    "translation": "门开还有<<< 10 >>>"
+    "translation": "门开还有<<< 10 >>>",
+    "blocked": true
   },
   "DOOR OPEN <<< 05 >>>": {
-    "translation": "门开还有<<< 05 >>>"
+    "translation": "门开还有<<< 05 >>>",
+    "blocked": true
   },
   "DOOR OPEN <<< 00 >>>": {
-    "translation": "门开还有<<< 00 >>>"
+    "translation": "门开还有<<< 00 >>>",
+    "blocked": true
   },
   "Power will be cut off in a few moments": {
     "translation": "电源马上关闭,守住"
@@ -179,7 +193,8 @@
     "translation": "放置炸弹打破墙壁!"
   },
   "C4 has been planted": {
-    "translation": "炸弹已安装"
+    "translation": "c4将在90秒后引爆",
+    "countdown": 90
   },
   "DEFEND 40 SECONDS": {
     "translation": "防守40秒"
