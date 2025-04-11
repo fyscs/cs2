@@ -20,7 +20,8 @@
     "translation": "杠杆已被拉动"
   },
   "Cooldown: 45 Seconds | Duration: 5 Seconds": {
-    "translation": "冷却: 四十五秒 | 持续时间: 五秒"
+    "translation": "冷却: 四十五秒 | 持续时间: 五秒",
+    "blocked": true
   },
   "Want to donate? Visit my Patreon!": {
     "translation": "想要捐赠?请访问我的 Patreon!",
@@ -135,7 +136,8 @@
     "translation": "火墙已经被拾取"
   },
   "Cooldown: 90 Seconds Duration: 10 Seconds": {
-    "translation": "冷却: 九十秒 持续时间: 十秒"
+    "translation": "冷却: 九十秒 持续时间: 十秒",
+    "blocked": true
   },
   "An available loot point has been found": {
     "translation": "找到一个可用的战利品点"
@@ -144,19 +146,22 @@
     "translation": "战利品已经被拾取"
   },
   "CD: 5 Seconds": {
-    "translation": "CD: 五秒"
+    "translation": "CD: 五秒",
+    "blocked": true
   },
   "Zombie Fireball has been picked up": {
     "translation": "僵尸火球已被拾取"
   },
   "Cooldown: 30 Seconds": {
-    "translation": "冷却: 三十秒"
+    "translation": "冷却: 三十秒",
+    "blocked": true
   },
   "Zombie Flight has been picked up": {
     "translation": "僵尸飞行已被拾取"
   },
   "Cooldown: 30 Seconds | Duration: 5 Seconds": {
-    "translation": "冷却: 三十秒 | 持续时间: 五秒"
+    "translation": "冷却: 三十秒 | 持续时间: 五秒",
+    "blocked": true
   },
   "Warp Item has been picked up": {
     "translation": "扭转万象已被拾取"
@@ -177,13 +182,15 @@
     "translation": "僵尸治愈已被拾取"
   },
   "Cooldown: 60 Seconds | Duration: 10 Seconds": {
-    "translation": "冷却: 六十秒 | 持续: 十秒"
+    "translation": "冷却: 六十秒 | 持续: 十秒",
+    "blocked": true
   },
   "Zombie Gravity has been picked up": {
     "translation": "僵尸引力已被拾取"
   },
   "Cooldown: 90 Seconds | Duration: 5 Seconds": {
-    "translation": "冷却: 九十秒 | 持续: 五秒"
+    "translation": "冷却: 九十秒 | 持续: 五秒",
+    "blocked": true
   },
   "Doors will close in 10 Seconds": {
     "translation": "大门将在 10 秒后关闭"
@@ -258,13 +265,15 @@
     "translation": "神圣治愈已被拾取"
   },
   "60 Seconds CD | 10 Seconds Duration": {
-    "translation": "六十秒 CD | 十秒持续时间"
+    "translation": "六十秒 CD | 十秒持续时间",
+    "blocked": true
   },
   "Flame has been picked up": {
     "translation": "圣火已被拾取"
   },
   "60 Seconds CD | 5 Seconds Duration": {
-    "translation": "六十秒 CD | 五秒持续时间"
+    "translation": "六十秒 CD | 五秒持续时间",
+    "blocked": true
   },
   "Scourge": {
     "translation": "天灾"
