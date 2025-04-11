@@ -17,10 +17,12 @@
     "translation": "一只僵尸捡起邪灵"
   },
   "**Release the Son of Death from the Void and rush towards the target**": {
-    "translation": "从虚空中释放死亡之子,冲向前方"
+    "translation": "从虚空中释放死亡之子,冲向前方",
+    "blocked": "true"
   },
   "**Right click to form a Void Shield to resist human attacks**": {
-    "translation": "右击形成盾,抵御人类攻击"
+    "translation": "右击形成盾,抵御人类攻击",
+    "blocked": "true"
   },
   "** ...GRAVITY INBOUND AT THE ENDING !! **": {
     "translation": "重力将在最后结局登场!"
@@ -32,19 +34,23 @@
     "translation": "神秘之寒冰已被拾起"
   },
   "**Right click to release a small snowstorm to slow down surrounding enemies**": {
-    "translation": " 右键释放暴风雪减速周围的僵尸 "
+    "translation": " 右键释放暴风雪减速周围的僵尸 ",
+    "blocked": "true"
   },
   "**Freeze enemies around 5 seconds after release**": {
-    "translation": " 释放后定身僵尸五秒 "
+    "translation": " 释放后定身僵尸五秒 ",
+    "blocked": "true"
   },
   "**The Dark Mystery has been picked up**": {
     "translation": " *神秘之黑暗已被拾起 "
   },
   "**Right click to release the Ice Blue Blade to damage and slow down the enemy**": {
-    "translation": " 右键释放冰剑对敌人造成伤害以及减速** "
+    "translation": " 右键释放冰剑对敌人造成伤害以及减速** ",
+    "blocked": "true"
   },
   "**Release the dark magic to heal and accelerate**": {
-    "translation": " 释放黑魔法治愈并加速 "
+    "translation": " 释放黑魔法治愈并加速 ",
+    "blocked": "true"
   },
   "**The fire of extinction has been picked up**": {
     "translation": " 绝灭之火已被拾起 "
@@ -143,7 +149,8 @@
     "translation": " 35 "
   },
   "**you only have 350 seconds to kill this dragon**": {
-    "translation": " 战斗时限只有六分钟 "
+    "translation": " 战斗时限只有六分钟 ",
+    "blocked": "true"
   },
   "** 10 **": {
     "translation": " 10 "
