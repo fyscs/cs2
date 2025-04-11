@@ -73,17 +73,20 @@
     "blocked": true
   },
   "***10 seconds till escape route opens***": {
-    "translation": "***传送器还有10秒开启!准备走了!***"
+    "translation": "***传送器还有10秒开启!准备走了!***",
+    "clearTimer": true
   },
   "*** teleporter activates in 30 seconds!!!***": {
-    "translation": "***传送器将在30秒后激活!等待传送!***"
+    "translation": "***传送器将在30秒后激活!等待传送!***",
+    "clearTimer": true
   },
   "*** teleporter activates in 15 seconds!!!***": {
     "translation": "***传送器将在15秒后激活!等待传送!***",
     "blocked": true
   },
   "*** teleporter activates in 5 seconds!!!***": {
-    "translation": "***传送器将在5秒后激活!等待传送!***"
+    "translation": "***传送器将在5秒后激活!等待传送!***",
+    "blocked": true
   },
   "***voodoo master has created a force field from preventing you from falling off island***": {
     "translation": "***巫师从外界创造了一个力场, 防止你失足掉出这个岛!内鬼巫师!shit!***"
