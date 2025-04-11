@@ -11,14 +11,16 @@
 
 {
   "***10 seconds till gates will open. prepare to run***": {
-    "translation": "还有10秒打开大门"
+    "translation": "还有10秒打开大门",
+    "clearTimer": true
   },
   "***the gates are open and the zombies have been trapped for 25 seconds. GOGOGO***": {
     "translation": "僵尸将在25秒后追击",
     "blocked": true
   },
   "***Defend this island for 1.5 minutes***": {
-    "translation": "***在岛上生存90秒!***"
+    "translation": "***在岛上生存90秒!***",
+    "countdown": 90
   },
   "***boat leaves in 8 seconds***": {
     "translation": "***船在8秒后离开!上船!***"
@@ -30,10 +32,12 @@
     "translation": "***做得好!你在第一个岛上活了下来!***"
   },
   "*** now survive this one for another 1.5 minutes and the teleporter to the next island is activated***": {
-    "translation": "***现在你要在第二个岛上生存90秒, 直到传送器被激活!是要去哪里..防守呢..***"
+    "translation": "开黑90秒",
+    "countdown": 90
   },
   "*** 10 seconds left till zombies are trapped. prepare to run to the teleporter***": {
-    "translation": "***尸笼还有10秒开启.***"
+    "translation": "僵尸将在10秒后传进尸笼!",
+    "clearTimer": true
   },
   "*** the zombies have been trapped for 25 seconds and the teleporter to the next island have been activated. GOGOGO***": {
     "translation": "僵尸将在25秒后追击",
@@ -61,7 +65,8 @@
     "translation": "***你来到了最后的岛屿.***"
   },
   "*** survive here for 1.5 minutes and the voodoo master will take you to the escape route to heaven***": {
-    "translation": "***在这个岛生存90秒, 90秒后巫师会带你前往天堂之路!走向人生巅峰!赢取白富美!***"
+    "translation": "开黑90秒",
+    "countdown": 90
   },
   "***entrance to escape route is now open and the zombies have been trapped for 20 seconds. GOGOGO***": {
     "translation": "僵尸将在20秒后追击",
@@ -74,7 +79,8 @@
     "translation": "***传送器将在30秒后激活!等待传送!***"
   },
   "*** teleporter activates in 15 seconds!!!***": {
-    "translation": "***传送器将在15秒后激活!等待传送!***"
+    "translation": "***传送器将在15秒后激活!等待传送!***",
+    "blocked": true
   },
   "*** teleporter activates in 5 seconds!!!***": {
     "translation": "***传送器将在5秒后激活!等待传送!***"
