@@ -50,7 +50,9 @@
     "translation": "<< 关卡失败...... >>"
   },
   "-- 20 --": {
-    "translation": "-- 20 --"
+    "translation": "-- 20 --",
+    "clearTimer": true,
+    "countdown": 20
   },
   "--- Tesla dead...... ---": {
     "translation": "--- 特斯拉紫砂了...... ---"
@@ -68,7 +70,8 @@
     "translation": "--- team win才是真正的通关!!! ---"
   },
   "--- 5 seconds ---": {
-    "translation": "--- 剩余5秒 ---"
+    "translation": "--- 剩余5秒 ---",
+    "clearTimer": true
   },
   "--- zombie can go in 7 seconds ---": {
     "translation": "--- 僵尸将在7秒后开始移动 ---"
@@ -194,22 +197,29 @@
     "translation": "-- 第四关-疯狂 --"
   },
   "-- 90 --": {
-    "translation": "-- 90 --"
+    "translation": "-- 90 --",
+    "countdown": 90
   },
   "-- 10 --": {
-    "translation": "-- 10 --"
+    "translation": "-- 10 --",
+    "clearTimer": true,
+    "countdown": 10
   },
   "- MISAKA is blocking our way!!! -": {
     "translation": "- Misaka挡住了我们的路!!! -"
   },
   "-- 33 --": {
-    "translation": "-- 33 --"
+    "translation": "-- 33 --",
+    "clearTimer": true,
+    "countdown": 33
   },
   "-- 85 --": {
-    "translation": "-- 85 --"
+    "translation": "-- 85 --",
+    "blocked": true
   },
   "-- 50 --": {
-    "translation": "-- 50 --"
+    "translation": "-- 50 --",
+    "blocked": true
   },
   "-- STAGE I - EASY MODE --": {
     "translation": "-- 第一关-简单 --"
