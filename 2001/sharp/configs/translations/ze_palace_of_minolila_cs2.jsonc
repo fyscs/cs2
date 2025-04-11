@@ -317,16 +317,18 @@
     "translation": "X博士: 你越来越激发我对你的兴趣了呢,所以能不能竭尽所能躲开我的攻击呢"
   },
   "<< Dr.X will release zombies in 150 seconds!!! >>": {
-    "translation": "<<X博士将在两分半后释放僵尸!>>"
+    "translation": "<<X博士将在150秒后释放僵尸!>>"
   },
   "### Dr.X: We will meet later.... ###": {
-    "translation": "X博士: 我们等会再见"
+    "translation": "X博士: 我们等会再见",
+    "clearTimer": true
   },
   "<< NORMAL Mode Complete >>": {
     "translation": "<<正常模式已完成>>"
   },
   "<< Well Done!!! >>": {
-    "translation": "<<干得好!!>>"
+    "translation": "<<干得好!!>>",
+    "clearTimer": true
   },
   "<< It seems that there is collapsing now!!! >>": {
     "translation": "<<这里似乎看起来要塌了!>>"
@@ -380,7 +382,7 @@
     "translation": "是能量核心!!快开枪把它摧毁了!!"
   },
   "<< Be careful! Zombies will be released in 120 seconds >>": {
-    "translation": "<<小心!僵尸们将在二分钟后被释放>>"
+    "translation": "<<小心!僵尸们将在120秒后被释放>>"
   },
   "### ???: Who are you...... ###": {
     "translation": "???: 你是谁..."
