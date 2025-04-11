@@ -155,7 +155,7 @@
   "ze_aot_trost_v6r": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 800,
     "requiredOnline": -1,
@@ -2234,7 +2234,7 @@
   "ze_obf_filth_v1": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 2000,
     "requiredOnline": 1200,
@@ -2243,7 +2243,7 @@
   "ze_obf_insane": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 2000,
     "requiredOnline": 1200,
@@ -2252,7 +2252,7 @@
   "ze_obf_npst_v1": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 2000,
     "requiredOnline": 1200,
@@ -2261,7 +2261,7 @@
   "ze_obf_npst_v2": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 2000,
     "requiredOnline": 1200,
@@ -2270,7 +2270,7 @@
   "ze_obf_rampage_v2_legacy": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 2000,
     "requiredOnline": 1200,
@@ -2279,7 +2279,7 @@
   "ze_obf_rampage_v24": {
     "admin": true,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 360,
+    "cooldown": 300,
     "nomination": true,
     "price": 2500,
     "requiredOnline": 1200,
@@ -2288,7 +2288,7 @@
   "ze_obf_rescape": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 2000,
     "requiredOnline": 1200,
@@ -2297,7 +2297,7 @@
   "ze_obj_ember": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 1600,
     "requiredOnline": 1200,
@@ -2306,7 +2306,7 @@
   "ze_obj_encounter": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 2000,
     "requiredOnline": 1200,
@@ -2315,7 +2315,7 @@
   "ze_obj_escalation_v1": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 2000,
     "requiredOnline": 1200,
@@ -2324,7 +2324,7 @@
   "ze_obj_goosestep_v1": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 1600,
     "requiredOnline": 1200,
@@ -2333,7 +2333,7 @@
   "ze_obj_ouroboros_aurora": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 2000,
     "requiredOnline": 1200,
@@ -2342,7 +2342,7 @@
   "ze_obj_ouroboros_ragnarok": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 1500,
     "requiredOnline": 1200,
@@ -2351,7 +2351,7 @@
   "ze_obj_rampage_v1_2": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 2000,
     "requiredOnline": 1200,
@@ -2360,7 +2360,7 @@
   "ze_obj_redemption": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 1800,
     "requiredOnline": 1200,
@@ -2369,7 +2369,7 @@
   "ze_obj_void_v1": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 1500,
     "requiredOnline": 1200,
@@ -2504,7 +2504,7 @@
   "ze_p_v_z": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 300,
+    "cooldown": 260,
     "nomination": true,
     "price": 800,
     "requiredOnline": 1200,

@@ -15,7 +15,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 15
+    "requiredPlayers": 10
   },
   "mg_clouds_multigames_v2": {
     "admin": false,
@@ -24,7 +24,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 15
+    "requiredPlayers": 10
   },
   "mg_dream_xmas_edition_3": {
     "admin": false,
@@ -42,7 +42,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 15
+    "requiredPlayers": 10
   },
   "mg_hype2": {
     "admin": false,
@@ -96,7 +96,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 15
+    "requiredPlayers": 10
   },
   "mg_kyxnya_cs2": {
     "admin": false,
@@ -159,7 +159,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 15
+    "requiredPlayers": 10
   },
   "mg_potatogames_04": {
     "admin": false,
@@ -285,7 +285,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 15
+    "requiredPlayers": 10
   },
   "mg_weapon_case_arenas_v1_2": {
     "admin": false,
@@ -294,7 +294,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 15
+    "requiredPlayers": 10
   },
   "mg_wl_multigames": {
     "admin": false,
