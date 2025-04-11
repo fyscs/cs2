@@ -11,22 +11,32 @@
 
 {
   "<-40->": {
-    "translation": "<-40->"
+    "translation": "<-40->",
+    "clearTimer": true,
+    "countdown": 40
   },
   "<-30->": {
-    "translation": "<-30->"
+    "translation": "<-30->",
+    "clearTimer": true,
+    "countdown": 30
   },
   "<-5->": {
-    "translation": "<-5->"
+    "translation": "<-5->",
+    "blocked": true
   },
   "<-20->": {
-    "translation": "<-20->"
+    "translation": "<-20->",
+    "clearTimer": true,
+    "countdown": 20
   },
   "<-10->": {
-    "translation": "<-10->"
+    "translation": "<-10->",
+    "clearTimer": true,
+    "countdown": 10
   },
   "<-50->": {
-    "translation": "<-50->"
+    "translation": "<-50->",
+    "countdown": 50
   },
   "<-Wait for 30 seconds->": {
     "translation": "<-等待30秒->"
