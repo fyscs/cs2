@@ -388,9 +388,7 @@
     "translation": "<<< 没办法了,强行突破 >>>"
   },
   "** 剩余120s **": {
-    "translation": "** 剩余120秒 **",
-    "clearTimer": true,
-    "countdown": 120
+    "translation": "** 剩余120秒 **"
   },
   "** 10s放下吊桥**": {
     "translation": "** 10秒放下吊桥**"
