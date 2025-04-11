@@ -56,10 +56,14 @@
     "translation": "<有些东西正在逼近...>"
   },
   "<20>": {
-    "translation": "<20>"
+    "translation": "<20>",
+    "clearTimer": true,
+    "countdown": 20
   },
   "< 25 >": {
-    "translation": "< 25 >"
+    "translation": "< 25 >",
+    "clearTimer": true,
+    "countdown": 25
   },
   "< Detonating The Alpha Warheads in T-Minus 185 seconds >": {
     "translation": "< 阿尔法核弹会在185秒内引爆 >"
