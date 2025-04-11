@@ -26,7 +26,8 @@
     "translation": "** Level 2 **"
   },
   "** ??????30s **": {
-    "translation": "** 30s **"
+    "translation": "** 30s **",
+    "countdown": 30
   },
   "** 诅咒者已被拾取 **": {
     "translation": "** 诅咒者已被拾取 **"
@@ -140,7 +141,8 @@
     "translation": "<<< Level ZM >>>"
   },
   "** 坚守45s **": {
-    "translation": "** 坚守45s **"
+    "translation": "** 坚守45秒 **",
+    "countdown": 45
   },
   "** 信息上传中... **": {
     "translation": "** 信息上传中... **"
@@ -149,16 +151,19 @@
     "translation": "** 录入访客信息... **"
   },
   "** 门50s后开启 **": {
-    "translation": "** 门50s后开启 **"
+    "translation": "** 门50秒后开启 **",
+    "countdown": 50
   },
   "** 10s后门关 **": {
-    "translation": "** 10s后门关 **"
+    "translation": "** 10秒后门关 **",
+    "countdown": 10
   },
   "** [ZM] ?????? **": {
     "translation": "** [ZM]  **"
   },
   "** 坚守50s **": {
-    "translation": "** 坚守50s **"
+    "translation": "** 坚守50秒 **",
+    "countdown": 50
   },
   "** 感谢miluli_提供的模型 **": {
     "translation": "** 感谢miluli_提供的模型 **"
@@ -197,13 +202,16 @@
     "translation": "** 感谢miluli提供的模型**"
   },
   "** 大门5s后开启 **": {
-    "translation": "** 大门5s后开启 **"
+    "translation": "** 大门5秒后开启 **",
+    "clearTimer": true,
+    "countdown": 5
   },
   "** 12s **": {
-    "translation": "** 12s **"
+    "translation": "** 12s **",
+    "countdown": 12
   },
   "** 20s后铁门破碎 **": {
-    "translation": "** 20s后铁门破碎 **"
+    "translation": "** 20秒后铁门破碎 **"
   },
   "<<< 这是？？ >>>": {
     "translation": "<<< 这是?? >>>"
@@ -212,7 +220,7 @@
     "translation": "<<< 恶魔!他怎么会在这里,开枪击溃他 >>>"
   },
   "** 40s后将对恶灵降下天罚 **": {
-    "translation": "** 40s后将对恶灵降下天罚 **"
+    "translation": "** 40秒后将对恶灵降下天罚 **"
   },
   "** 似乎有不洁者在干扰施法 **": {
     "translation": "** 似乎有不洁者在干扰施法 **"
@@ -221,13 +229,16 @@
     "translation": "** 坚持住,我们以另一种方法转移 **"
   },
   "** 10s后打开传送水晶 **": {
-    "translation": "** 10s后打开传送水晶 **"
+    "translation": "** 10秒后打开传送水晶 **",
+    "countdown": 10
   },
   "** 20s铁门打开 **": {
-    "translation": "** 20s铁门打开 **"
+    "translation": "** 20秒铁门打开 **",
+    "countdown": 20
   },
   "** 解锁下一个大门，等待15s **": {
-    "translation": "** 解锁下一个大门,等待15s **"
+    "translation": "** 解锁下一个大门,等待15秒 **",
+    "countdown": 15
   },
   "** 注意测路的恶灵 **": {
     "translation": "** 注意测路的恶灵 **"
@@ -239,7 +250,8 @@
     "translation": "** 更换方式..大门破译中.. **"
   },
   "** 访问成功，大门10s后开启 **": {
-    "translation": "** 访问成功,大门10s后开启 **"
+    "translation": "** 访问成功,大门10秒后开启 **",
+    "countdown": 10
   },
   "<<< 道路被切断了，这是个阴谋 >>>": {
     "translation": "<<< 道路被切断了,这是个阴谋 >>>"
@@ -254,7 +266,8 @@
     "translation": "<<< 前方未知,但我们只能继续前进>>>"
   },
   "** 20s后大门打开 **": {
-    "translation": "** 20s后大门打开 **"
+    "translation": "** 20秒后大门打开 **",
+    "countdown": 20
   },
   "<<< 该死，我们被包围了 >>>": {
     "translation": "<<< 该死,我们被包围了 >>>"
@@ -266,10 +279,12 @@
     "translation": "** 大门即将锁闭,阻挡他们 **"
   },
   "** 25s后开启传送 **": {
-    "translation": "** 25s后开启传送 **"
+    "translation": "** 25秒后开启传送 **",
+    "countdown": 25
   },
   "** 坚持37s **": {
-    "translation": "** 坚持37s **"
+    "translation": "** 坚持37秒 **",
+    "countdown": 37
   },
   "<<< 暂时击退他了，快跑 >>>": {
     "translation": "<<< 暂时击退他了,快跑 >>>"
@@ -299,19 +314,24 @@
     "translation": "** 整顿装备,整装待发  **"
   },
   "** 40s **": {
-    "translation": "** 40s **"
+    "translation": "** 40s **",
+    "countdown": 40
   },
   "** 20s后开启传送 **": {
-    "translation": "** 20s后开启传送 **"
+    "translation": "** 20秒后开启传送 **",
+    "countdown": 20
   },
   "** 传送已经开启，快走 **": {
     "translation": "** 传送已经开启,快走 **"
   },
   "** 10s后门关**": {
-    "translation": "** 10s后门关**"
+    "translation": "** 10秒后门关**",
+    "clearTimer": true,
+    "countdown": 10
   },
   "** 坚守60s **": {
-    "translation": "** 坚守60s **"
+    "translation": "** 坚守60秒 **",
+    "countdown": 60
   },
   "<<< 那个恶魔一定在筹划着什么，决不能让他得逞 >>>": {
     "translation": "<<< 那个恶魔一定在筹划着什么,决不能让他得逞 >>>"
@@ -329,7 +349,8 @@
     "translation": "** 收割者,僵尸神力拾取 **"
   },
   "** 15s后爆炸 **": {
-    "translation": "** 15s后爆炸 **"
+    "translation": "** 15秒后爆炸 **",
+    "countdown": 15
   },
   "<<< 闪开，我们把一切挡路的障碍都炸开 >>>": {
     "translation": "<<< 闪开,我们把一切挡路的障碍都炸开 >>>"
@@ -338,22 +359,27 @@
     "translation": "** 正在解锁 **"
   },
   "** 20s后铁门打开 **": {
-    "translation": "** 20s后铁门打开 **"
+    "translation": "** 20秒后铁门打开 **",
+    "countdown": 20
   },
   "** 25s **": {
-    "translation": "** 25s **"
+    "translation": "** 25 **",
+    "countdown": 25
   },
   "** 20s后炸开墙壁 **": {
-    "translation": "** 20s后炸开墙壁 **"
+    "translation": "** 20秒后炸开墙壁 **",
+    "countdown": 20
   },
   "<<< 是前哨站，我们就快到了 >>>": {
     "translation": "<<< 是前哨站,我们就快到了 >>>"
   },
   "** 30s后炸开石头 **": {
-    "translation": "** 30s后炸开石头 **"
+    "translation": "** 30秒后炸开石头 **",
+    "countdown": 30
   },
   "** 坚守20s **": {
-    "translation": "** 坚守20s **"
+    "translation": "** 坚守20秒 **",
+    "countdown": 20
   },
   "<<< 是守护者，这老东西还在这里 >>>": {
     "translation": "<<< 是守护者,这老东西还在这里 >>>"
@@ -362,10 +388,10 @@
     "translation": "<<< 没办法了,强行突破 >>>"
   },
   "** 剩余120s **": {
-    "translation": "** 剩余120s **"
+    "translation": "** 剩余120秒 **"
   },
   "** 10s放下吊桥**": {
-    "translation": "** 10s放下吊桥**"
+    "translation": "** 10秒放下吊桥**"
   },
   "<<< 开关还能用，万幸 >>>": {
     "translation": "<<< 开关还能用,万幸 >>>"
@@ -374,7 +400,8 @@
     "translation": "<<< 这些石板年久失修了,小心点,士兵 >>>"
   },
   "** 20s **": {
-    "translation": "** 20s **"
+    "translation": "** 20 **",
+    "countdown": 20
   },
   "<<< 为什么有这么多机关，这里发生过什么？ >>>": {
     "translation": "<<< 为什么有这么多机关,这里发生过什么? >>>"
@@ -413,13 +440,18 @@
     "translation": "** 我们只有130s,速战速决 **"
   },
   "** 10s **": {
-    "translation": "** 10s **"
+    "translation": "** 10秒 **",
+    "clearTimer": true,
+    "countdown": 10
   },
   "** 坚守35s **": {
-    "translation": "** 坚守35s **"
+    "translation": "** 坚守35秒 **",
+    "countdown": 35
   },
   "** 坚守10s **": {
-    "translation": "** 坚守10s **"
+    "translation": "** 坚守10秒 **",
+    "clearTimer": true,
+    "countdown": 10
   },
   "<<< 古老的设施，有趣 >>>": {
     "translation": "<<< 古老的设施,有趣 >>>"
@@ -434,7 +466,9 @@
     "translation": "** 请等待石门打开 **"
   },
   "** 30s **": {
-    "translation": "** 30s **"
+    "translation": "** 30 **",
+    "clearTimer": true,
+    "countdown": 30
   },
   "** 注意，在迷宫中，水可为指引正确方向  **": {
     "translation": "** 注意,在迷宫中,水可为指引正确方向  **"
@@ -464,7 +498,9 @@
     "translation": "<<< 为什么还有传送水晶,是谁在使用它 >>>"
   },
   "** 坚守25s **": {
-    "translation": "** 坚守25s **"
+    "translation": "** 坚守25秒 **",
+    "clearTimer": true,
+    "countdown": 25
   },
   "<<< 这个地方有点古怪 >>>": {
     "translation": "<<< 这个地方有点古怪 >>>"
@@ -476,7 +512,8 @@
     "translation": "** 大门开启,撤退  **"
   },
   "** 坚守40s **": {
-    "translation": "** 坚守40s **"
+    "translation": "** 坚守40秒 **",
+    "countdown": 40
   },
   "<<< 整顿装备，向岛屿触发 >>>": {
     "translation": "<<< 整顿装备,向岛屿触发 >>>"
