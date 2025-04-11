@@ -233,6 +233,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 20
   },
+  "ttt_cs2_tides": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ttt_cs2_toxa_west_v2": {
     "admin": false,
     "certainTimes": [-1],
