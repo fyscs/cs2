@@ -38,16 +38,20 @@
     "translation": "我觉得他有点生气"
   },
   "* HEAL GUN - 50 sec cooldown *": {
-    "translation": "* 治疗 - 五十秒cd  *"
+    "translation": "* 治疗 - 五十秒cd  *",
+    "blocked": true
   },
   "* COBWEB - 60 sec cooldown *": {
-    "translation": "* 蛛网 - 六十秒cd *"
+    "translation": "* 蛛网 - 六十秒cd *",
+    "blocked": true
   },
   "* FIRE GUN - 60 sec cooldown *": {
-    "translation": "*  火 - 六十秒cd *"
+    "translation": "*  火 - 六十秒cd *",
+    "blocked": true
   },
   "* WALL GUN - 80 sec cooldown *": {
-    "translation": "* 墙 - 八十秒cd *"
+    "translation": "* 墙 - 八十秒cd *",
+    "blocked": true
   },
   "BOSS OVER !!": {
     "translation": "BOSS OVER !!"
