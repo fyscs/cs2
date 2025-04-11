@@ -11,7 +11,9 @@
 
 {
   "| 15 |": {
-    "translation": ">> 还有15秒 >>"
+    "translation": ">> 还有15秒 >>",
+    "clearTimer": true,
+    "countdown": 15
   },
   "| 10 |": {
     "translation": ">> 还有10秒 >>",
@@ -28,7 +30,8 @@
     "translation": ">> 还有25秒 >>"
   },
   "| 30 |": {
-    "translation": ">> 还有30秒 >>"
+    "translation": ">> 还有30秒 >>",
+    "countdown": 30
   },
   "| CONE |": {
     "translation": "<< 方锥 <<"
