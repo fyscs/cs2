@@ -23,13 +23,15 @@
     "translation": "α:别让他们靠近我们,他们身上的特殊武器会影响我们"
   },
   "AI:门禁需要45秒后开启": {
-    "translation": "- AI:门禁需要45秒后开启 -"
+    "translation": "- AI:门禁需要45秒后开启 -",
+    "countdown": 45
   },
   "α:根据全球运动网络指示超级Ai遭到入侵": {
     "translation": "α:根据全球运动网络指示超级Ai遭到入侵"
   },
   "α:我们需要带着另一个超级AI制作的肃清程序清除入侵带来的影响": {
-    "translation": "- 防守5秒 -"
+    "translation": "- 防守5秒 -",
+    "countdown": 5
   },
   "α:动作要快,携带上最新的人形AI为我们指令": {
     "translation": "- α:动作要快,携带上最新的人形AI为我们指令-"
@@ -41,19 +43,24 @@
     "translation": "AI:院门需要7秒打开"
   },
   "Ai:距离破译机械门还需要35秒": {
-    "translation": "- Ai:距离破译机械门还需要35秒 -"
+    "translation": "- Ai:距离破译机械门还需要35秒 -",
+    "countdown": 35
   },
   "AI:失败!正在强行破坏机械门,还需要30秒": {
-    "translation": "- AI:失败!正在强行破坏机械门,还需要30秒 -"
+    "translation": "- AI:失败!正在强行破坏机械门,还需要30秒 -",
+    "countdown": 30
   },
   "AI:门大概需要20秒开启": {
-    "translation": "AI:门大概需要20秒开启"
+    "translation": "AI:门大概需要20秒开启",
+    "countdown": 20
   },
   "AI:机械门还需要35秒开启": {
-    "translation": "AI:机械门还需要35秒开启"
+    "translation": "AI:机械门还需要35秒开启",
+    "countdown": 35
   },
   "AI:大门正在解锁请等待25秒": {
-    "translation": "AI:大门正在解锁请等待25秒"
+    "translation": "AI:大门正在解锁请等待25秒",
+    "countdown": 25
   },
   "α:一部分人清理道路其他人保持火力!": {
     "translation": "α:一部分人清理道路其他人保持火力!"
@@ -83,10 +90,12 @@
     "translation": "AI:检测到门内有可触发电路"
   },
   "AI:大约还需要40秒": {
-    "translation": "AI:大约还需要40秒"
+    "translation": "AI:大约还需要40秒",
+    "countdown": 40
   },
   "AI:预计需要55秒": {
-    "translation": "AI:预计需要55秒"
+    "translation": "AI:预计需要55秒",
+    "countdown": 55
   },
   "AI:距离敌人传送还有5秒": {
     "translation": "AI:距离敌人传送还有5秒"
@@ -95,13 +104,15 @@
     "translation": "AI:大门已损坏,正在设法破坏"
   },
   "AI:还需要25秒": {
-    "translation": "AI:还需要25秒"
+    "translation": "AI:还需要25秒",
+    "countdown": 25
   },
   "AI:已接入系统,门还需要15秒开启": {
     "translation": "AI:已接入系统,门还需要15秒开启"
   },
   "AI:障碍需要20秒解除": {
-    "translation": "AI:障碍需要20秒解除"
+    "translation": "AI:障碍需要20秒解除",
+    "countdown": 20
   },
   "AI:检查到某个地方已解锁": {
     "translation": "AI:检查到某个地方已解锁"
@@ -116,13 +127,15 @@
     "translation": "AI:压力器已解锁"
   },
   "AI:距离物体破坏还需要20秒": {
-    "translation": "AI:距离物体破坏还需要20秒"
+    "translation": "AI:距离物体破坏还需要20秒",
+    "countdown": 20
   },
   "AI:正在解锁": {
     "translation": "AI:正在解锁"
   },
   "AI:密室还需要20秒开启": {
-    "translation": "AI:密室还需要20秒开启"
+    "translation": "AI:密室还需要20秒开启",
+    "countdown": 20
   },
   "AI:检测到墙体后有空间": {
     "translation": "AI:检测到墙体后有空间"
@@ -137,25 +150,29 @@
     "translation": "AI:机械门被锁死了"
   },
   "AI:还需要30秒": {
-    "translation": "AI:还需要30秒"
+    "translation": "AI:还需要30秒",
+    "countdown": 30
   },
   "AI:正在启用传送门": {
     "translation": "AI:正在启用传送门"
   },
   "AI:传送还需要10秒": {
-    "translation": "AI:传送还需要10秒"
+    "translation": "AI:传送还需要10秒",
+    "countdown": 10
   },
   "α:前面有分叉口,平均去人触发机关": {
     "translation": "α:前面有分叉口,平均去人触发机关"
   },
   "soldier:还需要20秒左右": {
-    "translation": "soldier:还需要20秒左右"
+    "translation": "soldier:还需要20秒左右",
+    "countdown": 20
   },
   "α:快点清理掉障碍": {
     "translation": "α:快点清理掉障碍"
   },
   "soldier:此处还需要15秒": {
-    "translation": "soldier:此处还需要15秒"
+    "translation": "soldier:此处还需要15秒",
+    "countdown": 15
   },
   "AI:传送能量5秒后饱和": {
     "translation": "AI:传送能量5秒后饱和"
@@ -164,7 +181,8 @@
     "translation": "AI:正在进入图书馆"
   },
   "AI:密室传送还需要20s": {
-    "translation": "AI:密室传送还需要20s"
+    "translation": "AI:密室传送还需要20s",
+    "countdown": 20
   },
   "α:快点离开这里": {
     "translation": "α:快点离开这里"
@@ -176,13 +194,15 @@
     "translation": "AI:请等待一会,蓄能中"
   },
   "AI:还需要7秒": {
-    "translation": "AI:还需要7秒"
+    "translation": "AI:还需要7秒",
+    "countdown": 7
   },
   "AI:破坏!传送点设定完毕!": {
     "translation": "AI:破坏!传送点设定完毕!"
   },
   "AI:正在关闭大门!大约还需要20秒": {
-    "translation": "AI:正在关闭大门!大约还需要20秒"
+    "translation": "AI:正在关闭大门!大约还需要20秒",
+    "countdown": 20
   },
   "--  序章谢幕开启  --": {
     "translation": "--  序章谢幕开启  --"
@@ -197,7 +217,8 @@
     "translation": "AI:正在远程清理后方道路"
   },
   "Spectr:此处还需要15秒": {
-    "translation": "Spectr:此处还需要15秒"
+    "translation": "Spectr:此处还需要15秒",
+    "countdown": 15
   },
   "α:破坏桥梁别让他们过来": {
     "translation": "α:破坏桥梁别让他们过来"
