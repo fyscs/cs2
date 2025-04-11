@@ -11,22 +11,31 @@
 
 {
   "<10>": {
-    "translation": "<10>"
+    "translation": "<10>",
+    "blocked": true
   },
   "<5>": {
-    "translation": "<5>"
+    "translation": "<5>",
+    "blocked": true
   },
   "<30>": {
-    "translation": "<30>"
+    "translation": "<30>",
+    "clearTimer": true,
+    "countdown": 30
   },
   "<20>": {
-    "translation": "<20>"
+    "translation": "<20>",
+    "clearTimer": true,
+    "countdown": 20
   },
   "<40>": {
-    "translation": "<40>"
+    "translation": "<40>",
+    "countdown": 40
   },
   "<25>": {
-    "translation": "<25>"
+    "translation": "<25>",
+    "clearTimer": true,
+    "countdown": 25
   },
   "Survival for 90 seconds": {
     "translation": "存活90秒"
