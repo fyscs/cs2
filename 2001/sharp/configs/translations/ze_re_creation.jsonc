@@ -1,0 +1,103 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "< 25 SecLeft >": {
+    "translation": "< 25 SecLeft >"
+  },
+  "< 35 SecLeft >": {
+    "translation": "< 35 SecLeft >"
+  },
+  "< You must to kill out all the zombies on the plane >": {
+    "translation": "< You must to kill out all the zombies on the plane >"
+  },
+  "< 15 SecLeft >": {
+    "translation": "< 15 SecLeft >"
+  },
+  "< 10 SecLeft >": {
+    "translation": "< 10 SecLeft >"
+  },
+  "< Button Active! >": {
+    "translation": "< Button Active! >"
+  },
+  "< 20 SecLeft >": {
+    "translation": "< 20 SecLeft >"
+  },
+  "< You must to kill all the zombies to win >": {
+    "translation": "< You must to kill all the zombies to win >"
+  },
+  "< Ze_Re_Creation >": {
+    "translation": "< Ze_Re_Creation >"
+  },
+  "< Author : Zenow >": {
+    "translation": "< Author : Zenow >"
+  },
+  "< CS2 Porter: Shana >": {
+    "translation": "< CS2 Porter: Shana >"
+  },
+  "< Stage 1 >": {
+    "translation": "< Stage 1 >"
+  },
+  "< Boss Dead >": {
+    "translation": "< Boss Dead >"
+  },
+  "< Stage1 complete! >": {
+    "translation": "< Stage1 complete! >"
+  },
+  "< Stage 2 >": {
+    "translation": "< Stage 2 >"
+  },
+  "< ...Error.....Kill....>": {
+    "translation": "< ...Error.....Kill....>"
+  },
+  "< ...Correct.....Fix....>": {
+    "translation": "< ...Correct.....Fix....>"
+  },
+  "< Stage2 complete! >": {
+    "translation": "< Stage2 complete! >"
+  },
+  "< Stage RTV1 >": {
+    "translation": "< Stage RTV1 >"
+  },
+  "< Stage RTV3 >": {
+    "translation": "< Stage RTV3 >"
+  },
+  "< RTV2 complete! >": {
+    "translation": "< RTV2 complete! >"
+  },
+  "< RTV3 complete! >": {
+    "translation": "< RTV3 complete! >"
+  },
+  "< Winner choose the next Stage >": {
+    "translation": "< Winner choose the next Stage >"
+  },
+  "< RTV1 complete! >": {
+    "translation": "< RTV1 complete! >"
+  },
+  "< You didn't kill the zombie in 12 sec >": {
+    "translation": "< You didn't kill the zombie in 12 sec >"
+  },
+  "< Take care of your cap! >": {
+    "translation": "< Take care of your cap! >"
+  },
+  ">>Key was picked up": {
+    "translation": ">>Key was picked up"
+  },
+  "< A player has pick up LowHWall >": {
+    "translation": "< A player has pick up LowHWall >"
+  },
+  "< A player has pick up LowHGun >": {
+    "translation": "< A player has pick up LowHGun >"
+  },
+  "< A player has pick up PushGun >": {
+    "translation": "< A player has pick up PushGun >"
+  }
+}
