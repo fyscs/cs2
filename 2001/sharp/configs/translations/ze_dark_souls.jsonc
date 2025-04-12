@@ -504,8 +504,7 @@
     "blocked": true
   },
   "** The Final gates will close in 120 seconds **": {
-    "translation": "** 终焉の门 120 秒关闭 **",
-    "countdown": 120
+    "translation": "** 终焉の门 120 秒关闭 **"
   },
   "** To Link the Fire ending was completed **": {
     "translation": "** >> 传火 << - 结局已完成 **"
