@@ -11,10 +11,10 @@
 
 {
   "***10 seconds till gates will open. prepare to run***": {
-    "translation": "还有10秒打开大门"
+    "translation": "***还有10秒打开大门***"
   },
   "***the gates are open and the zombies have been trapped for 25 seconds. GOGOGO***": {
-    "translation": "僵尸将在25秒后追击",
+    "translation": "***尸笼还有25秒开启***",
     "blocked": true
   },
   "***Defend this island for 1.5 minutes***": {
@@ -36,7 +36,7 @@
     "translation": "***尸笼还有10秒开启.***"
   },
   "*** the zombies have been trapped for 25 seconds and the teleporter to the next island have been activated. GOGOGO***": {
-    "translation": "僵尸将在25秒后追击",
+    "translation": "***尸笼还有25秒开启***",
     "blocked": true
   },
   "***floating boxes will activate in 17 seconds***": {
@@ -55,7 +55,7 @@
     "translation": "***等等这是什么?***"
   },
   "*** oh shit!!!***": {
-    "translation": "***哦~不! 我简直爱上了他! ***"
+    "translation": "***哦~不!我简直爱上了他!***"
   },
   "*** youve made it to the final island.***": {
     "translation": "***你来到了最后的岛屿.***"
@@ -64,7 +64,7 @@
     "translation": "***在这个岛生存90秒, 90秒后巫师会带你前往天堂之路!走向人生巅峰!赢取白富美!***"
   },
   "***entrance to escape route is now open and the zombies have been trapped for 20 seconds. GOGOGO***": {
-    "translation": "僵尸将在20秒后追击",
+    "translation": "***尸笼还有25秒开启***",
     "blocked": true
   },
   "***10 seconds till escape route opens***": {
