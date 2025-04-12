@@ -25,50 +25,55 @@
     {
       "iterator": "Clown_Champion_Health",
       "hitbox": "Clown_Champion_Hitbox",
-      "display": "Clown Champion"
+      "display": "小丑"
     },
     {
       "iterator": "IronGolemHp",
       "hitbox": "Golem_Phys_Body",
-      "display": "Iron Golem"
+      "display": "钢铁巨偶"
     },
     {
       "iterator": "Asylum_Demon_Health_Counter",
       "hitbox": "Asylum_Demon_Hitbox",
-      "display": "Asylum Demon"
+      "display": "不死院恶魔"
     },
     {
       "iterator": "Broodmother_Health_Counter",
       "hitbox": "Broodmother_Hitbox",
-      "display": "Brood mother"
+      "display": "混沌魔女克拉格"
     },
     {
       "iterator": "Thrower_Health",
       "hitbox": "Thrower_Hitbox",
-      "display": "Thrower"
+      "display": "投手"
     },
     {
       "iterator": "Gwyn_Health_Counter",
       "hitbox": "Gwyn_Hitbox",
-      "display": "Gwyn"
+      "display": "乌薪王葛温"
+    },
+    {
+      "iterator": "Sirwolf_Health_Counter",
+      "hitbox": "Sirwolf_Hitbox",
+      "display": "灰色大狼希夫"
     }
   ],
   "Monsters": [
     {
       "identity": "143386",
-      "display": "NPC"
+      "display": "黑骑士"
     },
     {
       "identity": "143390",
-      "display": "Borov"
+      "display": "野猪"
     },
     {
       "identity": "145197",
-      "display": "slime"
+      "display": "软泥怪"
     },
     {
       "identity": "143384",
-      "display": "block"
+      "display": "黑骑士"
     }
   ]
 }
