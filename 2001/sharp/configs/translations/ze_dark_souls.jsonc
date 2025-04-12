@@ -84,13 +84,13 @@
     "translation": "** 主门 5 秒打开**"
   },
   "** The External gates will open in 10 seconds **": {
-    "translation": "** 外部大门将在 10 秒后打开 **"
+    "translation": "** 外部大门 10 秒打开 **"
   },
   "** The gate of torture room will open in 10 seconds **": {
-    "translation": "** 刑讯室大门将在 10 秒后打开 **"
+    "translation": "** 刑讯室大门 10 秒打开 **"
   },
   "** The path to the Upper part of the Fortress will open in 10 seconds **": {
-    "translation": "** 通往要塞上部的道路将在 10 秒后打开 **"
+    "translation": "** 通往要塞上部的道路 10 秒打开 **"
   },
   "** All we need to do now is find the way to the very top of the fortress **": {
     "translation": "** 我们现在要做的就是找到通往堡垒顶端的路 **",
@@ -101,7 +101,7 @@
     "blocked": true
   },
   "** The Old Church gates will open in 30 seconds **": {
-    "translation": "** 老教堂大门将在 30 秒后打开 **"
+    "translation": "** 老教堂大门 30 秒打开 **"
   },
   "** Not far from the old church. according to legends. there is the grave of a legendary hero. from where the howl of a lone wolf can sometimes be heard **": {
     "translation": "** 在离老教堂不远的地方,传说有一位传奇英雄的坟墓,有时还能听到孤狼的嚎叫声 **",
@@ -221,7 +221,7 @@
     "translation": "** 电梯门 10 秒打开 **"
   },
   "** The elevator will start moving in 20 seconds. Be inside before elevator starts moving **": {
-    "translation": "** 电梯将在 20 秒开始移动 **"
+    "translation": "** 电梯 20 秒移动 **"
   },
   "** The entrance to the strange lair will open in 30 seconds **": {
     "translation": "** 巢穴の入口 30 秒打开 **"
