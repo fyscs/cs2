@@ -1,0 +1,103 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "< 25 SecLeft >": {
+    "translation": "还有25秒"
+  },
+  "< 35 SecLeft >": {
+    "translation": "还有35秒"
+  },
+  "< You must to kill out all the zombies on the plane >": {
+    "translation": "< 你必须清理掉平台上所有的僵尸 >"
+  },
+  "< 15 SecLeft >": {
+    "translation": "还有15秒"
+  },
+  "< 10 SecLeft >": {
+    "translation": "还有10秒"
+  },
+  "< Button Active! >": {
+    "translation": "< 按钮已激活! >"
+  },
+  "< 20 SecLeft >": {
+    "translation": "还有20秒"
+  },
+  "< You must to kill all the zombies to win >": {
+    "translation": "< 你必须清理掉所有的僵尸 >"
+  },
+  "< Ze_Re_Creation >": {
+    "translation": "< Ze_重塑领域 >"
+  },
+  "< Author : Zenow >": {
+    "translation": "< 地图制作:Zenow >"
+  },
+  "< CS2 Porter: Shana >": {
+    "translation": "< CS2移植:Shana >"
+  },
+  "< Stage 1 >": {
+    "translation": "< 第一关 >"
+  },
+  "< Boss Dead >": {
+    "translation": "< Boss已击败 >"
+  },
+  "< Stage1 complete! >": {
+    "translation": "< 第一关已完成! >"
+  },
+  "< Stage 2 >": {
+    "translation": "< 第二关 >"
+  },
+  "< ...Error.....Kill....>": {
+    "translation": "< ...出错.....毁灭....>"
+  },
+  "< ...Correct.....Fix....>": {
+    "translation": "< ...检查中.....修复....>"
+  },
+  "< Stage2 complete! >": {
+    "translation": "< 第二关已完成! >"
+  },
+  "< Stage RTV1 >": {
+    "translation": "< 当前关卡:RTV1 >"
+  },
+  "< Stage RTV3 >": {
+    "translation": "< 当前关卡:RTV3 >"
+  },
+  "< RTV2 complete! >": {
+    "translation": "< RTV2已完成! >"
+  },
+  "< RTV3 complete! >": {
+    "translation": "< RTV3已完成! >"
+  },
+  "< Winner choose the next Stage >": {
+    "translation": "< 胜者选择下一关卡 >"
+  },
+  "< RTV1 complete! >": {
+    "translation": "< RTV1已完成! >"
+  },
+  "< You didn't kill the zombie in 12 sec >": {
+    "translation": "< 时间耗尽了 >"
+  },
+  "< Take care of your cap! >": {
+    "translation": "< 当心! >"
+  },
+  ">>Key was picked up": {
+    "translation": ">> 钥匙已拾取 >>"
+  },
+  "< A player has pick up LowHWall >": {
+    "translation": "< 玩家拾取了 [屏障] >"
+  },
+  "< A player has pick up LowHGun >": {
+    "translation": "< 玩家拾取了 [加农炮] >"
+  },
+  "< A player has pick up PushGun >": {
+    "translation": "< 玩家拾取了 [推力] >"
+  }
+}
