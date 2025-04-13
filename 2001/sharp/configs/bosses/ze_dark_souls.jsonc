@@ -25,7 +25,7 @@
     {
       "iterator": "Clown_Champion_Health",
       "hitbox": "Clown_Champion_Hitbox",
-      "display": "小丑"
+      "display": "切斯特"
     },
     {
       "iterator": "IronGolemHp",
@@ -45,7 +45,7 @@
     {
       "iterator": "Thrower_Health",
       "hitbox": "Thrower_Hitbox",
-      "display": "投手"
+      "display": "巨人投手"
     },
     {
       "iterator": "Gwyn_Health_Counter",
@@ -56,6 +56,11 @@
       "iterator": "Sirwolf_Health_Counter",
       "hitbox": "Sirwolf_Hitbox",
       "display": "灰色大狼希夫"
+    },
+    {
+      "iterator": "KnightCaller_Health",
+      "hitbox": "KnightCaller_Hitbox",
+      "display": "巨人法官"
     }
   ],
   "Monsters": [
