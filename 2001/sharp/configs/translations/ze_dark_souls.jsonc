@@ -210,7 +210,7 @@
   "** The deepest gate will open in 15 seconds **": {
     "translation": "** 最深处大门 15 秒打开 **"
   },
-  "** The local clerics what these places hold their own dark secrets **": {
+  "** The local clerics say what these places hold their own dark secrets **": {
     "translation": "** 当地的牧师说,这些地方都隐藏着自己的黑暗秘密 **",
     "blocked": true
   },
@@ -328,7 +328,7 @@
     "translation": "** 传说宝石结晶虫就出生在这个洞穴里 **",
     "blocked": true
   },
-  "** Other rumors that a forbidden cult has settled here **": {
+  "** Other rumors say that a forbidden cult has settled here **": {
     "translation": "** 其他传言称 一个被禁止的邪教组织在此定居 **",
     "blocked": true
   },
