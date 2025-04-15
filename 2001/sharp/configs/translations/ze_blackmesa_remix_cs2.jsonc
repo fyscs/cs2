@@ -1,0 +1,260 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** 弹药箱已被拿起，按E使用，cd:90秒 **": {
+    "translation": "** 弹药箱已被拿起,按E使用,cd:90秒 **",
+    "blocked": true
+  },
+  "*** 尖刺炸弹已被拿起，按E使用，仅能用一次 ***": {
+    "translation": "*** 尖刺炸弹已被拿起,按E使用,仅能用一次 ***",
+    "blocked": true
+  },
+  "*** Ventilation area protections unlock in 10 seconds ***": {
+    "translation": "*** 通风区域保护装置在10秒内解锁 ***"
+  },
+  "*** 变动:无，无聊的正常模式! ***": {
+    "translation": "*** 变动:无聊的正常模式! ***"
+  },
+  "*** 变动:散漫的吉米——低重力激活 ***": {
+    "translation": "*** 变动:低重力激活 ***"
+  },
+  "*** 变动:突破到另一边——没有电车和前路锁定 ***": {
+    "translation": "*** 变动:突破到另一边  有电车和前路锁定 ***"
+  },
+  "*** 变动:窥探秘密是不礼貌的——被锁住的秘密通道？ ***": {
+    "translation": "*** 变动:被锁住的秘密通道 ***"
+  },
+  "*** 变动:登上电车吧——没有桥/秘密通道 ***": {
+    "translation": "*** 变动:登上电车  没有桥/秘密通道 ***"
+  },
+  "*** 变动:奇怪的空间情况——走另一边/没有秘密通道/低重力 ***": {
+    "translation": "*** 变动:走另一边/没有秘密通道/低重力 ***"
+  },
+  "*** 变动:登上电车吧——没有前路/秘密通道  ***": {
+    "translation": "*** 变动:登上电车  没有前路/秘密通道  ***"
+  },
+  "*** 歼灭模式启用:怪物实验室, 开放(32个人类及以上，额外激活1-2个怪物) ***": {
+    "translation": "*** 歼灭模式启用:怪物实验室, 开放(32个人类及以上,额外激活怪物) ***",
+    "blocked": true
+  },
+  "** ORIGINAL ZE BLACKMESA BY BILL SMAUTZ **": {
+    "translation": "** 地图作者: BILL SMAUTZ 文本:Zeyu1 **"
+  },
+  "** REDESIGN BY CISNEROS **": {
+    "translation": "** 地图重置:CISNEROS **"
+  },
+  "*** Tram Starts in 7 Seconds ***": {
+    "translation": "*** 电车在7秒后启动 ***"
+  },
+  "*** Bridge Activated ***": {
+    "translation": "*** 路开了 ***"
+  },
+  "*** Airlock Opens in 12 Seconds ***": {
+    "translation": "*** 大门将在12秒后打开 ***"
+  },
+  "*** Second sector G door opens in 25 seconds ***": {
+    "translation": "*** 第二扇G门25秒后打开 ***"
+  },
+  "*** Second sector G door opens in 10 seconds ***": {
+    "translation": "*** 第二扇G门10秒后打开 ***"
+  },
+  "*** First sector G door opens in 10 seconds ***": {
+    "translation": "*** 第一扇G门10秒后打开 ***"
+  },
+  "*** First sector G door opens in 30 seconds ***": {
+    "translation": "*** 第一扇G门30秒后打开 ***"
+  },
+  "*** Airlock Closing in 8 Seconds ***": {
+    "translation": "*** 大门将在8秒后打开 ***"
+  },
+  "*** Security Door Closes in 5 Seconds ***": {
+    "translation": "*** 门5秒钟后关闭 ***"
+  },
+  "*** 下水道的门在20秒后打开 ***": {
+    "translation": "*** 下水道的门在20秒后打开 ***"
+  },
+  "*** 有人找到了迷幻药并获得了急速。但毒品是害的，对吧?（加速已被拿起，固定加速25%） ***": {
+    "translation": "*** 有人找到了迷幻药并获得了急速 但毒品是害的,对吧?(加速已被拿起,固定加速25%) ***",
+    "blocked": true
+  },
+  "*** 错误:冷却系统无法启动. ***": {
+    "translation": "*** 错误:冷却系统无法启动. ***"
+  },
+  "*** 警告:主发电机过载 ***": {
+    "translation": "*** 警告:主发电机过载 ***"
+  },
+  "*** 注意:紧急模式启动.门在1分钟内打开. ***": {
+    "translation": "*** 注意:紧急模式启动.门在60秒内打开. ***",
+    "countdown": 60
+  },
+  "*** 电梯20秒后离开 ***": {
+    "translation": "*** 电梯20秒后离开 ***"
+  },
+  "*** WARNING: Facility detonation in 40 Seconds ***": {
+    "translation": "*** 警告:设施在 40 秒后爆炸 ***"
+  },
+  "*** Helicopter is Departing ***": {
+    "translation": "*** 直升机正在起飞 ***"
+  },
+  "*** Helicopter Departing in 5 Seconds ***": {
+    "translation": "*** 直升机将在5秒后起飞 ***"
+  },
+  "*** Helicopter Departing in 10 Seconds ***": {
+    "translation": "*** 直升机将在10秒后起飞 ***"
+  },
+  "*** Helicopter Departing in 30 Seconds ***": {
+    "translation": "*** 直升机将在30秒后起飞 ***"
+  },
+  "*** WARNING: Facility detonation in 30 Seconds ***": {
+    "translation": "*** 警告: 设施将在30秒后爆炸 ***"
+  },
+  "*** Safety underground bunker is opening ***": {
+    "translation": "*** 地下安全掩体正在开启 ***"
+  },
+  "*** Safety underground bunker opens in 5 Seconds ***": {
+    "translation": "*** 地下安全掩体将在5秒后开启 ***"
+  },
+  "*** Safety underground bunker opens in 10 Seconds ***": {
+    "translation": "*** 地下安全掩体将在10秒后开启 ***"
+  },
+  "*** Safety underground bunker opens in 30 Seconds ***": {
+    "translation": "*** 地下安全掩体将在30秒后开启 ***"
+  },
+  "*** Safety underground bunker closes in 10 Seconds ***": {
+    "translation": "*** 地下安全掩体将在10秒后关闭 ***"
+  },
+  "*** Two minutes left! Stay alive!!! ***": {
+    "translation": "*** 剩下两分钟! 活下去!!! ***"
+  },
+  "*** Just one minute! RESIST!!! ***": {
+    "translation": "*** 只剩60秒***",
+    "countdown": 60
+  },
+  "*** 30 seconds to go! C'mon! ***": {
+    "translation": "*** 还剩30秒! 加油! ***",
+    "blocked": true
+  },
+  "*** 毁灭僵尸的细菌将在15秒内释放! ***": {
+    "translation": "*** 毁灭僵尸的细菌将在15秒内释放! ***"
+  },
+  "*** YEAH!!! WE DID IT!!! ***": {
+    "translation": "*** 太棒了!!! 我们成功了!!! ***"
+  },
+  "*** 堡垒回合:存活5分钟! ***": {
+    "translation": "*** 堡垒回合:存活5分钟! ***",
+    "blocked": true
+  },
+  "*** It seems as if there was going to ocurr a big earthquake...  ***": {
+    "translation": "*** 看起来好像即将发生大地震... ***",
+    "blocked": true
+  },
+  "** 喷火器已被拿起，按E使用，再按E关闭，仅能使用10秒 **": {
+    "translation": "** 喷火器已被拿起,按E使用,再按E关闭,仅能使用10秒 **",
+    "blocked": true
+  },
+  "*** Sector L door opens in 10 seconds ***": {
+    "translation": "*** L区大门将在10秒后打开 ***"
+  },
+  "*** Sector L door opens in 30 seconds ***": {
+    "translation": "*** L区大门将在30秒后打开 ***"
+  },
+  "*** Stick-Bomb has been picked up ***": {
+    "translation": "*** 黏性炸弹已被拾取 ***"
+  },
+  "*** 减速电环已被拿起，按E使用，cd:45秒 ***": {
+    "translation": "*** 减速电环已被拿起,按E使用,冷却时间:45秒 ***",
+    "blocked": true
+  },
+  "*** 推力抢已经被拿起，按e使用，cd:60秒. ***": {
+    "translation": "*** 推力枪已经被拿起,按E使用,冷却时间:60秒. ***",
+    "blocked": true
+  },
+  "*** 地雷已被拿起，按E使用，仅能放置4个地雷 ***": {
+    "translation": "*** 地雷已被拿起,按E使用,最多可放置4个地雷 ***",
+    "blocked": true
+  },
+  "*** 冰冻枪已被拿起，按E使用，cd:60秒 ***": {
+    "translation": "*** 冰冻枪已被拿起,按E使用,冷却时间:60秒 ***",
+    "blocked": true
+  },
+  "*** Sewage system door opens in 35 seconds. ***": {
+    "translation": "*** 下水道系统大门将在35秒后打开 ***"
+  },
+  "*** Sewage system door opens in 15 seconds. ***": {
+    "translation": "*** 下水道系统大门将在15秒后打开 ***"
+  },
+  "*** Sewage system door opens in 5 seconds. ***": {
+    "translation": "*** 下水道系统大门将在5秒后打开 ***"
+  },
+  "*** Maintenance area door opens in 25 seconds. ***": {
+    "translation": "*** 维修区大门将在25秒后打开 ***"
+  },
+  "*** Maintenance area door opens in 10 seconds. ***": {
+    "translation": "*** 维修区大门将在10秒后打开 ***"
+  },
+  "*** Ventilation lockers open in 25 seconds. ***": {
+    "translation": "*** 通风柜将在25秒后打开 ***"
+  },
+  "*** Ventilation lockers open in 10 seconds. ***": {
+    "translation": "*** 通风柜将在10秒后打开 ***"
+  },
+  "*** Elevator leaves in 20 seconds!!! ***": {
+    "translation": "*** 电梯将在20秒后离开!!! ***"
+  },
+  "*** GO! We have to get to the Escape elevator!!! ***": {
+    "translation": "*** 我们得赶去逃生电梯!!! ***"
+  },
+  "*** Elevator leaves in 10 seconds!!! ***": {
+    "translation": "*** 电梯将在10秒后离开!!! ***"
+  },
+  "*** This cave has collapsed... Maybe another earthquake could help? ***": {
+    "translation": "*** 洞穴已经坍塌...也许再来一场地震会有用? ***",
+    "blocked": true
+  },
+  "*** Resist 15 seconds! ***": {
+    "translation": "*** 坚持15秒! ***"
+  },
+  "*** Resist 5 seconds! There's some shaking going on! ***": {
+    "translation": "*** 坚持5秒! 有震动正在发生! ***"
+  },
+  "*** Resist here for 15 seconds! This area used to lead to an abandoned mine!***": {
+    "translation": "*** 在这里坚持15秒!***"
+  },
+  "*** Defend that natural bridge! The seismometer reads a new earthquake soon!!! ***": {
+    "translation": "*** 守住那座天然桥!***"
+  },
+  "*** Keep defending! We have to resist until the whole bridge is destroyed! ***": {
+    "translation": "*** 继续防守! 我们必须坚持到整座桥被摧毁! ***"
+  },
+  "*** Keep it! 30 seconds until the next earthquake!! ***": {
+    "translation": "*** 坚持住! 距离下一次地震还有30秒!! ***"
+  },
+  "*** C'mon!!! Just 5 seconds! ***": {
+    "translation": "*** 加油!!! 只剩5秒! ***"
+  },
+  "*** We have to get to a safe zone now! The nuke will make this area collapse! ***": {
+    "translation": "*** 我们必须立即前往安全区! 核弹将使这片区域崩塌! ***",
+    "blocked": true
+  },
+  "*** Go to the small cave up there! Its walls are built off granite! ***": {
+    "translation": "*** 去上面的那个小洞穴! ***"
+  },
+  "*** C'MON!!! ***": {
+    "translation": "*** 快点!!! ***"
+  },
+  "*** Sector P door opens in 5 seconds ***": {
+    "translation": "*** P区大门将在5秒后打开 ***"
+  },
+  "*** Sector P door opens in 20 seconds ***": {
+    "translation": "*** P区大门将在20秒后打开 ***"
+  }
+}
