@@ -14,47 +14,47 @@
     "translation": "+ 四年后... +"
   },
   "+ Warning! SnowBalls Coming For 5 Seconds... +": {
-    "translation": "+ 注意! 有雪球滚下来了 持续 >> 5 << 秒... +"
+    "translation": "+ 5秒钟雪球滚下来 +"
   },
   "+ 20 Seconds Defend For Double Doors... +": {
-    "translation": "+ >> 20 <<秒坚守双门防线... +"
+    "translation": "+ 双门防守 >> 20 << 秒 +"
   },
   "+ Fall Back Guys, Zombies Teleporting For 5 Seconds... +": {
-    "translation": "+ 后撤兄弟们, 僵尸传送倒计时 >> 5 << 秒... +"
+    "translation": "+ 僵尸传送 >> 5 << 秒 +"
   },
   "+ 20 Seconds Defend For Strong Defend... +": {
-    "translation": "+ 20秒固守强化防御工事... +"
+    "translation": "+ 围栏防守20秒 +"
   },
   "+ Run Boys, Zombies Teleporting For 5 Seconds... +": {
-    "translation": "+ 快跑兄弟们, 僵尸即将传送 >> 5 << 秒... +"
+    "translation": "+ 僵尸传送 >> 5 << 秒 +"
   },
   "+ 10 Seconds Defend For Russian's House... +": {
-    "translation": "+ >> 10 <<秒守卫安全屋... +"
+    "translation": "+ 防守 >> 10 << 秒 +"
   },
   "+ Get in Bros, 40 Seconds Defend... +": {
-    "translation": "+ 兄弟们快就位, 坚守 >> 40 << 秒... +"
+    "translation": "+ 防守 >> 40 << 秒 +"
   },
   "+ Get Out Dudes!, Zombies Teleported... +": {
-    "translation": "+ 快撤伙计们! 僵尸已传送... +"
+    "translation": "+ 僵尸已传送 +"
   },
   "+ 30 Seconds Defend For Military Vehicle... +": {
-    "translation": "+ >> 30 << 秒防守载具... +"
+    "translation": "+ 防守载具 >> 30 << 秒 +"
   },
   "+ Last 10 Seconds, Humans Teleporting...+": {
-    "translation": "+ 最终 >> 10 << 秒, 人类传送中...+"
+    "translation": "+ 最终 >> 10 << 秒 +"
   },
   "+ Humans Teleported!+": {
     "translation": "+ 人类已传送!+"
   },
   "+ 40 Seconds Survival For Top Floor, (20 sc zm tp) +": {
-    "translation": "+ 顶楼 >> 40 << 秒生存战 +",
+    "translation": "+ 顶楼生存 >> 40 << 秒 +",
     "countdown": 40
   },
   "+ Zombies Teleported +": {
     "translation": "+ 僵尸已传送 +"
   },
   "+ Last 10 Seconds Final! +": {
-    "translation": "+ 最后 >> 10 << 秒决胜时刻! +"
+    "translation": "+ 最后 >> 10 << 秒! +"
   },
   "+ GG! Humans Win EZ!! +": {
     "translation": "+ GG! 人类轻松取胜!! 地图作者: MUHAMMETS7 +"
