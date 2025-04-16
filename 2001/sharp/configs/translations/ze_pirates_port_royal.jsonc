@@ -197,7 +197,7 @@
   ">>> HOLD ZOMBIES FOR 20 sec <<<": {
     "translation": "抵御僵尸20秒等待藏宝室大门关闭"
   },
-  "*** YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***": {
+  "***  YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***": {
     "translation": "你通过了第三关.第四关加载中..."
   },
   ">>> |LEVEL 3| <<<": {
@@ -282,7 +282,7 @@
   ">>> RUN TO THE CAVE <<<": {
     "translation": "快跑进山洞"
   },
-  ">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE! <<<": {
+  ">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE!  <<<": {
     "translation": "巴博萨又出现了!这次要让他立即去世!"
   },
   "*** LAST MEDALLION picked up ***": {
@@ -309,7 +309,7 @@
   "||| KRAKEN HAS THROWN BARRELS ON YOU |||": {
     "translation": "八爪叫兽扔出了滚桶"
   },
-  ">>> |LEVEL 6 KRAKEN GOD!| <<<": {
+  ">>> |LEVEL 6 KRAKEN GOD| <<<": {
     "translation": "当前关卡 >> 第六关,神级大章鱼模组加载中... <<"
   },
   ">>> GODLY KRAKEN HAS USED DOUBLE WAVE TO CLEAR THE PATH <<<": {
@@ -335,5 +335,20 @@
   },
   ">>> HOLD FOR 20 SEC <<<": {
     "translation": "坚守20秒"
+  },
+  "> HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **": {
+    "translation": "干掉所有的僵尸!"
+  },
+  "***  YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***": {
+    "translation": "你通过了第四关.第五关加载中..."
+  },
+  ">>> RUN <<<": {
+    "translation": "快跑!"
+  },
+  "***ACTIVATE ALL CANNONS***": {
+    "translation": "激活所有大炮!"
+  },
+  "*** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***": {
+    "translation": "你通过了第一关.第二关加载中..."
   }
 }
