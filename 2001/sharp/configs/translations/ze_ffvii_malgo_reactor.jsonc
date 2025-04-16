@@ -1,0 +1,201 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "< I've been... Defeated? >": {
+    "translation": "< 我被...击败了? >"
+  },
+  "< Only the chosen may survive! >": {
+    "translation": "< 天选之子或可生存! >"
+  },
+  "**Hold this area for 20 seconds!**": {
+    "translation": "坚持20秒!**"
+  },
+  "< All materias are disabled!! >": {
+    "translation": "< 全部神器已被禁用!! >"
+  },
+  "< Dodge this! >": {
+    "translation": "< 看这个! >"
+  },
+  "**You have failed**": {
+    "translation": "<< 你失败了 <<"
+  },
+  "< Hold this area for 25 seconds! >": {
+    "translation": "< 坚持25秒! >"
+  },
+  "< Wait 5 more seconds >": {
+    "translation": "< Wait 5 more seconds >",
+    "blocked": true
+  },
+  "< The gates will open in 30 seconds >": {
+    "translation": "< 门将在30秒后打开 >"
+  },
+  "< Any last words? >": {
+    "translation": "< 还有遗言吗? >"
+  },
+  "< Hold this area for 20 seconds! >": {
+    "translation": "< 等待20秒! >"
+  },
+  "< We need to find another way. Hold this area for 7 seconds! >": {
+    "translation": "< 此路不通.还有7秒! >"
+  },
+  "** GRAVITY Materia has been found. **": {
+    "translation": ">> 已获得 [重力] >>"
+  },
+  "** EARTH Materia has been found. **": {
+    "translation": ">> 已获得 [土] >>"
+  },
+  "** ELECTRO Materia has been found. **": {
+    "translation": ">> 已获得 [电] >>"
+  },
+  "** FIRE Materia has been found. **": {
+    "translation": ">> 已获得 [火] >>"
+  },
+  "** AQUA Materia has been found. **": {
+    "translation": ">> 已获得 [水] >>"
+  },
+  "** ICE Materia has been found. **": {
+    "translation": ">> 已获得 [冰] >>"
+  },
+  "** HEAL Materia has been found. **": {
+    "translation": ">> 已获得 [奶] >>"
+  },
+  "** WIND Materia has been found. **": {
+    "translation": ">> 已获得 [风] >>"
+  },
+  "** ULTIMA Materia has been found. **": {
+    "translation": ">> 已获得 [终极] >>"
+  },
+  "** BARRIER Materia has been found. **": {
+    "translation": ">> 已获得 [屏障] >>"
+  },
+  "** BIO Materia has been found. **": {
+    "translation": ">> 已获得 [毒] >>"
+  },
+  "**Hold this area for 17 seconds!**": {
+    "translation": "坚持17秒"
+  },
+  "**Hold this area for 15 seconds!**": {
+    "translation": "坚持15秒"
+  },
+  "< goodbye! >": {
+    "translation": "< 再见了宝贝! >"
+  },
+  "** MIMIC Materia has been found. **": {
+    "translation": ">> 已获得 [复制] >>"
+  },
+  "< Too late for laments! >": {
+    "translation": "< 太慢了! >"
+  },
+  "**A player has picked up ULTIMA materia**": {
+    "translation": ">> 已获得 [究极] >>"
+  },
+  "< Seems I do not have to hold back. >": {
+    "translation": "< 看起来没有必要了. >"
+  },
+  "< Zombies detected! You lose! >": {
+    "translation": "< 检测到僵尸! 你失败了! >"
+  },
+  "**Map by Ma/l/go**": {
+    "translation": "地图制作:Malgo"
+  },
+  "**CS2 port by kaggel**": {
+    "translation": "CS2移植:kaggel"
+  },
+  "** An administrator has set [HELLZ VERSION] for next round! **": {
+    "translation": "[管理员] 已设置关卡至 < HELLZ >"
+  },
+  "** An administrator has set [RMZS VERSION] for next round! **": {
+    "translation": "[管理员] 已设置关卡至 < RMZS >"
+  },
+  "** An administrator has set [ZEDDYS VERSION] for next round! **": {
+    "translation": "[管理员] 已设置关卡至 < ZEDDYS >"
+  },
+  "** An administrator has set [GGEASY VERSION] for next round! **": {
+    "translation": "[管理员] 已设置关卡至 < GGEASY >"
+  },
+  "** An administrator has set [ZOMBIEDEN VERSION] for next round! **": {
+    "translation": "[管理员] 已设置关卡至 < ZOMBIEDEN >"
+  },
+  "** Round failed! Zombies have reached the objective! **": {
+    "translation": "回合失败!僵尸逃脱了!"
+  },
+  "**Ifrit is defeated. Get back in the elevator**": {
+    "translation": "伊芙利特已被击败,快回电梯!!"
+  },
+  "**You are too slow**": {
+    "translation": "太慢了!!"
+  },
+  "** An administrator has set [COSMO VERSION] for next round! **": {
+    "translation": "[管理员] 已设置关卡至 < COSMO >"
+  },
+  "< RUN TO THE TELEPORT! >": {
+    "translation": "< 到传送点去! >"
+  },
+  "** An administrator has set [RACE VERSION] for next round! **": {
+    "translation": "[管理员] 已设置关卡至 < RACE >"
+  },
+  "< I understand that you've been looking for me. >": {
+    "translation": "< 我知道你仍在搜寻我的足迹 >"
+  },
+  "<45>": {
+    "translation": "还有45秒"
+  },
+  "<30>": {
+    "translation": "<30>",
+    "blocked": true
+  },
+  "<15>": {
+    "translation": "<15>",
+    "blocked": true
+  },
+  "<5>": {
+    "translation": "<5>",
+    "blocked": true
+  },
+  "<4>": {
+    "translation": "<4>",
+    "blocked": true
+  },
+  "<3>": {
+    "translation": "<3>",
+    "blocked": true
+  },
+  "<2>": {
+    "translation": "<2>",
+    "blocked": true
+  },
+  "<1>": {
+    "translation": "<1>",
+    "blocked": true
+  },
+  "** You have beaten INSANE II (HELLZ VERSION)!! Congratulations !! **": {
+    "translation": "你通过了 [HELLZ VERSION]!! 恭喜!!"
+  },
+  "** You have beaten INSANE III (RMZS VERSION)!! Congratulations !! **": {
+    "translation": "你通过了 [RMZS VERSION]!! 恭喜!!"
+  },
+  "**Blast Doors are locked! Find another way!**": {
+    "translation": "门锁上了!!想其他的办法!!"
+  },
+  "** You have beaten INSANE IV (ZEDDYS VERSION)!! Congratulations !! **": {
+    "translation": "你通过了 [ZEDDYS VERSION]!! 恭喜!!"
+  },
+  "** You have beaten INSANE VI (GGEASY VERSION)!! Congratulations !! **": {
+    "translation": "你通过了 [GGEASY VERSION]!! 恭喜!!"
+  },
+  "<< HUMANS WON THE RACE >>": {
+    "translation": "<< 人类竞速胜利!! >>"
+  },
+  "<< ZOMBIES WON THE RACE >>": {
+    "translation": "<< 僵尸竞速胜利!! >>"
+  }
+}
