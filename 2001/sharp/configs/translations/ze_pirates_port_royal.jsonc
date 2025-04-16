@@ -137,7 +137,7 @@
   ">>> CANNON HAS BEEN DESTROYED <<<": {
     "translation": "大炮已被人类摧毁"
   },
-  ">>> THE SHIP DEPARTS IN 25 sec <<<": {
+  ">>>  THE SHIP DEPARTS IN 25 sec <<<": {
     "translation": "黑珍珠号25秒后离开"
   },
   ">>> ENTRANCE TO THE SHELTER IS OPENING IN 25 SEC <<<": {
@@ -243,7 +243,8 @@
     "translation": "坚守45秒等待大门打开"
   },
   ">>> HOLD <<<": {
-    "translation": "守住僵尸40秒!"
+    "translation": "守住僵尸40秒!",
+    "countdown": 40
   },
   ">>> KRAKEN HAS USED WAVE TO CLEAR THE PATH <<<": {
     "translation": "克拉肯吐了一口老坛清理道路"
