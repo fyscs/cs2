@@ -451,10 +451,10 @@
     "translation": "AURORA基地."
   },
   "”乘坐中央电梯，我们必须不断攀升！>": {
-    "translation": "乘坐中央电梯，我们必须不断攀升！"
+    "translation": "乘坐中央电梯,我们必须不断攀升!"
   },
   "“电梯不久就会启动(20秒)，保住我们的安全！": {
-    "translation": "“电梯20秒后启动",
+    "translation": "电梯20秒后启动",
     "countdown": 20
   }
 }
