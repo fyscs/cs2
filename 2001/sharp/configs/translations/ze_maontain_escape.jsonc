@@ -30,30 +30,6 @@
     "translation": "down",
     "blocked": true
   },
-  "1.25倍速": {
-    "translation": "1.25倍速"
-  },
-  "1.75倍速": {
-    "translation": "1.75倍速"
-  },
-  "0.8重力": {
-    "translation": "0.8重力"
-  },
-  "0.3重力": {
-    "translation": "0.3重力"
-  },
-  "1.25重力": {
-    "translation": "1.25重力"
-  },
-  "0.75倍速": {
-    "translation": "0.75倍速"
-  },
-  "0.45倍速": {
-    "translation": "0.45倍速"
-  },
-  "2重力": {
-    "translation": "2重力"
-  },
   "强身健体": {
     "translation": "强身健体"
   },
@@ -74,12 +50,6 @@
   },
   "( ×ω× )": {
     "translation": "( ×ω× )"
-  },
-  "↑↓←→": {
-    "translation": "↑↓←→"
-  },
-  "2倍速": {
-    "translation": "2倍速"
   },
   "抓钩抓到了一名人类，帮帮他": {
     "translation": "抓钩抓到了一名人类,帮帮他"
@@ -190,8 +160,5 @@
   },
   "雾气再起": {
     "translation": "雾气再起"
-  },
-  "选择模式中.....": {
-    "translation": "选择模式中....."
   }
 }
