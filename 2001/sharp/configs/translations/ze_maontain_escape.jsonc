@@ -10,94 +10,6 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "player now on": {
-    "translation": "玩家已启用",
-    "blocked": true
-  },
-  "player now off": {
-    "translation": "玩家已停用",
-    "blocked": true
-  },
-  "w pressed": {
-    "translation": "W键 按下",
-    "blocked": true
-  },
-  "w unpressed": {
-    "translation": "W键 松开",
-    "blocked": true
-  },
-  "a pressed": {
-    "translation": "A键 按下",
-    "blocked": true
-  },
-  "a unpressed": {
-    "translation": "A键 松开",
-    "blocked": true
-  },
-  "s pressed": {
-    "translation": "S键 按下",
-    "blocked": true
-  },
-  "s unpressed": {
-    "translation": "S键 松开",
-    "blocked": true
-  },
-  "d pressed": {
-    "translation": "D键 按下",
-    "blocked": true
-  },
-  "d unpressed": {
-    "translation": "D键 松开",
-    "blocked": true
-  },
-  "attack pressed": {
-    "translation": "左键 按下",
-    "blocked": true
-  },
-  "attack unpressed": {
-    "translation": "左键 松开",
-    "blocked": true
-  },
-  "attack2 pressed": {
-    "translation": "右键 按下",
-    "blocked": true
-  },
-  "attack2 unpressed": {
-    "translation": "右键 松开",
-    "blocked": true
-  },
-  "speed pressed": {
-    "translation": "空格 按下",
-    "blocked": true
-  },
-  "speed unpressed": {
-    "translation": "空格 松开",
-    "blocked": true
-  },
-  "duck pressed": {
-    "translation": "蹲 按下",
-    "blocked": true
-  },
-  "duck unpressed": {
-    "translation": "蹲 松开",
-    "blocked": true
-  },
-  "inspect pressed": {
-    "translation": "检视 按下",
-    "blocked": true
-  },
-  "inspect unpressed": {
-    "translation": "检视 松开",
-    "blocked": true
-  },
-  "score pressed": {
-    "translation": "计分板 按下",
-    "blocked": true
-  },
-  "score unpressed": {
-    "translation": "计分板 松开",
-    "blocked": true
-  },
   "僵尸泥头车已被拾取": {
     "translation": "僵尸泥头车已被拾取",
     "blocked": true
@@ -161,8 +73,7 @@
     "translation": "飞"
   },
   "( ×ω× )": {
-    "translation": "( ×ω× )",
-    "blocked": true
+    "translation": "( ×ω× )"
   },
   "↑↓←→": {
     "translation": "↑↓←→"
@@ -270,54 +181,6 @@
   },
   "请注意传送光圈的位置": {
     "translation": "请注意传送光圈的位置"
-  },
-  "下一回合为普通模式": {
-    "translation": "下一回合为普通模式",
-    "blocked": true
-  },
-  "下一回合为生化奇兵": {
-    "translation": "下一回合为生化奇兵",
-    "blocked": true
-  },
-  "下一回合为黑水镇的诅咒": {
-    "translation": "下一回合为黑水镇的诅咒",
-    "blocked": true
-  },
-  "下一回合为圆头耄耋": {
-    "translation": "下一回合为圆头耄耋",
-    "blocked": true
-  },
-  "下一回合将会天黑": {
-    "translation": "下一回合将会天黑",
-    "blocked": true
-  },
-  "下一回合将要保护猫猫": {
-    "translation": "下一回合将要保护猫猫",
-    "blocked": true
-  },
-  "下一回合有宝宝巴士": {
-    "translation": "下一回合有宝宝巴士",
-    "blocked": true
-  },
-  "下一回合为卡丁车": {
-    "translation": "下一回合为卡丁车",
-    "blocked": true
-  },
-  "下一回合为水下生化奇兵": {
-    "translation": "下一回合为水下生化奇兵",
-    "blocked": true
-  },
-  "下一回合会起浓雾": {
-    "translation": "下一回合会起浓雾",
-    "blocked": true
-  },
-  "下一回合会有大飞板": {
-    "translation": "下一回合会有大飞板",
-    "blocked": true
-  },
-  "下一回合会有大炮": {
-    "translation": "下一回合会有大炮",
-    "blocked": true
   },
   "销量惨淡...": {
     "translation": "销量惨淡..."
