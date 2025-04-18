@@ -10,6 +10,9 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
+  "** You got the the Sen's Fortres key! **": {
+    "translation": "** 你获得了森塞堡垒钥匙 **"
+  },
   "** The passage from the Great Tree will open in 15 seconds. **": {
     "translation": "** 巨树通道 15 秒打开. **"
   },
@@ -39,12 +42,10 @@
     "translation": "** 僵尸 20 秒传送 **"
   },
   "So sad next time": {
-    "translation": "** 真遗憾,下次继续努力 **",
-    "blocked": true
+    "translation": "** 真遗憾,下次继续努力 **"
   },
   "** At the cost of your health. I can open this passage for you. Deal? **": {
-    "translation": "** 以生命为代价,为你开启此通道,成交? **",
-    "blocked": true
+    "translation": "** 以生命为代价,为你开启此通道,成交? **"
   },
   "*** Admin Abuse: FCS ***": {
     "translation": "** >> 管理员 << 滥用: << 防火女魂魄 >> **",
@@ -59,16 +60,14 @@
     "blocked": true
   },
   "** Version 1.0.2.0 **": {
-    "translation": "** Version 1.0.2.0 **",
-    "blocked": true
+    "translation": "** Version 1.0.2.0 **"
   },
   "** Find the lever to open the bottom gate in the Depths. You have 35 seconds **": {
     "translation": "** 你只有 35 秒时间触发下层门拉杆. **",
     "blocked": true
   },
   "** Do it faster next time! You lost! **": {
-    "translation": "** 下次动作快点! You lost! **",
-    "blocked": true
+    "translation": "** 下次动作快点! You lost! **"
   },
   "** The Sen's Fortress gates will open in 20 seconds **": {
     "translation": "** 塞恩古城大门 20 秒打开 **"
@@ -97,8 +96,7 @@
     "blocked": true
   },
   "** WATCH OUT FOR BOULDERS! **": {
-    "translation": "** 小心巨石! **",
-    "blocked": true
+    "translation": "** 小心巨石! **"
   },
   "** The Old Church gates will open in 30 seconds **": {
     "translation": "** 老教堂大门 30 秒打开 **"
@@ -112,8 +110,7 @@
     "blocked": true
   },
   "** ALL THE BOULDERS ARE DISABLED! ***": {
-    "translation": "** 所有滚石已停止! **",
-    "blocked": true
+    "translation": "** 所有滚石已停止! **"
   },
   "** The Stray Demon was keeping an eye for no one undead leaves the prison.. **": {
     "translation": "** 恶魔一直在监视着不死人离开监狱 **",
@@ -140,8 +137,7 @@
     "translation": "** 庇护所主大门 25 秒打开 **"
   },
   "** The control of boulders room are open **": {
-    "translation": "** 滚石控制室已打开 **",
-    "blocked": true
+    "translation": "** 滚石控制室已打开 **"
   },
   "** Well done. Wait 5 more seconds till the gate opens **": {
     "translation": "** 再等 5 秒大门打开 **"
@@ -191,8 +187,7 @@
     "translation": "** 下层庇护所大门 5 秒打开 **"
   },
   "** Zombies got there before humans! You lost! **": {
-    "translation": "** 僵尸比人类先到达! You lost! **",
-    "blocked": true
+    "translation": "** 僵尸比人类先到达! You lost! **"
   },
   "** The Uppear gates of Old Church will open in 10 seconds **": {
     "translation": "** 老教堂上层大门 10 秒打开 **"
@@ -282,12 +277,10 @@
     "blocked": true
   },
   "** 5/6 crystal lizards were collected **": {
-    "translation": "** << 宝石结晶虫 >> 5/6 **",
-    "blocked": true
+    "translation": "** << 宝石结晶虫 >> 5/6 **"
   },
   "** Items damage has been increased **": {
-    "translation": "** 神器的伤害已提高 **",
-    "blocked": true
+    "translation": "** 神器的伤害已提高 **"
   },
   "** This is not an ordinary elevator. It will start moving in 30 seconds **": {
     "translation": "** 电梯 30 秒开始移动 **"
@@ -307,8 +300,7 @@
     "translation": "** 大门 20 秒打开 **"
   },
   "** Everything secret has now become visible **": {
-    "translation": "** 一切秘密都变得清晰可见 **",
-    "blocked": true
+    "translation": "** 一切秘密都变得清晰可见 **"
   },
   "** The Iron Golem is defeated **": {
     "translation": "** 钢铁巨偶被击败... **"
@@ -378,8 +370,7 @@
     "blocked": true
   },
   "** Eye collected 7/7**": {
-    "translation": "** << 龟裂血红眼眸 >> 7/7 **",
-    "blocked": true
+    "translation": "** << 龟裂血红眼眸 >> 7/7 **"
   },
   "** not enough haryde(nigger) coins for true ending **": {
     "translation": "** 没有足够的 << 龟裂血红眼眸 >> 无法达成真正的结局 **"
@@ -397,19 +388,16 @@
     "blocked": true
   },
   "** Fire keeper soul has been picked up 4/5 **": {
-    "translation": "** << 防火女魂魄 >> 4/5 **",
-    "blocked": true
+    "translation": "** << 防火女魂魄 >> 4/5 **"
   },
   "** Base health has been increased **": {
-    "translation": "** 基础生命值已提升 **",
-    "blocked": true
+    "translation": "** 基础生命值已提升 **"
   },
   "** ZE_DARK_SOULS **": {
     "translation": "** ZE_DARK_SOULS 黑暗之魂 **"
   },
   "** Special thanks to Brunelazo343 for custom skins **": {
-    "translation": "** 特别鸣谢: Brunelazo343 **",
-    "blocked": true
+    "translation": "** 特别鸣谢: Brunelazo343 **"
   },
   "** The paths of this location often run along the edge of deep crevices. ready at any moment to hide the corpse of an unwary traveler in its womb **": {
     "translation": "** 这里的小路经常沿着深不见底的裂缝边缘延伸,可能藏着失足旅行者的尸体 **",
@@ -426,8 +414,7 @@
     "translation": "** 管理员设置了 Normal 模式 **"
   },
   "** The crimson eye has been picked up **": {
-    "translation": "** << 龟裂血红眼眸 >> 已被捡起 **",
-    "blocked": true
+    "translation": "** << 龟裂血红眼眸 >> 已被捡起 **"
   },
   "**The gate of a ruined church will open in 30 seconds**": {
     "translation": "** 教堂大门 30 秒开启 **"
@@ -442,20 +429,16 @@
     "translation": "** 前往初始之火的通道 25 秒打开 **"
   },
   "** Flame Ember **": {
-    "translation": "** << 火焰余烬 >> **",
-    "blocked": true
+    "translation": "** << 火焰余烬 >> **"
   },
   "** Magic Ember **": {
-    "translation": "** << 魔法余烬 >> **",
-    "blocked": true
+    "translation": "** << 魔法余烬 >> **"
   },
   "** Dark Ember **": {
-    "translation": "** << 黑暗余烬 >> **",
-    "blocked": true
+    "translation": "** << 黑暗余烬 >> **"
   },
   "** Divine Ember **": {
-    "translation": "** << 神圣余烬 >> **",
-    "blocked": true
+    "translation": "** << 神圣余烬 >> **"
   },
   "**Gwyn Lord of Cinder is dead...**": {
     "translation": "** 乌薪王葛温已陨落... **"
@@ -514,8 +497,7 @@
     "blocked": true
   },
   "** Map by HaRyDe. Microsoft. Kotya **": {
-    "translation": "** 地图作者: HaRyDe. Microsoft. Kotya 文本:Zeyu1&茜茜 **",
-    "blocked": true
+    "translation": "** 地图作者: HaRyDe. Microsoft. Kotya 文本:Zeyu1&茜茜 **"
   },
   "** Dark Lord ending was completed **": {
     "translation": "** >> 灭火 << - 结局已完成 **"
