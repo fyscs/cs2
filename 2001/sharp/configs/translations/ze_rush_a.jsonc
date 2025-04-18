@@ -46,8 +46,7 @@
     "translation": "**防守 >> 32 << 秒**"
   },
   "**Get ready to come in, you don't have much time for this!**": {
-    "translation": "**准备进入, 剩余时间不多!**",
-    "blocked": true
+    "translation": "**准备进入, 剩余时间不多!**"
   },
   "**Go to the phone, the portal is open!**": {
     "translation": "**前往电话机 , 传送门已开**"
@@ -75,8 +74,7 @@
     "translation": "**任务完成**"
   },
   "**Go to the teleport**": {
-    "translation": "**前往传送点**",
-    "blocked": true
+    "translation": "**前往传送点**"
   },
   "**Zombie tp at 20 seconds**": {
     "translation": "**僵尸 >> 20 << 秒后传送**"
@@ -139,8 +137,7 @@
     "translation": "**全员 >> 10 << 秒后传送**"
   },
   "**Stage 1**": {
-    "translation": "**第一阶段**",
-    "blocked": true
+    "translation": "**第一阶段**"
   },
   "**Dodge Trains**": {
     "translation": "**躲避列车**"
@@ -188,8 +185,7 @@
     "blocked": true
   },
   "*** ONE OF THE DOORS UNLOCK SOON ***": {
-    "translation": "*** 某扇门即将解锁 ***",
-    "blocked": true
+    "translation": "*** 某扇门即将解锁 ***"
   },
   "*** ... WE NEED TO FIND ANOTHER WAY ***": {
     "translation": "*** 我们需要另寻出路 ***",
