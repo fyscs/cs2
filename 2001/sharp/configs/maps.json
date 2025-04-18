@@ -1727,6 +1727,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_kebab_immigrant": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 140,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 35
+  },
   "ze_kraznov_poopata_p": {
     "admin": false,
     "certainTimes": [-1],
