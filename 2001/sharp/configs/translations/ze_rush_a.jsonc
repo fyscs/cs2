@@ -50,8 +50,7 @@
     "blocked": true
   },
   "**Go to the phone, the portal is open!**": {
-    "translation": "**前往电话机 , 传送门已开**",
-    "blocked": true
+    "translation": "**前往电话机 , 传送门已开**"
   },
   "**Find the right door**": {
     "translation": "**寻找正确门**",
@@ -70,20 +69,17 @@
     "blocked": true
   },
   "**Hold 10 seconds**": {
-    "translation": "**防守 >> 10 << 秒**",
-    "blocked": true
+    "translation": "**防守 >> 10 << 秒**"
   },
   "**Good Job**": {
-    "translation": "**任务完成**",
-    "blocked": true
+    "translation": "**任务完成**"
   },
   "**Go to the teleport**": {
     "translation": "**前往传送点**",
     "blocked": true
   },
   "**Zombie tp at 20 seconds**": {
-    "translation": "**僵尸 >> 20 << 秒后传送**",
-    "blocked": true
+    "translation": "**僵尸 >> 20 << 秒后传送**"
   },
   "**Hold 25  seconds**": {
     "translation": "**防守 >> 25 << 秒**"
@@ -97,8 +93,7 @@
     "blocked": true
   },
   "*** GIVE ME SOME SECONDS TO FIND THE CORRECT KEY ***": {
-    "translation": "*** 给我几秒寻找正确密钥 ***",
-    "blocked": true
+    "translation": "*** 给我几秒寻找正确密钥 ***"
   },
   "**2 Stage!!!**": {
     "translation": "**第二阶段**"
@@ -112,24 +107,21 @@
     "blocked": true
   },
   "**Defend the phone**": {
-    "translation": "**防守电话机**",
-    "blocked": true
+    "translation": "**防守电话机**"
   },
   "**Pick up the push gun**": {
     "translation": "**拾取推力枪**",
     "blocked": true
   },
   "**If zombies come to the phone you will die!!!**": {
-    "translation": "**僵尸接近电话机全员死亡**",
-    "blocked": true
+    "translation": "**僵尸接近电话机全员死亡**"
   },
   "**Zombies broke the phone!!!**": {
     "translation": "**僵尸已破坏电话机**",
     "blocked": true
   },
   "**Stage 2!**": {
-    "translation": "**第二阶段!**",
-    "blocked": true
+    "translation": "**第二阶段!**"
   },
   "**SHOOT THE BOSS!!!**": {
     "translation": "**击杀 BOSS**",
@@ -151,8 +143,7 @@
     "blocked": true
   },
   "**Dodge Trains**": {
-    "translation": "**躲避列车**",
-    "blocked": true
+    "translation": "**躲避列车**"
   },
   "**Human have turned off the trains!**": {
     "translation": "**人类已关闭列车系统!**",
@@ -165,8 +156,7 @@
     "translation": "**防守 >> 15 << 秒**"
   },
   "**Stage 3**": {
-    "translation": "**第三阶段**",
-    "blocked": true
+    "translation": "**第三阶段**"
   },
   "**Defend 23 seconds**": {
     "translation": "**防守 >> 23 << 秒**"
@@ -183,8 +173,7 @@
     "blocked": true
   },
   "**Keep defending the phone!!!**": {
-    "translation": "**防守电话机**",
-    "blocked": true
+    "translation": "**防守电话机**"
   },
   "**DEFEND ZOMBIES!!!**": {
     "translation": "**防守僵尸**",
