@@ -1,0 +1,195 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "[ CHET USE ATTRACT FAT ASS ]": {
+    "translation": "[ 切特:吸力(按S) ]"
+  },
+  "[ CHET USE FIRE LASERS ]": {
+    "translation": "[ 切特:火焰刀 ]"
+  },
+  "[ CHET USE DONUT ]": {
+    "translation": "[ 切特:甜甜圈 ]"
+  },
+  "[ Door open in 20 SECONDS ]": {
+    "translation": "[ 大门20秒开 ]"
+  },
+  "[ FREEZEGUN item has been picked ]": {
+    "translation": "[ 已拾取冰冻枪 ]",
+    "blocked": true
+  },
+  "[ JERRYCAN item has been picked ]": {
+    "translation": "[ 已拾取油桶 ]",
+    "blocked": true
+  },
+  "[ SHOTGUN item has been picked ]": {
+    "translation": "[ 已拾取霰弹枪 ]",
+    "blocked": true
+  },
+  "[ AMMO item has been picked ]": {
+    "translation": "[ 已拾取弹药 ]",
+    "blocked": true
+  },
+  "[ HEAL item has been picked ]": {
+    "translation": "[ 已拾取治疗 ]",
+    "blocked": true
+  },
+  "[ Rocklee use Kebab Laser ]": {
+    "translation": "[ 洛克李:烤肉跳刀(小心四周) ]"
+  },
+  "[ Rocklee use Kebab Meteor ]": {
+    "translation": "[ 洛克李:烤肉流星(抬头) ]"
+  },
+  "[ Rocklee use Rotating Kebab ]": {
+    "translation": "[ 洛克李:旋转烤肉(跳起来) ]"
+  },
+  "[ Rocklee use Kebab Bridge ]": {
+    "translation": "[ 洛克李:烤肉大桥(尸笼) ]"
+  },
+  "[ Oh god not this kebab immigrant ! ]": {
+    "translation": "[ 我嘞个豆,又是这个烤肉 ! ]",
+    "blocked": true
+  },
+  "[ SHOOT HIM ! ]": {
+    "translation": "[ 开枪 ! ]"
+  },
+  "[ Doors open in 30 SECONDS ]": {
+    "translation": "[ 门30秒开 ]"
+  },
+  "[ Map By Nostar ]": {
+    "translation": "[ 地图作者: Nostar ]",
+    "blocked": true
+  },
+  "[ ze_Kebab_Immigrant ]": {
+    "translation": "[ ze_Kebab_Immigrant ]",
+    "blocked": true
+  },
+  "[ FALL BACK ]": {
+    "translation": "[ 溜了溜了 ]"
+  },
+  "[ Bridge coming in 20 SECONDS ]": {
+    "translation": "[ 大桥20秒 ]"
+  },
+  "[ The bridges are on the way ]": {
+    "translation": "[ 大桥已下降 ]",
+    "blocked": true
+  },
+  "[ So he will add somes lasers for you fckg faggot ]": {
+    "translation": "[ 他会给你加激光 ]",
+    "blocked": true
+  },
+  "[ He don't know how to finish the map ]": {
+    "translation": "[ 他根本不知道如何完成这张地图 ]",
+    "blocked": true
+  },
+  "[ Oh no ! It's the mapper ! ]": {
+    "translation": "[ 地图作者出现了 ! ]",
+    "blocked": true
+  },
+  "[ Donut leaving in 15 SECONDS ]": {
+    "translation": "[ 甜甜圈15秒离开 ]"
+  },
+  "[ Donut go down in 30 seconds ]": {
+    "translation": "[ 甜甜圈30秒下降 ]"
+  },
+  "[ Donut is on the way ]": {
+    "translation": "[ 甜甜圈马上来 ]",
+    "blocked": true
+  },
+  "[ ZOMBIES DETECTED ]": {
+    "translation": "[ 检测到僵尸 ]",
+    "blocked": true
+  },
+  "[ YOU FAILED FUCKING CHAWARMA IMMIGRANT ]": {
+    "translation": "[ You lost! ]"
+  },
+  "[ YOU WON THE MAP ]": {
+    "translation": "[ 恭喜通关地图 地图文本:茜茜 ]"
+  },
+  "[ YOU'RE THE REAL KEBAB IMMIGRANT ]": {
+    "translation": "[ 你才是真正的冠军 ]"
+  },
+  "[ Lift leaving in 30 SECONDS ]": {
+    "translation": "[ 电梯30秒离开 ]"
+  },
+  "[ Lift leaving in 20 SECONDS ]": {
+    "translation": "[ 电梯20秒离开 ]"
+  },
+  "[ Lift leaving in 10 SECONDS ]": {
+    "translation": "[ 电梯10秒离开 ]"
+  },
+  "[ Door close in 5 seconds ]": {
+    "translation": "[ 5秒关门 ]"
+  },
+  "[ Hold 20 SECONDS ]": {
+    "translation": "[ 防守20秒 ]"
+  },
+  "[ 10 SECONDS LEFT ]": {
+    "translation": "[ 剩余10秒 ]"
+  },
+  "[ Elevator leaving in 40 SECONDS ]": {
+    "translation": "[ 电梯40秒离开 ]"
+  },
+  "[ You took too long to trigger, slaying all humans... ]": {
+    "translation": "[ 触发太慢了,处死所有人类 ]",
+    "blocked": true
+  },
+  "[ Elevator start in 15 SECONDS ]": {
+    "translation": "[ 电梯15秒启动 ]"
+  },
+  "[ Gates will close in 20 SECONDS ]": {
+    "translation": "[ 大门20秒关闭 ]"
+  },
+  "[ WAIT... ]": {
+    "translation": "[ 等等... ]",
+    "blocked": true
+  },
+  "[ SOMETHING COMING... ]": {
+    "translation": "[ 有东西正在接近... ]"
+  },
+  "[ OH NO PLEASE.. ]": {
+    "translation": "[ 我嘞个豆.. ]",
+    "blocked": true
+  },
+  "[ NOT THIS RETARD ]": {
+    "translation": "[ 别又是这个 ]",
+    "blocked": true
+  },
+  "[ SHOOT HIM !!! ]": {
+    "translation": "[ 射他 !!! ]",
+    "blocked": true
+  },
+  "[ Door open in 15 SECONDS ]": {
+    "translation": "[ 门15秒打开 ]"
+  },
+  "[ AFK Teleport in 5 SECONDS ]": {
+    "translation": "[ 挂机玩家5秒传送 ]"
+  },
+  "[ The gates will open in 20 SECONDS ]": {
+    "translation": "[ 门20秒开启 ]"
+  },
+  "[ The 3 levers have been activated ]": {
+    "translation": "[ 三个拉杆已触发 ]",
+    "blocked": true
+  },
+  "[ 20 SECONDS LEFT ]": {
+    "translation": "[ 剩余20秒 ]"
+  },
+  "[ Elevator go up in 30 SECONDS ]": {
+    "translation": "[ 电梯30秒上升 ]"
+  },
+  "[ Zombies coming in 5 seconds ]": {
+    "translation": "[ 僵尸5秒后到达 ]"
+  },
+  "[ Door open in 10 SECONDS ]": {
+    "translation": "[ 门10秒开启 ]"
+  }
+}
