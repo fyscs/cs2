@@ -119,204 +119,157 @@
     "blocked": true
   },
   "1.25倍速": {
-    "translation": "1.25倍速",
-    "blocked": true
+    "translation": "1.25倍速"
   },
   "1.75倍速": {
-    "translation": "1.75倍速",
-    "blocked": true
+    "translation": "1.75倍速"
   },
   "0.8重力": {
-    "translation": "0.8重力",
-    "blocked": true
+    "translation": "0.8重力"
   },
   "0.3重力": {
-    "translation": "0.3重力",
-    "blocked": true
+    "translation": "0.3重力"
   },
   "1.25重力": {
-    "translation": "1.25重力",
-    "blocked": true
+    "translation": "1.25重力"
   },
   "0.75倍速": {
-    "translation": "0.75倍速",
-    "blocked": true
+    "translation": "0.75倍速"
   },
   "0.45倍速": {
-    "translation": "0.45倍速",
-    "blocked": true
+    "translation": "0.45倍速"
   },
   "2重力": {
-    "translation": "2重力",
-    "blocked": true
+    "translation": "2重力"
   },
   "强身健体": {
-    "translation": "强身健体",
-    "blocked": true
+    "translation": "强身健体"
   },
   "竹节虫": {
-    "translation": "竹节虫",
-    "blocked": true
+    "translation": "竹节虫"
   },
   "钢铁之躯": {
-    "translation": "钢铁之躯",
-    "blocked": true
+    "translation": "钢铁之躯"
   },
   "冰！": {
-    "translation": "冰!",
-    "blocked": true
+    "translation": "冰!"
   },
   "飞起来": {
-    "translation": "飞起来",
-    "blocked": true
+    "translation": "飞起来"
   },
   "飞": {
-    "translation": "飞",
-    "blocked": true
+    "translation": "飞"
   },
   "( ×ω× )": {
     "translation": "( ×ω× )",
     "blocked": true
   },
   "↑↓←→": {
-    "translation": "↑↓←→",
-    "blocked": true
+    "translation": "↑↓←→"
   },
   "2倍速": {
-    "translation": "2倍速",
-    "blocked": true
+    "translation": "2倍速"
   },
   "抓钩抓到了一名人类，帮帮他": {
-    "translation": "抓钩抓到了一名人类,帮帮他",
-    "blocked": true
+    "translation": "抓钩抓到了一名人类,帮帮他"
   },
   "普通模式": {
-    "translation": "普通模式",
-    "blocked": true
+    "translation": "普通模式"
   },
   "60秒后核爆降临": {
     "translation": "60秒核爆",
     "countdown": 60
   },
   "生化奇兵": {
-    "translation": "生化奇兵",
-    "blocked": true
+    "translation": "生化奇兵"
   },
   "注意！伊丽莎白开启了一处传送门": {
-    "translation": "注意!伊丽莎白开启了一处传送门",
-    "blocked": true
+    "translation": "注意!伊丽莎白开启了一处传送门"
   },
   "黑水镇的诅咒": {
-    "translation": "黑水镇的诅咒",
-    "blocked": true
+    "translation": "黑水镇的诅咒"
   },
   "曼波": {
-    "translation": "曼波",
-    "blocked": true
+    "translation": "曼波"
   },
   "天黑了...": {
-    "translation": "天黑了...",
-    "blocked": true
+    "translation": "天黑了..."
   },
   "运载目标抵达终点，任务完成！！": {
-    "translation": "运载目标抵达终点,任务完成!!",
-    "blocked": true
+    "translation": "运载目标抵达终点,任务完成!!"
   },
   "僵尸复活已关闭，清理残余的僵尸": {
-    "translation": "僵尸复活已关闭,清理残余的僵尸",
-    "blocked": true
+    "translation": "僵尸复活已关闭,清理残余的僵尸"
   },
   "僵尸突破了一次！！！": {
-    "translation": "僵尸突破了一次!!!",
-    "blocked": true
+    "translation": "僵尸突破了一次!!!"
   },
   "护送猫猫": {
-    "translation": "护送猫猫",
-    "blocked": true
+    "translation": "护送猫猫"
   },
   "僵尸摧毁了运载目标，任务失败！！": {
-    "translation": "僵尸摧毁了运载目标,任务失败!!",
-    "blocked": true
+    "translation": "僵尸摧毁了运载目标,任务失败!!"
   },
   "麻瓜山": {
-    "translation": "麻瓜山",
-    "blocked": true
+    "translation": "麻瓜山"
   },
   "黑雾四起": {
-    "translation": "黑雾四起",
-    "blocked": true
+    "translation": "黑雾四起"
   },
   "但......": {
-    "translation": "但......",
-    "blocked": true
+    "translation": "但......"
   },
   "DIO在朝你扔压路机": {
-    "translation": "DIO在朝你扔压路机",
-    "blocked": true
+    "translation": "DIO在朝你扔压路机"
   },
   "地图出现了大飞板": {
-    "translation": "地图出现了大飞板",
-    "blocked": true
+    "translation": "地图出现了大飞板"
   },
   "但...": {
-    "translation": "但...",
-    "blocked": true
+    "translation": "但..."
   },
   "无事发生": {
-    "translation": "无事发生",
-    "blocked": true
+    "translation": "无事发生"
   },
   "3": {
-    "translation": "3",
-    "blocked": true
+    "translation": "3"
   },
   "2": {
-    "translation": "2",
-    "blocked": true
+    "translation": "2"
   },
   "1": {
-    "translation": "1",
-    "blocked": true
+    "translation": "1"
   },
   "go!!": {
-    "translation": "go!!",
-    "blocked": true
+    "translation": "go!!"
   },
   "卡丁车比赛，第一名有奖励哦": {
-    "translation": "卡丁车比赛,第一名有奖励哦",
-    "blocked": true
+    "translation": "卡丁车比赛,第一名有奖励哦"
   },
   "第一名玩家已经只剩一圈！！！": {
-    "translation": "第一名玩家已经只剩一圈!!!",
-    "blocked": true
+    "translation": "第一名玩家已经只剩一圈!!!"
   },
   "第一名玩家已完成比赛": {
-    "translation": "第一名玩家已完成比赛",
-    "blocked": true
+    "translation": "第一名玩家已完成比赛"
   },
   "核爆将在10秒后生效": {
     "translation": "核爆10秒生效",
     "countdown": 10
   },
   "那是什么....": {
-    "translation": "那是什么....",
-    "blocked": true
+    "translation": "那是什么...."
   },
   "爱牛小电动滞销了....": {
-    "translation": "爱牛小电动滞销了....",
-    "blocked": true
+    "translation": "爱牛小电动滞销了...."
   },
   "生化奇兵:水下": {
-    "translation": "生化奇兵:水下",
-    "blocked": true
+    "translation": "生化奇兵:水下"
   },
   "伊丽莎白会为失足的人开启传送门": {
-    "translation": "伊丽莎白会为失足的人开启传送门",
-    "blocked": true
+    "translation": "伊丽莎白会为失足的人开启传送门"
   },
   "请注意传送光圈的位置": {
-    "translation": "请注意传送光圈的位置",
-    "blocked": true
+    "translation": "请注意传送光圈的位置"
   },
   "下一回合为普通模式": {
     "translation": "下一回合为普通模式",
@@ -367,19 +320,15 @@
     "blocked": true
   },
   "销量惨淡...": {
-    "translation": "销量惨淡...",
-    "blocked": true
+    "translation": "销量惨淡..."
   },
   "雾气消失": {
-    "translation": "雾气消失",
-    "blocked": true
+    "translation": "雾气消失"
   },
   "雾气再起": {
-    "translation": "雾气再起",
-    "blocked": true
+    "translation": "雾气再起"
   },
   "选择模式中.....": {
-    "translation": "选择模式中.....",
-    "blocked": true
+    "translation": "选择模式中....."
   }
 }
