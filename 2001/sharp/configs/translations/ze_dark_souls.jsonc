@@ -137,8 +137,7 @@
     "translation": "** 庇护所主大门 25 秒打开 **"
   },
   "** The control of boulders room are open **": {
-    "translation": "** 滚石控制室已打开 **",
-    "blocked": true
+    "translation": "** 滚石控制室已打开 **"
   },
   "** Well done. Wait 5 more seconds till the gate opens **": {
     "translation": "** 再等 5 秒大门打开 **"
