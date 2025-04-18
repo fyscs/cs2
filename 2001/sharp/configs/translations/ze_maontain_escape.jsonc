@@ -1,0 +1,385 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "player now on": {
+    "translation": "玩家已启用",
+    "blocked": true
+  },
+  "player now off": {
+    "translation": "玩家已停用",
+    "blocked": true
+  },
+  "w pressed": {
+    "translation": "W键 按下",
+    "blocked": true
+  },
+  "w unpressed": {
+    "translation": "W键 松开",
+    "blocked": true
+  },
+  "a pressed": {
+    "translation": "A键 按下",
+    "blocked": true
+  },
+  "a unpressed": {
+    "translation": "A键 松开",
+    "blocked": true
+  },
+  "s pressed": {
+    "translation": "S键 按下",
+    "blocked": true
+  },
+  "s unpressed": {
+    "translation": "S键 松开",
+    "blocked": true
+  },
+  "d pressed": {
+    "translation": "D键 按下",
+    "blocked": true
+  },
+  "d unpressed": {
+    "translation": "D键 松开",
+    "blocked": true
+  },
+  "attack pressed": {
+    "translation": "左键 按下",
+    "blocked": true
+  },
+  "attack unpressed": {
+    "translation": "左键 松开",
+    "blocked": true
+  },
+  "attack2 pressed": {
+    "translation": "右键 按下",
+    "blocked": true
+  },
+  "attack2 unpressed": {
+    "translation": "右键 松开",
+    "blocked": true
+  },
+  "speed pressed": {
+    "translation": "空格 按下",
+    "blocked": true
+  },
+  "speed unpressed": {
+    "translation": "空格 松开",
+    "blocked": true
+  },
+  "duck pressed": {
+    "translation": "蹲 按下",
+    "blocked": true
+  },
+  "duck unpressed": {
+    "translation": "蹲 松开",
+    "blocked": true
+  },
+  "inspect pressed": {
+    "translation": "检视 按下",
+    "blocked": true
+  },
+  "inspect unpressed": {
+    "translation": "检视 松开",
+    "blocked": true
+  },
+  "score pressed": {
+    "translation": "计分板 按下",
+    "blocked": true
+  },
+  "score unpressed": {
+    "translation": "计分板 松开",
+    "blocked": true
+  },
+  "僵尸泥头车已被拾取": {
+    "translation": "僵尸泥头车已被拾取",
+    "blocked": true
+  },
+  "一名玩家拾取了蚁狮": {
+    "translation": "一名玩家拾取了蚁狮",
+    "blocked": true
+  },
+  "一名玩家拾取了蚁狮守卫": {
+    "translation": "一名玩家拾取了蚁狮守卫",
+    "blocked": true
+  },
+  "一名玩家拾取了cohen": {
+    "translation": "一名玩家拾取了cohen",
+    "blocked": true
+  },
+  "down": {
+    "translation": "down",
+    "blocked": true
+  },
+  "1.25倍速": {
+    "translation": "1.25倍速",
+    "blocked": true
+  },
+  "1.75倍速": {
+    "translation": "1.75倍速",
+    "blocked": true
+  },
+  "0.8重力": {
+    "translation": "0.8重力",
+    "blocked": true
+  },
+  "0.3重力": {
+    "translation": "0.3重力",
+    "blocked": true
+  },
+  "1.25重力": {
+    "translation": "1.25重力",
+    "blocked": true
+  },
+  "0.75倍速": {
+    "translation": "0.75倍速",
+    "blocked": true
+  },
+  "0.45倍速": {
+    "translation": "0.45倍速",
+    "blocked": true
+  },
+  "2重力": {
+    "translation": "2重力",
+    "blocked": true
+  },
+  "强身健体": {
+    "translation": "强身健体",
+    "blocked": true
+  },
+  "竹节虫": {
+    "translation": "竹节虫",
+    "blocked": true
+  },
+  "钢铁之躯": {
+    "translation": "钢铁之躯",
+    "blocked": true
+  },
+  "冰！": {
+    "translation": "冰！",
+    "blocked": true
+  },
+  "飞起来": {
+    "translation": "飞起来",
+    "blocked": true
+  },
+  "飞": {
+    "translation": "飞",
+    "blocked": true
+  },
+  "( ×ω× )": {
+    "translation": "( ×ω× )",
+    "blocked": true
+  },
+  "↑↓←→": {
+    "translation": "↑↓←→",
+    "blocked": true
+  },
+  "2倍速": {
+    "translation": "2倍速",
+    "blocked": true
+  },
+  "抓钩抓到了一名人类，帮帮他": {
+    "translation": "抓钩抓到了一名人类，帮帮他",
+    "blocked": true
+  },
+  "普通模式": {
+    "translation": "普通模式",
+    "blocked": true
+  },
+  "60秒后核爆降临": {
+    "translation": "60秒核爆",
+    "countdown": 60
+  },
+  "生化奇兵": {
+    "translation": "生化奇兵",
+    "blocked": true
+  },
+  "注意！伊丽莎白开启了一处传送门": {
+    "translation": "注意！伊丽莎白开启了一处传送门",
+    "blocked": true
+  },
+  "黑水镇的诅咒": {
+    "translation": "黑水镇的诅咒",
+    "blocked": true
+  },
+  "曼波": {
+    "translation": "曼波",
+    "blocked": true
+  },
+  "天黑了...": {
+    "translation": "天黑了...",
+    "blocked": true
+  },
+  "运载目标抵达终点，任务完成！！": {
+    "translation": "运载目标抵达终点，任务完成！！",
+    "blocked": true
+  },
+  "僵尸复活已关闭，清理残余的僵尸": {
+    "translation": "僵尸复活已关闭，清理残余的僵尸",
+    "blocked": true
+  },
+  "僵尸突破了一次！！！": {
+    "translation": "僵尸突破了一次！！！",
+    "blocked": true
+  },
+  "护送猫猫": {
+    "translation": "护送猫猫",
+    "blocked": true
+  },
+  "僵尸摧毁了运载目标，任务失败！！": {
+    "translation": "僵尸摧毁了运载目标，任务失败！！",
+    "blocked": true
+  },
+  "麻瓜山": {
+    "translation": "麻瓜山",
+    "blocked": true
+  },
+  "黑雾四起": {
+    "translation": "黑雾四起",
+    "blocked": true
+  },
+  "但......": {
+    "translation": "但......",
+    "blocked": true
+  },
+  "DIO在朝你扔压路机": {
+    "translation": "DIO在朝你扔压路机",
+    "blocked": true
+  },
+  "地图出现了大飞板": {
+    "translation": "地图出现了大飞板",
+    "blocked": true
+  },
+  "但...": {
+    "translation": "但...",
+    "blocked": true
+  },
+  "无事发生": {
+    "translation": "无事发生",
+    "blocked": true
+  },
+  "3": {
+    "translation": "3",
+    "blocked": true
+  },
+  "2": {
+    "translation": "2",
+    "blocked": true
+  },
+  "1": {
+    "translation": "1",
+    "blocked": true
+  },
+  "go!!": {
+    "translation": "go!!",
+    "blocked": true
+  },
+  "卡丁车比赛，第一名有奖励哦": {
+    "translation": "卡丁车比赛，第一名有奖励哦",
+    "blocked": true
+  },
+  "第一名玩家已经只剩一圈！！！": {
+    "translation": "第一名玩家已经只剩一圈！！！",
+    "blocked": true
+  },
+  "第一名玩家已完成比赛": {
+    "translation": "第一名玩家已完成比赛",
+    "blocked": true
+  },
+  "核爆将在10秒后生效": {
+    "translation": "核爆10秒生效",
+    "countdown": 10
+  },
+  "那是什么....": {
+    "translation": "那是什么....",
+    "blocked": true
+  },
+  "爱牛小电动滞销了....": {
+    "translation": "爱牛小电动滞销了....",
+    "blocked": true
+  },
+  "生化奇兵:水下": {
+    "translation": "生化奇兵:水下",
+    "blocked": true
+  },
+  "伊丽莎白会为失足的人开启传送门": {
+    "translation": "伊丽莎白会为失足的人开启传送门",
+    "blocked": true
+  },
+  "请注意传送光圈的位置": {
+    "translation": "请注意传送光圈的位置",
+    "blocked": true
+  },
+  "下一回合为普通模式": {
+    "translation": "下一回合为普通模式",
+    "blocked": true
+  },
+  "下一回合为生化奇兵": {
+    "translation": "下一回合为生化奇兵",
+    "blocked": true
+  },
+  "下一回合为黑水镇的诅咒": {
+    "translation": "下一回合为黑水镇的诅咒",
+    "blocked": true
+  },
+  "下一回合为圆头耄耋": {
+    "translation": "下一回合为圆头耄耋",
+    "blocked": true
+  },
+  "下一回合将会天黑": {
+    "translation": "下一回合将会天黑",
+    "blocked": true
+  },
+  "下一回合将要保护猫猫": {
+    "translation": "下一回合将要保护猫猫",
+    "blocked": true
+  },
+  "下一回合有宝宝巴士": {
+    "translation": "下一回合有宝宝巴士",
+    "blocked": true
+  },
+  "下一回合为卡丁车": {
+    "translation": "下一回合为卡丁车",
+    "blocked": true
+  },
+  "下一回合为水下生化奇兵": {
+    "translation": "下一回合为水下生化奇兵",
+    "blocked": true
+  },
+  "下一回合会起浓雾": {
+    "translation": "下一回合会起浓雾",
+    "blocked": true
+  },
+  "下一回合会有大飞板": {
+    "translation": "下一回合会有大飞板",
+    "blocked": true
+  },
+  "下一回合会有大炮": {
+    "translation": "下一回合会有大炮",
+    "blocked": true
+  },
+  "销量惨淡...": {
+    "translation": "销量惨淡...",
+    "blocked": true
+  },
+  "雾气消失": {
+    "translation": "雾气消失",
+    "blocked": true
+  },
+  "雾气再起": {
+    "translation": "雾气再起",
+    "blocked": true
+  },
+  "选择模式中.....": {
+    "translation": "选择模式中.....",
+    "blocked": true
+  }
+}
