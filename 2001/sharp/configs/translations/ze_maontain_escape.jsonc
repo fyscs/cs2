@@ -163,7 +163,7 @@
     "blocked": true
   },
   "冰！": {
-    "translation": "冰！",
+    "translation": "冰!",
     "blocked": true
   },
   "飞起来": {
@@ -187,7 +187,7 @@
     "blocked": true
   },
   "抓钩抓到了一名人类，帮帮他": {
-    "translation": "抓钩抓到了一名人类，帮帮他",
+    "translation": "抓钩抓到了一名人类,帮帮他",
     "blocked": true
   },
   "普通模式": {
@@ -219,15 +219,15 @@
     "blocked": true
   },
   "运载目标抵达终点，任务完成！！": {
-    "translation": "运载目标抵达终点，任务完成！！",
+    "translation": "运载目标抵达终点,任务完成!!",
     "blocked": true
   },
   "僵尸复活已关闭，清理残余的僵尸": {
-    "translation": "僵尸复活已关闭，清理残余的僵尸",
+    "translation": "僵尸复活已关闭,清理残余的僵尸",
     "blocked": true
   },
   "僵尸突破了一次！！！": {
-    "translation": "僵尸突破了一次！！！",
+    "translation": "僵尸突破了一次!!!",
     "blocked": true
   },
   "护送猫猫": {
@@ -235,7 +235,7 @@
     "blocked": true
   },
   "僵尸摧毁了运载目标，任务失败！！": {
-    "translation": "僵尸摧毁了运载目标，任务失败！！",
+    "translation": "僵尸摧毁了运载目标,任务失败!!",
     "blocked": true
   },
   "麻瓜山": {
@@ -283,11 +283,11 @@
     "blocked": true
   },
   "卡丁车比赛，第一名有奖励哦": {
-    "translation": "卡丁车比赛，第一名有奖励哦",
+    "translation": "卡丁车比赛,第一名有奖励哦",
     "blocked": true
   },
   "第一名玩家已经只剩一圈！！！": {
-    "translation": "第一名玩家已经只剩一圈！！！",
+    "translation": "第一名玩家已经只剩一圈!!!",
     "blocked": true
   },
   "第一名玩家已完成比赛": {
