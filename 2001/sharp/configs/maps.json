@@ -1988,6 +1988,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_maontain_escape": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 150,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_mario_tower_p": {
     "admin": false,
     "certainTimes": [-1],
