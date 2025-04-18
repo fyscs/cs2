@@ -10,6 +10,9 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
+  "** You got the the Sen's Fortres key! **": {
+    "translation": "** 你获得了森塞堡垒钥匙 **"
+  },
   "** The passage from the Great Tree will open in 15 seconds. **": {
     "translation": "** 巨树通道 15 秒打开. **"
   },
