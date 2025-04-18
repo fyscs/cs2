@@ -197,10 +197,12 @@
     "countdown": 90
   },
   "DEFEND 40 SECONDS": {
-    "translation": "防守40秒"
+    "translation": "防守40秒",
+    "blocked": true
   },
   "DEFEND 70 SECONDS": {
-    "translation": "防守70秒"
+    "translation": "防守70秒",
+    "blocked": true
   },
   "Rampage Level": {
     "translation": "横冲直撞"
