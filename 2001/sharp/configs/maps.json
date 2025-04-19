@@ -2871,7 +2871,7 @@
     "requiredPlayers": 45
   },
   "ze_rtcw_ominous_rumors_p": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 80,
     "nomination": true,
