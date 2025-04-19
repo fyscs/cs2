@@ -1,0 +1,40 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "We need to defend for 20 seconds": {
+    "translation": "坚守20秒"
+  },
+  "**The final gate opens in 25 seconds**": {
+    "translation": "**最终の门将在25秒后打开**"
+  },
+  "**Enter the lost land in 20 seconds**": {
+    "translation": "**20秒后进入失落之地**"
+  },
+  "zombieTP **20**": {
+    "translation": "20秒后进行afk传送"
+  },
+  "zombieTP **30**": {
+    "translation": "30秒后进行afk传送"
+  },
+  "zombieTP **5**": {
+    "translation": "5秒后进行afk传送"
+  },
+  "Zombie low HP after 10 seconds!!!": {
+    "translation": "僵尸在10秒后低血量,兄弟们准备剿匪啦!!!"
+  },
+  "The castle gate will open in 25 seconds": {
+    "translation": "城堡大门在25秒后打开"
+  },
+  "Underpass switch activated": {
+    "translation": "地下通道开关激活"
+  }
+}
