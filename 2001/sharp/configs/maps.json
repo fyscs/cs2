@@ -2490,7 +2490,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": -1
+    "requiredPlayers": 30
   },
   "ze_outlast": {
     "admin": false,
