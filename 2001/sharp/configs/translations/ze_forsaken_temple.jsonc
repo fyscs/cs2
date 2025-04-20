@@ -132,7 +132,6 @@
   },
   "** Pit is opening in 20s **": {
     "translation": "** 20秒后打开井口 **",
-    "blocked": true
   },
   "** Nicely done! You got the correct combination! **": {
     "translation": "** 做得好,钥匙被放在了正确的位置上! **"
