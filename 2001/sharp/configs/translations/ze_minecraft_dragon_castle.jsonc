@@ -11,16 +11,16 @@
 
 {
   "Map Creator : Platin": {
-    "translation": "地图作者: Platin 文本:Zeyu1"
+    "translation": "地图作者: Platin 文本:Zeyu1&茜茜"
   },
   "Fire Activated !": {
     "translation": "火场!小心脚下"
   },
   "THE ZOMBIE DOOR WILL OPEN IN 10 SECONDS.": {
-    "translation": "僵尸门将在 10 秒后打开"
+    "translation": "僵尸门 10 秒打开"
   },
   "ZOMBIE DOOR OPENING !": {
-    "translation": "僵尸侧路已开启 !"
+    "translation": "僵尸侧路已开启"
   },
   "3!": {
     "translation": "3!"
@@ -32,143 +32,132 @@
     "translation": "1!"
   },
   "** WARDEN COMINGG **": {
-    "translation": "** WARDEN COMINGG **"
+    "translation": "** 监守者 出现了 **"
   },
   "I THINK HE A LITTLE ANGRY !!": {
     "translation": "我觉得他有点生气"
   },
   "* HEAL GUN - 50 sec cooldown *": {
-    "translation": "* 治疗 - 五十秒cd  *",
+    "translation": "* 治疗 - 五十 秒cd *",
     "blocked": true
   },
   "* COBWEB - 60 sec cooldown *": {
-    "translation": "* 蛛网 - 六十秒cd *",
+    "translation": "* 蛛网 - 六十 秒cd *",
     "blocked": true
   },
   "* FIRE GUN - 60 sec cooldown *": {
-    "translation": "*  火 - 六十秒cd *",
+    "translation": "* 火 - 六十 秒cd *",
+    "blocked": true
+  },
+  "* TNT GUN - 180 sec cooldown *": {
+    "translation": "* TNT - 一百八十 秒cd *",
     "blocked": true
   },
   "* WALL GUN - 80 sec cooldown *": {
-    "translation": "* 墙 - 八十秒cd *",
+    "translation": "* 墙 - 八十 秒cd *",
     "blocked": true
   },
   "BOSS OVER !!": {
-    "translation": "BOSS OVER !!"
+    "translation": "BOSS OVER"
   },
   "FINAL DOOR OPENING!": {
-    "translation": "最后的大门开了!"
+    "translation": "最终门开了!"
   },
   "FINAL DOOR CLOSING 10 SEC!!": {
-    "translation": "最后的大门10秒关闭!!"
+    "translation": "最终大门 10 秒关闭"
   },
   "<<< HUMAN WIN >>>": {
     "translation": "<<< 人类胜利 >>>"
   },
   "HUMAN WIN !!!": {
-    "translation": "人类胜利!!!"
+    "translation": "人类胜利 !!!"
   },
   "<<< MAP OVER >>>": {
     "translation": "<<< 恭喜通关 >>>"
   },
-  "Door Open ! GO!": {
-    "translation": "门开了 快走!"
-  },
-  "### LEVEL 1 ###": {
-    "translation": "### 第一关  ###"
+  "### LEVEL 1/5 ###": {
+    "translation": "### 第一关 ###"
   },
   "The door will open in 20 seconds.": {
-    "translation": "门还有20秒打开."
+    "translation": "门 20 秒打开."
   },
   "Last 5 sec.": {
-    "translation": "还剩5秒"
+    "translation": "还剩 5 秒."
   },
   "Door Open!": {
-    "translation": "门开了!"
+    "translation": "门开了"
   },
   "ZM TP 10 SEC!": {
-    "translation": "僵尸还有10秒传送"
+    "translation": "僵尸 10 秒传送"
   },
-  "### LEVEL 2 ###": {
+  "### LEVEL 2/5 ###": {
     "translation": "### 第二关 ###"
   },
-  "### LEVEL 3 ###": {
+  "### LEVEL 3/5 ###": {
     "translation": "### 第三关 ###"
   },
-  "### LEVEL 4 ###": {
+  "### LEVEL 4/5 ###": {
     "translation": "### 第四关 ###"
   },
-  "### LEVEL 5 ###": {
+  "### LEVEL 5/5 ###": {
     "translation": "### 第五关 ###"
   },
-  "Doors Open!": {
-    "translation": "门开了!"
+  "The teleport will open in 20 seconds.": {
+    "translation": "地狱门 20 秒开启."
   },
-  "Move forward, protecting the left and right road!": {
-    "translation": "快跑, 需要防守两边路!"
+  "Teleport Open!": {
+    "translation": "地狱门已开"
   },
   "Last 5 sec!": {
-    "translation": "还剩5秒!"
+    "translation": "最后 5 秒"
   },
   "Door Open! GO": {
-    "translation": "门开了 快走!"
+    "translation": "门开了 快走"
   },
   "The door will open in 30 seconds.": {
-    "translation": "门还有30秒打开"
+    "translation": "门 30 秒打开."
   },
   "Last 10 sec! GO BACK!": {
-    "translation": "最后10秒"
+    "translation": "最后 10 秒"
   },
   "Door OPEN! GO!": {
-    "translation": "门开了 快走!"
+    "translation": "门开了 快走"
   },
   "Press the button above to open the door.": {
-    "translation": "快摁下按钮开门"
+    "translation": "按下上方按钮开启大门."
   },
   "go next defend area !": {
-    "translation": "防守下一个区域!"
+    "translation": "防守下一个区域"
+  },
+  "The door will open in 25 seconds.": {
+    "translation": "大门 25 秒打开"
   },
   "ZM TP 10 SEC !": {
-    "translation": "僵尸还有10秒传送"
+    "translation": "僵尸 10 秒传送"
   },
   "Door Open ! GO": {
-    "translation": "门开了 快走!"
+    "translation": "门开了 快走"
   },
   "The barrier will open in 25 seconds.": {
-    "translation": "障碍还有25秒开放"
+    "translation": "障碍 25 秒开放"
   },
   "Open GO!": {
     "translation": "门开了 快走!"
   },
   ">>> short way open!": {
-    "translation": ">>> 侧路已开启"
+    "translation": ">>> 捷径已开启"
   },
   "Last 5 sec ! go back!": {
-    "translation": "还剩5秒!"
-  },
-  "THE BOSS DOOR WILL OPEN IN 30 SECONDS!": {
-    "translation": "Boss大门还有30秒开启"
-  },
-  "Last 5 sec ! READY !": {
-    "translation": "最后5秒"
-  },
-  "BOSS DOOR OPEN! GO!": {
-    "translation": "Boss大门已开启"
-  },
-  "BOSS DOOR CLOSING 10 SEC!": {
-    "translation": "大门还有10秒关闭"
-  },
-  "BOSS DOOR CLOSED!": {
-    "translation": "大门正在关闭"
+    "translation": "最后 5 秒"
   },
   "The Final door will open in 20 seconds.": {
-    "translation": "最后的大门20秒打开!!"
+    "translation": "最后大门 20 秒打开"
   },
   "FINAL DOOR OPEN! GO": {
-    "translation": "门开了 快走!"
+    "translation": "门开了 快走"
   },
   "FINAL DOOR CLOSING 5 SEC!": {
-    "translation": "大门还有5秒关闭"
+    "translation": "大门 5 秒关闭"
   },
   "FINAL DOOR CLOSING": {
     "translation": "大门正在关闭"
@@ -179,32 +168,41 @@
   "MISSION FAIL !!!!###": {
     "translation": "回合失败"
   },
-  "The door will open in 25 seconds.": {
-    "translation": "大门还有25秒打开"
-  },
   "Door Open !GO": {
-    "translation": "门开了 快走!"
+    "translation": "门开了 快走"
   },
   "Last 5 sec! GO BACK !": {
-    "translation": "还剩5秒!"
+    "translation": "还剩 5 秒"
   },
   "ZM TP 10 SEC": {
-    "translation": "僵尸还有10秒传送"
+    "translation": "僵尸 10 秒传送"
   },
-  "go back !": {
-    "translation": "撤退"
+  "short way opening !": {
+    "translation": "捷径已开启"
   },
-  "The final door will open in 30 seconds.": {
-    "translation": "最后的大门30秒打开!!"
+  "### ADMIN ROOM - SET LVL - 1 ###": {
+    "translation": "管理员 - 已调整关卡至 -> 第一关"
   },
-  "ZM TP 5 SEC !": {
-    "translation": "僵尸还有5秒传送"
+  "### ADMIN ROOM - SET LVL - 2 ###": {
+    "translation": "管理员 - 已调整关卡至 -> 第二关"
   },
-  "FINAL DOOR OPEN": {
-    "translation": "最后的大门开了!"
+  "### ADMIN ROOM - SET LVL - 3 ###": {
+    "translation": "管理员 - 已调整关卡至 -> 第三关"
   },
-  "FINAL DOOR CLOSING 10 SEC!": {
-    "translation": "最后的大门10秒关闭!!"
+  "### ADMIN ROOM - SET LVL - 4 ###": {
+    "translation": "管理员 - 已调整关卡至 -> 第四关"
+  },
+  "### ADMIN ROOM - SET LVL - 5 ###": {
+    "translation": "管理员 - 已调整关卡至 -> 第五关"
+  },
+  "The final door will close in 15 seconds.": {
+    "translation": "最终大门 15 秒关闭."
+  },
+  "Last 5 sec! GO BACK!": {
+    "translation": "还剩 5 秒"
+  },
+  "FINAL DOOR CLOSED": {
+    "translation": "最终通道已关闭"
   },
   "ZOMBIE DETECTED !!": {
     "translation": "僵尸进来了"
@@ -213,31 +211,28 @@
     "translation": "回合失败"
   },
   "The barrier will break in 20 seconds.": {
-    "translation": "障碍还有20秒开放"
-  },
-  "Last 5 sec! GO BACK!": {
-    "translation": "还剩5秒!"
+    "translation": "障碍 20 秒开放"
   },
   "Barrier break ! RUN !": {
     "translation": "障碍消失了"
   },
   "ZOMBIE TP 10 SEC!": {
-    "translation": "僵尸还有10秒传送"
+    "translation": "僵尸 10 秒传送"
   },
   "The barrier will break in 25 seconds.": {
-    "translation": "障碍还有25秒开放"
+    "translation": "障碍 25 秒开放"
   },
   "ZOMBIE TP 10 SEC !": {
-    "translation": "僵尸还有10秒传送"
+    "translation": "僵尸 10 秒传送"
   },
   "Zombie short way open !": {
     "translation": "僵尸侧路开了"
   },
   "DONT DEFEND GO BACK !": {
-    "translation": "快跑"
+    "translation": "你给路达哟"
   },
   "The barrier will break in 15 seconds. GO BACK!": {
-    "translation": "障碍还有15秒开放"
+    "translation": "障碍 15 秒开放"
   },
   "Barrier break! GO BACK !": {
     "translation": "障碍消失了"
@@ -246,19 +241,22 @@
     "translation": "障碍消失了"
   },
   "ZOMBIE TP 5 sec!": {
-    "translation": "僵尸还有5秒传送"
+    "translation": "僵尸 5 秒传送"
   },
-  "Last 10 sec! back!": {
-    "translation": "还剩10秒!"
+  "Last 10 sec!": {
+    "translation": "还剩 10 秒"
   },
-  "Door Open! GO !": {
-    "translation": "门开了 快走!"
+  "Teleport Open! GO !": {
+    "translation": "地狱门已开"
+  },
+  "AFK TP 10 SEC !": {
+    "translation": "挂机玩家 10 秒传送"
   },
   "###  GHOST BOSS ###": {
-    "translation": "###  幽灵 ###"
+    "translation": "### 恶魂 出现了 ###"
   },
   "###  LASER ACTIVATED ###": {
-    "translation": "###  躲避激光 ###"
+    "translation": "### 躲避激光 ###"
   },
   "MISSION FAIL ##!!!": {
     "translation": "回合失败"
@@ -267,28 +265,16 @@
     "translation": ">>> 人类胜利 <<<"
   },
   "The barrier will break in 15 seconds. GO BACK !": {
-    "translation": "障碍还有15秒开放"
+    "translation": "障碍 15 秒开放"
   },
   "The barrier will break in 10 seconds.": {
-    "translation": "障碍还有10秒开放"
-  },
-  "Barrier Break!": {
-    "translation": "障碍消失了"
-  },
-  "The barrier will break in 15 seconds.": {
-    "translation": "障碍还有15秒开放"
+    "translation": "障碍 10 秒开放"
   },
   "Barrier Break! GO BACK!": {
     "translation": "障碍消失了"
   },
-  "The boss door will open in 20 seconds.": {
-    "translation": "Boss大门还有20秒开启"
-  },
-  "BOSS DOOR OPEN!": {
-    "translation": "Boss大门已开启"
-  },
   "ZOMBIE DOOR OPEN 5 SEC!": {
-    "translation": "僵尸门将在 5 秒后打开"
+    "translation": "僵尸门 5 秒打开"
   },
   "<<< 3 >>>": {
     "translation": "<<< 3 >>>"
@@ -303,70 +289,70 @@
     "translation": "<<< 僵尸门已开启 >>>"
   },
   "<<< ZM DOOR CLOSED >>>": {
-    "translation": "<<< 僵尸门已关闭 >>>"
-  },
-  "Watch out for traps!!!": {
-    "translation": "小心陷阱"
+    "translation": "<<< 僵尸门已开启 >>>"
   },
   "The barrier will break in 30 seconds.": {
-    "translation": "障碍还有30秒开放"
+    "translation": "障碍 30 秒开放"
   },
   "Last 5 sec ! go back !": {
-    "translation": "最后5秒"
+    "translation": "最后 5 秒"
   },
   "Barrier Break! GO!": {
     "translation": "障碍消失了"
   },
   "Last 10 sec! go back !": {
-    "translation": "最后10秒"
+    "translation": "最后 10 秒"
   },
   "ZOMBIE TP 15 SEC !": {
-    "translation": "僵尸还有15秒传送"
+    "translation": "僵尸 15 秒传送"
   },
   "ZOMBIE TP 5 SEC !": {
-    "translation": "僵尸还有5秒传送"
+    "translation": "僵尸 5 秒传送"
   },
   "Last 5 sec ! go back": {
-    "translation": "最后5秒"
+    "translation": "最后 5 秒"
   },
   "Barrier Break !": {
     "translation": "障碍消失了"
   },
   "Last 5 sec! go back": {
-    "translation": "最后5秒"
+    "translation": "还剩 5 秒"
   },
   "Last 5 sec !": {
-    "translation": "最后5秒"
+    "translation": "最后 5 秒"
   },
   "Barrier Break ! GO!": {
     "translation": "障碍消失了"
   },
   "Last 5 sec ! reday!!": {
-    "translation": "最后5秒"
+    "translation": "最后 5 秒"
   },
   "Barrier Break ! GO BOSS AREA !": {
-    "translation": "障碍消失了 快去Boss房"
+    "translation": "障碍消失了 快进Boss房"
   },
   "THE BOSS PATH WILL BE BROKEN IN 10 SEC!": {
-    "translation": "路还有10秒消失"
+    "translation": "路 10 秒消失"
   },
   "<<< DRAGON BOSS >>>": {
-    "translation": "<<< 末影龙 >>>"
+    "translation": "<<< 末影龙 出现了 >>>"
+  },
+  "THE DRAGON IS VERY STRONG, BE CAREFUL!": {
+    "translation": "末影龙很强!要小心"
   },
   "<<< LASER ACTIVATED >>>": {
     "translation": "<<< 注意躲避激光刀 >>>"
   },
   "shit laser": {
-    "translation": "shit"
+    "translation": "注意激光"
   },
   "LOOK UP !": {
-    "translation": "注意看上面"
+    "translation": "注意上方"
   },
   "READY ?!?!": {
-    "translation": "先躲前面!再看上面!"
+    "translation": "先躲前面 再看上面"
   },
   "<<< RUN AWAY FROM THE FIRE! >>>": {
-    "translation": "<<< 远离火场! >>>"
+    "translation": "<<< 远离火场 >>>"
   },
   "<<< ZOMBIE WAY OPENING >>>": {
     "translation": "<<< 尸笼马上开启 >>>"
@@ -375,13 +361,14 @@
     "translation": "<<< 尸笼已开启 >>>"
   },
   "* Bucket 1 pickup*": {
-    "translation": "* 水桶①已拾取*"
+    "translation": "* 水桶 ① 已拾取*"
   },
   "* Bucket 2 pickup*": {
-    "translation": "* 水桶②已拾取*"
+    "translation": "* 水桶 ② 已拾取*"
   },
   "2 houses continue to burn.": {
-    "translation": "还有两个着火的房子"
+    "translation": "还有两个着火的房子",
+    "blocked": true
   },
   "1 houses continue to burn.": {
     "translation": "还有一个着火的房子"
@@ -390,39 +377,147 @@
     "translation": "你真牛 把火都浇灭了"
   },
   "3 houses continue to burn.": {
-    "translation": "还有三个着火的房子"
+    "translation": "还有三个着火的房子",
+    "blocked": true
   },
   "4 houses continue to burn.": {
-    "translation": "还有四个着火的房子"
+    "translation": "还有四个着火的房子",
+    "blocked": true
   },
   "5 houses continue to burn.": {
-    "translation": "还有五个着火的房子"
+    "translation": "还有五个着火的房子",
+    "blocked": true
   },
   "Door Open 5 SEC! go back!": {
-    "translation": "还剩5秒!"
+    "translation": "还剩 5 秒"
   },
   "Door Open ! RUN!": {
-    "translation": "门开了 快走!"
+    "translation": "门开了 快走"
   },
   "Elevator Leave !!": {
-    "translation": "电梯正在离开!!"
+    "translation": "电梯已离开"
   },
   "* Torch 1 pickup*": {
-    "translation": "* 火把 ① 已拾取*"
+    "translation": "* 火把 ① 已拾取 *"
   },
   "* Torch 2 pickup*": {
-    "translation": "* 火把 ② 已拾取*"
+    "translation": "* 火把 ② 已拾取 *"
   },
   "* pickaxe 1 pickup*": {
-    "translation": "* 镐子 ① 已拾取*"
+    "translation": "* 镐子 ① 已拾取 *"
   },
   "Road 1, all the stones are broken. Get back!": {
-    "translation": "路①已开放 快走"
+    "translation": "路 ① 已开放"
   },
   "* pickaxe 2 pickup*": {
-    "translation": "* 镐子 ② 已拾取*"
+    "translation": "* 镐子 ② 已拾取 *"
   },
   "Road 2, all the stones are broken. Get back!": {
-    "translation": "路②已开放 快走"
+    "translation": "路 ② 已开放"
+  },
+  "The bridge will open in 20 seconds.": {
+    "translation": "大桥20秒放下"
+  },
+  "Opening !": {
+    "translation": "门开了"
+  },
+  "Boss teleportation will open in 25 seconds.": {
+    "translation": "Boss传送 25 秒启动"
+  },
+  "Open GO!!": {
+    "translation": "全速前进"
+  },
+  "BOSS DOOR CLOSING 10 SEC!": {
+    "translation": "Boss区域 10 秒关闭"
+  },
+  "BOSS DOOR CLOSED!": {
+    "translation": "Boss区域已封锁"
+  },
+  "Last 5 sec! get on the boat": {
+    "translation": "最后5秒上船"
+  },
+  "The boat will arrive in 20 seconds.": {
+    "translation": "船20秒抵达"
+  },
+  "Boat is coming.": {
+    "translation": "船:等等我马上到"
+  },
+  "Zombie short way open.": {
+    "translation": "僵尸捷径已开启"
+  },
+  "The teleport will open in 25 seconds.": {
+    "translation": "地狱门 25 秒开启"
+  },
+  "Last 5 sec! Ready!": {
+    "translation": "最后 5 秒"
+  },
+  "BOSS teleportation is Open! GO!": {
+    "translation": "Boss传送开启"
+  },
+  "Press the button for the boat to arrive.": {
+    "translation": "按下按钮呼叫船"
+  },
+  "Defend the area": {
+    "translation": "防守"
+  },
+  "The bridge will open in 25 seconds.": {
+    "translation": "大桥 25 秒放下"
+  },
+  "The bridge is open. GO BACK!": {
+    "translation": "大桥已放下"
+  },
+  "Press the button to detonate the tnt.": {
+    "translation": "按下按钮引爆TNT"
+  },
+  "Tnt will explode soon.": {
+    "translation": "TNT说他要爆了"
+  },
+  "Tnt exploded. RUN RUN.": {
+    "translation": "TNT说他爆了"
+  },
+  "zm tp soon!": {
+    "translation": "僵尸马上传送"
+  },
+  "ZM TP 5 sec !": {
+    "translation": "僵尸5秒传送"
+  },
+  "The doors will open in 30 seconds.": {
+    "translation": "门30秒打开"
+  },
+  "The doors opening. RUN!": {
+    "translation": "大门打开中"
+  },
+  "The boss bridge will open in 25 seconds.": {
+    "translation": "Boss大桥 25 秒放下"
+  },
+  "Last 10 Sec! Ready!!!": {
+    "translation": "最后10秒"
+  },
+  "The bridge will be closed, stand back.": {
+    "translation": "大桥马上关闭"
+  },
+  "The bridge is closing.": {
+    "translation": "大桥关闭中"
+  },
+  "The teleport will open in 20 seconds!": {
+    "translation": "地狱门 20 秒开启"
+  },
+  "Last 5 sec ! GO BACK !!!": {
+    "translation": "最后5秒"
+  },
+  "The teleport OPEN! RUN !": {
+    "translation": "地狱门已开"
+  },
+  "TNT ATTACK !": {
+    "translation": "TNT来咯"
+  },
+  "ZM ATTACK !": {
+    "translation": "僵尸来咯"
+  },
+  "Bridge opening!": {
+    "translation": "大桥来了"
+  },
+  "Bridge closing!": {
+    "translation": "大桥走了"
   }
 }
