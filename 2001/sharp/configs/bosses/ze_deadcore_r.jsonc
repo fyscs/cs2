@@ -30,5 +30,23 @@
       "hitbox": "radiation_target",
       "display": "Deadcore"
     }
+  ],
+  "Monsters": [
+    {
+      "identity": "2147",
+      "display": "NPC"
+    },
+    {
+      "identity": "1987",
+      "display": "NPC"
+    },
+    {
+      "identity": "1893",
+      "display": "NPC"
+    },
+    {
+      "identity": "991",
+      "display": "NPC"
+    }
   ]
 }
