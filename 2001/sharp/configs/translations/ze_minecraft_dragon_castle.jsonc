@@ -103,10 +103,10 @@
     "translation": "### 第五关 ###"
   },
   "The teleport will open in 20 seconds.": {
-    "translation": "传送门 20 秒开启."
+    "translation": "地狱门 20 秒开启."
   },
   "Teleport Open!": {
-    "translation": "传送门已开"
+    "translation": "地狱门已开"
   },
   "Last 5 sec!": {
     "translation": "最后 5 秒"
@@ -247,7 +247,7 @@
     "translation": "还剩 10 秒"
   },
   "Teleport Open! GO !": {
-    "translation": "传送门已开"
+    "translation": "地狱门已开"
   },
   "AFK TP 10 SEC !": {
     "translation": "挂机玩家 10 秒传送"
@@ -446,7 +446,7 @@
     "translation": "僵尸捷径已开启"
   },
   "The teleport will open in 25 seconds.": {
-    "translation": "传送门 25 秒开启"
+    "translation": "地狱门 25 秒开启"
   },
   "Last 5 sec! Ready!": {
     "translation": "最后 5 秒"
@@ -500,13 +500,13 @@
     "translation": "大桥关闭中"
   },
   "The teleport will open in 20 seconds!": {
-    "translation": "传送门 20 秒开启"
+    "translation": "地狱门 20 秒开启"
   },
   "Last 5 sec ! GO BACK !!!": {
     "translation": "最后5秒"
   },
   "The teleport OPEN! RUN !": {
-    "translation": "传送门已开"
+    "translation": "地狱门已开"
   },
   "TNT ATTACK !": {
     "translation": "TNT来咯"
