@@ -39,8 +39,8 @@
     "translation": "钓鱼台上的钻石块才是树屋开关!"
   },
   "(树屋将在60s后开放)": {
-    "translation": "树屋将在60秒后开放",
-    "countdown": 60
+    "translation": "树屋将在40秒后开放",
+    "countdown": 40
   },
   "(僵尸15秒后传送，开润！）": {
     "translation": "僵尸15秒后传送,开润!"
@@ -59,9 +59,9 @@
   "（僵尸10秒后传送）": {
     "translation": "僵尸10秒后传送"
   },
-  "（码头30秒后开放！）": {
-    "translation": "码头30秒后开放!",
-    "countdown": 30
+  "（码头25秒后开放！）": {
+    "translation": "码头25秒后开放!",
+    "countdown": 25
   },
   "（守住30s）": {
     "translation": "守住30秒",
@@ -116,5 +116,43 @@
   },
   "剧终 感谢游玩！~o( =∩ω∩= )m": {
     "translation": "剧终!!感谢游玩!"
+  },
+  "小哥买苹果嘛~": {
+    "translation": "小哥买苹果嘛~"
+  },
+  "(30秒后门开!）": {
+    "translation": "30秒后门开!",
+    "countdown": 30
+  },
+  "(5秒后门开!）": {
+    "translation": "5秒后门开!",
+    "blocked": true
+  },
+  "(树屋将在5s后开放)": {
+    "translation": "树屋将在5s后开放",
+    "blocked": true
+  },
+  "（守住20s）": {
+    "translation": "守住20秒",
+    "countdown": 20
+  },
+  "20秒后门开": {
+    "translation": "20秒后门开",
+    "countdown": 20
+  },
+  "(15秒后玻璃碎掉）": {
+    "translation": "15秒后玻璃碎掉",
+    "countdown": 15
+  },
+  "（25s后传送！）": {
+    "translation": "25s后传送!",
+    "countdown": 25
+  },
+  "**55sec**": {
+    "translation": "跳刀房将在55s后开放",
+    "countdown": 55
+  },
+  "樱花岛似乎出现了时空裂隙...": {
+    "translation": "樱花岛似乎出现了时空裂隙..."
   }
 }
