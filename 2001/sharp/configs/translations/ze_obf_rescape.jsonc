@@ -14,7 +14,8 @@
     "translation": "**太美丽了年糕王,诶呀这不nino吗? **"
   },
   "Last Fight <<< 10 >>>": {
-    "translation": "**最后一舞,坚持10秒!**"
+    "translation": "**最后一舞,坚持10秒!**",
+    "countdown": 10
   },
   "Last Fight <<< 05 >>>": {
     "translation": "**最后一舞,坚持5秒!",
@@ -24,7 +25,8 @@
     "translation": "**僵尸:嘟嘟嘟嘟嘟嘟嘟嘟~~~**"
   },
   "DOOR OPEN  <<< 20 >>>": {
-    "translation": "**门开还有20秒**"
+    "translation": "**门开还有20秒**",
+    "countdown": 20
   },
   "DOOR OPEN  <<< 15 >>>": {
     "translation": "**门开还有15秒**",
@@ -39,21 +41,24 @@
     "blocked": true
   },
   "Ready to Move <<< 10 >>>": {
-    "translation": "**准备行动,还有10秒**"
+    "translation": "**准备行动,还有10秒**",
+    "countdown": 10
   },
   "Ready to Move <<< 05 >>>": {
     "translation": "准备行动,还有5秒",
     "blocked": true
   },
   "Get ready to act  <<< 10 >>>": {
-    "translation": "**准备行动,还有10秒**"
+    "translation": "**准备行动,还有10秒**",
+    "countdown": 10
   },
   "Get ready to act  <<< 05 >>>": {
     "translation": "准备行动,还有5秒",
     "blocked": true
   },
   "Wood Break <<< 20 >>>": {
-    "translation": "**木板还有20秒破碎**"
+    "translation": "**木板还有20秒破碎**",
+    "countdown": 20
   },
   "Wood Break <<< 15 >>>": {
     "translation": "木板还有15秒破碎",
@@ -83,10 +88,12 @@
     "translation": "**电梯门开了...**"
   },
   "The elevator door will reopen in 30 seconds": {
-    "translation": "**电梯门将在30秒后再次打开**"
+    "translation": "**电梯门将在30秒后再次打开**",
+    "countdown": 30
   },
   "Defend 40 seconds  !": {
-    "translation": "**防守40秒!**"
+    "translation": "**防守40秒!**",
+    "countdown": 40
   },
   "Be careful, zombies are coming from another way": {
     "translation": "**小心,僵尸将从另一侧进攻**"
@@ -131,7 +138,8 @@
     "translation": "**准备撤退..**"
   },
   "C4 is on": {
-    "translation": "**C4已安装**"
+    "translation": "**C4将在37秒后引爆**",
+    "countdown": 37
   },
   "Overloading the powerbox": {
     "translation": "**电源箱正在过载**"
