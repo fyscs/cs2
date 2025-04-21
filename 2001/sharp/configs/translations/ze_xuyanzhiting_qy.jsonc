@@ -1,0 +1,213 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "坚持5秒...": {
+    "translation": "坚持5秒",
+    "countdown": 5
+  },
+  "30": {
+    "translation": "30",
+    "countdown": 30
+  },
+  "侧路还有5秒打开": {
+    "translation": "侧路5秒开",
+    "countdown": 5
+  },
+  "20": {
+    "translation": "20",
+    "countdown": 20
+  },
+  "5": {
+    "translation": "5",
+    "countdown": 5
+  },
+  "坚持10秒": {
+    "translation": "坚持10秒",
+    "countdown": 10
+  },
+  "僵尸5秒传送": {
+    "translation": "僵尸5秒传送",
+    "countdown": 5
+  },
+  "大门需要30秒打开": {
+    "translation": "大门30秒打开",
+    "countdown": 30
+  },
+  "僵尸还有3秒传送": {
+    "translation": "僵尸3秒传送",
+    "countdown": 3
+  },
+  "还需要坚持5秒": {
+    "translation": "坚持5秒",
+    "countdown": 5
+  },
+  "十秒后僵尸传送": {
+    "translation": "10秒僵尸传送",
+    "countdown": 10
+  },
+  "5秒后撤退": {
+    "translation": "5秒后撤退",
+    "countdown": 5
+  },
+  "双道还有5秒打开": {
+    "translation": "双道5秒打开",
+    "countdown": 5
+  },
+  "侧路5秒后打开": {
+    "translation": "侧路5秒打开",
+    "countdown": 5
+  },
+  "再坚持5秒": {
+    "translation": "再坚持5秒",
+    "countdown": 5
+  },
+  "坚持5秒": {
+    "translation": "坚持5秒",
+    "countdown": 5
+  },
+  "40": {
+    "translation": "40",
+    "countdown": 40
+  },
+  "第二条侧路5秒后打开": {
+    "translation": "第二条侧路5秒后打开",
+    "countdown": 5
+  },
+  "第一条侧路5秒后打开": {
+    "translation": "第一条侧路5秒后打开",
+    "countdown": 5
+  },
+  "侧路5秒打开": {
+    "translation": "侧路5秒打开",
+    "countdown": 5
+  },
+  "坚持20秒，确保数据上传成功": {
+    "translation": "坚持20秒",
+    "countdown": 20
+  },
+  "倒计时3秒！！！": {
+    "translation": "倒计时3秒",
+    "countdown": 3
+  },
+  "10秒后进行传送": {
+    "translation": "10秒传送",
+    "blocked": true
+  },
+  "50秒后进行传送": {
+    "translation": "50秒传送",
+    "countdown": 50
+  },
+  "大门5秒后打开": {
+    "translation": "大门5秒开",
+    "countdown": 5
+  },
+  "还需要坚持10秒...": {
+    "translation": "坚持10秒",
+    "countdown": 10
+  },
+  "还剩5秒！！": {
+    "translation": "还剩5秒",
+    "countdown": 5
+  },
+  "第二道门在5秒后开启": {
+    "translation": "第二道门在5秒后开启",
+    "countdown": 5
+  },
+  "数据下载中...": {
+    "translation": "数据下载中..."
+  },
+  "还需要坚持15秒...": {
+    "translation": "坚持15秒",
+    "countdown": 15
+  },
+  "感染体10秒后传送": {
+    "translation": "感染体10秒后传送",
+    "countdown": 10
+  },
+  "5秒": {
+    "translation": "5秒",
+    "countdown": 5
+  },
+  "又是门！再坚持一会！": {
+    "translation": "又是门!再坚持一会!"
+  },
+  "10秒": {
+    "translation": "10秒",
+    "countdown": 10
+  },
+  "10秒后感染体传送": {
+    "translation": "10秒后感染体传送",
+    "countdown": 10
+  },
+  "侧路10秒后打开": {
+    "translation": "侧路10秒后打开",
+    "countdown": 10
+  },
+  "再坚持10秒": {
+    "translation": "再坚持10秒",
+    "countdown": 10
+  },
+  "这里有一道门可以关上": {
+    "translation": "这里有一道门可以关上"
+  },
+  "再坚持一下": {
+    "translation": "再坚持一下"
+  },
+  "要关上了！快进到红线内": {
+    "translation": "要关上了!快进到红线内"
+  },
+  "感染体5秒传送！": {
+    "translation": "感染体5秒传送",
+    "countdown": 5
+  },
+  "来了！": {
+    "translation": "来了!"
+  },
+  "这里还需要再坚持一会": {
+    "translation": "这里还需要再坚持一会"
+  },
+  "感染体5秒后传送": {
+    "translation": "感染体5秒后传送",
+    "countdown": 5
+  },
+  "信号慢慢恢复了！再坚持一会": {
+    "translation": "信号慢慢恢复了!再坚持一会"
+  },
+  "10秒！": {
+    "translation": "10秒",
+    "countdown": 10
+  },
+  "最后30秒": {
+    "translation": "最后30秒",
+    "countdown": 30
+  },
+  "失败了...一切的一切": {
+    "translation": "失败了...一切的一切"
+  },
+  "我们的判断错了": {
+    "translation": "我们的判断错了"
+  },
+  "他的影响超过了我们的预期": {
+    "translation": "他的影响超过了我们的预期"
+  },
+  "时代还在延续...": {
+    "translation": "时代还在延续..."
+  },
+  "坚持10秒...": {
+    "translation": "坚持10秒",
+    "countdown": 10
+  },
+  "30s": {
+    "translation": "30s",
+    "countdown": 30
+  }
+}

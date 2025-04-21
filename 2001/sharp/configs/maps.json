@@ -3788,6 +3788,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 45
   },
+  "ze_xuyanzhiting_qy": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
   "ze_zandalar_forever": {
     "admin": false,
     "certainTimes": [-1],
