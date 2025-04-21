@@ -11,7 +11,7 @@
 
 {
   "~ Afk tele in 20sec ~": {
-    "translation": "~ 20 秒传送挂机玩家 ~"
+    "translation": "~ 挂机玩家 20 秒传送 ~"
   },
   "~ Find me ~": {
     "translation": "~ 寻找我 ~"
@@ -29,19 +29,19 @@
     "translation": "地图移植: 三百度幸运12121"
   },
   "~ 25sec until platform break ~": {
-    "translation": "~ 25 秒平台破坏 ~"
+    "translation": "~ 25 秒平台消失 ~"
   },
   "~ Breaking the platform ~": {
     "translation": "~ 正在破坏平台 ~"
   },
   "~ Last afk tele in 20 sec ~": {
-    "translation": "~ 20 秒传送挂机玩家 ~"
+    "translation": "~ 挂机玩家 20 秒传送 ~"
   },
   "~ Touch the light to open the portal ~": {
     "translation": "~ 触碰光球以开启传送门 ~"
   },
   "~ Zombies come in 15sec ~": {
-    "translation": "~ 僵尸 15 秒抵达 ~"
+    "translation": "~ 僵尸 15 秒传送 ~"
   },
   "ze_surf_daybreak": {
     "translation": "ze_surf_daybreak"
@@ -53,9 +53,9 @@
     "translation": "0_0"
   },
   "~ Zombies come in 11sec ~": {
-    "translation": "~ 僵尸 11 秒抵达 ~"
+    "translation": "~ 僵尸 11 秒传送 ~"
   },
   "~ Zombies come in 20sec ~": {
-    "translation": "~ 僵尸 20 秒抵达 ~"
+    "translation": "~ 僵尸 20 秒传送 ~"
   }
 }
