@@ -249,24 +249,17 @@
   ">>Defence for 20 seconds<<": {
     "translation": "**防守20秒**"
   },
-  ">>Defence for 15 seconds<<": {
-    "translation": "**防守15秒**",
-    "blocked": true
-  },
   ">>Go to the Stela<<": {
     "translation": "**前往传送阵!**"
   },
   ">>The rock will break in 15 seconds<<": {
     "translation": "**岩石将在15秒后破碎**",
-    "blocked": true
   },
   ">>The rock will break in 25 seconds<<": {
     "translation": "**岩石将在25秒后破碎**",
-    "blocked": true
   },
   ">>The rock will break in 30 seconds<<": {
     "translation": "**岩石将在30秒后破碎**",
-    "blocked": true
   },
   ">>The rock will break in 40 seconds<<": {
     "translation": "**岩石将在40秒后破碎**"
