@@ -3329,6 +3329,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_surf_daybreak": {
+    "admin": false,
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": 35
+  },
   "ze_surf_gypt_p": {
     "admin": false,
     "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
