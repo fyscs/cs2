@@ -2069,6 +2069,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_minecraft_universe": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_minimal": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],

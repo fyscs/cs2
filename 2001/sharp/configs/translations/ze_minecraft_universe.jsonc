@@ -1,0 +1,268 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** ADMIN: SLAYING ***": {
+    "translation": "*** 管理员 - 处死所有人 ***"
+  },
+  "*** ADMIN: SET STAGE TO WARMUP ***": {
+    "translation": "*** 管理员 - 调整至热身回合 ***"
+  },
+  "*** ADMIN: SET STAGE TO 1 ***": {
+    "translation": "*** 管理员 - 调整至第一关 ***"
+  },
+  "***WARMUP***": {
+    "translation": "***热身回合***"
+  },
+  "***45***": {
+    "translation": "***45***"
+  },
+  "***30***": {
+    "translation": "***30***"
+  },
+  "***15***": {
+    "translation": "***15***"
+  },
+  "***WARMUP OVER***": {
+    "translation": "***热身结束***"
+  },
+  "***1***": {
+    "translation": "***1***"
+  },
+  "***2***": {
+    "translation": "***2***"
+  },
+  "***3***": {
+    "translation": "***3***"
+  },
+  "***4***": {
+    "translation": "***4***"
+  },
+  "***5***": {
+    "translation": "***5***"
+  },
+  "***60***": {
+    "translation": "***60***"
+  },
+  "***10***": {
+    "translation": "***10***"
+  },
+  "***75***": {
+    "translation": "***75***"
+  },
+  "*** MAP OVER ***": {
+    "translation": "*** 地图结束 ***"
+  },
+  "***THANKS FOR PLAYING!***": {
+    "translation": "***感谢您的游玩 地图文本:茜茜***"
+  },
+  "***FOR GFL'S UNOFFICIAL MAPPING CONTEST***": {
+    "translation": "***为GFL非官方地图创作大赛***"
+  },
+  "***MAP CREATED BY MAVIS***": {
+    "translation": "***地图作者: MAVIS CS2地图移植: @Seth.***"
+  },
+  "***BRIDGES COLLAPSE IN 10 SECONDS***": {
+    "translation": "***大桥 10 秒坍塌***"
+  },
+  "***TITAN READY FOR LAUNCH***": {
+    "translation": "***泰坦准备就绪***"
+  },
+  "***RETRACTING DOCKING CLAMPS***": {
+    "translation": "***飞船马上来***"
+  },
+  "***POWERING ON MAIN ENGINES***": {
+    "translation": "***飞船启动中***"
+  },
+  "***OPENING DOORS***": {
+    "translation": "***正在开启门***"
+  },
+  "***OPENING SERVER ROOM DOOR IN 10 SECONDS***": {
+    "translation": "***服务器机房入口 10 秒打开***"
+  },
+  "***OPENING SERVER ROOM EXIT IN 20 SECONDS***": {
+    "translation": "***服务器机房出口 20 秒打开***"
+  },
+  "***CLOSING SERVER ROOM EXIT IN 10 SECONDS***": {
+    "translation": "***服务器机房出口 10 秒关闭***"
+  },
+  "***OPENING SERVER ROOM EXIT IN 10 SECONDS***": {
+    "translation": "***服务器机房出口 10 秒打开***"
+  },
+  "***WIRES CUT, ATTEMPTING TO OPEN DOOR***": {
+    "translation": "***线路已切断,尝试开门***"
+  },
+  "***ACCESS GRANTED, OPENING FACILITY DOOR***": {
+    "translation": "***认证通过, 大门开启***"
+  },
+  "***ELEVATOR LEAVING IN 20 SECONDS***": {
+    "translation": "***电梯 20 秒离开***"
+  },
+  "***TELEPORTING ZOMBIES***": {
+    "translation": "***僵尸传送已开***"
+  },
+  "***ELEVATOR LEAVING IN 10 SECONDS***": {
+    "translation": "***电梯 10 秒离开***"
+  },
+  "***ATTEMPTING TO OPEN FACILITY DOOR***": {
+    "translation": "***尝试开启大门***"
+  },
+  "***ERROR, UNABLE TO IDENTIFY USER***": {
+    "translation": "***错误:身份验证失败***"
+  },
+  "***OPENING SERVICE PANEL, SHOOT THE WIRES INSIDE***": {
+    "translation": "***请射击线路***"
+  },
+  "***TRAIN CALLED, PLEASE STANDBY***": {
+    "translation": "***已呼叫列车***"
+  },
+  "***TRAIN WILL ARRIVE IN 35 SECONDS***": {
+    "translation": "***列车 35 秒到站***"
+  },
+  "***FALLBACK TO THE STATION PLATFORM, ZOMBIES ADVANCING***": {
+    "translation": "***请撤往站台***"
+  },
+  "***ZOMBIE SHORTCUT OPEN***": {
+    "translation": "***僵尸近路已开放***"
+  },
+  "***TRAIN DEPARTS IN 15 SECONDS***": {
+    "translation": "***列车 15 秒离开***"
+  },
+  "***FALLBACK ONTO THE TRAIN***": {
+    "translation": "***撤退至列车上***"
+  },
+  "***TRAIN APPROACHING***": {
+    "translation": "***列车即将进站***"
+  },
+  "***QUICK! GET THROUGH THE NETHER PORTAL BEFORE IT CLOSES!***": {
+    "translation": "***在地狱门关闭前进去***"
+  },
+  "***NETHER PORTAL CLOSES IN 10 SECONDS***": {
+    "translation": "***地狱门 10 秒关闭***"
+  },
+  "***PORTAL CLOSED***": {
+    "translation": "***地狱门已关闭***"
+  },
+  "***THE NETHER***": {
+    "translation": "***下界***"
+  },
+  "***BOSS HAS BEEN DEFEATED***": {
+    "translation": "***命令方块没了***"
+  },
+  "***DOOR OPENS IN 35 SECONDS***": {
+    "translation": "***大门 35 秒打开***"
+  },
+  "***NETHER PORTAL CLOSING IN 10 SECONDS***": {
+    "translation": "***地狱门 10 秒关闭***"
+  },
+  "***WHERE ARE WE?***": {
+    "translation": "***给我干哪来了***"
+  },
+  "***DEFEND FOR 20 SECONDS***": {
+    "translation": "***防守 20 秒***"
+  },
+  "***DEFEND FOR 20 MORE SECONDS***": {
+    "translation": "***再防守 20 秒***"
+  },
+  "***DOORS OPENING***": {
+    "translation": "***大门马上开***"
+  },
+  "***MOVING ZOMBIES FORWARD***": {
+    "translation": "***僵尸冲冲冲***"
+  },
+  "***DOOR OPENING***": {
+    "translation": "***门正在开***"
+  },
+  "***FALLBACK THROUGH THE PORTAL***": {
+    "translation": "***通过传送门快跑***"
+  },
+  "***FALLBACK! THESE DOORS WILL CLOSE IN 10 SECONDS!***": {
+    "translation": "***大门 10 秒关闭***"
+  },
+  "***DIDN'T KILL THE BOSS IN TIME - SLAYING***": {
+    "translation": "***命令方块 - /kill @a***"
+  },
+  "***[@: Spawning Wind Entity]***": {
+    "translation": "***命令方块 - 生成狂风***"
+  },
+  "***[@: Deleting Main Platform]***": {
+    "translation": "***命令方块 - 删除平台***"
+  },
+  "***[@: Laser Test]***": {
+    "translation": "***命令方块 - 生成激光***"
+  },
+  "***BRIDGES BREAKING IN 15 SECONDS***": {
+    "translation": "***大桥15秒下降***"
+  },
+  "***[@: Spawning Fire Entity]***": {
+    "translation": "***命令方块 - 生成火焰***"
+  },
+  "***[@: Activating Teleport Beam]***": {
+    "translation": "***命令方块 - 生成传送***"
+  },
+  "***[@: Raising Zombie Bridges]***": {
+    "translation": "***命令方块 - 生成大桥***"
+  },
+  "***ELEVATOR MALFUNCTION***": {
+    "translation": "***电梯系统故障***"
+  },
+  "***ONLY A FEW PEOPLE NEED TO CLIMB THE ELEVATOR SHAFT AND TRIGGER A BUTTON AT THE TOP TO OPEN THE DOOR***": {
+    "translation": "***需要有人爬梯子触发顶部按钮开启门***"
+  },
+  "***ERROR***": {
+    "translation": "***错误***"
+  },
+  "***UPPER BUTTON TRIGGERED***": {
+    "translation": "***上层开关已触发***"
+  },
+  "***RAISING BLAST DOOR***": {
+    "translation": "***门开了***"
+  },
+  "***TRIGGER THE ELEVATOR AND DEFEND UNTIL IT LEAVES***": {
+    "translation": "***防守电梯***"
+  },
+  "***FALLBACK ONTO THE SHIP***": {
+    "translation": "***撤退到飞船上***"
+  },
+  "***SOMEONE HAS TO PUSH THE BUTTON NEAR THE HANGAR DOORS TO START THE ACTIVATION SEQUENCE***": {
+    "translation": "***需要有人去触发飞船按钮***"
+  },
+  "***FALLBACK TO THE SHIP***": {
+    "translation": "***撤退到飞船上***"
+  },
+  "***ZOMBIES ARE BEING TELEPORTED FORWARD***": {
+    "translation": "***僵尸已传送***"
+  },
+  "***TITAN ENGINE TEST IN PROGRESS***": {
+    "translation": "***泰坦引擎启动中***"
+  },
+  "***TITAN ENGINE COOLING DOWN***": {
+    "translation": "***泰坦引擎启动失败***"
+  },
+  "***ELEVATOR TRIGGERED***": {
+    "translation": "***电梯上升中***"
+  },
+  "***ELEVATOR LEAVES IN 30 SECONDS***": {
+    "translation": "***电梯 30 秒离开***"
+  },
+  "***OPENING UPPER BLAST DOOR***": {
+    "translation": "***上层门打开中***"
+  },
+  "***GET INTO THE AIRLOCK BEFORE IT CLOSES***": {
+    "translation": "**关门前进去***"
+  },
+  "***ELEVATOR LEAVES IN 20 SECONDS***": {
+    "translation": "***电梯 20 秒离开***"
+  },
+  "***ELEVATOR LEAVES IN 10 SECONDS***": {
+    "translation": "***电梯 10 秒离开***"
+  }
+}
