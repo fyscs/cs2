@@ -145,16 +145,12 @@
     "countdown": 15
   },
   "（25s后传送！）": {
-    "translation": "25s后传送!"
+    "translation": "25s后传送!",
     "countdown": 25
   },
   "**55sec**": {
     "translation": "跳刀房将在55s后开放",
     "countdown": 55
-  },
-  "**15sec**": {
-	  "translation": "15s后面临列车刀!",
-	  "countdown": 15
   },
   "樱花岛似乎出现了时空裂隙...": {
     "translation": "樱花岛似乎出现了时空裂隙..."
