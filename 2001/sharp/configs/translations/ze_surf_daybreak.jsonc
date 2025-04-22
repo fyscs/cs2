@@ -1,0 +1,61 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "~ Afk tele in 20sec ~": {
+    "translation": "~ 挂机玩家 20 秒传送 ~"
+  },
+  "~ Find me ~": {
+    "translation": "~ 寻找我 ~"
+  },
+  "~ The portal is open ~": {
+    "translation": "~ 传送门已开 ~"
+  },
+  "Map by Chartapilus": {
+    "translation": "地图作者: Chartapilus 文本:茜茜"
+  },
+  "ze surf daybreak": {
+    "translation": "ze surf daybreak"
+  },
+  "Port by 三百度幸运12121": {
+    "translation": "地图移植: 三百度幸运12121"
+  },
+  "~ 25sec until platform break ~": {
+    "translation": "~ 25 秒平台消失 ~"
+  },
+  "~ Breaking the platform ~": {
+    "translation": "~ 正在破坏平台 ~"
+  },
+  "~ Last afk tele in 20 sec ~": {
+    "translation": "~ 挂机玩家 20 秒传送 ~"
+  },
+  "~ Touch the light to open the portal ~": {
+    "translation": "~ 触碰光球以开启传送门 ~"
+  },
+  "~ Zombies come in 15sec ~": {
+    "translation": "~ 僵尸 15 秒传送 ~"
+  },
+  "ze_surf_daybreak": {
+    "translation": "ze_surf_daybreak"
+  },
+  "~ FIN ~": {
+    "translation": "~ 结束 ~"
+  },
+  "0_0": {
+    "translation": "0_0"
+  },
+  "~ Zombies come in 11sec ~": {
+    "translation": "~ 僵尸 11 秒传送 ~"
+  },
+  "~ Zombies come in 20sec ~": {
+    "translation": "~ 僵尸 20 秒传送 ~"
+  }
+}
