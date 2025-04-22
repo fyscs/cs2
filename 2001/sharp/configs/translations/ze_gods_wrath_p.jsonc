@@ -71,7 +71,8 @@
     "translation": "****附近的僵尸会燃烧!****"
   },
   "****Zombie burner will reset in 40 secounds****": {
-    "translation": "****僵尸燃烧器有四十秒cd****"
+    "translation": "****僵尸燃烧器有四十秒cd****",
+    "blocked": true
   },
   "***You got 60 secounds to get out of the Other***": {
     "translation": "***你有60秒的时间可以离开***"
