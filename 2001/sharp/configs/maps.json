@@ -155,7 +155,7 @@
   "ze_aot_trost_v6r": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 260,
+    "cooldown": 240,
     "nomination": true,
     "price": 800,
     "requiredOnline": 900,
@@ -668,7 +668,7 @@
   "ze_dark_souls": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 110,
+    "cooldown": 260,
     "nomination": true,
     "price": 450,
     "requiredOnline": 900,
@@ -1181,7 +1181,7 @@
   "ze_firstone_x": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 120,
+    "cooldown": 240,
     "nomination": true,
     "price": 500,
     "requiredOnline": 600,
@@ -1235,7 +1235,7 @@
   "ze_forhidden_slicoo_cs2": {
     "admin": false,
     "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 120,
+    "cooldown": 240,
     "nomination": true,
     "price": 700,
     "requiredOnline": 600,
@@ -1244,7 +1244,7 @@
   "ze_forhidden_void": {
     "admin": false,
     "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 120,
+    "cooldown": 240,
     "nomination": true,
     "price": 500,
     "requiredOnline": 600,
@@ -2549,7 +2549,7 @@
   "ze_overlord": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 180,
+    "cooldown": 260,
     "nomination": true,
     "price": 1000,
     "requiredOnline": 900,
@@ -2882,7 +2882,7 @@
   "ze_rt0_genesis_cs2": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 180,
+    "cooldown": 240,
     "nomination": true,
     "price": 800,
     "requiredOnline": -1,
@@ -2891,7 +2891,7 @@
   "ze_rt1_torontoisland_cs2": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 180,
+    "cooldown": 240,
     "nomination": true,
     "price": 800,
     "requiredOnline": -1,
@@ -2900,7 +2900,7 @@
   "ze_rt4_hessel_valley": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 180,
+    "cooldown": 240,
     "nomination": true,
     "price": 800,
     "requiredOnline": -1,
@@ -2927,7 +2927,7 @@
   "ze_s_a_m": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 180,
+    "cooldown": 240,
     "nomination": true,
     "price": 1200,
     "requiredOnline": 900,
@@ -3278,7 +3278,7 @@
   "ze_steyliff_grove": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 120,
+    "cooldown": 240,
     "nomination": true,
     "price": 550,
     "requiredOnline": 900,
