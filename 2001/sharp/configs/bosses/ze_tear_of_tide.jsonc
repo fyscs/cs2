@@ -21,10 +21,5 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Monsters": [
-    {
-      "identity": "11721",
-      "display": "Boss"
-    }
-  ]
+  "proxy": true
 }
