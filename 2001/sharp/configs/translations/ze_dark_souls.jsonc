@@ -10,496 +10,473 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "** You got the the Sen's Fortres key! **": {
-    "translation": "** 你获得了森塞堡垒钥匙 **"
-  },
-  "** The passage from the Great Tree will open in 15 seconds. **": {
-    "translation": "** 巨树通道 15 秒打开. **"
-  },
-  "** The passage to the Hall of Fate will open in 20 seconds **": {
-    "translation": "** 通往命运殿堂通道 20 秒打开 **"
-  },
-  "** The elevator will start moving in 20 seconds **": {
-    "translation": "** 电梯 20 秒启动 **"
-  },
-  "** The entrance to the Arena of Fallen will open in 20 seconds **": {
-    "translation": "** 陨落者竞技场入口 20 秒打开 **"
-  },
-  "** The Great Grey Wolf Sif was one of King Gwyns protectors and like his loyal companions, he swore an oath to answer the call when the time came **": {
-    "translation": "** 灰色大狼希夫乃葛温王护卫之一,如同其忠诚伙伴,曾立誓在关键时刻响应召唤 **",
-    "blocked": true
-  },
-  "** The Great Grey Wolf Sif was defeated... **": {
-    "translation": "** 灰色大狼希夫被击败... **"
-  },
-  "** Zombies will be teleported after 15 seconds **": {
-    "translation": "** 僵尸 15 秒传送 **"
-  },
-  "** The passage from the Great Tree will open in 20 seconds. **": {
-    "translation": "** 巨树通道 20 秒打开 **"
-  },
-  "** Zombies will be teleported after 20 seconds **": {
-    "translation": "** 僵尸 20 秒传送 **"
-  },
-  "So sad next time": {
-    "translation": "** 真遗憾,下次继续努力 **"
-  },
-  "** At the cost of your health. I can open this passage for you. Deal? **": {
-    "translation": "** 以生命为代价,为你开启此通道,成交? **"
-  },
-  "*** Admin Abuse: FCS ***": {
-    "translation": "** >> 管理员 << 滥用: << 防火女魂魄 >> **",
-    "blocked": true
-  },
-  "*** Admin Abuse: Lizard ***": {
-    "translation": "** >> 管理员 << 滥用: << 宝石结晶虫 >> **",
-    "blocked": true
-  },
-  "*** Admin Abuse: Embers ***": {
-    "translation": "** >> 管理员 << 滥用: << 余烬 >> **",
-    "blocked": true
-  },
-  "** Version 1.0.2.0 **": {
-    "translation": "** Version 1.0.2.0 **"
-  },
-  "** Find the lever to open the bottom gate in the Depths. You have 35 seconds **": {
-    "translation": "** 你只有 35 秒时间触发下层门拉杆. **",
-    "blocked": true
-  },
-  "** Do it faster next time! You lost! **": {
-    "translation": "** 下次动作快点! You lost! **"
-  },
-  "** The Sen's Fortress gates will open in 20 seconds **": {
-    "translation": "** 塞恩古城大门 20 秒打开 **"
-  },
-  "** This is a special fort. an ancient refuge. erected by the gods in order to protect the passage to Anor Londo and test intruders **": {
-    "translation": "** 这是一个特殊的堡垒,一个古老的避难所,由众神建立,以保护通往亚洛尔隆德的通道,并考验入侵者 **",
-    "blocked": true
-  },
-  "** The main hall gates will open in 5 seconds **": {
-    "translation": "** 主厅大门 5 秒打开 **"
-  },
-  "** Well done. The Main gates will open in 5 seconds **": {
-    "translation": "** 主门 5 秒打开**"
-  },
-  "** The External gates will open in 10 seconds **": {
-    "translation": "** 外部大门 10 秒打开 **"
-  },
-  "** The gate of torture room will open in 10 seconds **": {
-    "translation": "** 刑讯室大门 10 秒打开 **"
-  },
-  "** The path to the Upper part of the Fortress will open in 10 seconds **": {
-    "translation": "** 通往要塞上部的道路 10 秒打开 **"
-  },
-  "** All we need to do now is find the way to the very top of the fortress **": {
-    "translation": "** 我们现在要做的就是找到通往堡垒顶端的路 **",
-    "blocked": true
-  },
-  "** WATCH OUT FOR BOULDERS! **": {
-    "translation": "** 小心巨石! **"
-  },
-  "** The Old Church gates will open in 30 seconds **": {
-    "translation": "** 老教堂大门 30 秒打开 **"
+  "** The Old Church gates will open in 15 seconds **": {
+    "translation": "老教堂 15 秒打开"
   },
   "** Not far from the old church. according to legends. there is the grave of a legendary hero. from where the howl of a lone wolf can sometimes be heard **": {
-    "translation": "** 在离老教堂不远的地方,传说有一位传奇英雄的坟墓,有时还能听到孤狼的嚎叫声 **",
+    "translation": "在离老教堂不远的地方,传说有一位传奇英雄的坟墓,有时还能听到孤狼的嚎叫声",
     "blocked": true
   },
   "** Looks like the main path is destroyed. We need to find another path to Old Church **": {
-    "translation": "** 主路已被毁坏,我们需要找到另一条通往老教堂的路 **",
+    "translation": "主路已被毁坏,我们需要找到另一条通往老教堂的路",
     "blocked": true
   },
-  "** ALL THE BOULDERS ARE DISABLED! ***": {
-    "translation": "** 所有滚石已停止! **"
+  "** WATCH OUT FOR BOULDERS! **": {
+    "translation": "小心滚石"
   },
-  "** The Stray Demon was keeping an eye for no one undead leaves the prison.. **": {
-    "translation": "** 恶魔一直在监视着不死人离开监狱 **",
+  "** The main hall gates will open in 5 seconds **": {
+    "translation": "主厅大门 5 秒打开"
+  },
+  "** The Sen's Fortress gates will open in 20 seconds **": {
+    "translation": "塞恩古城 20 秒打开"
+  },
+  "** This is a special fort. an ancient refuge. erected by the gods in order to protect the passage to Anor Londo and test intruders **": {
+    "translation": "这是一个特殊的堡垒,一个古老的避难所,由众神建立,以保护通往亚洛尔隆德的通道,并考验入侵者",
     "blocked": true
-  },
-  "** The Stray Demon is a greater demon spawned from the Bed of Chaos **": {
-    "translation": "** 他是混沌之床催生的更为恐怖的存在 **",
-    "blocked": true
-  },
-  "** The Stray Demon was defeated **": {
-    "translation": "** 恶魔被击败了 **"
-  },
-  "** The elevator is on the way. Defend for some time **": {
-    "translation": "** 电梯即将到达 **"
-  },
-  "** Get in the elevator **": {
-    "translation": "** 进入电梯 **"
-  },
-  "** All Undead are corralled and led to the Asylum. meant to reside here till the end of the world **": {
-    "translation": "** 所有的不死人都被关进北方不死院,并一直这里居住直到世界末日 **",
-    "blocked": true
-  },
-  "** The Asylum Main gates will open in 25 seconds **": {
-    "translation": "** 庇护所主大门 25 秒打开 **"
-  },
-  "** The control of boulders room are open **": {
-    "translation": "** 滚石控制室已打开 **"
-  },
-  "** Well done. Wait 5 more seconds till the gate opens **": {
-    "translation": "** 再等 5 秒大门打开 **"
-  },
-  "** The Main Gates will open in 10 seconds **": {
-    "translation": "** 主大门 10 秒打开 **"
-  },
-  "** The bridge gates will open in 5 seconds **": {
-    "translation": "** 桥门 5 秒打开 **"
-  },
-  "** The internal gate will open in 10 seconds **": {
-    "translation": "** 内部大门 10 秒打开 **"
-  },
-  "** The Tower gates will open in 15 seconds **": {
-    "translation": "** 塔楼大门 15 秒打开 **"
-  },
-  "**The statues seem to contain some secrets.**": {
-    "translation": "** 这些雕像似乎蕴含着什么秘密. **",
-    "blocked": true
-  },
-  "** Looks like the main gate is closed. We need to find a lever to open it **": {
-    "translation": "** 主大门已关闭. 需要找到杠杆来打开它 **",
-    "blocked": true
-  },
-  "** The Arena Gates will open in 15 seconds **": {
-    "translation": "** 竞技场大门 15 秒打开 **"
-  },
-  "** The exit from the Old Church will open in 20 seconds **": {
-    "translation": "** 老教堂出口 20 秒打开 **"
-  },
-  "** This statue... it is beautiful and it radiates an unusual warmth around it **": {
-    "translation": "** 这座雕像美轮美奂,周身散发着不同寻常的温暖气息 **",
-    "blocked": true
-  },
-  "** The Top Asylum gates will open in 10 seconds **": {
-    "translation": "** 顶层庇护所大门 10 秒打开 **"
-  },
-  "** The Northern Undead Asylum lays in the far North **": {
-    "translation": "** 不死院位于遥远的北方 **",
-    "blocked": true
-  },
-  "** It serves as a giant prison for the Undead branded with the Darksign. Allowing them to be reborn after death **": {
-    "translation": "** 它是一座巨大的监狱,囚禁被烙上黑暗印记的不死人. 监视他们死后重生 **",
-    "blocked": true
-  },
-  "** The Lower Asylum gates will open in 5 seconds **": {
-    "translation": "** 下层庇护所大门 5 秒打开 **"
-  },
-  "** Zombies got there before humans! You lost! **": {
-    "translation": "** 僵尸比人类先到达! You lost! **"
-  },
-  "** The Uppear gates of Old Church will open in 10 seconds **": {
-    "translation": "** 老教堂上层大门 10 秒打开 **"
-  },
-  "** The Gate of the Lower Tombs will open in 10 seconds **": {
-    "translation": "** 巨人墓地门 10 秒打开 **"
-  },
-  "** A once forgotten Tomb of Giants. Here lie those who fought against the dragons. under the command of Gwyn himself **": {
-    "translation": "** 这是被遗忘的巨人墓地. 曾经在葛温的亲自指挥下,与古龙作战的人们长眠于此 **",
-    "blocked": true
-  },
-  "** The Main Gate will open in 20 seconds **": {
-    "translation": "** 主大门 20 秒打开 **"
-  },
-  "** The deepest gate will open in 15 seconds **": {
-    "translation": "** 最深处大门 15 秒打开 **"
-  },
-  "** The local clerics say what these places hold their own dark secrets **": {
-    "translation": "** 当地的牧师说,这些地方都隐藏着自己的黑暗秘密 **",
-    "blocked": true
-  },
-  "** The gate will open in 15 seconds **": {
-    "translation": "** 大门 15 秒打开 **"
-  },
-  "** The elevator door will open in 10 seconds **": {
-    "translation": "** 电梯门 10 秒打开 **"
-  },
-  "** The elevator will start moving in 20 seconds. Be inside before elevator starts moving **": {
-    "translation": "** 电梯 20 秒移动 **"
-  },
-  "** The entrance to the strange lair will open in 30 seconds **": {
-    "translation": "** 巢穴の入口 30 秒打开 **"
-  },
-  "** The Sanctuary Gates will open in 15 seconds **": {
-    "translation": "** 圣殿の门 15 秒打开 **"
-  },
-  "** Quelaag settled in the lower part of the Blighttown. where the undead. infected by the Black Plague. began to serve her and her sister **": {
-    "translation": "** 混沌魔女克拉格在病村的下层定居下来.在那里,被黑死病感染的不死人在为她和她的妹妹服务 **",
-    "blocked": true
-  },
-  "** The old gates will open in 10 seconds **": {
-    "translation": "** 旧大门 10 秒打开 **"
-  },
-  "** Looks like we finally found a workaround to our main route **": {
-    "translation": "** 看来我们终于找到了解决主要路线问题的办法 **",
-    "blocked": true
-  },
-  "** A new zombie teleport is available **": {
-    "translation": "** 僵尸即将传送 **"
-  },
-  "** Chaos Witch Quelaag is dead... **": {
-    "translation": "** 混沌魔女克拉格已死... **"
-  },
-  "** Quelaag is one of the daughters of the witch of Izalith. She and her sister fled from Izalith when the city was covered by the Flames of Chaos **": {
-    "translation": "** 克拉格是伊扎里斯女巫的女儿之一.当伊扎里斯被混沌吞噬后,她和妹妹逃离了伊扎里斯. **",
-    "blocked": true
-  },
-  "** Unfortunately. they were affected by mutations. but not completely... **": {
-    "translation": "** 不幸的是,它们受到了突变的影响,但并非完全如此 **",
-    "blocked": true
-  },
-  "** Great job. The Gates of the Depths will open in 15 seconds **": {
-    "translation": "** 下水道门 15 秒打开 **"
-  },
-  "** Blighttown is the place where all the damned and sick undead came from Lordran **": {
-    "translation": "** 病村是罗德兰所有被诅咒和生病的亡灵汇聚的地方 **",
-    "blocked": true
-  },
-  "** But as soon as the Lost Izalith fell from the onslaught of demons. this place became unsuitable for life even for the dead **": {
-    "translation": "** 自失落的伊扎里斯在恶魔的攻击下沦陷后,这个地方就变得不适合生活了,即使是不死人也不例外 **",
-    "blocked": true
-  },
-  "** 1/6 crystal lizards were collected **": {
-    "translation": "** << 宝石结晶虫 >> 1/6 **",
-    "blocked": true
-  },
-  "** 2/6 crystal lizards were collected **": {
-    "translation": "** << 宝石结晶虫 >> 2/6 **",
-    "blocked": true
-  },
-  "** 3/6 crystal lizards were collected **": {
-    "translation": "** << 宝石结晶虫 >> 3/6 **",
-    "blocked": true
-  },
-  "** 4/6 crystal lizards were collected **": {
-    "translation": "** << 宝石结晶虫 >> 4/6 **",
-    "blocked": true
-  },
-  "** 5/6 crystal lizards were collected **": {
-    "translation": "** << 宝石结晶虫 >> 5/6 **"
-  },
-  "** Items damage has been increased **": {
-    "translation": "** 神器的伤害已提高 **"
-  },
-  "** This is not an ordinary elevator. It will start moving in 30 seconds **": {
-    "translation": "** 电梯 30 秒开始移动 **"
-  },
-  "** Looks like someone deliberately sent the undead from the top right here to appease one of the witchs of Izalith daughters **": {
-    "translation": "** 看来有人故意把不死人从顶层送到这里来,以安抚伊扎里斯女巫的一个女儿 **",
-    "blocked": true
-  },
-  "** The old doors will open in 20 seconds **": {
-    "translation": "** 旧门 20 秒打开 **"
-  },
-  "** The lost undead came here in search of salvation. but many of them met here something different than salvation... **": {
-    "translation": "** 迷失的不死人来到这里寻找救赎,但他们中的许多人在这里遇到了与救赎不同的东西 **",
-    "blocked": true
-  },
-  "** The gate will open in 20 seconds **": {
-    "translation": "** 大门 20 秒打开 **"
-  },
-  "** Everything secret has now become visible **": {
-    "translation": "** 一切秘密都变得清晰可见 **"
-  },
-  "** The Iron Golem is defeated **": {
-    "translation": "** 钢铁巨偶被击败... **"
-  },
-  "** The Iron Golem was created by the gods to protect Anor Londo from the undead and other demons appeared with a mysterious mist.. **": {
-    "translation": "** 钢铁巨偶是众神创造的,用来保护亚洛尔隆德免受不死人和其他恶魔的侵袭 **",
-    "blocked": true
-  },
-  "** ..He killed many heroes on the way to the City of the Gods **": {
-    "translation": "** 在前往众神之城的路上 他杀死了许多英雄 **",
-    "blocked": true
-  },
-  "** The exit from the catacombs will open in 10 seconds **": {
-    "translation": "** 巨人墓地出口 10 秒打开 **"
-  },
-  "** Rumors has it that crystal lizards are born in this cave **": {
-    "translation": "** 传说宝石结晶虫就出生在这个洞穴里 **",
-    "blocked": true
-  },
-  "** Other rumors say that a forbidden cult has settled here **": {
-    "translation": "** 其他传言称 一个被禁止的邪教组织在此定居 **",
-    "blocked": true
-  },
-  "** The Catacombs gates will open in 20 seconds **": {
-    "translation": "** 巨人墓地大门 20 秒打开 **"
-  },
-  "** This catacombs located under the city of the gods **": {
-    "translation": "** 位于众神之城下的地下墓穴 **",
-    "blocked": true
-  },
-  "** They have long time been abandoned and forgotten by both the undead and the gods themselves **": {
-    "translation": "** 他们早已被不死人和众神遗弃和遗忘 **",
-    "blocked": true
-  },
-  "** Teleport will be activated in 50 seconds **": {
-    "translation": "** 50秒传送 **"
-  },
-  "<** Champion mode **": {
-    "translation": "** Champion 模式 **"
-  },
-  "** Eye collected 0/7**": {
-    "translation": "** << 龟裂血红眼眸 >> 0/7 **",
-    "blocked": true
-  },
-  "** Eye collected 1/7**": {
-    "translation": "** << 龟裂血红眼眸 >> 1/7 **",
-    "blocked": true
-  },
-  "** Eye collected 2/7**": {
-    "translation": "** << 龟裂血红眼眸 >> 2/7 **",
-    "blocked": true
-  },
-  "** Eye collected 3/7**": {
-    "translation": "** << 龟裂血红眼眸 >> 3/7 **",
-    "blocked": true
-  },
-  "** Eye collected 4/7**": {
-    "translation": "** << 龟裂血红眼眸 >> 4/7 **",
-    "blocked": true
-  },
-  "** Eye collected 5/7**": {
-    "translation": "** << 龟裂血红眼眸 >> 5/7 **",
-    "blocked": true
-  },
-  "** Eye collected6/7**": {
-    "translation": "** << 龟裂血红眼眸 >> 6/7 **",
-    "blocked": true
-  },
-  "** Eye collected 7/7**": {
-    "translation": "** << 龟裂血红眼眸 >> 7/7 **"
-  },
-  "** not enough haryde(nigger) coins for true ending **": {
-    "translation": "** 没有足够的 << 龟裂血红眼眸 >> 无法达成真正的结局 **"
-  },
-  "** Fire keeper soul has been picked up 1/5 **": {
-    "translation": "** << 防火女魂魄 >> 1/5 **",
-    "blocked": true
-  },
-  "** Fire keeper soul has been picked up 2/5 **": {
-    "translation": "** << 防火女魂魄 >> 2/5 **",
-    "blocked": true
-  },
-  "** Fire keeper soul has been picked up 3/5 **": {
-    "translation": "** << 防火女魂魄 >> 3/5 **",
-    "blocked": true
-  },
-  "** Fire keeper soul has been picked up 4/5 **": {
-    "translation": "** << 防火女魂魄 >> 4/5 **"
-  },
-  "** Base health has been increased **": {
-    "translation": "** 基础生命值已提升 **"
-  },
-  "** ZE_DARK_SOULS **": {
-    "translation": "** ZE_DARK_SOULS 黑暗之魂 **"
-  },
-  "** Special thanks to Brunelazo343 for custom skins **": {
-    "translation": "** 特别鸣谢: Brunelazo343 **"
   },
   "** The paths of this location often run along the edge of deep crevices. ready at any moment to hide the corpse of an unwary traveler in its womb **": {
-    "translation": "** 这里的小路经常沿着深不见底的裂缝边缘延伸,可能藏着失足旅行者的尸体 **",
+    "translation": "这里的小路经常沿着深不见底的裂缝边缘延伸,可能藏着失足旅行者的尸体",
     "blocked": true
   },
   "** So be careful and watch your step **": {
-    "translation": "** 所以要小心谨慎,小心脚下 **",
+    "translation": "所以要小心谨慎,小心脚下",
     "blocked": true
   },
+  "** Teleport will be activated in 50 seconds **": {
+    "translation": "50 秒传送"
+  },
+  "** The Catacombs gates will open in 20 seconds **": {
+    "translation": "巨人墓地 20 秒打开"
+  },
+  "** This catacombs located under the city of the gods **": {
+    "translation": "位于众神之城下的地下墓穴",
+    "blocked": true
+  },
+  "** They have long time been abandoned and forgotten by both the undead and the gods themselves **": {
+    "translation": "他们早已被不死人和众神遗弃和遗忘",
+    "blocked": true
+  },
+  "** The gate will open in 15 seconds **": {
+    "translation": "大门 15 秒打开"
+  },
+  "** The old doors will open in 20 seconds **": {
+    "translation": "旧门 20 秒打开"
+  },
+  "** The lost undead came here in search of salvation. but many of them met here something different than salvation... **": {
+    "translation": "迷失的不死人来到这里寻找救赎,但他们中的许多人在这里遇到了与救赎不同的东西",
+    "blocked": true
+  },
+  "** This is not an ordinary elevator. It will start moving in 30 seconds **": {
+    "translation": "电梯 30 秒离开"
+  },
+  "** Looks like someone deliberately sent the undead from the top right here to appease one of the witchs of Izalith daughters **": {
+    "translation": "看来有人故意把不死人从顶层送到这里来,以安抚伊扎里斯女巫的一个女儿",
+    "blocked": true
+  },
+  "** The entrance to the strange lair will open in 30 seconds **": {
+    "translation": "巢穴 30 秒打开"
+  },
+  "** The Uppear gates of Old Church will open in 10 seconds **": {
+    "translation": "老教堂上层 10 秒打开"
+  },
+  "** The Top Asylum gates will open in 10 seconds **": {
+    "translation": "顶层庇护所 10 秒打开"
+  },
+  "** The Northern Undead Asylum lays in the far North **": {
+    "translation": "不死院位于遥远的北方",
+    "blocked": true
+  },
+  "** It serves as a giant prison for the Undead branded with the Darksign. Allowing them to be reborn after death **": {
+    "translation": "它是一座巨大的监狱,囚禁被烙上黑暗印记的不死人.监视他们死后重生",
+    "blocked": true
+  },
+  "** The exit from the Old Church will open in 20 seconds **": {
+    "translation": "老教堂出口 20 秒打开"
+  },
+  "** This statue... it is beautiful and it radiates an unusual warmth around it **": {
+    "translation": "这座雕像美轮美奂,周身散发着不同寻常的温暖气息",
+    "blocked": true
+  },
+  "** ALL THE BOULDERS ARE DISABLED! ***": {
+    "translation": "滚石已关闭"
+  },
+  "** Well done. The Main gates will open in 5 seconds **": {
+    "translation": "主门 5 秒打开"
+  },
+  "** A new zombie teleport is available **": {
+    "translation": "僵尸即将传送"
+  },
+  "** Well done. Wait 5 more seconds till the gate opens **": {
+    "translation": "再等 5 秒大门打开"
+  },
+  "** The Stray Demon was keeping an eye for no one undead leaves the prison.. **": {
+    "translation": "恶魔一直在监视着不死人离开监狱",
+    "blocked": true
+  },
+  "** The Stray Demon is a greater demon spawned from the Bed of Chaos **": {
+    "translation": "他是混沌之床催生的更为恐怖的存在",
+    "blocked": true
+  },
+  "** The Stray Demon was defeated **": {
+    "translation": "已击败恶魔"
+  },
+  "** Champion mode **": {
+    "translation": "Champion 模式"
+  },
+  "** The Iron Golem is defeated **": {
+    "translation": "已击败钢铁巨偶"
+  },
+  "** The Iron Golem was created by the gods to protect Anor Londo from the undead and other demons appeared with a mysterious mist.. **": {
+    "translation": "钢铁巨偶是众神创造的,用来保护亚洛尔隆德免受不死人和其他恶魔的侵袭",
+    "blocked": true
+  },
+  "** ..He killed many heroes on the way to the City of the Gods **": {
+    "translation": "在前往众神之城的路上 他杀死了许多英雄",
+    "blocked": true
+  },
+  "** Chaos Witch Quelaag is dead... **": {
+    "translation": "已击败混沌魔女克拉格"
+  },
+  "** Quelaag is one of the daughters of the witch of Izalith. She and her sister fled from Izalith when the city was covered by the Flames of Chaos **": {
+    "translation": "克拉格是伊扎里斯女巫的女儿之一.当伊扎里斯被混沌吞噬后,她和妹妹逃离了伊扎里斯",
+    "blocked": true
+  },
+  "** Unfortunately. they were affected by mutations. but not completely... **": {
+    "translation": "不幸的是,它们受到了突变的影响,但并非完全如此",
+    "blocked": true
+  },
+  "** Fire keeper soul has been picked up 1/5 **": {
+    "translation": "防火女 1/5"
+  },
+  "** Fire keeper soul has been picked up 2/5 **": {
+    "translation": "防火女 2/5"
+  },
+  "** Fire keeper soul has been picked up 3/5 **": {
+    "translation": "防火女 3/5"
+  },
+  "** Fire keeper soul has been picked up 4/5 **": {
+    "translation": "防火女 4/5"
+  },
+  "** Base health has been increased **": {
+    "translation": "生命值已提升"
+  },
+  "** Eye collected 0/7**": {
+    "translation": "眼眸 0/7"
+  },
+  "** Eye collected 1/7**": {
+    "translation": "眼眸 1/7"
+  },
+  "** Eye collected 2/7**": {
+    "translation": "眼眸 2/7"
+  },
+  "** Eye collected 3/7**": {
+    "translation": "眼眸 3/7"
+  },
+  "** Eye collected 4/7**": {
+    "translation": "眼眸 4/7"
+  },
+  "** Eye collected 5/7**": {
+    "translation": "眼眸 5/7"
+  },
+  "** Eye collected 6/7**": {
+    "translation": "眼眸 6/7"
+  },
+  "** Eye collected 7/7**": {
+    "translation": "眼眸 7/7"
+  },
+  "** 1/6 crystal lizards were collected **": {
+    "translation": "结晶虫 1/6"
+  },
+  "** 2/6 crystal lizards were collected **": {
+    "translation": "结晶虫 2/6"
+  },
+  "** 3/6 crystal lizards were collected **": {
+    "translation": "结晶虫 3/6"
+  },
+  "** 4/6 crystal lizards were collected **": {
+    "translation": "结晶虫 4/6"
+  },
+  "** 5/6 crystal lizards were collected **": {
+    "translation": "结晶虫 5/6 "
+  },
+  "** Items damage has been increased **": {
+    "translation": "神器伤害已提升"
+  },
   "** Admin Set Champion mode **": {
-    "translation": "** 管理员设置了 Champion 模式 **"
+    "translation": "管理员 - Champion 模式"
   },
   "** Admin Set Normal mode **": {
-    "translation": "** 管理员设置了 Normal 模式 **"
+    "translation": "管理员 - Normal 模式"
   },
-  "** The crimson eye has been picked up **": {
-    "translation": "** << 龟裂血红眼眸 >> 已被捡起 **"
+  "** not enough haryde(nigger) coins for true ending **": {
+    "translation": "没有足够的 眼眸 无法达成真正的结局"
   },
-  "**The gate of a ruined church will open in 30 seconds**": {
-    "translation": "** 教堂大门 30 秒开启 **"
+  "** ZE_DARK_SOULS **": {
+    "translation": "ZE_DARK_SOULS 黑暗之魂"
   },
-  "**The fire will fade away in 20 seconds**": {
-    "translation": "** 火焰 20 秒熄灭 **"
+  "** Map by HaRyDe. Microrost. Kotya. Friend **": {
+    "translation": "地图作者: HaRyDe. Microrost. Kotya. Friend"
   },
-  "**The fire will fade away in 10 seconds**": {
-    "translation": "** 火焰 10 秒熄灭 **"
+  "** Special thanks to Brunelazo343 for custom skins **": {
+    "translation": "特别鸣谢: Brunelazo34"
   },
-  "**The passage to the First Flame will open in 25 seconds**": {
-    "translation": "** 前往初始之火的通道 25 秒打开 **"
+  "** Version 1.0.2.1 **": {
+    "translation": "Version 1.0.2.1"
   },
-  "** Flame Ember **": {
-    "translation": "** << 火焰余烬 >> **"
+  "** The elevator is on the way. Defend for some time **": {
+    "translation": "电梯即将到达"
   },
-  "** Magic Ember **": {
-    "translation": "** << 魔法余烬 >> **"
+  "** Get in the elevator **": {
+    "translation": "进电梯"
   },
-  "** Dark Ember **": {
-    "translation": "** << 黑暗余烬 >> **"
+  "** All Undead are corralled and led to the Asylum. meant to reside here till the end of the world **": {
+    "translation": "所有的不死人都被关进北方不死院,并一直这里居住直到世界末日",
+    "blocked": true
   },
-  "** Divine Ember **": {
-    "translation": "** << 神圣余烬 >> **"
+  "** The path to the Upper part of the Fortress will open in 10 seconds **": {
+    "translation": "通往要塞上部 10 秒打开"
+  },
+  "** All we need to do now is find the way to the very top of the fortress **": {
+    "translation": "我们现在要做的就是找到通往堡垒顶端的路",
+    "blocked": true
+  },
+  "** The gate of torture room will open in 10 seconds **": {
+    "translation": "刑讯室 10 秒打开"
+  },
+  "** The External gates will open in 10 seconds **": {
+    "translation": "外部大门 10 秒打开"
+  },
+  "** The exit from the catacombs will open in 10 seconds **": {
+    "translation": "巨人墓地出口 10 秒打开"
+  },
+  "** Rumors has it that crystal lizards are born in this cave **": {
+    "translation": "传说结晶虫就出生在这个洞穴",
+    "blocked": true
+  },
+  "** Other rumors say that a forbidden cult has settled here **": {
+    "translation": "其他传言称 一个被禁止的邪教组织在此定居",
+    "blocked": true
+  },
+  "** The old gates will open in 10 seconds **": {
+    "translation": "旧大门 10 秒打开"
+  },
+  "** Looks like we finally found a workaround to our main route **": {
+    "translation": "看来我们终于找到了解决主要路线问题的办法",
+    "blocked": true
+  },
+  "** The Sanctuary Gates will open in 15 seconds **": {
+    "translation": "圣殿 15 秒打开"
+  },
+  "** Quelaag settled in the lower part of the Blighttown. where the undead. infected by the Black Plague. began to serve her and her sister **": {
+    "translation": "混沌魔女克拉格在病村的下层定居下来.在那里,被黑死病感染的不死人在为她和她的妹妹服务",
+    "blocked": true
+  },
+  "** The elevator door will open in 10 seconds **": {
+    "translation": "电梯门 10 秒打开"
+  },
+  "** The elevator will start moving in 20 seconds. Be inside before elevator starts moving **": {
+    "translation": "电梯 20 秒离开"
+  },
+  "** The deepest gate will open in 10 seconds **": {
+    "translation": "最深处门 10 秒打开"
+  },
+  "** The local clerics say what these places hold their own dark secrets **": {
+    "translation": "当地的牧师说,这些地方都隐藏着自己的黑暗秘密",
+    "blocked": true
+  },
+  "** The Main Gate will open in 20 seconds **": {
+    "translation": "主大门 20 秒打开"
+  },
+  "** The Gate of the Lower Tombs will open in 10 seconds **": {
+    "translation": "巨人墓地 10 秒打开"
+  },
+  "** A once forgotten Tomb of Giants. Here lie those who fought against the dragons. under the command of Gwyn himself **": {
+    "translation": "这是被遗忘的巨人墓地. 曾经在葛温的亲自指挥下,与古龙作战的人们长眠于此",
+    "blocked": true
+  },
+  "** The Lower Asylum gates will open in 5 seconds **": {
+    "translation": "下层庇护所 5 秒打开"
+  },
+  "** The Arena Gates will open in 15 seconds **": {
+    "translation": "竞技场 15 秒打开"
+  },
+  "** The Tower gates will open in 15 seconds **": {
+    "translation": "塔楼 15 秒打开"
+  },
+  "** Looks like the main gate is closed. We need to find a lever to open it **": {
+    "translation": "主大门已关闭. 需要找到杠杆来打开它",
+    "blocked": true
+  },
+  "** The internal gate will open in 10 seconds **": {
+    "translation": "内部大门 10 秒打开"
+  },
+  "** The bridge gates will open in 5 seconds **": {
+    "translation": "桥门 5 秒打开"
+  },
+  "** The Main Gates will open in 10 seconds **": {
+    "translation": "主大门 10 秒打开"
+  },
+  "** The control of boulders room are open **": {
+    "translation": "滚石控制室已打开"
+  },
+  "** The Asylum Main gates will open in 25 seconds **": {
+    "translation": "庇护所主大门 25 秒打开"
+  },
+  "** Everything secret has now become visible **": {
+    "translation": "一切秘密都变得清晰可见"
+  },
+  "** Great job. The Gates of the Depths will open in 15 seconds **": {
+    "translation": "深渊 15 秒打开"
+  },
+  "** Blighttown is the place where all the damned and sick undead came from Lordran **": {
+    "translation": "病村是罗德兰所有被诅咒和生病的亡灵汇聚的地方",
+    "blocked": true
+  },
+  "** But as soon as the Lost Izalith fell from the onslaught of demons. this place became unsuitable for life even for the dead **": {
+    "translation": "自失落的伊扎里斯在恶魔的攻击下沦陷后,这个地方就变得不适合生活了,即使是不死人也不例外",
+    "blocked": true
+  },
+  "** Zombies got there before humans! You lost! **": {
+    "translation": "僵尸比人类先到达"
+  },
+  "** The gate of a ruined church will open in 30 seconds **": {
+    "translation": "教堂 30 秒打开"
+  },
+  "** The fire will fade away in 20 seconds **": {
+    "translation": "火焰 20 秒熄灭"
+  },
+  "** The fire will fade away in 10 seconds **": {
+    "translation": "火焰 10 秒熄灭"
+  },
+  "** The passage to the First Flame will open in 25 seconds **": {
+    "translation": "初始之火通道 25 秒打开"
+  },
+  "** Dark Lord ending was completed **": {
+    "translation": "灭火 - 结局已完成"
   },
   "**Gwyn Lord of Cinder is dead...**": {
-    "translation": "** 乌薪王葛温已陨落... **"
+    "translation": "乌薪王葛温已陨落"
   },
   "**After the fall of the Oolacile. Betrayal of his advisers and the disappearance of four kings...**": {
-    "translation": "** 乌拉席露灭亡后 先知白龙西斯背叛以及四小王失踪...... **",
+    "translation": "乌拉席露灭亡后 先知白龙西斯背叛以及四小王失踪",
     "blocked": true
   },
   "**...Gwyn realized that the abyss is right around him. Then he gathered his last strength...**": {
-    "translation": "** ...葛温意识到他彻底笼罩在深渊之中.于是他凝聚起最后的力量... **",
+    "translation": "葛温意识到他彻底笼罩在深渊之中.于是他凝聚起最后的力量",
     "blocked": true
   },
   "**...He ordered his Black Knightes to seal the passage to the First Flame...**": {
-    "translation": "** ...他向黑骑士下令 封锁初始之火的道路... **",
+    "translation": "他向黑骑士下令 封锁初始之火的道路",
     "blocked": true
   },
   "**...Gwyn knew that only the Dark Lord will be able to reach him... and the First flame...**": {
-    "translation": "** ...葛温知道只有黑暗之王才能触及他...和初始之火... **",
+    "translation": "葛温知道只有黑暗之王才能触及他...和初始之火",
     "blocked": true
   },
   "**... Choose your destiny ...**": {
-    "translation": "** ... >> 请选择您的命运 << ... **"
+    "translation": "请选择您的命运"
   },
   "** Survive 40 seconds **": {
-    "translation": "** 存活 40 秒 **"
+    "translation": "生存 40 秒"
   },
   "** 5 Second teleport **": {
-    "translation": "** 5 秒后传送 **"
+    "translation": "5 秒传送"
   },
   "** Run Away **": {
-    "translation": "** 快跑 **"
+    "translation": "快走"
   },
   "** Survive 10 seconds **": {
-    "translation": "** 存活 10 秒 **"
+    "translation": "生存 10 秒"
   },
   "** The Final gates will close in 10 seconds **": {
-    "translation": "** 终焉の门 10 秒关闭 **",
+    "translation": "终焉の门 10 秒关闭",
     "blocked": true
   },
   "** The Final gates will close in 20 seconds **": {
-    "translation": "** 终焉の门 20 秒关闭 **",
+    "translation": "终焉の门 20 秒关闭",
     "blocked": true
   },
   "** The Final gates will close in 40 seconds **": {
-    "translation": "** 终焉の门 40 秒关闭 **",
+    "translation": "终焉の门 40 秒关闭",
     "blocked": true
   },
   "** The Final gates will close in 120 seconds **": {
-    "translation": "** 终焉の门 120 秒关闭 **"
+    "translation": "终焉の门 120 秒关闭"
   },
   "** To Link the Fire ending was completed **": {
-    "translation": "** >> 传火 << - 结局已完成 **"
+    "translation": "传火 - 结局已完成"
   },
   "** All items charges are restored **": {
-    "translation": "** 所有神器使用次数均已恢复 **",
+    "translation": "神器次数均已恢复"
+  },
+  "** Flame Ember **": {
+    "translation": "火焰余烬"
+  },
+  "** Magic Ember **": {
+    "translation": "魔法余烬"
+  },
+  "** Dark Ember **": {
+    "translation": "黑暗余烬"
+  },
+  "** Divine Ember **": {
+    "translation": "神圣余烬"
+  },
+  "** Do it faster next time! You lost! **": {
+    "translation": "下次动作快点"
+  },
+  "** Find the lever to open the bottom gate in the Depths. You have 35 seconds **": {
+    "translation": "只有 35 秒触发下层门拉杆"
+  },
+  "** At the cost of your health. I can open this passage for you. Deal? **": {
+    "translation": "以生命开启通道,成交?"
+  },
+  "*** So sad next time ***": {
+    "translation": "真遗憾,下次继续努力"
+  },
+  "** Zombies will be teleported after 20 seconds **": {
+    "translation": "僵尸 20 秒传送"
+  },
+  "** The passage from the Great Tree will open in 20 seconds. **": {
+    "translation": "巨树通道 20 秒打开"
+  },
+  "** Zombies will be teleported after 30 seconds **": {
+    "translation": "僵尸 30 秒传送"
+  },
+  "** The Great Grey Wolf Sif was defeated... **": {
+    "translation": "已击败灰色大狼希夫"
+  },
+  "** The Great Grey Wolf Sif was one of King Gwyns protectors and like his loyal companions, he swore an oath to answer the call when the time came **": {
+    "translation": "灰色大狼希夫乃葛温王护卫之一,如同其忠诚伙伴,曾立誓在关键时刻响应召唤",
     "blocked": true
   },
-  "** Map by HaRyDe. Microsoft. Kotya **": {
-    "translation": "** 地图作者: HaRyDe. Microsoft. Kotya 文本:Zeyu1&茜茜 **"
+  "** The entrance to the Arena of Fallen will open in 20 seconds **": {
+    "translation": "陨落竞技场 20 秒打开"
   },
-  "** Dark Lord ending was completed **": {
-    "translation": "** >> 灭火 << - 结局已完成 **"
+  "** The elevator will start moving in 20 seconds **": {
+    "translation": "电梯 20 秒离开"
+  },
+  "** The passage to the Hall of Fate will open in 20 seconds **": {
+    "translation": "命运の厅 20 秒打开"
+  },
+  "** The passage from the Great Tree will open in 15 seconds. **": {
+    "translation": "巨树通道 15 秒打开"
+  },
+  "** The crimson eye has been picked up **": {
+    "translation": "眼眸 已被捡起"
+  },
+  "*** Admin Abuse: FCS ***": {
+    "translation": "管理员 - 滥用权限 -> 防火女"
+  },
+  "*** Admin Abuse: Lizard ***": {
+    "translation": "管理员 - 滥用权限 -> 结晶虫"
+  },
+  "*** Admin Abuse: Embers ***": {
+    "translation": "管理员 - 滥用权限 -> 余烬"
+  },
+  "** You got the the Prison key! **": {
+    "translation": "已获得钥匙 - 不死院"
+  },
+  "** You got the the Sen's Fortres key! **": {
+    "translation": "已获得钥匙 - 塞恩古城"
   }
 }
