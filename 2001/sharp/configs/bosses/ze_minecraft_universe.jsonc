@@ -21,9 +21,10 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Breakables": [
+  "Counters": [
     {
-      "target": "stage2_boss_breakable",
+      "iterator": "stage2_boss_HP_counter",
+      "hitbox": "stage2_boss_breakable",
       "display": "命令方块"
     }
   ]
