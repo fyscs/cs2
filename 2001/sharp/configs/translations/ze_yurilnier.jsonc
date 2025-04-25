@@ -1,0 +1,88 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** PHASE : FRIGIDUS SELECTED **": {
+    "translation": "第一章: 极寒之地"
+  },
+  "** PHASE : GLORIA SELECTED **": {
+    "translation": "第二章: 生命之城"
+  },
+  "** KILL ALL **": {
+    "translation": "核爆"
+  },
+  "** DOORS OPENING IN 25 SECONDS **": {
+    "translation": "大门 25 秒打开"
+  },
+  "** TELEPORTER ACTIVATED **": {
+    "translation": "传送已激活"
+  },
+  "** DOORS OPENING IN 35 SECONDS **": {
+    "translation": "大门 35 秒打开"
+  },
+  "** MIDDLE DOORS OPENING IN 30 SECONDS **": {
+    "translation": "中间门 30 秒打开"
+  },
+  "** DOORS OPENING IN 40 SECONDS **": {
+    "translation": "大门 40 秒打开"
+  },
+  "** LAST ROOM DOORS CLOSING IN 60 SECONDS **": {
+    "translation": "最终门 60 秒关闭"
+  },
+  "** 15 SECONDS **": {
+    "translation": "防守 15 秒"
+  },
+  "** DOORS OPENING IN 30 SECONDS **": {
+    "translation": "大门 30 秒打开"
+  },
+  "** DOORS OPENING IN 45 SECONDS **": {
+    "translation": "大门 45 秒打开"
+  },
+  "** DOORS OPENING IN 50 SECONDS **": {
+    "translation": "大门 50 秒打开"
+  },
+  "** LAST ROOM DOORS CLOSING IN 40 SECONDS **": {
+    "translation": "最终门 40 秒关闭"
+  },
+  "** LOWER DOORS OPENING IN 40 SECONDS **": {
+    "translation": "下门 40 秒打开"
+  },
+  "** UPPER DOORS OPENING IN 15 SECONDS **": {
+    "translation": "上门 15 秒打开"
+  },
+  "** TIP : ESCAPE PATH WILL OPEN BY +USE HANGING LANTERN ON THE WALL **": {
+    "translation": "提示:触发灯笼开启道路"
+  },
+  "** ZE_ YURILNIER**": {
+    "translation": "ZE_ YURILNIER 雪域幽径"
+  },
+  "** TIP : THERE ARE NO FORCE TELEPORTS **": {
+    "translation": "提示:地图没有强制传送机制"
+  },
+  "** TIP : IF YOU LATE FOR THE PARTY. FIND AND DIVE LANTERN ON THE GROUND **": {
+    "translation": "提示:地面灯笼是传送点"
+  },
+  "** MAP MADE BY SATOKA **": {
+    "translation": "地图作者:SATOKA 文本:茜茜"
+  },
+  "** MOVING TO PHASE : VITAE **": {
+    "translation": "前往第二章: 生命之城"
+  },
+  "** BACK TO PHASE : FRIGUS **": {
+    "translation": "返回第一章: 极寒之地"
+  },
+  "** PHASE : FRIGUS **": {
+    "translation": "第一章: 极寒之地"
+  },
+  "** PHASE : VITAE **": {
+    "translation": "第二章: 生命之城"
+  }
+}
