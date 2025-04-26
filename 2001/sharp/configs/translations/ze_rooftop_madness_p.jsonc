@@ -1,0 +1,187 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Gravity Zombie has been acquired ***": {
+    "translation": "僵尸已拾取 黑洞"
+  },
+  "*** Haunted house! ***": {
+    "translation": "鬼屋"
+  },
+  "*** Cabin leaving in 5 seconds ***": {
+    "translation": "木屋 5 秒起飞"
+  },
+  "*** Porch leaving in 5 seconds ***": {
+    "translation": "门廊 5 秒起飞"
+  },
+  "*** Lawn leaving in 5 seconds ***": {
+    "translation": "草坪 5 秒起飞"
+  },
+  "*** WARNING! Escape vehicles are about to leave! ***": {
+    "translation": "撤退载具要起飞了"
+  },
+  "*** Seagull leaving in 5 seconds ***": {
+    "translation": "海鸥 5 秒离开"
+  },
+  "*** Helicopter is approaching ***": {
+    "translation": "直升机来咯"
+  },
+  "*** Helicopter arriving in 15 seconds ***": {
+    "translation": "直升机 15 秒到达"
+  },
+  "*** Helicopter arriving in 30 seconds ***": {
+    "translation": "直升机 30 秒到达"
+  },
+  "*** Rainbow Road has been reached ***": {
+    "translation": "彩虹之路"
+  },
+  "*** Teleporting humans in 10 seconds ***": {
+    "translation": "所有人类 10 秒传送"
+  },
+  "*** Teleporting zombies in 5 seconds ***": {
+    "translation": "所有僵尸 5 秒传送"
+  },
+  "*** Good job. You've reached the end ***": {
+    "translation": "到达终点"
+  },
+  "*** Nuke in 90 seconds ***": {
+    "translation": "核爆 90 秒"
+  },
+  "*** Nuke in 60 seconds ***": {
+    "translation": "核爆 60 秒"
+  },
+  "*** Nuke in 30 seconds ***": {
+    "translation": "核爆 30 秒"
+  },
+  "*** Nuke in 15 seconds ***": {
+    "translation": "核爆 15 秒"
+  },
+  "*** Nuke in 5 seconds ***": {
+    "translation": "核爆 5 秒"
+  },
+  "*** Teleporting slowpokes in 5 seconds ***": {
+    "translation": "挂机玩家 5 秒传送"
+  },
+  "*** Nuke in 120 seconds ***": {
+    "translation": "核爆 120 秒"
+  },
+  "*** Pipe leaving in 5 seconds ***": {
+    "translation": "管道 5 秒离开"
+  },
+  "*** Zombies have escaped... and they're calling for reinforcements! ***": {
+    "translation": "僵尸已逃离"
+  },
+  "*** Turtle leaving in 5 seconds ***": {
+    "translation": "乌龟 5 秒起飞"
+  },
+  "*** Mega Zombie has been acquired ***": {
+    "translation": "僵尸已拾取 变大药丸"
+  },
+  "*** Pool leaving in 5 seconds ***": {
+    "translation": "泳池 5 秒起飞"
+  },
+  "*** Laser Zombie has been acquired ***": {
+    "translation": "僵尸已拾取 跳刀"
+  },
+  "*** Wind Zombie has been acquired ***": {
+    "translation": "僵尸已拾取 风"
+  },
+  "*** Fire Zombie has been acquired ***": {
+    "translation": "僵尸已拾取 火"
+  },
+  "*** Barrel Zombie has been acquired ***": {
+    "translation": "僵尸已拾取 油桶"
+  },
+  "*** UFO leaving in 5 seconds ***": {
+    "translation": "不明飞行物 5 秒起飞"
+  },
+  "*** Watermelon leaving in 5 seconds ***": {
+    "translation": "西瓜 5 秒离开"
+  },
+  "*** Boosters unlocking in 60 seconds ***": {
+    "translation": "60 秒开放大飞板",
+    "blocked": true
+  },
+  "*** Boosters unlocking in 10 seconds ***": {
+    "translation": "10 秒开放大飞板"
+  },
+  "*** Boosters unlocking in 30 seconds ***": {
+    "translation": "30 秒开放大飞板",
+    "blocked": true
+  },
+  "*** Map by Soft Serve ***": {
+    "translation": "地图作者: Soft Serve 文本: 茜茜"
+  },
+  "*** Zombie items unlocking in 5 seconds ***": {
+    "translation": "僵尸神器 5 秒开放",
+    "blocked": true
+  },
+  "*** Human items can be found in blue containers ***": {
+    "translation": "人类神器可以在集装箱找到"
+  },
+  "*** Lift 1 activating in 10 seconds ***": {
+    "translation": "电梯I: 10 秒启动",
+    "countdown": 10
+  },
+  "*** Lift 3 activating in 10 seconds ***": {
+    "translation": "电梯III: 10 秒启动",
+    "countdown": 10
+  },
+  "*** Lift 2 activating in 10 seconds ***": {
+    "translation": "电梯II: 10 秒启动",
+    "countdown": 10
+  },
+  "*** Umbrella has been acquired ***": {
+    "translation": "已拾取 伞"
+  },
+  "*** Hammer has been acquired ***": {
+    "translation": "已拾取 大锤"
+  },
+  "*** DDR has been acquired ***": {
+    "translation": "已拾取 DDR"
+  },
+  "*** Tetromino has been acquired ***": {
+    "translation": "已拾取 积木"
+  },
+  "*** Pod has been acquired ***": {
+    "translation": "已拾取 无人机"
+  },
+  "*** Forklift has been acquired ***": {
+    "translation": "已拾取 铲车"
+  },
+  "*** Decoy has been acquired ***": {
+    "translation": "已拾取 圈套"
+  },
+  "*** Freeze Mines have been acquired ***": {
+    "translation": "已拾取 冰冻地雷"
+  },
+  "*** Dragonslayer has been acquired ***": {
+    "translation": "已拾取 屠龙剑"
+  },
+  "*** Force Gun has been acquired ***": {
+    "translation": "已拾取 Push"
+  },
+  "*** Screwdriver has been acquired ***": {
+    "translation": "已拾取 起子"
+  },
+  "*** Bouncy Bed has been acquired ***": {
+    "translation": "已拾取 蹦床"
+  },
+  "*** Nade Crate has been acquired ***": {
+    "translation": "已拾取 手雷箱"
+  },
+  "*** Molotov has been acquired ***": {
+    "translation": "已拾取 燃烧瓶发射器"
+  },
+  "*** C4 has been acquired ***": {
+    "translation": "已拾取 C4"
+  }
+}
