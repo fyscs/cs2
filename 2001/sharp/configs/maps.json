@@ -2843,6 +2843,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 45
   },
+  "ze_rooftop_madness_p": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_rooftop_runaway1_p": {
     "admin": false,
     "certainTimes": [-1],
