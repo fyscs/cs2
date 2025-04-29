@@ -2330,6 +2330,15 @@
     "requiredOnline": 900,
     "requiredPlayers": 50
   },
+  "ze_obj_blue_depth": {
+    "admin": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 240,
+    "nomination": true,
+    "price": 1800,
+    "requiredOnline": 900,
+    "requiredPlayers": 50
+  },
   "ze_obj_ember": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
