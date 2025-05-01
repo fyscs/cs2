@@ -1,0 +1,163 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "~ Push has been picked up ~": {
+    "translation": "已拾取推力"
+  },
+  "~ Only 2 uses ~": {
+    "translation": "只能使用2次"
+  },
+  "~ Firework has been picked up ~": {
+    "translation": "已拾取烟花"
+  },
+  "~ Zombies come in 15sec ~": {
+    "translation": "僵尸 15 秒传送"
+  },
+  "~ Resist 40sec ~": {
+    "translation": "防守 40 秒"
+  },
+  "~ 5sec ~": {
+    "translation": "5 秒"
+  },
+  "~ Resist ~": {
+    "translation": "防 守"
+  },
+  "~ AFK tele enable in 15sec ~": {
+    "translation": "AFK 15 秒传送"
+  },
+  "~ Glass break in 5sec ~": {
+    "translation": "玻璃 5 秒破碎"
+  },
+  "~ Zombies come in 20sec ~": {
+    "translation": "僵尸 20 秒传送"
+  },
+  "~ Start in 15sec ~": {
+    "translation": "15秒 开始"
+  },
+  "ze surf cherry blossom": {
+    "translation": "ze surf cherry blossom 樱花滑翔"
+  },
+  "Map by Chartapilus": {
+    "translation": "地图作者: Chartapilus 翻译:茜茜"
+  },
+  "Port by 三百度幸运12121": {
+    "translation": "地图移植: 三百度幸运12121"
+  },
+  "~ Last AFK tele enable in 5sec ~": {
+    "translation": "最后AFK传送 5 秒"
+  },
+  "~ Portal will open in 15sec ~": {
+    "translation": "传送门 15 秒"
+  },
+  "~ Portal are open now ~": {
+    "translation": "传送门开了"
+  },
+  "~ 50sec until ending ~": {
+    "translation": "50 秒结束"
+  },
+  "~ 20sec until ending ~": {
+    "translation": "20 秒结束"
+  },
+  "~ 10sec until ending ~": {
+    "translation": "10 秒结束"
+  },
+  "~ 30sec until ending ~": {
+    "translation": "30 秒结束"
+  },
+  "~ Zombies come in 25 ~": {
+    "translation": "僵尸 25 秒传送"
+  },
+  "~ Emergency TP enable ~": {
+    "translation": "剩余人类已传送"
+  },
+  "~ AFK tele enable in 25sec ~": {
+    "translation": "AFK 25 秒传送"
+  },
+  "~ Portal open in 15sec ~": {
+    "translation": "传送门 15 秒"
+  },
+  "~ AFK tele enable in 5sec ~": {
+    "translation": "AFK 5 秒传送"
+  },
+  "~ Portal are now open ~": {
+    "translation": "传送门开了"
+  },
+  "~ Middle top portal open in 35sec ~": {
+    "translation": "传送门中上 35 秒"
+  },
+  "~ Upper portal open in 35sec ~": {
+    "translation": "传送门上 35 秒"
+  },
+  "~ Last tele enable in 25sec ~": {
+    "translation": "最后的传送门 25 秒"
+  },
+  "~ Last tele enable ~": {
+    "translation": "最后的传送门开了"
+  },
+  "~ Glass blocking the way ~": {
+    "translation": "玻璃挡住了"
+  },
+  "~ Wait a sec ~": {
+    "translation": "等一哈"
+  },
+  "~ Afk tele enable in 10sec ~": {
+    "translation": "AFK 10 秒传送"
+  },
+  "~ Glass is now moving!! ~": {
+    "translation": "玻璃移动中"
+  },
+  "~ Watch your step!! ~": {
+    "translation": "注意脚下洞口"
+  },
+  "~ Zombie barrier enable ~": {
+    "translation": "僵尸屏障启用"
+  },
+  "~ Zombie barrier disabled ~": {
+    "translation": "僵尸屏障关闭"
+  },
+  "~ WIN ~": {
+    "translation": "~ 胜 利 ~"
+  },
+  "~ Emergency TP enabled ~": {
+    "translation": "剩余人类已传送"
+  },
+  "~ 15sec until tele ~": {
+    "translation": "传送 15 秒"
+  },
+  "!!!": {
+    "translation": "!!!"
+  },
+  "where is this?": {
+    "translation": "给我干哪来了"
+  },
+  "~ Survive 50sec ~": {
+    "translation": "生存 50 秒"
+  },
+  "~ Survive 30sec ~": {
+    "translation": "生存 30 秒"
+  },
+  "~ Survive 10sec ~": {
+    "translation": "生存 10 秒"
+  },
+  "WHAT IS THAT": {
+    "translation": "这是什么"
+  },
+  "OH SHIT!!": {
+    "translation": "天呐"
+  },
+  "Secret": {
+    "translation": "秘密"
+  },
+  "A Secret Story": {
+    "translation": "一个秘密"
+  }
+}
