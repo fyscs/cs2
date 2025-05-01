@@ -357,7 +357,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": -1
+    "requiredPlayers": 25
   },
   "ze_beyond_the_boundary": {
     "admin": false,
