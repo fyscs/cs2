@@ -23,7 +23,7 @@
     "translation": "地图状态:未设置Stripper"
   },
   "**Map Ported by Waffel. Thanks to NiceShot with helping.**": {
-    "translation": "地图由Waffel移植,感谢NiceShot的帮助 文本修改:Lia"
+    "translation": "地图由Waffel移植,感谢NiceShot的帮助 文本修改:Lia,立华游理"
   },
   "!! For better game experience, set your Graphical settings on High and Brightness 100% !!": {
     "translation": "建议更改亮度及设置高画质,以获得更好游戏体验"
@@ -167,7 +167,7 @@
     "translation": "在艾雪与侯爵交谈后我们再见"
   },
   "**A player has picked up Ultimate Blade**": {
-    "translation": "玩家已拾起 [终极之剑]（弹药）"
+    "translation": "玩家已拾起 [终极之剑](弹药)"
   },
   "**[Bash] Finally! Venat is dead! Now we can deal with Bergan!**": {
     "translation": "[维涅斯]已击败!可以继续攻击[贝甘]了"
@@ -185,7 +185,7 @@
     "translation": "[贝甘]使用了 <千根针>,蹲下!"
   },
   "**Judge Bergan is going to throw his blade! Do not stay together!**": {
-    "translation": "[贝甘]即将掷出剑刃,不要待在一起（远离人群）"
+    "translation": "[贝甘]即将掷出剑刃,不要待在一起!"
   },
   "**Judge Bergan has cased Flash of Burning Souls!**": {
     "translation": "[贝甘]使用了 <燃烧之魂>,远离中场火焰!"
@@ -413,10 +413,10 @@
     "translation": "等等!它们挡住了道路!"
   },
   "**[Bash] Adrammelech vanquished! Path is clear!**": {
-    "translation": "阿德拉梅里克败退了!道路已开放!"
+    "translation": "[愤怒の灵帝]败退了!道路已开放!"
   },
   "**[Bash] Adrammelech blocked the path! Shoot him before is too late!**": {
-    "translation": "阿德拉梅里克挡住了去路!快朝他射击!"
+    "translation": "[愤怒の灵帝]挡住了去路!快朝他射击!"
   },
   "**[Bash] The crystal has been destroyed! It takes 15 seconds to fully activate!**": {
     "translation": "水晶被毁了!还需要15秒完全激活"
@@ -487,28 +487,28 @@
   "**Judge Gabranth has casted Cruel Paralysis!**": {
     "translation": "[加布拉斯]使用了 <电闪雷鸣>"
   },
-  "**Judge Gabranth summons Esper Belias!**":{
+  "**Judge Gabranth summons Esper Belias!**": {
     "translation": "[加布拉斯]召唤了<贝利亚斯>,小心头顶火球!"
   },
-  "**Judge Gabranth summons Esper Mateus!**":{
+  "**Judge Gabranth summons Esper Mateus!**": {
     "translation": "[加布拉斯]召唤了<玛提乌斯皇帝>,释放冻天击!"
   },
-  "**Judge Gabranth summons Esper Zalera!**":{
+  "**Judge Gabranth summons Esper Zalera!**": {
     "translation": "[加布拉斯]召唤了<死亡天使>,抵抗中场的吸力!"
   },
-  "**Judge Gabranth summons Esper Ultima!**":{
+  "**Judge Gabranth summons Esper Ultima!**": {
     "translation": "[加布拉斯]召唤了<圣天使>,全体玩家血量变为100hp"
   },
-  "**Judge Gabranth summons Esper Adrammelech!**":{
+  "**Judge Gabranth summons Esper Adrammelech!**": {
     "translation": "[加布拉斯]召唤了<愤怒の灵帝>,躲避脚底X型闪电!"
   },
-  "**Judge Gabranth summons Esper Chaos!**":{
+  "**Judge Gabranth summons Esper Chaos!**": {
     "translation": "[加布拉斯]召唤了<轮回王>,抵抗中场推力!"
   },
-  "**Judge Gabranth summons Esper Zodiark!**":{
+  "**Judge Gabranth summons Esper Zodiark!**": {
     "translation": "[加布拉斯]召唤了<戒律王>,警戒周边并远离它正面!"
   },
-  "**Judge Gabranth summons Esper Exodus!**":{
+  "**Judge Gabranth summons Esper Exodus!**": {
     "translation": "[加布拉斯]召唤了<审判の灵树>,发起致盲攻击!"
   },
   "**[Vaan] Judge Gabranth has casted his final attack! Kill him quickly!**": {
@@ -657,7 +657,7 @@
     "translation": "[贝甘]召唤了 <法姆弗里特>,注意推力!"
   },
   "**Judge Bergan summons Esper Adrammelech!**": {
-    "translation": "[贝甘]召唤了 <愤怒的灵帝>,远离脚底X形特效!"
+    "translation": "[贝甘]召唤了 <愤怒の灵帝>,远离脚底X形特效!"
   },
   "**Judge Bergan summons Esper Zodiark!**": {
     "translation": "[贝甘]召唤了 <戒律王>,远离场地圆形特效!"
@@ -671,13 +671,13 @@
   "**You are too slow**": {
     "translation": "太慢了..."
   },
-  "**[Bash] Some of your items can damage the boss**":{
+  "**[Bash] Some of your items can damage the boss**": {
     "translation": "部分神器可以对boss造成伤害"
   },
-  "**Nades do more damage**":{
+  "**Nades do more damage**": {
     "translation": "丢雷可造成高额伤害!"
   },
-  "**A player has picked up Judge Zargabaath**":{
+  "**A player has picked up Judge Zargabaath**": {
     "translation": "僵尸已拾起[扎尔伽巴斯]"
   }
 }
