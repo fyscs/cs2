@@ -11,7 +11,7 @@
 
 {
   "**[Setzer] The temple is being attacked by the guardians!**": {
-    "translation": "神殿正在遭受守卫的攻击!!"
+    "translation": "神殿正在遭受帝国军的攻击!!"
   },
   "**[Setzer] We hit! We hit! We have to fly! So far you're on your own! Good luck**": {
     "translation": "被击中了!!!靠你们自己了!!祝你们好运"
@@ -23,7 +23,7 @@
     "translation": "地图状态:未设置Stripper"
   },
   "**Map Ported by Waffel. Thanks to NiceShot with helping.**": {
-    "translation": "地图由Waffel移植,感谢NiceShot的帮助 文本修改:Lia"
+    "translation": "地图由Waffel移植,感谢NiceShot的帮助 文本修改:Lia,立华游理"
   },
   "!! For better game experience, set your Graphical settings on High and Brightness 100% !!": {
     "translation": "建议更改亮度及设置高画质,以获得更好游戏体验"
@@ -167,7 +167,7 @@
     "translation": "在艾雪与侯爵交谈后我们再见"
   },
   "**A player has picked up Ultimate Blade**": {
-    "translation": "玩家已拾起 [终极之剑]"
+    "translation": "玩家已拾起 [终极之剑](弹药)"
   },
   "**[Bash] Finally! Venat is dead! Now we can deal with Bergan!**": {
     "translation": "[维涅斯]已击败!可以继续攻击[贝甘]了"
@@ -182,22 +182,22 @@
     "translation": "又来...快朝他射击否则它会一直跟着我们"
   },
   "**Judge Bergan has casted 1000 Needles!**": {
-    "translation": "[贝甘]使用了 <千根针>"
+    "translation": "[贝甘]使用了 <千根针>,蹲下!"
   },
   "**Judge Bergan is going to throw his blade! Do not stay together!**": {
-    "translation": "[贝甘]即将掷出剑刃,不要待在一起"
+    "translation": "[贝甘]即将掷出剑刃,不要待在一起!"
   },
   "**Judge Bergan has cased Flash of Burning Souls!**": {
-    "translation": "[贝甘]使用了 <燃烧之魂>--远离中场火焰!"
+    "translation": "[贝甘]使用了 <燃烧之魂>,远离中场火焰!"
   },
   "**Judge Bergan has casted Dedication Aura!**": {
-    "translation": "[贝甘]使用了 <献祭之光>--反伤!"
+    "translation": "[贝甘]使用了 <献祭之光>,停止射击"
   },
   "**Judge Bergan has casted Rage of Magic!**": {
-    "translation": "[贝甘]使用了 <魔力爆散>"
+    "translation": "[贝甘]使用了 <魔力爆散>,将在下个技能出现时秒杀中场玩家"
   },
   "**Judge Bergan has casted Aura of Water!**": {
-    "translation": "[贝甘]使用了 <水华>--抵抗前风!"
+    "translation": "[贝甘]使用了 <水华>,按W键抵抗!"
   },
   "**Judge Bergan has casted Flash of Shattering!**": {
     "translation": "[贝甘]使用了 <闪耀破碎>"
@@ -209,13 +209,13 @@
     "translation": "[贝甘]使用了 <霜寒爆裂>"
   },
   "**Judge Bergan has casted Gift of Plagues!**": {
-    "translation": "[贝甘]使用了 <瘟疫蔓延>"
+    "translation": "[贝甘]使用了 <瘟疫蔓延>,站在中场!"
   },
   "**Judge Bergan has casted Soul Siphon!**": {
-    "translation": "[贝甘]使用了 <灵魂虹吸>--头顶火球!"
+    "translation": "[贝甘]使用了 <灵魂虹吸>,远离头顶火球"
   },
   "**Judge Bergan has casted Tranquility Wave!**": {
-    "translation": "[贝甘]使用了 <静爆>--抵抗后风!"
+    "translation": "[贝甘]使用了 <静爆>,按S键抵抗!"
   },
   "**[Bash] Well done! You interrupted the attack and now you may attack Judge Berga**": {
     "translation": "好!你中断了它的攻击,现在可以继续了"
@@ -239,7 +239,7 @@
     "translation": "僵尸已拾起 [多雷斯]"
   },
   "**[Bash] The Imperial Army has blocked the entrance! We must defeat them before it is too late!**": {
-    "translation": "皇家军队封锁了入口!我们必须尽快击败他们"
+    "translation": "帝国军队封锁了入口!我们必须尽快击败他们"
   },
   "**[Bash] Well done! The Path is clear! RUN!**": {
     "translation": "道路已通,快跑!"
@@ -248,13 +248,13 @@
     "translation": "坚持17秒!"
   },
   "**The Adrammelech has vanquished!**": {
-    "translation": "[阿德拉梅里克]已败退!"
+    "translation": "[愤怒の灵帝]已败退!"
   },
   "**[Bash] Don't let zombies cross the bridge! Its last hold defend until something happen!": {
     "translation": "不要让僵尸过桥!保持防守!"
   },
   "**[Bash] It's the Adrammelech Shoot before it's too late!**": {
-    "translation": "是[阿德拉梅里克],快射击!!"
+    "translation": "是[愤怒の灵帝],快射击!!"
   },
   "**A player has picked up Limit Break Magick**": {
     "translation": "玩家已拾起 [超越极限]"
@@ -263,7 +263,7 @@
     "translation": "主引擎就要爆炸了!抓稳了!"
   },
   "**You have beaten Mt Bur Omisace! Congratulations! **": {
-    "translation": "<< 你通关了神都奥米尔赛斯!祝贺你们! <<"
+    "translation": "你通关了神都奥米尔赛斯!恭喜你们!已经是合格的神人啦!"
   },
   "**Nades do more damage**": {
     "translation": "[手雷]可以造成更多伤害!"
@@ -320,7 +320,7 @@
     "translation": "飞船会带我们去那里,大概还要35秒"
   },
   "**[Bash] Look out! The Imperial Army is attacking!!**": {
-    "translation": "当心!皇家军队正在发动攻击!!"
+    "translation": "当心!帝国军队正在发动攻击!!"
   },
   "**[Bash] We must hurry before they destroy the whole temple!**": {
     "translation": "在神殿被摧毁前我们得快点"
@@ -359,28 +359,28 @@
     "translation": "玩家拾起了 [流沙魔法]"
   },
   "**A player has picked up Fear Magick**": {
-    "translation": "僵尸拾起了 [恐惧魔法]"
+    "translation": "僵尸拾起了 [恐惧魔法](减速)"
   },
   "**A player has picked up Dragon Whisker**": {
-    "translation": "玩家拾起了 [龙须]"
+    "translation": "玩家拾起了 [龙须](火球)"
   },
   "**A player has picked up Cortahombres**": {
-    "translation": "玩家拾起了 [减速]"
+    "translation": "玩家拾起了 [斩男](减速)"
   },
   "**A player has picked up Empyrean Rod**": {
-    "translation": "玩家拾起了 [崇高权杖]"
+    "translation": "玩家拾起了 [崇高权杖](免抓)"
   },
   "**A player has picked up Fire Magick**": {
     "translation": "玩家拾起了 [火焰魔法]"
   },
   "**A player has picked up Loxley Bow**": {
-    "translation": "玩家拾起了 [短弓]"
+    "translation": "玩家拾起了 [短弓](减速)"
   },
   "**A player has picked up Crystal Shield**": {
     "translation": "玩家拾起了 [水晶之盾]"
   },
   "**A player has picked up Damage Magick**": {
-    "translation": "玩家拾起了 [伤害魔法]"
+    "translation": "玩家拾起了 [秒杀魔法]"
   },
   "**[Bash] We shouldn't have come in here. Let's get out of here while we still can!**": {
     "translation": "我们不应该到这来,趁着还有机会赶紧离开这里!"
@@ -413,10 +413,10 @@
     "translation": "等等!它们挡住了道路!"
   },
   "**[Bash] Adrammelech vanquished! Path is clear!**": {
-    "translation": "阿德拉梅里克败退了!道路已开放!"
+    "translation": "[愤怒の灵帝]败退了!道路已开放!"
   },
   "**[Bash] Adrammelech blocked the path! Shoot him before is too late!**": {
-    "translation": "阿德拉梅里克挡住了去路!快朝他射击!"
+    "translation": "[愤怒の灵帝]挡住了去路!快朝他射击!"
   },
   "**[Bash] The crystal has been destroyed! It takes 15 seconds to fully activate!**": {
     "translation": "水晶被毁了!还需要15秒完全激活"
@@ -458,34 +458,58 @@
     "translation": "[加布拉斯]使用了 <暗影突击>"
   },
   "**Judge Gabranth has casted Fury of Courage!**": {
-    "translation": "[加布拉斯]使用了 <暴怒>"
+    "translation": "[加布拉斯]使用了 <暴怒>,提高自身移速!"
   },
   "**Judge Gabranth has casted Voidness Bolt!**": {
-    "translation": "[加布拉斯]使用了 <虚空电闪>--注意脚底!"
+    "translation": "[加布拉斯]使用了 <虚空电闪>,躲避脚底特效!"
   },
   "**Judge Gabranth has casted Frost Bolt!**": {
     "translation": "[加布拉斯]使用了 <霜寒闪电>"
   },
   "**Judge Gabranth has casted Spell of Sustenance!**": {
-    "translation": "[加布拉斯]使用了 <支援>"
+    "translation": "[加布拉斯]使用了 <寄托之咒>"
   },
   "**Judge Gabranth has casted Armageddon!**": {
-    "translation": "[加布拉斯]使用了 <末日审判>"
+    "translation": "[加布拉斯]使用了 <末日审判> (holy!远离中间!)"
   },
   "**Judge Gabranth has casted Barrier of Voidness!**": {
-    "translation": "[加布拉斯]使用了 <虚无边际>"
+    "translation": "[加布拉斯]使用了 <虚无边际> (无敌阶段,更换子弹!)"
   },
   "**Judge Gabranth has casted Ferocity of Darkness!**": {
     "translation": "[加布拉斯]使用了 <黑暗凶暴>"
   },
   "**Judge Gabranth has casted Past Heroism!**": {
-    "translation": "[加布拉斯]使用了 <英雄末路>"
+    "translation": "[加布拉斯]使用了 <英雄末路>,恢复了自己的血量"
   },
   "**Judge Gabranth has casted Melt Skulls!**": {
-    "translation": "[加布拉斯]使用了 <头骨融化>"
+    "translation": "[加布拉斯]使用了 <头骨融化>,将释放正面激光!"
   },
   "**Judge Gabranth has casted Cruel Paralysis!**": {
     "translation": "[加布拉斯]使用了 <电闪雷鸣>"
+  },
+  "**Judge Gabranth summons Esper Belias!**": {
+    "translation": "[加布拉斯]召唤了<贝利亚斯>,小心头顶火球!"
+  },
+  "**Judge Gabranth summons Esper Mateus!**": {
+    "translation": "[加布拉斯]召唤了<玛提乌斯皇帝>,释放冻天击!"
+  },
+  "**Judge Gabranth summons Esper Zalera!**": {
+    "translation": "[加布拉斯]召唤了<死亡天使>,抵抗中场的吸力!"
+  },
+  "**Judge Gabranth summons Esper Ultima!**": {
+    "translation": "[加布拉斯]召唤了<圣天使>,全体玩家血量变为100hp"
+  },
+  "**Judge Gabranth summons Esper Adrammelech!**": {
+    "translation": "[加布拉斯]召唤了<愤怒の灵帝>,躲避脚底X型闪电!"
+  },
+  "**Judge Gabranth summons Esper Chaos!**": {
+    "translation": "[加布拉斯]召唤了<轮回王>,抵抗中场推力!"
+  },
+  "**Judge Gabranth summons Esper Zodiark!**": {
+    "translation": "[加布拉斯]召唤了<戒律王>,警戒周边并远离它正面!"
+  },
+  "**Judge Gabranth summons Esper Exodus!**": {
+    "translation": "[加布拉斯]召唤了<审判の灵树>,发起致盲攻击!"
   },
   "**[Vaan] Judge Gabranth has casted his final attack! Kill him quickly!**": {
     "translation": "[加布拉斯]使用了 <最终攻击>!快点!!!"
@@ -503,40 +527,40 @@
     "translation": "门还有8秒打开!"
   },
   "**Sanctuary Keeper has casted Interruption Seal!**": {
-    "translation": "神殿守卫使用了<封印终止>"
+    "translation": "神殿守卫使用了<封印终止>,远离boss正面!"
   },
   "**Sanctuary Keeper has casted Shadow Blast!**": {
-    "translation": "神殿守卫使用了<暗影爆发>"
+    "translation": "神殿守卫使用了<暗影爆发>,小心脚下特效!"
   },
   "**Sanctuary Keeper has casted Mind Tempest!**": {
-    "translation": "神殿守卫使用了<心灵风暴>"
+    "translation": "神殿守卫使用了<心灵风暴>,远离外场的电场!"
   },
   "**Sanctuary Keeper has casted Solar Orb!**": {
-    "translation": "神殿守卫使用了<烈焰法球>"
+    "translation": "神殿守卫使用了<烈焰法球>,远离中场的火焰!"
   },
   "**Sanctuary Keeper has casted Carnage of Phantoms!**": {
-    "translation": "神殿守卫使用了<幻影爆散>--抵抗后风!"
+    "translation": "神殿守卫使用了<幻影爆散>,按S键抵抗!"
   },
   "**Sanctuary Keeper has casted Wave of Redemption!**": {
     "translation": "神殿守卫使用了<救赎波涛>"
   },
   "**Press all statues to interrupt the attack**": {
-    "translation": "触发所有[雕像]以中断攻击"
+    "translation": "按下所有[雕像]以中断攻击"
   },
   "**Get out of the middle now!**": {
     "translation": ">> 快离开中间 >>"
   },
   "**Sanctuary Keeper has casted Annihilate!**": {
-    "translation": "神殿守卫使用了<湮灭>--将释放全屏秒杀!"
+    "translation": "神殿守卫使用了<湮灭>,将释放全屏秒杀!"
   },
   "**Get to the teleport to to avoid death!**": {
-    "translation": "神殿守卫使用了<无效>"
+    "translation": "神殿守卫使用了<无效>,神器将暂时禁用!"
   },
   "**Sanctuary Keeper has casted Wind Rage!**": {
-    "translation": "神殿守卫使用了<风怒>--抵抗前风!"
+    "translation": "神殿守卫使用了<风怒>,按W抵抗风力!"
   },
   "**Sanctuary Keeper has casted Flare of Freezing!**": {
-    "translation": "神殿守卫使用了<急冻>"
+    "translation": "神殿守卫使用了<急冻>,远离人群!"
   },
   "[Bash] Hurry up! Sanctuary Keeper power up his abilities!**": {
     "translation": "快点!神殿守卫正在蓄力!"
@@ -572,7 +596,7 @@
     "translation": "传送还有28秒开启"
   },
   "**[Bash] Imperial Army trying to block the temple!**": {
-    "translation": "皇家军队正在全力封锁神殿!"
+    "translation": "帝国军队正在全力封锁神殿!"
   },
   "**[Vaan] Look! There is clean path! Keep running!**": {
     "translation": "是通路!继续跑!"
@@ -581,13 +605,13 @@
     "translation": "我们得在主门崩塌之前离开这里"
   },
   "**[Bash] The Imperial Army set fire to the temples!**": {
-    "translation": "皇家军队放火烧了神殿!"
+    "translation": "帝国军队放火烧了神殿!"
   },
   "**A player has picked up Cure Magick**": {
     "translation": "玩家已拾起 [治疗魔法]"
   },
   "**Judge Bergan has casted Spell of Demon Fire!**": {
-    "translation": "[贝甘]使用了 <恶魔之火>"
+    "translation": "[贝甘]使用了 <恶魔之火>,远离场地中间的火环!"
   },
   "**Judge Bergan has casted Illusion of Souls!**": {
     "translation": "[贝甘]使用了 <灵魂幻影>"
@@ -596,16 +620,17 @@
     "translation": "[贝甘]使用了 <霜寒闪电>"
   },
   "**Judge Bergan has casted Wind Salvo!**": {
-    "translation": "[贝甘]使用了 <暴风齐流>"
+    "translation": "[贝甘]使用了 <暴风齐流>,不要被贝甘推下去!"
   },
   "**Judge Bergan has casted Blazing Surge!**": {
-    "translation": "[贝甘]使用了 <炽流奔涌>"
+    "translation": "[贝甘]使用了 <炽流奔涌>,小心他身上的火焰!"
   },
   "**Judge Bergan has casted Severance of the Arcane!**": {
-    "translation": "[贝甘]使用了 <奥数驱散>"
+    "translation": "[贝甘]使用了 <奥数驱散>,到中间集合!"
   },
   "**[Bash] Don't stay on sides! Get to the middle now!**": {
-    "translation": "不要站边上!快到中间来!"
+    "translation": "不要站边上!快到中间来!",
+    "blocked": true
   },
   "**[Bash] Juge Bergan has summoned Venat! Kill him before is too late**": {
     "translation": "[贝甘]召唤了 <维涅斯>,在一切结束之前杀掉它!!"
@@ -617,7 +642,7 @@
     "translation": ">> 不要相信任何人! >>"
   },
   "**[Balthier] Anyway we need to get out of here! Imperial reinforcements incoming!**": {
-    "translation": "不管怎么样我们得离开这里!军团增援就要来了"
+    "translation": "不管怎么样我们得离开这里!帝国增援就要来了"
   },
   "**[Balthier] He set his very bones about with manufacted nethicite**": {
     "translation": "他把全身的骨头都换成了破魔石"
@@ -626,24 +651,33 @@
     "translation": "[贝甘]使用了魔石!我们必须杀掉他!"
   },
   "**Judge Bergan summons Esper Chaos!**": {
-    "translation": "[贝甘]召唤了 <轮回王>"
+    "translation": "[贝甘]召唤了 <轮回王>,小心落雷!"
   },
   "**Judge Bergan summons Esper Famfirt!**": {
-    "translation": "[贝甘]召唤了 <法姆弗里特>"
+    "translation": "[贝甘]召唤了 <法姆弗里特>,注意推力!"
   },
   "**Judge Bergan summons Esper Adrammelech!**": {
-    "translation": "[贝甘]召唤了 <阿德拉梅里克>"
+    "translation": "[贝甘]召唤了 <愤怒の灵帝>,远离脚底X形特效!"
   },
   "**Judge Bergan summons Esper Zodiark!**": {
-    "translation": "[贝甘]召唤了 <佐迪亚克>"
+    "translation": "[贝甘]召唤了 <戒律王>,远离场地圆形特效!"
   },
   "**Judge Bergan summons Esper Shemhazai!**": {
-    "translation": "[贝甘]召唤了 <谢米哈扎>"
+    "translation": "[贝甘]召唤了 <密告者>,全员点名,远离脚底特效!"
   },
   "**Judge Bergan summons Esper Ultima!**": {
-    "translation": "[贝甘]召唤了 <阿尔蒂玛>--全体100hp"
+    "translation": "[贝甘]召唤了 <圣天使>,全体玩家血量变为100hp"
   },
   "**You are too slow**": {
     "translation": "太慢了..."
+  },
+  "**[Bash] Some of your items can damage the boss**": {
+    "translation": "部分神器可以对boss造成伤害"
+  },
+  "**Nades do more damage**": {
+    "translation": "丢雷可造成高额伤害!"
+  },
+  "**A player has picked up Judge Zargabaath**": {
+    "translation": "僵尸已拾起[扎尔伽巴斯]"
   }
 }
