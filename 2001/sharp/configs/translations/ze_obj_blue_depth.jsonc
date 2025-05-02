@@ -292,11 +292,11 @@
   },
   ">>坚守100s<<": {
     "translation": ">>坚守100s<<",
-    "countdown": 100
+    "blocked": true
   },
   ">>坚守30s<<": {
     "translation": ">>坚守30s<<",
-    "blocked": true
+    "countdown": 30
   },
   ">>坚守10s<<": {
     "translation": ">>坚守10s<<",
