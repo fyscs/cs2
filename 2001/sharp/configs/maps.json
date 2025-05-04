@@ -1592,6 +1592,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_incident_seasons": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
   "ze_industrial_dejavu": {
     "admin": false,
     "certainTimes": [-1],
