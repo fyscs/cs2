@@ -1,0 +1,118 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>>The bridge will be activated in 20 seconds!<<<": {
+    "translation": ">>>大桥在20秒后激活!<<<"
+  },
+  ">>>10 seconds left!<<<": {
+    "translation": ">>>还剩10秒!<<<"
+  },
+  ">>>Lowing the bridge,GO!<<<": {
+    "translation": ">>>大桥已降下,快撤!<<<"
+  },
+  ">>>Zombies trapped for 10 seconds!<<<": {
+    "translation": ">>>僵尸会被困住10秒<<<"
+  },
+  ">>>Door opening<<<": {
+    "translation": ">>>门正在打开<<<"
+  },
+  ">>>Please wait<<<": {
+    "translation": ">>>先等等<<<"
+  },
+  ">>>This door is moving VERY SLOWLY<<<": {
+    "translation": ">>>这扇门开得特别慢<<<"
+  },
+  ">>>Thanks for your patience<<<": {
+    "translation": ">>>谢谢你的耐心<<<"
+  },
+  ">>>Door now is fully opened<<<": {
+    "translation": ">>>门已完全打开<<<"
+  },
+  ">>>Door open in 40 seconds<<<": {
+    "translation": ">>>门将在40秒后打开<<<"
+  },
+  ">>>10 Seconds left<<<": {
+    "translation": ">>>还剩10秒<<<"
+  },
+  ">>>Exit is open!<<<": {
+    "translation": ">>>出口打开了<<<"
+  },
+  ">>>Zombies trapped for 20 seconds<<<": {
+    "translation": ">>>僵尸会被困住20秒<<<"
+  },
+  ">>>AFK teleport in 20s<<<": {
+    "translation": ">>>20秒后传送僵尸<<<"
+  },
+  ">>>Door B fatal ERROR detected<<<": {
+    "translation": ">>>检测到B门有致命错误<<<"
+  },
+  ">>>Def!!!!<<<": {
+    "translation": ">>>防守!!!<<<"
+  },
+  ">>>Teleport initializing<<<": {
+    "translation": ">>>初始化传送器<<<"
+  },
+  ">>>PLease Stand By<<<": {
+    "translation": ">>>请稍等<<<"
+  },
+  ">>>10%<<<": {
+    "translation": ">>>10%<<<"
+  },
+  ">>>50%<<<": {
+    "translation": ">>>50%<<<"
+  },
+  ">>>90%<<<": {
+    "translation": ">>>90%<<<"
+  },
+  ">>>Teleport is Online<<<": {
+    "translation": ">>>传送器已激活<<<"
+  },
+  ">>>Get in the Teleport!!!!<<<": {
+    "translation": ">>>进入传送器!!!!<<<"
+  },
+  ">>>Door A Losing power!!!<<<": {
+    "translation": ">>>A门断电了<<<"
+  },
+  ">>>WATCH OUT<<<": {
+    "translation": ">>>小心<<<"
+  },
+  ">>>Door close in 3s<<<": {
+    "translation": ">>>门在3秒后打开<<<"
+  },
+  "---Map made by Jeff---": {
+    "translation": "**地图作者:Jeff 汉化:礼绮罗Reikira**"
+  },
+  "---Have Fun!---": {
+    "translation": "玩得开心!"
+  },
+  "---Special Thank To:HZM654321 and JackBauer123---": {
+    "translation": "**特别感谢:HZM654321 & JackBauer123**"
+  },
+  ">>>Now get in the tunnel!<<<": {
+    "translation": ">>>现在进入隧道!<<<"
+  },
+  ">>>And def the path for 20 seconds<<<": {
+    "translation": ">>>坚守道路20秒<<<"
+  },
+  ">>>Door has opened,GOGOGO<<<": {
+    "translation": ">>>门已经打开了,快走!<<<"
+  },
+  ">>>Gate will open in 40 seconds!<<<": {
+    "translation": ">>>门将在40秒后打开!<<<"
+  },
+  ">>>Door has opened,RUUUUUUNNN<<<": {
+    "translation": ">>>门已经打开了,快跑跑跑!!<<<"
+  },
+  ">>>Now hold these bridges!<<<": {
+    "translation": ">>>守住这些桥!!!<<<"
+  }
+}
