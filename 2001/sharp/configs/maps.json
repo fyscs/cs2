@@ -2834,6 +2834,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_rainbow_factory": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_raintime2_stormwindkeep_v3": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
