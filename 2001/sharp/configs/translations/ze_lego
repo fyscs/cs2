@@ -1,0 +1,64 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "| 20 |": {
+    "translation": "< 20s >"
+  },
+  "| 15 |": {
+    "translation": "< 15s >"
+  },
+  "| 10 |": {
+    "translation": "< 10s >"
+  },
+  "| 5 |": {
+    "translation": "< 5s >"
+  },
+  "| 25 |": {
+    "translation": "< 25s >"
+  },
+  "| CHECKPOINT REACHED |": {
+    "translation": "< 更新检查点 >"
+  },
+  "| PRO MODE VOTED |": {
+    "translation": "< PRO模式投票成功 >"
+  },
+  "| RESTARTING ROUND |": {
+    "translation": "< 重启回合 >"
+  },
+  "| EXTREME MODE VOTED |": {
+    "translation": "< EX模式投票成功 >"
+  },
+  "| RANDOM DOOR OPENING SOON.. |": {
+    "translation": "< 随机门正在开启中.. >"
+  },
+  "| GG |": {
+    "translation": "< GG >"
+  },
+  "| NORMAL MODE |": {
+    "translation": "< 普通模式 >"
+  },
+  "| RESTARTING ROUND.. |": {
+    "translation": "< 重启回合中.. >"
+  },
+  "| PRO MODE |": {
+    "translation": "< PRO模式 >"
+  },
+  "| EXTREME MODE |": {
+    "translation": "< EX模式 >"
+  },
+  "| 30 |": {
+    "translation": "< 30s >"
+  },
+  "| SPECIAL THANKS TO ANTOSHA & TONY |": {
+    "translation": "< 十分感谢 ANTOSHA & TONY >"
+  }
+}
