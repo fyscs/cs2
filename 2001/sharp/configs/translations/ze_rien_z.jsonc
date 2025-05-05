@@ -1,0 +1,129 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***you find Monitors***": {
+    "translation": "***你找到了监视器***"
+  },
+  "***20sec***": {
+    "translation": "***20秒***"
+  },
+  "***40sec***": {
+    "translation": "***40秒***"
+  },
+  "Fall": {
+    "translation": "坠下"
+  },
+  "<<The administrator selected the first level>>": {
+    "translation": "<<管理员选择了第一关>>"
+  },
+  "<<The administrator chose the second level>>": {
+    "translation": "<<管理员选择了第二关>>"
+  },
+  "<<The administrator chose the third level>>": {
+    "translation": "<<管理员选择了第三关>>"
+  },
+  "<<The administrator chose the fourth level>>": {
+    "translation": "<<管理员选择了第四关>>"
+  },
+  "<<The administrator selected the RTV level>>": {
+    "translation": "<<管理员选择了第RTV关>>"
+  },
+  "<<The administrator selected the fake ending level>>": {
+    "translation": "<<管理员选择了假结局>>"
+  },
+  "<<暂时禁用RTV关与真结局>>": {
+    "translation": "<<暂时禁用RTV关与真结局>>"
+  },
+  "<<STAGE:Black Core>>": {
+    "translation": "<<关卡- Black Core>>"
+  },
+  "<<STAGE:Rien>>": {
+    "translation": "<<关卡- Rien>>"
+  },
+  "<<STAGE:RTV>>": {
+    "translation": "<<关卡- RTV>>"
+  },
+  "<<STAGE:Eden>>": {
+    "translation": "<<关卡- Eden>>"
+  },
+  "<<This round will be reset in one second>>": {
+    "translation": "<<即将重置回合>>"
+  },
+  "<<STAGE:Prologue>>": {
+    "translation": "<<关卡- Prologue>>"
+  },
+  "<<当前版本号码为002>>": {
+    "translation": "<<当前版本号码为002>>",
+    "blocked": true
+  },
+  "<<BUG反馈请前往Dc频道>>": {
+    "translation": "<<BUG反馈请前往Dc频道>>",
+    "blocked": true
+  },
+  "<<discord.gg/eXR7xumCfP>>": {
+    "translation": "<<discord.gg/eXR7xumCfP>>",
+    "blocked": true
+  },
+  "<<或前往Z Port Steam组简介中获取更多反馈方式>>": {
+    "translation": "<<或前往Z Port Steam组简介中获取更多反馈方式>>",
+    "blocked": true
+  },
+  "<<steamcommunity.com/groups/ZeroPort>>": {
+    "translation": "<<steamcommunity.com/groups/ZeroPort>>",
+    "blocked": true
+  },
+  "<<STAGE:White core>>": {
+    "translation": "<<关卡- White core>>"
+  },
+  "***25sec***": {
+    "translation": "***25秒***"
+  },
+  "***they are watching us...***": {
+    "translation": "***它们注视着我们...***"
+  },
+  "***Find the s!@#$t (0/3)***": {
+    "translation": "***快去寻找...***"
+  },
+  "***10sec***": {
+    "translation": "***10秒***"
+  },
+  "***You Escaped***": {
+    "translation": "***你成功了***"
+  },
+  "***But the truth still in the Abyes***": {
+    "translation": "***真实仍掩埋在深渊之中***"
+  },
+  "***60sec***": {
+    "translation": "***60秒***"
+  },
+  "***35sec***": {
+    "translation": "***35秒***"
+  },
+  "***30sec***": {
+    "translation": "***30秒***"
+  },
+  "***15sec***": {
+    "translation": "***15秒***"
+  },
+  "***45sec***": {
+    "translation": "***45秒***"
+  },
+  "** There's zombies at the end. Clean them up! **": {
+    "translation": "** 清理掉所有的敌人!**"
+  },
+  "***The last 20 seconds***": {
+    "translation": "***最后20秒***"
+  },
+  "***No human was detected. The zombies won***": {
+    "translation": "***僵尸胜利***"
+  }
+}
