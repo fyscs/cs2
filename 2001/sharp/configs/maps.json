@@ -1745,7 +1745,7 @@
     "requiredOnline": -1,
     "requiredPlayers": 45
   },
-   "ze_lab": {
+   "ze_lab_cs2_l": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 60,
