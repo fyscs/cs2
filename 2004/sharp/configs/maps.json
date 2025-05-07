@@ -207,7 +207,7 @@
     "requiredPlayers": -1
   },
   "mg_skeet_multigames_v7": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
     "nomination": false,
