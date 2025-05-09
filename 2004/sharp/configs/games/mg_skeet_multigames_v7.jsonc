@@ -20,7 +20,7 @@
 
 [
   {
-    "id": "2:26532",
+    "id": "1567",
     "cd": 240,
     "mode": 0,
     "name": "环形加速道",
@@ -28,39 +28,39 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:26530",
+    "id": "1565",
     "cd": 240,
     "mode": 9,
-    "name": "打鸭子",
+    "name": "打狙潜艇",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "2:26528",
+    "id": "1563",
     "cd": 240,
     "mode": 0,
-    "name": "AWP",
+    "name": "大狙战",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "2:26526",
+    "id": "1561",
     "cd": 240,
     "mode": 0,
-    "name": "爆头沙鹰",
+    "name": "爆头沙鹰战",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "2:26578",
+    "id": "1613",
     "cd": 300,
-    "mode": 5,
-    "name": "bhop",
+    "mode": 0,
+    "name": "过关升级枪械",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "2:26568",
+    "id": "1603",
     "cd": 240,
     "mode": 9,
     "name": "打飞碟",
@@ -68,7 +68,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:26566",
+    "id": "1601",
     "cd": 240,
     "mode": 0,
     "name": "霰弹加农炮",
@@ -76,7 +76,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:26564",
+    "id": "1599",
     "cd": 240,
     "mode": 3,
     "name": "电击枪",
@@ -84,18 +84,18 @@
     "event": "OnPressed"
   },
   {
-    "id": "2:26562",
+    "id": "1597",
     "cd": 240,
-    "mode": 5,
-    "name": "Slide",
+    "mode": 0,
+    "name": "滑道对枪",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "2:25908",
+    "id": "1123",
     "cd": 240,
     "mode": 2,
-    "name": "刀战",
+    "name": "1v1刀战",
     "class": "func_button",
     "event": "OnPressed"
   }
