@@ -2907,9 +2907,9 @@
     "requiredPlayers": 45
   },
   "ze_rooftop_madness_p": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
-    "cooldown": 120,
+    "cooldown": 140,
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
