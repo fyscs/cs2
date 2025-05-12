@@ -14,7 +14,7 @@
     "translation": "23:08PM,阿尔法基地外,任务:与Redemption小队一起进入阿尔法基地,营救幸存者."
   },
   "总部：Eclipsis小队，你们将从阿尔法基地的 01 号设施潜入，搜索 01 号设施的所有幸存者.": {
-    "translation": "总部:Eclipsis小队,你们将从阿尔法基地的01号设施潜入，搜索01号设施的所有幸存者."
+    "translation": "总部:Eclipsis小队,你们将从阿尔法基地的01号设施潜入,搜索01号设施的所有幸存者."
   },
   "指挥官：收到.": {
     "translation": "指挥官:收到."
@@ -35,23 +35,23 @@
     "translation": "大门动了"
   },
   "给我五十秒把梯子放下来": {
-    "translation": "给我50秒把梯子放下来",
-		"countdown": 50
+    "translation": "给我50秒把梯子放下来"
+    "countdown": 50
   },
   "前面的大门关了，可能是电力问题，看来我们只能从这里进去了，给我20秒打开这扇门": {
     "translation": "给我20秒打开这扇门",
-		"countdown": 20
+    "countdown": 20
   },
   "进入主控室的路被挡住了，给我30秒推开这个柜子": {
     "translation": "进入主控室的路被挡住了,给我30秒推开这个柜子",
-		"countdown": 30
+    "countdown": 30
   },
   "看来我们只能从这边进入了": {
     "translation": "看来我们只能从这边进入了"
   },
   "我们需要坚持40秒钟！": {
     "translation": "我们需要坚持40秒钟!",
-		"countdown": 40
+    "countdown": 40
   },
   "小心两边的门": {
     "translation": "小心两边的门"
@@ -61,11 +61,11 @@
   },
   "找到一把锯子，给我30秒锯开他": {
     "translation": "给我30秒锯开他",
-		"countdown": 30
+    "countdown": 30
   },
   "坚持30秒钟": {
     "translation": "坚持30秒钟",
-		"countdown": 30
+    "countdown": 30
   },
   "另一个电梯上来了？": {
     "translation": "另一个电梯上来了?"
@@ -75,11 +75,11 @@
   },
   "给我10秒钟打开电梯门": {
     "translation": "给我10秒钟打开电梯门",
-		"countdown": 10
+    "countdown": 10
   },
   "电流需要50秒时间关闭": {
     "translation": "电流需要50秒时间关闭",
-		"countdown": 50
+    "countdown": 50
   },
   "另一扇门打开了！": {
     "translation": "另一扇门打开了!"
@@ -92,7 +92,7 @@
   },
   "坚持35秒！": {
     "translation": "坚持35秒!",
-		"countdown": 35
+    "countdown": 35
   },
   "刚刚餐厅的门开了！": {
     "translation": "刚刚餐厅的门开了!"
@@ -117,18 +117,18 @@
   },
   "坚持35秒钟！我们就能到达辐射区！": {
     "translation": "坚持35秒钟!我们就能到达辐射区!",
-		"countdown": 35
+    "countdown": 35
   },
   "这里是…辐射区，我可不想下去游泳，把电源打开，等底下的桥升起来！": {
     "translation": "这里是..辐射区,我可不想下去游泳,把电源打开,等底下的桥升起来!"
   },
   "第一座大桥需要20秒钟升起来！守住，战士们!": {
     "translation": "第一座大桥需要20秒钟升起来!",
-		"countdown": 20
+    "countdown": 20
   },
   "需要坚持40秒钟等上面的门和下面的爆炸桶一起打开": {
     "translation": "需要坚持40秒钟",
-		"countdown": 40
+    "countdown": 40
   },
   "刚刚的门打开了？": {
     "translation": "刚刚的门打开了?"
@@ -141,7 +141,7 @@
   },
   "15秒钟门就会开": {
     "translation": "15秒钟门就会开",
-		"countdown": 15
+    "countdown": 15
   },
   "按下右边的按钮！": {
     "translation": "按下右边的按钮!"
@@ -169,11 +169,11 @@
   },
   "再坚持25秒钟！": {
     "translation": "再坚持25秒钟!",
-		"countdown": 25
+    "countdown": 25
   },
   "坚持35秒钟！": {
     "translation": "坚持35秒钟!",
-		"countdown": 35
+    "countdown": 35
   },
   "僵尸从另一侧发起了攻击！": {
     "translation": "僵尸从另一侧发起了攻击!"
@@ -183,7 +183,7 @@
   },
   "二楼的门还有20秒打开！": {
     "translation": "二楼的门还有20秒打开!",
-		"countdown": 20
+    "countdown": 20
   },
   "下面的门被锁住了！打掉电箱！": {
     "translation": "下面的门被锁住了!打掉电箱!"
@@ -199,14 +199,14 @@
   },
   "坚持50秒钟！战士们！这是最后的决战！": {
     "translation": "坚持50秒钟!",
-		"countdown": 50
+    "countdown": 50
   },
   "等推车把障碍物推上去和二楼的人一起撤离！": {
     "translation": "等推车把障碍物推上去和二楼的人一起撤离!"
   },
   "再坚持20秒钟！": {
     "translation": "再坚持20秒钟!",
-		"countdown": 20
+    "countdown": 20
   },
   "另一侧也来了！": {
     "translation": "另一侧也来了!"
@@ -224,15 +224,15 @@
     "translation": "Redemption,坚持住!我们马上到!"
   },
   "赶紧上飞机！飞机还有10秒钟起飞！": {
-    "translation": "赶紧上飞机！飞机还有10秒钟起飞！",
-		"countdown": 10
+    "translation": "赶紧上飞机!飞机还有10秒钟起飞!",
+    "countdown": 10
   },
   "我得炸开他": {
     "translation": "我得炸开他"
   },
   "给我35秒钟炸开他": {
     "translation": "给我35秒钟炸开他",
-		"countdown": 10
+    "countdown": 10
   },
   "这里有电！": {
     "translation": "这里有电!"
