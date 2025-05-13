@@ -710,6 +710,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_deathinvain_palace": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 140,
+    "nomination": true,
+    "price": 550,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_deepice_p": {
     "admin": false,
     "certainTimes": [-1],
