@@ -1,0 +1,256 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "-=[ Hold for 30 seconds ]=-": {
+    "translation": "防守 30 秒"
+  },
+  "-=[ The catapult is coming!!! ]=-": {
+    "translation": "投石车来咯"
+  },
+  "-=[ Shoot the ladders down ]=-": {
+    "translation": "破坏梯子"
+  },
+  "-=[ The main gates are under attack ]=-": {
+    "translation": "主城门正在被攻击"
+  },
+  "-=[ The main gates have been penetrated ]=-": {
+    "translation": "主城门已被攻破"
+  },
+  "-=[ Finishing Game :: < 2 ]=-": {
+    "translation": "游戏结束: < 2"
+  },
+  "-=[ Finishing Game :: == 2 ]=-": {
+    "translation": "游戏结束: == 2"
+  },
+  "-=[ Survive until next ratio mode ]=-": {
+    "translation": "存活至下一个模式"
+  },
+  "-=[ Starting game: Murder in the dark ]=-": {
+    "translation": "躲猫猫"
+  },
+  "-=[ Zombies are blind!!!! ]=-": {
+    "translation": "僵尸失明了"
+  },
+  "-=[ Easy Mode ]=-": {
+    "translation": "简单模式"
+  },
+  "-=[ Starting Game: Castle Defence ]=-": {
+    "translation": "城堡守卫"
+  },
+  "-=[ Enter the Castle ]=-": {
+    "translation": "进入城堡"
+  },
+  "-=[ Normal Mode ]=-": {
+    "translation": "普通模式"
+  },
+  "-=[ Doors closing in 5 seconds ]=-": {
+    "translation": "大门 5 秒关"
+  },
+  "-=[ Zombies are free ]=-": {
+    "translation": "僵尸出来了"
+  },
+  "-=[ Hard Mode ]=-": {
+    "translation": "困难模式"
+  },
+  "-=[ Extreme Mode ]=-": {
+    "translation": "极限模式"
+  },
+  "-=[ Starting game: Conveyor ]=-": {
+    "translation": "抽奖跳跳板"
+  },
+  "-=[ 1 ]=-": {
+    "translation": "1"
+  },
+  "-=[ 2 ]=-": {
+    "translation": "2"
+  },
+  "-=[ 3 ]=-": {
+    "translation": "3"
+  },
+  "-=[ 4 ]=-": {
+    "translation": "4"
+  },
+  "-=[ 5 ]=-": {
+    "translation": "5"
+  },
+  "-=[ Hurry, 10 seconds left ]=-": {
+    "translation": "还有 10 秒"
+  },
+  "-=[ You have 20 more seconds ]=-": {
+    "translation": "还有 20 秒"
+  },
+  "-=[ You have 60 seconds ]=-": {
+    "translation": "还有 60 秒"
+  },
+  "-=[ Survive 90 Seconds... ]=-": {
+    "translation": "存活 90 秒"
+  },
+  "-=[ Starting game: Obstacle ]=-": {
+    "translation": "障碍赛跑"
+  },
+  "-=[ Here come the zombies ]=-": {
+    "translation": "僵尸来了"
+  },
+  "-=[ You have 40 seconds ]=-": {
+    "translation": "还有 40 秒"
+  },
+  "-=[ Zombie spawn has advanced ]=-": {
+    "translation": "僵尸传送了"
+  },
+  "-=[ You have 30 seconds ]=-": {
+    "translation": "还有 30 秒"
+  },
+  "-=[ Starting game: The Trap ]=-": {
+    "translation": "陷阱"
+  },
+  "-=[ Fallback up the ladders ]=-": {
+    "translation": "爬梯子撤退"
+  },
+  "-=[ Hold for 90 seconds ]=-": {
+    "translation": "防守 90 秒"
+  },
+  "-=[ Starting game: Deathrun ]=-": {
+    "translation": "死亡奔跑"
+  },
+  "-=[ 1 more minute ]=-": {
+    "translation": "还有 1 分钟"
+  },
+  "-=[ 30 more seconds... ]=-": {
+    "translation": "还有 30 秒"
+  },
+  "-=[ Finishing in 5... ]=-": {
+    "translation": "5 秒结束"
+  },
+  "-=[ Zombie spawn advanced ]=-": {
+    "translation": "僵尸传送了"
+  },
+  "-=[ Survive 60 Seconds... ]=-": {
+    "translation": "存活 60 秒"
+  },
+  "-=[ Starting game: Slingshot ]=-": {
+    "translation": "大伙都很喜欢打靶啊"
+  },
+  "-=[ Survive 60 seconds ]=-": {
+    "translation": "存活 60 秒"
+  },
+  "-=[ Starting game: Low Gravity ]=-": {
+    "translation": "低重力"
+  },
+  "-=[ Here come the zombies!!! ]=-": {
+    "translation": "僵尸来了"
+  },
+  "-=[ Easy Mode :: CT/T == 4 ]=-": {
+    "translation": "简单模式 :: CT/T == 4"
+  },
+  "-=[ Easy Mode :: CT/T > 4 ]=-": {
+    "translation": "简单模式 :: CT/T > 4"
+  },
+  "-=[ Worked ]=-": {
+    "translation": "成功"
+  },
+  "-=[ Normal Mode :: CT/T == 2 ]=-": {
+    "translation": "普通模式 :: CT/T == 2"
+  },
+  "-=[ Normal Mode :: CT/T > 2 < 4 ]=-": {
+    "translation": "普通模式 :: CT/T > 2 < 4"
+  },
+  "-=[ Hard Mode :: CT/T == 1 ]=-": {
+    "translation": "困难模式 :: CT/T == 1"
+  },
+  "-=[ Hard Mode :: CT/T > 1 < 2 ]=-": {
+    "translation": "困难模式 :: CT/T > 1 < 2"
+  },
+  "-=[ Extreme Mode :: CT/T < 1 ]=-": {
+    "translation": "极限模式 :: CT/T < 1"
+  },
+  "-=[ Killing zombies in 5 ]=-": {
+    "translation": "5 秒处死僵尸"
+  },
+  "-=[ Humans Win ]=-": {
+    "translation": "人类胜利"
+  },
+  "-=[ Castle gates are opening ]=-": {
+    "translation": "主城门开了"
+  },
+  "-=[ Finishing in 30 seconds ]=-": {
+    "translation": "30 秒结束"
+  },
+  "-=[ Finishing in 5 ]=-": {
+    "translation": "5 秒结束"
+  },
+  "-=[ Castle gates open in 30 seconds ]=-": {
+    "translation": "城堡大门 30 秒打开"
+  },
+  "-=[ Castle gates open in 15 seconds ]=-": {
+    "translation": "城堡大门 15 秒打开"
+  },
+  "-=[ Fallback ]=-": {
+    "translation": "撤退"
+  },
+  "-=[ Lavapit activating in 5 seconds ]=-": {
+    "translation": "岩浆陷阱 5 秒激活"
+  },
+  "-=[ Middle Exit opening in 30 seconds ]=-": {
+    "translation": "中间出口 30 秒打开"
+  },
+  "-=[ Doors opening in 5 ]=-": {
+    "translation": "5 秒门开"
+  },
+  "-=[ Zombies Activated Trap ]=-": {
+    "translation": "僵尸触发了陷阱"
+  },
+  "-=[ Hold 15 seconds ]=-": {
+    "translation": "防守 15 秒"
+  },
+  "-=[ All Gems have been collected ]=-": {
+    "translation": "所有卡片已收集"
+  },
+  "-=[ Make your way to the highway ]=-": {
+    "translation": "前往高速公路"
+  },
+  "-=[ Collect the gems in 45 seconds ]=-": {
+    "translation": "45秒收集青蛙卡片"
+  },
+  "-=[ Starting game: Frogger ]=-": {
+    "translation": "青蛙过河"
+  },
+  "-=[ Autopick in 1 minute ]=-": {
+    "translation": "1分钟自动选择小游戏"
+  },
+  "-=[ Activating in 5 ]=-": {
+    "translation": "5 秒激活"
+  },
+  "-=[ Select your first game ]=-": {
+    "translation": "选择第一个吸血游戏"
+  },
+  "-=[ It's time for the final minigame ]=-": {
+    "translation": "最后一个小游戏,加油哦"
+  },
+  "-=[ Activating Trap ]=-": {
+    "translation": "陷阱"
+  },
+  "-=[Normal Mode ]=-": {
+    "translation": "普通模式"
+  },
+  "-=[ Starting game: Drop ]=-": {
+    "translation": "推力抽奖机"
+  },
+  "-=[ Welcome to Zombie Games ]=-": {
+    "translation": "欢迎来到僵尸小游戏"
+  },
+  "-=[ Starting game: Obstacle Race ]=-": {
+    "translation": "障碍赛跑"
+  },
+  "-=[ You have 1 minute to reach the end ]=-": {
+    "translation": "你有1分钟时间到达终点"
+  }
+}
