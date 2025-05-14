@@ -1,0 +1,227 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Wait for 25 seconds**": {
+    "translation": "25 秒"
+  },
+  "**Go!!!**": {
+    "translation": "Go"
+  },
+  "**Fire**": {
+    "translation": "火"
+  },
+  "**Ultima**": {
+    "translation": "终极(去边缘)"
+  },
+  "**Push**": {
+    "translation": "推力"
+  },
+  "**Rain**": {
+    "translation": "雨(蹲下)"
+  },
+  "**Updraft**": {
+    "translation": "上升气流"
+  },
+  "**Zombie**": {
+    "translation": "尸笼"
+  },
+  "**Judgement**": {
+    "translation": "审判"
+  },
+  "**Teleport in 30 seconds**": {
+    "translation": "30 秒传送"
+  },
+  "**Teleport in 5 seconds**": {
+    "translation": "5 秒传送"
+  },
+  "**Zombies come**": {
+    "translation": "僵尸来了"
+  },
+  "**Wall break in 5 seconds**": {
+    "translation": "5秒墙开"
+  },
+  "**Defend for 35 seconds**": {
+    "translation": "防守 35 秒"
+  },
+  "**5 seconds**": {
+    "translation": "5 秒"
+  },
+  "**AIR**": {
+    "translation": "气流"
+  },
+  "**Fly**": {
+    "translation": "飞起来"
+  },
+  "**Defend for another 20 seconds**": {
+    "translation": "防守 20 秒"
+  },
+  "**FLAME**": {
+    "translation": "火"
+  },
+  "**Survive 40 seconds**": {
+    "translation": "生存 40 秒"
+  },
+  "**DESTRUCTION**": {
+    "translation": "毁灭"
+  },
+  "**NEWBORN**": {
+    "translation": "新生"
+  },
+  "**ZE_SURF_SKY_ISLANDS**": {
+    "translation": "ZE_SURF_SKY_ISLANDS 空岛滑翔"
+  },
+  "**Thanks for playing**": {
+    "translation": "感谢您的游玩 翻译: 茜茜"
+  },
+  "**Map by 三百度幸运12121**": {
+    "translation": "地图作者: 三百度幸运12121"
+  },
+  "**SKY**": {
+    "translation": "天空"
+  },
+  "**Defend for 15 seconds**": {
+    "translation": "防守 15 秒"
+  },
+  "**Defend for 20 seconds**": {
+    "translation": "防守 20 秒"
+  },
+  "**OCEAN**": {
+    "translation": "海洋"
+  },
+  "**Zombies teleport in 20 seconds**": {
+    "translation": "僵尸 20 秒传送"
+  },
+  "**Wall break**": {
+    "translation": "墙开了"
+  },
+  "**Defend for 10 seconds**": {
+    "translation": "防守 10 秒"
+  },
+  "**Defend for another 30 seconds**": {
+    "translation": "防守 30 秒"
+  },
+  "**Jump**": {
+    "translation": "后面往上飞"
+  },
+  "**Teleport in 25 seconds**": {
+    "translation": "25 秒传送"
+  },
+  "**The sky protects us,now we won't be infected by zombies**": {
+    "translation": "苍穹庇护着我们,现在不会被僵尸感染"
+  },
+  "**Holy**": {
+    "translation": "圣光"
+  },
+  "**感谢所有参与过测试版本游玩的玩家**": {
+    "translation": "感谢所有参与过测试版本游玩的玩家"
+  },
+  "**Defend for another 25 seconds**": {
+    "translation": "防守 25 秒"
+  },
+  "**Sky gate open in 15 seconds**": {
+    "translation": "15 秒打开天空之门"
+  },
+  "**Sky gate**": {
+    "translation": "天空之门"
+  },
+  "**CHAOS**": {
+    "translation": "混沌"
+  },
+  "**A player picked up ice**": {
+    "translation": "已拾取寒冰"
+  },
+  "**A player used ice magic**": {
+    "translation": "已释放寒冰",
+    "blocked": true
+  },
+  "**Zombie picked up fire ball**": {
+    "translation": "僵尸已拾取火球"
+  },
+  "**Zombie picked up speed magic**": {
+    "translation": "僵尸已拾取加速"
+  },
+  "**Zombie picked up low gravity magic**": {
+    "translation": "僵尸已拾取低重力"
+  },
+  "**A player picked up wind magic**": {
+    "translation": "已拾取狂风"
+  },
+  "**A player used wind magic**": {
+    "translation": "已释放狂风",
+    "blocked": true
+  },
+  "**A player picked up flame magic**": {
+    "translation": "已拾取烈火"
+  },
+  "**A player used flame magic**": {
+    "translation": "已释放烈火",
+    "blocked": true
+  },
+  "**Defend for 25 seconds**": {
+    "translation": "防守 25 秒"
+  },
+  "**A player picked up shield**": {
+    "translation": "已拾取护盾"
+  },
+  "**A player used shield**": {
+    "translation": "已释放护盾",
+    "blocked": true
+  },
+  "**Zombie picked up eclipse magic**": {
+    "translation": "僵尸已拾取蚀日"
+  },
+  "**Zombies are summoning the FINAL ECLIPSE!**": {
+    "translation": "僵尸正在召唤终焉之蚀"
+  },
+  "**FINAL ECLIPSE**": {
+    "translation": "终焉之蚀"
+  },
+  "**Darkness and fear descend**": {
+    "translation": "黑暗与恐惧降临"
+  },
+  "**A player picked up mini heal**": {
+    "translation": "已拾取小奶"
+  },
+  "**Only once used**": {
+    "translation": "只能使用一次"
+  },
+  "**We are almost at the end of the journey**": {
+    "translation": "我们即将抵达旅程终点"
+  },
+  "**Punishment**": {
+    "translation": "天罚"
+  },
+  "**Storm**": {
+    "translation": "暴风雨"
+  },
+  "**Turbulence**": {
+    "translation": "跑毒"
+  },
+  "**Fall**": {
+    "translation": "天坠"
+  },
+  "**Survive for 30 seconds**": {
+    "translation": "生存 30 秒"
+  },
+  "**illusion**": {
+    "translation": "幻象"
+  },
+  "**Shoot! Or everyone die!**": {
+    "translation": "开枪!要寄啦"
+  },
+  "**Rage**": {
+    "translation": "狂暴"
+  },
+  "**A player picked up heal crystal**": {
+    "translation": "已拾取大奶"
+  }
+}
