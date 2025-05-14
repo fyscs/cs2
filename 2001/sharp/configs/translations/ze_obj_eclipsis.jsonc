@@ -11,25 +11,32 @@
 
 {
   "23:08 PM，阿尔法基地外，任务：与Redemption小队一起进入阿尔法基地，营救幸存者.": {
-    "translation": "23:08PM,阿尔法基地外,任务:与Redemption小队一起进入阿尔法基地,营救幸存者."
+    "translation": "23:08PM,阿尔法基地外,任务:与Redemption小队一起进入阿尔法基地,营救幸存者.",
+    "blocked": true
   },
   "总部：Eclipsis小队，你们将从阿尔法基地的 01 号设施潜入，搜索 01 号设施的所有幸存者.": {
-    "translation": "总部:Eclipsis小队,你们将从阿尔法基地的01号设施潜入,搜索01号设施的所有幸存者."
+    "translation": "总部:Eclipsis小队,你们将从阿尔法基地的01号设施潜入,搜索01号设施的所有幸存者.",
+    "blocked": true
   },
   "指挥官：收到.": {
-    "translation": "指挥官:收到."
+    "translation": "指挥官:收到.",
+    "blocked": true
   },
   "总部:切记，你们和Redemption小队是唯一能执行这个任务的力量，一切行动以自保为主，优先确保队员的安全！": {
-    "translation": "总部:切记,你们和Redemption小队是唯一能执行这个任务的力量,一切行动以自保为主,优先确保队员的安全!"
+    "translation": "总部:切记,你们和Redemption小队是唯一能执行这个任务的力量,一切行动以自保为主,优先确保队员的安全!",
+    "blocked": true
   },
   "f16:收到，01，天空已经安全了，祝你们好运！": {
-    "translation": "f16:收到,01,天空已经安全了,祝你们好运!"
+    "translation": "f16:收到,01,天空已经安全了,祝你们好运!",
+    "blocked": true
   },
   "指挥官:岛上情况看起来不太乐观，他们从水里来了…": {
-    "translation": "指挥官:岛上情况看起来不太乐观,他们从水里来了.."
+    "translation": "指挥官:岛上情况看起来不太乐观,他们从水里来了..",
+    "blocked": true
   },
   "f16:收到，搜索该区域。": {
-    "translation": "f16:收到,搜索该区域."
+    "translation": "f16:收到,搜索该区域.",
+    "blocked": true
   },
   "大门动了": {
     "translation": "大门动了"
@@ -101,16 +108,20 @@
     "translation": "赶紧上电梯!"
   },
   "Redemption小队：Eclipsis小队，你们到哪了？": {
-    "translation": "Redemption小队:Eclipsis小队,你们到哪了?"
+    "translation": "Redemption小队:Eclipsis小队,你们到哪了?",
+    "blocked": true
   },
   "我们逃上了电梯，得去开启电源，暂时安全了！": {
-    "translation": "我们逃上了电梯,得去开启电源,暂时安全了!"
+    "translation": "我们逃上了电梯,得去开启电源,暂时安全了!",
+    "blocked": true
   },
   "Redemption小队：他们来了！滋滋滋……电流声": {
-    "translation": "Redemption小队:他们来了!滋滋滋..电流声"
+    "translation": "Redemption小队:他们来了!滋滋滋..电流声",
+    "blocked": true
   },
   "Redemption！Redemption！ 糟了，他们遇到了危险！": {
-    "translation": "Redemption!Redemption!糟了,他们遇到了危险!"
+    "translation": "Redemption!Redemption!糟了,他们遇到了危险!",
+    "blocked": true
   },
   "小心这扇门里的东西！": {
     "translation": "小心这扇门里的东西!"
@@ -153,10 +164,12 @@
     "translation": "启动这个电源,我们得从通风管道跳下去!"
   },
   "总部：Eclipsis小队，你们还好吗？": {
-    "translation": "总部:Eclipsis小队,你们还好吗?"
+    "translation": "总部:Eclipsis小队,你们还好吗?",
+    "blocked": true
   },
   "我们还好，但是联系不上Redemption小队，等我们到火箭发射井试着去联系他们": {
-    "translation": "我们还好,但是联系不上Redemption小队,等我们到火箭发射井试着去联系他们"
+    "translation": "我们还好,但是联系不上Redemption小队,等我们到火箭发射井试着去联系他们",
+    "blocked": true
   },
   "总部：找到生还者了吗？": {
     "translation": "总部:找到生还者了吗?"
@@ -195,7 +208,8 @@
     "translation": "Redemption:我们快到了!"
   },
   "总部：Eclipsis，你们现在立马前去接应Redemption并安好炸弹安全撤离！": {
-    "translation": "总部:Eclipsis,你们现在立马前去接应Redemption并安好炸弹安全撤离!"
+    "translation": "总部:Eclipsis,你们现在立马前去接应Redemption并安好炸弹安全撤离!",
+    "blocked": true
   },
   "坚持50秒钟！战士们！这是最后的决战！": {
     "translation": "坚持50秒钟!",
