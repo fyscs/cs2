@@ -1,0 +1,337 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<It's gone!But what seems to have fallen?>": {
+    "translation": "<好像掉了什么?>"
+  },
+  "<Take it!Ready to return to the main hall!>": {
+    "translation": "<拿好!准备返回主厅!>"
+  },
+  "**A player has picked up Stone tablet fragments**": {
+    "translation": "**玩家拾取了石板碎片**"
+  },
+  "**A player has picked up The lament of Otto**": {
+    "translation": "**玩家拾取了otto的哀叹**"
+  },
+  "<Otto's wheelchair was dried to pieces, TNT>": {
+    "translation": "<otto的轮椅被炸成碎片>"
+  },
+  "<Otto's wheelchair has been repaired!>": {
+    "translation": "<otto的轮椅修好了!>"
+  },
+  "<What's that flying past???>": {
+    "translation": "<那是什么飞过去了???>"
+  },
+  "<It's dead!let's go!>": {
+    "translation": "<它死了!我们走!>"
+  },
+  "<Not good! It wants to die with us!>": {
+    "translation": "<不好!它想和我们同归于尽!>"
+  },
+  "<DOUBLE HIT>": {
+    "translation": "<双重打击>"
+  },
+  "<GRAVITY>": {
+    "translation": "<重力>"
+  },
+  "**A player has picked up Saint Diana's shelter**": {
+    "translation": "**玩家拾取了圣戴安娜的庇护**"
+  },
+  "**A player has picked up Cure Scroll**": {
+    "translation": "**玩家拾取了治疗卷轴**"
+  },
+  "**A player has picked up Frost Scroll**": {
+    "translation": "**玩家拾取了寒冰卷轴**"
+  },
+  "**A player has picked up Thunder Scroll**": {
+    "translation": "**玩家拾取了雷电卷轴**"
+  },
+  "**A player has picked up Hurricane Scroll**": {
+    "translation": "**玩家拾取了飓风卷轴**"
+  },
+  "**A player has picked up Disaster Scroll**": {
+    "translation": "**玩家拾取了灾厄卷轴**"
+  },
+  "**A player has picked up Lure Scroll**": {
+    "translation": "**玩家拾取了黑洞卷轴**"
+  },
+  "**AVA follows a player**": {
+    "translation": "**AVA正在跟随玩家**"
+  },
+  "<AVA USE>": {
+    "translation": "<AVA已使用>"
+  },
+  "<???:You want an slime, too?>": {
+    "translation": "<???:你也想要个史莱姆?>"
+  },
+  "<???:It's Ava. Please take care of it.>": {
+    "translation": "<???:这是Ava.请照顾好它.>"
+  },
+  "**A zombie has picked up ZMHeal**": {
+    "translation": "**一只僵尸拾取了ZM治疗**"
+  },
+  "**A zombie has picked up ZMWarp**": {
+    "translation": "**一只僵尸拾取了ZM传送**"
+  },
+  "**A zombie has picked up ZMFire**": {
+    "translation": "**一只僵尸拾取了ZM火焰**"
+  },
+  "**A zombie has picked up ZMGravity**": {
+    "translation": "**一只僵尸拾取了ZM重力**"
+  },
+  "**A zombie has picked up ZMIce**": {
+    "translation": "**一只僵尸拾取了ZM冰霜**"
+  },
+  "<Try this?>": {
+    "translation": "<试试这个?>"
+  },
+  "<Destroy this place in 25 seconds>": {
+    "translation": "<在25秒内摧毁这里>"
+  },
+  "ZE_Deathinvain_Palace": {
+    "translation": "死者宫殿"
+  },
+  "Map by vueru": {
+    "translation": "地图制作:vueru 文本:Zeyu1"
+  },
+  "**A zombie has picked up ZMShield**": {
+    "translation": "**一只僵尸拾取了ZM护盾**"
+  },
+  "<ERUPT>": {
+    "translation": "<爆发>"
+  },
+  "<FIRE SCALE>": {
+    "translation": "<火焰>"
+  },
+  "<RAGING FIRE>": {
+    "translation": "<烈火>"
+  },
+  "<Who's there?>": {
+    "translation": "<谁在那里?>"
+  },
+  "<DIANA!>": {
+    "translation": "<戴安娜!>"
+  },
+  "<SHINING SUN>": {
+    "translation": "<耀日>"
+  },
+  "<Saint Diana bless us!>": {
+    "translation": "<圣戴安娜保佑我们!>"
+  },
+  "<The trigger platform on the left is made of fragments?>": {
+    "translation": "<左边的触发平台是由碎片组成的吗?>"
+  },
+  "<People with fragments go to the left!>": {
+    "translation": "<拿着碎片的人走左边!>"
+  },
+  "<Zombies have been reset to 1 blood,Kill them!>": {
+    "translation": "<僵尸已被重置为1点血量,干掉他们!>"
+  },
+  "*Chapter III*": {
+    "translation": "*第三章*"
+  },
+  "*Chapter I*": {
+    "translation": "*第一章*"
+  },
+  "*Chapter II*": {
+    "translation": "*第二章*"
+  },
+  "<Step back. Don't be affected by the force!>": {
+    "translation": "<后退.不要被冲击波影响!>"
+  },
+  "<The power of the stone tablet is being released...>": {
+    "translation": "<石板的力量正在释放...>"
+  },
+  "<It's in place!>": {
+    "translation": "<已就位!>"
+  },
+  "<Wait 10 seconds>": {
+    "translation": "<等待10秒>"
+  },
+  "<neid:Get ready greet my wild knife dance!>": {
+    "translation": "<neid:准备迎接我的狂野刀舞!>"
+  },
+  "<The gate will open in 25 seconds>": {
+    "translation": "<大门将在25秒后打开>"
+  },
+  "<The gate will open in 20 seconds>": {
+    "translation": "<大门将在20秒后打开>"
+  },
+  "<Zombie item enabled>": {
+    "translation": "<僵尸神器已启用>"
+  },
+  "<Zombie item disabled>": {
+    "translation": "<僵尸神器已禁用>"
+  },
+  "<ERUPTION>": {
+    "translation": "<爆发>"
+  },
+  "<ICE SCALE>": {
+    "translation": "<冰霜>"
+  },
+  "<LIGHT GLORY>": {
+    "translation": "<光耀>"
+  },
+  "<AVA went through the battle and seemed to gain strength>": {
+    "translation": "<AVA经历战斗后似乎变强了>"
+  },
+  "<The barrier will disappear in 20 seconds>": {
+    "translation": "<屏障将在20秒后消失>"
+  },
+  "<The gate will open in 30 seconds>": {
+    "translation": "<大门将在30秒后打开>"
+  },
+  "<The way is blocked by fire!>": {
+    "translation": "<道路被火焰封锁了!>"
+  },
+  "<We need time to deal with the fire on the ground.>": {
+    "translation": "<我们需要时间处理地上的火焰.>"
+  },
+  "<A stone tablet is surrounded by fire.>": {
+    "translation": "<一块石板被火焰包围了.>"
+  },
+  "<The fire disappeared>": {
+    "translation": "<火焰消失了>"
+  },
+  "<The barrier will disappear in 25 seconds>": {
+    "translation": "<屏障将在25秒后消失>"
+  },
+  "<The sound of fighting came straight ahead.>": {
+    "translation": "<前方传来战斗的声音.>"
+  },
+  "<The barrier will disappear in 15 seconds>": {
+    "translation": "<屏障将在15秒后消失>"
+  },
+  "<The gate will open in 15 seconds>": {
+    "translation": "<大门将在15秒后打开>"
+  },
+  "<Good!As usual>": {
+    "translation": "<很好!和平常一样>"
+  },
+  "<We keep the zombies in here. Let the power of the stele kill them!>": {
+    "translation": "<我们把僵尸困在这里.让石碑的力量消灭它们!>"
+  },
+  "<Wait a minute>": {
+    "translation": "<等一下>"
+  },
+  "<CASE HARDENING>": {
+    "translation": "<表面硬化>"
+  },
+  "<ybb! Who closed the door!>": {
+    "translation": "<ybb!谁关的门!>"
+  },
+  "<SWEEP THE HALL LEG>": {
+    "translation": "<横扫>"
+  },
+  "<CONTINUOUS ATTACK JUMP CHOP>": {
+    "translation": "<连续跳劈>"
+  },
+  "<SHAKING THE GROUND>": {
+    "translation": "<撼地>"
+  },
+  "<ACID SOLUTION>": {
+    "translation": "<酸液>"
+  },
+  "<Get what you need and go!>": {
+    "translation": "<拿好你需要的就走!>"
+  },
+  "<The barrier will disappear in 30 seconds>": {
+    "translation": "<屏障将在30秒后消失>"
+  },
+  "<LYCAN:I knownyan, you want this, rightnyan?>": {
+    "translation": "<LYCAN:我知道喵,你想要这个对吧?>"
+  },
+  "<LYCAN:This may be our last conversationnyan.>": {
+    "translation": "<LYCAN:这可能是我们最后一次对话了.>"
+  },
+  "<Thank younyan...>": {
+    "translation": "<谢谢你...>"
+  },
+  "<LYCAN:The road on the left is opennyan.>": {
+    "translation": "<LYCAN:左边的路开了喵.>"
+  },
+  "<Let's go on the rightnyan!>": {
+    "translation": "<我们走右边吧!>"
+  },
+  "<LYCAN:This time the road on the right is opennyan.": {
+    "translation": "<LYCAN:这次右边的路开了."
+  },
+  "<Let's gonyan!>": {
+    "translation": "<走吧!>"
+  },
+  "<LYCAN:Why are you still herenyan?>": {
+    "translation": "<LYCAN:你怎么还在这里?>"
+  },
+  "<Your teammates are gone, aren't theynyan?>": {
+    "translation": "<你的队友都不在了对吧?>"
+  },
+  "<LYCAN:nyan. Take this and move onnyan.>": {
+    "translation": "<LYCAN:拿着这个继续前进喵.>"
+  },
+  "<OK, go and put the fragments into the stone tablet by someone.>": {
+    "translation": "<去让人把碎片放进石板里.>"
+  },
+  "<Others guard here. Don't let zombies get out of this door!>": {
+    "translation": "<其他人守在这里.别让僵尸从这扇门出去!>"
+  },
+  "<LURE STRIKE>": {
+    "translation": "<诱导打击>"
+  },
+  "<SHOCKWAVE>": {
+    "translation": "<冲击波>"
+  },
+  "<BURST>": {
+    "translation": "<爆裂>"
+  },
+  "<SWEPT ACROSS>": {
+    "translation": "<横扫>"
+  },
+  "<DIANA FIST>": {
+    "translation": "<戴安娜之拳>"
+  },
+  "<ROCK SHOVE>": {
+    "translation": "<岩石冲击>"
+  },
+  "<Is this... Successful?>": {
+    "translation": "<这是...成功了吗?>"
+  },
+  "<The stone tablets on both sides seem to have a clue>": {
+    "translation": "<两边的石板似乎有线索>"
+  },
+  "<The gate is closed>": {
+    "translation": "<大门关闭了>"
+  },
+  "<Wait a minute...>": {
+    "translation": "<等一下...>"
+  },
+  "Thank memories for telling me about some bugs": {
+    "translation": "特别鸣谢: memories"
+  },
+  "<WARM-UP PERIOD>": {
+    "translation": "<热身阶段>"
+  },
+  "<CHAPTER - THE FORGOTTEN>": {
+    "translation": "<章节 - 被遗忘者>"
+  },
+  "ZE_Deathinvain_Palace  Map by vueru": {
+    "translation": "地图制作:vueru 文本:Zeyu1"
+  },
+  "<CHAPTER - GIANT STRANGE LOCUST>": {
+    "translation": "<章节 - 巨型奇怪蝗虫>"
+  },
+  "<CHAPTER - NEID AND ZAVIST>": {
+    "translation": "<章节 - 奈德与扎维斯特>"
+  },
+  "<This damn stone wall is too thick!>": {
+    "translation": "<该死的石墙太厚了!>"
+  }
+}
