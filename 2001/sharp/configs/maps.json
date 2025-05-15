@@ -2025,11 +2025,11 @@
     "requiredPlayers": 30
   },
   "ze_maontain_escape": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
-    "cooldown": 150,
+    "cooldown": 160,
     "nomination": true,
-    "price": 300,
+    "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
