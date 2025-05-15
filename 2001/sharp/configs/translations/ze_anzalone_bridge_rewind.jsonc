@@ -11,28 +11,28 @@
 
 {
   "<!> 挑戦状を入手した！ <!>": {
-    "translation": "<!> 获得了挑战书 <!>"
+    "translation": "获得了挑战书"
   },
   "<!> 次ラウンドがシークレットになる！ <!>": {
-    "translation": "<!> 下一回合将转为隐藏Lv ???关卡 <!>"
+    "translation": "下一回合将转为隐藏Lv ???关卡"
   },
   "<!> ドアを開く -- Open the door 10 sec <!>": {
-    "translation": "<!> 大门--10秒后开启 <!>"
+    "translation": "大门--10秒后开启"
   },
   "<!> ドアを開く -- Open the door 30 sec <!>": {
-    "translation": "<!> 大门--30秒后开启 <!>"
+    "translation": "大门--30秒后开启"
   },
   "<!> ドアを開く -- Open the door 40 sec <!>": {
-    "translation": "<!> 大门--40秒后开启 <!>"
+    "translation": "大门--40秒后开启"
   },
   "<!> ドアが閉まる -- Doors close 10 sec <!>": {
-    "translation": "<!> 大门--10秒后关闭 <!>"
+    "translation": "大门--10秒后关闭"
   },
   "<!> Until the start of the secret Boss 10 sec <!>": {
-    "translation": "<!> 距离隐藏Boss战开始还剩10秒 <!>"
+    "translation": "距离隐藏Boss战开始还剩10秒"
   },
   "<!> Until the start of the secret Boss 30 sec <!>": {
-    "translation": "<!> 距离隐藏Boss战开始还剩30秒 <!>"
+    "translation": "距离隐藏Boss战开始还剩30秒"
   },
   "レイザード :": {
     "translation": "雷扎德"
@@ -83,7 +83,7 @@
     "translation": "这将考验每个人的战斗技巧"
   },
   "<!> 戦闘勝利！！ <!>": {
-    "translation": "<!> 战斗胜利!! <!>"
+    "translation": "战斗胜利!!"
   },
   "「この妖精は...ナイアード達か」": {
     "translation": "这些妖精是娜伊阿德一族吗"
@@ -98,6 +98,6 @@
     "translation": "下次再来时,说不定会有好事发生呢"
   },
   "<!> ドアが閉まる... -- Doors close 10 sec <!>": {
-    "translation": "<!> 大门10秒后关闭<!>"
+    "translation": "大门10秒后关闭"
   }
 }

@@ -11,40 +11,40 @@
 
 {
   "<!> バリケードを破壊 -- Destroying the barricade 30 sec <!>": {
-    "translation": "距离路障摧毁还剩30秒<!>"
+    "translation": "距离路障摧毁还剩30秒"
   },
   "<!> バリケードを破壊 -- Destroying the barricade 10 sec <!>": {
-    "translation": "距离路障摧毁还剩10秒 <!>"
+    "translation": "距离路障摧毁还剩10秒 "
   },
   "<!> バリケードを破壊 -- Destroying the barricade 40 sec <!>": {
-    "translation": "距离路障摧毁还剩40秒 <!>"
+    "translation": "距离路障摧毁还剩40秒 "
   },
   "<!> ドアを開く -- Open the door 30 sec <!>": {
-    "translation": "门将在30秒后开启 <!>"
+    "translation": "门将在30秒后开启 "
   },
   "<!> ドアを開く -- Open the door 10 sec <!>": {
-    "translation": "门将在30秒后开启 <!>"
+    "translation": "门将在30秒后开启 "
   },
   "<!> 最後の防衛だ -- This is the last defense 40 sec <!>": {
-    "translation": "这是最后の防守!守住这40秒 <!>"
+    "translation": "这是最后の防守!守住这40秒 "
   },
   "<!> 最後の防衛だ -- This is the last defense 10 sec <!>": {
-    "translation": "最后の防守!守住这40秒 <!>"
+    "translation": "最后の防守!守住这40秒 "
   },
   "<!> 人間たちは脱出した -- The humans escaped <!>": {
-    "translation": " 干的漂亮,我们成功逃了出去 <!>"
+    "translation": " 干的漂亮,我们成功逃了出去 "
   },
   "<!> ゾンビが入ってきた！ -- Zombies or entered the elevator! <!>": {
-    "translation": "僵尸进入了电梯! <!>"
+    "translation": "僵尸进入了电梯! "
   },
   "<!> 古びたレコードを再生した <!>": {
-    "translation": "<!> 旧唱片在播放 <!>"
+    "translation": " 旧唱片在播放 "
   },
   "<!> Music : Awake <!>": {
-    "translation": "<!> 正在播放:Awake <!>"
+    "translation": " 正在播放:Awake "
   },
   "<!> Music : Aquarius <!>": {
-    "translation": "<!> 正在播放:Aquarius <!>"
+    "translation": " 正在播放:Aquarius "
   },
   "幽霊少女 :": {
     "translation": "幽灵少女:"
@@ -83,6 +83,6 @@
     "translation": "「也许从这里可以通往渡木隧道...」"
   },
   "<!> バリケードを破壊 -- Destroying the barricade 15 sec <!>": {
-    "translation": "距离路障摧毁还剩15秒 <!>"
+    "translation": "距离路障摧毁还剩15秒 "
   }
 }

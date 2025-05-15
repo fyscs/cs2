@@ -155,10 +155,10 @@
     "translation": "** 僵尸比你触发的快多了! **"
   },
   "MANUAL OVERRIDE: 5 SECONDS": {
-    "translation": " 5秒后自动启动 "
+    "translation": "5秒后自动启动"
   },
   "MANUAL OVERRIDE: 10 SECONDS": {
-    "translation": " 10秒后自动启动 "
+    "translation": "10秒后自动启动"
   },
   "< Any last words? >": {
     "translation": "< 有什么遗言吗? >"
@@ -227,10 +227,10 @@
     "translation": "** 复制魔法已习得  **"
   },
   "ELEVATOR LEAVING: 10 SECONDS": {
-    "translation": " 电梯10秒后离开 "
+    "translation": "电梯10秒后离开"
   },
   "ELEVATOR DOORS: 5 SECONDS": {
-    "translation": " 电梯门在5秒后打开 "
+    "translation": "电梯门在5秒后打开"
   },
   "** BIO Materia has been found. **": {
     "translation": "** 毒魔法已习得 **"

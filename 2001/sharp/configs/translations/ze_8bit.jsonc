@@ -32,82 +32,82 @@
     "translation": "** 一名玩家捡起了奶 **"
   },
   "THE DOOR OPEN IN 25 SECOND": {
-    "translation": " 大门将在25秒后打开 "
+    "translation": "大门将在25秒后打开"
   },
   "THE DOOR OPEN IN 5 SECOND": {
-    "translation": " 大门将在5秒后打开 ",
+    "translation": "大门将在5秒后打开 ",
     "blocked": true
   },
   "AFK TELEPORT IN 10 SECOND": {
-    "translation": " 挂机咸鱼将于10秒后传送 "
+    "translation": "挂机咸鱼将于10秒后传送"
   },
   "THE ELEVATOR WILL LEAVE IN 30 SECONDS": {
-    "translation": " 电梯将在30秒后离开 "
+    "translation": "电梯将在30秒后离开"
   },
   "THE ELEVATOR WILL LEAVE IN 5 SECONDS": {
-    "translation": " 电梯将在5秒后离开 ",
+    "translation": "电梯将在5秒后离开 ",
     "blocked": true
   },
   "THE DOOR WILL OPEN IN 25 SECONDS": {
-    "translation": " 大门将在25秒后打开 "
+    "translation": "大门将在25秒后打开"
   },
   "THE DOOR WILL OPEN IN 5 SECONDS": {
-    "translation": " 大门将在5秒后打开 ",
+    "translation": "大门将在5秒后打开 ",
     "blocked": true
   },
   "THE WALL WILL BREAK IN 20 SECONDS": {
-    "translation": " 墙壁将在20秒后碎裂 "
+    "translation": "墙壁将在20秒后碎裂"
   },
   "THE WALL WILL BREAK IN 5 SECONDS": {
-    "translation": " 墙壁将在5秒后碎裂 ",
+    "translation": "墙壁将在5秒后碎裂 ",
     "blocked": true
   },
   "THE DOOR TO THE BOSS WILL OPEN IN 30 SECONDS": {
-    "translation": " 通往BOOS房的大门将在30秒后打开 "
+    "translation": "通往BOOS房的大门将在30秒后打开"
   },
   "THE DOOR TO THE BOSS WILL OPEN IN 5 SECONDS": {
-    "translation": " 通往BOOS房的大门将在5秒后打开 ",
+    "translation": "通往BOOS房的大门将在5秒后打开 ",
     "blocked": true
   },
   "BOSS FIGHT IN 10 SECOND": {
-    "translation": " BOOS战10秒后开启 "
+    "translation": "BOOS战10秒后开启"
   },
   "SHOOT THE BOSS!!!": {
-    "translation": " 抓紧直接干掉他!!! "
+    "translation": "抓紧直接干掉他!!!"
   },
   "LOCKS WILL OPEN IN 25 SECONDS": {
-    "translation": " 25秒后解锁 "
+    "translation": "25秒后解锁"
   },
   "LOCKS WILL OPEN IN 5 SECONDS": {
-    "translation": " 5秒后解锁 ",
+    "translation": "5秒后解锁 ",
     "blocked": true
   },
   "THE LAST DOOR WILL OPEN IN 30 SECONDS": {
-    "translation": " 最终の门将会在30秒后打开 "
+    "translation": "最终の门将会在30秒后打开"
   },
   "THE LAST DOOR WILL OPEN IN 5 SECONDS": {
-    "translation": " 最终の门将会在5秒后打开 ",
+    "translation": "最终の门将会在5秒后打开 ",
     "blocked": true
   },
   "THE PLATFORM WILL BREAK IN 20 SECONDS": {
-    "translation": " 防守平台20秒 "
+    "translation": "防守平台20秒"
   },
   "THE PLATFORM WILL BREAK IN 5 SECONDS": {
-    "translation": " 防守平台5秒 ",
+    "translation": "防守平台5秒 ",
     "blocked": true
   },
   "MAP BY FRENCHY": {
-    "translation": " 地图制作:FRENCHY 汉化:Zeyu1 "
+    "translation": "地图制作:FRENCHY 汉化:Zeyu1"
   },
   "Special thanks /Ice/Storm/ for particles": {
-    "translation": " 特别感谢: Ice, Storm "
+    "translation": "特别感谢: Ice, Storm"
   },
   "THE MAIN DOOR OPENS IN 5 SECONDS": {
-    "translation": " 主门将在5秒后打开 ",
+    "translation": "主门将在5秒后打开 ",
     "blocked": true
   },
   "THE MAIN DOOR OPENS IN 35 SECONDS": {
-    "translation": " 主门将在35秒后打开 "
+    "translation": "主门将在35秒后打开"
   },
   "** MAP BY FRENCHY**": {
     "translation": "** 地图制作:FRENCHY 汉化:Zeyu1 **"
@@ -137,112 +137,112 @@
     "translation": ">> 杀死剩余的僵尸 <<"
   },
   "THE PLATFORM WILL GO IN 5 SECONDS": {
-    "translation": " 公交车将在5秒后移动 ",
+    "translation": "公交车将在5秒后移动 ",
     "blocked": true
   },
   "THE PLATFORM WILL GO  IN 30 SECONDS": {
-    "translation": " 公交车将在30秒后移动 "
+    "translation": "公交车将在30秒后移动"
   },
   "THE DOOR WILL OPEN IN 30 SECONDS": {
-    "translation": " 大门将在30秒后打开 "
+    "translation": "大门将在30秒后打开"
   },
   "THE DOORS WILL OPEN IN 5 SECONDS": {
-    "translation": " 大门将在5秒后打开 ",
+    "translation": "大门将在5秒后打开 ",
     "blocked": true
   },
   "THE DOORS WILL OPEN IN 20 SECONDS": {
-    "translation": " 大门将在20秒后打开 ",
+    "translation": "大门将在20秒后打开 ",
     "blocked": true
   },
   "THE DOORS WILL OPEN IN 25 SECONDS": {
-    "translation": " 大门将在25秒后打开 ",
+    "translation": "大门将在25秒后打开 ",
     "blocked": true
   },
   "BOSS FIGHT": {
-    "translation": " BOOS战开始!! "
+    "translation": "BOOS战开始!!"
   },
   "THE DOORS WILL OPEN IN 30 SECONDS": {
-    "translation": " 大门将在30秒后打开 "
+    "translation": "大门将在30秒后打开"
   },
   "THE DOOR TO BOSS WILL OPEN IN 30 SECONDS": {
-    "translation": " 通往BOOS房的大门将在30秒后打开 "
+    "translation": "通往BOOS房的大门将在30秒后打开"
   },
   "THE DOOR TO BOSS WILL OPEN IN 5 SECONDS": {
-    "translation": " 通往BOOS房的大门将在5秒后打开 ",
+    "translation": "通往BOOS房的大门将在5秒后打开 ",
     "blocked": true
   },
   "BOSS IS DEAD": {
-    "translation": " BOOS已经被消灭!!! "
+    "translation": "BOOS已经被消灭!!!"
   },
   "PRESS 2 BUTTONS": {
-    "translation": " 抓紧时间摁下两个按钮 "
+    "translation": "抓紧时间摁下两个按钮"
   },
   "[ADMIN] Selected [STAGE 1 NORMAL] for next round. Restarting round in 5 seconds.": {
-    "translation": " 管理员载入在第一关,五秒后将会重新开始游戏 "
+    "translation": "管理员载入在第一关,五秒后将会重新开始游戏"
   },
   "[ADMIN] Selected [STAGE 2 NORMAL] for next round. Restarting round in 5 seconds.": {
-    "translation": " 管理员载入在第二关,五秒后将会重新开始游戏 "
+    "translation": "管理员载入在第二关,五秒后将会重新开始游戏"
   },
   "[ADMIN] Selected [STAGE 3 NORMAL] for next round. Restarting round in 5 seconds.": {
-    "translation": " 管理员载入在第三关,五秒后将会重新开始游戏 "
+    "translation": "管理员载入在第三关,五秒后将会重新开始游戏"
   },
   "[ADMIN] Selected [STAGE 3 EXTREME] for next round. Restarting round in 5 seconds.": {
-    "translation": " 管理员载入在第六关,五秒后将会重新开始游戏 "
+    "translation": "管理员载入在第六关,五秒后将会重新开始游戏"
   },
   "[ADMIN] Selected [STAGE 2 EXTREME] for next round. Restarting round in 5 seconds.": {
-    "translation": " 管理员载入在第五关,五秒后将会重新开始游戏 "
+    "translation": "管理员载入在第五关,五秒后将会重新开始游戏"
   },
   "[ADMIN] Selected [STAGE 1 EXTREME] for next round. Restarting round in 5 seconds.": {
-    "translation": " 管理员载入在第四关,五秒后将会重新开始游戏"
+    "translation": "管理员载入在第四关,五秒后将会重新开始游戏"
   },
   "[ADMIN] Selected [FINAL STAGE] for next round. Restarting round in 5 seconds.": {
-    "translation": " 管理员载入在最终关,五秒后将会重新开始游戏 "
+    "translation": "管理员载入在最终关,五秒后将会重新开始游戏"
   },
   "FASE 1": {
-    "translation": " 阶段一 "
+    "translation": "阶段一"
   },
   "FASE 2": {
-    "translation": " 阶段二 "
+    "translation": "阶段二"
   },
   "FASE 1 SHOOT ONLY BLUE BOSS": {
     "translation": "阶段一只需攻击蓝色BOOS"
   },
   "THE PLATFORM WILL BREAK IN 30 SECONDS": {
-    "translation": " 防守平台30秒 "
+    "translation": "防守平台30秒"
   },
   "ONLY DEFEND! TELEPORT ENABLE IN 180 SECOND": {
-    "translation": " 防守180秒 "
+    "translation": "防守180秒"
   },
   "90 SECOND": {
-    "translation": " 防守90秒 ",
+    "translation": "防守90秒 ",
     "blocked": true
   },
   "30 SECOND": {
-    "translation": " 防守30秒 ",
+    "translation": "防守30秒 ",
     "blocked": true
   },
   "STAGE 7 COMING SOON! NOW ZM ROUND!": {
-    "translation": " ZM关开启!!! "
+    "translation": "ZM关开启!!!"
   },
   "[STAGE 1 NORMAL]": {
-    "translation": " [第一关] "
+    "translation": "[第一关]"
   },
   "[STAGE 2 NORMAL]": {
-    "translation": " [第二关] "
+    "translation": "[第二关]"
   },
   "[STAGE 3 NORMAL]": {
-    "translation": " [第三关] "
+    "translation": "[第三关]"
   },
   "[STAGE 1 EXTREME]": {
-    "translation": " [第四关] "
+    "translation": "[第四关]"
   },
   "[STAGE 2 EXTREME]": {
-    "translation": " [第五关] "
+    "translation": "[第五关]"
   },
   "[STAGE 3 EXTREME]": {
-    "translation": " [第六关] "
+    "translation": "[第六关]"
   },
   "[FINAL STAGE]": {
-    "translation": " [最终关] "
+    "translation": "[最终关]"
   }
 }
