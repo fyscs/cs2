@@ -21,6 +21,7 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
+  "Proxy": true,
   "Counters": [
     {
       "iterator": "HPCounter",
@@ -44,6 +45,5 @@
       "hitbox": "Ifrit_Phys_Body",
       "display": "Ifrit"
     }
-  ],
-  "Proxy": true
+  ]
 }

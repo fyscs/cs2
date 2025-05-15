@@ -21,6 +21,7 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
+  "Proxy": true,
   "Counters": [
     {
       "iterator": "drg7_hp_1",
@@ -44,6 +45,5 @@
       "identity": "17181",
       "display": "魔女精灵"
     }
-  ],
-  "Proxy": true
+  ]
 }
