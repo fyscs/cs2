@@ -1305,7 +1305,7 @@
     "requiredPlayers": 25
   },
   "ze_games_p": {
-    "admin": false,
+    "admin": ture,
     "certainTimes": [-1],
     "cooldown": 60,
     "nomination": false,
