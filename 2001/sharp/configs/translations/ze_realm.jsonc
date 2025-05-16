@@ -1,0 +1,54 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<25>>": {
+    "translation": "<<25>>",
+    "countdown": 25
+  },
+  "<<15>>": {
+    "translation": "<<15>>",
+    "countdown": 15
+  },
+  "<<20>>": {
+    "translation": "<<20>>",
+    "countdown": 20
+  },
+  "<<30>>": {
+    "translation": "<<30>>",
+    "countdown": 30
+  },
+  "<<50>>": {
+    "translation": "<<50>>",
+    "countdown": 50
+  },
+  "<<35>>": {
+    "translation": "<<35>>",
+    "countdown": 35
+  },
+  "<<10>>": {
+    "translation": "<<10>>",
+    "countdown": 10
+  },
+  "*******admin pressed boss battle button*******": {
+    "translation": "管理员按下boss战按钮"
+  },
+  "map by maqu": {
+    "translation": "地图制作:maqu"
+  },
+  "cs2 port by Flamew": {
+    "translation": "CS2移植:Flamew"
+  },
+  "Special thanks: molong2007 SIRloin @Seth.": {
+    "translation": "非常感谢:molong2007 SIRloin @Seth.",
+    "blocked": true
+  }
+}
