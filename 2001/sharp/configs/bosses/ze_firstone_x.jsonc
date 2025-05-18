@@ -21,7 +21,7 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Breakable": [
+  "Breakables": [
     {
       "target": "yaolan_hitbox",
       "hitbox": "yaolan_model",
