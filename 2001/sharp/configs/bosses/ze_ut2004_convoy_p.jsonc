@@ -25,13 +25,7 @@
     {
       "iterator": "boss_counter1",
       "hitbox": "boss_hitbox",
-      "display": "Boss"
-    }
-  ],
-  "Monsters": [
-    {
-      "identity": "1642",
-      "display": "Boss"
+      "stages": 2
     }
   ]
 }

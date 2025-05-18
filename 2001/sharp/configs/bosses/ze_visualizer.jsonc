@@ -31,18 +31,12 @@
     },
     {
       "iterator": "stage2_track_counter",
-      "hitbox": "stage2_track_breakable",
-      "display": "Ball②"
+      "hitbox": "stage2_track_breakable"
     },
     {
       "iterator": "s5_sphere_boss_counter",
       "hitbox": "s5_sphereboss_breakables",
       "display": "Ball⑤"
-    },
-    {
-      "iterator": "stage2_track_counter",
-      "hitbox": "stage2_track_breakable",
-      "display": "Yellow"
     }
   ],
   "Monsters": [

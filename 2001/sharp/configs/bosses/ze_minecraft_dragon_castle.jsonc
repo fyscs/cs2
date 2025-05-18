@@ -21,19 +21,33 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Monsters": [
+  "Counters": [
     {
-      "identity": "23453",
+      "iterator": "b1_hp_counter",
+      "backup": "b1_hp_backup",
+      "counter": "b1_bar_gerisayim",
       "display": "恶魂"
     },
     {
-      "identity": "18049",
+      "iterator": "b2_hp_counter",
+      "backup": "b2_hp_backup",
+      "counter": "b2_bar_gerisayim",
       "display": "监守者"
     },
     {
-      "identity": "23494",
+      "iterator": "b3_hp_counter",
+      "backup": "b3_hp_backup",
+      "counter": "b3_bar_gerisayim",
       "display": "末影龙"
     },
+    {
+      "iterator": "b4_hp_counter",
+      "backup": "b4_hp_backup",
+      "counter": "b4_bar_gerisayim",
+      "display": "地狱恶魂"
+    }
+  ],
+  "Monsters": [
     {
       "identity": "24435",
       "display": "僵尸"
@@ -41,10 +55,6 @@
     {
       "identity": "31832",
       "display": "金合欢木板"
-    },
-    {
-      "identity": "40606",
-      "display": "地狱恶魂"
     }
   ]
 }

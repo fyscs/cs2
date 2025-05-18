@@ -25,20 +25,19 @@
     {
       "target": "BridgeBahamutHitbox",
       "display": "超大圣诞老人"
+    },
+    {
+      "target": "BridgeSephirothHitbox",
+      "display": "萨菲罗斯"
     }
   ],
   "Counters": [
     {
-      "iterator": "BahaHitbox",
-      "hitbox": "BahaHitbox_Grenade",
+      "iterator": "BahamutHealth_Counter",
       "display": "超大圣诞老人"
     }
   ],
   "Monsters": [
-    {
-      "display": "萨菲罗斯",
-      "identity": "51786"
-    },
     {
       "display": "圣诞老人",
       "identity": "3425"

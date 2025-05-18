@@ -21,11 +21,14 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Monsters": [
+  "Counters": [
     {
-      "identity": "1479",
+      "iterator": "Sephiroth_hp",
+      "hitbox": "Sephiroth_hitbox",
       "display": "萨菲罗斯"
-    },
+    }
+  ],
+  "Monsters": [
     {
       "identity": "5222",
       "display": "铠之巨人"

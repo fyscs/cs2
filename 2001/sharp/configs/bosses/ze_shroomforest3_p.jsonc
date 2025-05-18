@@ -26,7 +26,6 @@
       "iterator": "Boss_Health",
       "backup": "Boss_HealthInit",
       "counter": "Boss_HealthCount",
-      "hitbox": "Snorlax_Boss_Phys",
       "display": "Boss"
     },
     {
@@ -34,31 +33,21 @@
       "backup": "Skeleton_Boss_HealthInit1",
       "counter": "Skeleton_Boss_HealthCount1",
       "hitbox": "Skeleton_Boss_Phys1",
-      "display": "Skeleton:1st"
+      "display": "龙离①号"
     },
     {
       "iterator": "Skeleton_Boss_Health2",
       "backup": "Skeleton_Boss_HealthInit2",
       "counter": "Skeleton_Boss_HealthCount2",
       "hitbox": "Skeleton_Boss_Phys2",
-      "display": "Skeleton:2nd"
+      "display": "龙离②号"
     },
     {
       "iterator": "Skeleton_Boss_Health3",
       "backup": "Skeleton_Boss_HealthInit3",
       "counter": "Skeleton_Boss_HealthCount3",
       "hitbox": "Skeleton_Boss_Phys3",
-      "display": "Skeleton:3rd"
-    }
-  ],
-  "Monsters": [
-    {
-      "identity": "767",
-      "display": "Satan"
-    },
-    {
-      "identity": "4340",
-      "display": "LaserFinal"
+      "display": "龙离③号"
     }
   ]
 }

@@ -27,30 +27,23 @@
       "backup": "HPCounterBackUp",
       "counter": "HPCounterIterator",
       "hitbox": "Boss_Scorpion_Breakable",
-      "display": "Scorpion"
-    },
-    {
-      "iterator": "HPCounter",
-      "backup": "HPCounterBackUp",
-      "counter": "HPCounterIterator",
-      "hitbox": "Boss_Bahamut_Breakable",
-      "display": "Bahamut"
+      "display": "Boss"
     }
   ],
   "Breakables": [
     {
       "target": "Final_Fulgor_Breakable",
       "display": "Bahamut"
+    },
+    {
+      "target": "Sephiroth_Final_Breakable",
+      "display": "Sephiroth"
     }
   ],
   "Monsters": [
     {
       "display": "Barrier",
       "identity": "7053"
-    },
-    {
-      "display": "Sephiroth",
-      "identity": "7315"
     }
   ]
 }

@@ -21,29 +21,29 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Monsters": [
+  "Breakables": [
     {
-      "identity": "502",
+      "target": "pl_Skull_Mochi",
       "display": "Skull Mochi"
     },
     {
-      "identity": "474",
+      "target": "pl_Monk_Mochi",
       "display": "Monk Mochi"
     },
     {
-      "identity": "445",
+      "target": "Boss_Kirby_Hitbox",
       "display": "Kirby"
     },
     {
-      "identity": "106",
+      "target": "Boss_Skull_Tank",
       "display": "Skull Tank"
     },
     {
-      "identity": "880",
+      "target": "Mochi_witch",
       "display": "Mochi Witch"
     },
     {
-      "identity": "385",
+      "target": "Mochi_King", 
       "display": "Mochi King"
     }
   ]
