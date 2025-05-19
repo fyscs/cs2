@@ -24,40 +24,40 @@
   "Counters": [
     {
       "iterator": "lv3_boss_sts_hp_cou",
-      "hitbox": "lv3_boss_sts_hp",
+      "hitbox": "lv3_boss_sts_mdl",
       "display": "Boss"
     },
     {
       "iterator": "lv2_boss_sqs_hp_cou",
-      "hitbox": "lv2_boss_sqs_hp",
+      "hitbox": "lv2_boss_sqs_mdl",
       "display": "Boss"
     },
     {
       "iterator": "lv1_boss_jg_hp_cou",
-      "hitbox": "lv1_boss_jg_hp",
+      "hitbox": "lv1_boss_jg_mdl",
       "display": "Boss"
+    },
+    {
+      "iterator": "easteregg_ny_cou",
+      "display": "女妖"
     }
   ],
   "Monsters": [
     {
-      "identity": "643",
-      "display": "Egg"
+      "identity": "2158",
+      "display": "block 1"
     },
     {
-      "identity": "2150",
-      "display": "block1"
+      "identity": "2159",
+      "display": "block 2"
     },
     {
-      "identity": "2141",
-      "display": "block2"
+      "identity": "2162",
+      "display": "block 3"
     },
     {
-      "identity": "2153",
-      "display": "block3"
-    },
-    {
-      "identity": "2156",
-      "display": "block4"
+      "identity": "2160",
+      "display": "block 4"
     }
   ]
 }

@@ -25,12 +25,10 @@
     {
       "iterator": "counter_eschp",
       "hitbox": "br_escdragon",
-      "display": "DragonFinal"
-    }
-  ],
-  "Monsters": [
+      "display": "Dragon"
+    },
     {
-      "identity": "667",
+      "iterator": "counter_dragon",
       "display": "Dragon"
     }
   ]

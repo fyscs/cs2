@@ -27,7 +27,6 @@
       "backup": "Special_HealthInit",
       "counter": "Special_HealthCount",
       "reverse": true,
-      "hitbox": "Boss_Hitbox",
       "display": "Boss"
     },
     {
@@ -44,20 +43,6 @@
       "iterator": "Shinra_Last_Genesis_Counter",
       "hitbox": "Shinra_Last_Genesis_Phys",
       "display": "Boss"
-    },
-    {
-      "iterator": "Special_Health",
-      "backup": "Special_HealthInit",
-      "counter": "Special_HealthCount",
-      "reverse": true,
-      "hitbox": "Last_Genesis_Phys_Body",
-      "display": "Boss"
-    }
-  ],
-  "Monsters": [
-    {
-      "identity": "3462",
-      "display": "Final"
     }
   ]
 }

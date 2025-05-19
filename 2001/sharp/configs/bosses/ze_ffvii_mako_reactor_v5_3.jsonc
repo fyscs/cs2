@@ -29,6 +29,10 @@
     {
       "target": "Monstruo_Breakable",
       "display": "八脚叫兽"
+    },
+    {
+      "target": "bahamutend1",
+      "display": "萨菲罗斯"
     }
   ],
   "Counters": [
@@ -36,12 +40,6 @@
       "iterator": "bahamut_vida",
       "hitbox": "bahamut",
       "display": "巴哈姆特"
-    }
-  ],
-  "Monsters": [
-    {
-      "display": "萨菲罗斯",
-      "identity": "3531"
     }
   ]
 }

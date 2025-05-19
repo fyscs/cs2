@@ -21,9 +21,11 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Monsters": [
+  "Counters": [
     {
-      "identity": "5697",
+      "iterator": "ultralisk_knockback_counter",
+      "mass": 35,
+      "counter": "ultralisk_hp_counter",
       "display": "大牛"
     }
   ]

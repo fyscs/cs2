@@ -21,9 +21,10 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Monsters": [
+  "Breakables": [
     {
-      "identity": "10950",
+      "target": "yaolan_hitbox",
+      "hitbox": "yaolan_model",
       "display": "Yaolan"
     }
   ]

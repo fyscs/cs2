@@ -21,14 +21,16 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Monsters": [
+  "Counters": [
     {
-      "identity": "2036",
-      "display": "Phase1"
+      "iterator": "boss_counter",
+      "mass": 50,
+      "counter": "boss_counter_xueguan"
     },
     {
-      "identity": "2389",
-      "display": "Phase2"
+      "iterator": "boss_counter2",
+      "mass": 50,
+      "counter": "boss_counter2_xueguan"
     }
   ]
 }
