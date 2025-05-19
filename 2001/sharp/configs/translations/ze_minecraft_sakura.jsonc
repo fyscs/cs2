@@ -39,8 +39,8 @@
     "translation": "钓鱼台上的钻石块才是树屋开关!"
   },
   "(树屋将在60s后开放)": {
-    "translation": "树屋将在40秒后开放",
-    "countdown": 40
+    "translation": "树屋将在60秒后开放",
+    "countdown": 60
   },
   "(僵尸15秒后传送，开润！）": {
     "translation": "僵尸15秒后传送,开润!"
