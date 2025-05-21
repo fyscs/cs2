@@ -56,28 +56,28 @@
     "translation": "140秒后逃离!"
   },
   "入侵者：你......你们这些可恶的人类！": {
-    "translation": "入侵者：你..你们这些可恶的人类!",
-		"blocked": true
+    "translation": "入侵者:你..你们这些可恶的人类!",
+    "blocked": true
   },
   "入侵者：我花了这么久才控制了这个无能mapper创造的世界，怎么能这么轻易被你们抹除！": {
-    "translation": "入侵者：我花了这么久才控制了这个无能mapper创造的世界,怎么能这么轻易被你们抹除!",
-		"blocked": true
+    "translation": "入侵者:我花了这么久才控制了这个无能mapper创造的世界,怎么能这么轻易被你们抹除!",
+    "blocked": true
   },
   "入侵者：我.....我已经坚持不了太久了......": {
-    "translation": "入侵者：我..我已经坚持不了太久了..",
-		"blocked": true
+    "translation": "入侵者:我..我已经坚持不了太久了..",
+    "blocked": true
   },
   "入侵者：但是就算是这样，你们也别想活着从这里离开！！！": {
     "translation": "入侵者:但是就算是这样,你们也别想活着从这里离开!!!",
-		"blocked": true
+    "blocked": true
   },
   "入侵者：都给我去死吧！！！": {
     "translation": "入侵者:都给我去死吧!!!",
-		"blocked": true
+    "blocked": true
   },
   "<< DO NOT TRUST THE BLACK LASER YOU SEE!!! >>": {
     "translation": "<< DO NOT TRUST THE BLACK LASER YOU SEE!!! >>",
-		"blocked": true
+    "blocked": true
   },
   "<< SURVIVE FOR FINAL 20 SECONDS !!! >>": {
     "translation": "生存最后20秒!"
@@ -99,31 +99,31 @@
   },
   "入侵者：加把劲让我瞧瞧吧，可别让我不用一点实力就把你们彻底击溃！！！": {
     "translation": "入侵者:加把劲让我瞧瞧吧,可别让我不用一点实力就把你们彻底击溃!!!",
-		"blocked": true
+    "blocked": true
   },
   "入侵者：对付你们这些人我甚至不用使出全力！": {
     "translation": "入侵者:对付你们这些人我甚至不用使出全力!",
-		"blocked": true
+    "blocked": true
   },
   "入侵者：你不会以为就凭这些人就能把我抹除吧？": {
     "translation": "入侵者:你不会以为就凭这些人就能把我抹除吧?",
-		"blocked": true
+    "blocked": true
   },
   "入侵者：呵呵，我还没仔细看清，原来你还带了一些自以为是的玩家来？": {
     "translation": "入侵者:呵呵,我还没仔细看清,原来你还带了一些自以为是的玩家来?",
-		"blocked": true
+    "blocked": true
   },
   "入侵者：你想利用你自己的权限把我抹除，但是你的实力太差了，你根本就没有能力来抹除我": {
     "translation": "入侵者:你想利用你自己的权限把我抹除,但是你的实力太差了,你根本就没有能力来抹除我",
-		"blocked": true
+    "blocked": true
   },
   "入侵者：哈哈，又是你这个无能的mapper": {
     "translation": "入侵者:哈哈,又是你这个无能的mapper",
-		"blocked": true
+    "blocked": true
   },
   "<< 60 >>": {
     "translation": "60s",
-		"countdown": 60
+    "countdown": 60
   },
   "<< Fallen Sky >>": {
     "translation": "天坠"
@@ -219,8 +219,8 @@
     "translation": "第四关已通过"
   },
   "--离平台链接消失还有12秒--": {
-    "translation": "--离平台链接消失还有12秒--",
-		"countdown": 12
+    "translation": "离平台链接消失还有12秒",
+    "countdown": 12
   },
   "<<云从月出现了！>>": {
     "translation": "云从月出现了!"
@@ -254,7 +254,7 @@
   },
   "<< AFK Teleport in 10 seconds >>": {
     "translation": "挂机者将在10秒后传送",
-		"blocked": true
+    "blocked": true
   },
   "** Something will happen in 20 seconds **": {
     "translation": "20秒后会发生某些事情.."
@@ -297,7 +297,7 @@
   },
   "<< AFK teleport in 10>>": {
     "translation": "挂机者将在10秒后传送",
-		"blocked": true
+    "blocked": true
   },
   "** C4 will explode in 20 seconds **": {
     "translation": "C4将在20秒后引爆"
