@@ -254,7 +254,6 @@
   },
   "<< AFK Teleport in 10 seconds >>": {
     "translation": "挂机者将在10秒后传送",
-    "blocked": true
   },
   "** Something will happen in 20 seconds **": {
     "translation": "20秒后会发生某些事情.."
@@ -297,7 +296,6 @@
   },
   "<< AFK teleport in 10>>": {
     "translation": "挂机者将在10秒后传送",
-    "blocked": true
   },
   "** C4 will explode in 20 seconds **": {
     "translation": "C4将在20秒后引爆"
