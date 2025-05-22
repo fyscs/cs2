@@ -1,0 +1,354 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<< A player has picked up electro magic >>": {
+    "translation": "玩家拾取了电神器"
+  },
+  "<< FAIL...... >>": {
+    "translation": "失败了.."
+  },
+  "<< Misaka will help you >>": {
+    "translation": "御坂会帮你的"
+  },
+  "<< The cannon will deactive if misaka pick other magic >>": {
+    "translation": "如果御坂拾取了其他神器就会失效"
+  },
+  "<< A zombie has picked up speed magic >>": {
+    "translation": "一名僵尸拾取了加速"
+  },
+  "<< zombie used speed >>": {
+    "translation": "僵尸使用了加速!"
+  },
+  "<< A zombie has picked up gravity magic >>": {
+    "translation": "僵尸拾取了黑洞"
+  },
+  "<< A player has picked up heal magic >>": {
+    "translation": "玩家拾取了治疗"
+  },
+  "<< A player has picked up snow magic >>": {
+    "translation": "玩家拾取了冰雪"
+  },
+  "<< A player has picked up wind magic >>": {
+    "translation": "玩家拾取了狂风"
+  },
+  "<< R.I.P >>": {
+    "translation": "愿你安息"
+  },
+  "<< This Tomb is used to commemorate the player who win ze_misaka with bhop hack >>": {
+    "translation": "这个墓碑是用来纪念用bhop hack通关ze_misaka的玩家"
+  },
+  "<< Misaka will release the power in 20 seconds >>": {
+    "translation": "御坂将在20秒后释放终极"
+  },
+  "<< CANNON READY >>": {
+    "translation": "加农炮准备就绪"
+  },
+  "<< ESCAPE IN 140 seconds >>": {
+    "translation": "140秒后逃离!"
+  },
+  "入侵者：你......你们这些可恶的人类！": {
+    "translation": "入侵者:你..你们这些可恶的人类!",
+    "blocked": true
+  },
+  "入侵者：我花了这么久才控制了这个无能mapper创造的世界，怎么能这么轻易被你们抹除！": {
+    "translation": "入侵者:我花了这么久才控制了这个无能mapper创造的世界,怎么能这么轻易被你们抹除!",
+    "blocked": true
+  },
+  "入侵者：我.....我已经坚持不了太久了......": {
+    "translation": "入侵者:我..我已经坚持不了太久了..",
+    "blocked": true
+  },
+  "入侵者：但是就算是这样，你们也别想活着从这里离开！！！": {
+    "translation": "入侵者:但是就算是这样,你们也别想活着从这里离开!!!",
+    "blocked": true
+  },
+  "入侵者：都给我去死吧！！！": {
+    "translation": "入侵者:都给我去死吧!!!",
+    "blocked": true
+  },
+  "<< DO NOT TRUST THE BLACK LASER YOU SEE!!! >>": {
+    "translation": "<< DO NOT TRUST THE BLACK LASER YOU SEE!!! >>",
+    "blocked": true
+  },
+  "<< SURVIVE FOR FINAL 20 SECONDS !!! >>": {
+    "translation": "生存最后20秒!"
+  },
+  "<< 不要相信黑色的刀！！ >>": {
+    "translation": "不要相信黑色的刀!!"
+  },
+  "<< Congratulations !!! >>": {
+    "translation": "恭喜!!"
+  },
+  "<< You have win all stage!!! >>": {
+    "translation": "你成功通关了所有关卡!"
+  },
+  "<< Map by Misaka >>": {
+    "translation": "地图制作:Misaka,地图汉化:大明,立华游理"
+  },
+  "<< HOLY >>": {
+    "translation": "Holy"
+  },
+  "入侵者：加把劲让我瞧瞧吧，可别让我不用一点实力就把你们彻底击溃！！！": {
+    "translation": "入侵者:加把劲让我瞧瞧吧,可别让我不用一点实力就把你们彻底击溃!!!",
+    "blocked": true
+  },
+  "入侵者：对付你们这些人我甚至不用使出全力！": {
+    "translation": "入侵者:对付你们这些人我甚至不用使出全力!",
+    "blocked": true
+  },
+  "入侵者：你不会以为就凭这些人就能把我抹除吧？": {
+    "translation": "入侵者:你不会以为就凭这些人就能把我抹除吧?",
+    "blocked": true
+  },
+  "入侵者：呵呵，我还没仔细看清，原来你还带了一些自以为是的玩家来？": {
+    "translation": "入侵者:呵呵,我还没仔细看清,原来你还带了一些自以为是的玩家来?",
+    "blocked": true
+  },
+  "入侵者：你想利用你自己的权限把我抹除，但是你的实力太差了，你根本就没有能力来抹除我": {
+    "translation": "入侵者:你想利用你自己的权限把我抹除,但是你的实力太差了,你根本就没有能力来抹除我",
+    "blocked": true
+  },
+  "入侵者：哈哈，又是你这个无能的mapper": {
+    "translation": "入侵者:哈哈,又是你这个无能的mapper",
+    "blocked": true
+  },
+  "<< 60 >>": {
+    "translation": "60s",
+    "countdown": 60
+  },
+  "<< Fallen Sky >>": {
+    "translation": "天坠"
+  },
+  "<< MEGA PUSH >>": {
+    "translation": "增强推力"
+  },
+  "<< GIGA DRAIN >>": {
+    "translation": "千兆漏极"
+  },
+  "<< The final fence will break in 120 seconds >>": {
+    "translation": "最后一道栅栏120秒后碎开!"
+  },
+  "<< FALL OF EARTH >>": {
+    "translation": "地面正在沉降!"
+  },
+  "<< Flame of Revenge >>": {
+    "translation": "尸笼"
+  },
+  "<< Hunting Instinct >>": {
+    "translation": "狩猎本能(面对BOSS方向来跳刀)"
+  },
+  "<< CANNON >>": {
+    "translation": "加农炮"
+  },
+  "<< Starfall >>": {
+    "translation": "星坠"
+  },
+  "<< Trials of Sword lv.1 >>": {
+    "translation": "跳刀审判 Lv.1"
+  },
+  "<< Trials of Sword lv.2 >>": {
+    "translation": "跳刀审判 Lv.2"
+  },
+  "<< the way will close in 10 seconds >>": {
+    "translation": "门将在10秒后关闭"
+  },
+  "<< the platform wil rise in 20 seconds >>": {
+    "translation": "平台将在20秒后升起"
+  },
+  "<< wait for 20 seconds >>": {
+    "translation": "再等待20秒!"
+  },
+  "<< defend for 20 seconds >>": {
+    "translation": "防守20秒!"
+  },
+  "<< defend for 25 seconds >>": {
+    "translation": "防守25秒!"
+  },
+  "<< STAGE I COMPLETE >>": {
+    "translation": "第一关已通过"
+  },
+  "<< the way will be able to pass in 20 seconds >>": {
+    "translation": "路将在20秒后开放"
+  },
+  "<< teleport human in 20 seconds >>": {
+    "translation": "20秒后传送所有人类"
+  },
+  "<< the bridge will appear in 20 seconds >>": {
+    "translation": "大桥将在20秒后打开"
+  },
+  "<< wait for a few seconds >>": {
+    "translation": "再守住一会.."
+  },
+  "<< defend for 30 seconds >>": {
+    "translation": "防守30秒!"
+  },
+  "<< defend for 40 seconds >>": {
+    "translation": "防守40秒!"
+  },
+  "<< STAGE II COMPLETE >>": {
+    "translation": "第二关已通过"
+  },
+  "<< defend for 10 seconds >>": {
+    "translation": "防守10秒!"
+  },
+  "<< defend for 15 seconds >>": {
+    "translation": "防守15秒!"
+  },
+  "<< hold for 25 seconds >>": {
+    "translation": "守住25秒!"
+  },
+  "<< the way will be able to pass in 10 seconds >>": {
+    "translation": "路将在10秒后开放"
+  },
+  "<< wait for 30 seconds >>": {
+    "translation": "再等待30秒"
+  },
+  "<< the boat will move in 10 seconds >>": {
+    "translation": "船在10秒后移动"
+  },
+  "<< STAGE IV COMPLETE >>": {
+    "translation": "第四关已通过"
+  },
+  "--离平台链接消失还有12秒--": {
+    "translation": "离平台链接消失还有12秒",
+    "countdown": 12
+  },
+  "<<云从月出现了！>>": {
+    "translation": "云从月出现了!"
+  },
+  "<<云从月：再加把劲让我看看吧......>>": {
+    "translation": "云从月:再加把劲让我看看吧.."
+  },
+  "<<云从月：还不赖......不过下一次你们就没有这么好的运气了! >": {
+    "translation": "云从月:还不赖..不过下一次你们就没有这么好的运气了!"
+  },
+  "*** Hello, this is mapper saying ***": {
+    "translation": "'你好,这段话来自Misaka'"
+  },
+  "*** As you see in the last round, the world I created has been taken over by unknown forces  ***": {
+    "translation": "'正如你在上一回合看到,我创造的世界已经被未知的力量所占领'"
+  },
+  "*** I'm impressed with what you've done, and I want you to help me weed out the aggressor  ***": {
+    "translation": "'你的所作所为令我印象深刻,我希望你可以帮助我铲除掉侵略者.'"
+  },
+  "*** This is where the aggressor is, go ahead and defeat it! ***": {
+    "translation": "'侵略者就在你面前,上前去打败他吧!'"
+  },
+  "** We're getting closer to where the aggressor are, so if you're ready, press the button to enter the inner world **": {
+    "translation": "'我们离侵略者越来越近了,如果你准备好了,就按下这个按钮进入里世界!'"
+  },
+  "** Door will open in 20 seconds **": {
+    "translation": "门在20秒后打开"
+  },
+  "<< Teleport in 20 seconds >>": {
+    "translation": "20秒后传送"
+  },
+  "<< AFK Teleport in 10 seconds >>": {
+    "translation": "挂机者将在10秒后传送",
+  },
+  "** Something will happen in 20 seconds **": {
+    "translation": "20秒后会发生某些事情.."
+  },
+  "*** Defeat Misaka or Survive for 30 seconds ***": {
+    "translation": "打败御坂或者存活30秒!"
+  },
+  "*** Mapper: I will help you from the next round ***": {
+    "translation": "Misaka:我下回合来助你一臂之力!"
+  },
+  "*** Mapper: Only if you can complete this challenge!!! **": {
+    "translation": "Misaka:只有你才能完成这个挑战!!"
+  },
+  "*** Mapper: Seems that you guys are good at DODGING LASER ***": {
+    "translation": "Misaka:看来你们很擅长跳刀"
+  },
+  "*** Mapper: OK Now just finish this round ***": {
+    "translation": "Misaka:那就来试试这一局"
+  },
+  "*** Mapper: I will help you after this round, good luck ***": {
+    "translation": "Misaka:过完这一局我再来帮你,GL!"
+  },
+  "*** Defend final 25 seconds ***": {
+    "translation": "守住最后的25秒!"
+  },
+  "*** STAGE III Complete ***": {
+    "translation": "第三关已通过"
+  },
+  "*** Human Item Misaka will be Unlocked from next round ***": {
+    "translation": "御坂皮肤将在下回合解锁"
+  },
+  "--- 云从月暂时撤退了...... ---": {
+    "translation": "云从月暂时撤退了.."
+  },
+  "** all things will teleport out of the inner world in 15 seconds **": {
+    "translation": "一切事物将在15秒后传送出里世界!"
+  },
+  "** Plant the C4, add leave there immediately!!! **": {
+    "translation": "安下C4,然后马上离开!!!"
+  },
+  "<< AFK teleport in 10>>": {
+    "translation": "挂机者将在10秒后传送",
+  },
+  "** C4 will explode in 20 seconds **": {
+    "translation": "C4将在20秒后引爆"
+  },
+  "<< defend for 35 seconds >>": {
+    "translation": "防守35秒"
+  },
+  "<< the bridge will open in 20 seconds >>": {
+    "translation": "大桥将在20秒后打开"
+  },
+  "<< The next button will unlock in 10 seconds >>": {
+    "translation": "下一个按钮将在10秒后解锁"
+  },
+  "<< the way is able to pass now >>": {
+    "translation": "现在可以通过了"
+  },
+  "<< the boat will move again in 10 seconds >>": {
+    "translation": "船将在10秒后再次移动!"
+  },
+  "<< Admin select STAGE III >>": {
+    "translation": "管理员选择了第三关"
+  },
+  "<< Do not select this stage!!! >>": {
+    "translation": "不要设置这一关!!"
+  },
+  "<< A zombie has picked up zmskin >>": {
+    "translation": "僵尸拾取了ZM皮肤"
+  },
+  "<< A zombie has picked up zmshiel >>": {
+    "translation": "僵尸拾取了护盾"
+  },
+  "<< Admin select STAGE I >>": {
+    "translation": "管理员选择了第一关"
+  },
+  "<< Admin select STAGE V >>": {
+    "translation": "管理员选择了第五关"
+  },
+  "<< Admin select STAGE II >>": {
+    "translation": "管理员选择了第二关"
+  },
+  "<< Admin select STAGE IV >>": {
+    "translation": "管理员选择了第四关"
+  },
+  "** Teleport will enable in 35 seconds **": {
+    "translation": "传送将在35秒后激活"
+  },
+  "** Now its time to face the aggressor **": {
+    "translation": "是时候面对侵略者了!"
+  },
+  "** You press this button now **": {
+    "translation": "现在按下这个按钮!"
+  },
+  "hhh": {
+    "translation": "hhh"
+  }
+}
