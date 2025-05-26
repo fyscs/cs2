@@ -1,0 +1,163 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "僵尸获得了《收割》": {
+    "translation": "僵尸获得了收割"
+  },
+  "僵尸获得了《牛车》": {
+    "translation": "僵尸获得了牛车"
+  },
+  "僵尸获得了《墙蔓》": {
+    "translation": "僵尸获得了墙蔓"
+  },
+  "僵尸获得了《毒池》": {
+    "translation": "僵尸获得了毒池"
+  },
+  "僵尸获得了《束缚》": {
+    "translation": "僵尸获得了束缚"
+  },
+  "僵尸获得了《消除》": {
+    "translation": "僵尸获得了消除"
+  },
+  "僵尸获得了《鬼雾》": {
+    "translation": "僵尸获得了鬼雾"
+  },
+  "僵尸获得了《捆绑》": {
+    "translation": "僵尸获得了捆绑"
+  },
+  "僵尸获得了《轨道炮》": {
+    "translation": "僵尸获得了轨道炮"
+  },
+  "僵尸获得了《流星》": {
+    "translation": "僵尸获得了流星"
+  },
+  "僵尸获得了《自爆》": {
+    "translation": "僵尸获得了自爆"
+  },
+  "僵尸获得了《刀锋》": {
+    "translation": "僵尸获得了刀锋"
+  },
+  "僵尸获得了《护盾》": {
+    "translation": "僵尸获得了护盾"
+  },
+  "僵尸获得了《传送球》": {
+    "translation": "僵尸获得了传送球"
+  },
+  "僵尸获得了《炸弹》": {
+    "translation": "僵尸获得了炸弹"
+  },
+  "僵尸获得了《虹吸》": {
+    "translation": "僵尸获得了虹吸"
+  },
+  ">>> 一位人类习得了卡尔的智慧 <<<": {
+    "translation": ">>> 一位人类习得了卡尔的智慧 <<<"
+  },
+  ">>> 一位人类习得了冰刺 <<<": {
+    "translation": ">>> 一位人类习得了冰刺 <<<"
+  },
+  ">>> 一位人类习得了直线风 <<<": {
+    "translation": ">>> 一位人类习得了直线风 <<<"
+  },
+  ">>> 一位人类习得了罗生门 <<<": {
+    "translation": ">>> 一位人类习得了罗生门 <<<"
+  },
+  ">>> 一位人类习得了医疗魔法 <<<": {
+    "translation": ">>> 一位人类习得了医疗魔法 <<<"
+  },
+  ">>> 一位人类习得了厄斐琉斯 <<<": {
+    "translation": ">>> 一位人类习得了厄斐琉斯 <<<"
+  },
+  ">>> 一位人类习得了凤凰之炽 <<<": {
+    "translation": ">>> 一位人类习得了凤凰之炽 <<<"
+  },
+  ">>> 一位人类习得萨科 <<<": {
+    "translation": ">>> 一位人类习得萨科 <<<"
+  },
+  ">>> 一位人类习得水瀑<<<": {
+    "translation": ">>> 一位人类习得水瀑<<<"
+  },
+  ">>> 一位人类习得壁垒<<<": {
+    "translation": ">>> 一位人类习得壁垒<<<"
+  },
+  ">>> 一位人类习得冲击<<<": {
+    "translation": ">>> 一位人类习得冲击<<<"
+  },
+  "<--- 30s --->": {
+    "translation": "<--- 30s --->"
+  },
+  "** Kill all remaining zombies **": {
+    "translation": "** 清理剩余的僵尸 **"
+  },
+  "** Please find 4 switches **": {
+    "translation": "** 请找到四个开关 **"
+  },
+  "** All switches have been pressed **": {
+    "translation": "** 所有的开关均已按下 **"
+  },
+  "僵尸获得了《毒球》": {
+    "translation": "僵尸获得了毒球"
+  },
+  "僵尸获得了《须臾》": {
+    "translation": "僵尸获得了须臾"
+  },
+  "僵尸获得了《烟雾弹》": {
+    "translation": "僵尸获得了烟雾弹"
+  },
+  "*第一关*": {
+    "translation": "*第一关*"
+  },
+  "*第二关*": {
+    "translation": "*第二关*"
+  },
+  "*第三关*": {
+    "translation": "*第三关*"
+  },
+  "*第四关*": {
+    "translation": "*第四关*"
+  },
+  "*ZM*": {
+    "translation": "*ZM*"
+  },
+  "*210s后核爆*": {
+    "translation": "*210秒后核爆*"
+  },
+  "<<< stage 3 >>>": {
+    "translation": "<<< 第三关 >>>"
+  },
+  "** you win **": {
+    "translation": "** 人类胜利 **"
+  },
+  "<<< stage 2 >>>": {
+    "translation": "<<< 第二关 >>>"
+  },
+  "<<< stage 1 >>>": {
+    "translation": "<<< 第一关 >>>"
+  },
+  "<<< stage 4 >>>": {
+    "translation": "<<< 第四关4 >>>"
+  },
+  "** Press the fourth switch **": {
+    "translation": "** 请按下第四个开关 **"
+  },
+  "<< All Item unlock >>": {
+    "translation": "<< 所有神器均解锁 >>"
+  },
+  "** Press the thirdt switch **": {
+    "translation": "** 请按下第三个开关 **"
+  },
+  "** Press the first switch **": {
+    "translation": "** 请按下第一个开关 **"
+  },
+  "** Press the second switch **": {
+    "translation": "** 请按下第二个开关 **"
+  }
+}
