@@ -3150,7 +3150,7 @@
     "requiredPlayers": -1
   },
   "ze_shroomforest2_p": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 80,
     "nomination": true,
