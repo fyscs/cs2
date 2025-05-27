@@ -1,0 +1,60 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "BossHealth",
+      "backup": "BossHealthInit",
+      "counter": "BossHealthCount",
+      "display": "Boss"
+    },
+    {
+      "iterator": "boss_health",
+      "backup": "boss_health_backup",
+      "counter": "boss_health_bar",
+      "display": "Boss"
+    },
+    {
+      "iterator": "SatanHealth",
+      "backup": "SatanHealthInit",
+      "counter": "SatanHealthCount",
+      "hitbox": "Part2_Satan_Phys",
+      "display": "撒旦",
+      "reverse": true
+    },
+    {
+      "iterator": "tv_boss_health",
+      "backup": "tv_boss_health_backup",
+      "counter": "tv_boss_health_bar",
+      "hitbox": "B2a_Phys",
+      "display": "BiliBili"
+    },
+    {
+      "iterator": "dragon_health",
+      "backup": "dragon_health_backup",
+      "counter": "dragon_health_bar",
+      "hitbox": "Dragon_Model",
+      "display": "龙"
+    }
+  ]
+}

@@ -3131,7 +3131,7 @@
     "requiredOnline": -1,
     "requiredPlayers": 25
   },
-  "ze_shroomforest_i": {
+  "ze_shroomforest_p": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 80,
@@ -3140,7 +3140,7 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
-  "ze_shroomforest2_i": {
+  "ze_shroomforest2_p": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 80,

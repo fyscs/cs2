@@ -23,18 +23,7 @@
 {
   "Counters": [
     {
-      "iterator": "Boss_Health",
-      "backup": "Boss_HealthInit",
-      "counter": "Boss_HealthCount",
-      "display": "Boss",
-      "reverse": true
-    },
-    {
-      "iterator": "Satan_Health",
-      "backup": "Satan_HealthInit",
-      "counter": "Satan_HealthCount",
-      "display": "撒旦",
-      "reverse": true
+      "iterator": "dynamichp"
     }
   ]
 }
