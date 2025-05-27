@@ -28,47 +28,20 @@
   ">> PLAYER HAS CHOSEN: HEAVEN EXTREME <<": {
     "translation": ">> 已选择关卡为:天堂EX <<"
   },
-  "*** FLY LEAVING IN 30 SECONDS ***": {
-    "translation": "*** 30秒后起飞 ***"
+  ">> ALL 6 MINES USED <<": {
+    "translation": ">> 6枚地雷已全部使用 <<"
   },
   ">> There is an error in the level system <<": {
     "translation": ">> 选择关卡出错 <<"
   },
-  ">> LEVEL: RAVINE <<": {
-    "translation": ">> 关卡: 峡谷 <<"
-  },
-  ">> LEVEL: TV <<": {
-    "translation": ">> 关卡: 电视 <<"
-  },
-  ">> LEVEL: HEAVEN <<": {
-    "translation": ">> 关卡: 天堂 <<"
-  },
-  ">> EXTREME MODE ADDED <<": {
-    "translation": ">> EX配置启动 <<"
-  },
-  ">> WARMUP ROUND <<": {
-    "translation": ">> 热身 <<"
-  },
-  ">> WARMUP ROUND END <<": {
-    "translation": ">> 热身回合结束 <<"
-  },
-  ">> 40 SECONDS LEFT <<": {
-    "translation": ">> 剩余40秒 <<"
-  },
-  ">> 30 SECONDS LEFT <<": {
-    "translation": ">> 剩余30秒 <<"
-  },
-  ">> 20 SECONDS LEFT <<": {
-    "translation": ">> 剩余20秒 <<"
-  },
-  ">> LEVEL: THE END <<": {
-    "translation": ">> 关卡: 最终之战 <<"
-  },
-  ">> 10 SECONDS LEFT <<": {
-    "translation": ">> 剩余10秒 <<"
-  },
   ">> PLAYER HAS CHOSEN: THE END <<": {
     "translation": ">> 选择关卡: 最终之战 <<"
+  },
+  ">> PLAYER HAS CHOSEN: ZM<<": {
+    "translation": ">> 已选择关卡为: ZM <<"
+  },
+  ">> CLOUD LEAVING IN 10 SECONDS <<": {
+    "translation": ">> 云将在10秒后离开 <<"
   },
   ">> Map by Taskuvaras <<": {
     "translation": ">> 地图作者:Taskuvaras 地图翻译:元帅@fys <<"
@@ -85,11 +58,98 @@
   ">> PLAYER HAS CHOSEN: RAVINE EXTREME <<": {
     "translation": ">> 已选择关卡: 峡谷EX <<"
   },
+  ">> SATAN IS HURT !!! <<": {
+    "translation": ">> 撒旦受伤了 !!! <<"
+  },
+  ">> ESCAPE VIA THE PORTAL !!! <<": {
+    "translation": ">> 快,从传送门逃走 !!! <<"
+  },
+  ">> DONT LET ZOMBIES GET IN !!! <<": {
+    "translation": ">> 千万别让僵尸进来了,开火 !!! <<"
+  },
+  ">> PORTAL CLOSING IN 10 SECONDS !!! <<": {
+    "translation": ">> 抓紧,传送门将在10秒后关闭 !!! <<"
+  },
+  ">> PORTAL CLOSING IN 5 SECONDS !!! <<": {
+    "translation": ">> 注意,传送门将在5秒后关闭 !!! <<"
+  },
+  ">> PORTAL IS CLOSING !!! <<": {
+    "translation": ">> 传送门正在关闭 !!! <<"
+  },
+  ">> SECRET MUSIC UNLOCKED FOR ZM ROUND <<": {
+    "translation": ">> ZM回合的秘密音乐已解锁 <<"
+  },
+  ">> 3 WINS IN A ROW !!! <<": {
+    "translation": ">> 连续3次胜利 !!! <<"
+  },
+  "*** FLY LEAVING IN 30 SECONDS ***": {
+    "translation": "*** 30秒后起飞 ***"
+  },
   ">> ESCAPE BY THE LADDER <<": {
     "translation": ">> 快爬上梯子逃跑 <<"
   },
   ">> THE GROKE IS DEAD <<": {
     "translation": ">> GROKE已被击败 <<"
+  },
+  ">> WARMUP ROUND <<": {
+    "translation": ">> 热身 <<"
+  },
+  ">> WARMUP ROUND END <<": {
+    "translation": ">> 热身回合结束 <<"
+  },
+  ">> 40 SECONDS LEFT <<": {
+    "translation": ">> 剩余40秒 <<"
+  },
+  ">> 30 SECONDS LEFT <<": {
+    "translation": ">> 剩余30秒 <<"
+  },
+  ">> 20 SECONDS LEFT <<": {
+    "translation": ">> 剩余20秒 <<"
+  },
+  ">> 10 SECONDS LEFT <<": {
+    "translation": ">> 剩余10秒 <<"
+  },
+  ">> LEVEL: RAVINE <<": {
+    "translation": ">> 关卡: 峡谷 <<"
+  },
+  ">> LEVEL: TV <<": {
+    "translation": ">> 关卡: 电视 <<"
+  },
+  ">> LEVEL: HEAVEN <<": {
+    "translation": ">> 关卡: 天堂 <<"
+  },
+  " >> EXTREME MODE ADDED <<": {
+    "translation": " >> EX配置启动 <<"
+  },
+  ">> LEVEL: THE END <<": {
+    "translation": ">> 关卡: 最终之战 <<"
+  },
+  ">> 70 SECONDS LEFT <<": {
+    "translation": ">> 剩余70秒 <<"
+  },
+  ">> FIND THE TELEPORTER TO LEVEL ROOM <<": {
+    "translation": ">> 寻找通往关卡房间的传送门 <<"
+  },
+  ">> SURVIVE 180 SECONDS IN THE SPAWN AND TV AREA <<": {
+    "translation": ">> 在出生点和电视区域生存180秒 <<"
+  },
+  " >> LEVEL: ZM <<": {
+    "translation": " >> 关卡: ZM <<"
+  },
+  ">> 90 SECONDS LEFT <<": {
+    "translation": ">> 剩余90秒 <<"
+  },
+  ">> 50 SECONDS LEFT <<": {
+    "translation": ">> 剩余50秒 <<"
+  },
+  ">> 120 SECONDS LEFT <<": {
+    "translation": ">> 剩余120秒 <<"
+  },
+  ">> 150 SECONDS LEFT <<": {
+    "translation": ">> 剩余150秒 <<"
+  },
+  ">> 5 SECONDS LEFT <<": {
+    "translation": ">> 剩余5秒 <<"
   },
   ">> ESCAPE BY THE WEB <<": {
     "translation": ">> 快上蜘蛛网!! <<"
@@ -100,14 +160,17 @@
   ">> THE TV HEART IS DESTROYED <<": {
     "translation": ">> 电视的核心被我们破坏了 <<"
   },
-  ">> FAT SPIDER IS DEAD <<": {
-    "translation": ">> 蜘蛛被我们击败了 <<"
-  },
   ">> RUN TO SAFETY <<": {
     "translation": ">> 撤离至安全地带 <<"
   },
   ">> GOD HAS BEEN DEFEATED !!! <<": {
     "translation": ">> 上帝死了 !!! <<"
+  },
+  ">> FAT SPIDER IS DEAD <<": {
+    "translation": ">> 蜘蛛被我们击败了 <<"
+  },
+  ">> FALLEN ANGEL HAS BEEN DEFEATED !!! <<": {
+    "translation": ">> 堕落的天使已被击败 !!! <<"
   },
   ">> CONTINUE TO DEFEND <<": {
     "translation": ">> 继续防守 <<"
@@ -115,14 +178,32 @@
   ">> LET THE ANGELS ESCAPE FIRST <<": {
     "translation": ">> 让天使们先逃 <<"
   },
-  ">> FALLEN ANGEL HAS BEEN DEFEATED !!! <<": {
-    "translation": ">> 堕落的天使已被击败 !!! <<"
-  },
   ">> THE DRAGON HAS BEEN DEFEATED !!! <<": {
     "translation": ">> 成功击败恶龙 !!! <<"
   },
   ">> SATAN IS FINALLY DEFEATED !!! <<": {
     "translation": ">> 撒旦被我们打败了,但它真的被打败了吗..... <<"
+  },
+  ">> We are starting our descent <<": {
+    "translation": ">> 我们开始下落了,小心 ! <<"
+  },
+  ">> This is really bad... <<": {
+    "translation": ">> 这真的很糟糕... <<"
+  },
+  ">> Satan's power didn't even spare our old village ! <<": {
+    "translation": ">> 撒旦的力量甚至没有放过我们古老的蘑菇村庄 ! <<"
+  },
+  ">> We have to save everyone ! <<": {
+    "translation": ">> 我们必须拯救所有人 ! <<"
+  },
+  ">> Play ShroomForest3 to continue the adventure <<": {
+    "translation": ">> 玩蘑菇庄园3继续新一轮的冒险吧 ! <<"
+  },
+  ">> You beat the map ! <<": {
+    "translation": ">> 你征服了这张地图 ! <<"
+  },
+  ">> Congratulations ! <<": {
+    "translation": ">> 恭喜 ! <<"
   },
   ">> PLAYER HAS PICKED UP FIRE <<": {
     "translation": ">> 玩家捡起了神器:火 <<"
@@ -184,9 +265,6 @@
   "*** LEAF LEAVING IN 20 SECONDS ***": {
     "translation": "*** 叶子将在20秒后离开 ***"
   },
-  ">> LEVEL COMPLETED!! <<": {
-    "translation": ">> 关卡已完成!! <<"
-  },
   "*** WEB LEAVING IN 20 SECONDS ***": {
     "translation": "*** 蜘蛛网将在20秒后离开 ***"
   },
@@ -229,9 +307,6 @@
   ">> PLAYER HAS PICKED UP 6 MINES <<": {
     "translation": ">> 有玩家捡了6个地雷 <<"
   },
-  ">> ALL 6 MINES USED <<": {
-    "translation": ">> 6枚地雷已全部使用 <<"
-  },
   "*** BUTTERFLY LEAVING IN 30 SECONDS ***": {
     "translation": "*** 蝴蝶30秒后离开,抓紧! ***"
   },
@@ -246,9 +321,6 @@
   },
   ">> CLOUD LEAVING IN 40 SECONDS <<": {
     "translation": ">> 云将在40秒后离开 <<"
-  },
-  ">> FALL BACK <<": {
-    "translation": ">> 撤退 <<"
   },
   "*** BUTTERFLY IS DEAD !!!! DEFEND LONGER !!!! ***": {
     "translation": "*** 蝴蝶死了!!!但我们需要防守更长的时间 !!!! ***"
@@ -271,17 +343,11 @@
   ">> ... HE IS GONE <<": {
     "translation": ">> ... 他走了 <<"
   },
-  ">> CLOUD LEAVING IN 10 SECONDS <<": {
-    "translation": ">> 云将在10秒后离开 <<"
-  },
   "*** GATE OPENING IN 30 SECONDS ***": {
     "translation": "*** 30秒后闸门开启 ***"
   },
-  ">> OH NO!! ITS FALLEN ANGEL <<": {
-    "translation": ">> 奶奶滴,是堕落的天使! <<"
-  },
   ">> PLAYER HAS PICKED UP UNLIMITED AMMO <<": {
-    "translation": ">> 玩家获得了神器:射 <<"
+    "translation": ">> 玩家获得了神器:弹药 <<"
   },
   ">> We finally did it <<": {
     "translation": ">> 我们终于做到了 <<"
@@ -337,24 +403,6 @@
   ">> NADE DOES MORE DAMAGE <<": {
     "translation": ">> 手雷造成的伤害会更大,我想你应该懂的~ <<"
   },
-  ">> SATAN IS HURT !!! <<": {
-    "translation": ">> 撒旦受伤了 !!! <<"
-  },
-  ">> ESCAPE VIA THE PORTAL !!! <<": {
-    "translation": ">> 快,从传送门逃走 !!! <<"
-  },
-  ">> DONT LET ZOMBIES GET IN !!! <<": {
-    "translation": ">> 千万别让僵尸进来了,开火 !!! <<"
-  },
-  ">> PORTAL CLOSING IN 10 SECONDS !!! <<": {
-    "translation": ">> 抓紧,传送门将在10秒后关闭 !!! <<"
-  },
-  ">> PORTAL CLOSING IN 5 SECONDS !!! <<": {
-    "translation": ">> 注意,传送门将在5秒后关闭 !!! <<"
-  },
-  ">> PORTAL IS CLOSING !!! <<": {
-    "translation": ">> 传送门正在关闭 !!! <<"
-  },
   ">> ZOMBIE CLOUD HAS BEEN PICKED UP <<": {
     "translation": ">> 糟糕 ! 僵尸获得了雷云菇 ! 小心 ! <<"
   },
@@ -363,26 +411,5 @@
   },
   ">> PLAYER HAS PICKED UP WATER <<": {
     "translation": ">> 玩家捡起了神器:水 <<"
-  },
-  ">> We are starting our descent <<": {
-    "translation": ">> 我们开始下落了,小心 ! <<"
-  },
-  ">> This is really bad... <<": {
-    "translation": ">> 这真的很糟糕... <<"
-  },
-  ">> Satan's power didn't even spare our old village ! <<": {
-    "translation": ">> 撒旦的力量甚至没有放过我们古老的蘑菇村庄 ! <<"
-  },
-  ">> We have to save everyone ! <<": {
-    "translation": ">> 我们必须拯救所有人 ! <<"
-  },
-  ">> Play ShroomForest3 to continue the adventure <<": {
-    "translation": ">> 玩蘑菇庄园3继续新一轮的冒险吧 ! <<"
-  },
-  ">> You beat the map ! <<": {
-    "translation": ">> 你征服了这张地图 ! <<"
-  },
-  ">> Congratulations ! <<": {
-    "translation": ">> 恭喜 ! <<"
   }
 }
