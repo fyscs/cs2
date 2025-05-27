@@ -23,7 +23,8 @@
 {
   "Counters": [
     {
-      "iterator": "dynamichp"
+      "iterator": "dynamichp",
+      "increase": true
     }
   ]
 }
