@@ -40,15 +40,6 @@
   "*** WAIT TILL BOMB BREAKS THOSE BOARDS ***": {
     "translation": "*** 我们得想办法用炸弹炸开这些木板 ***"
   },
-  "*** ELEVATOR LEAVING IN 20 seconds ***": {
-    "translation": "*** 电梯20秒后离开 ***"
-  },
-  "*** ELEVATOR LEAVING IN 10 seconds ***": {
-    "translation": "*** 电梯10秒后离开 ***"
-  },
-  "*** ELEVATOR LEAVING IN 5 seconds ***": {
-    "translation": "*** 电梯5秒后离开 ***"
-  },
   "*** SHOOT IT BEFORE ITS TOO LATE!! ***": {
     "translation": "*** 趁现在还来得及开枪!!! ***"
   },
@@ -97,9 +88,6 @@
   ">> LEVEL COMPLETED!! <<": {
     "translation": ">> 关卡通过!! <<"
   },
-  ">> RESTARTING ROUND IN 5 SECONDS <<": {
-    "translation": ">> 回合将在5秒后重置 <<"
-  },
   ">> WAIT FOR 10 SECONDS <<": {
     "translation": ">> 请等待10秒 <<"
   },
@@ -112,9 +100,6 @@
   "*** HOLD FOR 20 seconds ***": {
     "translation": "*** 守住20秒 ***"
   },
-  "*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***": {
-    "translation": "*** 需要去两边的控制室同时按下两个按钮 ***"
-  },
   ">> LEVEL COMPLETED <<": {
     "translation": ">> 关卡通过 <<"
   },
@@ -123,6 +108,9 @@
   },
   "*** HOLD FOR ABOUT 30 SECONDS ***": {
     "translation": "*** 我们大约还要守30秒 ***"
+  },
+  ">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<": {
+    "translation": ">> 快朝野生的百变怪射击!!!!!!!!!! <<"
   },
   "*** OH NO!! ITS DRAGON!! ***": {
     "translation": "*** 哦不!是地狱龙!! ***"
@@ -149,13 +137,10 @@
     "translation": "[特别感谢:Muro#[A]FT]"
   },
   ">> Map by TaskuVaras <<": {
-    "translation": ">> 地图作者:TaskuVaras <<"
+    "translation": ">> 地图作者:TaskuVaras  文本:Zeyu1<<"
   },
   ">> IDEA: Sienestaja <<": {
     "translation": ">> 创意: Sienestaja <<"
-  },
-  ">> Fixed by Moltard <<": {
-    "translation": ">> CS2地图移植:Sea_Sedge海苔@FyS <<"
   },
   ">> There is an error in the level system <<": {
     "translation": ">> 关卡系统出错啦 <<"
@@ -256,6 +241,12 @@
   "*** GO INSIDE OR YOU WILL BE TRAPPED UP HERE !! ***": {
     "translation": "*** 我劝你赶紧进去,否则就去和僵尸贴贴吧 !! ***"
   },
+  ">> DITTO LEAF ARE DESTROYED <<": {
+    "translation": ">> 百变怪叶子被摧毁了 <<"
+  },
+  ">> DITTO ATTACK IS STOPPED FEW SEC <<": {
+    "translation": ">> 百变怪的攻击被暂时阻止了 <<"
+  },
   ">> A WILD PIKACHU IS WAITING FOR US !! <<": {
     "translation": ">> 一只野生的皮卡丘在等着我们 !! <<"
   },
@@ -265,6 +256,12 @@
   ">> IT LOOK LIKE A NEW PLACE ... <<": {
     "translation": ">> 它看起来像个新地方 ... <<"
   },
+  ">> GOOD JOB <<": {
+    "translation": ">> 干得好牢弟 <<"
+  },
+  ">> THE GRID SHOULD START TO CLOSE <<": {
+    "translation": ">> 大门应该开始关闭了 <<"
+  },
   ">> ZOMBIES DETECTED!! LEVEL FAILED!! <<": {
     "translation": ">> 检测到僵尸!!关卡失败!! <<"
   },
@@ -273,12 +270,6 @@
   },
   ">> PLAYER HAS PICKED UP A GEAR MECANISM <<": {
     "translation": ">> 一名勇士找到了这个齿轮!! <<"
-  },
-  ">> GOOD JOB <<": {
-    "translation": ">> 干得好牢弟 <<"
-  },
-  ">> THE GRID SHOULD START TO CLOSE <<": {
-    "translation": ">> 大门应该开始关闭了 <<"
   },
   ">> Play ShroomForest2 to continue the adventure <<": {
     "translation": ">> 请期待在'蘑菇庄园2'继续新的冒险 <<"
@@ -310,40 +301,115 @@
   ">> NOBODY SURVIVED!! LEVEL FAILED!! <<": {
     "translation": ">> 没有一个人活下来!!关卡失败!! <<"
   },
-  ">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<": {
-    "translation": ">> 快朝野生的百变怪射击!!!!!!!!!! <<"
+  ">> RESTARTING ROUND IN 5 SECONDS <<": {
+    "translation": ">> 回合将在5秒后重置 <<"
+  },
+  "*** ELEVATOR LEAVING IN 20 seconds ***": {
+    "translation": "*** 电梯20秒后离开 ***"
+  },
+  "*** ELEVATOR LEAVING IN 10 seconds ***": {
+    "translation": "*** 电梯10秒后离开 ***"
+  },
+  "*** ELEVATOR LEAVING IN 5 seconds ***": {
+    "translation": "*** 电梯5秒后离开 ***"
+  },
+  ">> PLAYER HAS PICKED UP HEAL <<": {
+    "translation": ">> 一名玩家已获取治愈菇 <<"
+  },
+  ">> PLAYER HAS PICKED UP 6 MINES <<": {
+    "translation": ">> 一名玩家已获取六个地雷菇 <<"
+  },
+  ">> ALL 6 MINES USED <<": {
+    "translation": ">> 所有地雷已使用 <<"
+  },
+  ">> PLAYER HAS PICKED UP EARTH <<": {
+    "translation": ">> 一名玩家已获取草墙菇 <<"
+  },
+  "*** PLAYER FOUND A KEY ***": {
+    "translation": "*** 一名玩家拿到了钥匙 ***"
+  },
+  ">> PLAYER HAS PICKED UP FIRE <<": {
+    "translation": ">> 一名玩家已获取烈焰菇 <<"
+  },
+  ">> PLAYER HAS PICKED UP GRAVITY <<": {
+    "translation": ">> 一名玩家已获取重力菇 <<"
+  },
+  ">> PLAYER HAS PICKED UP WIND <<": {
+    "translation": ">> 一名玩家已获取飓风菇 <<"
+  },
+  ">> PLAYER HAS PICKED UP ICE <<": {
+    "translation": ">> 一名玩家已获取冰冻菇 <<"
+  },
+  ">> DITTO IS USING SEED ATTACK <<": {
+    "translation": ">> 百变怪正在使用种子攻击 <<"
+  },
+  ">> DITTO IS USING FLAMETHROWER <<": {
+    "translation": ">> 百变怪正在使用火焰喷射 <<"
+  },
+  ">> DITTO IS USING WATER... SOMETHING <<": {
+    "translation": ">> 百变怪正在使用...水枪? <<"
+  },
+  ">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<": {
+    "translation": ">> 百变怪使用雷电攻击,快游到安全区! <<"
+  },
+  ">> DITTO IS USING SOMETHING... FUNNY? <<": {
+    "translation": ">> 百变怪正在使用...搞笑技能? <<"
   },
   ">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<": {
     "translation": ">> 野生的百变怪使用了变身!!!!!!!!! <<"
   },
-  "Press Other Button!!!": {
-    "translation": "快按下另一个按钮!!!"
+  ">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<": {
+    "translation": ">> 野生百变怪被击败了快跑!!!!!!!!! <<"
+  },
+  ">> AND IT'S NOT VERY EFFECTIVE!!!! <<": {
+    "translation": ">> 但是效果并不是很好!!!! <<"
+  },
+  "*** KEEP SHOOTING ***": {
+    "translation": "*** 继续射击 ***"
+  },
+  "*** SATAN IS ATTACKING ***": {
+    "translation": "*** 傻蛋正在攻击 ***"
+  },
+  "*** SATAN IS PREPARING TO ATTACK ***": {
+    "translation": "*** 傻蛋正在蓄力攻击 ***"
+  },
+  ">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<": {
+    "translation": ">> 玩家已选择关卡: 新的征程 <<"
+  },
+  ">> NUKE INCOMING IN 5 SECONDS <<": {
+    "translation": ">> 核爆5秒后到达战场 <<"
+  },
+  "*** YOU HAVE 5 SECONDS UNTIL MASSIVE NUKE EXPLODES ***": {
+    "translation": "*** 5秒后核爆***"
+  },
+  "*** YOU HAVE 10 SECONDS UNTIL MASSIVE NUKE EXPLODES ***": {
+    "translation": "*** 10秒后核爆 ***"
+  },
+  "*** YOU HAVE 15 SECONDS UNTIL MASSIVE NUKE EXPLODES ***": {
+    "translation": "*** 15秒后核爆 ***"
+  },
+  "*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***": {
+    "translation": "*** 30秒后核爆 ***"
+  },
+  "*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***": {
+    "translation": "*** 45秒后核爆 ***"
+  },
+  "*** YOU HAVE 60 SECONDS TO DO THIS UNTIL MASSIVE NUKE EXPLODES ***": {
+    "translation": "*** 你还有60秒完成任务,核弹即将爆炸 ***"
+  },
+  "*** YOU CAN CHOOSE LEVEL AND MODE ***": {
+    "translation": "*** 你可以选择关卡和模式 ***"
+  },
+  "*** RACE TO REACH THE TELEPORTER TO ADMIN ROOM ***": {
+    "translation": "*** 竞速前往调关房传送门 ***"
   },
   ">> PLAYER HAS PICKED UP UNLIMITED AMMO <<": {
-    "translation": "一名玩家已获取弹药菇"
+    "translation": ">> 一名玩家已获取弹药菇 <<"
   },
-  ">> PLAYER HAS PICKED UP EARTH <<": {
-    "translation": "一名玩家已获取草墙菇"
+  "*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***": {
+    "translation": "*** 需要去两边的控制室同时按下两个按钮 ***"
   },
-  "*** PLAYER FOUND A KEY ***": {
-    "translation": "一名玩家拿到了钥匙"
-  },
-  ">> PLAYER HAS PICKED UP FIRE <<": {
-    "translation": "一名玩家已获取烈焰菇"
-  },
-  ">> PLAYER HAS PICKED UP GRAVITY <<": {
-    "translation": "一名玩家已获取重力菇"
-  },
-  ">> PLAYER HAS PICKED UP WIND <<": {
-    "translation": "一名玩家已获取飓风菇"
-  },
-  ">> PLAYER HAS PICKED UP ICE <<": {
-    "translation": "一名玩家已获取冰冻菇"
-  },
-  ">> PLAYER HAS PICKED UP 6 MINES <<": {
-    "translation": "一名玩家已获取六个地雷菇"
-  },
-  ">> PLAYER HAS PICKED UP HEAL <<": {
-    "translation": "一名玩家已获取治愈菇"
+  "Press Other Button!!!": {
+    "translation": "快按下另一个按钮!!!"
   }
 }
