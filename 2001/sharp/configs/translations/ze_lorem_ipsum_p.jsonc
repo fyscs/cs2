@@ -1,0 +1,143 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "< Path opens up in 25 seconds. Defend! >": {
+    "translation": "<路径将在25秒后开启.防守!>"
+  },
+  "< Path opens up in 5 seconds. >": {
+    "translation": "<路径将在5秒后开启.>"
+  },
+  "< Gate will close in 5 seconds. >": {
+    "translation": "<大门将在5秒后关闭.>"
+  },
+  "< Path is open. RUN!. >": {
+    "translation": "<路径已开启.快跑!.>"
+  },
+  "< Well... that was a weird dream.... >": {
+    "translation": "<嗯...那真是个奇怪的梦....>"
+  },
+  "< Room Five: WAKE UP >": {
+    "translation": "<第五间房: 醒醒>"
+  },
+  "< What the hell is this place...? >": {
+    "translation": "<这到底是什么鬼地方...? >"
+  },
+  "< Path opens up in 25 seconds >": {
+    "translation": "<路径将在25秒后开启>"
+  },
+  "< 1 >": {
+    "translation": "<1>"
+  },
+  "< Zombies arrive in 20 seconds >": {
+    "translation": "<僵尸将在20秒后到达>"
+  },
+  "< Zombies are trapped! Run to the portal! >": {
+    "translation": "<僵尸被困住了!快跑去传送门!>"
+  },
+  "< Zombies have been released! >": {
+    "translation": "<僵尸已被释放!>"
+  },
+  "< Room Two: Ah yes, the classic... >": {
+    "translation": "<第二间房: 啊对了,经典桥段...>"
+  },
+  "< 10 seconds left >": {
+    "translation": "<还剩10秒>"
+  },
+  "< 3 >": {
+    "translation": "<3>"
+  },
+  "< 2 >": {
+    "translation": "<2>"
+  },
+  "< Survive for 150 seconds >": {
+    "translation": "<坚持生存150秒>"
+  },
+  "< Success! >": {
+    "translation": "<成功!>"
+  },
+  "< Gate opens in 30 seconds. Defend! >": {
+    "translation": "<大门将在30秒后开启.防守!>"
+  },
+  "< Gate opens in 5 seconds. >": {
+    "translation": "<大门将在5秒后开启.>"
+  },
+  "< Gate is opening! >": {
+    "translation": "<大门正在开启!>"
+  },
+  "< Someone has to make these jumps and press the button >": {
+    "translation": "<需要有人跳过去并按下按钮>"
+  },
+  "< Gate is opening... Back up! >": {
+    "translation": "<大门正在开启...后退!>"
+  },
+  "< Room Four: Hmmm, something is missing.... >": {
+    "translation": "<第四间房: 嗯,好像少了点什么....>"
+  },
+  "< Room Three: Can't see shit in this mist >": {
+    "translation": "<第三间房: 雾太大了啥都看不到>"
+  },
+  "< Portal activates in 25 seconds >": {
+    "translation": "<传送门将在25秒后激活>"
+  },
+  "< Portal activates in 5 seconds >": {
+    "translation": "<传送门将在5秒后激活>"
+  },
+  "< Portal is open. RUN! >": {
+    "translation": "<传送门已开启.快跑!>"
+  },
+  "< Room One: Wait, I have seen this before... >": {
+    "translation": "<第一间房: 等等,我以前见过这个...>"
+  },
+  "< Nice! Portal opens up in 30 seconds. Defend! >": {
+    "translation": "<不错!传送门将在30秒后开启.防守!>"
+  },
+  "< Portal opens up in 5 seconds. >": {
+    "translation": "<传送门将在5秒后开启.>"
+  },
+  "< Seems like someone has to make those jumps and activate those pillars to unlock >": {
+    "translation": "<看起来需要有人跳过去并激活那些柱子来解锁>"
+  },
+  "< The gates are locked >": {
+    "translation": "<大门被锁住了>"
+  },
+  "< Door will break in 30 seconds. Defend! >": {
+    "translation": "<门将在30秒后破裂.防守!>"
+  },
+  "< Door will break in 10 seconds. >": {
+    "translation": "<门将在10秒后破裂.>"
+  },
+  "< 5 >": {
+    "translation": "<5>"
+  },
+  "< Do you hear that music...? >": {
+    "translation": "<你听到那音乐了吗...? >"
+  },
+  "< 4 >": {
+    "translation": "<4>"
+  },
+  "< WHAT IS HAPPENING??? >": {
+    "translation": "<发生什么了??? >"
+  },
+  "< Door is broken. GO GO GO! >": {
+    "translation": "<门被破坏了.快快快!>"
+  },
+  "< DOOR IS BROKEN! GO GO GO!! >": {
+    "translation": "<门破了!快快快!!>"
+  },
+  "< Lorem Ipsum or 'What the fuck am I doing?' >": {
+    "translation": "<乱打的占位词,或者说我到底在干嘛>",
+    "blocked": true
+  },
+  "< Map by sTc >": {
+    "translation": "<地图作者:sTc  文本:Zeyu1>"
+  }
+}
