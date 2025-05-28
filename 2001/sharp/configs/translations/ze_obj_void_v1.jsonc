@@ -56,7 +56,8 @@
     "translation": "重新运作还得一会"
   },
   "Defend for 1 minutes": {
-    "translation": "大概60秒"
+    "translation": "大概60秒",
+    "countdown": 60
   },
   "Door opened": {
     "translation": "门开了"
@@ -102,12 +103,6 @@
   },
   "Hold the gate until the power comes back": {
     "translation": "电力正在恢复,守住"
-  },
-  "33%": {
-    "translation": "还有两处"
-  },
-  "66%": {
-    "translation": "还有一处"
   },
   "Its back! Run through the Door!": {
     "translation": "又来了,快穿过门"
@@ -317,7 +312,8 @@
     "translation": "发电机正在暖机"
   },
   "Resist for about 1 minute.": {
-    "translation": "需要大概60秒"
+    "translation": "需要大概60秒",
+    "countdown": 60
   },
   "The Generator is working! Get the hell out of here!": {
     "translation": "发电机启动了!快离开这里"
