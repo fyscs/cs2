@@ -11,7 +11,8 @@
 
 {
   "30": {
-    "translation": "30"
+    "translation": "< 30 >",
+    "countdown": 30
   },
   "Kiki:Quick!we have to start the last core before the countdown ends": {
     "translation": "Kiki:快点!我们得在倒计时结束前启动最后一个核心"
@@ -20,16 +21,13 @@
     "translation": "Kiki:当心身后,核心是一类安全系统,注意躲开"
   },
   "Kiki:quick! Jump into the pipe in the middle and go to the sewers": {
-    "translation": "Kiki:点!跳进管道到下面那去"
+    "translation": "Kiki:快点!跳进管道到下面那去"
   },
   "Kiki:K,The medical kit is on the left side's wheel.": {
     "translation": "Kiki:K,医疗箱就在左边的轮子上."
   },
   "Kiki:here seems to be something on the right-side wheel. Hurry and go check it out.": {
     "translation": "Kiki:右边好像有什么.快点去检查一下."
-  },
-  "Bug提示:神器需要一直跳不然会卡电梯": {
-    "translation": "Bug提示:神器需要一直跳不然会卡电梯"
   },
   "????:wake up....": {
     "translation": "????:K:醒醒...."
@@ -44,7 +42,8 @@
     "translation": "Kiki:我被派到这里当你的向导."
   },
   "10": {
-    "translation": "10"
+    "translation": "< 10 >",
+    "countdown": 10
   },
   "Kiki:By the way, you've come this long, do you want a coffee? I just happened to be carrying": {
     "translation": "Kiki:顺便,这么久了,要喝杯咖啡吗?刚好我这里有"
@@ -53,7 +52,8 @@
     "translation": "Kiki:终于,到第二处核心反应堆前了"
   },
   "20": {
-    "translation": "20"
+    "translation": "< 20 >",
+    "countdown": 20
   },
   "Kiki:K, do you have any relatives or friends?": {
     "translation": "Kiki:K,你有什么亲近的人或者朋友什么的吗?"
@@ -62,7 +62,8 @@
     "translation": "Kiki:嗯,我忘了你还记不起来你的名字"
   },
   "15": {
-    "translation": "15"
+    "translation": "< 15 >",
+    "countdown": 15
   },
   "Kiki:Honestly, I'm a guide about to be eliminated": {
     "translation": "Kiki:老实讲,我是个将要被处理掉的向导"
@@ -274,6 +275,9 @@
   "Kiki:Though I hold no expectations, there is still not a single person here.": {
     "translation": "Kiki:尽管我毫无期待,这里还是一个人都没有."
   },
+  "Kiki:好像有什么东西启动了": {
+    "translation": "Kiki:好像有什么东西启动了"
+  },
   "Kiki:What is that purple portal on the other side of the door? I've never seen anything like it...": {
     "translation": "Kiki:门另一边的紫色传送门是什么?我还从来没见过类似的..."
   },
@@ -340,6 +344,10 @@
   "Kiki:The desk is covered with a lot of research materials. It seems that the owner of this office holds a high position.": {
     "translation": "Kiki:桌子上放着大量的研究资料.看起来这里的人所处位置很高."
   },
+  "-30-": {
+    "translation": "< 30 >",
+    "countdown": 30
+  },
   "story7 unlock": {
     "translation": "故事七已解锁"
   },
@@ -373,6 +381,10 @@
   "Kiki:He's trying to escape on an airship. Let's catch up quickly!": {
     "translation": "KIki:它准备坐飞机跑路,我们快点!"
   },
+  "Kiki:我骇入飞船了，我只能控制飞船60秒，我们得趁现在赶上飞船": {
+    "translation": "守住60秒",
+    "countdown": 60
+  },
   "Kiki:No, the facility's security system is activated, which means we are considered the enemy": {
     "translation": "Kiki:不,设施的保全系统被激活了,我们被当成敌人了"
   },
@@ -380,7 +392,8 @@
     "translation": "Kiki:没别的办法了,我们得突破保全系统"
   },
   "25": {
-    "translation": "25"
+    "translation": "< 25 >",
+    "countdown": 25
   },
   "Kiki:The road here is very difficult to walk, once a group of search teams were wiped out here...": {
     "translation": "Kiki:路很难走,曾经一组搜查队彻底消失在了这里..."
@@ -418,13 +431,62 @@
   "Kiki:Damn, it's that security system again, K destroy it quickly": {
     "translation": "Kiki:又是安全系统,快点搞定它,K"
   },
-  "Kiki:Hey, that's my pistol...": {
-    "translation": "Kiki:Hey,那是我的手枪..."
+  "****EX Mode****": {
+    "translation": "****EX Mode****"
   },
-  "Kiki:If you take my pistol, you protect me in case of danger": {
-    "translation": "Kiki:如果你能拿着我的手枪,就能保护我免于危险"
+  "EX Mode Clear": {
+    "translation": "EX Mode Clear"
   },
-  "Kiki:That one is distributed by the company, if you lose it I will be penalized": {
-    "translation": "Kiki:那一个被公司分开了,如果你丢了我会被处罚的"
+  "密码Kiki输入完成": {
+    "translation": "密码Kiki输入完成"
+  },
+  "Enidnu:关注藍月なくる喵~": {
+    "translation": "Enidnu:关注藍月なくる喵~"
+  },
+  "Brand:Karl....": {
+    "translation": "Brand:Karl...."
+  },
+  "Karl:Brand收手吧": {
+    "translation": "Karl:Brand收手吧"
+  },
+  "Brand:Karl你说，如果当时我愿意冷静下来，是不是结果就不是这样了": {
+    "translation": "Brand:Karl你说，如果当时我愿意冷静下来，是不是结果就不是这样了"
+  },
+  "Karl:或许吧。": {
+    "translation": "Karl:或许吧。"
+  },
+  "Brand:你们重创了我，我是这个飞行船的核心，我已经维持不住飞行船的运作了": {
+    "translation": "Brand:你们重创了我，我是这个飞行船的核心，我已经维持不住飞行船的运作了"
+  },
+  "Brand:你们赶紧前往运送传送门的船舱，即使飞行船坠毁了，传送门依然不会停止运作": {
+    "translation": "Brand:你们赶紧前往运送传送门的船舱，即使飞行船坠毁了，传送门依然不会停止运作"
+  },
+  "Kiki:Karl不好了，那些异界生物追上来了": {
+    "translation": "Kiki:Karl不好了，那些异界生物追上来了"
+  },
+  "Kiki:Brand已经失去了对飞行船大部分的控制我来解除这扇门的门禁，给我10秒钟": {
+    "translation": "给我10秒钟",
+    "countdown": 10
+  },
+  "Karl:Kiki你来开路": {
+    "translation": "Karl:Kiki你来开路"
+  },
+  "Kiki:我要启动电梯了，快上来!": {
+    "translation": "Kiki:我要启动电梯了,快上来!"
+  },
+  "Kiki:大门被锁死了，我解不开": {
+    "translation": "Kiki:大门被锁死了,我解不开"
+  },
+  "Karl:看来只能从管道走了": {
+    "translation": "Karl:看来只能从管道走了"
+  },
+  "***Voted to EX Mode***": {
+    "translation": "***投票EX模式成功***"
+  },
+  "***Voted to Normal Mode***": {
+    "translation": "***投票普通模式成功***"
+  },
+  "触发防止按钮": {
+    "translation": "触发防止按钮"
   }
 }
