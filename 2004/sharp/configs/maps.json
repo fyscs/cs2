@@ -280,7 +280,7 @@
   },
   "mg_warmcup_headshot_sfw_fys": {
     "admin": false,
-    "certainTimes": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "certainTimes": [20, 21, 22, 23],
     "cooldown": 30,
     "nomination": true,
     "price": 300,
