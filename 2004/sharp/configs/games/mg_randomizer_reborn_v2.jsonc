@@ -20,7 +20,7 @@
 [
   {
     "id": "46245",
-    "cd": 60,
+    "cd": 180,
     "mode": 0,
     "name": "爆头线AK对枪",
     "class": "func_button",
@@ -28,7 +28,7 @@
   },
   {
     "id": "46256",
-    "cd": 60,
+    "cd": 180,
     "mode": 2,
     "name": "50血刀战",
     "class": "func_button",
@@ -36,7 +36,7 @@
   },
   {
     "id": "46258",
-    "cd": 60,
+    "cd": 180,
     "mode": 0,
     "name": "箭头鸟狙战",
     "class": "func_button",
@@ -44,7 +44,7 @@
   },
   {
     "id": "46260",
-    "cd": 60,
+    "cd": 180,
     "mode": 0,
     "name": "p250",
     "class": "func_button",
@@ -52,7 +52,7 @@
   },
   {
     "id": "46262",
-    "cd": 60,
+    "cd": 180,
     "mode": 0,
     "name": "拆墙",
     "class": "func_button",
@@ -60,7 +60,7 @@
   },
   {
     "id": "46264",
-    "cd": 60,
+    "cd": 180,
     "mode": 0,
     "name": "躲避墙",
     "class": "func_button",
@@ -68,7 +68,7 @@
   },
   {
     "id": "46266",
-    "cd": 60,
+    "cd": 180,
     "mode": 2,
     "name": "升降地板刀战",
     "class": "func_button",
@@ -76,7 +76,7 @@
   },
   {
     "id": "46268",
-    "cd": 60,
+    "cd": 180,
     "mode": 1,
     "name": "手雷战",
     "class": "func_button",
@@ -84,7 +84,7 @@
   },
   {
     "id": "46270",
-    "cd": 60,
+    "cd": 180,
     "mode": 0,
     "name": "爆头战",
     "class": "func_button",
@@ -92,7 +92,7 @@
   },
   {
     "id": "46274",
-    "cd": 60,
+    "cd": 180,
     "mode": 2,
     "name": "骑兵战",
     "class": "func_button",
@@ -100,7 +100,7 @@
   },
   {
     "id": "46276",
-    "cd": 60,
+    "cd": 180,
     "mode": 2,
     "name": "跳绳",
     "class": "func_button",
@@ -108,7 +108,7 @@
   },
   {
     "id": "46278",
-    "cd": 60,
+    "cd": 180,
     "mode": 2,
     "name": "刀战",
     "class": "func_button",
@@ -116,7 +116,7 @@
   },
   {
     "id": "46280",
-    "cd": 60,
+    "cd": 180,
     "mode": 0,
     "name": "火瓶竞速",
     "class": "func_button",
@@ -124,7 +124,7 @@
   },
   {
     "id": "46282",
-    "cd": 60,
+    "cd": 180,
     "mode": 5,
     "name": "摘星人",
     "class": "func_button",
@@ -132,7 +132,7 @@
   },
   {
     "id": "46284",
-    "cd": 60,
+    "cd": 180,
     "mode": 0,
     "name": "霰弹枪",
     "class": "func_button",
