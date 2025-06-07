@@ -11,19 +11,21 @@
 
 {
   "----- 20 -----": {
-    "translation": "----- 20 -----"
+    "translation": "20s",
+    "countdown": 20
   },
   "----- 30 -----": {
-    "translation": "----- 30 -----"
+    "translation": "30s",
+    "countdown": 30
   },
   "zm tp in 10s": {
     "translation": "僵尸10秒后传送"
   },
   "Main ----- 10 -----": {
-    "translation": "主路 ----- 10 -----"
+    "translation": "主路10s"
   },
   "Trace ----- 10 -----": {
-    "translation": "侧路 ----- 10 -----"
+    "translation": "侧路10s"
   },
   "Zombies pollute the water curtain, and humans fail": {
     "translation": "僵尸污染了水幕,人类失败了"
@@ -32,60 +34,56 @@
     "translation": "僵尸15秒后传送"
   },
   "-----zm tp in 10s------": {
-    "translation": "-----僵尸10秒后传送------"
+    "translation": "僵尸10秒传送"
   },
   "----- 40-----": {
-    "translation": "----- 40-----",
-    "blocked": true
+    "translation": "40s",
+    "countdown": 40
   },
   "----- 5 -----": {
-    "translation": "----- 5 -----",
-    "blocked": true
+    "translation": "5s",
+    "countdown": 5
   },
   "----- 45 -----": {
-    "translation": "----- 45 -----"
+    "translation": "45s",
+    "countdown": 45
   },
   "----- 40 -----": {
-    "translation": "----- 40 -----",
-    "blocked": true
+    "translation": "40s",
+    "countdown": 40
   },
   "-ZM TP IN 10s-": {
     "translation": "-僵尸10秒后传送-"
   },
   "----- 10 -----": {
-    "translation": "----- 10 -----"
+    "translation": "10s",
+    "countdown": 10
   },
   "-----170-----": {
-    "translation": "-----170-----"
+    "translation": "170s"
   },
   "-----5-----": {
-    "translation": "-----5-----",
-    "blocked": true
+    "translation": "5"
   },
   "-----4-----": {
-    "translation": "-----4-----",
-    "blocked": true
+    "translation": "4"
   },
   "-----3-----": {
-    "translation": "-----3-----",
-    "blocked": true
+    "translation": "3"
   },
   "-----2-----": {
-    "translation": "-----2-----",
-    "blocked": true
+    "translation": "2"
   },
   "-----1-----": {
-    "translation": "-----1-----",
-    "blocked": true
+    "translation": "1"
   },
   "-----0-----": {
-    "translation": "-----0-----",
-    "blocked": true
+    "translation": "0"
   },
   "nuke in 10": {
-    "translation": "10秒后核爆"
+    "translation": "10秒核爆"
   },
   "zm tp in 5 sec": {
-    "translation": "僵尸5秒后传送"
+    "translation": "僵尸5秒传送"
   }
 }
