@@ -89,7 +89,7 @@
     "translation": "** 为坠落做好准备 **"
   },
   "** This goalkeeper will open the door in 20 seconds **": {
-    "translation": "** 这道门将在30秒后开门 **"
+    "translation": "** 这道门将在20秒后开门 **"
   },
   "** 艹,这是个陷阱 **": {
     "translation": "** 艹,这是个陷阱 **"
@@ -135,6 +135,15 @@
   },
   "** The goalkeeper will open in 25 seconds **": {
     "translation": "** 门将在25秒后打开 **"
+  },
+  "** 电力系统已修复 **": {
+    "translation": "** 电力系统已修复 **"
+  },
+  "** 正在修复电力系统 **": {
+    "translation": "** 正在修复电力系统 **"
+  },
+  "** The elevator will start in 15 seconds **": {
+    "translation": "** 电梯15秒后启动 **"
   },
   "** 我们成功了!电梯即将启动  **": {
     "translation": "** 我们成功了!电梯即将启动  **"
@@ -283,6 +292,9 @@
   "** This is an electronic lock, I need 30 seconds to crack it **": {
     "translation": "** 这是一道电子锁,我需要30秒时间破解 **"
   },
+  "** 魔眼干扰了我们的武器,神器将禁止使用 **": {
+    "translation": "** 魔眼干扰了我们的武器,神器将禁止使用 **"
+  },
   "** 我们成功了，逃离了工厂 **": {
     "translation": "** 我们成功了,逃离了工厂 **"
   },
@@ -402,5 +414,29 @@
   },
   "** Zombies still have three seconds to teleport **": {
     "translation": "** 僵尸还有 3 秒的时间来传送 **"
+  },
+  "<< 路被杂物挡住,需要花点时间烧毁阻碍 >>": {
+    "translation": "<< 路被杂物挡住,需要花点时间烧毁阻碍 >>"
+  },
+  "<< 45 seconds >>": {
+    "translation": "<< 45s >>"
+  },
+  "<<  满足检测人数开启ex  >>": {
+    "translation": "<<  满足检测人数开启ex  >>"
+  },
+  "<<  你们通关了ex难度，你们是永恒的传奇  >>": {
+    "translation": "<<  你们通关了ex难度,你们是永恒的传奇  >>"
+  },
+  "<<  有管理员触发了按钮，将更改为第二关  >>": {
+    "translation": "<<  有管理员触发了按钮,将更改为第二关  >>"
+  },
+  "<<  有管理员触发了按钮，将更改为第一关  >>": {
+    "translation": "<<  有管理员触发了按钮,将更改为第一关  >>"
+  },
+  "<<  检测到人数不足38人，删除陷阱  >>": {
+    "translation": "<<  检测到人数不足38人,删除陷阱  >>"
+  },
+  "<<  满足检测人数调整到normal  >>": {
+    "translation": "<<  满足检测人数调整到normal  >>"
   }
 }
