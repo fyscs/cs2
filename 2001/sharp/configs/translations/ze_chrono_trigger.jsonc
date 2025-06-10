@@ -1,0 +1,271 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{ 
+  "*** ze_Chrono_Trigger. ***": {
+    "translation": "时空之轮 文本:Zeyu1"
+  },
+  "*** Dalton: We will meet again... ***": {
+    "translation": "道尔顿:我们会再见面的..."
+  },
+  "*** ADMIN HAS SWITCHED TO LEVEL 1.... ***": {
+    "translation": "管理员已切换到第一关.."
+  },
+  "*** ADMIN HAS SWITCHED TO LEVEL 2.... ***": {
+    "translation": "管理员已切换到第二关..."
+  },
+  "*** So you were able to escape... ***": {
+    "translation": "看来你成功逃脱了..."
+  },
+  "*** The Prophet was right... ***": {
+    "translation": "先知是对的..."
+  },
+  "*** You must be stopped! ***": {
+    "translation": "必须阻止你"
+  },
+  "*** Teleporter activating in 5 seconds. ***": {
+    "translation": "传送器将在5秒后启动"
+  },
+  "*** Teleporter activating in 15 seconds. ***": {
+    "translation": "传送器将在15秒后启动"
+  },
+  "*** Teleporter activating in 25 seconds. ***": {
+    "translation": "传送器将在25秒后启动"
+  },
+  "*** Teleporter active! ***": {
+    "translation": "传送器已激活"
+  },
+  "*** Security System uses: Gravity ***": {
+    "translation": "安全系统使用-重力"
+  },
+  "*** Security System uses: Reversal ***": {
+    "translation": "安全系统使用-反转"
+  },
+  "*** Security System uses: Delta Attack ***": {
+    "translation": "安全系统使用-三角攻击"
+  },
+  "*** The Security System has been defeated. ***": {
+    "translation": "安全系统已被击败"
+  },
+  "*** ALERT! SELF DESTRUCT MODE INITIATING***": {
+    "translation": "警报自毁模式启动中"
+  },
+  "*** Hurry, get in the teleporter! ***": {
+    "translation": "快进入传送器"
+  },
+  "*** Security System uses: Reduction ***": {
+    "translation": "安全系统使用-缩小"
+  },
+  "*** The temple is locked? ***": {
+    "translation": "神殿被锁住了"
+  },
+  "*** Defend until something happens. ***": {
+    "translation": "保持坚守"
+  },
+  "*** .... ***": {
+    "translation": "..."
+  },
+  "*** The door is open, fall back!. ***": {
+    "translation": "门开了后撤"
+  },
+  "*** Zombies are teleporting in 3 seconds. ***": {
+    "translation": "僵尸将在3秒后传送"
+  },
+  "*** The door will be closing in 5 seconds.... ***": {
+    "translation": "门将在5秒后关闭..."
+  },
+  "*** Lucca: This doesn't look like Zeal Palace. ***": {
+    "translation": "露卡:这里不像赛鲁宫殿"
+  },
+  "*** Lucca: With this machine in the middle, I'd almost it was ***": {
+    "translation": "露卡:中间有这台机器我差点以为是..."
+  },
+  "*** ALERT: HUMANS DETECTED IN THE SECURITY SYSTEM ***": {
+    "translation": "警报在安全系统中侦测到人类"
+  },
+  "*** PREPARE TO BE ELIMINATED ***": {
+    "translation": "准备被消灭吧"
+  },
+  "*** Security System used: Terminate ***": {
+    "translation": "安全系统使用-终结"
+  },
+  "*** Temple doors will open in 30 seconds. ***": {
+    "translation": "神殿门将在30秒后开启"
+  },
+  "*** Temple doors will open in 10 seconds. ***": {
+    "translation": "神殿门将在10秒后开启"
+  },
+  "*** Temple doors will open in 5 seconds. ***": {
+    "translation": "神殿门将在5秒后开启"
+  },
+  "*** The door is open, escape! ***": {
+    "translation": "门开了快逃"
+  },
+  "*** Stage 1 Completed! ***": {
+    "translation": "第一阶段完成"
+  },
+  "*** Teleporter activating in 20 seconds. ***": {
+    "translation": "传送器将在20秒后启动"
+  },
+  "*** Teleporter activating in 30 seconds. ***": {
+    "translation": "传送器将在30秒后启动"
+  },
+  "*** Teleporter activating in 10 seconds. ***": {
+    "translation": "传送器将在10秒后启动"
+  },
+  "*** Teleporter activating in 35 seconds. ***": {
+    "translation": "传送器将在35秒后启动"
+  },
+  "*** Zombies teleporting in 3 seconds... ***": {
+    "translation": "僵尸将在3秒后传送..."
+  },
+  "*** Stay away from the teleporter as it activates. ***": {
+    "translation": "传送器启动时请远离"
+  },
+  "*** Requesting access from Zeal Palace. ***": {
+    "translation": "正在向赛鲁宫殿请求访问权限"
+  },
+  "*** Access granted. ***": {
+    "translation": "访问权限已授予"
+  },
+  "*** Bridge spawning in 20 seconds... ***": {
+    "translation": "桥梁将在20秒后生成..."
+  },
+  "*** Bridge spawning in 10 seconds... ***": {
+    "translation": "桥梁将在10秒后生成..."
+  },
+  "*** Barrier 1 breaking in 20 seconds... ***": {
+    "translation": "屏障①将在20秒后破裂..."
+  },
+  "*** Barrier 1 breaking in 10 seconds... ***": {
+    "translation": "屏障①将在10秒后破裂..."
+  },
+  "*** Barrier 2 breaking in 10 seconds... ***": {
+    "translation": "屏障②将在10秒后破裂..."
+  },
+  "*** Zombies teleporting in 3 seconds.... ***": {
+    "translation": "僵尸将在3秒后传送..."
+  },
+  "*** Defend for 20 seconds aboard the bridge! ***": {
+    "translation": "在桥上坚守20秒"
+  },
+  "*** Defend for 10 seconds aboard the bridge! ***": {
+    "translation": "在桥上坚守10秒"
+  },
+  "*** Defend for 5 seconds aboard the bridge! ***": {
+    "translation": "在桥上坚守5秒"
+  },
+  "*** Barrier 1 breaking in 15 seconds.. ***": {
+    "translation": "屏障①将在15秒后破裂.."
+  },
+  "*** Barrier 2 breaking in 15 seconds.. ***": {
+    "translation": "屏障②将在15秒后破裂.."
+  },
+  "*** Barrier 3 breaking in 15 seconds.. ***": {
+    "translation": "屏障③将在15秒后破裂.."
+  },
+  "*** The mist has disappeared! ***": {
+    "translation": "迷雾已消失"
+  },
+  "*** Dalton uses: Hexagon Mist! Jump! ***": {
+    "translation": "道尔顿使用六边形迷雾跳"
+  },
+  "*** Dalton uses: Hexagon Mist! Crouch! ***": {
+    "translation": "道尔顿使用六边形迷雾蹲"
+  },
+  "*** Dalton uses: Chaotic Zone! Get away from the zombies! ***": {
+    "translation": "道尔顿使用混乱区域远离僵尸"
+  },
+  "*** Dalton: I've been... defeated? ***": {
+    "translation": "道尔顿:我被打败了"
+  },
+  "*** Dalton: Not yet. I still have one more thing up my sleeve. ***": {
+    "translation": "道尔顿:还没完我还有个杀手锏"
+  },
+  "*** Dalton uses: Omega Flare! Dodge the laser! ***": {
+    "translation": "道尔顿使用欧米茄耀斑躲开激光"
+  },
+  "*** Dalton: So you finally decided to show up. ***": {
+    "translation": "道尔顿:你终于决定现身了"
+  },
+  "*** Dalton: I let the Prophet go, knowing he'd mess up sooner or later. ***": {
+    "translation": "道尔顿:我放走先知是知道他迟早会搞砸"
+  },
+  "*** Dalton: But I've no use for you anymore. ***": {
+    "translation": "道尔顿:但你们对我已无用处"
+  },
+  "*** Dalton: You're history!. ***": {
+    "translation": "道尔顿:你们将成为历史"
+  },
+  "*** Dalton uses: Vortex! Get away from the middle! ***": {
+    "translation": "道尔顿使用漩涡远离中间区域"
+  },
+  "*** The vortex has disappeared! ***": {
+    "translation": "漩涡已消失"
+  },
+  "*** Dalton uses: Vortex! Get away from the sides! ***": {
+    "translation": "道尔顿使用漩涡远离两侧区域"
+  },
+  "*** Dalton uses: Hallation ***": {
+    "translation": "道尔顿使用圣光"
+  },
+  "*** Dalton uses: Teleportation! Get away from the middle! ***": {
+    "translation": "道尔顿使用传送远离中间区域"
+  },
+  "Zombies teleporting in 5 seconds.": {
+    "translation": "僵尸将在5秒后传送"
+  },
+  "Barrier one breaking in 20 seconds.": {
+    "translation": "屏障①将在20秒后破裂."
+  },
+  "Barrier one breaking in 5 seconds.": {
+    "translation": "屏障①将在5秒后破裂."
+  },
+  "Barrier two breaking in 20 seconds.": {
+    "translation": "屏障②将在20秒后破裂."
+  },
+  "Barrier two breaking in 5 seconds.": {
+    "translation": "屏障②将在5秒后破裂"
+  },
+  "*** Dalton: You won't survive this! ***": {
+    "translation": "道尔顿:你们活不下来的"
+  },
+  "*** Dalton: goodbye! ***": {
+    "translation": "道尔顿:再见了"
+  },
+  "*** Dalton: No! I can't be defeated now! ***": {
+    "translation": "道尔顿:不我现在不能被打败"
+  },
+  "*** Dalton: Not when immortality is so close to hand. ***": {
+    "translation": "道尔顿:尤其在不朽触手可及时"
+  },
+  "*** Dalton: We will meet again. ***": {
+    "translation": "道尔顿:我们会再见面的"
+  },
+  "*** Defend for 20 seconds! ***": {
+    "translation": "坚守20秒"
+  },
+  "*** Defend for 10 seconds! ***": {
+    "translation": "坚守10秒"
+  },
+  "*** Defend for 5 seconds! ***": {
+    "translation": "坚守5秒"
+  },
+  "*** Stage 2 has been completed! ***": {
+    "translation": "第二阶段已完成"
+  },
+  "***Player has picked WATER***": {
+    "translation": "玩家捡起了水神器"
+  },
+  "***Recharge: 60 seconds.***": {
+    "translation": "充能60秒"
+  }
+}
