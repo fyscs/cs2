@@ -9,7 +9,7 @@
   // clearTimer (bool) -> 清除所有倒计时
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
-{ 
+{
   "*** ze_Chrono_Trigger. ***": {
     "translation": "时空之轮 文本:Zeyu1"
   },
