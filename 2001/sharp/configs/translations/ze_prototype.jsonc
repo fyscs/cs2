@@ -1,0 +1,258 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>CTs took too long! Game over!<<": {
+    "translation": "耗时过长 游戏结束"
+  },
+  ">>NICE JOB! Helicopter leaving in 5 seconds<<": {
+    "translation": "直升机将在5秒后离开"
+  },
+  ">>HOLD THE COMPOUND FOR 50 SECONDS<<": {
+    "translation": "坚守基地50秒"
+  },
+  ">>10 SECONDS LEFT<<": {
+    "translation": "剩余10秒"
+  },
+  ">>FALL BACK<<": {
+    "translation": "撤退"
+  },
+  ">>HOLD UP HERE WHILE DOORS ARE HACKED OPEN<<": {
+    "translation": "坚守"
+  },
+  ">>HOLD FOR 40 SECONDS<<": {
+    "translation": "坚守40秒"
+  },
+  ">>DOORS ARE OPEN! FALL BACK<<": {
+    "translation": "门已开启撤退"
+  },
+  ">>NICE JOB! Shields powering down...<<": {
+    "translation": "干得好 屏障正在关闭"
+  },
+  ">>Hold for 20 seconds...<<": {
+    "translation": "坚守20秒"
+  },
+  ">>SHIELDS ARE DOWN! RUN TO THE CHOPPER!<<": {
+    "translation": "屏障已失效 跑向直升机"
+  },
+  ">>ELEVATOR LEAVING IN 15 SECONDS<<": {
+    "translation": "电梯将在15秒后离开"
+  },
+  ">>ESCAPE THROUGH THE OPEN DOOR!<<": {
+    "translation": "从开启的门逃脱"
+  },
+  ">>You've awoken some sort of prototype...<<": {
+    "translation": "你们唤醒了某种异形"
+  },
+  ">>Guards are on their way!!<<": {
+    "translation": "守卫正在赶来"
+  },
+  ">>Laboratory door seals in 30 seconds!! Hold the lab!!<<": {
+    "translation": "实验室门将在30秒后关闭"
+  },
+  ">>Door re-opens in 25 seconds! Escape!<<": {
+    "translation": "门将在25秒后重新开启逃脱"
+  },
+  ">>Hit the green button on the computer!<<": {
+    "translation": "射击电脑上的绿色按钮"
+  },
+  ">>DEFENSE FIELD STILL ACTIVE!<<": {
+    "translation": "防御力场激活中"
+  },
+  ">>THROW A GRENADE INTO THE WATCH TOWER BEHIND YOU!<<": {
+    "translation": "向身后的瞭望塔投掷手雷"
+  },
+  ">>MISSION 1: INTERCEPTION (EASY)<<": {
+    "translation": "关卡一-拦截"
+  },
+  ">>MISSION 2: ELIMINATION (HARD)<<": {
+    "translation": "关卡二-消灭"
+  },
+  ">>MISSION 4: ZM<<": {
+    "translation": "关卡四-ZM"
+  },
+  ">>Survive until the zombie nuke!<<": {
+    "translation": "生存下来"
+  },
+  ">>Nuke launched!<<": {
+    "translation": "核弹已发射"
+  },
+  ">>10 seconds remain!<<": {
+    "translation": "剩余10秒"
+  },
+  ">>Turn music to zero in options to mute the song<<": {
+    "translation": "在选项中将音乐调为零以静音歌曲",
+    "blocked": true
+  },
+  ">>TYPE MAT_COLORCORRECTION 0 TO DISABLE CC<<": {
+    "translation": "输入mat_colorcorrection0以禁用颜色校正",
+    "blocked": true
+  },
+  ">>YOU HAVE DEFEATED PROTOTECH<<": {
+    "translation": "你已击败PROTOTECH"
+  },
+  ">>Missions restart after this round<<": {
+    "translation": "回合即将重启"
+  },
+  ">>YOU COMPLETED MISSION 1<<": {
+    "translation": "你已完成 关卡一"
+  },
+  ">>ENEMY HELICOPTER INCOMING!<<": {
+    "translation": "敌方直升机即将到来"
+  },
+  ">>WE CANNOT LEAVE UNTIL THAT IS GONE!<<": {
+    "translation": "在那东西被消灭前我们不能离开"
+  },
+  ">>HELICOPTER WILL ATTACK IN 1 MINUTE!!<<": {
+    "translation": "直升机将在一分钟后攻击"
+  },
+  ">>Oh shit! Admin hit the nuke button!<<": {
+    "translation": "管理员按下了核爆按钮"
+  },
+  ">>MISSION 1 SELECTED<<": {
+    "translation": "关卡一"
+  },
+  ">>MISSION 2 SELECTED<<": {
+    "translation": "关卡二"
+  },
+  ">>MISSION 3 SELECTED<<": {
+    "translation": "关卡三"
+  },
+  ">>Elevator activating in 20 seconds<<": {
+    "translation": "电梯将在20秒后启动"
+  },
+  ">>REBOOTING...<<": {
+    "translation": "重启中"
+  },
+  ">>HOLD FOR 40<<": {
+    "translation": "坚守40秒"
+  },
+  ">>Teleporting in 10 seconds<<": {
+    "translation": "10秒后传送"
+  },
+  ">>Lab door opening in 10 seconds...<<": {
+    "translation": "实验室门将在10秒后开启"
+  },
+  ">>They've been harvesting this creature's planet for energy... they are the monsters!<<": {
+    "translation": "他们一直在这个生物的行星上收割能量 他们才是怪物"
+  },
+  ">>We've found the source of Prototech's power!<<": {
+    "translation": "我们已找到Prototech能量源"
+  },
+  ">>DESTROY THE RED CORE WHEN IT OPENS UP!!!<<": {
+    "translation": "当它开启时摧毁红色核心"
+  },
+  ">>TIP: Break the glass where the zombies are approaching from!<<": {
+    "translation": "打破僵尸接近处的玻璃"
+  },
+  ">>TIP: Toss the special deagles into their respective colors to the right!<<": {
+    "translation": "将特殊沙鹰投入右侧相应颜色"
+  },
+  ">>You've been taken to the creature's home planet...<<": {
+    "translation": "你已被带至该生物的老巢"
+  },
+  ">>FINAL DEFENSE! GET ON THE TELEPORTER PAD!<<": {
+    "translation": "最终防御-登上传送器平台"
+  },
+  ">>HOLD FOR 5 SECONDS<<": {
+    "translation": "坚守5秒"
+  },
+  ">>The glass is going to shatter!! Get ready!!<<": {
+    "translation": "玻璃即将碎裂准备"
+  },
+  ">>Zombies have infected the helicopter! Game-over!<<": {
+    "translation": "僵尸已抵达直升机 游戏结束"
+  },
+  ">>YOU DID IT! RUN FOR THE EXIT<<": {
+    "translation": "你成功了跑向出口"
+  },
+  ">>Bridges disabled! Nice job<<": {
+    "translation": "桥梁已停用"
+  },
+  ">>Throw a red cube into this! (Hint: Drop the weapon)<<": {
+    "translation": "将红色立方体投入此处"
+  },
+  ">>Throw a blue cube into this! (Hint: Drop the weapon)<<": {
+    "translation": "将蓝色立方体投入此处"
+  },
+  ">>Rotating stopped! Nice Job!<<": {
+    "translation": "干得好"
+  },
+  ">>ZM SELECTED<<": {
+    "translation": "ZM已选择"
+  },
+  ">>MISSION 3: FINAL ESCAPE (EXTREME)<<": {
+    "translation": "关卡三-逃离"
+  },
+  ">>Train door opening in 40 seconds<<": {
+    "translation": "列车门将在40秒后开启"
+  },
+  ">>Upper door opening in 35 seconds<<": {
+    "translation": "上层门将在35秒后开启"
+  },
+  ">>Gate is preparing to open! Get on the trucks!!<<": {
+    "translation": "大门准备开启上卡车"
+  },
+  ">>Trucks leaving in 20 seconds!<<": {
+    "translation": "卡车将在20秒后离开"
+  },
+  ">>Doors opening...<<": {
+    "translation": "门开启中"
+  },
+  ">>Activate the elevator to prepare your escape!!<<": {
+    "translation": "激活电梯准备逃脱"
+  },
+  ">>Don't let any zombies into the facility!<<": {
+    "translation": "别让任何僵尸进入设施"
+  },
+  ">>Doors opening in 30 seconds...<<": {
+    "translation": "门将在30秒后开启"
+  },
+  ">>Elevator departing in 10 seconds...<<": {
+    "translation": "电梯将在10秒后出发"
+  },
+  ">>....it looks like someone was waiting for us...<<": {
+    "translation": "看起来有人在等我们"
+  },
+  ">>THE PROTOTYPE HAS BEEN DEFEATED!<<": {
+    "translation": "异形体已被击败"
+  },
+  ">>ESCAPE WHILE YOU STILL CAN<<": {
+    "translation": "趁还能逃时逃脱"
+  },
+  ">>IT IS NOT DEAD!! SHOOT IT!!<<": {
+    "translation": "它没死射击它"
+  },
+  ">>HOLD FOR 15 SECONDS WHILE THE PORTAL OPENS!!!<<": {
+    "translation": "在传送门开启时坚守15秒"
+  },
+  ">>The prototype is dead...<<": {
+    "translation": "异形已死亡"
+  },
+  ">>JUMP INTO THE PORTAL! THERE IS NO GOING BACK!!!<<": {
+    "translation": "跳进传送门 没有回头路"
+  },
+  ">>...DISCO MODE ENGAGED<<": {
+    "translation": "迪斯科模式已启动"
+  },
+  ">>YOU WIN! MOVING ON TO ZM<<": {
+    "translation": "ZM模式加载中"
+  },
+  ">>Zombies infected the teleporter! Game over!<<": {
+    "translation": "僵尸抵达传送器 游戏结束"
+  },
+  ">>SPLIT UP! GO TOP AND BOTTOM<<": {
+    "translation": "分头行动去上层和下层"
+  },
+  ">>Hold onto this...<<": {
+    "translation": "拿住这个"
+  }
+}
