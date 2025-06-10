@@ -2321,6 +2321,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_notredame_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_nuclear_site_survie_by_gm": {
     "admin": false,
     "certainTimes": [-1],
