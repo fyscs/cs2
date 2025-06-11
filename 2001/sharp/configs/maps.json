@@ -737,6 +737,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_depths": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 160,
+    "nomination": true,
+    "price": 550,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
   "ze_descent_into_cerberon_p": {
     "admin": false,
     "certainTimes": [-1],
