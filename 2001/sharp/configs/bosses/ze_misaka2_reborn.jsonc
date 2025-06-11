@@ -1,0 +1,67 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "add_final_misaka_hp",
+      "hitbox": "add_final_misaka_break",
+      "display": "Misaka_Final"
+    },
+    {
+      "iterator": "st4_final_boss_hp",
+      "hitbox": "st4_final_boss_break",
+      "display": "S4_Final"
+    },
+    {
+      "iterator": "st5_boss2_hp_counter",
+      "hitbox": "st5_boss2_break",
+      "display": "S5P2"
+    },
+    {
+      "iterator": "st5_boss1_hp_counter",
+      "hitbox": "st5_boss1_break",
+      "display": "S5P1"
+    },
+    {
+      "iterator": "st5_boss3_hp_counter",
+      "hitbox": "st5_boss_phys1",
+      "display": "S5P3"
+    },
+    {
+      "iterator": "st5_boss_hp1_counter",
+      "hitbox": "st5_boss_break",
+      "display": "Boss"
+    },
+    {
+      "iterator": "st5_boss_hp_counter",
+      "hitbox": "st5_boss_break",
+      "display": "Boss"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "1344",
+      "display": "FALL"
+    }
+  ]
+}
