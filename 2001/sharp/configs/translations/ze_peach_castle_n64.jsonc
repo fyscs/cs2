@@ -1,0 +1,451 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "MAP BY BLUE BLUE": {
+    "translation": "地图作者:BLUE BLUE 文本:Zeyu1"
+  },
+  "*** ELEVATOR WILL START IN 20 SECONDS ***": {
+    "translation": "电梯将在20秒后启动"
+  },
+  "*** 5 SECONDS LEFT ***": {
+    "translation": "还剩5秒"
+  },
+  "*** BILL BULLET WILL BE FIRED IN 20 SECONDS ***": {
+    "translation": "炮弹将在20秒后发射"
+  },
+  "*** JUMP ON IT TO REACH THE TOWER ***": {
+    "translation": "跳上去 到达高塔"
+  },
+  "*** DON'T STAY ON THE MISSILE TOO LONG OR YOU WILL EXPLODE ***": {
+    "translation": "别在导弹上停留太久 否则会爆炸"
+  },
+  "*** THS BRIDGE WILL MOVE IN 20 SECONDS ***": {
+    "translation": "这座桥将在20秒后移动"
+  },
+  "*** YOU HAVE 20 SECONDS TO REACH AND DEFEND THE TOP OF THE TOWER ***": {
+    "translation": "你有20秒时间到达并防守塔顶"
+  },
+  "*** ONLY 5 MORE SECONDS ***": {
+    "translation": "只剩5秒了"
+  },
+  "*** WAIT UNTIL THIS THWOMP MOVES ***": {
+    "translation": "等待这个石像怪移动"
+  },
+  "*** GO GO GO ***": {
+    "translation": "快冲快冲"
+  },
+  "*** ON ITS HEAD ! HURRY UP ! ***": {
+    "translation": "跳到它头上快"
+  },
+  "*** DEFEND 20 SECONDS ***": {
+    "translation": "防守20秒"
+  },
+  "*** DEFEND UNTIL THE BRIDGE RISES ***": {
+    "translation": "防守直到桥升起"
+  },
+  "*** THIS DOOR WILL OPEN IN 20 SECONDS ***": {
+    "translation": "这扇门将在20秒后开启"
+  },
+  "*** PUSH THIS BOMP ALL THE WAY BACK ! ***": {
+    "translation": "把这个炸弹推到底"
+  },
+  "*** THE ELEVATOR TO THE THRONE ROOM WILL LEAVE IN 20 SECONDS ! ***": {
+    "translation": "通往王座室的电梯将在20秒后离开"
+  },
+  "*** 5 MORE SECONDS ! ***": {
+    "translation": "还有5秒"
+  },
+  "*** WE FOUND THE STAR AND THE FORTRESS IS OURS ! ***": {
+    "translation": "我们找到星星了 要塞是我们的了!"
+  },
+  "*** CONGRATS, WE TOOK THE FORTRESS ! ***": {
+    "translation": "恭喜我们占领了要塞"
+  },
+  "*** THE ZOMBIES TOOK THE FORTRESS, WE LOST ***": {
+    "translation": "僵尸占领了要塞 我们输了!"
+  },
+  "*** SHOOT THE LOCKS TO OPEN THE BRIDGE ***": {
+    "translation": "射击锁链 开启桥梁"
+  },
+  "*** WE WILL TAKE OFF IN 20 SECONDS ***": {
+    "translation": "我们将在20秒后起飞"
+  },
+  "*** ALL ABOARD THE GLIDER ! ***": {
+    "translation": "所有人登上滑翔机"
+  },
+  "*** JUMP NOW !! ***": {
+    "translation": "跳"
+  },
+  "*** GET READY... ***": {
+    "translation": "准备"
+  },
+  "*** GIVE ME 20 SECONDS TO LOWER THE BRIDGE ***": {
+    "translation": "给我20秒降下桥梁"
+  },
+  "*** 10 MORE SECONDS, ALMOST DONE ***": {
+    "translation": "还有10秒快完成了"
+  },
+  "*** EVERYONE LET'S GO ***": {
+    "translation": "所有人出发"
+  },
+  "*** THANKS FOR SAVING ME ***": {
+    "translation": "谢谢你救了我"
+  },
+  "*** I WILL SPAWN A PIPE FOR YOU ***": {
+    "translation": "为了你 我会生成一个管道~"
+  },
+  "*** GO BACK TO THE CABIN WITH THIS ELEVATOR ***": {
+    "translation": "乘这个电梯返回小屋"
+  },
+  "*** THE ELEVATOR WILL LEAVE IN 20 SECONDS ***": {
+    "translation": "电梯将在20秒后离开"
+  },
+  "*** A TOAD IS HIDING IN THIS AREA ***": {
+    "translation": "一只蟾蜍藏在这个区域"
+  },
+  "*** WE MUST FIND HIM ! ONLY HIM CAN HELP US TO CLIMB THIS MOUNTAIN *** ***": {
+    "translation": "必须找到他 只有他能帮我们爬这座山"
+  },
+  "*** GET INSIDE THE CABIN ! ***": {
+    "translation": "进入小屋"
+  },
+  "*** ZOMBIE'S SHORTCUT WILL OPEN SOON ***": {
+    "translation": "僵尸的捷径即将开启"
+  },
+  "### INITIALIZING SEQUENCE 1-28-92 /-/ ###": {
+    "translation": "正在初始化序列"
+  },
+  "### PROJECT OUTER SPACE /-/ COMMUNICATION SIGNAL SENT IN 20 SECONDS ###": {
+    "translation": "外太空计划通信信号将在20秒后发送"
+  },
+  "*** THIS WEIRD BUTTON OPENED A NEW PATH TO THE SUMMIT ! LET'S CLIMB UP ***": {
+    "translation": "通往山顶的新路 快爬上去"
+  },
+  "*** WTF ?? THIS BEAM SEEMS TO HAVE ATTRACTED AN UFO ! ***": {
+    "translation": "这光束似乎引来了UFO"
+  },
+  "*** WE DIT IT ! WE BEAT THE MOUNTAIN !! ***": {
+    "translation": "我们做到了 我们征服了这座山"
+  },
+  "*** A WAY TO REACH THE SHIP WILL APPEAR IN 20 SECONDS ***": {
+    "translation": "通往飞船的路将在20秒后出现"
+  },
+  "*** GET INSIDE THE CHEST TO PUT THE TREASURE BACK ***": {
+    "translation": "进入宝箱 把宝藏放回去"
+  },
+  "*** THIS SHOULD BREAK THE CURSE OF THE DEAD WATERS ***": {
+    "translation": "这应能破除死水的诅咒"
+  },
+  "*** THE WAY WILL OPEN IN 20 SECONDS ***": {
+    "translation": "道路将在20秒后开启"
+  },
+  "*** LOOKS LIKE WHERE THE SMUGGLERS HIDE THEIR POWDER ! MAYBE BLOWING IT UP MIGHT OPEN A NEW PATH ? ***": {
+    "translation": "炸掉它也许能开新路"
+  },
+  "LEVEL 1": {
+    "translation": "关卡一"
+  },
+  "LEVEL 2": {
+    "translation": "关卡二"
+  },
+  "LEVEL 3": {
+    "translation": "关卡三"
+  },
+  "LEVEL 4": {
+    "translation": "关卡四"
+  },
+  "*** QUICK ! JUMP IN THE BOAT ! ***": {
+    "translation": "快跳进船里"
+  },
+  "*** THE SWITCH IS RUSTY ! STAND ON IT UNTIL IT'S DOWN ! ***": {
+    "translation": "开关生锈了 站上去直到它压下"
+  },
+  "*** HURRY UP ! JUMP ON THE MANTA ! ***": {
+    "translation": "快跳到魟鱼上"
+  },
+  "*** SOMETHING IS COMING IN THE WATER... DON'T MISS IT ! ***": {
+    "translation": "水里有东西来了 别错过了!"
+  },
+  "*** DEFEND 20 SECONDS WHILE I'M OPENING THE SHIP'S HOLD ! ***": {
+    "translation": "防守20秒 我来打开船舱"
+  },
+  "*** WE FOUND THE STAR OF THE MOUNTAIN ! ***": {
+    "translation": "我们找到山之星了"
+  },
+  "*** THIS DOOR WILL BREAK IN 30 SECONDS ***": {
+    "translation": "这扇门30秒后会破"
+  },
+  "*** 10 MORE SECONDS ***": {
+    "translation": "还有10秒"
+  },
+  "*** WAIT 20 SECONDS FOR THE LADDER ! ***": {
+    "translation": "等20秒梯子就来"
+  },
+  "*** WE CAN SWIM IN THIS WATER ***": {
+    "translation": "我们能在这水里游泳"
+  },
+  "*** WE FOUND THE STAR AND SURVIVED THE CURSE OF THE LAKE ! ***": {
+    "translation": "我们找到星星并活过了湖的诅咒"
+  },
+  "*** THE CANON WILL FIRE IN 20 SECONDS ! STAY HERE AND DEFEND ! ***": {
+    "translation": "大炮20秒后开火 守在这里防御"
+  },
+  "*** 10 LAST SECONDS ***": {
+    "translation": "最后10秒"
+  },
+  "*** WE BROKE THE CURSE OF THE JOLLY ROGER BAY ! CONGRATS GUYS ! ***": {
+    "translation": "我们打破了欢乐港湾的诅咒 恭喜各位"
+  },
+  "*** WAIT 20 SECONDS FOR THE FLAME TO GO OFF ***": {
+    "translation": "等20秒火焰会熄灭"
+  },
+  "*** WAIT 10 SECONDS ***": {
+    "translation": "等待10秒"
+  },
+  "*** PLATEFORM WILL MOVE IN 5 SECONDS ***": {
+    "translation": "平台5秒后移动"
+  },
+  "*** DEFEND THIS PLACE 15 SECONDS ***": {
+    "translation": "防守此地15秒"
+  },
+  "*** LOOK UP ! ***": {
+    "translation": "看上面"
+  },
+  "*** OK TEAM YOU CAN FALL BACK NOW ***": {
+    "translation": "队伍现在可以撤退了"
+  },
+  "*** DEFEND 10 SECONDS UNTIL THE NEXT PLATEFORM ROTATE ***": {
+    "translation": "防守10秒直到下个平台旋转"
+  },
+  "*** DEFEND FOR 10 MORE SECONDS ! ***": {
+    "translation": "再防守10秒"
+  },
+  "*** GET READY, YOU ONLY HAVE 20 SECONDS TO CLIMB THE STAIRS ! ***": {
+    "translation": "你只有20秒爬楼梯"
+  },
+  "*** HOLD THIS PLACE FOR 20 SECONDS ***": {
+    "translation": "坚守此地20秒"
+  },
+  "*** BOOM ! ***": {
+    "translation": "砰"
+  },
+  "*** DON'T STAY TOO CLOSE OF THE CHAIN CHOMP ! ***": {
+    "translation": "别离链球狗太近"
+  },
+  "*** BREAK THE BOX THE OLDSCHOOL WAY ! ***": {
+    "translation": "用老方法打破箱子"
+  },
+  "*** KING BOB-OMB WILL EXPLODE AT THE END OF THE TIMER ! ***": {
+    "translation": "炸弹王会在倒计时结束时爆炸"
+  },
+  "*** DON'T STAY CLOSE TO HIM ! ***": {
+    "translation": "别靠近他"
+  },
+  "*** THE DOORS WILL OPEN IN 20 SECONDS ***": {
+    "translation": "门将在20秒后打开"
+  },
+  "*** 10 SECONDS LEFT ***": {
+    "translation": "还剩10秒"
+  },
+  "*** THE GATE OPENS IN 20 SECONDS ***": {
+    "translation": "大门20秒后开启"
+  },
+  "*** DEFEND 15 SECONDS ***": {
+    "translation": "防守15秒"
+  },
+  "*** FALL BACK FALL BACK ***": {
+    "translation": "撤退撤退"
+  },
+  "*** READY ***": {
+    "translation": "就绪"
+  },
+  "*** SET ***": {
+    "translation": "预备"
+  },
+  "*** FIRE ! ***": {
+    "translation": "开火"
+  },
+  "*** PLEASE DO NOT MOVE FOR YOUR SAFETY ***": {
+    "translation": "为安全起见 请勿移动"
+  },
+  "*** THE DOOR WILL CLOSE ! GET INSIDE !! ***": {
+    "translation": "门要关了快进去"
+  },
+  "*** DEFEND 20 SECONDS WHILE I'M OPENING THE PATH ***": {
+    "translation": "防守20秒我来开路"
+  },
+  "*** 5 MORE SECONDS ***": {
+    "translation": "还有5秒"
+  },
+  "*** WE FOUND THE STAR, LET'S ESCAPE THIS BATTLEFIELD ! ***": {
+    "translation": "找到星星了 快逃离战场"
+  },
+  "*** DEFEND THE BALLOON ! ***": {
+    "translation": "保护气球"
+  },
+  "*** CONGRATULATIONS ! WE MADE IT SAFE ! ***": {
+    "translation": "恭喜 我们安全抵达"
+  },
+  "*** ALL ABOARD THE BALLOON ! THIS IS THE LAST DEFENSE ! ***": {
+    "translation": "所有人上气球 这是最后防线"
+  },
+  "*** THIS SLOPE IS WET ! TOO SLIPPERY TO WALK ON IT ***": {
+    "translation": "这斜坡湿滑得站不住"
+  },
+  "*** SOME MUST STAY HERE AND DEFEND ! DON'T LET THE ZOMBIES REACH THIS POINT !!***": {
+    "translation": "必须有人留守防御 别让僵尸突破此地"
+  },
+  "*** BOWSER IS DOWN ! LET'S GRAB THE BASEMENT KEY ! ***": {
+    "translation": "库巴倒了 快去拿地窖钥匙"
+  },
+  "*** EVERYONE COME HERE BEFORE IT'S TOO LATE ! ***": {
+    "translation": "所有人趁来得及 快过来"
+  },
+  "*** SOMETHING IS COMING... ***": {
+    "translation": "有东西来了"
+  },
+  "*** WE HAVE ENOUGH STARS ! PLEASE DEFEND UNTIL THE DOORS OPEN ***": {
+    "translation": "星星够了 请防守到门开"
+  },
+  "*** WE DID IT !! WE REACH THE BASEMENT ! ***": {
+    "translation": "成功了 我们到地窖了"
+  },
+  "*** LET'S LOOKING FOR PEACH HERE... IN THE NEXT PART OF THE MAP ! ***": {
+    "translation": "在这找碧姬公主地图下个区域"
+  },
+  "*** DEFEND UNTIL THE DOORS ARE CLOSED !! ***": {
+    "translation": "防守直到门关闭"
+  },
+  "*** WAIT 15 SECONDS FOR THE DOORS TO OPEN ***": {
+    "translation": "等15秒门会开"
+  },
+  "*** THE CURSED WATERS HAVE VANISHED ! ***": {
+    "translation": "诅咒之水消失了"
+  },
+  "*** BUT WITHOUT IT THE BAY IS NOW ALMOST EMPTY ***": {
+    "translation": "但海湾因此几乎干涸了"
+  },
+  "*** WE MUST FIND A WAY TO LEAVE THIS PLACE ***": {
+    "translation": "必须找到离开此地的路"
+  },
+  "*** WE, THE PINK BOB-OMBS, ARE ON YOUR SIDE ! BUT DON'T TOUCH THE BLACK ONES ! ***": {
+    "translation": "我们粉色炸弹站在你们这边 但别碰黑色的"
+  },
+  "*** MAP WILL NOW RESTART ***": {
+    "translation": "地图即将重启"
+  },
+  "*** LET'S SPEEDRUN TO THE DARK WORLD ! ***": {
+    "translation": "速通去黑暗世界"
+  },
+  "*** DEFEND ! THE CASTLE WILL OPEN SOON ***": {
+    "translation": "防守城堡快开了"
+  },
+  "*** SHOOT THE WINDOWS TO ACCESS THE SHIP ! ***": {
+    "translation": "射击窗户进入飞船"
+  },
+  "*** ADMIN CHOSE BOB-OMB BATTLEFIELD ***": {
+    "translation": "管理员选择了-炸弹战场"
+  },
+  "*** ADMIN CHOSE WHOMP FORTRESS ***": {
+    "translation": "管理员选择了-石像怪要塞"
+  },
+  "*** ADMIN CHOSE JOLLY ROGER BAY ***": {
+    "translation": "管理员选择了-欢乐港湾"
+  },
+  "*** ADMIN CHOSE COOL COOL MOUNTAIN ***": {
+    "translation": "管理员选择了-酷酷山"
+  },
+  "*** LOOK UP ! BALLOON IS COMING ! ***": {
+    "translation": "看上面气球来了"
+  },
+  "*** OK GET IN NOW ***": {
+    "translation": "好了现在进去"
+  },
+  "*** GET INSIDE THE CANON IN 20 SECONDS ***": {
+    "translation": "20秒内进入大炮"
+  },
+  "*** THIS IS THE WHOMP KING ! ITS ONLY WEAKNESS IS IN ITS BACK ! ***": {
+    "translation": "这是石像怪王 它弱点在背部"
+  },
+  "*** IT'S SO BIG THAT IT WILL SHAKE THE WORLD EACH TIME IT JUMPS ***": {
+    "translation": "它巨大无比 每次跳跃都会震动世界"
+  },
+  "*** JUMP RIGHT BEFORE IT LANDS TO AVOID BEING THROWN AWAY ***": {
+    "translation": "在它落地前跳跃 避免被震飞"
+  },
+  "*** TOO LATE ! THE TREMORS HAVE BROKEN THE PLATEFORMS ! ***": {
+    "translation": "太迟了 震动已摧毁平台"
+  },
+  "*** SORRY I'M JUST A USELESS BOX ***": {
+    "translation": "抱歉 我只是个没用的箱子"
+  },
+  "*** THIS IS THE LAIR OF MAW-RAY ! ***": {
+    "translation": "这是魔眼怪的巢穴"
+  },
+  "*** IT CAN COMES FROM ANYWHERE, WATCH EVERY TUNNEL ! ***": {
+    "translation": "它会从任何隧道出现 盯紧所有通道"
+  },
+  "*** SHOOT IT AS SOON AS YOU SEE IT, BEFORE IT CHARGES US *** ***": {
+    "translation": "看见立刻射击 别让它冲过来"
+  },
+  "*** WE KILLED THE MAW-RAY !! ***": {
+    "translation": "我们干掉魔眼怪了"
+  },
+  "*** THE BUBBLE SUBMARINE WILL LEAVE IN 20 SECONDS ! ***": {
+    "translation": "泡泡潜艇20秒后离开"
+  },
+  "*** 5 SECONDS LEFT ! ***": {
+    "translation": "只剩5秒"
+  },
+  "*** I SUCK AT SLIDING ! GIVE ME A HAND ! ***": {
+    "translation": "我不擅长滑行 帮帮我"
+  },
+  "*** OH NO ! THIS IS THE LAIR OF KAMEK, BOWSER'S ADVISER ! ***": {
+    "translation": "糟了 这是库巴军师卡美克的巢穴"
+  },
+  "*** HE CAN SUMMON ICEROCKS, BETTER DODGE IT WHILE SHOOTING THE WIZARD ***": {
+    "translation": "他会召唤冰岩射击巫师时 注意躲避"
+  },
+  "*** WE KILLED KAMEK ! LET'S SEE WHAT HE WAS HIDING UP THERE ***": {
+    "translation": "干掉卡美克了 看看他在上面藏了什么"
+  },
+  "*** THE PATH WILL OPEN IN 10 SECONDS ***": {
+    "translation": "道路10秒后开启"
+  },
+  "*** TOO LATE ! ZOMBIES ARE ESCAPING ! ***": {
+    "translation": "太迟了 僵尸正在冲刺"
+  },
+  "*** WE DON'T HAVE ENOUGH STARS TO OPEN THIS DOOR ***": {
+    "translation": "星星不够打开这扇门"
+  },
+  "*** CROUCH TO AVOID BEING SHOT ! ***": {
+    "translation": "蹲下躲避射击"
+  },
+  "*** HE SEEMS FRIENDLY, LET'S ESCAPE WITH HIM ***": {
+    "translation": "他好像很友好 跟他一起逃吧"
+  },
+  "*** WE GOT THE KEY ! ***": {
+    "translation": "拿到钥匙了"
+  },
+  "*** LET'S GO BACK TO THE CASTLE AND HIDE IN THE BASEMENT ***": {
+    "translation": "返回城堡 躲进地窖"
+  },
+  "*** VOTE FOR THE LEVEL YOU WANT TO PLAY BY JUMPING THROUGH THE PAINTINGS ***": {
+    "translation": "选择你想游玩的关卡并跳进去投票 <建议难度从低到高>"
+  },
+  "*** DO NOT MOVE ***": {
+    "translation": "不要动!"
+  },
+  "*** SHOOT ITS BACK ! NOW !! ***": {
+    "translation": "射击他的背部!"
+  }
+}
