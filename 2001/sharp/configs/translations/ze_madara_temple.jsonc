@@ -1,0 +1,173 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">> Someone has reached the end ! <<": {
+    "translation": "有人已到达终点"
+  },
+  ">> Final doors close in 40 seconds ! <<": {
+    "translation": "最终门将在40秒后关闭"
+  },
+  ">> Madara is unleashing a FINAL ATTACK ! <<": {
+    "translation": "宇智波斑正在发动 最终攻击"
+  },
+  ">> GET INSIDE QUICK ! <<": {
+    "translation": "快进来"
+  },
+  ">> door opens in 20 seconds <<": {
+    "translation": "门将在20秒后开启"
+  },
+  ">> door opens in 5 seconds <<": {
+    "translation": "门将在5秒后开启"
+  },
+  ">> Final door opens in 20 seconds <<": {
+    "translation": "最终门将在20秒后开启"
+  },
+  "*** Door opens in 20 seconds ***": {
+    "translation": "门将在20秒后开启"
+  },
+  ">> Defend until the particle reaches the shield <<": {
+    "translation": "我们要为蓝色查克拉争取时间"
+  },
+  ">> Teleport will be enabled in 30 seconds <<": {
+    "translation": "传送将在30秒后启用"
+  },
+  ">> Second door will open soon <<": {
+    "translation": "第二道门即将开启"
+  },
+  ">> Find the blue particle to disable the shield <<": {
+    "translation": "寻找蓝色的查克拉"
+  },
+  "(>>>Triggered<<<)": {
+    "translation": "已触发"
+  },
+  ">> Door opens in 10 seconds <<": {
+    "translation": "门将在10秒后开启"
+  },
+  "(>>Elevators will move in 40 seconds<<)": {
+    "translation": "电梯将在40秒后移动"
+  },
+  ">> Door opens in 45 seconds <<": {
+    "translation": "门将在45秒后开启"
+  },
+  ">> Destroy the Gedo Mazo statue <<": {
+    "translation": "摧毁外道魔像雕像"
+  },
+  ">> Door opens soon <<": {
+    "translation": "门即将开启"
+  },
+  ">> Doors opens in 20 seconds <<": {
+    "translation": "门将在20秒后开启"
+  },
+  ">> Press the three levers to open the door <<": {
+    "translation": "按下三个杠杆来把门打开"
+  },
+  ">> Door opens in 15 seconds <<": {
+    "translation": "门将在15秒后开启"
+  },
+  ">> Rock will explode in 10 seconds <<": {
+    "translation": "岩石将在10秒后爆炸"
+  },
+  ">> Touch the blue particle to disable the portal <<": {
+    "translation": "触碰蓝色的查克拉 应该可以使虚空传送门失效"
+  },
+  ">> Door opens in 30 seconds <<": {
+    "translation": "门将在30秒后开启"
+  },
+  ">> PLAYER HAS PICKED UP ZOMBIE LURE <<": {
+    "translation": "敌方忍者学会了万象天引 <黑洞>",
+    "blocked": true
+  },
+  ">> PLAYER HAS PICKED UP ZOMBIE HEAL <<": {
+    "translation": "敌方忍者学会了治愈忍术 <治疗>",
+    "blocked": true
+  },
+  ">> PLAYER HAS PICKED UP ZOMBIE WARP <<": {
+    "translation": "敌方忍者学会了别天神 <秒杀>",
+    "blocked": true
+  },
+  ">> PLAYER HAS PICKED UP FIRE <<": {
+    "translation": "有忍者学会了火遁-豪火灭矢",
+    "blocked": true
+  },
+  ">> PLAYER HAS PICKED UP ZOMBIE FIRE <<": {
+    "translation": "敌方忍者学会了火遁-豪火灭却 <火>",
+    "blocked": true
+  },
+  ">> PLAYER HAS PICKED UP ULTIMA <<": {
+    "translation": "忍者学会了禁术-神罗天征 <终极>",
+    "blocked": true
+  },
+  ">> PLAYER HAS PICKED UP ROCK <<": {
+    "translation": "忍者学会了土遁-土流壁",
+    "blocked": true
+  },
+  ">> PLAYER HAS PICKED UP ELECTRO <<": {
+    "translation": "忍者学会了雷切",
+    "blocked": true
+  },
+  ">> PLAYER HAS PICKED UP HEAL <<": {
+    "translation": "忍者学会了医疗忍术 <治疗>",
+    "blocked": true
+  },
+  ">> PLAYER HAS PICKED UP GRAVITY <<": {
+    "translation": "忍者继承了万花筒写轮眼 <黑洞>",
+    "blocked": true
+  },
+  ">> PLAYER HAS PICKED UP WIND <<": {
+    "translation": "忍者学会了风遁-镰鼬",
+    "blocked": true
+  },
+  ">>Failed to spawn the entity<<": {
+    "translation": "世界构成构造失败"
+  },
+  "** Madara disappear - Escape ! **": {
+    "translation": "宇智波斑释放土遁逃跑了!"
+  },
+  ">> Madara has casted ultima <<": {
+    "translation": "宇智波斑施展 禁术-天碍震星(快贴墙)"
+  },
+  ">> Run to the portal under the waterfall <<": {
+    "translation": "瀑布下面好像有路 快跑!"
+  },
+  ">> Cross the bridge and run to the last door ! <<": {
+    "translation": "过桥跑向最后一道门!"
+  },
+  ">> Zombies will teleport soon <<": {
+    "translation": "僵尸即将传送"
+  },
+  ">> Fall back now <<": {
+    "translation": "快撤退"
+  },
+  ">> Try to find the elevator button <<": {
+    "translation": "尝试找到电梯按钮"
+  },
+  ">> Congratulations! You won the map! <<": {
+    "translation": "恭喜!你征服了该地图"
+  },
+  ">> LOADING ULTIMA 20 SECONDS <<": {
+    "translation": "神罗天征结印施法需要20秒"
+  },
+  "(>>>Map Ported to CS:GO by Henry<<<)": {
+    "translation": "移植:Henry 文本:Zeyu1"
+  },
+  ">>> Ending has been modified <<<": {
+    "translation": "结局已被修改",
+    "blocked": true
+  },
+  ">>> Learn more about it, in the workshop <<<": {
+    "translation": "你可以在创意工坊了解更多",
+    "blocked": true
+  },
+  ">> Teleport will be enabled in 10 seconds <<": {
+    "translation": "传送将在10秒后启用"
+  }
+}
