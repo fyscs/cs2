@@ -438,5 +438,14 @@
   },
   "*** LET'S GO BACK TO THE CASTLE AND HIDE IN THE BASEMENT ***": {
     "translation": "返回城堡 躲进地窖"
+  },
+  "*** VOTE FOR THE LEVEL YOU WANT TO PLAY BY JUMPING THROUGH THE PAINTINGS ***": {
+    "translation": "选择你想游玩的关卡并跳进去投票 <建议难度从低到高>"
+  },
+  "*** DO NOT MOVE ***": {
+    "translation": "不要动!"
+  },
+  "*** SHOOT ITS BACK ! NOW !! ***": {
+    "translation": "射击他的背部!"
   }
 }
