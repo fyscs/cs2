@@ -575,6 +575,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_chrono_trigger": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_chronus_p": {
     "admin": false,
     "certainTimes": [-1],
