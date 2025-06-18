@@ -3014,6 +3014,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_rooftop_rogue_ws": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 160,
+    "nomination": true,
+    "price": 500,
+    "requiredOnline": -1,
+    "requiredPlayers": 35
+  },
   "ze_rooftop_runaway1_p": {
     "admin": false,
     "certainTimes": [-1],
