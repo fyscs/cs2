@@ -24,7 +24,6 @@
   },
   "Defend for 15 seconds": {
     "translation": "防守15秒",
-    "blocked": true
   },
   "Hold for 20 seconds": {
     "translation": "防守20秒"
@@ -49,11 +48,9 @@
   },
   "20 seconds": {
     "translation": "20秒",
-    "blocked": true
   },
   "15 seconds": {
     "translation": "15秒",
-    "blocked": true
   },
   "30 seconds": {
     "translation": "30秒"
