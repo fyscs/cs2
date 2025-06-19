@@ -11,7 +11,8 @@
 
 {
   "> Platform starts in 5 sec. <": {
-    "translation": "> 大门将在5秒后启动. <"
+    "translation": "> 大门将在5秒后启动. <",
+    "countdown": 5
   },
   "|Speaker|: Portal is ready.": {
     "translation": "|广播|: 入口已准备就绪."
@@ -28,8 +29,8 @@
   "|Speaker|: Stay safe.": {
     "translation": "|广播|: 请尽力活着."
   },
-  "> Backrooms Deathbed < ver 1.3": {
-    "translation": "> 后室:死眠 < ver 1.3"
+  "> Backrooms Deathbed < ver 1.4": {
+    "translation": "> 后室:死眠 < ver 1.4"
   },
   "> Map by @Seth <": {
     "translation": "> 地图作者:@Seth 地图翻译:小妖梦@风云社 <"
@@ -44,16 +45,20 @@
     "translation": ">> 本地图包含跳杀元素!(死亡时) <<"
   },
   "< 15 >": {
-    "translation": "< 15 >"
+    "translation": "< 15 >",
+    "countdown": 15
   },
   "ZM TP < 10 >": {
-    "translation": "僵尸传送 < 10 >"
+    "translation": "僵尸传送 < 10 >",
+    "blocked": true
   },
   "Right Side < 15 >": {
-    "translation": "右侧 < 15 >"
+    "translation": "右侧 < 15 >",
+    "blocked": true
   },
   "Right Side < 20 >": {
-    "translation": "右侧 < 20 >"
+    "translation": "右侧 < 20 >",
+    "countdown": 20
   },
   ">A barrier has shattered.<": {
     "translation": ">一道屏障被打破了.<"
@@ -62,22 +67,27 @@
     "translation": "< 等待你左侧的小队... >"
   },
   "Left Side < 25 >": {
-    "translation": "左侧 < 25 >"
+    "translation": "左侧 < 25 >",
+    "countdown": 25
   },
   "< Wait for your Right Side team... >": {
     "translation": "< 等待你右侧的小队... >"
   },
   "< Both team arrive,Hold 20 sec. >": {
-    "translation": "< 两队集合完毕,守住20秒. >"
+    "translation": " 两队集合完毕,守住20秒. ",
+    "countdown": 20
   },
   "ZM TP < 15 >": {
-    "translation": "僵尸传送 < 15 >"
+    "translation": "僵尸传送 < 15 >",
+    "blocked": true
   },
   "< 25 >": {
-    "translation": "< 25 >"
+    "translation": "< 25 >",
+    "countdown": 25
   },
   "ZM TP < 5 >": {
-    "translation": "僵尸传送 < 5 >"
+    "translation": "僵尸传送 < 5 >",
+    "blocked": true
   },
   "[What was that on the wall?]": {
     "translation": "[等等,墙上的是什么?]"
@@ -89,7 +99,8 @@
     "translation": "[我有一种不好的感觉,注意你的周围.]"
   },
   "Defend < 10 >": {
-    "translation": "防守 < 10 >"
+    "translation": "防守 < 10 >",
+    "countdown": 10
   },
   "[...Don't move.]": {
     "translation": "[...别动.]"
@@ -113,10 +124,12 @@
     "translation": "[躲起来,不要让它找到你...]"
   },
   "< 20 >": {
-    "translation": "< 20 >"
+    "translation": "< 20 >",
+    "countdown": 20
   },
   "< 10 >": {
-    "translation": "< 10 >"
+    "translation": "< 10 >",
+    "countdown": 10
   },
   "[Listen to the sound,And pick the right one.]": {
     "translation": "[仔细听声音,选择一个对的坑往下跳.]"
@@ -131,7 +144,8 @@
     "translation": "[肯定有一座房子是真的,去找到它.]"
   },
   "< 30 >": {
-    "translation": "< 30 >"
+    "translation": "< 30 >",
+    "countdown": 30
   },
   "[We found the real house.]": {
     "translation": "[我们找到了真正的房子.]"
