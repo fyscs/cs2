@@ -38,7 +38,8 @@
     "translation": "不应该..."
   },
   "<<5秒后门开>>": {
-    "translation": "<<5秒后门开>>"
+    "translation": "5秒后门开",
+    "countdown": 5
   },
   "死的人应该是我....": {
     "translation": "死的人应该是我...."
@@ -47,10 +48,12 @@
     "translation": "他们为此付出了生命..."
   },
   "<<门还有20秒开>>": {
-    "translation": "<<门还有20秒开>>"
+    "translation": "门还有20秒开",
+    "countdown": 20
   },
   "<<30秒后门开>>": {
-    "translation": "<<30秒后门开>>"
+    "translation": "30秒后门开",
+    "countdown": 30
   },
   "他们只想要结果...": {
     "translation": "他们只想要结果..."
@@ -68,25 +71,33 @@
     "translation": "我现在无处可去..."
   },
   "<<20秒后门开>>": {
-    "translation": "<<20秒后门开>>"
+    "translation": "20秒后门开",
+    "countdown": 20
   },
   "正在打开管道": {
     "translation": "正在打开管道"
   },
   "<<还剩10秒>>": {
-    "translation": "<<还剩10秒>>"
+    "translation": "*还剩10秒",
+    "countdown": 10,
+    "clearTimer": true
   },
   "<<10秒后门开>>": {
-    "translation": "<<10秒后门开>>"
+    "translation": "10秒后门开",
+    "countdown": 10
   },
   "<<管道将在20秒后开启>>": {
-    "translation": "<<管道将在20秒后开启>>"
+    "translation": "管道将在20秒后开启",
+    "countdown": 20
   },
   "<<你还有20秒的时间>>": {
-    "translation": "<<你还有20秒的时间>>"
+    "translation": "你还有20秒的时间",
+    "countdown": 20
   },
   "<<10秒后开门>>": {
-    "translation": "<<10秒后开门>>"
+    "translation": "*10秒后开门",
+    "countdown": 10,
+    "clearTimer": true
   },
   "<<已进入管道>>": {
     "translation": "<<已进入管道>>"
@@ -98,13 +109,16 @@
     "translation": "<<正在破解....>>"
   },
   "<<还剩20秒>>": {
-    "translation": "<<还剩20秒>>"
+    "translation": "还剩20秒",
+    "countdown": 20
   },
   "<<抓紧时间>>": {
     "translation": "<<抓紧时间>>"
   },
   "<<还有10秒>>": {
-    "translation": "<<还有10秒>>"
+    "translation": "*还有10秒",
+    "countdown": 10,
+    "clearTimer": true
   },
   "<<警告:区域内电力供应不足>>": {
     "translation": "<<警告:区域内电力供应不足>>"
@@ -137,10 +151,12 @@
     "translation": "<<警告:僵尸已破开防御>>"
   },
   "<<20秒后开启>>": {
-    "translation": "<<20秒后开启>>"
+    "translation": "20秒后开启",
+    "countdown": 20
   },
   "<<电梯将在10秒后开启>>": {
-    "translation": "<<电梯将在10秒后开启>>"
+    "translation": "电梯将在10秒后开启",
+    "countdown": 10
   },
   "<<已到达B区域>>": {
     "translation": "<<已到达B区域>>"
@@ -167,19 +183,24 @@
     "translation": "不可饶恕的背叛..."
   },
   "<<坚守40秒>>": {
-    "translation": "<<坚守40秒>>"
+    "translation": "坚守40秒",
+    "countdown": 40
   },
   "<<20秒后开门>>": {
-    "translation": "<<20秒后开门>>"
+    "translation": "20秒后开门",
+    "countdown": 20
   },
   "<<20秒打开窗户>>": {
-    "translation": "<<20秒打开窗户>>"
+    "translation": "20秒打开窗户",
+    "countdown": 20
   },
   "<<将在10秒后开启大门>>": {
-    "translation": "<<将在10秒后开启大门>>"
+    "translation": "将在10秒后开启大门",
+    "countdown": 10
   },
   "<<障碍将在15秒后清理>>": {
-    "translation": "<<障碍将在15秒后清理>>"
+    "translation": "障碍将在15秒后清理",
+    "countdown": 15
   },
   "<<GF:呼叫支援,我们被困住了,飞机坠毁了>>": {
     "translation": "<<GF:呼叫支援,我们被困住了,飞机坠毁了>>"
@@ -209,7 +230,8 @@
     "translation": "<<加载中...>>"
   },
   "<<距离完全破译剩余20秒>>": {
-    "translation": "<<距离完全破译剩余20秒>>"
+    "translation": "距离完全破译剩余20秒",
+    "countdown": 20
   },
   "<<正在破坏障碍物>>": {
     "translation": "<<正在破坏障碍物>>"
@@ -218,22 +240,28 @@
     "translation": "<<还需要一些时间..>>"
   },
   "<<10秒>>": {
-    "translation": "<<10秒>>"
+    "translation": "10秒",
+    "countdown": 10
   },
   "<<10>>": {
-    "translation": "<<10>>"
+    "translation": "<<10>>",
+    "countdown": 10,
+    "clearTimer": true
   },
   "<<最终时刻>>": {
     "translation": "<<最终时刻>>"
   },
   "<<3>>": {
-    "translation": "<<3>>"
+    "translation": "<<3>>",
+    "blocked": true
   },
   "<<2>>": {
-    "translation": "<<2>>"
+    "translation": "<<2>>",
+    "blocked": true
   },
   "<<1>>": {
-    "translation": "<<1>>"
+    "translation": "<<1>>",
+    "blocked": true
   },
   "<<到达地下通道>>": {
     "translation": "<<到达地下通道>>"
@@ -245,7 +273,8 @@
     "translation": "<<正在破解大门>>"
   },
   "<<20秒>>": {
-    "translation": "<<20秒>>"
+    "translation": "<<20秒>>",
+    "countdown": 20
   },
   "<<正在开启大门>>": {
     "translation": "<<正在开启大门>>"
@@ -260,6 +289,7 @@
     "translation": "<<马上...马上..>>"
   },
   "<<30秒>>": {
-    "translation": "<<30秒>>"
+    "translation": "<<30秒>>",
+    "countdown": 30
   }
 }
