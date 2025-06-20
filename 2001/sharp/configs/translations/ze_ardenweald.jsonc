@@ -14,16 +14,19 @@
     "translation": ">>>被你发现了<<<"
   },
   ">>>你好像走错了<<<": {
-    "translation": ">>>你好像走错了<<< >>"
+    "translation": "你好像走错了..."
   },
   ">>>前方的路很难走，要仔细辨别哦，5 seconds left<<<": {
-    "translation": ">>>5秒后门开<<<"
+    "translation": ">>>5秒后门开<<<",
+    "countdown": 5
   },
   ">>>还需要再等一会哦,30second left<<<": {
-    "translation": ">>>坚守30秒<<<"
+    "translation": ">>>坚守30秒<<<",
+    "countdown": 30
   },
   ">>>还需要再等一会哦,10second left<<<": {
-    "translation": ">>>坚守10秒<<<"
+    "translation": ">>>坚守10秒<<<",
+    "blocked": true
   },
   ">>>石碑印记，指明道路。独一无二，引领前路<<<": {
     "translation": ">>>石碑印记,指明道路.独一无二,引领前路<<<"
@@ -47,13 +50,16 @@
     "translation": ">>>咦,这个宝石是干嘛的<<<"
   },
   ">>>10 seconds<<<": {
-    "translation": ">>>再阻挡10秒<<<"
+    "translation": ">>>再阻挡10秒<<<",
+    "countdown": 10
   },
   ">>>终于出来了！小心前方荆棘！，15second<<<": {
-    "translation": ">>>小心前方荆棘,我们还需要坚守15秒<<<"
+    "translation": "还需防守15秒",
+    "countdown": 15
   },
   ">>>不采一株桑，不踏一粒石。自问此时心，不足何时足。10 seconds left<<<": {
-    "translation": ">>>坚守10秒<<<"
+    "translation": "坚守10秒",
+    "countdown": 10
   },
   ">>>太好了，你找到了<<<": {
     "translation": ">>>太好了,你找到了<<<"
@@ -62,36 +68,47 @@
     "translation": ">>>同类同形,虚无之路,唯一印记,唯一正途<<<"
   },
   ">>>开关已全部激活 20 seconds left<<<": {
-    "translation": ">>>石板将在20秒后上升<<<"
+    "translation": "石板将在20秒后上升",
+    "countdown": 20
   },
   ">>>10 seconds left<<<": {
-    "translation": ">>>还剩10秒<<<"
+    "translation": "还剩10秒",
+    "countdown": 10
   },
   ">>>板子即将上升 20 seconds left<<<": {
-    "translation": ">>>板子将再20秒后上升<<<"
+    "translation": "板子将再20秒后上升",
+    "countdown": 20
   },
   ">>>30 seconds left<<<": {
-    "translation": ">>>还剩30秒<<<"
+    "translation": "还剩30秒",
+    "countdown": 30
   },
   ">>>第一关胜利<<<": {
     "translation": ">>>第一关胜利<<<"
   },
   ">>>道路还有10秒显现, 10 seconds left<<<": {
-    "translation": ">>>道路还有10秒显现,坚持住<<<"
+    "translation": "道路还有10秒显现",
+    "countdown": 10,
+    "blocked": true
   },
   ">>>道路还有20秒显现, 20 seconds left<<<": {
-    "translation": ">>>道路还有20秒显现,坚持住<<<"
+    "translation": "道路还有20秒显现,坚持住",
+    "countdown": 20
   },
   ">>>tp in 10 seconds<<<": {
-    "translation": ">>>10秒后传送<<<"
+    "translation": "10秒后传送",
+    "countdown": 10,
+    "blocked": true
   },
   ">>>tp in 30 seconds<<<": {
-    "translation": ">>>30秒后传送<<<"
+    "translation": "30秒后传送",
+    "countdown": 30
   },
   ">>>胜利<<<": {
     "translation": ">>>恭喜你胜利了<<<"
   },
   ">>>被你发现了,10second left<<<": {
-    "translation": ">>>迷雾之门10秒后散去<<<"
+    "translation": "迷雾之门10秒后散去",
+    "countdown": 10
   }
 }

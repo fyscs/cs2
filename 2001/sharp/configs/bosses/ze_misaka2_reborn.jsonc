@@ -56,6 +56,11 @@
       "iterator": "st5_boss_hp_counter",
       "hitbox": "st5_boss_break",
       "display": "Boss"
+    },
+    {
+      "iterator": "st3_boss_hp_counter",
+      "hitbox": "st3_boss_phys",
+      "display": "Boss"
     }
   ],
   "Monsters": [

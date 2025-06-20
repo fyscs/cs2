@@ -23,8 +23,7 @@
     "translation": "一条路将在20秒内打开"
   },
   "Defend for 15 seconds": {
-    "translation": "防守15秒",
-    "blocked": true
+    "translation": "防守15秒"
   },
   "Hold for 20 seconds": {
     "translation": "防守20秒"
@@ -48,12 +47,10 @@
     "translation": "等待随机打开方式"
   },
   "20 seconds": {
-    "translation": "20秒",
-    "blocked": true
+    "translation": "20秒"
   },
   "15 seconds": {
-    "translation": "15秒",
-    "blocked": true
+    "translation": "15秒"
   },
   "30 seconds": {
     "translation": "30秒"
@@ -72,5 +69,17 @@
   },
   "You Failed!": {
     "translation": "你失败了!"
+  },
+  "Zeus is angry.": {
+    "translation": "Zeus初显神威."
+  },
+  "Water is rising..": {
+    "translation": "水面正在上升.."
+  },
+  "25 seconds": {
+    "translation": "25秒"
+  },
+  "Zombie tp in 15 seconds": {
+    "translation": "僵尸还有15秒传送"
   }
 }

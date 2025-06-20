@@ -1,0 +1,142 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "+++ YOU HAVE WON! RESTARTING MAP +++": {
+    "translation": "正在重启地图"
+  },
+  "+++ NEXT LEVEL IS EXTREME +++": {
+    "translation": "下一关卡-极限"
+  },
+  "+++ NEXT LEVEL IS HARD +++": {
+    "translation": "下一关-困难"
+  },
+  "+++ NEXT LEVEL IS NORMAL +++": {
+    "translation": "下一关卡-普通"
+  },
+  "+++ The door opens in 60 seconds +++": {
+    "translation": "门将在60秒后开启"
+  },
+  "+++ The door opens in 30 seconds +++": {
+    "translation": "门将在30秒后开启"
+  },
+  "+++ The door opens in 10 seconds +++": {
+    "translation": "门将在10秒后开启"
+  },
+  "+++ The door is opening... RETREAT!!! +++": {
+    "translation": "门正在开启撤退"
+  },
+  "+++ Double doors open in 20 seconds +++": {
+    "translation": "双门将在20秒后开启"
+  },
+  "+++ Double doors open in 10 seconds +++": {
+    "translation": "双门将在10秒后开启"
+  },
+  "+++ Double doors are opening!!! +++": {
+    "translation": "双门正在开启"
+  },
+  "+++ Keep the zombies out while the doors close +++": {
+    "translation": "在门关闭时阻止僵尸进入"
+  },
+  "+++ Second double doors open in 15 seconds +++": {
+    "translation": "第二道双门将在15秒后开启"
+  },
+  "++ HOLD! THE DOOR OPENS SOON! ++": {
+    "translation": "坚守门即将开启"
+  },
+  "+++ Defend for 25 seconds +++": {
+    "translation": "防守25秒"
+  },
+  "+++ 10 seconds left!!! +++": {
+    "translation": "剩余10秒"
+  },
+  "+++ The door is opening +++": {
+    "translation": "门正在开启"
+  },
+  "++ Impact in 10 seconds ++": {
+    "translation": "撞击在10秒后"
+  },
+  "++ Impact in 30 seconds ++": {
+    "translation": "撞击在30秒后"
+  },
+  "++ Nuke launched. Impact in 60 seconds ++": {
+    "translation": "核弹已发射撞击在60秒后"
+  },
+  "++ Nuke launched. Impact in 30 seconds ++": {
+    "translation": "核弹已发射撞击在30秒后"
+  },
+  "+++ ZOMBIES ON BUNKER +++": {
+    "translation": "小心掩体"
+  },
+  "+++ LEVEL IS NOT CHANGING +++": {
+    "translation": "关卡未改变"
+  },
+  "+++ Defend for 30 seconds +++": {
+    "translation": "防守30秒"
+  },
+  "+++ 15 seconds left!!! +++": {
+    "translation": "剩余15秒"
+  },
+  "+++ Defend for 20 seconds +++": {
+    "translation": "防守20秒"
+  },
+  "++ HOLD! WE ARE TRAPPED HERE!!! ++": {
+    "translation": "我们被困在这了 守住!"
+  },
+  "++ WE HAVE TO FIND A WAY OUT!!! ++": {
+    "translation": "我们必须找到出路"
+  },
+  "++ THE BALCONY! JUMP!!! ++": {
+    "translation": "去阳台 跳出来!"
+  },
+  "++ HOLD! The door will open in 20 seconds!!! ++": {
+    "translation": "坚守门将在20秒后开启"
+  },
+  "++ RESIST! 5 LAST SECONDS!!! ++": {
+    "translation": "抵抗最后5秒"
+  },
+  "++ Hold for 15 more seconds!!! ++": {
+    "translation": "再坚守15秒"
+  },
+  "++ Hold for 30 seconds ++": {
+    "translation": "坚守30秒"
+  },
+  "++ Hold for 5 more seconds!!! ++": {
+    "translation": "再坚守5秒"
+  },
+  "++ Hold for 20 seconds ++": {
+    "translation": "坚守20秒"
+  },
+  "++ HOLD! DOOR OPENS IN 30 SEC ++": {
+    "translation": "坚守门将在30秒后开启"
+  },
+  "++ RESIST! 15 SECONDS LEFT ++": {
+    "translation": "抵抗剩余15秒"
+  },
+  "++ HOLD! DOOR OPENS IN 20 SEC ++": {
+    "translation": "坚守门将在20秒后开启"
+  },
+  "++ ZE_ITALY_TOWN ++": {
+    "translation": "ZE_ITALY_TOWN 文本:Zeyu1"
+  },
+  "+++ CURRENT LEVEL: EASY +++": {
+    "translation": "当前关卡-简单"
+  },
+  "+++ CURRENT LEVEL: NORMAL +++": {
+    "translation": "当前关卡-普通"
+  },
+  "+++ CURRENT LEVEL: HARD +++": {
+    "translation": "当前关卡-困难"
+  },
+  "+++ CURRENT LEVEL: EXTREME +++": {
+    "translation": "当前关卡-极限"
+  }
+}

@@ -1,0 +1,112 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "### Jack has been defeated! Escape! ###": {
+    "translation": "杰克被打败了 快跑"
+  },
+  "### Quickly Run for the Roof ###": {
+    "translation": "快跑到屋顶"
+  },
+  "###Doors will Open in 20 Seconds...Survive###": {
+    "translation": "门将在20秒后打开坚持住"
+  },
+  "###Map Made By Mononoke###": {
+    "translation": "地图作者:Mononoke 文本:Zeyu1"
+  },
+  "###Press E to use items###": {
+    "translation": "按e使用道具"
+  },
+  "###All items have 1 Minute Cooldown###": {
+    "translation": "所有神器冷却时间为一分钟",
+    "blocked": true
+  },
+  "### Undead Priest Active: Flame Thrower###": {
+    "translation": "亡灵祭司启动火焰喷射器"
+  },
+  "### Hunchback Active: Shotgun ###": {
+    "translation": "驼背人启动霰弹枪"
+  },
+  "###Gutter Gate Will Open in 30 Seconds...Survive###": {
+    "translation": "下水道门将在30秒后打开坚持住"
+  },
+  "###Gutter Gate Open...Run!###": {
+    "translation": "下水道门打开快跑"
+  },
+  "###Boss Door Open...Run###": {
+    "translation": "BOSS门打开了 快跑"
+  },
+  "###Boss Door will Open in 30 Seconds...Survive###": {
+    "translation": "BOSS门将在30秒后打开 坚持住"
+  },
+  "###Wine Cellar Door will Close in 30 Seconds...Survive###": {
+    "translation": "酒窖门将在30秒后关闭 坚持住"
+  },
+  "###Cellar Door Open...Run!###": {
+    "translation": "地窖门打开快跑"
+  },
+  "### Time is Up! ###": {
+    "translation": "时间到"
+  },
+  "### Viola Active: Super Boost 5s###": {
+    "translation": "薇奥拉启动超级加速五秒",
+    "blocked": true
+  },
+  "### The entire place is falling down! Get to the top of the Tower for Saftey ###": {
+    "translation": "整个地方在坍塌 快去塔顶避难"
+  },
+  "** Nades do more damage **": {
+    "translation": "手雷可以造成更高伤害"
+  },
+  "###Trap Door Closes in 30 seconds###": {
+    "translation": "陷阱门将在30秒后关闭"
+  },
+  "###This is the last stand! Fight for your life###": {
+    "translation": "这是最后的守点 为生命而战!"
+  },
+  "###You Survived! Well Done!###": {
+    "translation": "你活下来了干得好"
+  },
+  "### Defend here for 15 Seconds! Make sure you are behind the red line! ###": {
+    "translation": "防守15秒-站在红线后面"
+  },
+  "### You cannot Destroy the Great Jack HaHa Face Your Doom ###": {
+    "translation": "迎接你的末日吧"
+  },
+  "### Kill Jack within two minutes or face instant death ###": {
+    "translation": "两分钟内杀死杰克"
+  },
+  "###Quickly run into the Crypt ###": {
+    "translation": "快跑进地穴"
+  },
+  "### AFK Teleport in 15 seconds ###": {
+    "translation": "15秒后传送"
+  },
+  "### Super Boost Charged ###": {
+    "translation": "超级加速已充能"
+  },
+  "### Super Boost Active for 5 seconds ###": {
+    "translation": "超级加速持续五秒",
+    "blocked": true
+  },
+  "### Shotgun Fired! ###": {
+    "translation": "霰弹枪已射击"
+  },
+  "### Shotgun Reloaded ###": {
+    "translation": "霰弹枪已装填"
+  },
+  "### Flame Charged ###": {
+    "translation": "火焰已充能"
+  },
+  "### Flame On ###": {
+    "translation": "火焰发射"
+  }
+}
