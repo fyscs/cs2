@@ -26,7 +26,7 @@
   },
   ">>>还需要再等一会哦,10second left<<<": {
     "translation": ">>>坚守10秒<<<",
-    "countdown": 10
+    "blocked": true
   },
   ">>>石碑印记，指明道路。独一无二，引领前路<<<": {
     "translation": ">>>石碑印记,指明道路.独一无二,引领前路<<<"
@@ -89,7 +89,7 @@
   ">>>道路还有10秒显现, 10 seconds left<<<": {
     "translation": "道路还有10秒显现",
     "countdown": 10,
-    "clearTimer": true
+    "blocked": true
   },
   ">>>道路还有20秒显现, 20 seconds left<<<": {
     "translation": "道路还有20秒显现,坚持住",
@@ -98,7 +98,7 @@
   ">>>tp in 10 seconds<<<": {
     "translation": "10秒后传送",
     "countdown": 10,
-    "clearTimer": true
+    "blocked": true
   },
   ">>>tp in 30 seconds<<<": {
     "translation": "30秒后传送",
