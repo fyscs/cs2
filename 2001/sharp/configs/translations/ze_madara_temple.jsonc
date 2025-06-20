@@ -83,48 +83,37 @@
     "translation": "门将在30秒后开启"
   },
   ">> PLAYER HAS PICKED UP ZOMBIE LURE <<": {
-    "translation": "敌方忍者学会了万象天引 <黑洞>",
-    "blocked": true
+    "translation": "敌方忍者学会了万象天引 <黑洞>"
   },
   ">> PLAYER HAS PICKED UP ZOMBIE HEAL <<": {
-    "translation": "敌方忍者学会了治愈忍术 <治疗>",
-    "blocked": true
+    "translation": "敌方忍者学会了治愈忍术 <治疗>"
   },
   ">> PLAYER HAS PICKED UP ZOMBIE WARP <<": {
-    "translation": "敌方忍者学会了别天神 <秒杀>",
-    "blocked": true
+    "translation": "敌方忍者学会了别天神 <秒杀>"
   },
   ">> PLAYER HAS PICKED UP FIRE <<": {
-    "translation": "有忍者学会了火遁-豪火灭矢",
-    "blocked": true
+    "translation": "有忍者学会了火遁-豪火灭矢"
   },
   ">> PLAYER HAS PICKED UP ZOMBIE FIRE <<": {
-    "translation": "敌方忍者学会了火遁-豪火灭却 <火>",
-    "blocked": true
+    "translation": "敌方忍者学会了火遁-豪火灭却 <火>"
   },
   ">> PLAYER HAS PICKED UP ULTIMA <<": {
-    "translation": "忍者学会了禁术-神罗天征 <终极>",
-    "blocked": true
+    "translation": "忍者学会了禁术-神罗天征 <终极>"
   },
   ">> PLAYER HAS PICKED UP ROCK <<": {
-    "translation": "忍者学会了土遁-土流壁",
-    "blocked": true
+    "translation": "忍者学会了土遁-土流壁"
   },
   ">> PLAYER HAS PICKED UP ELECTRO <<": {
-    "translation": "忍者学会了雷切",
-    "blocked": true
+    "translation": "忍者学会了雷切"
   },
   ">> PLAYER HAS PICKED UP HEAL <<": {
-    "translation": "忍者学会了医疗忍术 <治疗>",
-    "blocked": true
+    "translation": "忍者学会了医疗忍术 <治疗>"
   },
   ">> PLAYER HAS PICKED UP GRAVITY <<": {
-    "translation": "忍者继承了万花筒写轮眼 <黑洞>",
-    "blocked": true
+    "translation": "忍者继承了万花筒写轮眼 <黑洞>"
   },
   ">> PLAYER HAS PICKED UP WIND <<": {
-    "translation": "忍者学会了风遁-镰鼬",
-    "blocked": true
+    "translation": "忍者学会了风遁-镰鼬"
   },
   ">>Failed to spawn the entity<<": {
     "translation": "世界构成构造失败"
@@ -160,8 +149,7 @@
     "translation": "移植:Henry 文本:Zeyu1"
   },
   ">>> Ending has been modified <<<": {
-    "translation": "结局已被修改",
-    "blocked": true
+    "translation": "结局已被修改"
   },
   ">>> Learn more about it, in the workshop <<<": {
     "translation": "你可以在创意工坊了解更多",
