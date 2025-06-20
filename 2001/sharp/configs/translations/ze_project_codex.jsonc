@@ -1,0 +1,187 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Stage Codex Completed": {
+    "translation": "Codex: 关卡完成"
+  },
+  "Thank you for playing": {
+    "translation": "感谢您的游玩"
+  },
+  "Curreut Stage RTV": {
+    "translation": "当前关卡: RTV"
+  },
+  "Spacial Thanks Snow/朝田诗乃Sino/oVo/Toka1tei-o for the sponsorship": {
+    "translation": "特别感谢 Snow/朝田诗乃Sino/oVo/Toka1tei-o 的赞助"
+  },
+  "Spacial Thanks SIRloin/oVo/Enidnu for help": {
+    "translation": "特别感谢 SIRloin/oVo/Enidnu 的帮助"
+  },
+  "Admin Set Stage Purple": {
+    "translation": "管理员设置关卡: Purple"
+  },
+  "Admin Set Stage Blue": {
+    "translation": "管理员设置关卡: Blue"
+  },
+  "Admin Set Stage Codex...": {
+    "translation": "管理员设置关卡: Codex"
+  },
+  "Spacial Thanks Chrazini for Beautiful Letters!": {
+    "translation": "特别感谢 Chrazini 提供的字体"
+  },
+  "Map port by Wa1nut": {
+    "translation": "地图移植: Wa1nut"
+  },
+  "Admin Set Stage Yellow": {
+    "translation": "管理员设置关卡: Yellow"
+  },
+  "Admin Set Stage Red": {
+    "translation": "管理员设置关卡: Red"
+  },
+  "Stage PURPLE": {
+    "translation": "关卡: PURPLE"
+  },
+  "0...6...0": {
+    "translation": "0...6...0"
+  },
+  "0...5...0": {
+    "translation": "0...5...0"
+  },
+  "0...4...0": {
+    "translation": "0...4...0"
+  },
+  "0...3...0": {
+    "translation": "0...3...0"
+  },
+  "0...2...0": {
+    "translation": "0...2...0"
+  },
+  "0...1...5": {
+    "translation": "0...1...5"
+  },
+  "0...1...0": {
+    "translation": "0...1...0"
+  },
+  "...5...": {
+    "translation": "...5..."
+  },
+  "Stage RED": {
+    "translation": "关卡: RED"
+  },
+  "Stage YELLOW": {
+    "translation": "关卡: YELLOW"
+  },
+  "Stage BLUE": {
+    "translation": "关卡: BLUE"
+  },
+  "Stage Codex...": {
+    "translation": "关卡: Codex"
+  },
+  "5...": {
+    "translation": "5..."
+  },
+  "0...9...0": {
+    "translation": "0...9...0"
+  },
+  "0...8...0": {
+    "translation": "0...8...0"
+  },
+  "0...7...0": {
+    "translation": "0...7...0"
+  },
+  "......laser......": {
+    "translation": "激光"
+  },
+  "......gravity......": {
+    "translation": "重力"
+  },
+  "......snow......": {
+    "translation": "雪"
+  },
+  "......fallen......": {
+    "translation": "坠落"
+  },
+  "look up and stay alive": {
+    "translation": "向上看活下来"
+  },
+  "away from lower platform": {
+    "translation": "远离下层平台"
+  },
+  "crouch at lower platform": {
+    "translation": "在下层平台蹲下"
+  },
+  "hide under the boss": {
+    "translation": "躲在boss下方"
+  },
+  "1...2...0": {
+    "translation": "1...2...0"
+  },
+  "1...1...0": {
+    "translation": "1...1...0"
+  },
+  "1...0...0": {
+    "translation": "1...0...0"
+  },
+  "1...5...0": {
+    "translation": "1...5...0"
+  },
+  "2...0...0": {
+    "translation": "2...0...0"
+  },
+  "...4...": {
+    "translation": "...4..."
+  },
+  "...3...": {
+    "translation": "...3..."
+  },
+  "...2...": {
+    "translation": "...2..."
+  },
+  "...1...": {
+    "translation": "...1..."
+  },
+  "item Purple unlocked": {
+    "translation": "物品 Purple 已解锁"
+  },
+  "item Blue unlocked": {
+    "translation": "物品 Blue 已解锁"
+  },
+  "item Red unlocked": {
+    "translation": "物品 Red 已解锁"
+  },
+  "item Yellow unlocked": {
+    "translation": "物品 Yellow 已解锁"
+  },
+  "1...4...0": {
+    "translation": "1...4...0"
+  },
+  "1...3...0": {
+    "translation": "1...3...0"
+  },
+  "item Purple locked...": {
+    "translation": "物品 Purple 已锁定"
+  },
+  "item Red locked...": {
+    "translation": "物品 Red 已锁定"
+  },
+  "item Yellow locked...": {
+    "translation": "物品 Yellow 已锁定"
+  },
+  "Stage RTV": {
+    "translation": "关卡: RTV"
+  },
+  "item Blue locked...": {
+    "translation": "物品 Blue 已锁定"
+  },
+  "Admin Set Stage RTV": {
+    "translation": "管理员设置关卡: RTV"
+  }
+}
