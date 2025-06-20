@@ -20,13 +20,13 @@
     "translation": "[提示]人类拥有特殊的实验服,可以不减速地通过这些风扇!"
   },
   "Panel Walk retracting...": {
-    "translation": "面板漫游收回..."
+    "translation": "可提供攀爬的铁网收回了..."
   },
   "Doors opening in 10 seconds.": {
     "translation": "10秒后开门."
   },
   "Panel Walk has been activated. Doors will open in 20 seconds.": {
-    "translation": "面板漫游已启动.门将在20秒后打开."
+    "translation": "门将在20秒后打开."
   },
   "Zombies are blocked for 10 seconds!": {
     "translation": "阻挡僵尸10秒!"
@@ -35,19 +35,14 @@
     "translation": "启动天堂传送发电机..."
   },
   "Notice! <Insert Player Name Here> is going to heaven!": {
-    "translation": "通知!<此处插入玩家姓名>即将升入天堂!"
+    "translation": "通知!<此处插入玩家姓名>即将升入天堂!",
+    "blocked": true
   },
   "WARNING! Facility emergency self-destruction sequence activated.": {
     "translation": "警告!设施紧急自毁程序已启动."
   },
   "===100 seconds remaining to detonation===": {
     "translation": "===离爆炸还剩100秒==="
-  },
-  "WARNING! Facility emergency self-destruction sequence activated.": {
-    "translation": "警告!设施紧急自毁程序已启动."
-  },
-  "===100 seconds remaining to detonation===": {
-    "translation": "===爆炸前剩余100秒==="
   },
   "===90 seconds remaining to detonation===": {
     "translation": "===爆炸前剩余90秒===",
@@ -133,7 +128,7 @@
     "translation": "警告---防爆门关闭"
   },
   "Panels retracting in 7 seconds.": {
-    "translation": "面板在7秒后收回."
+    "translation": "可攀爬的铁网在7秒后收回."
   },
   "Map by FW -=LightningZLaser=-": {
     "translation": "地图作者:FW-=LightningZLaser=-地图翻译:墨鸢@Fys"
@@ -147,7 +142,7 @@
     "blocked": true
   },
   "Door opening in 15 seconds...": {
-    "translation": "15秒后开门..."
+    "translation": "15秒后开门"
   },
   "Activate the self-destruction sequence in the emergency room!": {
     "translation": "在急诊室启动自毁程序!"
@@ -170,6 +165,6 @@
     "blocked": true
   },
   "[TIP] Use your head to go across the Headclimber!": {
-    "translation": "[提示]用你的头穿过Headclimber!"
+    "translation": "[提示]两根铁网可攀爬上去!"
   }
 }
