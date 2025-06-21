@@ -159,7 +159,7 @@
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 5
+    "requiredPlayers": -1
   },
   "ttt_cs2_mako_reactor": {
     "admin": false,
