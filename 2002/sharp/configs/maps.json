@@ -152,7 +152,7 @@
     "requiredOnline": -1,
     "requiredPlayers": 10
   },
-    "ttt_cs2_hoodrat": {
+  "ttt_cs2_hoodrat": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
