@@ -161,6 +161,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 20
   },
+  "ttt_cs2_mcvillage_b3": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ttt_cs2_moonjam": {
     "admin": false,
     "certainTimes": [-1],
