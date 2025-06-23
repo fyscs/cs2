@@ -188,6 +188,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 20
   },
+  "ttt_cs2_minecraft_village": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ttt_cs2_parkhousefix_sg": {
     "admin": false,
     "certainTimes": [-1],
