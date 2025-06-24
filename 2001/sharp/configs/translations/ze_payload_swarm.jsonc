@@ -1,0 +1,199 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<< AIRSTRIKE ITEM >>>": {
+    "translation": "空袭-已拾取"
+  },
+  "<<< PROTECTION CIRCLE ITEM >>>": {
+    "translation": "保护圈-已拾取"
+  },
+  "<<< FIRE BARREL ITEM >>>": {
+    "translation": "火焰桶-已拾取"
+  },
+  "<<< WALL ITEM >>>": {
+    "translation": "墙-已拾取"
+  },
+  "<<< DIVERT POWER >>>": {
+    "translation": "转移电力"
+  },
+  "<<< GREEN POWER CABINET >>>": {
+    "translation": "注意-绿色电力柜"
+  },
+  "<<<  POWER THE GATE >>>": {
+    "translation": "正在给大门供电"
+  },
+  "<<<  ZOMBIES CAPTURED SITE A >>>": {
+    "translation": "僵尸占领A点"
+  },
+  "<<<  ZOMBIES CAPTURED SITE B >>>": {
+    "translation": "僵尸占领B点"
+  },
+  "<<<  ZOMBIES CAPTURED SITE C >>>": {
+    "translation": "僵尸占领C点"
+  },
+  "<< LIFT STOPPED >>": {
+    "translation": "电梯停止"
+  },
+  "<<<  HUMANS CAPTURED SITE A >>>": {
+    "translation": "人类占领A点"
+  },
+  "<<<  HUMANS CAPTURED SITE B >>>": {
+    "translation": "人类占领B点"
+  },
+  "<<<  HUMANS CAPTURED SITE C >>>": {
+    "translation": "人类占领C点"
+  },
+  "<< LIFT GOING UP >>": {
+    "translation": "电梯上升"
+  },
+  "<<< LIFT COMPLETE >>>": {
+    "translation": "电梯完成"
+  },
+  "<<< 2 EXTRACTION ZONES OPENING  >>>": {
+    "translation": "2个撤离区开启"
+  },
+  "<<< EXTRACTION ZONES OPEN >>>": {
+    "translation": "撤离区开启"
+  },
+  "<<< BLUE ZONES >>>": {
+    "translation": "注意-蓝色区域"
+  },
+  "<<< YOU HAVE 60 SECONDS TO EXTRACT  >>>": {
+    "translation": "你有60秒撤离"
+  },
+  "<< GATE OPEN >>": {
+    "translation": "大门开启"
+  },
+  "<<< HUMANS TURN ON 3 POWER CABINETS >>>": {
+    "translation": "人类开启三个电力柜"
+  },
+  "<<< GREEN CABINETS >>>": {
+    "translation": "注意-绿色柜"
+  },
+  "<<< ZOMBIES TURN OFF POWER CABINETS >>>": {
+    "translation": "僵尸关闭电力柜"
+  },
+  "<<< RED CABINETS >>>": {
+    "translation": "注意-红色柜"
+  },
+  "<<< HUMANS HAVE 6 MINS TO GET LIFT TO THE TOP >>>": {
+    "translation": "人类有六分钟将电梯升至顶部"
+  },
+  "<<< GATE OPENING - 15 SECONDS >>>": {
+    "translation": "大门开启倒计时15秒"
+  },
+  "<<< POWER DIVERTING - 10 SECONDS >>>": {
+    "translation": "电力转移倒计时10秒"
+  },
+  "<<< GATE 5 OPENING - 30 SECONDS >>>": {
+    "translation": "五号门开启倒计时30秒"
+  },
+  "<<< GATE 5 OPEN >>>": {
+    "translation": "五号门开启"
+  },
+  "<<< ZOMBIES HOLD ALL CAPTURE SITES >>>": {
+    "translation": "僵尸占领所有据点"
+  },
+  "<<< HUMANS HAVE 60 SECONDS TO CAPTURE A SITE >>> >>>": {
+    "translation": "人类有60秒占领据点"
+  },
+  "<<< ZOMBIES WIN >>>": {
+    "translation": "僵尸胜利"
+  },
+  "<<< HUMANS HAVE 50 SECONDS >>>": {
+    "translation": "人类有50秒"
+  },
+  "<<< HUMANS HAVE 40 SECONDS >>>": {
+    "translation": "人类有40秒"
+  },
+  "<<< HUMANS HAVE 30 SECONDS >>>": {
+    "translation": "人类有30秒"
+  },
+  "<<< HUMANS HAVE 20 SECONDS >>>": {
+    "translation": "人类有20秒"
+  },
+  "<<< HUMANS HAVE 10 SECONDS >>>": {
+    "translation": "人类有10秒"
+  },
+  "<<< HUMANS HAVE 5 SECONDS >>>": {
+    "translation": "人类有5秒"
+  },
+  "<<< HUMANS LOCATE MINE CART >>>": {
+    "translation": "人类已经定位了矿车"
+  },
+  "<<<  PUSH MINE CART  >>>": {
+    "translation": "推动矿车"
+  },
+  "<< ZOMBIES WIN >>": {
+    "translation": "僵尸胜利"
+  },
+  "<< BEGINNER DIFFICULTY - ZOMBIE HP 300 >>": {
+    "translation": "难度:BEGINNER - 僵尸生命值-600"
+  },
+  "<< CASUAL DIFFICULTY - ZOMBIE HP 600 >>": {
+    "translation": "难度:CASUAL - 僵尸生命值-600"
+  },
+  "<< DIFFICULTY - ZOMBIE HP 700 >>": {
+    "translation": "难度:DIFFICULTY - 僵尸生命值-700"
+  },
+  "<< CHALLENGE DIFFICULTY - ZOMBIE HP 800 >>": {
+    "translation": "难度:CHALLENGE - 僵尸生命值-800"
+  },
+  "<< DIFFICULTY - ZOMBIE HP 900 >>": {
+    "translation": "难度:DIFFICULTY - 僵尸生命值-900"
+  },
+  "<< DIFFICULTY - ZOMBIE HP 1000 >>": {
+    "translation": "难度:DIFFICULTY - 僵尸生命值-1000"
+  },
+  "<< DIFFICULTY - ZOMBIE HP 1100 >>": {
+    "translation": "难度:DIFFICULTY - 僵尸生命值-1200"
+  },
+  "<< ADVANCED DIFFICULTY - ZOMBIE HP 1200 >>": {
+    "translation": "难度:ADVANCED - 僵尸生命值-1200"
+  },
+  "<< DIFFICULTY - ZOMBIE HP 1400 >>": {
+    "translation": "难度:DIFFICULTY - 僵尸生命值-1400"
+  },
+  "<< DIFFICULTY - ZOMBIE HP 1600 >>": {
+    "translation": "难度:DIFFICULTY - 僵尸生命值-1600"
+  },
+  "<< MASTER DIFFICULTY - ZOMBIE HP 4000 >>": {
+    "translation": "难度:DIFFICULTY - 僵尸生命值-4000"
+  },
+  "<< MASTER DIFFICULTY - ZOMBIE HP 2000 >>": {
+    "translation": "难度:MASTER - 僵尸生命值-2000"
+  },
+  "<< TIME UP >>": {
+    "translation": "时间到"
+  },
+  "<< PROTECTION CIRCLE ACTIVATED >>": {
+    "translation": "保护圈已激活"
+  },
+  "<!> CHOPPER LEAVING - 20 SECONDS <!>": {
+    "translation": "直升机离开倒计时20秒"
+  },
+  "<<< PRESS AND HOLD >>>": {
+    "translation": "按住 不要松手"
+  },
+  "< AIR STRIKE CALLED >": {
+    "translation": "空袭已呼叫"
+  },
+  "<!> CHOPPER : WEIGHT LIMIT EXCEEDED <!>": {
+    "translation": "直升机超重"
+  },
+  "<< HUMANS - RETURN TO PAYLOAD - 30 SECONDS >>": {
+    "translation": "人类返回目标30秒"
+  },
+  "<<< HUMANS HAVE ABANDONED PAYLOAD >>>": {
+    "translation": "人类已放弃-运载目标"
+  }
+}
