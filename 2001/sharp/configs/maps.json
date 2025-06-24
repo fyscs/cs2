@@ -3788,6 +3788,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 45
   },
+  "ze_timesplitters_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_titanic_escape_p": {
     "admin": false,
     "certainTimes": [-1],
