@@ -2780,6 +2780,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_payload_swarm": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 500,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_pd2_crime_art": {
     "admin": false,
     "certainTimes": [-1],
