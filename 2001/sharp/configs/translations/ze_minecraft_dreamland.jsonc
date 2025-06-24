@@ -1,0 +1,58 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** wait 40s **": {
+    "translation": "等待40秒"
+  },
+  "** wait 50s **": {
+    "translation": "等待50秒"
+  },
+  "** wait 25s **": {
+    "translation": "等待25秒"
+  },
+  "** wait 20s **": {
+    "translation": "等待20秒"
+  },
+  "** wait 30s **": {
+    "translation": "等待30秒"
+  },
+  "** wait 60s **": {
+    "translation": "等待60秒"
+  },
+  "** wait 42s **": {
+    "translation": "等待42秒"
+  },
+  "** Thanks for your play!!! **": {
+    "translation": "感谢游玩"
+  },
+  "lv1": {
+    "translation": "关卡一"
+  },
+  "** money,money **": {
+    "translation": "都是钱啊~"
+  },
+  "** get more money **": {
+    "translation": "我想获取更多金钱"
+  },
+  "** 已激活bank **": {
+    "translation": "已激活银行"
+  },
+  "what": {
+    "translation": "什么"
+  },
+  "**  wait 30s  **": {
+    "translation": "等待30秒"
+  },
+  "fire!!!": {
+    "translation": "开火"
+  }
+}

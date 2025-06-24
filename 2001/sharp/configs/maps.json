@@ -2150,6 +2150,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 45
   },
+  "ze_minecraft_dragon_castle": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_minecraft_journey_v1": {
     "admin": false,
     "certainTimes": [-1],
