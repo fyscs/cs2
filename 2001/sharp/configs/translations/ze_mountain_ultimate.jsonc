@@ -1,0 +1,286 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">人类有一颗超新星已完全进化！": {
+    "translation": ">人类有一颗超新星已完全进化!"
+  },
+  "***Helicopter explode in 3s***": {
+    "translation": "直升机3秒后爆炸"
+  },
+  "***A PLAYER BLOW UP WITH HELICOPTER***": {
+    "translation": "玩家与直升机一同爆炸"
+  },
+  "** THE WHITE KNIGHT IS READY ROCK THE WORLD **": {
+    "translation": "白骑士已准备震撼世界"
+  },
+  "** ... THE CREATURE OF SHADOW AND FIRE IS HERE ... **": {
+    "translation": "诅咒-影火生物已降临"
+  },
+  "** PORTAL OPEN IN 60 SEC! **": {
+    "translation": "传送门60秒后开启"
+  },
+  "** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **": {
+    "translation": "幽灵军团来袭准备最终防御"
+  },
+  "** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **": {
+    "translation": "防守主门以继续米那斯提力斯顶端防御"
+  },
+  "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **": {
+    "translation": "道路已开启 抵达米那斯提力斯顶端生存80秒"
+  },
+  "** All humans at bottom part will die in 15 seconds **": {
+    "translation": "底部所有人类将在15秒后死亡"
+  },
+  ">> USE THE ELDER SCROLL NOW <<": {
+    "translation": "立即使用上古卷轴"
+  },
+  ">> Kill the Dragonpriest! <<": {
+    "translation": "杀死龙祭司"
+  },
+  "***Nuke impact***": {
+    "translation": "核弹撞击"
+  },
+  "***1***": {
+    "translation": "1"
+  },
+  "***2***": {
+    "translation": "2"
+  },
+  "***3***": {
+    "translation": "3"
+  },
+  "***4***": {
+    "translation": "4"
+  },
+  "***5***": {
+    "translation": "5"
+  },
+  "***10 seconds left***": {
+    "translation": "剩余10秒"
+  },
+  "***30 seconds left***": {
+    "translation": "剩余30秒"
+  },
+  "***Nuke launched***": {
+    "translation": "核弹已发射"
+  },
+  "***Jump portal opened***": {
+    "translation": "跳跃传送门已开启"
+  },
+  "***bunnyhopping enable***": {
+    "translation": "连跳已启用"
+  },
+  ">老虎机受到核爆影响,要爆了哦!": {
+    "translation": ">老虎机受到核爆影响,要爆了哦!"
+  },
+  "<有人为下局选择了 正常 模式！>": {
+    "translation": "<有人为下局选择了 正常 模式!>"
+  },
+  "<有人为下局选择了 米纳斯 神图模式！>": {
+    "translation": "<有人为下局选择了 米纳斯 神图模式!>"
+  },
+  "<有人为下局选择了 上古卷轴 神图模式！>": {
+    "translation": "<有人为下局选择了 上古卷轴 神图模式!>"
+  },
+  "<有人为下局选择了 狂风暴雨 模式！>": {
+    "translation": "<有人为下局选择了 狂风暴雨 模式!>"
+  },
+  "<有人为下局选择了 老虎机 模式！>": {
+    "translation": "<有人为下局选择了 老虎机 模式!>"
+  },
+  "<有人为下局选择了 米纳斯 神图模式·纯净版！>": {
+    "translation": "<有人为下局选择了 米纳斯 神图模式-纯净版!>"
+  },
+  "<有人为下局选择了 上古卷轴 神图模式·纯净版！>": {
+    "translation": "<有人为下局选择了 上古卷轴 神图模式-纯净版!>"
+  },
+  "<有人为下局选择了 外星入侵 模式！>": {
+    "translation": "<有人为下局选择了 外星入侵 模式!>"
+  },
+  "<有人为下局选择了 克隆大作战 模式！>": {
+    "translation": "<有人为下局选择了 克隆大作战 模式!>"
+  },
+  ">水位线好像正在上升": {
+    "translation": ">水位线好像正在上升"
+  },
+  ">该特么跑路咯": {
+    "translation": ">该特么跑路咯"
+  },
+  ">作者告诉我水位线一定高度会暂时停下来": {
+    "translation": ">作者告诉我水位线一定高度会暂时停下来"
+  },
+  ">别告诉其他人哦": {
+    "translation": ">别告诉其他人哦"
+  },
+  "< 当前模式: 狂风暴雨 >": {
+    "translation": "< 当前模式: 狂风暴雨 >"
+  },
+  ">牛魔的这水位线还在上涨": {
+    "translation": ">牛魔的这水位线还在上涨"
+  },
+  ">嘻嘻我一定要活下来口牙": {
+    "translation": ">嘻嘻我一定要活下来口牙"
+  },
+  ">闪电正在往山头靠拢...": {
+    "translation": ">闪电正在往山头靠拢..."
+  },
+  "< 当前模式: 正常模式 >": {
+    "translation": "< 当前模式: 正常模式 >"
+  },
+  "< 当前模式: 运气最重要 >": {
+    "translation": "< 当前模式: 运气最重要 >"
+  },
+  "< 当前模式: 神图模式:米纳斯 >": {
+    "translation": "< 当前模式: 神图模式:米纳斯 >"
+  },
+  "< 当前模式: 神图模式:老滚 天际省 >": {
+    "translation": "< 当前模式: 神图模式:老滚 天际省 >"
+  },
+  "< Mountain Escape Ultimate >": {
+    "translation": "< 爬雪山-终极版 >"
+  },
+  "Map by @Seth.": {
+    "translation": "地图制作: @Seth. 文本:Zeyu1"
+  },
+  ">即死事件< 已触发！": {
+    "translation": ">即死事件< 已触发!"
+  },
+  ">10秒后将传送所有人至决斗平台！": {
+    "translation": ">10秒后将传送所有人至决斗平台!"
+  },
+  ">10秒后外围平台将会消失！": {
+    "translation": ">10秒后外围平台将会消失!"
+  },
+  ">5秒后外围平台将会消失！": {
+    "translation": ">5秒后外围平台将会消失!"
+  },
+  ">即死事件< 双方使用近战决定本局胜负！": {
+    "translation": ">即死事件< 双方使用近战决定本局胜负!"
+  },
+  ">特殊·即死事件< 已触发！": {
+    "translation": ">特殊-即死事件< 已触发!"
+  },
+  ">特殊·即死事件< 双方使用神器决定本局胜负！": {
+    "translation": ">特殊-即死事件< 双方使用神器决定本局胜负!"
+  },
+  "< 道具刷新中.. >": {
+    "translation": "< 道具刷新中.. >"
+  },
+  "< 当前模式: 克隆大作战 >": {
+    "translation": "< 当前模式: 克隆大作战 >"
+  },
+  "人类的 >二段跳教科书<": {
+    "translation": "人类的 >二段跳教科书<"
+  },
+  "对决...": {
+    "translation": "对决..."
+  },
+  ">僵尸腐蚀< 事件已触发！": {
+    "translation": ">僵尸腐蚀< 事件已触发!"
+  },
+  ">全体僵尸在5秒后进入低血量腐蚀状态！": {
+    "translation": ">全体僵尸在5秒后进入低血量腐蚀状态!"
+  },
+  ">火车踩踩背< 事件已触发！": {
+    "translation": ">火车踩踩背< 事件已触发!"
+  },
+  ">火车将在5秒后出站！": {
+    "translation": ">火车将在5秒后出站!"
+  },
+  "< 当前模式: 神图模式:米纳斯·纯净版 >": {
+    "translation": "< 当前模式: 神图模式:米纳斯-纯净版 >"
+  },
+  "< 当前模式: 神图模式:老滚 天际省·纯净版 >": {
+    "translation": "< 当前模式: 神图模式:老滚 天际省-纯净版 >"
+  },
+  "正在播放.. манго нектар - IRXD7": {
+    "translation": "正在播放.. манго нектар - IRXD7"
+  },
+  "正在播放.. Azalea - 米津玄師": {
+    "translation": "正在播放.. Azalea - 米津玄師"
+  },
+  "正在播放.. BOW AND ARROW - 米津玄師": {
+    "translation": "正在播放.. BOW AND ARROW - 米津玄師"
+  },
+  "正在播放.. Children In The Dark - AViVA": {
+    "translation": "正在播放.. Children In The Dark - AViVA"
+  },
+  "正在播放.. Killer Queen - Queen": {
+    "translation": "正在播放.. Killer Queen - Queen"
+  },
+  "正在播放.. 罗生门 - 麦浚龙.谢安琪": {
+    "translation": "正在播放.. 罗生门 - 麦浚龙.谢安琪"
+  },
+  "正在播放.. たぶん - YOASOBI": {
+    "translation": "正在播放.. たぶん - YOASOBI"
+  },
+  "正在播放.. Never Let it Go - 祖堅正慶": {
+    "translation": "正在播放.. Never Let it Go - 祖堅正慶"
+  },
+  "正在播放.. Nightcall - Kavinsky": {
+    "translation": "正在播放.. Nightcall - Kavinsky"
+  },
+  "正在播放.. The Less I Know The Better X Sexy Back - Leron Hinds.Timbaland": {
+    "translation": "正在播放.. The Less I Know The Better X Sexy Back - Leron Hinds.Timbaland"
+  },
+  "正在播放.. specialist - アトラスサウンドチーム": {
+    "translation": "正在播放.. specialist - アトラスサウンドチーム"
+  },
+  "正在播放.. 夜に駆ける - YOASOBI": {
+    "translation": "正在播放.. 夜に駆ける - YOASOBI"
+  },
+  "正在播放.. Young - The Chainsmokers": {
+    "translation": "正在播放.. Young - The Chainsmokers"
+  },
+  "< 当前模式: 外星入侵 >": {
+    "translation": "< 当前模式: 外星入侵 >"
+  },
+  "***SOCRATES IS FAKE***": {
+    "translation": "苏格拉底是假的"
+  },
+  "***SOCRATES NEVER EXIST***": {
+    "translation": "苏格拉底从未存在"
+  },
+  "***SOCRATES IS SANTA'S LIES***": {
+    "translation": "苏格拉底是圣诞老人的谎言"
+  },
+  "***YOU HAVE DONE IT!***": {
+    "translation": "你做到了"
+  },
+  "***BUT YOU KNOW,IT'S JUST AN ILLUSION***": {
+    "translation": "但你知道这只是幻觉"
+  },
+  "***IT'S NOT THE REAL SANTASSINATION***": {
+    "translation": "这不是真正的圣诞老人"
+  },
+  "***Uh....You know what,Just skip the BLABLABLA***": {
+    "translation": "呃你知道的跳过废话"
+  },
+  "***YOU ARE FUCKING CHAMPION YEEEEEEAAA***": {
+    "translation": "你他妈的冠军"
+  },
+  "**- TRUE SANTA -**": {
+    "translation": "真正の圣诞老人"
+  },
+  "***SANTA USE SOCRATES TO COVER HIS SINS***": {
+    "translation": "圣诞老人用苏格拉底掩盖罪行"
+  },
+  "***PICK THEM UP***": {
+    "translation": "捡起它们"
+  },
+  "***FIGHT FOR THE TRUE..WHATEVER IT TAKES***": {
+    "translation": "为真相而战不惜一切"
+  },
+  "**AND YES THERE IS NO SPEEDER CUZ I ATE IT**": {
+    "translation": "是的 没有加速器-因为我吃了"
+  }
+}
