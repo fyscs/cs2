@@ -2276,6 +2276,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_mountain_ultimate": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 160,
+    "nomination": true,
+    "price": 600,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_namviet_p": {
     "admin": false,
     "certainTimes": [-1],
