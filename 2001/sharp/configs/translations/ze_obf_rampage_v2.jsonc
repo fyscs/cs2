@@ -122,7 +122,7 @@
     "translation": "在房间关门前进去!"
   },
   "Vent breaks RUN": {
-    "translation": "通风管道已被破坏,撤退!"
+    "translation": "通风管道已破坏,撤退!"
   },
   "RESIST 53 SECONDS": {
     "translation": "抵抗53秒!"
@@ -215,10 +215,10 @@
     "translation": "按钮已经按下!"
   },
   "Pump station door 2 has opened": {
-    "translation": "右边的泵站门已打开!"
+    "translation": "左边的泵站门已打开!"
   },
   "Pump station door 1 has opened": {
-    "translation": "左边的泵站门已打开!"
+    "translation": "右边的泵站门已打开!"
   },
   "Electricity OFF": {
     "translation": "断电了!"
@@ -236,7 +236,7 @@
     "translation": "防守直到其中一边泵站门打开..."
   },
   "The fire will be cut off in a few seconds": {
-    "translation": "喷火处过阵子会被浇灭."
+    "translation": "喷火处过阵子会熄灭."
   },
   "Exit door opened !": {
     "translation": "门已打开!"
@@ -257,7 +257,7 @@
     "translation": "ADMIN ROOM: BOSS FIGHT TEST"
   },
   "Zombie cleared": {
-    "translation": "Zombie cleared"
+    "translation": "僵尸传送!"
   },
   "< 原初之火 @Seth 加入了野火部队！ >": {
     "translation": "< 原初之火 @Seth 加入了野火部队! >"
