@@ -2141,7 +2141,7 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
-  "ze_minecraft_dreamland": {
+ "ze_minecraft_dragon_castle": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 100,
@@ -2150,7 +2150,7 @@
     "requiredOnline": -1,
     "requiredPlayers": 45
   },
-  "ze_minecraft_dragon_castle": {
+  "ze_minecraft_dreamland": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 80,
