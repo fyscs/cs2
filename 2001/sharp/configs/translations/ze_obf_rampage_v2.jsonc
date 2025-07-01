@@ -34,21 +34,6 @@
   "Get on the lift in 10 seconds": {
     "translation": "10秒后上电梯!"
   },
-  "ADMIN ROOM: BUFF BOSS DAMAGE": {
-    "translation": "ADMIN ROOM: BUFF BOSS DAMAGE"
-  },
-  "ADMIN ROOM: ZOMBIE TIER 7 UNLOCK": {
-    "translation": "ADMIN ROOM: ZOMBIE TIER 7 UNLOCK"
-  },
-  "ADMIN ROOM: ZOMBIE TIER 5 UNLOCK": {
-    "translation": "ADMIN ROOM: ZOMBIE TIER 5 UNLOCK"
-  },
-  "ADMIN ROOM: ZOMBIE TIER 4 UNLOCK": {
-    "translation": "ADMIN ROOM: ZOMBIE TIER 4 UNLOCK"
-  },
-  "ADMIN ROOM: ZOMBIE TIER 2 UNLOCK": {
-    "translation": "ADMIN ROOM: ZOMBIE TIER 2 UNLOCK"
-  },
   "Door opened": {
     "translation": "门已打开"
   },
@@ -56,13 +41,16 @@
     "translation": "10秒后撤退!"
   },
   "On this version you can adjust the music volume directly on gmod parameter": {
-    "translation": "这个版本可以通过gmod参数调整地图音乐音量"
+    "translation": "可通过snd_musicvolume调整bgm音量",
+    "blocked": true
   },
   "This version May 2024": {
-    "translation": "版本日期为2024年5月"
+    "translation": "版本日期为2024年5月",
+    "blocked": true
   },
   "Map release November 2016": {
-    "translation": "2016年11月地图发布"
+    "translation": "2016年11月地图发布",
+    "blocked": true
   },
   "Find a way to get rid of the gas": {
     "translation": "寻找办法去把毒气消除掉"
@@ -193,15 +181,6 @@
   "RESIST 40 SECONDS": {
     "translation": "坚持40秒"
   },
-  "ADMIN ROOM: FORCE MUSIC ALBUM": {
-    "translation": "ADMIN ROOM: FORCE MUSIC ALBUM"
-  },
-  "Metal and Rock Instrumental album has been selected": {
-    "translation": "<Metal and Rock Instrumental> album has been selected"
-  },
-  "Darksynth and MetalSynth album has been selected": {
-    "translation": "<Darksynth and MetalSynth> album has been selected"
-  },
   "Water going down": {
     "translation": "水面正在下降!"
   },
@@ -252,9 +231,6 @@
   },
   "Valve turned": {
     "translation": "阀门已转动"
-  },
-  "ADMIN ROOM: BOSS FIGHT TEST": {
-    "translation": "ADMIN ROOM: BOSS FIGHT TEST"
   },
   "Zombie cleared": {
     "translation": "僵尸传送!"
