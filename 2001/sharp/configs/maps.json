@@ -2295,11 +2295,11 @@
     "requiredPlayers": -1
   },
   "ze_mountain_ultimate": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
-    "cooldown": 160,
+    "cooldown": 180,
     "nomination": true,
-    "price": 600,
+    "price": 800,
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
