@@ -47,27 +47,21 @@
     "translation": "测试版本"
   },
   "25": {
-    "translation": "25",
-    "countdown": 25
+    "translation": "还剩25秒",
   },
   "30": {
-    "translation": "30",
-    "countdown": 30
+    "translation": "还剩30秒",
   },
   "40": {
-    "translation": "40",
-    "countdown": 40
+    "translation": "还剩40秒",
   },
   "20": {
-    "translation": "20",
-    "countdown": 20
+    "translation": "还剩20秒",
   },
   "10": {
-    "translation": "10",
-    "countdown": 10
+    "translation": "还剩10秒",
   },
   "60": {
-    "translation": "60",
-    "countdown": 60
+    "translation": "还剩60秒",
   }
 }
