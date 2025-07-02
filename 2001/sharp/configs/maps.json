@@ -793,11 +793,11 @@
   },
   "ze_diverted_destiny": {
     "admin": false,
-    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 180,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 220,
     "nomination": true,
     "price": 1000,
-    "requiredOnline": -1,
+    "requiredOnline": 900,
     "requiredPlayers": 45
   },
   "ze_djinn": {
