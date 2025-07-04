@@ -1,0 +1,434 @@
+{
+  "cs_agency": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "cs_italy": {
+    "admin": false,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "cs_italy_night": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "cs_office": {
+    "admin": false,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_alexandra": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_ancient": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_anubis": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_anubis_minecraft": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_astra": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_aurelia": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_basalt": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_cache": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_cbble": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_cluj": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_contact": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_cotroceni": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_dust2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_dust2_minecraft": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_dust2_n": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_edin": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_fachwerk": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_flick": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_golden": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_grail": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_inferno": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_inferno_minecraft": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_inferno_night": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_jura": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_mills": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_mirage": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_mirage_night": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_neptune": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_nuke": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_nuke_minecraft": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_nuke_night": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_outferno": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_overpass": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_overpass_night": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_piperplane": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_refuse": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_relic": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_shepherd": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_soat": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_thera": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_timber": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_train": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_vertigo": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "de_wrecked": {
+    "admin": true,
+    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  }
+}

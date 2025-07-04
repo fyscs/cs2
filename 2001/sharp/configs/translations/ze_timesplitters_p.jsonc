@@ -1,0 +1,136 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "## Final Door Opening 40 Seconds ##": {
+    "translation": "最终门开启40秒"
+  },
+  "## HOLD and DEFEND ##": {
+    "translation": "坚守防御"
+  },
+  "## Final Door Opening 20 Seconds ##": {
+    "translation": "最终门开启20秒"
+  },
+  "## Final Door Opening 10 Seconds ##": {
+    "translation": "最终门开启10秒"
+  },
+  "## Final Door Opening 5 Seconds ##": {
+    "translation": "最终门开启5秒"
+  },
+  "## Door Open Run ##": {
+    "translation": "门开快跑"
+  },
+  "##Door Opening in 25 Seconds Defend!##": {
+    "translation": "门25秒后开启防守"
+  },
+  "##Door Opening in 10 Seconds Defend!##": {
+    "translation": "门10秒后开启防守"
+  },
+  "##Door Open FALL BACK##": {
+    "translation": "门开撤退"
+  },
+  "## Trap Door Opening in 30 Seconds ##": {
+    "translation": "陷阱门开启30秒"
+  },
+  "## Trap Door Opening in 10 Seconds ##": {
+    "translation": "陷阱门开启10秒"
+  },
+  "## Trap Door Opening in 5 Seconds ##": {
+    "translation": "陷阱门开启5秒"
+  },
+  "## Trap Door OPEN FALL BACK ##": {
+    "translation": "陷阱门开撤退"
+  },
+  "## Careful of the collapsing Floor! ##": {
+    "translation": "小心坍塌地板"
+  },
+  "##Door Opens 40 Seconds##": {
+    "translation": "门开启40秒"
+  },
+  "##Door Opens 20 Seconds##": {
+    "translation": "门开启20秒"
+  },
+  "##Door Opens 10 Seconds##": {
+    "translation": "门开启10秒"
+  },
+  "##Door Open RUNNN##": {
+    "translation": "门开快跑"
+  },
+  "##Each Block will turn red when a zombie is in the corridor##": {
+    "translation": "僵尸在走廊时方块变红"
+  },
+  "##Each Block will turn green when the corridor is clear##": {
+    "translation": "走廊安全时方块变绿"
+  },
+  "##Zombies can Break the Blocks sooo DEFEND##": {
+    "translation": "僵尸可破坏方块 防守!"
+  },
+  "## Boss Room Door Closing 10 Seconds ##": {
+    "translation": "BOSS门关闭10秒"
+  },
+  "## Boss Room Door Closing 5 Seconds ##": {
+    "translation": "BOSS门关闭5秒"
+  },
+  "## Boss Room Door Closed...Prepare for BATTLE ##": {
+    "translation": "BOSS门关闭准备战斗"
+  },
+  "## All Players if not in the boss room will be teleported ##": {
+    "translation": "不在BOSS房的玩家将被传送"
+  },
+  "## REAPER SPLITTER KILL IT ##": {
+    "translation": "目标:消灭-收割者分裂体"
+  },
+  "## You have 2 minutes till the boss room explodes! Kill it Quick! ##": {
+    "translation": "BOSS房两分钟后爆炸-快干掉他"
+  },
+  "## Lift Leaving in 30 Seconds ##": {
+    "translation": "电梯30秒后离开"
+  },
+  "## Lift Leaving in 10 Seconds ##": {
+    "translation": "电梯10秒后离开"
+  },
+  "## Lift Leaving in 5 Seconds ##": {
+    "translation": "电梯5秒后离开"
+  },
+  "## Lift Leaving ##": {
+    "translation": "电梯离开"
+  },
+  "## Doors Will Open in 30 Seconds ##": {
+    "translation": "门30秒后开启"
+  },
+  "## Doors Will Open in 10 Seconds ##": {
+    "translation": "门10秒后开启"
+  },
+  "## Doors Will Open in 5 Seconds ##": {
+    "translation": "门5秒后开启"
+  },
+  "## Doors Open RUN ##": {
+    "translation": "门开快跑"
+  },
+  "##You Lost##": {
+    "translation": "你输了"
+  },
+  "## 25 Seconds to reach SafeZone ##": {
+    "translation": "25秒到达安全区"
+  },
+  "## 5 Seconds to reach SafeZone ##": {
+    "translation": "5秒到达安全区"
+  },
+  "## END GAME ##": {
+    "translation": "游戏结束"
+  },
+  "## Reaper Splitter Killed ESCAPE ##": {
+    "translation": "真逃脱了吗"
+  },
+  "## Zombies will be released in 10 Seconds ##": {
+    "translation": "僵尸10秒后释放"
+  }
+}

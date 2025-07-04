@@ -1,0 +1,238 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "WHEN THE STEAM IS OFF GET AWAY FROM THE MIDDLE OR YOU WILL GET ASPIRED BY THE TURBINE": {
+    "translation": "当蒸汽关闭后马上远离中间,否则你将会被涡轮机吸过去!"
+  },
+  "DOOR IS OPEN": {
+    "translation": "门已打开"
+  },
+  "RUN IN 5 SECONDS": {
+    "translation": "5秒后撤退"
+  },
+  "STEAM OFF": {
+    "translation": "蒸汽已关闭"
+  },
+  "LIFT LEAVE IN 10 SEC": {
+    "translation": "电梯将在10秒后离开"
+  },
+  "Lift is leaving": {
+    "translation": "电梯正在离开!"
+  },
+  "Get on the lift in 5 seconds": {
+    "translation": "5秒后上电梯!"
+  },
+  "Get on the lift in 10 seconds": {
+    "translation": "10秒后上电梯!"
+  },
+  "Door opened": {
+    "translation": "门已打开"
+  },
+  "Run in 10 seconds": {
+    "translation": "10秒后撤退!"
+  },
+  "On this version you can adjust the music volume directly on gmod parameter": {
+    "translation": "可通过snd_musicvolume调整bgm音量",
+    "blocked": true
+  },
+  "This version May 2024": {
+    "translation": "版本日期为2024年5月",
+    "blocked": true
+  },
+  "Map release November 2016": {
+    "translation": "2016年11月地图发布",
+    "blocked": true
+  },
+  "Find a way to get rid of the gas": {
+    "translation": "寻找办法去把毒气消除掉"
+  },
+  "Door is opening": {
+    "translation": "门正在打开!"
+  },
+  "RUN": {
+    "translation": "快跑!"
+  },
+  "Hack the computer to find a way out !": {
+    "translation": "破解电脑,找到出路!"
+  },
+  "Get inside": {
+    "translation": "快进去!"
+  },
+  "THE DOOR OPENED RUN !!!": {
+    "translation": "门打开了,快跑!!"
+  },
+  "Get down the stair ! They going to drop from the roof": {
+    "translation": "快下楼梯!僵尸要从屋顶上掉下来了!"
+  },
+  "Prepare to leave in 10sec": {
+    "translation": "10秒后准备撤退!"
+  },
+  "Doop is open": {
+    "translation": "门打开了"
+  },
+  "Power will be cut off in a few moments": {
+    "translation": "电源将在一段时间内切断"
+  },
+  "Power is OFF": {
+    "translation": "电源已关闭"
+  },
+  "GET ON THE ELEVATOR BEFORE IT CLOSES": {
+    "translation": "快在电梯关上前上去!"
+  },
+  "Prepare to leave": {
+    "translation": "准备撤退.."
+  },
+  "Shit the elevator is stuck find a new way...": {
+    "translation": "tnnd,电梯卡住了,另寻出路..."
+  },
+  "Zombie Advance": {
+    "translation": "僵尸发起进攻!"
+  },
+  "You have 60 seconds to find the exit": {
+    "translation": "你有60秒的时间找到出口"
+  },
+  "Door open !": {
+    "translation": "门已打开!"
+  },
+  "RESIST 15 SECONDS !": {
+    "translation": "抵抗15秒!"
+  },
+  "Get in the room before it closes": {
+    "translation": "在房间关门前进去!"
+  },
+  "Vent breaks RUN": {
+    "translation": "通风管道已破坏,撤退!"
+  },
+  "RESIST 53 SECONDS": {
+    "translation": "抵抗53秒!"
+  },
+  "GO GO GOOO": {
+    "translation": "快跑!!"
+  },
+  "Wait for power off": {
+    "translation": "等待电源关闭.."
+  },
+  "GET ON THE HELICOPTER": {
+    "translation": "快上飞机!"
+  },
+  "C4 EXPLODED": {
+    "translation": "C4 booooooom!"
+  },
+  "C4 placed !": {
+    "translation": "C4已安装!"
+  },
+  "C4 will explode soon": {
+    "translation": "C4即将爆炸"
+  },
+  "Defend 52 seconds": {
+    "translation": "防守52秒"
+  },
+  "Button activated": {
+    "translation": "按钮已激活"
+  },
+  "You can now cross the cliff": {
+    "translation": "现在可以穿过悬崖了"
+  },
+  "Bomb actived": {
+    "translation": "炸弹已激活!"
+  },
+  "C4 is placed ! It will explode in 28 seconds": {
+    "translation": "28秒后引爆C4"
+  },
+  "Press the button to activate the elevator": {
+    "translation": "按下按钮以启用电梯"
+  },
+  "Button 3 activated": {
+    "translation": "3号按钮已激活"
+  },
+  "Button 2 activated": {
+    "translation": "2号按钮已激活"
+  },
+  "Button 1 activated": {
+    "translation": "1号按钮已激活"
+  },
+  "Lasers OFF": {
+    "translation": "激光已关闭"
+  },
+  "Elevator activated it will move in 10 seconds": {
+    "translation": "电梯将在10秒后移动"
+  },
+  "Get in": {
+    "translation": "快进去!"
+  },
+  "The gate is currently slowly opening...": {
+    "translation": "门正在慢慢打开.."
+  },
+  "Find a way to take the C4": {
+    "translation": "想个办法把C4搞到手"
+  },
+  "The door opened": {
+    "translation": "门已打开"
+  },
+  "RESIST 40 SECONDS": {
+    "translation": "坚持40秒"
+  },
+  "Water going down": {
+    "translation": "水面正在下降!"
+  },
+  "Wait a moment before the water goes down": {
+    "translation": "坚持到水面下降!"
+  },
+  "Laser OFF": {
+    "translation": "激光已关闭"
+  },
+  "Button pressed": {
+    "translation": "按钮已经按下!"
+  },
+  "Pump station door 2 has opened": {
+    "translation": "左边的泵站门已打开!"
+  },
+  "Pump station door 1 has opened": {
+    "translation": "右边的泵站门已打开!"
+  },
+  "Electricity OFF": {
+    "translation": "断电了!"
+  },
+  "Electricity will be cut in few seconds": {
+    "translation": "电力准备要被切断了!"
+  },
+  "Run in 10 sec": {
+    "translation": "10秒后启动!"
+  },
+  "Run to the door": {
+    "translation": "快去贴门!"
+  },
+  "Defend a bit until a station pump door open...": {
+    "translation": "防守直到其中一边泵站门打开..."
+  },
+  "The fire will be cut off in a few seconds": {
+    "translation": "喷火处过阵子会熄灭."
+  },
+  "Exit door opened !": {
+    "translation": "门已打开!"
+  },
+  "Fire OFF": {
+    "translation": "火已熄灭!"
+  },
+  "Close in 10 sec,door won't hold long": {
+    "translation": "10秒后关门,门坚持不了太久!"
+  },
+  "The gas is gone": {
+    "translation": "毒气消失!"
+  },
+  "Valve turned": {
+    "translation": "阀门已转动"
+  },
+  "Zombie cleared": {
+    "translation": "僵尸传送!"
+  }
+}
