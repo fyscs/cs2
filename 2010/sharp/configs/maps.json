@@ -9,7 +9,7 @@
     "requiredPlayers": -1
   },
   "cs_italy": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [14,15,16,17,18,19,20,21,22,23],
     "cooldown": 10,
     "nomination": false,
@@ -27,7 +27,7 @@
     "requiredPlayers": -1
   },
   "cs_office": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [14,15,16,17,18,19,20,21,22,23],
     "cooldown": 10,
     "nomination": false,
