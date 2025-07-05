@@ -1,7 +1,7 @@
 {
   "cs_agency": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -37,7 +37,7 @@
   },
   "de_alexandra": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -64,7 +64,7 @@
   },
   "de_anubis_minecraft": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -73,7 +73,7 @@
   },
   "de_astra": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -82,7 +82,7 @@
   },
   "de_aurelia": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -91,7 +91,7 @@
   },
   "de_basalt": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -118,7 +118,7 @@
   },
   "de_cotroceni": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -136,7 +136,7 @@
   },
   "de_dust2_minecraft": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -154,7 +154,7 @@
   },
   "de_fachwerk": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -163,7 +163,7 @@
   },
   "de_flick": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -172,7 +172,7 @@
   },
   "de_golden": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -181,7 +181,7 @@
   },
   "de_grail": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -199,7 +199,7 @@
   },
   "de_inferno_minecraft": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -217,7 +217,7 @@
   },
   "de_jura": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -226,7 +226,7 @@
   },
   "de_mills": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -253,7 +253,7 @@
   },
   "de_neptune": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -271,7 +271,7 @@
   },
   "de_nuke_minecraft": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -289,7 +289,7 @@
   },
   "de_outferno": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -316,7 +316,7 @@
   },
   "de_piperplane": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -325,7 +325,7 @@
   },
   "de_refuse": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -334,7 +334,7 @@
   },
   "de_relic": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -343,7 +343,7 @@
   },
   "de_shepherd": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -352,7 +352,7 @@
   },
   "de_soat": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -360,8 +360,8 @@
     "requiredPlayers": -1
   },
   "de_thera": {
-    "admin": true,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "admin": false,
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -370,7 +370,7 @@
   },
   "de_timber": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -397,7 +397,7 @@
   },
   "de_wrecked": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
