@@ -25,11 +25,11 @@
     {
       "iterator": "counter_eschp",
       "hitbox": "br_escdragon",
-      "display": "Dragon"
+      "display": "死灵龙"
     },
     {
       "iterator": "counter_dragon",
-      "display": "Dragon"
+      "display": "死灵龙"
     }
   ]
 }
