@@ -27,7 +27,7 @@
       "mass": 40,
       "counter": "lv4_boss_counter_big",
       "hitbox": "lv4_boss_hitbox",
-      "display": "Boss"
+      "display": "安兹·乌尔·恭"
     },
     {
       "iterator": "laser_counter_c",
@@ -39,7 +39,7 @@
       "mass": 60,
       "counter": "lv3_boss_counter_big",
       "hitbox": "lv3_boss_hitbox",
-      "display": "Boss"
+      "display": "卡冈都亚"
     },
     {
       "iterator": "laser_counter",
@@ -51,14 +51,14 @@
       "mass": 40,
       "counter": "lv2_boss_counter_big",
       "hitbox": "lv2_boss_hitbox",
-      "display": "Boss"
+      "display": "白金铠甲"
     },
     {
       "iterator": "lv1_boss_counter_small",
       "mass": 60,
       "counter": "lv1_boss_counter_big",
       "hitbox": "lv1_boss_hitbox",
-      "display": "Boss"
+      "display": "仓助"
     }
   ]
 }
