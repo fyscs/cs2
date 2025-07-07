@@ -198,7 +198,7 @@
     "requiredPlayers": 45
   },
   "ze_arctic_escape_p": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 60,
     "nomination": false,
