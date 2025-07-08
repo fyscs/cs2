@@ -23,42 +23,12 @@
 {
   "Counters": [
     {
-      "iterator": "lv4_boss_counter_small",
-      "mass": 40,
-      "counter": "lv4_boss_counter_big",
-      "hitbox": "lv4_boss_hitbox",
-      "display": "安兹·乌尔·恭"
-    },
-    {
-      "iterator": "laser_counter_c",
-      "hitbox": "laser_hitbox_c",
-      "display": "LaserFinal"
-    },
-    {
-      "iterator": "lv3_boss_counter_small",
-      "mass": 60,
-      "counter": "lv3_boss_counter_big",
-      "hitbox": "lv3_boss_hitbox",
-      "display": "卡冈都亚"
-    },
-    {
-      "iterator": "laser_counter",
-      "hitbox": "laser_hitbox",
-      "display": "Laser"
-    },
-    {
-      "iterator": "lv2_boss_counter_small",
-      "mass": 40,
-      "counter": "lv2_boss_counter_big",
-      "hitbox": "lv2_boss_hitbox",
-      "display": "白金铠甲"
-    },
-    {
-      "iterator": "lv1_boss_counter_small",
-      "mass": 60,
-      "counter": "lv1_boss_counter_big",
-      "hitbox": "lv1_boss_hitbox",
-      "display": "仓助"
+      "iterator": "Boss_HpCounter",
+      "backup": "BossHp_Counter_2",
+      "counter": "BossHpBar_Counter",
+      "reverse": true,
+      "hitbox": "Boss_Hitbox",
+      "display": "Heli"
     }
   ]
 }
