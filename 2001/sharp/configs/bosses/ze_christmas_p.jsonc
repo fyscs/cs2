@@ -28,7 +28,7 @@
       "counter": "Boss_HealthCount",
       "reverse": true,
       "hitbox": "Santa_GiantPhys",
-      "display": "Santa"
+      "display": "圣诞老人"
     }
   ]
 }
