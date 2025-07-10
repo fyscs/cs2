@@ -97,8 +97,8 @@
   "Zombie Advance": {
     "translation": "僵尸发起进攻!"
   },
-  "You have 60 seconds to find the exit": {
-    "translation": "你有60秒的时间找到出口"
+  "You have 50 seconds to find the exit": {
+    "translation": "你有50秒的时间找到出口"
   },
   "Door open !": {
     "translation": "门已打开!"
@@ -234,5 +234,23 @@
   },
   "Zombie cleared": {
     "translation": "僵尸传送!"
+  },
+  "Water fully down": {
+    "translation": "水面已完全下降"
+  },
+  "HEALTHCHARGER CAN BE USE BY BATTERY HOLDER NOW": {
+    "translation": "携带电池神器的玩家现可以激活医疗站"
+  },
+  "2 USES ONLY !": {
+    "translation": "只能使用2次!"
+  },
+  "RAMPAGE": {
+    "translation": "行动代号:野火燎原"
+  },
+  "SOMEONE FOUND THE HEALTHCHARGER BATTERY": {
+    "translation": "已拾取激活医疗站的电池!"
+  },
+  "HEALTHCHARGET RUN OUTS": {
+    "translation": "已消耗完所有医疗站的电量!"
   }
 }
