@@ -13,11 +13,11 @@
 
 {
   "1": {
-    "rankPasses": 3,
-    "rankDamage": 18000,
-    "rankIntern": 0.4,
-    "econPasses": 2,
-    "econDamage": 20000,
-    "econIntern": 0.2
+    "rankPasses": 16,
+    "rankDamage": 28000,
+    "rankIntern": 0.55,
+    "econPasses": 10,
+    "econDamage": 30000,
+    "econIntern": 0.4
   }
 }
