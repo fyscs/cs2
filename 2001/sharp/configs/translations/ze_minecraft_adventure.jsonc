@@ -1,0 +1,281 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** HEROBRINE! KILL HIM! ***": {
+    "translation": "快干掉HIM"
+  },
+  "*** BOATS LEAVING IN 15 SEC ***": {
+    "translation": "木船15秒离开"
+  },
+  "*** HUMANS WON! MOVING ON TO STAGE 4 ***": {
+    "translation": "人类获胜! 下阶段:末地"
+  },
+  "*** FALL BACK INTO BOATS ***": {
+    "translation": "撤退上船"
+  },
+  "*** WELL DONE! NEXT DOOR OPENS IN 5 SEC ***": {
+    "translation": "漂亮门5秒开"
+  },
+  "*** DOOR OPENS IN 20 SEC ***": {
+    "translation": "20秒门开"
+  },
+  "*** HUMANS WON! MOVING ON TO STAGE 2 ***": {
+    "translation": "人类获胜! 下阶段:下界"
+  },
+  "*** ESCAPE FROM THE NETHER!!! ***": {
+    "translation": "逃离下界"
+  },
+  "*** GHAST HAS BEEN DEFEATED ***": {
+    "translation": "已击败恶魂"
+  },
+  "*** 40 SECONDS REMAINING ***": {
+    "translation": "剩余40秒"
+  },
+  "*** 30 SECONDS REMAINING ***": {
+    "translation": "剩余30秒"
+  },
+  "*** 20 SECONDS REMAINING ***": {
+    "translation": "剩余20秒"
+  },
+  "*** 10 SECONDS REMAINING ***": {
+    "translation": "剩余10秒"
+  },
+  "*** ACTIVATE THE PORTAL USING FLINT AND STEEL ***": {
+    "translation": "使用打火石激活传送门"
+  },
+  "*** KILL ZOMBIES ON TOP!  ***": {
+    "translation": "消灭顶部所有僵尸"
+  },
+  "*** CURRENT STAGE IS 2: The Nether ***": {
+    "translation": "当前阶段II: 下界"
+  },
+  "*** FALL BACK! PORTAL IS ACTIVATING IN 5 SECONDS ***": {
+    "translation": "传送门5秒打开"
+  },
+  "*** WE SHOULD HOLD THIS ROOM AS LONG AS POSSIBLE ***": {
+    "translation": "守住房间"
+  },
+  "*** Thanks for playing! ***": {
+    "translation": "感谢您的游玩"
+  },
+  "*** Map made by Cuniczek ***": {
+    "translation": "地图作者: Cuniczek 汉化:茜茜"
+  },
+  "*** CONGRATULATIONS YOU HAVE BEATEN THE MAP ***": {
+    "translation": "恭喜大家通关此地图"
+  },
+  "*** THIS SHOULD WORK ***": {
+    "translation": "这应该能行"
+  },
+  "*** KILL ZOMBIES INSIDE!  ***": {
+    "translation": "消灭僵尸"
+  },
+  "*** CURRENT STAGE IS 3: Jungle ***": {
+    "translation": "当前阶段III: 丛林"
+  },
+  "*** FIND REDSTONE TORCHES AND PUT THEM IN PLACE TO OPEN THE DOOR ***": {
+    "translation": "找到红石火把并放置到铁块开启大门"
+  },
+  "*** THROW EYE OF ENDER BY USING IT ***": {
+    "translation": "使用末影之眼来投掷它"
+  },
+  "*** CURRENT STAGE IS 4: The End ***": {
+    "translation": "当前阶段IV: 末地"
+  },
+  "*** NICELY DONE! ***": {
+    "translation": "干得漂亮"
+  },
+  "*** ALL CRYSTALS ARE BROKEN ***": {
+    "translation": "所有末影水晶已被破坏"
+  },
+  "*** GET IN THE MIDDLE WE HAVE TO FIGHT THE DRAGON ***": {
+    "translation": "快到中间,我们必须打败末影龙"
+  },
+  "*** CURRENT STAGE IS 1: Overworld ***": {
+    "translation": "当前阶段I: 主世界"
+  },
+  "*** WELL DONE! NEXT DOOR IS OPENING IN 30SEC ***": {
+    "translation": "好门30秒打开"
+  },
+  "*** WE DID IT! WE ARE IN THE END! NOW... WE HAVE TO BREAK CRYSTALS AND... FIGHT... THE DRAGON ***": {
+    "translation": "我们做到了!我们在末地!破坏水晶然后打败末影龙"
+  },
+  "*** HUMANS WON! MOVING ON TO STAGE 3 ***": {
+    "translation": "人类获胜! 下阶段:丛林"
+  },
+  "Thanks to Enviolinador & Kaesar": {
+    "translation": "感谢 Enviolinador & Kaesar"
+  },
+  "Map made by Cuniczek": {
+    "translation": "地图作者: Cuniczek 汉化:茜茜"
+  },
+  "*** RUN!! WE MUST ESCAPE!!! ***": {
+    "translation": "快跑 我们必须逃离"
+  },
+  "*** DOOR IS OPENING ***": {
+    "translation": "门正在打开"
+  },
+  "*** MOVE ON! NEXT DOOR IS OPENING ***": {
+    "translation": "前进!下一道门正在打开"
+  },
+  "Eye of ender fell into ocean! We better go and explore caves beneath ugly looking spanish house.": {
+    "translation": "末影之眼掉进海里了!我们最好去探索那丑陋的房子"
+  },
+  "*** RUN INTO HOUSE ***": {
+    "translation": "进入屋子"
+  },
+  "*** THE DRAGON IS DEAD ***": {
+    "translation": "已击败末影龙"
+  },
+  "*** JUMP INTO THE PORTAL ***": {
+    "translation": "跳进传送门"
+  },
+  "*** ADMIN ROOM: CHANGING STAGE TO 3 ***": {
+    "translation": "管理员: 已调整至III 丛林"
+  },
+  "*** ADMIN ROOM: CHANGING STAGE TO 4 ***": {
+    "translation": "管理员: 已调整至IV 末地"
+  },
+  "*** ADMIN ROOM: CHANGING STAGE TO 1 ***": {
+    "translation": "管理员: 已调整至I 主世界 "
+  },
+  "*** ADMIN ROOM: CHANGING STAGE TO 2 ***": {
+    "translation": "管理员: 已调整至II 下界"
+  },
+  "*** FALL BACK DOOR IS OPENING ***": {
+    "translation": "撤退通道马上打开"
+  },
+  "He's watching you...": {
+    "translation": "他正在注视着你..."
+  },
+  "*** HE'S RUNNING AWAY! ***": {
+    "translation": "HIM逃跑了"
+  },
+  "*** RESIST 25 SECONDS ***": {
+    "translation": "防守25秒"
+  },
+  "*** 5 SECONDS REMAINING ***": {
+    "translation": "还有5秒"
+  },
+  "*** RESIST 10 SECONDS ***": {
+    "translation": "防守10秒"
+  },
+  "*** RESIST 30 SECONDS ***": {
+    "translation": "防守30秒"
+  },
+  "***RESIST 20 SECONDS***": {
+    "translation": "防守20秒"
+  },
+  "***5 SECONDS REMAINING***": {
+    "translation": "还有5秒"
+  },
+  "*** RESIST 20 SECONDS ***": {
+    "translation": "防守20秒"
+  },
+  "*** WALLS BREAK IN 15 SEC ***": {
+    "translation": "墙15秒破碎"
+  },
+  "*** HOLD NETHERFORTRESS 30 SECONDS ***": {
+    "translation": "防守下界要塞30秒"
+  },
+  "*** EVERYONE GET INSIDE! ***": {
+    "translation": "所有人快进去"
+  },
+  "*** RESIST 15 SECONDS ***": {
+    "translation": "防守15秒"
+  },
+  "*** STEEL HAS BEEN PICKED UP ***": {
+    "translation": "已拾取铁锭"
+  },
+  "*** FLINT HAS BEEN PICKED UP ***": {
+    "translation": "已拾取燧石"
+  },
+  "*** TNT EXPLODING IN 20 SEC ***": {
+    "translation": "TNT20秒爆炸"
+  },
+  "*** FALL BACK ***": {
+    "translation": "撤退"
+  },
+  "*** BUNKER IS CLOSING IN 15 SEC ***": {
+    "translation": "Zeyu的小屋15秒关闭"
+  },
+  "*** BUNKER IS CLOSING ***": {
+    "translation": "Zeyu的小屋安全了"
+  },
+  "*** GET INTO MINECARTS ***": {
+    "translation": "上矿车"
+  },
+  "*** MINECARTS LEAVING IN 10 SEC ***": {
+    "translation": "矿车10秒离开"
+  },
+  "*** MINECARTS LEAVING IN 25 SEC ***": {
+    "translation": "矿车25秒离开"
+  },
+  "*** TAKE PICKAXE AND BREAK OBSIDIAN TO BUILD PORTAL ***": {
+    "translation": "拾取镐子挖黑曜石建造传送门"
+  },
+  "*** DEFEND 25 SECONDS ***": {
+    "translation": "防守25秒"
+  },
+  "***HOLD CASTLE 35 SEC***": {
+    "translation": "防守城堡35秒"
+  },
+  "*** 5 SEC REMAINING ***": {
+    "translation": "还有5秒"
+  },
+  "*** RESIST FOR 30 SECONDS ***": {
+    "translation": "防守30秒"
+  },
+  "*** FALL BACK 5 SECONDS REMAINING ***": {
+    "translation": "还有5秒"
+  },
+  "*** GO INTO UNDERGROUND ***": {
+    "translation": "地板碎了,走下面"
+  },
+  "*** PORTAL IS ACTIVATING IN 35 SECONDS ***": {
+    "translation": "传送门35秒激活"
+  },
+  "We must follow the eye of ender to locate Stronghold!": {
+    "translation": "我们需要跟随末影之眼来定位要塞"
+  },
+  "*** RUN INTO DESERT AND RESIST FOR A WHILE ***": {
+    "translation": "跑进沙漠并防守一段时间"
+  },
+  "*** DEFEND FOR 40 SEC OR PRESS 2 BUTTONS AT THE SAME TIME ***": {
+    "translation": "防守40秒或同时按下二个按钮",
+    "countdown": 40
+  },
+  "*** FIND A WAY TO OPEN THIS DOOR ***": {
+    "translation": "想办法打开这扇门"
+  },
+  "*** NEXT DOOR OPENS IN 20 SECONDS ***": {
+    "translation": "下个门20秒打开"
+  },
+  "*** YOU HAVE TO STAND ON ALL PRESSURE PLATES TO OPEN THE DOOR ***": {
+    "translation": "必须同时站在所有压力板上才能开门"
+  },
+  "*** 50 SECONDS REMAINING ***": {
+    "translation": "还有50秒"
+  },
+  "*** GET ON TOP OF THE TEMPLE AND RESIST 60 SECONDS ***": {
+    "translation": "神庙顶部防守60秒"
+  },
+  "Yes! We have found it! The Eyes of Ender. Now we can find Stronghold.": {
+    "translation": "我们找到了末影之眼,现在我们可以寻找要塞了"
+  },
+  "*** WELL DONE! NOW PRESS 2 LEVERS TO OPEN NEXT DOOR ***": {
+    "translation": "现在拉动2个拉杆打开门"
+  },
+  "*** SOLVE THE PUZZLE OR RESIST 30 SECONDS ***": {
+    "translation": "解开谜题或防守30秒"
+  }
+}
