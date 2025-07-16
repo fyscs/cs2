@@ -485,6 +485,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_boatescape777": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 1000,
+    "requiredOnline": -1,
+    "requiredPlayers": 25
+  },
   "ze_boatescape888": {
     "admin": false,
     "certainTimes": [-1],
