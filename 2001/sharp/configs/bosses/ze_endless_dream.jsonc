@@ -46,6 +46,7 @@
       "iterator": "st5_boss_counter",
       "hitbox": "sst5_boss_hitbox",
       "counter": "st5_boss_counter_sub",
+      "mass": 100,
       "display": "白"
     }
   ]
