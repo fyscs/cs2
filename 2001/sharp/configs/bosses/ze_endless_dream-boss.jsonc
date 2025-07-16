@@ -1,0 +1,52 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "st1_boss_counter",
+      "hitbox": "st1_boss_hitbox",
+      "display": "蓝"
+    },
+    {
+      "iterator": "st3_boss_counter",
+      "hitbox": "st3_boss_hitbox",
+      "display": "黄"
+    },
+    {
+      "iterator": "st3_end_beam_counter",
+      "hitbox": "st3_end_boss_hitbox",
+      "display": "黄"
+    },
+    {
+      "iterator": "st4_boss_counter",
+      "hitbox": "st4_boss_hitbox",
+      "display": "红"
+    },
+    {
+      "iterator": "st5_boss_counter",
+      "hitbox": "sst5_boss_hitbox",
+      "counter": "st5_boss_counter_sub",
+      "display": "白"
+    }
+  ]
+}
