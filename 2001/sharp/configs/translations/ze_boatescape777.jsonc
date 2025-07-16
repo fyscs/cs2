@@ -1,0 +1,49 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>The boat will leave in 20 seconds<<": {
+    "translation": ">>小船将在20秒后离开<<"
+  },
+  ">>The airboat will leave in 40 seconds<<": {
+    "translation": ">>飞船将在40秒后离开<<"
+  },
+  ">>The boat will leave in 60 seconds<<": {
+    "translation": ">>小船将在60秒后离开<<"
+  },
+  ">>The airboat will leave in 45 seconds<<": {
+    "translation": ">>飞船将在45秒后离开<<"
+  },
+  ">>10<<": {
+    "translation": ">>10<<"
+  },
+  ">>20<<": {
+    "translation": ">>20<<"
+  },
+  "**Baka!!!**": {
+    "translation": "**Baka!!!**"
+  },
+  ">>The boat will leave in 40 seconds<<": {
+    "translation": ">>小船将在40秒后离开<<"
+  },
+  ">>The boat will leave in 70 seconds<<": {
+    "translation": ">>小船将在70秒后离开<<"
+  },
+  "> SuperRun <": {
+    "translation": "> SuperRun <"
+  },
+  "**Extreme Mode : On**": {
+    "translation": "**EX模式已启用!(后续的结尾都会带有某一张solo地图的最终流程)**"
+  },
+  "**Secret Mode : SuperRun**": {
+    "translation": "**隐藏模式:超级跑跑**"
+  }
+}
