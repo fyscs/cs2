@@ -4085,6 +4085,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_watagi_tunnel_rewind": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 45
+  },
   "ze_winter_warehouse_p": {
     "admin": false,
     "certainTimes": [-1],
