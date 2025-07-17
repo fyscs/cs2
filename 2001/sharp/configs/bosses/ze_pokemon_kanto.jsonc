@@ -1,0 +1,96 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Breakables": [
+    {
+      "target":  "gym1_onix_hitbox",
+      "display":  "大岩蛇"
+    },
+    {
+      "target":  "starmie_health",
+      "display":  "宝石海星"
+    },
+    {
+      "target":  "gym3_raichu_health",
+      "display":  "雷丘"
+    },
+    {
+      "target":  "gym4_alakazam_health",
+      "display":  "胡地"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "13472",
+      "display": "妙蛙种子"
+    },
+    {
+      "identity": "12932",
+      "display": "鲤鱼王"
+    },
+    {
+      "identity": "13423",
+      "display": "独角虫"
+    },
+    {
+      "identity": "13521",
+      "display": "皮卡丘"
+    },
+    {
+      "identity": "49714",
+      "display": "隆隆岩"
+    },
+    {
+      "identity": "49821",
+      "display": "霹雳电球"
+    },
+    {
+      "identity": "50015",
+      "display": "超音蝠"
+    },
+    {
+      "identity": "60202",
+      "display": "杰尼龟"
+    },
+    {
+      "identity": "60738",
+      "display": "尼多力诺" 
+    },
+    {
+      "identity": "64078",
+      "display": "耿鬼1" 
+    },
+    {
+      "identity": "64163",
+      "display": "耿鬼2" 
+    },
+    {
+      "identity": "64168",
+      "display": "耿鬼3" 
+    },
+    {
+      "identity": "64171",
+      "display": "耿鬼4" 
+    }
+  ]
+}
