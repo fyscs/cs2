@@ -1,0 +1,51 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "防守30秒": {
+    "translation": "防守30秒",
+    "countdown": 30
+  },
+  "撤退,想办法到床上去。": {
+    "translation": "撤退,想办法到床上去"
+  },
+  "路被该死的乐事薯片挡住了，防守30秒。": {
+    "translation": "防守30秒",
+    "countdown": 30
+  },
+  "撤退,我们能继续前进了。": {
+    "translation": "撤退,我们能继续前进了"
+  },
+  "屋主人还玩三角洲？防守30秒。": {
+    "translation": "防守30秒",
+    "countdown": 30
+  },
+  "防守40秒": {
+    "translation": "防守40秒",
+    "countdown": 40
+  },
+  "似乎有什么事情要发生。": {
+    "translation": "似乎有什么事情要发生"
+  },
+  "防守30秒,我们要跳下去。": {
+    "translation": "防守30秒,我们要跳下去",
+    "countdown": 30
+  },
+  "快上平台！": {
+    "translation": "快上平台"
+  },
+  "ze_guye_room 试玩版，不代表最终品质。": {
+    "translation": "试玩版 不代表最终品质"
+  },
+  "map by 佐贺": {
+    "translation": "地图制作-佐贺"
+  }
+}
