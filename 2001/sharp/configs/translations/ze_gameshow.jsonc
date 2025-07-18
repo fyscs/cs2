@@ -1,0 +1,313 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>LEVEL 2 SELECTED...<<": {
+    "translation": "关卡2-已选择"
+  },
+  ">>Level commencing in 3...<<": {
+    "translation": "关卡将在3秒后开始"
+  },
+  ">>Level commencing in 1...<<": {
+    "translation": "关卡将在1秒后开始"
+  },
+  ">>Level commencing in 2...<<": {
+    "translation": "关卡将在2秒后开始"
+  },
+  ">>LEVEL 3 SELECTED...<<": {
+    "translation": "关卡3-已选择"
+  },
+  ">>LEVEL 1 SELECTED...<<": {
+    "translation": "关卡1-已选择"
+  },
+  ">>Wall 1 is open!<<": {
+    "translation": "墙一 已开启"
+  },
+  ">>Wall 2 is open!<<": {
+    "translation": "墙二 已开启"
+  },
+  ">>Wall 3 is open!<<": {
+    "translation": "墙三 已开启"
+  },
+  ">>Wall 4 is open!<<": {
+    "translation": "墙四 已开启"
+  },
+  ">>Delay and the teleporter will reactivate!!<<": {
+    "translation": "传送器将重新激活"
+  },
+  ">>Pick a level! You have 10 seconds!<<": {
+    "translation": "你有10秒->选择关卡"
+  },
+  ">>THE BUILDING IS BECOMING UNSTABLE<<": {
+    "translation": "建筑即将崩塌"
+  },
+  ">>Escape through the hole in the walls!<<": {
+    "translation": "从墙洞逃离"
+  },
+  ">>OH SHIT! ADMIN HIT THE NUKE BUTTON<<": {
+    "translation": "糟了 管理员按了核弹按钮"
+  },
+  ">>HOLD THE HARBOR FOR 50 SECONDS<<": {
+    "translation": "坚守港口50秒"
+  },
+  ">>HANGER DOOR OPENS IN 10 SECONDS<<": {
+    "translation": "机库门10秒后开启"
+  },
+  ">>FALL BACK<<": {
+    "translation": "撤退"
+  },
+  "WARNING: ZOMBIE INFESTATION DETECTED": {
+    "translation": "警告-检测到僵尸"
+  },
+  "ACTIVATING BARRIER IN 5 SECONDS": {
+    "translation": "屏障5秒后激活"
+  },
+  "BARRIER DEACTIVATING IN 5 SECONDS": {
+    "translation": "屏障5秒后关闭"
+  },
+  ">>YOU WIN! BACK TO THE LOBBY!<<": {
+    "translation": "你们赢了 返回大厅"
+  },
+  ">>Hold the sewer for 15 seconds!<<": {
+    "translation": "坚守下水道15秒"
+  },
+  ">>Sewer defenders fall back!<<": {
+    "translation": "下水道小队-撤退"
+  },
+  ">>Roof top defenders! Hold for 10 seconds!<<": {
+    "translation": "屋顶小队-坚守10秒"
+  },
+  ">>Nuclear fallout base activating!<<": {
+    "translation": "核基地启动中"
+  },
+  ">>Defend for 50 seconds until the nuke is detonated!<<": {
+    "translation": "防守50秒直到核弹引爆"
+  },
+  ">>40 SECONDS REMAIN<<": {
+    "translation": "剩余40秒"
+  },
+  ">>30 SECONDS REMAIN<<": {
+    "translation": "剩余30秒"
+  },
+  ">>20 SECONDS REMAIN<<": {
+    "translation": "剩余20秒"
+  },
+  ">>10 SECONDS REMAIN<<": {
+    "translation": "剩余10秒"
+  },
+  ">>5...<<": {
+    "translation": "5"
+  },
+  ">>4...<<": {
+    "translation": "4"
+  },
+  ">>3...<<": {
+    "translation": "3"
+  },
+  ">>2...<<": {
+    "translation": "2"
+  },
+  ">>1...<<": {
+    "translation": "1"
+  },
+  ">>GAME OVER IF ZOMBIES GET IN THE BUNKER<<": {
+    "translation": "僵尸进入地堡则游戏结束"
+  },
+  ">>ZOMBIES GOT INTO THE BUNKER! GAME OVER!<<": {
+    "translation": "僵尸已进地堡-游戏结束"
+  },
+  ">>GET INTO THE AIRSHIP AND DESTROY THE ENGINE!<<": {
+    "translation": "进入飞艇 摧毁引擎"
+  },
+  ">>HOLD THE CABIN FOR 40 SECONDS<<": {
+    "translation": "坚守机舱40秒"
+  },
+  ">>10 SECONDS LEFT<<": {
+    "translation": "剩余10秒"
+  },
+  ">>HOLD THE ENGINE ROOM FOR 40 SECONDS!<<": {
+    "translation": "坚守引擎室40秒"
+  },
+  ">>10 SECONDS LEFT UNTIL C4 DETONATES!!<<": {
+    "translation": "C4爆炸倒计时10秒"
+  },
+  ">>GENERATOR IS DESTROYED! RETURN TO THE HELIPAD<<": {
+    "translation": "发电机已毁 返回停机坪"
+  },
+  ">>ZOMBIES INFECTED THE HELI! GAME OVER!<<": {
+    "translation": "直升机被淦了 游戏结束"
+  },
+  ">>HELI LEAVES IN 30 SECONDS!!<<": {
+    "translation": "直升机30秒后离开"
+  },
+  ">>10 SECONDS REMAIN!!<<": {
+    "translation": "剩余10秒"
+  },
+  ">>Parking garage zombie gate opened....<<": {
+    "translation": "停车场僵尸门 已开启"
+  },
+  ">>Hold while the elevator is called! 40 SECONDS!<<": {
+    "translation": "呼叫电梯时坚守 40秒"
+  },
+  ">>10 SECONDS UNTIL ELEVATOR LEAVES!<<": {
+    "translation": "电梯10秒后离开"
+  },
+  ">>Zombies wait for teleport...<<": {
+    "translation": "僵尸等待传送"
+  },
+  ">>Hold for 40 seconds until C4 detonates!<<": {
+    "translation": "坚守40秒 直到C4引爆"
+  },
+  ">>10 seconds left!!<<": {
+    "translation": "剩余10秒"
+  },
+  ">>Underground passage opening in 30 seconds<<": {
+    "translation": "地下通道30秒后开启"
+  },
+  ">>Passage opening in 5 seconds<<": {
+    "translation": "通道5秒后开启"
+  },
+  ">>SKYWALK SEALING IN 5 SECONDS<<": {
+    "translation": "天桥5秒后封闭"
+  },
+  ">>Zombies are released!!<<": {
+    "translation": "僵尸已释放"
+  },
+  ">>Defeat the boss to escape the Game Show<<": {
+    "translation": "击败BOSS 逃离这里"
+  },
+  ">>....there is one final task to complete....<<": {
+    "translation": "还有最终任务要完成"
+  },
+  ">>Hold for 10 seconds!<<": {
+    "translation": "坚守10秒"
+  },
+  ">>Keep the zombies away from the line!<<": {
+    "translation": "阻止僵尸越过防线"
+  },
+  ">>Zombies reached the line! Game over!<<": {
+    "translation": "僵尸已到防线 游戏结束"
+  },
+  ">>YOU BEAT ZE_GAMESHOW!<<": {
+    "translation": "通关!"
+  },
+  "Time for a much needed vacation....": {
+    "translation": "是时候度个假了"
+  },
+  ">>C4 explodes in 10 seconds!<<": {
+    "translation": "C4将在10秒后爆炸"
+  },
+  ">>The city is infected! Hold the street from the zombies!<<": {
+    "translation": "城市已被丧尸感染-在街道防守"
+  },
+  ">>Hold the Train Station for 30 seconds!<<": {
+    "translation": "坚守火车站30秒"
+  },
+  ">>Fall back!<<": {
+    "translation": "撤退"
+  },
+  ">>Hold for 20 seconds while the door opens!<<": {
+    "translation": "门开时坚守20秒"
+  },
+  ">>Door opens in 5 seconds!<<": {
+    "translation": "门5秒后开启"
+  },
+  ">>FINAL STAND! DEFEND THE SHIP!<<": {
+    "translation": "最终防线-保卫船只"
+  },
+  ">>Hold for 45 seconds<<": {
+    "translation": "坚守45秒"
+  },
+  ">>10 SECONDS REMAIN UNTIL CHOPPER LEAVES<<": {
+    "translation": "直升机离开倒计时10秒"
+  },
+  ">>15 SECONDS REMAIN UNTIL CHOPPER LEAVES<<": {
+    "translation": "直升机离开倒计时15秒"
+  },
+  ">>Hold the docks until the forklift starts!<<": {
+    "translation": "坚守码头 直到叉车启动"
+  },
+  ">>The forklift is making noises...<<": {
+    "translation": "叉车发出声响"
+  },
+  ">>The forklift broke through the glass! Run<<": {
+    "translation": "叉车破窗了 快跑"
+  },
+  ">>Hold the kitchen until the gate opens!<<": {
+    "translation": "坚守厨房 直到门开"
+  },
+  ">>Gate opening in 15 seconds<<": {
+    "translation": "大门15秒后开启"
+  },
+  ">>Gate is opening...<<": {
+    "translation": "大门开启中"
+  },
+  ">>ESCAPE IN THE TELEPORTER<<": {
+    "translation": "从传送器逃离"
+  },
+  ">>THE BOSS IS DEFEATED!<<": {
+    "translation": "BOSS已被击败"
+  },
+  ">>Uh oh... two maps were picked at the same time...<<": {
+    "translation": "哦不 同时选了2张地图"
+  },
+  ">>Restarting to avoid problems! (Sorry!)<<": {
+    "translation": "正在重启"
+  },
+  ">>Monkey bombs picked up!<<": {
+    "translation": "已拾取猴子炸弹"
+  },
+  ">>Push gun picked up!<<": {
+    "translation": "已拾取推动枪"
+  },
+  ">>Freeze gun picked up!<<": {
+    "translation": "已拾取冰冻枪"
+  },
+  ">>All four monkey bombs used!<<": {
+    "translation": "四枚猴子炸弹已用尽"
+  },
+  ">>Ding ding!<<": {
+    "translation": "叮叮"
+  },
+  ">>Someone enter the secret DJ room!<<": {
+    "translation": "有人进入秘密DJ室"
+  },
+  ">>MAP BY DREAM EATER<<": {
+    "translation": "地图作者:DREAM EATER 文本:Zeyu1"
+  },
+  ">>PICKING A RANDOM MIDDLE WALL IN 30 SECONDS!<<": {
+    "translation": "30秒后将随机选择中间墙"
+  },
+  "say>>WALL OPENING IN 5...<<": {
+    "translation": "墙将在5秒后开启"
+  },
+  "say>>WALL OPENING IN 4...<<": {
+    "translation": "墙将在4秒后开启"
+  },
+  "say>>WALL OPENING IN 1...<<": {
+    "translation": "墙将在1秒后开启"
+  },
+  "say>>WALL OPENING IN 3...<<": {
+    "translation": "墙将在3秒后开启"
+  },
+  "say>>WALL OPENING IN 2...<<": {
+    "translation": "墙将在2秒后开启"
+  },
+  ">>Weapons don't damage in the lobby!<<": {
+    "translation": "大厅内武器无伤害"
+  },
+  ">>After buying a special weapon": {
+    "translation": "购买特殊武器"
+  },
+  ">>The end is near...<<": {
+    "translation": "终点临近了..."
+  }
+}
