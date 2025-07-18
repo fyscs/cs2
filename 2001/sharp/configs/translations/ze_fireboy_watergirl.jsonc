@@ -1,0 +1,247 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "In 25 seconds the elevator will move.": {
+    "translation": "电梯25秒启动"
+  },
+  "Last 5 sec !": {
+    "translation": "最后5秒"
+  },
+  "Elevator leaving.": {
+    "translation": "电梯即将离开"
+  },
+  "Standing on the button, take your friends to the button trigger above.": {
+    "translation": "站在按钮上-带你的朋友去上方按钮触发"
+  },
+  "Zombie Teleported!": {
+    "translation": "僵尸已传送"
+  },
+  "ZM TP 10 sec! >> zm detected": {
+    "translation": "僵尸传送-10秒 "
+  },
+  "Zombie TP 10 sec !": {
+    "translation": "僵尸传送-10秒"
+  },
+  "In 25 seconds, the road will open.": {
+    "translation": "道路将在25秒后开启"
+  },
+  "One by one, roads are being opened.": {
+    "translation": "道路正在开启"
+  },
+  "All road open. GO!": {
+    "translation": "所有道路开启 快"
+  },
+  "Last 5 sec!": {
+    "translation": "最后5秒"
+  },
+  "Map Creator : Platin": {
+    "translation": "地图作者:Platin 文本:Zeyu1"
+  },
+  "### LEVEL 1/2 ###": {
+    "translation": "关卡1"
+  },
+  "Red door: Can pass through red waters. Cannot pass through blue and green waters.": {
+    "translation": "红门 可穿过红色水域 不可穿过蓝绿水域"
+  },
+  "Blue door : Can pass through blue water. Cannot pass through red and green water.": {
+    "translation": "蓝门 可穿过蓝色水域 不可穿过红绿水域"
+  },
+  "Zombies can pass through green water. Blue and red water slows down zombies.": {
+    "translation": "僵尸可穿过绿色水域 蓝红水域会减缓僵尸"
+  },
+  "### LEVEL 2/2 ###": {
+    "translation": "关卡"
+  },
+  "After 30 seconds, the thrust will open.": {
+    "translation": "风扇还有30秒开启"
+  },
+  "Last 10 sec!": {
+    "translation": "最后10秒"
+  },
+  "ZM TP 8 SEC!": {
+    "translation": "ZM传送-8秒"
+  },
+  "thrust opened. JUMP !": {
+    "translation": "风扇已开启 - 跳"
+  },
+  "RUN RUN RUN !": {
+    "translation": "快跑快跑快跑!"
+  },
+  "The doors will open in 25 seconds.": {
+    "translation": "大门将在25秒后开启"
+  },
+  "Zombie TP 7 sec !": {
+    "translation": "僵尸传送-7秒"
+  },
+  "Door Open ! GO !": {
+    "translation": "门开了 快走"
+  },
+  "AFK TP 5 SEC!": {
+    "translation": "挂机传送-5秒"
+  },
+  "After 25 seconds, the thrust will open.": {
+    "translation": "风扇还有25秒开启"
+  },
+  "Don't get left behind.": {
+    "translation": "别掉队"
+  },
+  "Zombie TP soon !": {
+    "translation": "僵尸即将传送"
+  },
+  "The doors will open in 30 seconds.": {
+    "translation": "大门将在30秒后开启"
+  },
+  "Door Open! GO !": {
+    "translation": "门开了 快走"
+  },
+  "AFK TP 10 SEC !": {
+    "translation": "挂机传送-10秒"
+  },
+  "Defend the left and right area.": {
+    "translation": "防守左右区域"
+  },
+  "After 30 seconds, the propellers will start.": {
+    "translation": "30秒后螺旋桨将启动"
+  },
+  "Last 10 sec !": {
+    "translation": "最后10秒"
+  },
+  "The propellers opened. GO!": {
+    "translation": "螺旋桨已启动"
+  },
+  "In 25 seconds, the barrier will break.": {
+    "translation": "障碍将在25秒后消失"
+  },
+  "Barrier break. GO!": {
+    "translation": "障碍消失了...."
+  },
+  "Final doors open. GO!": {
+    "translation": "最终大门已开启 快走"
+  },
+  "LEVEL 2 COMPLETED !": {
+    "translation": "关卡2-完成"
+  },
+  "FINAL HURT 10 SEC !": {
+    "translation": "10秒后核爆"
+  },
+  ">>> HUMAN WIN <<<": {
+    "translation": "人类胜利"
+  },
+  ">>> 3 <<<": {
+    "translation": "3"
+  },
+  ">>> 2 <<<": {
+    "translation": "2"
+  },
+  ">>> 1 <<<": {
+    "translation": "1"
+  },
+  "--- THANKS ----": {
+    "translation": "感谢"
+  },
+  "--- GAME END ----": {
+    "translation": "游戏结束"
+  },
+  "LEVEL 1 COMPLETED !": {
+    "translation": "关卡1完成"
+  },
+  "In 30 seconds, the door will open.": {
+    "translation": "门将在30秒后开启"
+  },
+  "Last 10 sec ! go back !": {
+    "translation": "最后10秒 后退"
+  },
+  "Door Open ! GO BACK !": {
+    "translation": "门开了 快走"
+  },
+  "ZM TP 15 SEC!": {
+    "translation": "ZM传送15秒"
+  },
+  "In 20 seconds, the road will open.": {
+    "translation": "道路将在20秒后开启"
+  },
+  "Way open! GO BACK !": {
+    "translation": "道路已开启"
+  },
+  "After 30 seconds, the ventilation will open.": {
+    "translation": "30秒后通风口将开启"
+  },
+  "Last 10 sec! GO BACK !": {
+    "translation": "最后10秒-后退"
+  },
+  "Open GO !": {
+    "translation": "快走"
+  },
+  "ZOMBIE TP 10 SEC!": {
+    "translation": "僵尸传送-10秒"
+  },
+  "* FIRE GUN - 70 sec cooldown *": {
+    "translation": "火焰枪 七十秒冷却"
+  },
+  "* WATER GUN - 70 sec cooldown *": {
+    "translation": "水枪 七十秒冷却"
+  },
+  "The left side is complete.": {
+    "translation": "左侧-已完成"
+  },
+  "The right side is complete.": {
+    "translation": "右侧-已完成"
+  },
+  "In 30 seconds the doors will open!": {
+    "translation": "大门将在30秒后开启"
+  },
+  "ZOMBIE TP 15 SEC !": {
+    "translation": "僵尸传送15秒"
+  },
+  "the blue door has been triggered.": {
+    "translation": "蓝门-已触发"
+  },
+  "the red door has been triggered.": {
+    "translation": "红门-已触发"
+  },
+  "In 30 seconds, the doors will open.": {
+    "translation": "大门将在30秒后开启"
+  },
+  "Last 10 sec! ready!": {
+    "translation": "最后10秒"
+  },
+  "The teleport will open in 30 seconds.": {
+    "translation": "传送门将在30秒后开启"
+  },
+  "Teleport OPEN ! GO BACK !": {
+    "translation": "传送门已开启"
+  },
+  "AFK TP 15 SEC !": {
+    "translation": "挂机传送15秒"
+  },
+  "Red color triggered!": {
+    "translation": "红色-已触发"
+  },
+  "Blue color triggered!": {
+    "translation": "蓝色-已触发"
+  },
+  "Teleports open! GO !": {
+    "translation": "传送门已开启"
+  },
+  "The barrier will break in 25 seconds!": {
+    "translation": "障碍将在25秒后消失"
+  },
+  "Barrier break ! GO !": {
+    "translation": "障碍消失了...."
+  },
+  "Open both ways!": {
+    "translation": "两边门正在开启"
+  },
+  "In 25 seconds the final teleport will open!": {
+    "translation": "最终传送门将在25秒后开启"
+  }
+}
