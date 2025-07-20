@@ -3986,6 +3986,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_untitled_touhou": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 160,
+    "nomination": true,
+    "price": 500,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_upwards_p": {
     "admin": false,
     "certainTimes": [-1],
