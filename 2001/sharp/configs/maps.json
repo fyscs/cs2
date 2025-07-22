@@ -1356,7 +1356,7 @@
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
-    "requiredPlayers": -1
+    "requiredPlayers": 35
   },
   "ze_gear_palace": {
     "admin": false,
