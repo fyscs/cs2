@@ -1203,7 +1203,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": -1
+    "requiredPlayers": 40
   },
   "ze_firewall_laboratory_part1_p": {
     "admin": false,
