@@ -1367,6 +1367,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_gameshow": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 35
+  },
   "ze_gear_palace": {
     "admin": false,
     "certainTimes": [-1],
