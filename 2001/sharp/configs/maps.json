@@ -549,7 +549,7 @@
     "requiredPlayers": 40
   },
   "ze_cemetery_escape": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 60,
     "nomination": true,
