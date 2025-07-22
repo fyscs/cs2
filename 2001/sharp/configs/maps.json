@@ -1484,6 +1484,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_guye_room": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_halloween_house_p": {
     "admin": true,
     "certainTimes": [-1],
