@@ -47,19 +47,19 @@
     "translation": "地图作者:Platin 文本:Zeyu1"
   },
   "### LEVEL 1/2 ###": {
-    "translation": "关卡1"
+    "translation": "关卡一"
   },
   "Red door: Can pass through red waters. Cannot pass through blue and green waters.": {
-    "translation": "红门 可穿过红色水域 不可穿过蓝绿水域"
+    "translation": "红门-可通过<红色>水域 <蓝-绿>水域禁止通行!"
   },
   "Blue door : Can pass through blue water. Cannot pass through red and green water.": {
-    "translation": "蓝门 可穿过蓝色水域 不可穿过红绿水域"
+    "translation": "蓝门-可通过<蓝色>水域 <红-绿>水域禁止通行!"
   },
   "Zombies can pass through green water. Blue and red water slows down zombies.": {
-    "translation": "僵尸可穿过绿色水域 蓝红水域会减缓僵尸"
+    "translation": "僵尸可穿过<绿色>水域-其他水域会减速!"
   },
   "### LEVEL 2/2 ###": {
-    "translation": "关卡"
+    "translation": "关卡二"
   },
   "After 30 seconds, the thrust will open.": {
     "translation": "风扇还有30秒开启"
