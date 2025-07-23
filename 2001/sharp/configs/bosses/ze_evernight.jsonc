@@ -35,7 +35,8 @@
       "counter": "Boss_2_Hp_Overlay",
       "backup": "Boss_2_Hp_Init",
       "display": "监视者"
-    },{
+    },
+    {
       "iterator": "Boss_3_Hp",
       "hitbox": "Boss_3_Phys",
       "counter": "Boss_3_Hp_Overlay",
