@@ -21,65 +21,76 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Counters": [
+  "Breakables": [
     {
-      "iterator": "Sephiroth_hp",
-      "hitbox": "Sephiroth_hitbox",
-      "display": "萨菲罗斯"
+      "target":  "gym1_onix_hitbox",
+      "display":  "大岩蛇"
+    },
+    {
+      "target":  "starmie_health",
+      "display":  "宝石海星"
+    },
+    {
+      "target":  "gym3_raichu_health",
+      "display":  "雷丘"
+    },
+    {
+      "target":  "gym4_alakazam_health",
+      "display":  "胡地"
     }
   ],
   "Monsters": [
     {
-      "identity": "5222",
-      "display": "铠之巨人"
+      "identity": "13472",
+      "display": "妙蛙种子"
     },
     {
-      "identity": "5325",
-      "display": "炎魔"
+      "identity": "12932",
+      "display": "鲤鱼王"
     },
     {
-      "identity": "5346",
-      "display": "巨魔"
+      "identity": "13423",
+      "display": "独角虫"
     },
     {
-      "identity": "5370",
-      "display": "龙祭祀"
+      "identity": "13521",
+      "display": "皮卡丘"
     },
     {
-      "identity": "5397",
-      "display": "巨人"
+      "identity": "49714",
+      "display": "隆隆岩"
     },
     {
-      "identity": "5428",
-      "display": "Alex"
+      "identity": "49821",
+      "display": "霹雳电球"
     },
     {
-      "identity": "5475",
-      "display": "小学生"
+      "identity": "50015",
+      "display": "超音蝠"
     },
     {
-      "identity": "5515",
-      "display": "狼人"
+      "identity": "60202",
+      "display": "杰尼龟"
     },
     {
-      "identity": "5525",
-      "display": "狼人2"
+      "identity": "60738",
+      "display": "尼多力诺" 
     },
     {
-      "identity": "6067",
-      "display": "Alex2"
+      "identity": "64078",
+      "display": "耿鬼1" 
     },
     {
-      "identity": "6135",
-      "display": "Gene"
+      "identity": "64163",
+      "display": "耿鬼2" 
     },
     {
-      "identity": "6311",
-      "display": "Xt300"
+      "identity": "64168",
+      "display": "耿鬼3" 
     },
     {
-      "identity": "7312",
-      "display": "巴哈姆特"
+      "identity": "64171",
+      "display": "耿鬼4" 
     }
   ]
 }

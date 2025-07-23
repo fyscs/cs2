@@ -23,63 +23,31 @@
 {
   "Counters": [
     {
-      "iterator": "Sephiroth_hp",
-      "hitbox": "Sephiroth_hitbox",
-      "display": "萨菲罗斯"
-    }
-  ],
-  "Monsters": [
-    {
-      "identity": "5222",
-      "display": "铠之巨人"
+      "iterator": "st1_boss_counter",
+      "hitbox": "st1_boss_hitbox",
+      "display": "蓝"
     },
     {
-      "identity": "5325",
-      "display": "炎魔"
+      "iterator": "st3_boss_counter",
+      "hitbox": "st3_boss_hitbox",
+      "display": "黄"
     },
     {
-      "identity": "5346",
-      "display": "巨魔"
+      "iterator": "st3_end_beam_counter",
+      "hitbox": "st3_end_boss_hitbox",
+      "display": "黄"
     },
     {
-      "identity": "5370",
-      "display": "龙祭祀"
+      "iterator": "st4_boss_counter",
+      "hitbox": "st4_boss_hitbox",
+      "display": "红"
     },
     {
-      "identity": "5397",
-      "display": "巨人"
-    },
-    {
-      "identity": "5428",
-      "display": "Alex"
-    },
-    {
-      "identity": "5475",
-      "display": "小学生"
-    },
-    {
-      "identity": "5515",
-      "display": "狼人"
-    },
-    {
-      "identity": "5525",
-      "display": "狼人2"
-    },
-    {
-      "identity": "6067",
-      "display": "Alex2"
-    },
-    {
-      "identity": "6135",
-      "display": "Gene"
-    },
-    {
-      "identity": "6311",
-      "display": "Xt300"
-    },
-    {
-      "identity": "7312",
-      "display": "巴哈姆特"
+      "iterator": "st5_boss_counter",
+      "hitbox": "sst5_boss_hitbox",
+      "counter": "st5_boss_counter_sub",
+      "mass": 100,
+      "display": "白"
     }
   ]
 }

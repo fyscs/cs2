@@ -1,0 +1,55 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "- 25 seconds -": {
+    "translation": "25秒"
+  },
+  "- 30 seconds -": {
+    "translation": "30秒"
+  },
+  "- 15 seconds -": {
+    "translation": "15秒"
+  },
+  "- We need to reseal the Saigyou Ayakashi! -": {
+    "translation": "我们需要重新封印西行妖"
+  },
+  "- Don't let zombies near it! -": {
+    "translation": "别让僵尸靠近它"
+  },
+  "- It's the ghost princess! -": {
+    "translation": "是幽灵公主"
+  },
+  "- We have to stop her from releasing the seal on the Saigyou Ayakashi! -": {
+    "translation": "我们必须阻止她解除西行妖的封印"
+  },
+  "- The arena closes in 30 seconds -": {
+    "translation": "竞技场30秒关闭"
+  },
+  "- The arena has been sealed... -": {
+    "translation": "竞技场已被封印"
+  },
+  "- The staircase to Hakugyokurou will open in 45 seconds -": {
+    "translation": "通往白玉楼的阶梯45秒开放"
+  },
+  "- It's the gardener of Hakugyokurou! -": {
+    "translation": "是白玉楼的园丁"
+  },
+  "- Seems like we're not welcome here -": {
+    "translation": "看来我们在这里不受欢迎"
+  },
+  "- She seems to have exhausted her power -": {
+    "translation": "她似乎已经耗尽了力量"
+  },
+  "- Let us progress... -": {
+    "translation": "让我们继续前进"
+  }
+}

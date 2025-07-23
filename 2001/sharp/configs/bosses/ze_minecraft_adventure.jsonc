@@ -23,63 +23,23 @@
 {
   "Counters": [
     {
-      "iterator": "Sephiroth_hp",
-      "hitbox": "Sephiroth_hitbox",
-      "display": "萨菲罗斯"
-    }
-  ],
-  "Monsters": [
-    {
-      "identity": "5222",
-      "display": "铠之巨人"
+      "iterator": "boss2_hp",
+      "backup": "boss2_hp_backup",
+      "counter": "boss2_hp_iterations",
+      "hitbox": "end_bosshitbox",
+      "display": "末影龙"
     },
     {
-      "identity": "5325",
-      "display": "炎魔"
+      "iterator": "boss_hp",
+      "backup": "boss_hp_backup",
+      "counter": "boss_hp_iterations",
+      "hitbox": "nether_boss_hitbox",
+      "display": "恶魂"
     },
     {
-      "identity": "5346",
-      "display": "巨魔"
-    },
-    {
-      "identity": "5370",
-      "display": "龙祭祀"
-    },
-    {
-      "identity": "5397",
-      "display": "巨人"
-    },
-    {
-      "identity": "5428",
-      "display": "Alex"
-    },
-    {
-      "identity": "5475",
-      "display": "小学生"
-    },
-    {
-      "identity": "5515",
-      "display": "狼人"
-    },
-    {
-      "identity": "5525",
-      "display": "狼人2"
-    },
-    {
-      "identity": "6067",
-      "display": "Alex2"
-    },
-    {
-      "identity": "6135",
-      "display": "Gene"
-    },
-    {
-      "identity": "6311",
-      "display": "Xt300"
-    },
-    {
-      "identity": "7312",
-      "display": "巴哈姆特"
+      "iterator": "stronghold_final_boss_hp",
+      "hitbox": "stronghold_final_hitbox",
+      "display": "HIM"
     }
   ]
 }

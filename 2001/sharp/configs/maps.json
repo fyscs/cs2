@@ -485,6 +485,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_boatescape777": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 1000,
+    "requiredOnline": -1,
+    "requiredPlayers": 25
+  },
   "ze_boatescape888": {
     "admin": false,
     "certainTimes": [-1],
@@ -908,6 +917,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_error": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": 35
+  },
   "ze_escape_the_eye_p": {
     "admin": false,
     "certainTimes": [-1],
@@ -1196,6 +1214,15 @@
     "requiredOnline": 600,
     "requiredPlayers": 45
   },
+  "ze_fireboy_watergirl": {
+    "admin": true,
+    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 160,
+    "nomination": true,
+    "price": 500,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
   "ze_firewall_laboratory_part1_p": {
     "admin": false,
     "certainTimes": [-1],
@@ -1349,6 +1376,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_gameshow": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 35
+  },
   "ze_gear_palace": {
     "admin": false,
     "certainTimes": [-1],
@@ -1445,6 +1481,15 @@
     "cooldown": 60,
     "nomination": false,
     "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "ze_guye_room": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
@@ -2149,6 +2194,15 @@
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": 30
+  },
+ "ze_minecraft_adventure": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
   },
  "ze_minecraft_dragon_castle": {
     "admin": false,
@@ -3986,6 +4040,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_untitled_touhou": {
+    "admin": false,
+    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 160,
+    "nomination": true,
+    "price": 500,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_upwards_p": {
     "admin": false,
     "certainTimes": [-1],
@@ -4084,6 +4147,15 @@
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": 40
+  },
+  "ze_watagi_tunnel_rewind": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 45
   },
   "ze_winter_warehouse_p": {
     "admin": false,
