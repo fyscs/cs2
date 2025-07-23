@@ -953,6 +953,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_evernight": {
+    "admin": true,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 180,
+    "nomination": true,
+    "price": 800,
+    "requiredOnline": 600,
+    "requiredPlayers": 45
+  },
   "ze_evil_mansion_p": {
     "admin": false,
     "certainTimes": [-1],
