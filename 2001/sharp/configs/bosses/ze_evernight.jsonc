@@ -27,6 +27,7 @@
       "hitbox": "Boss_1_Phys",
       "counter": "Boss_1_Hp_Overlay",
       "backup": "Boss_1_Hp_Init",
+      "reverse": true,
       "display": "暴风小学生"
     },
     {
@@ -34,6 +35,7 @@
       "hitbox": "Boss_2_Phys",
       "counter": "Boss_2_Hp_Overlay",
       "backup": "Boss_2_Hp_Init",
+      "reverse": true,
       "display": "监视者"
     },
     {
@@ -41,6 +43,7 @@
       "hitbox": "Boss_3_Phys",
       "counter": "Boss_3_Hp_Overlay",
       "backup": "Boss_3_Hp_Init",
+      "reverse": true,
       "display": "监视者Max"
     }
   ]
