@@ -1,0 +1,60 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Staircase_Youmu_Health",
+      "hitbox": "Staircase_Youmu_Phys",
+      "backup": "Staircase_Youmu_HealthInit",
+      "counter": "Staircase_Youmu_HealthCount",
+      "display": "魂魄妖梦"
+    },
+
+    {
+      "iterator": "Boss_Yuyuko_Health",
+      "hitbox": "Boss_Yuyuko_Phys",
+      "backup": "Boss_Yuyuko_HealthInit",
+      "counter": "Boss_Yuyuko_HealthCount",
+      "display": "西行寺幽幽子"
+    }
+  
+  ],
+   "Monsters": [
+    {
+      "identity": "2914",
+      "display": "小妖精1"
+    },
+     {
+      "identity": "2943",
+      "display": "小妖精2"
+    },
+     {
+      "identity": "2977",
+      "display": "小妖精3"
+    },
+     {
+      "identity": "2987",
+      "display": "小妖精4"
+    }
+  ]
+}
