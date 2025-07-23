@@ -37,24 +37,20 @@
       "counter": "Boss_Yuyuko_HealthCount",
       "display": "西行寺幽幽子"
     }
-  
   ],
-   "Monsters": [
+  "Monsters": [
     {
       "identity": "2914",
       "display": "小妖精1"
     },
-
     {
       "identity": "2943",
       "display": "小妖精2"
     },
-
     {
       "identity": "2977",
       "display": "小妖精3"
     },
-
     {
       "identity": "2987",
       "display": "小妖精4"
