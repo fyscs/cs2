@@ -9,62 +9,59 @@
   // clearTimer (bool) -> 清除所有倒计时
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
-{
-  "不死者之王:终焉之时到了!亵渎者,停止胡闹吧!": {
-    "translation": "不死者之王:终焉之时到了!亵渎者,停止胡闹吧!"
-  },
-  "世界级道具:倾国倾城": {
-    "translation": "世界级道具:倾国倾城"
-  },
-  "第六位阶:火焰之翼": {
-    "translation": "第六位阶:火焰之翼"
-  },
-  "ZE_OVERLORD Chapter III": {
-    "translation": "ZE_OVERLORD Chapter III"
-  },
-  "纳萨力克的亡灵......我无意亵渎此地......愿你安息": {
-    "translation": "纳萨力克的亡灵......我无意亵渎此地......愿你安息"
-  },
-  "ZE_OVERLORD Chapter IV MAP BY <佐贺> <Riggin>": {
-    "translation": "ZE_OVERLORD Chapter IV MAP BY <佐贺> <Riggin>"
-  },
-  "塔其米:你执意要踏足此地么?": {
-    "translation": "塔其米:你执意要踏足此地么?"
-  },
-  "塔其米:亵渎者,你会后悔的": {
-    "translation": "塔其米:亵渎者,你会后悔的"
-  },
-  "雅儿贝德:亵渎者,在地狱之火中安息吧!": {
-    "translation": "雅儿贝德:亵渎者,在地狱之火中安息吧!"
-  },
-  "ZE_OVERLORD Chapter II": {
-    "translation": "ZE_OVERLORD Chapter II"
-  },
-  "封印纳萨利里克的亡灵于坟墓之内": {
-    "translation": "封印纳萨利里克的亡灵于坟墓之内"
-  },
-  "ZE_OVERLORD Chapter I": {
-    "translation": "ZE_OVERLORD Chapter I"
-  },
-  "ZE_OVERLORD": {
-    "translation": "ZE_OVERLORD"
-  },
-  "25S": {
-    "translation": "25S"
-  },
-  "30S": {
-    "translation": "30S"
-  },
-  "40S": {
-    "translation": "40S"
-  },
-  "20S": {
-    "translation": "20S"
-  },
-  "10S": {
-    "translation": "10S"
-  },
-  "60S": {
-    "translation": "60S"
+  {
+    "不死者之王:终焉之时到了!亵渎者,停止胡闹吧!": {
+      "translation": "不死者之王:终焉之时到了!亵渎者,停止胡闹吧!"
+    },
+    "ZE_OVERLORD Chapter III": {
+      "translation": "纳萨力克大坟墓 章节三"
+    },
+    "纳萨力克的亡灵......我无意亵渎此地......愿你安息": {
+      "translation": "纳萨力克的亡灵......我无意亵渎此地......愿你安息"
+    },
+    "ZE_OVERLORD Chapter IV MAP BY <佐贺> <Riggin>": {
+      "translation": "纳萨力克大坟墓 章节四 地图作者 <佐贺> <Riggin>"
+    },
+    "塔其米:你执意要踏足此地么?": {
+      "translation": "塔其米:你执意要踏足此地么?"
+    },
+    "塔其米:亵渎者,你会后悔的": {
+      "translation": "塔其米:亵渎者,你会后悔的"
+    },
+    "雅儿贝德:亵渎者,在地狱之火中安息吧!": {
+      "translation": "雅儿贝德:亵渎者,在地狱之火中安息吧!"
+    },
+    "ZE_OVERLORD Chapter II": {
+      "translation": "纳萨力克大坟墓 章节二"
+    },
+    "封印纳萨利里克的亡灵于坟墓之内": {
+      "translation": "封印纳萨利里克的亡灵于坟墓之内"
+    },
+    "ZE_OVERLORD Chapter I": {
+      "translation": "纳萨力克大坟墓 章节一"
+    },
+    "ZE_OVERLORD": {
+      "translation": "纳萨力克大坟墓"
+    },
+    "测试版本": {
+      "translation": "测试版本"
+    },
+    "25S": {
+      "translation": "还剩25秒",
+    },
+    "30S": {
+      "translation": "还剩30秒",
+    },
+    "40S": {
+      "translation": "还剩40秒",
+    },
+    "20S": {
+      "translation": "还剩20秒",
+    },
+    "10S": {
+      "translation": "还剩10秒",
+    },
+    "60S": {
+      "translation": "还剩60秒",
+    }
   }
-}
