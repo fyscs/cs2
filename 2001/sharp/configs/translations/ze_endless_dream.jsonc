@@ -174,19 +174,19 @@
   },
   ">> Survive 240 seconds <<": {
     "translation": ">> Survive 240 seconds <<",
-		"blocked": true
+    "blocked": true
   },
   ">> Survive 180 seconds <<": {
-    "translation": ">> Survive 180 seconds <<"
-		"blocked": true
+    "translation": ">> Survive 180 seconds <<",
+    "blocked": true
   },
   ">> Survive 120 seconds <<": {
     "translation": ">> Survive 120 seconds <<",
-		"blocked": true
+    "blocked": true
   },
   ">> Survive 60 seconds <<": {
     "translation": ">> Survive 60 seconds <<",
-		"blocked": true
+    "blocked": true
   },
   ">> Thank you for playing! <<": {
     "translation": ">> 感谢您的游玩! <<"
@@ -235,9 +235,6 @@
   },
   ">> Admin set to rtv-Nightmare <<": {
     "translation": ">> 管理员调关至梦魇rtv关 <<"
-  },
-  ">> Admin set to rtv3 (Incomplete, change level) <<": {
-    "translation": ">> Admin set to rtv3 (Incomplete, change level) <<"
   },
   ">> Admin set to Stage Ex2 <<": {
     "translation": ">> 管理员调关至RTV2关 <<"
