@@ -74,7 +74,7 @@
   },
   {
     "id": "3507",
-    "cd": 400,
+    "cd": 600,
     "mode": 7,
     "name": "跳绳",
     "class": "func_button",
@@ -106,7 +106,7 @@
   },
   {
     "id": "3484",
-    "cd": 400,
+    "cd": 600,
     "mode": 7,
     "name": "隧道",
     "class": "func_button",

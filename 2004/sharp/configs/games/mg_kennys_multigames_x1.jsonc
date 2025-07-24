@@ -20,7 +20,7 @@
 [
   {
     "id": "13620",
-    "cd": 300,
+    "cd": 600,
     "mode": 6,
     "name": "水果忍者",
     "class": "func_button",
@@ -60,7 +60,7 @@
   },
   {
     "id": "13630",
-    "cd": 300,
+    "cd": 600,
     "mode": 1,
     "name": "传送门手雷",
     "class": "func_button",
@@ -124,7 +124,7 @@
   },
   {
     "id": "13646",
-    "cd": 300,
+    "cd": 600,
     "mode": 6,
     "name": "迷你高尔夫",
     "class": "func_button",
