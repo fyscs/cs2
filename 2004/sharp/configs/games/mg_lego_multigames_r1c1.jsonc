@@ -20,7 +20,7 @@
 [
   {
     "id": "2112",
-    "cd": 300,
+    "cd": 600,
     "mode": 0,
     "name": "小黑屋",
     "class": "func_button",
@@ -76,7 +76,7 @@
   },
   {
     "id": "2144",
-    "cd": 300,
+    "cd": 600,
     "mode": 0,
     "name": "开门杀",
     "class": "func_button",
@@ -108,7 +108,7 @@
   },
   {
     "id": "7751",
-    "cd": 300,
+    "cd": 600,
     "mode": 0,
     "name": "拆墙",
     "class": "func_button",
@@ -196,7 +196,7 @@
   },
   {
     "id": "2159",
-    "cd": 300,
+    "cd": 600,
     "mode": 0,
     "name": "原地打架",
     "class": "func_button",

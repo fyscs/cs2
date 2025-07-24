@@ -44,7 +44,7 @@
   },
   {
     "id": "1512",
-    "cd": 240,
+    "cd": 600,
     "mode": 2,
     "name": "水果忍者",
     "class": "func_button",
@@ -52,7 +52,7 @@
   },
   {
     "id": "1510",
-    "cd": 240,
+    "cd": 600,
     "mode": 0,
     "name": "爆头沙鹰",
     "class": "func_button",
@@ -60,7 +60,7 @@
   },
   {
     "id": "1520",
-    "cd": 240,
+    "cd": 600,
     "mode": 5,
     "name": "精准投掷",
     "class": "func_button",
@@ -84,7 +84,7 @@
   },
   {
     "id": "1514",
-    "cd": 480,
+    "cd": 600,
     "mode": 7,
     "name": "苦力怕",
     "class": "func_button",

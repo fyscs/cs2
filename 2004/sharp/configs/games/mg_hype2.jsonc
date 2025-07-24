@@ -28,7 +28,7 @@
   },
   {
     "id": "897",
-    "cd": 360,
+    "cd": 600,
     "mode": 9,
     "name": "打鸭子v1",
     "class": "func_button",
@@ -60,7 +60,7 @@
   },
   {
     "id": "1046",
-    "cd": 360,
+    "cd": 600,
     "mode": 6,
     "name": "炸油桶",
     "class": "func_button",
@@ -156,7 +156,7 @@
   },
   {
     "id": "1010",
-    "cd": 360,
+    "cd": 600,
     "mode": 0,
     "name": "透视a1",
     "class": "func_button",

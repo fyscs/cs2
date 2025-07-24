@@ -36,7 +36,7 @@
   },
   {
     "id": "198",
-    "cd": 300,
+    "cd": 600,
     "mode": 0,
     "name": "鸟狙塔",
     "class": "func_button",
@@ -68,7 +68,7 @@
   },
   {
     "id": "1203",
-    "cd": 300,
+    "cd": 600,
     "mode": 0,
     "name": "大狙",
     "class": "func_button",
@@ -84,7 +84,7 @@
   },
   {
     "id": "246",
-    "cd": 300,
+    "cd": 600,
     "mode": 2,
     "name": "玻璃板刀战",
     "class": "func_button",
