@@ -10,8 +10,110 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "**Spitacid**": {
-    "translation": "腐蚀喷吐<远离BOSS正面>"
+  ">>The Brake will open in 15 seconds<<": {
+    "translation": "大门15秒打开"
+  },
+  "**Hold here for 43 seconds till the water rises**": {
+    "translation": "防守43秒水上升"
+  },
+  "**Hold on,we are going to get the air,the Outfall will open in 15 seconds**": {
+    "translation": "排水口15秒打开"
+  },
+  ">>Core Bottom Entrance will open in 15 seconds<<": {
+    "translation": "核心底部入口15秒打开"
+  },
+  ">>The Core Room will open in 15 Seconds<<": {
+    "translation": "核心房间15秒打开"
+  },
+  ">>10 seconds<<": {
+    "translation": "10秒"
+  },
+  ">>Core Exit will open in 15 seconds<<": {
+    "translation": "核心出口15秒打开"
+  },
+  ">>The Brake will open in 25 seconds<<": {
+    "translation": "大门25秒打开"
+  },
+  ">>The Bottom Seal Door will open in 30 seconds<<": {
+    "translation": "底部密封门30秒打开"
+  },
+  ">>The Fence will open in 15 seconds<<": {
+    "translation": "栅栏15秒打开"
+  },
+  ">>The Medium Seal Door will open in 15 seconds<<": {
+    "translation": "中部密封门15秒打开"
+  },
+  ">>The Top Seal Door will open in 15 seconds<<": {
+    "translation": "顶部密封门15秒打开"
+  },
+  ">>The Downstairs Doors will open in 10 seconds<<": {
+    "translation": "楼下大门10秒打开"
+  },
+  ">>The door will open in 15 seconds<<": {
+    "translation": "门15秒打开"
+  },
+  "**Unlocking the second seal...Waiting for 20 seconds**": {
+    "translation": "第二道20秒"
+  },
+  "**Unlocking the first seal...Waiting for 20 seconds**": {
+    "translation": "第一道20秒"
+  },
+  "**Hold for 23 seconds till the gate open**": {
+    "translation": "防守23秒大门打开"
+  },
+  "**Cover here for 30 seconds till we open the gate**": {
+    "translation": "防守30秒来打开大门"
+  },
+  "**Hold 25 seconds**": {
+    "translation": "防守25秒"
+  },
+  "**Wait for 28 seconds**": {
+    "translation": "等待28秒"
+  },
+  "**C4 has been planted, waiting for 25 seconds**": {
+    "translation": "C4炸弹25秒爆炸"
+  },
+  "**We have lit up the core successfully,keep defending for 20 seconds till the core lift move upwards**": {
+    "translation": "继续防守20秒直到核心上升"
+  },
+  "**This is our last hold, holding for 60 seconds**": {
+    "translation": "最后防守60秒"
+  },
+  ">>The Core Exit will open in 25 seconds<<": {
+    "translation": "核心出口25秒打开"
+  },
+  ">>The Core External Gate will open in 30 seconds<<": {
+    "translation": "核心外部大门30秒打开"
+  },
+  ">>The Aisle Gate will open in 25 seconds<<": {
+    "translation": "走廊大门25秒打开"
+  },
+  ">>The Seal Door will open in 15 seconds<<": {
+    "translation": "密封门15秒打开"
+  },
+  ">>The Right Gate will open in 30 seconds<<": {
+    "translation": "右侧大门30秒打开"
+  },
+  "**Nicely done, the Core External Gate will open in 30 seconds**": {
+    "translation": "核心外部大门30秒打开"
+  },
+  ">>Wait for 10 seconds<<": {
+    "translation": "等待10秒"
+  },
+  ">>The gate will close after 30 seconds<<": {
+    "translation": "大门30秒关闭"
+  },
+  ">>Hold on 15 seconds<<": {
+    "translation": "防守15秒"
+  },
+  ">>The lift will open in 25 seconds<<": {
+    "translation": "升降梯25秒"
+  },
+  ">>The Side Doors will open in 10 seconds<<": {
+    "translation": "侧门10秒打开"
+  },
+  ">>The exit will open in 10 seconds<<": {
+    "translation": "出口10秒打开"
   },
   "**Poison Cloud**": {
     "translation": "剧毒迷雾<远离BOSS身后>"
@@ -213,9 +315,6 @@
   },
   "**Cover here till we open the gate**": {
     "translation": "在这里守住直到我们打开大门"
-  },
-  "**Hold 25 seconds**": {
-    "translation": "守住25秒"
   },
   "**The exit of the suqare is closed**": {
     "translation": "广场右边的出口被封锁了"
