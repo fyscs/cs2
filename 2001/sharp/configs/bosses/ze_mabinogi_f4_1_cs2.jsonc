@@ -25,14 +25,66 @@
     {
       "iterator": "Boss_Flandre",
       "hitbox": "co_Flandre_hitbox",
-      "backup": "",
-      "display": "Flandre"
+      "display": "芙兰朵露"
+    },
+
+    {
+      "iterator": "Boss_pepe",
+      "hitbox": "co_pepe_hitbox",
+      "display": "国服韩信"
+    },
+
+    {
+      "iterator": "Castle_Golem",
+      "hitbox": "co_golem_hitbox",
+      "display": "石头人"
     }
+
   ],
   "Monsters": [
     {
-      "display": "Pepe",
-      "identity": "961"
+      "identity": "2654",
+      "display": "红色法球"
+    },
+    {
+      "identity": "2656",
+      "display": "蓝色法球"
+    },
+    {
+      "identity": "2640",
+      "display": "紫色法球"
+    },
+    {
+      "identity": "2658",
+      "display": "绿色法球"
+    },
+    {
+      "identity": "2644",
+      "display": "白色法球1"
+    },
+    {
+      "identity": "2652",
+      "display": "白色法球2"
+    },
+    {
+      "identity": "2650",
+      "display": "白色法球3"
+    },
+    {
+      "identity": "2648",
+      "display": "白色法球4"
+    },
+    {
+      "identity": "2646",
+      "display": "白色法球5"
+    },
+    {
+      "identity": "2777",
+      "display": "藏匿钥匙的宝箱1"
+    },
+    {
+      "identity": "2779",
+      "display": "藏匿钥匙的宝箱2"
     }
   ]
 }
