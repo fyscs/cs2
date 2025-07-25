@@ -38,22 +38,19 @@
     "translation": "*** 防守20秒 ***"
   },
   "*** 5 seconds left ***": {
-    "translation": "*** 防守5秒 ***",
-    "blocked": true
+    "translation": "*** 防守5秒 ***"
   },
   "*** Door opens in 35 seconds ***": {
     "translation": "*** 大门35秒后打开 ***"
   },
   "*** 10 seconds left ***": {
-    "translation": "*** 防守10秒 ***",
-    "blocked": true
+    "translation": "*** 防守10秒 ***"
   },
   "*** Door opens in 25 seconds ***": {
     "translation": "*** 大门25秒后打开 ***"
   },
   "*** Doors open in 10 seconds ***": {
-    "translation": "*** 大门10秒后打开 ***",
-    "blocked": true
+    "translation": "*** 大门10秒后打开 ***"
   },
   "Level 3 set": {
     "translation": "水之元素已被激活"
@@ -98,8 +95,7 @@
     "translation": "烈焰元素已被激活"
   },
   "*** Hold 10 seconds ***": {
-    "translation": "*** 防守10秒 ***",
-    "blocked": true
+    "translation": "*** 防守10秒 ***"
   },
   "*** LIFT IS LEAVING IN 5 SECONDS ***": {
     "translation": "*** 电梯5秒后离开 ***"

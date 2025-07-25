@@ -20,7 +20,7 @@
 [
   {
     "id": "1596",
-    "cd": 240,
+    "cd": 480,
     "mode": 0,
     "name": "太空鸟狙",
     "class": "func_button",
@@ -84,7 +84,7 @@
   },
   {
     "id": "1608",
-    "cd": 240,
+    "cd": 480,
     "mode": 2,
     "name": "滑冰丢火",
     "class": "func_button",

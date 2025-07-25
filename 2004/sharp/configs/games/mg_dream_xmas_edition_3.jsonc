@@ -60,7 +60,7 @@
   },
   {
     "id": "233",
-    "cd": 240,
+    "cd": 600,
     "mode": 1,
     "name": "手雷",
     "class": "func_button",
@@ -92,7 +92,7 @@
   },
   {
     "id": "474",
-    "cd": 240,
+    "cd": 600,
     "mode": 0,
     "name": "圣诞礼物",
     "class": "func_button",

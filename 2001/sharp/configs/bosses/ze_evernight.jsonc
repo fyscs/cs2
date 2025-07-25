@@ -21,11 +21,30 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Proxy": true,
-  "Monsters": [
+  "Counters": [
     {
-      "identity": "9857",
-      "display": "禁地遗迹卫兵长"
+      "iterator": "Boss_1_Hp",
+      "hitbox": "Boss_1_Phys",
+      "counter": "Boss_1_Hp_Overlay",
+      "backup": "Boss_1_Hp_Init",
+      "reverse": true,
+      "display": "暴风小学生"
+    },
+    {
+      "iterator": "Boss_2_Hp",
+      "hitbox": "Boss_2_Phys",
+      "counter": "Boss_2_Hp_Overlay",
+      "backup": "Boss_2_Hp_Init",
+      "reverse": true,
+      "display": "监视者"
+    },
+    {
+      "iterator": "Boss_3_Hp",
+      "hitbox": "Boss_3_Phys",
+      "counter": "Boss_3_Hp_Overlay",
+      "backup": "Boss_3_Hp_Init",
+      "reverse": true,
+      "display": "监视者Max"
     }
   ]
 }
