@@ -92,10 +92,10 @@
     "translation": "EX 第2关已完成"
   },
   "*** AWAY ***": {
-    "translation": "AWAY"
+    "translation": "推力"
   },
   "*** WITHIN ***": {
-    "translation": "WITHIN"
+    "translation": "吸力"
   },
   "*** RUN... THE CASTLE IS COLLAPSING ***": {
     "translation": "快跑!城堡开始崩塌了..."
@@ -192,7 +192,7 @@
     "translation": "阿兹莫丹正在试图利用灵魂石的力量"
   },
   "*** DESTROY HIM! DO NOT LET HIM TAKE IT! ***": {
-    "translation": "销毁他!绝不让他得到它`"
+    "translation": "打败他!绝不让他得到它"
   },
   "*** ZOMBIES DESTROY THE CHAIN TO ASSIST AZMODAN ***": {
     "translation": "僵尸摧毁链条可以协助阿兹莫丹"
@@ -243,7 +243,7 @@
     "translation": "雷奥里克抓住了一个人类"
   },
   "*** FREE THEM OR LEORIC WILL GROW STRONGER ***": {
-    "translation": "释放他们,否则雷奥里克将变得更强"
+    "translation": "快解救他们,否则雷奥里克将变得更强"
   },
   "*** AZMODAN is shielding himself! ***": {
     "translation": "阿兹莫丹正在为自己加护"
@@ -295,10 +295,10 @@
     "translation": "毁灭"
   },
   "*** SACRIFICE ***": {
-    "translation": "牺牲"
+    "translation": "*引*"
   },
   "*** TORMENT ***": {
-    "translation": "折磨"
+    "translation": "*推*"
   },
   "** SUMMONING A PORTAL TO HELL IN 20 SECONDS **": {
     "translation": "20秒后将召唤一个通往地狱的传送门"
@@ -410,7 +410,7 @@
     "translation": "***生命窃取***"
   },
   "*** TRAITORS ***": {
-    "translation": "***背信弃义者***"
+    "translation": "***背叛***"
   },
   "*** WRATH OF THE BONE KING HAS REACHED MAX POWER ***": {
     "translation": "骨王之怒已蓄势待发"
@@ -425,7 +425,7 @@
     "translation": "快!!!"
   },
   "*** RISE ***": {
-    "translation": "*上升*"
+    "translation": "*召唤*"
   },
   "*** HOPELESSNESS ***": {
     "translation": "*绝望*"
@@ -480,9 +480,6 @@
   },
   "*** All Hell Breaks Loose... ***": {
     "translation": "一切失控..."
-  },
-  "< STRIPPER 3 LOADED >": {
-    "translation": "< STRIPPER 3 LOADED >"
   },
   "*** MAP BY HOBGOBLIN ***": {
     "translation": "地图作者:HOBGOBLIN 文本翻译:creeper_kk"
