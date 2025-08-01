@@ -26,12 +26,11 @@
       "iterator": "boss_hp",
       "hitbox": "boss_health",
       "display": "boss"
-    }
-  ],
-  "Monsters": [
+    },
     {
-      "identity": "1554",
-      "display": "绿墙"
+      "iterator": "boss_wall_hp",
+      "hitbox": "boss_move_wall",
+      "display": "Wall"
     }
   ]
 }
