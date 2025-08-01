@@ -1,0 +1,56 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "boss1_hp",
+      "hitbox": "boss1_hb",
+      "display": "B1"
+    },
+    {
+      "iterator": "boss2_hp",
+      "hitbox": "Boss2_hb",
+      "display": "B2"
+    },
+    {
+      "iterator": "Boss3_hp",
+      "hitbox": "Boss3_hb",
+      "display": "B3"
+    },
+    {
+      "iterator": "Boss4_hp",
+      "hitbox": "Boss4_hb",
+      "display": "B4"
+    },
+    {
+      "iterator": "Boss5_hp",
+      "hitbox": "Boss5_hb",
+      "display": "B5"
+    },
+    {
+      "iterator": "Boss6_hp",
+      "hitbox": "Boss6_hb",
+      "display": "B6"
+    }
+  ]
+}
