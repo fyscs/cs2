@@ -60,7 +60,7 @@
   },
   {
     "id": "2298",
-    "cd": 360,
+    "cd": 480,
     "mode": 0,
     "name": "第一滴血-兰博",
     "class": "func_button",
@@ -116,7 +116,7 @@
   },
   {
     "id": "2280",
-    "cd": 360,
+    "cd": 480,
     "mode": 2,
     "name": "斯巴达",
     "class": "func_button",

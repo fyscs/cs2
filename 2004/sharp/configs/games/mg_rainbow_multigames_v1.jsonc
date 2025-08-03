@@ -20,7 +20,7 @@
 [
   {
     "id": "554",
-    "cd": 240,
+    "cd": 480,
     "mode": 0,
     "name": "喷子",
     "class": "func_button",
@@ -44,7 +44,7 @@
   },
   {
     "id": "231",
-    "cd": 240,
+    "cd": 480,
     "mode": 0,
     "name": "对枪",
     "class": "func_button",

@@ -1,0 +1,532 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** THE BUTCHER CASTS A SHIELD ***": {
+    "translation": "屠夫释放了护盾"
+  },
+  "*** SHIELD OVER ***": {
+    "translation": "护盾效果结束"
+  },
+  "*** ZM TP IN 5 SECONDS ***": {
+    "translation": "僵尸将在5秒后传送"
+  },
+  "*** QUEST HAS BEEN COMPLETED ***": {
+    "translation": "任务已完成"
+  },
+  "*** YOU ARE THE MASTERS OF DIABLO ***": {
+    "translation": "你是暗黑破坏神的主宰..."
+  },
+  "*** Both levers pulled... ***": {
+    "translation": "所有拉杆均已触发"
+  },
+  "*** A PROJECTION OF ZOLTUN KULLE!!! ***": {
+    "translation": "画外音: A PROJECTION OF ZOLTUN KULLE!!!"
+  },
+  "*** ZM ADVANCE IN 10 SECONDS ***": {
+    "translation": "僵尸将在10秒后推进"
+  },
+  "*** Your journey continues... ***": {
+    "translation": "你的旅程仍在继续..."
+  },
+  "*** STAGE 3 COMPLETE ***": {
+    "translation": "第3关已完成"
+  },
+  "*** Dungeon entrance opens in 20 seconds ***": {
+    "translation": "通往地牢的入口将在20秒后开启"
+  },
+  "** Doors opening... ***": {
+    "translation": "门开了..."
+  },
+  "*** Zombie TP in 10 seconds ***": {
+    "translation": "僵尸们在10秒后传送"
+  },
+  "*** Left gate opens in 15 seconds ***": {
+    "translation": "左侧大门15秒后打开"
+  },
+  "*** Right gate opens in 15 seconds ***": {
+    "translation": "右侧大门15秒后打开"
+  },
+  "*** DEFEND THE STAIRS FOR 25 SECONDS ***": {
+    "translation": "在楼梯上防守25秒"
+  },
+  "*** ... ***": {
+    "translation": "..."
+  },
+  "*** STAGE 3 EX COMPLETE ***": {
+    "translation": "EX 第3关已完成"
+  },
+  "*** Soulstone acquired... escape! ***": {
+    "translation": "灵魂石已到手,跑!"
+  },
+  "*** Inner gate opens in 20 seconds ***": {
+    "translation": "更里面的大门将在20秒后打开"
+  },
+  "*** Demons overtake the top of Westmarch in 20 seconds ***": {
+    "translation": "恶魔将在20秒后占领威斯特玛上层"
+  },
+  "*** Zombies TP in 5 seconds ***": {
+    "translation": "僵尸将在5秒后传送"
+  },
+  "*** Tower elevator ascends in 35 seconds ***": {
+    "translation": "塔楼内电梯将在35秒后上升"
+  },
+  "*** Zombies are free in 10 seconds ***": {
+    "translation": "僵尸将在10秒后自由行动"
+  },
+  "*** STAGE 2 COMPLETE ***": {
+    "translation": "第2关已完成"
+  },
+  "*** You fear the worst... ***": {
+    "translation": "你预感到最糟糕的事情即将发生..."
+  },
+  "*** STAGE 2 EX COMPLETE ***": {
+    "translation": "EX 第2关已完成"
+  },
+  "*** AWAY ***": {
+    "translation": "AWAY"
+  },
+  "*** WITHIN ***": {
+    "translation": "WITHIN"
+  },
+  "*** RUN... THE CASTLE IS COLLAPSING ***": {
+    "translation": "快跑!城堡开始崩塌了..."
+  },
+  "*** Proceed with caution... ***": {
+    "translation": "请小心前行..."
+  },
+  "*** Upper gate breaks in 25 seconds ***": {
+    "translation": "上层大门将在25秒后碎裂"
+  },
+  "*** Leoric will know we are here by now... ***": {
+    "translation": "雷奥里克现在应该知道我们在这里了..."
+  },
+  "*** We need to find a way in the castle fast! ***": {
+    "translation": "我们得尽快找到进城堡的办法!"
+  },
+  "*** This place feels familiar... ***": {
+    "translation": "这个地方我感觉很眼熟..."
+  },
+  "*** ZM TP IN 10 SECONDS ***": {
+    "translation": "僵尸们在10秒后传送"
+  },
+  "*** DIABLO IS DEAD... THE END IS NEAR! ***": {
+    "translation": "迪亚布罗已死...末日即将来临!"
+  },
+  "*** SURVIVE! ***": {
+    "translation": "活下去!!!"
+  },
+  "*** 10 ***": {
+    "translation": "最后10秒",
+    "countdown": 10
+  },
+  "*** 9 ***": {
+    "translation": "*** 9 ***",
+    "blocked": true
+  },
+  "*** 8 ***": {
+    "translation": "*** 8 ***",
+    "blocked": true
+  },
+  "*** 7 ***": {
+    "translation": "*** 7 ***",
+    "blocked": true
+  },
+  "*** 6 ***": {
+    "translation": "*** 6 ***",
+    "blocked": true
+  },
+  "*** 5 ***": {
+    "translation": "*** 5 ***",
+    "blocked": true
+  },
+  "*** 4 ***": {
+    "translation": "*** 4 ***",
+    "blocked": true
+  },
+  "*** 3 ***": {
+    "translation": "*** 3 ***",
+    "blocked": true
+  },
+  "*** 2 ***": {
+    "translation": "*** 2 ***",
+    "blocked": true
+  },
+  "*** 1 ***": {
+    "translation": "*** 1 ***",
+    "blocked": true
+  },
+  "*** DIABLO IS SUMMONING THE SOULSTONE! ***": {
+    "translation": "迪亚布罗正在召唤灵魂石!"
+  },
+  "*** DESTROY IT... NOW! ***": {
+    "translation": "快打断它!现在!"
+  },
+  "*** SURVIVE ***": {
+    "translation": "活下去"
+  },
+  "*** THE ARCHANGELS CLEANSE THE WORLD IN 40 SECONDS ***": {
+    "translation": "天使将在40秒后净化世界"
+  },
+  "*** THE TRUE STORY BEGINS NOW ***": {
+    "translation": "真正的故事现在开始"
+  },
+  "*** THE ANGELS WILL BLESS YOU WITH INFINITE AMMO ***": {
+    "translation": "天使将赐予你无限弹药"
+  },
+  "*** DEFEAT DIABLO ONCE AND FOR ALL ***": {
+    "translation": "彻底消灭迪亚波罗!"
+  },
+  "*** Both gates opens in 15 seconds ***": {
+    "translation": "大门将在15秒后打开"
+  },
+  "*** AZMODAN IS TRYING TO USE THE POWER OF THE SOULSTONE ***": {
+    "translation": "阿兹莫丹正在试图利用灵魂石的力量"
+  },
+  "*** DESTROY HIM! DO NOT LET HIM TAKE IT! ***": {
+    "translation": "销毁他!绝不让他得到它`"
+  },
+  "*** ZOMBIES DESTROY THE CHAIN TO ASSIST AZMODAN ***": {
+    "translation": "僵尸摧毁链条可以协助阿兹莫丹"
+  },
+  "*** Dungeon door opens in 20 seconds ***": {
+    "translation": "地牢的大门将在20秒后打开"
+  },
+  "*** Doors opening... ***": {
+    "translation": "门开了"
+  },
+  "*** ZOMBIES ARE LET FREE ***": {
+    "translation": "僵尸们被释放了"
+  },
+  "*** Zombie TP in 20 seconds ***": {
+    "translation": "僵尸们将在20秒后传送"
+  },
+  "*** Gate Closing in 15 Seconds ***": {
+    "translation": "大门将在15秒后关闭"
+  },
+  "*** Demons from Hell have arrived! ***": {
+    "translation": "来自地狱的恶魔已到!"
+  },
+  "*** Gather items and prepare for battle! ***": {
+    "translation": "收集物品,准备战斗"
+  },
+  "*** We must protect the bridge for other survivors! ***": {
+    "translation": "为了其他人,守住这座桥"
+  },
+  "*** Opening the gates now... hold them back! ***": {
+    "translation": "正在开启大门...挡住他们!"
+  },
+  "*** Outer Gate Opens in 25 Seconds ***": {
+    "translation": "外门将在25秒后打开"
+  },
+  "*** Dungeon Gate opens in 30 seconds ***": {
+    "translation": "地牢大门将在30秒后打开"
+  },
+  "*** Eldhaime Keep Gate Opening... ***": {
+    "translation": "艾尔德海姆要塞大门正在开启"
+  },
+  "*** diablo is shielding himself! ***": {
+    "translation": "迪亚波罗正在保护自己"
+  },
+  "*** You destroyed his shield! ***": {
+    "translation": "护盾被摧毁了!"
+  },
+  "*** LEORIC CAPTURED A HUMAN ***": {
+    "translation": "雷奥里克抓住了一个人类"
+  },
+  "*** FREE THEM OR LEORIC WILL GROW STRONGER ***": {
+    "translation": "释放他们,否则雷奥里克将变得更强"
+  },
+  "*** AZMODAN is shielding himself! ***": {
+    "translation": "阿兹莫丹正在为自己加护"
+  },
+  "*** There is too many! ***": {
+    "translation": "太多了!"
+  },
+  "*** FALL BACK NOW!!! ***": {
+    "translation": "快撤退!"
+  },
+  "*** Mineshaft gate breaks in 30 seconds ***": {
+    "translation": "矿井大门将在30秒后破裂"
+  },
+  "*** STAGE 1 COMPLETE ***": {
+    "translation": "第1关已完成"
+  },
+  "*** A brazier has been lit ***": {
+    "translation": "火盆已点燃"
+  },
+  "*** Zombie TP in 15 seconds ***": {
+    "translation": "僵尸在15秒后传送"
+  },
+  "*** GATE OPENS IN 20 SECONDS ***": {
+    "translation": "大门在20秒后打开"
+  },
+  "*** ELEVATOR LEAVES IN 15 SECONDS ***": {
+    "translation": "电梯还有15秒离开"
+  },
+  "*** FENCE BREAKS IN 20 SECONDS ***": {
+    "translation": "栅栏将在20秒后破裂"
+  },
+  "*** FENCE BREAKS IN 15 SECONDS ***": {
+    "translation": "栅栏将在15秒后破裂",
+    "clearTimer": true
+  },
+  "*** SUMMONING A PORTAL IN 30 SECONDS ***": {
+    "translation": "30秒后召唤传送门"
+  },
+  "*** Inner door breaks in 20 seconds! ***": {
+    "translation": "内部的门在20秒后破裂"
+  },
+  "*** Defend! ***": {
+    "translation": "守住这里!"
+  },
+  "*** PESTILENCE ***": {
+    "translation": "瘟疫"
+  },
+  "*** DESTRUCTION ***": {
+    "translation": "毁灭"
+  },
+  "*** SACRIFICE ***": {
+    "translation": "牺牲"
+  },
+  "*** TORMENT ***": {
+    "translation": "折磨"
+  },
+  "** SUMMONING A PORTAL TO HELL IN 20 SECONDS **": {
+    "translation": "20秒后将召唤一个通往地狱的传送门"
+  },
+  "*** Westmarch City Gates open in 15 seconds ***": {
+    "translation": "威斯特玛的大门将在15秒后打开"
+  },
+  "*** Fall back into the portal hall! ***": {
+    "translation": "撤退到传送门大厅!"
+  },
+  "*** All braziers lit! ***": {
+    "translation": "所有火盆已点燃."
+  },
+  "*** GATE OPENS IN 15 SECONDS ***": {
+    "translation": "大门将在15秒后打开"
+  },
+  "*** FINAL PORTAL APPEARS IN 25 SECONDS ***": {
+    "translation": "最后一个传送门将在25秒后出现"
+  },
+  "*** Westmarch Palace has been locked down ever since King Leoric took over ***": {
+    "translation": "自从雷奥里克国王接管后,威斯特玛的宫殿就被封锁了"
+  },
+  "*** We need to find another way in and destroy his Soulstone ***": {
+    "translation": "我们需要找到另一条进入的路并摧毁他的灵魂石"
+  },
+  "*** Prepare... ***": {
+    "translation": "准备好..."
+  },
+  "*** Boat sails to Kurast in 20 seconds ***": {
+    "translation": "船将在20秒后启航前往库拉斯特"
+  },
+  "*** GATES OPEN IN 10 SECONDS ***": {
+    "translation": "门开还有10秒"
+  },
+  "** Kill all remaining zombies **": {
+    "translation": "击杀剩余僵尸"
+  },
+  "*** DOORS OPEN IN 15 SECONDS ***": {
+    "translation": "门开还有15秒"
+  },
+  "*** Hunt down Mephisto... ***": {
+    "translation": "追捕墨菲斯托..."
+  },
+  "*** He has the Soulstone! ***": {
+    "translation": "他有灵魂石!"
+  },
+  "*** We defeated him... for now... ***": {
+    "translation": "我们打败了他...暂时而言..."
+  },
+  "*** Summoning a portal in 20 seconds ***": {
+    "translation": "20秒后将召唤传送门"
+  },
+  "*** AFK TP in 20 seconds ***": {
+    "translation": "挂机传送将在20秒后开启"
+  },
+  "*** Summoning a portal in 25 seconds ***": {
+    "translation": "25秒后将召唤传送门"
+  },
+  "*** Checkpoint gates open in 5 seconds ***": {
+    "translation": "记录点的大门将在5秒后打开"
+  },
+  "*** DEATH ***": {
+    "translation": "**死亡**"
+  },
+  "*** Inner gates open in 15 seconds ***": {
+    "translation": "内部的大门将在15秒后打开"
+  },
+  "*** Inner Gate opens in 15 seconds ***": {
+    "translation": "内部的大门将在15秒后打开"
+  },
+  "*** We need Reinforcements! ***": {
+    "translation": "我们需要增员!"
+  },
+  "*** Light the Braziers! ***": {
+    "translation": "点亮这些火盆"
+  },
+  "*** The structure collapsed... ***": {
+    "translation": "这个结构瓦解了..."
+  },
+  "*** Work together to lift it up! ***": {
+    "translation": "一起合作将它抬起来!"
+  },
+  "*** You dread for what lies ahead... ***": {
+    "translation": "你对前方的一切感到恐惧"
+  },
+  "*** STAGE 1 EX COMPLETE ***": {
+    "translation": "EX 第1关已完成"
+  },
+  "*** Portal room opens in 20 seconds ***": {
+    "translation": "传送门大厅的门在20秒后打开"
+  },
+  "*** DESTINY AWAITS... ***": {
+    "translation": "命运在等待..."
+  },
+  "*** 20 ***": {
+    "translation": "20秒",
+    "countdown": 20
+  },
+  "*** ZM TP IN 20 SECONDS ***": {
+    "translation": "ZM在20秒后传送"
+  },
+  "*** ZM TP IN 15 SECONDS ***": {
+    "translation": "ZM在15秒后传送"
+  },
+  "*** AZMODAN IS IMMUNE TO NADES ***": {
+    "translation": "阿兹莫丹对手雷免疫"
+  },
+  "*** LIFESTEAL ***": {
+    "translation": "***生命窃取***"
+  },
+  "*** TRAITORS ***": {
+    "translation": "***背信弃义者***"
+  },
+  "*** WRATH OF THE BONE KING HAS REACHED MAX POWER ***": {
+    "translation": "骨王之怒已蓄势待发"
+  },
+  "*** LEORIC GROWS IN POWER!!! ***": {
+    "translation": "雷奥里克的力量在不断增长!!"
+  },
+  "*** DESTROY HIM ONCE AND FOR ALL!!! ***": {
+    "translation": "一劳永逸地摧毁他!!"
+  },
+  "*** HURRY!!! ***": {
+    "translation": "快!!!"
+  },
+  "*** RISE ***": {
+    "translation": "*上升*"
+  },
+  "*** HOPELESSNESS ***": {
+    "translation": "*绝望*"
+  },
+  "*** LEORIC GROWS STRONGER... ***": {
+    "translation": "雷奥里克变得更强..."
+  },
+  "*** BURN ***": {
+    "translation": "*燃烧*"
+  },
+  "*** Library service tunnel opens in 5 seconds ***": {
+    "translation": "图书馆通道在5秒后打开"
+  },
+  "*** Lower gate breaks in 25 seconds ***": {
+    "translation": "低处大门在25秒后破裂"
+  },
+  "*** The King kept artifacts of immense power in here... ***": {
+    "translation": "国王将无比强大的神器藏匿于此..."
+  },
+  "*** Search for the one of the Soulstones and capture it! ***": {
+    "translation": "搜索其中一颗灵魂石并夺取它!"
+  },
+  "*** Inner sewer gates break in 30 seconds ***": {
+    "translation": "内部的下水道门在30秒后破裂"
+  },
+  "*** Sewer gate breaks in 15 seconds ***": {
+    "translation": "下水道门在15秒后破裂"
+  },
+  "*** Sewer gate breaks in 5 seconds... ***": {
+    "translation": "下水道门在5秒后破裂"
+  },
+  "*** Left path chosen... ***": {
+    "translation": "左侧的道路被选定..."
+  },
+  "*** Sewer gate breaks in 10 seconds ***": {
+    "translation": "下水道门在10秒后破裂"
+  },
+  "*** Sewer gate breaks in 5 seconds ***": {
+    "translation": "下水道门在5秒后破裂"
+  },
+  "*** Right path chosen... ***": {
+    "translation": "右侧道路被选定..."
+  },
+  "*** Leoric is one step ahead... ***": {
+    "translation": "雷奥里克或许捷足先登了..."
+  },
+  "*** Lift will rise in 20 seconds ***": {
+    "translation": "电梯将在20秒后升起"
+  },
+  "***An admin has changed to level 3 extreme***": {
+    "translation": "管理员调整关卡为EX3"
+  },
+  "*** All Hell Breaks Loose... ***": {
+    "translation": "一切失控..."
+  },
+  "< STRIPPER 3 LOADED >": {
+    "translation": "< STRIPPER 3 LOADED >"
+  },
+  "*** MAP BY HOBGOBLIN ***": {
+    "translation": "地图作者:HOBGOBLIN 文本翻译:creeper_kk"
+  },
+  "*** SPECIAL THANKS ***": {
+    "translation": "特别鸣谢:"
+  },
+  "*** PASAS HOBBITTEN ISZAAR ***": {
+    "translation": "PASAS & HOBBITTEN & ISZAAR"
+  },
+  "*** 4ECHO XEHANORT KOEN ***": {
+    "translation": "4ECHO & XEHANORT & KOEN"
+  },
+  "***An admin has changed to stage 4 mode***": {
+    "translation": "管理员调整关卡为第4关"
+  },
+  "***An admin has changed to level 2 extreme***": {
+    "translation": "管理员调整关卡为EX2"
+  },
+  "***An admin has changed to stage 4 extreme***": {
+    "translation": "管理员调整关卡为EX4"
+  },
+  "***An admin has changed to level 2***": {
+    "translation": "管理员调整关卡为第2关"
+  },
+  "***An admin has changed to level 1***": {
+    "translation": "管理员调整关卡为第1关"
+  },
+  "***An admin has changed to level 1 extreme***": {
+    "translation": "管理员调整关卡为EX1"
+  },
+  "***An admin has changed to level 3***": {
+    "translation": "管理员调整关卡为第3关"
+  },
+  "*** GATE BREAKS IN 20 SECONDS ***": {
+    "translation": "门在20秒后破裂"
+  },
+  "*** PLEASE... LISTEN TO ME... ***": {
+    "translation": "请...听我说..."
+  },
+  "*** AFK TP IN 10 SECONDS ***": {
+    "translation": "10秒后挂机传送"
+  },
+  "*** Tristram gate opens in 30 seconds... ***": {
+    "translation": "特里斯特拉姆的大门将在30秒后开启"
+  }
+}

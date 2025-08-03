@@ -36,7 +36,7 @@
   },
   {
     "id": "2270",
-    "cd": 400,
+    "cd": 600,
     "mode": 0,
     "name": "透视",
     "class": "func_button",
@@ -76,7 +76,7 @@
   },
   {
     "id": "4446",
-    "cd": 400,
+    "cd": 600,
     "mode": 4,
     "name": "躲避球",
     "class": "func_button",
@@ -108,7 +108,7 @@
   },
   {
     "id": "2602",
-    "cd": 400,
+    "cd": 600,
     "mode": 7,
     "name": "生死四角",
     "class": "func_button",
