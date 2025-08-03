@@ -1512,7 +1512,7 @@
     "requiredPlayers": -1
   },
   "ze_guye_room": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 80,
     "nomination": true,
