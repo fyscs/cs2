@@ -1,0 +1,146 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "RESIST FOR 30 MORE SECONDS!": {
+    "translation": "还有30秒!"
+  },
+  "< Stage2 Complete! >": {
+    "translation": "< 第二关已完成! >"
+  },
+  "ELEVATOR RISES IN 15 SECONDS": {
+    "translation": "电梯15秒后离开"
+  },
+  "DOORS OPENING IN 30 SECONDS": {
+    "translation": "门还有30秒打开!"
+  },
+  "DOOR OPENS IN 15 SECONDS": {
+    "translation": "门还有15秒打开!"
+  },
+  "KEEP RESISTING! THE NEXT DOOR OPENS IN 20 SECONDS": {
+    "translation": "下一扇门20秒后打开"
+  },
+  "DOOR OPENS IN 30 SECONDS": {
+    "translation": "还有30秒打开"
+  },
+  "DOORS OPENING IN 25 SECONDS": {
+    "translation": "还有25秒打开"
+  },
+  "A WAY WILL OPEN IN 35 SECONDS": {
+    "translation": "道路35秒后打开"
+  },
+  "FALL BACK - DOOR IS OPENING": {
+    "translation": "撤退,门开了"
+  },
+  "TELEPORT ACTIVATES IN 20 SECONDS": {
+    "translation": "传送还有20秒启动"
+  },
+  "DOOR OPENS IN 35 SECONDS": {
+    "translation": "还有35秒开门"
+  },
+  "ELEVATOR WILL RISE IN 15 SECONDS": {
+    "translation": "电梯还有15秒上升"
+  },
+  "DOOR WILL OPEN IN 25 SECONDS": {
+    "translation": "还有25秒开门"
+  },
+  "THE DOOR WILL OPEN IN 30 SECONDS": {
+    "translation": "还有30秒打开"
+  },
+  "THE DOOR WILL OPEN IN 20 SECONDS": {
+    "translation": "还有20秒打开"
+  },
+  "A WAY WILL OPEN IN 15 SECONDS": {
+    "translation": "15秒后开路"
+  },
+  "A WAY WILL OPEN IN 25 SECONDS! KEEP RESISTING!": {
+    "translation": "道路25秒后打开"
+  },
+  "THE DOORS WILL OPEN IN 30 SECONDS": {
+    "translation": "道路30秒后打开"
+  },
+  "THE NEXT DOORS WILL OPEN IN 15 SECONDS": {
+    "translation": "下一扇门15秒后打开"
+  },
+  "ELEVATOR WILL RISE IN 30 SECONDS": {
+    "translation": "电梯30秒后离开"
+  },
+  "A WAY WILL OPEN IN 40 SECONDS!": {
+    "translation": "40秒后开路"
+  },
+  "KEEP HOLDING! 15 MORE SECONDS!": {
+    "translation": "保持防守,还有15秒"
+  },
+  "THE WAY WILL OPEN IN 20 SECONDS!": {
+    "translation": "还有20秒!"
+  },
+  "THE ELEVATOR WILL RISE IN 30 SECONDS": {
+    "translation": "电梯还有30秒离开"
+  },
+  "THE DOORS WILL OPEN IN 25 SECONDS": {
+    "translation": "还有25秒"
+  },
+  "< Stage1 Complete! >": {
+    "translation": "< 第一关已完成! >"
+  },
+  "STAGE 2 - HARMONIOUS SPATIAL CREATIONS": {
+    "translation": "第二关 - 空间创造"
+  },
+  "!!! ADMIN HAS SET LEVEL 1 !!!": {
+    "translation": "!!! 管理员设定至第一关 !!!"
+  },
+  "!!! ADMIN HAS SET LEVEL 3 !!!": {
+    "translation": "!!! 管理员设定至第三关 !!!"
+  },
+  "MAP BY GEORGE": {
+    "translation": "地图制作:GEORGE 文本翻译:Lia"
+  },
+  "THANKS TO LUFFAREN": {
+    "translation": "感谢LUFFAREN的帮助"
+  },
+  "THIS MAP IS IN ALPHA. THERE ARE ONLY THREE STAGES BUILT CURRENTLY.": {
+    "translation": "地图处于测试阶段,当前仅有三关."
+  },
+  "Cs2 ver Port by Shana": {
+    "translation": "由Shana移植至CS2"
+  },
+  "!!! ADMIN HAS SET LEVEL 2 !!!": {
+    "translation": "!!! 管理员设定至第二关 !!!"
+  },
+  "STAGE 3 - HEAVENLY SPACED CONTAINMENT": {
+    "translation": "第三关 - 终极遏制"
+  },
+  "50 SECONDS LEFT": {
+    "translation": "还有50秒"
+  },
+  "40 SECONDS LEFT": {
+    "translation": "40 SECONDS LEFT",
+    "blocked": true
+  },
+  "30 SECONDS LEFT": {
+    "translation": "30 SECONDS LEFT",
+    "blocked": true
+  },
+  "20 SECONDS LEFT": {
+    "translation": "20 SECONDS LEFT",
+    "blocked": true
+  },
+  "10 SECONDS LEFT": {
+    "translation": "10 SECONDS LEFT",
+    "blocked": true
+  },
+  "< Stage3 Complete! >": {
+    "translation": "< 第三关已完成! >"
+  },
+  "STAGE 1 - HYPER SPACE CUBE": {
+    "translation": "第一关 - 超级立方"
+  }
+}

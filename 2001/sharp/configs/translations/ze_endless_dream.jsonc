@@ -1,0 +1,263 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">> Stage 2 Completed <<": {
+    "translation": ">> 第二关已通过 <<"
+  },
+  "|| Failed ||": {
+    "translation": ">> 失败了.. <<"
+  },
+  ">> 15 seconds <<": {
+    "translation": ">> 15秒 <<"
+  },
+  ">> 5 seconds left <<": {
+    "translation": ">> 5秒 <<"
+  },
+  "** Realize **": {
+    "translation": "** 意识 **"
+  },
+  "** ZM Gravity is temporary disabled **": {
+    "translation": "** ZM黑洞暂时被禁用 **"
+  },
+  ">> 20 seconds <<": {
+    "translation": ">> 20秒 <<"
+  },
+  ">> 30 seconds <<": {
+    "translation": ">> 30秒 <<"
+  },
+  ">> Zombie teleport in 10 seconds <<": {
+    "translation": ">> 僵尸将在10秒后传送 <<"
+  },
+  ">> 25 seconds <<": {
+    "translation": ">> 25秒 <<"
+  },
+  ">> 40 seconds <<": {
+    "translation": ">> 40秒 <<"
+  },
+  ">> Stage 3 Completed <<": {
+    "translation": ">> 第三关已通过 <<"
+  },
+  "** Prevail **": {
+    "translation": "** 盛行 **"
+  },
+  "** Observe **": {
+    "translation": "** 监视 **"
+  },
+  "** Faithful **": {
+    "translation": "** 忠诚 **"
+  },
+  "** ZM Bullet is temporary disabled **": {
+    "translation": "** ZM能源球暂时被禁用 **"
+  },
+  "** Enforce **": {
+    "translation": "** 强迫 **"
+  },
+  "** Mediate **": {
+    "translation": "** 调停 **"
+  },
+  "** Satellite **": {
+    "translation": "** 卫星 **"
+  },
+  ">> 50 seconds <<": {
+    "translation": ">> 50秒 <<"
+  },
+  "** Disrupt **": {
+    "translation": "** 瓦解 **"
+  },
+  "** ZM Bullet is enabled **": {
+    "translation": "** ZM能源球已解锁 **"
+  },
+  "** ZM Gravity is enabled **": {
+    "translation": "** ZM黑洞已解锁 **"
+  },
+  "|| 60 seconds ||": {
+    "translation": ">> 60秒 <<"
+  },
+  "|| 30 seconds ||": {
+    "translation": ">> 30秒 <<"
+  },
+  "|| 10 seconds ||": {
+    "translation": ">> 10秒 <<"
+  },
+  ">> 5 seconds <<": {
+    "translation": ">> 5秒 <<"
+  },
+  ">> Door 2 | 30 seconds <<": {
+    "translation": ">> 门2将在30秒后打开 <<"
+  },
+  ">> Door 2 | 5 seconds left <<": {
+    "translation": ">> 门2将在5秒后打开 <<"
+  },
+  ">> Door 1 | 5 seconds left <<": {
+    "translation": ">> 门1将在5秒后打开 <<"
+  },
+  ">> Door 1 | 40 seconds <<": {
+    "translation": ">> 门1将在40秒后打开 <<"
+  },
+  "** Opinion+ **": {
+    "translation": "** 信仰+ **"
+  },
+  "** Disorder **": {
+    "translation": "** 扰乱 **"
+  },
+  "** Victim+ **": {
+    "translation": "** 苦难+ **"
+  },
+  "** Rejection+ **": {
+    "translation": "** 排斥+ **"
+  },
+  "** Enforce+ **": {
+    "translation": "** 强迫+ **"
+  },
+  ">> Stage 5 Completed <<": {
+    "translation": ">> 第五关已通过 <<"
+  },
+  "** Liverate **": {
+    "translation": "** 解放 **"
+  },
+  "** Friction+ **": {
+    "translation": "** 分歧+ **"
+  },
+  "** Climatic **": {
+    "translation": "** 气候 **"
+  },
+  "** Sparsely **": {
+    "translation": "** 贫乏 **"
+  },
+  "** Tranquil+ **": {
+    "translation": "** 宁静+ **"
+  },
+  "** Adverse+ **": {
+    "translation": "** 敌对+ **"
+  },
+  "** Reconcile **": {
+    "translation": "** 调和 **"
+  },
+  "** Deflect **": {
+    "translation": "** 偏转 **"
+  },
+  "|| Zombie detect ||": {
+    "translation": ">> 已检测到僵尸 <<"
+  },
+  "** Opinion **": {
+    "translation": "** 信仰 **"
+  },
+  "** Victim **": {
+    "translation": "** 苦难 **"
+  },
+  "** Rejection **": {
+    "translation": "** 排斥 **"
+  },
+  ">> 35 seconds <<": {
+    "translation": ">> 35秒 <<"
+  },
+  ">> Stage 1 Completed <<": {
+    "translation": ">> 第一关已通过 <<"
+  },
+  ">> Admin set to ZM Mode <<": {
+    "translation": ">> 管理员调关至ZM关 <<"
+  },
+  ">> Fall damage is disabled <<": {
+    "translation": ">> 摔伤已关闭 <<"
+  },
+  ">> Survive 270 seconds <<": {
+    "translation": ">> Survive 270 seconds <<"
+  },
+  ">> Survive 240 seconds <<": {
+    "translation": ">> Survive 240 seconds <<",
+    "blocked": true
+  },
+  ">> Survive 180 seconds <<": {
+    "translation": ">> Survive 180 seconds <<",
+    "blocked": true
+  },
+  ">> Survive 120 seconds <<": {
+    "translation": ">> Survive 120 seconds <<",
+    "blocked": true
+  },
+  ">> Survive 60 seconds <<": {
+    "translation": ">> Survive 60 seconds <<",
+    "blocked": true
+  },
+  ">> Thank you for playing! <<": {
+    "translation": ">> 感谢您的游玩! <<"
+  },
+  "** Tranquil **": {
+    "translation": "** 宁静 **"
+  },
+  "** Adverse **": {
+    "translation": "** 敌对 **"
+  },
+  ">> Stage 4 Completed <<": {
+    "translation": ">> 第四关已通过 <<"
+  },
+  "** Preclude **": {
+    "translation": "** 敌对 **"
+  },
+  ">> Jump <<": {
+    "translation": ">> 快跳! <<"
+  },
+  "** Friction **": {
+    "translation": "** 分歧 **"
+  },
+  ">> Admin set to Stage 5 <<": {
+    "translation": ">> 管理员调关至第五关 <<"
+  },
+  ">> Admin set to Stage 4 <<": {
+    "translation": ">> 管理员调关至第四关 <<"
+  },
+  ">> Admin set to Stage 1 <<": {
+    "translation": ">> 管理员调关至第一关 <<"
+  },
+  ">> Admin set to Stage 2 <<": {
+    "translation": ">> 管理员调关至第二关 <<"
+  },
+  ">> Admin set to Stage 3 <<": {
+    "translation": ">> 管理员调关至第三关 <<"
+  },
+  ">> rtv-Nightmare Completed <<": {
+    "translation": ">> 梦魇RTV关已通关! <<"
+  },
+  ">> Stage Ex2 Completed <<": {
+    "translation": ">> rtv2已通关! <<"
+  },
+  ">> Stage Ex Completed <<": {
+    "translation": ">> rtv1已通关! <<"
+  },
+  ">> Admin set to rtv-Nightmare <<": {
+    "translation": ">> 管理员调关至梦魇rtv关 <<"
+  },
+  ">> Admin set to Stage Ex2 <<": {
+    "translation": ">> 管理员调关至RTV2关 <<"
+  },
+  ">> Admin set to Stage Ex <<": {
+    "translation": ">> 管理员调关至RTV关 <<"
+  },
+  "** Nothing Here, Change level in Admin Room **": {
+    "translation": "** 这里一片虚无,去调关房调关吧 **"
+  },
+  "** You want a more difficult RTV stage...? **": {
+    "translation": "** 你还想玩更变态的rtv关? **"
+  },
+  "** Nightmares welcome you. **": {
+    "translation": "** 欢迎来到梦魇rtv关.. **"
+  },
+  ">> Restart round... <<": {
+    "translation": ">> 重启回合 <<"
+  },
+  ">> Admin has spawned heal items on stage 5 <<": {
+    "translation": ">> 第五关的治疗神器将在boss房前生成 <<"
+  },
+  ">> Admin has despawned heal items on stage 5 <<": {
+    "translation": ">> 第五关的治疗神器将在boss房后生成 <<"
+  }
+}
