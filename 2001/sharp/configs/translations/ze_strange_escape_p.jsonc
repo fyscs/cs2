@@ -9,4 +9,35 @@
   // clearTimer (bool) -> 清除所有倒计时
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
-{}
+{
+  "<!!!> MAP BY JB_GAMBLE <!!!>": {
+    "translation": "地图作者:JB_GAMBLE 地图翻译:圣光猫猫@Fys"
+  },
+  "<!!!> HOLD HERE <!!!>": {
+    "translation": "坚守此处!"
+  },
+  "<!!!> FALL BACK! GO! GO! <!!!>": {
+    "translation": "撤退了! 快跑!"
+  },
+  "<!!!> 5 SECONDS <!!!>": {
+    "translation": "还有5秒钟"
+  },
+  "<!!!> GET ON CHOPPER! GO! GO! <!!!>": {
+    "translation": "快上直升机!"
+  },
+  "<!!!> ZOMBIES ON CHOPPER | YOU FAILED <!!!>": {
+    "translation": "僵尸登上了直升机|你们失败了"
+  },
+  "<!!!> HUMANS WIN <!!!>": {
+    "translation": "人类获胜"
+  },
+  "<!!!> TELEPORT OPEN <!!!>": {
+    "translation": "传送已开启"
+  },
+  "<!!!> HOLD HERE! <!!!>": {
+    "translation": "坚守此处!"
+  },
+  "<!!!> ZOMBIES DETECTED | YOU FAILED <!!!>": {
+    "translation": "僵尸进来了|你们失败了"
+  }
+}
