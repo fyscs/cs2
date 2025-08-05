@@ -18,14 +18,14 @@
     "translation": "撤退,想办法到床上去"
   },
   "路被该死的乐事薯片挡住了，防守30秒。": {
-    "translation": "路被该死的乐事薯片挡住了,防守30秒",
+    "translation": "防守30秒",
     "countdown": 30
   },
   "撤退,我们能继续前进了。": {
     "translation": "撤退,我们能继续前进了"
   },
   "屋主人还玩三角洲？防守30秒。": {
-    "translation": "屋主人还玩三角洲?防守30秒",
+    "translation": "防守30秒",
     "countdown": 30
   },
   "防守40秒": {
@@ -36,7 +36,7 @@
     "translation": "似乎有什么事情要发生"
   },
   "防守30秒,我们要跳下去。": {
-    "translation": "防守30秒,我们要跳下去",
+    "translation": "防守30秒",
     "countdown": 30
   },
   "快上平台！": {
@@ -61,21 +61,21 @@
     "translation": "撤退"
   },
   "防守30秒,等待可乐消失": {
-    "translation": "防守30秒,等待可乐消失",
+    "translation": "防守30秒",
     "countdown": 30
   },
   "撤退,这些彩虹门到底是什么？": {
     "translation": "撤退,这些彩虹门到底是什么?"
   },
   "防守25秒直到怡宝瓶子消失": {
-    "translation": "防守25秒直到怡宝瓶子消失",
+    "translation": "防守25秒",
     "countdown": 25
   },
   "撤退。只是...这是什么地方？": {
     "translation": "撤退,只是...这是什么地方?"
   },
   "防守30秒，看起来小黄鸭会帮我们": {
-    "translation": "防守30秒,看起来小黄鸭会帮我们",
+    "translation": "防守30秒",
     "countdown": 30
   },
   "小黄鸭:上来吧，我带你们走": {
@@ -112,7 +112,7 @@
     "translation": "快远离飞机投放的僵尸"
   },
   "防守40秒，彩虹门会把我们送到哪？": {
-    "translation": "防守40秒,彩虹门会把我们送到哪?",
+    "translation": "防守40秒",
     "countdown": 40
   },
   "map by 佐贺": {
