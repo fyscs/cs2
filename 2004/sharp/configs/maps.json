@@ -71,7 +71,7 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
-  "mg_ke_multigame": {
+  "mg_ke16_multigame": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
