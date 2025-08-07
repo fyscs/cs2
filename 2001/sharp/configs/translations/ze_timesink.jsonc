@@ -1,0 +1,130 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** 15 SECONDS LEFT ***": {
+    "translation": "15秒"
+  },
+  "*** DOOR OPENS IN 25 SECONDS ***": {
+    "translation": "大门将25秒后打开"
+  },
+  "*** MIDDLE PLATFORM MOVING IN 30 SECONDS ***": {
+    "translation": "中心平台将在30后离开"
+  },
+  "*** PLATFORM MOVING UP IN 20 SECONDS ***": {
+    "translation": "平台将在20秒后上升"
+  },
+  "*** WAIT 10 SECONDS TO ACCESS HERE ***": {
+    "translation": "上层等待10秒"
+  },
+  "*** 40 SECONDS LEFT ***": {
+    "translation": "40秒"
+  },
+  "*** 10 SECONDS LEFT ***": {
+    "translation": "10秒"
+  },
+  "*** SMALL ROOM OPENING IN 25 SECONDS ***": {
+    "translation": "小门还有25秒开启"
+  },
+  "*** GET IN NOW ***": {
+    "translation": "快进来!"
+  },
+  "*** DEFEND UNTIL SOMETHING HAPPEN ***": {
+    "translation": "坚守!等待某事发生"
+  },
+  "*** GO RIGHT SIDE ***": {
+    "translation": "向右走"
+  },
+  "***DEFEND UNTIL THE WALL BREAKS ***": {
+    "translation": "坚守!直至三角门破碎"
+  },
+  "*** 20 SECONDS ***": {
+    "translation": "20秒"
+  },
+  "*** 5 SECONDS ***": {
+    "translation": "5秒"
+  },
+  "*** 10 SECONDS ***": {
+    "translation": "10秒"
+  },
+  "*** BOTH SIDE OPENING IN 15 SECONDS ***": {
+    "translation": "上下门将于15秒后打开"
+  },
+  "*** BACK NOW ***": {
+    "translation": "撤退!"
+  },
+  "*** KILL REMAINING ZOMBIES ***": {
+    "translation": "清除剩余的僵尸"
+  },
+  "*** 20 SECONDS LEFT ***": {
+    "translation": "还有20秒"
+  },
+  "*** JUMP DOWN ***": {
+    "translation": "跳下来!"
+  },
+  "*** FIND THE MECHANISM ON TOP ***": {
+    "translation": "找到上层的机关"
+  },
+  "*** DEFEND 4 SIDES ***": {
+    "translation": "坚守四方!"
+  },
+  "*** JUMP IN THE MIDDLE IN 15 SECONDS ***": {
+    "translation": "15秒后向中间跳"
+  },
+  "*** JUMP IN THE MIDDLE NOW ***": {
+    "translation": "现在跳进中间!"
+  },
+  "*** TOP AND BOTTOM OPENS IN 30 SECONDS ***": {
+    "translation": "上下门将于30秒后打开"
+  },
+  "*** PROLOGUE FAILED ***": {
+    "translation": "序章失败了"
+  },
+  "*** 50 SECONDS LEFT ***": {
+    "translation": "50秒"
+  },
+  "*** STAY IN THE VERY MIDDLE ***": {
+    "translation": "站在中间圆心平台"
+  },
+  "*** ZOMBIES TELEPORT AROUND THE AREA IN 10 SECONDS ***": {
+    "translation": "僵尸将会在10后传送至四周"
+  },
+  "*** EPILOGUE ***": {
+    "translation": "尾声"
+  },
+  "*** SURVIVE FOR 5 MIN ***": {
+    "translation": "生存5分钟"
+  },
+  "*** 3 MINUTES LEFT ***": {
+    "translation": "还有3分钟"
+  },
+  "*** 1 MINUTES LEFT ***": {
+    "translation": "还有1分钟"
+  },
+  "*** PROLOGUE STAGE NEXT ***": {
+    "translation": "下一关:序章"
+  },
+  "*** TIMESINK STAGE NEXT ***": {
+    "translation": "下一关:时之砂"
+  },
+  "*** EPILOGUE STAGE NEXT ***": {
+    "translation": "下一关:尾声"
+  },
+  "*** PROLOGUE ***": {
+    "translation": "序章"
+  },
+  "*** GLASS BREAKS IN 25 SECONDS ***": {
+    "translation": "玻璃25秒后破碎"
+  },
+  "*** 5 SECONDS LEFT ***": {
+    "translation": "5秒"
+  }
+}
