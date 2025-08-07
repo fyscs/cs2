@@ -3650,8 +3650,8 @@
     "cooldown": 140,
     "nomination": true,
     "price": 600,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 40
   },
   "ze_starwars_v2fix": {
     "admin": false,
