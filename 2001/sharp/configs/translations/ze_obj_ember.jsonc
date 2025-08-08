@@ -10,16 +10,31 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "-40s-": {
-    "translation": "还有40秒"
+  "-20s-": {
+    "translation": "还有20秒"
   },
   "-30s-": {
     "translation": "还有30秒"
   },
+  "-40s-": {
+    "translation": "还有40秒"
+  },
   "-60s-": {
     "translation": "还有60秒"
   },
-  "-20s-": {
-    "translation": "还有20秒"
+  "-25s-": {
+    "translation": "还有25秒"
+  },
+  "***一楼的阀门已触发***": {
+    "translation": "***一楼的阀门已触发***"
+  },
+  "***二楼的阀门已触发***": {
+    "translation": "***二楼的阀门已触发***"
+  },
+  "-35s-": {
+    "translation": "还有35秒"
+  },
+  "***Ready to Move***": {
+    "translation": "准备撤退!"
   }
 }
