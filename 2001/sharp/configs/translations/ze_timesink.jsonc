@@ -95,7 +95,7 @@
     "translation": "站在中间圆心平台"
   },
   "*** ZOMBIES TELEPORT AROUND THE AREA IN 10 SECONDS ***": {
-    "translation": "僵尸将会在10后传送至四周"
+    "translation": "僵尸将会在10秒后传送至四周"
   },
   "*** EPILOGUE ***": {
     "translation": "尾声"
@@ -128,3 +128,4 @@
     "translation": "5秒"
   }
 }
+
