@@ -165,7 +165,7 @@
     "translation": "星星马上就要消失了,快走"
   },
   ">>AFK将在15秒后开启<<": {
-    "translation": "AFK将在15秒后开启",
+    "translation": "AFK将在15秒后传送",
     "countdown": 15
   },
   ">>站在鸟笼里等待30秒传送<<": {
@@ -173,7 +173,7 @@
     "countdown": 30
   },
   ">>AFK将在3秒后开启": {
-    "translation": "AFK将在3秒后开启",
+    "translation": "AFK将在3秒后传送",
     "countdown": 3
   },
   ">>鸟笼将在5秒后上升<<": {
