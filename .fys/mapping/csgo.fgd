@@ -1376,10 +1376,30 @@
 	input UnblockNav(void) : "Stops blocking nav areas."
 ]
 
-@SolidClass base( Targetname ) = func_buyzone : 
+@SolidClass base(Trigger, Targetname ) tags( Trigger ) 
+	metadata
+	{
+		auto_apply_material = "materials/tools/toolstrigger.vmat"
+	}
+= func_buyzone : 
 	"A trigger used to define a buyzone." 
 [
-	TeamNum(integer) : "Team Num" : : "Team number associated with this buyzone."
+	TeamNum(choices) : "Which team can buy?" : 2 =
+	[
+		-1 : "No one"
+		0 : "Everyone"
+		2 : "Terrorists"
+		3 : "Counter-Terrorists"
+	]
+
+	input SetTeam_TerroristOnly(void) : "Make it so only terrorist can buy from this buyzone."
+	input SetTeam_CTOnly(void) : "Make it so only CT's can buy from this buyzone."
+	input SetTeam_AllTeams(void) : "Make it so all teams can buy from this buyzone."
+	input SetTeam_None(void) : "Make it so no teams can buy from this buyzone (this essentially disables the buyzone)."
+	input TouchTest(void) : "Tests if the trigger is being touched and fires an output based on whether the value is true or false."
+
+	output OnTouching(void) : "Fired when the TestTouch input is true (something is touching the trigger.)"
+	output OnNotTouching(void) : "Fired when the TestTouch input is not true (nothing is touching the trigger.)"
 ]
 
 @SolidClass base( GameEntity )
@@ -1397,7 +1417,12 @@
 [
 ]
 
-@SolidClass base(Targetname, EnableDisable) = func_clip_vphysics : 
+@SolidClass base(Targetname, EnableDisable) 
+metadata
+{
+	auto_apply_material = "materials/tools/toolstrigger.vmat"
+}
+= func_clip_vphysics : 
 	"A brush entity that's considered solid to vphysics." 
 [
 	filtername(filterclass) : "Filter Name" : : "Filter to use to see if activator collides with me. See filter_activator_name for more explanation. Allow means 'Allow to Block' for this entity."
