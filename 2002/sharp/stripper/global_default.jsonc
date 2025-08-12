@@ -9,6 +9,15 @@
       "targetname": "player_weapon_stripper",
       "classname": "game_player_equip",
       "spawnflags": "3"
+    },
+    {
+      "targetname": "ttt_global_player_visibility ",
+      "classname": "env_player_visibility",
+      "fadetime": "1",
+      "playerfogmaxdensitymultiplier": "1",
+      "playerfogdistancemultiplier": "1",
+      "playervisibilitystrength": "0",
+      "startdisabled": "false"
     }
   ]
 }
