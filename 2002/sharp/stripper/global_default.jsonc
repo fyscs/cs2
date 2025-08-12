@@ -29,7 +29,7 @@
       "fogstartheight": "0",
       "heightfog": "False",
       "fogfalloffexponent": "2",
-      "fogend": "384",
+      "fogend": "256",
       "fogstart": "100",
       "fogmaxopacity": "1",
       "fogstrength": "1",
