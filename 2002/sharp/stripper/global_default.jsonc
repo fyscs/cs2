@@ -11,13 +11,26 @@
       "spawnflags": "3"
     },
     {
-      "targetname": "ttt_global_player_visibility ",
+      "targetname": "ttt_global_player_visibility",
       "classname": "env_player_visibility",
       "fadetime": "1",
       "playerfogmaxdensitymultiplier": "1",
       "playerfogdistancemultiplier": "1",
       "playervisibilitystrength": "0",
       "startdisabled": "false"
+    },
+    {
+      "targetname": "ttt_global_fog",
+      "classname": "env_fog_controller",
+      "spawnflags": "1",
+      "fogenable": "false",
+      "farz": "-1",
+      "fogcolor": "0 0 0",
+      "fogcolor2": "0 0 0",
+      "fogdir": "1 0 0",
+      "fogstart": "50",
+      "fogend": "256",
+      "fogmaxdensity": "1"
     }
   ]
 }
