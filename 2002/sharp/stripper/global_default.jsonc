@@ -20,17 +20,18 @@
       "startdisabled": "false"
     },
     {
-      "targetname": "ttt_global_fog",
+      "targetname": "ttt_global_fog_controller",
       "classname": "env_fog_controller",
       "spawnflags": "1",
       "fogenable": "false",
-      "farz": "-1",
+      "farz": "1000000",
       "fogcolor": "0 0 0",
       "fogcolor2": "0 0 0",
       "fogdir": "1 0 0",
-      "fogstart": "50",
-      "fogend": "256",
-      "fogmaxdensity": "1"
+      "fogstart": "512",
+      "fogend": "1024",
+      "fogmaxdensity": "1",
+      "foglerptime": "200"
     }
   ]
 }
