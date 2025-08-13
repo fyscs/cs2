@@ -26,7 +26,7 @@
     "translation": "电梯将在25秒后打开"
   },
   "||| STAGE 2 FINISHED |||": {
-    "translation": "第二关已通过！"
+    "translation": "第二关已通过!"
   },
   "||| FALL BACK |||": {
     "translation": "快润!"
@@ -122,7 +122,7 @@
     "translation": "别让病毒扩散!"
   },
   "||| STAGE 3 FINISHED |||": {
-    "translation": "第三关已通过！"
+    "translation": "第三关已通过!"
   },
   "||| DOOR OPENS IN 20 SECONDS |||": {
     "translation": "门将在20秒后打开"
@@ -248,7 +248,7 @@
     "translation": "打破枷锁"
   },
   "||| Zombies incoming |||": {
-    "translation": "僵尸来袭！"
+    "translation": "僵尸来袭!"
   },
   "||| FREE THE SOUL |||": {
     "translation": "解放灵魂"
@@ -319,13 +319,13 @@
     "translation": "Quadralex召唤了<火焰之刃>,远离它正面!"
   },
   "||| Quadralex is channeling <Eruption> |||": {
-    "translation": "Quadralex正在引导<喷发>,靠近身后铁链以抵抗推力！"
+    "translation": "Quadralex正在引导<喷发>,靠近身后铁链以抵抗推力!"
   },
   "||| Quadralex is summoning <Dimension Burst> |||": {
     "translation": "Quadralex召唤了<维度爆发>,呆在护盾中!"
   },
   "||| Quadralex is summoning <Hell Bombard> |||": {
-    "translation": "Quadralex召唤了<地狱轰炸>,远离火焰！"
+    "translation": "Quadralex召唤了<地狱轰炸>,远离火焰!"
   },
   "||| CORE EXPLODES IN 170 SECONDS |||": {
     "translation": "核心将在170秒后爆炸!"
@@ -340,7 +340,7 @@
     "translation": "第一个安全站已关闭"
   },
   "||| OH NO THE BRIDGE IS BROKEN! |||": {
-    "translation": "oh no,桥断了！"
+    "translation": "oh no,桥断了!"
   },
   "||| DEFEND FOR 25 SECONDS |||": {
     "translation": "防守25秒"
