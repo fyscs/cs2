@@ -50,22 +50,22 @@
     "translation": "???"
   },
   "* 在此处守住30s *": {
-    "translation": "* 在此处守住30s *"
+    "translation": "* 防守30秒 *"
   },
   "* 在此处守住20 *": {
-    "translation": "* 在此处守住20 *"
+    "translation": "* 防守20秒 *"
   },
   "* 在此处守住25 *": {
-    "translation": "* 在此处守住25 *"
+    "translation": "* 防守25秒 *"
   },
   "* 在此处守住45 *": {
-    "translation": "* 在此处守住45 *"
+    "translation": "* 防守45秒 *"
   },
   "* 在此处守住15s *": {
-    "translation": "* 在此处守住15s *"
+    "translation": "* 防守15秒 *"
   },
   "** 在此处等待传送35s **": {
-    "translation": "** 在此处等待传送35s **"
+    "translation": "** 等待传送35秒 **"
   },
   "** 僵尸冰已被拾取 **": {
     "translation": "** 僵尸冰已被拾取 **"
@@ -149,25 +149,25 @@
     "translation": "** 效果:正面e为生成一个火球对僵尸造成伤害,并且每生成三次后会更变为落雷:头顶e为脚下生成黑魔纹,黑魔纹内正面e的cd为5s **"
   },
   "** 僵尸将在13s后传送至后方平台 **": {
-    "translation": "** 僵尸将在13s后传送至后方平台 **"
+    "translation": "** 僵尸将在13秒后传送至后方平台 **"
   },
   "Extreme": {
     "translation": "极限"
   },
   "* 在此处守住25s *": {
-    "translation": "* 在此处守住25s *"
+    "translation": "* 防守25秒 *"
   },
   "Hard": {
     "translation": "困难"
   },
   "* 在此处守住20s *": {
-    "translation": "* 在此处守住20s *"
+    "translation": "* 防守20秒 *"
   },
   "* 在此处守住32s *": {
-    "translation": "* 在此处守住32s *"
+    "translation": "* 防守32秒 *"
   },
   "* 在此处守住22s *": {
-    "translation": "* 在此处守住22s *"
+    "translation": "* 防守22秒 *"
   },
   "Normal": {
     "translation": "普通"
