@@ -62,12 +62,12 @@
       "backup": "Exdeath_hp_default",
       "counter": "Exdeath_shigehp",
       "hitbox": "Exdeath_hitbox",
-      "display": "艾克斯迪司"
+      "display": "艾克斯迪斯"
     },
     {
       "iterator": "laser_Exdeath_Hp",
       "hitbox": "laser_Exdeath_hitbox",
-      "display": "艾克斯迪司-终"
+      "display": "艾克斯迪斯-终"
     }
   ]
 }
