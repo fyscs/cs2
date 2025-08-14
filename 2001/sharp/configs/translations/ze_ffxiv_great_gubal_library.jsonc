@@ -11,163 +11,170 @@
 
 {
   "** 所有的僵尸神器已被禁用 **": {
-    "translation": "** 所有的僵尸神器已被禁用 **"
+    "translation": "所有的僵尸神器已被禁用"
   },
   "> 免抓已生效 <": {
-    "translation": "> 免抓已生效 <"
+    "translation": "免抓已生效"
   },
   "** 无之力已被拾取 **": {
-    "translation": "** 无之力已被拾取 **"
+    "translation": "无之力已被拾取"
   },
   "** 效果：无之力会消除已生成的所有元素神器效果，并获取最后一个元素施加强化效果（第一次使用消除元素效果，光球出现时使用会获得对应光球的效果。如没有光球也需再次使用一次使其进入CD） **": {
-    "translation": "** 效果:无之力会消除已生成的所有元素神器效果,并获取最后一个元素施加强化效果(第一次使用消除元素效果,光球出现时使用会获得对应光球的效果.如没有光球也需再次使用一次使其进入CD)**"
+    "translation": "效果:消除已生成的所有元素神器效果,并获取最后一个元素强化"
   },
   "** 无之力获取了火元素 **": {
-    "translation": "** 无之力获取了火元素 **"
+    "translation": "无之力获取了火元素"
   },
   "** 无之力获取了风元素 **": {
-    "translation": "** 无之力获取了风元素 **"
+    "translation": "无之力获取了风元素"
   },
   "** 无之力获取了冰元素 **": {
-    "translation": "** 无之力获取了冰元素 **"
+    "translation": "无之力获取了冰元素"
   },
   "** 无之力获取了电元素 **": {
-    "translation": "** 无之力获取了电元素 **"
+    "translation": "无之力获取了电元素"
   },
   "** 无之力获取了黑洞 **": {
-    "translation": "** 无之力获取了黑洞 **"
+    "translation": "无之力获取了黑洞"
   },
   "** 没有获取任何元素 **": {
-    "translation": "** 没有获取任何元素 **"
+    "translation": "没有获取任何元素"
   },
   "* 一位玩家获得了奶 *": {
-    "translation": "* 一位玩家获得了奶 *"
+    "translation": "一位玩家获得了奶"
   },
   "** 效果：治疗人类 **": {
-    "translation": "** 效果:治疗人类 **"
+    "translation": "效果:治疗人类"
   },
   "???": {
     "translation": "???"
   },
   "* 在此处守住30s *": {
-    "translation": "* 防守30秒 *"
+    "translation": "防守30秒"
   },
   "* 在此处守住20 *": {
-    "translation": "* 防守20秒 *"
+    "translation": "防守20秒"
   },
   "* 在此处守住25 *": {
-    "translation": "* 防守25秒 *"
+    "translation": "防守25秒"
   },
   "* 在此处守住45 *": {
-    "translation": "* 防守45秒 *"
+    "translation": "防守45秒"
   },
   "* 在此处守住15s *": {
-    "translation": "* 防守15秒 *"
+    "translation": "防守15秒"
   },
   "** 在此处等待传送35s **": {
-    "translation": "** 等待传送35秒 **"
+    "translation": "等待传送35秒"
   },
   "** 僵尸冰已被拾取 **": {
-    "translation": "** 僵尸冰已被拾取 **"
+    "translation": "僵尸冰已被拾取"
   },
   "** 效果：对周围的人类造成伤害并减速 **": {
-    "translation": "** 效果:对周围的人类造成伤害并减速 **"
+    "translation": "效果:对周围的人类造成伤害并减速"
+    "blocked": true
   },
   "> 一位玩家成为了骑士 <": {
-    "translation": "> 一位玩家成为了骑士 <"
+    "translation": "一位玩家成为了骑士"
   },
   "** 效果：按顺序前方依次生成推力 伤害 定身 减速 **": {
-    "translation": "** 效果:按顺序前方依次生成推力 伤害 定身 减速 **"
+    "translation": "效果:按顺序前方依次生成推力 伤害 定身 减速"
   },
   "** 僵尸沉默已被拾取 **": {
-    "translation": "** 僵尸沉默已被拾取 **"
+    "translation": "僵尸沉默已被拾取"
   },
   "** 除元素以外的神器都会给予沉默效果 **": {
-    "translation": "** 除元素以外的神器都会给予沉默效果 **"
+    "translation": "除元素以外的神器都会给予沉默效果"
+    "blocked": true
   },
   "** 僵尸盾已被拾取 **": {
-    "translation": "** 僵尸盾已被拾取 **"
+    "translation": "僵尸盾已被拾取"
   },
   "** 效果：生成原地护盾抵挡人类子弹 **": {
-    "translation": "** 效果:生成原地护盾抵挡人类子弹 **"
+    "translation": "效果:生成原地护盾抵挡人类子弹"
+    "blocked": true
   },
   "** 僵尸奶已被拾取 **": {
-    "translation": "** 僵尸奶已被拾取 **"
+    "translation": "僵尸奶已被拾取"
   },
   "** 效果：免疫手雷和火瓶的伤害并加速自身与周围的僵尸 **": {
-    "translation": "** 效果:免疫手雷和火瓶的伤害并加速自身与周围的僵尸 **"
+    "translation": "效果:免疫手雷和火瓶的伤害并加速自身与周围的僵尸"
+    "blocked": true
   },
   "** 僵尸黑洞已被拾取 **": {
-    "translation": "** 僵尸黑洞已被拾取 **"
+    "translation": "僵尸黑洞已被拾取"
   },
   "** 效果：吸取周围的人类 **": {
-    "translation": "** 效果:吸取周围的人类 **"
+    "translation": "效果:吸取周围的人类"
+    "blocked": true
   },
   "* 一位玩家获得了风元素 *": {
-    "translation": "* 一位玩家获得了风元素 *"
+    "translation": "一位玩家获得了风元素"
   },
   "** 效果：自身生成风阻挡僵尸；如再按一次会取消跟随自己变为定点风 **": {
-    "translation": "** 效果:自身生成风阻挡僵尸;如再按一次会取消跟随自己变为定点风 **"
+    "translation": "效果:自身跟随风;再按一次变为定点风"
   },
   "* 一位玩家获得了电元素 *": {
-    "translation": "* 一位玩家获得了电元素 *"
+    "translation": "一位玩家获得了电元素"
   },
   "** 效果：前方生成减速区域 **": {
-    "translation": "** 效果:前方生成减速区域 **"
+    "translation": "效果:前方生成减速区域"
   },
   "* 一位玩家获得了火元素 *": {
-    "translation": "* 一位玩家获得了火元素 *"
+    "translation": "一位玩家获得了火元素"
   },
   "** 效果：前方生成带推力的火焰并附带伤害 **": {
-    "translation": "** 效果:前方生成带推力的火焰并附带伤害 **"
+    "translation": "效果:前方推力的火焰并附带伤害"
   },
   "> 一位玩家成为了贤者 <": {
-    "translation": "> 一位玩家成为了贤者 <"
+    "translation": "一位玩家成为了贤者"
   },
   "** 效果：正面e对前方区域造成减速；头顶e恢复周围人类血量（可存储3次） **": {
-    "translation": "** 效果:正面e对前方区域造成减速;头顶e恢复周围人类血量(可存储3次) **"
+    "translation": "效果:正面e前方造成减速;头顶e恢复周围人类血量(可存储3次)"
+    "blocked": true
   },
   "* 一位玩家获得了黑洞 *": {
-    "translation": "* 一位玩家获得了黑洞 *"
+    "translation": "一位玩家获得了黑洞"
   },
   "** 效果：前方生成黑洞吸取僵尸效果结束后传送僵尸 **": {
-    "translation": "** 效果:前方生成黑洞吸取僵尸效果结束后传送僵尸 **"
+    "translation": "效果:前方生成黑洞吸取僵尸效果结束后传送僵尸"
   },
   "* 一位玩家获得了冰元素 *": {
-    "translation": "* 一位玩家获得了冰元素 *"
+    "translation": "一位玩家获得了冰元素"
   },
   "** 效果：前方生成一道冰墙 **": {
-    "translation": "** 效果:前方生成一道冰墙 **"
+    "translation": "效果:前方生成一道冰墙"
   },
   "> 一位玩家成为了召唤师 <": {
-    "translation": "> 一位玩家成为了召唤师 <"
+    "translation": "一位玩家成为了召唤师"
   },
   "> 一位玩家成为了黑魔法师 <": {
-    "translation": "> 一位玩家成为了黑魔法师 <"
+    "translation": "一位玩家成为了黑魔法师"
   },
   "** 效果：正面e为生成一个火球对僵尸造成伤害，并且每生成三次后会更变为落雷；头顶e为脚下生成黑魔纹，黑魔纹内正面e的cd为5s **": {
-    "translation": "** 效果:正面e为生成一个火球对僵尸造成伤害,并且每生成三次后会更变为落雷:头顶e为脚下生成黑魔纹,黑魔纹内正面e的cd为5s **"
+    "translation": "效果:正面e为生成一个火球对僵尸造成伤害,并且每生成三次后会更变为落雷:头顶e为脚下生成黑魔纹,黑魔纹内正面e的cd为5s"
+    "blocked": true
   },
   "** 僵尸将在13s后传送至后方平台 **": {
-    "translation": "** 僵尸将在13秒后传送至后方平台 **"
+    "translation": "僵尸将在13秒后传送至后方平台"
   },
   "Extreme": {
     "translation": "极限"
   },
   "* 在此处守住25s *": {
-    "translation": "* 防守25秒 *"
+    "translation": "防守25秒"
   },
   "Hard": {
     "translation": "困难"
   },
   "* 在此处守住20s *": {
-    "translation": "* 防守20秒 *"
+    "translation": "防守20秒"
   },
   "* 在此处守住32s *": {
-    "translation": "* 防守32秒 *"
+    "translation": "防守32秒"
   },
   "* 在此处守住22s *": {
-    "translation": "* 防守22秒 *"
+    "translation": "防守22秒"
   },
   "Normal": {
     "translation": "普通"
@@ -176,57 +183,57 @@
     "translation": "热身"
   },
   "< ze_FFXIV_Great_Gubal_Library>": {
-    "translation": "< 最终幻想14:迦巴勒幻想图书馆 >"
+    "translation": "最终幻想14:迦巴勒幻想图书馆"
   },
   "< Map by runa&MercuryQaQ >": {
-    "translation": "< 地图作者:runa&MercuryQaQ  文本:Zeyu1&圣光猫猫 >"
+    "translation": "地图作者:runa&MercuryQaQ 文本:Zeyu1&圣光猫猫"
   },
   "< Special thanks to seth and 7ychu5 for their special effects support >": {
-    "translation": "< 特别鸣谢: seth and 7ychu5 特效支持 >"
+    "translation": "特别鸣谢:seth and 7ychu5特效支持"
   },
   "< Special thanks to Tenshi and Shana for their technical help >": {
-    "translation": "< 特别鸣谢: Tenshi and Shana 技术支持 >"
+    "translation": "特别鸣谢:Tenshi and Shana技术支持"
   },
   "< Special thanks to 千音星璃 for sponsoring this map >": {
-    "translation": "< 特别鸣谢: 千音星璃 对此地图的赞助 >"
+    "translation": "特别鸣谢:千音星璃 对此地图的赞助"
   },
   "** 无之力暴雷 **": {
-    "translation": "** 无之力暴雷 **"
+    "translation": "无之力暴雷"
   },
   "** 无之力爆炎 **": {
-    "translation": "** 无之力爆炎 **"
+    "translation": "无之力爆炎"
   },
   "** 无之力冰封 **": {
-    "translation": "** 无之力冰封 **"
+    "translation": "无之力冰封"
   },
   "** ....... **": {
-    "translation": "** ....... **"
+    "translation": "......."
   },
   "** 无之力已解放 **": {
-    "translation": "** 无之力已解放 **"
+    "translation": "无之力已解放"
   },
   "> Normal <": {
-    "translation": "> 普通 <"
+    "translation": "普通"
   },
   "> Hard <": {
-    "translation": "> 困难 <"
+    "translation": "困难"
   },
   "> Viod <": {
-    "translation": "> 虚空 <"
+    "translation": "虚空"
   },
   "> Extreme <": {
-    "translation": "> 极限 <"
+    "translation": "极限"
   },
   "* 等待法阵消失 *": {
-    "translation": "* 等待法阵消失 *"
+    "translation": "等待法阵消失"
   },
   "** 无之力回归到了艾克斯迪斯体内 **": {
-    "translation": "** 无之力回归到了艾克斯迪斯体内 **"
+    "translation": "无之力回归到了艾克斯迪斯体内"
   },
   "** .......**": {
-    "translation": "** .......**"
+    "translation": "......."
   },
   "** 杀死剩余的僵尸 **": {
-    "translation": "** 杀死剩余的僵尸 **"
+    "translation": "杀死剩余的僵尸"
   }
 }
