@@ -113,6 +113,18 @@
       "delete": {
         "weapon*": "weapon_incgrenade"
       }
+    },
+    {
+      "match": {
+        "classname": "weapon_*",
+        "CanBePickedUp": "1"
+      },
+      "delete": {
+        "CanBePickedUp": "1"
+      },
+      "insert": {
+        "CanBePickedUp": "0"
+      }
     }
   ]
 }
