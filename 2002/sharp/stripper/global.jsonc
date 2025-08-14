@@ -116,11 +116,7 @@
     },
     {
       "match": {
-        "classname": "weapon_*",
-        "CanBePickedUp": "1"
-      },
-      "delete": {
-        "CanBePickedUp": "1"
+        "classname": "weapon_*"
       },
       "insert": {
         "CanBePickedUp": "0"
