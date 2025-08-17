@@ -36,5 +36,10 @@
       "fogcolor": "0 0 0",
       "startdisabled": "True"
     }
+  ],
+  "remove": [
+    {
+      "classname": "weapon_*"
+    }
   ]
 }
