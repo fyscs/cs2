@@ -121,6 +121,15 @@
       "insert": {
         "CanBePickedUp": "0"
       }
+    },
+    {
+      "match": {
+        "classname": "env_wind",
+        "gustduration": "0"
+      },
+      "insert": {
+        "gustduration": "10"
+      }
     }
   ]
 }
