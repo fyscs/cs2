@@ -10,50 +10,95 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  ">>A zombie got some power from Shiva<<": {
-    "translation": "***一位僵尸获得了冰神希瓦的力量***"
+  ">>A player has learned an ability from White Mage <<": {
+    "translation": "一位玩家成为了白魔法师"
   },
-  ">>Iron Chariot<<": {
-    "translation": "钢铁战车"
+  ">>A player has learned an ability from Astrologian <<": {
+    "translation": "一位玩家成为了占星术士"
   },
-  ">>Dalamud Dive<<": {
-    "translation": "杜拉姆俯冲"
-  },
-  ">>Lunar Dynamo<<": {
-    "translation": "月环"
-  },
-  ">>10<<": {
-    "translation": "10"
-  },
-  ">>Million Nuclear Explosionst<<": {
-    "translation": "百万核爆"
-  },
-  "|||No.1 Lunar Dynamo|||": {
-    "translation": "月环"
-  },
-  "|||No.1 Iron Chariot|||": {
-    "translation": "钢铁战车"
-  },
-  ">>Collision<<": {
-    "translation": "俯冲"
+  ">>A player has learned an ability from Bard<<": {
+    "translation": "一位玩家成为了吟游诗人"
   },
   ">>Revelation<<": {
-    "translation": "启示"
+    "translation": "天启"
+  },
+  ">>Shield<<": {
+    "translation": "护盾"
   },
   ">>Gravity<<": {
     "translation": "引力"
   },
-  ">>A zombie got some power from Titan<<": {
-    "translation": "一位僵尸获得了土神泰坦的力量"
+  ">>Fountain of Fire<<": {
+    "translation": "灵泉之炎"
   },
-  ">> Piercing Laser <<": {
-    "translation": "激光"
+  ">>BrandofPurgatory<<": {
+    "translation": "炼狱之炎"
   },
-  ">> Repelling Cannon <<": {
-    "translation": "加农炮"
+  ">>FlamesofUnforgiveness<<": {
+    "translation": "炼狱之燎火"
   },
-  ">>Provoke<<": {
-    "translation": "激发"
+  ">>A player has picked up Electric <<": {
+    "translation": "一名玩家已捡起电"
+  },
+  ">>A zombie got some power from Ifrit<<": {
+    "translation": "一位僵尸获得了火神伊弗利特的力量"
+  },
+  ">>A zombie got some power from Garuda<<": {
+    "translation": "一位僵尸获得了风神迦楼罗的力量"
+  },
+  ">>A zombie got some power from Ramuh<<": {
+    "translation": "一位僵尸获得了雷神拉姆的力量"
+  },
+  ">> Gleaming steel, take fire and descend! <<": {
+    "translation": "钢铁燃烧吧!成为我降临于此的刀剑吧!"
+  },
+  ">> Gleaming steel, plunge and take fiery edge! <<": {
+    "translation": "钢铁成为我降临于此的燃烧之剑!"
+  },
+  ">> From red moon I draw steel, in my descent to bare! <<": {
+    "translation": "我自月而来携钢铁降临于此!"
+  },
+  ">> From red moon I descend, upon burning earth to tread! <<": {
+    "translation": "我自月而来降临于此,踏过炽热之地!"
+  },  
+  ">>From red moon I descend, a hail of stars to bring! <<": {
+    "translation": "我自月而来降临于此,召唤星降之夜!"
+  },
+  ">>From on high I descend, a hail of stars to bring!<<": {
+    "translation": "我降临于此对月长啸!召唤星降之夜!"
+  },
+  ">>0<<": {
+    "translation": "0"
+  },
+  ">>1<<": {
+    "translation": "1"
+  },
+  ">>2<<": {
+    "translation": "2"
+  },
+  ">>3<<": {
+    "translation": "3"
+  },
+  ">>4<<": {
+    "translation": "4"
+  },
+  ">>5<<": {
+    "translation": "5"
+  },
+  ">>6<<": {
+    "translation": "6"
+  },
+  ">>7<<": {
+    "translation": "7"
+  },
+  ">>8<<": {
+    "translation": "8"
+  },
+  ">>9<<": {
+    "translation": "9"
+  },
+  ">>10<<": {
+    "translation": "10"
   },
   ">>Bahamut is going to destroy us with trillions of nuclear explosions<<": {
     "translation": "巴哈姆特会用数万亿核爆消灭我们"
@@ -61,59 +106,47 @@
   ">>The phoenix's shrill cry curs through the pall of desperation!<<": {
     "translation": "不死鸟尖锐的叫声在绝望的阴云中怒吼"
   },
-  ">> Gleaming steel, take fire and descend! <<": {
-    "translation": "闪耀的钢铁战车,携带着天火降临"
+  ">>Provoke<<": {
+    "translation": "激发"
   },
-  ">> Gleaming steel, plunge and take fiery edge! <<": {
-    "translation": "***直升机还有60秒到达***"
+  ">> Piercing Laser <<": {
+    "translation": "激光"
   },
-  ">> From red moon I draw steel, in my descent to bare! <<": {
-    "translation": "我从红月中汲取能量,我下方将会夷为平地"
+  ">> Repelling Cannon <<": {
+    "translation": "加农炮"
   },
-  ">> From red moon I descend, upon burning earth to tread! <<": {
-    "translation": "我从红月下降临,踏上这燃烧的大地"
+  ">>A zombie got some power from Titan<<": {
+    "translation": "一位僵尸获得了土神泰坦的力量"
   },
-  ">>From red moon I descend, a hail of stars to bring! <<": {
-    "translation": "我从红月下降临,带来星辰陨石"
+  ">>A player has learned an ability from Scholar<<": {
+    "translation": "一位玩家成为了学者"
   },
-  ">>From on high I descend, a hail of stars to bring!<<": {
-    "translation": "***我从高处降临,带来星辰陨石***"
+  ">>Collision<<": {
+    "translation": "俯冲"
   },
-  ">>A zombie got some power from Ramuh<<": {
-    "translation": "一位僵尸获得了雷神拉姆的力量"
+  "|||No.1 Lunar Dynamo|||": {
+    "translation": "月流电圈"
   },
-  ">>A zombie got some power from Garuda<<": {
-    "translation": "一位僵尸获得了风神迦楼罗的力量"
+  "|||No.1 Iron Chariot|||": {
+    "translation": "钢铁战车"
   },
-  ">>A zombie got some power from Ifrit<<": {
-    "translation": "一位僵尸获得了火神伊弗利特的力量"
+  ">>Iron Chariot<<": {
+    "translation": "钢铁战车"
   },
-  ">>A player has picked up Electric <<": {
-    "translation": "一名玩家已捡起电"
+  ">>Dalamud Dive<<": {
+    "translation": "月华冲"
   },
-  ">>Fountain of Fire<<": {
-    "translation": "地涌之火"
+  ">>Lunar Dynamo<<": {
+    "translation": "月流电圈"
   },
-  ">>Shield<<": {
-    "translation": "护盾"
+  ">>Million Nuclear Explosionst<<": {
+    "translation": "百万核爆"
   },
-  ">>BrandofPurgatory<<": {
-    "translation": "炼狱印记"
-  },
-  ">>FlamesofUnforgiveness<<": {
-    "translation": "不可饶恕之火"
-  },
-  ">>A player has learned an ability from Bard<<": {
-    "translation": "一位玩家成为了吟游诗人"
-  },
-  ">>A player has learned an ability from Astrologian <<": {
-    "translation": "一位玩家成为了占星术士"
-  },
-  ">>A player has learned an ability from White Mage <<": {
-    "translation": "一位玩家成为了白魔法师"
+  ">>A zombie got some power from Shiva<<": {
+    "translation": "一位僵尸获得了冰神希瓦的力量"
   },
   ">>Map by Runa<<": {
-    "translation": "地图作者: Runa 文本:Zeyu1"
+    "translation": "地图作者:Runa 文本:Zeyu1 & 圣光猫猫"
   },
   ">>Thanks to Tianli & Dakotec and i7 for providing models<<": {
     "translation": "特别鸣谢: Tianli & Dakotec and i7"
@@ -140,7 +173,7 @@
     "translation": "等待直到平台上升"
   },
   ">>Zombies can climb up from both sides<<": {
-    "translation": "*僵尸可以从两侧爬上去"
+    "translation": "僵尸可以从两侧爬上去"
   },
   ">>Phoenix is going to wake up in 10 seconds<<": {
     "translation": "蛮神不死鸟将在10秒后苏醒"
@@ -152,7 +185,7 @@
     "translation": "5秒后传送"
   },
   ">>Provoke Unlock <<": {
-    "translation": "Provoke Unlock"
+    "translation": "激发解锁"
   },
   ">>Look! There is a teleporter<<": {
     "translation": "这里有个传送器"
@@ -161,7 +194,7 @@
     "translation": "右边的路被堵住了!我们只能寻找其他的路了"
   },
   ">>YOU FAIL<<": {
-    "translation": "失败"
+    "translation": "战败"
   },
   ">>Defend 15s<<": {
     "translation": "防守15秒"
@@ -201,36 +234,6 @@
   },
   ">>Phoenix is going to destroy us with FlamesofRebirth<<": {
     "translation": "不死鸟将使用重生之火消灭我们"
-  },
-  ">>9<<": {
-    "translation": "9"
-  },
-  ">>8<<": {
-    "translation": "8"
-  },
-  ">>7<<": {
-    "translation": "7"
-  },
-  ">>6<<": {
-    "translation": "6"
-  },
-  ">>5<<": {
-    "translation": "5"
-  },
-  ">>4<<": {
-    "translation": "4"
-  },
-  ">>3<<": {
-    "translation": "3"
-  },
-  ">>2<<": {
-    "translation": "2"
-  },
-  ">>1<<": {
-    "translation": "1"
-  },
-  ">>0<<": {
-    "translation": "0"
   },
   ">>Bahamut<<": {
     "translation": "巴哈姆特遭遇战"
