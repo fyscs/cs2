@@ -170,6 +170,15 @@
         "classname": "weapon_usp_silencer",
         "subclass_name": "61"
       }
+    },
+    {
+      "match": {
+        "classname": "env_wind",
+        "gustduration": "0"
+      },
+      "insert": {
+        "gustduration": "10"
+      }
     }
   ]
 }
