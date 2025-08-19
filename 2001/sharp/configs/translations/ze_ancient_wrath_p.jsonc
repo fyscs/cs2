@@ -1,0 +1,363 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "||| DOOR OPENS IN 10 SECONDS |||": {
+    "translation": "门还有10秒打开"
+  },
+  "||| DOOR IS OPENING |||": {
+    "translation": "门正在打开!"
+  },
+  "||| HOLD THE ELEVATOR FOR 25 SECONDS |||": {
+    "translation": "在电梯上守住25秒"
+  },
+  "||| DOOR IS CLOSING |||": {
+    "translation": "门正在关闭"
+  },
+  "||| ELEVATOR OPENS IN 25 SECONDS |||": {
+    "translation": "电梯将在25秒后打开"
+  },
+  "||| STAGE 2 FINISHED |||": {
+    "translation": "第二关已通过!"
+  },
+  "||| FALL BACK |||": {
+    "translation": "快润!"
+  },
+  "||| HOLD FOR 30 SECONDS |||": {
+    "translation": "坚守30秒"
+  },
+  "||| HOLD FOR 20 SECONDS |||": {
+    "translation": "坚守20秒"
+  },
+  ">>NUKE<<ADMINROOM NUKE ACTIVATED>>NUKE<<": {
+    "translation": "admin激活核爆..全体处死"
+  },
+  "||| PRESS BOTH BUTTONS AT THE SAME TIME |||": {
+    "translation": "同时按下两个按钮!"
+  },
+  "||| CHAPTER 5 => DESTRUCTION |||": {
+    "translation": "第五章 => 毁灭"
+  },
+  "||| CHAPTER 6 => FEAR |||": {
+    "translation": "第六章 => 恐惧"
+  },
+  "||| CHAPTER 7 => REDEMPTION |||": {
+    "translation": "第七章 => 救赎"
+  },
+  "||| CHAPTER 8 => LIBERATION |||": {
+    "translation": "第八章 => 解放"
+  },
+  "<Stage 1>": {
+    "translation": "<第一关>"
+  },
+  "<Stage 1 - EXTREME>": {
+    "translation": "<第一关-极限模式>"
+  },
+  "<Stage 2 - EXTREME>": {
+    "translation": "<第二关-极限模式>"
+  },
+  "<Stage 2>": {
+    "translation": "<第二关>"
+  },
+  "<Stage 3 - EXTREME>": {
+    "translation": "<第三关-极限模式>"
+  },
+  "<Stage 3>": {
+    "translation": "<第三关>"
+  },
+  "<Stage 4 - EXTREME>": {
+    "translation": "<第四关-极限模式>"
+  },
+  "<Stage 4>": {
+    "translation": "<第四关>"
+  },
+  ">>Select EXTREME Stage<<": {
+    "translation": "管理员选择了极限模式"
+  },
+  ">>Select NORMAL Stage<<": {
+    "translation": "管理员选择了普通模式"
+  },
+  "||| FIND AND CARRY THE TNT TO THE TARGET |||": {
+    "translation": "找到TNT,并将它放置在目标处!"
+  },
+  "||| YOU FAILED |||": {
+    "translation": "你失败了.."
+  },
+  "||| BOTH BUTTONS WERE PRESSED |||": {
+    "translation": "两个按钮成功同时触发!"
+  },
+  "||| ELEVATOR LEAVES IN 15 SECONDS |||": {
+    "translation": "电梯还有15秒离开"
+  },
+  "||| DESTROY BOTH ELEVATOR BUTTONS |||": {
+    "translation": "摧毁两边的电梯按钮!"
+  },
+  "||| PREPARE TO FALL BACK |||": {
+    "translation": "准备跑路"
+  },
+  "||| HOLD THIS POSITION FOR 30 SECONDS |||": {
+    "translation": "坚守30秒"
+  },
+  "||| HOLD FOR 10 SECONDS |||": {
+    "translation": "坚守10秒"
+  },
+  "||| ZOMBIES TAKE THE STAIRS |||": {
+    "translation": "僵尸从楼梯上来了"
+  },
+  "||| HOLD FOR 15 SECONDS |||": {
+    "translation": "防守15秒"
+  },
+  "||| HOLD THE BRIDGE |||": {
+    "translation": "坚守桥梁"
+  },
+  "||| DONT LET THE VIRUS SPREAD |||": {
+    "translation": "别让病毒扩散!"
+  },
+  "||| STAGE 3 FINISHED |||": {
+    "translation": "第三关已通过!"
+  },
+  "||| DOOR OPENS IN 20 SECONDS |||": {
+    "translation": "门将在20秒后打开"
+  },
+  "||| ZOMBIE ESCAPED - ROUND FAILED |||": {
+    "translation": "僵尸已逃脱,你们失败了.."
+  },
+  "||| HUMANS WIN |||": {
+    "translation": "人类胜利!"
+  },
+  "||| !!!WARNING!!! DANGER FROM ABOVE |||": {
+    "translation": "警告!!!小心头顶!"
+  },
+  "||| POWER WILL BE RESTORED IN 25 SECONDS <SURVIVE> |||": {
+    "translation": "电力将在25秒后恢复"
+  },
+  "||| THE DOORS ARE OPENING |||": {
+    "translation": "门正在打开"
+  },
+  "||| AIRSTRIKE INCOMING |||": {
+    "translation": "空袭来临!"
+  },
+  "||| POWER IS RESTORED... DOORS OPEN SOON |||": {
+    "translation": "电力已恢复,门即将开启"
+  },
+  "||| THE VIRUS NEEDS TO STAY IN THE FACILITY FOR THE FINAL AIRSTRIKE |||": {
+    "translation": "病毒必须留在设施内以迎接最终的空袭"
+  },
+  "||| TRAINS WILL LEAVE IN 20 SECONDS |||": {
+    "translation": "列车将在20秒后发车"
+  },
+  "||| DEFEND ABOVE THE TRAINS |||": {
+    "translation": "在列车上面防守!"
+  },
+  "||| RUN BACK OUT THE FACILITY |||": {
+    "translation": "快跑出设施去!"
+  },
+  "||| SHOOT THE SECOND DOOR OPEN |||": {
+    "translation": "破坏第二扇门"
+  },
+  "||| SHOOT THE ENERGY BEAMS AND DEFEND THE ZOMBIES |||": {
+    "translation": "摧毁能源并防守僵尸"
+  },
+  "||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||": {
+    "translation": "传送器和通风装置15秒后重新激活"
+  },
+  "||| SHOOT THE CONTAINER |||": {
+    "translation": "摧毁容器"
+  },
+  "||| WARMUP ROUND |||": {
+    "translation": "<热身模式>"
+  },
+  "||| CHAPTER 4 => SHOWDOWN |||": {
+    "translation": "第四章 => 决斗"
+  },
+  "||| CHAPTER 3 => AWAKENING |||": {
+    "translation": "第三章 => 苏醒"
+  },
+  "||| CHAPTER 2 => SECURE |||": {
+    "translation": "第二章 => 安全"
+  },
+  "||| CHAPTER 1 => RETURN |||": {
+    "translation": "第一章 => 归来"
+  },
+  "||| ZOMBIE TRAIN - WIN DISABLE |||": {
+    "translation": "车检测到僵尸.人类失败"
+  },
+  "|||DESTROY HIM ONCE AND FOR ALL|||": {
+    "translation": "这次将他完全消灭掉!"
+  },
+  "||| Nightmare Finished |||": {
+    "translation": "噩梦结束了"
+  },
+  "||| C4 EXPLODE IN 5 SECONDS |||": {
+    "translation": "C4将在5秒后爆炸"
+  },
+  "||| C4 EXPLODE IN 15 SECONDS |||": {
+    "translation": "C4将在15秒后爆炸"
+  },
+  "||| SECOND SECURITY STATION HAS BEEN DISABLED |||": {
+    "translation": "第二安全站已关闭"
+  },
+  "||| BRIDGE EXTEND IN 20 SECONDS |||": {
+    "translation": "桥梁将在20秒后打开"
+  },
+  "||| STAGE 7 FINISHED |||": {
+    "translation": "第七关已通关!"
+  },
+  "||| C4 EXPLODE IN 10 SECONDS |||": {
+    "translation": "C4将在10秒后爆炸"
+  },
+  "||| INTERLUDE |||": {
+    "translation": "<幕间曲>"
+  },
+  "||| THE FINAL CHALLENGE |||": {
+    "translation": "最终挑战!"
+  },
+  "||| PREPARE FOR NIGHTMARE DIFFICULTY |||": {
+    "translation": "准备迎接噩梦难度吧"
+  },
+  "||| YOU PROBABLY WONT SURVIVE |||": {
+    "translation": "你可能活不下来.."
+  },
+  "||| ELEVATOR LEAVES IN 10 SECONDS |||": {
+    "translation": "电梯还有10秒离开"
+  },
+  "||| YOU WIN |||": {
+    "translation": "你获胜了!"
+  },
+  "||| FIND A WAY OUT OF THIS CAVE |||": {
+    "translation": "得找到离开洞穴的出口"
+  },
+  "||| Quadralex is summoning <Phase Shift> |||": {
+    "translation": "Quadralex正在召唤<相位偏移>,小心僵尸进攻!"
+  },
+  "||| Watch out! Grenades cant hurt him |||": {
+    "translation": "手雷对它无效"
+  },
+  "||| DOOR OPENS IN 30 SECONDS |||": {
+    "translation": "门将在30秒后打开"
+  },
+  "||| BREAK THE CHAINS |||": {
+    "translation": "打破枷锁"
+  },
+  "||| Zombies incoming |||": {
+    "translation": "僵尸来袭!"
+  },
+  "||| FREE THE SOUL |||": {
+    "translation": "解放灵魂"
+  },
+  "||| RIFT GAINS SPEED |||": {
+    "translation": "裂痕正在不断变大!"
+  },
+  "||| SURVIVE 20 SECONDS |||": {
+    "translation": "防守20秒"
+  },
+  "||| 10 SECONDS REMAINING |||": {
+    "translation": "剩余10秒!"
+  },
+  "||| Survive for 25 seconds |||": {
+    "translation": "防守25秒"
+  },
+  "<<CORE STABILIZED>>": {
+    "translation": "核心已稳定"
+  },
+  "<<25 SECONDS ADDED>>": {
+    "translation": "防守25秒"
+  },
+  "||| CORE EXPLODES IN 1 SECONDS |||": {
+    "translation": "核心将在1秒后爆炸!",
+    "blocked": true
+  },
+  "||| CORE EXPLODES IN 2 SECONDS |||": {
+    "translation": "核心将在2秒后爆炸!",
+    "blocked": true
+  },
+  "||| CORE EXPLODES IN 3 SECONDS |||": {
+    "translation": "核心将在3秒后爆炸!",
+    "blocked": true
+  },
+  "||| CORE EXPLODES IN 4 SECONDS |||": {
+    "translation": "核心将在4秒后爆炸!",
+    "blocked": true
+  },
+  "||| CORE EXPLODES IN 5 SECONDS |||": {
+    "translation": "核心将在5秒后爆炸!",
+    "blocked": true
+  },
+  "||| CORE EXPLODES IN 10 SECONDS |||": {
+    "translation": "核心将在10秒后爆炸!",
+    "blocked": true
+  },
+  "||| CORE EXPLODES IN 20 SECONDS |||": {
+    "translation": "核心将在20秒后爆炸!",
+    "blocked": true
+  },
+  "||| CORE EXPLODES IN 40 SECONDS |||": {
+    "translation": "核心将在40秒后爆炸!",
+    "blocked": true
+  },
+  "||| CORE EXPLODES IN 60 SECONDS |||": {
+    "translation": "核心将在60秒后爆炸!",
+    "blocked": true
+  },
+  "||| CORE EXPLODES IN 80 SECONDS |||": {
+    "translation": "核心将在80秒后爆炸!",
+    "blocked": true
+  },
+  "||| CORE EXPLODES IN 100 SECONDS |||": {
+    "translation": "核心将在100秒后爆炸!",
+    "blocked": true
+  },
+  "||| Quadralex is summoning <Rapida> |||": {
+    "translation": "Quadralex召唤了<火焰之刃>,远离它正面!"
+  },
+  "||| Quadralex is channeling <Eruption> |||": {
+    "translation": "Quadralex正在引导<喷发>,靠近身后铁链以抵抗推力!"
+  },
+  "||| Quadralex is summoning <Dimension Burst> |||": {
+    "translation": "Quadralex召唤了<维度爆发>,呆在护盾中!"
+  },
+  "||| Quadralex is summoning <Hell Bombard> |||": {
+    "translation": "Quadralex召唤了<地狱轰炸>,远离火焰!"
+  },
+  "||| CORE EXPLODES IN 170 SECONDS |||": {
+    "translation": "核心将在170秒后爆炸!"
+  },
+  "||| ZOMBIE DETECTED |||": {
+    "translation": "侦测到僵尸"
+  },
+  "||| NIGHTMARE COMPLETE |||": {
+    "translation": "噩梦终结"
+  },
+  "||| FIRST SECURITY STATION HAS BEEN DISABLED |||": {
+    "translation": "第一个安全站已关闭"
+  },
+  "||| OH NO THE BRIDGE IS BROKEN! |||": {
+    "translation": "oh no,桥断了!"
+  },
+  "||| DEFEND FOR 25 SECONDS |||": {
+    "translation": "防守25秒"
+  },
+  "||| DEFEND FOR 10 SECONDS |||": {
+    "translation": "防守10秒"
+  },
+  "||| Watch out! Grenades can't hurt him |||": {
+    "translation": "手雷对它无效"
+  },
+  "||| ELEVATOR LEAVING IN 20 SECONDS |||": {
+    "translation": "电梯将在20秒后离开"
+  },
+  "||| Map by Struppi |||": {
+    "translation": "地图作者:Struppi;翻译:立华游理"
+  },
+  "||| Ascend in 45 seconds |||": {
+    "translation": "45秒后升空"
+  }
+}
