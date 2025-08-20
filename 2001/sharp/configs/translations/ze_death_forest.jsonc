@@ -1,0 +1,212 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<< Level 2 >>": {
+    "translation": "第二关"
+  },
+  "<< You have found the key item. >>": {
+    "translation": "你已找到关键物品."
+  },
+  "<< The talisman has led you to this cabin. >>": {
+    "translation": "符咒将你引到了这间小屋."
+  },
+  "<< This building looks highly suspicious. You need to go inside and investigate. >>": {
+    "translation": "这栋建筑看上去极为可疑.你需要进去调查."
+  },
+  "<< Warm Round >>": {
+    "translation": "热身回合"
+  },
+  "<< Survive the next 180 seconds. The ritual requires witnesses >>": {
+    "translation": "在接下来的180秒内存活.仪式需要见证者"
+  },
+  "Looks like we're safe... for now.": {
+    "translation": "看来我们安全了...暂时是."
+  },
+  "<< All talismans collected. >>": {
+    "translation": "所有符咒已收集."
+  },
+  "This talisman...could it be our way out?": {
+    "translation": "这张符咒...会不会是我们的生路?"
+  },
+  "<< You found the first talisman. Collect all of them to discover the escape route.  >>": {
+    "translation": "你找到了第一张符咒.收集全部符咒以发现逃生路线."
+  },
+  "<< 2 talismans collected. >>": {
+    "translation": "已收集2张符咒."
+  },
+  "<< 3 talismans collected. >>": {
+    "translation": "已收集3张符咒."
+  },
+  "<< 4 talismans collected. >>": {
+    "translation": "已收集4张符咒."
+  },
+  "<< 5 talismans collected. >>": {
+    "translation": "已收集5张符咒."
+  },
+  "<< 6 talismans collected. >>": {
+    "translation": "已收集6张符咒."
+  },
+  "What the hell...": {
+    "translation": "搞什么鬼..."
+  },
+  "Run! Scatter!": {
+    "translation": "快跑!散开!"
+  },
+  "I swear, nothing good comes from letting that thing get close.": {
+    "translation": "我发誓,让那东西靠近绝对没好事."
+  },
+  "<< Do you harbor hatred? >>": {
+    "translation": "你心怀仇恨吗?"
+  },
+  "<< Kill them. I will give you power. >>": {
+    "translation": "杀了他们.我会赐予你力量."
+  },
+  "<< Humans, you have four minutes to find the escape route. >>": {
+    "translation": "人类,你们有四分钟时间找到逃生路线."
+  },
+  "<< The door opens in 25 seconds... revealing the truth. >>": {
+    "translation": "大门将在25秒后开启...",
+    "countdown": 25
+  },
+  "<< Zombie spawn points have been updated. >>": {
+    "translation": "僵尸生成点已更新."
+  },
+  "<< 10 seconds remaining. >>": {
+    "translation": "剩余10秒.",
+    "countdown": 10
+  },
+  "This hammer can help us open the door...": {
+    "translation": "这把锤子能帮我们开门..."
+  },
+  "Give me a moment.": {
+    "translation": "给我点时间."
+  },
+  "It's done. Fall back.": {
+    "translation": "搞定了.后撤."
+  },
+  "It seems this door needs some time to open.": {
+    "translation": "看来这扇门需要点时间才能打开."
+  },
+  "Hold the defense until the side gate is passable.": {
+    "translation": "守住防线,直到侧门可以通行."
+  },
+  "Ruun!!!": {
+    "translation": "快跑!!!"
+  },
+  "<< The red light can illuminate the path ahead. >>": {
+    "translation": "红光能照亮前方的路."
+  },
+  "Jesus... No wonder there are countless ghosts if someone actually did this.": {
+    "translation": "天啊...如果有人真这么干了,难怪会有无数冤魂."
+  },
+  "Oh... Bad memories are surfacing.": {
+    "translation": "噢...不好的回忆涌上来了."
+  },
+  "No...no.": {
+    "translation": "不...不要."
+  },
+  "It seems we're safe now.": {
+    "translation": "看来我们现在安全了."
+  },
+  "I need 20 seconds to breach this wire mesh.": {
+    "translation": "我需要20秒来破开这铁丝网.",
+    "countdown": 20
+  },
+  "<< You need to send one brave person into the room on the right. >>": {
+    "translation": "你们需要派一个勇敢的人进入右边的房间."
+  },
+  "I need to find a place to hide... or something bad will definitely happen.": {
+    "translation": "我得找个地方躲起来...否则肯定会有坏事发生."
+  },
+  "Let me out!": {
+    "translation": "放我出去!"
+  },
+  "<< Door open >>": {
+    "translation": "门开了"
+  },
+  "<< 40 seconds. >>": {
+    "translation": "40秒."
+  },
+  "Is this... some kind of ritual?": {
+    "translation": "这是...某种仪式吗?"
+  },
+  "<< One of you must be sacrificed. Who will it be? >>": {
+    "translation": "你们中必须有一人献祭.会是谁呢?"
+  },
+  "<< Step onto the altar. The others may leave. >>": {
+    "translation": "踏上祭坛.其他人可以离开."
+  },
+  "<< Good. The door opens in 30 seconds. >>": {
+    "translation": "很好.大门将在30秒后开启.",
+    "countdown": 30
+  },
+  "<< Level 1  >>": {
+    "translation": "第一关"
+  },
+  "<< Hell Bus  >>": {
+    "translation": "地狱巴士"
+  },
+  "<< Scenario Title: Death Forest  >>": {
+    "translation": "剧本名称:死亡森林 文本翻译:Zeyu1"
+  },
+  "<< Objective: Survive one night, or find the escape route.  >>": {
+    "translation": "目标:存活一夜,或是找到逃生路线."
+  },
+  "<< Good Luck.  >>": {
+    "translation": "祝你好运."
+  },
+  "It seems we're on a highway.": {
+    "translation": "看来我们是在一条高速公路上."
+  },
+  "Damn it, the corpses in the car are coming back to life! Suppressing fire, NOW!": {
+    "translation": "该死,车里的尸体正在复活!火力压制,快!"
+  },
+  "Something...is preventing our escape.": {
+    "translation": "有什么东西...在阻止我们逃离."
+  },
+  "As if we're meant to witness an event yet to come.": {
+    "translation": "仿佛我们注定要见证一件尚未发生的事."
+  },
+  "<< 30 seconds. >>": {
+    "translation": "30秒."
+  },
+  "This passage is sealed by supernatural forces. Use the talisman to break it.": {
+    "translation": "这条通道被超自然力量封印了.用符咒破除它."
+  },
+  "<< You have uncovered the secrets buried underground. Prepare yourselves—the final challenge approaches. >>": {
+    "translation": "你们已揭露埋藏于地下的秘密.做好准备-最终挑战即将来临."
+  },
+  "Run! Don't look back!": {
+    "translation": "快跑!别回头!"
+  },
+  "<< Congratulations on finding the escape route. >>": {
+    "translation": "恭喜找到逃生路线."
+  },
+  "<< Clearing entities... Better luck next time. >>": {
+    "translation": "清除实体中...下次好运."
+  },
+  "<< Level 3 >>": {
+    "translation": "第三关"
+  },
+  "<< Rest level: You need to collect 6 notes. >>": {
+    "translation": "休息关卡:你需要收集6张笔记."
+  },
+  "<< Level 4 >>": {
+    "translation": "第四关"
+  },
+  "<< Did you think it was over? >>": {
+    "translation": "你以为结束了吗?"
+  },
+  "<< Double the luck. >>": {
+    "translation": "双倍好运."
+  }
+}
