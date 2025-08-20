@@ -90,16 +90,16 @@
     "translation": "*** 控制器漏电了 ***"
   },
   "**4 generator was destroyed**": {
-    "translation": "**四台发电机被毁**"
+    "translation": "**4号发电机被毁**"
   },
   "**3 generator was destroyed**": {
-    "translation": "**三台发电机被毁**"
+    "translation": "**3号发电机被毁**"
   },
   "**2 generator was destroyed**": {
-    "translation": "**两台发电机被毁**"
+    "translation": "**2号发电机被毁**"
   },
   "**1 generator was destroyed**": {
-    "translation": "**一台发电机被毁**"
+    "translation": "**1号发电机被毁**"
   },
   "**kill the controller**": {
     "translation": "**干掉控制器**"
@@ -124,5 +124,134 @@
   },
   "**psevdogigant IS DEAD**": {
     "translation": "**psevdogigant死了**"
+  }
+  "**Defend 25sec**": {
+    "translation": "**防守25秒**"
+  },
+  "**Defend 30sec**": {
+    "translation": "**防守30秒**"
+  },
+  "**defend 40sec**": {
+    "translation": "**防守40秒**"
+  },
+  "**Door Close**": {
+    "translation": "**门关上了**"
+  },
+  "**ZM Teleport 9s**": {
+    "translation": "**僵尸将在9秒后传送**"
+  },
+  "**ZM Teleport 5s**": {
+    "translation": "**僵尸将在5秒后传送**"
+  },
+  "**defend 25 sec**": {
+    "translation": "**防守25秒**"
+  },
+  "**Helicopter**": {
+    "translation": "**武装直升机**"
+  },
+  "**Elevator 10 second**": {
+    "translation": "**电梯将在10秒后离开**"
+  },
+  "**doors will close in 50sec**": {
+    "translation": "**门将在50秒后关上**"
+  },
+  "**doors are closing**": {
+    "translation": "**门正在关上！**"
+  },
+  "**doors will close in 10sec**": {
+    "translation": "**门将在10秒后关上**"
+  },
+  "**doors will close in 20sec**": {
+    "translation": "**门将在20秒后关上**"
+  },
+  "*** LEVEL 3 WIN ***": {
+    "translation": "***第三关胜利***"
+  },
+  "*** ZM INSIDE KILL HIM ***": {
+    "translation": "***有僵尸在终点房,赶快击杀！***"
+  },
+  "**The door will open in 25 seconds**": {
+    "translation": "**门将在25秒后打开**"
+  },
+  "**The door will open in 20 seconds**": {
+    "translation": "**门将在20秒后打开**"
+  },
+  "**Shoot Controler**": {
+    "translation": "**快攻击控制器!**"
+  },
+  "**The door will open in 15 seconds**": {
+    "translation": "**门将在15秒后打开**"
+  },
+  "*** FOUND THE PASSWORD IN LABORATORY ***": {
+    "translation": "***在图书馆寻找密码吧***"
+  },
+  "**Door will Close 15sec**": {
+    "translation": "**门将在15秒后关上**"
+  },
+  "**Door will Open 15sec**": {
+    "translation": "**门将在10秒后打开**"
+  },
+  "**Door will Open 25sec**": {
+    "translation": "**门将在25秒后打开**"
+  },
+  "**Door will Close 55 sec**": {
+    "translation": "**门将在55秒后关上**"
+  },
+  "*** LEVEL 2 WIN ***": {
+    "translation": "***第二关胜利***"
+  },
+  "**Door will Close in 15 sec**": {
+    "translation": "**门将在15秒后关上**"
+  },
+  "**Burer Nearby**": {
+    "translation": "**Burer就在附近..**"
+  },
+  "**it seems there is something wrong here**": {
+    "translation": "**这里好像出了什么问题..**"
+  },
+  "**WTF NEW MUTANT. KILL HIM**": {
+    "translation": "**woc,是新的突变体,把它杀掉!**"
+  },
+  "** Grenades do more damage. **": {
+    "translation": "** 手雷可造成更多伤害 **"
+  },
+  "**Defend 26 second**": {
+    "translation": "**防守26秒**"
+  },
+  "**the door is open**": {
+    "translation": "**门打开了**"
+  },
+  "**elevator will leave in 10 seconds**": {
+    "translation": "**电梯将在10秒后离开**"
+  },
+  "**Teleporting Zombies  in 5 sec**": {
+    "translation": "**僵尸将在5秒后传送**"
+  },
+  "**BTR will leave in 20sec**": {
+    "translation": "**装甲车将在20秒后离开**"
+  },
+  "*** LEVEL 1 WIN ***": {
+    "translation": "***第一关胜利***"
+  },
+  "**shoot the helicopter**": {
+    "translation": "**快对直升机开枪!**"
+  },
+  "**ZM Teleport in 6 second**": {
+    "translation": "**僵尸将在6秒后传送**"
+  },
+  "**Anomaly is open**": {
+    "translation": "**异常区域已打开**"
+  },
+  "**jump on the train**": {
+    "translation": "**快跳上火车!**"
+  },
+  "**hold the train for 30 sec**": {
+    "translation": "**守住火车30秒**"
+  },
+  "**he uses an energy shield.  Destroy 4 generators**": {
+    "translation": "**他使用了能量护盾,快破坏4个发电机**"
+  },
+  "**Destroy them first**": {
+    "translation": "**先消灭他们!**"
   }
 }
