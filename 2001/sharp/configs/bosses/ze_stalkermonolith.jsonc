@@ -1,0 +1,84 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "pirate_counter",
+      "hitbox": "Noctali",
+      "display": "Noctali"
+    },
+    {
+      "iterator": "psevdocounter1",
+      "hitbox": "box1gigi",
+      "display": "GiGi"
+    },
+    {
+      "iterator": "stage_3_countercontroler1",
+      "hitbox": "stage_3_phycontroler",
+      "display": "S3Controller"
+    },
+    {
+      "iterator": "stage_2_burrercounter2",
+      "hitbox": "stage_2_burrerphy2",
+      "display": "S2B2"
+    },
+    {
+      "iterator": "stage_2_burrercounter",
+      "hitbox": "stage_2_burrerphy1",
+      "display": "S2B1"
+    },
+    {
+      "iterator": "stage_1_countermonolit1",
+      "hitbox": "stage_1_phymonolit1",
+      "display": "Mono1"
+    },
+    {
+      "iterator": "stage_1_block5",
+      "hitbox": "stage_1_box1",
+      "display": "S1B5"
+    },
+    {
+      "iterator": "stage_1_gigant1",
+      "hitbox": "stage_1_modelphybox1",
+      "display": "Gigant"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "17568",
+      "display": "B2"
+    },
+    {
+      "identity": "17566",
+      "display": "B3"
+    },
+    {
+      "identity": "17564",
+      "display": "B4"
+    },
+    {
+      "identity": "18553",
+      "display": "B1"
+    }
+  ]
+}
