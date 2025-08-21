@@ -26,7 +26,8 @@
     "translation": "****地图作者: Eugenio *Motanum* Roman 翻译:白姬****"
   },
   "****Contact me at eugenio.motanum91@gmail.com****": {
-    "translation": "****通过以下邮箱联系我: eugenio.motanum91@gmail.com****"
+    "translation": "****通过以下邮箱联系我: eugenio.motanum91@gmail.com****",
+    "blocked": true
   },
   "***Zombies are out of jail***": {
     "translation": "***它们来了,我们是它们的rbq***"
