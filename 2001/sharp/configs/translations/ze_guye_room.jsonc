@@ -122,7 +122,7 @@
     "translation": "地图制作-佐贺"
   },
   "防守30秒后进入彩虹门": {
-    "translation": "防守30秒"
+    "translation": "防守30秒",
     "countdown": 30
   },
   "看起来没有路了,是死局了么？": {
@@ -132,7 +132,7 @@
     "translation": "死!者!稣!生!"
   },
   "防守30秒,这是最后一个守点了": {
-    "translation": "防守30秒"
+    "translation": "防守30秒",
     "countdown": 30
   }
 }
