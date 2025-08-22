@@ -36,14 +36,84 @@
     "translation": "似乎有什么事情要发生"
   },
   "防守30秒,我们要跳下去。": {
-    "translation": "防守30秒,我们要跳下去",
+    "translation": "防守30秒",
     "countdown": 30
   },
   "快上平台！": {
     "translation": "快上平台"
   },
+  "第一关": {
+    "translation": "第一关"
+  },
+  "第二关": {
+    "translation": "第二关"
+  },
+  "生存关卡": {
+    "translation": "生存关卡"
+  },
+  "生存180秒": {
+    "translation": "生存180秒"
+  },
+  "试玩版,不代表最终品质,map by 佐贺": {
+    "translation": "试玩版,不代表最终品质,map by 佐贺"
+  },
+  "撤退": {
+    "translation": "撤退"
+  },
+  "防守30秒,等待可乐消失": {
+    "translation": "防守30秒",
+    "countdown": 30
+  },
+  "撤退,这些彩虹门到底是什么？": {
+    "translation": "撤退,这些彩虹门到底是什么?"
+  },
+  "防守25秒直到怡宝瓶子消失": {
+    "translation": "防守25秒",
+    "countdown": 25
+  },
+  "撤退。只是...这是什么地方？": {
+    "translation": "撤退,只是...这是什么地方?"
+  },
+  "防守30秒，看起来小黄鸭会帮我们": {
+    "translation": "防守30秒",
+    "countdown": 30
+  },
+  "小黄鸭:上来吧，我带你们走": {
+    "translation": "小黄鸭:上来吧,我带你们走"
+  },
+  "那是什么？为什么电竞房里的飞船会在这？": {
+    "translation": "那是什么?为什么电竞房里的飞船会在这?"
+  },
+  "为什么水面上会有switch？这个房间是怎么回事？": {
+    "translation": "为什么水面上会有switch?这个房间是怎么回事?"
+  },
+  "地图状态:试玩版，全流程未完成": {
+    "translation": "地图状态:试玩版,全流程未完成"
+  },
   "ze_guye_room 试玩版，不代表最终品质。": {
-    "translation": "试玩版 不代表最终品质"
+    "translation": "试玩版,不代表最终品质"
+  },
+  "投弹声:注意飞机投下的炸弹": {
+    "translation": "投弹声:注意飞机投下的炸弹"
+  },
+  "激光声:远离飞机正前方": {
+    "translation": "激光声:远离飞机正前方"
+  },
+  "轰鸣声:注意躲避周围的飞船": {
+    "translation": "轰鸣声:注意躲避周围的飞船"
+  },
+  "龙车!龙车!龙车!注意!": {
+    "translation": "龙车!龙车!龙车!注意!"
+  },
+  "cialalalala:快去特效里面": {
+    "translation": "cialalalala:快去特效里面"
+  },
+  "快远离飞机投放的僵尸": {
+    "translation": "快远离飞机投放的僵尸"
+  },
+  "防守40秒，彩虹门会把我们送到哪？": {
+    "translation": "防守40秒",
+    "countdown": 40
   },
   "map by 佐贺": {
     "translation": "地图制作-佐贺"

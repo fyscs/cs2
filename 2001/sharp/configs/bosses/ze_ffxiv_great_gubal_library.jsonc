@@ -27,35 +27,47 @@
       "backup": "Everliving_Bibliotaph_hp_default",
       "counter": "Everliving_Bibliotaph_shigehp",
       "hitbox": "Everliving_Bibliotaph_hitbox",
-      "display": "Bibliotaph"
+      "display": "永世珍本"
     },
     {
       "iterator": "Demonwal_attackhp",
       "backup": "Demonwal_hp_default",
       "counter": "Demonwal_shigehp",
       "hitbox": "Demonwal_hitbox",
-      "display": "Demonwal"
+      "display": "恶魔书墙"
     },
     {
       "iterator": "Strix_attackhp",
       "backup": "Strix_hp_default",
       "counter": "Strix_shigehp",
       "hitbox": "Strix_hitbox",
-      "display": "Strix"
+      "display": "博学林鸮"
     },
     {
       "iterator": "liquid_flame_attackhp",
       "backup": "liquid_flame_hp_default",
       "counter": "liquid_flame_shigehp",
       "hitbox": "liquid_flame_hitbox",
-      "display": "FLAME"
+      "display": "液态火焰"
     },
     {
       "iterator": "Ravana_attackhp",
       "backup": "Ravana_hp_default",
       "counter": "Ravana_shigehp",
       "hitbox": "Ravana_hitbox",
-      "display": "Ravana"
+      "display": "罗波那"
+    },
+    {
+      "iterator": "Exdeath_attackhp",
+      "backup": "Exdeath_hp_default",
+      "counter": "Exdeath_shigehp",
+      "hitbox": "Exdeath_hitbox",
+      "display": "艾克斯迪斯"
+    },
+    {
+      "iterator": "laser_Exdeath_Hp",
+      "hitbox": "laser_Exdeath_hitbox",
+      "display": "艾克斯迪斯-终"
     }
   ]
 }

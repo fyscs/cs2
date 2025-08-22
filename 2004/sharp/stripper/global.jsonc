@@ -80,6 +80,15 @@
       "insert": {
         "subclass_name": "48"
       }
+    },
+    {
+      "match": {
+        "classname": "env_wind",
+        "gustduration": "0"
+      },
+      "insert": {
+        "gustduration": "10"
+      }
     }
   ]
 }

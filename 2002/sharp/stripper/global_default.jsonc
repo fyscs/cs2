@@ -9,6 +9,37 @@
       "targetname": "player_weapon_stripper",
       "classname": "game_player_equip",
       "spawnflags": "3"
+    },
+    {
+      "targetname": "ttt_global_player_visibility",
+      "classname": "env_player_visibility",
+      "fadetime": "1",
+      "playerfogmaxdensitymultiplier": "1",
+      "playerfogdistancemultiplier": "1",
+      "playervisibilitystrength": "0",
+      "startdisabled": "false"
+    },
+    {
+      "targetname": "ttt_global_fog_controller",
+      "classname": "env_gradient_fog",
+      "farz": "-1",
+      "fadetime": "1",
+      "fogverticalexponent": "1",
+      "fogendheight": "200",
+      "fogstartheight": "0",
+      "heightfog": "False",
+      "fogfalloffexponent": "2",
+      "fogend": "256",
+      "fogstart": "100",
+      "fogmaxopacity": "1",
+      "fogstrength": "1",
+      "fogcolor": "0 0 0",
+      "startdisabled": "True"
+    }
+  ],
+  "remove": [
+    {
+      "classname": "weapon_*"
     }
   ]
 }

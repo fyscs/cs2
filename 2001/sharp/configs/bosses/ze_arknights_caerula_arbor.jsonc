@@ -1,0 +1,349 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "boss1_health_counter",
+      "hitbox": "boss1_hp",
+      "display": "屠谕者<大群意志>"
+    },
+    {
+      "iterator": "boss2_health_counter1",
+      "hitbox": "boss2_hp1",
+      "display": "伊莎玛拉<腐化之心>阶段1"
+    },
+    {
+      "iterator": "boss2_health_counter3",
+      "hitbox": "boss2_hp1",
+      "display": "伊莎玛拉<腐化之心>阶段4"
+    },
+    {
+      "iterator": "boss2_dragon_health_counter1",
+      "hitbox": "boss2_dragon_hp1",
+      "display": "伊莎玛拉<腐化之心>阶段2"
+    },
+    {
+      "iterator": "boss2_dragon_health_counter2",
+      "hitbox": "boss2_dragon_hp1",
+      "display": "伊莎玛拉<腐化之心>阶段3"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "39034",
+      "display": "3层坎诺特-1"
+    },
+    {
+      "identity": "39113",
+      "display": "3层坎诺特-2"
+    },
+    {
+      "identity": "39117",
+      "display": "3层坎诺特-3"
+    },
+    {
+      "identity": "39174",
+      "display": "4层坎诺特1-1"
+    },
+    {
+      "identity": "39176",
+      "display": "4层坎诺特1-2"
+    },
+    {
+      "identity": "39178",
+      "display": "4层坎诺特1-3"
+    },
+    {
+      "identity": "39184",
+      "display": "4层坎诺特2-1"
+    },
+    {
+      "identity": "39186",
+      "display": "4层坎诺特2-2"
+    },
+    {
+      "identity": "39188",
+      "display": "4层坎诺特2-3"
+    },
+    {
+      "identity": "46737",
+      "display": "事件宝箱1"
+    },
+    {
+      "identity": "46737",
+      "display": "事件宝箱1"
+    },
+    {
+      "identity": "46740",
+      "display": "事件宝箱2"
+    },
+    {
+      "identity": "46744",
+      "display": "事件宝箱3"
+    },
+    {
+      "identity": "46747",
+      "display": "事件宝箱4"
+    },
+    {
+      "identity": "46750",
+      "display": "事件宝箱5"
+    },
+    {
+      "identity": "46753",
+      "display": "事件宝箱6"
+    },
+    {
+      "identity": "46756",
+      "display": "事件宝箱7"
+    },
+    {
+      "identity": "46759",
+      "display": "事件宝箱8"
+    },
+    {
+      "identity": "46762",
+      "display": "事件宝箱9"
+    },
+    {
+      "identity": "46765",
+      "display": "事件宝箱10"
+    },
+    {
+      "identity": "20988",
+      "display": "宝箱1"
+    },
+    {
+      "identity": "21011",
+      "display": "宝箱2"
+    },
+    {
+      "identity": "21014",
+      "display": "宝箱3"
+    },
+    {
+      "identity": "21018",
+      "display": "宝箱4"
+    },
+    {
+      "identity": "21021",
+      "display": "宝箱5"
+    },
+    {
+      "identity": "21024",
+      "display": "宝箱6"
+    },
+    {
+      "identity": "21027",
+      "display": "宝箱7"
+    },
+    {
+      "identity": "21030",
+      "display": "宝箱8"
+    },
+    {
+      "identity": "21033",
+      "display": "宝箱9"
+    },
+    {
+      "identity": "21036",
+      "display": "宝箱10"
+    },
+    {
+      "identity": "21039",
+      "display": "宝箱11"
+    },
+    {
+      "identity": "21042",
+      "display": "宝箱12"
+    },
+    {
+      "identity": "21047",
+      "display": "宝箱13"
+    },
+    {
+      "identity": "21053",
+      "display": "宝箱14"
+    },
+    {
+      "identity": "21056",
+      "display": "宝箱15"
+    },
+    {
+      "identity": "22033",
+      "display": "宝箱16"
+    },
+    {
+      "identity": "22030",
+      "display": "宝箱17"
+    },
+    {
+      "identity": "22027",
+      "display": "宝箱18"
+    },
+    {
+      "identity": "22024",
+      "display": "宝箱19"
+    },
+    {
+      "identity": "21218",
+      "display": "宝箱20"
+    },
+    {
+      "identity": "34071",
+      "display": "宝箱21"
+    },
+    {
+      "identity": "34074",
+      "display": "宝箱22"
+    },
+    {
+      "identity": "46089",
+      "display": "宝箱23"
+    },
+    {
+      "identity": "34080",
+      "display": "宝箱24"
+    },
+    {
+      "identity": "34083",
+      "display": "宝箱25"
+    },
+    {
+      "identity": "34086",
+      "display": "宝箱26"
+    },
+    {
+      "identity": "34089",
+      "display": "宝箱27"
+    },
+    {
+      "identity": "34096",
+      "display": "宝箱28"
+    },
+    {
+      "identity": "34100",
+      "display": "宝箱29"
+    },
+    {
+      "identity": "34103",
+      "display": "宝箱30"
+    },
+    {
+      "identity": "34760",
+      "display": "宝箱32"
+    },
+    {
+      "identity": "34753",
+      "display": "宝箱33"
+    },
+    {
+      "identity": "34115",
+      "display": "宝箱34"
+    },
+    {
+      "identity": "34371",
+      "display": "宝箱35"
+    },
+    {
+      "identity": "34121",
+      "display": "宝箱36"
+    },
+    {
+      "identity": "35384",
+      "display": "宝箱39"
+    },
+    {
+      "identity": "44849",
+      "display": "宝箱40"
+    },
+    {
+      "identity": "44852",
+      "display": "宝箱41"
+    },
+    {
+      "identity": "44855",
+      "display": "宝箱42"
+    },
+    {
+      "identity": "44858",
+      "display": "宝箱43"
+    },
+    {
+      "identity": "44861",
+      "display": "宝箱44"
+    },
+    {
+      "identity": "44864",
+      "display": "宝箱45"
+    },
+    {
+      "identity": "44867",
+      "display": "宝箱46"
+    },
+    {
+      "identity": "44876",
+      "display": "宝箱47"
+    },
+    {
+      "identity": "44879",
+      "display": "宝箱48"
+    },
+    {
+      "identity": "44882",
+      "display": "宝箱49"
+    },
+    {
+      "identity": "44888",
+      "display": "宝箱50"
+    },
+    {
+      "identity": "44892",
+      "display": "宝箱51"
+    },
+    {
+      "identity": "44900",
+      "display": "宝箱52"
+    },
+    {
+      "identity": "44903",
+      "display": "宝箱53"
+    },
+    {
+      "identity": "44906",
+      "display": "宝箱54"
+    },
+    {
+      "identity": "44909",
+      "display": "宝箱55"
+    },
+    {
+      "identity": "44912",
+      "display": "宝箱56"
+    },
+    {
+      "identity": "45295",
+      "display": "宝箱57"
+    }
+  ]
+}

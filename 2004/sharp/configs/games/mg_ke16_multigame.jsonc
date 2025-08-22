@@ -17,7 +17,7 @@
 // Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
 [
   {
-    "id": "6742",
+    "id": "265",
     "cd": 600,
     "mode": 10,
     "name": "足球",
@@ -25,7 +25,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "6739",
+    "id": "263",
     "cd": 600,
     "mode": 10,
     "name": "大足球",
@@ -33,7 +33,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "6560",
+    "id": "255",
     "cd": 600,
     "mode": 7,
     "name": "天线宝宝",
@@ -41,63 +41,55 @@
     "event": "OnPressed"
   },
   {
-    "id": "4560",
+    "id": "241",
     "cd": 600,
     "mode": 0,
-    "name": "买枪混战",
+    "name": "买枪混战1",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "4560",
+    "id": "238",
     "cd": 600,
     "mode": 0,
-    "name": "买枪混战",
+    "name": "买枪混战2",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "4146",
+    "id": "225",
     "cd": 600,
     "mode": 0,
-    "name": "个人战",
+    "name": "个人抽枪战1",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "4183",
+    "id": "229",
     "cd": 600,
     "mode": 0,
-    "name": "团队战",
+    "name": "团队抽枪战1",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "4555",
+    "id": "227",
     "cd": 600,
     "mode": 0,
-    "name": "买枪混战",
+    "name": "个人抽枪战2",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "4182",
+    "id": "231",
     "cd": 600,
     "mode": 0,
-    "name": "个人战",
+    "name": "团队抽枪战2",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "4185",
-    "cd": 600,
-    "mode": 0,
-    "name": "团队战",
-    "class": "func_button",
-    "event": "OnPressed"
-  },
-  {
-    "id": "155",
+    "id": "153",
     "cd": 600,
     "mode": 0,
     "name": "环形屋混战",
@@ -105,7 +97,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "148",
+    "id": "146",
     "cd": 600,
     "mode": 0,
     "name": "玻璃屋-nova",
@@ -113,7 +105,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "150",
+    "id": "148",
     "cd": 600,
     "mode": 0,
     "name": "玻璃屋-截短喷",
@@ -121,7 +113,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "496",
+    "id": "158",
     "cd": 600,
     "mode": 3,
     "name": "玻璃屋-电击枪",
@@ -129,7 +121,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "842",
+    "id": "174",
     "cd": 600,
     "mode": 0,
     "name": "1v1-左轮",
@@ -137,7 +129,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "837",
+    "id": "171",
     "cd": 600,
     "mode": 3,
     "name": "1v1-电击枪",
@@ -145,7 +137,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "844",
+    "id": "177",
     "cd": 600,
     "mode": 0,
     "name": "1v1-沙鹰",
@@ -153,7 +145,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "1388",
+    "id": "186",
     "cd": 600,
     "mode": 9,
     "name": "你追我跑-警追",
@@ -161,7 +153,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "1389",
+    "id": "188",
     "cd": 600,
     "mode": 9,
     "name": "你追我跑-匪追",
@@ -169,7 +161,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "6091",
+    "id": "251",
     "cd": 600,
     "mode": 2,
     "name": "溜冰",
