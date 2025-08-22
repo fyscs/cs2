@@ -25,52 +25,52 @@
     {
       "iterator": "Nael_HP",
       "hitbox": "Nael_hitbox",
-      "display": "Nael"
+      "display": "奈尔-神-达纳斯"
     },
     {
       "iterator": "ADS_HP",
       "hitbox": "ADS_hitbox_1",
-      "display": "ADS_1"
+      "display": "自卫系统"
     },
     {
       "iterator": "Phoenix5_HP",
       "hitbox": "Phoenix5_hitbox",
-      "display": "Phoenix_5"
+      "display": "蛮神不死鸟"
     },
     {
       "iterator": "Phoenix4_HP",
       "hitbox": "Phoenix4_hitbox",
-      "display": "Phoenix_4"
+      "display": "蛮神不死鸟"
     },
     {
       "iterator": "ADS7_Hp",
       "hitbox": "ADS7_hitbox",
-      "display": "ADS_7"
+      "display": "自卫系统"
     },
     {
       "iterator": "Nael2_Hp_math",
       "hitbox": "Nael2_hitbox",
-      "display": "Nael_2"
+      "display": "奈尔-神-达纳斯"
     },
     {
       "iterator": "P4_Boss_HP",
       "hitbox": "Nael4_Hitbox",
-      "display": "Boss"
+      "display": "奈尔-神-达纳斯"
     },
     {
       "iterator": "Phoenix1_HP",
       "hitbox": "Phoenix1_hitbox",
-      "display": "Phoenix_1"
+      "display": "蛮神不死鸟"
     }
   ],
   "Monsters": [
     {
       "identity": "1859",
-      "display": "Bahamut"
+      "display": "巴哈姆特"
     },
     {
       "identity": "1693",
-      "display": "Golden Bahamut"
+      "display": "黄金巴哈姆特"
     }
   ]
 }

@@ -113,6 +113,23 @@
       "delete": {
         "weapon*": "weapon_incgrenade"
       }
+    },
+    {
+      "match": {
+        "classname": "weapon_*"
+      },
+      "insert": {
+        "CanBePickedUp": "0"
+      }
+    },
+    {
+      "match": {
+        "classname": "env_wind",
+        "gustduration": "0"
+      },
+      "insert": {
+        "gustduration": "10"
+      }
     }
   ]
 }

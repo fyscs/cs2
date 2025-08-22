@@ -53,6 +53,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "de_ancient_night": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "de_anubis": {
     "admin": false,
     "certainTimes": [0,12,13,14,15,16,17,18,19,20,21,22,23],

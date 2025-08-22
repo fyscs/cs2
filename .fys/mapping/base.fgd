@@ -198,7 +198,12 @@
 ]
 
 
-@BaseClass = Studiomodel
+@BaseClass 
+	metadata
+	{
+		input_output_cpp = [ "basemodelentity" ]
+	}
+= Studiomodel
 [
 	model(studio) { report = true sort_priority = 80 } : "World Model"
 	skin(materialgroup) [ group="Render Properties" ] : "Skin" : "default" : "Some models have multiple versions of their textures, called skins."
@@ -222,7 +227,7 @@
 
 	// Outputs
 	output OnIgnite(void) : "Fired when this object catches fire."
-
+	output OnDestructiblePartDestroyed(cpp)
 ]
 
 
@@ -661,6 +666,14 @@
 	output OnStartTouchAll(void) { is_activator_important = true } : "Fired when an entity starts touching this trigger, and no other entities are touching it. Only entities that passed this trigger's filters are considered."
 	output OnEndTouch(void) { is_activator_important = true } : "Fired when an entity stops touching this trigger. Only entities that passed this trigger's filters will cause this output to fire."
 	output OnEndTouchAll(void) { is_activator_important = true } : "Fires when an entity stops touching this trigger, and no other entities are touching it. Only entities that passed this trigger's filters are considered."
+
+	input Toggle(void) : "Toggles this trigger between enabled and disabled states."
+	input Enable(void) : "Enable trigger."
+	input Disable(void) : "Disable trigger."
+	input Disable(void) : "Disable trigger."
+	input TouchTest(void) : "Triggers either the OnTouching or OnNotTouching outputs for whether anything is touching this entity."
+	input StartTouch(void) : "Behave as if the !caller entity had just entered the trigger volume. Accepts non-physical entities."
+	input EndTouch(void) : "Behave as if !caller had just exited the trigger volume."
 ]
 
 @BaseClass = worldbase
@@ -2400,8 +2413,10 @@
 	"An entity that projects a decal onto the world (or props). If the decal has no target name, it will immediately apply itself when "+
 	"the level is loaded. If it has a name specified, it won't apply until it receives the 'Activate' input."
 [
-	texture(decal)
+	material(resource:material): "Decal Material" : "" 
+	sequence_name(string) : "Decal Texture Sequence" : "" : ""
 	Distance(float) : "Distance" : 64 : "Distance from the origin to project the decal."
+	not_in_multiplayer(boolean) : "Not in Multiplayer" : "0"
 
 	// Inputs
 	input Activate(void) : "Force the decal to apply itself to the world."
@@ -3551,9 +3566,9 @@
 	input PickRandom(void) : "Fires a random OnCase output with at least one connection."
 	input PickRandomShuffle(void) : "Fires a random OnCase output with at least one connection, with no repeats until all cases have been picked, at which point the shuffle starts over."
 	input ResetShuffle(void) : "Starts the shuffle over so that the next PickRandomShuffle can select from all cases."
-		input Activate(void) : "Activate."
+	input Activate(void) : "Activate."
 	input Deactivate(void) : "Deactivate."
-	
+
 	// Outputs
 	output OnDefault(void) : "Fired when the input value does not equal any of the Case values."
 	output OnCase01(void) : "Fired when the input value equals the Case01 value."
@@ -4734,13 +4749,15 @@
 	spawnflags(flags) =
 	[
 		1 : "Force only on stretch" : 0
+		2 : "Enable collision" : 0
 	]
-
+	
 	attach1(target_destination) : "Entity 1" : ""
 	attach2(target_destination) : "Entity 2" : ""
 
 	springaxis(vecline) : "Spring Axis" : "" : "Use the helper. Drag it out to match the virtual spring."
-	length(string) : "Length" : "0" : "How long the spring would be if it was at rest (nothing hanging on it or attached). 0 means the length of the helpr ."
+	length(string) : "Length" : "0" : "How long the spring would be if it was at rest (nothing hanging on it or attached). 0 means the length of the helper."
+	lengthscale(float) : "Length Scale" : "1" : "Scale on the rest length. You can use this to easily make the spring start out stretched. e.g. a value of 0.75 here means the spring will spawn stretched by ~25%."
 	frequency(string) : "Frequency" : "5" : "The stiffness of the spring.  The larger the number the less the spring will stretch. The maximum should be not more than 30!"
 	damping(string) : "Damping Ratio" : "0.7" : "How much energy the spring loses. Values less than one give you an osscilating spring. A value of one makes the spring return without overshooting"
 	//breaklength(string) : "Break on Length" : "0" : "If the spring's length ever exceeds this length, the spring breaks."
@@ -5069,6 +5086,7 @@
 
 	linearfrequency(float) : "Linear Frequency" : "0" : "Linear spring frequency (stiffness)."
 	lineardampingratio(float) : "Linear Damping Ratio" : "0" : "Linear spring damping ratio."
+	jointfriction(float) : "Friction" : "0" : "Resistance/friction for movement along the spline"
 
 	fireeventsonpath(bool) : "Fire Events On Path" : "0" : "Notify our path when the attached entity moves along it so it can fire passthrough events, etc."
 
@@ -7175,6 +7193,7 @@
 	ignore_input(boolean) : "Ignore Input" : "0"
 	interact_distance(float) : "Interact Distance" : "8"
 	lit(boolean) : "Lit" : "0"
+	css_class(string) : "Css Class(es)" : ""
 	horizontal_align(Choices) =
 	[
 		0: "Left"
@@ -7672,7 +7691,6 @@ centered_box_oriented
 	"Causes nav mesh to be generated here and at all points that are reachable via ground movement from here."
 [
 ]
-
 
 @PointClass base(Targetname) = env_entity_dissolver : "Kills and removes things in a quiet 'csgo' kind of way. Players die instantly."
 [

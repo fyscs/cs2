@@ -21,43 +21,5 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Proxy": true,
-  "Monsters": [
-    {
-      "identity": "9857",
-      "display": "禁地遗迹卫兵长"
-    },
-    {
-      "identity": "8971",
-      "display": "石墙"
-    },
-    {
-      "identity": "9880",
-      "display": "地毯"
-    },
-    {
-      "identity": "8061",
-      "display": "小铁门"
-    },
-    {
-      "identity": "9296",
-      "display": "枷锁"
-    },
-    {
-      "identity": "7850",
-      "display": "水晶"
-    },
-    {
-      "identity": "9927",
-      "display": "大铁门"
-    },
-    {
-      "identity": "7370",
-      "display": "结界水晶左"
-    },
-    {
-      "identity": "7372",
-      "display": "结界水晶右"
-    }
-  ]
+  "Proxy": true
 }
