@@ -33,6 +33,11 @@
       "increase": true,
       "hitbox": "metaldoor",
       "display": "Door1"
+    },
+    {
+      "iterator": "laodacount",
+      "hitbox": "laodabox",
+      "display": "Mairen"
     }
   ],
   "Monsters": [
