@@ -478,5 +478,35 @@
   },
   "** You got the the Sen's Fortres key! **": {
     "translation": "已获得钥匙 - 塞恩古城"
+  },
+  "** The gate will open in 10 seconds **": {
+    "translation": "** 大门还有10秒开启 **"
+  },
+  "** The Top Asylum gates will open in 5 seconds **": {
+    "translation": "顶层庇护所 10 秒打开"
+  },
+  "** Global teleport on top part of Sens fortress will be in 70 sec **": {
+    "translation": "塞恩古城顶层将在70秒后进行传送"
+  },
+  "** The gate of torture room will open in 5 seconds **": {
+    "translation": "刑讯室 5 秒打开"
+  },
+  "** The External gates will open in 5 seconds **": {
+    "translation": "外部大门 5 秒打开"
+  },
+  "** The exit from the catacombs will open in 15 seconds **": {
+    "translation": "巨人墓地出口 15 秒打开"
+  },
+  "** Other rumors that a forbidden cult has settled here **": {
+    "translation": "亦有禁忌教派在此扎根之传闻"
+  },
+  "** The Sanctuary Gates will open in 10 seconds **": {
+    "translation": " 圣殿 10 秒打开"
+  },
+  "** The local clerics what these places hold their own dark secrets **": {
+    "translation": "本地牧师皆言 此处暗藏玄机"
+  },
+  "** The Main Gate will open in 10 seconds **": {
+    "translation": "主大门 10 秒打开"
   }
 }
