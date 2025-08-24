@@ -71,6 +71,6 @@
       "iterator": "toki_hp_counter4",
       "hitbox": "toki_hb",
       "display": "ImaNoToki"
-    },
+    }
   ]
 }
