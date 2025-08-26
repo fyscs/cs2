@@ -11,7 +11,7 @@
 
 {
   "▲MAP BY SUANNAI▲": {
-    "translation": "地图作者:SUANNAI 文本:秋言不会跳刀"
+    "translation": "地图作者:酸奶 文本:秋言不会跳刀"
   },
   "▲WE NEED TO KEEP RUNNING AWAY▲": {
     "translation": "我们要保持移动,小心"
@@ -26,7 +26,7 @@
     "translation": "快走!"
   },
   "▲REMEMBER THAT WEAPONS ARE VERY IMPORTANT▲": {
-    "translation": "记住这个武器是非常重要的"
+    "translation": "记住武器是非常重要"
   },
   "▲WE HAVE NO WAY OUT▲": {
     "translation": "这里没路了"
@@ -53,7 +53,7 @@
     "translation": "一颗行星划过天空"
   },
   "▲ITS SCORCHING FLAMES TURNING THE HEAVENS RED▲": {
-    "translation": "它灼热的火焰把天空染红了"
+    "translation": "炙热的火焰染红了天空"
   },
   "▲MONSTERS AND ZOMBIES BEGAN TO INVADE▲": {
     "translation": "怪物和僵尸开始入侵"
@@ -317,25 +317,25 @@
     "translation": "这是什么怪物"
   },
   "▲ONE MIXER FOUND A WATER WEAPON▲": {
-    "translation": "人类找到了水"
+    "translation": "一位勇士找到了水"
   },
   "▲ONE MIXER FOUND A SPRAY WEAPON▲": {
-    "translation": "人类找到了喷漆"
+    "translation": "一位勇士找到了喷漆"
   },
   "▲ONE MIXER FOUND A SHOCKWAVE WEAPON▲": {
-    "translation": "人类找到了震荡波"
+    "translation": "一位勇士找到了震荡波"
   },
   "▲ONE MIXER FOUND A HEALTH WEAPON▲": {
-    "translation": "人类找到了奶"
+    "translation": "一位勇士找到了奶"
   },
   "▲ONE MIXER OBTAINED A MYSTERIOUS POWER▲": {
-    "translation": "人类找到了神秘力量"
+    "translation": "一位勇士找到了神秘力量"
   },
   "▲ONE MIXER FOUND A SKYWRATH WEAPON▲": {
-    "translation": "人类找到了天怒"
+    "translation": "一位勇士找到了天怒"
   },
   "▲ONE MIXER FOUND A SUCK WEAPON▲": {
-    "translation": "人类找到了吸血"
+    "translation": "一位勇士找到了吸血"
   },
   "▲THE HELICOPTER IS COMING▲": {
     "translation": "直升机来了"
@@ -344,12 +344,13 @@
     "translation": "快走"
   },
   "▲ONE MIXER FOUND A CONTAINER WEAPON▲": {
-    "translation": "人类找到了泉水"
+    "translation": "一位勇士找到了泉水"
   },
   "▲ONE MIXER FOUND A HEALTHSHOT WEAPON▲": {
-    "translation": "人类找到了医疗针"
+    "translation": "一位勇士找到了医疗针"
   },
   "▲ONE MIXER FOUND A GRENADE WEAPON▲": {
-    "translation": "人类找到了手雷"
+    "translation": "一位勇士找到了手雷"
   }
 }
+
