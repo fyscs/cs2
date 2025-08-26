@@ -37,9 +37,11 @@
       "hitbox": "s3_boss_model",
       "display": "Boss"
     },
+  ],
   "Monsters": [
     {
       "identity": "15227",
-      "display": "dragon"
+      "display": "B2"
     }
+  ]
 }
