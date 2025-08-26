@@ -2393,6 +2393,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 45
   },
+  "ze_mix": {
+    "admin": true,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 160,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": 600,
+    "requiredPlayers": 40
+  },
   "ze_mo3_time_capsule": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
