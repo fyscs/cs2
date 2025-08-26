@@ -2400,7 +2400,7 @@
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
-    "requiredPlayers": 25
+    "requiredPlayers": 30
   },
   "ze_mo3_time_capsule": {
     "admin": false,
