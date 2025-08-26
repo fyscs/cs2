@@ -1,0 +1,355 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "▲MAP BY SUANNAI▲": {
+    "translation": "地图作者:SUANNAI 文本:秋言不会跳刀"
+  },
+  "▲WE NEED TO KEEP RUNNING AWAY▲": {
+    "translation": "我们要保持移动,小心"
+  },
+  "▲WATCH YOUR STEPS▲": {
+    "translation": "小心脚下"
+  },
+  "▲THE AREA IS CRASHING▲": {
+    "translation": "这个地区正在崩溃"
+  },
+  "▲GO GO GO▲": {
+    "translation": "快走!"
+  },
+  "▲REMEMBER THAT WEAPONS ARE VERY IMPORTANT▲": {
+    "translation": "记住这个武器是非常重要的"
+  },
+  "▲WE HAVE NO WAY OUT▲": {
+    "translation": "这里没路了"
+  },
+  "▲WAIT FOR THE CABLE CAR▲": {
+    "translation": "等待缆车"
+  },
+  "▲HOLD ON▲": {
+    "translation": "稍等"
+  },
+  "▲MAKE SURE TO RUN ON THR ROOF▲": {
+    "translation": "一定要在屋顶上跑"
+  },
+  "▲YOU WILL BE IN DANGER IF YOU FALL▲": {
+    "translation": "如果你跌倒,你会有危险"
+  },
+  "▲KEEP RUNNING▲": {
+    "translation": "保持移动"
+  },
+  "▲THERE IS A PLANE ON THE ROOF▲": {
+    "translation": "屋顶上有一架飞机"
+  },
+  "▲A PLANET STREAKED ACROSS THE SKY▲": {
+    "translation": "一颗行星划过天空"
+  },
+  "▲ITS SCORCHING FLAMES TURNING THE HEAVENS RED▲": {
+    "translation": "它灼热的火焰把天空染红了"
+  },
+  "▲MONSTERS AND ZOMBIES BEGAN TO INVADE▲": {
+    "translation": "怪物和僵尸开始入侵"
+  },
+  "▲PLUNGING THE WORLD INTO CHAOS▲": {
+    "translation": "世界陷入了混乱"
+  },
+  "▲MIXERS▲": {
+    "translation": "勇士们"
+  },
+  "▲FIND WEAPONS▲": {
+    "translation": "寻找武器"
+  },
+  "▲UNITE AND COOPERATE▲": {
+    "translation": "团结合作"
+  },
+  "▲ESCAPE THIS AREA▲": {
+    "translation": "逃离这片区域"
+  },
+  "▲DAMN IT! THE AREA IS CRASHING▲": {
+    "translation": "该死!这片地区正在崩塌"
+  },
+  "▲IT SEEMS THAT THE ROAD IS BLOCKED▲": {
+    "translation": "这条路似乎被堵住了"
+  },
+  "▲GREAT!KEEP RUNNING▲": {
+    "translation": "很好,继续移动"
+  },
+  "▲RUN FASTER▲": {
+    "translation": "快跑起来"
+  },
+  "▲ZOMBIES ARE ON THE ROOF▲": {
+    "translation": "僵尸在屋顶上"
+  },
+  "▲WE ARE TEMPORARILY SAFE▲": {
+    "translation": "我们暂时安全了"
+  },
+  "▲YOU DID IT▲": {
+    "translation": "你做到了"
+  },
+  "▲RUN RUN RUN▲": {
+    "translation": "快走!"
+  },
+  "▲YOU DEFEATED IT▲": {
+    "translation": "你打败了它"
+  },
+  "▲DAME IT▲": {
+    "translation": "该死"
+  },
+  "▲THE ROCK MONSTER BLOCKED OUR WAY▲": {
+    "translation": "岩石怪物挡住了我们的去路"
+  },
+  "▲KILL IT▲": {
+    "translation": "击败它"
+  },
+  "▲LOOK FOR THE WEAPON LEADING TO THE NEXT ENTRANCE▲": {
+    "translation": "寻找通往下一个入口的武器"
+  },
+  "▲ZOMBIES ARE ON THE HELICOPTER▲": {
+    "translation": "僵尸在直升机上"
+  },
+  "▲LET'S GO TO THE NEXT AREA▲": {
+    "translation": "我们要去下一个区域"
+  },
+  "▲IT SEEMS TO BE GOING IN▲": {
+    "translation": "事情似乎进展顺利"
+  },
+  "▲IT'S TOO DARK▲": {
+    "translation": "这里太黑了!"
+  },
+  "▲BE CAREFUL▲": {
+    "translation": "小心点!"
+  },
+  "▲CONTINUE TO EXPLORE▲": {
+    "translation": "继续探索"
+  },
+  "▲IT SEEMS THAT THIS PLACE HAS BEEN ABANDONED FOR A LONG TIME▲": {
+    "translation": "看来这个地方已经被遗弃很久了"
+  },
+  "▲IT SEEMS THERE IS NO WAY OUT▲": {
+    "translation": "似乎没有出路了"
+  },
+  "▲MUST WE HAVE MISSED SOMETHING▲": {
+    "translation": "我们一定错过了什么!"
+  },
+  "▲WE ARE IN THE WILD▲": {
+    "translation": "我们在野外"
+  },
+  "▲PAY ATTENTION TO YOUR SURROUNDINGS▲": {
+    "translation": "注意你周围的环境"
+  },
+  "▲EXPLORE THE ENVIRONMENT▲": {
+    "translation": "探索你周围的环境"
+  },
+  "▲FIND WEAPONS AS MUCH AS POSSIBLE▲": {
+    "translation": "尽可能多地找到武器"
+  },
+  "▲WHICH WAY SHOULD WE GO▲": {
+    "translation": "我们该走哪条路?"
+  },
+  "▲WELL DONE▲": {
+    "translation": "干得好"
+  },
+  "▲WE FOUND THE WAY▲": {
+    "translation": "我们找到了路"
+  },
+  "▲ZOMBIES ARE CHASING CLOSELY▲": {
+    "translation": "僵尸正在紧追不舍"
+  },
+  "▲WE MUST HOLD ON▲": {
+    "translation": "我们必须坚持下去"
+  },
+  "▲HURRY UP▲": {
+    "translation": "快"
+  },
+  "▲WE ARE PLANTING A BOMB▲": {
+    "translation": "我们正在安放炸弹"
+  },
+  "▲THE ROAD AHEAD SEEMS STILL VERY LONG▲": {
+    "translation": "前面的路似乎还很长"
+  },
+  "▲AFTER RUNNING FOR SO LONG▲": {
+    "translation": "跑了这么久"
+  },
+  "▲THIS VALLEY IS AS UNSAFE AS THE CITY▲": {
+    "translation": "这个山谷和城市一样不安全"
+  },
+  "▲THE WORLD IS COLLAPSING▲": {
+    "translation": "世界正在崩溃"
+  },
+  "▲DAMN IT▲": {
+    "translation": "真该死"
+  },
+  "▲IT'S A DRAGON▲": {
+    "translation": "这是一条龙!"
+  },
+  "▲IT BLOCKED OUR WAY▲": {
+    "translation": "它挡住了我们的道路"
+  },
+  "▲WE MUST KILL IT▲": {
+    "translation": "我们必须击败它"
+  },
+  "▲BE CAREFUL OF ITS ATTACK▲": {
+    "translation": "小心它的攻击"
+  },
+  "▲IT SEEMS THAT SOME KIND OF OBJECT IS APPROACHING▲": {
+    "translation": "似乎有某种物体正在接近"
+  },
+  "▲WE MUST BE HIGHLY VIGILANT▲": {
+    "translation": "我们必须高度警惕"
+  },
+  "▲WE JUST GOT GOOD NEWS▲": {
+    "translation": "我们刚得到一个好消息"
+  },
+  "▲THE HELICOPTER TO RESCUE US IS ON ITS WAY▲": {
+    "translation": "救援我们的直升机正在路上"
+  },
+  "▲WE MUST BE ALIVE▲": {
+    "translation": "我们必须活着"
+  },
+  "▲JUMP DOWN▲": {
+    "translation": "快跳下来"
+  },
+  "▲THE SCORCHING FLAMES ARE FALLING▲": {
+    "translation": "炙热的火焰正在落下"
+  },
+  "▲PAY ATTENTION TO THE SKYFIRE▲": {
+    "translation": "注意天火"
+  },
+  "▲ADMIN: JUMP TO STAGE 1▲": {
+    "translation": "管理员调关:跳转到第一阶段"
+  },
+  "▲ADMIN: JUMP TO STAGE 2▲": {
+    "translation": "管理员调关:跳转到第二阶段"
+  },
+  "▲ADMIN: JUMP TO STAGE 3▲": {
+    "translation": "管理员调关:跳转到第三阶段"
+  },
+  "▲RUNNING▲": {
+    "translation": "快走"
+  },
+  "▲DEFEND AGAINST ZOMBIES▲": {
+    "translation": "防守僵尸"
+  },
+  "▲WE ARE TRYING TO FIND A WAY▲": {
+    "translation": "我们正在努力寻找方法"
+  },
+  "▲OH!THE EXPLOSION OPENED UP A WAY▲": {
+    "translation": "哦!这次爆炸开辟了一条道路"
+  },
+  "▲WAIT FOR SOME TIME▲": {
+    "translation": "等一会儿"
+  },
+  "▲PAY ATTENTION TO THE SURROUNDING ENVIRONMENT▲": {
+    "translation": "小心注意周围环境"
+  },
+  "▲IT SEEMS THAT THERE ARE TWO OTHER WEAPONS HIDDEN HERE▲": {
+    "translation": "看来这里还藏着两把武器"
+  },
+  "▲FIND THEM▲": {
+    "translation": "找到他们"
+  },
+  "▲ESCAPE FROM THIS BUILDING QUICKLY▲": {
+    "translation": "赶紧逃离这栋楼"
+  },
+  "▲WE HAVE RUN A LONG WAY▲": {
+    "translation": "我们已经跑了很长的路"
+  },
+  "▲BUT WE MUST NOT BE CARELESS▲": {
+    "translation": "但我们不能大意"
+  },
+  "▲WE WILL LEAVE BY THIS PLANE▲": {
+    "translation": "我们将乘坐这架飞机离开"
+  },
+  "▲GET ON THE PLANE▲": {
+    "translation": "快上飞机"
+  },
+  "▲WE ARE LEAVING THIS CRASHING AREA▲": {
+    "translation": "我们正在离开这个坠毁区域"
+  },
+  "▲THE HELICOPTER WILL ARRIVE SOON▲": {
+    "translation": "直升机即将到达"
+  },
+  "▲OH MY GOD▲": {
+    "translation": "我的天"
+  },
+  "▲THE DRAGON APPEARED AGAIN▲": {
+    "translation": "龙又出现了"
+  },
+  "▲FOR SAFETY REASONS▲": {
+    "translation": "出于安全原因"
+  },
+  "▲IT ONLY STAYS FOR A FEW SECONDS▲": {
+    "translation": "它只能停留几秒钟"
+  },
+  "▲SO DON'T STOP AND LOOK BACK▲": {
+    "translation": "不要停下来回头看"
+  },
+  "▲RUN AS FAR FORWARD AS POSSIBLE▲": {
+    "translation": "尽可能向前跑"
+  },
+  "▲KILL THE DRAGON▲": {
+    "translation": "击败了它"
+  },
+  "▲GOOD LUCK▲": {
+    "translation": "恭喜"
+  },
+  "▲WE MUST FIND A WAY TO OPEN THE DOOR▲": {
+    "translation": "我们必须想办法打开这扇门"
+  },
+  "▲HOLY SHIT▲": {
+    "translation": "天呐!"
+  },
+  "▲WHAT A TERRIFYING MONSTER▲": {
+    "translation": "多么可怕的怪物"
+  },
+  "▲LOOK▲": {
+    "translation": "看!"
+  },
+  "▲WHAT KIND OF MONSTER IS THIS▲": {
+    "translation": "这是什么怪物"
+  },
+  "▲ONE MIXER FOUND A WATER WEAPON▲": {
+    "translation": "人类找到了水"
+  },
+  "▲ONE MIXER FOUND A SPRAY WEAPON▲": {
+    "translation": "人类找到了喷漆"
+  },
+  "▲ONE MIXER FOUND A SHOCKWAVE WEAPON▲": {
+    "translation": "人类找到了震荡波"
+  },
+  "▲ONE MIXER FOUND A HEALTH WEAPON▲": {
+    "translation": "人类找到了奶"
+  },
+  "▲ONE MIXER OBTAINED A MYSTERIOUS POWER▲": {
+    "translation": "人类找到了神秘力量"
+  },
+  "▲ONE MIXER FOUND A SKYWRATH WEAPON▲": {
+    "translation": "人类找到了天怒"
+  },
+  "▲ONE MIXER FOUND A SUCK WEAPON▲": {
+    "translation": "人类找到了吸血"
+  },
+  "▲THE HELICOPTER IS COMING▲": {
+    "translation": "直升机来了"
+  },
+  "▲RUN▲": {
+    "translation": "快走"
+  },
+  "▲ONE MIXER FOUND A CONTAINER WEAPON▲": {
+    "translation": "人类找到了泉水"
+  },
+  "▲ONE MIXER FOUND A HEALTHSHOT WEAPON▲": {
+    "translation": "人类找到了医疗针"
+  },
+  "▲ONE MIXER FOUND A GRENADE WEAPON▲": {
+    "translation": "人类找到了手雷"
+  }
+}
