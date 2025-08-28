@@ -2430,11 +2430,11 @@
     "requiredPlayers": -1
   },
   "ze_mountain_ultimate": {
-    "admin": true,
-    "certainTimes": [-1],
-    "cooldown": 160,
+    "admin": false,
+    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 180,
     "nomination": true,
-    "price": 600,
+    "price": 800,
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
