@@ -1,0 +1,226 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*SOMETHING IS BASHING DOWN THE GATE*": {
+    "translation": "有什么东西在砸门"
+  },
+  "*IT'S NEARLY THROUGH*": {
+    "translation": "很快结束了"
+  },
+  "*IT'S A RAT OGRE*": {
+    "translation": "这是一只老鼠食人魔"
+  },
+  "*SHOOT IT!*": {
+    "translation": "对他射击!"
+  },
+  "*ZOMBIES REACHED THE TRIGGER*": {
+    "translation": "僵尸到达触发"
+  },
+  "*THE CITY IS OVERRUN*": {
+    "translation": "这座城市被占领了"
+  },
+  "*DOCK GATEHOUSE OPENING IN 30 SECONDS*": {
+    "translation": "门房还有30s打开",
+    "countdown": 30
+  },
+  "*DOCK GATEHOUSE OPENING IN 10 SECONDS*": {
+    "translation": "门房还有10s后打开",
+    "countdown": 10
+  },
+  "*DOCK GATEHOUSE OPENING*": {
+    "translation": "门楼10s后打开",
+    "countdown": 10
+  },
+  "*ROOF DOOR OPENING IN 30 SECONDS*": {
+    "translation": "车顶门30s后打开",
+    "countdown": 30
+  },
+  "*ROOF DOOR OPENING*": {
+    "translation": "顶门开了"
+  },
+  "*HOLD AT THESE BOXES*": {
+    "translation": "拿上这些箱子"
+  },
+  "*ITS GETTING BACK UP*": {
+    "translation": "重新振作起来"
+  },
+  "*RUNNN!*": {
+    "translation": "快跑"
+  },
+  "*DOCK DOOR OPENING IN 30 SECONDS*": {
+    "translation": "船坞门30s后打开",
+    "countdown": 30
+  },
+  "*DOCK DOOR OPENING*": {
+    "translation": "船坞门开了"
+  },
+  "*WAYSTONE ACTIVATING IN 30 SECONDS*": {
+    "translation": "30s后指引之石激活",
+    "countdown": 30
+  },
+  "*WAYSTONE ACTIVATING IN 10 SECONDS*": {
+    "translation": "10s后指引之石激活",
+    "countdown": 10
+  },
+  "*WAYSTONE ACTIVATING IN 45 SECONDS*": {
+    "translation": "45s后指引之石激活",
+    "countdown": 45
+  },
+  "*FIND THE DOOR KEY IN THE SIDE CHAPEL*": {
+    "translation": "在侧教堂找到门的钥匙"
+  },
+  "*LIFT LEAVING IN 45 SECONDS*": {
+    "translation": "45s后电梯离开",
+    "countdown": 45
+  },
+  "*LIFT LEAVING IN 15 SECONDS*": {
+    "translation": "15s后电梯离开",
+    "countdown": 15
+  },
+  "*LIFT LEAVING*": {
+    "translation": "电梯离开"
+  },
+  "*CAVE GATE OPENING IN 10 SECONDS*": {
+    "translation": "洞穴10s后打开",
+    "countdown": 10
+  },
+  "*CAVE GATE OPENING*": {
+    "translation": "洞穴开了"
+  },
+  "*SECOND SEWER GATE OPENING IN 20 SECONDS*": {
+    "translation": "第二下水道出口20s后打开",
+    "countdown": 20
+  },
+  "*SECOND SEWER GATE OPENING*": {
+    "translation": "第二下水道出口开了"
+  },
+  "*SEWER GATE OPENING IN 45 SECONDS*": {
+    "translation": "下水道门45s后打开",
+    "countdown": 45
+  },
+  "*SEWER GATE OPENING*": {
+    "translation": "下水道门开了"
+  },
+  "*SEWER GATE OPENING IN 15 SECONDS*": {
+    "translation": "下水道门15s后打开",
+    "countdown": 15
+  },
+  "*PLAZA DOOR OPENING IN 30 SECONDS*": {
+    "translation": "广场门30s后打开",
+    "countdown": 30
+  },
+  "*PLAZA DOOR OPENING*": {
+    "translation": "广场门开了"
+  },
+  "*GATE OPENING IN 20 SECONDS*": {
+    "translation": "20s后开门",
+    "countdown": 20
+  },
+  "*GATE OPENING*": {
+    "translation": "门开了"
+  },
+  "*CANAL DOOR OPENING IN 10 SECONDS*": {
+    "translation": "运河门还有10s打开",
+    "countdown": 10
+  },
+  "*CANAL DOOR OPENING*": {
+    "translation": "运河门开了"
+  },
+  "*LARGE DOOR OPENING IN 15 SECONDS*": {
+    "translation": "大门15s后打开",
+    "countdown": 15
+  },
+  "*LARGE DOOR OPENING*": {
+    "translation": "大门开了"
+  },
+  "*START THE RITUAL BY PLACING 3 CURSED GRIMOIRES ON THE TABLE*": {
+    "translation": "将3本被诅咒的魔法书放在桌子上开始仪式"
+  },
+  "*RITUAL COMPLETE*": {
+    "translation": "仪式完成"
+  },
+  "*ENOUGH GRIMOIRES HAVE BEEN PLACED*": {
+    "translation": "魔法书已被安置"
+  },
+  "*RITUAL STARTING*": {
+    "translation": "仪式开始"
+  },
+  "*HOLD UNTIL IT IS COMPLETE*": {
+    "translation": "坚持到完成为止"
+  },
+  "*ESCAPE THROUGH THAT HOLE*": {
+    "translation": "从那个洞逃出去"
+  },
+  "*THE STORM IS STARTING*": {
+    "translation": "暴风雨开始了"
+  },
+  "*STICK TO THE ROOF TO AVOID THE LIGHTNING*": {
+    "translation": "站在屋顶上躲避闪电"
+  },
+  "*HOUSE DOOR OPENING IN 20 SECONDS*": {
+    "translation": "20s后房门打开",
+    "countdown": 20
+  },
+  "*HOUSE DOOR OPENING*": {
+    "translation": "房门打开了"
+  },
+  "*UPSTAIRS DOOR OPENING IN 20 SECONDS*": {
+    "translation": "20s后楼上的门打开",
+    "countdown": 20
+  },
+  "*UPSTAIRS DOOR OPENING*": {
+    "translation": "楼上的门打开了"
+  },
+  "*HOLD THIS BRIDGE*": {
+    "translation": "守住这座桥"
+  },
+  "*THE RAT OGRE IS BACK*": {
+    "translation": "食人魔回来了"
+  },
+  "*WATCH OUT*": {
+    "translation": "保持警惕"
+  },
+  "*GET TO THE SIDES*": {
+    "translation": "站在两边"
+  },
+  "*YOU SUCCESSFULLY DESTROYED THE LIBRARY AND ESCAPED DOOMGLAVEN*": {
+    "translation": "你成功摧毁了图书馆,逃离了末日谷"
+  },
+  "You have made it to Doomglaven just as the siege is starting": {
+    "translation": "你在围城开始的时候来到了末日谷"
+  },
+  "Dont let the invaders get hold of Doomglaven library": {
+    "translation": "别让侵略者控制了末日谷的图书馆"
+  },
+  "Find your way there and start the ritual to destroy it": {
+    "translation": "找到你的路,开始毁灭它的仪式"
+  },
+  "*NO ONE ESCAPED*": {
+    "translation": "没有人逃脱"
+  },
+  "...": {
+    "translation": "..."
+  },
+  ".....": {
+    "translation": "....."
+  },
+  "*JUMP DOWN TO THE DOCK*": {
+    "translation": "跳下去到码头"
+  },
+  "*LIBRARY KEY FOUND*": {
+    "translation": "找到图书馆的钥匙"
+  },
+  "*ZM TP IN 10 SECONDS*": {
+    "translation": "10s后僵尸传送",
+    "countdown": 10
+  }
+}

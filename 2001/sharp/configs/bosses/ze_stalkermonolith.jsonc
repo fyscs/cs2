@@ -23,54 +23,62 @@
 {
   "Counters": [
     {
-      "iterator": "container2_hp",
-      "hitbox": "container2_hitbox",
-      "display": "C2"
+      "iterator": "pirate_counter",
+      "hitbox": "Noctali",
+      "display": "Noctali"
     },
     {
-      "iterator": "container1_hp",
-      "hitbox": "container1_hitbox",
-      "display": "C1"
+      "iterator": "psevdocounter1",
+      "hitbox": "box1gigi",
+      "display": "GiGi"
     },
     {
-      "iterator": "phase1_boss_hp",
-      "hitbox": "phase1_boss_hitbox",
-      "display": "SP:Phase1"
+      "iterator": "stage_3_countercontroler1",
+      "hitbox": "stage_3_phycontroler",
+      "display": "S3Controller"
     },
     {
-      "iterator": "semi_boss_hp_counter_04",
-      "hitbox": "semi_boss_hitbox",
-      "display": "Semi"
+      "iterator": "stage_2_burrercounter2",
+      "hitbox": "stage_2_burrerphy2",
+      "display": "S2B2"
     },
     {
-      "iterator": "phase2_boss_hp_bar9",
-      "hitbox": "phase2_boss_hitbox",
-      "display": "SP:Phase2"
+      "iterator": "stage_2_burrercounter",
+      "hitbox": "stage_2_burrerphy1",
+      "display": "S2B1"
     },
     {
-      "iterator": "phase3_boss_hp4",
-      "hitbox": "phase3_boss_hitbox",
-      "display": "SP:Phase3"
+      "iterator": "stage_1_countermonolit1",
+      "hitbox": "stage_1_phymonolit1",
+      "display": "Mono1"
     },
     {
-      "iterator": "toki_hp_counter1",
-      "hitbox": "toki_hb",
-      "display": "ImaNoToki"
+      "iterator": "stage_1_block5",
+      "hitbox": "stage_1_box1",
+      "display": "S1B5"
     },
     {
-      "iterator": "toki_hp_counter2",
-      "hitbox": "toki_hb",
-      "display": "ImaNoToki"
+      "iterator": "stage_1_gigant1",
+      "hitbox": "stage_1_modelphybox1",
+      "display": "Gigant"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "17568",
+      "display": "B2"
     },
     {
-      "iterator": "toki_hp_counter3",
-      "hitbox": "toki_hb",
-      "display": "ImaNoToki"
+      "identity": "17566",
+      "display": "B3"
     },
     {
-      "iterator": "toki_hp_counter4",
-      "hitbox": "toki_hb",
-      "display": "ImaNoToki"
+      "identity": "17564",
+      "display": "B4"
+    },
+    {
+      "identity": "18553",
+      "display": "B1"
     }
   ]
 }
