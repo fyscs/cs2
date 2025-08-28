@@ -57,6 +57,9 @@
   "试玩版,不代表最终品质,map by 佐贺": {
     "translation": "试玩版,不代表最终品质,map by 佐贺"
   },
+  "第三关": {
+    "translation": "第三关"
+  },
   "撤退": {
     "translation": "撤退"
   },
@@ -117,5 +120,19 @@
   },
   "map by 佐贺": {
     "translation": "地图制作-佐贺"
+  },
+  "防守30秒后进入彩虹门": {
+    "translation": "防守30秒",
+    "countdown": 30
+  },
+  "看起来没有路了,是死局了么？": {
+    "translation": "看起来没有路了,是死局了么?"
+  },
+  "死!者!稣!生!": {
+    "translation": "死!者!稣!生!"
+  },
+  "防守30秒,这是最后一个守点了": {
+    "translation": "防守30秒",
+    "countdown": 30
   }
 }
