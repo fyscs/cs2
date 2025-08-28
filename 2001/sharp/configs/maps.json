@@ -4058,6 +4058,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 35
   },
+  "ze_toggle_theory": {
+    "admin": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 160,
+    "nomination": true,
+    "price": 500,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
   "ze_totemo_roka_p": {
     "admin": false,
     "certainTimes": [-1],
