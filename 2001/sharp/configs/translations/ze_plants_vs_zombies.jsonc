@@ -213,157 +213,157 @@
     "translation": "障碍物清理干净了,我们快走"
   },
   "<<ex level 1>>": {
-    "translation": "<<第四关>>"
+    "translation": "第四关"
   },
   "<<ex level 2>>": {
-    "translation": "<<第五关>>"
+    "translation": "第五关"
   },
   "<<ex level 3>>": {
-    "translation": "<<第六关>>"
+    "translation": "第六关"
   },
   "<<level 0>>": {
-    "translation": "<<热身>>"
+    "translation": "热身"
   },
   "<<level 1>>": {
-    "translation": "<<第一关>>"
+    "translation": "第一关"
   },
   "<<level 2>>": {
-    "translation": "<<第二关>>"
+    "translation": "第二关"
   },
   "<<level 3>>": {
-    "translation": "<<第三关>>"
+    "translation": "第三关"
   },
   "<<也可以通过阳光类植物产出>>": {
-    "translation": "<<也可以通过阳光类植物产出>>"
+    "translation": "也可以通过阳光类植物产出"
   },
   "<<任务失败>>": {
-    "translation": "<<任务失败>>"
+    "translation": "任务失败"
   },
   "<<你可以使用收集的钱币购买商品>>": {
-    "translation": "<<你可以使用收集的钱币购买商品>>"
+    "translation": "你可以使用收集的钱币购买商品"
   },
   "<<侧路将在10秒后开启>>": {
-    "translation": "<<侧路将在10秒后开启>>",
+    "translation": "侧路将在10秒后开启",
     "countdown": 10
   },
   "<<侧路将在10秒后开放>>": {
-    "translation": "<<侧路将在10秒后开放>>",
+    "translation": "侧路将在10秒后开放",
     "countdown": 10
   },
   "<<侧路将在10秒后打开>>": {
-    "translation": "<<侧路将在10秒后打开>>",
+    "translation": "侧路将在10秒后打开",
     "countdown": 10
   },
   "<<侧路将在15秒后打开>>": {
-    "translation": "<<侧路将在15秒后打开>>",
+    "translation": "侧路将在15秒后打开",
     "countdown": 15
   },
   "<<侧路将在20秒后打开>>": {
-    "translation": "<<侧路将在20秒后打开>>",
+    "translation": "侧路将在20秒后打开",
     "countdown": 20
   },
   "<<侧路将在5秒后打开>>": {
-    "translation": "<<侧路将在5秒后打开>>",
+    "translation": "侧路将在5秒后打开",
     "countdown": 5
   },
   "<<僵尸将在10秒后传送>>": {
-    "translation": "<<僵尸将在10秒后传送>>" ,
+    "translation": "僵尸将在10秒后传送" ,
     "countdown": 10
   },
   "<<僵尸将在15秒后传送>>": {
-    "translation": "<<僵尸将在15秒后传送>>",
+    "translation": "僵尸将在15秒后传送>>",
     "countdown": 15
   },
   "<<僵尸将在20秒后传送>>": {
-    "translation": "<<僵尸将在20秒后传送>>",
+    "translation": "僵尸将在20秒后传送",
     "countdown": 20
   },
   "<<僵尸将在5秒后传送>>": {
-    "translation": "<<僵尸将在5秒后传送>>",
+    "translation": "僵尸将在5秒后传送",
     "countdown": 5
   },
   "<<大门将在20秒后开启>>": {
-    "translation": "<<大门将在20秒后开启>>",
+    "translation": "大门将在20秒后开启",
     "countdown": 20
   },
   "<<大门将在30秒后开启>>": {
-    "translation": "<<大门将在30秒后开启>>",
+    "translation": "大门将在30秒后开启",
     "countdown": 30
   },
   "<<大门将在5秒后打开>>": {
-    "translation": "<<大门将在5秒后打开>>",
+    "translation": "大门将在5秒后打开",
     "countdown": 5
   },
   "<<小船将在10秒后开走>>": {
-    "translation": "<<小船将在10秒后开走>>",
+    "translation": "小船将在10秒后开走",
     "countdown": 10
   },
   "<<山谷的路将在35秒后打开>>": {
-    "translation": "<<山谷的路将在35秒后打开>>",
+    "translation": "山谷的路将在35秒后打开",
     "countdown": 35
   },
   "<<山谷的路将在40秒后打开>>": {
-    "translation": "<<山谷的路将在40秒后打开>>",
+    "translation": "山谷的路将在40秒后打开",
     "countdown": 40
   },
   "<<想要快速获取阳光的话,请先种下一颗向日葵吧>>": {
-    "translation": "<<想要快速获取阳光的话,请先种下一颗向日葵吧>>"
+    "translation": "想要快速获取阳光的话,请先种下一颗向日葵吧"
   },
   "<<栅栏将在30秒后完成清理>>": {
-    "translation": "<<栅栏将在30秒后完成清理>>",
+    "translation": "栅栏将在30秒后完成清理",
     "countdown": 30
   },
   "<<桥将在30秒后升起>>": {
-    "translation": "<<桥将在30秒后升起>>",
+    "translation": "桥将在30秒后升起",
     "countdown": 30
   },
   "<<瀑布将在5秒后消失>>": {
-    "translation": "<<瀑布将在5秒后消失>>",
+    "translation": "瀑布将在5秒后消失",
     "countdown": 5
   },
   "<<热身关卡>>": {
-    "translation": "<<热身关卡>>"
+    "translation": "热身关卡"
   },
   "<<蒸汽将在30秒后消失>>": {
-    "translation": "<<蒸汽将在30秒后消失>>",
+    "translation": "蒸汽将在30秒后消失",
     "countdown": 30
   },
   "<<要想种植植物,你需要收集足够的阳光>>": {
-    "translation": "<<要想种植植物,你需要收集足够的阳光>>"
+    "translation": "要想种植植物,你需要收集足够的阳光"
   },
   "<<路将在30秒后开启>>": {
-    "translation": "<<路将在30秒后开启>>",
+    "translation": "路将在30秒后开启",
     "countdown": 30
   },
   "<<路将在40秒后开启>>": {
-    "translation": "<<路将在40秒后开启>>",
+    "translation": "路将在40秒后开启",
     "countdown": 40
   },
   "<<路将在40秒后打开>>": {
-    "translation": "<<路将在40秒后打开>>",
+    "translation": "路将在40秒后打开",
     "countdown": 40
   },
   "<<门将在20秒后打开>>": {
-    "translation": "<<门将在20秒后打开>>",
+    "translation": "门将在20秒后打开",
     "countdown": 20
   },
   "<<门将在30秒后打开>>": {
-    "translation": "<<门将在30秒后打开>>",
+    "translation": "门将在30秒后打开",
     "countdown": 30
   },
   "<<门将在40秒后打开>>": {
-    "translation": "<<门将在40秒后打开>>",
+    "translation": "门将在40秒后打开",
     "countdown": 40
   },
   "<<阳光可以在白天的天空中自然掉落>>": {
-    "translation": "<<阳光可以在白天的天空中自然掉落>>"
+    "translation": "阳光可以在白天的天空中自然掉落"
   },
   "<<障碍物将在70秒后清理>>": {
-    "translation": "<<障碍物将在70秒后清理>>",
+    "translation": "障碍物将在70秒后清理",
     "countdown": 70
   },
   "<<障碍物将在90秒后清理>>": {
-    "translation": "<<障碍物将在90秒后清理>>",
+    "translation": "障碍物将在90秒后清理",
     "countdown": 90
   },
   "地图:植物大战僵尸": {
