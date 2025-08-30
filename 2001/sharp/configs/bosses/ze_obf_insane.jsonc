@@ -30,5 +30,15 @@
       "hitbox": "gargantua_physbox",
       "display": "Gargantua"
     }
+  ],
+  "Monsters": [
+    {
+      "identity": "3338",
+      "display": "BREAK1"
+    },
+    {
+      "identity": "3340",
+      "display": "BREAK2"
+    }
   ]
 }
