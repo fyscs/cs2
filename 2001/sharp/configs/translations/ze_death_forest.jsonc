@@ -301,5 +301,29 @@
   },
   "<< Don't rush, the door will open soon. >>": {
     "translation": "别着急,门很快就会打开."
+  },
+  "<< Rest level: You need to collect 5 notes. >>": {
+    "translation": "休息关卡:你需要收集5张笔记."
+  },
+  "<< 35 seconds. >>": {
+    "translation": "35秒."
+  },
+  "<< 20 seconds. >>": {
+    "translation": "20秒."
+  },
+  "Oh my god.": {
+    "translation": "我的天啊."
+  },
+  "I almost couldn't catch my breath.": {
+    "translation": "我差点喘不过气来."
+  },
+  "<< Congratulations, you've completed this instance. >>": {
+    "translation": "恭喜,你已完成这个副本."
+  },
+  "She...come back.": {
+    "translation": "她...回来了."
+  },
+  "<< You've faced her so many times already. Now it's time to end this. >>": {
+    "translation": "你们已经面对她这么多次了.现在是时候结束这一切了."
   }
 }
