@@ -21,10 +21,11 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Breakables": [
+  "Counters": [
     {
-      "target": "break_lvl4_yoshie",
-      "display": "yoshie",
+      "iterator": "math_lvl4_boss",
+      "hitbox": "break_lvl4_yoshie",
+      "display": "Naraka"
     }
   ]
 }
