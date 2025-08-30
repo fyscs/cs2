@@ -42,23 +42,23 @@
       "hitbox": "hazy_boss_breakable_middle"
     },
     {
-      "target": "hazy_right_boss_middle",
+      "target": "hazy_right_boss_hp",
       "display": "炮弹の右",
       "hitbox": "hazy_boss_breakable_right"
+    },
+    {
+      "target": "right_eyerok_break",
+      "display": "黄金右手",
+    },
+    {
+      "target": "left_eyerok_break",
+      "display": "黄金左手",
     }
   ],
   "Monsters": [
     {
       "identity": "13686",
       "display": "铃铛"
-    },
-    {
-      "identity": "1105",
-      "display": "黄金右手"
-    },
-    {
-      "identity": "1115",
-      "display": "黄金左手"
     }
   ]
 }
