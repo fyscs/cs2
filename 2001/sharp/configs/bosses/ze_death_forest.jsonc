@@ -27,5 +27,11 @@
       "hitbox": "break_lvl4_yoshie",
       "display": "yoshie"
     }
+  ],
+  "Monsters": [
+    {
+      "identity": "37296",
+      "display": "tou"
+    }
   ]
 }
