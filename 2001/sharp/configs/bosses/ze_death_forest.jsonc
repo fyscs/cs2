@@ -25,7 +25,7 @@
     {
       "iterator": "math_lvl4_boss",
       "hitbox": "break_lvl4_yoshie",
-      "display": "Naraka"
+      "display": "yoshie"
     }
   ]
 }
