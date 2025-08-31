@@ -300,7 +300,8 @@
     "translation": "你们还需要经历一些...有趣的事情"
   },
   "<< Don't rush, the door will open soon. >>": {
-    "translation": "别着急,门很快就会打开."
+    "translation": "门30秒后开启.",
+    "countdown": 30
   },
   "<< Rest level: You need to collect 5 notes. >>": {
     "translation": "休息关卡:你需要收集5张笔记."
