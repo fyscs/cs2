@@ -36,7 +36,7 @@
     "requiredPlayers": 40
   },
   "ze_240s_survival_v1": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 60,
     "nomination": false,
