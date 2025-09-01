@@ -3029,7 +3029,7 @@
     "cooldown": 200,
     "nomination": true,
     "price": 800,
-    "requiredOnline": 900,
+    "requiredOnline": 600,
     "requiredPlayers": 45
   },
   "ze_platformer_p": {
