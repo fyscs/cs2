@@ -3024,12 +3024,12 @@
     "requiredPlayers": 40
   },
   "ze_plants_vs_zombies": {
-    "admin": true,
+    "admin": false
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 200,
     "nomination": true,
     "price": 800,
-    "requiredOnline": 600,
+    "requiredOnline": 900,
     "requiredPlayers": 45
   },
   "ze_platformer_p": {
