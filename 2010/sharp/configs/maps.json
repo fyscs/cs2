@@ -91,7 +91,34 @@
   },
   "de_train_classic_fys": {
     "admin": false,
-    "certainTimes": [14,15,16,17,18,19,20,21,22,23],
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": 24
+  },
+  "de_mill_promod": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": 24
+  },
+  "de_dust2_classic_fys": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": 24
+  },
+  "de_nuke_classic_fys": {
+    "admin": false,
+    "certainTimes": [-1],
     "cooldown": 10,
     "nomination": true,
     "price": 300,
