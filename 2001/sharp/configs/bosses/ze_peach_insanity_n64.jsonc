@@ -1,0 +1,64 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "bowser_health_base",
+      "backup": "bowser_health_backup",
+      "counter": "bowser_hp_iterations",
+      "hitbox": "bowser_hitbox",
+      "display": "库巴"
+    }
+  ],
+  "Breakables": [
+    {
+      "target": "hazy_left_boss_hp",
+      "hitbox": "hazy_boss_breakable_left",
+      "display": "炮弹の左"
+    },
+    {
+      "target": "hazy_middle_boss_hp",
+      "hitbox": "hazy_boss_breakable_middle",
+      "display": "炮弹の中",
+    },
+    {
+      "target": "hazy_right_boss_hp",
+      "hitbox": "hazy_boss_breakable_right",
+      "display": "炮弹の右"
+    },
+    {
+      "target": "right_eyerok_break",
+      "display": "黄金右手"
+    },
+    {
+      "target": "left_eyerok_break",
+      "display": "黄金左手"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "13686",
+      "display": "铃铛"
+    }
+  ]
+}
