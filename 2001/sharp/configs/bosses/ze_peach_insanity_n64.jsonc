@@ -33,26 +33,26 @@
   "Breakables": [
     {
       "target": "hazy_left_boss_hp",
-      "display": "炮弹の左",
-      "hitbox": "hazy_boss_breakable_left"
+      "hitbox": "hazy_boss_breakable_left",
+      "display": "炮弹の左"
     },
     {
       "target": "hazy_middle_boss_hp",
+      "hitbox": "hazy_boss_breakable_middle",
       "display": "炮弹の中",
-      "hitbox": "hazy_boss_breakable_middle"
     },
     {
       "target": "hazy_right_boss_hp",
-      "display": "炮弹の右",
-      "hitbox": "hazy_boss_breakable_right"
+      "hitbox": "hazy_boss_breakable_right",
+      "display": "炮弹の右"
     },
     {
       "target": "right_eyerok_break",
-      "display": "黄金右手",
+      "display": "黄金右手"
     },
     {
       "target": "left_eyerok_break",
-      "display": "黄金左手",
+      "display": "黄金左手"
     }
   ],
   "Monsters": [
