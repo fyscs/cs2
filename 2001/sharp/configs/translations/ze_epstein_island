@@ -1,0 +1,73 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Hold them off a little longer!": {
+    "translation": "再等一会儿!"
+  },
+  "The door is heavy. The door is tired. The door will rest.": {
+    "translation": "门:好重,我累了,先歇会儿,您们慢慢守凹"
+  },
+  "somehow... he is still in this plane of existence": {
+    "translation": "不知道为什么... 他仍然存在于此"
+  },
+  "he'll use this opportunity to throw the world into chaos": {
+    "translation": "他将利用这个机会让世界陷入混乱"
+  },
+  "wake up now... we have a flight to catch": {
+    "translation": "醒醒... 该赶航班了"
+  },
+  "This is the right grave, quick get in - this dream will end soon.": {
+    "translation": "auv,这是正确的坟,赶紧钻进去 - 梦该醒了."
+  },
+  "The otherworld is collapsing, you have to jump - NOW!!!!": {
+    "translation": "世界正在崩溃, 你该润了 - NOW!!!!"
+  },
+  "RTV": {
+    "translation": "RTV,地图翻译:白姬"
+  },
+  "WE GOTTA JUMP IT, HOLD OUT!!": {
+    "translation": "我们得跳过去 坚持住"
+  },
+  "FIND SOMETHING TO CLEAR THE PATH": {
+    "translation": "找点东西来清理道路"
+  },
+  "THE DOORS ARE LOCKED - KEEP JIGGLING THE KNOB!!": {
+    "translation": "门锁住了 继续晃动门把手"
+  },
+  "USE THE VAN TO BREAK THE BLOCKADE": {
+    "translation": "用货车突破路障"
+  },
+  "GO GO GO!!": {
+    "translation": "快走快走快走"
+  },
+  "WE NEED TO HOLD UNTIL THE PLANE IS FUELED!!!": {
+    "translation": "我们需要坚持到飞机加满油"
+  },
+  "THIS ISN'T AIRWORTHY, WE'LL NEED TO USE IT TO BUST THROUGH THE FENCE": {
+    "translation": "这飞机没法飞 我们需要用它撞穿围栏"
+  },
+  "WE'LL TAKE THE 777 - A SQUAD PILOT SHOULD BE THERE FOR US...": {
+    "translation": "我们就用这架777 应该有个小队飞行员在等我们"
+  },
+  "SAFEROOM DOOR CLOSING IN 15 SECONDS": {
+    "translation": "安全室门将在15秒后关闭"
+  },
+  "THE WEST HAS FALLEN": {
+    "translation": "西方已陷落"
+  },
+  "IS THERE ANY PART OF THE WORLD THAT IS SAFE": {
+    "translation": "世界上还有安全的地方吗"
+  },
+  "THE BRAINROT - HAS TAKEN OVER... WHO IS TO BLAME??": {
+    "translation": "脑腐病已经蔓延 该怪谁呢"
+  }
+}
