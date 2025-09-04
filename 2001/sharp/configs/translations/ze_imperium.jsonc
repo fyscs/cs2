@@ -76,7 +76,7 @@
   ">>> That's it! Gate is opening <<<": {
     "translation": "就这样!大门马上就打开了!"
   },
-    ">>> That's it! The doors should be opening soon! <<<": {
+  ">>> That's it! The doors should be opening soon! <<<": {
     "translation": "就这样!门马上就打开了!"
   },
   ">>> The right-side elevator will leave first! Get on!! <<<": {
@@ -124,7 +124,7 @@
   ">>> Third platform is moving! <<<": {
     "translation": "第三个平台正在移动!"
   },
-    ">>> Hold the zombies on the bridge!! <<<": {
+  ">>> Hold the zombies on the bridge!! <<<": {
     "translation": "守住桥上这些僵尸!"
   },
   ">>> Let's move forward to the tower! <<<": {
