@@ -833,7 +833,7 @@
     "cooldown": 140,
     "nomination": true,
     "price": 550,
-    "requiredOnline": 900,
+    "requiredOnline": 600,
     "requiredPlayers": 40
   },
   "ze_diamond_cube_v1_cs2": {
