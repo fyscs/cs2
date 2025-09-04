@@ -22,10 +22,10 @@
   },
   "2": {
     "rankPasses": 11,
-    "rankDamage": 24000,
+    "rankDamage": 30000,
     "rankIntern": 0.55,
     "econPasses": 7,
-    "econDamage": 28000,
+    "econDamage": 34000,
     "econIntern": 0.45
   },
   "3": {
@@ -38,10 +38,10 @@
   },
   "4": {
     "rankPasses": 12,
-    "rankDamage": 25000,
+    "rankDamage": 32000,
     "rankIntern": 0.5,
     "econPasses": 8,
-    "econDamage": 28000,
+    "econDamage": 36000,
     "econIntern": 0.4
   }
 }
