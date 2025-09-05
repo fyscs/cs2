@@ -21,32 +21,26 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Counters": [
-    {
-      "iterator": "Map_Boss_TheHeart_Chains_Counter",
-      "hitbox": "Map_Boss_TheHeart_Chain_1",
-      "display": "心脏枷锁-1"
-    },
-    {
-      "iterator": "Map_Boss_TheHeart_Chains_Counter",
-      "hitbox": "Map_Boss_TheHeart_Chain_2",
-      "display": "心脏枷锁-2"
-    },
-    {
-      "iterator": "BMap_Boss_TheHeart_Chains_Counter",
-      "hitbox": "Map_Boss_TheHeart_Chain_3",
-      "display": "心脏枷锁-3"
-    },
-    {
-      "iterator": "BMap_Boss_TheHeart_Chains_Counter",
-      "hitbox": "Map_Boss_TheHeart_Chain_4",
-      "display": "心脏枷锁-4"
-    }
-  ],
   "Monsters": [
     {
       "identity": "9311",
       "display": "*%鲁^!$#之心"
+    },
+    {
+      "identity": "9297",
+      "display": "心脏枷锁-1"
+    },
+    {
+      "identity": "9300",
+      "display": "心脏枷锁-2"
+    },
+    {
+      "identity": "9302",
+      "display": "心脏枷锁-3"
+    },
+    {
+      "identity": "9304",
+      "display": "心脏枷锁-4"
     }
   ]
 }
