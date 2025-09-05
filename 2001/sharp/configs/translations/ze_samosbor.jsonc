@@ -1,0 +1,136 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">> Elevator will leave in 40 seconds <<": {
+    "translation": "电梯将在40秒后出发"
+  },
+  ">> You need to fill the fuel tank to activate the elevator.. <<": {
+    "translation": "你需要将油箱加满才能启动电梯"
+  },
+  ">> Elevator's doors are closing in 10 seconds <<": {
+    "translation": "电梯门将在10秒后关闭"
+  },
+  ">> Fuel Tank has been filled <<": {
+    "translation": "油箱已加满"
+  },
+  ">> Elevator has been found <<": {
+    "translation": "楼梯已找到"
+  },
+  ">> You have 45 seconds to fill the Fuel Tank, before elevator eats you. <<": {
+    "translation": "你有45秒的时间将油箱加满,否则电梯将吞噬你"
+  },
+  ">> 3... <<": {
+    "translation": "3.."
+  },
+  ">> 2... <<": {
+    "translation": "2..."
+  },
+  ">> 1... <<": {
+    "translation": "1..."
+  },
+  ">> Zombies have found the exit.. <<": {
+    "translation": "僵尸们已经找到了出口.."
+  },
+  ">> What's done in the Dark will be brought to Light... <<<": {
+    "translation": "黑暗中的一切终将显露于光明之中..."
+  },
+  ">> ZE_SAMOSBOR <<": {
+    "translation": "-自肃禁区-"
+  },
+  ">> You: *Yawns*.. Another day.. Another day in this weird place... <<": {
+    "translation": "你:(打哈欠~)又一天...在这个奇怪的地方又过了一天.."
+  },
+  ">> You: It's time to find the 'Heart' of it.. <<": {
+    "translation": "你:是时候去寻找它的*心脏*了"
+  },
+  ">> There's a store nearby... <<": {
+    "translation": "附近有一家商店..."
+  },
+  ">> Elevator will leave in 20 seconds <<": {
+    "translation": "电梯将在20秒后出发"
+  },
+  ">> FLOOR 1 <<": {
+    "translation": "一层"
+  },
+  ">> FLOOR 2 <<": {
+    "translation": "二层"
+  },
+  ">> FLOOR 3 <<": {
+    "translation": "三层"
+  },
+  ">> FLOOR 4 <<": {
+    "translation": "四层"
+  },
+  ">> FLOOR 5 <<": {
+    "translation": "五层"
+  },
+  ">> Zombie Cage will open in 23 seconds <<": {
+    "translation": "尸笼将在23秒后打开"
+  },
+  ">> Zombie Cage will open in 20 seconds <<": {
+    "translation": "尸笼将在20秒后打开"
+  },
+  ">> You: Where am I? Why am I outside now?! <<": {
+    "translation": "你:我在哪?我怎么在外面?!"
+  },
+  ">> You: This sh*t doesn't make any sense for me.. I thought you can not escape those infinite corridors... <<": {
+    "translation": "你:这件事情对我来说毫无意义...我认为您无法逃脱那些无尽的走廊..."
+  },
+  ">> Final Elevator will start leaving in 20 seconds <<": {
+    "translation": "最后一班电梯将在20秒后离开"
+  },
+  ">> You: What..? I came back to the same place after everything I went through? Is there really no escape afterall.. <<": {
+    "translation": "你:为什么..?我经历了一切后又回到同样的地方?难道真的无路可逃吗..."
+  },
+  ">> You: Ugh.. Maybe I should give it another try later, but for now, I should rest.. <<": {
+    "translation": "你:啊..也许我应该再试一次,但现在我需要休息了..."
+  },
+  ">> Map by Kondik and Waffel <<": {
+    "translation": "地图作者:Kondik and Waffel文本翻译:圣光猫猫"
+  },
+  ">> The Heart of Khrushchevka <<": {
+    "translation": "*%鲁^!$#之心"
+  },
+  ">> The Wind of Dark <<": {
+    "translation": "暗黑风暴"
+  },
+  ">> Gigastructure's Rage <<": {
+    "translation": "巨构之怒"
+  },
+  ">> Gigastructure's Kletka <<": {
+    "translation": "巨构囚笼"
+  },
+  ">> Acid of Death <<": {
+    "translation": "溶尽死亡"
+  },
+  ">> Reflection of Pain <<": {
+    "translation": "痛苦映照"
+  },
+  ">> The Heart Beat <<": {
+    "translation": "心律惩戒"
+  },
+  ">> FLOOR ... <<": {
+    "translation": "第..层?!"
+  },
+  ">> ...? <<": {
+    "translation": "...?"
+  },
+  ">> You shouldn't be here... <<": {
+    "translation": "你不该在这..."
+  },
+  ">> You: I finally found it... This must be The Heart of this Gigastructure.. <<": {
+    "translation": "你:我终于找到了...这一定是这个超级结构的核心.."
+  },
+  ">> SAMOSBOR DETECTED!! Leave this place immediately! <<": {
+    "translation": "SAMOSBOR已被检测到!!马上离开这里!!"
+  }
+}
