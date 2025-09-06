@@ -3122,6 +3122,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_prisonbreak_rescue": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 35
+  },
   "ze_project_codex": {
     "admin": false,
     "certainTimes": [13, 14, 15, 16, 17, 18, 19, 20, 21, 22],

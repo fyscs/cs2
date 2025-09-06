@@ -1,0 +1,124 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Please hold on for 30 seconds!": {
+    "translation": "请坚持30秒"
+  },
+  "The elevator is working again!": {
+    "translation": "电梯已恢复运行"
+  },
+  "Warning!Zombie reinforcements have arrived!": {
+    "translation": "警告 僵尸增援已到达"
+  },
+  "Please hold on for 20 seconds!": {
+    "translation": "请坚持20秒"
+  },
+  "Please hold on for 10 seconds!": {
+    "translation": "请坚持10秒"
+  },
+  "Activate the firewall controller!": {
+    "translation": "启动防火墙控制器"
+  },
+  "Wait until the firewall is open!": {
+    "translation": "等待防火墙开启"
+  },
+  "The firewall will open in 5 seconds...": {
+    "translation": "防火墙将在5秒后开启"
+  },
+  "The firewall will open in 4 seconds...": {
+    "translation": "防火墙将在4秒后开启"
+  },
+  "The firewall will open in 3 seconds...": {
+    "translation": "防火墙将在3秒后开启"
+  },
+  "The firewall will open in 2 seconds...": {
+    "translation": "防火墙将在2秒后开启"
+  },
+  "The firewall will open in 1 second...": {
+    "translation": "防火墙将在1秒后开启"
+  },
+  "The gate to the next area has opened!": {
+    "translation": "通往下一区域的大门已开启"
+  },
+  "Activate one of the firewall controllers!": {
+    "translation": "启动任意一个防火墙控制器"
+  },
+  "Activate 1 controller in Area A!": {
+    "translation": "在A区启动1个控制器"
+  },
+  "Activate 3 controllers in Area C!": {
+    "translation": "在C区启动3个控制器"
+  },
+  "Activate 2 controllers in Area B!": {
+    "translation": "在B区启动2个控制器"
+  },
+  "The rescue helicopter has arrived!": {
+    "translation": "救援直升机已抵达"
+  },
+  "The rescue helicopter is about to arrive!": {
+    "translation": "救援直升机即将抵达"
+  },
+  "Escape successful!!!": {
+    "translation": "逃脱成功"
+  },
+  "Escort First Lieutenant Sas!": {
+    "translation": "护送萨斯中尉"
+  },
+  "Call a support helicopter from the rooftop radio facility...": {
+    "translation": "通过屋顶无线电设施 呼叫支援直升机"
+  },
+  "Hold on until the rescue helicopter arrives!": {
+    "translation": "坚持 直到救援直升机抵达"
+  },
+  "First Lieutenant Sas dead...": {
+    "translation": "萨斯中尉死亡"
+  },
+  "The helicopter will withdraw in 20 seconds!!": {
+    "translation": "直升机将在20秒后撤离"
+  },
+  "The helicopter will withdraw in 10 seconds!!!": {
+    "translation": "直升机将在10秒后撤离"
+  },
+  "The helicopter will withdraw in 30 seconds!": {
+    "translation": "直升机将在30秒后撤离"
+  },
+  "The helicopter will withdraw in 5 seconds!!!": {
+    "translation": "直升机将在5秒后撤离"
+  },
+  "The helicopter will withdraw in 4 seconds!!!": {
+    "translation": "直升机将在4秒后撤离"
+  },
+  "The helicopter will withdraw in 3 seconds!!!": {
+    "translation": "直升机将在3秒后撤离"
+  },
+  "The helicopter will withdraw in 2 seconds!!!": {
+    "translation": "直升机将在2秒后撤离"
+  },
+  "The helicopter will withdraw in 1 second!!!": {
+    "translation": "直升机将在1秒后撤离"
+  },
+  "Move upstairs to avoid the flames!": {
+    "translation": "向上移动躲避火焰"
+  },
+  "Activate the emergency power controller!": {
+    "translation": "启动应急电源控制器"
+  },
+  "Pass through the hall and move towards the elevator!": {
+    "translation": "穿过大厅 向电梯移动"
+  },
+  "Find and rescue First Lieutenant Sas!": {
+    "translation": "寻找并救援萨斯中尉"
+  },
+  "Move to the helipad now!": {
+    "translation": "立即前往直升机停机坪"
+  }
+}
