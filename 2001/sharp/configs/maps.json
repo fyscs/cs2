@@ -2303,6 +2303,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_minecraft_drifts": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_minecraft_journey_v1": {
     "admin": false,
     "certainTimes": [-1],
