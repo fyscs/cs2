@@ -997,5 +997,1203 @@
   "伊莎玛拉将在10s后释放终极，并扣除30点目标生命值": {
     "translation": "伊莎玛拉将在10s后释放终极",
     "countdown": 10
+  },
+  "road opens in 20s": {
+    "translation": "道路将在20s后开启"
+  },
+  "AFK Zombies will teleport in 30s": {
+    "translation": "挂机僵尸将在30s后传送"
+  },
+  "road opens in 30s": {
+    "translation": "道路将在30s后开启"
+  },
+  "Cannot: My old friends,we meet again": {
+    "translation": "坎诺特:我的老朋友,我们又见面了"
+  },
+  "Cannot：Give me Originium coins, and I'll give you the goods—no need to worry too much.": {
+    "translation": "坎诺特:你给我源石锭,我给你货物,不用操心太多"
+  },
+  "PRTS: If you have an immunity item, please do not use it in human infection immunity stages—otherwise, it will render the human infection immunity invalid.": {
+    "translation": "PRTS:如果你有免疫道具,请不要在人类感染免疫阶段使用,否则会使人类感染免疫失效"
+  },
+  "road opens in 30s,AFK Zombies will teleport in 20s": {
+    "translation": "道路将在30s后开启,挂机僵尸将在20s后传送"
+  },
+  "AFK Zombies will teleport in 25s": {
+    "translation": "挂机僵尸将在25s后传送"
+  },
+  "road opens in 30s,the other road opens in 20s": {
+    "translation": "道路将在30s后开启,另一条道路将在20s后开启"
+  },
+  "road opens in 15s": {
+    "translation": "道路将在15s后开启"
+  },
+  "Stultifera navis will sink in 20s": {
+    "translation": "愚人号将在20s后沉没"
+  },
+  "the third level has passed,12 originium coins acquired": {
+    "translation": "第三层已通过,获得12源石锭"
+  },
+  "doors open in 30s": {
+    "translation": "大门将在30s后开启"
+  },
+  "doors close in 10s": {
+    "translation": "大门将在10s后关闭"
+  },
+  "AFK Zombies will teleport in 20s": {
+    "translation": "挂机僵尸将在20s后传送"
+  },
+  "AFK Zombies will teleport in 15s": {
+    "translation": "挂机僵尸将在15s后传送"
+  },
+  "the other road has openned": {
+    "translation": "另一条道路已开启"
+  },
+  "the second level has passed,6 originium coins acquired": {
+    "translation": "第二层已通过,获得6源石锭"
+  },
+  "the lighthouse has been lit,road opens in 20s": {
+    "translation": "灯塔已被点亮,道路将在20s后开启"
+  },
+  "Originium coin +1": {
+    "translation": "源石锭+1"
+  },
+  "the first level has passed,6 originium coin acquired": {
+    "translation": "第一层已通过,获得6源石锭"
+  },
+  "Cannot:Hey there, old friend! Come check out my new shop!": {
+    "translation": "坎诺特:嘿,老朋友,来看看我的新店"
+  },
+  "Cannot：Same deal as always — trade your Originium coins for survival supplies": {
+    "translation": "坎诺特:还是老规矩,用你的源石锭交换生存物资"
+  },
+  "Cannot：If you're unsure how many Source Stone Ingots you have, feel free to check with me": {
+    "translation": "坎诺特:如果你不确定有多少源石锭,可以随时问我"
+  },
+  "Originum coin +1": {
+    "translation": "源石锭+1"
+  },
+  "the elevator will go up in 30s,AFK Zombies will teleport in 20s": {
+    "translation": "电梯将在30s后上升,挂机僵尸将在20s后传送"
+  },
+  "PRTS:The tools collected during the expedition have been organized in the left-hand room. It's advisable to take inventory before heading out": {
+    "translation": "PRTS:远征期间收集的工具已整理在左侧房间,建议出发前清点"
+  },
+  "Welcome to ze_arknights_caerula_arbor": {
+    "translation": "ze_arknights_caerula_arbor 文本:Zeyu1"
+  },
+  "The round you are currently in is the warm-up round": {
+    "translation": "当前是热身回合"
+  },
+  "When you feel boring,you can try to drink some hot water": {
+    "translation": "当你感到无聊时,可以喝点热水"
+  },
+  "If you're in offline mode, use the console command to reset the round and start the first level": {
+    "translation": "离线模式请使用控制台命令 重置回合并开始第一关"
+  },
+  "At last,wish you enjoy your trip": {
+    "translation": "最后,祝你旅途愉快"
+  },
+  "ex模式已开启，祝你好运!": {
+    "translation": "ex模式已开启,祝你好运!"
+  },
+  "Originium coins +2": {
+    "translation": "源石锭+2"
+  },
+  "The door lock of the wooden door is tightly locked.": {
+    "translation": "木门门锁紧闭"
+  },
+  "The door lock of the wooden door seems loose.": {
+    "translation": "木门门锁似乎松动"
+  },
+  "Cannot：My old friend, it would be troublesome if you damage my goods.": {
+    "translation": "坎诺特:我的老朋友,损坏我的商品会很麻烦"
+  },
+  "Cannot：Friends, I advise you not to harbor any evil intentions.": {
+    "translation": "坎诺特:朋友们,我劝你们不要动坏心思"
+  },
+  "Cannot：Friends, I advise you not to harbor any evil intentions at this stage.": {
+    "translation": "坎诺特:朋友们,我劝你们现阶段不要动坏心思"
+  },
+  "road opens in 40s,AFK Zombies will teleport in 20s": {
+    "translation": "道路将在40s后开启,挂机僵尸将在20s后传送"
+  },
+  "the second level has passed,12 originium coins acquired": {
+    "translation": "第二层已通过,获得12源石锭"
+  },
+  "Please do not use immunity in human infection immunity stages—otherwise, it will render the human infection immunity invalid.": {
+    "translation": "请不要在人类感染免疫阶段使用免疫,否则会使人类感染免疫失效"
+  },
+  "human health level add 1": {
+    "translation": "人类生命等级+1"
+  },
+  "Cannot：You need to give me the Originium coins first, and then you can handle this item as you like.": {
+    "translation": "坎诺特:你需要先给我源石锭,然后才能随意处理这件商品"
+  },
+  "Originium coins:1": {
+    "translation": "源石锭:1"
+  },
+  "Originium coins:2": {
+    "translation": "源石锭:2"
+  },
+  "Originium coins:3": {
+    "translation": "源石锭:3"
+  },
+  "Originium coins:4": {
+    "translation": "源石锭:4"
+  },
+  "Originium coins:5": {
+    "translation": "源石锭:5"
+  },
+  "Originium coins:6": {
+    "translation": "源石锭:6"
+  },
+  "Originium coins:7": {
+    "translation": "源石锭:7"
+  },
+  "Originium coins:8": {
+    "translation": "源石锭:8"
+  },
+  "Originium coins:9": {
+    "translation": "源石锭:9"
+  },
+  "Originium coins:10": {
+    "translation": "源石锭:10"
+  },
+  "Originium coins:11": {
+    "translation": "源石锭:11"
+  },
+  "Originium coins:12": {
+    "translation": "源石锭:12"
+  },
+  "Originium coins:13": {
+    "translation": "源石锭:13"
+  },
+  "Originium coins:14": {
+    "translation": "源石锭:14"
+  },
+  "Originium coins:15": {
+    "translation": "源石锭:15"
+  },
+  "Originium coins:16": {
+    "translation": "源石锭:16"
+  },
+  "Originium coins:17": {
+    "translation": "源石锭:17"
+  },
+  "Originium coins:18": {
+    "translation": "源石锭:18"
+  },
+  "Originium coins:19": {
+    "translation": "源石锭:19"
+  },
+  "Originium coins:20": {
+    "translation": "源石锭:20"
+  },
+  "Originium coins:21": {
+    "translation": "源石锭:21"
+  },
+  "Originium coins:22": {
+    "translation": "源石锭:22"
+  },
+  "Originium coins:23": {
+    "translation": "源石锭:23"
+  },
+  "Originium coins:24": {
+    "translation": "源石锭:24"
+  },
+  "Originium coins:25": {
+    "translation": "源石锭:25"
+  },
+  "Originium coins:26": {
+    "translation": "源石锭:26"
+  },
+  "Originium coins:27": {
+    "translation": "源石锭:27"
+  },
+  "Originium coins:28": {
+    "translation": "源石锭:28"
+  },
+  "Originium coins:29": {
+    "translation": "源石锭:29"
+  },
+  "Originium coins:30": {
+    "translation": "源石锭:30"
+  },
+  "Originium coins:31": {
+    "translation": "源石锭:31"
+  },
+  "Originium coins:32": {
+    "translation": "源石锭:32"
+  },
+  "Originium coins:33": {
+    "translation": "源石锭:33"
+  },
+  "Originium coins:34": {
+    "translation": "源石锭:34"
+  },
+  "Originium coins:35": {
+    "translation": "源石锭:35"
+  },
+  "Originium coins:36": {
+    "translation": "源石锭:36"
+  },
+  "Originium coins:37": {
+    "translation": "源石锭:37"
+  },
+  "Originium coins:38": {
+    "translation": "源石锭:38"
+  },
+  "Originium coins:39": {
+    "translation": "源石锭:39"
+  },
+  "Originium coins:40": {
+    "translation": "源石锭:40"
+  },
+  "Originium coins:41": {
+    "translation": "源石锭:41"
+  },
+  "Originium coins:42": {
+    "translation": "源石锭:42"
+  },
+  "Originium coins:43": {
+    "translation": "源石锭:43"
+  },
+  "Originium coins:44": {
+    "translation": "源石锭:44"
+  },
+  "Originium coins:45": {
+    "translation": "源石锭:45"
+  },
+  "Originium coins:46": {
+    "translation": "源石锭:46"
+  },
+  "Originium coins:47": {
+    "translation": "源石锭:47"
+  },
+  "Originium coins:48": {
+    "translation": "源石锭:48"
+  },
+  "Originium coins:49": {
+    "translation": "源石锭:49"
+  },
+  "Originium coins:50": {
+    "translation": "源石锭:50"
+  },
+  "Originium coins:51": {
+    "translation": "源石锭:51"
+  },
+  "Originium coins:52": {
+    "translation": "源石锭:52"
+  },
+  "Originium coins:53": {
+    "translation": "源石锭:53"
+  },
+  "Originium coins:54": {
+    "translation": "源石锭:54"
+  },
+  "Originium coins:55": {
+    "translation": "源石锭:55"
+  },
+  "Originium coins:56": {
+    "translation": "源石锭:56"
+  },
+  "Originium coins:57": {
+    "translation": "源石锭:57"
+  },
+  "Originium coins:58": {
+    "translation": "源石锭:58"
+  },
+  "Originium coins:59": {
+    "translation": "源石锭:59"
+  },
+  "Originium coins:60": {
+    "translation": "源石锭:60"
+  },
+  "Originium coins:61": {
+    "translation": "源石锭:61"
+  },
+  "Originium coins:62": {
+    "translation": "源石锭:62"
+  },
+  "Originium coins:63": {
+    "translation": "源石锭:63"
+  },
+  "Originium coins:64": {
+    "translation": "源石锭:64"
+  },
+  "Lamplight:0": {
+    "translation": "灯火值:0"
+  },
+  "Lamplight:5": {
+    "translation": "灯火值:5"
+  },
+  "Lamplight:10": {
+    "translation": "灯火值:10"
+  },
+  "Lamplight:15": {
+    "translation": "灯火值:15"
+  },
+  "Lamplight:20": {
+    "translation": "灯火值:20"
+  },
+  "Lamplight:25": {
+    "translation": "灯火值:25"
+  },
+  "Lamplight:30": {
+    "translation": "灯火值:30"
+  },
+  "Lamplight:35": {
+    "translation": "灯火值:35"
+  },
+  "Lamplight:40": {
+    "translation": "灯火值:40"
+  },
+  "Lamplight:45": {
+    "translation": "灯火值:45"
+  },
+  "Lamplight:50": {
+    "translation": "灯火值:50"
+  },
+  "Lamplight:55": {
+    "translation": "灯火值:55"
+  },
+  "Lamplight:60": {
+    "translation": "灯火值:60"
+  },
+  "Lamplight:65": {
+    "translation": "灯火值:65"
+  },
+  "Lamplight:70": {
+    "translation": "灯火值:70"
+  },
+  "Lamplight:75": {
+    "translation": "灯火值:75"
+  },
+  "Lamplight:80": {
+    "translation": "灯火值:80"
+  },
+  "Lamplight:85": {
+    "translation": "灯火值:85"
+  },
+  "Lamplight:90": {
+    "translation": "灯火值:90"
+  },
+  "Lamplight:95": {
+    "translation": "灯火值:95"
+  },
+  "Lamplight:100": {
+    "translation": "灯火值:100"
+  },
+  "Cannot：Oh, be careful—if the item breaks by any chance, you’ll have to buy it at full price.": {
+    "translation": "坎诺特:哦,小心点,万一商品碎了,你就得全价购买"
+  },
+  "Cannot：You’re a smart person—we can still solve this problem with a smart approach.": {
+    "translation": "坎诺特:你是个聪明人,我们可以用聪明的方式解决这个问题"
+  },
+  "Stage: Last Stand. In this mode, humans cannot be grabbed. Zombies must rush into the Blue Target Point and reduce the Target HP to zero. Humans must hold off zombies for 60 seconds and prevent them from entering the Blue Door": {
+    "translation": "关卡:最后防线."
+  },
+  "After completing this stage, you may plunder Cannot's shop": {
+    "translation": "完成此关卡后,你可以洗劫坎诺特的商店"
+  },
+  "Target HP -1": {
+    "translation": "目标生命值-1"
+  },
+  "Target HP:1": {
+    "translation": "目标生命值:1"
+  },
+  "Target HP:3": {
+    "translation": "目标生命值:3"
+  },
+  "Target HP:4": {
+    "translation": "目标生命值:4"
+  },
+  "Target HP:5": {
+    "translation": "目标生命值:5"
+  },
+  "Target HP:6": {
+    "translation": "目标生命值:6"
+  },
+  "Target HP:7": {
+    "translation": "目标生命值:7"
+  },
+  "Target HP:8": {
+    "translation": "目标生命值:8"
+  },
+  "Target HP:9": {
+    "translation": "目标生命值:9"
+  },
+  "Target HP:10": {
+    "translation": "目标生命值:10"
+  },
+  "Target HP:11": {
+    "translation": "目标生命值:11"
+  },
+  "Target HP:12": {
+    "translation": "目标生命值:12"
+  },
+  "Target HP:13": {
+    "translation": "目标生命值:13"
+  },
+  "Target HP:14": {
+    "translation": "目标生命值:14"
+  },
+  "Target HP:15": {
+    "translation": "目标生命值:15"
+  },
+  "Target HP:16": {
+    "translation": "目标生命值:16"
+  },
+  "Target HP:17": {
+    "translation": "目标生命值:17"
+  },
+  "Target HP:18": {
+    "translation": "目标生命值:18"
+  },
+  "Target HP:19": {
+    "translation": "目标生命值:19"
+  },
+  "Target HP:20": {
+    "translation": "目标生命值:20"
+  },
+  "Target HP:21": {
+    "translation": "目标生命值:21"
+  },
+  "Target HP:22": {
+    "translation": "目标生命值:22"
+  },
+  "Target HP:23": {
+    "translation": "目标生命值:23"
+  },
+  "Target HP:24": {
+    "translation": "目标生命值:24"
+  },
+  "Target HP:25": {
+    "translation": "目标生命值:25"
+  },
+  "Target HP:26": {
+    "translation": "目标生命值:26"
+  },
+  "Target HP:27": {
+    "translation": "目标生命值:27"
+  },
+  "Target HP:28": {
+    "translation": "目标生命值:28"
+  },
+  "Target HP:29": {
+    "translation": "目标生命值:29"
+  },
+  "Target HP:30": {
+    "translation": "目标生命值:30"
+  },
+  "Target HP:31": {
+    "translation": "目标生命值:31"
+  },
+  "Target HP:32": {
+    "translation": "目标生命值:32"
+  },
+  "Target HP:33": {
+    "translation": "目标生命值:33"
+  },
+  "Target HP:34": {
+    "translation": "目标生命值:34"
+  },
+  "Target HP:35": {
+    "translation": "目标生命值:35"
+  },
+  "Target HP:36": {
+    "translation": "目标生命值:36"
+  },
+  "Target HP:37": {
+    "translation": "目标生命值:37"
+  },
+  "Target HP:38": {
+    "translation": "目标生命值:38"
+  },
+  "Target HP:39": {
+    "translation": "目标生命值:39"
+  },
+  "Target HP:40": {
+    "translation": "目标生命值:40"
+  },
+  "Target HP:41": {
+    "translation": "目标生命值:41"
+  },
+  "Target HP:42": {
+    "translation": "目标生命值:42"
+  },
+  "Target HP:43": {
+    "translation": "目标生命值:43"
+  },
+  "Target HP:44": {
+    "translation": "目标生命值:44"
+  },
+  "Target HP:45": {
+    "translation": "目标生命值:45"
+  },
+  "Target HP:0，mission failed，human will be nuked": {
+    "translation": "目标生命值:0,任务失败,人类将被核爆"
+  },
+  "Cannot will use the Invincibility Potion on the zombies in 5 seconds.": {
+    "translation": "坎诺特将在5秒后对僵尸使用无敌药剂"
+  },
+  "Cannot will use the Heal Potion on the zombies in 5 seconds.": {
+    "translation": "坎诺特将在5秒后对僵尸使用治疗药剂"
+  },
+  "Cannot will use the Rampage Potion on the zombies in 5 seconds.": {
+    "translation": "坎诺特将在5秒后对僵尸使用狂暴药剂"
+  },
+  "Cannot has been defeated; the humans will be teleported in 10 seconds.": {
+    "translation": "坎诺特已被击败,人类将在10秒后传送"
+  },
+  "Cannot has left, zombies will teleport in 12s": {
+    "translation": "僵尸将在12s后传送"
+  },
+  "Cannot: Oh, be careful—if the item breaks by any chance, you’ll have to buy it at full price.": {
+    "translation": "坎诺特:哦,小心点,万一商品碎了,你就得全价购买"
+  },
+  "Cannot: You’re a smart person—we can still solve this problem with a smart approach.": {
+    "translation": "坎诺特:你是个聪明人,我们可以用聪明的方式解决这个问题"
+  },
+  "Cannot: You need to give me the Originium coins first, and then you can handle this item as you like.": {
+    "translation": "坎诺特:你需要先给我源石锭,然后才能随意处理这件商品"
+  },
+  "Dice:1": {
+    "translation": "骰子:1"
+  },
+  "Dice:2": {
+    "translation": "骰子:2"
+  },
+  "Dice:3": {
+    "translation": "骰子:3"
+  },
+  "Dice:4": {
+    "translation": "骰子:4"
+  },
+  "Dice:5": {
+    "translation": "骰子:5"
+  },
+  "Dice:6": {
+    "translation": "骰子:6"
+  },
+  "Dice:7": {
+    "translation": "骰子:7"
+  },
+  "Dice:8": {
+    "translation": "骰子:8"
+  },
+  "Dice:9": {
+    "translation": "骰子:9"
+  },
+  "Dice:10": {
+    "translation": "骰子:10"
+  },
+  "Dice:11": {
+    "translation": "骰子:11"
+  },
+  "Dice:12": {
+    "translation": "骰子:12"
+  },
+  "Dice:13": {
+    "translation": "骰子:13"
+  },
+  "Dice:14": {
+    "translation": "骰子:14"
+  },
+  "Dice:15": {
+    "translation": "骰子:15"
+  },
+  "Dice:16": {
+    "translation": "骰子:16"
+  },
+  "Dice:17": {
+    "translation": "骰子:17"
+  },
+  "Dice:18": {
+    "translation": "骰子:18"
+  },
+  "Dice:19": {
+    "translation": "骰子:19"
+  },
+  "Dice:20": {
+    "translation": "骰子:20"
+  },
+  "Dice:21": {
+    "translation": "骰子:21"
+  },
+  "Dice:22": {
+    "translation": "骰子:22"
+  },
+  "Dice:23": {
+    "translation": "骰子:23"
+  },
+  "Dice:24": {
+    "translation": "骰子:24"
+  },
+  "Dice:25": {
+    "translation": "骰子:25"
+  },
+  "Dice:0": {
+    "translation": "骰子:0"
+  },
+  "Dice rolls 1": {
+    "translation": "骰子掷出1"
+  },
+  "Dice rolls 2": {
+    "translation": "骰子掷出2"
+  },
+  "Dice rolls 3": {
+    "translation": "骰子掷出3"
+  },
+  "Dice rolls 4": {
+    "translation": "骰子掷出4"
+  },
+  "Dice rolls 5": {
+    "translation": "骰子掷出5"
+  },
+  "Dice rolls 6!": {
+    "translation": "骰子掷出6!"
+  },
+  "Cannot pulls out 2 new items": {
+    "translation": "坎诺特取出2件新商品"
+  },
+  "Cannot pulls out 4 new items": {
+    "translation": "坎诺特取出4件新商品"
+  },
+  "Cannot pulls out 4 new items and gives you a free item": {
+    "translation": "坎诺特取出4件新商品并免费赠送你一件"
+  },
+  "Map difficulty has been reduced. Silent Squad will provide escort throughout the mission": {
+    "translation": "地图难度已降低,静音小队将全程护航"
+  },
+  "human health level +4": {
+    "translation": "人类生命等级+4"
+  },
+  "human health level +2": {
+    "translation": "人类生命等级+2"
+  },
+  "Originium coins +24": {
+    "translation": "源石锭+24"
+  },
+  "boss level -4": {
+    "translation": "boss难度-4"
+  },
+  "Originium coins +15": {
+    "translation": "源石锭+15"
+  },
+  "Originium coins +35": {
+    "translation": "源石锭+35"
+  },
+  "boss level -2": {
+    "translation": "boss难度-2"
+  },
+  "Originium coins +6": {
+    "translation": "源石锭+6"
+  },
+  "Target HP +3": {
+    "translation": "目标生命值+3"
+  },
+  "rolls remaining +1": {
+    "translation": "剩余掷骰次数+1"
+  },
+  "keys +1": {
+    "translation": "钥匙+1"
+  },
+  "boss level -1": {
+    "translation": "boss难度-1"
+  },
+  "keys +3": {
+    "translation": "钥匙+3"
+  },
+  "rolls remaining +2": {
+    "translation": "剩余掷骰次数+2"
+  },
+  "rolls remaining +4": {
+    "translation": "剩余掷骰次数+4"
+  },
+  "King's Branch has been activated. Human players gain a HP regeneration buff": {
+    "translation": "国王分支已激活,人类玩家获得生命恢复增益"
+  },
+  "King's Lance is active. Players near the Heal item gain unlimited ammunition": {
+    "translation": "国王长矛已激活,治疗物品附近的玩家获得无限弹药"
+  },
+  "rolls remaining +6": {
+    "translation": "剩余掷骰次数+6"
+  },
+  "Lamplight +15": {
+    "translation": "灯火值+15"
+  },
+  "Lamplight +30": {
+    "translation": "灯火值+30"
+  },
+  "Lamplight +60": {
+    "translation": "灯火值+60"
+  },
+  "Target HP +4": {
+    "translation": "目标生命值+4"
+  },
+  "Target HP +6": {
+    "translation": "目标生命值+6"
+  },
+  "Target HP +10": {
+    "translation": "目标生命值+10"
+  },
+  "human item cd -10s": {
+    "translation": "人类物品冷却-10s"
+  },
+  "Human items cd level:1": {
+    "translation": "人类物品冷却等级:1"
+  },
+  "Originium coins:0": {
+    "translation": "源石锭:0"
+  },
+  "Originium coins:65": {
+    "translation": "源石锭:65"
+  },
+  "Originium coins:66": {
+    "translation": "源石锭:66"
+  },
+  "Originium coins:67": {
+    "translation": "源石锭:67"
+  },
+  "Originium coins:68": {
+    "translation": "源石锭:68"
+  },
+  "Originium coins:69": {
+    "translation": "源石锭:69"
+  },
+  "Originium coins:70": {
+    "translation": "源石锭:70"
+  },
+  "Originium coins:71": {
+    "translation": "源石锭:71"
+  },
+  "Originium coins:72": {
+    "translation": "源石锭:72"
+  },
+  "Originium coins:73": {
+    "translation": "源石锭:73"
+  },
+  "Originium coins:74": {
+    "translation": "源石锭:74"
+  },
+  "Originium coins:75": {
+    "translation": "源石锭:75"
+  },
+  "Originium coins:76": {
+    "translation": "源石锭:76"
+  },
+  "Originium coins:77": {
+    "translation": "源石锭:77"
+  },
+  "Originium coins:78": {
+    "translation": "源石锭:78"
+  },
+  "Originium coins:79": {
+    "translation": "源石锭:79"
+  },
+  "Originium coins:80": {
+    "translation": "源石锭:80"
+  },
+  "Originium coins:81": {
+    "translation": "源石锭:81"
+  },
+  "Originium coins:82": {
+    "translation": "源石锭:82"
+  },
+  "Originium coins:83": {
+    "translation": "源石锭:83"
+  },
+  "Originium coins:84": {
+    "translation": "源石锭:84"
+  },
+  "Originium coins:85": {
+    "translation": "源石锭:85"
+  },
+  "Originium coins:86": {
+    "translation": "源石锭:86"
+  },
+  "Originium coins:87": {
+    "translation": "源石锭:87"
+  },
+  "Originium coins:88": {
+    "translation": "源石锭:88"
+  },
+  "Originium coins:89": {
+    "translation": "源石锭:89"
+  },
+  "Originium coins:90": {
+    "translation": "源石锭:90"
+  },
+  "Originium coins:91": {
+    "translation": "源石锭:91"
+  },
+  "Originium coins:92": {
+    "translation": "源石锭:92"
+  },
+  "Originium coins:93": {
+    "translation": "源石锭:93"
+  },
+  "Originium coins:94": {
+    "translation": "源石锭:94"
+  },
+  "Originium coins:95": {
+    "translation": "源石锭:95"
+  },
+  "Rejection Reaction in 20s: Neurodegeneration (Freezes all human players for 8s)": {
+    "translation": "20s后排异反应:神经退行(冰冻人类)"
+  },
+  "Rejection Reaction in 20s：Flesh Aberration (Zombies go Frenzy for 8s)": {
+    "translation": "20s后排异反应:血肉畸变(僵尸狂暴)"
+  },
+  "Rejection Reaction in 20s:Flesh Aberration (Zombies go Frenzy for 8s)": {
+    "translation": "20s后排异反应:血肉畸变(僵尸狂暴)"
+  },
+  "Rejection Reaction in 20s:Hematopoietic Failure (Humans continuously lose HP)": {
+    "translation": "20s后排异反应:造血障碍(人类失去生命值)"
+  },
+  "Rejection Reaction in 20s:Attention Dysregulation (Human artifacts: Heal1, Slow, True Sight, and Ice will automatically cast within 15s)": {
+    "translation": "20s后排异反应:专注失调"
+  },
+  "Keys:0": {
+    "translation": "钥匙:0"
+  },
+  "Keys:1": {
+    "translation": "钥匙:1"
+  },
+  "Keys:2": {
+    "translation": "钥匙:2"
+  },
+  "Keys:3": {
+    "translation": "钥匙:3"
+  },
+  "Keys:4": {
+    "translation": "钥匙:4"
+  },
+  "Keys:5": {
+    "translation": "钥匙:5"
+  },
+  "Keys:6": {
+    "translation": "钥匙:6"
+  },
+  "Keys:7": {
+    "translation": "钥匙:7"
+  },
+  "Keys:8": {
+    "translation": "钥匙:8"
+  },
+  "Keys:9": {
+    "translation": "钥匙:9"
+  },
+  "Keys:10": {
+    "translation": "钥匙:10"
+  },
+  "Keys:11": {
+    "translation": "钥匙:11"
+  },
+  "Keys:12": {
+    "translation": "钥匙:12"
+  },
+  "Dice rolls a 1; Zombie movement speed reduced to 0.9 for 8s": {
+    "translation": "骰子掷出<1>,僵尸移动速度降低"
+  },
+  "Dice rolls a 2; Zombie movement speed reduced to 0.8 for 8s": {
+    "translation": "骰子掷出<2>,僵尸移动速度降低"
+  },
+  "Dice rolls a 3; Zombie movement speed reduced to 0.7 for 8s": {
+    "translation": "骰子掷出<3>,僵尸移动速度降降低"
+  },
+  "Dice rolls a 4; Zombie movement speed reduced to 0.6 for 8s;reset cooldowns for all human items: Heal1, Ice, Slow, and True Sight": {
+    "translation": "骰子掷出<4>,僵尸移动速度降低,重置人类物品冷却"
+  },
+  "Dice rolls a 5; Zombie movement speed reduced to 0.5 for 8s;reset cooldowns for all human items: Heal1, Ice, Slow, and True Sight": {
+    "translation": "骰子掷出<5>,僵尸移动速度降低,重置人类物品冷却"
+  },
+  "Dice rolls a 6! Zombie movement speed reduced to 0.4 for 8s;reset cooldowns for all human items: Heal1, Ice, Slow, and True Sight": {
+    "translation": "骰子掷出<6>,僵尸移动速度降低,重置人类物品冷却"
+  },
+  "第一层已通过，额外获得6源石锭": {
+    "translation": "第一层已通过,额外获得6源石锭"
+  },
+  "Zombies will teleport in 30s": {
+    "translation": "僵尸将在30s后传送"
+  },
+  "True Sight Artifact acquired. Applies Slow to zombies within range, and reveals hidden zombies": {
+    "translation": "获得真视神器,范围内僵尸减速并显形"
+  },
+  "New item Acquired: Heal. Channels healing to humans in range during activation. Upgrading it allows cleansing slow effects from humans": {
+    "translation": "获得新物品:治疗,激活时治疗范围内人类,升级后可清除减速效果"
+  },
+  "New Item Acquired: Wall. Blocks zombies' advance for the skill's duration": {
+    "translation": "获得新物品:墙壁,技能持续期间阻挡僵尸前进"
+  },
+  "the road will open in 20s": {
+    "translation": "道路将在20s后开启"
+  },
+  "The gate will close in 10 seconds. Please prepare for the final boss battle.": {
+    "translation": "大门将在10秒后关闭,请准备最终boss战"
+  },
+  "New Item Acquired: Illumination. Slows zombies in stealth for the skill's duration": {
+    "translation": "获得新物品:照明,技能持续期间减速隐身僵尸",
+    "blocked": true
+  },
+  "Zombies' New Item: Rampage – Zombies within the skill range can gain speed.": {
+    "translation": "僵尸新物品:狂暴-技能范围内僵尸可获得加速",
+    "blocked": true
+  },
+  "New Zombie Item: Freeze. Freezes humans along its trajectory on use": {
+    "translation": "僵尸新物品:冰冻,使用后冻结路径上人类",
+    "blocked": true
+  },
+  "New Zombie Item: Curse. Slows and blinds humans along its trajectory on use": {
+    "translation": "僵尸新物品:诅咒,使用后减速并致盲路径上人类",
+    "blocked": true
+  },
+  "New Zombie Item: Shield. Grants immunity to knockback and provides a movement speed boost to zombies for the skill's duration": {
+    "translation": "僵尸新物品:护盾,技能持续期间免疫击退并提供移动速度提升",
+    "blocked": true
+  },
+  "New Zombie Item: Hidden. Renders the user immune to  human items:Ice,Slow for the skill's duration": {
+    "translation": "僵尸新物品:隐匿,技能持续期间免疫人类物品:冰,减速",
+    "blocked": true
+  },
+  "Isharmla has entered Phase 2": {
+    "translation": "伊莎玛拉已进入第二阶段"
+  },
+  "Isharmla has exited its evolved form.": {
+    "translation": "伊莎玛拉已退出进化形态"
+  },
+  "Vertical Blade (Watch out to dodge!)": {
+    "translation": "竖刀(注意躲避!)"
+  },
+  "Divine Punishment (Watch out to dodge!)": {
+    "translation": "神圣惩罚(注意躲避!)"
+  },
+  "Heavenly Fall (Look up and watch out to dodge!)": {
+    "translation": "天坠(抬头注意躲避!)"
+  },
+  "Continuous Damage Rune Circle (Watch out to dodge the rune circle's area!)": {
+    "translation": "持续伤害符文圈(注意躲避符文圈区域)"
+  },
+  "Delayed Explosion Rune Circle (Watch out to dodge the one that explodes first!)": {
+    "translation": "延迟爆炸符文圈(注意躲避先爆炸的)"
+  },
+  "Isharmla has gained 6 Evolution Points and will unleash a full-area ultimate attack in 10 seconds—all humans will lose 240 Health Points.": {
+    "translation": "伊莎玛拉获得进化值,将在10秒后释放全场终极攻击"
+  },
+  "Isharmla has gained 4 Evolution Progress and is about to enter its evolved form.": {
+    "translation": "伊莎玛拉获得进化进度,即将进入进化形态"
+  },
+  "The Endspeaker,Will of We Many has been defeated, the door will open in 10s": {
+    "translation": "意志已被击败,大门将在10s后开启"
+  },
+  "the road will open in 40s": {
+    "translation": "道路将在40s后开启"
+  },
+  "Barrage (Watch out to dodge!)": {
+    "translation": "弹幕(注意躲避!)"
+  },
+  "Black Hole (Find a structure to resist it!)": {
+    "translation": "黑洞(寻找建筑物抵抗!)"
+  },
+  "Ultimate (Immediately move closer to the left or right sides of the arena, and stay near the air wall to dodge damage!)": {
+    "translation": "终极(立即向场地左右两侧靠近,贴近空气墙躲避伤害!)"
+  },
+  "Zombie Cage (Block the zombies' attack!)": {
+    "translation": "僵尸笼(阻挡僵尸攻击!)"
+  },
+  "Zombies will teleport in 12s": {
+    "translation": "僵尸将在12s后传送"
+  },
+  "boss level -3": {
+    "translation": "boss难度-3"
+  },
+  "boss level -5": {
+    "translation": "boss难度-5"
+  },
+  "boss level -6": {
+    "translation": "boss难度-6"
+  },
+  "boss level -7": {
+    "translation": "boss难度-7"
+  },
+  "boss level -8": {
+    "translation": "boss难度-8"
+  },
+  "boss level -9": {
+    "translation": "boss难度-9"
+  },
+  "boss level -10": {
+    "translation": "boss难度-10"
+  },
+  "boss level -11": {
+    "translation": "boss难度-11"
+  },
+  "boss level -12": {
+    "translation": "boss难度-12"
+  },
+  "boss level -13": {
+    "translation": "boss难度-13"
+  },
+  "boss level -14": {
+    "translation": "boss难度-14"
+  },
+  "level -15": {
+    "translation": "boss难度-15"
+  },
+  "New Item Acquired: Ice. Applies a single-instance Slow effect to zombies within range during activation": {
+    "translation": "获得新物品:冰,激活时对范围内僵尸施加单次减速效果",
+    "blocked": true
+  },
+  "New Zombie Item: Fireball. Deals damage to all humans along its trajectory": {
+    "translation": "僵尸新物品:火球,对路径上所有人类造成伤害",
+    "blocked": true
+  },
+  "New Item Acquired: Slow. Grants a persistent slow effect to zombies within its area of effect for the duration of the skill": {
+    "translation": "获得新物品:减速,技能持续期间对范围内僵尸施加持续减速效果",
+    "blocked": true
+  },
+  "Isharmla will unleash its ultimate attack in 10 seconds and deduct 30 Target HP.": {
+    "translation": "伊莎玛拉将在10秒后释放终极攻击"
+  },
+  "Isharmla will unleash its ultimate attack in 10 seconds and deduct 30 Target HP": {
+    "translation": "伊莎玛拉将在10秒后释放终极攻击"
+  },
+  "The Endspeaker, Will of We Many has been defeated, the door will open in 10s": {
+    "translation": "意志已被击败,大门将在10s后开启"
+  },
+  "New Item Acquired: Wind. Applies a push force to zombies within its area of effect for the skill's duration": {
+    "translation": "获得新物品:风,技能持续期间对范围内僵尸施加推力",
+    "blocked": true
+  },
+  "Isharmla has been defeated. The gate will open in 20 seconds, and the zombies will be teleported in 20 seconds.": {
+    "translation": "伊莎玛拉已被击败,大门将在20秒后开启"
+  },
+  "The Endspeaker,Will of We Many will unleash its ultimate attack in 10 seconds and deduct 10 Target HP": {
+    "translation": "意志将在10秒后释放终极攻击"
+  },
+  "Human items cd level:2": {
+    "translation": "人类物品冷却等级:2"
+  },
+  "Selected 'King of Terra': Grants all King-type collectibles": {
+    "translation": "选择'大地之王':获得所有国王类型收藏品"
+  },
+  "human heal item level +3": {
+    "translation": "人类治疗物品等级+3"
+  },
+  "The cooldown time of all current artifacts is reduced by 40 seconds.": {
+    "translation": "所有当前神器冷却时间减少40秒"
+  },
+  "Human items cd level:4": {
+    "translation": "人类物品冷却等级:4"
+  },
+  "Human items cd level:3": {
+    "translation": "人类物品冷却等级:3"
+  },
+  "human heal item level +1": {
+    "translation": "人类治疗物品等级+1"
+  },
+  "human heal item level +2": {
+    "translation": "人类治疗物品等级+2"
+  },
+  "You are pulled by the dancer toward the pile of treasure chests, and inside one chest, you spot a terrifying fish mimicking the appearance of a gold coin.": {
+    "translation": "你被舞者拉向宝箱堆,在一个箱子内发现一条伪装成金币的可怕鱼"
+  },
+  "Suddenly, it dawns on you that this group of Sarkaz is highly likely to be Deep-Sea Cultists! When you turn around, all the Sarkaz have already drawn their weapons and are staring at you with malicious intent.": {
+    "translation": "突然,你意识到这群萨卡兹很可能是深海教徒!当你转身时,所有萨卡兹都已拔出武器,恶意地盯着你"
+  },
+  "The stage has passed, human will teleport in 5s": {
+    "translation": "关卡已通过,人类将在5s后传送"
+  },
+  "Originium coins +3": {
+    "translation": "源石锭+3"
+  },
+  "Zombie Rampage Triggered for 5 Seconds": {
+    "translation": "僵尸狂暴触发持续5秒"
+  },
+  "Zombie Invincibility Triggered for 5 Seconds": {
+    "translation": "僵尸无敌触发持续5秒"
+  },
+  "Level: The Joy of Treasure Chests.There are numerous treasure chests within this level; however, breaking open a chest will randomly drop zombie buffs that enhance their abilities. Humans must defend against the zombies within the level's time limit and prevent the target's Health Points (HP) from dropping to 0.": {
+    "translation": "关卡:宝箱之乐."
+  },
+  "Zombies, on the other hand, need to continuously enter the blue target zones defended by humans to reduce the humans' target Health Points (HP) to 0.": {
+    "translation": "僵尸则需要不断进入人类防守的蓝色目标区域,将人类目标生命值降至0"
+  },
+  "Triggered Event: The Suspended Funeral": {
+    "translation": "触发事件:悬而未决的葬礼"
+  },
+  "Triggered Event: Inheritance": {
+    "translation": "触发事件:继承"
+  },
+  "Triggered Event: Gathered Dark Clouds": {
+    "translation": "触发事件:聚集的乌云"
+  },
+  "Triggered Event: Camping": {
+    "translation": "触发事件:露营"
+  },
+  "Triggered Event: Dust Devouring Spread": {
+    "translation": "触发事件:尘埃吞噬蔓延"
+  },
+  "Triggered Event: Catastrophe Messenger": {
+    "translation": "触发事件:灾变信使"
+  },
+  "Triggered Event: Right and Wrong, Black and White": {
+    "translation": "触发事件:对与错,黑与白"
+  },
+  "Event Triggered:Calamity Herald": {
+    "translation": "事件触发:灾厄先驱"
+  },
+  "Event Triggered: Right and Wrong, Black and White": {
+    "translation": "事件触发:对与错,黑与白"
+  },
+  "Event Triggered: Lost Treasure": {
+    "translation": "事件触发:失落的宝藏"
+  },
+  "Event Triggered: pleasure for treasures": {
+    "translation": "事件触发:宝藏之悦"
+  },
+  "触发事件:点滴星火": {
+    "translation": "触发事件:点滴星火"
+  },
+  "触发事件:残存微光": {
+    "translation": "触发事件:残存微光"
+  },
+  "Shop prices have been reduced by 50%": {
+    "translation": "商店价格降低50%"
+  },
+  "Collected Item: Doctor. Only the first human who collects this item can make purchases": {
+    "translation": "收藏品:博士.只有第一个收集此物品的人类可以购买"
+  },
+  "boss level -16": {
+    "translation": "boss难度-16"
+  },
+  "boss level -17": {
+    "translation": "boss难度-17"
+  },
+  "boss level -18": {
+    "translation": "boss难度-18"
+  },
+  "Originium coins +1": {
+    "translation": "源石锭+1"
+  },
+  "Originium coins +4": {
+    "translation": "源石锭+4"
+  },
+  "Originium coins +5": {
+    "translation": "源石锭+5"
+  },
+  "Isharmla has exited its evolved form and entered the final phase.": {
+    "translation": "伊莎玛拉已退出进化形态并进入最终阶段"
+  },
+  "boss难度-2": {
+    "translation": "boss难度-2"
+  },
+  "已集齐3个魔王类藏品": {
+    "translation": "已集齐3个魔王类藏品"
+  },
+  "The Crowns of the Kings have taken effect; the Boss level -8": {
+    "translation": "国王王冠已生效,boss难度-8"
   }
 }
