@@ -1,0 +1,141 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ":: Elevator door open at 15 secs ::": {
+    "translation": "电梯门在15秒开启"
+  },
+  ":: Elevator door close at 5 secs ::": {
+    "translation": "电梯门在5秒关闭"
+  },
+  ":: Elevator door open at 50 secs ::": {
+    "translation": "电梯门在50秒开启"
+  },
+  ":: We find a elevator ::": {
+    "translation": "我们找到电梯了"
+  },
+  ":: Elevator door open at 60 secs ::": {
+    "translation": "电梯门在60秒开启"
+  },
+  ":: Human pick up [Wall] item ::": {
+    "translation": "人类拾取-墙"
+  },
+  "[Wall] cooldown : 60": {
+    "translation": "墙冷却时间:60s",
+    "blocked": true
+  },
+  ":: Human pick up [Push] item ::": {
+    "translation": "人类已获得推力"
+  },
+  "[Push] cooldown : 60": {
+    "translation": "推力冷却时间:60s",
+    "blocked": true
+  },
+  "[Push] Effect time : 5 sec": {
+    "translation": "推力效果时间5秒",
+    "blocked": true
+  },
+  ":: Zombie pick up [Speed] item ::": {
+    "translation": "僵尸拾取-加速"
+  },
+  "[Speed] cooldown : 90": {
+    "translation": "加速冷却时间:90s",
+    "blocked": true
+  },
+  ":: Zombie pick up [Gravity] item ::": {
+    "translation": "僵尸拾取黑洞"
+  },
+  "[Gravity] cooldown : 90": {
+    "translation": "黑洞冷却时间:90s",
+    "blocked": true
+  },
+  ":: Warmup time : 60 ::": {
+    "translation": "热身时间60s"
+  },
+  ":: Elevator door open at 20 secs ::": {
+    "translation": "电梯门在20秒开启"
+  },
+  ":: Mage4 afk teleport at 15 sec ::": {
+    "translation": "第四层挂机传送15秒"
+  },
+  ":: Last elevator door open at 25 sec ::": {
+    "translation": "最后电梯门在25秒开启"
+  },
+  ":: close at 15 sec ::": {
+    "translation": "在15秒关闭"
+  },
+  ":: Kill all zombies ! ::": {
+    "translation": "杀死所有僵尸"
+  },
+  ":: Wood door break at 10 sec ::": {
+    "translation": "木门在10秒破坏"
+  },
+  ":: AFK teleport at 15 sec ::": {
+    "translation": "挂机传送15秒"
+  },
+  ":: Mage1 end at 15 sec ::": {
+    "translation": "第一层在15秒结束"
+  },
+  ":: Mage2 end at 15 sec ::": {
+    "translation": "第二层在15秒结束"
+  },
+  ":: Mage3 end at 15 sec ::": {
+    "translation": "第三层在15秒结束"
+  },
+  ":: Human pick up [Heal] item ::": {
+    "translation": "人类拾取治疗"
+  },
+  "[Heal] cooldown : 30": {
+    "translation": "治疗冷却时间:30s",
+    "blocked": true
+  },
+  ":: Zombie pick up [Ball] item ::": {
+    "translation": "僵尸拾取-球"
+  },
+  "[Ball] cooldown : 15": {
+    "translation": "球冷却时间:15",
+    "blocked": true
+  },
+  ":: Human pick up [Tama] item ::": {
+    "translation": "人类拾取-玉"
+  },
+  "[Tama] cooldown : 20": {
+    "translation": "冷却时间:20",
+    "blocked": true
+  },
+  ":: Gate break at 10 sec ::": {
+    "translation": "大门在10秒破坏"
+  },
+  ":: The end was never the end ::": {
+    "translation": "终点从未是终点"
+  },
+  ":: Gate break at 15 sec ::": {
+    "translation": "大门在15秒破坏"
+  },
+  ":: Elevator door close at 10 secs ::": {
+    "translation": "电梯门在10秒关闭"
+  },
+  ":: Shutter open at 15 sec ::": {
+    "translation": "卷帘门在15秒开启"
+  },
+  ":: Last shutter open at 10 sec ::": {
+    "translation": "最后卷帘门在10秒开启"
+  },
+  ":: Run back to reality ! ::": {
+    "translation": "跑回现实"
+  },
+  ":: Shutter open at 25 sec ::": {
+    "translation": "卷帘门在25秒开启"
+  },
+  ":: Have we escaped this space...? ::": {
+    "translation": "我们是否逃离了这个空间"
+  }
+}
