@@ -1,0 +1,148 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> We can use this panel to overload the sewer systems, hold! <<<": {
+    "translation": "我们可以用这个面板让下水管道超载运行,注意!"
+  },
+  ">>> Elevator will be here momentarily! <<<": {
+    "translation": "电梯马上就到!"
+  },
+  ">>> We have disabled the fan! <<<": {
+    "translation": "我们关闭了风扇!"
+  },
+  ">>> Now find a way to open the gate! <<<": {
+    "translation": "快想办法打开这扇门!"
+  },
+  ">>> The fan is too powerful to pass through it! <<<": {
+    "translation": "这风扇风力太大了我们过不去!"
+  },
+  ">>> Elevator leaving soon! <<<": {
+    "translation": "即将启动电梯!"
+  },
+  ">>> The platform is moving! <<<": {
+    "translation": "平台正在移动!"
+  },
+  ">>> Forge entrance should be opening shortly! <<<": {
+    "translation": "锻造厂入口即将开启!"
+  },
+  ">>> MAP BY RAPHI & HICHATU <<<": {
+    "translation": "地图作者:RAPHI & HICHATU 文本翻译:圣光猫猫"
+  },
+  ">>> We have to escape these caves and reach the surface <<<": {
+    "translation": "我们必须逃离地穴,到达地表!"
+  },
+  "In the grim darkness of the 41st millennium, there is only war": {
+    "translation": "在这冰冷黑暗的第41千年,唯有战争永恒!"
+  },
+  "...or in your case, ZOMBIES!": {
+    "translation": "...或你们现在的处境而言,是僵尸!"
+  },
+  ">>> This should be a quick mission, let's get it over and done with <<<": {
+    "translation": "这应该是一个简单的任务吧,我们赶紧完成它!"
+  },
+  ">>> Doors opening soon! <<<": {
+    "translation": "门很快就开了!"
+  },
+  ">>> Explosive charged, the path will be cleared soon <<<": {
+    "translation": "炸药已安放,道路马上就畅通了!"
+  },
+  ">>> Second explosive charged, the path will be cleared soon <<<": {
+    "translation": "第二枚炸药已安放,道路马上就畅通了!"
+  },
+  ">>> Third explosive charged, the sewer gate will be open shortly <<<": {
+    "translation": "第三枚炸药已安放,污水管道马上就打开了!"
+  },
+  ">>> The forge gate should open soon! <<<": {
+    "translation": "锻造厂大门马上就打开了!"
+  },
+  ">>> Doors opening momentarily! <<<": {
+    "translation": "门即将开启!"
+  },
+  ">>> Doors closing momentarily! <<<": {
+    "translation": "门即将关闭!"
+  },
+  ">>> Exit doors opening! <<<": {
+    "translation": "出口门即将打开!"
+  },
+  ">>> That's it! Gate is opening <<<": {
+    "translation": "就这样!大门马上就打开了!"
+  },
+  ">>> That's it! The doors should be opening soon! <<<": {
+    "translation": "就这样!门马上就打开了!"
+  },
+  ">>> The right-side elevator will leave first! Get on!! <<<": {
+    "translation": "右侧电梯马上出发,快上来!"
+  },
+  ">>> Maintenance tunnel doors opening shortly, hold! <<<": {
+    "translation": "维修通道的门马上就打开了,注意!"
+  },
+  ">>> This door is taking a while to open, hold a long time! <<<": {
+    "translation": "这扇门还要很长时间才能打开!"
+  },
+  ">>> Maintenance exit doors opening shortly, hold this ladder! <<<": {
+    "translation": "维修通道的出口门马上就开了,快抓住这梯子!"
+  },
+  ">>> These maintenance tunnels should get us into the hangar bay! <<<": {
+    "translation": "这维修通道应该能让我们进入机库区!"
+  },
+  ">>> This is the BaneBlade hangar, lets get through here and to the surface! <<<": {
+    "translation": "这是毒刃机库,让我们穿过这里前往地表!"
+  },
+  ">>> We are approaching the elevator to the surface! <<<": {
+    "translation": "我们即将到达通往地表的电梯!"
+  },
+  ">>> Let's blow up this BaneBlade! <<<": {
+    "translation": "来吧!炸了这辆毒刃!"
+  },
+  ">>> Explosive charge will go off shortly! Hold here! <<<": {
+    "translation": "炸药即将爆炸!再等一会!"
+  },
+  ">>> We'll have to move these platforms to cross the chasm! <<<": {
+    "translation": "我们必须移动平台才能跨过这个鸿沟!"
+  },
+  ">>> Let's clear these crates and move through! <<<": {
+    "translation": "清理掉这些箱子继续前进!"
+  },
+  ">>> More crates? These should be easier to clear! <<<": {
+    "translation": "还有箱子吗?这些清理起来应该没那么困难!"
+  },
+  ">>> First platform is moving! <<<": {
+    "translation": "第一个平台正在移动!"
+  },
+  ">>> Second platform is moving! <<<": {
+    "translation": "第二个平台正在移动!"
+  },
+  ">>> Third platform is moving! <<<": {
+    "translation": "第三个平台正在移动!"
+  },
+  ">>> Hold the zombies on the bridge!! <<<": {
+    "translation": "守住桥上这些僵尸!"
+  },
+  ">>> Let's move forward to the tower! <<<": {
+    "translation": "前往那座塔吧!"
+  },
+  ">>> We are pretty close, we can feel the Chaos energy from here <<<": {
+    "translation": "我们马上就到塔了,在这能感受到混沌能量的存在"
+  },
+  ">>> YOU KILLED THE SORCERER!!! <<<": {
+    "translation": "你们杀死了混沌巫师!"
+  },
+  ">>> NOW ERASE THE LAST ZOMBIES ALIVE ! <<<": {
+    "translation": "现在杀死那些剩余的僵尸!"
+  },
+  ">>> The elevator should leave soon! <<<": {
+    "translation": "电梯马上就离开了!"
+  },
+  ">>> LAST DEFENCE !!! <<<": {
+    "translation": "最后防线!"
+  }
+}
