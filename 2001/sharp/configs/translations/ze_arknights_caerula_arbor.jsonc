@@ -1392,7 +1392,7 @@
     "translation": "坎诺特:你是个聪明人,我们可以用聪明的方式解决这个问题"
   },
   "Stage: Last Stand. In this mode, humans cannot be grabbed. Zombies must rush into the Blue Target Point and reduce the Target HP to zero. Humans must hold off zombies for 60 seconds and prevent them from entering the Blue Door": {
-    "translation": "关卡:最后防线.此模式下人类免抓,僵尸需冲入蓝色目标点将目标生命值降为零,人类需抵挡僵尸60秒并阻止其进入蓝门"
+    "translation": "关卡:最后防线."
   },
   "After completing this stage, you may plunder Cannot's shop": {
     "translation": "完成此关卡后,你可以洗劫坎诺特的商店"
@@ -1548,7 +1548,7 @@
     "translation": "坎诺特已被击败,人类将在10秒后传送"
   },
   "Cannot has left, zombies will teleport in 12s": {
-    "translation": "坎诺特已离开,僵尸将在12s后传送"
+    "translation": "僵尸将在12s后传送"
   },
   "Cannot: Oh, be careful—if the item breaks by any chance, you’ll have to buy it at full price.": {
     "translation": "坎诺特:哦,小心点,万一商品碎了,你就得全价购买"
@@ -2116,7 +2116,7 @@
     "translation": "僵尸无敌触发持续5秒"
   },
   "Level: The Joy of Treasure Chests.There are numerous treasure chests within this level; however, breaking open a chest will randomly drop zombie buffs that enhance their abilities. Humans must defend against the zombies within the level's time limit and prevent the target's Health Points (HP) from dropping to 0.": {
-    "translation": "关卡:宝箱之乐.本关有大量宝箱,但打开宝箱会随机掉落增强僵尸能力的buff.人类需在时限内抵挡僵尸,防止目标生命值降至0"
+    "translation": "关卡:宝箱之乐."
   },
   "Zombies, on the other hand, need to continuously enter the blue target zones defended by humans to reduce the humans' target Health Points (HP) to 0.": {
     "translation": "僵尸则需要不断进入人类防守的蓝色目标区域,将人类目标生命值降至0"
