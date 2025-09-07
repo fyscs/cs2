@@ -28,28 +28,28 @@
   "** Valve has been picked up **": {
     "translation": "阀门已拾取"
   },
-  "*** Damn it all... why do we have to suffer all this...\n***": {
+  "*** Damn it all... why do we have to suffer all this...***": {
     "translation": "真该死 为什么我们必须承受这一切"
   },
-  "*** No matter how hard the firefly tries, it cannot escape from the spider's web.\n***": {
+  "*** No matter how hard the firefly tries, it cannot escape from the spider's web.***": {
     "translation": "无论萤火虫多么努力 它都无法逃脱蜘蛛网"
   },
-  "*** Damn bitch... when will you finally die!?\n***": {
+  "*** Damn bitch... when will you finally die!?***": {
     "translation": "该死的贱人 你到底什么时候才死"
   },
-  "*** Ah, another innocent creature has come here... heh heh, you too are looking for redemption from your sins?\n ***": {
+  "*** Ah, another innocent creature has come here... heh heh, you too are looking for redemption from your sins? ***": {
     "translation": "啊 又一个无辜的生物来到了这里 呵呵 你也在寻求救赎你的罪孽吗"
   },
-  "*** Well, then I will grant it to you too.\n ***": {
+  "*** Well, then I will grant it to you too. ***": {
     "translation": "那么 我也会将它赐予你"
   },
-  "*** You... I recognize you... damn bitch.. I will avenge my fallen comrades!\n ***": {
+  "*** You... I recognize you... damn bitch.. I will avenge my fallen comrades! ***": {
     "translation": "你 我认出你了 该死的贱人 我要为我倒下的战友报仇"
   },
-  "*** You have no forgiveness, I will finish you here once and for all!.\n***": {
+  "*** You have no forgiveness, I will finish you here once and for all!.***": {
     "translation": "你不可饶恕 我将在此彻底了结你"
   },
-  "*** Ah.. my faithful comrades, do you see this? How many years have we waited for this blessed moment.\n***": {
+  "*** Ah.. my faithful comrades, do you see this? How many years have we waited for this blessed moment.***": {
     "translation": "啊 我忠诚的战友们 你们看到了吗 我们等待这神圣的时刻已经多少年了"
   },
   "** Hold [E] button to move the platform. **": {
@@ -71,7 +71,7 @@
     "translation": "你看起来很强壮 试试把这个箱子挪到楼梯旁边"
   },
   "** The upper gate will open in 10 seconds **": {
-    "translation": "上层大门将在10秒后开启"
+    "translation": "上层大门10秒开启"
   },
   "** It looks like the security mechanism has been activated, we won't be able to open the doors from this side **": {
     "translation": "看起来安全机制已被激活 我们将无法从这一侧打开门"
@@ -86,46 +86,46 @@
     "translation": "控制面板已激活"
   },
   "** Great, the Factory Exit will open in 25 seconds **": {
-    "translation": "太好了 工厂出口将在25秒后开启"
+    "translation": "工厂出口25秒开启"
   },
   "*** Zombie teleport will appear in 20 sec ***": {
-    "translation": "僵尸传送点将在20秒后出现"
+    "translation": "僵尸传送点20秒"
   },
   "*** The central passage will open in 10 seconds ***": {
-    "translation": "中央通道将在10秒后开启"
+    "translation": "中央通道10秒开启"
   },
   "*** The factory gates will open in 35 seconds ***": {
-    "translation": "工厂大门将在35秒后开启"
+    "translation": "工厂大门35秒开启"
   },
   "*** The central doors will open in 30 seconds ***": {
-    "translation": "中央大门将在30秒后开启"
+    "translation": "中央大门30秒开启"
   },
   "** You need to look around, the gate opening button should be somewhere nearby **": {
     "translation": "你需要四处看看 开门按钮应该就在附近某处"
   },
   "*** The passage in the wall will open in 20 seconds ***": {
-    "translation": "墙内通道将在20秒后开启"
+    "translation": "墙内通道20秒开启"
   },
   "*** Extra shortcut doors will open in 5 seconds***": {
-    "translation": "额外捷径门将在5秒后开启"
+    "translation": "额外捷径门5秒开启"
   },
   "*** The exit from Scrapyard will open in 20 seconds ***": {
-    "translation": "废料场出口将在20秒后开启"
+    "translation": "废料场出口20秒开启"
   },
   "*** The main top shortcut doors will open in 10 seconds ***": {
-    "translation": "主顶部捷径门将在10秒后开启"
+    "translation": "主顶部捷径门10秒开启"
   },
   "** The gates will open in 10 seconds **": {
-    "translation": "大门将在10秒后开启"
+    "translation": "大门10秒开启"
   },
   "** The reserve gate will open in 5 seconds **": {
-    "translation": "备用大门将在5秒后开启"
+    "translation": "备用大门5秒开启"
   },
   "*** Elevator will move in 5 seconds  ***": {
-    "translation": "电梯将在5秒后移动"
+    "translation": "电梯5秒移动"
   },
   "*** TP in 5 seconds ***": {
-    "translation": "传送点在5秒后"
+    "translation": "传送点5秒"
   },
   "** Zombie comming **": {
     "translation": "僵尸来了"
@@ -134,22 +134,22 @@
     "translation": "我想我能帮忙"
   },
   "** The first Depot doors will open in 20 seconds **": {
-    "translation": "第一仓库门将在20秒后开启"
+    "translation": "第一仓库门20秒开启"
   },
   "** The second Depot doors will open in 5 seconds **": {
-    "translation": "第二仓库门将在5秒后开启"
+    "translation": "第二仓库门5秒开启"
   },
   "*** The Lower Asylum gates will open in 5 seconds ***": {
-    "translation": "下层庇护所大门将在5秒后开启"
+    "translation": "下层庇护所大门5秒开启"
   },
   "*** The top depot gates will open in 5 seconds***": {
-    "translation": "顶部仓库大门将在5秒后开启"
+    "translation": "顶部仓库大门5秒开启"
   },
   "*** The Main City gates will open in 30 seconds ***": {
-    "translation": "主城市大门将在30秒后开启"
+    "translation": "主城市大门30秒开启"
   },
   "*** Zombie teleport will appear in 45 sec ***": {
-    "translation": "僵尸传送点将在45秒后出现"
+    "translation": "僵尸传送点45秒"
   },
   "*** You need to find the security room, only there you will be able to open the city gates ***": {
     "translation": "你需要找到安全室 只有在那里你才能打开城市大门"
@@ -158,51 +158,51 @@
     "translation": "电力已恢复"
   },
   "** The lower city gate will open in 30 seconds **": {
-    "translation": "下层城市大门将在30秒后开启"
+    "translation": "下层城市大门30秒开启"
   },
   "** The top city gate will open in 5 seconds **": {
-    "translation": "顶部城市大门将在5秒后开启"
+    "translation": "顶部城市大门5秒开启"
   },
   "*** Zombie teleport will appear in 25 sec ***": {
-    "translation": "僵尸传送点将在25秒后出现"
+    "translation": "僵尸传送点25秒"
   },
   "** The elevator to the underwater passage will leave in 30 seconds **": {
-    "translation": "前往水下通道的电梯将在30秒后离开"
+    "translation": "水下通道的电梯30秒离开"
   },
   "** The underwater passage will open in 20 seconds **": {
-    "translation": "水下通道将在20秒后开启"
+    "translation": "水下通道20秒开启"
   },
   "** The second underwater passage will open in 25 seconds **": {
-    "translation": "第二水下通道将在25秒后开启"
+    "translation": "第二水下通道25秒开启"
   },
   "** This door is jammed, it will open in 40 seconds or we can try to fix it, looks like there are some buttons on near wall**": {
-    "translation": "这扇门卡住了 它将在40秒后开启或者我们可以尝试修理它 看起来附近墙上有一些按钮"
+    "translation": "40秒开启或修理它"
   },
   "** Nice done **": {
     "translation": "干得好"
   },
   "** The elevator to the surface will leave in 25 seconds **": {
-    "translation": "前往地面的电梯将在25秒后离开"
+    "translation": "地面电梯25秒离开"
   },
   "** The shortcut to Blooming Town has been activated. **": {
     "translation": "通往繁花镇的捷径已激活"
   },
   "** The elevator will move in 20 seconds. **": {
-    "translation": "电梯将在20秒后移动"
+    "translation": "电梯20秒移动"
   },
   "** Arena doors will open in 20 seconds **": {
-    "translation": "竞技场大门将在20秒后开启"
+    "translation": "竞技场大门20秒开启"
   },
   "*** Don't bother trying to get out of here. ***": {
     "translation": "别费心试图离开这里了"
   },
-  "*** If you ended up here then you're already dead and there's no point in the dead wandering in the world of the living.\n ***": {
+  "*** If you ended up here then you're already dead and there's no point in the dead wandering in the world of the living. ***": {
     "translation": "如果你最终来到了这里 那么你已经死了 死者徘徊在生者的世界毫无意义"
   },
-  "*** You better leave this place, strangers like you don't last long here.\n ***": {
+  "*** You better leave this place, strangers like you don't last long here. ***": {
     "translation": "你最好离开这个地方 像你这样的陌生人在这里活不长"
   },
-  "*** What's wrong with my eyes? Oh, you're not from around here?\n ***": {
+  "*** What's wrong with my eyes? Oh, you're not from around here? ***": {
     "translation": "我的眼睛怎么了 哦 你不是本地人"
   },
   "*** Well, I don't have much to to you, this city was built by our great, long-dead king and now his childrens rule it...\n ***": {
@@ -268,17 +268,17 @@
   "*** You still don't understand? Neither you nor I will leave here alive, the fire will consume everything in its path.\n***": {
     "translation": "你还不明白吗 你我都无法活着离开这里 火焰将吞噬路径上的一切"
   },
-  "*** Be damned for desecrating the body of my darling princess.\n***": {
+  "*** Be damned for desecrating the body of my darling princess.***": {
     "translation": "因亵渎我亲爱的公主的身体而受诅咒吧"
   },
-  "*** Ah, dear princess.. forgive me.. I have let you down again...\n***": {
+  "*** Ah, dear princess.. forgive me.. I have let you down again...***": {
     "translation": "啊 亲爱的公主 原谅我 我又让你失望了"
   },
-  "*** The train to the royal palace will leave in 40 seconds\n***": {
-    "translation": "开往皇宫的列车将在40秒后离开"
+  "*** The train to the royal palace will leave in 40 seconds***": {
+    "translation": "皇宫列车40秒离开"
   },
-  "*** The train to the royal palace will leave in 20 seconds\n***": {
-    "translation": "开往皇宫的列车将在20秒后离开"
+  "*** The train to the royal palace will leave in 20 seconds***": {
+    "translation": "皇宫列车20秒离开"
   },
   "*** Your journey will continue in the act 2 ***": {
     "translation": "你的旅程将在第二幕继续"
@@ -296,13 +296,13 @@
     "translation": "通往高墙的捷径已激活"
   },
   "*** You have picked up the key card for the security panel 12 ***": {
-    "translation": "你已拾取安全面板的钥匙卡 12"
+    "translation": "你已拾取安全面板钥匙卡 12"
   },
   "*** You have picked up the key card for the security panel 22 ***": {
-    "translation": "你已拾取安全面板的钥匙卡 22"
+    "translation": "你已拾取安全面板钥匙卡 22"
   },
   "*** The secret passage will open in 5 seconds ***": {
-    "translation": "秘密通道将在5秒后开启"
+    "translation": "秘密通道5秒开启"
   },
   "** Sword of Scorn has been picked up (press [E] to activate special ability [RMB/RMB HOLD] attack) **": {
     "translation": "蔑视之剑已拾取 按E键激活特殊能力 右键单击按住右键攻击"
@@ -311,10 +311,10 @@
     "translation": "控制权转移至新所有者 控制转移成功 切换至追踪模式"
   },
   "** Drone Reaper has been picked up (press [E] to activate special ability) **": {
-    "translation": "死神无人机已拾取 按E键激活特殊能力"
+    "translation": "无人机已拾取 按E键激活特殊能力"
   },
   "** Shotgun Devastator has been picked up ([RMB] shot) **": {
-    "translation": "毁灭者霰弹枪已拾取 右键单击射击"
+    "translation": "霰弹枪已拾取 右键单击射击"
   },
   "** Rail gun has been picked up ([RMB HOLD] shot) **": {
     "translation": "磁轨炮已拾取 按住右键射击"
@@ -346,13 +346,13 @@
   "*** Oh, you again, what are we going to upgrade this time? ***": {
     "translation": "哦 又是你 这次我们要升级什么"
   },
-  "*** It felt like she recognized you... this means that you.. maybe you don't want to talk about it right now.\n***": {
+  "*** It felt like she recognized you... this means that you.. maybe you don't want to talk about it right now.***": {
     "translation": "感觉她认出了你 这意味着你 也许你现在不想谈论这个"
   },
   "*** Her final words, they were like she was apologizing to you. ***": {
     "translation": "她的遗言 听起来像是在向你道歉"
   },
-  "*** She can change the element of her weapon? Where did you guys get this technology?!\n***": {
+  "*** She can change the element of her weapon? Where did you guys get this technology?!***": {
     "translation": "她能改变武器的元素 你们从哪弄来的这项技术"
   },
   "*** This woman, her aura is beyond human power, don't let her get close to you! ***": {
@@ -413,34 +413,34 @@
     "translation": "特别感谢 Vanyarin 将文本和所有对话翻译成英文 以及 LeXeR 在声音和音乐方面的工作"
   },
   "*** Zombie teleport will appear in 30 sec ***": {
-    "translation": "僵尸传送点将在30秒后出现"
+    "translation": "僵尸传送点30秒"
   },
   "** The security system is disabled, the gate will open in 20 seconds **": {
-    "translation": "安全系统已禁用 大门将在20秒后开启"
+    "translation": "安全系统已禁用 大门20秒开启"
   },
   "** Zombie Teleport will appear in 20 seconds **": {
-    "translation": "僵尸传送点将在20秒后出现"
+    "translation": "僵尸传送点20秒"
   },
   "** The temple gates will open in 10 seconds **": {
-    "translation": "神殿大门将在10秒后开启"
+    "translation": "神殿大门10秒开启"
   },
   "** We still need to wait a little while until the second gate starts to open **": {
     "translation": "我们还需要再等一会儿直到第二扇门开始打开"
   },
   "** The street doors will open in 5 seconds **": {
-    "translation": "街道门将在5秒后开启"
+    "translation": "街道门5秒开启"
   },
   "** The boiler room doors will open in 5 seconds **": {
-    "translation": "锅炉房门将在5秒后开启"
+    "translation": "锅炉房门5秒开启"
   },
   "** The gates of the elite district will open in 35 seconds **": {
-    "translation": "精英区大门将在35秒后开启"
+    "translation": "精英区大门35秒开启"
   },
   "** The backyard doors will open in 15 seconds **": {
-    "translation": "后院门将在15秒后开启"
+    "translation": "后院门15秒开启"
   },
   "** The gates to the garden of wishes will open in 20 seconds **": {
-    "translation": "通往愿望花园的大门将在20秒后开启"
+    "translation": "愿望花园大门20秒开启"
   },
   "** The gates will close soon **": {
     "translation": "大门即将关闭"
