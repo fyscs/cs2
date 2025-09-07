@@ -1,0 +1,28 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***NUKE IN 40 SECONDS***": {
+    "translation": "40秒核爆"
+  },
+  "***NUKE IN 30 SECONDS***": {
+    "translation": "30秒核爆"
+  },
+  "***NUKE IN 20 SECONDS***": {
+    "translation": "20秒核爆"
+  },
+  "***NUKE IN 10 SECONDS***": {
+    "translation": "10秒核爆"
+  },
+  "***NUKE IS HERE***": {
+    "translation": "核爆来咯"
+  }
+}
