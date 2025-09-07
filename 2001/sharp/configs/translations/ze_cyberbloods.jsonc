@@ -1,0 +1,475 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** 1000 money pickup ***": {
+    "translation": "1000 金钱拾取"
+  },
+  "*** 2500 money pickup ***": {
+    "translation": "2500 金钱拾取"
+  },
+  "*** 5000 money pickup ***": {
+    "translation": "5000 金钱拾取"
+  },
+  "*** HP boost pickup ***": {
+    "translation": "生命值提升拾取"
+  },
+  "** Medkit has been picked up  (press [E] to activate special ability) **": {
+    "translation": "医疗包已拾取 按E键激活特殊能力"
+  },
+  "** Valve has been picked up **": {
+    "translation": "阀门已拾取"
+  },
+  "*** Damn it all... why do we have to suffer all this...\n***": {
+    "translation": "真该死 为什么我们必须承受这一切"
+  },
+  "*** No matter how hard the firefly tries, it cannot escape from the spider's web.\n***": {
+    "translation": "无论萤火虫多么努力 它都无法逃脱蜘蛛网"
+  },
+  "*** Damn bitch... when will you finally die!?\n***": {
+    "translation": "该死的贱人 你到底什么时候才死"
+  },
+  "*** Ah, another innocent creature has come here... heh heh, you too are looking for redemption from your sins?\n ***": {
+    "translation": "啊 又一个无辜的生物来到了这里 呵呵 你也在寻求救赎你的罪孽吗"
+  },
+  "*** Well, then I will grant it to you too.\n ***": {
+    "translation": "那么 我也会将它赐予你"
+  },
+  "*** You... I recognize you... damn bitch.. I will avenge my fallen comrades!\n ***": {
+    "translation": "你 我认出你了 该死的贱人 我要为我倒下的战友报仇"
+  },
+  "*** You have no forgiveness, I will finish you here once and for all!.\n***": {
+    "translation": "你不可饶恕 我将在此彻底了结你"
+  },
+  "*** Ah.. my faithful comrades, do you see this? How many years have we waited for this blessed moment.\n***": {
+    "translation": "啊 我忠诚的战友们 你们看到了吗 我们等待这神圣的时刻已经多少年了"
+  },
+  "** Hold [E] button to move the platform. **": {
+    "translation": "按住E键移动平台"
+  },
+  "*** We need to figure out how to move forward ***": {
+    "translation": "我们需要想办法前进"
+  },
+  "*** Looks like you need to find a valve to turn off the steam that is preventing it from passing through the sewer ***": {
+    "translation": "看起来你需要找到一个阀门来关掉阻止通过下水道的蒸汽"
+  },
+  "** Great, the steam has finally stopped, now you can go through the sewer and open this door from the other side **": {
+    "translation": "太好了 蒸汽终于停了 现在你可以穿过下水道从另一侧打开这扇门"
+  },
+  "** The door is open, but we need somehow get to the top of this broken staircase **": {
+    "translation": "门开了 但我们需要设法到达这段破损楼梯的顶部"
+  },
+  "** You seem strong, try moving this box closer to the stairs **": {
+    "translation": "你看起来很强壮 试试把这个箱子挪到楼梯旁边"
+  },
+  "** The upper gate will open in 10 seconds **": {
+    "translation": "上层大门将在10秒后开启"
+  },
+  "** It looks like the security mechanism has been activated, we won't be able to open the doors from this side **": {
+    "translation": "看起来安全机制已被激活 我们将无法从这一侧打开门"
+  },
+  "** Try to go through the lower vent, but be careful **": {
+    "translation": "尝试通过下方的通风口 但要小心"
+  },
+  "** Great, the alarm is off and main gate are open, the girl should be somewhere very close **": {
+    "translation": "太好了 警报解除主门开了 那女孩应该就在附近某处"
+  },
+  "** The control panel has been activated. **": {
+    "translation": "控制面板已激活"
+  },
+  "** Great, the Factory Exit will open in 25 seconds **": {
+    "translation": "太好了 工厂出口将在25秒后开启"
+  },
+  "*** Zombie teleport will appear in 20 sec ***": {
+    "translation": "僵尸传送点将在20秒后出现"
+  },
+  "*** The central passage will open in 10 seconds ***": {
+    "translation": "中央通道将在10秒后开启"
+  },
+  "*** The factory gates will open in 35 seconds ***": {
+    "translation": "工厂大门将在35秒后开启"
+  },
+  "*** The central doors will open in 30 seconds ***": {
+    "translation": "中央大门将在30秒后开启"
+  },
+  "** You need to look around, the gate opening button should be somewhere nearby **": {
+    "translation": "你需要四处看看 开门按钮应该就在附近某处"
+  },
+  "*** The passage in the wall will open in 20 seconds ***": {
+    "translation": "墙内通道将在20秒后开启"
+  },
+  "*** Extra shortcut doors will open in 5 seconds***": {
+    "translation": "额外捷径门将在5秒后开启"
+  },
+  "*** The exit from Scrapyard will open in 20 seconds ***": {
+    "translation": "废料场出口将在20秒后开启"
+  },
+  "*** The main top shortcut doors will open in 10 seconds ***": {
+    "translation": "主顶部捷径门将在10秒后开启"
+  },
+  "** The gates will open in 10 seconds **": {
+    "translation": "大门将在10秒后开启"
+  },
+  "** The reserve gate will open in 5 seconds **": {
+    "translation": "备用大门将在5秒后开启"
+  },
+  "*** Elevator will move in 5 seconds  ***": {
+    "translation": "电梯将在5秒后移动"
+  },
+  "*** TP in 5 seconds ***": {
+    "translation": "传送点在5秒后"
+  },
+  "** Zombie comming **": {
+    "translation": "僵尸来了"
+  },
+  "*** I think i can help ***": {
+    "translation": "我想我能帮忙"
+  },
+  "** The first Depot doors will open in 20 seconds **": {
+    "translation": "第一仓库门将在20秒后开启"
+  },
+  "** The second Depot doors will open in 5 seconds **": {
+    "translation": "第二仓库门将在5秒后开启"
+  },
+  "*** The Lower Asylum gates will open in 5 seconds ***": {
+    "translation": "下层庇护所大门将在5秒后开启"
+  },
+  "*** The top depot gates will open in 5 seconds***": {
+    "translation": "顶部仓库大门将在5秒后开启"
+  },
+  "*** The Main City gates will open in 30 seconds ***": {
+    "translation": "主城市大门将在30秒后开启"
+  },
+  "*** Zombie teleport will appear in 45 sec ***": {
+    "translation": "僵尸传送点将在45秒后出现"
+  },
+  "*** You need to find the security room, only there you will be able to open the city gates ***": {
+    "translation": "你需要找到安全室 只有在那里你才能打开城市大门"
+  },
+  "** Power has been restored **": {
+    "translation": "电力已恢复"
+  },
+  "** The lower city gate will open in 30 seconds **": {
+    "translation": "下层城市大门将在30秒后开启"
+  },
+  "** The top city gate will open in 5 seconds **": {
+    "translation": "顶部城市大门将在5秒后开启"
+  },
+  "*** Zombie teleport will appear in 25 sec ***": {
+    "translation": "僵尸传送点将在25秒后出现"
+  },
+  "** The elevator to the underwater passage will leave in 30 seconds **": {
+    "translation": "前往水下通道的电梯将在30秒后离开"
+  },
+  "** The underwater passage will open in 20 seconds **": {
+    "translation": "水下通道将在20秒后开启"
+  },
+  "** The second underwater passage will open in 25 seconds **": {
+    "translation": "第二水下通道将在25秒后开启"
+  },
+  "** This door is jammed, it will open in 40 seconds or we can try to fix it, looks like there are some buttons on near wall**": {
+    "translation": "这扇门卡住了 它将在40秒后开启或者我们可以尝试修理它 看起来附近墙上有一些按钮"
+  },
+  "** Nice done **": {
+    "translation": "干得好"
+  },
+  "** The elevator to the surface will leave in 25 seconds **": {
+    "translation": "前往地面的电梯将在25秒后离开"
+  },
+  "** The shortcut to Blooming Town has been activated. **": {
+    "translation": "通往繁花镇的捷径已激活"
+  },
+  "** The elevator will move in 20 seconds. **": {
+    "translation": "电梯将在20秒后移动"
+  },
+  "** Arena doors will open in 20 seconds **": {
+    "translation": "竞技场大门将在20秒后开启"
+  },
+  "*** Don't bother trying to get out of here. ***": {
+    "translation": "别费心试图离开这里了"
+  },
+  "*** If you ended up here then you're already dead and there's no point in the dead wandering in the world of the living.\n ***": {
+    "translation": "如果你最终来到了这里 那么你已经死了 死者徘徊在生者的世界毫无意义"
+  },
+  "*** You better leave this place, strangers like you don't last long here.\n ***": {
+    "translation": "你最好离开这个地方 像你这样的陌生人在这里活不长"
+  },
+  "*** What's wrong with my eyes? Oh, you're not from around here?\n ***": {
+    "translation": "我的眼睛怎么了 哦 你不是本地人"
+  },
+  "*** Well, I don't have much to to you, this city was built by our great, long-dead king and now his childrens rule it...\n ***": {
+    "translation": "好吧 我跟你说不了多少 这座城市由我们伟大但早已死去的国王建造 现在由他的孩子们统治"
+  },
+  "*** More precisely, now only the prince rules everything. My burnt eyes are his doing. Heh heh heh heh.\n ***": {
+    "translation": "更准确地说 现在只有王子统治一切 我被烧毁的眼睛就是他的杰作 嘿嘿嘿嘿"
+  },
+  "*** Poor princess, unlike her rotten brother she was a great warrior, and oh so beautiful too.. I wouldn't be surprised if he was behind her death. ***": {
+    "translation": "可怜的公主 与她腐烂的兄弟不同 她曾是一位伟大的战士 而且如此美丽 如果他是她死亡的幕后黑手 我也不会感到惊讶"
+  },
+  "*** I must warn you, the local guards don't like strangers like you and they won't just stand there. So if possible don't let them see you, if you can, hehehe. ***": {
+    "translation": "我必须警告你 本地守卫不喜欢你这样的陌生人 他们不会只是站着 所以如果可能的话 别让他们看见你 如果可以的话 呵呵呵"
+  },
+  "*** Someone is in trouble, we need to hurry and find the source of this sound. ***": {
+    "translation": "有人遇到麻烦了 我们需要赶快找到声音的来源"
+  },
+  "*** Be careful, there are rumors that the last cyborg of the punisher legion has settled in the abandoned factory, they used to be great warriors until they were brainwashed. ***": {
+    "translation": "小心点 有传言说惩罚者军团的最后一个改造人定居在废弃工厂里 他们在被洗脑之前曾是伟大的战士"
+  },
+  "*** It is said that the Princess herself and her guards defeated their main forces about 60 years ago, when they decided to abandon the protection of Sablier and left the capital, damn traitors! ***": {
+    "translation": "据说大约60年前 公主本人和她的守卫击败了他们的主力部队 当时他们决定放弃保护萨布利尔并离开了首都 该死的叛徒"
+  },
+  "*** What was the king thinking when he appointed the prince as his successor?!  ***": {
+    "translation": "国王任命王子为继承人时到底在想什么"
+  },
+  "*** All this trouble is because of that sick bastard, it's always been like this, the damn prince. ***": {
+    "translation": "所有这些麻烦都是因为那个病态的混蛋 一直都是这样 该死的王子"
+  },
+  "*** Oh, poor princess, you've done so much for this city and this is how fate rewards you? ***": {
+    "translation": "哦 可怜的公主 你为这座城市做了这么多 这就是命运给你的回报吗"
+  },
+  "*** To be killed in your own home at such time... this city is already doomed. ***": {
+    "translation": "在这样的时候在自己的家里被杀 这座城市已经注定毁灭了"
+  },
+  "*** There is an old tale that there is a whole colony of people on the moon, they they created us all and sent us to populate the Earth about 2000 years ago, a very stupid tale in my opinion...   ***": {
+    "translation": "有一个古老的传说 月亮上有一个完整的人类殖民地 他们创造了我们所有人 并在大约2000年前将我们送到地球繁衍 在我看来这是一个非常愚蠢的故事"
+  },
+  "*** If there really are creators out there, then why have they never interfered for thousands of years and just allowed one royal family to rule us? ***": {
+    "translation": "如果那里真的有创造者 那为什么他们几千年来从未干涉过 而只允许一个王室统治我们"
+  },
+  "*** I wish I could visit the moon myself one day though, hehehe. ***": {
+    "translation": "不过我希望有一天我能亲自拜访月球 呵呵呵"
+  },
+  "*** Forgive me, tired traveler, but the passage up ahead is closed to living beings, this is an order from His Majesty. ***": {
+    "translation": "请原谅我 疲惫的旅行者 但前方的通道对生灵关闭 这是陛下的命令"
+  },
+  "*** I will warn you only once, do not repeat the mistake of others who came before you. ***": {
+    "translation": "我只警告你一次 不要重蹈你之前那些人的覆辙"
+  },
+  "*** It seems you are very brave... or very stupid. You will now accept your fate. ***": {
+    "translation": "看来你非常勇敢 或者非常愚蠢 你现在将接受你的命运"
+  },
+  "*** I am Astora, the faithful shield and sword of the beautiful lady Eve. My blade grants cleansing to all whom it touches. ***": {
+    "translation": "我是亚斯托拉 美丽的夏娃女士忠诚的盾与剑 我的刀刃赐予所有被其触碰之物以净化"
+  },
+  "*** This power, these movements, just like my... no, it's not possible, I must have lost my mind from my sorrow... ***": {
+    "translation": "这种力量 这些动作 就像我的 不 这不可能 我一定是因悲伤而失去了理智"
+  },
+  "*** No, there can be no mistake, there will be no mercy for what you done! ***": {
+    "translation": "不 不可能有错 对你所做之事绝无宽恕"
+  },
+  "*** You still don't understand? Neither you nor I will leave here alive, the fire will consume everything in its path.\n***": {
+    "translation": "你还不明白吗 你我都无法活着离开这里 火焰将吞噬路径上的一切"
+  },
+  "*** Be damned for desecrating the body of my darling princess.\n***": {
+    "translation": "因亵渎我亲爱的公主的身体而受诅咒吧"
+  },
+  "*** Ah, dear princess.. forgive me.. I have let you down again...\n***": {
+    "translation": "啊 亲爱的公主 原谅我 我又让你失望了"
+  },
+  "*** The train to the royal palace will leave in 40 seconds\n***": {
+    "translation": "开往皇宫的列车将在40秒后离开"
+  },
+  "*** The train to the royal palace will leave in 20 seconds\n***": {
+    "translation": "开往皇宫的列车将在20秒后离开"
+  },
+  "*** Your journey will continue in the act 2 ***": {
+    "translation": "你的旅程将在第二幕继续"
+  },
+  "*** Zombie inside, you lose ***": {
+    "translation": "里面有僵尸 你输了"
+  },
+  "** The Factory shortcut has been activated. **": {
+    "translation": "工厂捷径已激活"
+  },
+  "*** You have picked up the key card for the security room ***": {
+    "translation": "你已拾取安全室的钥匙卡"
+  },
+  "** The shortcut to the Wall has been activated **": {
+    "translation": "通往高墙的捷径已激活"
+  },
+  "*** You have picked up the key card for the security panel 12 ***": {
+    "translation": "你已拾取安全面板的钥匙卡 12"
+  },
+  "*** You have picked up the key card for the security panel 22 ***": {
+    "translation": "你已拾取安全面板的钥匙卡 22"
+  },
+  "*** The secret passage will open in 5 seconds ***": {
+    "translation": "秘密通道将在5秒后开启"
+  },
+  "** Sword of Scorn has been picked up (press [E] to activate special ability [RMB/RMB HOLD] attack) **": {
+    "translation": "蔑视之剑已拾取 按E键激活特殊能力 右键单击按住右键攻击"
+  },
+  "*** Control transferred to new owner.. control transfer successful.. switching to tracking mode. ***": {
+    "translation": "控制权转移至新所有者 控制转移成功 切换至追踪模式"
+  },
+  "** Drone Reaper has been picked up (press [E] to activate special ability) **": {
+    "translation": "死神无人机已拾取 按E键激活特殊能力"
+  },
+  "** Shotgun Devastator has been picked up ([RMB] shot) **": {
+    "translation": "毁灭者霰弹枪已拾取 右键单击射击"
+  },
+  "** Rail gun has been picked up ([RMB HOLD] shot) **": {
+    "translation": "磁轨炮已拾取 按住右键射击"
+  },
+  "** Sniper Rifle has been picked up (press [E] to activate special ability [RMB] shot) **": {
+    "translation": "狙击步枪已拾取 按E键激活特殊能力 右键单击射击"
+  },
+  "** Backpack has been picked up  (press [RMB] near Rocket launcher) **": {
+    "translation": "背包已拾取 在火箭发射器附近按右键单击"
+  },
+  "** Rocket launcher has been picked up ([RMB] shot) **": {
+    "translation": "火箭发射器已拾取 右键单击射击"
+  },
+  "** Lily has been picked up (press [E] to activate special ability) **": {
+    "translation": "莉莉已拾取 按E键激活特殊能力"
+  },
+  "*** Take care. ***": {
+    "translation": "保重"
+  },
+  "*** Wait, your face looks familiar to me... you might ask how this is possible? ***": {
+    "translation": "等等 你的脸看起来很熟悉 你可能会问这怎么可能"
+  },
+  "*** ...It's simple, you customers all look the same! Even a blind person like me can see it! Ahahahahaha! ***": {
+    "translation": "这很简单 你们顾客看起来都一样 就连我这样的盲人都能看出来 啊哈哈哈哈"
+  },
+  "*** So what do you want... your highness? ***": {
+    "translation": "那么你想要什么 殿下"
+  },
+  "*** Oh, you again, what are we going to upgrade this time? ***": {
+    "translation": "哦 又是你 这次我们要升级什么"
+  },
+  "*** It felt like she recognized you... this means that you.. maybe you don't want to talk about it right now.\n***": {
+    "translation": "感觉她认出了你 这意味着你 也许你现在不想谈论这个"
+  },
+  "*** Her final words, they were like she was apologizing to you. ***": {
+    "translation": "她的遗言 听起来像是在向你道歉"
+  },
+  "*** She can change the element of her weapon? Where did you guys get this technology?!\n***": {
+    "translation": "她能改变武器的元素 你们从哪弄来的这项技术"
+  },
+  "*** This woman, her aura is beyond human power, don't let her get close to you! ***": {
+    "translation": "这个女人 她的气场超乎人类的力量 别让她靠近你"
+  },
+  "*** That voice is coming from that big building and it looks like this woman is not joking. ***": {
+    "translation": "那个声音来自那栋大建筑 而且看起来这个女人不是在开玩笑"
+  },
+  "*** Wow, there was nothing like this in the place where I lived before I fell here. It's a pity we can't stay here a bit longer. ***": {
+    "translation": "哇 在我掉到这里之前住的地方从来没有这样的东西 真遗憾我们不能在这里多待一会儿"
+  },
+  "*** Better listen to what he says. I'll stay invisible but you will still be able to hear my voice. ***": {
+    "translation": "最好听他说什么 我会保持隐形但你仍然能听到我的声音"
+  },
+  "*** By the way, I can do some things! For example, I can become invisible to others like this robot, I only learned this today, pretty cool right? ***": {
+    "translation": "顺便说一句 我能做一些事情 例如 我可以像这个机器人一样对他人隐形 我今天才学会的 很酷吧"
+  },
+  "*** You defeated him, if it weren't for you I don't know what he would have done to me. ***": {
+    "translation": "你打败了他 如果不是你 我不知道他会对我做什么"
+  },
+  "*** I fell from the sky and found myself in between mountains of garbage and then that robot kidnapped me. ***": {
+    "translation": "我从天上掉下来 发现自己身处垃圾山之间 然后那个机器人绑架了我"
+  },
+  "*** My name is Lily and yours? Oh, you can't speak? That's okay, then.. can I go with you, I feel a bit uneasy here. ***": {
+    "translation": "我的名字是莉莉 你呢 哦 你不能说话 没关系 那么 我能和你一起走吗 我在这里感到有点不安"
+  },
+  "*** I always felt sorry for her but there was nothing I could do, thank you for freeing her from these shackles. ***": {
+    "translation": "我一直为她感到难过但我无能为力 谢谢你将她从这些枷锁中解放出来"
+  },
+  "*** There is almost no time left, hurry up, this train will take us straight to the palace. ***": {
+    "translation": "几乎没有时间了 快点 这列火车将带我们直达宫殿"
+  },
+  "*** This voice, what is she doing here? It doesn't matter, we have no other choice. ***": {
+    "translation": "这个声音 她在这里做什么 没关系 我们没有其他选择"
+  },
+  "*** I must warn you, she is one of the strongest warriors of Sablieк, the fight will not be easy. ***": {
+    "translation": "我必须警告你 她是萨布利克最强的战士之一 这场战斗不会轻松"
+  },
+  "*** Don't trust any of them. ***": {
+    "translation": "不要相信他们中的任何一个"
+  },
+  "*** It seems that the connection between our souls has become stronger, poor things, they've been brainwashed pretty hard. ***": {
+    "translation": "看来我们灵魂之间的联系变得更强了 可怜的东西 他们被洗脑得很厉害"
+  },
+  "*** But we don't have much time left, we must hurry up. ***": {
+    "translation": "但我们没有多少时间了 我们必须赶快"
+  },
+  "*** This girl coming with us.. maybe she can help us. ***": {
+    "translation": "这个跟我们一起来的女孩 也许她能帮助我们"
+  },
+  "** Zombies got there before humans! You lost! **": {
+    "translation": "僵尸比人类先到那里 你输了"
+  },
+  "*** Map by Haryde, Microrost, Friend, Kotya ***": {
+    "translation": "地图由 Haryde Microrost Friend Kotya 制作"
+  },
+  "*** Special thanks to: Vanyarin for translating the text and all dialogues into English and LeXeR for his work with sounds and music. ***": {
+    "translation": "特别感谢 Vanyarin 将文本和所有对话翻译成英文 以及 LeXeR 在声音和音乐方面的工作"
+  },
+  "*** Zombie teleport will appear in 30 sec ***": {
+    "translation": "僵尸传送点将在30秒后出现"
+  },
+  "** The security system is disabled, the gate will open in 20 seconds **": {
+    "translation": "安全系统已禁用 大门将在20秒后开启"
+  },
+  "** Zombie Teleport will appear in 20 seconds **": {
+    "translation": "僵尸传送点将在20秒后出现"
+  },
+  "** The temple gates will open in 10 seconds **": {
+    "translation": "神殿大门将在10秒后开启"
+  },
+  "** We still need to wait a little while until the second gate starts to open **": {
+    "translation": "我们还需要再等一会儿直到第二扇门开始打开"
+  },
+  "** The street doors will open in 5 seconds **": {
+    "translation": "街道门将在5秒后开启"
+  },
+  "** The boiler room doors will open in 5 seconds **": {
+    "translation": "锅炉房门将在5秒后开启"
+  },
+  "** The gates of the elite district will open in 35 seconds **": {
+    "translation": "精英区大门将在35秒后开启"
+  },
+  "** The backyard doors will open in 15 seconds **": {
+    "translation": "后院门将在15秒后开启"
+  },
+  "** The gates to the garden of wishes will open in 20 seconds **": {
+    "translation": "通往愿望花园的大门将在20秒后开启"
+  },
+  "** The gates will close soon **": {
+    "translation": "大门即将关闭"
+  },
+  "** What is this little girl doing here? That robot looks dangerous, we need to help her. **": {
+    "translation": "这个小女孩在这里做什么 那个机器人看起来很危险 我们需要帮助她"
+  },
+  "*** Warmup 60 seconds ***": {
+    "translation": "热身 60 秒"
+  },
+  "*** Warmup 50 seconds ***": {
+    "translation": "热身 50 秒"
+  },
+  "*** Warmup 40 seconds ***": {
+    "translation": "热身 40 秒"
+  },
+  "*** Warmup 30 seconds ***": {
+    "translation": "热身 30 秒"
+  },
+  "*** Warmup 20 seconds ***": {
+    "translation": "热身 20 秒"
+  },
+  "*** Warmup 10 seconds ***": {
+    "translation": "热身 10 秒"
+  },
+  "*** Warmup 5 seconds ***": {
+    "translation": "热身 5 秒"
+  },
+  "*** Warmup end ***": {
+    "translation": "热身结束"
+  }
+}
