@@ -701,6 +701,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 25
   },
+  "ze_cyberbloods": {
+    "admin": true,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 300,
+    "nomination": true,
+    "price": 450,
+    "requiredOnline": 900,
+    "requiredPlayers": 45
+  },
   "ze_cyberspace_v2": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
