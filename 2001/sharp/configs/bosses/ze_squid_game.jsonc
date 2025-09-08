@@ -21,5 +21,20 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Proxy": true
+  "Counters": [
+    {
+      "iterator": "big_doll_counter",
+      "backup": "big_doll_hp_backup",
+      "counter": "big_doll_hp_iterations",
+      "hitbox": "bigdoll_hpbox",
+      "display": "Doll"
+    },
+    {
+      "iterator": "mask_counter",
+      "backup": "mask_hp_backup",
+      "counter": "mask_hp_iterations",
+      "hitbox": "mask_hpbox",
+      "display": "Mask"
+    }
+  ]
 }
