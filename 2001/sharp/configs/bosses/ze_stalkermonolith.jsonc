@@ -23,39 +23,62 @@
 {
   "Counters": [
     {
-      "iterator": "boss_health_base",
-      "backup": "boss_health_backup",
-      "counter": "boss1_hp_iterations",
-      "hitbox": "naraka_hitbox",
-      "display": "Naraka"
-    }
-  ],
-  "Breakables": [
-    {
-      "target": "moray_breakable",
-      "display": "魔鳗",
+      "iterator": "pirate_counter",
+      "hitbox": "Noctali",
+      "display": "Noctali"
     },
     {
-      "target": "kamek_health",
-      "display": "卡美克",
+      "iterator": "psevdocounter1",
+      "hitbox": "box1gigi",
+      "display": "GiGi"
     },
     {
-      "target": "whomp_king_breakable",
-      "display": "石像怪",
+      "iterator": "stage_3_countercontroler1",
+      "hitbox": "stage_3_phycontroler",
+      "display": "S3Controller"
     },
     {
-      "target": "bomp_breakable",
-      "display": "炸弹王",
+      "iterator": "stage_2_burrercounter2",
+      "hitbox": "stage_2_burrerphy2",
+      "display": "S2B2"
+    },
+    {
+      "iterator": "stage_2_burrercounter",
+      "hitbox": "stage_2_burrerphy1",
+      "display": "S2B1"
+    },
+    {
+      "iterator": "stage_1_countermonolit1",
+      "hitbox": "stage_1_phymonolit1",
+      "display": "Mono1"
+    },
+    {
+      "iterator": "stage_1_block5",
+      "hitbox": "stage_1_box1",
+      "display": "S1B5"
+    },
+    {
+      "iterator": "stage_1_gigant1",
+      "hitbox": "stage_1_modelphybox1",
+      "display": "Gigant"
     }
   ],
   "Monsters": [
     {
-      "identity": "5337",
-      "display": "锁1"
+      "identity": "17568",
+      "display": "B2"
     },
     {
-      "identity": "5339",
-      "display": "锁2"
+      "identity": "17566",
+      "display": "B3"
+    },
+    {
+      "identity": "17564",
+      "display": "B4"
+    },
+    {
+      "identity": "18553",
+      "display": "B1"
     }
   ]
 }

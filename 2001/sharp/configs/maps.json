@@ -36,7 +36,7 @@
     "requiredPlayers": 40
   },
   "ze_240s_survival_v1": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 60,
     "nomination": false,
@@ -1017,7 +1017,7 @@
     "requiredPlayers": 40
   },
   "ze_evernight": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 180,
     "nomination": true,
@@ -2402,6 +2402,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 45
   },
+  "ze_mix": {
+    "admin": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 160,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": 600,
+    "requiredPlayers": 40
+  },
   "ze_mo3_time_capsule": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
@@ -2430,11 +2439,11 @@
     "requiredPlayers": -1
   },
   "ze_mountain_ultimate": {
-    "admin": true,
-    "certainTimes": [-1],
-    "cooldown": 160,
+    "admin": false,
+    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 180,
     "nomination": true,
-    "price": 600,
+    "price": 800,
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
@@ -2978,6 +2987,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_peach_insanity_n64": {
+    "admin": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 140,
+    "nomination": true,
+    "price": 600,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_percocet_p": {
     "admin": false,
     "certainTimes": [-1],
@@ -3004,6 +3022,15 @@
     "price": 500,
     "requiredOnline": -1,
     "requiredPlayers": 40
+  },
+  "ze_plants_vs_zombies": {
+    "admin": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 220,
+    "nomination": true,
+    "price": 800,
+    "requiredOnline": 600,
+    "requiredPlayers": 45
   },
   "ze_platformer_p": {
     "admin": false,
@@ -3036,6 +3063,15 @@
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 80,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
+  "ze_pools_part2": {
+    "admin": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 140,
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
@@ -3761,6 +3797,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 35
   },
+  "ze_surf_facility_p": {
+    "admin": false,
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
   "ze_surf_gypt_p": {
     "admin": false,
     "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
@@ -4030,6 +4075,15 @@
     "price": 550,
     "requiredOnline": -1,
     "requiredPlayers": 35
+  },
+  "ze_toggle_theory": {
+    "admin": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 160,
+    "nomination": true,
+    "price": 500,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
   },
   "ze_totemo_roka_p": {
     "admin": false,

@@ -208,5 +208,123 @@
   },
   "<< Double the luck. >>": {
     "translation": "双倍好运."
+  },
+  "No exit up front...": {
+    "translation": "前面没有出口..."
+  },
+  "The talisman is reacting. This wall seems suspicious.": {
+    "translation": "符咒有反应.这面墙看起来很可疑."
+  },
+  "Find a way to get us out of here.": {
+    "translation": "想办法让我们离开这里."
+  },
+  "This stone slab is loose. Looks like we can break it with the hammer. Give me some time.": {
+    "translation": "这块石板松动了.看起来我们可以用锤子砸开它.给我点时间."
+  },
+  "What the fuck...": {
+    "translation": "wtf..."
+  },
+  "The obstacle is gone. Move forward.": {
+    "translation": "障碍消失了.前进."
+  },
+  "Oh god, she's inside! Quick, use the talisman to seal her!": {
+    "translation": "天啊,她在里面!快,用符咒封印她!"
+  },
+  "Fall back.": {
+    "translation": "后撤."
+  },
+  "<< Find the one different room among the six, or you can't leave. >>": {
+    "translation": "在六个房间中找到那个不同的,否则你们无法离开."
+  },
+  "A force pushed the door open...": {
+    "translation": "一股力量把门推开了..."
+  },
+  "Give me a moment to cut through this net.": {
+    "translation": "给我点时间割开这个网."
+  },
+  "<< The risk is clear—yet stepping inside is the only choice. >>": {
+    "translation": "风险很清楚 但踏进去是唯一的选择."
+  },
+  "Run, bro! Hold on until the talisman is activated!": {
+    "translation": "快跑,兄弟!坚持到符咒激活!"
+  },
+  "<< You may leave now. >>": {
+    "translation": "你们现在可以离开了."
+  },
+  "30 seconds": {
+    "translation": "30秒"
+  },
+  "Someone strong, break this wall open.": {
+    "translation": "来个力气大的,把这墙砸开."
+  },
+  "Fall back!": {
+    "translation": "后撤!"
+  },
+  "Shit, the path is blocked by this thing. Guess we have to take this pipe.": {
+    "translation": "妈的,路被这东西挡住了.看来我们得走这条管道."
+  },
+  "<< You know what to do. >>": {
+    "translation": "你们知道该怎么做."
+  },
+  "It seems we're about to get out.": {
+    "translation": "看来我们快要出去了."
+  },
+  "<< The bus departs in 25 seconds. Please keep your belongings with you. The journey is about to end. >>": {
+    "translation": "巴士将在25秒后出发.请随身携带好您的物品.旅程即将结束."
+  },
+  "We survived... How many more nightmares like this must we endure?": {
+    "translation": "我们活下来了...我们还要经历多少这样的噩梦?"
+  },
+  "Fall back": {
+    "translation": "后撤"
+  },
+  "Damn, the talisman only works for a short time! Run!": {
+    "translation": "该死,符咒只能生效很短时间!快跑!"
+  },
+  "<< You need to head to the gas station. The bus is waiting for you there. >>": {
+    "translation": "你们需要前往加油站.巴士在那里等你们."
+  },
+  "<< Final 20 seconds. >>": {
+    "translation": "最后20秒."
+  },
+  "My head is spinning...What happened? Did I just dream something?": {
+    "translation": "我头晕目眩...发生了什么? 我刚刚是不是梦到了什么?"
+  },
+  "Will this never end?": {
+    "translation": "这一切永远不会结束吗?"
+  },
+  "Right... We need to board the bus to leave. Clearly, the Hell Bus is toying with us.": {
+    "translation": "没错...我们需要上巴士才能离开. 很明显,地狱巴士在玩弄我们."
+  },
+  "<< You still need to experience some... interesting things >>": {
+    "translation": "你们还需要经历一些...有趣的事情"
+  },
+  "<< Don't rush, the door will open soon. >>": {
+    "translation": "门30秒后开启.",
+    "countdown": 30
+  },
+  "<< Rest level: You need to collect 5 notes. >>": {
+    "translation": "休息关卡:你需要收集5张笔记."
+  },
+  "<< 35 seconds. >>": {
+    "translation": "35秒."
+  },
+  "<< 20 seconds. >>": {
+    "translation": "20秒."
+  },
+  "Oh my god.": {
+    "translation": "我的天啊."
+  },
+  "I almost couldn't catch my breath.": {
+    "translation": "我差点喘不过气来."
+  },
+  "<< Congratulations, you've completed this instance. >>": {
+    "translation": "恭喜,你已完成这个副本."
+  },
+  "She...come back.": {
+    "translation": "她...回来了."
+  },
+  "<< You've faced her so many times already. Now it's time to end this. >>": {
+    "translation": "你们已经面对她这么多次了.现在是时候结束这一切了."
   }
 }

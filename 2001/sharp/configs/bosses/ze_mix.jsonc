@@ -23,39 +23,25 @@
 {
   "Counters": [
     {
-      "iterator": "boss_health_base",
-      "backup": "boss_health_backup",
-      "counter": "boss1_hp_iterations",
-      "hitbox": "naraka_hitbox",
-      "display": "Naraka"
-    }
-  ],
-  "Breakables": [
-    {
-      "target": "moray_breakable",
-      "display": "魔鳗",
+      "iterator": "s1_boss_health_counter",
+      "hitbox": "s1_boss_hit",
+      "display": "Boss"
     },
     {
-      "target": "kamek_health",
-      "display": "卡美克",
+      "iterator": "s2_boss_health_counter",
+      "hitbox": "s2_boss_model",
+      "display": "Boss"
     },
     {
-      "target": "whomp_king_breakable",
-      "display": "石像怪",
+      "iterator": "s3_boss_health_counter",
+      "hitbox": "s3_boss_model",
+      "display": "Boss"
     },
-    {
-      "target": "bomp_breakable",
-      "display": "炸弹王",
-    }
   ],
   "Monsters": [
     {
-      "identity": "5337",
-      "display": "锁1"
-    },
-    {
-      "identity": "5339",
-      "display": "锁2"
+      "identity": "15227",
+      "display": "B2"
     }
   ]
 }

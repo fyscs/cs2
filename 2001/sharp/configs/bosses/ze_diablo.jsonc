@@ -1,0 +1,114 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "meph_tower_boss_math",
+      "backup": "Boss_HealthBackup4",
+      "counter": "Boss_HealthCount4",
+      "hitbox": "meph_tower_boss_break",
+      "display": "墨菲斯托"
+    },
+    {
+      "iterator": "azmo_math",
+      "backup": "Boss_HealthBackup_azmo",
+      "counter": "Boss_HealthCount_azmo",
+      "hitbox": "azmo_breakable",
+      "display": "阿兹莫丹"
+    },
+    {
+      "iterator": "soulstone_counter",
+      "hitbox": "soulstone_breakable",
+      "display": "灵魂石"
+    },
+    {
+      "iterator": "belial_boss_math",
+      "backup": "Boss_HealthBackup",
+      "counter": "Boss_HealthCount",
+      "hitbox": "belial_boss_break",
+      "display": "贝利亚"
+    },
+    {
+      "iterator": "zol_boss_math",
+      "backup": "zol_HealthBackup",
+      "counter": "zol_HealthCount",
+      "hitbox": "zol_hitbox",
+      "display": "Boss_Zol"
+    },
+    {
+      "iterator": "s4_ending_counter1",
+      "hitbox": "s4_ending_physbox",
+      "display": "S4p1"
+    },
+    {
+      "iterator": "s4_ending_counter2",
+      "hitbox": "s4_ending_physbox",
+      "display": "S4p2"
+    },
+    {
+      "iterator": "s4_ending_counter3",
+      "hitbox": "s4_ending_physbox",
+      "display": "S4Final"
+    },
+    {
+      "iterator": "bossdiablo_math_counter",
+      "backup": "Boss_HealthBackup_diablo",
+      "counter": "Boss_HealthCount_diablo",
+      "hitbox": "diablo_Boss_Break",
+      "display": "迪亚波罗"
+    },
+    {
+      "iterator": "bossleoric_math_counter2",
+      "backup": "Boss_HealthBackup3",
+      "counter": "Boss_HealthCount3",
+      "hitbox": "leoric_Boss_Break2",
+      "display": "MadKing_P2"
+    },
+    {
+      "iterator": "bossleoric_math_counter1",
+      "backup": "Boss_HealthBackup2",
+      "counter": "Boss_HealthCount2",
+      "hitbox": "leoric_Boss_Break",
+      "display": "MadKing_P1"
+    },
+    {
+      "iterator": "leoric_cage_1_math",
+      "hitbox": "leoric_cage_1_breakable",
+      "display": "MadKing_C1"
+    },
+    {
+      "iterator": "butcher_math",
+      "backup": "Boss_HealthBackup_butcher",
+      "counter": "Boss_HealthCount_butcher",
+      "hitbox": "Butcher_Boss_Break",
+      "display": "屠夫"
+    },
+    {
+      "iterator": "bossazmobig_math_counter",
+      "backup": "Boss_HealthBackup_azmobig",
+      "counter": "Boss_HealthCount_azmobig",
+      "hitbox": "azmobig_Boss_Break",
+      "display": "阿兹莫丹"
+    }
+  ]
+}

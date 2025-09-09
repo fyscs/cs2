@@ -1,0 +1,334 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** WARNING ! BEHIND YOU !!! ***": {
+    "translation": "警告 在你后面"
+  },
+  "ITS WORKING": {
+    "translation": "成功了"
+  },
+  "*** QUICK ! GET ON THE FLYING CARPET ! FLYGUYS WILL MOVE SOON ! ***": {
+    "translation": "快 上飞毯 飞人快动了"
+  },
+  "*** WATCH OUT FOR THE TORNADO !! ***": {
+    "translation": "小心龙卷风"
+  },
+  "*** THE PATH TO THE SUMMIT WILL OPEN SOON ! LOOK FOR A TORNADO ***": {
+    "translation": "通往山顶的路快开了 找到龙卷风<装比让你飞起来>"
+  },
+  "*** DEFEND 30 SECONDS ***": {
+    "translation": "防守30秒"
+  },
+  "*** THE ELEVATOR WILL MOVE IN 20 SECONDS ***": {
+    "translation": "电梯将在20秒后移动"
+  },
+  "*** DEFEND !! DON'T LET THEM REACH THE TOP OF THE PYRAMID !! ***": {
+    "translation": "防守 别让他们到达金字塔顶"
+  },
+  "*** CONGRATULATIONS ! WE SURVIVED THE TRAPS OF THE PYRAMID ! ***": {
+    "translation": "恭喜 我们活过了金字塔的陷阱"
+  },
+  "*** WE FOUND THE STAR OF THE PYRAMID ! ***": {
+    "translation": "我们找到金字塔之星了"
+  },
+  "*** THIS THWOMP WILL MOVE IN 20 SECONDS ***": {
+    "translation": "这个石像怪将在20秒后移动"
+  },
+  "*** A PATH WILL APPEAR IN 10 SECONDS ***": {
+    "translation": "路将在10秒后出现"
+  },
+  "*** DEFEND JUST A LITTLE MORE ***": {
+    "translation": "再防守一会儿"
+  },
+  "*** RUN ON THIS TRUNK TO MAKE IT MOVE ! ***": {
+    "translation": "在这树干上跑 让它动起来"
+  },
+  "*** DON'T GIVE UP ! KEEP GOING ! ***": {
+    "translation": "别放弃 继续前进"
+  },
+  "*** KEEP RUNNING !! LET'S BREAK THIS WALL !!! ***": {
+    "translation": "继续跑 来打破这堵墙"
+  },
+  "*** HOLD A FEW SECONDS ***": {
+    "translation": "坚持几秒"
+  },
+  "*** QUICK ! GET INSIDE THE CANON NOW ! ***": {
+    "translation": "快现在进大炮里"
+  },
+  "*** THERE ARE 3 BULLIES OVER THERE ! LET'S PUSH THEM IN THE LAVA ! ***": {
+    "translation": "那边有3个恶霸 我们要把它们推进岩浆里"
+  },
+  "*** AIM FOR THE INTERIOR OF THE VOLCANO ! ***": {
+    "translation": "瞄准火山内部"
+  },
+  "*** GIANT CANON IS LOADED ***": {
+    "translation": "巨炮已装填"
+  },
+  "*** CONGRATULATIONS ! WE SURVIVED THE VOLCANO ! ***": {
+    "translation": "恭喜我们活过了火山"
+  },
+  "*** DEFEND 20 LAST SECONDS ***": {
+    "translation": "防守最后20秒"
+  },
+  "*** WE FOUND THE SECRET STAR ! ***": {
+    "translation": "我们找到秘密之星了"
+  },
+  "*** HOLD THIS POINT WHILE SOMEONE MOVES THIS TOXBOX ***": {
+    "translation": "守住这个点 等有人移动这个毒箱"
+  },
+  "*** THE NEXT TOXBOX WILL MOVE IN 10 SECONDS ***": {
+    "translation": "下一个毒箱将在10秒后移动"
+  },
+  "*** HURRY UP ! COME TO THE CRANE ! ***": {
+    "translation": "快点到起重机这里"
+  },
+  "*** WE CAN'T KILL HIM WITH OUR BULLET, BUT WE MAY BREAK THE PULLEY ***": {
+    "translation": "我们的子弹杀不死他 但我们可以打破滑轮"
+  },
+  "*** SHOOT THE YELLOW THING ABOVE OUR HEADS *** ***": {
+    "translation": "射击我们头上黄色的东西"
+  },
+  "*** YEAH ! KEEP PUSHING THEM IN THE LAVA WHILE I'M OPENING THE CANON ***": {
+    "translation": "耶 我打开大炮时继续把它们推进岩浆里"
+  },
+  "*** WTF IS THAT ??? ***": {
+    "translation": "那是什么鬼东西"
+  },
+  "*** WE HAVE TO RELOAD WITH ANOTHER EGG ***": {
+    "translation": "我们得用另一个蛋重新装填"
+  },
+  "*** LET'S FIND SOME AMMO TO LOAD THIS CANNON ! ***": {
+    "translation": "找点弹药来装填这门大炮"
+  },
+  "*** THIS ELEVATOR WILL LEAVE IN 15 SECONDS ***": {
+    "translation": "这个电梯将在15秒后离开"
+  },
+  "*** AIM FOR HIS MOUTH ! ***": {
+    "translation": "瞄准他的嘴"
+  },
+  "*** WE DIT IT !!! BOWSER IS DEAD !!! ***": {
+    "translation": "我们做到了 库巴死了"
+  },
+  "*** BUT STILL NO CAKE... STRANGE...  ***": {
+    "translation": "但还是没有蛋糕 奇怪"
+  },
+  "*** WE HAVE TO LOOK FOR IT IN THE SECOND FLOOR...***": {
+    "translation": "我们得去二楼找它"
+  },
+  "*** IN THE THIRD AND FINAL PART OF THE PEACH'S CAKE QUEST ! ***": {
+    "translation": "碧姬公主-第三部"
+  },
+  "*** CAN'T USE THE CANNON WITHOUT AMMO ! ***": {
+    "translation": "没弹药不能用大炮!"
+  },
+  "*** THE PLATEFORM WILL LEAVE IN 10 SECONDS ***": {
+    "translation": "平台将在10秒后离开"
+  },
+  "*** THE WAY WILL OPEN IN 20 SECONDS ***": {
+    "translation": "道路将在20秒后开启"
+  },
+  "*** FIND A SAFE SPOT AND DEFEND UNTIL THE GATE OPEN ***": {
+    "translation": "找个安全点 防守直到大门开启"
+  },
+  "*** THIS ELEVATOR WILL LEAVE IN 20 SECONDS ***": {
+    "translation": "这个电梯将在20秒后离开"
+  },
+  "*** 10 SECONDS LEFT ***": {
+    "translation": "还剩10秒"
+  },
+  "*** COME HERE QUICK ! I HEARD SOMETHING COMING FROM THE ABYSS... ***": {
+    "translation": "快过来 我听到深渊有东西来了"
+  },
+  "*** THE ELEVATOR WILL LEAVE IN 20 SECONDS ***": {
+    "translation": "电梯将在20秒后离开"
+  },
+  "*** DORRIE IS COMING ! ***": {
+    "translation": "多莉来了"
+  },
+  "*** WE MADE IT ! CONGRATS GUYS ! ***": {
+    "translation": "我们做到了 恭喜各位"
+  },
+  "*** WE CAN USE THIS TUNNEL TO EXIT THE CAVE ! ***": {
+    "translation": "我们可以用这个隧道出洞穴"
+  },
+  "*** DEFEND 20 LAST SECONDS WHILE I'M OPENING IT ! ***": {
+    "translation": "防守最后20秒我来打开它"
+  },
+  "*** WE FOUND THE STAR OF THE CAVE ! ***": {
+    "translation": "我们找到洞穴之星了"
+  },
+  "*** LEFT ENGINE IS BROKEN ! DON'T ATTACK IT ANYMORE ***": {
+    "translation": "左引擎坏了 别再打它了"
+  },
+  "*** MIDDLE ENGINE IS BROKEN ! DON'T ATTACK IT ANYMORE ***": {
+    "translation": "中引擎坏了 别再打它了"
+  },
+  "*** RIGHT ENGINE IS BROKEN ! DON'T ATTACK IT ANYMORE ***": {
+    "translation": "右引擎坏了 别再打它了"
+  },
+  "*** THIS THING IS TOO ARMORED ! OUR ONLY CHANCE IS TO DESTROY ITS ENGINES ! ***": {
+    "translation": "这东西装甲太厚 我们唯一机会是摧毁它的引擎"
+  },
+  "*** USE GRENADES AND AIM INSIDE ITS CANONS ! ***": {
+    "translation": "用手榴弹瞄准它的大炮内部"
+  },
+  "*** WATCH OUT ! BRIDGE IS COMING ! ***": {
+    "translation": "小心桥来了"
+  },
+  "*** WE HAVE ENOUGH STARS ! PLEASE DEFEND UNTIL THE DOORS OPEN ***": {
+    "translation": "星星够了请防守到门开"
+  },
+  "*** WE DON'T HAVE ENOUGH STARS TO OPEN THIS DOOR ***": {
+    "translation": "星星不够打开这扇门"
+  },
+  "*** ADMIN CHOSE SHIFTING SAND DESERT ***": {
+    "translation": "管理员选择了-沙沙沙漠"
+  },
+  "*** ADMIN CHOSE LETHAL LAVA LAND ***": {
+    "translation": "管理员选择了-熔岩大地"
+  },
+  "*** ADMIN CHOSE HAZY MAZE CAVE ***": {
+    "translation": "管理员选择了-迷朦迷宫"
+  },
+  "*** ADMIN CHOSE BIG BOO'S HAUNT ***": {
+    "translation": "管理员选择了-巨大鬼屋"
+  },
+  "*** LET'S SPEEDRUN TO THE FIRE SEA ! ***": {
+    "translation": "速通去火海"
+  },
+  "*** MAP WILL NOW RESTART ***": {
+    "translation": "地图即将重启"
+  },
+  "LEVEL 1": {
+    "translation": "关卡一"
+  },
+  "LEVEL 2": {
+    "translation": "关卡二"
+  },
+  "LEVEL 3": {
+    "translation": "关卡三"
+  },
+  "LEVEL 4": {
+    "translation": "关卡四"
+  },
+  "*** 5 SECONDS LEFT !!!! ***": {
+    "translation": "只剩5秒"
+  },
+  "MAP BY BLUE BLUE": {
+    "translation": "地图作者 BLUE BLUE 文本:Zeyu1"
+  },
+  "*** THE BASIN WILL OPEN IN 10 SECONDS ***": {
+    "translation": "水池将在10秒后开启"
+  },
+  "*** LET'S A GO ! ***": {
+    "translation": "我们出发吧"
+  },
+  "*** DEFEND FOR 20 SECONDS ***": {
+    "translation": "防守20秒"
+  },
+  "*** THE PLATFORMS WILL RISE IN 5 SECONDS ***": {
+    "translation": "平台将在5秒后升起"
+  },
+  "*** DEFEND THIS PLACE WHILE I'M LOOKING FOR A SOLUTION ***": {
+    "translation": "防守此地我来找解决办法"
+  },
+  "*** HOLD 10 SECONDS ***": {
+    "translation": "坚持10秒"
+  },
+  "*** WE ARE TOO SMALL TO REACH THIS SWITCH ! ***": {
+    "translation": "我们太小够不到这个开关"
+  },
+  "*** HAHAHA ! THAT WAS JUST A DECOY ! WHILE YOU WERE LOSING TIME HERE I BURNED THE MUSHROOM KINGDOM !! ***": {
+    "translation": "哈哈 那只是个诱饵你们在这浪费时间时我烧了蘑菇王国"
+  },
+  "*** DON'T DEFEND !!! CLIMB ALL THE STAIRS YOU CAN FIND !! ***": {
+    "translation": "别防守 爬所有你能找到的楼梯"
+  },
+  "*** OH NO... AGAIN ?? ***": {
+    "translation": "哦不 又来"
+  },
+  "*** HUMANS, YOU'RE WAY TOO BORING ! TAKE THIS KEY AND GET OUT OF MY MANSION ***": {
+    "translation": "人类你们太无聊了 拿这把钥匙滚出我的宅邸"
+  },
+  "*** THIS DOOR IS LOCKED, BUT THIS MANSION IS FALLING APART ***": {
+    "translation": "这门锁着但这宅邸要散架了"
+  },
+  "*** GIVE ME 20 SECONDS, I'M SURE I CAN BREAK THIS WALL ***": {
+    "translation": "给我20秒 我肯定能打破这墙"
+  },
+  "*** DEFEND THE LIBRARY 30 SECONDS ***": {
+    "translation": "防守图书馆30秒"
+  },
+  "*** THE BALCONY DOORS WILL OPEN IN 20 SECONDS ***": {
+    "translation": "阳台门将在20秒后开启"
+  },
+  "*** GO GO GO ***": {
+    "translation": "快冲快冲"
+  },
+  "*** OH NO ! KING BOO IS COMING ! ***": {
+    "translation": "哦不 鬼王来了"
+  },
+  "*** DON'T TRY TO KILL IT, HE'S ALREADY DEAD ! ***": {
+    "translation": "别想杀他他已经死了"
+  },
+  "*** JUST RUN, GO TO THE NORTH !! ***": {
+    "translation": "快跑往北去"
+  },
+  "*** COMES DEFEND THIS ROOM ! I FEEL SOMETHING WILL HAPPEN...***": {
+    "translation": "来防守这房间 我感觉有事要发生"
+  },
+  "*** THIS IS THE LAST DEFENSE ! ***": {
+    "translation": "这是最后防线"
+  },
+  "*** DON'T LET THEM ENTER THE CAROUSEL ! ***": {
+    "translation": "别让它们进入旋转木马"
+  },
+  "*** WE FOUND THE STAR OF THE MANSION ! ***": {
+    "translation": "我们找到宅邸之星了"
+  },
+  "*** THE MANSION WILL OPEN IN 20 SECONDS ! ***": {
+    "translation": "宅邸将在20秒后开启"
+  },
+  "*** IT'S OPEN ! QUICK COME IN ! ***": {
+    "translation": "开了快进来"
+  },
+  "*** DEFEND THE ROOF FOR 20 SECONDS ***": {
+    "translation": "防守屋顶20秒"
+  },
+  "*** OK KEEP CLIMBING ***": {
+    "translation": "好 继续爬!"
+  },
+  "*** THIS IS THE KEY FOR THE BASEMENT ! ***": {
+    "translation": "这是地窖的钥匙"
+  },
+  "*** JUMP OFF THE ROOF AND GO TO THE LITTLE HOUSE ***": {
+    "translation": "跳下屋顶 去小房子"
+  },
+  "*** THE ELEVATOR WILL START IN 15 SECONDS ***": {
+    "translation": "电梯将在15秒后启动"
+  },
+  "*** WE MADE IT ! ***": {
+    "translation": "我们成功了"
+  },
+  "*** THIS WILL UNLOCK THE DOOR IN 10 SECONDS ***": {
+    "translation": "门10秒后解锁"
+  },
+  "*** IT'S OPEN ! COME INSIDE ! ***": {
+    "translation": "开了快进来"
+  },
+  "*** THE SHORTCUT IS OPEN ! WE CAN CLIMB ! ***": {
+    "translation": "捷径开了 我们可以爬了"
+  },
+  "*** JUST WAIT A MOMENT, SOMETHING IS COMING... ***": {
+    "translation": "稍等片刻 有东西来了"
+  }
+}

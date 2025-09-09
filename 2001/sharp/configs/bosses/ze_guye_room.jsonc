@@ -28,6 +28,13 @@
       "counter": "lv1_boss_counter_big",
       "hitbox": "lv1_boss_hitbox",
       "display": "Level1"
+    },
+    {
+      "iterator": "lv4_boss_counter_small",
+      "mass": 77,
+      "counter": "lv4_boss_counter_big",
+      "hitbox": "lv4_boss_hitbox",
+      "display": "阳光彩虹小白马"
     }
   ]
 }
