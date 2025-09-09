@@ -23,39 +23,42 @@
 {
   "Counters": [
     {
-      "iterator": "boss_health_base",
-      "backup": "boss_health_backup",
-      "counter": "boss1_hp_iterations",
-      "hitbox": "naraka_hitbox",
-      "display": "Naraka"
+      "iterator": "bowser_health_base",
+      "backup": "bowser_health_backup",
+      "counter": "bowser_hp_iterations",
+      "hitbox": "bowser_hitbox",
+      "display": "库巴"
     }
   ],
   "Breakables": [
     {
-      "target": "moray_breakable",
-      "display": "魔鳗",
+      "target": "hazy_left_boss_hp",
+      "hitbox": "hazy_boss_breakable_left",
+      "display": "炮弹の左"
     },
     {
-      "target": "kamek_health",
-      "display": "卡美克",
+      "target": "hazy_middle_boss_hp",
+      "hitbox": "hazy_boss_breakable_middle",
+      "display": "炮弹の中",
     },
     {
-      "target": "whomp_king_breakable",
-      "display": "石像怪",
+      "target": "hazy_right_boss_hp",
+      "hitbox": "hazy_boss_breakable_right",
+      "display": "炮弹の右"
     },
     {
-      "target": "bomp_breakable",
-      "display": "炸弹王",
+      "target": "right_eyerok_break",
+      "display": "黄金右手"
+    },
+    {
+      "target": "left_eyerok_break",
+      "display": "黄金左手"
     }
   ],
   "Monsters": [
     {
-      "identity": "5337",
-      "display": "锁1"
-    },
-    {
-      "identity": "5339",
-      "display": "锁2"
+      "identity": "13686",
+      "display": "铃铛"
     }
   ]
 }

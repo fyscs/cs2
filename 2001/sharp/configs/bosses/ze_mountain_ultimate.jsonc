@@ -1,0 +1,110 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "counter_3",
+      "backup": "bosshpbackup",
+      "counter": "BossHpIterations",
+      "hitbox": "sovng_boss_break",
+      "display": "奥杜因"
+    }
+  ],
+  "Breakables": [
+    {
+      "target": "bosss_hp2",
+      "hitbox": "bosss_hp2",
+      "display": "灼眼尊者"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "34159",
+      "display": "Truck1"
+    },
+    {
+      "identity": "34160",
+      "display": "Truck2"
+    },
+    {
+      "identity": "2105",
+      "display": "Dp"
+    },
+    {
+      "identity": "2070",
+      "display": "Giant1"
+    },
+    {
+      "identity": "2072",
+      "display": "Giant2"
+    },
+    {
+      "identity": "2074",
+      "display": "Giant3"
+    },
+    {
+      "identity": "2076",
+      "display": "Giant4"
+    },
+    {
+      "identity": "2004",
+      "display": "Wolf1"
+    },
+    {
+      "identity": "2006",
+      "display": "Wolf2"
+    },
+    {
+      "identity": "2008",
+      "display": "Wolf3"
+    },
+    {
+      "identity": "2010",
+      "display": "Wolf4"
+    },
+    {
+      "identity": "2221",
+      "display": "Nazgul1"
+    },
+    {
+      "identity": "2223",
+      "display": "Nazgul2"
+    },
+    {
+      "identity": "2189",
+      "display": "Troll"
+    },
+    {
+      "identity": "2191",
+      "display": "Troll"
+    },
+    {
+      "identity": "2193",
+      "display": "Troll"
+    },
+    {
+      "identity": "1736",
+      "display": "Balrog"
+    }
+  ]
+}

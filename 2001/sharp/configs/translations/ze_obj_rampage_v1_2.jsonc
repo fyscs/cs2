@@ -92,7 +92,7 @@
     "translation": "想办法关闭阀门"
   },
   "BLAST DOORS <<< 30 >>>": {
-    "translation": "门开还有<<< 30 >>>",
+    "translation": "<<< 30 >>>",
     "countdown": 30
   },
   "BLAST DOORS <<< 25 >>>": {
@@ -147,7 +147,7 @@
     "translation": "远离控制台!!远离控制台!!!"
   },
   "DOOR OPEN <<< 30 >>>": {
-    "translation": "门开还有<<< 30 >>>",
+    "translation": "<<< 30 >>>",
     "countdown": 30
   },
   "DOOR OPEN <<< 25 >>>": {
@@ -218,5 +218,17 @@
   },
   "Map by Trazix": {
     "translation": "地图作者:Trazix地图汉化:余清茗染@Fys"
+  },
+  "The doors opening in 30s": {
+    "translation": "30秒后开门"
+  },
+  "Stay inside the room until the zombies outside get teleport!": {
+    "translation": "待在房间里直到外面的僵尸传送"
+  },
+  "Climb up the boxes after activated the detonator !": {
+    "translation": "激活起爆器后爬上箱子"
+  },
+  "Keep holding until zombies get teleport!": {
+    "translation": "守住直到僵尸传送"
   }
 }

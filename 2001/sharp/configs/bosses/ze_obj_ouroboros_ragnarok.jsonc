@@ -26,5 +26,15 @@
       "identity": "16945",
       "display": "NPC"
     }
+  ],
+  "Counters": [
+    {
+      "iterator": "Boss_HpCounter",
+      "backup": "BossHp_Counter_2",
+      "counter": "BossHpBar_Counter",
+      "reverse": true,
+      "hitbox": "boss",
+      "display": "Woo"
+    }
   ]
 }
