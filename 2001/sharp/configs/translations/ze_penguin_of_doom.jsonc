@@ -1,0 +1,220 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "SPAM!": {
+    "translation": "spam"
+  },
+  "### CABBAGE OF REGENERATION PICKED UP (PASSIVE HEAL) ###": {
+    "translation": "再生卷心菜已拾取-被动治疗"
+  },
+  "~~~ RED PAINT FOUND ~~~": {
+    "translation": "红色油漆已找到"
+  },
+  "~~~ GREEN PAINT FOUND ~~~": {
+    "translation": "绿色油漆已找到"
+  },
+  "~~~ GREEN PAINT RESPAWNED ~~~": {
+    "translation": "绿色油漆已重新生成"
+  },
+  "### PENGUIN OF DOOM ENTERS THE CHAT ###": {
+    "translation": "末日企鹅进入聊天"
+  },
+  "### DOOR OPENING, BUT KEEP DEFENDING ###": {
+    "translation": "门正在打开但请继续防守"
+  },
+  "### QUICK - FOLLOW ME! THE ZOMBIES ARE COMING! ###": {
+    "translation": "快跟我来 僵尸来了"
+  },
+  "### I WILL SHOW YOU THE WAY TO THE MAGICAL FOREST ###": {
+    "translation": "我将为你指明通往魔法森林的道路"
+  },
+  "~~~ Argh! ~~~": {
+    "translation": "啊"
+  },
+  "Prepare to die!": {
+    "translation": "准备受死吧"
+  },
+  "Who dares to disturb me?": {
+    "translation": "谁敢打扰我"
+  },
+  "WTF": {
+    "translation": "搞什么鬼"
+  },
+  "~~~ GET ON THE ELEVATOR! ~~~": {
+    "translation": "快上电梯"
+  },
+  "~~~ WELCOME TO MY HOME ~~~": {
+    "translation": "欢迎来到我家"
+  },
+  "~~~ USE MY TELEPORTER TO GET TO THE MAGICAL FOREST ~~~": {
+    "translation": "使用我的传送器 前往魔法森林"
+  },
+  "~~~ ZOMBIES WILL TELEPORT IN 30 SECONDS ~~~": {
+    "translation": "僵尸将在30秒后传送"
+  },
+  "NICE! - A MAPPING CONTEST": {
+    "translation": "太好 了地图制作竞赛"
+  },
+  "TIME TO MAKE A GRIMY INDUSTRIAL MAP SET IN SOME ABANDONED FACILITY": {
+    "translation": "是时候制作设置在废弃设施中的肮脏工业地图了"
+  },
+  "### WELL EXCEPT FOR THIS ONE ###": {
+    "translation": "好吧除了这个"
+  },
+  "### DOOR OPENING, GET BACK! ###": {
+    "translation": "门正在打开后退"
+  },
+  "### OH SORRY, THERE'S ANOTHER DOOR ###": {
+    "translation": "哦 抱歉还有另一扇门"
+  },
+  "### AND ANOTHER - LAST ONE I PROMISE ###": {
+    "translation": "还有一扇 最后一个我保证"
+  },
+  "“DON'T JUST MAKE A BORING GREYMAP”": {
+    "translation": "不要只做一张无聊的灰暗地图"
+  },
+  "OH NO LADS WE'VE MESSED UP!": {
+    "translation": "哦 不伙计们我们搞砸了"
+  },
+  "OH WELL, LET'S GET INSIDE ANYWAY. THAT DOOR IS OPENING IN 10 SECONDS ...": {
+    "translation": "那扇门10秒后开启"
+  },
+  "~~~ RED PAINT EMPTY ~~~": {
+    "translation": "红色油漆已空"
+  },
+  "~~~ GREEN PAINT EMPTY ~~~": {
+    "translation": "绿色油漆已空"
+  },
+  "### DOORBELL READY ###": {
+    "translation": "门铃已就绪"
+  },
+  "### FIRST BRIDGE CONSTUCTED ###": {
+    "translation": "第一座桥梁已建成"
+  },
+  "### SECOND BRIDGE CONSTUCTED ###": {
+    "translation": "第二座桥梁已建成"
+  },
+  "### HRGHGHGH ###": {
+    "translation": "呃啊啊啊"
+  },
+  "### URRGGH GLURRRBLE ###": {
+    "translation": "呃呃咕噜噜"
+  },
+  "### OK OK I'M COMING ###": {
+    "translation": "好吧好吧我来了"
+  },
+  "### RIGHT DOORBELL GENERATOR ACTIVATED ###": {
+    "translation": "右侧门铃发电机已激活"
+  },
+  "### LEFT DOORBELL GENERATOR ACTIVATED ###": {
+    "translation": "左侧门铃发电机已激活"
+  },
+  "### RIGHT GENERATOR ACTIVATED ###": {
+    "translation": "右侧发电机已激活"
+  },
+  "### LEFT GENERATOR ACTIVATED ###": {
+    "translation": "左侧发电机已激活"
+  },
+  "### OK, GET THROUGH THE TELPORTER, ZOMBIE TELEPORT IN 20 SECONDS ###": {
+    "translation": "好了 穿过传送器僵尸20秒后传送"
+  },
+  "### SNOWMAN 1 IS PINING FOR THE PINES ###": {
+    "translation": "雪人1-渴望松树"
+  },
+  "### SNOWMAN 2 IS YEARNING FOR THE YEWS ###": {
+    "translation": "雪人2-向往紫杉"
+  },
+  "### SNOWMAN 3 IS LONGING FOR THE LARCHES ###": {
+    "translation": "雪人3-思念落叶松"
+  },
+  "### OK, OK - YOU WIN! ###": {
+    "translation": "好吧好吧 你赢了"
+  },
+  "### PHEW! - HE'S DEAD ###": {
+    "translation": "唷 他死了"
+  },
+  "### RUN TO THE ELEVATOR, IT WILL LEAVE IN 30 SECONDS ###": {
+    "translation": "跑向电梯 它将在30秒后离开"
+  },
+  "### FORCE FIELD DISABLED - EXIT DOORS OPENING IN 10 SECONDS ###": {
+    "translation": "力场已禁用 出口门10秒后开启"
+  },
+  "### OH NO, AN EVIL FORCE HAS PLACED A DAMAGE SPELL ON THIS DOOR ###": {
+    "translation": "哦不 邪恶力量对这扇门施加了伤害法术"
+  },
+  "### OK THAT'S ENOUGH. LET'S PROCEED. DOORS OPENING ... ###": {
+    "translation": "好了够了 我们继续门正在打开"
+  },
+  "### ENTRANCE DOORS CLOSING, ZOMBIES WILL TP SHORTLY ###": {
+    "translation": "入口门正在关闭 僵尸即将传送"
+  },
+  "### THE THREE WISE SNOWMEN HAVE BEEN FOUND ###": {
+    "translation": "三位智者雪人已被找到"
+  },
+  "### WE MUST FIND OUR WAY TO THEIR HOMELAND - THE MAGICAL FOREST - AND HELP THEM ###": {
+    "translation": "我们必须找到前往他们家园魔法森林的道路 并帮助他们"
+  },
+  "### WELCOME TO THE MAGIC FOREST ###": {
+    "translation": "欢迎来到魔法森林"
+  },
+  "### LET'S GET OUT OF HERE AND FIND THE EVIL FORCE ###": {
+    "translation": "让我们离开这里找到邪恶力量"
+  },
+  "### DOORS OPENING IN 10 SECONDS ###": {
+    "translation": "门10秒后开启"
+  },
+  "### DOORS OPEN! GET THROUGH THE TELPORTER - ZOMBIE TP IN 10 SECONDS ###": {
+    "translation": "门开了 穿过传送器僵尸10秒后传送"
+  },
+  "### DOOR OPENING IN 5 SECONDS ###": {
+    "translation": "门5秒后开启"
+  },
+  "### LOOKS LIKE WE'RE IN A STORAGE AREA - SEARCH AROUND FOR ANY INTERESTING ITEMS ###": {
+    "translation": "看来我们在储物区四处搜索有趣的物品"
+  },
+  "### PAINT THESE BORING CINDER BLOCK WALLS ###": {
+    "translation": "粉刷这些无聊的煤渣砖墙"
+  },
+  "### MAYBE THERE'S SOMETHING IN THE KITCHEN THAT WILL HELP ###": {
+    "translation": "也许厨房里有能帮忙的东西"
+  },
+  "### WE CAN'T SAVE THE FOREST! THERE'S NO TIME ###": {
+    "translation": "我们无法拯救森林没时间了"
+  },
+  "### WE'LL JUST HAVE TO NUKE THE WHOLE THING ###": {
+    "translation": "我们只能核平整个地方"
+  },
+  "### DEFEND FOR 60 SECONDS ###": {
+    "translation": "防守60秒"
+  },
+  "BRIDGE SECTION SPAWNED": {
+    "translation": "桥梁部分已生成"
+  },
+  "### ZOMBIES DON'T HAVE ENOUGH WOOD FOR RAMPS ###": {
+    "translation": "僵尸没有足够木材建造斜坡"
+  },
+  "### THE ZOMBIES HAVE ENOUGH WOOD FOR A RAMP! ###": {
+    "translation": "僵尸有足够木材建造一个斜坡"
+  },
+  "### THE ZOMBIES HAVE ENOUGH WOOD FOR TWO RAMPS! ###": {
+    "translation": "僵尸有足够木材建造两个斜坡"
+  },
+  "### THIS DOOR OPENS ELSEWHERE ###": {
+    "translation": "此门在别处开启"
+  },
+  "### WECOME TO THE GARDEN OF EXCESSIVE TRIGGERING ###": {
+    "translation": "欢迎来到花园"
+  },
+  "### OH NO, THE BRIDGE IS DOWN! CHOP DOWN TREES SO WE CAN BUILD A BRIDGE ###": {
+    "translation": "哦不 桥塌了砍树以便我们建造一座桥"
+  }
+}
