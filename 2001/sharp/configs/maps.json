@@ -987,7 +987,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 35
+    "requiredPlayers": 45
   },
   "ze_error": {
     "admin": false,
