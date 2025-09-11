@@ -1,0 +1,52 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "hold for 20 seconds": {
+    "translation": "坚守20秒"
+  },
+  "you reached the end": {
+    "translation": "你已到达终点"
+  },
+  "fall tp protection ends in 15 seconds": {
+    "translation": "坠落传送保护将在15秒后结束"
+  },
+  "fall tp has been disabled": {
+    "translation": "坠落传送已禁用"
+  },
+  "final defence. hold for 25 seconds": {
+    "translation": "最终防御坚守25秒"
+  },
+  "any ze_30_seconds enjoyers?": {
+    "translation": "有没有ze_30_seconds爱好者"
+  },
+  "no one survived? you guys suck!!!!": {
+    "translation": "无人幸存你们太菜了"
+  },
+  "platform leaving in 5 seconds": {
+    "translation": "平台将在5秒后离开"
+  },
+  "laserfags get on!!!": {
+    "translation": "激光组就位"
+  },
+  "make sure you get on": {
+    "translation": "确保你已登载"
+  },
+  "What's up with this dumb wall?": {
+    "translation": "这堵破墙怎么回事"
+  },
+  "This little light wall doesn't look bad...": {
+    "translation": "这堵小光墙看起来不错.原神启动!"
+  },
+  "GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD": {
+    "translation": "从我脑海里出去*nnnnnn"
+  }
+}
