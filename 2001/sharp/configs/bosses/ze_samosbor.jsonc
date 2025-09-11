@@ -21,12 +21,6 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Breakables": [
-    {
-      "target": "Map_Boss_TheHeart_Model",
-      "display": "*%鲁^!$#之心"
-    }
-  ],
   "Monsters": [
     {
       "identity": "9297",
@@ -43,6 +37,10 @@
     {
       "identity": "9304",
       "display": "心脏枷锁-4"
+    },
+    {
+      "identity": "9311",
+      "display": "*%鲁^!$#之心"
     }
   ]
 }
