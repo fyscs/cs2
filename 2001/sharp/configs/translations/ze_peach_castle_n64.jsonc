@@ -10,17 +10,26 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
+  "*** HE SEEMS FRIENDLY, LET'S ESCAPE WITH HIM ***": {
+    "translation": "他好像很友好 跟他一起逃吧"
+  },
+  "*** WE GOT THE KEY ! ***": {
+    "translation": "拿到钥匙了"
+  },
+  "*** LET'S GO BACK TO THE CASTLE AND HIDE IN THE BASEMENT ***": {
+    "translation": "返回城堡 躲进地窖"
+  },
   "MAP BY BLUE BLUE": {
     "translation": "地图作者:BLUE BLUE 文本:Zeyu1"
   },
   "*** ELEVATOR WILL START IN 20 SECONDS ***": {
-    "translation": "电梯将在20秒后启动"
+    "translation": "电梯20秒启动"
   },
   "*** 5 SECONDS LEFT ***": {
     "translation": "还剩5秒"
   },
   "*** BILL BULLET WILL BE FIRED IN 20 SECONDS ***": {
-    "translation": "炮弹将在20秒后发射"
+    "translation": "炮弹20秒发射"
   },
   "*** JUMP ON IT TO REACH THE TOWER ***": {
     "translation": "跳上去 到达高塔"
@@ -29,16 +38,16 @@
     "translation": "别在导弹上停留太久 否则会爆炸"
   },
   "*** THS BRIDGE WILL MOVE IN 20 SECONDS ***": {
-    "translation": "这座桥将在20秒后移动"
+    "translation": "这座桥20秒移动"
   },
   "*** YOU HAVE 20 SECONDS TO REACH AND DEFEND THE TOP OF THE TOWER ***": {
-    "translation": "你有20秒时间到达并防守塔顶"
+    "translation": "20秒时间到达并防守塔顶"
   },
   "*** ONLY 5 MORE SECONDS ***": {
-    "translation": "只剩5秒了"
+    "translation": "只剩5秒"
   },
   "*** WAIT UNTIL THIS THWOMP MOVES ***": {
-    "translation": "等待这个石像怪移动"
+    "translation": "等待石像怪移动"
   },
   "*** GO GO GO ***": {
     "translation": "快冲快冲"
@@ -46,86 +55,70 @@
   "*** ON ITS HEAD ! HURRY UP ! ***": {
     "translation": "跳到它头上快"
   },
-  "*** DEFEND 20 SECONDS ***": {
-    "translation": "防守20秒"
+  "*** DEFEND A BIT ***": {
+    "translation": "防守一下"
   },
   "*** DEFEND UNTIL THE BRIDGE RISES ***": {
     "translation": "防守直到桥升起"
   },
   "*** THIS DOOR WILL OPEN IN 20 SECONDS ***": {
-    "translation": "这扇门将在20秒后开启"
+    "translation": "这扇门20秒打开"
   },
   "*** PUSH THIS BOMP ALL THE WAY BACK ! ***": {
     "translation": "把这个炸弹推到底"
   },
   "*** THE ELEVATOR TO THE THRONE ROOM WILL LEAVE IN 20 SECONDS ! ***": {
-    "translation": "通往王座室的电梯将在20秒后离开"
+    "translation": "王座室的电梯20秒离开"
   },
   "*** 5 MORE SECONDS ! ***": {
     "translation": "还有5秒"
   },
   "*** WE FOUND THE STAR AND THE FORTRESS IS OURS ! ***": {
-    "translation": "我们找到星星了 要塞是我们的了!"
+    "translation": "我们找到星星了 要塞是我们的了"
   },
   "*** CONGRATS, WE TOOK THE FORTRESS ! ***": {
     "translation": "恭喜我们占领了要塞"
   },
   "*** THE ZOMBIES TOOK THE FORTRESS, WE LOST ***": {
-    "translation": "僵尸占领了要塞 我们输了!"
+    "translation": "僵尸占领了要塞 我们输了"
   },
   "*** SHOOT THE LOCKS TO OPEN THE BRIDGE ***": {
     "translation": "射击锁链 开启桥梁"
   },
   "*** WE WILL TAKE OFF IN 20 SECONDS ***": {
-    "translation": "我们将在20秒后起飞"
+    "translation": "僵尸50秒传送",
+    "countdown": 50
   },
   "*** ALL ABOARD THE GLIDER ! ***": {
     "translation": "所有人登上滑翔机"
   },
-  "*** JUMP NOW !! ***": {
-    "translation": "跳"
-  },
-  "*** GET READY... ***": {
-    "translation": "准备"
-  },
   "*** GIVE ME 20 SECONDS TO LOWER THE BRIDGE ***": {
-    "translation": "给我20秒降下桥梁"
+    "translation": "20秒降下大桥"
   },
   "*** 10 MORE SECONDS, ALMOST DONE ***": {
-    "translation": "还有10秒快完成了"
+    "translation": "还有10秒完成"
   },
   "*** EVERYONE LET'S GO ***": {
     "translation": "所有人出发"
   },
-  "*** THANKS FOR SAVING ME ***": {
-    "translation": "谢谢你救了我"
-  },
-  "*** I WILL SPAWN A PIPE FOR YOU ***": {
-    "translation": "为了你 我会生成一个管道~"
-  },
-  "*** GO BACK TO THE CABIN WITH THIS ELEVATOR ***": {
-    "translation": "乘这个电梯返回小屋"
-  },
-  "*** THE ELEVATOR WILL LEAVE IN 20 SECONDS ***": {
-    "translation": "电梯将在20秒后离开"
-  },
   "*** A TOAD IS HIDING IN THIS AREA ***": {
-    "translation": "一只蟾蜍藏在这个区域"
+    "translation": "一只蟾蜍藏在这"
   },
-  "*** WE MUST FIND HIM ! ONLY HIM CAN HELP US TO CLIMB THIS MOUNTAIN *** ***": {
+  "*** WE MUST FIND HIM ! ONLY HIM CAN HELP US TO CLIMB THIS MOUNTAIN ***": {
     "translation": "必须找到他 只有他能帮我们爬这座山"
   },
   "*** GET INSIDE THE CABIN ! ***": {
     "translation": "进入小屋"
   },
   "*** ZOMBIE'S SHORTCUT WILL OPEN SOON ***": {
-    "translation": "僵尸的捷径即将开启"
+    "translation": "僵尸侧路7秒开放",
+    "countdown": 7
   },
   "### INITIALIZING SEQUENCE 1-28-92 /-/ ###": {
     "translation": "正在初始化序列"
   },
   "### PROJECT OUTER SPACE /-/ COMMUNICATION SIGNAL SENT IN 20 SECONDS ###": {
-    "translation": "外太空计划通信信号将在20秒后发送"
+    "translation": "外太空信号20秒发送"
   },
   "*** THIS WEIRD BUTTON OPENED A NEW PATH TO THE SUMMIT ! LET'S CLIMB UP ***": {
     "translation": "通往山顶的新路 快爬上去"
@@ -137,16 +130,23 @@
     "translation": "我们做到了 我们征服了这座山"
   },
   "*** A WAY TO REACH THE SHIP WILL APPEAR IN 20 SECONDS ***": {
-    "translation": "通往飞船的路将在20秒后出现"
+    "translation": "飞船20秒出现"
+  },
+  "*** LET'S A GO ***": {
+    "translation": "我们上"
   },
   "*** GET INSIDE THE CHEST TO PUT THE TREASURE BACK ***": {
-    "translation": "进入宝箱 把宝藏放回去"
+    "translation": "20秒前进入宝箱",
+    "countdown": 20
   },
   "*** THIS SHOULD BREAK THE CURSE OF THE DEAD WATERS ***": {
     "translation": "这应能破除死水的诅咒"
   },
+  "*** WE WILL CLOSE THE CHEST IN 5 SECONDS ***": {
+    "translation": "5秒关闭宝箱"
+  },
   "*** THE WAY WILL OPEN IN 20 SECONDS ***": {
-    "translation": "道路将在20秒后开启"
+    "translation": "道路20秒开启"
   },
   "*** LOOKS LIKE WHERE THE SMUGGLERS HIDE THEIR POWDER ! MAYBE BLOWING IT UP MIGHT OPEN A NEW PATH ? ***": {
     "translation": "炸掉它也许能开新路"
@@ -173,22 +173,25 @@
     "translation": "快跳到魟鱼上"
   },
   "*** SOMETHING IS COMING IN THE WATER... DON'T MISS IT ! ***": {
-    "translation": "水里有东西来了 别错过了!"
+    "translation": "水里有东西来了 别错过了"
   },
   "*** DEFEND 20 SECONDS WHILE I'M OPENING THE SHIP'S HOLD ! ***": {
-    "translation": "防守20秒 我来打开船舱"
+    "translation": "防守20秒"
+  },
+  "*** GET BACK ! ZOMBIES WILL TP ! ***": {
+    "translation": "僵尸要传送了"
   },
   "*** WE FOUND THE STAR OF THE MOUNTAIN ! ***": {
     "translation": "我们找到山之星了"
   },
-  "*** THIS DOOR WILL BREAK IN 30 SECONDS ***": {
-    "translation": "这扇门30秒后会破"
+  "*** THIS DOOR WILL BREAK IN 20 SECONDS ***": {
+    "translation": "这扇门20秒会破"
   },
   "*** 10 MORE SECONDS ***": {
     "translation": "还有10秒"
   },
   "*** WAIT 20 SECONDS FOR THE LADDER ! ***": {
-    "translation": "等20秒梯子就来"
+    "translation": "等20秒梯子来"
   },
   "*** WE CAN SWIM IN THIS WATER ***": {
     "translation": "我们能在这水里游泳"
@@ -197,7 +200,7 @@
     "translation": "我们找到星星并活过了湖的诅咒"
   },
   "*** THE CANON WILL FIRE IN 20 SECONDS ! STAY HERE AND DEFEND ! ***": {
-    "translation": "大炮20秒后开火 守在这里防御"
+    "translation": "大炮20秒开火"
   },
   "*** 10 LAST SECONDS ***": {
     "translation": "最后10秒"
@@ -206,22 +209,22 @@
     "translation": "我们打破了欢乐港湾的诅咒 恭喜各位"
   },
   "*** WAIT 20 SECONDS FOR THE FLAME TO GO OFF ***": {
-    "translation": "等20秒火焰会熄灭"
+    "translation": "等20秒火焰熄灭"
   },
-  "*** WAIT 10 SECONDS ***": {
-    "translation": "等待10秒"
+  "*** WAIT 5 SECONDS ***": {
+    "translation": "等待5秒"
   },
   "*** PLATEFORM WILL MOVE IN 5 SECONDS ***": {
-    "translation": "平台5秒后移动"
+    "translation": "平台5秒移动"
   },
   "*** DEFEND THIS PLACE 15 SECONDS ***": {
-    "translation": "防守此地15秒"
+    "translation": "防守15秒"
   },
   "*** LOOK UP ! ***": {
     "translation": "看上面"
   },
   "*** OK TEAM YOU CAN FALL BACK NOW ***": {
-    "translation": "队伍现在可以撤退了"
+    "translation": "撤退"
   },
   "*** DEFEND 10 SECONDS UNTIL THE NEXT PLATEFORM ROTATE ***": {
     "translation": "防守10秒直到下个平台旋转"
@@ -233,13 +236,13 @@
     "translation": "你只有20秒爬楼梯"
   },
   "*** HOLD THIS PLACE FOR 20 SECONDS ***": {
-    "translation": "坚守此地20秒"
+    "translation": "防守此地20秒"
   },
   "*** BOOM ! ***": {
     "translation": "砰"
   },
   "*** DON'T STAY TOO CLOSE OF THE CHAIN CHOMP ! ***": {
-    "translation": "别离链球狗太近"
+    "translation": "远离链球狗"
   },
   "*** BREAK THE BOX THE OLDSCHOOL WAY ! ***": {
     "translation": "用老方法打破箱子"
@@ -251,19 +254,19 @@
     "translation": "别靠近他"
   },
   "*** THE DOORS WILL OPEN IN 20 SECONDS ***": {
-    "translation": "门将在20秒后打开"
+    "translation": "门20秒打开"
   },
   "*** 10 SECONDS LEFT ***": {
     "translation": "还剩10秒"
   },
   "*** THE GATE OPENS IN 20 SECONDS ***": {
-    "translation": "大门20秒后开启"
+    "translation": "大门20秒打开"
   },
-  "*** DEFEND 15 SECONDS ***": {
-    "translation": "防守15秒"
+  "*** DEFEND 10 SECONDS ***": {
+    "translation": "防守10秒"
   },
   "*** FALL BACK FALL BACK ***": {
-    "translation": "撤退撤退"
+    "translation": "撤退"
   },
   "*** READY ***": {
     "translation": "就绪"
@@ -274,20 +277,20 @@
   "*** FIRE ! ***": {
     "translation": "开火"
   },
-  "*** PLEASE DO NOT MOVE FOR YOUR SAFETY ***": {
-    "translation": "为安全起见 请勿移动"
+  "*** STAND IN THE MIDDLE AND DO NOT MOVE !! ***": {
+    "translation": "站在中间不要动"
   },
   "*** THE DOOR WILL CLOSE ! GET INSIDE !! ***": {
     "translation": "门要关了快进去"
   },
   "*** DEFEND 20 SECONDS WHILE I'M OPENING THE PATH ***": {
-    "translation": "防守20秒我来开路"
+    "translation": "防守20秒"
   },
   "*** 5 MORE SECONDS ***": {
     "translation": "还有5秒"
   },
   "*** WE FOUND THE STAR, LET'S ESCAPE THIS BATTLEFIELD ! ***": {
-    "translation": "找到星星了 快逃离战场"
+    "translation": "找到星星了 快逃"
   },
   "*** DEFEND THE BALLOON ! ***": {
     "translation": "保护气球"
@@ -307,8 +310,8 @@
   "*** BOWSER IS DOWN ! LET'S GRAB THE BASEMENT KEY ! ***": {
     "translation": "库巴倒了 快去拿地窖钥匙"
   },
-  "*** EVERYONE COME HERE BEFORE IT'S TOO LATE ! ***": {
-    "translation": "所有人趁来得及 快过来"
+  "*** EVERYONE COMES HERE BEFORE IT'S TOO LATE ! ***": {
+    "translation": "所有人赶紧过来"
   },
   "*** SOMETHING IS COMING... ***": {
     "translation": "有东西来了"
@@ -347,7 +350,13 @@
     "translation": "速通去黑暗世界"
   },
   "*** DEFEND ! THE CASTLE WILL OPEN SOON ***": {
-    "translation": "防守城堡快开了"
+    "translation": "防守城堡"
+  },
+  "*** VOTE FOR THE LEVEL YOU WANT TO PLAY BY JUMPING THROUGH THE PAINTINGS ***": {
+    "translation": "选择你想游玩的关卡并跳进去投票 <建议难度从低到高>"
+  },
+  "*** WATCH OUT ! 5 SECONDS LEFT ***": {
+    "translation": "还剩5秒"
   },
   "*** SHOOT THE WINDOWS TO ACCESS THE SHIP ! ***": {
     "translation": "射击窗户进入飞船"
@@ -373,6 +382,9 @@
   "*** GET INSIDE THE CANON IN 20 SECONDS ***": {
     "translation": "20秒内进入大炮"
   },
+  "*** DO NOT MOVE ***": {
+    "translation": "不要动"
+  },
   "*** THIS IS THE WHOMP KING ! ITS ONLY WEAKNESS IS IN ITS BACK ! ***": {
     "translation": "这是石像怪王 它弱点在背部"
   },
@@ -381,6 +393,12 @@
   },
   "*** JUMP RIGHT BEFORE IT LANDS TO AVOID BEING THROWN AWAY ***": {
     "translation": "在它落地前跳跃 避免被震飞"
+  },
+  "*** SHOOT ITS BACK ! NOW !! ***": {
+    "translation": "射击他的背部"
+  },
+  "*** WE DID IT ! COME BACK ON THE ELEVATOR, QUICK !! ***": {
+    "translation": "我们成功了 快回到电梯上来"
   },
   "*** TOO LATE ! THE TREMORS HAVE BROKEN THE PLATEFORMS ! ***": {
     "translation": "太迟了 震动已摧毁平台"
@@ -401,7 +419,7 @@
     "translation": "我们干掉魔眼怪了"
   },
   "*** THE BUBBLE SUBMARINE WILL LEAVE IN 20 SECONDS ! ***": {
-    "translation": "泡泡潜艇20秒后离开"
+    "translation": "泡泡潜艇20秒离开"
   },
   "*** 5 SECONDS LEFT ! ***": {
     "translation": "只剩5秒"
@@ -415,11 +433,11 @@
   "*** HE CAN SUMMON ICEROCKS, BETTER DODGE IT WHILE SHOOTING THE WIZARD ***": {
     "translation": "他会召唤冰岩射击巫师时 注意躲避"
   },
-  "*** WE KILLED KAMEK ! LET'S SEE WHAT HE WAS HIDING UP THERE ***": {
-    "translation": "干掉卡美克了 看看他在上面藏了什么"
+  "*** HE WOOPSIED AND FROZE HIMSELF ! WE DID IT ! ***": {
+    "translation": "他失误把自己冻住啦"
   },
   "*** THE PATH WILL OPEN IN 10 SECONDS ***": {
-    "translation": "道路10秒后开启"
+    "translation": "道路10秒开启"
   },
   "*** TOO LATE ! ZOMBIES ARE ESCAPING ! ***": {
     "translation": "太迟了 僵尸正在冲刺"
@@ -430,22 +448,19 @@
   "*** CROUCH TO AVOID BEING SHOT ! ***": {
     "translation": "蹲下躲避射击"
   },
-  "*** HE SEEMS FRIENDLY, LET'S ESCAPE WITH HIM ***": {
-    "translation": "他好像很友好 跟他一起逃吧"
+  "*** THIS CANON BLOCK THE PATH ! LET'S TRY TO REACH THIS FLOATING ISLAND ! ***": {
+    "translation": "大炮挡住了去路 试着抵达浮空岛"
   },
-  "*** WE GOT THE KEY ! ***": {
-    "translation": "拿到钥匙了"
+  "*** THANKS FOR SAVING ME ***": {
+    "translation": "谢谢你救了我"
   },
-  "*** LET'S GO BACK TO THE CASTLE AND HIDE IN THE BASEMENT ***": {
-    "translation": "返回城堡 躲进地窖"
+  "*** I WILL SPAWN A PIPE FOR YOU ***": {
+    "translation": "为了你 我会生成一个管道"
   },
-  "*** VOTE FOR THE LEVEL YOU WANT TO PLAY BY JUMPING THROUGH THE PAINTINGS ***": {
-    "translation": "选择你想游玩的关卡并跳进去投票 <建议难度从低到高>"
+  "*** GO BACK TO THE CABIN WITH THIS ELEVATOR ***": {
+    "translation": "乘这个电梯返回小屋"
   },
-  "*** DO NOT MOVE ***": {
-    "translation": "不要动!"
-  },
-  "*** SHOOT ITS BACK ! NOW !! ***": {
-    "translation": "射击他的背部!"
+  "*** THE ELEVATOR WILL LEAVE IN 20 SECONDS ***": {
+    "translation": "电梯20秒离开"
   }
 }
