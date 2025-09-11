@@ -21,9 +21,9 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Monsters": [
+  "Breakables": [
     {
-      "identity": "29283",
+      "target": "boss_prop",
       "display": "混沌巫师"
     }
   ]
