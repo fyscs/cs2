@@ -21,11 +21,13 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Monsters": [
+ "Breakables": [
     {
-      "identity": "9311",
+      "target": "Map_Boss_TheHeart_Model",
       "display": "*%鲁^!$#之心"
-    },
+    }
+  ],
+  "Monsters": [
     {
       "identity": "9297",
       "display": "心脏枷锁-1"
