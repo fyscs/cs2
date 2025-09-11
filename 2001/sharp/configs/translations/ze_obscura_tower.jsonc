@@ -1,0 +1,145 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>*** TELEPORT WILL OPEN IN 20 SECONDS***<<": {
+    "translation": "传送门20秒开启"
+  },
+  "<< 30s >>": {
+    "translation": "30秒"
+  },
+  "<< 5s >>": {
+    "translation": "5秒"
+  },
+  "<< 50s >>": {
+    "translation": "50秒"
+  },
+  "<< 40s >>": {
+    "translation": "40秒"
+  },
+  "<< 20s >>": {
+    "translation": "20秒"
+  },
+  ">>*** Press 2 levers before Alastor destroyed ancient root***<<": {
+    "translation": "在阿拉斯托摧毁远古根茎前按下两个拉杆"
+  },
+  ">>*** Faster press 2 levers before Alastor kill you***<<": {
+    "translation": "在阿拉斯托杀死你前尽快按下两个拉杆"
+  },
+  ">>*** HUMANS WIN***<<": {
+    "translation": "人类获胜"
+  },
+  ">>*** YOU LOSE***<<": {
+    "translation": "你失败了"
+  },
+  "<< 1 >>": {
+    "translation": "1"
+  },
+  "<< 2 >>": {
+    "translation": "2"
+  },
+  "<< 3 >>": {
+    "translation": "3"
+  },
+  "<< 4 >>": {
+    "translation": "4"
+  },
+  "<< 5 >>": {
+    "translation": "5"
+  },
+  "<< 6 >>": {
+    "translation": "6"
+  },
+  "<< 30 sec >>": {
+    "translation": "30秒"
+  },
+  "<< 80 sec >>": {
+    "translation": "80秒"
+  },
+  "<< 10 sec >>": {
+    "translation": "10秒"
+  },
+  "<< 45 sec >>": {
+    "translation": "45秒"
+  },
+  "<< 25 sec >>": {
+    "translation": "25秒"
+  },
+  ">>*** GATES WILL CLOSED AT 30 SECONDS***<<": {
+    "translation": "大门30秒关闭"
+  },
+  ">>*** FIND A BOOK TO DISABLE MAGIC BARRIER***<<": {
+    "translation": "找到一本书来解除魔法屏障"
+  },
+  ">>*** FIND A BOOK IN HOUSE AND A KEY SEWERAGE***<<": {
+    "translation": "在房屋中找一本书和一把下水道钥匙"
+  },
+  ">>*** ALASTOR IS STUNNED, RUN QUICKLY TO THE GATE!***<<": {
+    "translation": "阿拉斯托被击晕了快跑到大门处"
+  },
+  ">>> WARMUP OVER <<<": {
+    "translation": "热身结束"
+  },
+  "<< 25s >>": {
+    "translation": "25秒"
+  },
+  "<< ??????? >>": {
+    "translation": "???"
+  },
+  "<< 25 s >>": {
+    "translation": "25秒"
+  },
+  "<<  25 s >>": {
+    "translation": "25秒"
+  },
+  "<< 35 sec >>": {
+    "translation": "35秒"
+  },
+  ">>> WARMUP ROUND <<<": {
+    "translation": "热身回合"
+  },
+  "<<  5 s >>": {
+    "translation": "5秒"
+  },
+  "<< ???? >>": {
+    "translation": "???"
+  },
+  "<<5s >>": {
+    "translation": "5秒"
+  },
+  "** ELEMENT HAS BEEN PICKED UP **": {
+    "translation": "元素已被拾取"
+  },
+  "** GREEN STICK HAS BEEN PICKED UP **": {
+    "translation": "绿色木棍已被拾取"
+  },
+  "** RED STICK HAS BEEN PICKED UP **": {
+    "translation": "红色木棍已被拾取"
+  },
+  "** A player has picked up Chiken_Jockey **": {
+    "translation": "一名玩家获得了鸡骑士"
+  },
+  "** A player has picked up Halberd **": {
+    "translation": "一名玩家获得了戟"
+  },
+  "** A player has picked up Shadow_Spikes **": {
+    "translation": "一名玩家获得了暗影尖刺"
+  },
+  "** A player has picked up spider Fang **": {
+    "translation": "一名玩家获得了蜘蛛毒牙"
+  },
+  "*** PLAYER FOUND A BOOK ***": {
+    "translation": "玩家找到了一本书"
+  },
+  "*** PLAYER FOUND A KEY ***": {
+    "translation": "玩家找到了一把钥匙"
+  }
+}
