@@ -4022,6 +4022,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_theback_bureau": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_thorn_final_song": {
     "admin": false,
     "certainTimes": [-1],
