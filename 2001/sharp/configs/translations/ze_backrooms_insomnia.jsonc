@@ -1,0 +1,299 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "> A human has turn into Wretches!(Zombies) <": {
+    "translation": "人类已转变为悲惨者"
+  },
+  ">Tactical Flashlight< Press E to turn on,It will self recharge while turn off.": {
+    "translation": "战术手电筒按E开启关闭时会自动充电"
+  },
+  ">A Tactical Flashlight run out of power,Must fully charge to use it again.<": {
+    "translation": "战术手电筒电量耗尽必须充满电才能再次使用"
+  },
+  ">Broken Flashlight< Press E to turn on,Broken battery are more easily run out.": {
+    "translation": "损坏的手电筒按E开启损坏电池更容易耗尽"
+  },
+  "> Platform starts in 5 sec. <": {
+    "translation": "平台将在5秒后启动"
+  },
+  "|Speaker|: Portal is ready.": {
+    "translation": "传送门已就绪"
+  },
+  "|Speaker|: Bring up the equipment you need.": {
+    "translation": "带上你需要的装备"
+  },
+  "|Speaker|: and check the information of this Level before you enter.": {
+    "translation": "并在进入前查看本层级信息"
+  },
+  "|Speaker|: Operation begin in 10 sec.": {
+    "translation": "行动将在10秒后开始"
+  },
+  "|Speaker|: Stay safe.": {
+    "translation": "注意安全"
+  },
+  "> Map by @Seth <": {
+    "translation": "地图制作:Seth 文本:雾雨猫猫"
+  },
+  "> Jumpscare been turnoff in this round. <": {
+    "translation": "本轮已关闭突然惊吓"
+  },
+  "> The exploration start in 10 sec. <": {
+    "translation": "探索将在10秒后开始"
+  },
+  ">Attention everyone.": {
+    "translation": "大家注意"
+  },
+  ">We are start to no-cliping now.": {
+    "translation": "我们现在开始穿墙"
+  },
+  ">Prepare yourself,Stay contact.": {
+    "translation": "做好准备保持联系"
+  },
+  "> 20 <": {
+    "translation": "20秒",
+    "countdown": 20
+  },
+  "> 35 <": {
+    "translation": "35秒",
+    "countdown": 35
+  },
+  "> 40 <": {
+    "translation": "40秒",
+    "countdown": 40
+  },
+  "> 60 <": {
+    "translation": "60秒",
+    "countdown": 60
+  },
+  ">...": {
+    "translation": "..."
+  },
+  ">Its a dead end?...": {
+    "translation": "是死路吗"
+  },
+  "> Stay in middle and wait for something happen... <": {
+    "translation": "留在中间等待事情发生"
+  },
+  ">...?": {
+    "translation": "...?"
+  },
+  ">You are not gonna stop hunting us aren't you?..": {
+    "translation": "你不会停止追杀我们对吧"
+  },
+  ">Well then,This will be your last chance to get us.": {
+    "translation": "那么这将是你抓住我们的最后机会"
+  },
+  ">It's time to go now,RUN!": {
+    "translation": "现在该跑了"
+  },
+  "> There is no way to run faster than Bacteria. <": {
+    "translation": "不可能跑得比细菌更快"
+  },
+  "> Use weapons,or Items that emit light to delay its speed. <": {
+    "translation": "使用武器或发光物品延缓其速度"
+  },
+  "> Zombies has no longer sealed. <": {
+    "translation": "僵尸不再被封锁"
+  },
+  ">Different routes?!": {
+    "translation": "不同路线"
+  },
+  ">Better not go the unstable light routes!": {
+    "translation": "最好不要走光线不稳定的路线"
+  },
+  ">Something isn't right...": {
+    "translation": "有些不对劲"
+  },
+  ">Damn it,We better look for another exit...?": {
+    "translation": "该死我们最好找其他出口"
+  },
+  ">There's entity are searching around the elevator?": {
+    "translation": "有实体在电梯附近搜索"
+  },
+  ">SHIT,Forget about it!": {
+    "translation": "该死不管了"
+  },
+  ">This is the only way now,GO!": {
+    "translation": "现在只有这条路了,走"
+  },
+  "> Hide inside small room to avoid get catch by Skin Stealer. <": {
+    "translation": "躲在小房间里避免被窃皮者抓住"
+  },
+  "> Zombies get caught by Skin Stealer will teleport them away. <": {
+    "translation": "被窃皮者抓住的僵尸会被传送走"
+  },
+  "> Pay attention to the timing of hiding. <": {
+    "translation": "注意隐藏时机"
+  },
+  "> Smiler blocked the way,Use Items that emit light to banish it! <": {
+    "translation": "笑魇挡住了去路使用发光物品驱逐它"
+  },
+  ">Get in the elevator before they found us!": {
+    "translation": "在他们发现我们前进入电梯"
+  },
+  "< 25 >": {
+    "translation": "25秒",
+    "countdown": 25
+  },
+  "< 30 >": {
+    "translation": "30秒",
+    "countdown": 30
+  },
+  "< 35 >": {
+    "translation": "35秒",
+    "countdown": 35
+  },
+  "< 10 >": {
+    "translation": "10秒",
+    "countdown": 10
+  },
+  "< 40 >": {
+    "translation": "40秒",
+    "countdown": 40
+  },
+  "< 15 >": {
+    "translation": "15秒",
+    "countdown": 15
+  },
+  "< 20 >": {
+    "translation": "20秒",
+    "countdown": 20
+  },
+  ">This water seems not safe,Better not go deep in it.": {
+    "translation": "这水似乎不安全最好不要深入"
+  },
+  ">The water down there might has deadly virus.": {
+    "translation": "下面的水可能含有致命病毒"
+  },
+  ">Guess we have to take a ride...": {
+    "translation": "看来我们得搭个便车..."
+  },
+  "> Zombies entering the Virus Water will be infected to low health. <": {
+    "translation": "进入病毒水的僵尸会被感染至低生命值"
+  },
+  "> Kill them while they in the water. <": {
+    "translation": "在他们水中时击杀"
+  },
+  "> Virus Water will also infect humans,Do not fell into water. <": {
+    "translation": "病毒水也会感染人类不要掉入水中"
+  },
+  "> 25 <": {
+    "translation": "25",
+    "countdown": 25
+  },
+  "> Smiler will spawn in the dark area. <": {
+    "translation": "笑魇会在黑暗区域生成"
+  },
+  "> Find power switch to turn on the light,They unable to resist the light. <": {
+    "translation": "找到电源开关打开灯光它们无法抵抗光线"
+  },
+  ">Recycling Stations< Wait for it close!": {
+    "translation": "回收站等待其关闭"
+  },
+  ">Warehouse< Wait for it close!": {
+    "translation": "仓库等待其关闭"
+  },
+  "> Light start up in 10 sec. <": {
+    "translation": "灯光将在10秒后启动"
+  },
+  ">This is kinda...weird,Who design this.": {
+    "translation": "这有点奇怪,谁设计的"
+  },
+  ">Someone has to swtich the light at here.": {
+    "translation": "必须有人在这里开关灯"
+  },
+  "> Light start up in 20 sec. <": {
+    "translation": "灯光将在20秒后启动"
+  },
+  ">Market< Power are starting up!": {
+    "translation": "市场电力正在启动"
+  },
+  ">Market< Final door will open in 85 sec.": {
+    "translation": "85秒后开门"
+  },
+  ">Market< It's not working,We have to find another way out.": {
+    "translation": "市场不行了我们得找其他出路"
+  },
+  ">Market< Wait for it close!": {
+    "translation": "市场等待其关闭"
+  },
+  ">Recycling Stations< Power are starting up!": {
+    "translation": "回收站电力正在启动"
+  },
+  ">Recycling Stations< Final door will open in 85 sec.": {
+    "translation": "门将在85秒后开启"
+  },
+  ">Recycling Stations< It's not working,We have to find another way out.": {
+    "translation": "回收站不行了我们得找其他出路"
+  },
+  ">Warehouse< Power are starting up!": {
+    "translation": "仓库电力正在启动"
+  },
+  ">Warehouse< Final door will open in 85 sec.": {
+    "translation": "门将在85秒后开启"
+  },
+  ">Warehouse< It's not working,We have to find another way out.": {
+    "translation": "仓库不行了我们得找其他出路"
+  },
+  "< Level 0 has been takedown. >": {
+    "translation": "Level 0已被攻克"
+  },
+  "< Fail >": {
+    "translation": "失败"
+  },
+  "< Level 1 has been takedown. >": {
+    "translation": "Level 1已被攻克"
+  },
+  "< Level 37 has been takedown. >": {
+    "translation": "Level 37已被攻克"
+  },
+  ">...Oh no.": {
+    "translation": "哦不"
+  },
+  ">They are controlling the light system!": {
+    "translation": "他们在控制灯光系统"
+  },
+  ">Do not go when the light is off.": {
+    "translation": "灯灭时不要行动"
+  },
+  ">We need to stay under the light that won't off.": {
+    "translation": "我们需要待在不会熄灭的灯光下"
+  },
+  ">And move when all light on,Or the Smiler will hunt us!": {
+    "translation": "并在全亮时移动否则笑魇会追杀我们"
+  },
+  "> 15 <": {
+    "translation": "15秒",
+    "countdown": 15
+  },
+  "> There only has one path to escape.. <": {
+    "translation": "只有一条逃生路径.."
+  },
+  "> You need to let some teammate split up and find the right Exit. <": {
+    "translation": "需要让部分队友分头寻找正确出口"
+  },
+  "> Don't forget to wait the teammate that found wrong path come back. <": {
+    "translation": "不要忘记等待找错路的队友返回"
+  },
+  "> You feel something is coming to you... <": {
+    "translation": "你感觉到有东西正在靠近"
+  },
+  ">> You have beaten the Alpha version! <<": {
+    "translation": "恭喜通关:Alpha!"
+  },
+  ">> Hope you enjoy the map XD.. <<": {
+    "translation": "希望你能够喜欢 XD.."
+  },
+  ">> Map will reset progress in next round. <<": {
+    "translation": "回合即将重启"
+  }
+}
