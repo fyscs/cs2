@@ -1099,12 +1099,12 @@
   },
   "ze_fall_guys": {
     "admin": false,
-    "certainTimes": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 100,
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
+    "cooldown": 120,
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
-    "requiredPlayers": 40
+    "requiredPlayers": 45
   },
   "ze_fapescape_katrina": {
     "admin": false,
