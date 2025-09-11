@@ -59,16 +59,20 @@
     "translation": "做好准备保持联系"
   },
   "> 20 <": {
-    "translation": "20"
+    "translation": "20秒",
+    "countdown": 20
   },
   "> 35 <": {
-    "translation": "35"
+    "translation": "35秒",
+    "countdown": 35
   },
   "> 40 <": {
-    "translation": "40"
+    "translation": "40秒",
+    "countdown": 40
   },
   "> 60 <": {
-    "translation": "60"
+    "translation": "60秒",
+    "countdown": 60
   },
   ">...": {
     "translation": "..."
@@ -137,25 +141,32 @@
     "translation": "在他们发现我们前进入电梯"
   },
   "< 25 >": {
-    "translation": "25"
+    "translation": "25秒",
+    "countdown": 25
   },
   "< 30 >": {
-    "translation": "30"
+    "translation": "30秒",
+    "countdown": 30
   },
   "< 35 >": {
-    "translation": "35"
+    "translation": "35秒",
+    "countdown": 35
   },
   "< 10 >": {
-    "translation": "10"
+    "translation": "10秒",
+    "countdown": 10
   },
   "< 40 >": {
-    "translation": "40"
+    "translation": "40秒",
+    "countdown": 40
   },
   "< 15 >": {
-    "translation": "15"
+    "translation": "15秒",
+    "countdown": 15
   },
   "< 20 >": {
-    "translation": "20"
+    "translation": "20秒",
+    "countdown": 20
   },
   ">This water seems not safe,Better not go deep in it.": {
     "translation": "这水似乎不安全最好不要深入"
@@ -176,7 +187,8 @@
     "translation": "病毒水也会感染人类不要掉入水中"
   },
   "> 25 <": {
-    "translation": "25"
+    "translation": "25",
+    "countdown": 25
   },
   "> Smiler will spawn in the dark area. <": {
     "translation": "笑魇会在黑暗区域生成"
@@ -260,7 +272,8 @@
     "translation": "并在全亮时移动否则笑魇会追杀我们"
   },
   "> 15 <": {
-    "translation": "15"
+    "translation": "15秒",
+    "countdown": 15
   },
   "> There only has one path to escape.. <": {
     "translation": "只有一条逃生路径.."
