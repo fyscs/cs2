@@ -1476,7 +1476,7 @@
     "requiredPlayers": -1
   },
   "ze_gameshow": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 100,
     "nomination": true,
