@@ -21,7 +21,7 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
- "Breakables": [
+  "Breakables": [
     {
       "target": "Map_Boss_TheHeart_Model",
       "display": "*%鲁^!$#之心"
