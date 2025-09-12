@@ -35,16 +35,20 @@
     "translation": "防火墙将在5秒后开启"
   },
   "The firewall will open in 4 seconds...": {
-    "translation": "防火墙将在4秒后开启"
+    "translation": "防火墙将在4秒后开启",
+    "blocked": true
   },
   "The firewall will open in 3 seconds...": {
-    "translation": "防火墙将在3秒后开启"
+    "translation": "防火墙将在3秒后开启",
+    "blocked": true
   },
   "The firewall will open in 2 seconds...": {
-    "translation": "防火墙将在2秒后开启"
+    "translation": "防火墙将在2秒后开启",
+    "blocked": true
   },
   "The firewall will open in 1 second...": {
-    "translation": "防火墙将在1秒后开启"
+    "translation": "防火墙将在1秒后开启",
+    "blocked": true
   },
   "The gate to the next area has opened!": {
     "translation": "通往下一区域的大门已开启"
@@ -83,28 +87,35 @@
     "translation": "萨斯中尉死亡"
   },
   "The helicopter will withdraw in 20 seconds!!": {
-    "translation": "直升机将在20秒后撤离"
+    "translation": "直升机将在20秒后撤离",
+    "blocked": true
   },
   "The helicopter will withdraw in 10 seconds!!!": {
-    "translation": "直升机将在10秒后撤离"
+    "translation": "直升机将在10秒后撤离",
+    "blocked": true
   },
   "The helicopter will withdraw in 30 seconds!": {
     "translation": "直升机将在30秒后撤离"
   },
   "The helicopter will withdraw in 5 seconds!!!": {
-    "translation": "直升机将在5秒后撤离"
+    "translation": "直升机将在5秒后撤离",
+    "blocked": true
   },
   "The helicopter will withdraw in 4 seconds!!!": {
-    "translation": "直升机将在4秒后撤离"
+    "translation": "直升机将在4秒后撤离",
+    "blocked": true
   },
   "The helicopter will withdraw in 3 seconds!!!": {
-    "translation": "直升机将在3秒后撤离"
+    "translation": "直升机将在3秒后撤离",
+    "blocked": true
   },
   "The helicopter will withdraw in 2 seconds!!!": {
-    "translation": "直升机将在2秒后撤离"
+    "translation": "直升机将在2秒后撤离",
+    "blocked": true
   },
   "The helicopter will withdraw in 1 second!!!": {
-    "translation": "直升机将在1秒后撤离"
+    "translation": "直升机将在1秒后撤离",
+    "blocked": true
   },
   "Move upstairs to avoid the flames!": {
     "translation": "向上移动躲避火焰"
