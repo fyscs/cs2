@@ -14,7 +14,8 @@
     "translation": "正在前往二十区"
   },
   "还剩5秒": {
-    "translation": "还剩5秒"
+    "translation": "还剩5秒",
+    "countdown": 5
   },
   "感染蔓延的越来越严重了": {
     "translation": "感染蔓延的越来越严重了"
@@ -44,7 +45,8 @@
     "translation": "工程兵!赶快!"
   },
   "工程兵:马上!5秒钟": {
-    "translation": "再给我5秒钟"
+    "translation": "再给我5秒钟",
+    "countdown": 5
   },
   "无线电:这里是海大富": {
     "translation": "无线电:这里是海大富"
@@ -86,7 +88,8 @@
     "translation": "这里也不太平..稍作补给继续行动"
   },
   "还有10秒钟..坚持一下": {
-    "translation": "再坚持10秒钟"
+    "translation": "再坚持10秒钟",
+    "countdown": 10
   },
   "无线电:这里是联名军指挥部": {
     "translation": "无线电:这里是联名军指挥部"
@@ -104,7 +107,8 @@
     "translation": "无线电:有大量的病原体正在集结"
   },
   "20秒后门开": {
-    "translation": "20秒后门开"
+    "translation": "20秒后门开",
+    "countdown": 20
   },
   "我们中出了叛徒": {
     "translation": "我们中出了叛徒"
@@ -146,7 +150,8 @@
     "translation": "已经激活电脑正在开启"
   },
   "10秒": {
-    "translation": "10秒"
+    "translation": "10秒",
+    "countdown": 10
   },
   "他们太多了...": {
     "translation": "他们太多了..."
@@ -185,7 +190,8 @@
     "translation": "马上就能出去了"
   },
   "20秒后开启": {
-    "translation": "20秒后开启"
+    "translation": "20秒后开启",
+    "countdown": 20
   },
   "马上到达下个通道区域了": {
     "translation": "马上到达下个通道区域了"
@@ -197,7 +203,8 @@
     "translation": "再给我一些时间"
   },
   "还有10秒": {
-    "translation": "还有10秒"
+    "translation": "还有10秒",
+    "countdown": 10
   },
   "道路畅通了": {
     "translation": "道路畅通了"
@@ -242,7 +249,8 @@
     "translation": "他们来了!"
   },
   "5秒": {
-    "translation": "5秒"
+    "translation": "5秒",
+    "countdown": 5
   },
   "正在破解电梯": {
     "translation": "正在破解电梯"
@@ -251,13 +259,16 @@
     "translation": "快走,下一批感染者马上就到了"
   },
   "电梯还有五秒破解": {
-    "translation": "破解电梯还要5秒"
+    "translation": "破解电梯还要5秒",
+    "countdown": 5
   },
   "给我10秒": {
-    "translation": "给我10秒"
+    "translation": "给我10秒",
+    "countdown": 10
   },
   "还剩10秒": {
-    "translation": "还剩10秒"
+    "translation": "还剩10秒",
+    "countdown": 10
   },
   "马上就能打开玻璃了": {
     "translation": "马上就能打开玻璃了"
@@ -275,7 +286,8 @@
     "translation": "坚持守住就有办法"
   },
   "在给我10秒!!": {
-    "translation": "再给我10秒"
+    "translation": "再给我10秒",
+    "countdown": 10
   },
   "第二十区域下水道污染并不算严重..": {
     "translation": "第二十区域下水道污染并不算严重"
@@ -314,7 +326,8 @@
     "translation": "快打开这个该死的门"
   },
   "给我10秒钟": {
-    "translation": "给我10秒钟"
+    "translation": "给我10秒钟",
+    "countdown": 10
   },
   "先想办法上去,然后在说吧.": {
     "translation": "先想办法上去,然后在说吧"
@@ -329,25 +342,29 @@
     "translation": "给我点时间,这里被严重损毁了"
   },
   "还有20秒": {
-    "translation": "还有20秒"
+    "translation": "还有20秒",
+    "countdown": 20
   },
   "桥B的开关已经开启": {
     "translation": "桥B的开关已经开启"
   },
   "桥B将在5秒后开启": {
-    "translation": "桥B将在5秒后开启"
+    "translation": "桥B将在5秒后开启",
+    "countdown": 5
   },
   "桥A的门开关已经开启": {
     "translation": "桥A的门开关已经开启"
   },
   "桥A将在5秒后开启": {
-    "translation": "桥A将在5秒后开启"
+    "translation": "桥A将在5秒后开启",
+    "countdown": 5
   },
   "桥A道路即将开启": {
     "translation": "桥A道路即将开启"
   },
   "还有五秒楼梯就开了": {
-    "translation": "还剩5秒开启楼梯"
+    "translation": "还剩5秒开启楼梯",
+    "countdown": 5
   },
   "呼叫指挥部": {
     "translation": "呼叫指挥部"
@@ -377,7 +394,8 @@
     "translation": "快走,毒气马上泄露了"
   },
   "在给我5秒钟": {
-    "translation": "在给我5秒钟"
+    "translation": "在给我5秒钟",
+    "countdown": 5
   },
   "马上进入二十区了": {
     "translation": "马上进入二十区了"
@@ -398,7 +416,8 @@
     "translation": "救援马上就到了"
   },
   "还有10秒,我们不能放弃": {
-    "translation": "别放弃,坚持10秒"
+    "translation": "别放弃,坚持10秒",
+    "countdown": 10
   },
   "小心外面的僵尸": {
     "translation": "小心外面的僵尸"
@@ -569,6 +588,7 @@
     "translation": "还需要一些时间..."
   },
   "还有5秒": {
-    "translation": "还有5秒"
+    "translation": "还有5秒",
+    "countdown": 5
   }
 }
