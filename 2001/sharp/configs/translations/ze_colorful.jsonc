@@ -1,0 +1,79 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<Tears>>": {
+    "translation": "<<泪雨>>"
+  },
+  "<<Hold the elevator for 40 sec.>>": {
+    "translation": "<<防守电梯40秒>>"
+  },
+  "<<Doors will open in 25 sec.>>": {
+    "translation": "<<门将在25秒后打开>>"
+  },
+  "<<Afk teleport in 10 sec.>>": {
+    "translation": "<<10秒后启用AFK传送>>"
+  },
+  "<<Wait for 25 sec.>>": {
+    "translation": "<<等待25秒>>"
+  },
+  "<<Afk teleport in 15 sec.>>": {
+    "translation": "<<15秒后启用AFK传送>>"
+  },
+  "<<Wait for 15sec.>>": {
+    "translation": "<<等待15秒>>"
+  },
+  "<<Afk tp in 10 sec.>>": {
+    "translation": "<<10秒后启用AFK传送>>"
+  },
+  "<<Wait for 30 sec.>>": {
+    "translation": "<<等待30秒>>"
+  },
+  "<<Hold the elevator for 20 sec.>>": {
+    "translation": "<<防守电梯20秒>>"
+  },
+  "<<10 sec remaining.>>": {
+    "translation": "<<剩余10秒>>"
+  },
+  "<<zombies>>": {
+    "translation": "<<尸潮>>"
+  },
+  "<<Hold for 85 sec.>>": {
+    "translation": "<<防守85秒>>"
+  },
+  "<<Resist for 25 sec.>>": {
+    "translation": "<<防守25秒>>"
+  },
+  "<<Hold the platform for 20 sec.>>": {
+    "translation": "<<防守平台20秒>>"
+  },
+  "<<ze_colorful>>": {
+    "translation": "<<ze_colorful>>"
+  },
+  "<<Resist for 30 sec.>>": {
+    "translation": "<<防守30秒>>"
+  },
+  "<<Map by maqu>>": {
+    "translation": "<<地图作者:maqu,文本翻译:Korihana@FYS>>"
+  },
+  "<<Thanks to all players in PSE for testing.>>": {
+    "translation": "<<感谢所有在PSE服务器上进行测试的玩家>>"
+  },
+  "<<Special thanks : thas and kune>>": {
+    "translation": "<<特别感谢:thas,kune>>"
+  },
+  "<<Hold here for 25 sec.>>": {
+    "translation": "<<防守25秒>>"
+  },
+  "<<Hold here for 20 sec.>>": {
+    "translation": "<<防守20秒>>"
+  }
+}
