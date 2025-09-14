@@ -101,7 +101,7 @@
     "translation": "热身回合"
   },
   "< WARMUP ENDING IN 5 SECONDS >": {
-    "translation": "5秒后结束热身"
+    "translation": "5秒后结束热身",
     "blocked": true
   },
   "Gate is opening in 10 second": {
