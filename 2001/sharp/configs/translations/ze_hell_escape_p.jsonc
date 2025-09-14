@@ -1,0 +1,83 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** The Graves have been reached - RESIST 20 sec.**": {
+    "translation": "防守20秒"
+  },
+  "** RESIST 5 Seconds **": {
+    "translation": "防守5秒"
+  },
+  "** THE GRAVES ARE MOVING!**": {
+    "translation": "开始上升"
+  },
+  "** Wait a little until the 2nd Way spawns**": {
+    "translation": "第二条路马上出现"
+  },
+  "** ZOMBIES ARE COMING! **": {
+    "translation": "僵尸来了"
+  },
+  "** ZOMBIES DETECTED! The Grave is slowing down!**": {
+    "translation": "检测到僵尸,移动速度减缓"
+  },
+  "** GET ON TOP OF THE OILRIG AND DEFEND IT**": {
+    "translation": "登上平台顶部防守"
+  },
+  "** CHOPPER IS COMING**": {
+    "translation": "直升机即将抵达"
+  },
+  "** THE OCEAN CAN NOW BE CROSSED**": {
+    "translation": "现在可以穿越海洋"
+  },
+  "** GET TO THE HOLY CHURCH - DEFEND LEVEL 2**": {
+    "translation": "前往教堂防守第二层"
+  },
+  "** RUN UP THE STAIRS! APOCALYPSE IMMINENT!!!!**": {
+    "translation": "快上楼梯 末日降临"
+  },
+  "** RESIST 10 SECONDS! **": {
+    "translation": "防守10秒"
+  },
+  "** RESIST 30 SECONDS **": {
+    "translation": "防守30秒"
+  },
+  "** DEFEND LEVEL 2 FOR 60 SECONDS **": {
+    "translation": "防守第二层60秒"
+  },
+  "** RESIST 20 SECONDS **": {
+    "translation": "防守20秒"
+  },
+  "** ZOMBIES CAN NOW CLIMB UP FROM THE BOTTOM LEVEL! **": {
+    "translation": "僵尸现在可从底层攀爬"
+  },
+  "** The Lab has been reached - resist 30 Seconds **": {
+    "translation": "实验室防守30秒"
+  },
+  "** RESIST 10 Seconds **": {
+    "translation": "防守10秒"
+  },
+  "**GET TO THE CHUTE - Door opens again in 15 Seconds **": {
+    "translation": "15秒门重新开启"
+  },
+  "** ZOMBIES ARE COMING!**": {
+    "translation": "僵尸来了"
+  },
+  "** GET ON TOP OF THE OILRIG AND WAIT FOR THE CHOPPER **": {
+    "translation": "登上钻井平台顶部等待直升机"
+  },
+  "** ESCAPE FROM HELL!! Get to to the magic Graves **": {
+    "translation": "逃离地狱"
+  },
+  "** !!! Visit: www.dreist-multigaming.com !!!**": {
+    "translation": "Visit: www.dreist-multigaming.com",
+    "blocked": true
+  }
+}
