@@ -4041,7 +4041,7 @@
     "requiredPlayers": 40
   },
   "ze_theback_bureau": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 120,
     "nomination": true,
