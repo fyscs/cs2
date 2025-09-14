@@ -1,0 +1,238 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***DOOR OPENS IN 30 SECONDS***": {
+    "translation": "30秒门开"
+  },
+  "**5 SECONDS***": {
+    "translation": "5秒"
+  },
+  "***REGROUP!! DOOR OPEN IN 15s!***": {
+    "translation": "15秒门开"
+  },
+  "***!!COME BACK NOW!!  !!WE HAVEN'T MUCH TIME!!***": {
+    "translation": "撤退"
+  },
+  "***ELEVATOR STARTS IN 30s***": {
+    "translation": "电梯30秒启动"
+  },
+  "***10 SECONDS***": {
+    "translation": "10秒"
+  },
+  "***5 SECONDS***": {
+    "translation": "5秒"
+  },
+  "***ELEVATOR LEAVING***": {
+    "translation": "电梯离开"
+  },
+  "***CURRENT DIFFICULT--- EASY***": {
+    "translation": "当前难度-简单"
+  },
+  "***CURRENT DIFFICULT---NORMAL***": {
+    "translation": "当前难度-普通"
+  },
+  "*** CURRENT DIFFICULT---HAAAAAAARD!!!!***": {
+    "translation": "当前难度-困难"
+  },
+  "***ZONE B1 DOOR OPENING***": {
+    "translation": "B1区域门开启中"
+  },
+  "***DJ-KAGALERA'S FLAMETHROWER HAS BEEN PICKED UP***": {
+    "translation": "已拾取喷火器"
+  },
+  "***THE HELICOPTER IS HERE!!!***": {
+    "translation": "直升机已抵达"
+  },
+  "***10 SECONDS!!!***": {
+    "translation": "10秒"
+  },
+  "***ELY'S PUSHER HAS BEEN PICKED UP***": {
+    "translation": "已拾取推进器"
+  },
+  "***TOLYANSTER'S MINIGUN HAS BEEN PICKED UP***": {
+    "translation": "已拾取加特林"
+  },
+  "***ZONE 2 BREAL IN 5s***": {
+    "translation": "5秒二区突破"
+  },
+  "***ZOMBIES ESCAPED!***": {
+    "translation": "僵尸已逃离"
+  },
+  "***WALL BREAKS IN 15s***": {
+    "translation": "15秒墙破裂"
+  },
+  "***FALL BACK!***": {
+    "translation": "撤退"
+  },
+  "***FALL BACK!!***": {
+    "translation": "撤退"
+  },
+  "***FALL BACK!!!***": {
+    "translation": "撤退"
+  },
+  "***FALL BACK!!!!***": {
+    "translation": "撤退"
+  },
+  "***?MILIO WAS HERE***": {
+    "translation": "MILIO到此一游"
+  },
+  "***DOOR OPENING IN 5s***": {
+    "translation": "5秒门开"
+  },
+  "**WALL BREAKS IN 10s***": {
+    "translation": "10秒墙破裂"
+  },
+  "***MOVE!!**": {
+    "translation": "行动"
+  },
+  "***DOOR OPENS IN 20s***": {
+    "translation": "20秒门开"
+  },
+  "***FALL BACK!!!!!!***": {
+    "translation": "撤退"
+  },
+  "***FALL BACK***": {
+    "translation": "撤退"
+  },
+  "***5 SECONDS!***": {
+    "translation": "5秒"
+  },
+  "***EASY MODE COMPLETE***": {
+    "translation": "简单关卡通关"
+  },
+  "***MOVING TO NORMAL***": {
+    "translation": "切换至普通模式"
+  },
+  "***25 SECONDS***": {
+    "translation": "25秒"
+  },
+  "***FALL BACK!!! WE ARE SAFE!***": {
+    "translation": "撤退"
+  },
+  "***DAFUQ IS THAT?!***": {
+    "translation": "这什么鬼东西"
+  },
+  "***ANYWAY SHOOT IT!!!!***": {
+    "translation": "开火"
+  },
+  "***WAIT...***": {
+    "translation": "等等"
+  },
+  "***LEFT!!!!!!***": {
+    "translation": "左侧"
+  },
+  "***FAST!!! GET ON THE TRAIN!!!!***": {
+    "translation": "快上车"
+  },
+  "***TRAIN MOVES ON 10 SECONDS***": {
+    "translation": "列车10秒发动"
+  },
+  "***KILL THE CHOPPER OR WE ARE LOST***": {
+    "translation": "击落直升机否则我们就寄了"
+  },
+  "***GO STRAIGHT!!!!***": {
+    "translation": "前进"
+  },
+  "***ZOMBIES ON THE TRAIN***": {
+    "translation": "列车上有僵尸"
+  },
+  "**YOU FAILED***": {
+    "translation": "你失败了"
+  },
+  "***RAGEMOD ON!!***": {
+    "translation": "狂暴模式"
+  },
+  "***NOW GO TO THE UNDERGROUND***": {
+    "translation": "立即前往地下"
+  },
+  "***YOU KILL HIM!!!***": {
+    "translation": "你干掉他了"
+  },
+  "***AGM MISSLE ON 1s!!!!!!!!!!!!!!!!!!!!!!!!!!***": {
+    "translation": "导弹1秒发射"
+  },
+  "***AGM MISSLE ON 2s!!!!!!!!!!!!!!!!!!!!!!***": {
+    "translation": "导弹2秒发射"
+  },
+  "***AGM MISSLE ON 3s!!!!!!!!!!!!!!***": {
+    "translation": "导弹3秒发射"
+  },
+  "***AGM MISSLE ON 4s!!!!!!!!!!!!!!***": {
+    "translation": "*导弹4秒发射"
+  },
+  "***AGM MISSLE ON 5s!!!!!!***": {
+    "translation": "导弹5秒发射"
+  },
+  "***AGM MISSLE ON 10s***": {
+    "translation": "导弹10秒发射"
+  },
+  "***AGM MISSLE ON 20s***": {
+    "translation": "导弹20秒发射"
+  },
+  "***AGM MISSLE ON 50s***": {
+    "translation": "导弹50秒发射"
+  },
+  "***AGM MISSLE WILL KILL US ON 100s***": {
+    "translation": "导弹100秒发射"
+  },
+  "***ELEVATOR LEFT IN 20 SECONS***": {
+    "translation": "电梯20秒离开"
+  },
+  "***3 SECONS***": {
+    "translation": "3秒"
+  },
+  "***2 SECONS***": {
+    "translation": "2秒"
+  },
+  "***1 SECONS***": {
+    "translation": "1秒"
+  },
+  "*** MAP MADE BY DJ-KAGALERA***": {
+    "translation": "地图作者: DJ-KAGALERA 汉化:茜茜"
+  },
+  "***THX TO***": {
+    "translation": "特别鸣谢"
+  },
+  "***------------------->KAEMON***": {
+    "translation": "KAEMON"
+  },
+  "***------------------->LUFFAREN***": {
+    "translation": "LUFFAREN"
+  },
+  "***------------------->LEGREM***": {
+    "translation": "LEGREM"
+  },
+  "***MISSILES INBOUND***": {
+    "translation": "导弹来袭"
+  },
+  "***35 SECONDS FOR IMPACT***": {
+    "translation": "35秒撞击"
+  },
+  "***HELICOPTER IS NEAR FALL BACK!!!***": {
+    "translation": "直升机接近撤退"
+  },
+  "***ZOMBIES ON THE BUNKER U FAILED!!!***": {
+    "translation": "僵尸进入地堡任务失败"
+  },
+  "***WELL DONE!!***": {
+    "translation": "干得漂亮"
+  },
+  "***MOVING TO HARD!***": {
+    "translation": "切换至困难模式"
+  },
+  "***YOU DID IT!!!! YOU WON HARD MODE!!!***": {
+    "translation": "困难模式通关"
+  },
+  "***ZONE 1 BREAK IN 5***": {
+    "translation": "5秒一区突破"
+  }
+}
