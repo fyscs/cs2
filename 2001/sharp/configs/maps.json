@@ -3158,6 +3158,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_portal_story_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_potc_p": {
     "admin": false,
     "certainTimes": [-1],
