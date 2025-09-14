@@ -20,7 +20,7 @@
     "translation": "普通模式已加载"
   },
   "***Map by TheSeriouSamurai***": {
-    "translation": "地图作者 TheSeriouSamurai"
+    "translation": "地图作者 TheSeriouSamurai 文本:Zeyu1"
   },
   "***Door opens in 5 sec***": {
     "translation": "门将在5秒后开启"
@@ -83,10 +83,10 @@
     "translation": "这面墙需要一些时间"
   },
   "***Builder picked***": {
-    "translation": "已选择建造者"
+    "translation": "已拾取-建造者"
   },
   "***Ammobox picked***": {
-    "translation": "已拾取弹药箱"
+    "translation": "已拾取-弹药箱"
   },
   "***Final Holding Point reached***": {
     "translation": "已到达最终防守点"
