@@ -102,6 +102,7 @@
   },
   "< WARMUP ENDING IN 5 SECONDS >": {
     "translation": "5秒后结束热身"
+    "blocked": true
   },
   "Gate is opening in 10 second": {
     "translation": "门10秒后打开"
@@ -212,7 +213,7 @@
     "translation": "人类获得了士气的鼓舞(无限弹药)"
   },
   "< TAKE A BREAK >": {
-    "translation": "你永远可以相信 R U B Y"
+    "translation": "休息一下"
   },
   "< BLESSED BOTH TEAM >": {
     "translation": "祝福降临"
