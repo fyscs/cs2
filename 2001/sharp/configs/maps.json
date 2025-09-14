@@ -1826,6 +1826,15 @@
     "requiredOnline": 900,
     "requiredPlayers": 45
   },
+  "ze_indiana_jones_004_p": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_industrial_dejavu": {
     "admin": false,
     "certainTimes": [-1],
