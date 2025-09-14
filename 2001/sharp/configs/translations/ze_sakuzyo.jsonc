@@ -131,10 +131,11 @@
     "translation": "大门将在30秒后关闭"
   },
   "*** S?ku??o: Exe?ut? G?it?h 82 ***": {
-    "translation": "正在执行"
+    "translation": "正在执行? 减速?"
   },
   "<< Glitch Code 82: Slow.exe >>": {
-    "translation": "执行 - 减速"
+    "translation": "执行 - 减速",
+    "blocked": true
   },
   "<< Zone Code: Hipothermia >>": {
     "translation": "执行 - 低温"
