@@ -1,0 +1,395 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Gate is opening in 15 second": {
+    "translation": "大门将在15秒后开启"
+  },
+  "a White cube": {
+    "translation": "白方块"
+  },
+  "Maybe i should touch it": {
+    "translation": "也许应该摸摸它"
+  },
+  "The cube is moving up": {
+    "translation": "方块正在向上移动"
+  },
+  "The gate is opening": {
+    "translation": "大门正在开启"
+  },
+  "The way is split into three": {
+    "translation": "道路被分为三条"
+  },
+  "You hear a voice from above": {
+    "translation": "你听到上方传来声音"
+  },
+  "Dont give up when you hit rock bottom": {
+    "translation": "当你跌入谷底时不要放弃"
+  },
+  "A balance in life will lead to happiness": {
+    "translation": "生活的平衡将带来幸福"
+  },
+  "Taking the upper path may lead to something great": {
+    "translation": "走上面这条路或许会发生什么有趣的事"
+  },
+  "< Bottom Gate >": {
+    "translation": "底部大门"
+  },
+  "< Middle Gate >": {
+    "translation": "中部大门"
+  },
+  "< Top Gate >": {
+    "translation": "顶部大门"
+  },
+  "...": {
+    "translation": "..."
+  },
+  "The big gate seems to open": {
+    "translation": "大门似乎打开了"
+  },
+  "I really should keep going": {
+    "translation": "我觉得我们应该继续前进"
+  },
+  "A cube sitting in both of the fountain": {
+    "translation": "喷泉的两边都有一个方块"
+  },
+  "I will touch it": {
+    "translation": "直觉告诉我,我们需要触碰它"
+  },
+  "A weird shaped gate blocking our way": {
+    "translation": "一个形状怪异的门挡住了我们的去路"
+  },
+  "It knows that we are present": {
+    "translation": "造物主发现我们了"
+  },
+  "The door seems to open": {
+    "translation": "门好像开了"
+  },
+  "Another gate": {
+    "translation": "又一扇门"
+  },
+  "Where does the path lead me now": {
+    "translation": "这条路会把我们引向哪里"
+  },
+  "Gate closing in 10 seconds": {
+    "translation": "大门将在10秒后关闭"
+  },
+  "Another void": {
+    "translation": "另一片虚无"
+  },
+  "With nothing": {
+    "translation": "一无所有"
+  },
+  "The next gate opening in 10 seconds": {
+    "translation": "下一个大门会在10秒打开"
+  },
+  "But endless structure": {
+    "translation": "但是这复杂的结构"
+  },
+  "Seems like i am finding nothing": {
+    "translation": "看样子我好像什么都没找到"
+  },
+  "< WARMUP >": {
+    "translation": "热身回合"
+  },
+  "< WARMUP ENDING IN 5 SECONDS >": {
+    "translation": "5秒后结束热身",
+    "blocked": true
+  },
+  "Gate is opening in 10 second": {
+    "translation": "门10秒后打开"
+  },
+  "I see something behind these gate": {
+    "translation": "我好像看到门后有什么东西"
+  },
+  "A big structure lies ahead": {
+    "translation": "前面是一个复杂且巨大的结构"
+  },
+  "Live a life that is well balanced": {
+    "translation": "过着一种很平衡的生活"
+  },
+  "Higher and higher": {
+    "translation": "越来越高"
+  },
+  "I can see the end of time": {
+    "translation": "我似乎能看到时间的尽头"
+  },
+  "End Gate opening in 35 seconds": {
+    "translation": "最后的大门35秒后打开"
+  },
+  "End Gate closing in 15 seonds": {
+    "translation": "最后的大门15秒后关闭"
+  },
+  "What a wonderfull structure": {
+    "translation": "多么奇妙的结构"
+  },
+  "Doesn't feel like it has an end of it": {
+    "translation": "感觉好像没有尽头一样的蔓延"
+  },
+  "I don't want to jump on the middle": {
+    "translation": "我不想跳到中间"
+  },
+  "Sidelines has a gap": {
+    "translation": "边线有空隙"
+  },
+  "I will pass the gap": {
+    "translation": "我会通过这个空隙"
+  },
+  "And go to the other side": {
+    "translation": "去另外一边"
+  },
+  "Gate opening in 40 seconds": {
+    "translation": "大门40秒后打开"
+  },
+  "Another room filled with stairs": {
+    "translation": "另外一个房间里都是楼梯"
+  },
+  "There are three ways now": {
+    "translation": "现在有三条路"
+  },
+  "Where should i go": {
+    "translation": "我们应该走哪条"
+  },
+  "You hear another whisper": {
+    "translation": "你听到另一个低语"
+  },
+  "Why is the gate not opening": {
+    "translation": "为什么大门没有打开"
+  },
+  "I feel dizzy": {
+    "translation": "我感到迷茫"
+  },
+  "What is happening to me": {
+    "translation": "这是怎么了"
+  },
+  "Outsiders": {
+    "translation": "界外者:外来者"
+  },
+  "What species are you": {
+    "translation": "界外者:你到底是什么"
+  },
+  "Why are you so small": {
+    "translation": "界外者:你为什么这么小"
+  },
+  "I am the ruler of this realm": {
+    "translation": "界外者:我是这里永恒的意志"
+  },
+  "Uninvited guest shall perish": {
+    "translation": "界外者:入侵者,现在你可以去死了"
+  },
+  "Small doesn't mean weak": {
+    "translation": "小并不意味着软弱"
+  },
+  "Aren't you": {
+    "translation": "不是吗?"
+  },
+  "Did not expect that": {
+    "translation": "没想到你竟然打败了界外者"
+  },
+  "You shall see fear": {
+    "translation": "你将会直面恐惧"
+  },
+  "And i will make you burn for it": {
+    "translation": "我会让你因此付出代价"
+  },
+  "???": {
+    "translation": "???"
+  },
+  "What is that thing": {
+    "translation": "那是什么"
+  },
+  "< BLESSED ZM SPEED >": {
+    "translation": "僵尸开始狂化 (地速越来越快)"
+  },
+  "< BLESSED INFINITE AMMO >": {
+    "translation": "人类获得了士气的鼓舞(无限弹药)"
+  },
+  "< TAKE A BREAK >": {
+    "translation": "休息一下"
+  },
+  "< BLESSED BOTH TEAM >": {
+    "translation": "祝福降临"
+  },
+  "< BLESSED WITH DARK RIFT >": {
+    "translation": "有幸拥有黑暗裂痕"
+  },
+  "< GREAT JOB >": {
+    "translation": "干得好"
+  },
+  "You impressed me": {
+    "translation": "你给我留下了深刻的印象"
+  },
+  "I will wait you up there": {
+    "translation": "我会在上面等你"
+  },
+  "And i will show you": {
+    "translation": "我会向你展示"
+  },
+  "< EVERYTHING >": {
+    "translation": "所有的一切*"
+  },
+  "< LAST HOLD OUTSIDER >": {
+    "translation": "最后的入侵者"
+  },
+  "< PROVE ME YOU ARE WORTHY ENOUGH >": {
+    "translation": "向我证明你的价值 "
+  },
+  "< TO GO IN MY REALM >": {
+    "translation": "进入我的领域"
+  },
+  "Objective: Defend until the song ends": {
+    "translation": "目标:防守到音乐的律动"
+  },
+  "Zombies will get buffed": {
+    "translation": "僵尸获得了创世主的狂化"
+  },
+  "Humans will get blessed": {
+    "translation": "人类沐浴在圣光之中"
+  },
+  "I Wonder": {
+    "translation": "我想知道"
+  },
+  "What is beyond this gate": {
+    "translation": "门外是什么"
+  },
+  "Where am i again?": {
+    "translation": "我又在哪?"
+  },
+  "Ah we are on top": {
+    "translation": "啊!我们在最上面"
+  },
+  "That the face mention": {
+    "translation": "那张面孔提到"
+  },
+  "This place looks huge": {
+    "translation": "这个地方看起来很大"
+  },
+  "I Wonder what is up above": {
+    "translation": "我想知道上面发生了什么"
+  },
+  "Guess i will climb to find out": {
+    "translation": "我想我会爬上去看看"
+  },
+  "The gate opened by itself again": {
+    "translation": "大门又自己打开了"
+  },
+  "Do the face know that i am here?": {
+    "translation": "那张脸知道我来这里了吗?"
+  },
+  "Might be yeah?": {
+    "translation": "或许是的?"
+  },
+  "Yet another gate": {
+    "translation": "还有一扇大门"
+  },
+  "Why is the creator of this map likes gate": {
+    "translation": "为什么造物主喜欢大门"
+  },
+  "There are too many gates since i came": {
+    "translation": "自从我的到来,大门太多了"
+  },
+  "To this world.": {
+    "translation": "对于这个世界"
+  },
+  "Now the gate is opening": {
+    "translation": "门正在打开,坚持住"
+  },
+  "The creator seems not pleased": {
+    "translation": "造物主有点不满意"
+  },
+  "Better watch my words for now": {
+    "translation": "注意我的话"
+  },
+  "We should go to the corner": {
+    "translation": "我们应该去拐角"
+  },
+  "Elevator going up in 30 second": {
+    "translation": "电梯30秒上升"
+  },
+  "Elevator going up in 35 Second": {
+    "translation": "电梯35秒上升"
+  },
+  "Woah it moves": {
+    "translation": "它在移动"
+  },
+  "My vision is turning to black.": {
+    "translation": "我的视角在逐渐变黑"
+  },
+  "< WELCOME >": {
+    "translation": "欢迎来到这里"
+  },
+  "Defend middle for 45 second": {
+    "translation": "防守中间45秒"
+  },
+  "< HA HA HA >": {
+    "translation": "哈哈哈"
+  },
+  "< I AM MAD >": {
+    "translation": "我将陷入狂乱"
+  },
+  "< FACE ME FOR THE LAST TIME >": {
+    "translation": "最后一次直面我 "
+  },
+  "< I WILL BE WAITING >": {
+    "translation": "我会等待"
+  },
+  "< ON TOP OF THE WORLD >": {
+    "translation": "在世界之巅"
+  },
+  "< THE FACE IS CASTING SUPERNOVA >": {
+    "translation": "这张脸在铸造新星"
+  },
+  "< RUN BEFORE I BLOW THIS PLACE UP >": {
+    "translation": "启用之前,我们要做好十足的准备"
+  },
+  "< YOU WILL DIE >": {
+    "translation": "你会因此而死去"
+  },
+  "< IMPRESSIVE >": {
+    "translation": "恭喜你洞悉了万物"
+  },
+  "< ADMIN HAS SET TO LEVEL 1 >": {
+    "translation": "管理员设置第一关"
+  },
+  "< ADMIN HAS SET TO LEVEL 2 >": {
+    "translation": "管理员设置第二关"
+  },
+  "< ADMIN HAS SET TO LEVEL 3 >": {
+    "translation": "管理员设置第三关"
+  },
+  "*** EPILOGUE / RTV SOON ***": {
+    "translation": "RTV关卡即将到来"
+  },
+  "*** REPORT BUG TO HEYFUMI ***": {
+    "translation": "如果有BUG,可以联系HEYFUMI"
+  },
+  "*** MAP BY HEYFUMI ***": {
+    "translation": "地图作者:HEYFUMI 翻译:海苔&十元&圣光猫猫@FyS"
+  },
+  "*** THANK YOU FOR PLAYING ***": {
+    "translation": "感谢你游玩此地图"
+  },
+  "*** DARK RIFT has been picked up ***": {
+    "translation": "黑暗裂痕已经拾起(只能使用一次,大范围秒杀)"
+  },
+  "*** Dream Orb has been picked up ***": {
+    "translation": "梦想球体已经拾起(直线PUSH)"
+  },
+  "*** Pit Of Malice has been picked up ***": {
+    "translation": "暗黑深渊已经拾起(制造一个雷霆区域减速僵尸)"
+  },
+  "*** Pyrexae Artifact has been picked up ***": {
+    "translation": "灼霜之墙已经拾起(升起一道竖墙,冻住僵尸)"
+  },
+  "*** Global Silence have been picked up ***": {
+    "translation": "环形沉默已经拾起(范围免抓)"
+  }
+}
