@@ -26,6 +26,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 10
   },
+  "mg_damons_headshot_contest": {
+    "admin": false,
+    "certainTimes": [20, 21, 22, 23],
+    "cooldown": 30,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": 10
+  },
   "mg_dream_xmas_edition_3": {
     "admin": false,
     "certainTimes": [-1],
