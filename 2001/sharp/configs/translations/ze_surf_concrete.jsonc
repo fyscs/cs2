@@ -1,0 +1,73 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Zombie tp at 30 seconds": {
+    "translation": "僵尸30秒后传送"
+  },
+  "Defend 30 seconds": {
+    "translation": "防守30秒"
+  },
+  "Map by R1cko27": {
+    "translation": "地图作者:R1cko27 文本:Zeyu1"
+  },
+  "Lasers in 5 seconds": {
+    "translation": "激光5秒后启动"
+  },
+  "Zombie tp at 20 seconds": {
+    "translation": "僵尸20秒后传送"
+  },
+  "Shoot The Boss": {
+    "translation": "射击BOSS"
+  },
+  "Hold 20 seconds": {
+    "translation": "坚守20秒"
+  },
+  "Defend bridge 35 seconds": {
+    "translation": "防守桥梁35秒"
+  },
+  "Defend the doors": {
+    "translation": "防守门"
+  },
+  "All zm tp at 30 seconds": {
+    "translation": "全体僵尸30秒后传送"
+  },
+  "Hold 45 seconds": {
+    "translation": "坚守45秒"
+  },
+  "Hold 30 seconds": {
+    "translation": "坚守30秒"
+  },
+  "Zombie Attack": {
+    "translation": "僵尸进攻"
+  },
+  "Push": {
+    "translation": "推力"
+  },
+  "Gravity": {
+    "translation": "吸力"
+  },
+  "Mini Robot Attack": {
+    "translation": "小型机器人突击"
+  },
+  "Boss Attack": {
+    "translation": "BOSS正在发起攻击"
+  },
+  "Go down": {
+    "translation": "向下移动"
+  },
+  "Defend 35 seconds": {
+    "translation": "防守35秒"
+  },
+  "Zombie tp at 15 seconds": {
+    "translation": "僵尸15秒后传送"
+  }
+}
