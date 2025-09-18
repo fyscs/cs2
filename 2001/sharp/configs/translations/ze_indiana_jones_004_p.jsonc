@@ -1,0 +1,43 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Map by AERIS.004 ***": {
+    "translation": "地图作者: AERIS.004"
+  },
+  "*** Door is opening in 20secs ***": {
+    "translation": "大门20秒打开"
+  },
+  "*** Door is opening in 5secs ***": {
+    "translation": "大门5秒打开"
+  },
+  "*** 1st teleport enabled ***": {
+    "translation": "第一次传送已启用"
+  },
+  "*** Door will close in 5 secs ***": {
+    "translation": "大门5秒关闭"
+  },
+  "*** Door will open in 2secs ***": {
+    "translation": "大门2秒打开"
+  },
+  "*** Trains leaving in 30secs***": {
+    "translation": "列车30秒离站"
+  },
+  "*** Trains are leaving  ***": {
+    "translation": "列车正在离站"
+  },
+  "*** 2nd teleport enabled ***": {
+    "translation": "第二次传送已启用"
+  },
+  "*** 3rd teleport enabled ***": {
+    "translation": "第三次传送已启用"
+  }
+}
