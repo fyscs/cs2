@@ -1,0 +1,106 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<< Factory Power is Back, Gate Opening Soon. >>": {
+    "translation": "电力恢复 大门马上开"
+  },
+  "<< Emergency Power Activating... >>": {
+    "translation": "应急电源启动中"
+  },
+  "<< Emergency Power Activated. Doors Opening Soon... >>": {
+    "translation": "应急电源已启动 门马上开"
+  },
+  "<< Factory Doors Opening Soon, Keep Holding. >>": {
+    "translation": "工厂大门马上开"
+  },
+  "<< Factory Door Is Open. >>": {
+    "translation": "工厂大门已开"
+  },
+  "<< Right Door Opening, Fall Back. >>": {
+    "translation": "右侧门开了"
+  },
+  "<< Zombie Teleport Soon... >>": {
+    "translation": "僵尸马上传送"
+  },
+  "<< Factory is So Dark, Activate Emergency Power. >>": {
+    "translation": "工厂太黑了 去启动应急电源"
+  },
+  "CELESTIAL BODY: 41 Experimentation": {
+    "translation": "天体:41号实验区"
+  },
+  "POPULATION: Abandoned": {
+    "translation": "人口状态:已废弃"
+  },
+  "CONDITIONS: Arid. Thick haze, worsened by industrial artifacts.": {
+    "translation": "环境条件:干旱 浓雾"
+  },
+  "FAUNA: Dominated by a few species.": {
+    "translation": "动物群:以少数物种为主"
+  },
+  "Map by Lacrimossa": {
+    "translation": "地图作者:Lacrimossa 汉化:茜茜"
+  },
+  "<< Scraps Collected >>": {
+    "translation": "已收集废料"
+  },
+  "<< Doors Opening Soon... >>": {
+    "translation": "门马上开"
+  },
+  "<< Doors Open >>": {
+    "translation": "门开了"
+  },
+  "<< Doors Are Locked, Need To Find Keys. >>": {
+    "translation": "门锁了 寻找钥匙"
+  },
+  "<< Keep Looking Around For Way, And Keep Holding. >>": {
+    "translation": "继续寻找出路"
+  },
+  "<< Emergency Power is Not Enough For Gate. >>": {
+    "translation": "应急电源不足以启动大门"
+  },
+  "<< Activate Other Power Units. >>": {
+    "translation": "启动其他供电单元"
+  },
+  "<< We Found Fire Exit!, Keep Holding, It Will Open Soon. >>": {
+    "translation": "已找到紧急出口,门马上开"
+  },
+  "<< Fire Exit Is Open! Fall Back! >>": {
+    "translation": "紧急出口已开"
+  },
+  "<< Almost There, Keep Holding A Bit More. >>": {
+    "translation": "即将到达 坚持"
+  },
+  "<< Collect The Scraps. >>": {
+    "translation": "收集废料"
+  },
+  "<< Ship Is Leaving In 70 Seconds! >>": {
+    "translation": "飞船70秒离开"
+  },
+  "<< Ship Is Leaving... >>": {
+    "translation": "飞船离开了"
+  },
+  "<< Zombie Detected Inside Ship. Mission Failed. >>": {
+    "translation": "飞船进入僵尸 你们被炒鱿鱼了"
+  },
+  "<< Hold A Bit. Opening Door. >>": {
+    "translation": "正在开门"
+  },
+  "<< Keys Found, Factory Doors Opening Soon. >>": {
+    "translation": "已找到钥匙 工厂大门马上开"
+  },
+  "<< Factory Doors Opened. >>": {
+    "translation": "工厂大门已开"
+  },
+  "<< WARMUP >>": {
+    "translation": "热身"
+  }
+}
