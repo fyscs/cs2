@@ -2321,6 +2321,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_maze_runner": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_melong_dow_learjet_p": {
     "admin": false,
     "certainTimes": [-1],
