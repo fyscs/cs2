@@ -6,12 +6,6 @@
       "hammeruniqueid": "1:1:4357"
     },
     {
-      "targetname": "player_weapon_stripper",
-      "classname": "game_player_equip",
-      "spawnflags": "3",
-      "hammeruniqueid": "1:2:4357"
-    },
-    {
       "targetname": "fys_cs_script",
       "classname": "logic_case",
       "hammeruniqueid": "1:3:4357"

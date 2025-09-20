@@ -710,6 +710,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 25
   },
+  "ze_cyberbloods": {
+    "admin": true,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 220,
+    "nomination": true,
+    "price": 3000,
+    "requiredOnline": 900,
+    "requiredPlayers": 45
+  },
   "ze_cyberspace_v2": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
@@ -1224,7 +1233,7 @@
     "requiredPlayers": 45
   },
   "ze_ffxii_mt_bur_omisace_v6": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 120,
     "nomination": true,
@@ -1735,6 +1744,15 @@
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": 40
+  },
+  "ze_ice_hold_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
   },
   "ze_icebreaker": {
     "admin": false,
@@ -2573,6 +2591,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_nomada": {
+    "admin": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 140,
+    "nomination": true,
+    "price": 500,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
   "ze_notredame_p": {
     "admin": false,
     "certainTimes": [-1],
@@ -3050,6 +3077,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_penguin_of_doom": {
+    "admin": true,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 140,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_percocet_p": {
     "admin": false,
     "certainTimes": [-1],
@@ -3080,7 +3116,7 @@
   "ze_plants_vs_zombies": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 220,
+    "cooldown": 180,
     "nomination": true,
     "price": 800,
     "requiredOnline": 600,
@@ -3158,6 +3194,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_portal_story_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_potc_p": {
     "admin": false,
     "certainTimes": [-1],
@@ -3175,6 +3220,15 @@
     "price": 600,
     "requiredOnline": -1,
     "requiredPlayers": 40
+  },
+  "ze_prisonbreak_rescue": {
+    "admin": false,
+    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 160,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": 600,
+    "requiredPlayers": 35
   },
   "ze_project_codex": {
     "admin": false,
@@ -4041,7 +4095,7 @@
     "requiredPlayers": 40
   },
   "ze_theback_bureau": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 120,
     "nomination": true,
