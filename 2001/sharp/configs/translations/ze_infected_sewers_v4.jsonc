@@ -158,28 +158,36 @@
     "translation": "你干掉他了"
   },
   "***AGM MISSLE ON 1s!!!!!!!!!!!!!!!!!!!!!!!!!!***": {
-    "translation": "导弹1秒发射"
+    "translation": "导弹1秒发射",
+    "blocked": true
   },
   "***AGM MISSLE ON 2s!!!!!!!!!!!!!!!!!!!!!!***": {
-    "translation": "导弹2秒发射"
+    "translation": "导弹2秒发射",
+    "blocked": true
   },
   "***AGM MISSLE ON 3s!!!!!!!!!!!!!!***": {
-    "translation": "导弹3秒发射"
+    "translation": "导弹3秒发射",
+    "blocked": true
   },
   "***AGM MISSLE ON 4s!!!!!!!!!!!!!!***": {
-    "translation": "*导弹4秒发射"
+    "translation": "*导弹4秒发射",
+    "blocked": true
   },
   "***AGM MISSLE ON 5s!!!!!!***": {
-    "translation": "导弹5秒发射"
+    "translation": "导弹5秒发射",
+    "blocked": true
   },
   "***AGM MISSLE ON 10s***": {
-    "translation": "导弹10秒发射"
+    "translation": "导弹10秒发射",
+    "blocked": true
   },
   "***AGM MISSLE ON 20s***": {
-    "translation": "导弹20秒发射"
+    "translation": "导弹20秒发射",
+    "blocked": true
   },
   "***AGM MISSLE ON 50s***": {
-    "translation": "导弹50秒发射"
+    "translation": "导弹50秒发射",
+    "blocked": true
   },
   "***AGM MISSLE WILL KILL US ON 100s***": {
     "translation": "导弹100秒发射"
@@ -188,28 +196,19 @@
     "translation": "电梯20秒离开"
   },
   "***3 SECONS***": {
-    "translation": "3秒"
+    "translation": "3秒",
+    "blocked": true
   },
   "***2 SECONS***": {
-    "translation": "2秒"
+    "translation": "2秒",
+    "blocked": true
   },
   "***1 SECONS***": {
-    "translation": "1秒"
+    "translation": "1秒",
+    "blocked": true
   },
   "*** MAP MADE BY DJ-KAGALERA***": {
     "translation": "地图作者: DJ-KAGALERA 汉化:茜茜"
-  },
-  "***THX TO***": {
-    "translation": "特别鸣谢"
-  },
-  "***------------------->KAEMON***": {
-    "translation": "KAEMON"
-  },
-  "***------------------->LUFFAREN***": {
-    "translation": "LUFFAREN"
-  },
-  "***------------------->LEGREM***": {
-    "translation": "LEGREM"
   },
   "***MISSILES INBOUND***": {
     "translation": "导弹来袭"
