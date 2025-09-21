@@ -1,0 +1,112 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Wait some more seconds***": {
+    "translation": "请再等待几秒"
+  },
+  "***Hold the door some more***": {
+    "translation": "继续守住门"
+  },
+  "***Normal Mode Loaded***": {
+    "translation": "普通模式已加载"
+  },
+  "***Map by TheSeriouSamurai***": {
+    "translation": "地图作者 TheSeriouSamurai 文本:Zeyu1"
+  },
+  "***Door opens in 5 sec***": {
+    "translation": "门将在5秒后开启"
+  },
+  "***Map by SeriouSamurai***": {
+    "translation": "地图作者 SeriouSamurai"
+  },
+  "***Door opens in 11 secs***": {
+    "translation": "门将在11秒后开启"
+  },
+  "***Hardcore Mode Loaded***": {
+    "translation": "硬核模式已加载"
+  },
+  "***Door opens in 20sec***": {
+    "translation": "门将在20秒后开启"
+  },
+  "***Use the keyboard to hack door***": {
+    "translation": "使用键盘破解门锁"
+  },
+  "***Go and arm the C4***": {
+    "translation": "前去安装C4炸药"
+  },
+  "***Door opens in 25 sec***": {
+    "translation": "门将在25秒后开启"
+  },
+  "***C4 explodes in 25 secs***": {
+    "translation": "C4将在25秒后爆炸"
+  },
+  "***Door opens in 20 sec***": {
+    "translation": "门将在20秒后开启"
+  },
+  "***FALL BACK***": {
+    "translation": "立即撤退"
+  },
+  "***Get the cards for the elevator***": {
+    "translation": "获取电梯所需的卡"
+  },
+  "***They are somewhere on this floor***": {
+    "translation": "它们就在本层的某个地方"
+  },
+  "***20 more secs to hold***": {
+    "translation": "还需坚守20秒"
+  },
+  "***Elevator moves in 15 secs***": {
+    "translation": "电梯将在15秒后运行"
+  },
+  "***5 secs left***": {
+    "translation": "剩余5秒"
+  },
+  "***GET IN***": {
+    "translation": "快进去"
+  },
+  "***Shotgun picked***": {
+    "translation": "已拾取霰弹枪"
+  },
+  "***The Door is locked. Wait some secs***": {
+    "translation": "门已上锁,请等待片刻"
+  },
+  "***This wall can take a while***": {
+    "translation": "这面墙需要一些时间"
+  },
+  "***Builder picked***": {
+    "translation": "已拾取-建造者"
+  },
+  "***Ammobox picked***": {
+    "translation": "已拾取-弹药箱"
+  },
+  "***Final Holding Point reached***": {
+    "translation": "已到达最终防守点"
+  },
+  "***Game-Mode is changing***": {
+    "translation": "游戏模式正在变更"
+  },
+  "***Hold 20 more secs***": {
+    "translation": "再坚守20秒"
+  },
+  "***Escape through the new path***": {
+    "translation": "从新路线逃离"
+  },
+  "***Next door opens in 15 sec***": {
+    "translation": "下一道门将在15秒后开启"
+  },
+  "***Zombies get teleported in 8 secs FALL BACK***": {
+    "translation": "僵尸将在8秒后传送,立即撤退"
+  },
+  "***The next door opens in 15 sec***": {
+    "translation": "下一道门将在15秒后开启"
+  }
+}
