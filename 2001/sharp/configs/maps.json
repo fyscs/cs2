@@ -1646,6 +1646,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 25
   },
+  "ze_hell_escape_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_hidden_fortress_p": {
     "admin": false,
     "certainTimes": [-1],
