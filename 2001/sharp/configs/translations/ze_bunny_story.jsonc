@@ -1,0 +1,206 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Blue Bunny: I have been protecting Bunny Kingdom for centuries… WHAT HAVE YOU HUMANS DONE!?": {
+    "translation": "蓝兔:我守护兔子王国已有数百年你们人类都干了些什么",
+    "blocked": true
+  },
+  "You: What was all of that about?": {
+    "translation": "你:刚才到底是怎么回事"
+  },
+  "Bunny: I don’t know..": {
+    "translation": "兔子:我不知道"
+  },
+  "**DOORS OPENING IN 15 SECONDS**": {
+    "translation": "大门15秒打开"
+  },
+  "**A mysterious voice has lead you to Bunny Kingdom..**": {
+    "translation": "一道神秘的声音将你引至兔子王国"
+  },
+  "Bunny: Save us from our suppressor Blue Bunny, she is corrupting all of Bunny Kingdom.": {
+    "translation": "兔子:请拯救我们 她正在腐化兔子王国",
+    "blocked": true
+  },
+  "You: Who are you?": {
+    "translation": "你:你是谁"
+  },
+  "Bunny: Just an innocent little bunny…": {
+    "translation": "兔子:无辜的小兔子"
+  },
+  "You: Oh let’s be Friends then!": {
+    "translation": "你:那我们就做朋友吧"
+  },
+  "**ELEVATOR LEAVING IN 15 SECONDS**": {
+    "translation": "电梯15秒离开"
+  },
+  "**DOORS OPENING IN 35 SECONDS**": {
+    "translation": "大门35秒开启"
+  },
+  "**DOOR OPENING IN 15 SECONDS**": {
+    "translation": "门15秒开启"
+  },
+  "You: What is the blue, and red on the floor?": {
+    "translation": "你:地上蓝色和红色的东西是什么",
+    "blocked": true
+  },
+  "Bunny: Nothing much it’s just my corrupt- I mean paint": {
+    "translation": "兔子:没什么只是我的腐化"
+  },
+  "**DOOR OPENING IN 25 SECONDS**": {
+    "translation": "门25秒开启"
+  },
+  "**DOOR OPENING IN 20 SECONDS**": {
+    "translation": "门20秒开启"
+  },
+  "**DOORS OPENING IN 10 SECONDS**": {
+    "translation": "大门10秒开启"
+  },
+  "Bunny: Pay attention we are getting closer to Blue Bunny’s lair": {
+    "translation": "兔子:注意 我们正在接近蓝兔"
+  },
+  "**DOORS CLOSING IN 15 SECONDS**": {
+    "translation": "大门15秒关闭"
+  },
+  "**TELEPORTER ENABLED IN 5 SECONDS**": {
+    "translation": "传送器5秒启动"
+  },
+  "**DOOR CLOSING IN 15 SECONDS**": {
+    "translation": "门15秒后关闭"
+  },
+  "Bunny: I’m sorry…": {
+    "translation": "兔子:对不起"
+  },
+  "You: Why?": {
+    "translation": "你:为什么"
+  },
+  "Bunny: You’ll see…": {
+    "translation": "兔子:你很快就会明白"
+  },
+  "Ominous Voice: Foolish HUMANS": {
+    "translation": "不祥之音:愚蠢的人类"
+  },
+  "Ominous Voice: Thank you for your assistance Trickster Bunny, your work is done here": {
+    "translation": "不祥之音:感谢你诡诈兔 你的任务完成了"
+  },
+  "Bunny: The truth is Blue Bunny was protecting us from Evil Bunny… But now that she’s gone Evil Bunny has been freed and will bring ruin to Bunny Kingdom": {
+    "translation": "兔子:真相是蓝兔一直在保护我们 但她消失了 邪恶兔已被释放 将为兔子王国带来毁灭",
+    "blocked": true
+  },
+  "You: HOW COULD YOU TRICK ME?! We were Friends…": {
+    "translation": "你:你怎么能欺骗我 我们曾是朋友"
+  },
+  "Bunny: I’m sorry I had to, he had my family…": {
+    "translation": "兔子:对不起我必须这么做 他挟持了我的家人"
+  },
+  "You: YOU DIDN’T HAVE TO DO ANYTHING": {
+    "translation": "你:你根本不必这样做"
+  },
+  "Bunny: You are my first Friend..": {
+    "translation": "兔子:你是我第一个朋友"
+  },
+  "You: Not anymore.": {
+    "translation": "你:不再是了"
+  },
+  "**GATE CLOSING IN 15 SECONDS**": {
+    "translation": "闸门15秒关闭"
+  },
+  "You: It’s time to make things right…": {
+    "translation": "你:是时候拨乱反正了"
+  },
+  "Ominous Voice has been revealed as Evil Bunny": {
+    "translation": "不祥之音显露出其真身:邪恶兔"
+  },
+  "**ESCAPE PORTAL OPENING IN 60 SECONDS**": {
+    "translation": "逃生传送门60秒开启"
+  },
+  "Bunny: I ACTIVATED ALL THE PORTALS FOR YOU, NOW IS YOUR TIME TO ESCAPE!!": {
+    "translation": "兔子:我为你启动了传送门 现在正是你逃离的时机"
+  },
+  "**ESCAPE DOOR OPENING IN 65 SECONDS**": {
+    "translation": "逃生门65秒开启"
+  },
+  "**DOOR CLOSING IN 10 SECONDS**": {
+    "translation": "门10秒关闭"
+  },
+  "You: WAIT WHERES Bunny": {
+    "translation": "你:等等 兔子在哪"
+  },
+  "**Bunny didn't make it, he sacrificed himself to open the portals**": {
+    "translation": "兔子未能脱身 他为开启传送门牺牲了自己"
+  },
+  "**You ask yourself a question, why was I sent to Bunny Kingdom..?**": {
+    "translation": "你向自己提出疑问 为何我被送到兔子王国"
+  },
+  "**Was it just to cause senseless violence..?**": {
+    "translation": "难道仅仅是为了制造无意义的暴力"
+  },
+  "**EVIL BUNNY: MAP BY BAENKYCHU**": {
+    "translation": "地图由BAENKYCHU制作"
+  },
+  ">>Map by Baenkychu<<": {
+    "translation": "地图作者 Baenkychu 汉化:茜茜"
+  },
+  "**I SENSE A ZOMBIE**": {
+    "translation": "检测到僵尸"
+  },
+  "**DESTROYING PILLAR IN 20 SECONDS**": {
+    "translation": "20秒摧毁支柱"
+  },
+  "**ESCAPE PORTAL OPENING IN 30 SECONDS**": {
+    "translation": "逃生传送门30秒开启"
+  },
+  "**BUNNY ANGER HAS STOPPED**": {
+    "translation": "兔子愤怒状态已解除"
+  },
+  "**EVIL BUNNY HAS RISEN**": {
+    "translation": "邪恶兔已苏醒"
+  },
+  "Evil Bunny: You foolish HUMANS I’m UNSTOPPABLE": {
+    "translation": "邪恶兔:愚蠢的人类 我是不可阻挡的"
+  },
+  "Evil Bunny: Welcome to the ruins of a past kingdom": {
+    "translation": "邪恶兔:欢迎来到昔日王国的废墟"
+  },
+  "Evil Bunny: IF IM GOING DOWN YOU ARE ALL GOING DOWN WITH ME": {
+    "translation": "邪恶兔:若我陨落 你们所有人都要陪我一同毁灭"
+  },
+  "**Now that both supreme bunnies have been slain, the entirety of bunny world has been destabilized**": {
+    "translation": "随着两位至尊兔都被消灭 整个兔子世界的稳定性已被破坏"
+  },
+  "**ELEVATOR ENABLED IN 15 SECONDS**": {
+    "translation": "电梯15秒启动"
+  },
+  "DEMON BUNNY: RAWRRRRRRRRRR": {
+    "translation": "恶魔兔:吼"
+  },
+  "**EVIL BUNNY HAS BEEN REVEALED AS DEMON BUNNY**": {
+    "translation": "邪恶兔显露出其真身:恶魔兔"
+  },
+  "**DOORS OPENING IN 30 SECONDS**": {
+    "translation": "大门30秒开启"
+  },
+  "You: Why are there cubes trapped in blue cubes?": {
+    "translation": "你:为什么有立方体被关在蓝色立方体里"
+  },
+  "Bunny: That’s b-because um Blue Bunny is holding us captive…": {
+    "translation": "兔子:那 那是因为 蓝兔把我们关押了起来"
+  },
+  "You: Why does it sound like your nervous…?": {
+    "translation": "你:怎么听起来你很紧张"
+  },
+  "Bunny: It’s cause I never seen a human before…": {
+    "translation": "兔子:因为我从未见过人类"
+  },
+  "Blue Bunny has AWAKENED": {
+    "translation": "蓝兔已苏醒"
+  }
+}
