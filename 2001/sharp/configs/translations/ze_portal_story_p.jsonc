@@ -1,0 +1,213 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> Repulsion gel has been aquired <<<": {
+    "translation": "减速凝胶已拾取"
+  },
+  ">>> It has a 50 second cooldown and slow zombies down <<<": {
+    "translation": "减速凝胶有50秒的冷却时间, 它可以减速僵尸",
+    "blocked": true
+  },
+  ">>> Propulsion gel has been aquired <<<": {
+    "translation": "加速凝胶被拾取"
+  },
+  ">>> It has a 40 Second cooldown and speeds humans up <<<": {
+    "translation": "加速凝胶有40秒的冷却时间, 它可以加速全体人类",
+    "blocked": true
+  },
+  ">>> ZE PORTAL STORY - EXTREME DIFFICULTY <<<": {
+    "translation": "当前难度: 老司机"
+  },
+  ">>> ZE PORTAL STORY - HARD DIFFICULTY <<<": {
+    "translation": "当前难度: 咸鱼"
+  },
+  ">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<": {
+    "translation": "当前难度: 萌新"
+  },
+  ">>> HOLD THIS CHAMBER. DOOR IS OPENING IN 25 SECS <<<": {
+    "translation": "守住这个位置, 25秒后开门"
+  },
+  ">>> DOOR IS OPENING IN 5 SECS <<<": {
+    "translation": "还剩5秒"
+  },
+  ">>> DOOR IS OPEN. ELEVATOR LEAVES IN 10 SECS <<<": {
+    "translation": "电梯还有10秒离开"
+  },
+  ">>> HOLD THE ENTRANCE UNTIL OTHERS SEARCH THE SOLUTION <<<": {
+    "translation": "守住入口 找到撤离的办法"
+  },
+  ">>> SOLUTION FOUND <<<": {
+    "translation": "我们已经找到了撤离的方式"
+  },
+  ">>> HOLD THE ENTRANCE FOR 35 SECS <<<": {
+    "translation": "守住入口35秒"
+  },
+  ">>> 15 SECS <<<": {
+    "translation": "还剩15秒"
+  },
+  ">>> 5 SECS <<<": {
+    "translation": "还剩5秒"
+  },
+  ">>> HOLD THIS PLACE FOR 35 SECS <<<": {
+    "translation": "在这里守住僵尸35秒"
+  },
+  ">>> ZOMBIES WAIT UNTIL THE BRIDGE GOES BACK <<<": {
+    "translation": "赶紧撤离, 僵尸就在你们的后方"
+  },
+  ">>> HOLD THE GLaDOS ROOM FOR 25 SECS <<<": {
+    "translation": "在这个房间坚守25秒"
+  },
+  ">>> DOOR IS CLOSING IN 5 SECS <<<": {
+    "translation": "还剩5秒"
+  },
+  ">>> NEUROTOXIN SYSTEM ENABLED! NEUROTOXIN IN 2 MINUTES! <<<": {
+    "translation": "神经毒素系统120秒后启动"
+  },
+  ">>> NEUROTOXIN IN 1 MINUTE! <<<": {
+    "translation": "神经毒素系统60秒后启动"
+  },
+  ">>> NEUROTOXIN IN 30 SECS! <<<": {
+    "translation": "神经毒素系30秒后启动"
+  },
+  ">>> NEUROTOXIN IN 15 SECS! <<<": {
+    "translation": "神经毒素系统15秒后启动"
+  },
+  ">>> NEUROTOXIN IN 5 SECS! <<<": {
+    "translation": "5秒后神经毒素系统启动"
+  },
+  ">>> 4 <<<": {
+    "translation": "4"
+  },
+  ">>> 3 <<<": {
+    "translation": "3"
+  },
+  ">>> 2 <<<": {
+    "translation": "2"
+  },
+  ">>> 1 <<<": {
+    "translation": "1"
+  },
+  ">>> NEUROTOXIN RELEASED! <<<": {
+    "translation": "神经毒素释放"
+  },
+  ">>> NORMAL MODE COMPLETED <<<": {
+    "translation": "萌新模式完成"
+  },
+  ">>> MOVING ON TO HARD MODE <<<": {
+    "translation": "加载咸鱼模式"
+  },
+  ">>> MOVING BACK TO NORMAL MODE <<<": {
+    "translation": "加载萌新难度"
+  },
+  ">>> EXTREME MODE COMPLETED <<<": {
+    "translation": "老司机难度完成"
+  },
+  ">>> TURRETS DESTROYED <<<": {
+    "translation": "炮塔被摧毁了"
+  },
+  ">>> DESTROY THE TURRETS <<<": {
+    "translation": "破坏炮塔"
+  },
+  ">>> GLaDOS IS DEAD <<<": {
+    "translation": "BOSS被打败了"
+  },
+  "> Admin switched difficulty to NORMAL": {
+    "translation": "加载萌新难度"
+  },
+  "> Admin switched difficulty to HARD": {
+    "translation": "加载咸鱼难度"
+  },
+  "> Admin switched difficulty to EXTREME": {
+    "translation": "加载老司机难度"
+  },
+  "> Admin pressed the NEUROTOXIN button": {
+    "translation": "神经毒素释放"
+  },
+  ">>> HARD MODE COMPLETED <<<": {
+    "translation": "咸鱼模式完成"
+  },
+  ">>> MOVING ON TO EXTREME MODE <<<": {
+    "translation": "进入老司机模式"
+  },
+  "> Thanks to": {
+    "translation": "鸣谢"
+  },
+  "> Enviolinador - multiple things help": {
+    "translation": "感谢Enviolinador的全面指导"
+  },
+  "> (RMG) Synopsis [pF] - special items help": {
+    "translation": "特别感谢Synopsis的神器指导"
+  },
+  "> JorisCeoen - models help": {
+    "translation": "模型提供:JorisCeoen"
+  },
+  "> Luffaren - particles help": {
+    "translation": "粒子效果:Luffaren"
+  },
+  "> Map by SubDelt@": {
+    "translation": "地图制作: SubDelt 文本:Zeyu1"
+  },
+  ">>> HOLD THE STAIRS UNTIL OTHERS SEARCH THE SOLUTION <<<": {
+    "translation": "守住这里直到找到撤离的办法"
+  },
+  ">>> HOLD THE ROOM UNTIL THE DOOR IS OPEN <<<": {
+    "translation": "在门完全开启前别随便乱动"
+  },
+  ">>> HOLD THE SEWER UNTIL THE GRATE IS DOWN <<<": {
+    "translation": "在这个位置守住僵尸"
+  },
+  ">>> 20 SECS <<<": {
+    "translation": "20秒"
+  },
+  ">>> HOLD THE ENTRANCE <<<": {
+    "translation": "守住这个入口"
+  },
+  ">>> 30 SECS <<<": {
+    "translation": "30秒"
+  },
+  ">>> 10 SECS <<<": {
+    "translation": "10秒"
+  },
+  ">>> ZOMBIES USE THE CIRCLE WAY <<<": {
+    "translation": ""
+  },
+  ">>> NEUROTOXIN SYSTEMS ARE DELAYED FOR 30 SECONDS FOR THIS ROUND <<<": {
+    "translation": "神经毒素系统启用离线,正在修复"
+  },
+  ">>> ALL HUMANS ARE GETTING 250 HP AT GLaDOS ROOM ENTRANCE FOR THIS ROUND <<<": {
+    "translation": "HP + 250"
+  },
+  ">>> ALL HUMANS ARE GETTING FULL AMMO LOAD AT GLaDOS ROOM ENTRANCE FOR THIS ROUND <<<": {
+    "translation": "弹药 + MAX"
+  },
+  ">>> VERTICAL LASERS ARE DISABLED FOR THIS ROUND <<<": {
+    "translation": "本轮垂直激光已禁用"
+  },
+  ">>> HORIZONTAL LASERS ARE DISABLED FOR THIS ROUND <<<": {
+    "translation": "本轮水平激光已禁用"
+  },
+  ">>> PORTAL PLACERS ARE DISABLED FOR THIS ROUND <<<": {
+    "translation": "本轮传送门放置器已禁用"
+  },
+  ">>> ROCKET TURRET IS DISABLED FOR THIS ROUND <<<": {
+    "translation": "本轮火箭炮塔已禁用"
+  },
+  ">>> NEUROTOXIN SYSTEM ENABLED! NEUROTOXIN IN 2 30 MINUTES! <<<": {
+    "translation": "神经毒素系统已启用"
+  },
+  ">>> NEUROTOXIN IN 2 MINUTES! <<<": {
+    "translation": "神经毒素系统120秒后启动"
+  },
+  ">>> ALL COMPANION CUBES HAVE BEEN FOUND <<<": {
+    "translation": "已获得全部立方体"
+  }
+}

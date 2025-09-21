@@ -61,7 +61,6 @@
 @exclude env_beverage
 @exclude env_cubemap
 @exclude env_instructor_vr_hint
-@exclude env_projectedtexture
 @exclude env_rotorshooter
 @exclude env_rotorwash_emitter
 @exclude env_smokestack
@@ -610,8 +609,20 @@
 	PatrolArea16(target_destination) : "PatrolArea[16]"
 ]
 
-@PointClass studio("models/chicken/chicken.vmdl") = chicken
+@PointClass base(Targetname, Parentname, Angles, BreakableProp , Shadow, RenderFields, Glow) studio("models/chicken/chicken.vmdl") = chicken :
+    "Chicken AI entity."
 [
+    Health(integer) : "Health" : 1 : "Set higher with damage to hurt to make chicken invincible."
+ 	skin(integer) : "Skin" : 0 : "Some models have multiple versions of their textures, called skins. Set this to a number other than 0 to use that skin instead of the default."
+    input SetGlowEnabled(void) : "Starts the glow."
+    input SetGlowDisabled(void) : "Stops the glow."
+    input SetGlowColor(color255) : "Change the glow's color. Format: <Red 0-255> <Green 0-255> <Blue 0-255>"
+    input GlowColorRedValue(float) : "Sets the glow red color channel's value (0 - 255)."
+    input GlowColorGreenValue(float) : "Sets the glow green color channel's value (0 - 255)."
+    input GlowColorBlueValue(float) : "Sets the glow blue color channel's value (0 - 255)."
+ 
+    output OnHealthChanged(void) : "Fires output when health changes."
+           
 ]
 
 @PointClass base(Targetname, Angles) studio("models/hostage/hostage.vmdl") = hostage_entity :
@@ -1259,24 +1270,27 @@
 	is_security_door(boolean) : "Secure a spawn point" : 0
 ]
 
-@PointClass base(Targetname, Angles) studio("models/weapons/w_eq_flashbang_thrown.mdl") = flashbang_projectile : "Flashbang Projectile"
+@PointClass base(Targetname, Angles) studio("weapons/models/grenade/flashbang/weapon_flashbang.vmdl") = flashbang_projectile : "Flashbang Projectile"
 [
     input SetTimer(float) : "Specify how many seconds before it explodes."
 ]
 
-@PointClass base(Weapon, TeamNum) studio("models/weapons/w_eq_fraggrenade.mdl") = hegrenade_projectile : "HE Grenade Projectile"
+@PointClass base(Weapon, TeamNum) studio("weapons/models/grenade/hegrenade/weapon_hegrenade.vmdl") = hegrenade_projectile : "HE Grenade Projectile"
 [
     input InitializeSpawnFromWorld(void) : "If spawned from a env_entity_maker, you need to call this after spawn for it to work properly."
 ]
 
-@PointClass base(Weapon, TeamNum) studio("models/weapons/w_eq_molotov.mdl") = molotov_projectile : "Molotov Projectile"
+@PointClass base(Weapon, TeamNum) studio("weapons/models/grenade/molotov/weapon_molotov.vmdl") = molotov_projectile : "Molotov Projectile"
 [
     input InitializeSpawnFromWorld(void) : "If spawned from a env_entity_maker, you NEED to call this after spawn for it to work properly."
 ]
 
-@PointClass base(Weapon, TeamNum) studio("models/weapons/w_eq_smokegrenade.vmdl") = smokegrenade_projectile : "SmokeGrenade Projectile"
+@PointClass base(Weapon, TeamNum) studio("weapons/models/grenade/smokegrenade/weapon_smokegrenade.vmdl") = smokegrenade_projectile : "SmokeGrenade Projectile"
 [
     input InitializeSpawnFromWorld(void) : "If spawned from a env_entity_maker, you NEED to call this after spawn for it to work properly."
+]
+@PointClass base(Weapon, TeamNum) studio("weapons/models/grenade/decoy/weapon_decoy.vmdl") = decoy_projectile : "Decoy Projectile"
+[
 ]
 
 @PointClass base(GameEntity) = point_dz_weaponspawn : "DZ Spawn Location"
@@ -1511,7 +1525,7 @@ metadata
 [
 	ZNear(float)[ group="Frustum" ] : "ZNear" : 4 : "Distance to the near plane for preview of the frustum in hammer."
 	ZFar(float)[ group="Frustum" ] : "ZFar" : 100 : "Distance to the far plane for preview of the frustum in hammer."
-	rendercolor(color255)[ group="Frustum" ] : "Color (R G B)" : "128 128 128" : "Render color for preview of the frustum in hammer."
+ 	rendercolor(color255)[ group="Frustum" ] : "Color (R G B)" : "128 128 128" : "Render color for preview of the frustum in hammer."
 	aspectRatio(float)[ group="Frustum" ] : "Aspect Ratio" : "1.0" : "Aspect ratio of the camera for preview of the frustum in hammer. "
 
 	FOV(float) : "Field Of View" : "90" : "This is the horizontal field of view."
@@ -1532,7 +1546,7 @@ metadata
 [
 	ZNear(float)[ group="Frustum" ] : "ZNear" : 4 : "Distance to the near plane for preview of the frustum in hammer."
 	ZFar(float)[ group="Frustum" ] : "ZFar" : 100 : "Distance to the far plane for preview of the frustum in hammer."
-	rendercolor(color255)[ group="Frustum" ] : "Color (R G B)" : "128 128 128" : "Render color for preview of the frustum in hammer."
+ 	rendercolor(color255)[ group="Frustum" ] : "Color (R G B)" : "128 128 128" : "Render color for preview of the frustum in hammer."
 	aspectRatio(float)[ group="Frustum" ] : "Aspect Ratio" : "1.0" : "Aspect ratio of the camera."
 
 	useVerticalFOV(boolean) : "Vertical FOV" : "0" : "Set to true if the camera should use vertical FOV (Default false)"
@@ -1711,7 +1725,6 @@ metadata
 ]
 
 // Server-side ropes cause hitches every time a player joins. Use path_particle_rope_clientside instead.
-@exclude path_particle_rope
 
 @SolidClass base( Targetname, Parentname )
 	metadata
@@ -1752,4 +1765,41 @@ metadata
 
 @PointClass base( Angles) studio("characters/models/shared/spawn/ctm_spawnpoint.vmdl") = point_scale_reference_human : "Scale Reference (Human)"
 [
+]
+
+@PointClass base( GameEntity,Targetname,Parentname,DamageFilter )
+	metadata
+	{
+		class_game_keys =
+		[
+			{ key = "editor only" value = 1 }
+		]
+	}
+	iconsprite("editor/obsolete.vmat") = dummy_player : "Reference (player entity)"
+[
+	targetname(target_source): "Name" : "player" : "The name that other entities refer to this entity by."
+
+	input SetHealth(integer) : "Set health."
+	input Alpha(integer) : "Set alpha."
+	input Color(color255) : "Set color (R G B)."
+	input DisableShadow(void) : "Turn shadow off."
+	input EnableShadow(void) : "Turn shadow on."
+]
+
+@PointClass tags( Info ) base(GameEntity,Targetname,Parentname,DamageFilter )
+	metadata
+	{
+		class_game_keys =
+		[
+			{ key = "editor only" value = 1 }
+		]
+	} iconsprite("editor/obsolete.vmat") = dummy_activator : "Reference (!activator)"
+[
+	targetname(target_source): "Name" : "!activator" : "The name that other entities refer to this entity by."
+
+	input SetHealth(integer) : "Set health."
+	input Alpha(integer) : "Set alpha."
+	input Color(color255) : "Set color (R G B)."
+	input DisableShadow(void) : "Turn shadow off."
+	input EnableShadow(void) : "Turn shadow on."
 ]
