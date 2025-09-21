@@ -1871,6 +1871,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_infected_sewers_v4": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_infiltration_final_p": {
     "admin": false,
     "certainTimes": [-1],
