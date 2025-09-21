@@ -11,7 +11,10 @@
 
 {
   "<< Factory Power is Back, Gate Opening Soon. >>": {
-    "translation": "电力恢复 大门马上开"
+    "translation": "电力恢复 门马上开"
+  },
+  "<< Factory Gate Is Open >>": {
+    "translation": "工厂门开了"
   },
   "<< Emergency Power Activating... >>": {
     "translation": "应急电源启动中"
@@ -19,20 +22,20 @@
   "<< Emergency Power Activated. Doors Opening Soon... >>": {
     "translation": "应急电源已启动 门马上开"
   },
+  "<< Doors Open. >>": {
+    "translation": "门开了"
+  },
   "<< Factory Doors Opening Soon, Keep Holding. >>": {
-    "translation": "工厂大门马上开"
+    "translation": "工厂门马上开"
   },
   "<< Factory Door Is Open. >>": {
-    "translation": "工厂大门已开"
+    "translation": "工厂门已开"
   },
   "<< Right Door Opening, Fall Back. >>": {
     "translation": "右侧门开了"
   },
   "<< Zombie Teleport Soon... >>": {
     "translation": "僵尸马上传送"
-  },
-  "<< Factory is So Dark, Activate Emergency Power. >>": {
-    "translation": "工厂太黑了 去启动应急电源"
   },
   "CELESTIAL BODY: 41 Experimentation": {
     "translation": "天体:41号实验区"
@@ -61,29 +64,26 @@
   "<< Doors Are Locked, Need To Find Keys. >>": {
     "translation": "门锁了 寻找钥匙"
   },
-  "<< Keep Looking Around For Way, And Keep Holding. >>": {
-    "translation": "继续寻找出路"
+  "<< Emergency Power is Not Enough For North Factory Gate. >>": {
+    "translation": "应急电力不足以北厂门"
   },
-  "<< Emergency Power is Not Enough For Gate. >>": {
-    "translation": "应急电源不足以启动大门"
-  },
-  "<< Activate Other Power Units. >>": {
-    "translation": "启动其他供电单元"
+  "<< Activate Other 3 Power Units. >>": {
+    "translation": "激活三组发电"
   },
   "<< We Found Fire Exit!, Keep Holding, It Will Open Soon. >>": {
-    "translation": "已找到紧急出口,门马上开"
+    "translation": "发现出口"
   },
   "<< Fire Exit Is Open! Fall Back! >>": {
-    "translation": "紧急出口已开"
+    "translation": "出口开了"
   },
-  "<< Almost There, Keep Holding A Bit More. >>": {
-    "translation": "即将到达 坚持"
+  "<< Almost There, Door Opening Soon.. >>": {
+    "translation": "门马上开"
   },
   "<< Collect The Scraps. >>": {
     "translation": "收集废料"
   },
-  "<< Ship Is Leaving In 70 Seconds! >>": {
-    "translation": "飞船70秒离开"
+  "<< Ship Is Leaving In 50 Seconds! >>": {
+    "translation": "飞船50秒离开"
   },
   "<< Ship Is Leaving... >>": {
     "translation": "飞船离开了"
@@ -91,14 +91,23 @@
   "<< Zombie Detected Inside Ship. Mission Failed. >>": {
     "translation": "飞船进入僵尸 你们被炒鱿鱼了"
   },
-  "<< Hold A Bit. Opening Door. >>": {
-    "translation": "正在开门"
+  "<< Hold A Bit. Door Opening Soon. >>": {
+    "translation": "门马上开"
+  },
+  "<< Zombie Teleport Soon... >": {
+    "translation": "僵尸马上传送"
   },
   "<< Keys Found, Factory Doors Opening Soon. >>": {
-    "translation": "已找到钥匙 工厂大门马上开"
+    "translation": "已找到钥匙 工厂门马上开"
   },
   "<< Factory Doors Opened. >>": {
-    "translation": "工厂大门已开"
+    "translation": "工厂门已开"
+  },
+  "<< Zombies In Shortcut. >>": {
+    "translation": "捷径有僵尸"
+  },
+  "<< Zombies Are Inside Building, Zombies Opening Shortcuts. >>": {
+    "translation": "僵尸进入建筑 正在开启捷径"
   },
   "<< WARMUP >>": {
     "translation": "热身"
