@@ -2105,6 +2105,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_lethal_company":{
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_licciana_escape_p": {
     "admin": false,
     "certainTimes": [-1],
