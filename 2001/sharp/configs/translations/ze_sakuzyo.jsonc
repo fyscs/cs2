@@ -1,0 +1,248 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** MAP STARTING **": {
+    "translation": "准备好开始你的旅程了嘛"
+  },
+  "** HAVE FUN **": {
+    "translation": "祝好运"
+  },
+  "*** Defend until the crystals spawn the bridges ***": {
+    "translation": "防守直到桥出现"
+  },
+  "*** 5 SECONDS REMAINING ***": {
+    "translation": "还剩5秒"
+  },
+  "*** Teleport will activate in 20 seconds ***": {
+    "translation": "传送装置将在20秒后启动"
+  },
+  "** TELEPORT ENABLED **": {
+    "translation": "传送开启"
+  },
+  "*** Elevator powered up! ***": {
+    "translation": "电梯启动"
+  },
+  "*** Destroy the crystal to powerup the elevator ***": {
+    "translation": "摧毁水晶来启动电梯"
+  },
+  "** Defend until the door opens **": {
+    "translation": "防守直到大门打开"
+  },
+  "*** Boss room will open in 30 seconds ***": {
+    "translation": "BOSS房的门将在30秒后打开"
+  },
+  "*** Door powered up! ***": {
+    "translation": "门正在打开"
+  },
+  "*** Doors will close in 10 seconds ***": {
+    "translation": "大门将在10秒后关闭"
+  },
+  "<< Code 41: Fire Tornado >>": {
+    "translation": "执行 - 火焰龙卷风"
+  },
+  "<< Code 27: Heat Wave >>": {
+    "translation": "执行 - 热浪"
+  },
+  "*** Break the Green Crystal to powerup the Door! ***": {
+    "translation": "摧毁绿色水晶"
+  },
+  "*** Doors closes in 10 seconds ***": {
+    "translation": "大门将在10秒后关闭"
+  },
+  "*** Map by Lv. 100 Crobat ***": {
+    "translation": "地图制作:Lv.100 Crobat 文本:Zeyu1"
+  },
+  "*** YOU ARE TOO SLOW ***": {
+    "translation": "太迟了"
+  },
+  "*** Elevator doors will open in 20 seconds ***": {
+    "translation": "电梯的门将在20秒后打开"
+  },
+  "*** The castle drains will break in 20 seconds ***": {
+    "translation": "城堡的下水道将在20秒内被破坏"
+  },
+  "*** 5 SECOND REMAINING ***": {
+    "translation": "还剩5秒"
+  },
+  "*** Left door powered up! ***": {
+    "translation": "左门打开了"
+  },
+  "*** We need to destroy both crystals...***": {
+    "translation": "我们需要摧毁这两个晶体"
+  },
+  "***...to power up the Boss door. ***": {
+    "translation": "去打开BOSS房的大门"
+  },
+  "*** Boss door powered up! ***": {
+    "translation": "BOSS房门打开了"
+  },
+  "*** Door opens in 10 seconds ***": {
+    "translation": "大门将在10秒后打开"
+  },
+  "*** Elevator leaves in 10 seconds ***": {
+    "translation": "电梯将在10秒后离开"
+  },
+  "*** Platforms will spawn in 30 seconds ***": {
+    "translation": "平台将在30秒内生成"
+  },
+  "*** Right door powered up! ***": {
+    "translation": "右门打开了"
+  },
+  "*** Platforms will break in 15 seconds ***": {
+    "translation": "平台将在15秒内崩溃"
+  },
+  "*** Zombies are free ***": {
+    "translation": "丧尸出笼"
+  },
+  "*** Go through the teleporter and break the Crystal ***": {
+    "translation": "通过传送器, 打破水晶"
+  },
+  "*** You can defend here until the Crystal is broken ***": {
+    "translation": "你可以守在这里, 直到水晶被破坏"
+  },
+  "<< Code 43: Entangle >>": {
+    "translation": "执行 - 缠绕"
+  },
+  "<< Code 34: Neurotoxin >>": {
+    "translation": "执行 - 神经毒素"
+  },
+  "<< Code 51: Thorns >>": {
+    "translation": "执行 - 荆棘"
+  },
+  "*** YOU ARE TOO SLOW! ***": {
+    "translation": "太迟了"
+  },
+  "*** Something is happening... ***": {
+    "translation": "什么事情正在发生"
+  },
+  "*** Crystal destroyed! ***": {
+    "translation": "水晶杯摧毁了"
+  },
+  "*** Door closes in 30 seconds ***": {
+    "translation": "大门将在30秒后关闭"
+  },
+  "*** S?ku??o: Exe?ut? G?it?h 82 ***": {
+    "translation": "正在执行? 减速?"
+  },
+  "<< Glitch Code 82: Slow.exe >>": {
+    "translation": "执行 - 减速",
+    "blocked": true
+  },
+  "<< Zone Code: Hipothermia >>": {
+    "translation": "执行 - 低温"
+  },
+  "<< During this zone, humans are slowed >>": {
+    "translation": "在此区域内,人类将被减速"
+  },
+  "*** Center Hall TP will activate in 40 seconds ***": {
+    "translation": "中心大厅的传送将在40秒后启动"
+  },
+  "** 5 SECONDS REMAINING **": {
+    "translation": "还剩5秒"
+  },
+  "*** Both doors will open in 40 seconds ***": {
+    "translation": "两扇门都将在40秒后打开"
+  },
+  "** Laser barrier will disable in 30 seconds **": {
+    "translation": "激光屏障将在30秒内失效"
+  },
+  "*** We reached the Main Hall ***": {
+    "translation": "我们到达了大厅"
+  },
+  "*** This elevator leads to the Space Ship ***": {
+    "translation": "这电梯可以带领我们前往宇宙飞船"
+  },
+  "*** But it will take time for it to work ***": {
+    "translation": "但我们需要一点时间让它运作起来"
+  },
+  "*** Zombies will rush from any side ***": {
+    "translation": "僵尸会从任何方向过来"
+  },
+  "*** We must defend until the elevator is ready ***": {
+    "translation": "我们必须守住, 直到电梯准备就绪"
+  },
+  "*** Zombies will come from the East Path ***": {
+    "translation": "僵尸被传送至东方"
+  },
+  "*** Zombies will come from the North Path ***": {
+    "translation": "僵尸被传送至北方"
+  },
+  "*** Zombies will come from the West Path ***": {
+    "translation": "僵尸被传送至西方"
+  },
+  "*** Zombies will come from the South Path ***": {
+    "translation": "僵尸被传送至南方"
+  },
+  "<< Code 07: Frostbite >>": {
+    "translation": "执行 - 冻伤"
+  },
+  "<< Code 32: Winds of Haste >>": {
+    "translation": "执行 - 疾风"
+  },
+  "*** Ice element is charging an attack! ***": {
+    "translation": "冰元素代码执行成功"
+  },
+  "*** Ice element program appeared! ***": {
+    "translation": "执行冰元素代码"
+  },
+  "*** Ice element is inmune to bullets! ***": {
+    "translation": "冰元素免疫子弹攻击"
+  },
+  "*** Ice element is casting a final attack! ***": {
+    "translation": "冰元素正在进行最后的攻击"
+  },
+  "*** Elevator is leaving in 30 seconds ***": {
+    "translation": "电梯将在30秒后离开"
+  },
+  "<< Code 76: Frost Nova >>": {
+    "translation": "执行 - 冰霜新星"
+  },
+  "*** SHOOT THE ICE PROGRAM ***": {
+    "translation": "向ICE射击!"
+  },
+  "*** IT'S WEAK WHILE CASTING! ***": {
+    "translation": "它在释放技能时会变得虚弱"
+  },
+  "<< Code 0: Absolute Zero >>": {
+    "translation": "执行 -绝对零度"
+  },
+  "*** Zombie teleport in 10 seconds ***": {
+    "translation": "僵尸将于10秒后传送"
+  },
+  "*** Destroy the Orange Crystal on the Right side...": {
+    "translation": "摧毁右边的橙色水晶"
+  },
+  "*** to open the door on the Left side. ***": {
+    "translation": "去打开左边的门"
+  },
+  "*** Destroy the Green Crystal on top ***": {
+    "translation": "摧毁顶部的绿色水晶"
+  },
+  "*** Final level comming soon ***": {
+    "translation": "最终关正在载入"
+  },
+  "** Restart Round **": {
+    "translation": "重启回合"
+  },
+  "** Inane **": {
+    "translation": "执行-空洞"
+  },
+  "** Selentia **": {
+    "translation": "执行-Selentia"
+  },
+  "** Angelfalse **": {
+    "translation": "执行-伪天使"
+  },
+  "*** The attack has been interrupted! ***": {
+    "translation": "攻击被打断了"
+  }
+}
