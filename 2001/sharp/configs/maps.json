@@ -2942,6 +2942,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_outerwilds": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_outlast": {
     "admin": false,
     "certainTimes": [-1],
