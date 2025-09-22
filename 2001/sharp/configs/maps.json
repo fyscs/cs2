@@ -2951,6 +2951,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 45
   },
+  "ze_omochi_cs2": {
+    "admin": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
   "ze_onahole_p": {
     "admin": true,
     "certainTimes": [-1],
