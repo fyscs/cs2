@@ -10,64 +10,64 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "Zombie tp at 30 seconds": {
+  "**Zombie tp at 30 seconds**": {
     "translation": "僵尸30秒后传送"
   },
-  "Defend 30 seconds": {
+  "**Defend 30 seconds**": {
     "translation": "防守30秒"
   },
-  "Map by R1cko27": {
+  "**Map by R1cko27**": {
     "translation": "地图作者:R1cko27 文本:Zeyu1"
   },
-  "Lasers in 5 seconds": {
+  "**Lasers in 5 seconds**": {
     "translation": "激光5秒后启动"
   },
-  "Zombie tp at 20 seconds": {
+  "**Zombie tp at 20 seconds**": {
     "translation": "僵尸20秒后传送"
   },
-  "Shoot The Boss": {
+  "**Shoot The Boss!!!**": {
     "translation": "射击BOSS"
   },
-  "Hold 20 seconds": {
+  "**Hold 20 seconds**": {
     "translation": "坚守20秒"
   },
-  "Defend bridge 35 seconds": {
+  "**Defend bridge 35 seconds**": {
     "translation": "防守桥梁35秒"
   },
-  "Defend the doors": {
-    "translation": "防守门"
+  "**Defend the doors**": {
+    "translation": "防守门口"
   },
-  "All zm tp at 30 seconds": {
+  "**All zm tp at 30 seconds**": {
     "translation": "全体僵尸30秒后传送"
   },
-  "Hold 45 seconds": {
+  "**Hold 45 seconds**": {
     "translation": "坚守45秒"
   },
-  "Hold 30 seconds": {
+  "**Hold 30 seconds**": {
     "translation": "坚守30秒"
   },
-  "Zombie Attack": {
-    "translation": "僵尸进攻"
+  "**Zombie Attack!**": {
+    "translation": "僵尸进攻!"
   },
-  "Push": {
+  "**Push!**": {
     "translation": "推力"
   },
-  "Gravity": {
+  "**Gravity!**": {
     "translation": "吸力"
   },
-  "Mini Robot Attack": {
-    "translation": "小型机器人突击"
+  "**Mini Robot Attack!**": {
+    "translation": "小型机器人冲击"
   },
-  "Boss Attack": {
+  "**Boss Attack!**": {
     "translation": "BOSS正在发起攻击"
   },
-  "Go down": {
+  "**Go down**": {
     "translation": "向下移动"
   },
-  "Defend 35 seconds": {
+  "**Defend 35 seconds**": {
     "translation": "防守35秒"
   },
-  "Zombie tp at 15 seconds": {
+  "**Zombie tp at 15 seconds**": {
     "translation": "僵尸15秒后传送"
   }
 }
