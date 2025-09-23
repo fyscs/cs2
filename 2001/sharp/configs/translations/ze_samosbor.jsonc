@@ -136,5 +136,8 @@
   },
   ">> Zombie Cage will open in 28 seconds <<": {
     "translation": "尸笼将在28秒后打开"
+  },
+  ">> Elevator will leave in 10 seconds <<": {
+    "translation": "电梯将在10秒后出发"
   }
 }
