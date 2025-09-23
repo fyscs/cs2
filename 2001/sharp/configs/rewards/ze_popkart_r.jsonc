@@ -20,7 +20,7 @@
     "econDamage": 24000,
     "econIntern": 0.24
   },
- "2": {
+  "2": {
     "rankPasses": 12,
     "rankDamage": 20000,
     "rankIntern": 0.4,
@@ -28,7 +28,7 @@
     "econDamage": 24000,
     "econIntern": 0.24
   },
- "3": {
+  "3": {
     "rankPasses": 8,
     "rankDamage": 20000,
     "rankIntern": 0.4,
@@ -36,7 +36,7 @@
     "econDamage": 22000,
     "econIntern": 0.22
   },
- "4": {
+  "4": {
     "rankPasses": 10,
     "rankDamage": 20000,
     "rankIntern": 0.4,
