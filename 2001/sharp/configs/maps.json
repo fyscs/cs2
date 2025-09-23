@@ -2106,7 +2106,7 @@
     "requiredPlayers": 30
   },
   "ze_lethal_company":{
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 80,
     "nomination": true,
