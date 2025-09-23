@@ -21,6 +21,7 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
+  "Proxy": true,
   "Monsters": [
     {
       "identity": "9297",
