@@ -20,7 +20,8 @@
     "translation": "电梯门将在10秒后关闭"
   },
   ">> Fuel Tank has been filled <<": {
-    "translation": "油箱已加满"
+    "translation": "油箱已加满",
+    "clearTimer": true
   },
   ">> Elevator has been found <<": {
     "translation": "楼梯已找到"
@@ -132,5 +133,8 @@
   },
   ">> SAMOSBOR DETECTED!! Leave this place immediately! <<": {
     "translation": "SAMOSBOR已被检测到!!马上离开这里!!"
+  },
+  ">> Zombie Cage will open in 28 seconds <<": {
+    "translation": "尸笼将在28秒后打开"
   }
 }
