@@ -2888,6 +2888,15 @@
     "requiredOnline": 900,
     "requiredPlayers": 50
   },
+  "ze_objective_ouroboros_apollyon": {
+    "admin": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 200,
+    "nomination": true,
+    "price": 1500,
+    "requiredOnline": 900,
+    "requiredPlayers": 50
+  },
   "ze_obscura_tower": {
     "admin": true,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
