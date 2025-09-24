@@ -3257,6 +3257,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_popkart_r": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 500,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
   "ze_por_island_p": {
     "admin": false,
     "certainTimes": [-1],
