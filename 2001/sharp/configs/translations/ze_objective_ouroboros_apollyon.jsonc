@@ -12,7 +12,7 @@
 {
   "<铁丝网将在15秒后破碎>": {
     "translation": "铁丝网将在15秒后破碎",
-    "countdown": 5
+    "countdown": 15
   },
   "真结局条件1 已达成": {
     "translation": "真结局条件1达成"
