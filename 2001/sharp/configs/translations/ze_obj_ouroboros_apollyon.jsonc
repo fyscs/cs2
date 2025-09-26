@@ -1,0 +1,83 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<铁丝网将在15秒后破碎>": {
+    "translation": "铁丝网将在15秒后破碎"
+    "countdown": 15
+  },
+  "真结局条件1 已达成": {
+    "translation": "真结局条件1达成"
+  },
+  "真结局条件2 已达成": {
+    "translation": "真结局条件2达成"
+  },
+  "<真结局条件4 达成>": {
+    "translation": "真结局条件4达成"
+  },
+  "<Ending:COSMIC DAWN>": {
+    "translation": "Ending:COSMIC DAWN"
+  },
+  "<真结局条件达成>": {
+    "translation": "真结局条件达成"
+  },
+  "〈那是什么！〉": {
+    "translation": "那是什么!"
+  },
+  "〈不好，我们被锁定了，快离开那里，快！…〉": {
+    "translation": "不好,我们被锁定了,快离开那里,快"
+  },
+  "〈呼，看来暂时是安全了…〉": {
+    "translation": "呼,看来暂时是安全了"
+  },
+  "〈剩余人数小于38人〉": {
+    "translation": "剩余人数小于38人"
+  },
+  "〈Ending:Thanatos〉": {
+    "translation": "Ending:Thanatos"
+  },
+  "1": {
+    "translation": "1"
+  },
+  "解锁": {
+    "translation": "解锁"
+  },
+  "<所有僵尸速度增加为 1.2倍>": {
+    "translation": "所有僵尸速度增加为 1.2倍"
+  },
+  "<战斗机增援已就位>": {
+    "translation": "战斗机增援已就位"
+  },
+  "<人类的治疗神器cd已调整至 20S>": {
+    "translation": "人类的治疗神器cd已调整至20S"
+  },
+  "<僵尸速度已调整为 1.4倍速>": {
+    "translation": "僵尸速度已调整为1.4倍速"
+  },
+  "僵尸从后面进攻了，速速防守！": {
+    "translation": "僵尸从后面进攻了,速速防守"
+  },
+  "<真结局条件3 达成>": {
+    "translation": "真结局条件3达成"
+  },
+  "success": {
+    "translation": "success"
+  },
+  "**Ammo and heal on": {
+    "translation": "弹药奶神器已解锁"
+  },
+  "**Ammo and heal off": {
+    "translation": "弹药奶神器已封锁"
+  },
+  "succ": {
+    "translation": "succ"
+  }
+}
