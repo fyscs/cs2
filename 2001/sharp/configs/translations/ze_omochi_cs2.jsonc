@@ -1,0 +1,52 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "[ 15 ]": {
+    "translation": "15秒"
+  },
+  "[ 20 ]": {
+    "translation": "20秒"
+  },
+  "[ 10 ]": {
+    "translation": "10秒"
+  },
+  "[ 25 ]": {
+    "translation": "25秒"
+  },
+  "[ stage 1 ]": {
+    "translation": "第一关"
+  },
+  "[ stage 2 ]": {
+    "translation": "第二关"
+  },
+  "[ 35 ]": {
+    "translation": "35秒"
+  },
+  "[ Failed ]": {
+    "translation": "失败"
+  },
+  "[ stage 3 ]": {
+    "translation": "第三关"
+  },
+  "cube 1": {
+    "translation": "方块1"
+  },
+  "cube 2": {
+    "translation": "方块2"
+  },
+  "cube 3": {
+    "translation": "方块3"
+  },
+  "ball spawned": {
+    "translation": "球出现了"
+  }
+}

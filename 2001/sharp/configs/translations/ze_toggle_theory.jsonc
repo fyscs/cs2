@@ -162,5 +162,35 @@
   },
   "** ADMINROOM - RESTARTING ROUND **": {
     "translation": "正在重启回合"
+  },
+  "** CHALLENGE MODE **": {
+    "translation": "极限模式"
+  },
+  "** Good luck! **": {
+    "translation": "祝你好运"
+  },
+  "** Complete all stages in one go **": {
+    "translation": "一次性完成所有阶段"
+  },
+  "** So far so good **": {
+    "translation": "目前为止一切顺利"
+  },
+  "** Lets continue! **": {
+    "translation": "我们继续吧"
+  },
+  "** ADMINROOM - CHALLENGE MODE SET **": {
+    "translation": "管理员房间-极限模式已设置"
+  },
+  "** CHALLENGE MODE COMPLETE **": {
+    "translation": "极限模式完成"
+  },
+  "** NO ONE ON ELEVATOR **": {
+    "translation": "电梯内无人...."
+  },
+  "** No toggling detected **": {
+    "translation": "未检测到切换操作"
+  },
+  "** Enabling automatic toggle system **": {
+    "translation": "启用-自动切换系统"
   }
 }
