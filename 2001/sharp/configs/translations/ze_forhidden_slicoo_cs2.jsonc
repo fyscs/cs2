@@ -14,7 +14,8 @@
     "translation": "**精灵法师被击败!**"
   },
   "**传送25秒后将被打开**": {
-    "translation": "**传送25秒后将被打开**"
+    "translation": "**传送25秒后将被打开**",
+    "countdown": 25
   },
   "*** 禁地斯狄科 ***": {
     "translation": "*** 禁地斯狄科 ***"
@@ -95,7 +96,8 @@
     "translation": "**僵尸神器:雷沃尔熊人**"
   },
   "**剩余20秒**": {
-    "translation": "**剩余20秒**"
+    "translation": "**剩余20秒**",
+    "countdown": 20
   },
   "**水晶已经碎了**": {
     "translation": "**水晶已经碎了**"
@@ -125,7 +127,8 @@
     "translation": "**橙色和红色**"
   },
   "**剩余15秒**": {
-    "translation": "**剩余15秒**"
+    "translation": "**剩余15秒**",
+    "countdown": 15
   },
   "** 你们犯下了弥天之罪,回来迎接你们的审判吧! **": {
     "translation": "** 你们犯下了弥天之罪,回来迎接你们的审判吧! **"
@@ -134,34 +137,44 @@
     "translation": "** 阿拉斯正在注视着你! **"
   },
   "**传送20秒后打开**": {
-    "translation": "**传送20秒后打开**"
+    "translation": "**传送20秒后打开**",
+    "countdown": 20
   },
   "**35秒后门打开**": {
-    "translation": "**35秒后门打开**"
+    "translation": "**35秒后门打开**",
+    "countdown": 35
   },
   "**5秒后门打开**": {
-    "translation": "**5秒后门打开**"
+    "translation": "**5秒后门打开**",
+    "blocked": true
   },
   "**25秒后门打开**": {
-    "translation": "**25秒后门打开**"
+    "translation": "**25秒后门打开**",
+    "countdown": 25
   },
   "**40秒后门打开**": {
-    "translation": "**40秒后门打开**"
+    "translation": "**40秒后门打开**",
+    "countdown": 40
   },
   "**20秒后门打开**": {
-    "translation": "**20秒后门打开**"
+    "translation": "**20秒后门打开**",
+    "blocked": true
   },
   "**50秒后门打开**": {
-    "translation": "**50秒后门打开**"
+    "translation": "**50秒后门打开**",
+    "countdown": 50
   },
   "**也许还需要防守最多10秒**": {
-    "translation": "**也许还需要防守最多10秒**"
+    "translation": "**也许还需要防守最多10秒**",
+    "countdown": 10
   },
   "**15秒后门打开**": {
-    "translation": "**15秒后门打开**"
+    "translation": "**15秒后门打开**",
+    "countdown": 15
   },
   "**门将在20秒后打开**": {
-    "translation": "**门将在20秒后打开**"
+    "translation": "**门将在20秒后打开**",
+    "countdown": 20
   },
   "**发生了意料之外的事情，水开始上涨了！**": {
     "translation": "**发生了意料之外的事情,水开始上涨了!**"
@@ -170,79 +183,99 @@
     "translation": "** 凡人!止步于此! **"
   },
   "**45秒后进入埃洛斯宫殿**": {
-    "translation": "**45秒后进入埃洛斯宫殿**"
+    "translation": "**45秒后进入埃洛斯宫殿**",
+    "countdown": 45
   },
   "**5秒后捷径路开放**": {
-    "translation": "**5秒后捷径路开放**"
+    "translation": "**5秒后捷径路开放**",
+    "countdown": 5
   },
   "**5秒后进入埃洛斯宫殿**": {
-    "translation": "**5秒后进入埃洛斯宫殿**"
+    "translation": "**5秒后进入埃洛斯宫殿**",
+    "countdown": 5
   },
   "**尸体中隐藏的秘密（x4）**": {
     "translation": "**尸体中隐藏的秘密(x4)**"
   },
   "**40秒后炸毁岩石**": {
-    "translation": "**40秒后炸毁岩石**"
+    "translation": "**40秒后炸毁岩石**",
+    "countdown": 40
   },
   "**5秒后炸毁岩石**": {
-    "translation": "**5秒后炸毁岩石**"
+    "translation": "**5秒后炸毁岩石**",
+    "blocked": true
   },
   "**炸弹将在20秒后爆炸**": {
-    "translation": "**炸弹将在20秒后爆炸**"
+    "translation": "**炸弹将在20秒后爆炸**",
+    "countdown": 20
   },
   "**大门将在40秒后打开**": {
-    "translation": "**大门将在40秒后打开**"
+    "translation": "**大门将在40秒后打开**",
+    "countdown": 40
   },
   "**大门将在10秒后打开**": {
-    "translation": "**大门将在10秒后打开**"
+    "translation": "**大门将在10秒后打开**",
+    "blocked": true
   },
   "**左侧拉杆已拉动**": {
     "translation": "**左侧拉杆已拉动**"
   },
   "**5秒后左侧门开放**": {
-    "translation": "**5秒后左侧门开放**"
+    "translation": "**5秒后左侧门开放**",
+    "countdown": 5
   },
   "**尸体中隐藏的秘密（x2）**": {
     "translation": "**尸体中隐藏的秘密(x2)**"
   },
   "**5秒后右侧门开放**": {
-    "translation": "**5秒后右侧门开放**"
+    "translation": "**5秒后右侧门开放**",
+    "countdown": 5
   },
   "**右侧拉杆已拉动**": {
     "translation": "**右侧拉杆已拉动**"
   },
   "**大门将在50秒后被摧毁**": {
-    "translation": "**大门将在50秒后被摧毁**"
+    "translation": "**大门将在50秒后被摧毁**",
+    "countdown": 50
   },
   "**大门将在10秒后被摧毁**": {
-    "translation": "**大门将在10秒后被摧毁**"
+    "translation": "**大门将在10秒后被摧毁**",
+    "blocked": true
   },
   "** 10秒后僵尸传送 **": {
-    "translation": "** 10秒后僵尸传送 **"
+    "translation": "** 10秒后僵尸传送 **",
+    "countdown": 10
   },
   "大门将在30秒后被摧毁**": {
-    "translation": "大门将在30秒后被摧毁**"
+    "translation": "大门将在30秒后被摧毁**",
+    "countdown": 30
   },
   "大门将在5秒后被摧毁**": {
-    "translation": "大门将在5秒后被摧毁**"
+    "translation": "大门将在5秒后被摧毁**",
+    "blocked": true
   },
   "**尸体中隐藏的秘密（x3）**": {
     "translation": "**尸体中隐藏的秘密(x3)**"
   },
   "**传送将在20秒后打开**": {
-    "translation": "**传送将在20秒后打开**"
+    "translation": "**传送将在20秒后打开**",
+    "countdown": 20
   },
   "**传送将在5秒后打开**": {
-    "translation": "**传送将在5秒后打开**"
+    "translation": "**传送将在5秒后打开**",
+    "blocked": true
   },
   "**大门将在30秒后打开**": {
-    "translation": "**大门将在30秒后打开**"
+    "translation": "**大门将在30秒后打开**",
+    "countdown": 30
   },
   "**大门将在5秒后打开**": {
-    "translation": "**大门将在5秒后打开**"
+    "translation": "**大门将在5秒后打开**",
+    "blocked": true
   },
   "**斯狄科雪域大门将在60秒后打开**": {
-    "translation": "**斯狄科雪域大门将在60秒后打开**"
+    "translation": "**斯狄科雪域大门将在60秒后打开**",
+    "countdown": 60
   },
   "**攻击岩石的脆弱部分!**": {
     "translation": "**攻击岩石的脆弱部分!**"
@@ -251,13 +284,17 @@
     "translation": "**斯狄科雪域大门将在10秒后打开**"
   },
   "**20秒后打开石门**": {
-    "translation": "**20秒后打开石门**"
+    "translation": "**20秒后打开石门**",
+    "countdown": 20,
+    "clearTimer": true
   },
   "**20秒后迎接最终决战**": {
-    "translation": "**20秒后迎接最终决战**"
+    "translation": "**20秒后迎接最终决战**",
+    "countdown": 20
   },
   "**僵尸10秒后到来**": {
-    "translation": "**僵尸10秒后到来**"
+    "translation": "**僵尸10秒后到来**",
+    "countdown": 10
   },
   "**幻影龙车**": {
     "translation": "**幻影龙车**"
@@ -284,7 +321,8 @@
     "translation": "**寒流**"
   },
   "**等待5秒封锁解除**": {
-    "translation": "**等待5秒封锁解除**"
+    "translation": "**等待5秒封锁解除**",
+    "countdown": 5
   },
   "**封锁已解除，我们继续前进!**": {
     "translation": "**封锁已解除,我们继续前进!**"
@@ -323,7 +361,8 @@
     "translation": "** 人类!别碰我! **"
   },
   "** 20秒后升起石柱 **": {
-    "translation": "** 20秒后升起石柱 **"
+    "translation": "** 20秒后升起石柱 **",
+    "countdown": 20
   },
   "*** 瞭望塔的玻璃以及悬崖的石头7秒后碎开 ***": {
     "translation": "*** 瞭望塔的玻璃以及悬崖的石头7秒后碎开 ***"
@@ -332,7 +371,8 @@
     "translation": "起暴雪了!我们要多加小心!"
   },
   "正在净化祭坛[20]": {
-    "translation": "正在净化祭坛[20秒]"
+    "translation": "正在净化祭坛[20秒]",
+    "countdown": 20
   },
   "getin!": {
     "translation": "getin!"
@@ -356,13 +396,15 @@
     "translation": "我们来到了什么地方?"
   },
   "我们再坚持一会,屏障将于10秒后形成!": {
-    "translation": "我们再坚持一会,屏障将于10秒后形成!"
+    "translation": "屏障将于10秒后形成",
+    "countdown": 10
   },
   "这里看上去一片死寂,所有的道具都失效了!": {
     "translation": "这里看上去一片死寂,所有的道具都失效了!"
   },
   "亡城的屏障将在55秒后升起": {
-    "translation": "亡城的屏障将在55秒后升起"
+    "translation": "屏障将在55秒后升起",
+    "countdown": 55
   },
   "在天罚面前,跪下!": {
     "translation": "在天罚面前,跪下!"
@@ -374,7 +416,8 @@
     "translation": "我不擅长捉弄人,但这次,祝你好运!"
   },
   "僵尸传送点10秒后移动!": {
-    "translation": "僵尸传送点10秒后移动!"
+    "translation": "僵尸传送点10秒后移动",
+    "countdown": 10
   },
   "魔王会迎难而上，我亦是如此!": {
     "translation": "魔王会迎难而上,我亦是如此!"
