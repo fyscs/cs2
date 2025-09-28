@@ -452,7 +452,8 @@
     "translation": "**灼眼尊者玩任天堂**"
   },
   "***SOCRATES IS NEAR***": {
-    "translation": "**灼眼尊者接近了**"
+    "translation": "35秒",
+    "countdown": 35
   },
   "***SOCRATES WELCOMES YOU***": {
     "translation": "**灼眼尊者欢迎你**"
@@ -482,7 +483,8 @@
     "translation": "**灼眼尊者将会毁灭**"
   },
   "***SOCRATES CARES FOR NO MAN***": {
-    "translation": "**灼眼尊者不关心人**"
+    "translation": "50秒",
+    "countdown": 50
   },
   "***SOCRATES IS***": {
     "translation": "**灼眼尊者..是**"
@@ -680,7 +682,8 @@
     "translation": "**外门开了**"
   },
   "***SOCRATES IS ALL***": {
-    "translation": "**灼眼尊者就是所有**"
+    "translation": "70秒",
+    "countdown": 70
   },
   "***SOCRATES IS NOTHING***": {
     "translation": "**灼眼尊者什么都不是**"
