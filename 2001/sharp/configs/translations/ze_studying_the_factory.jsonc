@@ -1,0 +1,100 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "zteleport 5s": {
+    "translation": "僵尸还有5秒传送"
+  },
+  "move elevator 10s": {
+    "translation": "电梯还有10秒"
+  },
+  "move elevator 5s": {
+    "translation": "电梯还有5秒"
+  },
+  "next root open  10s": {
+    "translation": "下条路开启还有10秒"
+  },
+  "next root open  20s": {
+    "translation": "下条路线开启还有20秒"
+  },
+  "next root open 5s": {
+    "translation": "下条路线开启还有5秒"
+  },
+  "zombie sc open 10s": {
+    "translation": "僵尸捷径10秒后打开"
+  },
+  "zombie sc open 5s": {
+    "translation": "僵尸捷径5秒后打开"
+  },
+  "next door open 20s": {
+    "translation": "大门20秒后打开"
+  },
+  "next door open 10s": {
+    "translation": "门10秒后打开"
+  },
+  "next door open 5s": {
+    "translation": "门5秒后打开"
+  },
+  "ztelaport 5s": {
+    "translation": "僵尸传送5秒"
+  },
+  "move  elevator 15s": {
+    "translation": "电梯移动15秒"
+  },
+  "next door open 30s": {
+    "translation": "门开启30秒"
+  },
+  "next door open 60s": {
+    "translation": "门开启60秒"
+  },
+  "zteleport 10s": {
+    "translation": "僵尸传送10秒"
+  },
+  "human teleport 10s": {
+    "translation": "人类传送10秒"
+  },
+  "human teleport 5s": {
+    "translation": "人类传送5秒"
+  },
+  "human teleport 15s": {
+    "translation": "人类传送15秒"
+  },
+  "zteleport 15s": {
+    "translation": "僵尸传送15秒"
+  },
+  "front and back zteleport 5s": {
+    "translation": "前后僵尸传送5秒"
+  },
+  "front caution": {
+    "translation": "前方警戒"
+  },
+  "last door open 10s": {
+    "translation": "最后一道门开启10秒"
+  },
+  "last door open 5s": {
+    "translation": "最后一道门开启5秒"
+  },
+  "last defense 10s": {
+    "translation": "最终防御10秒"
+  },
+  "last defense 5s": {
+    "translation": "最终防御5秒"
+  },
+  "fence brake 10s": {
+    "translation": "栅栏破损10秒"
+  },
+  "AFK teleport 5s": {
+    "translation": "挂机传送5秒"
+  },
+  "*emergency stop*": {
+    "translation": "紧急停止"
+  }
+}
