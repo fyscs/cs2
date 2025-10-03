@@ -1,0 +1,377 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Map Created By : Platin": {
+    "translation": "地图作者 Platin 文本:Zeyu1"
+  },
+  "Test Servers : Mapeadores | GFL": {
+    "translation": "测试服务器 Mapeadores GFL"
+  },
+  "*** EVACUATION PROTOCOL HAS BEEN INITIATED !!! ***": {
+    "translation": "撤离协议已启动"
+  },
+  "*** SECURITY DOORS WILL OPEN IN 25 SECONDS ! ***": {
+    "translation": "安全门将在25秒后开启"
+  },
+  "OPENING THE DOOR": {
+    "translation": "正在开门"
+  },
+  "Control Panel: Security door opens! 5 sec": {
+    "translation": "控制面板 安全门开启 5秒"
+  },
+  "Press the security button and go to the exit": {
+    "translation": "按下安全按钮并前往出口"
+  },
+  "The security door will open in 30 seconds": {
+    "translation": "安全门将在30秒后开启"
+  },
+  "Zombie teleport 10 seconds": {
+    "translation": "僵尸传送10秒"
+  },
+  "Control Panel: Security door opens! 25 sec": {
+    "translation": "控制面板 安全门开启 25秒"
+  },
+  "Defend all 3 rooms": {
+    "translation": "防守所有3个房间"
+  },
+  "The EXIT 1-2  doors will open in 30 seconds": {
+    "translation": "出口1-2门将在30秒后开启"
+  },
+  "The EXIT 3  door will open in 15 seconds": {
+    "translation": "出口3门将在15秒后开启"
+  },
+  "The EXIT 3  door will opening GO!": {
+    "translation": "出口3门即将开启 快走"
+  },
+  "The EXIT 1-2  door will opening GO!": {
+    "translation": "出口1-2门即将开启 快走"
+  },
+  "10 SECONDS LATER THE DOOR CLOSES, RUN": {
+    "translation": "10秒后门将关闭 快跑"
+  },
+  "BOMBS ARE DETONATED !!!": {
+    "translation": "炸弹已引爆"
+  },
+  "PRESS THE BUTTON TO OPEN THE SECURITY DOOR": {
+    "translation": "按下按钮以打开安全门"
+  },
+  "### LEVEL 1/3 ###": {
+    "translation": "第1关"
+  },
+  "### LEVEL 2/3 ###": {
+    "translation": "第2关"
+  },
+  "### LEVEL 3/3 ###": {
+    "translation": "第3关"
+  },
+  "*** The door will open in 30 seconds ***": {
+    "translation": "门将在30秒后开启"
+  },
+  "*** ZOMBIE TELEPORT 10 SECONDS ***": {
+    "translation": "僵尸传送10秒"
+  },
+  "*** THE DOOR OPENING ***": {
+    "translation": "门正在开启"
+  },
+  "*** 30 seconds left for the wall to break ***": {
+    "translation": "墙壁将在30秒后破裂"
+  },
+  "*** WALL IS BREAK, LETS GOO ***": {
+    "translation": "墙壁已破 快走"
+  },
+  "ZOMBIE SHORT WAY OPEN 5 SEC !": {
+    "translation": "僵尸捷径开启5秒"
+  },
+  "*** defend to 30 seconds ***": {
+    "translation": "防守30秒"
+  },
+  "*** barrier opened go go ***": {
+    "translation": "障碍已开启 快走"
+  },
+  "*** ZOMBIE TELEPORT 10 SECONDS, GO BACK ***": {
+    "translation": "僵尸传送10秒 后退"
+  },
+  "*** DONT DEFENDS, RUN RUN ***": {
+    "translation": "不要防守 快跑"
+  },
+  "*** PRESS THE DOOR OPEN BUTTON ***": {
+    "translation": "按下开门按钮"
+  },
+  "*** ZOMBIE TELEPORT 5 SECONDS, GO BACK ***": {
+    "translation": "僵尸传送5秒 后退"
+  },
+  "*** RUN RUN ***": {
+    "translation": "快跑"
+  },
+  "*** defend door to 40 seconds ***": {
+    "translation": "防守门40秒"
+  },
+  "*** THE LASER DOOR OPENING ***": {
+    "translation": "激光门正在开启"
+  },
+  "*** THE DOOR CLOSING ***": {
+    "translation": "门正在关闭"
+  },
+  "*** DEFEND ***": {
+    "translation": "防守"
+  },
+  "*** Zombie detected in the test area. Mission failed. ***": {
+    "translation": "检测到僵尸在测试区域 任务失败"
+  },
+  "*** LASER ACTIVATED ***": {
+    "translation": "激光已激活"
+  },
+  "*** LASER RETURN ***": {
+    "translation": "激光返回"
+  },
+  "*** DOOR OPENING ***": {
+    "translation": "门正在开启"
+  },
+  "*** PRESS TO BUTTON ***": {
+    "translation": "按下按钮"
+  },
+  "*** defend door to 20 seconds ***": {
+    "translation": "防守门20秒"
+  },
+  "*** door opening go go ***": {
+    "translation": "门正在开启 快走"
+  },
+  "*** The elevator will move in 25 seconds ***": {
+    "translation": "电梯将在25秒后移动"
+  },
+  "*** The Elevator moving, GO BACK ***": {
+    "translation": "电梯正在移动 后退"
+  },
+  "*** LAST 5 SEC ! GO BACK ***": {
+    "translation": "最后5秒 后退"
+  },
+  "Zombie Tp 10 SEC!": {
+    "translation": "僵尸传送10秒"
+  },
+  "*** FINAL DOOR CLOSES IN TO 20 SECONDS ***": {
+    "translation": "最终门将在20秒后关闭"
+  },
+  "*** LAST 5 SEC ***": {
+    "translation": "最后5秒"
+  },
+  "ZOMBIE DETECTED ! FAIL !!!": {
+    "translation": "检测到僵尸 失败"
+  },
+  "HUMAN WIN !!!": {
+    "translation": "人类胜利"
+  },
+  "ZOMBIE DETECTED ! FAIL !!!!": {
+    "translation": "检测到僵尸 失败"
+  },
+  "---- ADMIN ROOM ----": {
+    "translation": "ADMIN ROOM"
+  },
+  "----SET LEVEL 1 ----": {
+    "translation": "设置第1关"
+  },
+  "----SET LEVEL 2 ----": {
+    "translation": "设置第2关"
+  },
+  "----SET LEVEL 3 ----": {
+    "translation": "设置第3关"
+  },
+  "The ventilation fan is damaged. It opens at regular intervals.": {
+    "translation": "通风扇已损坏 它会定期开启"
+  },
+  "Use objects as cover to advance.": {
+    "translation": "使用物体作为掩护前进"
+  },
+  "The electrical unit is overloaded.": {
+    "translation": "电力单元过载"
+  },
+  "The system is restarting.": {
+    "translation": "系统正在重启"
+  },
+  "The ventilation barrier will open in 30 seconds.": {
+    "translation": "通风屏障将在30秒后开启"
+  },
+  "Last 5 sec! READY!!": {
+    "translation": "最后5秒 准备"
+  },
+  "Open GO! Dont behind.": {
+    "translation": "快走 不要落后"
+  },
+  "Last 10 sec!": {
+    "translation": "最后10秒"
+  },
+  "ZM TP 10 SEC !": {
+    "translation": "僵尸传送10秒"
+  },
+  "AFK TP 10 SEC !": {
+    "translation": "挂机传送10秒"
+  },
+  "* T-VIRUS pickup *": {
+    "translation": "拾取T病毒"
+  },
+  "Zombie TP 5 sec !": {
+    "translation": "僵尸传送5秒"
+  },
+  "The door will open in 30 seconds.": {
+    "translation": "门将在30秒后开启"
+  },
+  "Last 10 sec !": {
+    "translation": "最后10秒"
+  },
+  "Door Open ! GO BACK !": {
+    "translation": "门已开启 后退"
+  },
+  "Last 10 sec! ready !": {
+    "translation": "最后10秒 准备"
+  },
+  "The elevator will close in 10 seconds.": {
+    "translation": "电梯将在10秒后关闭"
+  },
+  "Zombie TP 10 SEC !": {
+    "translation": "僵尸传送10秒"
+  },
+  "** BOSS COMINGG **": {
+    "translation": "BOSS来袭"
+  },
+  "BOSS OVER !!": {
+    "translation": "BOSS结束"
+  },
+  "ZM TP 5 SEC!": {
+    "translation": "僵尸传送5秒"
+  },
+  "Shoot at the window!": {
+    "translation": "向窗户射击"
+  },
+  "The boss door will open in 30 seconds.": {
+    "translation": "BOSS门将在30秒后开启"
+  },
+  "Last 10 sec ! go back !": {
+    "translation": "最后10秒 后退"
+  },
+  "Door Open ! GO": {
+    "translation": "门已开启 快走"
+  },
+  "Door Closes 5 sec !": {
+    "translation": "门关闭5秒"
+  },
+  "Laser Activated !": {
+    "translation": "激光已激活"
+  },
+  "OH noo I went blind !!": {
+    "translation": "哦不 我瞎了"
+  },
+  "Where is the boss ?": {
+    "translation": "BOSS在哪"
+  },
+  "The T-VIRUS is spreading and will destroy all zombies!": {
+    "translation": "T病毒正在扩散 将消灭所有僵尸"
+  },
+  "* MINE GUN - 8 slot / 10 sec cooldown *": {
+    "translation": "地雷 8格 10秒冷却",
+    "blocked": true
+  },
+  "* HEAL GUN - 60 sec cooldown *": {
+    "translation": "治疗 60秒冷却",
+    "blocked": true
+  },
+  "* SLOW GUN - 10 slot / 15 sec cooldown *": {
+    "translation": "减速 10格 15秒冷却",
+    "blocked": true
+  },
+  "* WALL GUN - 70 sec cooldown *": {
+    "translation": "墙 70秒冷却",
+    "blocked": true
+  },
+  "The door will open in 30 seconds!": {
+    "translation": "门将在30秒后开启"
+  },
+  "Door Open! GO !": {
+    "translation": "门已开启 快走"
+  },
+  "The door will open in 25 seconds!": {
+    "translation": "门将在25秒后开启"
+  },
+  "Door Open ! GO !": {
+    "translation": "门已开启 快走"
+  },
+  "The elevator will leave in 25 seconds.": {
+    "translation": "电梯将在25秒后离开"
+  },
+  "Last 5 sec ! GO !": {
+    "translation": "最后5秒 快走"
+  },
+  "Proceed to the platform!": {
+    "translation": "前往平台"
+  },
+  "The road is closing!": {
+    "translation": "道路正在关闭"
+  },
+  "The boss is coming.": {
+    "translation": "BOSS正在来袭"
+  },
+  "!!! BOSS DIE !!!": {
+    "translation": "BOSS死亡"
+  },
+  "way opening !": {
+    "translation": "道路开启"
+  },
+  ">>> LASER ACTIVATED <<<": {
+    "translation": "激光已激活"
+  },
+  ">>>MOVE TO THE SIDE PLATFORM <<<": {
+    "translation": "移动到侧边平台"
+  },
+  ">>>MOVE TO THE MAIN PLATFORM <<<": {
+    "translation": "移动到主平台"
+  },
+  ">>> LOOK UP, RUN FROM THE RAIN <<<": {
+    "translation": "向上看 避开雨水"
+  },
+  ">>> ZM ROAD IS OPENING <<<": {
+    "translation": "僵尸道路正在开启"
+  },
+  ">>> ZM ROAD IS CLOSING <<<": {
+    "translation": "僵尸道路正在关闭"
+  },
+  "The elevator will leave in 30 seconds!": {
+    "translation": "电梯将在30秒后离开"
+  },
+  ">5<": {
+    "translation": "5"
+  },
+  ">4<": {
+    "translation": "4"
+  },
+  ">3<": {
+    "translation": "3"
+  },
+  ">2<": {
+    "translation": "2"
+  },
+  ">1<": {
+    "translation": "1"
+  },
+  "Door Closing !": {
+    "translation": "门正在关闭"
+  },
+  "PLACE THE T-VIRUS IN THE AREA!": {
+    "translation": "将T病毒放置在区域中"
+  },
+  "ZM TP 5 SEC !": {
+    "translation": "僵尸传送5秒"
+  },
+  ">>> HUMAN WIN <<<": {
+    "translation": "人类胜利"
+  },
+  "ACTIVATE THE T-VIRUS OR IT WILL ACTIVATE IN 20 SECONDS.": {
+    "translation": "激活T病毒 否则它将在20秒后自动激活"
+  }
+}
