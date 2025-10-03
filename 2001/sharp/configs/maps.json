@@ -1808,6 +1808,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_icecap_solo": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_iceworld_athletic_cs2": {
     "admin": false,
     "certainTimes": [-1],

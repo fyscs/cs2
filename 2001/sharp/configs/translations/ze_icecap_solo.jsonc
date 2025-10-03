@@ -1,0 +1,103 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Both boats leaving shortly..***": {
+    "translation": "两艘船即将离开"
+  },
+  "***They look very strange..***": {
+    "translation": "它们看起来非常奇怪"
+  },
+  "***Gate opening in 75secs.***": {
+    "translation": "大门将在75秒后开启"
+  },
+  "***Gate opening in 5secs.***": {
+    "translation": "大门将在5秒后开启"
+  },
+  "***Gate opening in 30secs.***": {
+    "translation": "大门将在30秒后开启"
+  },
+  "***Start up the Helicopter.***": {
+    "translation": "启动直升机"
+  },
+  "***Ice Wall breaking in 10secs.***": {
+    "translation": "冰墙将在10秒后破裂"
+  },
+  "***Tram leaving in 10secs.***": {
+    "translation": "电车将在10秒后离开"
+  },
+  "***Bobsled leaving in 5secs.***": {
+    "translation": "雪橇将在5秒后离开"
+  },
+  "***Boat 4 leaving in 10secs.***": {
+    "translation": "4号船将在10秒后离开"
+  },
+  "***Boat 3 leaving in 10secs.***": {
+    "translation": "3号船将在10秒后离开"
+  },
+  "***...WashTub leaving in 3secs...***": {
+    "translation": "洗衣盆将在3秒后离开"
+  },
+  "***1***": {
+    "translation": "1"
+  },
+  "***2***": {
+    "translation": "2"
+  },
+  "***3***": {
+    "translation": "3"
+  },
+  "***4***": {
+    "translation": "4"
+  },
+  "***5***": {
+    "translation": "5"
+  },
+  "***Nuke in 10secs.***": {
+    "translation": "核弹将在10秒后引爆"
+  },
+  "***Final Boat leaving in 75secs.***": {
+    "translation": "最终船将在75秒后离开"
+  },
+  "***WashTub leaving in 30secs.***": {
+    "translation": "洗衣盆将在30秒后离开"
+  },
+  "***WashTub leaving in 5secs.***": {
+    "translation": "洗衣盆将在5秒后离开"
+  },
+  "***Final Boat leaving in 30secs.***": {
+    "translation": "最终船将在30秒后离开"
+  },
+  "***Final Boat leaving in 5secs.***": {
+    "translation": "最终船将在5秒后离开"
+  },
+  "***WashTub leaving in 65secs.***": {
+    "translation": "洗衣盆将在65秒后离开"
+  },
+  "***Helicopter leaving in 5secs.***": {
+    "translation": "直升机将在5秒后离开"
+  },
+  "***...WashBucket leaving in 5secs...Seriously?***": {
+    "translation": "洗衣桶将在5秒后离开,认真的吗"
+  },
+  "***Armory open.***": {
+    "translation": "军械库已开启"
+  },
+  "***First shortcuts opening in 15secs.***": {
+    "translation": "第一条捷径将在15秒后开启"
+  },
+  "***Second shortcuts opening in 15secs.***": {
+    "translation": "第二条捷径将在15秒后开启"
+  },
+  "<<< SECRET MUSIC ENABLED >>>": {
+    "translation": "隐藏音乐已启用"
+  }
+}
