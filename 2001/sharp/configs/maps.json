@@ -4448,7 +4448,7 @@
  "ze_umbrella_zombie": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 120,
+    "cooldown": 100,
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
