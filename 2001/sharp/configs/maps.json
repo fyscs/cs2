@@ -2015,6 +2015,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 35
   },
+  "ze_kororinpa": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_kraznov_poopata_p": {
     "admin": false,
     "certainTimes": [-1],
