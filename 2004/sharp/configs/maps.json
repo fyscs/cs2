@@ -341,4 +341,14 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   }
+  "mg_koga73_multigames_h": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  }
+
 }
