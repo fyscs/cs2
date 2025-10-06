@@ -440,6 +440,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_bisounours_party": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_black_lion_p": {
     "admin": false,
     "certainTimes": [-1],
