@@ -1,0 +1,46 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "+[kororinpa]Collect the OrangeCrystals": {
+    "translation": "收集橙色水晶"
+  },
+  "+[koroinpa]Teleport will be enable in 20 seconds ...": {
+    "translation": "20秒传送"
+  },
+  "+[koroinpa]5 seconds ...": {
+    "translation": "5秒"
+  },
+  "+[kororinpa] Teleport Enable": {
+    "translation": "已传送"
+  },
+  "+[kororinpa]Get the all OrangeCrystals": {
+    "translation": "拾取所有橙色水晶"
+  },
+  "+[kororinpa]Wait for 20 seconds ...": {
+    "translation": "等20秒"
+  },
+  "+[kororinpa]Teleport Enable": {
+    "translation": "已传送"
+  },
+  "+[kororinpa]Wait for 50 seconds ...": {
+    "translation": "等50秒"
+  },
+  "+[kororinpa]Wait for 30 seconds ...": {
+    "translation": "等30秒"
+  },
+  "+[kororinpa]Wait for 10 seconds ...": {
+    "translation": "等10秒"
+  },
+  "+[kororinpa] Incoming Rainbow laser !!!!!": {
+    "translation": "彩虹刀来咯"
+  }
+}
