@@ -46,7 +46,7 @@
     "id": "3715",
     "cd": 240,
     "mode": 2,
-    "name": "低重力刀",
+    "name": "低重力刀战",
     "class": "func_button",
     "event": "OnPressed"
   },
