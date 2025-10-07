@@ -21,7 +21,7 @@
   {
     "id": "4019",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "ak/m4",
     "class": "func_button",
     "event": "OnPressed"
@@ -29,7 +29,7 @@
   {
     "id": "4018",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "空降",
     "class": "func_button",
     "event": "OnPressed"
@@ -37,7 +37,7 @@
   {
     "id": "4017",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "awp",
     "class": "func_button",
     "event": "OnPressed"
@@ -45,7 +45,7 @@
   {
     "id": "4016",
     "cd": 180,
-    "mode":6,
+    "mode": 6,
     "name": "长跳",
     "class": "func_button",
     "event": "OnPressed"
@@ -53,7 +53,7 @@
   {
     "id": "4012",
     "cd": 180,
-    "mode":5,
+    "mode": 5,
     "name": "攀岩",
     "class": "func_button",
     "event": "OnPressed"
@@ -61,7 +61,7 @@
   {
     "id": "4013",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "galil/famas",
     "class": "func_button",
     "event": "OnPressed"
@@ -69,7 +69,7 @@
   {
     "id": "4014",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "sg553/aug",
     "class": "func_button",
     "event": "OnPressed"
@@ -77,7 +77,7 @@
   {
     "id": "4015",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "沙鹰",
     "class": "func_button",
     "event": "OnPressed"
@@ -85,7 +85,7 @@
   {
     "id": "4008",
     "cd": 180,
-    "mode":5,
+    "mode": 5,
     "name": "喷子",
     "class": "func_button",
     "event": "OnPressed"
@@ -93,7 +93,7 @@
   {
     "id": "4009",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "内格夫",
     "class": "func_button",
     "event": "OnPressed"
@@ -101,7 +101,7 @@
   {
     "id": "4010",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "鸟狙",
     "class": "func_button",
     "event": "OnPressed"
@@ -109,7 +109,7 @@
   {
     "id": "4011",
     "cd": 180,
-    "mode":2,
+    "mode": 2,
     "name": "刀战",
     "class": "func_button",
     "event": "OnPressed"
@@ -117,7 +117,7 @@
   {
     "id": "4002",
     "cd": 180,
-    "mode":4,
+    "mode": 4,
     "name": "诱饵弹",
     "class": "func_button",
     "event": "OnPressed"
@@ -125,7 +125,7 @@
   {
     "id": "4003",
     "cd": 180,
-    "mode":1,
+    "mode": 1,
     "name": "手雷",
     "class": "func_button",
     "event": "OnPressed"
@@ -133,7 +133,7 @@
   {
     "id": "4004",
     "cd": 180,
-    "mode":1,
+    "mode": 1,
     "name": "燃烧瓶",
     "class": "func_button",
     "event": "OnPressed"
@@ -141,7 +141,7 @@
   {
     "id": "4005",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "p250",
     "class": "func_button",
     "event": "OnPressed"
@@ -149,7 +149,7 @@
   {
     "id": "4006",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "双枪对决",
     "class": "func_button",
     "event": "OnPressed"
@@ -157,7 +157,7 @@
   {
     "id": "4007",
     "cd": 180,
-    "mode":5,
+    "mode": 5,
     "name": "500战士",
     "class": "func_button",
     "event": "OnPressed"
@@ -165,7 +165,7 @@
   {
     "id": "3994",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "低重力r8",
     "class": "func_button",
     "event": "OnPressed"
@@ -173,7 +173,7 @@
   {
     "id": "3995",
     "cd": 180,
-    "mode":3,
+    "mode": 3,
     "name": "电击枪",
     "class": "func_button",
     "event": "OnPressed"
@@ -181,7 +181,7 @@
   {
     "id": "3996",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "迷雾森林",
     "class": "func_button",
     "event": "OnPressed"
@@ -189,7 +189,7 @@
   {
     "id": "3997",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "透视连狙",
     "class": "func_button",
     "event": "OnPressed"
@@ -197,7 +197,7 @@
   {
     "id": "3998",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "ump45",
     "class": "func_button",
     "event": "OnPressed"
@@ -205,7 +205,7 @@
   {
     "id": "3993",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "生死十秒",
     "class": "func_button",
     "event": "OnPressed"
@@ -213,7 +213,7 @@
   {
     "id": "3992",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "原地对枪",
     "class": "func_button",
     "event": "OnPressed"
@@ -221,7 +221,7 @@
   {
     "id": "3999",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "塔图",
     "class": "func_button",
     "event": "OnPressed"
@@ -229,7 +229,7 @@
   {
     "id": "4000",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "蹦床",
     "class": "func_button",
     "event": "OnPressed"
@@ -237,7 +237,7 @@
   {
     "id": "4001",
     "cd": 180,
-    "mode":0,
+    "mode": 0,
     "name": "大桥激战",
     "class": "func_button",
     "event": "OnPressed"
