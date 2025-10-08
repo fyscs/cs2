@@ -60,8 +60,7 @@
     "translation": "<< 地图作者:Misaka 翻译:@creeper_kk>>"
   },
   "<< Survive for 180 seconds >>": {
-    "translation": "存活180秒",
-    "countdown": 180
+    "translation": "存活180秒"
   },
   "<< You should select one area to go, or you will tele to zombie area >>": {
     "translation": "找一个地方开黑,不然等会就和僵尸啵嘴了"
@@ -497,7 +496,7 @@
     "blocked": true
   },
   "<< 当心！不要再继续按了,尝试寻找另一个按钮吧！！>>": {
-  "translation": "当心！不要再继续按了,尝试寻找另一个按钮吧！！"
+    "translation": "当心!不要再继续按了,尝试寻找另一个按钮吧!"
   }
 }
 
