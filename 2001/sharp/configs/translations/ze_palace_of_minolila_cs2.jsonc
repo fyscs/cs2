@@ -11,58 +11,60 @@
 
 {
   "<< Door will open in 5 seconds >>": {
-    "translation": "<< 门将在5秒后打开 >>"
+    "translation": "门将在5秒后打开"
   },
   "<< A player has picked up heal magic >>": {
-    "translation": "<< 一名玩家拾取了治疗 >>"
+    "translation": "一名玩家拾取了治疗"
   },
   "<< A player has picked up snow magic >>": {
-    "translation": "<< 一名玩家拾取了冰雪权杖 >>"
+    "translation": "一名玩家拾取了冰雪权杖"
   },
   "<< A player has picked up electro magic >>": {
-    "translation": "<< 一名玩家拾取了雷电权杖 >>"
+    "translation": "一名玩家拾取了雷电权杖"
   },
   "<< A player has picked up wind magic >>": {
-    "translation": "<< 一名玩家拾取了风权杖 >>"
+    "translation": "一名玩家拾取了风权杖"
   },
   "<< A player has picked up Frostmourn >>": {
-    "translation": "<< 一名玩家拾取了魔剑  >>"
+    "translation": "一名玩家拾取了魔剑"
   },
   "<< A player has picked up earth magic >>": {
-    "translation": "<< 一名玩家拾取了大地权杖 >>"
+    "translation": "一名玩家拾取了大地权杖"
   },
   "<< A player has picked up gravity magic >>": {
-    "translation": "<< 一名玩家拾取了黑洞权杖 >>"
+    "translation": "一名玩家拾取了黑洞权杖"
   },
   "<< A zombie has picked up gravity magic >>": {
-    "translation": "<< 一个僵尸学会了黑洞魔法 >>"
+    "translation": "一个僵尸学会了黑洞魔法"
   },
   "<< A zombie has picked up ice magic >>": {
-    "translation": "<< 一个僵尸学会了冰冻魔法 >>"
+    "translation": "一个僵尸学会了冰冻魔法"
   },
   "<< A zombie has picked up heal magic >>": {
-    "translation": "<< 一个僵尸学会了治疗魔法 >>"
+    "translation": "一个僵尸学会了治疗魔法"
   },
   "<< A zombie has picked up touching infection >>": {
-    "translation": "<< 一个僵尸学会了秒杀魔法 >>"
+    "translation": "一个僵尸学会了秒杀魔法"
   },
   "<< Mapper is in the server >>": {
-    "translation": "<< 地图作者加入了服务器 >>"
+    "translation": "地图作者加入了服务器",
+    "blocked": true
   },
   "<< Extra Mode Complete!!! >>": {
-    "translation": "<< EX模式已通关 >>"
+    "translation": "EX模式已通关"
   },
   "<< You are the legend of this map!!! >>": {
-    "translation": "<< 你是这个地图的传奇! >>"
+    "translation": "你是这个地图的传奇!"
   },
   "<< Map by Misaka >>": {
     "translation": "<< 地图作者:Misaka 翻译:@creeper_kk>>"
   },
   "<< Survive for 180 seconds >>": {
-    "translation": "<<找个地方开黑存活三分钟>>"
+    "translation": "存活180秒",
+    "countdown": 180
   },
   "<< You should select one area to go, or you will tele to zombie area >>": {
-    "translation": "<<找一个地方开黑,不然等会就和僵尸啵嘴了>>"
+    "translation": "找一个地方开黑,不然等会就和僵尸啵嘴了"
   },
   "### I do not know why Minolila want to kill us ###": {
     "translation": "我不明白米诺莉拉为什么要杀我们"
@@ -71,22 +73,22 @@
     "translation": "不管怎样,这里应该是安全的......"
   },
   "<< No one expected that we would met the nightmare here at that time >>": {
-    "translation": "<<没有人料到我们能和梦魇在此相见>>"
+    "translation": "没有人料到我们能和梦魇在此相见"
   },
   "<< But that is another story >>": {
-    "translation": "<<但那就是另一段故事了>>"
+    "translation": "但那就是另一段故事了"
   },
   "<< Congratulation!!! >>": {
-    "translation": "<< 恭喜!!! >>"
+    "translation": "恭喜!!! "
   },
   "<< You have beaten OverDrive Mode!!! >>": {
-    "translation": "<< 你通过了超载模式!!! >>"
+    "translation": "你通过了超载模式!!!"
   },
   "### Its Dr.X Again!!! Keep Shooting!!! ###": {
     "translation": "是X博士!继续射击"
   },
   "<< Dr.X is using DATA DELETE >>": {
-    "translation": "<<X博士正在释放 数据删除 >>"
+    "translation": "X博士正在释放 数据删除"
   },
   "### Dr.X has died!!! ###": {
     "translation": "X博士死了"
@@ -95,13 +97,13 @@
     "translation": "米诺莉拉?"
   },
   "<< Do not be a coward!!! >>": {
-    "translation": "<<不要当一时的懦夫!>>"
+    "translation": "不要当一时的懦夫!"
   },
   "<< The final door will open in 45 seconds >>": {
-    "translation": "<<最终的大门将在45秒后打开>>"
+    "translation": "最终的大门将在45秒后打开"
   },
   "<< 10 seconds left >>": {
-    "translation": "<<还剩10秒>>"
+    "translation": "还剩10秒"
   },
   "### Dr.X: I didn't expect you to find it here ###": {
     "translation": "X博士: 没想到你能从这里找到它"
@@ -122,82 +124,82 @@
     "translation": "X博士: 再努力点,我希望还能再与你相见哦~"
   },
   "<< It is really a tough guy >>": {
-    "translation": "<<真是个厉害的家伙>>"
+    "translation": "真是个厉害的家伙"
   },
   "<< Dr.X can not run too far!!! Hurry up, it is the time to arrest him!!! >>": {
-    "translation": "<<X博士现在跑不了多远!快快快,是时候逮捕他了!!>>"
+    "translation": "X博士现在跑不了多远!快快快,是时候逮捕他了!!"
   },
   "<< The door will open in 20s>>": {
-    "translation": "<<门将在20秒后打开>>"
+    "translation": "门将在20秒后打开"
   },
   "<< Tesla activate a blue crystal >>": {
-    "translation": "<<蓝色水晶被激活>>"
+    "translation": "蓝色水晶被激活"
   },
   "<< Tesla activate a yellow crystal >>": {
-    "translation": "<<黄色水晶被激活>>"
+    "translation": "黄色水晶被激活"
   },
   "<< Tesla activate a green crystal >>": {
-    "translation": "<<绿色水晶被激活>>"
+    "translation": "绿色水晶被激活"
   },
   "<< Tesla activate a pink crystal >>": {
-    "translation": "<<粉色水晶被激活>>"
+    "translation": "粉色水晶被激活"
   },
   "<< The temperature is rising!!! Find a way to lower the temperature before we die!!! >>": {
-    "translation": "<<温度在急剧上升!快找到降温的办法!不然我们都得玩完!>>"
+    "translation": "温度在急剧上升!快找到降温的办法!不然我们都得玩完!"
   },
   "<< Boss is activating a crystal >>": {
-    "translation": "<<BOSS正在激活一个水晶>>"
+    "translation": "BOSS正在激活一个水晶"
   },
   "<< Lava is Rising!!! >>": {
-    "translation": "<<岩浆正在上升>>"
+    "translation": "岩浆正在上升"
   },
   "<< Be Careful! Zombies are coming! >>": {
-    "translation": "<<小心!僵尸们进攻了!>>"
+    "translation": "小心!僵尸们进攻了!"
   },
   "<< Boss is using Gravity!!! >>": {
-    "translation": "<<地心引力>>"
+    "translation": "地心引力"
   },
   "<< Boss is using Aurora Veil >>": {
-    "translation": "<<极光屏障>>"
+    "translation": "极光屏障"
   },
   "<< Hold for 15 seconds >>": {
-    "translation": "<<守住15秒>>"
+    "translation": "守住15秒"
   },
   "<< Teleporter will activate in 15 seconds >>": {
-    "translation": "<<传送器将在15秒后激活>>"
+    "translation": "传送器将在15秒后激活"
   },
   "<< Hold for 20 seconds >>": {
-    "translation": "<<守住20秒>>"
+    "translation": "守住20秒"
   },
   "<< Hold for 25 seconds >>": {
-    "translation": "<<守住25秒>>"
+    "translation": "守住25秒"
   },
   "<< It seems that this button is broken...... >>": {
-    "translation": "<< 按钮似乎已经坏了 >>"
+    "translation": "按钮似乎已经坏了"
   },
   "<< Be careful!!! Do not press it again!!! Try to find another button!!!>>": {
-    "translation": "<< 当心!不要再继续按了,尝试寻找另一个按钮吧!>>"
+    "translation": "当心!不要再继续按了,尝试寻找另一个按钮吧!"
   },
   "<< 按钮似乎已经坏了 >>": {
-    "translation": "<< 按钮似乎已经坏了 >>"
+    "translation": "按钮似乎已经坏了"
   },
   "<< Door will open in 20 seconds >>": {
-    "translation": "<<大门将在20秒后打开>>"
+    "translation": "大门将在20秒后打开"
   },
   "<<现在可以在水下行走了>>": {
-    "translation": "<<现在可以在水下行走了>>"
+    "translation": "现在可以在水下行走了"
   },
   "### Minolila: I've already prepared the teleporter for you, Good Luck! ###": {
     "translation": "米诺莉拉:我已经为你准备好了传送机,祝你好运"
   },
   "<< Teleporter will activate in 20 seconds >>": {
-    "translation": "<<传送机将在20秒后激活>>"
+    "translation": "传送机将在20秒后激活"
   },
   "<< Elevator will move in 15 seconds >>": {
-    "translation": "<<电梯将在15秒后移动>>"
+    "translation": "电梯将在15秒后移动"
   },
   "<< Door will open in 25 seconds >>": {
-    "translation": "<<门将在25秒后打开>>"
+    "translation": "门将在25秒后打开"
   },
   "<< Admin select EASY MODE >>": {
     "translation": "<<管理员设置了简单模式>>"
@@ -227,25 +229,25 @@
     "translation": "<<作者[Misaka]:所以我会删除这个按钮>>"
   },
   "<< Hold for 10 seconds >>": {
-    "translation": "<<守住10秒>>"
+    "translation": "守住10秒"
   },
   "<< Green [ The Mystic Tornado with the Unknown Direction ] >>": {
-    "translation": "<<绿 [风神的翼动]>>"
+    "translation": "绿 [风神的翼动]"
   },
   "<< Blue [ The Jumping Hell ]  >>": {
-    "translation": "<<蓝 [跃动的喷泉]>>"
+    "translation": "蓝 [跃动的喷泉]"
   },
   "<< Red [ The Standstill World ] >>": {
-    "translation": "<<红 [The world!]>>"
+    "translation": "红 [The world!]"
   },
   "<< Yellow [ The Forbidden Arrow ]  >>": {
-    "translation": "<<黄 [阻碍的箭矢]>>"
+    "translation": "黄 [阻碍的箭矢]"
   },
   "<< Black [ The Substitute of the Diablo ]  >>": {
-    "translation": "<<黑 [替身攻击]>>"
+    "translation": "黑 [替身攻击]"
   },
   "<< Pink [ The Voice of Revenge ] >>": {
-    "translation": "<<粉 [复仇的怒吼]>>"
+    "translation": "粉 [复仇的怒吼]"
   },
   "### Minolila: Sorry for testing you again, and I will lead you to the true core of this palace ###": {
     "translation": "米诺莉拉: 很抱歉在此考验你,我会带你抵达这座宫殿的真正核心"
@@ -254,10 +256,10 @@
     "translation": "米诺莉拉: 我依旧不能信任你"
   },
   "<< Lunatic Mode Complete >>": {
-    "translation": "<<疯狂模式已完成>>"
+    "translation": "疯狂模式已完成"
   },
   "<< ZOMBIE HAS ESCAPED..... YOU FAIL... >>": {
-    "translation": "<<僵尸逃出来了...你输了>>"
+    "translation": "僵尸逃出来了...你输了"
   },
   "### Minolila: You are stronger than I thought ###": {
     "translation": "米诺莉拉: 你比我想象的还要坚强一些"
@@ -266,25 +268,25 @@
     "translation": "米诺莉拉: 后退,我会带你前往你该去的地方"
   },
   "<< The final door will open in 90 seconds >>": {
-    "translation": "<<最终的大门将在90秒后打开>>"
+    "translation": "最终的大门将在90秒后打开"
   },
   "<< ZE_PALACE_OF_MINOLILA >>": {
-    "translation": "<<米诺莉拉宫殿>>"
+    "translation": "米诺莉拉宫殿"
   },
   "<< The story after ze_ruin_of_black_stone >>": {
-    "translation": "<<这是黑石城废墟之后的故事了>>"
+    "translation": "这是黑石城废墟之后的故事了"
   },
   "<< Map based on ze_sky_fantasy >>": {
-    "translation": "<<地图制作基于天空幻想>>"
+    "translation": "地图制作基于天空幻想"
   },
   "<< Hard Mode Complete >>": {
-    "translation": "<<困难模式已完成>>"
+    "translation": "困难模式已完成"
   },
   "### Dr.X: Not too bad.....I hope you can survive before we meet next time ###": {
     "translation": "X博士: 还不错,希望你能在下次见面前活下来"
   },
   "<< Hold for final 20 seconds >>": {
-    "translation": "<<守住最后的20秒>>"
+    "translation": "守住最后的20秒"
   },
   "### Its Dr.X!!! Kill him immediately!!! ###": {
     "translation": "是X博士!快杀了他!!"
@@ -317,7 +319,7 @@
     "translation": "X博士: 你越来越激发我对你的兴趣了呢,所以能不能竭尽所能躲开我的攻击呢"
   },
   "<< Dr.X will release zombies in 150 seconds!!! >>": {
-    "translation": "<<X博士将在150秒后释放僵尸!>>"
+    "translation": "X博士将在150秒后释放僵尸"
   },
   "### Dr.X: We will meet later.... ###": {
     "translation": "X博士: 我们等会再见",
@@ -334,34 +336,34 @@
     "translation": "<<这里似乎看起来要塌了!>>"
   },
   "<< Fall back now!!! >>": {
-    "translation": "<<快跑!!!>>"
+    "translation": "快跑!!!"
   },
   "<< There is no way!!! I will use the c4 to break the wall!!! Continue defending!!! >>": {
-    "translation": "<<路被堵上了!继续防守!等待炸弹爆炸!!>>"
+    "translation": "路被堵上了!继续防守!等待炸弹爆炸!!"
   },
   "<< c4 will explode in 20 seconds >>": {
-    "translation": "<<炸弹将在20秒后爆炸>>"
+    "translation": "炸弹将在20秒后爆炸"
   },
   "<< Door will open in 10 seconds >>": {
-    "translation": "<<门将在10秒后打开>>"
+    "translation": "门将在10秒后打开"
   },
   "<< Stand in the middle and continue defending >>": {
-    "translation": "<<站在中间继续防守>>"
+    "translation": "站在中间继续防守"
   },
   "<< We will teleport back in 30 seconds >>": {
-    "translation": "<<我们将在30秒后传送回去>>"
+    "translation": "我们将在30秒后传送回去"
   },
   "<< WTF...... Final 10 seconds!!! Hold on!!! >>": {
-    "translation": "<<最后10秒!守住!>>"
+    "translation": "最后10秒!"
   },
   "<< Push >>": {
-    "translation": "<<推力>>"
+    "translation": "推力"
   },
   "<< Pull >>": {
-    "translation": "<<引力>>"
+    "translation": "引力"
   },
   "<< Next door will open in 5 seconds >>": {
-    "translation": "<<下一道门还有5秒打开>>"
+    "translation": "下一道门还有5秒打开"
   },
   "### Welcome to the world of re_creation!!! ###": {
     "translation": "欢迎来到重构的世界"
@@ -382,7 +384,7 @@
     "translation": "是能量核心!!快开枪把它摧毁了!!"
   },
   "<< Be careful! Zombies will be released in 120 seconds >>": {
-    "translation": "<<小心!僵尸们将在120秒后被释放>>"
+    "translation": "僵尸们将在120秒后被释放"
   },
   "### ???: Who are you...... ###": {
     "translation": "???: 你是谁..."
@@ -442,13 +444,13 @@
     "translation": "<<简单模式已完成>>"
   },
   "<< Zombie has escaped!!! Try again... >>": {
-    "translation": "<<僵尸逃脱了...>>"
+    "translation": "僵尸逃脱了..."
   },
   "<< Defend for 35 seconds, I will open the door >>": {
-    "translation": "<<守住35秒>>"
+    "translation": "守住35秒"
   },
   "<< Door will close in 10 seconds! Do not let zomebies out!!! >>": {
-    "translation": "<<10秒钟后门就会关上,别让僵尸出去>>"
+    "translation": "10秒钟后门就会关上,别让僵尸出去"
   },
   "### It seems that there is the laboratory of that mayor ###": {
     "translation": "这里似乎就是那个市长的实验室了"
@@ -460,16 +462,16 @@
     "translation": "我来装炸弹,我们应该马上离开那里!"
   },
   "<< Wait for 30 seconds  >>": {
-    "translation": "<<等待30秒>>"
+    "translation": "等待30秒"
   },
   "<< Hold for 30 seconds >>": {
-    "translation": "<<守住30秒>>"
+    "translation": "守住30秒"
   },
   "<< Door will Open in 15 seconds >>": {
-    "translation": "<<门在15秒后打开>>"
+    "translation": "门在15秒后打开"
   },
   "<< Teleporter will enable in 15 seconds >>": {
-    "translation": "<<传送器将在15秒后启用>>"
+    "translation": "传送器将在15秒后启用"
   },
   "<<管理员按下重启本回合按钮 5秒后重启>": {
     "translation": "<<管理员按下重启本回合按钮 5秒后重启>>"
@@ -493,5 +495,9 @@
   "onuser1 command:command:cmd:0:1": {
     "translation": "onuser1 command:command:cmd:0:1",
     "blocked": true
+  },
+  "<< 当心！不要再继续按了,尝试寻找另一个按钮吧！！>>": {
+  "translation": "当心！不要再继续按了,尝试寻找另一个按钮吧！！"
   }
 }
+
