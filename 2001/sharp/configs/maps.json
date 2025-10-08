@@ -927,7 +927,7 @@
     "requiredPlayers": 45
   },
   "ze_downstairs": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 80,
     "nomination": true,
