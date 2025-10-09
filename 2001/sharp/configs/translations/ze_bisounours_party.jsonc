@@ -1,0 +1,112 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Map made by Raphi**": {
+    "translation": "地图作者:Raphi 文本:Zeyu1"
+  },
+  "*** FALL BACK! ***": {
+    "translation": "快进传送光柱"
+  },
+  "*** FALL BACK TO THE RAINBOW! ***": {
+    "translation": "快爪巴上彩虹"
+  },
+  "*** PROTECT THE CASTLE! ***": {
+    "translation": "守住这个城堡"
+  },
+  "*** King Pedobear will let you pass in 40 secs ***": {
+    "translation": "玩具熊 在40秒后才会允许你通过这里"
+  },
+  "*** King Pedobear has allowed you to pass! ***": {
+    "translation": "玩具熊说:快溜"
+  },
+  "*** The rainbow will be open in 30 secs ***": {
+    "translation": "彩虹在30秒以后才可以被爪巴"
+  },
+  "*** YOU HAVE 20 SECS TO ESCAPE! ***": {
+    "translation": "你有20秒时间逃离这里"
+  },
+  "*** OH NO IT'S PEDOBEAR! ***": {
+    "translation": "哦不,是玩具熊"
+  },
+  "*** SHOOT AND DODGE HIS ATTACKS! ***": {
+    "translation": "一边躲避他的攻击一边向他嘘嘘"
+  },
+  "*** Hold 30 secs! ***": {
+    "translation": "防守僵尸30秒"
+  },
+  "*** SURVIVE! 30 secs! ***": {
+    "translation": "生存30秒"
+  },
+  "*** RUUUUUUUUN! ***": {
+    "translation": "快跑!!!"
+  },
+  "*** The ice glass will break in 30 secs! ***": {
+    "translation": "冰在30秒后就碎裂了!"
+  },
+  "*** Get moving! GO! ***": {
+    "translation": "可以走了 冲!"
+  },
+  "*** ITS PEDOBEAR AGAIN! ***": {
+    "translation": "又是玩具熊"
+  },
+  "*** RUN! ***": {
+    "translation": "可以走了 快跑"
+  },
+  "*** 5 SECONDS! ***": {
+    "translation": "5"
+  },
+  "*** SURVIVE 60 SECS! ***": {
+    "translation": "守住僵尸60秒"
+  },
+  "*** You can pass! Go go go! ***": {
+    "translation": "可以通过了 冲冲冲!"
+  },
+  "*** King Pedobear will let you pass in 30 secs! ***": {
+    "translation": "玩具熊 在30秒后才会允许你通过这里"
+  },
+  "*** HOLD IT! 15 seconds! ***": {
+    "translation": "守住15秒"
+  },
+  "*** Get Ready! ***": {
+    "translation": "小心!"
+  },
+  "*** King Pedobear will help you in 40 secs! ***": {
+    "translation": "**玩具熊在40秒后悔帮助你"
+  },
+  "*** YOU HAVE 2 MINUTES TO KILL PEDOBEAR! ***": {
+    "translation": "你有两分钟杀掉玩具熊"
+  },
+  "*** YOU HAVE 60 SECONDS TO KILL PEDOBEAR! ***": {
+    "translation": "你有60秒杀掉玩具熊"
+  },
+  "*** YOU HAVE 30 SECONDS TO KILL PEDOBEAR! ***": {
+    "translation": "你还有30秒杀掉玩具熊"
+  },
+  "*** YOU HAVE 5 SECONDS TO KILL PEDOBEAR! ***": {
+    "translation": "你只有5秒钟啦!gkd"
+  },
+  "*** YOU HAVE 10 SECONDS TO KILL PEDOBEAR! ***": {
+    "translation": "你还有10秒杀掉玩具熊"
+  },
+  "*** YOU FAILED TO KILL PEDOBEAR IN TIME! ***": {
+    "translation": "你没能杀死玩具熊"
+  },
+  "*** THE PARTY WAS A DISASTER! ***": {
+    "translation": "这将会是场屠杀"
+  },
+  "*** YOU LOSE! ***": {
+    "translation": "你输了"
+  },
+  "*** YOU KILLED PEDOBEAR! ***": {
+    "translation": "玩具熊升天了"
+  }
+}
