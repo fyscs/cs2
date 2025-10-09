@@ -1,0 +1,70 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "You were too late to escape ! The nuke went off !": {
+    "translation": "你逃脱得太晚了,核弹已经爆炸"
+  },
+  "First shuttle departing in 30 seconds !": {
+    "translation": "第一班穿梭机将在30秒后出发"
+  },
+  "First shuttle departing in 1 minute and 20 seconds !": {
+    "translation": "第一班穿梭机将在120秒后出发"
+  },
+  "First shuttle departing in 10 seconds !": {
+    "translation": "第一班穿梭机将在10秒后出发"
+  },
+  "Second shuttle departing in 10 seconds !": {
+    "translation": "第二班穿梭机将在10秒后出发"
+  },
+  "Second shuttle departing in 30 seconds !": {
+    "translation": "第二班穿梭机将在30秒后出发"
+  },
+  "Second shuttle departing in 1 minute !": {
+    "translation": "第二班穿梭机将在60秒后出发"
+  },
+  "Second shuttle departing in 2 minutes !": {
+    "translation": "第二班穿梭机将在120秒后出发"
+  },
+  "Activate nuke glowing yellow !": {
+    "translation": "激活发黄光的核弹"
+  },
+  "Hold here until someone activates bomb !": {
+    "translation": "在此坚守直到有人引爆炸弹"
+  },
+  "You forgot to destroy the electric box !": {
+    "translation": "你忘了摧毁电箱"
+  },
+  "Go back and shoot the part of the gaspipe above the electric box to destroy it !": {
+    "translation": "回去射击电箱上方的煤气管部分来摧毁它"
+  },
+  "Fall back ! There are zombies jumping out of the vents !": {
+    "translation": "撤退,有僵尸从通风口跳出来"
+  },
+  "Nuclear Bomb has been activated !": {
+    "translation": "核弹已被激活"
+  },
+  "2 minutes remaining till explosion !": {
+    "translation": "距离爆炸还有120秒"
+  },
+  "1 minute remaining till explosion !": {
+    "translation": "距离爆炸还有60秒"
+  },
+  "30 seconds remaining till explosion !": {
+    "translation": "距离爆炸还有30秒"
+  },
+  "Find the nuke and activate it !": {
+    "translation": "找到核弹并激活它"
+  },
+  "Starting Evacuation Plan !": {
+    "translation": "开始撤离计划"
+  }
+}
