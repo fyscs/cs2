@@ -1,0 +1,97 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "-- 3 wooden boxes left --": {
+    "translation": "还剩三个箱子"
+  },
+  "-- 2 wooden boxes left --": {
+    "translation": "还剩两个箱子"
+  },
+  "-- 1 wooden boxes left --": {
+    "translation": "还剩一个箱子"
+  },
+  "-- Lets Go --": {
+    "translation": "快跑"
+  },
+  "地图: FC松鼠大战": {
+    "translation": "地图: FC松鼠大战"
+  },
+  "作者: CD意识.": {
+    "translation": "作者:CD意识 文本:Zeyu1"
+  },
+  "检测到服务器无Lua解锁插件，地图部分功能禁用": {
+    "translation": "检测到服务器无Lua解锁插件,地图部分功能禁用"
+  },
+  "--- Stage1 ---": {
+    "translation": "第一关"
+  },
+  "--- WarmTime ---": {
+    "translation": "热身"
+  },
+  "-- Teleport in 5s --": {
+    "translation": "5秒后传送"
+  },
+  "-- Teleport in 4s --": {
+    "translation": "4秒后传送"
+  },
+  "-- Teleport in 3s --": {
+    "translation": "3秒后传送"
+  },
+  "-- Teleport in 2s --": {
+    "translation": "2秒后传送"
+  },
+  "-- Teleport in 1s --": {
+    "translation": "1秒后传送"
+  },
+  "-- Hurry! Plug the hole with that apple! --": {
+    "translation": "快点 有个老资历在推苹果"
+  },
+  "-- Shhh, it looks like that big guy is sleeping --": {
+    "translation": "这小伙子应该在睡觉吧"
+  },
+  "-- We better walk over quietly --": {
+    "translation": "我们得跑快点"
+  },
+  "-- Ooooh, that guy is awake, RUN! --": {
+    "translation": "这小伙子醒了 快跑"
+  },
+  "-- Its The End --": {
+    "translation": "通关"
+  },
+  "检测到服务器无Lua Unlocker插件": {
+    "translation": "检测到服务器无Lua Unlocker插件"
+  },
+  "BOSS战无法进行。跳过": {
+    "translation": "BOSS战无法进行 跳过"
+  },
+  "Lua Unlocker Plugin Needed": {
+    "translation": "检测到服务器无Lua Unlocker插件"
+  },
+  "Server Dont have it. Skip BOSS Fight": {
+    "translation": "不需要打Boss咯"
+  },
+  "Secret Found (1/4)": {
+    "translation": "彩蛋 (1/4)"
+  },
+  "Secret Found (2/4)": {
+    "translation": "彩蛋 (2/4)"
+  },
+  "Secret Found (3/4)": {
+    "translation": "彩蛋 (3/4)"
+  },
+  "Secret Found (4/4)": {
+    "translation": "彩蛋 (4/4)"
+  },
+  "Next round: secret music unlocked!": {
+    "translation": "下一回合 彩蛋音乐解锁"
+  }
+}
