@@ -1,0 +1,61 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "-- Stage Bkack Was Chosen --": {
+    "translation": "黑关已被选择"
+  },
+  "-- Stage White Was Chosen --": {
+    "translation": "白关已被选择"
+  },
+  "-- Stage Red Was Chosen --": {
+    "translation": "红关已被选择"
+  },
+  "<< ------------ NK.NWBK >>": {
+    "translation": "地图作者:NK,文本翻译:Korihana@fys"
+  },
+  "wall will break in 15 sec": {
+    "translation": "墙壁将在15秒后碎裂"
+  },
+  "platform will move in 30sec": {
+    "translation": "平台在30秒后移动"
+  },
+  "wall will break in 20sec": {
+    "translation": "墙壁将在20秒后碎裂"
+  },
+  "platform will move in 25sec": {
+    "translation": "平台在30秒后移动"
+  },
+  "Platform will rise in 75sec": {
+    "translation": "平台在75秒后上升"
+  },
+  "elevator will move in 25sec": {
+    "translation": "电梯在25秒后移动"
+  },
+  "-- Platform rising... --": {
+    "translation": "平台正在上升..."
+  },
+  "-- Get onto the glass --": {
+    "translation": "爬上玻璃"
+  },
+  "Platform will rise in 30sec": {
+    "translation": "平台在30秒后上升"
+  },
+  "-- glass will break in 100sec --": {
+    "translation": "玻璃在100秒后碎裂"
+  },
+  "The road will open in 25 sec": {
+    "translation": "25秒后道路打开"
+  },
+  "Transfer to the boss room in 60 seconds": {
+    "translation": "60秒后传送"
+  }
+}
