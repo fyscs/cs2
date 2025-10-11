@@ -19,7 +19,7 @@
 
 [
   {
-    "id": "4019",
+    "id": "4125",
     "cd": 180,
     "mode": 0,
     "name": "ak/m4",
@@ -27,7 +27,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4018",
+    "id": "4123",
     "cd": 180,
     "mode": 0,
     "name": "空降",
@@ -35,7 +35,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4017",
+    "id": "4119",
     "cd": 180,
     "mode": 0,
     "name": "awp",
@@ -43,7 +43,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4016",
+    "id": "4117",
     "cd": 180,
     "mode": 6,
     "name": "长跳",
@@ -51,7 +51,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4012",
+    "id": "4107",
     "cd": 180,
     "mode": 5,
     "name": "攀岩",
@@ -59,7 +59,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4013",
+    "id": "4109",
     "cd": 180,
     "mode": 0,
     "name": "galil/famas",
@@ -67,7 +67,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4014",
+    "id": "4111",
     "cd": 180,
     "mode": 0,
     "name": "sg553/aug",
@@ -75,7 +75,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4015",
+    "id": "4113",
     "cd": 180,
     "mode": 0,
     "name": "沙鹰",
@@ -83,7 +83,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4008",
+    "id": "4097",
     "cd": 180,
     "mode": 5,
     "name": "喷子",
@@ -91,7 +91,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4009",
+    "id": "4099",
     "cd": 180,
     "mode": 0,
     "name": "内格夫",
@@ -99,7 +99,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4010",
+    "id": "4101",
     "cd": 180,
     "mode": 0,
     "name": "鸟狙",
@@ -107,7 +107,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4011",
+    "id": "4103",
     "cd": 180,
     "mode": 2,
     "name": "刀战",
@@ -115,7 +115,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4002",
+    "id": "4147",
     "cd": 180,
     "mode": 4,
     "name": "诱饵弹",
@@ -123,7 +123,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4003",
+    "id": "4135",
     "cd": 180,
     "mode": 1,
     "name": "手雷",
@@ -131,7 +131,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4004",
+    "id": "4137",
     "cd": 180,
     "mode": 1,
     "name": "燃烧瓶",
@@ -139,7 +139,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4005",
+    "id": "4139",
     "cd": 180,
     "mode": 0,
     "name": "p250",
@@ -147,7 +147,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4006",
+    "id": "4141",
     "cd": 180,
     "mode": 0,
     "name": "双枪对决",
@@ -155,7 +155,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "4007",
+    "id": "4143",
     "cd": 180,
     "mode": 5,
     "name": "500战士",
@@ -163,7 +163,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3994",
+    "id": "4145",
     "cd": 180,
     "mode": 0,
     "name": "低重力r8",
@@ -171,7 +171,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3995",
+    "id": "4105",
     "cd": 180,
     "mode": 3,
     "name": "电击枪",
@@ -179,7 +179,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3996",
+    "id": "4115",
     "cd": 180,
     "mode": 0,
     "name": "迷雾森林",
@@ -187,7 +187,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3997",
+    "id": "4121",
     "cd": 180,
     "mode": 0,
     "name": "透视连狙",
@@ -195,7 +195,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3998",
+    "id": "4127",
     "cd": 180,
     "mode": 0,
     "name": "ump45",
@@ -203,7 +203,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3993",
+    "id": "4093",
     "cd": 180,
     "mode": 0,
     "name": "生死十秒",
@@ -211,7 +211,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3992",
+    "id": "4089",
     "cd": 180,
     "mode": 0,
     "name": "原地对枪",
@@ -219,7 +219,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3999",
+    "id": "4192",
     "cd": 180,
     "mode": 0,
     "name": "塔图",
@@ -227,18 +227,18 @@
     "event": "OnPressed"
   },
   {
-    "id": "4000",
+    "id": "4133",
     "cd": 180,
     "mode": 0,
-    "name": "蹦床",
+    "name": "大桥激战",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "4001",
+    "id": "4131",
     "cd": 180,
     "mode": 0,
-    "name": "大桥激战",
+    "name": "蹦床",
     "class": "func_button",
     "event": "OnPressed"
   }
