@@ -227,18 +227,18 @@
     "event": "OnPressed"
   },
   {
-    "id": "4131",
-    "cd": 180,
-    "mode": 0,
-    "name": "蹦床",
-    "class": "func_button",
-    "event": "OnPressed"
-  },
-  {
     "id": "4133",
     "cd": 180,
     "mode": 0,
     "name": "大桥激战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4131",
+    "cd": 180,
+    "mode": 0,
+    "name": "蹦床",
     "class": "func_button",
     "event": "OnPressed"
   }
