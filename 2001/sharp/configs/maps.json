@@ -942,7 +942,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 40
   },
   "ze_downstairs": {
     "admin": false,
