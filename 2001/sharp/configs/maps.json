@@ -17,6 +17,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_2021_xmas_world_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_2025_xmas_world": {
     "admin": false,
     "certainTimes": [-1],
