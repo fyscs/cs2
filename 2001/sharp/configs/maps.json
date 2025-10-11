@@ -957,7 +957,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 70,
-    "nomination": false,
+    "nomination": true,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": 30
