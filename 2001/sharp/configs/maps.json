@@ -3401,12 +3401,12 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
-  "ze_r_w_b_ulti_cs2": {
+  "ze_r_w_b_ulti": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 100,
     "nomination": true,
-    "price": 600,
+    "price": 500,
     "requiredOnline": -1,
     "requiredPlayers": 45
   },
