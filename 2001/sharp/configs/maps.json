@@ -341,6 +341,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_backrooms": {
+    "admin": false,
+    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 140,
+    "nomination": true,
+    "price": 500,
+    "requiredOnline": 600,
+    "requiredPlayers": 40
+  },
   "ze_backrooms_deathbed_v1": {
     "admin": false,
     "certainTimes": [-1],
@@ -440,6 +449,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_bisounours_party": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_black_lion_p": {
     "admin": false,
     "certainTimes": [-1],
@@ -533,9 +551,9 @@
   "ze_boatescape999": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 80,
+    "cooldown": 60,
     "nomination": true,
-    "price": 500,
+    "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
@@ -918,16 +936,16 @@
     "requiredPlayers": 30
   },
   "ze_doomglaven": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 100,
     "nomination": true,
-    "price": 600,
+    "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 40
   },
   "ze_downstairs": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 80,
     "nomination": true,
@@ -939,7 +957,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 70,
-    "nomination": false,
+    "nomination": true,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": 30
@@ -1808,6 +1826,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_icecap_solo": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_iceworld_athletic_cs2": {
     "admin": false,
     "certainTimes": [-1],
@@ -2014,6 +2041,15 @@
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": 35
+  },
+  "ze_kororinpa": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
   },
   "ze_kraznov_poopata_p": {
     "admin": false,
@@ -2907,7 +2943,7 @@
     "requiredPlayers": 40
   },
   "ze_ocarina_of_time": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 100,
     "nomination": true,
@@ -3069,7 +3105,7 @@
     "requiredPlayers": 40
   },
   "ze_palace_of_minolila_cs2": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 100,
     "nomination": true,
@@ -3887,6 +3923,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_space_flight_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_squid_game": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
@@ -4444,6 +4489,15 @@
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": 25
+  },
+ "ze_umbrella_zombie": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_undead_shrine_p": {
     "admin": false,
