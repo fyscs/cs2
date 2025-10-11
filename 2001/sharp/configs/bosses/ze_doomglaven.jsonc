@@ -23,9 +23,9 @@
 {
   "Counters": [
     {
-      "iterator": "race_rat_current",
+      "iterator": "race_rat_current-hp",
       "hitbox": "race_rat_hitbox",
-      "display": "RaceRat"
+      "display": "老鼠一只"
     }
   ]
 }
