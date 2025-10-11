@@ -1,0 +1,280 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">> MAP BY live action cow <<": {
+    "translation": "地图作者:live action cow 文本:Zeyu1"
+  },
+  "*** SLAVES TO POWER ***": {
+    "translation": "权力的奴隶"
+  },
+  "*** AESTHETICS OF HATE ***": {
+    "translation": "仇恨美学"
+  },
+  "*** A SHOT IN THE DARK ***": {
+    "translation": "黑暗中的一枪"
+  },
+  "*** FALL BACK ***": {
+    "translation": "立即撤退"
+  },
+  "*** AFK TP IN 15 SECONDS ***": {
+    "translation": "15秒后传送挂机玩家"
+  },
+  "*** DOOR OPENS IN 15 SECONDS ***": {
+    "translation": "门将在15秒后开启"
+  },
+  "*** DONT LET ZOMBIES INSIDE THE ARENA ***": {
+    "translation": "不要让僵尸进入竞技场"
+  },
+  "*** 15 SECONDS ***": {
+    "translation": "15秒"
+  },
+  "*** 10 ***": {
+    "translation": "10秒"
+  },
+  "*** DONT LET ZOMBIES IN !! ***": {
+    "translation": "不要让僵尸进来"
+  },
+  "*** 40 ***": {
+    "translation": "40秒"
+  },
+  "*** 10 SECONDS LEFT ***": {
+    "translation": "剩余10秒"
+  },
+  "*** DEFEND WHILE YOUR TEAMMATES LIGHT THE FIRE PITS ***": {
+    "translation": "在队友点燃火坑时进行防守"
+  },
+  "*** FIRE PITS LIT DOOR OPENING ***": {
+    "translation": "火坑已点燃,门正在开启"
+  },
+  "*** ALL TORCHES LIT ***": {
+    "translation": "所有火炬已点燃"
+  },
+  "*** 25 ***": {
+    "translation": "25秒"
+  },
+  "*** SURVIVE FOR 120 SECONDS ***": {
+    "translation": "生存120秒"
+  },
+  "*** 15 SECONDS LEFT ***": {
+    "translation": "剩余15秒"
+  },
+  "*** DOOR CLOSES IN 20 SECONDS ***": {
+    "translation": "门将在20秒后关闭"
+  },
+  "*** GET OFF THE BRIDGE ***": {
+    "translation": "离开桥梁"
+  },
+  "*** ZOMBIE TP IN 15 SECONDS ***": {
+    "translation": "15秒后传送僵尸"
+  },
+  "*** USE TORCHES OR GRENADES ***": {
+    "translation": "使用火炬或手榴弹"
+  },
+  "*** LIGHT THE FIRE PITS TO PROGRESS ***": {
+    "translation": "点燃火坑以继续前进"
+  },
+  "*** KILL THE VIRTUES TO PROGRESS ***": {
+    "translation": "杀死美德以继续前进"
+  },
+  "*** CHECKPOINT ACTIVATED ***": {
+    "translation": "检查点已激活"
+  },
+  "*** CHECKPOINTS ENABLED ***": {
+    "translation": "检查点已启用"
+  },
+  "*** CHECKPOINTS DISABLED ***": {
+    "translation": "检查点已禁用"
+  },
+  "*** DOOR OPENS IN 30 SECONDS ***": {
+    "translation": "门将在30秒后开启"
+  },
+  "*** BLUE SKULL PICKED UP ***": {
+    "translation": "已拾取蓝色头骨"
+  },
+  "*** SOUL SURVIVOR ***": {
+    "translation": "灵魂幸存者"
+  },
+  "*** CLAIR DE LUNE ***": {
+    "translation": "月光"
+  },
+  "*** WAIT OF THE WORLD ***": {
+    "translation": "世界の等待"
+  },
+  "*** 15 ***": {
+    "translation": "15秒"
+  },
+  "*** 20 ***": {
+    "translation": "20秒"
+  },
+  "*** GET BEHIND THE CART ***": {
+    "translation": "躲到推车后面"
+  },
+  "*** HALLS OF SACRED REMAINS ***": {
+    "translation": "神圣遗骸大厅"
+  },
+  "*** COURT OF THE CORPSE KING ***": {
+    "translation": "尸王宫廷"
+  },
+  "*** SHEER HEART ATTACK ***": {
+    "translation": "纯粹心攻击"
+  },
+  "*** RED SKULL PICKED UP ***": {
+    "translation": "已拾取红色头骨"
+  },
+  "*** RELEASING ZOMBIES IN 5 SECONDS ***": {
+    "translation": "5秒后释放僵尸"
+  },
+  "*** BRIDGE LOWERING IN 20 SECONDS ***": {
+    "translation": "桥梁将在20秒后降下"
+  },
+  "*** DEFEND WHILE YOUR TEAMMATES FIND THE BLUE SKULL ***": {
+    "translation": "在队友寻找蓝色头骨时进行防守"
+  },
+  "***  FIND 3 BLUE SKULLS ***": {
+    "translation": "寻找3个蓝色头骨"
+  },
+  "*** KILL THE MINDFLAYER ***": {
+    "translation": "杀死夺心魔"
+  },
+  "*** INTO THE FIRE ***": {
+    "translation": "投入火海"
+  },
+  "*** DOOR CLOSES IN 30 SECONDS ***": {
+    "translation": "门将在30秒后关闭"
+  },
+  "*** IN TO THE FIRE ***": {
+    "translation": "进入火海"
+  },
+  "*** KNIFE THE IDOLS TO DESTROY THEM ***": {
+    "translation": "用刀破坏神像"
+  },
+  "*** SURVIVE FOR 45 SECONDS ***": {
+    "translation": "生存45秒"
+  },
+  "*** DOOR CLOSES IN 10 SECONDS ***": {
+    "translation": "门将在10秒后关闭"
+  },
+  "*** PICK UP THE BLUE SKULL ***": {
+    "translation": "拾取蓝色头骨"
+  },
+  "*** KILL THE HIDEOUS MASS ***": {
+    "translation": "杀死丑陋团块"
+  },
+  "*** KNIFE THE IDOL ***": {
+    "translation": "用刀破坏神像"
+  },
+  "*** 30 ***": {
+    "translation": "30"
+  },
+  "*** ZOMBIE CAGE BREAKS IN 5 SECONDS ***": {
+    "translation": "僵尸笼将在5秒后破裂"
+  },
+  "*** ALL SKULLS FOUND ***": {
+    "translation": "已找到所有头骨"
+  },
+  "*** 1 SKULL FOUND ***": {
+    "translation": "已找到1个头骨"
+  },
+  "*** 2 SKULLS FOUND ***": {
+    "translation": "已找到2个头骨"
+  },
+  "*** DOOR OPENS IN 20 SECONDS ***": {
+    "translation": "门将在20秒后开启"
+  },
+  "*** THE WATER HAS BEEN DRAINED ***": {
+    "translation": "水已被排干"
+  },
+  "*** PLATFORMS RISING IN 10 SECONDS ***": {
+    "translation": "平台将在10秒后升起"
+  },
+  "*** ZOMBIE TP IN 10 SECONDS ***": {
+    "translation": "10秒后传送僵尸"
+  },
+  "......": {
+    "translation": "......"
+  },
+  "*** RELEASING ZOMBIES IN 15 SECONDS ***": {
+    "translation": "15秒后释放僵尸"
+  },
+  "*** HURRY UP ***": {
+    "translation": "赶快"
+  },
+  "*** RELEASING ZOMBIES IN 20 SECONDS ***": {
+    "translation": "20秒后释放僵尸"
+  },
+  "*** SOUL SURVIVOR CHECKPOINT ***": {
+    "translation": "灵魂幸存者检查点"
+  },
+  "*** SECRETS FOUND 0/1 ***": {
+    "translation": "已找到机密 0/1"
+  },
+  "*** SECRETS FOUND 1/1 ***": {
+    "translation": "已找到机密 1/1"
+  },
+  "*** SECRETS FOUND 0/2 ***": {
+    "translation": "已找到机密 0/2"
+  },
+  "*** SECRETS FOUND 1/2 ***": {
+    "translation": "已找到机密 1/2"
+  },
+  "*** SECRETS FOUND 2/2 ***": {
+    "translation": "已找到机密 2/2"
+  },
+  "*** WARM UP ***": {
+    "translation": "热身"
+  },
+  "*** WARM UP ENDING IN 5 SECONDS ***": {
+    "translation": "热身将在5秒后结束"
+  },
+  "**CHECKPOINTS ENABLED**": {
+    "translation": "检查点已启用"
+  },
+  "**CHECKPOINTS DISABLED**": {
+    "translation": "检查点已禁用"
+  },
+  "*** TOTAL SECRETS FOUND 0/11 ***": {
+    "translation": "总计找到机密 0/11"
+  },
+  "*** TOTAL SECRETS FOUND 1/11 ***": {
+    "translation": "总计找到机密 1/11"
+  },
+  "*** TOTAL SECRETS FOUND 2/11 ***": {
+    "translation": "总计找到机密 2/11"
+  },
+  "*** TOTAL SECRETS FOUND 3/11 ***": {
+    "translation": "总计找到机密 3/11"
+  },
+  "*** TOTAL SECRETS FOUND 4/11 ***": {
+    "translation": "总计找到机密 4/11"
+  },
+  "*** TOTAL SECRETS FOUND 5/11 ***": {
+    "translation": "总计找到机密 5/11"
+  },
+  "*** TOTAL SECRETS FOUND 6/11 ***": {
+    "translation": "总计找到机密 6/11"
+  },
+  "*** TOTAL SECRETS FOUND 7/11 ***": {
+    "translation": "总计找到机密 7/11"
+  },
+  "*** TOTAL SECRETS FOUND 8/11 ***": {
+    "translation": "总计找到机密 8/11"
+  },
+  "*** TOTAL SECRETS FOUND 9/11 ***": {
+    "translation": "总计找到机密 9/11"
+  },
+  "*** TOTAL SECRETS FOUND 10/11 ***": {
+    "translation": "总计找到机密 10/11"
+  },
+  "*** TOTAL SECRETS FOUND 11/11 ***": {
+    "translation": "总计找到机密 11/11"
+  }
+}

@@ -1,0 +1,71 @@
+// Round Reward configuration file generator.
+// Reward Version v22
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // rankPasses (int)   -> 通关云点
+  // rankDamage (int)   -> 伤害结算云点比例
+  // rankIntern (float) -> 低保云点比例 (每分钟)
+  // econPasses (int)   -> 通关龙晶
+  // econDamage (int)   -> 伤害结算龙晶比例
+  // econIntern (float) -> 低保龙晶比例 (每分钟)
+
+{
+  "1": {
+    "rankPasses": 6,
+    "rankDamage": 18000,
+    "rankIntern": 0.56,
+    "econPasses": 4,
+    "econDamage": 22000,
+    "econIntern": 0.44
+  },
+  "2": {
+    "rankPasses": 10,
+    "rankDamage": 20000,
+    "rankIntern": 0.5,
+    "econPasses": 7,
+    "econDamage": 22000,
+    "econIntern": 0.4
+  },
+  "3": {
+    "rankPasses": 9,
+    "rankDamage": 18000,
+    "rankIntern": 0.55,
+    "econPasses": 7,
+    "econDamage": 20000,
+    "econIntern": 0.45
+  },
+  "4": {
+    "rankPasses": 10,
+    "rankDamage": 18000,
+    "rankIntern": 0.4,
+    "econPasses": 7,
+    "econDamage": 20000,
+    "econIntern": 0.2
+  },
+  "5": {
+    "rankPasses": 7,
+    "rankDamage": 18000,
+    "rankIntern": 0.58,
+    "econPasses": 5,
+    "econDamage": 20000,
+    "econIntern": 0.43
+  },
+  "6": {
+    "rankPasses": 7,
+    "rankDamage": 18000,
+    "rankIntern": 0.5,
+    "econPasses": 5,
+    "econDamage": 20000,
+    "econIntern": 0.4
+  },
+  "7": {
+    "rankPasses": 11,
+    "rankDamage": 18000,
+    "rankIntern": 0.55,
+    "econPasses": 9,
+    "econDamage": 22000,
+    "econIntern": 0.4
+  }
+}
