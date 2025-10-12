@@ -19,7 +19,7 @@
 
 [
   {
-    "id": "3717",
+    "id": "3846",
     "cd": 240,
     "mode": 6,
     "name": "赛跑",
@@ -27,7 +27,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3716",
+    "id": "3834",
     "cd": 240,
     "mode": 0,
     "name": "awp",
@@ -35,7 +35,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3700",
+    "id": "3868",
     "cd": 240,
     "mode": 0,
     "name": "awp",
@@ -43,7 +43,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3715",
+    "id": "3874",
     "cd": 240,
     "mode": 2,
     "name": "低重力刀战",
@@ -51,7 +51,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3715",
+    "id": "3872",
     "cd": 240,
     "mode": 5,
     "name": "BHOP",
@@ -59,7 +59,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3713",
+    "id": "3848",
     "cd": 240,
     "mode": 5,
     "name": "闯关",
@@ -67,7 +67,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3712",
+    "id": "3850",
     "cd": 240,
     "mode": 0,
     "name": "awp混战",
@@ -75,7 +75,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3711",
+    "id": "3852",
     "cd": 240,
     "mode": 0,
     "name": "ak塔",
@@ -83,7 +83,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3709",
+    "id": "3854",
     "cd": 240,
     "mode": 0,
     "name": "格洛克爆头",
@@ -91,7 +91,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3710",
+    "id": "3856",
     "cd": 240,
     "mode": 0,
     "name": "滑道新星",
@@ -99,7 +99,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3699",
+    "id": "3832",
     "cd": 240,
     "mode": 0,
     "name": "工厂爆破",
@@ -107,7 +107,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3724",
+    "id": "3858",
     "cd": 240,
     "mode": 0,
     "name": "拆箱子",
@@ -115,7 +115,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3722",
+    "id": "3862",
     "cd": 240,
     "mode": 0,
     "name": "p90",
@@ -123,7 +123,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3723",
+    "id": "3860",
     "cd": 240,
     "mode": 0,
     "name": "买枪混战",
@@ -131,7 +131,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3703",
+    "id": "3840",
     "cd": 240,
     "mode": 3,
     "name": "电击枪",
@@ -139,23 +139,23 @@
     "event": "OnPressed"
   },
   {
-    "id": "3701",
+    "id": "3842",
     "cd": 240,
     "mode": 0,
-    "name": "饥饿游戏",
+    "name": "饥饿游戏（个人战）",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "3704",
+    "id": "3836",
     "cd": 240,
     "mode": 0,
-    "name": "饥饿游戏",
+    "name": "饥饿游戏（团队战）",
     "class": "func_button",
     "event": "OnPressed"
   },
   {
-    "id": "3721",
+    "id": "3864",
     "cd": 240,
     "mode": 1,
     "name": "手雷",
@@ -163,7 +163,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3720",
+    "id": "3866",
     "cd": 240,
     "mode": 0,
     "name": "鸟狙",
@@ -171,7 +171,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3719",
+    "id": "3870",
     "cd": 240,
     "mode": 0,
     "name": "沙鹰",
@@ -179,7 +179,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3702",
+    "id": "3838",
     "cd": 240,
     "mode": 0,
     "name": "爆头沙鹰",
@@ -187,7 +187,7 @@
     "event": "OnPressed"
   },
   {
-    "id": "3718",
+    "id": "3844",
     "cd": 240,
     "mode": 0,
     "name": "黑帮火拼",
