@@ -1269,7 +1269,7 @@
     "requiredPlayers": 45
   },
   "ze_ffxii_mt_bur_omisace_v6": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 100,
     "nomination": true,
