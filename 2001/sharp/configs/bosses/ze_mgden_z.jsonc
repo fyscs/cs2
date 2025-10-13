@@ -25,7 +25,6 @@
     {
       "iterator": "boss_hp",
       "hitbox": "boss_hitbox",
-      "counter": "boss_hp_s",
       "display": "花园核心"
     },
     {
