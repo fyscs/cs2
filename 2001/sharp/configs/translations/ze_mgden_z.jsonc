@@ -14,7 +14,7 @@
     "translation": "120秒"
   },
   "**JUMP**": {
-    "translation": "跳！"
+    "translation": "跳!"
   },
   "**60**": {
     "translation": "60秒"
@@ -41,13 +41,16 @@
     "translation": "反馈渠道 Feedback channel↓"
   },
   "<<discord.gg/eXR7xumCfP>>": {
-    "translation": "discord.gg/eXR7xumCfP"
+    "translation": "discord.gg/eXR7xumCfP",
+    "blocked": true
   },
   "<<steamcommunity.com/groups/ZeroPort>>": {
     "translation": "steamcommunity.com/groups/ZeroPort"
+    "blocked": true
   },
   "<<oopz.cn/i/DGKzah>>": {
     "translation": "oopz.cn/i/DGKzah"
+    "blocked": true
   },
   "<<QQ群聊:575698325>>": {
     "translation": "QQ群聊:575698325"
