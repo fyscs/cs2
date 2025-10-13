@@ -45,15 +45,16 @@
     "blocked": true
   },
   "<<steamcommunity.com/groups/ZeroPort>>": {
-    "translation": "steamcommunity.com/groups/ZeroPort"
+    "translation": "steamcommunity.com/groups/ZeroPort",
     "blocked": true
   },
   "<<oopz.cn/i/DGKzah>>": {
-    "translation": "oopz.cn/i/DGKzah"
+    "translation": "oopz.cn/i/DGKzah",
     "blocked": true
   },
   "<<QQ群聊:575698325>>": {
-    "translation": "QQ群聊:575698325"
+    "translation": "QQ群聊:575698325"，
+    "blocked": true
   },
   "<<训练关卡>>": {
     "translation": "训练关卡"
