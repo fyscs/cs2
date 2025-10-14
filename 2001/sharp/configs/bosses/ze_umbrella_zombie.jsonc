@@ -23,11 +23,18 @@
 {
   "Counters": [
     {
-      "iterator": "math_counter",
+      "iterator": "b2_hp_counter",
       "hitbox": "boss_break",
-      "counter": "math_counter_iterations",
-      "backup": "math_counter_copy",
-      "display": "坦克"
+      "counter": "b2_bar_gerisayim",
+      "backup": "b2_hp_backup",
+      "display": "B2"
+    },
+    {
+      "iterator": "b3_hp_counter",
+      "hitbox": "boss3_break",
+      "counter": "b3_bar_gerisayim",
+      "backup": "b3_hp_backup",
+      "display": "B3"
     }
   ]
 }

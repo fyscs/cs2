@@ -1,0 +1,245 @@
+// MiniGames game mode configuration file generator.
+// MGGames Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // enum /* MiniGameMode */
+  //
+  // Invalid      = -1,
+  // Guns         = 0, // 对枪
+  // Nade         = 1, // 手雷
+  // Knife        = 2, // 拼刀
+  // Taser        = 3, // 电击枪
+  // Dodgeball    = 4, // 躲避球
+  // RaceCombat   = 5, // Race给枪    LongJump, Bhop, Race, Clmib, Combat
+  // RaceBonus    = 6, // Race刷分    LongJump, Bhop, Race, Clmib, 刷分
+  // Survival     = 7, // 生存        JumpRope, FallingBox etc...
+  // RaceSurvival = 8, // Race生存    LongJump, Bhop, Race, Clmib, Survival
+  // Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
+
+[
+  {
+    "id": "4125",
+    "cd": 180,
+    "mode": 0,
+    "name": "ak/m4",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4123",
+    "cd": 180,
+    "mode": 0,
+    "name": "空降",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4119",
+    "cd": 180,
+    "mode": 0,
+    "name": "awp",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4117",
+    "cd": 180,
+    "mode": 6,
+    "name": "长跳",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4107",
+    "cd": 180,
+    "mode": 5,
+    "name": "攀岩",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4109",
+    "cd": 180,
+    "mode": 0,
+    "name": "galil/famas",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4111",
+    "cd": 180,
+    "mode": 0,
+    "name": "sg553/aug",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4113",
+    "cd": 180,
+    "mode": 0,
+    "name": "沙鹰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4097",
+    "cd": 180,
+    "mode": 5,
+    "name": "喷子",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4099",
+    "cd": 180,
+    "mode": 0,
+    "name": "内格夫",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4101",
+    "cd": 180,
+    "mode": 0,
+    "name": "鸟狙",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4103",
+    "cd": 180,
+    "mode": 2,
+    "name": "刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4147",
+    "cd": 180,
+    "mode": 4,
+    "name": "诱饵弹",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4135",
+    "cd": 180,
+    "mode": 1,
+    "name": "手雷",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4137",
+    "cd": 180,
+    "mode": 1,
+    "name": "燃烧瓶",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4139",
+    "cd": 180,
+    "mode": 0,
+    "name": "p250",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4141",
+    "cd": 180,
+    "mode": 0,
+    "name": "双枪对决",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4143",
+    "cd": 180,
+    "mode": 5,
+    "name": "500战士",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4145",
+    "cd": 180,
+    "mode": 0,
+    "name": "低重力r8",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4105",
+    "cd": 180,
+    "mode": 3,
+    "name": "电击枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4115",
+    "cd": 180,
+    "mode": 0,
+    "name": "迷雾森林",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4121",
+    "cd": 180,
+    "mode": 0,
+    "name": "透视连狙",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4127",
+    "cd": 180,
+    "mode": 0,
+    "name": "ump45",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4093",
+    "cd": 180,
+    "mode": 0,
+    "name": "生死十秒",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4089",
+    "cd": 180,
+    "mode": 0,
+    "name": "原地对枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4192",
+    "cd": 180,
+    "mode": 0,
+    "name": "塔图",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4133",
+    "cd": 180,
+    "mode": 0,
+    "name": "大桥激战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "4131",
+    "cd": 180,
+    "mode": 0,
+    "name": "蹦床",
+    "class": "func_button",
+    "event": "OnPressed"
+  }
+]
