@@ -23,11 +23,12 @@
 {
   "Counters": [
     {
-      "iterator": "math_counter",
-      "hitbox": "boss_break",
-      "counter": "math_counter_iterations",
-      "backup": "math_counter_copy",
-      "display": "坦克"
+      "iterator": "Boss_HpCounter",
+      "backup": "BossHp_Counter_2",
+      "counter": "BossHpBar_Counter",
+      "reverse": true,
+      "hitbox": "bossbreak",
+      "display": "Apollyon"
     }
   ]
 }
