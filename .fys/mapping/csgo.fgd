@@ -1803,3 +1803,10 @@ metadata
 	input DisableShadow(void) : "Turn shadow off."
 	input EnableShadow(void) : "Turn shadow on."
 ]
+
+@PointClass iconsprite("materials/editor/point_script.vmat") = point_script
+[
+    targetname(target_source) { sort_priority = 90 } : "Name" : : "The name that other entities refer to this entity by."
+    cs_script(resource:vjs) : "cs_script"
+    input RunScriptInput(string) : "Run callback registered using OnScriptInput."
+]

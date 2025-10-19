@@ -25,6 +25,8 @@
     {
       "iterator": "math_counter",
       "hitbox": "boss_break",
+      "counter": "math_counter_iterations",
+      "backup": "math_counter_copy",
       "display": "坦克"
     }
   ]

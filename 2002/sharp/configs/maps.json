@@ -161,6 +161,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ttt_cs2_innocenttown": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ttt_cs2_mako_reactor": {
     "admin": false,
     "certainTimes": [-1],
