@@ -2,11 +2,11 @@
   "ttt_afterglow_v1": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 10
+    "requiredPlayers": -1
   },
   "ttt_antidote": {
     "admin": false,
@@ -65,7 +65,7 @@
   "ttt_closequarters": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -74,7 +74,7 @@
   "ttt_clue": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -101,7 +101,7 @@
   "ttt_cs2_amongus_beta": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -123,7 +123,7 @@
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
-    "requiredPlayers": 15
+    "requiredPlayers": 5
   },
   "ttt_cs2_damons_disco_b2": {
     "admin": false,
@@ -132,7 +132,7 @@
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
-    "requiredPlayers": 15
+    "requiredPlayers": 5
   },
   "ttt_cs2_damons_mansion_a3": {
     "admin": false,
@@ -177,7 +177,7 @@
     "nomination": false,
     "price": 400,
     "requiredOnline": -1,
-    "requiredPlayers": 20
+    "requiredPlayers": 10
   },
   "ttt_cs2_mcvillage_b3": {
     "admin": false,
@@ -191,11 +191,11 @@
   "ttt_cs2_moonjam": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
-    "requiredPlayers": 20
+    "requiredPlayers": 10
   },
   "ttt_cs2_minecraft_village": {
     "admin": false,
@@ -222,7 +222,7 @@
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
-    "requiredPlayers": 15
+    "requiredPlayers": 10
   },
   "ttt_cs2_safehouse_b1": {
     "admin": false,
@@ -245,11 +245,11 @@
   "ttt_cs2_slender_slayers": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 400,
     "requiredOnline": -1,
-    "requiredPlayers": 20
+    "requiredPlayers": 10
   },
   "ttt_cs2_terminal": {
     "admin": false,
@@ -267,7 +267,7 @@
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
-    "requiredPlayers": 20
+    "requiredPlayers": 10
   },
   "ttt_cs2_tides": {
     "admin": false,
@@ -303,21 +303,21 @@
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
-    "requiredPlayers": 15
+    "requiredPlayers": 10
   },
   "ttt_cs2_yakuza": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 350,
     "requiredOnline": -1,
-    "requiredPlayers": 15
+    "requiredPlayers": 10
   },
   "ttt_cs2minecraft_village_city": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -344,7 +344,7 @@
   "ttt_highschool": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -353,11 +353,11 @@
   "ttt_militia_original": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 15
+    "requiredPlayers": 10
   },
   "ttt_murdertown": {
     "admin": false,
@@ -380,7 +380,7 @@
   "ttt_nuketown": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -389,7 +389,7 @@
   "ttt_office_night": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -407,7 +407,7 @@
   "ttt_subway": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -416,7 +416,7 @@
   "ttt_terminal": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
