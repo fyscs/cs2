@@ -3350,7 +3350,7 @@
   "ze_popkart_r": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 120,
+    "cooldown": 80,
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
