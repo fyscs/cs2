@@ -44,10 +44,10 @@
       "display": "V2"
     },
     {
-      "iterator": "s_machine_hp_counter&0000",
-      "hitbox": "s_machine_hitbox&0000",
-      "counter": "s_machine_counter_end&0000",
-      "backup": "s_machine_hp_backup&0000",
+      "iterator": "s_machine_hp_counter",
+      "hitbox": "s_machine_hitbox",
+      "counter": "s_machine_counter_end",
+      "backup": "s_machine_hp_backup",
       "display": "S_Machine"
     },
     {
@@ -58,10 +58,10 @@
       "display": "S_Machine"
     },
     {
-      "iterator": "h_mass_hp_counter&0000",
-      "hitbox": "h_mass_hitbox&0000",
-      "counter": "h_mass_counter_end&0000",
-      "backup": "h_mass_hp_backup&0000",
+      "iterator": "h_mass_hp_counter",
+      "hitbox": "h_mass_hitbox",
+      "counter": "h_mass_counter_end",
+      "backup": "h_mass_hp_backup",
       "display": "H_Mass"
     },
     {
