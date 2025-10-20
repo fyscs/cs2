@@ -1,0 +1,46 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "30 Second - Defend The Hotel": {
+    "translation": "30秒 - 防守旅馆"
+  },
+  "60 Second - Defend The Places": {
+    "translation": "60秒 - 防守据点"
+  },
+  "60 Second - Defend The Dublex": {
+    "translation": "60秒 - 防守双层楼"
+  },
+  "10 Second - Fall Back": {
+    "translation": "10秒"
+  },
+  "40 Second - Defend The Zone": {
+    "translation": "40秒 - 防守区域"
+  },
+  "10 Second - Defend The Truck": {
+    "translation": "10秒 - 防守卡车"
+  },
+  "20 Second - Fall Back": {
+    "translation": "20秒"
+  },
+  "30 Second - Defend": {
+    "translation": "30秒 - 防守"
+  },
+  "50 Second - Defend The House": {
+    "translation": "50秒 - 防守房屋"
+  },
+  "30 Second - Fall Back": {
+    "translation": "30秒"
+  },
+  "5 Second. Warning": {
+    "translation": "5秒"
+  }
+}
