@@ -123,7 +123,7 @@
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
-    "requiredPlayers": 5
+    "requiredPlayers": -1
   },
   "ttt_cs2_damons_disco_b2": {
     "admin": false,
@@ -132,7 +132,7 @@
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
-    "requiredPlayers": 5
+    "requiredPlayers": -1
   },
   "ttt_cs2_damons_mansion_a3": {
     "admin": false,
