@@ -11,31 +11,31 @@
 
 {
   "*** YOU FAILED! ***": {
-    "translation": "*** 你失败了,caibi! ***"
+    "translation": " 你失败了 caibi "
   },
   "*** ELEVATOR ARRIVES IN 40 SECONDS ***": {
-    "translation": "*** 电梯40秒后抵达达 ***"
+    "translation": " 电梯40秒后抵达达 "
   },
   "*** ELEVATOR ARRIVES IN 10 SECONDS ***": {
-    "translation": "*** 还剩10秒 ***"
+    "translation": " 还剩10秒 "
   },
   "*** DODGE THE LASERS ***": {
-    "translation": "*** 躲避激光 ***"
+    "translation": " 躲避激光 "
   },
   "*** OR GO TO JAIL! ***": {
-    "translation": "*** 不然就去当躺赢狗! ***"
+    "translation": " 不然就去当躺赢狗! "
   },
   "*** JUST A TRIM ***": {
-    "translation": "*** 只是小小的一点优化 ***"
+    "translation": " 只是小小的一点优化 "
   },
   "*** ELEVATOR LEAVES IN 15 SECONDS ***": {
-    "translation": "*** 电梯15秒后离开 ***"
+    "translation": " 电梯15秒后离开 "
   },
   "*** ZOMBIE TELEPORT IN 10 SECONDS ***": {
-    "translation": "*** 僵尸10秒后传送 ***"
+    "translation": " 僵尸10秒后传送 "
   },
   "*** [B]OATS START IN 5 SECONDS ***": {
-    "translation": "*** [B]船只5秒后启动 ***"
+    "translation": " [B]船只5秒后启动 "
   },
   "Today, every inhabitant of this planet, must contemplate the day when this planet may no longer be habitable.": {
     "translation": "今天,这个星球上的每个居民都必须思考这个星球可能不再适宜居住的那一天"
@@ -50,129 +50,129 @@
     "translation": "战争武器必须被废除,在它们消灭我们之前"
   },
   "*** MAP BY: eastern swiss power ***": {
-    "translation": "*** 地图作者: eastern swiss power 文本: 白姬***"
+    "translation": " 地图作者: eastern swiss power 文本: 白姬"
   },
   "*** THANKS TO: Syoudous ***": {
-    "translation": "*** 特别感谢: Syoudous ***"
+    "translation": " 特别感谢: Syoudous "
   },
   "*** CONGRATULATIONS ***": {
-    "translation": "*** 恭喜通关 ***"
+    "translation": " 恭喜通关 "
   },
   "*** YOU [B]EAT THE MAP! ***": {
-    "translation": "*** 你成功的rushB了! ***"
+    "translation": " 你成功的rushB了! "
   },
   "[PRESTIGE90] MODE": {
     "translation": "[PRESTIGE90] 模式"
   },
   "*** P90 ONLY! ***": {
-    "translation": "*** 只能使用P90! ***"
+    "translation": " 只能使用P90! "
   },
   "*** TELEPORT IN 20 SECONDS ***": {
-    "translation": "*** 20秒后传送 ***"
+    "translation": " 20秒后传送 "
   },
   "*** 10 SECONDS ***": {
-    "translation": "*** 10秒 ***"
+    "translation": " 10秒 "
   },
   "*** DOOR OPENS IN 20 SECONDS ***": {
-    "translation": "*** 门20秒后开启 ***"
+    "translation": " 门20秒后开启 "
   },
   "*** SECURITY SYSTEM SHUTTING DOWN... ***": {
-    "translation": "*** 安全系统关闭中... ***"
+    "translation": " 安全系统关闭中... "
   },
   "*** DOOR OPENS IN 30 SECONDS ***": {
-    "translation": "*** 门30秒后开启 ***"
+    "translation": " 门30秒后开启 "
   },
   "*** ZOMBIES TELEPORT IN 10 SECONDS ***": {
-    "translation": "*** 僵尸10秒后传送 ***"
+    "translation": " 僵尸10秒后传送 "
   },
   "*** WE DON'T HAVE THE RIGHT EQUIPMENT TO OPEN THE SAFE ***": {
-    "translation": "*** 我们没有合适的工具打开保险箱 ***"
+    "translation": " 我们没有合适的工具打开保险箱 "
   },
   "*** TIME FOR PLAN [B] ***": {
-    "translation": "*** 该启动plan[B]了 ***"
+    "translation": " 该启动plan[B]了 "
   },
   "*** PLANT THE [B]OMB! ***": {
-    "translation": "*** 安装[B]炸弹! ***"
+    "translation": " 安装[B]炸弹! "
   },
   "*** TELEPHONE DIALING... ***": {
-    "translation": "*** 电话拨号中... ***"
+    "translation": " 电话拨号中... "
   },
   "*** ... CONNECTION ESTABLISHED! ***": {
-    "translation": "*** ... 连接已建立!! ***"
+    "translation": " ... 连接已建立!! "
   },
   "*** LOOK UP ***": {
-    "translation": "*** 向上看 ***"
+    "translation": " 向上看 "
   },
   "*** AND DODGE THE MATRIX CODE ***": {
-    "translation": "*** 躲避矩阵代码 ***"
+    "translation": " 躲避矩阵代码 "
   },
   "***DOOR BREAKS IN 15 SECONDS***": {
-    "translation": "***门15秒后破坏***"
+    "translation": "门15秒后破坏"
   },
   "*** THIS LOOKS LIKE A DEAD END... ***": {
-    "translation": "*** 这看起来是死路... ***"
+    "translation": " 这看起来是死路... "
   },
   "*** TRY TO SETUP A PHONE CONNECTION ***": {
-    "translation": "*** 尝试建立电话连接 ***"
+    "translation": " 尝试建立电话连接 "
   },
   "*** GIVE ME SOME SECONDS TO FIND THE CORRECT KEY ***": {
-    "translation": "*** 给我几秒钟找到正确的钥匙 ***"
+    "translation": " 给我几秒钟找到正确的钥匙 "
   },
   "*** [B]LYAT TOO MANY KEYS ***": {
-    "translation": "*** [B]妈了个巴子,钥匙太多了 ***"
+    "translation": " [B]妈了个巴子,钥匙太多了 "
   },
   "*** ALMOST DONE ***": {
-    "translation": "*** 即将完成 ***"
+    "translation": " 即将完成 "
   },
   "*** F%&K, THE PATH IS BLOCKED... ***": {
-    "translation": "*** 草(某种植物), 路被堵住了... ***"
+    "translation": " 草(某种植物), 路被堵住了... "
   },
   "*** ONE OF THE DOORS UNLOCK SOON ***": {
-    "translation": "*** 其中一扇门即将解锁 ***"
+    "translation": " 其中一扇门即将解锁 "
   },
   "*** ... WE NEED TO FIND ANOTHER WAY ***": {
-    "translation": "*** ...我们需要另寻出路 ***"
+    "translation": " ...我们需要另寻出路 "
   },
   "*** CHECK THE DOORS ***": {
-    "translation": "*** 检查门 ***"
+    "translation": " 检查门 "
   },
   "*** CRACKING THE CODE OF THE DOOR... ***": {
-    "translation": "*** 正在破译门禁密码... ***"
+    "translation": " 正在破译门禁密码... "
   },
   "*** HUMAN ITEM SPAWNED! ***": {
-    "translation": "*** H人类道具已生成! ***"
+    "translation": " 人类道具已生成! "
   },
   "*** ZOMBIE ITEM SPAWNED! ***": {
-    "translation": "*** 僵尸道具已生成! ***"
+    "translation": " 僵尸道具已生成! "
   },
   "*** SURVIVE THE LAST HOLD! ***": {
-    "translation": "*** 坚持到最后! ***"
+    "translation": " 坚持到最后! "
   },
   "*** LASER WALL ITEM PICKED UP ***": {
-    "translation": "*** 获得激光墙道具 ***"
+    "translation": " 获得激光墙道具 "
   },
   "*** FIDGET SPINNER PICKED UP ***": {
-    "translation": "*** 获得指尖陀螺 ***"
+    "translation": " 获得指尖陀螺 "
   },
   "*** JIHAD ITEM PICKED UP ***": {
-    "translation": "*** 获得自爆道具 ***"
+    "translation": " 获得自爆道具 "
   },
   "*** MONEY ITEM PICKED UP ***": {
-    "translation": "*** 获得金钱道具 ***"
+    "translation": " 获得金钱道具 "
   },
   "*** [B]RIDGE DEACTIVATING IN 10 SECONDS ***": {
-    "translation": "*** [B]桥梁10秒后关闭  ***"
+    "translation": " [B]桥梁10秒后关闭  "
   },
   "*** [B]RIDGE ACTIVATING IN 5 SECONDS ***": {
-    "translation": "*** [B]桥梁5秒后启动 ***"
+    "translation": " [B]桥梁5秒后启动 "
   },
   "*** LASERS TURNING OFF IN 20 SECONDS ***": {
-    "translation": "*** 激光20秒后关闭 ***"
+    "translation": " 激光20秒后关闭 "
   },
   "*** LASER WALL DEACTIVATES IN 50 SECONDS ***": {
-    "translation": "*** 激光墙50秒后关闭 ***"
+    "translation": " 激光墙50秒后关闭 "
   },
   "*** LASER WALL DEACTIVATES IN 10 SECONDS ***": {
-    "translation": "*** 激光墙10秒后关闭 ***"
+    "translation": " 激光墙10秒后关闭 "
   }
 }
