@@ -3662,6 +3662,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+    "ze_rush_b": {
+    "admin": true,
+    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 450,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
   "ze_s_a_m": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
