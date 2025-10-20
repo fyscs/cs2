@@ -32,13 +32,13 @@
       "hitbox": "Genichiro_b_Box",
       "display": "苇名弦一郎-终"
     },
-        {
+    {
       "iterator": "Always_T_Hp",
       "hitbox": "Always_T_Box",
       "display": "永真"
     }
   ],
-    "Monsters": [
+  "Monsters": [
     {
       "identity": "7223",
       "display": "火牛"
