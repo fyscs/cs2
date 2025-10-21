@@ -85,7 +85,7 @@
     "countdown": 30
   },
   "火焰熄灭了，继续前进！": {
-    "translation": "火焰熄灭了，继续前进！"
+    "translation": "火焰熄灭了,继续前进!"
   },
   ">>> 火车将在 10 秒后启动 <<<": {
     "translation": ">>> 火车将在 10 秒后启动 <<<",
@@ -203,7 +203,7 @@
     "translation": "**  But there's a part of me that roams (但我身体的某个部分仍在游荡)  **"
   },
   "**  That belongs to the road and begs me to run (乞求我逃离，脚下的路就是归属)  **": {
-    "translation": "**  That belongs to the road and begs me to run (乞求我逃离，脚下的路就是归属)  **"
+    "translation": "**  That belongs to the road and begs me to run (乞求我逃离,脚下的路就是归属)  **"
   },
   "**  To runaway from the world (逃离这世界)  **": {
     "translation": "**  To runaway from the world (逃离这世界)  **"
@@ -269,13 +269,13 @@
     "translation": "**  Run (逃离)  **"
   },
   "**  （逃离这世界）逃离这世界  **": {
-    "translation": "**  （逃离这世界）逃离这世界  **"
+    "translation": "**  (逃离这世界)逃离这世界  **"
   },
   "**  (Runaway from the world) Leave it all behind （逃离这世界）不顾一切  **": {
-    "translation": "**  (Runaway from the world) Leave it all behind （逃离这世界）不顾一切  **"
+    "translation": "**  (Runaway from the world) Leave it all behind (逃离这世界)不顾一切  **"
   },
   "**  (Runaway from the world) Runaway from the world （逃离这世界）逃离这世界  **": {
-    "translation": "**  (Runaway from the world) Runaway from the world （逃离这世界）逃离这世界  **"
+    "translation": "**  (Runaway from the world) Runaway from the world (逃离这世界)逃离这世界  **"
   },
   "这些木板看起来不太牢固...当心一点...": {
     "translation": "这些木板看起来不太牢固...当心一点..."
