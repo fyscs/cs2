@@ -279,7 +279,7 @@
     "requiredPlayers": 40
   },
   "ze_atix_apocalypse_p": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 60,
     "nomination": false,
