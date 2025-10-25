@@ -10,93 +10,132 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "<!> ワイヤーを取り壊すまで 10 秒 <!>": {
+  "<!> ワイヤーを取り壊すまで -- Break the wire 10 sec <!>": {
     "translation": "大门还有10秒开启 <!>",
     "blocked": true
   },
-  "<!> ワイヤーを取り壊すまで 30 秒 <!>": {
-    "translation": "大门将在30秒后打开 <!>",
+  "<!> ワイヤーを取り壊すまで -- Break the wire 30 sec <!>": {
+    "translation": "大门将在30秒后打开",
     "countdown": 30
   },
-  "<!> 大岩をどかす 10 秒 <!>": {
-    "translation": "岩石还有10秒破坏 <!>",
+  "<!> 大岩をどかす -- Move the large rock 10 sec <!>": {
+    "translation": "岩石还有10秒破坏",
     "blocked": true
   },
-  "<!> 大岩をどかす 30 秒 <!>": {
-    "translation": "岩石还有30秒破坏<!>",
+  "<!> 大岩をどかす -- Move the large rock 30 sec <!>": {
+    "translation": "岩石还有30秒破坏",
     "countdown": 30
   },
-  "<!> ドアが開くまで 10 秒 <!>": {
-    "translation": "门还有10秒开放 <!>",
+  "<!> ドアが開くまで -- Door open 10 sec <!>": {
+    "translation": "门还有10秒开放",
     "blocked": true
   },
-  "<!> ドアが開くまで 30 秒 <!>": {
-    "translation": "门还有30秒开放 <!>",
+  "<!> ドアが開くまで -- Door open 30 sec <!>": {
+    "translation": "门还有30秒开放",
     "countdown": 30
   },
-  "<!> 橋を上げるまで 10 秒 <!>": {
-    "translation": "平台将在10秒后升起 <!>",
+  "<!> 橋を上げるまで -- Scaffolding appears 10 sec <!>": {
+    "translation": "平台将在10秒后升起",
     "blocked": true
   },
-  "<!> 橋を上げるまで 30 秒 <!>": {
-    "translation": "平台将在30秒后升起 <!>",
+  "<!> 橋を上げるまで -- Scaffolding appears 30 sec <!>": {
+    "translation": "平台将在30秒后升起",
     "countdown": 30
   },
-  "<!> 運搬機の起動まで 10 秒 <!>": {
-    "translation": "运输机将在10秒后启动 <!>",
-    "blocked": true
+  "<!> 運搬機の起動まで -- Move ramp 10 sec <!>": {
+    "translation": "还有10秒",
+    "clearTimer": true
   },
-  "<!> 運搬機の起動まで 40 秒 <!>": {
-    "translation": "运输机将在40秒后启动 <!>",
+  "<!> 運搬機の起動まで -- Move ramp 40 sec <!>": {
+    "translation": "运输机将在40秒后启动",
     "countdown": 40
   },
-  "<!> 別の起動ボタンも必要のようだ... <!>": {
+  "<!> 別のボタンも必要だ -- Another button is also needed <!>": {
     "translation": "按钮似乎在别处的地方,找到它..."
   },
-  "<!> ワイヤーを取り壊すまで 50 秒 <!>": {
-    "translation": "剩余50秒门开 <!>",
+  "<!> ワイヤーを取り壊すまで -- Break the wire 50 sec <!>": {
+    "translation": "还剩50秒",
     "countdown": 50
   },
-  "<!> 倒木を取り除いている 10 秒 <!>": {
-    "translation": "滑翔板将在10秒后升起(往下坡可能滑不上去请注意) <!>",
+  "<!> 倒木をどかす -- Clear away fallen trees 10 sec <!>": {
+    "translation": "滑翔板将在10秒后升起(往下坡可能滑不上去请注意)",
     "blocked": true
   },
-  "<!> 倒木を取り除いている 30 秒 <!>": {
-    "translation": "滑翔板将在30秒后升起 <!>",
+  "<!> 倒木をどかす -- Clear away fallen trees 30 sec <!>": {
+    "translation": "滑翔板将在30秒后升起",
     "blocked": true
   },
-  "<!> 倒木を取り除いている 40 秒 <!>": {
-    "translation": "滑翔板将在40秒后升起 <!>",
+  "<!> 倒木をどかす -- Clear away fallen trees 40 sec <!>": {
+    "translation": "滑翔板将在40秒后升起",
     "countdown": 40
   },
   "<!> ドアが開くまで 50 秒 <!>": {
-    "translation": "大门将在50秒后打开 <!>",
+    "translation": "大门将在50秒后打开",
     "countdown": 50
   },
-  "<!> ここが最後の防衛です！ 60 秒 <!>": {
-    "translation": "这将是最后的防守! 殊死一战这60秒 <!>",
+  "<!> ここが最後の防衛です！ -- Last Defend 60 sec <!>": {
+    "translation": "还剩60秒",
     "countdown": 60
   },
-  "<!> ここが最後の防衛です！ 10 秒 <!>": {
-    "translation": "战斗或者死亡! 最后的10秒 <!>",
+  "<!> ここが最後の防衛です！ -- Last Defend 10 sec <!>": {
+    "translation": "最后10秒",
+    "clearTimer": true
+  },
+  "<!> 足場を上げるまで -- Scaffolding appears 10 sec <!>": {
+    "translation": "距离滑翔板升起还有10秒",
     "blocked": true
   },
-  "<!> 足場を上げるまで 10 秒 <!>": {
-    "translation": "距离滑翔板升起还有10秒 <!>",
-    "blocked": true
-  },
-  "<!> 足場を上げるまで 30 秒 <!>": {
-    "translation": "距离滑翔板升起还有30秒 <!>",
+  "<!> 足場を上げるまで -- Scaffolding appears 30 sec <!>": {
+    "translation": "距离滑翔板升起还有30秒",
     "countdown": 30
   },
-  "<!>まもなくゾンビが開放されます <!>": {
+  "<!>ゾンビが開放される -- Zombies will be unleashed soon <!>": {
     "translation": "僵尸将在不久后传送"
   },
-  "<!> 大岩をどかす 20 秒 <!>": {
-    "translation": "岩石还有20秒破坏 <!>",
+  "<!> 大岩をどかす -- Move the large rock 20 sec <!>": {
+    "translation": "岩石还有20秒破坏",
     "countdown": 20
   },
-  "*** LV2に移行 ***": {
+  "*** LV2 ***": {
     "translation": "*** 关卡二:旅途的终点 ***"
+  },
+  "<!> 洞窟から謎の悲鳴が響き渡る！ -- Mysterious screams echo from the cave ! <!>": {
+    "translation": "神秘的洞穴传来了尖叫声"
+  },
+  "<!> 山の神が目覚めた！ -- The mountain god has awakened ! <!>": {
+    "translation": "山神已苏醒"
+  },
+  "山の神 - Dunatis :": {
+    "translation": "山神 - The Dunatis :"
+  },
+  "「シンニュウシャアリ。ハイジョセヨ ! ハイジョセヨ ! !」": {
+    "translation": "*警告!发现非法入侵者!"
+  },
+  "<!> ？？？？？ 60 sec <!>": {
+    "translation": "还剩60秒",
+    "countdown": 60
+  },
+  "<!> ？？？？？ 10 sec <!>": {
+    "translation": "还剩10秒",
+    "blocked": true
+  },
+  "<!> 防衛システムが発動する -- The defense system activates. 30 sec <!>": {
+    "translation": "防御系统将在30秒后启动",
+    "countdown": 30
+  },
+  "<!> 防衛システムが発動する -- The defense system activates. 10 sec <!>": {
+    "translation": "防御系统将在10秒后启动",
+    "blocked": true
+  },
+  "「ビビビ、ジンダイナソンショウヲカクニン。キノウテイシ。キノウテイシ。」": {
+    "translation": "哔-哔-确认神代那森受伤,系统停止运行"
+  },
+  "<!> 戦闘勝利！！ <!>": {
+    "translation": "<!> 戦闘勝利！！ <!>",
+    "blocked": true
+  },
+  "<!> せんせいの人形を手に入れた！ -- Got the doll ! <!>": {
+    "translation": "得到了玩偶",
+    "blocked": true
   }
 }
