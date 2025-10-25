@@ -27,7 +27,7 @@
     "countdown": 30
   },
   ">>> 30 <<<": {
-    "translation": ">>> 30 <<<",
+    "translation": "30",
     "countdown": 30
   },
   ">>> 通往地下区域的门将在 40 秒后打开 <<<": {
@@ -92,13 +92,13 @@
     "countdown": 10
   },
   "**  What doesn't kill you (那些杀不死我的)  **": {
-    "translation": "What doesn't kill you(那些杀不死我的)"
+    "translation": "What doesn't kill you (那些杀不死我的)"
   },
   "**  Makes you wish you were dead (只会让我生不如死)  **": {
-    "translation": "Makes you wish you were dead(只会让我生不如死)"
+    "translation": "Makes you wish you were dead (只会让我生不如死)"
   },
   "**  Got a hole in my soul growing deeper and deeper (灵魂的缺口越陷越深)  **": {
-    "translation": "Got a hole in my soul growing deeper and deeper(灵魂的缺口越陷越深)"
+    "translation": "Got a hole in my soul growing deeper and deeper (灵魂的缺口越陷越深)"
   },
   "**  And I can't take (我无法再忍受)  **": {
     "translation": "And I can't take (我无法再忍受)"
@@ -347,7 +347,7 @@
     "translation": "有人吃掉了披萨!(This pizza is not aggresive)"
   },
   ">>> 10 <<<": {
-    "translation": ">>> 10 <<<",
+    "translation": "10",
     "countdown": 10
   },
   ">>> 当前结局：深渊归寂 <<<": {
