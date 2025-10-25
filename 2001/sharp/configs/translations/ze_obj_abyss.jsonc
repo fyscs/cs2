@@ -27,7 +27,7 @@
     "countdown": 30
   },
   ">>> 30 <<<": {
-    "translation": ">>> 30 <<<",
+    "translation": "30",
     "countdown": 30
   },
   ">>> 通往地下区域的门将在 40 秒后打开 <<<": {
@@ -44,7 +44,7 @@
     "translation": "小心玻璃..."
   },
   ">>> 大约 30 秒后撤退 <<<": {
-    "translation": ">>> 大约 30 秒后撤退 <<<",
+    "translation": "大约 30 秒后撤退",
     "countdown": 30
   },
   ">>> 挡路的障碍将于 30 秒后清除 <<<": {
@@ -92,190 +92,190 @@
     "countdown": 10
   },
   "**  What doesn't kill you (那些杀不死我的)  **": {
-    "translation": "**  What doesn't kill you(那些杀不死我的) **"
+    "translation": "What doesn't kill you (那些杀不死我的)"
   },
   "**  Makes you wish you were dead (只会让我生不如死)  **": {
-    "translation": "**  Makes you wish you were dead(只会让我生不如死)  **"
+    "translation": "Makes you wish you were dead (只会让我生不如死)"
   },
   "**  Got a hole in my soul growing deeper and deeper (灵魂的缺口越陷越深)  **": {
-    "translation": "**  Got a hole in my soul growing deeper and deeper(灵魂的缺口越陷越深)  **"
+    "translation": "Got a hole in my soul growing deeper and deeper (灵魂的缺口越陷越深)"
   },
   "**  And I can't take (我无法再忍受)  **": {
-    "translation": "**  And I can't take (我无法再忍受)  **"
+    "translation": "And I can't take (我无法再忍受)"
   },
   "**  One more moment of this silence (这沉默的每一秒)  **": {
-    "translation": "**  One more moment of this silence (这沉默的每一秒)  **"
+    "translation": "One more moment of this silence (这沉默的每一秒)"
   },
   "**  The loneliness is haunting me (孤独如影随形)  **": {
-    "translation": "**  The loneliness is haunting me (孤独如影随形)  **"
+    "translation": "The loneliness is haunting me (孤独如影随形)"
   },
   "**  And the weight of the world's getting harder to hold up (世界的重量快将我压垮)  **": {
-    "translation": "**  And the weight of the world's getting harder to hold up (世界的重量快将我压垮)  **"
+    "translation": "And the weight of the world's getting harder to hold up (世界的重量快将我压垮)"
   },
   "**  It comes in waves, I close my eyes (痛苦如潮涌来 我闭上双眼)  **": {
-    "translation": "**  It comes in waves, I close my eyes (痛苦如潮涌来 我闭上双眼)  **"
+    "translation": "It comes in waves, I close my eyes (痛苦如潮涌来 我闭上双眼)"
   },
   "**  Hold my breath and let it bury me (屏住呼吸任其将我埋葬)  **": {
-    "translation": "**  Hold my breath and let it bury me (屏住呼吸任其将我埋葬)  **"
+    "translation": "Hold my breath and let it bury me (屏住呼吸任其将我埋葬)"
   },
   "**  I'm not okay and it's not alright (我撑不住了 一切都不对劲)  **": {
-    "translation": "**  I'm not okay and it's not alright (我撑不住了 一切都不对劲)  **"
+    "translation": "I'm not okay and it's not alright (我撑不住了 一切都不对劲)"
   },
   "**  Won't you drag the lake and bring me home again? (能否打捞湖底 带我回家？)  **": {
-    "translation": "**  Won't you drag the lake and bring me home again? (能否打捞湖底 带我回家?)  **"
+    "translation": "Won't you drag the lake and bring me home again? (能否打捞湖底 带我回家?)"
   },
   "**  Who will fix me now? (现在谁来拯救我？)  **": {
-    "translation": "**  Who will fix me now? (现在谁来拯救我?)  **"
+    "translation": "Who will fix me now? (现在谁来拯救我?)"
   },
   "**  Dive in when I'm down? (当我沉沦时谁来相伴？)  **": {
-    "translation": "**  Dive in when I'm down? (当我沉沦时谁来相伴?)  **"
+    "translation": "Dive in when I'm down? (当我沉沦时谁来相伴?)"
   },
   "**  Save me from myself (将我从自我中解救)  **": {
-    "translation": "**  Save me from myself (将我从自我中解救)  **"
+    "translation": "Save me from myself (将我从自我中解救)"
   },
   "**  Don't let me drown (别让我溺亡)  **": {
-    "translation": "**  Don't let me drown (别让我溺亡)  **"
+    "translation": "Don't let me drown (别让我溺亡)"
   },
   "**  Who will make me fight? (现在谁来唤醒我？)  **": {
-    "translation": "**  Who will make me fight? (现在谁来唤醒我?)  **"
+    "translation": "Who will make me fight? (现在谁来唤醒我?)"
   },
   "**  Drag me out alive? (将奄奄一息的我拖出深渊？)  **": {
-    "translation": "**  Drag me out alive? (将奄奄一息的我拖出深渊?)  **"
+    "translation": "Drag me out alive? (将奄奄一息的我拖出深渊?)"
   },
   "**  What doesn't destroy you (那些摧毁不了我的)  **": {
-    "translation": "**  What doesn't destroy you (那些摧毁不了我的)  **"
+    "translation": "What doesn't destroy you (那些摧毁不了我的)"
   },
   "**  Leaves you broken instead (只留下支离破碎)  **": {
-    "translation": "**  Leaves you broken instead (只留下支离破碎)  **"
+    "translation": "Leaves you broken instead (只留下支离破碎)"
   },
   "**  'Cause you know that I can't do this on my own (你明知我无法独自承受)  **": {
-    "translation": "**  'Cause you know that I can't do this on my own (你明知我无法独自承受)  **"
+    "translation": "'Cause you know that I can't do this on my own (你明知我无法独自承受)"
   },
   "**  ('Cause you know that I can't do this on my...) （你明知我无法独自...）  **": {
-    "translation": "**  ('Cause you know that I can't do this on my...) (你明知我无法独自...)  **"
+    "translation": "('Cause you know that I can't do this on my...) (你明知我无法独自...)"
   },
   "**  I've got a lot to lose (我已失去了很多)  **": {
-    "translation": "**  I've got a lot to lose (我已失去了很多)  **"
+    "translation": "I've got a lot to lose (我已失去了很多)"
   },
   "**  But I won't lie to you (但我不会对你说半句谎言)  **": {
-    "translation": "**  But I won't lie to you (但我不会对你说半句谎言)  **"
+    "translation": "But I won't lie to you (但我不会对你说半句谎言)"
   },
   "**  And make believe sincerity (请你相信我的真诚)  **": {
-    "translation": "**  And make believe sincerity (请你相信我的真诚)  **"
+    "translation": "And make believe sincerity (请你相信我的真诚)"
   },
   "**  I'm praying for a remedy (我祈求拯救这一切的解药)  **": {
-    "translation": "**  I'm praying for a remedy (我祈求拯救这一切的解药)  **"
+    "translation": "I'm praying for a remedy (我祈求拯救这一切的解药)"
   },
   "**  Beloved distant blue (亲爱的遥远的地球)  **": {
-    "translation": "**  Beloved distant blue (亲爱的遥远的地球)  **"
+    "translation": "Beloved distant blue (亲爱的遥远的地球)"
   },
   "**  One day I'll die for you (终有一日我将会为你而死去)  **": {
-    "translation": "**  One day I'll die for you (终有一日我将会为你而死去)  **"
+    "translation": "One day I'll die for you (终有一日我将会为你而死去)"
   },
   "**  And swim in sweet serenity (然后在甜蜜的宁静畅游)  **": {
-    "translation": "**  And swim in sweet serenity (然后在甜蜜的宁静畅游)  **"
+    "translation": "And swim in sweet serenity (然后在甜蜜的宁静畅游)"
   },
   "**  'Cause death is not my enemy (因为死亡不是我的敌人)  **": {
-    "translation": "**  'Cause death is not my enemy (因为死亡不是我的敌人)  **"
+    "translation": "'Cause death is not my enemy (因为死亡不是我的敌人)"
   },
   "**  'Cause death is not my enemy (因为死亡不是我的终点)  **": {
-    "translation": "**  'Cause death is not my enemy (因为死亡不是我的终点)  **"
+    "translation": "'Cause death is not my enemy (因为死亡不是我的终点)"
   },
   "**  I've never wanted to be (我不曾愿意变成)  **": {
-    "translation": "**  I've never wanted to be (我不曾愿意变成)  **"
+    "translation": "I've never wanted to be (我不曾愿意变成)"
   },
   "**  What you want me to be (你期望中的模样)  **": {
-    "translation": "**  What you want me to be (你期望中的模样)  **"
+    "translation": "What you want me to be (你期望中的模样)"
   },
   "**  It's like I've lost myself in finding my way (也许我已迷失方向)  **": {
-    "translation": "**  It's like I've lost myself in finding my way (也许我已迷失方向)  **"
+    "translation": "It's like I've lost myself in finding my way (也许我已迷失方向)"
   },
   "**  I feel it creeping in (不知不觉间)  **": {
-    "translation": "**  I feel it creeping in (不知不觉间)  **"
+    "translation": "I feel it creeping in (不知不觉间)"
   },
   "**  Patience is wearing thin (耐心日渐消磨)  **": {
-    "translation": "**  Patience is wearing thin (耐心日渐消磨)  **"
+    "translation": "Patience is wearing thin (耐心日渐消磨)"
   },
   "**  If I could help myself I would (可惜我无法自控)  **": {
-    "translation": "**  If I could help myself I would (可惜我无法自控)  **"
+    "translation": "If I could help myself I would (可惜我无法自控)"
   },
   "**  But there's a part of me that roams (但我身体的某个部分仍在游荡)  **": {
-    "translation": "**  But there's a part of me that roams (但我身体的某个部分仍在游荡)  **"
+    "translation": "But there's a part of me that roams (但我身体的某个部分仍在游荡)"
   },
   "**  That belongs to the road and begs me to run (乞求我逃离，脚下的路就是归属)  **": {
-    "translation": "**  That belongs to the road and begs me to run (乞求我逃离,脚下的路就是归属)  **"
+    "translation": "That belongs to the road and begs me to run (乞求我逃离,脚下的路就是归属)"
   },
   "**  To runaway from the world (逃离这世界)  **": {
-    "translation": "**  To runaway from the world (逃离这世界)  **"
+    "translation": "To runaway from the world (逃离这世界)"
   },
   "**  To leave it all behind (不顾一切)  **": {
-    "translation": "**  To leave it all behind (不顾一切)  **"
+    "translation": "To leave it all behind (不顾一切)"
   },
   "**  To strip it away and see what's on the inside (剥开表象看那本质)  **": {
-    "translation": "**  To strip it away and see what's on the inside (剥开表象看那本质)  **"
+    "translation": "To strip it away and see what's on the inside (剥开表象看那本质)"
   },
   "**  So I'm facing my fears (我直面恐惧)  **": {
-    "translation": "**  So I'm facing my fears (我直面恐惧)  **"
+    "translation": "So I'm facing my fears (我直面恐惧)"
   },
   "**  And taking my time (从容自如)  **": {
-    "translation": "**  And taking my time (从容自如)  **"
+    "translation": "And taking my time (从容自如)"
   },
   "**  I've always tried to be (我不曾放弃努力)  **": {
-    "translation": "**  I've always tried to be (我不曾放弃努力)  **"
+    "translation": "I've always tried to be (我不曾放弃努力)"
   },
   "**  What you needed from me (去满足你的期许)  **": {
-    "translation": "**  What you needed from me (去满足你的期许)  **"
+    "translation": "What you needed from me (去满足你的期许)"
   },
   "**  And along the way forgot who I am (一路走来忘了自己是谁)  **": {
-    "translation": "**  And along the way forgot who I am (一路走来忘了自己是谁)  **"
+    "translation": "And along the way forgot who I am (一路走来忘了自己是谁)"
   },
   "**  I'm sorry for getting cold (我为自己的冷酷深感抱歉)  **": {
-    "translation": "**  I'm sorry for getting cold (我为自己的冷酷深感抱歉)  **"
+    "translation": "I'm sorry for getting cold (我为自己的冷酷深感抱歉)"
   },
   "**  For pushing you away (将你远远推开)  **": {
-    "translation": "**  For pushing you away (将你远远推开)  **"
+    "translation": "For pushing you away (将你远远推开)"
   },
   "**  It just feels like I'm falling and nobody's there (留自己孤单下坠)  **": {
-    "translation": "**  It just feels like I'm falling and nobody's there (留自己孤单下坠)  **"
+    "translation": "It just feels like I'm falling and nobody's there (留自己孤单下坠)"
   },
   "**  To strip it away and see out what's on the inside (剥开表象看那本质)  **": {
-    "translation": "**  To strip it away and see out what's on the inside (剥开表象看那本质)  **"
+    "translation": "To strip it away and see out what's on the inside (剥开表象看那本质)"
   },
   "**  To close my eyes and leap (闭上眼睛纵身一跃)  **": {
-    "translation": "**  To close my eyes and leap (闭上眼睛纵身一跃)  **"
+    "translation": "To close my eyes and leap (闭上眼睛纵身一跃)"
   },
   "**  To take the road less travelled to the unknown (踏上乏人问津的路走向未知)  **": {
-    "translation": "**  To take the road less travelled to the unknown (踏上乏人问津的路走向未知)  **"
+    "translation": "To take the road less travelled to the unknown (踏上乏人问津的路走向未知)"
   },
   "**  To take the long way home (踏上漫漫回家路)  **": {
-    "translation": "**  To take the long way home (踏上漫漫回家路)  **"
+    "translation": "To take the long way home (踏上漫漫回家路)"
   },
   "**  And be wrong sometimes (有时这并不妥当)  **": {
-    "translation": "**  And be wrong sometimes (有时这并不妥当)  **"
+    "translation": "And be wrong sometimes (有时这并不妥当)"
   },
   "**  To be like the wind and find out what's on the inside (如捉摸不定的风去探究本质)  **": {
-    "translation": "**  To be like the wind and find out what's on the inside (如捉摸不定的风去探究本质)  **"
+    "translation": "To be like the wind and find out what's on the inside (如捉摸不定的风去探究本质)"
   },
   "**  Runaway from the world (逃离这世界)  **": {
-    "translation": "**  Runaway from the world (逃离这世界)  **"
+    "translation": "Runaway from the world (逃离这世界)"
   },
   "**  And leave it all behind (不顾一切)  **": {
-    "translation": "**  And leave it all behind (不顾一切)  **"
+    "translation": "And leave it all behind (不顾一切)"
   },
   "**  Strip it away and see what's on the inside (剥开表象看那本质)  **": {
-    "translation": "**  Strip it away and see what's on the inside (剥开表象看那本质)  **"
+    "translation": "Strip it away and see what's on the inside (剥开表象看那本质)"
   },
   "**  Run (逃离)  **": {
-    "translation": "**  Run (逃离)  **"
+    "translation": "Run (逃离)"
   },
   "**  （逃离这世界）逃离这世界  **": {
-    "translation": "**  (逃离这世界)逃离这世界  **"
+    "translation": "(逃离这世界)逃离这世界"
   },
   "**  (Runaway from the world) Leave it all behind （逃离这世界）不顾一切  **": {
-    "translation": "**  (Runaway from the world) Leave it all behind (逃离这世界)不顾一切  **"
+    "translation": "(Runaway from the world) Leave it all behind (逃离这世界)不顾一切"
   },
   "**  (Runaway from the world) Runaway from the world （逃离这世界）逃离这世界  **": {
-    "translation": "**  (Runaway from the world) Runaway from the world (逃离这世界)逃离这世界  **"
+    "translation": "(Runaway from the world) Runaway from the world (逃离这世界)逃离这世界"
   },
   "这些木板看起来不太牢固...当心一点...": {
     "translation": "这些木板看起来不太牢固...当心一点..."
@@ -347,11 +347,11 @@
     "translation": "有人吃掉了披萨!(This pizza is not aggresive)"
   },
   ">>> 10 <<<": {
-    "translation": ">>> 10 <<<",
+    "translation": "10",
     "countdown": 10
   },
   ">>> 当前结局：深渊归寂 <<<": {
-    "translation": ">>> 当前结局:深渊归寂 <<<"
+    "translation": "当前结局:深渊归寂"
   },
   ">>> 50 <<<": {
     "translation": "门还有50秒打开",
@@ -362,7 +362,7 @@
     "countdown": 20
   },
   "** 披萨对偷吃它的人降下神罚 **": {
-    "translation": "** 披萨对偷吃它的人降下神罚 **"
+    "translation": "披萨对偷吃它的人降下神罚"
   },
   "快进来！我要关上这个门了！": {
     "translation": "快进来!我要关上这个门了!"
@@ -375,7 +375,7 @@
     "translation": "快进来!"
   },
   ">>> 当前结局：未终低语 <<<": {
-    "translation": ">>> 当前结局:未终低语 <<<"
+    "translation": "当前结局:未终低语"
   },
   "有人享用了茶~": {
     "translation": "有人享用了茶~"
@@ -384,15 +384,15 @@
     "translation": "法式穿甲弹摧毁了餐厅的桌椅!"
   },
   "** 他们要从上面出来了！**": {
-    "translation": "** 他们要从上面出来了!**"
+    "translation": "他们要从上面出来了!"
   },
   "...上面有什么动静？": {
     "translation": "...上面有什么动静?"
   },
   "** 僵尸彩蛋已禁用 **": {
-    "translation": "** 僵尸彩蛋已禁用 **"
+    "translation": "僵尸彩蛋已禁用"
   },
   "** objc 防扰民组织提醒您：披萨已享用完毕！ **": {
-    "translation": "** objc 防扰民组织提醒您:披萨已享用完毕! **"
+    "translation": "objc 防扰民组织提醒您:披萨已享用完毕!"
   }
 }
