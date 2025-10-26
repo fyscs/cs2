@@ -25,7 +25,7 @@
     {
       "iterator": "Kiana_HP",
       "backup": "Kiana_HP_Init",
-      "counter": "Kiana_HP_Counter",
+      "counter": "HPBar_Counter",
       "hitbox": "hitbox",
       "display": "空之律者"
     }
