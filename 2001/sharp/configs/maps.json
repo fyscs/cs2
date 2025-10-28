@@ -413,6 +413,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_bh3rd_babel_z": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 35
+  },
   "ze_bh3rd_cyberpunk_z": {
     "admin": false,
     "certainTimes": [-1],
