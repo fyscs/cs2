@@ -23,11 +23,16 @@
 {
   "Counters": [
     {
-      "iterator": "math_counter",
-      "hitbox": "boss_break",
-      "counter": "math_counter_iterations",
-      "backup": "math_counter_copy",
-      "display": "坦克"
+      "iterator": "boss_hp",
+      "counter": "boss_hp_s",
+      "mass": 105,
+      "hitbox": "boss_hitbox",
+      "display": "Main"
+    },
+    {
+      "iterator": "end_laser_boss_add_hp",
+      "hitbox": "end_laser_boss_hp",
+      "display": "LASER"
     }
   ]
 }

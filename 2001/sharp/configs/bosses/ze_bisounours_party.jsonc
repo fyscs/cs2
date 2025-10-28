@@ -21,13 +21,14 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Counters": [
+  "Breakables": [
     {
-      "iterator": "math_counter",
-      "hitbox": "boss_break",
-      "counter": "math_counter_iterations",
-      "backup": "math_counter_copy",
-      "display": "坦克"
+      "target": "Pedobear_lvl1",
+      "display": "熊大",
+    },
+    {
+      "target": "Pedobear_lvl2",
+      "display": "熊大大",
     }
   ]
 }

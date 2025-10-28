@@ -1,0 +1,197 @@
+// MiniGames game mode configuration file generator.
+// MGGames Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // enum /* MiniGameMode */
+  //
+  // Invalid      = -1,
+  // Guns         = 0, // 对枪
+  // Nade         = 1, // 手雷
+  // Knife        = 2, // 拼刀
+  // Taser        = 3, // 电击枪
+  // Dodgeball    = 4, // 躲避球
+  // RaceCombat   = 5, // Race给枪    LongJump, Bhop, Race, Clmib, Combat
+  // RaceBonus    = 6, // Race刷分    LongJump, Bhop, Race, Clmib, 刷分
+  // Survival     = 7, // 生存        JumpRope, FallingBox etc...
+  // RaceSurvival = 8, // Race生存    LongJump, Bhop, Race, Clmib, Survival
+  // Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
+
+[
+  {
+    "id": "3846",
+    "cd": 240,
+    "mode": 6,
+    "name": "赛跑",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3834",
+    "cd": 240,
+    "mode": 0,
+    "name": "awp",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3868",
+    "cd": 240,
+    "mode": 0,
+    "name": "awp",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3874",
+    "cd": 240,
+    "mode": 2,
+    "name": "低重力刀战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3872",
+    "cd": 240,
+    "mode": 5,
+    "name": "BHOP",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3848",
+    "cd": 240,
+    "mode": 5,
+    "name": "闯关",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3850",
+    "cd": 240,
+    "mode": 0,
+    "name": "awp混战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3852",
+    "cd": 240,
+    "mode": 0,
+    "name": "ak塔",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3854",
+    "cd": 240,
+    "mode": 0,
+    "name": "格洛克爆头",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3856",
+    "cd": 240,
+    "mode": 0,
+    "name": "滑道新星",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3832",
+    "cd": 240,
+    "mode": 0,
+    "name": "工厂爆破",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3858",
+    "cd": 240,
+    "mode": 0,
+    "name": "拆箱子",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3862",
+    "cd": 240,
+    "mode": 0,
+    "name": "p90",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3860",
+    "cd": 240,
+    "mode": 0,
+    "name": "买枪混战",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3840",
+    "cd": 240,
+    "mode": 3,
+    "name": "电击枪",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3842",
+    "cd": 240,
+    "mode": 0,
+    "name": "饥饿游戏（个人战）",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3836",
+    "cd": 240,
+    "mode": 0,
+    "name": "饥饿游戏（团队战）",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3864",
+    "cd": 240,
+    "mode": 1,
+    "name": "手雷",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3866",
+    "cd": 240,
+    "mode": 0,
+    "name": "鸟狙",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3870",
+    "cd": 240,
+    "mode": 0,
+    "name": "沙鹰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3838",
+    "cd": 240,
+    "mode": 0,
+    "name": "爆头沙鹰",
+    "class": "func_button",
+    "event": "OnPressed"
+  },
+  {
+    "id": "3844",
+    "cd": 240,
+    "mode": 0,
+    "name": "黑帮火拼",
+    "class": "func_button",
+    "event": "OnPressed"
+  }
+]

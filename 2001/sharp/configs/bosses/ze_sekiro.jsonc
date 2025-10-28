@@ -23,11 +23,29 @@
 {
   "Counters": [
     {
-      "iterator": "math_counter",
-      "hitbox": "boss_break",
-      "counter": "math_counter_iterations",
-      "backup": "math_counter_copy",
-      "display": "坦克"
+      "iterator": "Genichiro_A_Hp",
+      "hitbox": "Genichiro_A_Box",
+      "display": "苇名弦一郎"
+    },
+    {
+      "iterator": "Genichiro_B_Hp",
+      "hitbox": "Genichiro_b_Box",
+      "display": "苇名弦一郎-终"
+    },
+    {
+      "iterator": "Always_T_Hp",
+      "hitbox": "Always_T_Box",
+      "display": "永真"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "7223",
+      "display": "火牛"
+    },
+    {
+      "identity": "7335",
+      "display": "居合哥"
     }
   ]
 }
