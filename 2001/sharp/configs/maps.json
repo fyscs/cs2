@@ -776,7 +776,7 @@
   "ze_cube_defense": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 80,
+    "cooldown": 60,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
