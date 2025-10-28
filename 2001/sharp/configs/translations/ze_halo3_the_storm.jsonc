@@ -1,0 +1,100 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** WATCHOUT FOR THE DRONES !! ***": {
+    "translation": "小心无人机"
+  },
+  "*** SEEMS THEY STOPPED COMING!! ***": {
+    "translation": "它们似乎停止进攻了"
+  },
+  "*** FOCUS THE HEAD !! ***": {
+    "translation": "瞄准头部"
+  },
+  "*** FOCUS THE LEGS !!! ***": {
+    "translation": "瞄准腿部"
+  },
+  "*** ZOMBIE TP IN 7 SECONDS ***": {
+    "translation": "僵尸传送7秒",
+    "countdown": 7
+  },
+  "*** DEFEND UNTIL THE GATE CLOSES !!! ***": {
+    "translation": "坚守至大门关闭"
+  },
+  "*** YOU WON **": {
+    "translation": "你赢了"
+  },
+  "fail check": {
+    "translation": "失败检查"
+  },
+  "*** WARM UP ROUND ***": {
+    "translation": "热身回合"
+  },
+  "*** 40 SECONDS ***": {
+    "translation": "40秒",
+    "countdown": 40
+  },
+  "*** EASY MODE ***": {
+    "translation": "简单模式"
+  },
+  "*** THIS IS A VERY EARLY VERSION ***": {
+    "translation": "这是早期版本"
+  },
+  "*** MANY FEATURES ARE MISSING ***": {
+    "translation": "许多功能缺失"
+  },
+  "*** ZOMBIE DETECTED !!! ***": {
+    "translation": "检测到僵尸"
+  },
+  "*** YOU LOST !!! ***": {
+    "translation": "你输了"
+  },
+  "*** DOOR OPENS IN 20 SECONDS ***": {
+    "translation": "门开启20秒",
+    "countdown": 20
+  },
+  "*** DOOR OPENS IN 10 SECONDS ***": {
+    "translation": "门开启10秒",
+    "countdown": 10
+  },
+  "*** GATE OPENS IN 20 SECONDS ***": {
+    "translation": "大门开启20秒",
+    "countdown": 20
+  },
+  "*** GATE OPENS IN 15 SECONDS ***": {
+    "translation": "大门开启15秒",
+    "countdown": 15
+  },
+  "*** 15 SECONDS REMAINING ***": {
+    "translation": "剩余15秒",
+    "countdown": 15
+  },
+  "*** DOOR CLOSING IN 25 SECONDS ***": {
+    "translation": "门关闭25秒",
+    "countdown": 25
+  },
+  "*** DOOR OPENS IN 15 SECONDS ***": {
+    "translation": "门开启15秒",
+    "countdown": 15
+  },
+  "*** DOOR OPENS IN 25 SECONDS ***": {
+    "translation": "门开启25秒",
+    "countdown": 25
+  },
+  "*** GATE OPENS IN 30 SECONDS ***": {
+    "translation": "大门开启30秒",
+    "countdown": 30
+  },
+  "*** Gate Opens in 30 SECONDS !!! ***": {
+    "translation": "大门开启30秒",
+    "countdown": 30
+  }
+}

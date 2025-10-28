@@ -1,0 +1,97 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** ZE TEMPLE RAIDER **": {
+    "translation": "ZE TEMPLE RAIDER"
+  },
+  "** MAP BY SLAYERDRAGON **": {
+    "translation": "MAP BY SLAYERDRAGON"
+  },
+  "** HOLD THIS AREA UNTIL THE DOOR UNLOCKS **": {
+    "translation": "守住这个区域直到门解锁"
+  },
+  "** SHOOT THE CRATES TO OPEN A WAY **": {
+    "translation": "射击板条箱打开通路"
+  },
+  "** HOLD THE TEMPLE ENTRANCE **": {
+    "translation": "守住神庙入口"
+  },
+  "** DOOR OPENS IN 5 SECONDS **": {
+    "translation": "门将在5秒后开启"
+  },
+  "** FALL BACK **": {
+    "translation": "撤退"
+  },
+  "** ZOMBIES HAVE ESCAPED **": {
+    "translation": "僵尸已逃脱"
+  },
+  "** HEALTH KIT ACQUIRED - 50s cooldown **": {
+    "translation": "已拾取医疗包"
+  },
+  "** DEFEND WHILE WE ARE OPENING THE FINAL GATES **": {
+    "translation": "在我们开启最后一道门时进行防御"
+  },
+  "** KEEP DEFENDING TILL THE LAST GATE OPENS **": {
+    "translation": "持续防御直到最后一道门开启"
+  },
+  "** THIS IS THE END - DEFEND TILL WE SECURED THIS POSITION! **": {
+    "translation": "这是最后关键防御,守住这个位置"
+  },
+  "** KEEP DEFENDING TILL WE FIND A WAY OUT **": {
+    "translation": "持续防御直到我们找到出路"
+  },
+  "** RUN !! THE TUNNEL IS COLLAPSING !! **": {
+    "translation": "快跑隧道正在坍塌"
+  },
+  "** THE DRAGON IS CHARGING FOR HIS FINAL ATTACK **": {
+    "translation": "巨龙正在准备最终攻击"
+  },
+  "** USE THE CATAPULTS ON BOTH SIDES TO STAGGER HIM **": {
+    "translation": "使用两侧的投石机来击晕它"
+  },
+  "** THE DRAGON IS CHARGING FOR A SUPERATTACK **": {
+    "translation": "巨龙正在准备超级攻击"
+  },
+  "** ESCAPE VIA THE ROPES! **": {
+    "translation": "通过绳索逃离"
+  },
+  "** END OF THE LINE - HOLD THE TOP **": {
+    "translation": "最后一站守住顶部"
+  },
+  "** HOLD HERE TILL THE DOOR OPENS **": {
+    "translation": "在此坚守直到门开启"
+  },
+  "** WE FOUND THE TREASURE ROOM! **": {
+    "translation": "我们找到了宝藏室"
+  },
+  "** A TACTICAL NUKE IS ABOUT TO EXPLODE **": {
+    "translation": "战术核弹即将爆炸"
+  },
+  "** GET THERE BEFORE IT DETONATES! **": {
+    "translation": "在它引爆前到达那里"
+  },
+  "** HURRY UP!!! **": {
+    "translation": "赶快"
+  },
+  "** BOMB HAS BEEN DEFUSED!! **": {
+    "translation": "炸弹已被拆除"
+  },
+  "** ESCAPE FROM THE ZOMBIES!! **": {
+    "translation": "逃离僵尸"
+  },
+  "** DESTROY THE INVADERS - unlimited ammo enabled **": {
+    "translation": "消灭入侵者无限弹药已启用"
+  },
+  "** SHIP ESCAPED **": {
+    "translation": "船只已逃脱"
+  }
+}

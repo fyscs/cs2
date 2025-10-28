@@ -369,7 +369,7 @@
     "requiredPlayers": 40
   },
   "ze_backrooms_insomnia": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 120,
     "nomination": true,
@@ -412,6 +412,33 @@
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
+  },
+  "ze_bh3rd_babel_z": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 35
+  },
+  "ze_bh3rd_cyberpunk_z": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 35
+  },
+  "ze_bh3rd_nagazoracity_z": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_biohazard_manor_004_p": {
     "admin": false,
@@ -1680,6 +1707,15 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
+  "ze_halo3_the_storm": {
+    "admin": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 600,
+    "requiredOnline": 600,
     "requiredPlayers": 40
   },
   "ze_hammer_bunker_part1": {
@@ -4336,6 +4372,15 @@
     "price": 600,
     "requiredOnline": -1,
     "requiredPlayers": 40
+  },
+  "ze_temple_raider_p": {
+    "admin": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 600,
+    "requiredOnline": 600,
+    "requiredPlayers": 45
   },
   "ze_tensor_of_ice_v1_1": {
     "admin": false,
