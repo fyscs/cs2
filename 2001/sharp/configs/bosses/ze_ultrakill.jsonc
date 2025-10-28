@@ -77,6 +77,63 @@
       "counter": "sp_counter_end",
       "backup": "sp_hp_backup",
       "display": "SP"
+    },
+    {
+      "iterator": "minos_boss_hp_counter",
+      "hitbox": "minos_boss_hitbox",
+      "counter": "minos_boss_counter_end",
+      "backup": "minos_boss_hp_backup",
+      "display": "Minos"
+    }
+  ],
+  "Monsters": [
+    {
+      "display": "Greyhusk",
+      "identity": "12048"
+    },
+    {
+      "display": "Cerberus",
+      "identity": "18645"
+    },
+    {
+      "display": "Cleaner",
+      "identity": "12429"
+    },
+    {
+      "display": "Idol",
+      "identity": "17056"
+    },
+    {
+      "display": "Stray",
+      "identity": "12301"
+    },
+    {
+      "display": "Virtue",
+      "identity": "7412" 
+    },
+    {
+      "display": "Shotgunhusk",
+      "identity": "8340"
+    },
+    {
+      "display": "Mindflayer",
+      "identity": "10543"
+    },
+    {
+      "display": "Mface",
+      "identity": "313"
+    },
+    {
+      "display": "Turretbot",
+      "identity": "17100"
+    },
+    {
+      "display": "Drone",
+      "identity": "12357"
+    },
+    {
+      "display": "Filth",
+      "identity": "7301"
     }
   ]
 }
