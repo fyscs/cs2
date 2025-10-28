@@ -1,0 +1,59 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**120**": {
+    "translation": "还有120秒",
+  },
+  "**JUMP**": {
+    "translation": "**快跳!**"
+  },
+  "**60**": {
+    "translation": "还有60秒",
+    "countdown": 60
+  },
+  "**30**": {
+    "translation": "还有30秒",
+    "countdown": 30
+  },
+  "**20**": {
+    "translation": "还有20秒",
+    "countdown": 20
+  },
+  "**15**": {
+    "translation": "还有15秒",
+    "countdown": 15
+  },
+  "*30*": {
+    "translation": "还有30秒",
+    "countdown": 30
+  },
+  "*20*": {
+    "translation": "还有20秒",
+    "countdown": 20
+  },
+  "<<QQ群聊:575698325>>": {
+    "translation": "<<QQ群聊:575698325>>",
+    "blocked": true
+  },
+  "<<训练关卡>>": {
+    "translation": "<<训练关卡>>"
+  },
+  "<<三秒后结束当前回合>>": {
+    "translation": "<<三秒后结束当前回合>>"
+  },
+  "<<管理员强制开启了训练关卡>>": {
+    "translation": "<<管理员强制开启了训练关卡>>"
+  },
+  "<<管理员强制关闭了训练关卡>>": {
+    "translation": "<<管理员强制关闭了训练关卡>>"
+  }
+}
