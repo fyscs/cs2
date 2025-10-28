@@ -1,0 +1,139 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "minos_hand_hp_counter",
+      "hitbox": "minos_hand_hitbox",
+      "counter": "minos_hand_counter_end",
+      "backup": "minos_hand_hp_backup",
+      "display": "Minos"
+    },
+    {
+      "iterator": "flesh_prison_hp_counter",
+      "hitbox": "flesh_prison_hitbox",
+      "counter": "flesh_prison_counter_end",
+      "backup": "flesh_prison_hp_backup",
+      "display": "Flesh_prison"
+    },
+    {
+      "iterator": "v2_hp_counter",
+      "hitbox": "v2_hitbox",
+      "counter": "v2_hp_counter_end",
+      "backup": "v2_hp_counter_backup",
+      "display": "V2"
+    },
+    {
+      "iterator": "s_machine_hp_counter",
+      "hitbox": "s_machine_hitbox",
+      "counter": "s_machine_counter_end",
+      "backup": "s_machine_hp_backup",
+      "display": "S_Machine"
+    },
+    {
+      "iterator": "gabriel_hp_counter",
+      "hitbox": "gabriel_hitbox",
+      "counter": "gabriel_counter_end",
+      "backup": "gabriel_hp_backup",
+      "display": "S_Machine"
+    },
+    {
+      "iterator": "h_mass_hp_counter",
+      "hitbox": "h_mass_hitbox",
+      "counter": "h_mass_counter_end",
+      "backup": "h_mass_hp_backup",
+      "display": "H_Mass"
+    },
+    {
+      "iterator": "mp_hp_counter",
+      "hitbox": "mp_hitbox",
+      "counter": "mp_counter_end",
+      "backup": "mp_hp_backup",
+      "display": "MP"
+    },
+    {
+      "iterator": "sp_hp_counter",
+      "hitbox": "sp_hitbox",
+      "counter": "sp_counter_end",
+      "backup": "sp_hp_backup",
+      "display": "SP"
+    },
+    {
+      "iterator": "minos_boss_hp_counter",
+      "hitbox": "minos_boss_hitbox",
+      "counter": "minos_boss_counter_end",
+      "backup": "minos_boss_hp_backup",
+      "display": "Minos"
+    }
+  ],
+  "Monsters": [
+    {
+      "display": "Greyhusk",
+      "identity": "12048"
+    },
+    {
+      "display": "Cerberus",
+      "identity": "18645"
+    },
+    {
+      "display": "Cleaner",
+      "identity": "12429"
+    },
+    {
+      "display": "Idol",
+      "identity": "17056"
+    },
+    {
+      "display": "Stray",
+      "identity": "12301"
+    },
+    {
+      "display": "Virtue",
+      "identity": "7412" 
+    },
+    {
+      "display": "Shotgunhusk",
+      "identity": "8340"
+    },
+    {
+      "display": "Mindflayer",
+      "identity": "10543"
+    },
+    {
+      "display": "Mface",
+      "identity": "313"
+    },
+    {
+      "display": "Turretbot",
+      "identity": "17100"
+    },
+    {
+      "display": "Drone",
+      "identity": "12357"
+    },
+    {
+      "display": "Filth",
+      "identity": "7301"
+    }
+  ]
+}
