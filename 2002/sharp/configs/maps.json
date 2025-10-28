@@ -2,7 +2,7 @@
   "ttt_afterglow_v1": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -11,7 +11,7 @@
   "ttt_antidote": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -29,7 +29,7 @@
   "ttt_backalley": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 10,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -38,7 +38,7 @@
   "ttt_bikinibottom": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -65,7 +65,7 @@
   "ttt_closequarters": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -74,7 +74,7 @@
   "ttt_clue": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -101,7 +101,7 @@
   "ttt_cs2_amongus_beta": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -110,7 +110,7 @@
   "ttt_cs2_ballistrade_ctg": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 15,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -119,7 +119,7 @@
   "ttt_cs2_chateau": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -128,7 +128,7 @@
   "ttt_cs2_damons_disco_b2": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -137,7 +137,7 @@
   "ttt_cs2_damons_mansion_a3": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -146,7 +146,7 @@
   "ttt_cs2_dust2_night": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -164,7 +164,7 @@
   "ttt_cs2_innocenttown": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -200,7 +200,7 @@
   "ttt_cs2_minecraft_village": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 200,
     "requiredOnline": -1,
@@ -209,7 +209,7 @@
   "ttt_cs2_parkhousefix_sg": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -227,7 +227,7 @@
   "ttt_cs2_safehouse_b1": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -236,7 +236,7 @@
   "ttt_cs2_screamcastle_final": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 12,
+    "cooldown": 10,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -254,7 +254,7 @@
   "ttt_cs2_terminal": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -272,7 +272,7 @@
   "ttt_cs2_tides": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -281,7 +281,7 @@
   "ttt_cs2_toxa_west_v2": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -290,7 +290,7 @@
   "ttt_cs2_tumbleweed_v1_3": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -299,7 +299,7 @@
   "ttt_cs2_typhoon": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -317,7 +317,7 @@
   "ttt_cs2minecraft_village_city": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 250,
     "requiredOnline": -1,
@@ -344,7 +344,7 @@
   "ttt_highschool": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -389,7 +389,7 @@
   "ttt_office_night": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -398,16 +398,16 @@
   "ttt_stadium_fix": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 20,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 10
+    "requiredPlayers": -1
   },
   "ttt_subway": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -416,7 +416,7 @@
   "ttt_terminal": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
