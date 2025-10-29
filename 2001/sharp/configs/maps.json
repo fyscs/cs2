@@ -800,6 +800,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_cube_defense": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_cyberbloods": {
     "admin": true,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
@@ -1323,7 +1332,7 @@
     "requiredPlayers": 45
   },
   "ze_ffxii_mt_bur_omisace_v6": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 100,
     "nomination": true,
