@@ -28,7 +28,7 @@
   },
   ">>> 30 <<<": {
     "translation": "30",
-    "countdown": 30
+    "blocked": true
   },
   ">>> 通往地下区域的门将在 40 秒后打开 <<<": {
     "translation": "通往地下区域的门将在 40 秒后打开",
