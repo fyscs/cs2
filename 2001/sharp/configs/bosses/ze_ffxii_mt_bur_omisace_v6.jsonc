@@ -31,6 +31,7 @@
     {
       "iterator": "Bergan_boss2_attack_HP1",
       "counter": "Bergan_boss2_attack_HP2",
+      "mass": 100,
       "display": "Bergan_2"
     },
     {
