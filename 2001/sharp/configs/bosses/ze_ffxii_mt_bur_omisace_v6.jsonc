@@ -29,6 +29,11 @@
       "display": "Bergan"
     },
     {
+      "iterator": "Bergan_boss2_attack_HP1",
+      "counter": "Bergan_boss2_attack_HP2",
+      "display": "Bergan_2"
+    },
+    {
       "iterator": "BehemothRed_Boss_Attack_HP1",
       "counter": "BehemothRed_Boss_Attack_HP2",
       "mass": 104,
@@ -69,7 +74,7 @@
       "display": "水晶"
     },
     {
-      "identity": "3374",
+      "identity": "2859",
       "display": "盾牌"
     },
     {
