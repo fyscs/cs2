@@ -44,7 +44,7 @@
   },
   "<!> 運搬機の起動まで -- Move ramp 10 sec <!>": {
     "translation": "还有10秒",
-    "clearTimer": true
+    "blocked": true
   },
   "<!> 運搬機の起動まで -- Move ramp 40 sec <!>": {
     "translation": "运输机将在40秒后启动",
@@ -79,7 +79,7 @@
   },
   "<!> ここが最後の防衛です！ -- Last Defend 10 sec <!>": {
     "translation": "最后10秒",
-    "clearTimer": true
+    "blocked": true
   },
   "<!> 足場を上げるまで -- Scaffolding appears 10 sec <!>": {
     "translation": "距离滑翔板升起还有10秒",
