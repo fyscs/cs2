@@ -21,22 +21,60 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Proxy": true,
+  "Counters": [
+    {
+      "iterator": "Bergan_boss1_attack_HP1",
+      "counter": "Bergan_boss1_attack_HP2",
+      "mass": 100,
+      "display": "Bergan"
+    },
+    {
+      "iterator": "BehemothRed_Boss_Attack_HP1",
+      "counter": "BehemothRed_Boss_Attack_HP2",
+      "mass": 104,
+      "display": "BehemothRed"
+    },
+    {
+      "iterator": "Gabranth_boss2_attack_HP1",
+      "counter": "Gabranth_boss2_attack_HP2",
+      "mass": 95,
+      "display": "Gabranth"
+    },
+    {
+      "iterator": "sanctuary_keeper_boss_HP1",
+      "counter": "sanctuary_keeper_boss_HP2",
+      "mass": 128,
+      "display": "SanctuaryKeeper"
+    },
+    {
+      "iterator": "Adrammelech_boss_counter",
+      "display": "Adrammelech"
+    },
+    {
+      "iterator": "Ending_boss1_laser_counter",
+      "display": "Ending_boss1"
+    },
+    {
+      "iterator": "ending_boss2_laser_HP",
+      "display": "Ending_boss2"
+    },
+    {
+      "iterator": "Mojie_miniboss_counter",
+      "display": "Mojie_miniboss"
+    }
+  ],
   "Monsters": [
     {
       "identity": "6098",
       "display": "水晶"
     },
     {
+      "identity": "3374",
+      "display": "盾牌"
+    },
+    {
       "identity": "2558",
       "display": "仙人掌"
-    }
-  ],
-  "Breakables": [
-    {
-      "target": "Shield_boss_laser_breakable",
-      "hitbox": "Shield_boss_laser_model",
-      "display": "诅咒之盾"
     }
   ]
 }
