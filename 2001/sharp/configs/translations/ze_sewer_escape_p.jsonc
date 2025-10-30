@@ -1,0 +1,41 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** USE RADIO TO LAUNCH NUKE ***": {
+    "translation": "使用无线电发射核弹"
+  },
+  "*** WAIT FOR LIFT ***": {
+    "translation": "等待电梯"
+  },
+  "*** HOLD THIS POSITION  ***": {
+    "translation": "守住此位置"
+  },
+  "*** TRAIN LEAVING ***": {
+    "translation": "列车即将离开"
+  },
+  "*** JUMP TO TRAIN ***": {
+    "translation": "跳上列车"
+  },
+  "*** HOLD THIS POSITION ***": {
+    "translation": "守住此位置"
+  },
+  "*** LIFT LEAVING ***": {
+    "translation": "电梯即将离开"
+  },
+  "*** NUKE IN 5 SECONDS ***": {
+    "translation": "核弹5秒后发射",
+    "countdown": 5
+  },
+  "*** MAP BY JB_GAMBLE ***": {
+    "translation": "地图由JB_GAMBLE制作"
+  }
+}
