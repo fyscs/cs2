@@ -665,6 +665,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_chicken_nugget": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_chip_n_dale": {
     "admin": false,
     "certainTimes": [-1],
