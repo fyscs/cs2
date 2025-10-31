@@ -1,0 +1,61 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "板子会在15后离开！": {
+    "translation": "板子会在15后离开!"
+  },
+  "门会在30秒后打开！": {
+    "translation": "门会在30秒后打开!"
+  },
+  "侧路会在10秒后开放": {
+    "translation": "侧路会在10秒后开放"
+  },
+  "电梯在5秒内离开": {
+    "translation": "电梯在5秒内离开"
+  },
+  "僵尸侧路在15后打开": {
+    "translation": "僵尸侧路在15后打开"
+  },
+  "这是哪？": {
+    "translation": "这是哪?"
+  },
+  "奇怪的地方，怎么到处都是...鸡块？不管了，找到路就行！": {
+    "translation": "怎么到处都是鸡块,不管了,找到路就行!"
+  },
+  "看起来我们找到了路，守住这！": {
+    "translation": "看起来我们找到了路,守住这!"
+  },
+  "这是什么鬼玩意？！": {
+    "translation": "这是什么鬼玩意?!"
+  },
+  "看来是个快餐店？去门口守住,等着上车！": {
+    "translation": "看来是个快餐店?去门口守住,等着上车!"
+  },
+  "地板在30s后碎裂": {
+    "translation": "地板在30s后碎裂"
+  },
+  "将在35秒后全体传送！": {
+    "translation": "将在35秒后全体传送!"
+  },
+  "僵尸将在10s后传送": {
+    "translation": "僵尸将在10s后传送"
+  },
+  "这又是什么地方？": {
+    "translation": "这又是什么地方?"
+  },
+  "这玩意怎么跑脸上来了？看来只能消灭它了！（boss战在10s后开启）": {
+    "translation": "boss战在10s后开启"
+  },
+  "看来这玩意死了，应该结束了！": {
+    "translation": "看来这玩意死了,应该结束了!"
+  }
+}
