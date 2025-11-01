@@ -377,6 +377,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_bang_dream_mygo": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 35
+  },
   "ze_barrage_p": {
     "admin": false,
     "certainTimes": [-1],
