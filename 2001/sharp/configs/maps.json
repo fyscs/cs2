@@ -380,9 +380,9 @@
   "ze_bang_dream_mygo": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 80,
+    "cooldown": 60,
     "nomination": true,
-    "price": 400,
+    "price": 500,
     "requiredOnline": -1,
     "requiredPlayers": 35
   },
