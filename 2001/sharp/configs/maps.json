@@ -782,6 +782,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_coolcoolsnowman_n64": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_crashbandicoot_p": {
     "admin": false,
     "certainTimes": [-1],
