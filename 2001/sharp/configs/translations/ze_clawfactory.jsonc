@@ -1,0 +1,115 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Ok, where are we now ? ***": {
+    "translation": "好的,我们现在在哪里"
+  },
+  "MAP BY BLUE BLUE, WITH THE HELP OF MAPEADORES DISCORD": {
+    "translation": "地图作者 BLUE BLUE 文本:Zeyu1"
+  },
+  "*** It's so hot in here. We must get out of this place. ***": {
+    "translation": "这里太热了,我们必须离开这个地方"
+  },
+  "*** Zombies shortcut will open in 20 seconds ***": {
+    "translation": "僵尸捷径将在20秒后开启"
+  },
+  "*** Door opens in 10 seconds ***": {
+    "translation": "门10秒后开启"
+  },
+  "*** This door will open in 20 seconds ***": {
+    "translation": "此门将在20秒后开启"
+  },
+  "*** It's open ! ***": {
+    "translation": "开了"
+  },
+  "*** Zombies TP in 10 seconds ***": {
+    "translation": "僵尸10秒后传送"
+  },
+  "*** Wait... What is this song ? ***": {
+    "translation": "等等,这是什么歌"
+  },
+  "*** Oh no it's them !! FIRE AT SIGHT !! ***": {
+    "translation": "哦不,是他们,见到就开火"
+  },
+  "*** Seems like we're trapped here...***": {
+    "translation": "看来我们被困在这里了"
+  },
+  "*** We made it ! ***": {
+    "translation": "我们成功了"
+  },
+  "*** But we are surounded by zombies, how could we leave ? ***": {
+    "translation": "但我们被僵尸包围了,怎么离开"
+  },
+  "*** This magma rock is blocking the path ! ***": {
+    "translation": "这块岩浆岩挡住了路"
+  },
+  "*** It should be crushed in 20 seconds ***": {
+    "translation": "它应该在20秒后被压碎"
+  },
+  "*** Ok GO GO GO ***": {
+    "translation": "好的快走快走快走"
+  },
+  "*** All the traps will be shut down in 15 seconds ***": {
+    "translation": "所有陷阱将在15秒后关闭"
+  },
+  "*** 5 more seconds ***": {
+    "translation": "还有5秒"
+  },
+  "*** These things will move in 30 seconds ! We must hold ! ***": {
+    "translation": "这些东西将在30秒后移动,我们必须守住"
+  },
+  "*** GO TO THE FAR RIGHT ! ***": {
+    "translation": "去最右边"
+  },
+  "*** GO TO THE FAR LEFT ! ***": {
+    "translation": "去最左边"
+  },
+  "*** This is the final defense ! Hold this door for 10 seconds ! ***": {
+    "translation": "这是最终防守,守住此门10秒"
+  },
+  "*** We made it ! Congratulations boys ! ***": {
+    "translation": "我们成功了,恭喜兄弟们"
+  },
+  "*** That was the worst school trip ever. ***": {
+    "translation": "这是有史以来最糟糕的学校旅行"
+  },
+  "*** 10 seconds left ***": {
+    "translation": "剩余10秒"
+  },
+  "*** Door opens in 20 seconds ***": {
+    "translation": "门20秒后开启"
+  },
+  "*** Oh no ! It's too late !!! ***": {
+    "translation": "哦不,太迟了"
+  },
+  "*** Please wait 15 seconds ***": {
+    "translation": "请等待15秒"
+  },
+  "*** The fan will shut off in 20 seconds ! ***": {
+    "translation": "风扇将在20秒后关闭"
+  },
+  "*** Only 5 seconds left ! ***": {
+    "translation": "只剩5秒了"
+  },
+  "*** Zombies TP in 5 seconds ! ***": {
+    "translation": "僵尸5秒后传送"
+  },
+  "*** Let's regroup in the middle room ! ***": {
+    "translation": "我们在中间房间重新集结"
+  },
+  "*** The elevator will leave in 25 seconds ***": {
+    "translation": "电梯将在25秒后离开"
+  },
+  "*** Jump on the moving plateforms under the convoyer ! ***": {
+    "translation": "跳上传送带下的移动平台"
+  }
+}
