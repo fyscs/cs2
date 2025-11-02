@@ -827,6 +827,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 45
   },
+  "ze_dabadeedabadie": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_dangerous_waters_p": {
     "admin": false,
     "certainTimes": [-1],
