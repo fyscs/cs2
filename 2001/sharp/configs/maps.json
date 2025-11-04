@@ -3645,7 +3645,7 @@
     "requiredPlayers": -1
   },
   "ze_rooftop_madness_p": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 120,
     "nomination": true,
