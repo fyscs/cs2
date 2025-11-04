@@ -1,0 +1,180 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "最后区域已抵达": {
+    "translation": "最后区域已抵达"
+  },
+  "传送门已开启!": {
+    "translation": "传送门已开启!"
+  },
+  "开启传送门会导致这个世界的量子场变得不稳定，这意味着所有东西都会毁灭": {
+    "translation": "开启传送门会导致这个世界的量子场变得不稳定,这意味着所有东西都会毁灭"
+  },
+  "准备撤退了": {
+    "translation": "准备撤退了"
+  },
+  "快跑!!!": {
+    "translation": "快跑!!!"
+  },
+  "守住传送门，直至倒计时结束": {
+    "translation": "守住传送门，直至倒计时结束"
+  },
+  "队友传送即将开始": {
+    "translation": "队友传送即将开始"
+  },
+  "已将所有队友传送至最终区域!": {
+    "translation": "已将所有队友传送至最终区域!"
+  },
+  "在这之前，我们要借助传送门，将所有的队友传送过来": {
+    "translation": "在这之前,我们要借助传送门,将所有的队友传送过来"
+  },
+  "ze_MkZk_Scarab 重置版": {
+    "translation": "ze_MkZk_Scarab 重置版"
+  },
+  "...死亡会降临到那些看不到圣甲虫的人身上": {
+    "translation": "...死亡会降临到那些看不到圣甲虫的人身上"
+  },
+  "进入大门，跟随眼睛的指引找到古代传送门": {
+    "translation": "进入大门，跟随眼睛的指引找到古代传送门"
+  },
+  "但需要注意...": {
+    "translation": "但需要注意..."
+  },
+  "Sector 6 reached.": {
+    "translation": "区域6"
+  },
+  "Sector 23 reached.": {
+    "translation": "区域23"
+  },
+  "Sector 5 reached.": {
+    "translation": "区域5"
+  },
+  "Sector 7 reached.": {
+    "translation": "区域7"
+  },
+  "Sector 16 reached.": {
+    "translation": "区域16"
+  },
+  "Sector 18 reached.": {
+    "translation": "区域18"
+  },
+  "Sector 20 reached.": {
+    "translation": "区域20"
+  },
+  "Sector 2 reached.": {
+    "translation": "区域2"
+  },
+  "Sector 1 reached.": {
+    "translation": "区域1"
+  },
+  "Sector 4 reached.": {
+    "translation": "区域4"
+  },
+  "Sector 8 reached.": {
+    "translation": "区域8"
+  },
+  "Sector 10 reached.": {
+    "translation": "区域10"
+  },
+  "Sector 11 reached.": {
+    "translation": "区域11"
+  },
+  "Sector 12 reached.": {
+    "translation": "区域12"
+  },
+  "Sector 13 reached.": {
+    "translation": "区域13"
+  },
+  "Sector 14 reached.": {
+    "translation": "区域14"
+  },
+  "Sector 17 reached.": {
+    "translation": "区域17"
+  },
+  "Sector 21 reached.": {
+    "translation": "区域21"
+  },
+  "Sector 19 reached.": {
+    "translation": "区域19"
+  },
+  "Sector 22 reached.": {
+    "translation": "区域22"
+  },
+  "Sector 3 reached.": {
+    "translation": "区域3"
+  },
+  "Sector 9 reached.": {
+    "translation": "区域"
+  },
+  "Sector 15 reached.": {
+    "translation": "区域"
+  },
+  "已有玩家通过所有机关，十秒后开启后续区域": {
+    "translation": "已有玩家通过所有机关，十秒后开启后续区域"
+  },
+  "请设置僵尸在开局30秒后尸变": {
+    "translation": "请设置僵尸在开局30秒后尸变"
+  },
+  "已有玩家抵达终点": {
+    "translation": "已有玩家抵达终点"
+  },
+  "Start in:": {
+    "translation": "开始"
+  },
+  "---10---": {
+    "translation": "-10-"
+  },
+  "---9---": {
+    "translation": "-9-"
+  },
+  "---8---": {
+    "translation": "-8-"
+  },
+  "---7---": {
+    "translation": "-7-"
+  },
+  "---6---": {
+    "translation": "-6-"
+  },
+  "---5---": {
+    "translation": "-5-"
+  },
+  "---4---": {
+    "translation": "-4-"
+  },
+  "---3---": {
+    "translation": "-3-"
+  },
+  "---2---": {
+    "translation": "-2-"
+  },
+  "---1---": {
+    "translation": "-1-"
+  },
+  "---0---": {
+    "translation": "-0-"
+  },
+  "小心尸笼！": {
+    "translation": "小心尸笼！"
+  },
+  "清剿所有僵尸以获得胜利!": {
+    "translation": "清剿所有僵尸以获得胜利!"
+  },
+  "最后十五秒!": {
+    "translation": "最后15秒!",
+    "countdown": 15
+  },
+  "五秒后开启尸笼!": {
+    "translation": "5秒后开启尸笼!",
+    "countdown": 5
+  }
+}
