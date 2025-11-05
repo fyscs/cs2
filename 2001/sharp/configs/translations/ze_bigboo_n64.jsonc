@@ -1,0 +1,217 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** THE DOORS ARE OPENING... ***": {
+    "translation": "门正在开启"
+  },
+  "*** HOLD THE DOORS ***": {
+    "translation": "守住门"
+  },
+  "*** QUICK ! COME IN THIS ROOM ! ***": {
+    "translation": "快,进这个房间"
+  },
+  "*** DEFEND UNTIL I CLOSE THE DOOR ***": {
+    "translation": "防守直到我关上门"
+  },
+  "*** IT'S Mr I ! KILL IT ! ***": {
+    "translation": "是I先生,杀死它"
+  },
+  "*** DEFEND UNTIL I FIND AN UNLOCKED DOOR ***": {
+    "translation": "防守直到我找到未上锁的门"
+  },
+  "*** THE SECRET PASSAGE IS OPENING ***": {
+    "translation": "密道正在开启"
+  },
+  "*** WE GOT THE MASTER KEY !! ***": {
+    "translation": "我们拿到了万能钥匙"
+  },
+  "*** QUICK, COME INSIDE THE PIANO ROOM ***": {
+    "translation": "快,进钢琴房"
+  },
+  "*** KEEP THE ZOMBIES OUTSIDE ***": {
+    "translation": "把僵尸挡在外面"
+  },
+  "*** THE GATE IS OPENING ***": {
+    "translation": "大门正在开启"
+  },
+  "*** HOLD 20 SECONDS ***": {
+    "translation": "坚守20秒"
+  },
+  "*** LET'S GO ***": {
+    "translation": "我们走"
+  },
+  "*** NICE ! NOW LOOK UP AND FIND A HOLE IN THE CEILING ! ***": {
+    "translation": "很好,现在抬头找天花板上的洞"
+  },
+  "*** THE FLOOR IS GOING UP IN 5 SECONDS ! ***": {
+    "translation": "地板5秒后上升"
+  },
+  "*** BASEMENT'S ELEVATOR WILL LEAVE IN 25 SECONDS ***": {
+    "translation": "地下室电梯25秒后离开"
+  },
+  "*** 5 SECONDS LEFT ***": {
+    "translation": "剩余5秒"
+  },
+  "*** THIS IS THE FINAL DEFENSE ! HOLD FOR 20 SECONDS ! ***": {
+    "translation": "最终防守,坚守20秒"
+  },
+  "*** 10 SECONDS LEFT ! ***": {
+    "translation": "剩余10秒"
+  },
+  "*** BREAK THIS BOX TO OPEN A HIDDEN PATH ***": {
+    "translation": "打破这个箱子开启隐藏路径"
+  },
+  "*** THE STAR IS UP THERE ! BUT BE CAREFUL ***": {
+    "translation": "星星在上面,但要小心"
+  },
+  "*** DEFEND 20 SECONDS ***": {
+    "translation": "防守20秒"
+  },
+  "*** IT'S OPEN GO GO GO ***": {
+    "translation": "开了快走快走快走"
+  },
+  "*** HEEEERE WE GOOOOO ***": {
+    "translation": "我们出发了"
+  },
+  "*** 20 SECONDS BEFORE EXPLOSION ***": {
+    "translation": "爆炸前20秒"
+  },
+  ">>> HE'S DEAD. DEFEND UNTIL DOOR BREAKS <<<": {
+    "translation": "他死了,防守直到门破"
+  },
+  "*** KILL THE BOSS BEFORE THE ZOMBIES ARE RELEASED ***": {
+    "translation": "在僵尸释放前杀死BOSS"
+  },
+  "*** GIVE ME 15 SECONDS TO UNLOCK THE DOOR, I'M KIND OF RETARDED ***": {
+    "translation": "给我15秒解锁门,我有点笨"
+  },
+  "*** THIS DOOR WILL OPEN IN 20 SECONDS ***": {
+    "translation": "此门20秒后开启"
+  },
+  "*** THE DOOR IS STUCK ! GIVE ME 20 SECONDS ***": {
+    "translation": "门卡住了,给我20秒"
+  },
+  "*** THERE'S A SECRET TUNNEL IN ONE OF THESE COFFINS ! ***": {
+    "translation": "其中一个棺材里有密道"
+  },
+  "*** BREAK THE LIDS TO FIND WHICH ONE ***": {
+    "translation": "打破棺盖找出是哪一个"
+  },
+  "*** WE FOUND IT ! FALL BACK ! ***": {
+    "translation": "找到了,撤退"
+  },
+  "*** GO TO THE OTHER SIDE ! BRIDGE COMES IN 20 SECONDS ! ***": {
+    "translation": "去对岸,桥20秒后到来"
+  },
+  "*** THE DOOR WILL OPEN IN 20 SECONDS ***": {
+    "translation": "门将在20秒后开启"
+  },
+  "*** WE CAN ESCAPE THROUGH THE WELL ! GO UP ! ***": {
+    "translation": "我们可以从井逃生,上去"
+  },
+  "*** THE MYSTERIOUS CRYPT IS OPEN ! ***": {
+    "translation": "神秘墓穴已开启"
+  },
+  "*** WE FOUND THE STAR ! LET'S ESCAPE THROUGH THE BASEMENT ! ***": {
+    "translation": "找到星星了,从地下室逃离"
+  },
+  "*** GIVE ME 25 SECONDS TO BREAK THE WINDOWS ***": {
+    "translation": "给我25秒打破窗户"
+  },
+  "*** GO GO GO ***": {
+    "translation": "快走快走快走"
+  },
+  "*** WE FOUND THE SECRET STAR ! ***": {
+    "translation": "我们找到了秘密星星"
+  },
+  "*** DEFEND FOR 30 SECONDS ! ***": {
+    "translation": "防守30秒"
+  },
+  "*** COME INSIDE THE COFFIN !! ***": {
+    "translation": "进棺材里"
+  },
+  "*** BOBOMB WILL EXPLODE IN 20 SECONDS ***": {
+    "translation": "炸弹20秒后爆炸"
+  },
+  "*** DON'T STAY TOO CLOSE ***": {
+    "translation": "别靠太近"
+  },
+  "*** ONLY ONE DOOR IS BREAKABLE, WE HAVE TO FIND IT ! ***": {
+    "translation": "只有一扇门可破坏,我们必须找到它"
+  },
+  "*** THIS DOOR OPENS IN 10 SECONDS ***": {
+    "translation": "此门10秒后开启"
+  },
+  "*** THIS IS A DEAD END ! COME IN QUICK ! ***": {
+    "translation": "这是死路,快进来"
+  },
+  "*** SOMETHING HAPPENS IN 10 SECONDS ***": {
+    "translation": "10秒后有事情发生"
+  },
+  "*** THE BOAT WILL LEAVE IN 20 SECONDS ***": {
+    "translation": "船20秒后离开"
+  },
+  "*** FALL BACK ! ***": {
+    "translation": "撤退"
+  },
+  "*** THIS CHEEP CHEEP IS BLOCKING THE PATH ! KILL IT ! ***": {
+    "translation": "这只小鱼挡住了路,杀死它"
+  },
+  "*** CHEEP CHEEP IS DEAD ! GO AHEAD ! ***": {
+    "translation": "小鱼死了,前进"
+  },
+  "*** GIVE ME 20 SECONDS TO EXTINGUISH THE FIRE ***": {
+    "translation": "给我20秒来灭火"
+  },
+  "*** THE GATE WILL OPEN IN 20 SECONDS ***": {
+    "translation": "大门20秒后开启"
+  },
+  "*** THE GATE WILL CLOSE IN 20 SECONDS ***": {
+    "translation": "大门20秒后关闭"
+  },
+  "*** 20 SECONDS BEFORE OPENING THE FINAL GATE ***": {
+    "translation": "开启最终大门前20秒"
+  },
+  "*** NEXT WALKWAY IS TOO HIGH ! ***": {
+    "translation": "下一个走道太高了"
+  },
+  "*** THESE POST SEEMS MORE FRAGILES THAN THE OTHERS, LET'S TRY SHOOTING IT ***": {
+    "translation": "这些柱子看起来更脆弱,试试射击它们"
+  },
+  "*** FIND THE FOUR BLUE BUTTONS ! ***": {
+    "translation": "找到四个蓝色按钮"
+  },
+  "*** ZM WILL TP IN 10 SECONDS ***": {
+    "translation": "僵尸10秒后传送"
+  },
+  "*** EVERYBODY BELOW THE FIRST PLACE WILL DIE IN 20 SECOND ! ***": {
+    "translation": "第一名后的人20秒后嗝屁"
+  },
+  "*** NICE ! LET'S TRY THE REAL CHALLENGE NOW ***": {
+    "translation": "现在尝试真正的挑战"
+  },
+  "*** TOO BAD, ZOMBIES REACHED THE FIRST PLACE ***": {
+    "translation": "僵尸提前到达了"
+  },
+  "*** DEFEND 10 SECONDS FOR THIS DOOR TO OPEN ***": {
+    "translation": "防守10秒让此门开启"
+  },
+  "MAP BY BLUE BLUE": {
+    "translation": "地图作者 BLUE BLUE  文本:Zeyu1"
+  },
+  "*** CLIMB YOUR WAY TO THE FIRST PLACE ! ***": {
+    "translation": "攀爬到第一名"
+  },
+  "*** THIS IS NOT THE RIGHT WAY ! CLIMB THE LADDER ! ***": {
+    "translation": "这不是正确的路,快爬梯子"
+  }
+}
