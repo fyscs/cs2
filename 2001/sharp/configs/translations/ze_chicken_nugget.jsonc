@@ -11,19 +11,24 @@
 
 {
   "板子会在15后离开！": {
-    "translation": "板子会在15后离开!"
+    "translation": "板子会在15后离开!",
+    "countdown": 15
   },
   "门会在30秒后打开！": {
-    "translation": "门会在30秒后打开!"
+    "translation": "门会在30秒后打开!",
+    "countdown": 30
   },
   "侧路会在10秒后开放": {
-    "translation": "侧路会在10秒后开放"
+    "translation": "侧路会在10秒后开放",
+    "countdown": 10
   },
   "电梯在5秒内离开": {
-    "translation": "电梯在5秒内离开"
+    "translation": "电梯在5秒内离开",
+    "countdown": 5
   },
   "僵尸侧路在15后打开": {
-    "translation": "僵尸侧路在15后打开"
+    "translation": "僵尸侧路在15后打开",
+    "countdown": 15
   },
   "这是哪？": {
     "translation": "这是哪?"
@@ -41,19 +46,23 @@
     "translation": "看来是个快餐店?去门口守住,等着上车!"
   },
   "地板在30s后碎裂": {
-    "translation": "地板在30s后碎裂"
+    "translation": "地板在30s后碎裂",
+    "countdown": 30
   },
   "将在35秒后全体传送！": {
-    "translation": "将在35秒后全体传送!"
+    "translation": "将在35秒后全体传送!",
+    "countdown": 35
   },
   "僵尸将在10s后传送": {
-    "translation": "僵尸将在10s后传送"
+    "translation": "僵尸将在10s后传送",
+    "countdown": 10
   },
   "这又是什么地方？": {
     "translation": "这又是什么地方?"
   },
   "这玩意怎么跑脸上来了？看来只能消灭它了！（boss战在10s后开启）": {
-    "translation": "boss战在10s后开启"
+    "translation": "boss战在10s后开启",
+    "countdown": 10
   },
   "看来这玩意死了，应该结束了！": {
     "translation": "看来这玩意死了,应该结束了!"
