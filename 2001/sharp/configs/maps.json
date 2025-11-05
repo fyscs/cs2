@@ -684,7 +684,7 @@
     "requiredPlayers": -1
   },
   "ze_chicken_nugget": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 60,
     "nomination": true,
