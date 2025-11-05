@@ -157,9 +157,15 @@
     "translation": "<< 玩家拾取了 [火] <<"
   },
   "** A player has adquired WIND MATERIA **": {
-    "translation": "<< 玩家拾取了 [凤] <<"
+    "translation": "<< 玩家拾取了 [风] <<"
   },
   "** A player has adquired ICE MATERIA **": {
     "translation": "<< 玩家拾取了 [冰] <<"
+  },
+  "The doors opening in 30s": {
+    "translation": "门将在30秒后开"
+  },
+  "We only could stay for 115 sec": {
+    "translation": "我们还需要坚持115秒"
   }
 }
