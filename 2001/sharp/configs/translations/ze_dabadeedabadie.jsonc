@@ -1,0 +1,88 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** There's something strange with this place... ***": {
+    "translation": "这个地方有些奇怪"
+  },
+  "*** Why is everything so... blue ?***": {
+    "translation": "为什么一切都是蓝色的"
+  },
+  "MAP BY BLUE BLUE, WITH THE HELP OF MAPEADORES DISCORD": {
+    "translation": "地图作者 BLUE BLUE  文本:Zeyu1"
+  },
+  "*** The door is open and the block is gone ! ***": {
+    "translation": "门开了,障碍物消失了"
+  },
+  "*** Zombies TP in 10 seconds ***": {
+    "translation": "僵尸10秒后传送"
+  },
+  "*** DOOR OPENS IN 10 SECONDS ***": {
+    "translation": "门10秒后开启"
+  },
+  "*** DOOR OPENS IN 20 SECONDS ***": {
+    "translation": "门20秒后开启"
+  },
+  "*** DEFEND 20 SECONDS FOR THE DOOR TO CLOSE ***": {
+    "translation": "防守20秒让门关闭"
+  },
+  "*** WAIT 30 SECONDS FOR THE ELEVATOR ***": {
+    "translation": "等待电梯30秒"
+  },
+  "*** Some of us should go IN the two sides to cover the team ***": {
+    "translation": "我们有些人应该进入两侧掩护队伍"
+  },
+  "*** Something is coming... ***": {
+    "translation": "有什么东西来了"
+  },
+  "*** LOOK BEHIND YOU !! ***": {
+    "translation": "看你身后"
+  },
+  "*** Please go backward <3 ***": {
+    "translation": "请后退"
+  },
+  "*** Please come forward <3 ***": {
+    "translation": "请前进"
+  },
+  "*** CROUCH or DIE !! ***": {
+    "translation": "蹲下或死亡"
+  },
+  "*** Please stay on the elevator. ***": {
+    "translation": "请留在电梯上"
+  },
+  "*** QUICK ! Go away from the elevator ! ***": {
+    "translation": "快,离开电梯"
+  },
+  "*** Jump NOW ! ***": {
+    "translation": "立即跳下"
+  },
+  "*** We made it ! Congratulations ! ***": {
+    "translation": "我们成功了,恭喜"
+  },
+  "*** For a guy collecting blue things, i didn't see a lot of waffle... ***": {
+    "translation": "作为一个收集蓝色物品的人,我没看到多少华夫饼"
+  },
+  "*** Maybe I should search on internet. ***": {
+    "translation": "也许我该在网上搜索一下"
+  },
+  "*** Too late ! You DA BA DEE DA BA FAIL ! ***": {
+    "translation": "太迟了,你们失败了"
+  },
+  "*** This is the last cover, keep holding ! ***": {
+    "translation": "这是最后的掩护,坚持住"
+  },
+  "*** 10 more seconds ! ***": {
+    "translation": "还有10秒"
+  },
+  "*** NOOOOO YOU DA BA DEE DA BA WIN !!! ***": {
+    "translation": "不,你们赢了"
+  }
+}

@@ -1,0 +1,56 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<< Hold zombies for 20 seconds ! >>": {
+    "translation": "坚守僵尸20秒",
+    "countdown": 20
+  },
+  "<< Hold zombies for 40 seconds ! >>": {
+    "translation": "坚守僵尸40秒",
+    "countdown": 40
+  },
+  "<< Hold zombies for 30 seconds ! >>": {
+    "translation": "坚守僵尸30秒",
+    "countdown": 30
+  },
+  "<< Survive for 70 seconds ! >>": {
+    "translation": "生存70秒",
+    "countdown": 70
+  },
+  "<<< PLAYER HAS PICKED HEAL  ! >>>": {
+    "translation": "玩家已拾取治疗"
+  },
+  "<<< ZOMBIE HAS PICKED UP POISON BOX ! >>>": {
+    "translation": "僵尸已拾取毒药箱"
+  },
+  "<<< ZOMBIE HAS PICKED UP DISARM BOX ! >>>": {
+    "translation": "僵尸已拾取解除武装箱"
+  },
+  "<<< ZOMBIE HAS PICKED UP FREEZE BOX ! >>>": {
+    "translation": "僵尸已拾取冰冻箱"
+  },
+  "<<< ZOMBIE HAS PICKED UP FIRE BOX ! >>>": {
+    "translation": "僵尸已拾取火焰箱"
+  },
+  "<<< PLAYER HAS PICKED UP ICE WALL ! >>>": {
+    "translation": "玩家已拾取冰墙"
+  },
+  "<<< PLAYER HAS PICKED WIND  ! >>>": {
+    "translation": "玩家已拾取风"
+  },
+  "<<< PLAYER HAS PICKED CHRISTMAS TREE  ! >>>": {
+    "translation": "玩家已拾取圣诞树"
+  },
+  "<<< PLAYER HAS PICKED ICE  ! >>>": {
+    "translation": "玩家已拾取冰"
+  }
+}

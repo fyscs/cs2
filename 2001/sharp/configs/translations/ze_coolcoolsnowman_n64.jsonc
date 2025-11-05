@@ -1,0 +1,121 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** WE WILL BE FREE IN 20 SECONDS ! ***": {
+    "translation": "我们将在20秒后获得自由"
+  },
+  "*** THE GIANT SHELL WILL MOVE IN 15 SECONDS ***": {
+    "translation": "巨型贝壳将在15秒后移动"
+  },
+  "*** COLLECT THE 8 RED COINS TO OPEN THE DOOR ***": {
+    "translation": "收集8枚红色硬币来开门"
+  },
+  "*** ELEVATOR WILL MOVE IN 15 SECONDS ***": {
+    "translation": "电梯将在15秒后移动"
+  },
+  "*** ZOMBIES TP TO THE PENGUIN IN 15 SECONDS ***": {
+    "translation": "僵尸将在15秒后传送到企鹅位置"
+  },
+  "*** WAIT 20 SECONDS FOR THE ICE TO MELT ***": {
+    "translation": "等待20秒让冰融化"
+  },
+  "*** THE PATH IS CLEAR ! GO GO GO ! ***": {
+    "translation": "道路已清除,快走快走快走"
+  },
+  "MAP BY BLUE BLUE, WITH THE HELP OF MAPEADORES DISCORD": {
+    "translation": "地图作者 BLUE BLUE  文本:Zeyu1"
+  },
+  "*** SO LONG EH SNOW WAVES ! ***": {
+    "translation": "再见了雪浪"
+  },
+  "*** WAIT 15 SECONDS ***": {
+    "translation": "等待15秒"
+  },
+  "*** THE ELEVATOR WILL MOVE IN 10 SECONDS ***": {
+    "translation": "电梯将在10秒后移动"
+  },
+  "*** THE ELEVATOR WILL BE ACCESSIBLE IN 10 SECONDS ***": {
+    "translation": "电梯将在10秒后可用"
+  },
+  "*** THE FLOWER PUSH WILL START IN 20 SECONDS ***": {
+    "translation": "花朵推进将在20秒后开始"
+  },
+  "*** LET'S FLY ! ***": {
+    "translation": "装比让我们飞起来"
+  },
+  "*** THE ICE WALL WILL BREAK IN 20 SECONDS ! ***": {
+    "translation": "冰墙将在20秒后破裂"
+  },
+  "*** LET'S A-GO ! ***": {
+    "translation": "我们出发"
+  },
+  "*** DEFEND 25 SECONDS 'TILL THE SNOWMAN MELT ***": {
+    "translation": "防守25秒直到雪人融化"
+  },
+  "*** FALL BACK ***": {
+    "translation": "撤退"
+  },
+  "*** DEFEND UNTIL THE CHIMNEY IS REACHABLE ***": {
+    "translation": "防守直到烟囱可到达"
+  },
+  "*** WE FOUND THE STAR ! ***": {
+    "translation": "我们找到了星星"
+  },
+  "*** DEFEND THE SNOWMAN'S HEAD FOR 20 SECONDS ***": {
+    "translation": "防守雪人の头20秒"
+  },
+  "*** THE GREAT COLD WILL KILL EVERYTHING BELOW ***": {
+    "translation": "极寒将杀死下方的一切"
+  },
+  "*** THE ICE ON THE LADDER WILL MELT IN 20 SECONDS ***": {
+    "translation": "梯子上的冰将在20秒后融化"
+  },
+  "*** THE PLATEFORM WILL MOVE IN 20 SECONDS ***": {
+    "translation": "平台将在20秒后移动"
+  },
+  "*** THE PLATEFORM WILL MOVE UP IN 20 SECONDS ***": {
+    "translation": "平台将在20秒后上升"
+  },
+  "*** SHOOT THIS WALL TO OPEN A PATH !! ***": {
+    "translation": "射击这面墙开辟道路"
+  },
+  "*** FALL BACK ! ***": {
+    "translation": "撤退"
+  },
+  "*** DEFEND 15 SECONDS UNTIL THE FLOOR BREAK ***": {
+    "translation": "防守15秒直到地板破裂"
+  },
+  "*** DEFEND 30 SECONDS 'TIL THE BRIDGE COLLAPSE ***": {
+    "translation": "防守30秒直到桥梁坍塌"
+  },
+  "*** THE DOOR WILL OPEN IN 20 SECONDS ***": {
+    "translation": "门将在20秒后开启"
+  },
+  "*** PENGUIN WILL MOVE IN 15 SECONDS ***": {
+    "translation": "企鹅将在15秒后移动"
+  },
+  "*** THE DOORS WILL OPEN IN 20 SECONDS ***": {
+    "translation": "门将在20秒后开启"
+  },
+  "*** HERE WE GO ! ***": {
+    "translation": "我们出发了"
+  },
+  "*** WE FOUND THE SECRET STAR ! ***": {
+    "translation": "我们找到了秘密星星"
+  },
+  "*** DEFEND FOR 30 LAST SECONDS ***": {
+    "translation": "最后防守30秒"
+  },
+  "*** SHOOT THE BOX ! ***": {
+    "translation": "射击箱子"
+  }
+}
