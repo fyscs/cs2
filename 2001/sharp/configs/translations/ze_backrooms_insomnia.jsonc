@@ -10,20 +10,9 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "> A human has turn into Wretches!(Zombies) <": {
-    "translation": "人类已转变为悲惨者"
-  },
-  ">Tactical Flashlight< Press E to turn on,It will self recharge while turn off.": {
-    "translation": "战术手电筒按E开启关闭时会自动充电"
-  },
-  ">A Tactical Flashlight run out of power,Must fully charge to use it again.<": {
-    "translation": "战术手电筒电量耗尽必须充满电才能再次使用"
-  },
-  ">Broken Flashlight< Press E to turn on,Broken battery are more easily run out.": {
-    "translation": "损坏的手电筒按E开启损坏电池更容易耗尽"
-  },
   "> Platform starts in 5 sec. <": {
-    "translation": "平台将在5秒后启动"
+    "translation": "平台将在5秒后启动",
+    "countdown": 5
   },
   "|Speaker|: Portal is ready.": {
     "translation": "传送门已就绪"
@@ -32,28 +21,27 @@
     "translation": "带上你需要的装备"
   },
   "|Speaker|: and check the information of this Level before you enter.": {
-    "translation": "并在进入前查看本层级信息"
+    "translation": "并在进入前查看此层级的资料"
   },
   "|Speaker|: Operation begin in 10 sec.": {
-    "translation": "行动将在10秒后开始"
+    "translation": "行动将在10秒后开始",
+    "countdown": 10
   },
   "|Speaker|: Stay safe.": {
     "translation": "注意安全"
   },
   "> Map by @Seth <": {
-    "translation": "地图制作:Seth 文本:雾雨猫猫"
-  },
-  "> Jumpscare been turnoff in this round. <": {
-    "translation": "本轮已关闭突然惊吓"
+    "translation": "地图作者 Seth 文本:雾雨猫猫"
   },
   "> The exploration start in 10 sec. <": {
-    "translation": "探索将在10秒后开始"
+    "translation": "探索将在10秒后开始",
+    "countdown": 10
   },
   ">Attention everyone.": {
     "translation": "大家注意"
   },
   ">We are start to no-cliping now.": {
-    "translation": "我们现在开始穿墙"
+    "translation": "我们现在开始穿模"
   },
   ">Prepare yourself,Stay contact.": {
     "translation": "做好准备保持联系"
@@ -62,9 +50,9 @@
     "translation": "20秒",
     "countdown": 20
   },
-  "> 35 <": {
-    "translation": "35秒",
-    "countdown": 35
+  "> 10 <": {
+    "translation": "10秒",
+    "countdown": 10
   },
   "> 40 <": {
     "translation": "40秒",
@@ -78,94 +66,100 @@
     "translation": "..."
   },
   ">Its a dead end?...": {
-    "translation": "是死路吗"
+    "translation": "这是个死胡同"
   },
   "> Stay in middle and wait for something happen... <": {
-    "translation": "留在中间等待事情发生"
+    "translation": "待在中间等待事情发生"
   },
   ">...?": {
-    "translation": "...?"
+    "translation": "..."
   },
   ">You are not gonna stop hunting us aren't you?..": {
-    "translation": "你不会停止追杀我们对吧"
+    "translation": "你不打算停止追捕我们不是吗"
   },
   ">Well then,This will be your last chance to get us.": {
-    "translation": "那么这将是你抓住我们的最后机会"
+    "translation": "那么这将是你抓到我们的最后机会"
   },
   ">It's time to go now,RUN!": {
-    "translation": "现在该跑了"
+    "translation": "该走了快跑"
   },
   "> There is no way to run faster than Bacteria. <": {
-    "translation": "不可能跑得比细菌更快"
+    "translation": "我们不可能跑得比细菌更快"
   },
   "> Use weapons,or Items that emit light to delay its speed. <": {
-    "translation": "使用武器或发光物品延缓其速度"
+    "translation": "使用武器或发光物品来延缓它的速度"
   },
   "> Zombies has no longer sealed. <": {
-    "translation": "僵尸不再被封锁"
+    "translation": "僵尸解除封锁"
   },
   ">Different routes?!": {
-    "translation": "不同路线"
+    "translation": "不同的路线"
   },
   ">Better not go the unstable light routes!": {
-    "translation": "最好不要走光线不稳定的路线"
+    "translation": "最好不要走不稳定的光线路线"
   },
   ">Something isn't right...": {
     "translation": "有些不对劲"
   },
   ">Damn it,We better look for another exit...?": {
-    "translation": "该死我们最好找其他出口"
+    "translation": "该死我们最好找另一个出口"
   },
   ">There's entity are searching around the elevator?": {
-    "translation": "有实体在电梯附近搜索"
+    "translation": "有实体在电梯周围搜索"
   },
   ">SHIT,Forget about it!": {
-    "translation": "该死不管了"
+    "translation": "该死别管了"
   },
   ">This is the only way now,GO!": {
-    "translation": "现在只有这条路了,走"
+    "translation": "这是现在唯一的出路快走"
   },
   "> Hide inside small room to avoid get catch by Skin Stealer. <": {
     "translation": "躲在小房间里避免被窃皮者抓住"
   },
   "> Zombies get caught by Skin Stealer will teleport them away. <": {
-    "translation": "被窃皮者抓住的僵尸会被传送走"
+    "translation": "僵尸被窃皮者抓住会被传送走"
   },
   "> Pay attention to the timing of hiding. <": {
-    "translation": "注意隐藏时机"
+    "translation": "注意躲藏的时机"
   },
   "> Smiler blocked the way,Use Items that emit light to banish it! <": {
-    "translation": "笑魇挡住了去路使用发光物品驱逐它"
+    "translation": "笑魇挡住了道路使用发光物品来驱逐它"
   },
   ">Get in the elevator before they found us!": {
-    "translation": "在他们发现我们前进入电梯"
+    "translation": "在他们发现我们之前进入电梯"
+  },
+  ">One Human stay in each pool will slowly reduce sanity.<": {
+    "translation": "每个池子留一个人会缓慢降低理智"
+  },
+  ">Use it to control the sanity status,Prevent sanity overhigh.<": {
+    "translation": "用它来控制理智状态防止理智过高"
   },
   "< 25 >": {
-    "translation": "25秒",
+    "translation": "25",
     "countdown": 25
   },
   "< 30 >": {
-    "translation": "30秒",
+    "translation": "30",
     "countdown": 30
   },
   "< 35 >": {
-    "translation": "35秒",
+    "translation": "35",
     "countdown": 35
   },
   "< 10 >": {
-    "translation": "10秒",
+    "translation": "10",
     "countdown": 10
   },
   "< 40 >": {
-    "translation": "40秒",
+    "translation": "40",
     "countdown": 40
   },
   "< 15 >": {
-    "translation": "15秒",
+    "translation": "15",
     "countdown": 15
   },
   "< 20 >": {
-    "translation": "20秒",
+    "translation": "20",
     "countdown": 20
   },
   ">This water seems not safe,Better not go deep in it.": {
@@ -175,20 +169,24 @@
     "translation": "下面的水可能含有致命病毒"
   },
   ">Guess we have to take a ride...": {
-    "translation": "看来我们得搭个便车..."
+    "translation": "看来我们得搭个便车"
   },
   "> Zombies entering the Virus Water will be infected to low health. <": {
     "translation": "进入病毒水的僵尸会被感染至低生命值"
   },
   "> Kill them while they in the water. <": {
-    "translation": "在他们水中时击杀"
+    "translation": "在他们还在水中时杀死他们"
   },
   "> Virus Water will also infect humans,Do not fell into water. <": {
-    "translation": "病毒水也会感染人类不要掉入水中"
+    "translation": "病毒水也会感染人类不要掉进水中"
   },
   "> 25 <": {
     "translation": "25",
     "countdown": 25
+  },
+  "> 35 <": {
+    "translation": "35",
+    "countdown": 35
   },
   "> Smiler will spawn in the dark area. <": {
     "translation": "笑魇会在黑暗区域生成"
@@ -197,52 +195,47 @@
     "translation": "找到电源开关打开灯光它们无法抵抗光线"
   },
   ">Recycling Stations< Wait for it close!": {
-    "translation": "回收站等待其关闭"
+    "translation": "回收站等待它关闭"
   },
   ">Warehouse< Wait for it close!": {
-    "translation": "仓库等待其关闭"
+    "translation": "仓库等待它关闭"
   },
   "> Light start up in 10 sec. <": {
-    "translation": "灯光将在10秒后启动"
+    "translation": "灯光将在10秒后启动",
+    "countdown": 10
   },
   ">This is kinda...weird,Who design this.": {
-    "translation": "这有点奇怪,谁设计的"
+    "translation": "这有点奇怪谁设计的这个"
   },
   ">Someone has to swtich the light at here.": {
     "translation": "必须有人在这里开关灯"
   },
   "> Light start up in 20 sec. <": {
-    "translation": "灯光将在20秒后启动"
-  },
-  ">Market< Power are starting up!": {
-    "translation": "市场电力正在启动"
-  },
-  ">Market< Final door will open in 85 sec.": {
-    "translation": "85秒后开门"
-  },
-  ">Market< It's not working,We have to find another way out.": {
-    "translation": "市场不行了我们得找其他出路"
+    "translation": "灯光将在20秒后启动",
+    "countdown": 20
   },
   ">Market< Wait for it close!": {
-    "translation": "市场等待其关闭"
+    "translation": "市场等待它关闭"
   },
   ">Recycling Stations< Power are starting up!": {
     "translation": "回收站电力正在启动"
   },
   ">Recycling Stations< Final door will open in 85 sec.": {
-    "translation": "门将在85秒后开启"
+    "translation": "回收站最终门将在85秒后开启",
+    "countdown": 85
   },
   ">Recycling Stations< It's not working,We have to find another way out.": {
-    "translation": "回收站不行了我们得找其他出路"
+    "translation": "回收站它不工作了我们得找另一条出路"
   },
   ">Warehouse< Power are starting up!": {
     "translation": "仓库电力正在启动"
   },
   ">Warehouse< Final door will open in 85 sec.": {
-    "translation": "门将在85秒后开启"
+    "translation": "仓库最终门将在85秒后开启",
+    "countdown": 85
   },
   ">Warehouse< It's not working,We have to find another way out.": {
-    "translation": "仓库不行了我们得找其他出路"
+    "translation": "仓库它不工作了我们得找另一条出路"
   },
   "< Level 0 has been takedown. >": {
     "translation": "Level 0已被攻克"
@@ -263,37 +256,349 @@
     "translation": "他们在控制灯光系统"
   },
   ">Do not go when the light is off.": {
-    "translation": "灯灭时不要行动"
+    "translation": "灯灭时不要走"
   },
   ">We need to stay under the light that won't off.": {
     "translation": "我们需要待在不会熄灭的灯光下"
   },
   ">And move when all light on,Or the Smiler will hunt us!": {
-    "translation": "并在全亮时移动否则笑魇会追杀我们"
+    "translation": "并在所有灯亮时移动否则笑魇会追捕我们"
   },
   "> 15 <": {
-    "translation": "15秒",
+    "translation": "15",
     "countdown": 15
   },
   "> There only has one path to escape.. <": {
-    "translation": "只有一条逃生路径.."
+    "translation": "只有一条逃生路径"
   },
   "> You need to let some teammate split up and find the right Exit. <": {
-    "translation": "需要让部分队友分头寻找正确出口"
+    "translation": "你需要让一些队友分开寻找正确的出口"
   },
   "> Don't forget to wait the teammate that found wrong path come back. <": {
-    "translation": "不要忘记等待找错路的队友返回"
+    "translation": "不要忘记等待找错路的队友回来"
+  },
+  ">> Zombie Tp spot updated. <<": {
+    "translation": "僵尸传送点已更新"
   },
   "> You feel something is coming to you... <": {
-    "translation": "你感觉到有东西正在靠近"
+    "translation": "你感觉到有东西正向你靠近"
   },
-  ">> You have beaten the Alpha version! <<": {
-    "translation": "恭喜通关:Alpha!"
+  ">Collection-RAID has decompose into Metarials +200<": {
+    "translation": "RAID收藏品已分解为 材料加200"
+    "blocked": true
   },
-  ">> Hope you enjoy the map XD.. <<": {
-    "translation": "希望你能够喜欢 XD.."
+  ">Collection-Blade Server has decompose into Metarials +230<": {
+    "translation": "刀片服务器收藏品已分解为 材料加230"
+    "blocked": true
   },
-  ">> Map will reset progress in next round. <<": {
-    "translation": "回合即将重启"
+  ">Collection-Supercomputer has decompose into Metarials +250<": {
+    "translation": "超级计算机收藏品已分解为 材料加250"
+    "blocked": true
+  },
+  ">> A human traded Tactical Flashlight,Metarials -100 <<": {
+    "translation": "人类交易了战术手电筒 材料减100"
+  },
+  ">> A human traded Bundle of Glow Stick,Metarials -50 <<": {
+    "translation": "人类交易了荧光棒捆 材料减50"
+  },
+  ">> A human traded Bucket of Almond Water,Metarials -150 <<": {
+    "translation": "人类交易了桶装杏仁水 材料减150"
+  },
+  ">> A human traded Bag of Fire Salt,Metarials -200 <<": {
+    "translation": "人类交易了袋装火盐 材料减200"
+  },
+  ">> A human traded Man Made Lightning in Bottle,Metarials -150 <<": {
+    "translation": "人类交易了人造瓶装闪电 材料减150"
+  },
+  ">> A human traded Light Burster,Metarials -300 <<": {
+    "translation": "人类交易了光爆器 材料减300"
+  },
+  ">> A human traded Spirit Detecter,Metarials -300 <<": {
+    "translation": "人类交易了灵体探测器 材料减300"
+  },
+  ">> You need to left store to let other teammate trade. <<": {
+    "translation": "你需要离开商店让其他队友交易"
+  },
+  ">Your taking too long<": {
+    "translation": "你花费太长时间了"
+  },
+  ">> A human traded Bottle of Almond Water,Metarials -50 <<": {
+    "translation": "人类交易了瓶装杏仁水 材料减50"
+  },
+  "> All Phantom Entity's ability has unlock now! <": {
+    "translation": "所有幻影实体能力现已解锁"
+  },
+  "> All Phantom Entity's ability unlock in 30 sec. <": {
+    "translation": "所有幻影实体能力将在30秒后解锁",
+    "blocked": true
+  },
+  ">> Phantom Partygoner ability has locked. <<": {
+    "translation": "幻影派对人能力已锁定"
+  },
+  ">Market< Power are starting up!": {
+    "translation": "市场电力正在启动"
+  },
+  ">Market< Final door will open in 85 sec.": {
+    "translation": "市场最终门将在85秒后开启",
+    "countdown": 85
+  },
+  ">Market< It's not working,We have to find another way out.": {
+    "translation": "市场它不工作了 我们得找另一条出路"
+  },
+  ">Admin has add 500 metarials.<": {
+    "translation": "管理员添加了500材料",
+    "blocked": true
+  },
+  ">Admin has add 1 round fail drop rate.<": {
+    "translation": "管理员增加了1轮失败掉落率",
+    "blocked": true
+  },
+  ">Admin has turn on Bouns Mode!<": {
+    "translation": "管理员开启了奖励模式",
+    "blocked": true
+  },
+  ">You need to reset this round to work.<": {
+    "translation": "你需要重置本轮才能生效"
+  },
+  "< Partygoner want to play a game with you. >": {
+    "translation": "派对人想和你玩个游戏"
+  },
+  "< You need to poke 8 Red Balloon in 3 minutes. >": {
+    "translation": "你需要在3分钟内戳破8个红气球"
+  },
+  "< Partygoner and zombies will hunt you in 1 minutes. >": {
+    "translation": "派对人及僵尸将在1分钟后追捕你"
+  },
+  "< Party starts now. >": {
+    "translation": "派对现在开始"
+  },
+  "< Hint:You will be invisible while hide under table. >": {
+    "translation": "提示:躲在桌子下时你会隐形"
+  },
+  "< Partygoner and zombies has join the hunt! >": {
+    "translation": "派对人及僵尸已加入追捕"
+  },
+  "< Level Fun has been takedown. >": {
+    "translation": "Level Fun已被攻克"
+  },
+  "< Your knife has stripped because it still show while you hiding. >": {
+    "translation": "你的刀被没收了 因为它在你躲藏时仍显露"
+  },
+  "< 1/8 Balloon left. >": {
+    "translation": "剩余1/8气球"
+  },
+  "< 2/8 Balloon left. >": {
+    "translation": "剩余2/8气球"
+  },
+  "< 3/8 Balloon left. >": {
+    "translation": "剩余3/8气球"
+  },
+  "< 4/8 Balloon left. >": {
+    "translation": "剩余4/8气球"
+  },
+  "< 5/8 Balloon left. >": {
+    "translation": "剩余5/8气球"
+  },
+  "< 6/8 Balloon left. >": {
+    "translation": "剩余6/8气球"
+  },
+  "< 7/8 Balloon left. >": {
+    "translation": "剩余7/8气球"
+  },
+  "< All Red Balloon has poked. >": {
+    "translation": "所有红气球已戳破"
+  },
+  "< Wait for the time end then we could clip outta here. >": {
+    "translation": "等待时间结束我们就能穿离此处"
+  },
+  "< You have fail and trap in Level Fun forever... >": {
+    "translation": "你已失败并永远困在Level Fun"
+  },
+  "< Level 2 has been takedown. >": {
+    "translation": "Level 2已被攻克"
+  },
+  "< Seems like smiler appear,beware your front and back. >": {
+    "translation": "似乎笑魇出现了注意你的前后方"
+  },
+  "< Hide in gap when smiler near you. >": {
+    "translation": "当笑魇靠近时躲在缝隙中"
+  },
+  "> Cutting fences,need about 40 sec. <": {
+    "translation": "切割栅栏需要约40秒"
+    "countdown": 40
+  },
+  "> ...? <": {
+    "translation": "..."
+  },
+  "> Oh no,there's alot of smiler coming! <": {
+    "translation": "哦不有很多笑魇过来了"
+  },
+  "> We got no time to cut this,Use weapon to break it! <": {
+    "translation": "我们没时间切割了 用武器打破它"
+  },
+  "< You did it,Elevator are starting in 60 sec. >": {
+    "translation": "电梯将在60秒后启动",
+    "countdown": 60
+  },
+  "< Back to where you came from. >": {
+    "translation": "回到你来时的地方"
+  },
+  "< We need to find 5 Switch in here to start platform again. >": {
+    "translation": "找到5个开关 重新启动平台"
+  },
+  "< Damn it,It stops. >": {
+    "translation": "该死它停了"
+  },
+  "< Pick up those flashlight,Irradiate to smiler 3 sec to banish them to edge. >": {
+    "translation": "拾起那些手电筒 照射笑魇3秒 将其放逐至边缘"
+  },
+  "< 1/5 Switch left. >": {
+    "translation": "剩余1/5开关"
+  },
+  "< 2/5 Switch left. >": {
+    "translation": "剩余2/5开关"
+  },
+  "< 3/5 Switch left. >": {
+    "translation": "剩余3/5开关"
+  },
+  "< 4/5 Switch left. >": {
+    "translation": "剩余4/5开关"
+  },
+  "< Level 0.1 has been takedown. >": {
+    "translation": "Level 01已被攻克"
+  },
+  ">> A human traded Water Gun,Metarials -300 <<": {
+    "translation": "人类交易了水枪 材料减300"
+  },
+  "> Detect 10 Player survived Mini Level,Metarials +100. <": {
+    "translation": "检测到10名玩家通过迷你层级 材料加100"
+  },
+  "> Detect 20 Player survived Mini Level,Metarials +100. <": {
+    "translation": "检测到20名玩家通过迷你层级 材料加100"
+  },
+  "> Detect 30 Player survived Mini Level,Metarials +100. <": {
+    "translation": "检测到30名玩家通过迷你层级 材料加100"
+  },
+  "> Detect 40 Player survived Mini Level,Metarials +100. <": {
+    "translation": "检测到40名玩家通过迷你层级 材料加100"
+  },
+  "> Detect 50 Player survived Mini Level,Metarials +150. <": {
+    "translation": "检测到50名玩家通过迷你层级 材料加150"
+  },
+  ">Reseting map progress...<": {
+    "translation": "重置地图进度"
+  },
+  ">Admin has turn on Mini Level Loop Mode!<": {
+    "translation": "管理员开启了迷你层级循环模式"
+  },
+  ">Water Gun< Press E to spray current liquid,Check lobby for detail.": {
+    "translation": "水枪 按E喷洒当前液体",
+    "blocked": true
+  },
+  ">Someone found Collection-Graphics Card,Metarials +90<": {
+    "translation": "已收集显卡收藏品 材料加90"
+  },
+  ">Someone found Collection-Experimental Data,Metarials +70<": {
+    "translation": "已收集实验数据收藏品 材料加70"
+  },
+  ">Someone found Collection-Quantum Storage,Metarials +50<": {
+    "translation": "已收集量子存储收藏品 材料加50"
+  },
+  ">Someone found Collection-RAID,Bring back lobby to get Metarials<": {
+    "translation": "已收集RAID收藏品 带回大厅获得材料"
+  },
+  ">Someone found Collection-Blade Server,Bring back lobby to get Metarials<": {
+    "translation": "已收集刀片服务器收藏品 带回大厅获得材料"
+  },
+  ">Someone found Collection-Power Battery Pack,Bring back lobby to get Metarials<": {
+    "translation": "已收集动力电池包收藏品 带回大厅获得材料"
+  },
+  ">Someone found Collection-Reactor,Metarials +250<": {
+    "translation": "已收集反应堆收藏品 材料加250"
+  },
+  ">Someone found Collection-Laptop,Metarials +200<": {
+    "translation": "已收集笔记本电脑收藏品 材料加200"
+  },
+  ">Someone found Collection-Supercomputer,Metarials +150<": {
+    "translation": "已收集超级计算机收藏品 材料加150"
+  },
+  ">Spirit Detecter< Press E to detect Smiler's position 3 times.": {
+    "translation": "灵体探测器 按E探测笑魇位置3次",
+    "blocked": true
+  },
+  ">Royal Rations< Press E to eat rations with teammate around you,Once only.": {
+    "translation": "皇家口粮 按E与周围队友分享口粮 仅限一次",
+    "blocked": true
+  },
+  ">Royal Rations< It has the most powerful effect for humans.": {
+    "translation": "皇家口粮它对人类有最强大的效果",
+    "blocked": true
+  },
+  ">Moth Jelly< Press E to drink jelly,4 uses only.": {
+    "translation": "蛾子果冻 按E饮用果冻 仅限4次使用",
+    "blocked": true
+  },
+  ">Black Lightning in Bottle< Press E to throw out bottle,Damage it to cast deadly lightning shock,Once only.": {
+    "translation": "黑色瓶装闪电 按E抛出瓶子破坏它以施放致命闪电冲击 仅限一次",
+    "blocked": true
+  },
+  ">Lightning in Bottle< Press E to throw out bottle,Damage it to cast chain lightning area,Once only.": {
+    "translation": "瓶装闪电 按E抛出瓶子破坏它以施放连锁闪电区域 仅限一次",
+    "blocked": true
+  },
+  ">Man Made Lightning in Bottle< Press E to throw out bottle,Damage it to cast lightning area,Once only.": {
+    "translation": "人造瓶装闪电 按E抛出瓶子破坏它以施放闪电区域 仅限一次",
+    "blocked": true
+  },
+  ">A bottle of Almond Water< Press E to drink,It only enough for you.": {
+    "translation": "杏仁水 按E饮用 仅够你一人使用",
+    "blocked": true
+  },
+  ">A Bucket of Almond Water< Press E to drink,Its enough for everyone to use for a day.": {
+    "translation": "桶杏仁水 按E饮用 足够所有人使用一天",
+    "blocked": true
+  },
+  ">A Bucket of Almond Water< Avoid someone addiction,We only could drink every 60 sec.": {
+    "translation": "桶杏仁水 避免有人上瘾 我们只能每60秒饮用一次",
+    "blocked": true
+  },
+  ">Light Burster< Press E to charge and brust strong light,stun and slow zombie and effect entity that afraid light.": {
+    "translation": "光爆器 按E充能并爆发强光击晕并减缓僵尸及影响惧光实体",
+    "blocked": true
+  },
+  ">Light Burster<  It also stun humans in range,be aware on use.": {
+    "translation": "光爆器 会击晕范围内的人类 使用时注意",
+    "blocked": true
+  },
+  ">A Glow Stick< Press E to throw out glow stick,Emit same strength light like flashlight.": {
+    "translation": "荧光棒 按E抛出荧光棒发射与手电筒相同强度的光",
+    "blocked": true
+  },
+  ">A bundle of Glow Stick< Press E to throw out glow stick,Emit same strength light like flashlight,5 uses.": {
+    "translation": "捆荧光棒 按E抛出荧光棒发射与手电筒相同强度的光 5次使用",
+    "blocked": true
+  },
+  ">Handful Fire Salt< Press E to throw out salt smoke,Shoot smoke will cast explosion and left fire area,Only once uses.": {
+    "translation": "火盐 按E抛出盐烟射击烟雾会引发爆炸并留下火域 仅限一次使用",
+    "blocked": true
+  },
+  ">Bag of Fire Salt< Press E to throw out salt smoke,Shoot smoke will cast explosion and left fire area,60 sec cd.": {
+    "translation": "袋火盐 按E抛出盐烟射击烟雾会引发爆炸并留下火域 60秒冷却",
+    "blocked": true
+  },
+  ">Broken Flashlight< Press E to turn on,Broken battery are more easily run out.": {
+    "translation": "破损手电筒 按E打开 破损电池更容易耗尽",
+    "blocked": true
+  },
+  ">Tactical Flashlight< Press E to turn on,It will self recharge while turn off.": {
+    "translation": "战术手电筒 按E打开 关闭时会自动充电",
+    "blocked": true
+  },
+  ">A Tactical Flashlight run out of power,Must fully charge to use it again.<": {
+    "translation": "战术手电筒 电量耗尽必须完全充电才能再次使用",
+    "blocked": true
+  },
+  "> A human has turn into Wretches!(Zombies) <": {
+    "translation": "一名人类已转变为僵尸"
   }
 }
