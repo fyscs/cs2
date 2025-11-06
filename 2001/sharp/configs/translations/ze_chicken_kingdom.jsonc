@@ -15,14 +15,14 @@
     "countdown": 30
   },
   "***5 seconds left***": {
-    "translation": "剩余5秒"
+    "translation": "剩余5秒",
     "countdown": 5
   },
   "***Only one doors will open***": {
     "translation": "仅有一扇门会开启"
   },
   "***Gate will close in 15 seconds***": {
-    "translation": "大门将在15秒后关闭"
+    "translation": "大门将在15秒后关闭",
     "countdown": 15
   }
 }
