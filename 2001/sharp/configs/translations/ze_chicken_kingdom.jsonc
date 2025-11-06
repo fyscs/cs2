@@ -10,19 +10,19 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "Defend for 30 seconds": {
-    "translation": "防守30秒",
-    "countdown: 30
+  "***Defend for 30 seconds***": {
+    "translation": "防御30秒",
+    "countdown": 30
   },
-  "5 seconds left": {
-    "translation": "5秒后离开",
-    "countdown: 5
+  "***5 seconds left***": {
+    "translation": "剩余5秒"
+    "countdown": 5
   },
-  "Only one doors will open": {
-    "translation": "只有一个门将会开启"
+  "***Only one doors will open***": {
+    "translation": "仅有一扇门会开启"
   },
-  "Gate will close in 15 seconds": {
-    "translation": "出口将在15秒后关闭"
-    "countdown: 15
+  "***Gate will close in 15 seconds***": {
+    "translation": "大门将在15秒后关闭"
+    "countdown": 15
   }
 }
