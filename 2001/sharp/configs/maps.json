@@ -2717,6 +2717,15 @@
     "requiredOnline": 600,
     "requiredPlayers": 40
   },
+  "ze_mkzk_scarab_v4": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_mkzk_scarab_v4_remake": {
     "admin": true,
     "certainTimes": [-1],
