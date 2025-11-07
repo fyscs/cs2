@@ -1,0 +1,154 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Sector 6 reached.": {
+    "translation": "区域6"
+  },
+  "Sector 3 reached.": {
+    "translation": "区域3"
+  },
+  "Sector 5 reached.": {
+    "translation": "区域5"
+  },
+  "Sector 7 reached.": {
+    "translation": "区域7"
+  },
+  "Sector 15 reached.": {
+    "translation": "区域15"
+  },
+  "Sector 16 reached.": {
+    "translation": "区域16"
+  },
+  "Sector 18 reached.": {
+    "translation": "区域18"
+  },
+  "Sector 20 reached.": {
+    "translation": "区域20"
+  },
+  "Final sector reached.": {
+    "translation": "最后区域已到达"
+  },
+  "Gate to portal opens now.": {
+    "translation": "传送门通道现在开启"
+  },
+  "Starting the portal will cause the quantum field of this world to become unstable resulting in doom for everything.": {
+    "translation": "启动传送门将导致这个世界的量子场变得不稳定,最终万物毁灭"
+  },
+  "Prepare to run!": {
+    "translation": "准备逃跑"
+  },
+  "RUN!!!": {
+    "translation": "快跑"
+  },
+  "Defend the portal till the countdown ends.": {
+    "translation": "防守传送门直到倒计时结束"
+  },
+  "When the final countdown hits 0 its too late to go in!": {
+    "translation": "最终倒计时归零时就来不及进入了"
+  },
+  "At 0 you have to be there!": {
+    "translation": "归零时你必须在场"
+  },
+  "ze_MkZk_Scarab_v4": {
+    "translation": "ze_MkZk_Scarab_v4 文本:Zeyu1"
+  },
+  "...death will come over those who dont see the scarab.": {
+    "translation": "死亡将降临于那些看不见圣甲虫的人"
+  },
+  "Enter the gates and follow the eye to find the ancient portal.": {
+    "translation": "进入大门并跟随眼睛寻找古老传送门"
+  },
+  "But be vigilant...": {
+    "translation": "但要保持警惕"
+  },
+  "Sector 9 reached.": {
+    "translation": "区域9"
+  },
+  "Sector 1 reached.": {
+    "translation": "区域1"
+  },
+  "Sector 2 reached.": {
+    "translation": "区域2"
+  },
+  "Sector 4 reached.": {
+    "translation": "区域4"
+  },
+  "Sector 8 reached.": {
+    "translation": "区域8"
+  },
+  "Sector 10 reached.": {
+    "translation": "区域10"
+  },
+  "Sector 11 reached.": {
+    "translation": "区域11"
+  },
+  "Sector 12 reached.": {
+    "translation": "区域12"
+  },
+  "Sector 13 reached.": {
+    "translation": "区域13"
+  },
+  "Sector 14 reached.": {
+    "translation": "区域14"
+  },
+  "Sector 17 reached.": {
+    "translation": "区域17"
+  },
+  "Sector 19 reached.": {
+    "translation": "区域19"
+  },
+  "Sector 21 reached.": {
+    "translation": "区域21"
+  },
+  "Sector 22 reached.": {
+    "translation": "区域22"
+  },
+  "Sector 23 reached.": {
+    "translation": "区域23"
+  },
+  "Start in:": {
+    "translation": "开始:"
+  },
+  "---10---": {
+    "translation": "-10-"
+  },
+  "---9---": {
+    "translation": "-9-"
+  },
+  "---8---": {
+    "translation": "-8-"
+  },
+  "---7---": {
+    "translation": "-7-"
+  },
+  "---6---": {
+    "translation": "-6-"
+  },
+  "---5---": {
+    "translation": "-5-"
+  },
+  "---4---": {
+    "translation": "-4-"
+  },
+  "---3---": {
+    "translation": "-3-"
+  },
+  "---2---": {
+    "translation": "-2-"
+  },
+  "---1---": {
+    "translation": "-1-"
+  },
+  "---0---": {
+    "translation": "-0-"
+  }
+}
