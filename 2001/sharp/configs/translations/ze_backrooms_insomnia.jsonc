@@ -59,19 +59,19 @@
     "translation": "做好准备保持联系"
   },
   "> 20 <": {
-    "translation": "20秒",
+    "translation": "还有20秒",
     "countdown": 20
   },
   "> 35 <": {
-    "translation": "35秒",
+    "translation": "还有35秒",
     "countdown": 35
   },
   "> 40 <": {
-    "translation": "40秒",
+    "translation": "还有40秒",
     "countdown": 40
   },
   "> 60 <": {
-    "translation": "60秒",
+    "translation": "还有60秒",
     "countdown": 60
   },
   ">...": {
@@ -272,7 +272,7 @@
     "translation": "并在全亮时移动否则笑魇会追杀我们"
   },
   "> 15 <": {
-    "translation": "15秒",
+    "translation": "还有15秒",
     "countdown": 15
   },
   "> There only has one path to escape.. <": {
@@ -295,5 +295,56 @@
   },
   ">> Map will reset progress in next round. <<": {
     "translation": "回合即将重启"
+  },
+  "> Cutting fences,need about 40 sec. <": {
+  "translation": "正试图切断铁网,还剩40秒"
+  },
+  "< Hide in gap when smiler near you. >": {
+    "translation": "笑魇来了的话快藏起来..."
+  },
+  "> ...? <": {
+    "translation": "...?"
+  },
+  "> Oh no,there's alot of smiler coming! <": {
+    "translation": "一大堆笑魇来了!"
+  },
+  "> We got no time to cut this,Use weapon to break it! <": {
+    "translation": "没时间了,快打破铁网!"
+  },
+  "< You did it,Elevator are starting in 60 sec. >": {
+    "translation": "电梯将在60秒后启动"
+  },
+  "< Back to where you came from. >": {
+    "translation": "回到你来的地方.."
+  },
+  "< We need to find 5 Switch in here to start platform again. >": {
+    "translation": "找到5个开关以重新启动平台"
+  },
+  "< Damn it,It stops. >": {
+    "translation": "c**,它停下来了"
+  },
+  "< Pick up those flashlight,Irradiate to smiler 3 sec to banish them to edge. >": {
+    "translation": "捡起那些手电筒照射笑魇3秒将它们驱逐到边缘"
+  },
+    "< 1/5 Switch left. >": {
+    "translation": "开关 1/5"
+  },
+  "< 2/5 Switch left. >": {
+    "translation": "开关 2/5"
+  },
+  "< 3/5 Switch left. >": {
+    "translation": "开关 3/5"
+  },
+  "< 4/5 Switch left. >": {
+    "translation": "开关 4/5"
+  },
+  "< Level 0.1 has been takedown. >": {
+    "translation": "关卡 0.1 已被攻克"
+  },
+  ">> A human traded Water Gun,Metarials -300 <<": {
+    "translation": "玩家购买了水枪"
+  },
+  ">Reseting map progress...<": {
+    "translation": "重置关卡进程..."
   }
 }
