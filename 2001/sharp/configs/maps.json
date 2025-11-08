@@ -3348,7 +3348,7 @@
     "requiredPlayers": -1
   },
   "ze_payload_swarm": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 100,
     "nomination": true,
