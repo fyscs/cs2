@@ -297,7 +297,7 @@
     "translation": "回合即将重启"
   },
   "> Cutting fences,need about 40 sec. <": {
-  "translation": "正试图切断铁网,还剩40秒"
+    "translation": "正试图切断铁网,还剩40秒"
   },
   "< Hide in gap when smiler near you. >": {
     "translation": "笑魇来了的话快藏起来..."
@@ -326,7 +326,7 @@
   "< Pick up those flashlight,Irradiate to smiler 3 sec to banish them to edge. >": {
     "translation": "捡起那些手电筒照射笑魇3秒将它们驱逐到边缘"
   },
-    "< 1/5 Switch left. >": {
+  "< 1/5 Switch left. >": {
     "translation": "开关 1/5"
   },
   "< 2/5 Switch left. >": {
