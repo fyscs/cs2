@@ -215,7 +215,7 @@
     "translation": "C4将在10秒后爆炸"
   },
   "||| INTERLUDE |||": {
-    "translation": "<幕间曲>"
+    "translation": "普通关卡已经结束,此阶段为休息关卡,下一关进入噩梦模式.."
   },
   "||| THE FINAL CHALLENGE |||": {
     "translation": "最终挑战!"
@@ -236,7 +236,7 @@
     "translation": "得找到离开洞穴的出口"
   },
   "||| Quadralex is summoning <Phase Shift> |||": {
-    "translation": "Quadralex正在召唤<相位偏移>,小心僵尸进攻!"
+    "translation": "BOSS解放了尸笼且自身进入无敌状态,防守身后的尸潮!"
   },
   "||| Watch out! Grenades cant hurt him |||": {
     "translation": "手雷对它无效"
@@ -316,16 +316,16 @@
     "blocked": true
   },
   "||| Quadralex is summoning <Rapida> |||": {
-    "translation": "Quadralex召唤了<火焰之刃>,远离它正面!"
+    "translation": "BOSS召唤了<火焰之刃>(去场地后面的坑内蹲下或者面对boss跳刀)"
   },
   "||| Quadralex is channeling <Eruption> |||": {
-    "translation": "Quadralex正在引导<喷发>,靠近身后铁链以抵抗推力!"
+    "translation": "BOSS正在引导<热浪>(进入四角的铁链里躲避热浪push)"
   },
   "||| Quadralex is summoning <Dimension Burst> |||": {
-    "translation": "Quadralex召唤了<维度爆发>,呆在护盾中!"
+    "translation": "BOSS召唤了<维度爆发>(呆在火焰护盾中,并马上输出boss!)"
   },
   "||| Quadralex is summoning <Hell Bombard> |||": {
-    "translation": "Quadralex召唤了<地狱轰炸>,远离火焰!"
+    "translation": "BOSS召唤了<地狱轰炸>(远离脚底秒杀火环!)"
   },
   "||| CORE EXPLODES IN 170 SECONDS |||": {
     "translation": "核心将在170秒后爆炸!"
