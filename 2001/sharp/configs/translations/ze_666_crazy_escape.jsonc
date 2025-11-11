@@ -1,0 +1,217 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "< You took too long !! >": {
+    "translation": "你花费太长时间了"
+  },
+  "### ADMIN HAS SELECTED : STAGE I ###": {
+    "translation": "管理员已选择:第一阶段"
+  },
+  "### ADMIN HAS SELECTED : STAGE II ###": {
+    "translation": "管理员已选择:第二阶段"
+  },
+  "< Defend this cloud for 20 seconds >": {
+    "translation": "防守这片云20秒"
+  },
+  "< !!! Kill those remaining zombies !!! >": {
+    "translation": "杀死那些剩余的僵尸"
+  },
+  "< See you again in the next crazy escape series >": {
+    "translation": "在下个疯狂逃脱系列中再见"
+  },
+  "< Stage Completed >": {
+    "translation": "关卡完成"
+  },
+  "< Hold this last resort for 30 seconds >": {
+    "translation": "坚守这最后防线30秒"
+  },
+  "< 10 seconds remaining >": {
+    "translation": "剩余10秒"
+  },
+  "< You have only 60 seconds to kill this boss >": {
+    "translation": "你只有60秒杀死这个BOSS"
+  },
+  "< 10 second remainings >": {
+    "translation": "剩余10秒"
+  },
+  "lll GIVE ME YOUR LOVE lll": {
+    "translation": "给我你的爱"
+  },
+  "< Archangel is defeated >": {
+    "translation": "大天使已被击败"
+  },
+  "< Goodjob ! Hold this cloud for 15 seconds >": {
+    "translation": "防守这片云-15秒"
+  },
+  "< Zombies teleportation in 10 seconds >": {
+    "translation": "僵尸10秒后传送"
+  },
+  "< Kill this archangel before its too late >": {
+    "translation": "快点杀死这个大天使"
+  },
+  "< Zombies will be teleported to the cloud in 180 seconds.>": {
+    "translation": "僵尸将在180秒后传送到云上"
+  },
+  "< You have 180 seconds to defeat this boss before the zombie bridge activates again >": {
+    "translation": "你有180秒在僵尸桥重新激活前击败这个BOSS"
+  },
+  "< Its too late now goodbye human >": {
+    "translation": "现在太迟了,再见XD"
+  },
+  "< Zombies will be teleported to the cloud in few seconds ! >": {
+    "translation": "僵尸几秒后将被传送到云上"
+  },
+  "### !!! KILL THE REMAINING ZOMBIES !!! ###": {
+    "translation": "杀死剩余的僵尸"
+  },
+  "< Hold the fountain for 30 seconds >": {
+    "translation": "守住喷泉30秒"
+  },
+  "< Stay in the fountain for teleportation >": {
+    "translation": "待在喷泉中等待传送"
+  },
+  "< Stage 1/2 : 666 Escape >": {
+    "translation": "阶段1/2: 666逃脱"
+  },
+  "< Stage 2/2: Heaven Escape >": {
+    "translation": "阶段2/2: 天堂逃脱"
+  },
+  "< The elevator is stuck. Please wait !! >": {
+    "translation": "电梯卡住了 请等待"
+  },
+  "< It starts moving again !! >": {
+    "translation": "它又开始移动了"
+  },
+  "< Elevator malfunction detected again. Please wait !! >": {
+    "translation": "再次检测到电梯故障 请等待"
+  },
+  "< Jump out now !!! >": {
+    "translation": "立即跳出"
+  },
+  "< The elevator is broken! It cannot stop. Save yourself! >": {
+    "translation": "电梯坏了 等嗝屁吧"
+  },
+  "< GO ! GOO !! GOOO !!! >": {
+    "translation": "快走快走快走"
+  },
+  "< Elevator 666 will leave soon! >": {
+    "translation": "电梯即将离开"
+  },
+  "< Stay at the fountain and wait for teleportation. >": {
+    "translation": "待在喷泉等待传送"
+  },
+  "< Hold until these gates open ! >": {
+    "translation": "坚守直到这些门开启"
+  },
+  "< Let's see who is the best jumper >": {
+    "translation": "让我们看看谁是最佳跳跃者"
+  },
+  "< Zombies or Human >": {
+    "translation": "僵尸还是人类"
+  },
+  "< The glass will breaks at the same time !!! <": {
+    "translation": "玻璃将同时破裂"
+  },
+  "< Get ready in 10 seconds >": {
+    "translation": "10秒内准备"
+  },
+  "< GOOOOOO !!!! >": {
+    "translation": "快走"
+  },
+  "< You’ve reached the other side. Good job!>": {
+    "translation": "你已到达另一边,做得好"
+  },
+  "< Now hold for 30 seconds, and remember always stay in the green light zone >": {
+    "translation": "现在坚守30秒,记住始终待在绿光区域"
+  },
+  "< Finally we are in the heaven ?? >": {
+    "translation": "我们终于到天堂了"
+  },
+  "< You will find out in 30 seconds >": {
+    "translation": "你将在30秒后知道"
+  },
+  "< Zombies shortcut activated soon ! >": {
+    "translation": "僵尸捷径即将激活"
+  },
+  "< Oh noo !! this is not heaven Its just a 666 with skybox !! >": {
+    "translation": "哦不,这不是天堂,只是个有天空盒的666"
+  },
+  "### SOMEONE HAS SACRIFICED HIMSELF TO SATAN ###": {
+    "translation": "有人已向撒旦献祭了自己"
+  },
+  "< Taste this you fool !!! >": {
+    "translation": "尝尝这个,你这个傻瓜"
+  },
+  "< You lucky bastard >": {
+    "translation": "你这个幸运的家伙"
+  },
+  "< Hold here for 15 seconds >": {
+    "translation": "在此坚守15秒"
+  },
+  "< Defend those 2 vents in 10 seconds >": {
+    "translation": "10秒内防守那两个通风口"
+  },
+  "< Teleportation will begin in 30 seconds >": {
+    "translation": "传送将在30秒后开始"
+  },
+  "< Teleportation will be activated in 30 seconds >": {
+    "translation": "传送将在30秒后激活"
+  },
+  "< Destroy the statue >": {
+    "translation": "摧毁雕像"
+  },
+  "< The shortcut is now open !! >": {
+    "translation": "捷径现已开启"
+  },
+  "< Hold here for 30 seconds >": {
+    "translation": "在此坚守30秒"
+  },
+  "< Taste this you doorhuggers >": {
+    "translation": "尝尝这个,你们这些堵门的"
+  },
+  "< 10 more seconds >": {
+    "translation": "还有10秒"
+  },
+  "<Zombies will arrive here in 5 seconds! >": {
+    "translation": "僵尸5秒后将到达这里"
+  },
+  "< Find a place to hide and survive for 60 seconds >": {
+    "translation": "找地方躲藏并生存60秒"
+  },
+  "< 30 Seconds remaining >": {
+    "translation": "剩余30秒"
+  },
+  "< Good Luck >": {
+    "translation": "祝你好运"
+  },
+  "< The boss is dead. Hold position until teleportation >": {
+    "translation": "BOSS被消灭了,坚守直到传送"
+  },
+  "< NARAKA has disappeared >": {
+    "translation": "NARAKA已消失"
+  },
+  "< Defeat this NARAKA and bring us a victory !! >": {
+    "translation": "击败这个NARAKA,为我们带来胜利"
+  },
+  "< Sacrifice yourself to NARAKA 1 person / -500 HP >": {
+    "translation": "向NARAKA献祭自己 每人-500血量"
+  },
+  "< SHHHHHH.. NARAKA IS BACK >": {
+    "translation": "嘘,NARAKA回来了"
+  },
+  "< WELCOME TO : 666 CRAZY ESCAPE >": {
+    "translation": "欢迎来到:疯狂逃离"
+  },
+  "< MAP CREATED BY NARAKA >": {
+    "translation": "地图由NARAKA制作  文本:Zeyu1"
+  }
+}
