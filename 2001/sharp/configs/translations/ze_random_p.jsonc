@@ -11,324 +11,333 @@
 
 {
   "***JUMP INTO THE ORB!!***": {
-    "translation": "***跳进传送门***"
+    "translation": "跳进传送门"
   },
   "***PORTAL COLLAPSING IN 10secs!! ***": {
-    "translation": "***传送门10秒内坍塌 ***"
+    "translation": "传送门10秒内坍塌"
   },
   "***All Switches ON!!***": {
-    "translation": "***所有开关已经打开***"
+    "translation": "所有开关已经打开"
   },
   "***LEVEL -- OPEN FIELD***": {
-    "translation": "***关卡--瘦长鬼影***"
+    "translation": "关卡--瘦长鬼影"
   },
   "***Survive for 90secs***": {
-    "translation": "***和你的老婆们开黑90秒***"
+    "translation": "开黑90秒"
   },
   "***Survive for 15secs***": {
-    "translation": "***开黑15秒***"
+    "translation": "开黑15秒",
+    "blocked": true
   },
   "***Beware K.'s SlenderMan!***": {
-    "translation": "***是瘦长鬼影***"
+    "translation": "是瘦长鬼影"
   },
   "***C4 set to go off in 25secs!***": {
-    "translation": "***炸弹在25秒后爆炸***"
+    "translation": "炸弹在25秒后爆炸"
   },
-  "***Defend for 35secs as the Carpet...refuels...?***": {
-    "translation": "***开黑35秒等魔毯...加油?***"
+  "***Defend for 35secs as the Carpet...refuels...?": {
+    "translation": "开黑35秒等魔毯...加油?"
   },
   "***Carpet leaves in 5secs!***": {
-    "translation": "***魔毯在5秒后离开***"
+    "translation": "魔毯在5秒后离开"
   },
   "***Carpet leaving in 3secs!***": {
-    "translation": "***魔毯在3秒后离开***"
+    "translation": "魔毯在3秒后离开"
   },
   "***Elevator 1 coming in 10secs!***": {
-    "translation": "***电梯10秒后到达***"
+    "translation": "电梯10秒后到达"
   },
   "***Elevator 1 leaving in 5secs!***": {
-    "translation": "***电梯5秒后离开***"
+    "translation": "电梯5秒后离开"
   },
   "***Power lost. Shoot the doors!***": {
-    "translation": "***停电了,拆门!***"
+    "translation": "停电了,拆门!"
   },
   "***Helicopter coming in 5secs!***": {
-    "translation": "***直升机5秒后到达***"
+    "translation": "直升机5秒后到达"
   },
   "***4***": {
-    "translation": "***4***"
+    "translation": "4",
+    "blocked": true
   },
   "***3***": {
-    "translation": "***3***"
+    "translation": "3",
+    "blocked": true
   },
   "***OH SH--!!***": {
-    "translation": "***我去!***"
+    "translation": "我去!"
   },
   "***Teleporter ERROR!***": {
-    "translation": "***传送门出问题了***"
+    "translation": "传送门出问题了"
   },
   "***Teleporter will be fully charged in 20secs!***": {
-    "translation": "***传送门在20秒后充能完毕***"
+    "translation": "传送门在20秒后充能完毕"
   },
   "***Take the Carpet and make your way to the escape door!***": {
-    "translation": "***乘坐飞行的荷兰人号前往逃生门***"
+    "translation": "乘坐飞行的荷兰人号前往逃生门"
   },
   "***LEVEL -- CARPET ESCAPE***": {
-    "translation": "***关卡--魔毯逃生***"
+    "translation": "关卡--魔毯逃生"
   },
   "***FINAL LEVEL -- ZOMBIE MURDER****": {
-    "translation": "***最后一关****"
+    "translation": "最后一关"
   },
   "***Zombies will arrive soon!***": {
-    "translation": "***姜丝马上就来了哦***"
+    "translation": "姜丝马上就来了哦"
   },
   "***Hold the sign for 20secs!***": {
-    "translation": "***守住20秒***"
+    "translation": "守住20秒"
   },
   "***FINAL BOSS INCOMING!***": {
-    "translation": "***boss要来了***"
+    "translation": "boss要来了"
   },
   "***ZOMBIE is about to collapse! GET OFF!***": {
-    "translation": "***僵尸字母要消失了,还不下来!***"
+    "translation": "前面平台要消失了,还不下来!"
   },
   "***JUMP OFF!***": {
-    "translation": "***跳!***"
+    "translation": "跳进传送"
   },
   "***Teleporting in 20secs!***": {
-    "translation": "***在20秒后传送***"
+    "translation": "在20秒后传送"
   },
   "***2***": {
-    "translation": "***2***"
+    "translation": "2",
+    "blocked": true
   },
   "***1***": {
-    "translation": "***1***"
+    "translation": "1",
+    "blocked": true
   },
   "***Good Luck!!***": {
-    "translation": "***祝好运***"
+    "translation": "祝好运"
   },
   "***LEVEL -- BOX WITH A LIGHT IN IT***": {
-    "translation": "***关卡--小方盒子***"
+    "translation": "关卡--小方盒子"
   },
   "***Map by SonicTheHitManHog/RelaxingWalls***": {
-    "translation": "***地图作者SonicTheHitManHog/RelaxingWalls***"
+    "translation": "地图作者SonicTheHitManHog/RelaxingWalls"
   },
   "***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***": {
-    "translation": "***在这里开黑直到你被传送到随机关卡***"
+    "translation": "在这里开黑直到你被传送到随机关卡"
   },
   "***Survive for 75secs!***": {
-    "translation": "***开黑75秒***"
+    "translation": "开黑75秒"
   },
   "***Survive for 15secs!***": {
-    "translation": "***开黑15秒***"
+    "translation": "开黑15秒",
+    "blocked": true
   },
   "***LEVEL -- CLASSIC***": {
-    "translation": "***关卡--经典开黑守僵尸***"
+    "translation": "关卡--经典开黑守僵尸"
   },
   "***Zombie will arrive in 20secs!***": {
-    "translation": "***僵尸在20秒后到达***"
+    "translation": "僵尸在20秒后到达"
   },
   "***Everyone HOLD the boxes while someone starts up the teleporter!***": {
-    "translation": "***守住这里 当有人触发传送***"
+    "translation": "守住这里 当有人触发传送"
   },
   "***Hold W to go faster and S to slow down!***": {
-    "translation": "***按w加速按s减速***"
+    "translation": "按w加速按s减速"
   },
   "***Jump and be careful not to hit to many stoppers!***": {
-    "translation": "***跳起来 别碰到太多障碍***"
+    "translation": "跳起来 别碰到太多障碍"
   },
   "***LEVEL -- ICE CAP ESCAPE***": {
-    "translation": "***关卡--澡盆逃生 你猜为啥叫澡盆***"
+    "translation": "关卡--澡盆逃生 你猜为啥叫澡盆"
   },
   "***LEVEL-- CITY NIGHT ESCAPE***": {
-    "translation": "***关卡--城市逃亡***"
+    "translation": "关卡--城市逃亡"
   },
   "***Did someone see an awp?***": {
-    "translation": "***有人看见鬼脸了吗***"
+    "translation": "有人看见鬼脸了吗?"
   },
   "***Good things come to those who wait...***": {
-    "translation": "***耐心等待的人会有好事发生***"
+    "translation": "耐心等待的人会有好事发生"
   },
   "***Shoot wisely!***": {
-    "translation": "***开枪注意点***"
+    "translation": "开枪注意点"
   },
   "***LEVEL -- ZOMBIE DEATHRUN***": {
-    "translation": "***关卡--僵尸死跑***"
+    "translation": "关卡--僵尸死跑"
   },
   "***Zombies try to trap the CTs!***": {
-    "translation": "***僵尸想开饭就好好使用陷阱***"
+    "translation": "僵尸想开饭就好好使用陷阱"
   },
   "***CTs have 120secs to escape as the temple's curse spreads!***": {
-    "translation": "***人类有120秒时间逃跑***"
+    "translation": "人类有120秒时间逃跑"
   },
   "***The curse has reached spawn!***": {
-    "translation": "***出生点的咸鱼们要变姜丝了哦***"
+    "translation": "出生点的咸鱼们要变姜丝了哦"
   },
   "***The curse has reached the dual arch!***": {
-    "translation": "***双拱门的咸鱼们要变小零食了哦***"
+    "translation": "双拱门的咸鱼们要变小零食了哦"
   },
   "***The curse has reached Mona's Hallway!***": {
-    "translation": "***鬼脸长廊的咸鱼要趋势了***"
+    "translation": "鬼脸长廊的咸鱼要趋势了"
   },
   "***CTs have 15secs to escape!***": {
-    "translation": "***人类还有15秒逃跑***"
+    "translation": "人类还有15秒逃跑"
   },
   "***Wait here till everyone else makes it!***": {
-    "translation": "***等等你的老寒腿队友们吧***"
+    "translation": "等等你的老寒腿队友们吧"
   },
   "***Teleporting to next map!***": {
-    "translation": "***传送到下一关***"
+    "translation": "传送到下一关",
+    "clearTimer": true
   },
   "***Teleporting to FINAL MAP!***": {
-    "translation": "***传送到最终关***"
+    "translation": "传送到最终关",
+    "clearTimer": true
   },
   "***Hurry through the warehouse while the carpet passes under!***": {
-    "translation": "***快穿过中间通道 荷兰人号在前面等你们***"
+    "translation": "快穿过中间通道 荷兰人号在前面等你们"
   },
   "***Door breaking in 10secs!***": {
-    "translation": "***门在10秒后开***"
+    "translation": "门在10秒后开"
   },
   "***Don't Delay!***": {
-    "translation": "***别卡鸡 快按下一关***"
+    "translation": "别卡鸡 快按下一关"
   },
   "***HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!***": {
-    "translation": "***守住僵尸 懂哥去推沙发 ***"
+    "translation": "守住僵尸 懂哥去推沙发"
   },
   "***Hold final barrier for 15secs!***": {
-    "translation": "***守15秒***"
+    "translation": "守15秒",
+    "clearTimer": true
   },
   "***Final barrier down!***": {
-    "translation": "***最后屏障关闭***"
+    "translation": "最后屏障关闭"
   },
   "***LEVEL -- COUCH ESCAPE***": {
-    "translation": "***关卡--推沙发 最喜欢的一集***"
+    "translation": "关卡--推沙发 最喜欢的一集"
   },
   "***Shoot the couch into the marked boxes to break the barriers and make your way to the escape tunnel in 180secs!***": {
-    "translation": "***懂哥推沙发 你们只有180秒***"
+    "translation": "还剩180秒"
   },
   "***If the world is going to end at least you'll have a warm seat!***": {
-    "translation": "***如果世界毁灭 至少你还有个温暖的座位***"
+    "translation": "如果世界毁灭 至少你还有个温暖的座位"
   },
   "***Zombie barrier breaking in 20secs get moving!***": {
-    "translation": "***僵尸还有20秒就放出来了***"
+    "translation": "僵尸还有20秒就放出来了"
   },
   "***Only 60secs left!***": {
-    "translation": "***最后60秒***"
+    "translation": "最后60秒"
   },
   "***Hold these crates while someone breaks the barrier and gets the couch going!***": {
-    "translation": "***老司机去推沙发开路***"
+    "translation": "老司机去推沙发开路"
   },
   "***Barrier breaking in 5secs!***": {
-    "translation": "***障碍5秒后开***"
+    "translation": "障碍5秒后开"
   },
   "***Zombie drain open!***": {
-    "translation": "***僵尸出来了***"
+    "translation": "僵尸出来了"
   },
   "***Hurry under! Zombie block planks breaking in 15secs!***": {
-    "translation": "***快点 僵尸字母平台在15秒后开始消失***"
+    "translation": "平台在15秒后开始消失"
   },
   "***CONGRATULATIONS -- ...Wait...F---!!***": {
-    "translation": "***恭喜 等等啥东西!!***"
+    "translation": "恭喜 等等啥东西!!"
   },
   "***Shoot it before your knocked off!!***": {
-    "translation": "***快开枪!***"
+    "translation": "快开枪!"
   },
   "***Watch out for...barrel...attacks...?***": {
-    "translation": "***小心前面滚来的油桶?***"
+    "translation": "小心前面滚来的油桶?"
   },
   "***Final attack will be charged in 60secs!!***": {
-    "translation": "***最后一波在60秒后到达***"
+    "translation": "最后一波在60秒后到达"
   },
   "***CONGRATULATIONS -- THANK YOU FOR PLAYING!!***": {
-    "translation": "***恭喜通关 感谢游玩 翻译夜里很饿@风云社***"
+    "translation": "恭喜通关 感谢游玩 翻译夜里很饿@风云社"
   },
   "***Escape Boat leaving in 35secs!***": {
-    "translation": "***逃生船在35秒后离开***"
+    "translation": "逃生船在35秒后离开"
   },
   "***Escape Boat engine failure!***": {
-    "translation": "***逃生船变耐摔亡了***"
+    "translation": "逃生船变耐摔亡了"
   },
   "***HOLD THE CRATES!***": {
-    "translation": "***守住***"
+    "translation": "守住"
   },
   "***...Take the Wash Bucket...?***": {
-    "translation": "***...去坐洗脸盆...?***"
+    "translation": "...去坐洗脸盆...?"
   },
   "***LEVEL -- INTERSTELLAR ESCAPE 9***": {
-    "translation": "***关卡--星穹铁道***"
+    "translation": "关卡--星穹铁道"
   },
   "***Make your way from train to train until you reach the Black Express!***": {
-    "translation": "***从火车中不断穿梭 跑到最后的星穹列车***"
+    "translation": "从火车中不断穿梭 跑到最后的星穹列车"
   },
   "***Cargo door opening in 15secs!***": {
-    "translation": "***门15秒后开***"
+    "translation": "门15秒后开"
   },
   "***Boxcar door opening in 10secs!***": {
-    "translation": "***门在10秒后开***"
+    "translation": "门在10秒后开"
   },
   "***Final express door opening in 25secs!***": {
-    "translation": "***门在25秒后开***"
+    "translation": "门在25秒后开"
   },
   "***Final express door open!***": {
-    "translation": "***最后的门打开了***"
+    "translation": "最后的门打开了"
   },
   "***Final attack charged!!***": {
-    "translation": "***来了 他们来了***"
+    "translation": "来了.他们来了..."
   },
   "***TEXT ATTACK FIRED!!***": {
-    "translation": "***平台开始消失***"
+    "translation": "平台开始消失"
   },
   "***BACKSPACE!!!***": {
-    "translation": "***撤***"
+    "translation": "撤"
   },
   "***Switch Activated!***": {
-    "translation": "***开关已打开***"
+    "translation": "开关已打开"
   },
   "***Valves unlocked in 35secs!***": {
-    "translation": "***阀门在35秒后解锁***"
+    "translation": "阀门在35秒后解锁"
   },
   "***LEVEL -- FAIL NADES***": {
-    "translation": "***关卡--丢雷楼谋***"
+    "translation": "关卡--丢雷楼谋"
   },
   "***Zombie will arrive in 10secs!***": {
-    "translation": "***僵尸在10秒后到达***"
+    "translation": "僵尸在10秒后到达"
   },
   "***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!***": {
-    "translation": "***左右两边都去人或者都去一边 直到把阀门都打开***"
+    "translation": "左右两边都去人或者都去一边 直到把阀门都打开"
   },
   "***Valves are stuck! BREAK THEM! Only 20secs to destroy both!***": {
-    "translation": "***两侧阀门卡住了 拆了它们 你们只有20秒***"
+    "translation": "两侧阀门卡住了 拆了它们 你们只有20秒"
   },
   "***If one side overrun start chucking nades over to break the valve!***": {
-    "translation": "***可以丢雷来炸阀门***"
+    "translation": "可以丢雷来炸阀门"
   },
   "***HURRY UP!!!***": {
-    "translation": "***搞快点!!!***"
+    "translation": "搞快点!!!"
   },
   "***Switch 1 Unlocked!***": {
-    "translation": "***开关已打开!***"
+    "translation": "开关已打开!"
   },
   "***Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!***": {
-    "translation": "***把全部开关都打开不然你们等死吧***"
+    "translation": "把全部开关都打开不然你们等死吧"
   },
   "***CT's will have to jump off and activate the switches!***": {
-    "translation": "***我们需要黑奴去开开关***"
+    "translation": "我们需要黑奴去开开关"
   },
   "***The Boss has been weakened But it will recover in 60secs and use its final attack!***": {
-    "translation": "***boss萎了 不过60秒后他就重振雄风了***"
+    "translation": "boss萎了 不过60秒后他就重振雄风了"
   },
   "***Shoot the Block!***": {
-    "translation": "***射击***"
+    "translation": "射击"
   },
   "***Hold until the escape helicopter comes in pick you up!***": {
-    "translation": "***守住 等牢大来接你***"
+    "translation": "守住 等牢大来接你"
   },
   "***Fall Back Balcony open!***": {
-    "translation": "***撤到阳台 去当耐摔王***"
+    "translation": "撤到阳台 去当耐摔王"
   },
   "***Couch Only! Take the alleyway!": {
-    "translation": "***只有沙发 走小巷"
+    "translation": "只有沙发 走小巷"
   },
   "***Emergency doors closing in 10secs!***": {
-    "translation": "***门在10秒后关闭***"
+    "translation": "门在10秒后关闭"
   }
 }
