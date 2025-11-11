@@ -1,0 +1,28 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Defend for 30 seconds***": {
+    "translation": "防御30秒",
+    "countdown": 30
+  },
+  "***5 seconds left***": {
+    "translation": "剩余5秒",
+    "countdown": 5
+  },
+  "***Only one doors will open***": {
+    "translation": "仅有一扇门会开启"
+  },
+  "***Gate will close in 15 seconds***": {
+    "translation": "大门将在15秒后关闭",
+    "countdown": 15
+  }
+}
