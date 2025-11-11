@@ -1,0 +1,54 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "nrk2_counter",
+      "counter": "nrk2_hp_iterations",
+      "backup": "nrk2_hp_backup",
+      "hitbox": "nrk2_boss_hitbox",
+      "display": "Nrk2"
+    },
+    {
+      "iterator": "nrk1_counter",
+      "counter": "nrk1_hp_iterations",
+      "backup": "nrk1_hp_backup",
+      "hitbox": "temp_nrk1_naraka_boss_hitbox",
+      "display": "Nrk1"
+    },
+    {
+      "iterator": "nrk2_boss_laser_counter",
+      "counter": "nrk2_boss_hp_iterations",
+      "backup": "nrk2_boss_hp_backup",
+      "hitbox": "nrk2_laserboss_2_hitbox",
+      "display": "Nrk2Lsaer"
+    },
+    {
+      "iterator": "nrk1_boss_laser_counter",
+      "counter": "nrk1_boss_hp_iterations",
+      "backup": "nrk1_boss_hp_backup",
+      "hitbox": "temp_nrk1_laserboss_2_hitbox",
+      "display": "Nrk1Lsaerr"
+    }
+  ]
+}
