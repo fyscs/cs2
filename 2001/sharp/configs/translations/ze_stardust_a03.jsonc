@@ -11,6 +11,72 @@
 
 {
   "** Something happened... **": {
-    "translation": "** 看来有什么事情要发生... **"
+    "translation": "什么事发生了..."
+  },
+  ">> Zombies took over the road <<": {
+    "translation": "僵尸占领了道路..."
+  },
+  ">> Failed <<": {
+    "translation": "失败"
+  },
+  ">> Restart round... <<": {
+    "translation": "正在重启回合..."
+  },
+  ">> Admin set to Normal Ending (No Secret) <<": {
+    "translation": "管理员设置关卡为普通结局(无彩蛋)"
+  },
+  ">> Admin set to Normal Ending <<": {
+    "translation": "管理员设置关卡为普通结局"
+  },
+  ">> Admin set to Secret Ending <<": {
+    "translation": "管理员设置关卡为隐藏结局"
+  },
+  "** Secret Mode **": {
+    "translation": "隐藏模式"
+  },
+  "** You have only one chance **": {
+    "translation": "你只有一次机会"
+  },
+  ">> 35 seconds <<": {
+    "translation": "35秒"
+  },
+  ">> 5 seconds left <<": {
+    "translation": "5秒后开启回合"
+  },
+  ">> 30 seconds <<": {
+    "translation": "还有30秒"
+  },
+  ">> Zombie teleport in 15 seconds <<": {
+    "translation": "15秒后启用僵尸传送"
+  },
+  ">> 20 seconds <<": {
+    "translation": "还有20秒"
+  },
+  "** ze_Stardust - Ver.a03_f6 **": {
+    "translation": "ze_Stardust - Ver.a03_f6 文本:Korihana@fys"
+  },
+  ">> 40 seconds <<": {
+    "translation": "40秒"
+  },
+  ">> falltp location has been updated <<": {
+    "translation": "掉落传送点已更新"
+  },
+  ">> 25 seconds <<": {
+    "translation": "25秒"
+  },
+  ">> 15 seconds <<": {
+    "translation": "15秒"
+  },
+  "|| 60 seconds ||": {
+    "translation": "60秒"
+  },
+  "|| 30 seconds ||": {
+    "translation": "30秒"
+  },
+  "|| 10 seconds ||": {
+    "translation": "10秒"
+  },
+  "|| Failed ||": {
+    "translation": "失败"
   }
 }
