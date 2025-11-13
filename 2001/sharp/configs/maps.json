@@ -864,7 +864,7 @@
     "requiredPlayers": -1
   },
   "ze_cube_defense": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 60,
     "nomination": false,
