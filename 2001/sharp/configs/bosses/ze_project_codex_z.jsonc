@@ -39,7 +39,7 @@
       "display": "RHEANEAS"
     },
     {
-      "target": "p_boss_hitbox",
+      "target": "pkey_boss_health",
       "display": "Purple"
     }
   ]
