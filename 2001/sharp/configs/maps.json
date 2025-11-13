@@ -3572,6 +3572,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+   "ze_project_codex_z": {
+    "admin": false,
+    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 150,
+    "nomination": true,
+    "price": 600,
+    "requiredOnline": -1,
+    "requiredPlayers": 45
+  },
   "ze_purification_a1": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
