@@ -10,115 +10,14 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "(30秒后门开）": {
-    "translation": "30秒后门开",
-    "countdown": 30
+  "啊咧 忘记平常这里是死路咧！Σ( °Д °;)": {
+    "translation": "这里是死路!"
   },
-  "(僵尸被阻挡8秒，快跑！！(o゜▽゜)o☆）": {
-    "translation": "僵尸被阻挡8秒,快跑!!"
+  "˃̶͈ ˂̶͈ 康来只能走夜袭（划掉）的秘密通道了": {
+    "translation": "只能走秘密通道了"
   },
-  "(10秒后门开）": {
-    "translation": "10秒后门开",
-    "countdown": 10
-  },
-  "（守住码头 是男人就坚持40秒~o( =∩ω∩= )）": {
-    "translation": "守住码头40秒!!!",
-    "countdown": 40
-  },
-  "（僵尸10秒后传送 快跑(>▽<)）": {
-    "translation": "僵尸10秒后传送 快跑!"
-  },
-  "（在屋内存活60秒直至后花园门开）": {
-    "translation": "在屋内存活60秒直至后花园门开",
-    "countdown": 60
-  },
-  "（僵尸五秒后传送至厕所）": {
-    "translation": "僵尸5秒后传送至厕所"
-  },
-  "咱记得钓鱼台上的钻石块是树屋开关喵Ծ‸Ծ": {
-    "translation": "钓鱼台上的钻石块才是树屋开关!"
-  },
-  "(树屋将在60s后开放)": {
-    "translation": "树屋将在60秒后开放",
-    "countdown": 60
-  },
-  "(僵尸15秒后传送，开润！）": {
-    "translation": "僵尸15秒后传送,开润!"
-  },
-  "(树屋将在10s后开放)": {
-    "translation": "树屋将在10s后开放",
-    "countdown": 10
-  },
-  "啊嘞┌|*´∀｀|┘貌似什么东西忘记触发了喵": {
-    "translation": "貌似什么东西忘记触发了"
-  },
-  "四十秒": {
-    "translation": "防守40秒",
-    "countdown": 40
-  },
-  "（僵尸10秒后传送）": {
-    "translation": "僵尸10秒后传送"
-  },
-  "（码头25秒后开放！）": {
-    "translation": "码头25秒后开放!",
-    "countdown": 25
-  },
-  "（守住30s）": {
-    "translation": "守住30秒",
-    "countdown": 30
-  },
-  "右侧二楼小屋有一个通往哨站的梯子捏！": {
-    "translation": "右侧二楼小屋有一个通往哨站的梯子!"
-  },
-  "咱记得二楼小屋开关在秋千旁来着": {
-    "translation": "二楼小屋开关在秋千旁"
-  },
-  "二楼门30秒后打开喵！": {
-    "translation": "二楼门30秒后打开!",
-    "countdown": 30
-  },
-  "（侧路15秒后开放）": {
-    "translation": "侧路15秒后开放",
-    "countdown": 15
-  },
-  "（给米库30秒撬烟囱时间）": {
-    "translation": "烟囱通道30秒后开放!",
-    "countdown": 30
-  },
-  "(大门30秒后打开)": {
-    "translation": "大门30秒后打开",
-    "countdown": 30
-  },
-  "(25秒后玻璃碎掉）": {
-    "translation": "25秒后玻璃碎掉",
-    "countdown": 25
-  },
-  "船舱开关一定在船舵旁边！^O^": {
-    "translation": "船舱开关在船舵旁边!"
-  },
-  "船舱在40秒后打开": {
-    "translation": "船舱在40秒后打开",
-    "countdown": 40
-  },
-  "(30秒后门开)": {
-    "translation": "30秒后门开",
-    "countdown": 30
-  },
-  "(10秒后僵尸传送)": {
-    "translation": "10秒后僵尸传送"
-  },
-  "朝着最后一个房间前进吧！": {
-    "translation": "朝着最后一个房间前进吧!"
-  },
-  "（最后30秒！！）": {
-    "translation": "最后30秒!!!",
-    "countdown": 30
-  },
-  "剧终 感谢游玩！~o( =∩ω∩= )m": {
-    "translation": "剧终!!感谢游玩!"
-  },
-  "小哥买苹果嘛~": {
-    "translation": "小哥买苹果嘛~"
+  "那咱就从这里下去吧！": {
+    "translation": "从这里下去!"
   },
   "(30秒后门开!）": {
     "translation": "30秒后门开!",
@@ -128,21 +27,143 @@
     "translation": "5秒后门开!",
     "blocked": true
   },
-  "(树屋将在5s后开放)": {
-    "translation": "树屋将在5s后开放",
-    "blocked": true
+  "（守住码头 是男人就坚持35秒~o( =∩ω∩= )）": {
+    "translation": "守住码头35秒!",
+    "countdown": 35
+  },
+  "（僵尸10秒后传送 快跑(>▽<)）": {
+    "translation": "僵尸10秒后传送"
+  },
+  "（在屋内存活60秒直至后花园门开）": {
+    "translation": "在屋内存活60秒直至后花园门开",
+    "countdown": 60
+  },
+  "（僵尸12秒后传送至厕所）": {
+    "translation": "僵尸12秒后传送"
+  },
+  "四十秒": {
+    "translation": "防守40秒",
+    "countdown": 40
+  },
+  "门开辣！": {
+    "translation": "门开辣！"
+  },
+  "(20秒)": {
+    "translation": "防守20秒",
+    "countdown": 20
+  },
+  "（码头25秒后开放！）": {
+    "translation": "码头25秒后开放!",
+    "countdown": 25
   },
   "（守住20s）": {
-    "translation": "守住20秒",
+    "translation": "守住20s",
     "countdown": 20
+  },
+  "右侧二楼小屋有一个通往哨站的梯子捏！": {
+    "translation": "右侧二楼小屋有一个通往哨站的梯子！"
+  },
+  "咱记得二楼小屋开关在秋千旁来着": {
+    "translation": "二楼小屋开关在秋千旁"
+  },
+  "侧路暂时无法通行哦喵~( ╯▽╰)": {
+    "translation": "侧路暂时无法通行"
+  },
+  "二楼门30秒后打开喵！": {
+    "translation": "二楼门30秒后打开!",
+    "countdown": 30
+  },
+  "（侧路15秒后开放）": {
+    "translation": "侧路15秒后开放"
+  },
+  "试试走哨站再绕进酒馆！": {
+    "translation": "试试走哨站再绕进酒馆！"
+  },
+  "二楼门10秒后打开喵！": {
+    "translation": "二楼门10秒后打开!",
+    "countdown": 10 
+  },
+  "（给米库30秒撬烟囱时间）": {
+    "translation": "烟囱通道30秒后开放!",
+    "countdown": 30
+  },
+  "哨站背面有一个钟": {
+    "translation": "哨站背面有一个钟"
+  },
+  "敲响它或许就能扰乱海盗的注意力！": {
+    "translation": "敲响它！"
+  },
+  "我们就光明正大地从哨站门口走出去吧！": {
+    "translation": "从哨站门口走出去！"
   },
   "20秒后门开": {
     "translation": "20秒后门开",
     "countdown": 20
   },
+  "姜丝5s后传送！": {
+    "translation": "僵尸5s后传送!"
+  },
+  "(大门25秒后打开)": {
+    "translation": "大门25秒后打开",
+    "countdown": 25
+  },
+  "(10秒后门开喵~o( =∩ω∩= )m)": {
+    "translation": "10秒后门开",
+    "countdown": 10
+  },
+  "看来只能走窗户了喵！": {
+    "translation": "看来只能走窗户了！"
+  },
   "(15秒后玻璃碎掉）": {
     "translation": "15秒后玻璃碎掉",
     "countdown": 15
+  },
+  "5秒后僵尸传送！": {
+    "translation": "5秒后僵尸传送!"
+  },
+  "船舱开关一定在船舵旁边！^O^": {
+    "translation": "船舱开关在船舵旁边!"
+  },
+  "船舱在30秒后打开": {
+    "translation": "船舱在30秒后打开",
+    "countdown": 30
+  },
+  "船舱在10秒后打开": {
+    "translation": "船舱在10秒后打开",
+    "countdown": 10
+  },
+  "咱就说的吧 果然脚下有秘密通道╰(*°▽°*)╯": {
+    "translation": "走脚下秘密通道"
+  },
+  "(30秒后门开)": {
+    "translation": "30秒后门开",
+    "countdown": 30
+  },
+  "(5秒后僵尸传送)": {
+    "translation": "5秒后僵尸传送"
+  },
+  "朝着最后一个房间前进吧！": {
+    "translation": "朝着最后一个房间前进吧！"
+  },
+  "(10秒后门开)": {
+    "translation": "10秒后门开",
+    "countdown": 10
+  },
+  "守住这扇铁门咱们就成功辣(/≧▽≦)/": {
+    "translation": "守住这扇铁门!"
+  },
+  "（最后30秒！！）": {
+    "translation": "最后30秒!!",
+    "countdown": 30
+  },
+  "成功辣！！!φ(≧ω≦*)♪": {
+    "translation": "成功辣!!"
+  },
+  "剧终 感谢游玩！~o( =∩ω∩= )m": {
+    "translation": "剧终!感谢游玩!"
+  },
+  "星野酱居然真的打开了通往梦的隧道Σヽ(ﾟД ﾟ; )ﾉ": {
+    "translation": "星野酱居然真的打开了通往梦的隧道"
   },
   "（25s后传送！）": {
     "translation": "25s后传送!",
@@ -152,7 +173,67 @@
     "translation": "跳刀房将在55s后开放",
     "countdown": 55
   },
+  "服务器人数低于45，已移除僵尸贴门核爆效果！！": {
+    "translation": "服务器人数低于45,已移除僵尸贴门核爆效果!!"
+  },
   "樱花岛似乎出现了时空裂隙...": {
     "translation": "樱花岛似乎出现了时空裂隙..."
+  },
+  "已经没有人类了喵！": {
+    "translation": "已经没有人类了！"
+  },
+  "星野酱永远沉睡在不清醒的梦里了喵": {
+    "translation": "星野酱永远沉睡在不清醒的梦里了"
+  },
+  "门后居然有个隐藏传送门？！": {
+    "translation": "门后居然有个隐藏传送门?!"
+  },
+  "获得了移速加成！": {
+    "translation": "获得了移速加成!"
+  },
+  "已经燃尽了...传送门进不去力！": {
+    "translation": "传送门进不去了!"
+  },
+  "(某处的玻璃似乎在轻轻颤动)": {
+    "translation": "某处的玻璃似乎在轻轻颤动"
+  },
+  "*Mapper weiyiweixiehui*": {
+    "translation": "*Mapper weiyiweixiehui*"
+  },
+  "*Mapper BYD_Cat*": {
+    "translation": "*Mapper BYD_Cat*"
+  },
+  "*Mapper hualian_HL*": {
+    "translation": "*Mapper hualian_HL*"
+  },
+  "*Mapper MinionsHian*": {
+    "translation": "*Mapper MinionsHian*"
+  },
+  "*Mapper Lucky*": {
+    "translation": "*Mapper Lucky*"
+  },
+  "*Mapper jiangbao*": {
+    "translation": "*Mapper jiangbao*"
+  },
+  "*Mapper xinjing*": {
+    "translation": "*Mapper xinjing*"
+  },
+  "（5s后传送！）": {
+    "translation": "5s后传送!"
+  },
+  "(树屋将在60s后开放)": {
+    "translation": "树屋将在60s后开放",
+    "countdown": 60
+  },
+  "(树屋将在40s后开放)": {
+    "translation": "树屋将在40s后开放",
+    "blocked": true
+  },
+  "(僵尸20秒后传送，开润！）": {
+    "translation": "僵尸20秒后传送!"
+  },
+  "(树屋将在5s后开放)": {
+    "translation": "树屋将在5s后开放",
+    "blocked": true
   }
 }
