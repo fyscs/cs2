@@ -1646,6 +1646,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 25
   },
+  "ze_funny_runner": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_games_p": {
     "admin": false,
     "certainTimes": [-1],
