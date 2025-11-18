@@ -26,11 +26,11 @@
     "countdown": 15
   },
   "***Defend for 25 seconds***": {
-    "translation": "坚守25秒"
+    "translation": "坚守25秒",
     "countdown": 25
   },
   "***Defend for 10 seconds***": {
-    "translation": "坚守10秒"
+    "translation": "坚守10秒",
     "countdown": 10
   },
   "***3***": {
