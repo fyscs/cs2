@@ -11,7 +11,8 @@
 
 {
   "「Duration」 8 sec 「Cooldown」 60 sec": {
-    "translation": "「CD」 八秒持续时间,六十秒冷却"
+    "translation": "「CD」 八秒持续时间,六十秒冷却",
+    "blocked": true
   },
   "「Function」 Decelerate zombies within the range": {
     "translation": "「技能」 剧烈减速范围内的僵尸"
@@ -23,7 +24,8 @@
     "translation": ">>镜花水月<<"
   },
   "「Duration」 10 sec 「Cooldown」 60 sec": {
-    "translation": "「CD」 十秒持续时间,六十秒冷却"
+    "translation": "「CD」 十秒持续时间,六十秒冷却",
+    "blocked": true
   },
   "「Function」 Create a cube that can be climbed (It can be destroyed by humans)": {
     "translation": "「技能」 创造一个可以攀爬的立方体方块(它可以被人类摧毁)"
@@ -32,7 +34,8 @@
     "translation": "「方块(僵尸)」"
   },
   "「Duration」 12 sec 「Cooldown」 80 sec": {
-    "translation": "「CD」 十二秒持续时间,八十秒冷却"
+    "translation": "「CD」 十二秒持续时间,八十秒冷却",
+    "blocked": true
   },
   "「Function」 Create a heart, restore health in area": {
     "translation": "「技能」 创造一块爱心,它可以为这片区域的人缓慢恢复血量"
@@ -50,7 +53,8 @@
     "translation": ">头顶区域的方块也许可以攀爬<"
   },
   "「Duration」 7 sec 「Cooldown」 70 sec": {
-    "translation": "「CD」 七秒持续时间,七十秒冷却"
+    "translation": "「CD」 七秒持续时间,七十秒冷却",
+    "blocked": true
   },
   "「Function」 Create a water wave in front of you, slowing and dragging humans": {
     "translation": "「技能」 在你正对方创造一片水波,它可以将人类减速且拖拽回来"
@@ -68,7 +72,8 @@
     "translation": "> EX模式 <"
   },
   "「Duration」 5 sec 「Cooldown」 50 sec": {
-    "translation": "「CD」 五秒持续时间,五十秒冷却"
+    "translation": "「CD」 五秒持续时间,五十秒冷却",
+    "blocked": true
   },
   "「Function」 Restore zombies HP in range and increase speed": {
     "translation": "「技能」 恢复范围内的僵尸血量,且提高移动速度"
@@ -83,10 +88,12 @@
     "translation": "「技能」把僵尸推往自身准心的方向"
   },
   "「Duration」6 sec 「Cooldown」50 sec": {
-    "translation": "「CD」六秒持续时间,五十秒冷却"
+    "translation": "「CD」六秒持续时间,五十秒冷却",
+    "blocked": true
   },
   "「Duration」 6 sec 「Cooldown」 80 sec": {
-    "translation": "「CD」六秒持续时间,八十秒冷却"
+    "translation": "「CD」六秒持续时间,八十秒冷却",
+    "blocked": true
   },
   "「Function」 Reverse human items effects (except item <Heart><Push>)": {
     "translation": "「技能」反转人类的神器,使其技能作用于人类<治疗,推力除外>"
@@ -95,7 +102,8 @@
     "translation": "「逆转之心(僵尸)」"
   },
   "「Duration」 7 sec 「Cooldown」 80 sec": {
-    "translation": "「CD」七秒持续时间,八十秒冷却"
+    "translation": "「CD」七秒持续时间,八十秒冷却",
+    "blocked": true
   },
   "「Function」 Create a circular barrier to block zombies": {
     "translation": "「技能」 创造一块圆形屏障阻挡僵尸"
