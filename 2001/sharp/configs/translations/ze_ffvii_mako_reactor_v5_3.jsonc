@@ -74,7 +74,8 @@
     "translation": "**保持火力!我们还不知道他会做什么! **"
   },
   "** EXPLOSION IN 145 SECONDS **": {
-    "translation": "** 距离魔光炉爆炸还剩145秒! **"
+    "translation": "距离魔光炉爆炸还剩145秒!",
+    "countdown": 145
   },
   "**  10 SECONDS LEFT **": {
     "translation": "**  剩余10秒! **"
@@ -119,10 +120,12 @@
     "blocked": true
   },
   "** EXPLOSION IN 120 SECONDS **": {
-    "translation": "** 距离魔光炉爆炸还剩120秒! **"
+    "translation": "距离魔光炉爆炸还剩120秒",
+    "countdown": 120
   },
   "** EXPLOSION IN 130 SECONDS **": {
-    "translation": "** 距离魔光炉爆炸还剩130秒! **"
+    "translation": "距离魔光炉爆炸还剩130秒",
+    "countdown": 130
   },
   "** 30 SECONDS LEFT **": {
     "translation": "** 还剩30秒 **"
@@ -138,7 +141,8 @@
     "translation": "** 还有10秒 **"
   },
   "**Door is opening in 5**": {
-    "translation": "**5秒后开门**"
+    "translation": "5秒后开门",
+    "countdown": 5
   },
   "** DOOR OPENS IN 35 S **": {
     "translation": "** 大门将在35秒后开启 **"
