@@ -2727,7 +2727,7 @@
     "requiredPlayers": 40
   },
   "ze_mkzk_scarab_v4_remake": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 80,
     "nomination": true,
