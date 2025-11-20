@@ -1,0 +1,138 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*门将在 25 秒后打开*": {
+    "translation": "门将在 25 秒后打开",
+    "countdown": 25
+  },
+  "*电梯门将在 15 秒后打开*": {
+    "translation": "电梯门将在 15 秒后打开",
+    "countdown": 15
+  },
+  "*门将在 15 秒后打开*": {
+    "translation": "门将在 15 秒后打开",
+    "countdown": 15
+  },
+  "*墙将在 15 秒后破碎*": {
+    "translation": "墙将在 15 秒后破碎",
+    "countdown": 15
+  },
+  "钥匙已被拾取": {
+    "translation": "钥匙已被拾取"
+  },
+  "*门将在 10 秒后打开*": {
+    "translation": "门将在 10 秒后打开",
+    "countdown": 10
+  },
+  "你们要进入工厂": {
+    "translation": "你们要进入工厂"
+  },
+  "找到违规的证据": {
+    "translation": "找到违规的证据"
+  },
+  "祝，武运昌隆": {
+    "translation": "祝 武运昌隆"
+  },
+  "后面就是老板的追兵": {
+    "translation": "后面就是老板的追兵"
+  },
+  "* 15 秒*": {
+    "translation": "15 秒",
+    "countdown": 15
+  },
+  "*门将在 20 秒后打开*": {
+    "translation": "门将在 20 秒后打开",
+    "countdown": 20
+  },
+  "*电梯门将在 8 秒后关闭*": {
+    "translation": "电梯门将在 8 秒后关闭",
+    "countdown": 8
+  },
+  "*门将在 5 秒后打开*": {
+    "translation": "门将在 5 秒后打开",
+    "countdown": 5
+  },
+  "*门将在 65 秒后打开*": {
+    "translation": "门将在 65 秒后打开",
+    "countdown": 65
+  },
+  "*电梯门将在 25 秒后打开*": {
+    "translation": "电梯门将在 25 秒后打开",
+    "countdown": 25
+  },
+  "*电梯门将在 5 秒后关闭*": {
+    "translation": "电梯门将在 5 秒后关闭",
+    "countdown": 5
+  },
+  "compile help by ice & 莫等闲贤咸": {
+    "translation": "compile help by ice & 莫等闲贤咸"
+  },
+  "*僵尸将在 8 秒后传送*": {
+    "translation": "僵尸将在 8 秒后传送",
+    "countdown": 8
+  },
+  "*电梯门将在 20 秒后打开*": {
+    "translation": "电梯门将在 20 秒后打开",
+    "countdown": 20
+  },
+  "门将在 4 秒后关闭": {
+    "translation": "门将在 4 秒后关闭",
+    "countdown": 4
+  },
+  "*僵尸将在 10 秒后传送*": {
+    "translation": "僵尸将在 10 秒后传送",
+    "countdown": 10
+  },
+  "*管道将在 20 秒后打开*": {
+    "translation": "管道将在 20 秒后打开",
+    "countdown": 20
+  },
+  "那边似乎还有东西......": {
+    "translation": "那边似乎还有东西......"
+  },
+  "要去看看吗?": {
+    "translation": "要去看看吗?"
+  },
+  "我们好像失败了?": {
+    "translation": "我们好像失败了?"
+  },
+  "前面的马路可以离开这里": {
+    "translation": "前面的马路可以离开这里"
+  },
+  "*最后的门将在 20 秒后打开*": {
+    "translation": "最后的门将在 20 秒后打开",
+    "countdown": 20
+  },
+  "从这里离开吧": {
+    "translation": "从这里离开吧"
+  },
+  "*门将在 30 秒后打开*": {
+    "translation": "门将在 30 秒后打开",
+    "countdown": 30
+  },
+  "*僵尸将在 20 秒后传送*": {
+    "translation": "僵尸将在 20 秒后传送",
+    "countdown": 20
+  },
+  "*管道将在 10 秒后打开*": {
+    "translation": "管道将在 10 秒后打开",
+    "countdown": 10
+  },
+  "*管道在 30 秒后打开*": {
+    "translation": "管道在 30 秒后打开",
+    "countdown": 30
+  },
+  "*墙将在 15 秒后被破坏*": {
+    "translation": "墙将在 15 秒后被破坏",
+    "countdown": 15
+  }
+}
