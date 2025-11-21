@@ -332,7 +332,7 @@
     "requiredOnline": -1,
     "requiredPlayers": 10
   },
-  "ttt_cs2minecraft_village_city": {
+  "ttt_cs2_minecraft_village_city": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
