@@ -1,0 +1,58 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** Zodiac departing for island interior. **": {
+    "translation": "船正前往岛屿内部"
+  },
+  "** C4 planted! **": {
+    "translation": "C4已安装"
+  },
+  "** Push the C4 between the barrels **": {
+    "translation": "将C4推到桶之间"
+  },
+  "** Raptor nest has been disturbed! **": {
+    "translation": "迅猛龙巢穴已被惊扰"
+  },
+  "** There's no power. We're screwed! **": {
+    "translation": "没有电力,我们完蛋了"
+  },
+  "** InGen has received your distress signal. A109 inbound for extraction in 60... **": {
+    "translation": "A109正在前来撤离,60秒后到达"
+  },
+  "** Laboratory Security online. Locking in 10 seconds... **": {
+    "translation": "实验室安保系统启动,10秒后锁定"
+  },
+  "** BRIDGE CHARGE DETONATED -- JUMP YOU FOOLS! **": {
+    "translation": "桥梁炸药已引爆,快跳"
+  },
+  "**AFK TELE 10 SECONDS**": {
+    "translation": "挂机玩家10秒后传送"
+  },
+  "**AFK TELE 20 SECONDS**": {
+    "translation": "挂机玩家20秒后传送"
+  },
+  "** Power has been restored to Isla Sorna **": {
+    "translation": "索纳岛电力已恢复"
+  },
+  "** Satellite link established. Phone access enabled. **": {
+    "translation": "卫星链接已建立,电话访问已启用"
+  },
+  "** Follow the game trails through the island interior to reach Embryonic Research B. **": {
+    "translation": "沿着岛内的小径前往研究B区"
+  },
+  "** THE PLANE IS GOING TO CRASH **": {
+    "translation": "飞机即将坠毁"
+  },
+  "** BRACE YOURSELVES **": {
+    "translation": "做好准备"
+  }
+}
