@@ -78,7 +78,8 @@
     "translation": ">>>这是什么地方?如此神秘!<<<"
   },
   ">>>Only the chosen card can unseal your path<<<": {
-    "translation": ">>>只有选定的卡可以打开路径<<<"
+    "translation": ">>>只有选定的卡可以打开路径<<<",
+    "blocked": true
   },
   ">>>命定之牌，解开前路<<<": {
     "translation": ">>>命定之牌,解开前路<<<"
@@ -216,3 +217,4 @@
     "translation": ">>>坚守阵地30秒<<<"
   }
 }
+
