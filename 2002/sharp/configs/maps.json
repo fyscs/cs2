@@ -207,7 +207,7 @@
     "requiredPlayers": -1
   },
   "ttt_cs2_minecraft_village": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 10,
     "nomination": false,
