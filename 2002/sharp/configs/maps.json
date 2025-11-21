@@ -341,6 +341,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ttt_damons_canyon_cs2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ttt_edgewinter": {
     "admin": false,
     "certainTimes": [-1],
