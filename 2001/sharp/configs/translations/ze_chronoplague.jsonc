@@ -97,7 +97,8 @@
     "translation": ">>>脑机接口已经接入,30秒后可再次接入<<<"
   },
   ">>>Three power sources... Only then shall the machine come to life<<<": {
-    "translation": ">>>三个电源...只有到那时,机器才能开启<<<"
+    "translation": ">>>三个电源...只有到那时,机器才能开启<<<",
+    "blocked": true
   },
   ">>>防守僵尸，寻找三处能量源……只有全部启动，电力才能恢复<<<": {
     "translation": ">>>防守僵尸,寻找三处能量源...只有全部启动,电力才能恢复<<<"
@@ -217,4 +218,5 @@
     "translation": ">>>坚守阵地30秒<<<"
   }
 }
+
 
