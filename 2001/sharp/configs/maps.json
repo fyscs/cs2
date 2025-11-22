@@ -3950,6 +3950,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_shaurma_v3": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_showdown_p": {
     "admin": false,
     "certainTimes": [-1],
