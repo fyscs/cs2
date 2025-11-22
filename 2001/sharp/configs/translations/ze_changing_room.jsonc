@@ -49,7 +49,7 @@
   "**  Heaven will punish you and come to kill your entire family  **": {
     "translation": "黄天谴来杀你全家了"
   },
-    "**  wait 35s **": {
+  "**  wait 35s **": {
     "translation": "等待35秒"
   },
   "**  wait 15s **": {
@@ -109,7 +109,7 @@
   "** you kill evil santa **": {
     "translation": "恭喜你击败了邪恶筋肉圣诞人"
   },
-    "**  圣诞老人带来了许多礼物  **": {
+  "**  圣诞老人带来了许多礼物  **": {
     "translation": "圣诞老人带来了许多礼物"
   },
   "** Santa Claus brought many gifts   **": {
@@ -148,7 +148,7 @@
   "**  model by Luffaren  **": {
     "translation": "由Luffaren提供模型ohye!~"
   },
-    "**  恭喜击败了那个男人  **": {
+  "**  恭喜击败了那个男人  **": {
     "translation": "恭喜击败了那个男人"
   },
   "**  you kill that man  **": {
@@ -211,7 +211,7 @@
   "**  Shrek found you sneaking a bite of his birthday cake!  **": {
     "translation": "史莱克发现了你在偷吃他的生日蛋糕!"
   },
-    "**  wait 35s **": {
+  "**  wait 35s **": {
     "translation": "等待35秒"
   },
   "**  今天是蛋白粉折扣日，邪恶筋肉人成群结队的前去买蛋白粉  **": {
@@ -253,7 +253,7 @@
   "**  model by Luffaren  **": {
     "translation": "由Luffaren提供模型ohye!~"
   },
-    "？？？": {
+  "？？？": {
     "translation": "???"
   }
 }
