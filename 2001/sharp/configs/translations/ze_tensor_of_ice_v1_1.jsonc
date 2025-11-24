@@ -1,0 +1,64 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "|| Failed ||": {
+    "translation": "失败"
+  },
+  "< 40 >": {
+    "translation": "40秒"
+  },
+  "< 5 >": {
+    "translation": "5秒"
+  },
+  "~ 10 ~": {
+    "translation": "10秒后传送"
+  },
+  "< 30 >": {
+    "translation": "30秒"
+  },
+  "< 35 >": {
+    "translation": "35秒"
+  },
+  "< 25 >": {
+    "translation": "25秒"
+  },
+  "~ 15 ~": {
+    "translation": "15秒后传送"
+  },
+  "** ze_Tensor_of_Ice - ver.1.1.3b **": {
+    "translation": "** ze_Tensor_of_Ice **冰之脉络 文本:Korihana"
+  },
+  "< 15 >": {
+    "translation": "15秒"
+  },
+  "|| 60 ||": {
+    "translation": "还有60秒"
+  },
+  "|| 30 ||": {
+    "translation": "还有30秒"
+  },
+  "|| 10 ||": {
+    "translation": "还有10秒"
+  },
+  "** Practice Mode **": {
+    "translation": "训练模式"
+  },
+  ">> Admin set to Practice Mode <<": {
+    "translation": "管理员设置了训练模式"
+  },
+  ">> Admin set to Normal Mode <<": {
+    "translation": "管理员设置了普通模式"
+  },
+  ">> Restart round... <<": {
+    "translation": "重启回合..."
+  }
+}
