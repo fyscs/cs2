@@ -170,6 +170,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ttt_cs2_magma": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ttt_cs2_mako_reactor": {
     "admin": false,
     "certainTimes": [-1],
@@ -188,24 +197,6 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
-  "ttt_cs2_moonjam": {
-    "admin": false,
-    "certainTimes": [-1],
-    "cooldown": 15,
-    "nomination": true,
-    "price": 250,
-    "requiredOnline": -1,
-    "requiredPlayers": 10
-  },
-  "ttt_cs2_magma": {
-    "admin": false,
-    "certainTimes": [-1],
-    "cooldown": 10,
-    "nomination": false,
-    "price": 250,
-    "requiredOnline": -1,
-    "requiredPlayers": -1
-  },
   "ttt_cs2_minecraft_village": {
     "admin": false,
     "certainTimes": [-1],
@@ -214,6 +205,15 @@
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
+  },
+  "ttt_cs2_moonjam": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": 10
   },
   "ttt_cs2_parkhousefix_sg": {
     "admin": false,
@@ -305,15 +305,6 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
-  "ttt_cs2_typhoon": {
-    "admin": false,
-    "certainTimes": [-1],
-    "cooldown": 10,
-    "nomination": false,
-    "price": 250,
-    "requiredOnline": -1,
-    "requiredPlayers": 10
-  },
   "ttt_cs2_two_house": {
     "admin": false,
     "certainTimes": [-1],
@@ -322,6 +313,15 @@
     "price": 250,
     "requiredOnline": -1,
     "requiredPlayers": -1
+  },
+  "ttt_cs2_typhoon": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": 10
   },
   "ttt_cs2_yakuza": {
     "admin": false,
