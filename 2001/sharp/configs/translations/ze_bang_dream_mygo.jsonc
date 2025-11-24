@@ -131,7 +131,8 @@
     "translation": "好戏马上就要开始上演了!"
   },
   "All Perfect!": {
-    "translation": "All Perfect!"
+    "translation": "All Perfect!",
+    "blocked": true
   },
   "**核爆**": {
     "translation": "核爆"
@@ -142,4 +143,20 @@
   "**更多内容请等待后续更新**": {
     "translation": "更多内容请等待后续更新"
   }
+  "Perfect!": {
+    "translation": "Perfect!",
+    "blocked": true
+  },
+  "Great!": {
+    "translation": "Great!",
+    "blocked": true
+  },
+  "Miss": {
+    "translation": "Miss",
+    "blocked": true
+  },
+  "Full Combo !": {
+    "translation": "Full Combo!",
+    "blocked": true
+  },
 }
