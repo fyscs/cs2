@@ -116,28 +116,40 @@ Template Elite
 	Skill = 100
 	//Rank = 1800
 	Aggression = 100
-	ReactionTime = 0.002
+	ReactionTime = 0
 	Cost = 4
 	Difficulty = EXPERT
 	VoicePitch = 85
-	AimFocusInitial = 0.001
-	AimFocusDecay = 0.001
+	AimFocusInitial = 0
+	AimFocusDecay = 0
 	AimFocusOffsetScale = 0
-	AimfocusInterval = 0.001
+	AimfocusInterval = 0
+	LookAngleMaxAccelNormal = 200000.0
+	LookAngleStiffnessNormal = 10000.0
+	LookAngleDampingNormal = 25.0
+	LookAngleMaxAccelAttacking = 300000.0
+	LookAngleStiffnessAttacking = 15000.0
+	LookAngleDampingAttacking = 30.0
 End
 
 Template Expert
 	Skill = 100
 	//Rank = 1600
-	Aggression = 95
-	ReactionTime = 0.002
+	Aggression = 100
+	ReactionTime = 0
 	Cost = 4
 	Difficulty = EXPERT
 	VoicePitch = 88
-	AimFocusInitial = 0.002
-	AimFocusDecay = 0.002
+	AimFocusInitial = 0
+	AimFocusDecay = 0
 	AimFocusOffsetScale = 0
-	AimfocusInterval = 0.002
+	AimfocusInterval = 0
+	LookAngleMaxAccelNormal = 200000.0
+	LookAngleStiffnessNormal = 10000.0
+	LookAngleDampingNormal = 25.0
+	LookAngleMaxAccelAttacking = 300000.0
+	LookAngleStiffnessAttacking = 15000.0
+	LookAngleDampingAttacking = 30.0
 End
 
 Template VeryHard
@@ -234,62 +246,62 @@ End
 //
 
 
-Elite+Rifle Muhlik@FyS
+Elite+Rifle Muhlik
 	Skin = 1
 	VoicePitch = 95
 End
 
-Elite+Spray Shamat@FyS
+Elite+Spray Shamat
 	Skin = 2
 	VoicePitch = 105
 End
 
-Elite+Shotgun Crusher@FyS
+Elite+Shotgun Crusher
 	Skin = 4
 	VoicePitch = 84
 End
 
-Elite+Punch Osiris@FyS
+Elite+Punch Osiris
 	Skin = 4
 	VoicePitch = 110
 End
 
-Elite+Power Rock@FyS
+Elite+Power Rock
 	Skin = 2
 	VoicePitch = 80
 End
 
-Elite+PunchT Shark@FyS
+Elite+PunchT Shark
 	Skin = 4
 	VoicePitch = 90
 End
 
-Elite+Rifle Wolf@FyS
+Elite+Rifle Wolf
 	Skin = 2
 	VoicePitch = 98
 End
 
-Elite+RifleT Gunner@FyS
+Elite+RifleT Gunner
 	Skin = 1
 	VoicePitch = 96
 End
 
-Elite+Sniper Rebel@FyS
+Elite+Sniper Rebel
 	Skin = 3
 	VoicePitch = 105
 End
 
-Elite+Punch Crew@FyS
+Elite+Punch Crew
 	Skin = 3
 	VoicePitch = 115
 End
 
-Elite+RifleT Steel@FyS
+Elite+RifleT Steel
 	Skin = 1
 	VoicePitch = 84
 End
 
-Elite+PunchT Stone@FyS
+Elite+PunchT Stone
 	Skin = 4
 	VoicePitch = 86
 End
@@ -297,44 +309,44 @@ End
 
 //----------------------------------------
 
-Expert+RifleT Ava@FyS
+Expert+RifleT Ava
 	VoicePitch = 85
 End
 
-Expert+Rifle Syfers@FyS
+Expert+Rifle Syfers
 	VoicePitch = 100
 End
 
-Expert+Punch Delrow@FyS
+Expert+Punch Delrow
 	VoicePitch = 95
 End
 
-Expert+Sniper Operator@FyS
+Expert+Sniper Operator
 	Cost = 5
 	VoicePitch = 115
 End
 
-Expert+Shotgun Soldier@FyS
+Expert+Shotgun Soldier
 	VoicePitch = 87
 End
 
-Expert+Rifle McCoy@FyS
+Expert+Rifle McCoy
 	VoicePitch = 91
 End
 
-Expert+Rifle Buckshot@FyS
+Expert+Rifle Buckshot
 	VoicePitch = 101
 End
 
-Expert Commando@FyS
+Expert Commando
 	VoicePitch = 112
 End
 
-Expert+PunchT Rip@FyS
+Expert+PunchT Rip
 	VoicePitch = 99
 End
 
-Expert+Rifle Ricksaw@FyS
+Expert+Rifle Ricksaw
 	VoicePitch = 100
 End
 
