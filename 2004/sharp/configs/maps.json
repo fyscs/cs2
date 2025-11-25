@@ -125,7 +125,7 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
-  "mg_lego_multigames_r1c1": {
+  "mg_lego_multigames": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
