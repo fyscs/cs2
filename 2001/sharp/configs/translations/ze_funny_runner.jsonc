@@ -1,0 +1,73 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> PLAYER USED PUSH <<<": {
+    "translation": "玩家使用了推力"
+  },
+  ">>> WELL DONE ! NEED 1 MORE BUTTON ! <<<": {
+    "translation": "做得好,还需要1个按钮"
+  },
+  ">>> map by =LIROY= <<<": {
+    "translation": "地图作者 LIROY 文本:Zeyu1"
+  },
+  ">>> PLAYER USED GRAVITY <<<": {
+    "translation": "玩家使用了重力"
+  },
+  ">>> WELL DONE ! NEED 2 MORE BUTTONS ! <<<": {
+    "translation": "做得好,还需要2个按钮"
+  },
+  ">>> ZOMBIE HAS PICKED UP SPIDER <<<": {
+    "translation": "僵尸拾取了蜘蛛"
+  },
+  ">>> ZOMBIE HAS PICKED UP DRAGON <<<": {
+    "translation": "僵尸拾取了龙"
+  },
+  "<<< IT'S ZOMBIE LASERS TIME ! >>>": {
+    "translation": "僵尸激光时间到"
+  },
+  ">>> PLAYER USED FIRE <<<": {
+    "translation": "玩家使用了火焰"
+  },
+  ">>> PLAYER USED HEAL<<<": {
+    "translation": "玩家使用了治疗"
+  },
+  ">>> CORONAVIRUS USE LASERS !!! <<<": {
+    "translation": "病毒使用激光"
+  },
+  ">>> CORONAVIRUS USE VIRUS !!! <<<": {
+    "translation": "病毒使用病毒"
+  },
+  ">>> CORONAVIRUS USE PUSH BACKWARD  !!! <<<": {
+    "translation": "病毒使用向后推力"
+  },
+  ">>> CORONAVIRUS USE RAIN !!!<<<": {
+    "translation": "病毒使用降雨"
+  },
+  ">>> CORONAVIRUS USE LASER WALL !!!<<<": {
+    "translation": "病毒使用激光墙"
+  },
+  ">>> CORONAVIRUS USE PUSH FORWARD !!!<<<": {
+    "translation": "病毒使用向前推力"
+  },
+  ">>> PLAYER HAS PICKED UP PUSH <<<": {
+    "translation": "玩家拾取了推力"
+  },
+  ">>> PLAYER HAS PICKED UP HEAL <<<": {
+    "translation": "玩家拾取了治疗"
+  },
+  ">>> PLAYER HAS PICKED UP FIRE <<<": {
+    "translation": "玩家拾取了火焰"
+  },
+  ">>> PLAYER HAS PICKED UP GRAVITY <<<": {
+    "translation": "玩家拾取了重力"
+  }
+}
