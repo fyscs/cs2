@@ -107,6 +107,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 10
   },
+  "mg_koga73_multigames_h": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "mg_kyxnya_cs2": {
     "admin": false,
     "certainTimes": [-1],
@@ -207,6 +216,15 @@
     "requiredPlayers": -1
   },
   "mg_randomizer_reborn_v2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "mg_rank_multigames_final_fix": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
@@ -332,15 +350,6 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
-  "mg_koga73_multigames_h": {
-    "admin": false,
-    "certainTimes": [-1],
-    "cooldown": 15,
-    "nomination": false,
-    "price": 300,
-    "requiredOnline": -1,
-    "requiredPlayers": -1
-  },
   "mg_yotagames": {
     "admin": false,
     "certainTimes": [-1],
@@ -349,15 +358,5 @@
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
-  },
-  "mg_rank_multigames_final_fix": {
-    "admin": false,
-    "certainTimes": [-1],
-    "cooldown": 15,
-    "nomination": false,
-    "price": 300,
-    "requiredOnline": -1,
-    "requiredPlayers": -1
   }
-  
 }
