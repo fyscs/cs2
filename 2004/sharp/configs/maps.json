@@ -38,7 +38,7 @@
   "mg_dream_xmas_edition_3": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -56,7 +56,7 @@
   "mg_hype2": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -65,7 +65,7 @@
   "mg_jacks_multigames_v1": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -74,7 +74,7 @@
   "mg_just_multigames_v3": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -83,7 +83,7 @@
   "mg_ke16_multigame": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -92,7 +92,7 @@
   "mg_kennys_multigames_x1": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -110,7 +110,7 @@
   "mg_koga73_multigames_h": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -128,7 +128,7 @@
   "mg_lego_multigames_r1c1": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -137,7 +137,7 @@
   "mg_legospace_multigames_v2": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -146,7 +146,7 @@
   "mg_mikis_multigames": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -155,7 +155,7 @@
   "mg_movie_madness": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -182,7 +182,7 @@
   "mg_potatogames_04": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -191,7 +191,7 @@
   "mg_pudding_multigames": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -209,7 +209,7 @@
   "mg_rainbow_multigames_v1": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -218,7 +218,7 @@
   "mg_randomizer_reborn_v2": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -227,7 +227,7 @@
   "mg_rank_multigames_final_fix": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -245,7 +245,7 @@
   "mg_skeet_multigames_v7": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -281,7 +281,7 @@
   "mg_swag_multigames_v7_fys": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -290,7 +290,7 @@
   "mg_thc_lego_final": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -299,7 +299,7 @@
   "mg_thc_lego_multimap": {
     "admin": true,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -308,7 +308,7 @@
   "mg_wannabe_multigames_v1": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -335,7 +335,7 @@
   "mg_wl_multigames": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -344,7 +344,7 @@
   "mg_yolo_multigames_v1": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
@@ -353,7 +353,7 @@
   "mg_yotagames": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 15,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
