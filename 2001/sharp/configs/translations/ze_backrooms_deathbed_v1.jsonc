@@ -45,7 +45,7 @@
     "translation": ">> 本地图包含跳杀元素!(死亡时) <<"
   },
   "< 15 >": {
-    "translation": "< 15 >",
+    "translation": "还有 15 秒",
     "countdown": 15
   },
   "ZM TP < 10 >": {
