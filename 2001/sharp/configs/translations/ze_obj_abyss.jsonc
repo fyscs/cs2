@@ -347,7 +347,7 @@
     "translation": "有人吃掉了披萨!(This pizza is not aggresive)"
   },
   ">>> 10 <<<": {
-    "translation": "10",
+    "translation": "门将在10秒后打开",
     "countdown": 10
   },
   ">>> 当前结局：深渊归寂 <<<": {
@@ -394,5 +394,13 @@
   },
   "** objc 防扰民组织提醒您：披萨已享用完毕！ **": {
     "translation": "objc 防扰民组织提醒您:披萨已享用完毕!"
-  }
+  },
+  ">>> 风扇将在 10 秒后打开 <<<": {
+    "translation": "风扇将在 10 秒后打开",
+    "countdown": 10
+  },
+  "** 那个洞里好像有些声音... **": {
+    "translation": "主路头顶尸笼将在25秒后传送",
+    "countdown": 25
+  },
 }
