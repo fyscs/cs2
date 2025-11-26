@@ -24,5 +24,26 @@
   "***Gate will close in 15 seconds***": {
     "translation": "大门将在15秒后关闭",
     "countdown": 15
+  },
+  "<Level 1>": {
+    "translation": "第一关"
+  },
+  "<Level 2>": {
+    "translation": "第二关"
+  },
+  "***The bomb explodes in 5 seconds***": {
+    "translation": "炸弹将在5秒后爆炸",
+    "countdown": 5
+  },
+  "***5 seconds left**": {
+    "translation": "剩余5秒",
+    "countdown": 5
+  },
+  "***Gate will close in 20 seconds***": {
+    "translation": "闸门将在20秒后关闭",
+    "countdown": 20
+  },
+  "<Boss battle is not complete yet. I will make it faster>": {
+    "translation": "首领战尚未完成我会加快进度"
   }
 }

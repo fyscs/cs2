@@ -1,0 +1,354 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Hold for 30 seconds ! ***": {
+    "translation": "坚守30秒"
+  },
+  "*** Run! Get to the warehouse! ***": {
+    "translation": "快跑,去仓库"
+  },
+  "*** Teleporting everyone to the warehouse in 15 seconds! ***": {
+    "translation": "15秒后将所有人传送到仓库"
+  },
+  "*** 5 Seconds left! ***": {
+    "translation": "剩余5秒"
+  },
+  "*** Defend the warehouse for 10 seconds! ***": {
+    "translation": "防守仓库10秒"
+  },
+  "*** Fall back! ***": {
+    "translation": "撤退"
+  },
+  "*** Defend in the sewers for 40 seconds ***": {
+    "translation": "在下水道防守40秒"
+  },
+  "*** 5 SECONDS!!! ***": {
+    "translation": "5秒"
+  },
+  "*** Meet Vanya outside ***": {
+    "translation": "在外面与Vanya会合"
+  },
+  "*** Shoot the APC ! ***": {
+    "translation": "射击装甲车"
+  },
+  "*** Dodge its shots! ***": {
+    "translation": "躲避它的射击"
+  },
+  "***TIP: Nades do NOT do extra damage on this boss! ***": {
+    "translation": "提示 手榴弹对这个BOSS没有额外伤害"
+  },
+  "*** The gate will open in 15 seconds ***": {
+    "translation": "大门15秒后开启"
+  },
+  "*** We have no choice. Get in the train and hold for 20 seconds! ***": {
+    "translation": "我们别无选择,进火车坚守20秒"
+  },
+  "***  We should be fine for now ****": {
+    "translation": "我们现在应该安全了"
+  },
+  "*** [Cop] They are here! ***": {
+    "translation": "警察,他们在这里"
+  },
+  "*** Quick! Get out through that vent in the ceiling! ***": {
+    "translation": "快,从天花板通风口出去"
+  },
+  "*** [Cop] I think I heard something over there! ***": {
+    "translation": "警察,我想我听到那边有声音"
+  },
+  "*** Shit! They found us! ***": {
+    "translation": "该死,他们找到我们了"
+  },
+  "*** [Cop] Kill them all! ***": {
+    "translation": "警察,杀死他们所有人"
+  },
+  "*** 5 Seconds! Get in now! ***": {
+    "translation": "5秒,现在进去"
+  },
+  "*** Defend for 40 seconds while Vanya is trying to open the door for us! ***": {
+    "translation": "在Vanya为我们开门时防守40秒"
+  },
+  "*** 5 Seconds remaining! ***": {
+    "translation": "剩余5秒"
+  },
+  "*** Get off the boat now!!! ***": {
+    "translation": "立即下船"
+  },
+  "*** Defend here for 25 seconds until garage door opens ***": {
+    "translation": "在此防守25秒直到车库门开启"
+  },
+  "*** Dammit! The door is locked! FIND THE KEY! ***": {
+    "translation": "该死,门锁了,找钥匙"
+  },
+  "*** 5 Seconds! ***": {
+    "translation": "5秒"
+  },
+  "*** They cut off the railroad! We need to find another way out. ***": {
+    "translation": "他们切断了铁路,我们需要找其他出路"
+  },
+  "*** There is a boat down there! This is our only chance": {
+    "translation": "下面有艘船,这是我们唯一的机会"
+  },
+  "*** Starting the engine in 10 seconds! Hold on. ***": {
+    "translation": "10秒后启动引擎,坚持住"
+  },
+  "*** They're attacking from both sides. Defend! ***": {
+    "translation": "他们从两侧进攻,防守"
+  },
+  "*** Jump on the boat now! ***": {
+    "translation": "立即跳上船"
+  },
+  "*** There is a subway under that road crossing. I will plant the bomb so we can get down there. ***": {
+    "translation": "那个十字路口下有地铁,我会安装炸弹让我们下去"
+  },
+  "*** Defend for 20 seconds! ***": {
+    "translation": "防守20秒"
+  },
+  "*** Get down there now! ***": {
+    "translation": "立即下去"
+  },
+  "*** Defend for 35 seconds! ***": {
+    "translation": "防守35秒"
+  },
+  "*** Get back! ***": {
+    "translation": "回来"
+  },
+  "*** YOU BEAT LEVEL 1! ***": {
+    "translation": "你通过了第一关"
+  },
+  "*** 5 Seconds left! Get back! ***": {
+    "translation": "剩余5秒,回来"
+  },
+  "*** Break the railing on the sides for easier defence! ***": {
+    "translation": "打破两侧栏杆以便更容易防守"
+  },
+  "*** Bridge will be destroyed in 25 seconds ***": {
+    "translation": "桥梁25秒后将被摧毁"
+  },
+  "*** It's dead! Run across the bridge to safety! ***": {
+    "translation": "它死了,跑过桥到安全地方"
+  },
+  "*** We beat them! Keep moving! ***": {
+    "translation": "我们打败他们了,继续前进"
+  },
+  "*** 5 more seconds! ***": {
+    "translation": "还有5秒"
+  },
+  "*** We have to keep defending here while train is coming through ***": {
+    "translation": "火车通过时我们必须继续在此防守"
+  },
+  "*** Teleporting everyone to the parking lot in 15 seconds! ***": {
+    "translation": "15秒后将所有人传送到停车场"
+  },
+  "*** Fall back! Get to the parking lot. ***": {
+    "translation": "撤退,去停车场"
+  },
+  "*** Defend near the garage for 25 seconds! ***": {
+    "translation": "在车库附近防守25秒"
+  },
+  "=== ADMIN PRESSED NUKE XD ===": {
+    "translation": "管理员按下了核爆按钮"
+  },
+  "*** Defend near the garage for 30 seconds! ***": {
+    "translation": "在车库附近防守30秒"
+  },
+  "*** PUTIN GOT REKT COMRADE!! NOW RUN!! ***": {
+    "translation": "虎哥被击败了,现在快跑"
+  },
+  "*** EXECUTING EDGY MUSIC AND SHAKE! ***": {
+    "translation": "执行激进音乐和震动"
+  },
+  "*** Also prepare for lasers at the end cuz every map must have them nowadays ***": {
+    "translation": "还要准备最后的激光,因为现在每个地图都必须有"
+  },
+  "=== CROUCH! PUTIN IS THROWING LASERS AT YOU! ===": {
+    "translation": "蹲下,虎哥在向你发射激光"
+  },
+  "=== RUN FORWARD! PUTIN IS USING PUSH! ===": {
+    "translation": "向前跑,虎哥在使用推力"
+  },
+  "=== RUN BACK! PUTIN CASTED GRAVITY! ===": {
+    "translation": "向后跑,虎哥施放了吸力"
+  },
+  "=== DESTROY ALL VODKA BOTTLES QUICKLY OR RIP ===": {
+    "translation": "快速摧毁所有伏特加瓶子 否则完蛋咯"
+  },
+  "=== DODGE THE GOPNIKS! ===": {
+    "translation": "躲避小混混"
+  },
+  "=== HURRY UP! ===": {
+    "translation": "赶快"
+  },
+  "*** Almost there bois! Hold for 30 seconds! ***": {
+    "translation": "快到了兄弟们,坚守30秒"
+  },
+  "*** 5 Seconds! Get ready to fall back! ***": {
+    "translation": "5秒,准备撤退"
+  },
+  "*** GO COMRADES! ***": {
+    "translation": "前进!"
+  },
+  "*** Platform leaves in 25 seconds! ***": {
+    "translation": "平台25秒后离开"
+  },
+  "*** [Putin] I am not done with you yet ! ***": {
+    "translation": "虎哥:我还没跟你们完事"
+  },
+  "*** SHOOT HIM NOW !!! ***": {
+    "translation": "立即射击他"
+  },
+  "*** More lasers bois! ***": {
+    "translation": "更多激光兄弟们"
+  },
+  "*** [Putin] YOU DEFEATED ME??! HOW ??! ***": {
+    "translation": "虎哥:你们击败了我,怎么可能"
+  },
+  "*** Anyway SHOOT HIM! ***": {
+    "translation": "无论如何射击他"
+  },
+  "*** ....Putin's nest?! Oh Shit! ***": {
+    "translation": "虎哥的巢穴,哦该死"
+  },
+  "*** Wait what the fuck? Are we in...? ***": {
+    "translation": "等等什么情况,我们在"
+  },
+  "*** INCOMING TRAINS! GET TO THE SIDE! ***": {
+    "translation": "火车来了,到旁边去"
+  },
+  "*** Player picked up Shaurma (Heal) ***": {
+    "translation": "玩家拾取了沙威玛治疗"
+  },
+  "*** NO WESTERN SPIES ALLOWED ON THIS MAP! ***": {
+    "translation": "此地图不允许暗部!"
+  },
+  "*** WARNING! This map is in Beta so there might be bugs and other issues! ***": {
+    "translation": "警告,此地图处于测试版,可能有错误和其他问题"
+  },
+  "*** Alright bois its time! ***": {
+    "translation": "好的兄弟们,时候到了"
+  },
+  "=== WARMUP ROUND COMRADE! ===": {
+    "translation": "热身回合"
+  },
+  "*** Map By [CygaPb] RoadRunner ***": {
+    "translation": "地图作者 CygaPb RoadRunner 文本:Zeyu1"
+  },
+  "*** CS2 Version Port By Shana ***": {
+    "translation": "CS2版本移植由Shana完成"
+  },
+  "=== The map defult mode is Harmonious mode ===": {
+    "translation": "地图默认模式是和谐模式"
+  },
+  "=== If you want to play Original Mode,you can Find Choose area and stand there ===": {
+    "translation": "如果想玩原版模式,可以找到选择区域并站在那里",
+    "blocked": true
+  },
+  "=== If the number of players choosing Original Mode more than Harmonious mode.The Game will start with Choose Original Mode ===": {
+    "translation": "如果选择原版模式的玩家数量超过和谐模式,游戏将以原版模式开始",
+    "blocked": true
+  },
+  "=== You have 5 seconds to choosing to stand if you want to choose Mode ===": {
+    "translation": "如果你想选择模式,有5秒时间选择站立位置",
+    "blocked": true
+  },
+  "*** They're waiting for us at the door. Get out through the windows at the top! ***": {
+    "translation": "他们在门口等我们,从顶部窗户出去"
+  },
+  "*** Follow Vanya. He will lead us to safety ***": {
+    "translation": "跟随Vanya,他会带我们到安全地方"
+  },
+  "=== LEVEL 1: Sewers and Bridge ===": {
+    "translation": "第一关 下水道和桥梁"
+  },
+  "=== ADMIN CHANGED TO LEVEL 1 ===": {
+    "translation": "管理员切换到第一关"
+  },
+  "=== ADMIN CHANGED TO LEVEL 2 ===": {
+    "translation": "管理员切换到第二关"
+  },
+  "=== ADMIN CHANGED TO LEVEL 3 ===": {
+    "translation": "管理员切换到第三关"
+  },
+  "*** They're waiting for us at the door. Get out through the windows at the 2nd floor! ***": {
+    "translation": "他们在门口等我们,从二楼窗户出去"
+  },
+  "=== LEVEL 2 : Boat and Metro ===": {
+    "translation": "第二关 船和地铁"
+  },
+  "=== LEVEL 3 : EXTREME ===": {
+    "translation": "第三关 极限"
+  },
+  "=== Executing: Edgy Music ===": {
+    "translation": "执行 激进音乐"
+  },
+  "=== Executing: Lasers ===": {
+    "translation": "执行 激光"
+  },
+  "=== Game Mode : Harmonious Mode ===": {
+    "translation": "游戏模式 和谐模式",
+    "blocked": true
+  },
+  "=== Game Mode : Original Mode ===": {
+    "translation": "游戏模式原版模式",
+    "blocked": true
+  },
+  "The Game Mode will become Original Mode": {
+    "translation": "游戏模式将变为原版模式"
+  },
+  "The Game Mode will become Harmonious Mode": {
+    "translation": "游戏模式将变为和谐模式"
+  },
+  "*** We're almost there! Hold for 30 seconds and we're safe! ***": {
+    "translation": "我们快到了,坚守30秒我们就安全了"
+  },
+  "*** Shoot off remaining zombies! ***": {
+    "translation": "射杀剩余的僵尸"
+  },
+  "*** YOU BEAT LEVEL 2! ***": {
+    "translation": "你通过了第二关"
+  },
+  "*** Moving to level 3 comrades! ***": {
+    "translation": "前往第三关"
+  },
+  "*** Kill the remaining zombies! ***": {
+    "translation": "杀死剩余的僵尸"
+  },
+  "*** YOU BEAT LEVEL 3! ***": {
+    "translation": "你通过了第三关"
+  },
+  "*** RTV in the chat! ***": {
+    "translation": "可以输入RTV咯"
+  },
+  "*** [Putin] I will return......one day... ***": {
+    "translation": "我会回来的,总有一天"
+  },
+  "*** We found the key! Excellent! ***": {
+    "translation": "我们找到钥匙了,太好了"
+  },
+  "*** Door will open in 10 seconds! Defend! ***": {
+    "translation": "门10秒后开启,防守"
+  },
+  "*** It's open! Run! ***": {
+    "translation": "开了,快跑"
+  },
+  "***Those guys are shooting at us! ***": {
+    "translation": "那些人在向我们射击"
+  },
+  "*** AVOID THE ROCKETS! ***": {
+    "translation": "躲避火箭弹"
+  },
+  "*** Player picked up Flame Thrower ***": {
+    "translation": "玩家拾取了火焰喷射器"
+  },
+  "*** Player picked up Vanya's Rifle ***": {
+    "translation": "玩家拾取了Vanya的步枪"
+  }
+}

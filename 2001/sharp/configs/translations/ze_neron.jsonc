@@ -10,8 +10,8 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "30": {
-    "translation": "< 30 >",
+  "***30***": {
+    "translation": "30秒",
     "countdown": 30
   },
   "Kiki:Quick!we have to start the last core before the countdown ends": {
@@ -41,8 +41,8 @@
   "Kiki:I was sent here to be your guide.": {
     "translation": "Kiki:我被派到这里当你的向导."
   },
-  "10": {
-    "translation": "< 10 >",
+  "***10***": {
+    "translation": "10秒",
     "countdown": 10
   },
   "Kiki:By the way, you've come this long, do you want a coffee? I just happened to be carrying": {
@@ -51,8 +51,8 @@
   "Kiki:Finally, in front of the second core reactor": {
     "translation": "Kiki:终于,到第二处核心反应堆前了"
   },
-  "20": {
-    "translation": "< 20 >",
+  "***20***": {
+    "translation": "20秒",
     "countdown": 20
   },
   "Kiki:K, do you have any relatives or friends?": {
@@ -61,8 +61,8 @@
   "Kiki:Ah, I forgot you can't even remember your own name": {
     "translation": "Kiki:嗯,我忘了你还记不起来你的名字"
   },
-  "15": {
-    "translation": "< 15 >",
+  "***15***": {
+    "translation": "15秒",
     "countdown": 15
   },
   "Kiki:Honestly, I'm a guide about to be eliminated": {
@@ -344,10 +344,6 @@
   "Kiki:The desk is covered with a lot of research materials. It seems that the owner of this office holds a high position.": {
     "translation": "Kiki:桌子上放着大量的研究资料.看起来这里的人所处位置很高."
   },
-  "-30-": {
-    "translation": "< 30 >",
-    "countdown": 30
-  },
   "story7 unlock": {
     "translation": "故事七已解锁"
   },
@@ -391,8 +387,8 @@
   "Kiki:There is no way, we have to break the security system": {
     "translation": "Kiki:没别的办法了,我们得突破保全系统"
   },
-  "25": {
-    "translation": "< 25 >",
+  "***25***": {
+    "translation": "25秒",
     "countdown": 25
   },
   "Kiki:The road here is very difficult to walk, once a group of search teams were wiped out here...": {
@@ -488,5 +484,8 @@
   },
   "触发防止按钮": {
     "translation": "触发防止按钮"
-  }
+  },
+  "RestartRound in 15 Seconds": {
+    "translation": "15秒后重启回合"
+  },
 }
