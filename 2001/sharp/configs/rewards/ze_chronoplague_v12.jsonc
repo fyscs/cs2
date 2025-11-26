@@ -1,0 +1,218 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>>When the prophet rises, the blood shall awaken. The runes gleam, and the crescent shall guide the way<<<": {
+    "translation": ">>>When the prophet rises, the blood shall awaken. The runes gleam, and the crescent shall guide the way<<<",
+    "blocked": true
+  },
+  ">>>当先知崛起，血印将苏醒。符文闪耀，而新月将引领道路<<<": {
+    "translation": ">>>当先知崛起,血印将苏醒.符文闪耀,而新月将引领道路<<<"
+  },
+  ">>>When the runes align, the seer shall awaken. The crescent emerges, and blood shall seal the path<<<": {
+    "translation": ">>>When the runes align, the seer shall awaken. The crescent emerges, and blood shall seal the path<<<",
+    "blocked": true
+  },
+  ">>>当符文排列，先知将苏醒。新月显现，而血印将封锁道路<<<": {
+    "translation": ">>>当符文排列,先知将苏醒.新月显现,而血印将封锁道路<<<"
+  },
+  ">>>When the blood flows, the crescent shall descend. The runes shimmer, and the prophet shall witness<<<": {
+    "translation": ">>>When the blood flows, the crescent shall descend. The runes shimmer, and the prophet shall witness<<<",
+    "blocked": true
+  },
+  ">>>当血印流淌，新月将坠落。符文闪烁，而先知将目睹<<<": {
+    "translation": ">>>当血印流淌,新月将坠落.符文闪烁,而先知将目睹<<<"
+  },
+  ">>>When the crescent awakens, the runes shall ignite. The seer observes, and blood shall seal the gate<<<": {
+    "translation": ">>>When the crescent awakens, the runes shall ignite. The seer observes, and blood shall seal the gate<<<",
+    "blocked": true
+  },
+  ">>当新月苏醒，符文将点燃。先知注视，而血印将封闭大门。<<<": {
+    "translation": ">>当新月苏醒,符文将点燃.先知注视,而血印将封闭大门<<<"
+  },
+  ">>>door open in 15 seconds<<<": {
+    "translation": ">>>门将在15秒后打开<<<"
+  },
+  ">>>tp in 10 seconds<<<": {
+    "translation": ">>>10秒后传送<<<"
+  },
+  ">>>Trust your instincts; the path will reveal itself<<<": {
+    "translation": ">>>相信你的直觉,这条路会显露出来的<<<"
+  },
+  ">>>All the steps have appeared<<<": {
+    "translation": ">>>所有的步骤都出现了<<<"
+  },
+  ">>>door open in 10 seconds<<<": {
+    "translation": ">>>门将在19秒后打开<<<"
+  },
+  ">>>第二座发电机已激活<<<": {
+    "translation": ">>>第二座发电机已激活<<<"
+  },
+  ">>>elevator will start in 20 seconds<<<": {
+    "translation": ">>>电梯将在20秒后启动<<<"
+  },
+  ">>>power is charging<<<": {
+    "translation": ">>>电源正在充电<<<"
+  },
+  ">>>所有发电机已激活，是时候启动中央引擎了<<<": {
+    "translation": ">>>所有发电机已激活,是时候启动中央引擎了<<<"
+  },
+  ">>>tp in 20 seconds<<<": {
+    "translation": ">>>20秒后传送<<<"
+  },
+  ">>>这里是武器研究室？这些古代建筑是什么？<<<": {
+    "translation": ">>>这里是武器研究室?这些古代建筑是什么?<<<"
+  },
+  ">>>第一座发电机已激活<<<": {
+    "translation": ">>>第一座发电机已激活<<<"
+  },
+  ">>>这是什么地方？如此神秘！<<<": {
+    "translation": ">>>这是什么地方?如此神秘!<<<"
+  },
+  ">>>Only the chosen card can unseal your path<<<": {
+    "translation": ">>>只有选定的卡可以打开路径<<<"
+  },
+  ">>>命定之牌，解开前路<<<": {
+    "translation": ">>>命定之牌,解开前路<<<"
+  },
+  ">>>自爆无人机已激活<<<": {
+    "translation": ">>>自爆无人机已激活<<<"
+  },
+  ">>>door will break in 20 seconds<<<": {
+    "translation": ">>>大门将在20秒后破裂<<<"
+  },
+  ">>>第三座发电机已激活<<<": {
+    "translation": ">>>第三座发电机已激活<<<"
+  },
+  ">>>脑机接口已经接入，30秒后可再次接入<<<": {
+    "translation": ">>>脑机接口已经接入,30秒后可再次接入<<<"
+  },
+  ">>>Three power sources... Only then shall the machine come to life<<<": {
+    "translation": ">>>三个电源...只有到那时,机器才能开启<<<"
+  },
+  ">>>防守僵尸，寻找三处能量源……只有全部启动，电力才能恢复<<<": {
+    "translation": ">>>防守僵尸,寻找三处能量源...只有全部启动,电力才能恢复<<<"
+  },
+  ">>>能量源已启动，第四座发电机就在上方 15 seconds left<<<": {
+    "translation": ">>>能量源已启动,第四座发电机就在上方,在15秒后<<<"
+  },
+  ">>>远离蜘蛛坦克的脚，否则将会被碾碎<<<": {
+    "translation": ">>>远离蜘蛛坦克的脚,否则将会被碾碎<<<"
+  },
+  ">>>那是，思考战车？蜘蛛坦克？<<<": {
+    "translation": ">>>那是,思考战车?蜘蛛坦克?<<<"
+  },
+  ">>>rocket launch in 30 seconds<<<": {
+    "translation": ">>>30秒后发射火箭<<<"
+  },
+  ">>>stage 2 complete<<<": {
+    "translation": ">>>第二阶段完成<<<"
+  },
+  ">>>nuke in 30 seconds<<<": {
+    "translation": ">>>30秒后核爆<<<"
+  },
+  ">>>door open in 5 seconds<<<": {
+    "translation": ">>>门将在5秒后打开<<<"
+  },
+  ">>>ladder move in 10 seconds<<<": {
+    "translation": ">>>梯子将在10秒后移动<<<"
+  },
+  ">>>pump work in 20 seconds<<<": {
+    "translation": ">>>泵将在20秒后启动<<<"
+  },
+  ">>>小心一层的玻璃门<<<": {
+    "translation": ">>>小心一层的玻璃门<<<"
+  },
+  ">>>power on, fan work in 10 seconds<<<": {
+    "translation": ">>>已通电,风扇在10秒后工作<<<"
+  },
+  ">>>door open in 20 seconds<<<": {
+    "translation": ">>>门将在20秒后打开<<<"
+  },
+  ">>>找到控制台发射火箭，不要离开火箭发射平台，活下去<<<": {
+    "translation": ">>>找到控制台发射火箭,不要离开火箭发射平台,活下去<<<"
+  },
+  ">>>登上广场上的飞行器<<<": {
+    "translation": ">>>登上广场上的飞行器<<<"
+  },
+  ">>>飞行器即将启动 10 seconds<<<": {
+    "translation": ">>>飞行器即将启动 只有10秒<<<"
+  },
+  ">>>stage 1 complete<<<": {
+    "translation": ">>>第一阶段完成<<<"
+  },
+  ">>>nuke in 5 seconds<<<": {
+    "translation": ">>>5秒后核爆<<<"
+  },
+  ">>>隔离装置已启动，有效隔离时间 3 seconds<<<": {
+    "translation": ">>>隔离装置已启动,有效隔离时间3秒<<<"
+  },
+  ">>>隔离装置就要启动了 10 seconds<<<": {
+    "translation": ">>>隔离装置在10秒后启动<<<"
+  },
+  ">>>door open in 30 seconds<<<": {
+    "translation": ">>>门将在30秒后打开<<<"
+  },
+  ">>>hold 30 seconds<<<": {
+    "translation": ">>>守住30秒<<<"
+  },
+  ">>>僵尸即将传送 10 seconds<<<": {
+    "translation": ">>>僵尸将在10秒后传送<<<"
+  },
+  ">>>奇点引擎就要启动了，生存还是毁灭？<<<": {
+    "translation": ">>>奇点引擎就要启动了,生存还是毁灭?<<<"
+  },
+  ">>>我们需要到达核心穹顶，唤醒奇点引擎终结这场时空瘟疫<<<": {
+    "translation": ">>>我们需要到达核心穹顶,唤醒奇点引擎终结这场时空瘟疫<<<"
+  },
+  ">>>首先，我们要启动5个发电机....<<<": {
+    "translation": ">>>首先,我们要启动5个发电机...作者:ze探险家 文本:秋言不会跳刀<<<"
+  },
+  ">>>tp in 5 seconds<<<": {
+    "translation": ">>>5秒后传送<<<"
+  },
+  ">>>那是第三座发电机，看来需要在这个奇怪的建筑内激活<<<": {
+    "translation": ">>>那是第三座发电机,看来需要在这个奇怪的建筑内激活<<<"
+  },
+  ">>僵尸即将传送 3 seconds<<<": {
+    "translation": ">>僵尸将在3秒后传送<<<"
+  },
+  ">>>为了抵达第四座发电机，我们来到了地下研究所<<<": {
+    "translation": ">>>为了抵达第四座发电机,我们来到了地下研究所<<<"
+  },
+  ">>>防守僵尸，等待启动隔离装置<<<": {
+    "translation": ">>>防守僵尸,等待启动隔离装置<<<"
+  },
+  ">>>还不快跑 5 seconds<<<": {
+    "translation": ">>>还不快跑<<<"
+  },
+  ">>>快断开与脑机接口的连接，我们要走了<<<": {
+    "translation": ">>>快断开与脑机接口的连接,我们要走了<<<"
+  },
+  ">>>在荒凉的未来世界里，一种致命的丧尸病毒吞噬了整个人类文明。为了逆转绝望的洪流，人类曾在太空中建立秘密基地，研发出能够扭曲时间本身的终极武器——奇点引擎<<<": {
+    "translation": ">>>在荒凉的未来世界里,一种致命的丧尸病毒吞噬了整个人类文明.为了逆转绝望的洪流,人类曾在太空中建立秘密基地,研发出能够扭曲时间本身的终极武器 奇点引擎<<<"
+  },
+  ">>>竟然有人在这里献祭活人！难道这场瘟疫来自这些古代研究？<<<": {
+    "translation": ">>>竟然有人在这里献祭活人!难道这场瘟疫来自这些古代研究?<<<"
+  },
+  ">>>陌生人，我好无聊，能和陪我一直跳kz吗？<<<": {
+    "translation": ">>>陌生人,我好无聊,能和陪我一直跳kz吗?<<<"
+  },
+  ">>>远处有一团绿色的气体，那是第四座发电机的位置<<<": {
+    "translation": ">>>远处有一团绿色的气体,那是第四座发电机的位置<<<"
+  },
+  ">>>要想办法抵达那里，避开那些绿色气体<<<": {
+    "translation": ">>>要想办法抵达那里,避开那些绿色气体<<<"
+  },
+  ">>>坚守阵地 30 seconds<<<": {
+    "translation": ">>>坚守阵地30秒<<<"
+  }
+}
