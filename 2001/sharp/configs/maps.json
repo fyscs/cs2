@@ -2789,7 +2789,7 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
-    "ze_mojos_minigames_p": {
+  "ze_mojos_minigames_p": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 100,
