@@ -11,22 +11,27 @@
 
 {
   "Hold on for 30 seconds": {
-    "translation": "防守30s"
+    "translation": "防守30s",
+    "countdown": 30
   },
   "<Fail>": {
     "translation": "失败"
   },
   "The road will open in 25 seconds": {
-    "translation": "路将在25s后开启"
+    "translation": "路将在25s后开启",
+    "countdown": 25
   },
   "The road will open in 30 seconds": {
-    "translation": "路将在30s后开启"
+    "translation": "路将在30s后开启",
+    "countdown": 30
   },
   "The road will open in 40 seconds": {
-    "translation": "路将在40s后开启"
+    "translation": "路将在40s后开启",
+    "countdown": 40
   },
   "The door will open in 40 seconds": {
-    "translation": "大门将在40s后开启"
+    "translation": "大门将在40s后开启",
+    "countdown": 40
   },
   "<Thanks you for Playing>": {
     "translation": "感谢你的游玩"
