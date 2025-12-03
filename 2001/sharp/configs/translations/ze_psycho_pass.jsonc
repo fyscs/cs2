@@ -1,0 +1,116 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "door open in 25 seconds": {
+    "translation": "25秒后开门"
+  },
+  "the door leading to area B open in 25 seconds": {
+    "translation": "B区大门将在25秒后开启"
+  },
+  "the door leading to area A open in 20 seconds": {
+    "translation": "A区大门将在20秒后开启"
+  },
+  "we need to be divided into two teams": {
+    "translation": "我们需要分成两队"
+  },
+  "one team goes to the control room another team eliminates potential hazards in the factory": {
+    "translation": "一队前往控制室,另一队清除工厂内的潜在威胁"
+  },
+  "the special zombie shortcut to the second area on the area B will be unlocked after 30s": {
+    "translation": "B区僵尸测路将在30秒后开启",
+    "countdown": 30
+  },
+  "the second door in area A open in 25 seconds": {
+    "translation": "A区第二道门将在25秒后开启"
+  },
+  "the second door in area B open in 30 seconds": {
+    "translation": "B区第二道门将在30秒后开启"
+  },
+  "we lost contact with the other team": {
+    "translation": "我们与另一队失去了联系"
+  },
+  "wait for news from another team": {
+    "translation": "等待另一队的消息"
+  },
+  "and launch the rescue operation": {
+    "translation": "并展开救援行动"
+  },
+  "protect drone from being damaged": {
+    "translation": "保护无人机免受损坏"
+  },
+  "door open in 30 seconds": {
+    "translation": "30秒后开门"
+  },
+  "watch out for the train": {
+    "translation": "小心火车"
+  },
+  "find for four keys and survive until the help comes": {
+    "translation": "找到四把钥匙并坚持到救援到来"
+  },
+  "teleport in 10 seconds": {
+    "translation": "10秒后传送"
+  },
+  "the third door in area B open in 30 seconds": {
+    "translation": "B区第三道门将在30秒后开启"
+  },
+  "the third door in area A open in 30 seconds": {
+    "translation": "A区第三道门将在30秒后开启"
+  },
+  "tp in 25 seconds": {
+    "translation": "25秒后传送"
+  },
+  "successfully meet up and escape from this factory": {
+    "translation": "成功会合并逃离工厂"
+  },
+  "mission failed": {
+    "translation": "任务失败"
+  },
+  "elevator start in 15 seconds": {
+    "translation": "电梯将在15秒后启动"
+  },
+  "the factory is going to be destroyed": {
+    "translation": "工厂即将被摧毁"
+  },
+  "run out as soon as possible": {
+    "translation": "尽快逃出去"
+  },
+  "pay attention to above": {
+    "translation": "注意上方"
+  },
+  "another team cant defend zombie mission failed": {
+    "translation": "另一队未能抵御僵尸任务失败"
+  },
+  "something will happen": {
+    "translation": "即将发生变故"
+  },
+  "zombies successfully escape mission failed": {
+    "translation": "僵尸成功逃脱任务失败"
+  },
+  "the zombie item arrived": {
+    "translation": "僵尸补给已送达"
+  },
+  "hold on until the end": {
+    "translation": "坚持到最后"
+  },
+  "dont let zombies in": {
+    "translation": "别让僵尸进来"
+  },
+  "we got a signal from another team": {
+    "translation": "我们收到了另一队的信号"
+  },
+  "deploy all drone if only one and find them": {
+    "translation": "部署所有无人机如果只有一台就去找到他们"
+  },
+  "99 seconds to mission failure": {
+    "translation": "99秒后任务失败"
+  }
+}
