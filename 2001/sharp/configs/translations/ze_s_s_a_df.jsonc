@@ -1,0 +1,115 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "还需要20秒": {
+    "translation": "还需要20秒",
+    "countdown": 20
+  },
+  "正在陆续清扫后续障碍.": {
+    "translation": "正在陆续清扫后续障碍."
+  },
+  "还需要30秒": {
+    "translation": "还需要30秒",
+    "countdown": 30
+  },
+  "还需要10秒": {
+    "translation": "还需要10秒",
+    "countdown": 10
+  },
+  "需要40秒": {
+    "translation": "需要40秒",
+    "countdown": 40
+  },
+  "还需要45秒": {
+    "translation": "还需要45秒",
+    "countdown": 45
+  },
+  "还需要50秒": {
+    "translation": "还需要50秒",
+    "countdown": 50
+  },
+  "还需要25秒": {
+    "translation": "还需要25秒",
+    "countdown": 25
+  },
+  "已经解锁另一个触发开关": {
+    "translation": "已经解锁另一个触发开关"
+  },
+  "已经触发,但还需要有人在门前进行验证": {
+    "translation": "已经触发,但还需要有人在门前进行验证"
+  },
+  "坚持到僵尸传送还需要7秒": {
+    "translation": "坚持到僵尸传送 还需要7秒",
+    "countdown": 7
+  },
+  "还需要50秒破墙": {
+    "translation": "还需要50秒破墙",
+    "countdown": 50
+  },
+  "还需要10秒破墙": {
+    "translation": "还需要10秒破墙",
+    "countdown": 10
+  },
+  "还需要20秒破墙": {
+    "translation": "还需要20秒破墙",
+    "countdown": 20
+  },
+  "请坚持住我们就要冲出次元传送了": {
+    "translation": "请坚持住 我们就要冲出次元传送了"
+  },
+  "<  虎鲨加农炮  >": {
+    "translation": "虎鲨加农炮"
+  },
+  ">>>>黑棺充能完毕<<<<": {
+    "translation": "黑棺充能完毕"
+  },
+  ">>>>治疗光束准备完毕<<<<": {
+    "translation": "治疗光束准备完毕"
+  },
+  ">>>>Black cat<<<<": {
+    "translation": "加速"
+  },
+  ">>>>GWC-06<<<<": {
+    "translation": "恢复"
+  },
+  ">>>>鹰式推进器<<<<": {
+    "translation": "鹰式推进器"
+  },
+  ">>>>生命汲取<<<<": {
+    "translation": "生命汲取"
+  },
+  ">>>>黑暗收割<<<<": {
+    "translation": "黑暗收割"
+  },
+  "风暴": {
+    "translation": "风暴"
+  },
+  "暴风": {
+    "translation": "暴风"
+  },
+  "肆虐": {
+    "translation": "肆虐"
+  },
+  "龙魂": {
+    "translation": "龙魂"
+  },
+  "还需要15秒": {
+    "translation": "还需要15秒",
+    "countdown": 15
+  },
+  "这是巴哈姆特？怎么会？先打败它吧！": {
+    "translation": "这是巴哈姆特 怎么会?先打败它吧"
+  },
+  "毁灭": {
+    "translation": "毁灭"
+  }
+}
