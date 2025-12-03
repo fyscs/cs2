@@ -1,0 +1,259 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "stage2": {
+    "translation": "第二关"
+  },
+  "stage1": {
+    "translation": "第一关"
+  },
+  "stage3": {
+    "translation": "第三关"
+  },
+  "stage4": {
+    "translation": "第四关"
+  },
+  "ex": {
+    "translation": "EX关"
+  },
+  "*** Thanks for Luffaren's models and sounds ***": {
+    "translation": "感谢Luffaren提供的模型和音效"
+  },
+  "Map by wolfkk": {
+    "translation": "地图作者:wolfkk 文本:圣光猫猫"
+  },
+  "*** ze_changing_room ***": {
+    "translation": "ze_changing_room"
+  },
+  "*** Thanks for your play ***": {
+    "translation": "感谢你的游玩~"
+  },
+  "**  蓝天谴来干你了  **": {
+    "translation": "蓝天谴来干你了"
+  },
+  "**  it will fuck you  **": {
+    "translation": "蓝天谴来干你了"
+  },
+  "**  黄天谴来杀你全家了  **": {
+    "translation": "黄天谴来杀你全家了"
+  },
+  "**  Heaven will punish you and come to kill your entire family  **": {
+    "translation": "黄天谴来杀你全家了"
+  },
+  "**  wait 35s **": {
+    "translation": "等待35秒"
+  },
+  "**  wait 15s **": {
+    "translation": "等待15秒"
+  },
+  "**  wait 25s **": {
+    "translation": "等待25秒"
+  },
+  "**  wait 10  **": {
+    "translation": "等待10秒"
+  },
+  "**  wait 20s **": {
+    "translation": "等待20秒"
+  },
+  "**  wait 15s other door **": {
+    "translation": "等待15秒后开门"
+  },
+  "**  wait 45s **": {
+    "translation": "等待45秒"
+  },
+  "**  wait 30s  **": {
+    "translation": "等待30秒"
+  },
+  "**  wait 25s  **": {
+    "translation": "等待25秒"
+  },
+  "** wait 15s **": {
+    "translation": "等待15秒"
+  },
+  "**  ??:你们这群弱子  **": {
+    "translation": "??:你们这群弱子"
+  },
+  "**  ??:谁唤醒了我  **": {
+    "translation": "??:谁唤醒了我"
+  },
+  "**  ??:you loser  **": {
+    "translation": "??:你们这群弱子"
+  },
+  "**  ??:who wake me up  **": {
+    "translation": "??:谁唤醒了我"
+  },
+  "**  你击败了♂王，但是一股黑暗的力量即将涌来 **": {
+    "translation": "你击败了♂王,但是一股黑暗的力量即将涌来"
+  },
+  "**  you kill king of billy,the dark is coming **": {
+    "translation": "你击败了♂王,但是一股黑暗的力量即将涌来"
+  },
+  "**  圣诞老人请你吃披萨  **": {
+    "translation": "圣诞老人请你吃披萨"
+  },
+  "**  Santa Claus invites you to eat pizza  **": {
+    "translation": "圣诞老人请你吃披萨"
+  },
+  "** 恭喜你击败了邪恶筋肉圣诞人 **": {
+    "translation": "恭喜你击败了邪恶筋肉圣诞人"
+  },
+  "** you kill evil santa **": {
+    "translation": "恭喜你击败了邪恶筋肉圣诞人"
+  },
+  "**  圣诞老人带来了许多礼物  **": {
+    "translation": "圣诞老人带来了许多礼物"
+  },
+  "** Santa Claus brought many gifts   **": {
+    "translation": "圣诞老人带来了许多礼物"
+  },
+  "**  wait 20s  **": {
+    "translation": "等待20秒"
+  },
+  "**  这个好像卡住了 **": {
+    "translation": "这个好像卡住了"
+  },
+  "**  wait 45s **": {
+    "translation": "等待45秒"
+  },
+  "** This seems to be stuck. **": {
+    "translation": "这个好像卡住了"
+  },
+  "**  wait 40s  **": {
+    "translation": "等待40秒"
+  },
+  "**  wait 30s  **": {
+    "translation": "等待30秒"
+  },
+  "**  wait 35s **": {
+    "translation": "等待35秒"
+  },
+  "**  wait 25s **": {
+    "translation": "等待25秒"
+  },
+  "**  圣诞老人请你吃披萨  **": {
+    "translation": "圣诞老人请你吃披萨"
+  },
+  "**  Santa Claus invites you to eat pizza  **": {
+    "translation": "圣诞老人请你吃披萨"
+  },
+  "**  model by Luffaren  **": {
+    "translation": "由Luffaren提供模型ohye!~"
+  },
+  "**  恭喜击败了那个男人  **": {
+    "translation": "恭喜击败了那个男人"
+  },
+  "**  you kill that man  **": {
+    "translation": "恭喜击败了那个男人"
+  },
+  "**  孩子们我回来了  **": {
+    "translation": "孩子们我回来了"
+  },
+  "**  i am back ,did you miss me  **": {
+    "translation": "孩子们我回来了"
+  },
+  "**  wait 35s  **": {
+    "translation": "等待35秒"
+  },
+  "** push **": {
+    "translation": "推力"
+  },
+  "** more zm **": {
+    "translation": "更的僵尸"
+  },
+  "** wall **": {
+    "translation": "墙"
+  },
+  "**  黄天谴来杀你全家了  **": {
+    "translation": "黄天谴来杀你全家了  **"
+  },
+  "**  Heaven will punish you and come to kill your entire family  **": {
+    "translation": "黄天谴来杀你全家了"
+  },
+  "**  wait 40s **": {
+    "translation": "等待40秒"
+  },
+  "**  wait 25s **": {
+    "translation": "等待25秒"
+  },
+  "**  wait 55s **": {
+    "translation": "等待55秒"
+  },
+  "**  wait 50s **": {
+    "translation": "等待50秒"
+  },
+  "**  wait 30s  **": {
+    "translation": "等待30秒"
+  },
+  "**  wait 15s **": {
+    "translation": "等待15秒"
+  },
+  "**  wait 30s **": {
+    "translation": "等待30秒"
+  },
+  "**  wait 20s drive **": {
+    "translation": "等待20秒启动"
+  },
+  "**  史莱克发现了你在偷吃他的生日蛋糕！  **": {
+    "translation": "史莱克发现了你在偷吃他的生日蛋糕!"
+  },
+  "**  model by Luffaren  **": {
+    "translation": "由Luffaren提供模型ohye!~"
+  },
+  "**  Shrek found you sneaking a bite of his birthday cake!  **": {
+    "translation": "史莱克发现了你在偷吃他的生日蛋糕!"
+  },
+  "**  wait 35s **": {
+    "translation": "等待35秒"
+  },
+  "**  今天是蛋白粉折扣日，邪恶筋肉人成群结队的前去买蛋白粉  **": {
+    "translation": "今天是蛋白粉折扣日,邪恶筋肉人成群结队的前去买蛋白粉"
+  },
+  "**  已激活飞进天台的跳台  **": {
+    "translation": "已激活飞进天台的跳台"
+  },
+  "**  Today is protein powder discount day, and evil santa are flocking to buy protein powder.  **": {
+    "translation": "今天是蛋白粉折扣日,邪恶筋肉人成群结队的前去买蛋白粉"
+  },
+  "**  The diving platform that flies to the rooftop has been activated  **": {
+    "translation": "已激活飞进天台的跳台"
+  },
+  "**  我去居然是一个大镰刀  **": {
+    "translation": "我去居然是一个大镰刀"
+  },
+  "** It is a big sickle.   **": {
+    "translation": "我去居然是一个大镰刀"
+  },
+  "**  thanks for your playing  **": {
+    "translation": "感谢你的游玩~"
+  },
+  "**  Map by wolfkk  **": {
+    "translation": "地图作者:wolfkk 文本:圣光猫猫"
+  },
+  "**  什么？更多的哲学？  **": {
+    "translation": "什么?更多的哲学?"
+  },
+  "**  What? More philosophy?  **": {
+    "translation": "什么?更多的哲学?"
+  },
+  "**  我去大镰刀居然被你打死了  **": {
+    "translation": "我去大镰刀居然被你打死了"
+  },
+  "**   the Great Scythe  killed by you.  **": {
+    "translation": "我去大镰刀居然被你打死了"
+  },
+  "**  model by Luffaren  **": {
+    "translation": "由Luffaren提供模型ohye!~"
+  },
+  "？？？": {
+    "translation": "???"
+  }
+}
