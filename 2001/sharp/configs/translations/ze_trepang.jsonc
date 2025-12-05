@@ -1,0 +1,271 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> The door will unlock in 40 seconds <<<": {
+    "translation": "此门将在40秒后解锁"
+  },
+  ">>> Door closing in 10 seconds <<<": {
+    "translation": "门将在10秒后关闭"
+  },
+  ">>> Charge set. Detonation in 30 seconds <<<": {
+    "translation": "炸药已设定 起爆于30秒后"
+  },
+  ">>> Laser Gates disabling in 30 seconds. <<<": {
+    "translation": "激光门将在30秒后失效"
+  },
+  ">>> Main power restored <<<": {
+    "translation": "主电源已恢复"
+  },
+  ">>> A large zombies horde is approaching your position. Expected arrival: 15 seconds <<<": {
+    "translation": "僵尸预计抵达时间15秒"
+  },
+  ">>> A large zombies horde appeared. <<<": {
+    "translation": "一大波僵尸已经出现"
+  },
+  ">>> Garage door opening in 30 seconds <<<": {
+    "translation": "车库门将在30秒后开启"
+  },
+  ">>> A small zombies horde is approaching your position. Expected arrival: 15 seconds <<<": {
+    "translation": "僵尸预计抵达时间15秒"
+  },
+  ">>> A small zombies horde appeared. <<<": {
+    "translation": "一小波僵尸已经出现"
+  },
+  ">>> Doors opening in 15 seconds <<<": {
+    "translation": "门将在15秒后开启"
+  },
+  ">>> A force field repels anything that gets too close <<<": {
+    "translation": "力场会将任何过于靠近的物体弹开"
+  },
+  ">>> A small zombies horde is approaching your position. Expected arrival: 10 seconds <<<": {
+    "translation": "僵尸预计抵达时间10秒"
+  },
+  ">>> The gate will open in 60 seconds. <<<": {
+    "translation": "此大门将在60秒后开启"
+  },
+  ">>> A large zombies horde is approaching your position. Expected arrival: 20 seconds <<<": {
+    "translation": "僵尸预计抵达时间20秒"
+  },
+  ">>> Water drainage initiated. <<<": {
+    "translation": "排水程序已启动"
+  },
+  ">>> Water drainage protocol ended. <<<": {
+    "translation": "排水程序已结束"
+  },
+  ">>> Elevator called. Arrival in 15 seconds <<<": {
+    "translation": "15秒后电梯抵达"
+  },
+  ">>> Elevator arrived. Doors closing in 10 seconds <<<": {
+    "translation": "门将在10秒后关闭"
+  },
+  ">>> Elevator called. Expected arrival: 40 seconds <<<": {
+    "translation": "电梯预计抵达时间40秒"
+  },
+  ">>> 10 seconds remaining. <<<": {
+    "translation": "剩余10秒"
+  },
+  ">>> Auxiliary power restored <<<": {
+    "translation": "辅助电源已恢复"
+  },
+  ">>> Error: auxiliary power required. <<<": {
+    "translation": "错误 需要辅助电源"
+  },
+  ">>> Auxiliary Power : 1/3 breaker activated <<<": {
+    "translation": "断路器1/3已激活"
+  },
+  ">>> Auxiliary Power : 2/3 breaker activated <<<": {
+    "translation": "断路器2/3已激活"
+  },
+  ">>> ZE_TREPANG, BY DLM <<<": {
+    "translation": "地图 ze_trepang 作者 DLM"
+  },
+  ">>> HOPE YOU HAD FUN! <<<": {
+    "translation": "希望你玩得开心"
+  },
+  ">>> Rooftop elevator called: arrival in 30 seconds. <<<": {
+    "translation": "楼顶电梯30秒后抵达"
+  },
+  ">>> Elevator arrived. Door closing in 10 seconds. <<<": {
+    "translation": "门将在10秒后关闭"
+  },
+  ">>> NEW DIFFICULTY SET: BABOON MODE <<<": {
+    "translation": "新难度已设定 极难模式"
+  },
+  ">>> NEW DIFFICULTY SET: RAGE MODE <<<": {
+    "translation": "新难度已设定 狂暴模式"
+  },
+  ">>> DIFFICULTY SET BACK NORMAL MODE <<<": {
+    "translation": "难度已恢复为普通模式"
+  },
+  ">>> NEW DIFFICULTY SET: DEV MODE <<<": {
+    "translation": "新难度已设定 开发者模式"
+  },
+  ">>> STAGE 1 ACTIVATED <<<": {
+    "translation": "阶段1已激活"
+  },
+  ">>> STAGE 2 ACTIVATED <<<": {
+    "translation": "阶段2已激活"
+  },
+  ">>> OPERATION RED DAWN - PHASE 1: INFILTRATION <<<": {
+    "translation": "行动-红色黎明 第一阶段:渗透"
+  },
+  ">>> OPERATION RED DAWN - PHASE 2: ASSAULT <<<": {
+    "translation": "行动-红色黎明 第二阶段:突击"
+  },
+  ">>> A large zombies horde is approaching your position. Expected arrival: 5 seconds ///": {
+    "translation": "僵尸预计抵达时间5秒"
+  },
+  ">>> MISSILES BARRAGE INBOUND <<<": {
+    "translation": "导弹弹幕来袭"
+  },
+  ">>> ANTIGRAVITY CORE ACTIVATED <<<": {
+    "translation": "反重力核心已激活"
+  },
+  ">>> SYSTEM INTEGRITY : 10% <<<": {
+    "translation": "系统完整性:10%"
+  },
+  ">>> SYSTEM INTEGRITY : 40% <<<": {
+    "translation": "系统完整性:40%"
+  },
+  ">>> SYSTEM CRITICAL: CORE MELTDOWN <<<": {
+    "translation": "系统严重:核心熔毁"
+  },
+  ">>> SYSTEM FAILURE IMMINENT <<<": {
+    "translation": "系统故障即将发生"
+  },
+  ">>> EMERGENCY MODULE ACTIVATED <<<": {
+    "translation": "紧急模块已激活"
+  },
+  ">>> CORE LOAD: 500%  <<<": {
+    "translation": "核心负载:500%"
+  },
+  ">>> 9 <<<": {
+    "translation": "9"
+  },
+  ">>> 8 <<<": {
+    "translation": "8"
+  },
+  ">>> 7 <<<": {
+    "translation": "7"
+  },
+  ">>> 6 <<<": {
+    "translation": "6"
+  },
+  ">>> 5 <<<": {
+    "translation": "5"
+  },
+  ">>> 4 <<<": {
+    "translation": "4"
+  },
+  ">>> 3 <<<": {
+    "translation": "3"
+  },
+  ">>> ERROR: GLOBAL SYSTEM FAI- <<<": {
+    "translation": "错误:全局系统故障"
+  },
+  ">>> 2 <<<": {
+    "translation": "2"
+  },
+  ">>> 1 <<<": {
+    "translation": "1"
+  },
+  ">>> RELEASING EXCESS ENERGY IN 10 <<<": {
+    "translation": "将在10秒后释放多余能量",
+    "countdown": 10
+  },
+  ">>> SYSTEM INTEGRITY : 20% <<<": {
+    "translation": "系统完整性:20%"
+  },
+  ">>> SYSTEM INTEGRITY : 80% <<<": {
+    "translation": "系统完整性:80%"
+  },
+  ">>> TURRET LOADED <<<": {
+    "translation": "炮台已装填"
+  },
+  ">>> FIRING <<<": {
+    "translation": "开火"
+  },
+  ">>> GRAVITY CORE ACTIVATED <<<": {
+    "translation": "重力核心已激活"
+  },
+  ">>> CORE OVERLOAD <<<": {
+    "translation": "核心过载"
+  },
+  ">>> RELEASING EXCESS ENERGY <<<": {
+    "translation": "正在释放多余能量"
+  },
+  ">>> CORE OVERHEAT: COOLING INITIALIZED <<<": {
+    "translation": "核心过热:冷却已启动"
+  },
+  ">>> TEMPORARY SYSTEM SHUTDOWN: ALL WEAPONS DEACTIVATED <<<": {
+    "translation": "系统临时关闭:所有武器已停用"
+  },
+  ">>> SYSTEM RELOADED: WEAPONS REACTIVATED <<<": {
+    "translation": "系统已重载:武器已重新激活"
+  },
+  ">>> SYSTEM INTEGRITY : 60% <<<": {
+    "translation": "系统完整性:60%"
+  },
+  ">>> ALERT: ANOMALOUS ACTIVITY INCREASING <<<": {
+    "translation": "警报:异常活动正在增加"
+  },
+  ">>> Door closing in 15 seconds <<<": {
+    "translation": "门将在15秒后关闭"
+  },
+  ">>> A large zombies horde is approaching your position. Expected arrival: 12 seconds <<<": {
+    "translation": "僵尸预计抵达时间12秒"
+  },
+  ">>> Unlocking the door: 10 seconds remaining <<<": {
+    "translation": "正在解锁门:剩余10秒"
+  },
+  ">>> S̷u̴r̶v̴i̴v̴e̴ ̶30̸ ̷s̷e̸c̸.̵.̷.̴n̸d̶s̶  <<<": {
+    "translation": "存活30秒",
+    "countdown": 30
+  },
+  ">>> Doors closing in 20 seconds <<<": {
+    "translation": "门将在20秒后关闭"
+  },
+  ">>> 4̶͘͜5̷̙̕ ̶͚̐s̴͉̆e̵͍̍c̵̣̈́.̴̭̆.̸̫̃.̵͚͑n̸͈̉d̶̞͌s̴̗̋ ̴̲̿r̷̼̒ȇ̵̲m̶͖̍a̷̮̒i̸̯͊n̵͕̓í̸͙n̷͚͑g̷̺͝ <<<": {
+    "translation": "剩余45秒",
+    "countdown": 45
+  },
+  ">>> Unlocking the doors: 25 seconds remaining <<<": {
+    "translation": "大门剩余25秒"
+  },
+  ">>> Multiple small zombies hordes are approaching your position. Expected arrival: 10 seconds <<<": {
+    "translation": "僵尸还有10秒靠近"
+  },
+  ">>> Multiple zombies horde have appeared. <<<": {
+    "translation": "僵尸已经出现"
+  },
+  ">>> Breaching glass: 15 seconds remaining <<<": {
+    "translation": "正在突破玻璃:剩余15秒"
+  },
+  ">>> CURRENT DIFFICULTY: RAGE MODE <<<": {
+    "translation": "当前难度:狂暴模式"
+  },
+  ">>> CURRENT DIFFICULTY: DEV MODE <<<": {
+    "translation": "当前难度:开发者模式"
+  },
+  ">>> CURRENT DIFFICULTY: NORMAL MODE <<<": {
+    "translation": "当前难度:普通模式"
+  },
+  ">>> CURRENT DIFFICULTY: BABOON MODE <<<": {
+    "translation": "当前难度:极难模式"
+  },
+  ">>> INCREASING PRESSURE ON HULL: EXPLOSIVES HAVE NO EFFECT ANYMORE <<<": {
+    "translation": "船体压力增大:爆炸物已不再有效"
+  },
+  ">>> A large zombies horde is approaching your position. Expected arrival: 10 seconds <<<": {
+    "translation": "僵尸还有10秒抵达"
+  }
+}
