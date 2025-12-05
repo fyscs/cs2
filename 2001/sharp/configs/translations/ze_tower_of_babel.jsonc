@@ -1,0 +1,105 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "电力系统将在20秒后恢复全体人员请提高警惕": {
+    "translation": "电力系统将在20秒后恢复",
+    "countdown": 20
+  },
+  "行动开始": {
+    "translation": "行动开始"
+  },
+  "坚守60秒": {
+    "translation": "坚守60秒",
+    "countdown": 60
+  },
+  "门开了快走！！！": {
+    "translation": "门开了快走"
+  },
+  "坚守65秒！！！撑住我们才刚刚开始": {
+    "translation": "坚守65秒",
+    "countdown": 65
+  },
+  "门开了撤退": {
+    "translation": "门开了撤退"
+  },
+  "快跳上去！": {
+    "translation": "快跳上去!"
+  },
+  "守住40秒": {
+    "translation": "守住40秒",
+    "countdown": 40
+  },
+  "门开了": {
+    "translation": "门开了"
+  },
+  "快滑坚守105秒": {
+    "translation": "坚守105秒",
+    "countdown": 105
+  },
+  "僵尸传送了": {
+    "translation": "僵尸传送了"
+  },
+  "僵尸还有25秒传送": {
+    "translation": "僵尸还有25秒传送",
+    "countdown": 25
+  },
+  "喜欢刷？那就刷他  还有90秒": {
+    "translation": "还有90秒",
+    "countdown": 90
+  },
+  "温馨小提示不去后面是不会触发传送的": {
+    "translation": "温馨小提示:不去后面是不会触发传送的"
+  },
+  "不要偷跑哦~~~": {
+    "translation": "不要偷跑哦"
+  },
+  "门开了快走": {
+    "translation": "门开了快走"
+  },
+  "欣赏一下校长的花园吧马上就要撤离了": {
+    "translation": "欣赏一下校长的花园吧,马上就要撤离了"
+  },
+  "对了坚持50秒哦~": {
+    "translation": "坚持50秒",
+    "countdown": 50
+  },
+  "门开了丢道具": {
+    "translation": "门开了"
+  },
+  "最后一个！坚持40秒！": {
+    "translation": "坚持40秒!",
+    "countdown": 40
+  },
+  "道具全交！！！！！！！守住！！！！": {
+    "translation": "道具全交!守住!"
+  },
+  "最后50秒": {
+    "translation": "最后50秒",
+    "countdown": 50
+  },
+  "门碎了": {
+    "translation": "门碎了"
+  },
+  "我们安全了欢迎回家": {
+    "translation": "我们安全了欢迎回家"
+  },
+  "感谢大家游玩作者：一只秋": {
+    "translation": "感谢大家游玩作者:一只秋"
+  },
+  "找到三个按钮": {
+    "translation": "找到三个按钮"
+  },
+  "僵尸10秒传送": {
+    "translation": "僵尸10秒传送",
+    "countdown": 10
+  }
+}
