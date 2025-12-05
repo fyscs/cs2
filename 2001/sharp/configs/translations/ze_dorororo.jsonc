@@ -1,0 +1,180 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "doro会帮你划船 *30s*": {
+    "translation": "doro会帮你划船30s",
+    "countdown": 30
+  },
+  "doro会帮你划船 *20s*": {
+    "translation": "doro会帮你划船20s",
+    "countdown": 20
+  },
+  "doro会帮你划船 *10s*": {
+    "translation": "doro会帮你划船10s",
+    "countdown": 10
+  },
+  "在这里防守 *10s*": {
+    "translation": "在这里防守10s",
+    "countdown": 10
+  },
+  "doro:村庄看起来像是被封路了，这边有座断桥": {
+    "translation": "doro:村庄看起来像是被封路了,这边有座断桥"
+  },
+  "doro:跟我来，我知道有一条暗道可以绕开这里": {
+    "translation": "doro:跟我来,我知道有一条暗道可以绕开这里"
+  },
+  "你们和doro一直快乐地生活在这片旷野:)": {
+    "translation": "你们和doro一直快乐地生活在这片旷野"
+  },
+  "但有一天晚上...": {
+    "translation": "但有一天晚上..."
+  },
+  "你们深知，没有orange的守护": {
+    "translation": "你们深知,没有orange的守护"
+  },
+  "于是你们便踏上了寻找orange的旅程...": {
+    "translation": "于是你们便踏上了寻找orange的旅程..."
+  },
+  "这里很快就会陷入混乱:(": {
+    "translation": "这里很快就会陷入混乱"
+  },
+  "神圣的orange被偷走了": {
+    "translation": "神圣的orange被偷走了"
+  },
+  "doro会和你们一起共度难关": {
+    "translation": "doro会和你们一起共度难关"
+  },
+  "*紫色药剂:洞察*": {
+    "translation": "紫色药剂:洞察"
+  },
+  "这块石头doro能帮你破开": {
+    "translation": "这块石头doro能帮你破开"
+  },
+  "这块石头doro无能为力": {
+    "translation": "这块石头doro无能为力"
+  },
+  "这里有4条暗道": {
+    "translation": "这里有4条暗道"
+  },
+  "doro也忘记怎么走了": {
+    "translation": "doro也忘记怎么走了"
+  },
+  "doro会帮你剪断绳子阻挡僵尸 *30s*": {
+    "translation": "doro会帮你剪断绳子阻挡僵尸30s",
+    "countdown": 30
+  },
+  "*蓝色药剂:恢复*": {
+    "translation": "蓝色药剂:恢复"
+  },
+  "doro会帮你破开这块石头 *20s*": {
+    "translation": "doro会帮你破开这块石头20s",
+    "countdown": 20
+  },
+  "doro会帮你破开这块石头 *10s*": {
+    "translation": "doro会帮你破开这块石头10s",
+    "countdown": 10
+  },
+  "*黄色药剂:灼烧*": {
+    "translation": "黄色药剂:灼烧"
+  },
+  "山脚下就是我们找的村庄了": {
+    "translation": "山脚下就是我们找的村庄了"
+  },
+  "doro:你看，那个小山坡上的大房子就是村长家了": {
+    "translation": "doro:你看,那个小山坡上的大房子就是村长家了"
+  },
+  "doro:他肯定会知道些什么的": {
+    "translation": "doro:他肯定会知道些什么的"
+  },
+  "nina:这个村子的人都在一夜间消失不见了:(": {
+    "translation": "nina:这个村子的人都在一夜间消失不见了"
+  },
+  "nina:我们被可恶的鸡块大魔王偷走了orange": {
+    "translation": "nina:我们被可恶的鸡块大魔王偷走了orange"
+  },
+  "nina:可恶的鸡块大魔王的城堡就在旁边这座山的背后": {
+    "translation": "nina:可恶的鸡块大魔王的城堡就在旁边这座山的背后"
+  },
+  "nina:用码头的小船就可以过去了": {
+    "translation": "nina:用码头的小船就可以过去了"
+  },
+  "nina:请你帮帮我们找回orangeQAQ": {
+    "translation": "nina:请你帮帮我们找回orange"
+  },
+  "nina:当时我正在外面游历才得以幸免": {
+    "translation": "nina:当时我正在外面游历才得以幸免"
+  },
+  "僵尸消失了，快走": {
+    "translation": "僵尸消失了,快走"
+  },
+  "doro:看起来我们需要找到村长家的钥匙": {
+    "translation": "doro:看起来我们需要找到村长家的钥匙"
+  },
+  "你们将会有30秒时间寻找钥匙": {
+    "translation": "你们将会有30秒时间寻找钥匙",
+    "countdown": 30
+  },
+  "这里就是可恶的鸡块的城堡了": {
+    "translation": "这里就是可恶的鸡块的城堡了"
+  },
+  "可恶的鸡块在那里": {
+    "translation": "可恶的鸡块在那里"
+  },
+  "doro:我们会击败他，夺回我们的orange": {
+    "translation": "doro:我们会击败他,夺回我们的orange"
+  },
+  "那边那个火堆看起来是个机关": {
+    "translation": "那边那个火堆看起来是个机关"
+  },
+  "可恶的鸡块!": {
+    "translation": "可恶的鸡块!"
+  },
+  "还回我们的orange!": {
+    "translation": "还回我们的orange!"
+  },
+  "你们最终击败了可恶的鸡块大魔王": {
+    "translation": "你们最终击败了可恶的鸡块大魔王"
+  },
+  "夺回了剩下的orange": {
+    "translation": "夺回了剩下的orange"
+  },
+  "世界也将会慢慢恢复秩序": {
+    "translation": "世界也将会慢慢恢复秩序"
+  },
+  "---Map by 骇人鲸---": {
+    "translation": "Map by 骇人鲸"
+  },
+  "---这是一个关于和doro一起夺回orange的传奇故事---": {
+    "translation": "这是一个关于和doro一起夺回orange的传奇故事"
+  },
+  "---感谢极空对地图的贡献---": {
+    "translation": "感谢极空对地图的贡献"
+  },
+  "生存150秒": {
+    "translation": "生存150秒"
+  },
+  "生存90秒": {
+    "translation": "生存90秒",
+  },
+  "生存30秒": {
+    "translation": "生存30秒",
+  },
+  "*重力恢复*": {
+    "translation": "重力恢复"
+  },
+  "*重力消失*": {
+    "translation": "重力消失"
+  },
+  "doro被可恶的僵尸抓住了!你们将寸步难行:(": {
+    "translation": "doro被可恶的僵尸抓住了!你们将寸步难行"
+  }
+}
