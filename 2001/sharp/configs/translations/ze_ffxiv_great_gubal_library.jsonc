@@ -47,7 +47,7 @@
     "translation": "> Hard <"
   },
   "> Viod <": {
-    "translation": "> Viod <"
+    "translation": "> Void <"
   },
   "> Extreme <": {
     "translation": "> Extreme <"
@@ -98,27 +98,27 @@
     "translation": "???"
   },
   "* 在此处守住30s *": {
-    "translation": "* 在此处守住30s *",
+    "translation": "* 在此处守住30秒 *",
     "countdown": 30
   },
   "* 在此处守住20s *": {
-    "translation": "* 在此处守住20s *",
+    "translation": "* 在此处守住20秒 *",
     "countdown": 20
   },
   "* 在此处守住25s *": {
-    "translation": "* 在此处守住25s *",
+    "translation": "* 在此处守住25秒 *",
     "countdown": 25
   },
   "* 在此处守住45s *": {
-    "translation": "* 在此处守住45s *",
+    "translation": "* 在此处守住45秒 *",
     "countdown": 45
   },
   "* 在此处守住15s *": {
-    "translation": "* 在此处守住15s *",
+    "translation": "* 在此处守住15秒 *",
     "countdown": 15
   },
   "** 在此处等待传送35s **": {
-    "translation": "** 在此处等待传送35s **",
+    "translation": "** 在此处等待传送35秒 **",
     "countdown": 35
   },
   "** 僵尸冰已被拾取 **": {
@@ -222,11 +222,11 @@
     "translation": "Hard"
   },
   "* 在此处守住32s *": {
-    "translation": "* 在此处守住32s *",
+    "translation": "* 在此处守住32秒 *",
     "countdown": 32
   },
   "* 在此处守住22s *": {
-    "translation": "* 在此处守住22s *",
+    "translation": "* 在此处守住22秒 *",
     "countdown": 22
   },
   "Normal": {
