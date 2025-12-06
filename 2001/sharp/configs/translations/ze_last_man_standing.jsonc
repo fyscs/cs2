@@ -23,10 +23,10 @@
     "translation": "右边的控制台已按下"
   },
   "** 载入全事件极限模式 **": {
-    "translation": "** 载入全事件极限模式 **"
+    "translation": "载入全事件极限模式"
   },
   "** 祝你好运 **": {
-    "translation": "** 祝你好运 **"
+    "translation": "祝你好运"
   },
   "喷火枪已拾取 - 按E使用或关闭 - 右键切换模式": {
     "translation": "喷火枪已拾取 - 按E使用或关闭 - 右键切换模式"
@@ -40,62 +40,8 @@
   "M60已拾取 - 按E切换开火": {
     "translation": "M60已拾取 - 按E切换开火"
   },
-  "突变基因：0.9地速": {
-    "translation": "突变基因：0.9地速"
-  },
-  "突变基因：1.1地速": {
-    "translation": "突变基因：1.1地速"
-  },
-  "突变基因：0.8重力": {
-    "translation": "突变基因：0.8重力"
-  },
-  "突变基因：绿皮": {
-    "translation": "突变基因：绿皮"
-  },
-  "突变基因：1.25地速": {
-    "translation": "突变基因：1.25地速"
-  },
-  "突变基因：0.8地速": {
-    "translation": "突变基因：0.8地速"
-  },
-  "突变基因：1.75地速": {
-    "translation": "突变基因：1.75地速"
-  },
-  "突变基因：强壮": {
-    "translation": "突变基因：强壮"
-  },
-  "突变基因：重伤": {
-    "translation": "突变基因：重伤"
-  },
-  "突变基因：1.1重力": {
-    "translation": "突变基因：1.1重力"
-  },
-  "突变基因：1337": {
-    "translation": "突变基因：1337"
-  },
-  "突变基因：爆炸免疫": {
-    "translation": "突变基因：爆炸免疫"
-  },
-  "突变基因：2倍重力": {
-    "translation": "突变基因：2倍重力"
-  },
-  "突变基因：全隐": {
-    "translation": "突变基因：全隐"
-  },
-  "突变基因：凋亡": {
-    "translation": "突变基因：凋亡"
-  },
-  "突变基因：红皮": {
-    "translation": "突变基因：红皮"
-  },
-  "突变基因：衰弱": {
-    "translation": "突变基因：衰弱"
-  },
-  "突变基因：超越极限": {
-    "translation": "突变基因：超越极限"
-  },
   "铁血战士已拾取 - 右键肩炮 - 左+右键隐身 - SS高跳 - ADAD自爆": {
-    "translation": "铁血战士已拾取 - 右键肩炮 - 左+右键隐身 - SS高跳 - ADAD自爆"
+    "translation": "铁血战士已拾取 - 右键肩炮 - 左加右键隐身 - SS高跳 - ADAD自爆"
   },
   "黑洞巫师已拾取 - 右键放置黑洞传送僵尸到身边": {
     "translation": "黑洞巫师已拾取 - 右键放置黑洞传送僵尸到身边"
@@ -155,13 +101,13 @@
     "translation": "基因背包已拾取 - 按E放置随机基因药物"
   },
   "++ 地图制作：HANNIBAL[SPA]与Rafuron ++": {
-    "translation": "++ 地图制作：HANNIBAL[SPA]与Rafuron ++"
+    "translation": "地图制作：HANNIBAL[SPA]与Rafuron"
   },
   "++ 特别感谢：George和Sgt.zuff ++": {
-    "translation": "++ 特别感谢：George和Sgt.zuff ++"
+    "translation": "特别感谢：George和Sgt.zuff"
   },
   "++ 本地图需启用推力修复才可以正常游玩 ++": {
-    "translation": "++ 本地图需启用推力修复才可以正常游玩 ++"
+    "translation": "本地图需启用推力修复才可以正常游玩"
   },
   "热身: 90秒": {
     "translation": "热身: 90秒"
@@ -197,43 +143,34 @@
     "translation": "热身结束"
   },
   "** 结束回合 **": {
-    "translation": "** 结束回合 **"
+    "translation": "结束回合"
   },
   "** 启用极限模式 **": {
-    "translation": "** 启用极限模式 **"
+    "translation": "启用极限模式"
   },
   "++ 第五关 ++": {
-    "translation": "++ 第五关 ++"
+    "translation": "第五关"
   },
   "++ 第三关 ++": {
-    "translation": "++ 第三关 ++"
+    "translation": "第三关"
   },
   "** 启用全事件 **": {
-    "translation": "** 启用全事件 **"
+    "translation": "启用全事件"
   },
   "++ 第四关 ++": {
-    "translation": "++ 第四关 ++"
+    "translation": "第四关"
   },
   "** 重置地图 **": {
-    "translation": "** 重置地图 **"
+    "translation": "重置地图"
   },
   "++ 第二关 ++": {
-    "translation": "++ 第二关 ++"
+    "translation": "第二关"
   },
   "++ 第一关 ++": {
-    "translation": "++ 第一关 ++"
-  },
-  "** 僵尸触发了开关！你输了！**": {
-    "translation": "** 僵尸触发了开关！你输了！**"
-  },
-  "** 僵尸已逃脱！**": {
-    "translation": "** 僵尸已逃脱！**"
-  },
-  "** 僵尸已逃脱！ **": {
-    "translation": "** 僵尸已逃脱！ **"
+    "translation": "第一关"
   },
   "** 启用全事件极限模式 **": {
-    "translation": "** 启用全事件极限模式 **"
+    "translation": "启用全事件极限模式"
   },
   "达成足够数量的事件 - 解锁全部事件": {
     "translation": "达成足够数量的事件 - 解锁全部事件"
