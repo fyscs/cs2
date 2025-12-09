@@ -2816,6 +2816,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_mojos_minigames_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_mountain_escape_snow": {
     "admin": false,
     "certainTimes": [-1],
