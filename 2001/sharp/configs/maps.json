@@ -2790,7 +2790,7 @@
     "requiredPlayers": 30
   },
   "ze_mojos_minigames_p": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 100,
     "nomination": true,
