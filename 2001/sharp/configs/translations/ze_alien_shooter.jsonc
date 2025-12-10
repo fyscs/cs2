@@ -1,0 +1,87 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>>Zombies inside helicopter!<<<": {
+    "translation": "直升机内有僵尸"
+  },
+  ">>>No one inside helicopter!<<<": {
+    "translation": "直升机内无人"
+  },
+  ">>>Map made: DarkRoad<<<": {
+    "translation": "地图制作:DarkRoad 文本:Zeyu1"
+  },
+  "Thank you for playing!": {
+    "translation": "感谢游玩"
+  },
+  ">>>C4 will explode in 25 seconds<<<": {
+    "translation": "C4将在25秒后爆炸"
+  },
+  ">>>The door opens in 35 seconds<<<": {
+    "translation": "门35秒后开启"
+  },
+  ">>>The door opens in 5 seconds<<<": {
+    "translation": "门5秒后开启"
+  },
+  ">>>Door is open<<<": {
+    "translation": "门已开启"
+  },
+  ">>>The teleporter is activated after 20 seconds<<<": {
+    "translation": "传送器20秒后激活"
+  },
+  ">>>Teleport is activated!<<<": {
+    "translation": "传送已激活"
+  },
+  ">>>The door opens in 20 seconds<<<": {
+    "translation": "门20秒后开启"
+  },
+  ">>>The helicopter flies to you! hold on!!!<<<": {
+    "translation": "直升机正向你飞来,坚持住"
+  },
+  "** Boss Fight in 5s **": {
+    "translation": "5秒后开始BOSS战"
+  },
+  "** Boss Fight in 10s **": {
+    "translation": "10秒后开始BOSS战"
+  },
+  ">>>[1]<<<": {
+    "translation": "1"
+  },
+  ">>>[2]<<<": {
+    "translation": "2"
+  },
+  ">>>[3]<<<": {
+    "translation": "3"
+  },
+  ">>>The door opens after 45 seconds<<<": {
+    "translation": "门45秒后开启"
+  },
+  "** Welcome to ze_Alien Shooter_v7 **": {
+    "translation": "欢迎来到 ze_Alien Shooter_v7"
+  },
+  "** Map made DarkRoad **": {
+    "translation": "地图制作 DarkRoad 文本:Zeyu1"
+  },
+  "** Special thanks:Moltard & Nostar & Microsoft Edge **": {
+    "translation": "特别感谢, Moltard, Nostar, Microsoft Edge",
+    "blocked": true
+  },
+  "** Thanks for the test map: Shiz0 & BalG & Pivogay & GaGaGa & Yuudachi & Bandit**": {
+    "translation": "感谢测试地图, Shiz0, BalG, Pivogay, GaGaGa, Yuudachi, Bandit",
+    "blocked": true
+  },
+  ">>>Laser Alien is dead!<<<": {
+    "translation": "激光外星人已死亡"
+  },
+  ">>>Boss is dead!<<<": {
+    "translation": "BOSS已死亡"
+  }
+}
