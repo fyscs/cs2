@@ -374,7 +374,7 @@
     "cooldown": 120,
     "nomination": true,
     "price": 500,
-    "requiredOnline": -1,
+    "requiredOnline": 600,
     "requiredPlayers": 40
   },
   "ze_bang_dream_mygo": {
