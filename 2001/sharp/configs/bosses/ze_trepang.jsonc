@@ -23,33 +23,10 @@
 {
   "Counters": [
     {
-      "iterator": "Counter_heal",
-      "display": "girl",
-      "hitbox": "Physbox_Sofya"
-    },
-    {
-      "iterator": "pincher_hp_counter",
-      "display": "pincher",
-      "hitbox": "pincher_hitbox_body"
-    },
-    {
-      "iterator": "decayed_target_counter",
-      "display": "decayed",
-      "hitbox": "decayed_hitbox_body"
-    }
-  ],
-  "Monsters": [
-    {
-      "identity": "18246",
-      "display": "sofya"
-    },
-    {
-      "identity": "18442",
-      "display": "pincher"
-    },
-    {
-      "identity": "18310",
-      "display": "decayed"
+      "iterator": "ctr_spider_boss_hp",
+      "increase": true,
+      "hitbox": "spider_lower",
+      "display": "Spider"
     }
   ]
 }
