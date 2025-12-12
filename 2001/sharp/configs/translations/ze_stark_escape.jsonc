@@ -1,0 +1,283 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Map Creator Platin": {
+    "translation": "地图创作者 Platin 文本:Zeyu1"
+  },
+  "Test Server :  Mapeadores | GFL": {
+    "translation": "测试服务器: Mapeadores, GFL"
+  },
+  "Catch the elevator before it leaves. RUN": {
+    "translation": "在电梯离开前赶上它,快跑"
+  },
+  "The elevator door is closing.": {
+    "translation": "电梯门正在关闭"
+  },
+  "Zombie tp 5 sec !": {
+    "translation": "僵尸5秒后传送"
+  },
+  "Run Run": {
+    "translation": "快跑快跑"
+  },
+  "################": {
+    "translation": "################"
+  },
+  "#### LEVEL EASY ####": {
+    "translation": "简单难度"
+  },
+  "The fastest wins. Catch the helicopter and win.": {
+    "translation": "最快者获胜,赶上直升机并获胜"
+  },
+  "### LEVEL NORMAL ###": {
+    "translation": "普通难度"
+  },
+  "WELCOME TO STARK ESCAPE": {
+    "translation": "欢迎来到斯塔克逃脱"
+  },
+  "Complete the parkour": {
+    "translation": "完成跑酷"
+  },
+  "Zombie tp 10 sec !": {
+    "translation": "僵尸10秒后传送"
+  },
+  "Zombie teleported": {
+    "translation": "僵尸已传送"
+  },
+  "Zombie teleport !": {
+    "translation": "僵尸传送"
+  },
+  "Run Run, The elevator will close in 10 seconds.": {
+    "translation": "快跑快跑,电梯10秒后关闭"
+  },
+  "Zombie tp 10 sec. RUN": {
+    "translation": "僵尸10秒后传送,快跑"
+  },
+  "Through the door.": {
+    "translation": "通过门"
+  },
+  "The door will open in 10 seconds.": {
+    "translation": "门10秒后开启"
+  },
+  "Door opened. GO GO": {
+    "translation": "门已开,快走快走"
+  },
+  "The door will open in 20 seconds.": {
+    "translation": "门20秒后开启"
+  },
+  "defend the left and right door.": {
+    "translation": "防守左右门"
+  },
+  "Get in the elevator, it'll close in 15 seconds.": {
+    "translation": "进电梯,15秒后关闭"
+  },
+  "Run, run, run. 5 seconds left.": {
+    "translation": "快跑快跑快跑,剩余5秒"
+  },
+  "to the next floor.": {
+    "translation": "前往下一层"
+  },
+  "Finish the parkour quickly.": {
+    "translation": "快速完成跑酷"
+  },
+  "The easy way has been opened.": {
+    "translation": "简单路径已开启"
+  },
+  "don't defend run run": {
+    "translation": "别防守快跑快跑"
+  },
+  "20 seconds left until the zombie teleports. RUN": {
+    "translation": "僵尸传送前剩余20秒,快跑"
+  },
+  "The door will open in 15 seconds. Finish the maze.": {
+    "translation": "门15秒后开启,完成迷宫"
+  },
+  "Door open, RUN RUN": {
+    "translation": "门已开,快跑快跑"
+  },
+  "The door will open in 20 seconds. Finish the maze.": {
+    "translation": "门20秒后开启,完成迷宫"
+  },
+  "Zombie tp 10 sec ! RUN": {
+    "translation": "僵尸10秒后传送,快跑"
+  },
+  "The barrier will break in 10 seconds.": {
+    "translation": "屏障10秒后破裂"
+  },
+  "Run": {
+    "translation": "快跑"
+  },
+  "The barrier will break in 20 seconds.": {
+    "translation": "屏障20秒后破裂"
+  },
+  "The barrier will break in 15 seconds.": {
+    "translation": "屏障15秒后破裂"
+  },
+  "zombie tp 10 sec, RUN RUN": {
+    "translation": "僵尸10秒后传送,快跑快跑"
+  },
+  "The zombie barrier will break after 5 seconds.": {
+    "translation": "僵尸屏障5秒后破裂"
+  },
+  "ZOMBIE DOOR OPENED !": {
+    "translation": "僵尸门已开启"
+  },
+  "DONT DEFEND! RUN RUN": {
+    "translation": "别防守,快跑快跑"
+  },
+  "Go to the exit door, zombies will come soon.": {
+    "translation": "去出口门,僵尸很快会来"
+  },
+  "Door opened GO BACK": {
+    "translation": "门已开,回去"
+  },
+  "Zombie tp 5 sec ! RUN": {
+    "translation": "僵尸5秒后传送,快跑"
+  },
+  "Get in the elevator, it'll close in 10 seconds.": {
+    "translation": "进电梯,10秒后关闭"
+  },
+  "The door will open in 5 seconds.": {
+    "translation": "门5秒后开启"
+  },
+  "Key found, Open the door with the key.": {
+    "translation": "找到钥匙,用钥匙开门"
+  },
+  "Human teleport": {
+    "translation": "人类传送"
+  },
+  "key found": {
+    "translation": "找到钥匙"
+  },
+  "We've got 20 seconds before the chopper takes off. Defend and don't miss the chopper.": {
+    "translation": "直升机起飞前还有20秒"
+  },
+  "In 10 seconds the helicopter will take off. Get in the helicopter.": {
+    "translation": "直升机10秒后起飞,上直升机"
+  },
+  "The helicopter took off.": {
+    "translation": "直升机已起飞"
+  },
+  "HUMAN WIN !!!": {
+    "translation": "人类胜利"
+  },
+  "Zombie die": {
+    "translation": "僵尸死亡"
+  },
+  "NEXT LEVEL : NORMAL": {
+    "translation": "下一关,普通"
+  },
+  "NEXT LEVEL : HARD": {
+    "translation": "下一关,困难"
+  },
+  "We've got 30 seconds before the chopper takes off. Defend and don't miss the chopper.": {
+    "translation": "直升机起飞前还有30秒"
+  },
+  "In 15 seconds the helicopter will take off. Get in the helicopter.": {
+    "translation": "直升机15秒后起飞,上直升机"
+  },
+  "THE HELICOPTER WILL TAKE OFF IN 20 SECONDS!": {
+    "translation": "直升机20秒后起飞"
+  },
+  "10 SEC HELI, RUN RUN RUN !!!": {
+    "translation": "直升机10秒后起飞,快跑快跑快跑"
+  },
+  "Hurry up, 5 seconds left.": {
+    "translation": "赶快,剩余5秒"
+  },
+  ">>>4<<<": {
+    "translation": "4"
+  },
+  ">>>3<<<": {
+    "translation": "3"
+  },
+  ">>>2<<<": {
+    "translation": "2"
+  },
+  ">>>1<<<": {
+    "translation": "1"
+  },
+  "GO TO THE HELICOPTER": {
+    "translation": "去直升机"
+  },
+  "GO TO THE CONTROL ROOM, PRESS THE BUTTON. DON'T TOUCH THE LASERS, THEY KILL.": {
+    "translation": "去控制室按按钮,别碰激光,会死"
+  },
+  "DEFEND LEFT AND RIGHT DOOR": {
+    "translation": "防守左右门"
+  },
+  "The elevator door is opening.": {
+    "translation": "电梯门正在开启"
+  },
+  "After 15 seconds, the zombie gates will open.": {
+    "translation": "15秒后僵尸门将开启"
+  },
+  "Zombie door is opening": {
+    "translation": "僵尸门正在开启"
+  },
+  "Zombie doors will open in 25 seconds.": {
+    "translation": "僵尸门25秒后开启"
+  },
+  "Zombie doors open": {
+    "translation": "僵尸门已开启"
+  },
+  "The elevator goes to the next floor.": {
+    "translation": "电梯前往下一层"
+  },
+  "The elevator door is opening. It will close in 10 seconds!!!": {
+    "translation": "电梯门正在开启,10秒后关闭"
+  },
+  "The door will open in 15 seconds.": {
+    "translation": "门15秒后开启"
+  },
+  "Take the right or left exit. Protect the exit doors!": {
+    "translation": "走右或左出口,保护出口门"
+  },
+  "Zombie TP 7 sec !": {
+    "translation": "僵尸7秒后传送"
+  },
+  "After 10 seconds, the zombie gates will open.": {
+    "translation": "10秒后僵尸门将开启"
+  },
+  "DON'T GO !!! DEFEND THE ELEVATOR": {
+    "translation": "别走,防守电梯"
+  },
+  "ZOMBIE TELEPORT !!!": {
+    "translation": "僵尸传送"
+  },
+  "The elevator will move in 20 seconds.": {
+    "translation": "电梯20秒后移动"
+  },
+  "The elevator door is opening. It will close in 15 seconds!!!": {
+    "translation": "电梯门正在开启,15秒后关闭"
+  },
+  "The door opens in 5 sec!": {
+    "translation": "门5秒后开启"
+  },
+  "Zombie doors will open in 20 seconds.": {
+    "translation": "僵尸门20秒后开启"
+  },
+  "The elevator will move in 15 seconds.": {
+    "translation": "电梯15秒后移动"
+  },
+  "defend the RIGHT and the LEFT.": {
+    "translation": "防守右侧和左侧"
+  },
+  "It will close in 5 seconds!!!": {
+    "translation": "5秒后关闭"
+  },
+  "DONT DEFEND, RUN RUN RUN": {
+    "translation": "别防守,快跑快跑快跑"
+  },
+  "Go to the control room to start the helicopter.": {
+    "translation": "去控制室启动直升机"
+  }
+}
