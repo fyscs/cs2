@@ -38,7 +38,8 @@
     "translation": "*** 木板打开了,快润兄弟们!!! ***"
   },
   "*** WAIT TILL BOMB BREAKS THOSE BOARDS ***": {
-    "translation": "*** 我们得想办法用炸弹炸开这些木板 ***"
+    "translation": "*** 我们得想办法用炸弹炸开这些木板 ***,30"
+    "countdown": 30
   },
   "*** SHOOT IT BEFORE ITS TOO LATE!! ***": {
     "translation": "*** 趁现在还来得及开枪!!! ***"
