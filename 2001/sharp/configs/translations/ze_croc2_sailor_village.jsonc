@@ -23,16 +23,19 @@
     "translation": "快跑"
   },
   "> Zombie Teleport For 20 Seconds. <": {
-    "translation": "僵尸传送-20秒"
+    "translation": "僵尸传送-20秒",
+    "countdown": 20
   },
   "> HURRY UP! <": {
     "translation": "赶快"
   },
   "> Zombie Teleport For 10 Seconds. <": {
-    "translation": "僵尸传送-10秒"
+    "translation": "僵尸传送-10秒",
+    "countdown": 10
   },
   "> Zombie Teleport For 5 Seconds. <": {
-    "translation": "僵尸传送-5秒"
+    "translation": "僵尸传送-5秒",
+    "countdown": 5
   },
   "> 1 PERSON GO TRIGGER! <": {
     "translation": "只需要一位勇士去触发"
