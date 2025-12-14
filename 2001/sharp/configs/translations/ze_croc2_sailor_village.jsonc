@@ -35,7 +35,7 @@
   },
   "> Zombie Teleport For 5 Seconds. <": {
     "translation": "僵尸传送-5秒",
-    "countdown": 5
+    "blocked": true
   },
   "> 1 PERSON GO TRIGGER! <": {
     "translation": "只需要一位勇士去触发"
@@ -125,7 +125,7 @@
     "translation": "别碰水"
   },
   "> Stay Bridge - Just Survival - Humans Teleporting Soon... <": {
-    "translation": "待在桥上,,人类即将传送"
+    "translation": "待在桥上,人类即将传送"
   },
   "> STAY IN TELEPORT FOR 30 SECONDS <": {
     "translation": "在传送点停留30秒"
