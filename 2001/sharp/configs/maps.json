@@ -899,6 +899,15 @@
     "requiredOnline": 600,
     "requiredPlayers": 40
   },
+  "ze_croc2_sailor_village": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_cry_thunder": {
     "admin": false,
     "certainTimes": [-1],
