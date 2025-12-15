@@ -92,7 +92,8 @@
     "translation": "还有20秒"
   },
   "[LEVEL FINAL] | Stay in the green and defend. 30 Seconds |": {
-    "translation": "在这里坚持30秒"
+    "translation": "在绿框内坚持24秒",
+    "countdown": 24
   },
   "[LEVEL FINAL] | GG! Everyone RTV! for ze_mars_escape <3 |": {
     "translation": "地图已通关!该RTV了!"
