@@ -1,0 +1,178 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "> TRIGGER ACTIVATED <": {
+    "translation": "触发器已激活"
+  },
+  "> CAVE TELEPORT ACTIVATING FOR 20 SECONDS <": {
+    "translation": "洞穴传送正在激活,持续20秒"
+  },
+  "> CAVE TELEPORT ACTIVATED - FALL BACK <": {
+    "translation": "洞穴传送已激活,撤退"
+  },
+  "> JUST RUN | DONT DEFEND <": {
+    "translation": "快跑"
+  },
+  "> Zombie Teleport For 20 Seconds. <": {
+    "translation": "僵尸传送-20秒",
+    "countdown": 20
+  },
+  "> HURRY UP! <": {
+    "translation": "赶快"
+  },
+  "> Zombie Teleport For 10 Seconds. <": {
+    "translation": "僵尸传送-10秒",
+    "countdown": 10
+  },
+  "> Zombie Teleport For 5 Seconds. <": {
+    "translation": "僵尸传送-5秒",
+    "blocked": true
+  },
+  "> 1 PERSON GO TRIGGER! <": {
+    "translation": "只需要一位勇士去触发"
+  },
+  "> OTHERS STAY DEFEND! <": {
+    "translation": "其他人留守防守"
+  },
+  "> WHERE WE GO?: CAVE DOOR <": {
+    "translation": "我们去哪个洞穴门"
+  },
+  "> KEY RECEIVED <": {
+    "translation": "钥匙已获得"
+  },
+  "> DEFEND FOR 20 SECONDS <": {
+    "translation": "防守20秒"
+  },
+  "> FALL BACK! <": {
+    "translation": "撤退"
+  },
+  "> FINAL AREA IN DEFEND FOR 30 SECONDS <": {
+    "translation": "最终区域防守30秒"
+  },
+  "> TOUCH WOLF ICON - GO! GO! GO! <": {
+    "translation": "触摸狼图标,快走快走快走"
+  },
+  "> Cave is Open! <": {
+    "translation": "洞穴已开启"
+  },
+  "> DONT WAIT! <": {
+    "translation": "别等待"
+  },
+  "> FALL BACK <": {
+    "translation": "撤退"
+  },
+  "> There is gravity around the parkour. Do not try shortcuts. <": {
+    "translation": "跑酷区域周围有重力,不要尝试捷径"
+  },
+  "> STAY IN TELEPORT FOR 20 SECONDS <": {
+    "translation": "在传送点停留20秒"
+  },
+  "> TELEPORT ACTIVATED - FALL BACK <": {
+    "translation": "传送已激活,撤退"
+  },
+  "> Zombies Teleported! <": {
+    "translation": "僵尸已传送"
+  },
+  "> DOOR IS OPENING FOR 20 SECONDS <": {
+    "translation": "门正在开启,持续20秒"
+  },
+  "> DOOR OPEN - FALL BACK <": {
+    "translation": "门已开,撤退"
+  },
+  "> AFK TELEPORT FOR 10 SECONDS <": {
+    "translation": "挂机玩家传送持续10秒"
+  },
+  "> TRAIN ACTIVATING FOR 10 SECONDS <": {
+    "translation": "火车正在激活,持续10秒"
+  },
+  "> GET IN TRAIN <": {
+    "translation": "上火车"
+  },
+  "> RUN! <": {
+    "translation": "快跑"
+  },
+  "> COVER FIRE! <": {
+    "translation": "掩护火力"
+  },
+  "> DEFEND FOR 10 SECONDS <": {
+    "translation": "防守10秒"
+  },
+  "> 30 SECONDS DEFEND <": {
+    "translation": "30秒防守"
+  },
+  "> TAKE THE KEY AND DEFEND <": {
+    "translation": "拿钥匙并防守"
+  },
+  "> TOUCH CROC2 LOGO GO! GO! GO! <": {
+    "translation": "触摸CROC2标志,快走快走快走"
+  },
+  "> 30 SECONDS <": {
+    "translation": "30秒"
+  },
+  "> 20 SECONDS <": {
+    "translation": "20秒"
+  },
+  "> Dont Touch Water <": {
+    "translation": "别碰水"
+  },
+  "> Stay Bridge - Just Survival - Humans Teleporting Soon... <": {
+    "translation": "待在桥上,人类即将传送"
+  },
+  "> STAY IN TELEPORT FOR 30 SECONDS <": {
+    "translation": "在传送点停留30秒"
+  },
+  "> TELEPORT ACTIVATED - GET IN TP <": {
+    "translation": "传送已激活,进入传送点"
+  },
+  "> PRESS BUTTON LEVEL SYSTEM <": {
+    "translation": "按下按钮等级系统"
+  },
+  "> THE TRAIN WILL BE MOVE IN FOR 5 SECONDS  <": {
+    "translation": "火车将在5秒后移动"
+  },
+  "> DOOR OPENING FOR 20 SECONDS <": {
+    "translation": "门正在开启,持续20秒"
+  },
+  "> DEFEND FOR 30 SECONDS <": {
+    "translation": "防守30秒"
+  },
+  "> HUMANS: IF YOU CAN'T REACH UP, YOU MAY GO FROM THE FLAME. <": {
+    "translation": "如果无法上去,可以从火焰处走"
+  },
+  "> EVERYONE FALL BACK JUST RUN <": {
+    "translation": "所有人撤退"
+  },
+  "> DONT TOUCH BLUE <": {
+    "translation": "别碰蓝色"
+  },
+  "> WHITE WALL TELEPORT FOR 20 SECONDS <": {
+    "translation": "白墙传送持续20秒"
+  },
+  "> GET ON THE TRAIN <": {
+    "translation": "上火车"
+  },
+  "> 30 Seconds Final Defense. <": {
+    "translation": "30秒最终防守"
+  },
+  "[System] Level 1 Initialized.": {
+    "translation": "关卡1已初始化"
+  },
+  "[System] Level 2 Initialized.": {
+    "translation": "关卡2已初始化"
+  },
+  "[System] Level 3 Initialized.": {
+    "translation": "关卡3已初始化"
+  },
+  "[System] Level 4 Initialized.": {
+    "translation": "关卡4已初始化"
+  }
+}
