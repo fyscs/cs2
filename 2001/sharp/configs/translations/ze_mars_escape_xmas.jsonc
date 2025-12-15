@@ -11,293 +11,422 @@
 
 {
   "Marslab self-destructing in...": {
-    "translation": "火星实验室正在自毁中..."
-  },
-  "Airlock opening.": {
-    "translation": "气闸室正在开启."
-  },
-  "Airlock opening in 5 secs.": {
-    "translation": "气闸室将在5秒后开启.",
-    "blocked": true
-  },
-  "Airlock opening in 10 secs.": {
-    "translation": "气闸室将在10秒后开启.",
-    "blocked": true
-  },
-  "Airlock opening in 15 secs.": {
-    "translation": "气闸室将在15秒后开启."
-  },
-  "Holly Jolly-enerator Online :D": {
-    "translation": "欢乐发电机已上线 :D"
-  },
-  "Airlock opening in 20 secs.": {
-    "translation": "气闸室将在20秒后开启."
-  },
-  "Mako Generator Online ( ͡° ͜ʖ ͡°)": {
-    "translation": "Mako 发电机已上线 ( ͡° ͜ʖ ͡°)"
+    "translation": "实验室正在自毁倒计时"
   },
   "Mini airlock opening in 5.": {
-    "translation": "小型气闸室将在5秒后开启."
+    "translation": "小型气闸将在5秒后开启"
   },
   "Pole doors closing.": {
-    "translation": "舱门正在关闭."
+    "translation": "极地大门正在关闭"
   },
   "Elevator broken.": {
-    "translation": "电梯坏了."
+    "translation": "电梯发生故障"
   },
   "Security airlock closing.": {
-    "translation": "安全气闸室正在关闭."
+    "translation": "安全气闸正在关闭"
   },
   "Map made by Xquality, remixed by Santa, models from Luffaren": {
-    "translation": "作者:Xquality 音乐:Santa 模型:Luffaren 汉化:墨鸢@Fys"
+    "translation": "地图由Xquality制作,Santa重制,模型来自Luffaren 文本:Zeyu1&墨鸢"
   },
   "After a long trip to mars you finally land but something strange has happened...": {
-    "translation": "经过漫长的火星之旅,你终于着陆了,但发生了一些奇怪的事情..."
+    "translation": "经过漫长的火星之旅终于成功着陆,但奇怪的事情发生了"
   },
   "IT'S CHRISTMAS!!!!!!!!!!!": {
-    "translation": "圣诞节到了!!!"
+    "translation": "圣诞节到了"
+  },
+  "ye olde tram leaves in 4 seconds": {
+    "translation": "老式电车将在4秒后离开"
   },
   "Santa will punish naughty boys and girls who don't save Christmas...": {
-    "translation": "圣诞老人会惩罚那些不珍惜圣诞节.调皮捣蛋的男孩和女孩们..."
+    "translation": "不拯救圣诞节的顽皮孩子将会受到圣诞老人的惩罚"
   },
   "Big and strong mommy tomboys kill zombies and save christmas on Mars...": {
-    "translation": "强壮的妈妈式假小子在火星上杀死僵尸并拯救圣诞节..."
+    "translation": "高大强壮的战士在火星上消灭僵尸 并拯救圣诞节"
   },
   "Pathetic and weak soyboys will make Santa do the job for them...": {
-    "translation": "可悲又软弱的软男会让圣诞老人替他们完成任务..."
+    "translation": "软弱无能的人只能让圣诞老人替他们完成任务"
   },
   "Good job, really, good job! Now you've done it! You pissed off the Fat Man!": {
-    "translation": "干得好,真的,干得好!现在你把事情搞砸了!你把圣诞老人惹毛了!"
+    "translation": "干得好,现在你们成功惹怒了那个胖子"
   },
   "Bunker closing in 5 secs": {
-    "translation": "避难所将在5秒后关闭",
+    "translation": "掩体将在5秒后关闭",
     "blocked": true
   },
   "Bunker closing in 10 secs": {
-    "translation": "避难所将在10秒后关闭",
+    "translation": "掩体将在10秒后关闭",
     "blocked": true
   },
   "Bunker closing in 20 secs": {
-    "translation": "避难所将在20秒后关闭",
+    "translation": "掩体将在20秒后关闭",
     "blocked": true
   },
   "Bunker closing in 60 secs": {
-    "translation": "避难所将在60秒后关闭"
+    "translation": "掩体将在60秒后关闭"
   },
   "Bunker closing in 40 secs": {
-    "translation": "避难所将在40秒后关闭",
+    "translation": "掩体将在40秒后关闭",
     "blocked": true
   },
+  "Airlock opening.": {
+    "translation": "气闸正在开启"
+  },
+  "Airlock opening in 5 secs.": {
+    "translation": "气闸将在5秒后开启",
+    "blocked": true
+  },
+  "Airlock opening in 10 secs.": {
+    "translation": "气闸将在10秒后开启",
+    "blocked": true
+  },
+  "Airlock opening in 15 secs.": {
+    "translation": "气闸将在15秒后开启"
+  },
+  "Holly Jolly-enerator Online :D": {
+    "translation": "欢乐圣诞发电机已上线"
+  },
+  "Airlock opening in 20 secs.": {
+    "translation": "气闸将在20秒后开启"
+  },
+  "??????? christmas generator has failed ????????": {
+    "translation": "圣诞发电机发生故障"
+  },
+  "perhaps we have been too naughty": {
+    "translation": "也许我们太顽皮了"
+  },
+  "sinners must perish": {
+    "translation": "罪人必须受到惩罚"
+  },
+  "christmas is ruined": {
+    "translation": "圣诞节被毁了"
+  },
+  "god smites the unholy demons who follow santa": {
+    "translation": "神明正在惩罚追随圣诞老人的不洁恶魔"
+  },
+  "santa was never really here": {
+    "translation": "圣诞老人从未真正出现过"
+  },
   "Holly Jolly-enerator offline :(": {
-    "translation": "欢乐发电机已离线 :("
+    "translation": "欢乐圣诞发电机已离线"
   },
   "Holly Jolly-enerator waiting for restart.": {
-    "translation": "欢乐发电机等待重启."
-  },
-  "Ho ho ho! Santa's comin' to Mars tonight fellas!": {
-    "translation": "哈哈哈!圣诞老人今晚要来火星了,伙计们!"
+    "translation": "欢乐圣诞发电机正在等待重启"
   },
   "** BAHAMUT HAS CAST GRAVITY **": {
-    "translation": "** 圣诞老人正在施放黑洞魔法-按住S抵抗它! **"
+    "translation": "巴哈姆特施放了重力技能"
   },
-  "** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **": {
-    "translation": "** 警告!圣诞老人正在施放终极!!!- 准备使用治疗神器 ++ **"
+  "** WARNING! SANTAHUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **": {
+    "translation": "警告,圣诞巴哈姆特正在施放究极技能,准备使用治疗"
   },
   "** ULTIMA CAST WILL SUCCED IN 10 SECONDS **": {
-    "translation": "** 终极将在10秒后爆炸 **"
+    "translation": "究极技能将在10秒后完成施放"
   },
   "** BAHAMUT HAS HEALED 150 HIT POINTS**": {
-    "translation": "** 圣诞老人正在治疗自身**"
+    "translation": "巴哈姆特恢复了150点生命值"
   },
   "** BAHAMUT HAS CAST WIND **": {
-    "translation": "** 圣诞老人正在施放风魔法 **"
+    "translation": "巴哈姆特施放了风技能"
   },
   "** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **": {
-    "translation": "** 圣诞老人正在施放土魔法- 打碎它!  **"
+    "translation": "巴哈姆特施放了土技能,打破墙壁"
   },
   "** BAHAMUT HAS CAST ELECTRO! **": {
-    "translation": "** 圣诞老人正在施放电魔法!- 跳上高处! **"
+    "translation": "巴哈姆特施放了电技能"
   },
   "** BAHAMUT HAS CAST ICE **": {
-    "translation": "** 圣诞老人正在施放冰魔法!**"
+    "translation": "巴哈姆特施放了冰技能"
   },
   "** BAHAMUT HAS CAST FIRE! **": {
-    "translation": "** 圣诞老人正在施放火魔法!!-往后退! **"
+    "translation": "巴哈姆特施放了火技能"
   },
   "** BAHAMUT IS CASTING ** PREPARE YOURSELF **": {
-    "translation": "**  做好准备迎接巴哈姆特 **"
+    "translation": "巴哈姆特正在施法,做好准备"
   },
   "**Nice done! You interrumped Sephiroth's attack**": {
-    "translation": "** 干的漂亮,你成功的阻挡了萨菲罗斯的进攻!**"
+    "translation": "干得漂亮,你打断了萨菲罗斯的攻击"
   },
   "**Bahamut has been defeated ! ** Go go! Run upstairs ! **": {
-    "translation": "**圣诞老人已经死亡**逃离此地! **"
+    "translation": "巴哈姆特已被击败,快跑,向上撤离"
   },
   "** RUN! **": {
-    "translation": "** 跑! **"
+    "translation": "快跑"
   },
   "** DOOR OPENS IN 35 S **": {
-    "translation": "** 大门将在35秒后开启 **"
+    "translation": "大门将在35秒后开启"
   },
-  "** Go to the control room to open it earlier **": {
-    "translation": "** 快进入最后的控制室 **"
+  "OnStartTouch>Console>Command>** Go to the control room to open it earlier **>5.00>1": {
+    "translation": "前往控制室可以提前开启大门"
   },
   "**Door is open**": {
-    "translation": "**门开了**"
+    "translation": "大门已经开启"
   },
   "**Door is opening in 5**": {
-    "translation": "**5秒后开门**"
+    "translation": "大门将在5秒后开启"
   },
   "**Elevator is leaving in 10s**": {
-    "translation": "**电梯将在10秒后离开**"
+    "translation": "电梯将在10秒后离开"
   },
   "**Keep shooting ! We dont know what it can do **": {
-    "translation": "**保持火力!我们还不知道他会做什么!**"
+    "translation": "继续射击,我们还不知道它会做什么"
   },
   "** We have reached the core  ...**": {
-    "translation": "** 我们已经到达魔光炉的核心了  ...**"
+    "translation": "我们已经到达核心区域"
   },
   "** ... Cloud is planting the bomb **": {
-    "translation": "** ... 正在安放炸弹,是时候该结束一切了 **"
+    "translation": "克劳德正在安放炸弹"
   },
   "** Bomb has been planted  **  Run **": {
-    "translation": "** 炸弹已被安放-快走 **"
+    "translation": "炸弹已经安放完成,快撤离"
   },
   "**Door is opening in 10 seconds**": {
-    "translation": "**大门还有10秒开**"
+    "translation": "大门将在10秒后开启"
   },
   "** Dont stop shooting ! Dont let him attack !": {
-    "translation": "** 保持火力!别给圣诞老人喘息的机会"
+    "translation": "不要停止射击,不要让他发动攻击"
   },
   "** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **": {
-    "translation": "** 提示:手雷将对boss造成更高的伤害**"
+    "translation": "提示,手雷可以造成大量伤害,请合理使用"
   },
   "** The monster is going to attack ! **": {
-    "translation": "** 这个怪物准备攻击我们 ! **"
+    "translation": "怪物即将发动攻击"
   },
   "** EXPLOSION IN 145 SECONDS **": {
-    "translation": "** 距离魔光炉爆炸还剩145秒! **"
+    "translation": "145秒后将发生爆炸"
   },
   "**  10 SECONDS LEFT **": {
-    "translation": "**  10 秒**"
+    "translation": "剩余10秒",
+    "blocked": true
   },
   "**  20 SECONDS LEFT **": {
-    "translation": "**  20 秒**",
+    "translation": "剩余20秒",
     "blocked": true
   },
   "**  30 SECONDS LEFT **": {
-    "translation": "**  30 秒**",
+    "translation": "剩余30秒",
     "blocked": true
   },
   "**  40 SECONDS LEFT **": {
-    "translation": "**  40 秒**",
+    "translation": "剩余40秒",
     "blocked": true
   },
   "**  50 SECONDS LEFT **": {
-    "translation": "**  50 秒**",
+    "translation": "剩余50秒",
     "blocked": true
   },
   "**  60 SECONDS LEFT **": {
-    "translation": "**  60 秒**",
+    "translation": "剩余60秒",
     "blocked": true
   },
   "**  70 SECONDS LEFT **": {
-    "translation": "**  70 秒**",
+    "translation": "剩余70秒",
     "blocked": true
   },
   "**  80 SECONDS LEFT **": {
-    "translation": "**  80 秒**",
+    "translation": "剩余80秒",
     "blocked": true
   },
   "**  90 SECONDS LEFT **": {
-    "translation": "**  90 秒**",
+    "translation": "剩余90秒",
     "blocked": true
   },
   "**  100 SECONDS LEFT **": {
-    "translation": "**  100 秒**",
+    "translation": "剩余100秒",
     "blocked": true
   },
   "**  110 SECONDS LEFT **": {
-    "translation": "**  110 秒**",
-    "blocked": true
+    "translation": "剩余110秒"
   },
   "** EXPLOSION IN 120 SECONDS **": {
-    "translation": "** 距离魔光炉爆炸还剩120秒! **"
-  },
-  "** EXPLOSION IN 130 SECONDS **": {
-    "translation": "** 距离魔光炉爆炸还剩130秒! **"
-  },
-  "** 30 SECONDS LEFT **": {
-    "translation": "** 30 秒**"
-  },
-  "**  120 SECONDS LEFT **": {
-    "translation": "**  120 秒**",
+    "translation": "120秒后将发生爆炸",
     "blocked": true
   },
-  "** 20 SECONDS LEFT **": {
-    "translation": "** 20 秒**"
-  },
-  "** 10 SECONDS LEFT **": {
-    "translation": "** 10 秒**"
+  "** EXPLOSION IN 130 SECONDS **": {
+    "translation": "130秒后将发生爆炸"
   },
   "** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **": {
-    "translation": "** 圣诞老人即将要消灭我们所有人!-快开枪! **"
+    "translation": "巴哈姆特即将消灭所有人,不要停止射击"
   },
   "** YOU ARE THE MASTERS OF MAKO REACTOR! **": {
-    "translation": "** 你就是MAKO唯一のking! **"
+    "translation": "你们已经掌控了魔晄反应炉"
   },
   "** YOU DID IT! YOU WON EXTREME ! YOU OWN! **": {
-    "translation": "** 做到了!你成功通关EX模式!-你无敌了! **"
+    "translation": "你们成功了,完成了极限难度"
   },
   "** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! **": {
-    "translation": "** 成功!你通关了HARD模式-下一关为EX模式-祝你好运**"
+    "translation": "你们通关了最高难度,即将进入极限模式,祝你们好运"
   },
   "**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **": {
-    "translation": "**恭喜你!你成功通关NORMAL模式!更难的挑战将从HARD模式开始! **"
+    "translation": "恭喜你们通关普通模式,挑战将从困难模式开始"
   },
   "** ZOMBIES HAVE INFECTED THE BUNKER **": {
-    "translation": "** 僵尸胜利 **"
+    "translation": "僵尸已经占领掩体"
   },
   "** WHAT THE FUCK!!!!!!!!!!!!!!!!!!!!!!!!! ***": {
-    "translation": "** 我嘞个豆!!!!!!!!!!!!!!!!!!!!!!!!! ***"
+    "translation": "这到底是怎么回事"
   },
   "** Bahamut is going to cast Mega Flare !! Shoot !! **": {
-    "translation": "** 圣诞老人正在施放百万核爆 !! 朝他开枪!! **"
+    "translation": "巴哈姆特即将施放百万核爆,快射击"
   },
   "** Bahamut is in attack position ** Keep firing !! **": {
-    "translation": "** 圣诞老人正在蓄力**继续朝他射击 !!  **"
-  },
-  "*** MATERIALS AT LVL 1 ***": {
-    "translation": "*** 材料① ***"
-  },
-  "*** MATERIALS AT LVL 2 ***": {
-    "translation": "*** 材料② ***"
+    "translation": "巴哈姆特已进入攻击状态,持续火力输出"
   },
   "**CURRENT DIFFICULTY ** >> EXTREME II << **": {
-    "translation": "**当前难度 ** >> EXTREME II << **"
+    "translation": "当前难度为EXTREME II"
   },
-  "REBUYS ARE DISABLED! FALL DAMAGE IS ENABLED!": {
-    "translation": "启用坠落伤害!"
+  "REBUYS ARE DISABLED! UNLIMITED AMMO DISABLED! FALL DAMAGE IS ENABLED!": {
+    "translation": "重新购买已禁用,无限弹药已禁用,跌落伤害已启用"
   },
   "** ALL COWBELLS HAVE BEEN BROKEN **": {
-    "translation": "** 所有的COWBELLS都已被找到*"
+    "translation": "所有牛铃都已被破坏"
   },
   "** BAHAMUT WILL NOT USE MATERIALS **": {
-    "translation": "*** 圣诞老人将不会再出技能 **"
+    "translation": "巴哈姆特将不再使用魔石技能"
   },
   "** 3 COWBELLS LEFT! **": {
-    "translation": "**还剩下三个COWBELLS!**"
+    "translation": "还剩3个牛铃"
   },
   "** 2 COWBELLS LEFT! **": {
-    "translation": "** 还剩下两个COWBELLS! **"
+    "translation": "还剩2个牛铃"
   },
   "** 1 COWBELL LEFT!!! **": {
-    "translation": "** 还剩下一个COWBELLS! **"
+    "translation": "还剩1个牛铃"
   },
   "** NO COWBELL BONUS **": {
-    "translation": "** 已经没有COWBELLS了 **"
+    "translation": "未触发牛铃奖励"
   },
   "help me step bro - i'm stuck!": {
-    "translation": "帮帮我,兄弟 我卡住了!"
+    "translation": "快帮帮我,我被卡住了"
+  },
+  "The Temple Door will open in 67 seconds!": {
+    "translation": "神庙大门将在67秒后开启"
+  },
+  "Nevermind! It was only 30 seconds LOL": {
+    "translation": "没关系,其实只剩30秒了"
+  },
+  "*** Uhh, i hear zombies in the back... Someone go check on that... ***": {
+    "translation": "我听到后面有僵尸,谁去查看一下"
+  },
+  "** A player has adquired ULTIMA MATERIA **": {
+    "translation": "一名玩家获得了究极魔石"
+  },
+  "** A player has adquired FIRE MATERIA **": {
+    "translation": "一名玩家获得了火焰魔石"
+  },
+  "** A player has adquired WIND MATERIA **": {
+    "translation": "一名玩家获得了风魔石"
+  },
+  "** A player has adquired ELECTRO MATERIA **": {
+    "translation": "一名玩家获得了雷电魔石"
+  },
+  "** A player has adquired HEAL MATERIA **": {
+    "translation": "一名玩家获得了治疗魔石"
+  },
+  "** A player has adquired GRAVITY MATERIA **": {
+    "translation": "一名玩家获得了重力魔石"
+  },
+  "** A player has adquired ICE MATERIA **": {
+    "translation": "一名玩家获得了寒冰魔石"
+  },
+  "** A player has adquired EARTH MATERIA **": {
+    "translation": "一名玩家获得了大地魔石"
+  },
+  "** A player has adquired TROLLTIMA MATERIA **": {
+    "translation": "一名玩家获得了恶作剧魔石"
+  },
+  "** SANTAHUT IS DEAD ** KEEP RUNNING **": {
+    "translation": "圣诞巴哈姆特已经死亡,继续撤离"
+  },
+  "Merry Xmas! This is mars escape, jolly, but also on meth. Map modifier:": {
+    "translation": "圣诞快乐,这是火星逃生地图,欢乐但也十分疯狂,地图修正"
+  },
+  "*** MATERIAS AT LVL 3 ***": {
+    "translation": "魔石等级为3"
+  },
+  "*** Toggle item aiming with !aim (default is disabled) ***": {
+    "translation": "使用命令aim切换物品瞄准,默认关闭"
+  },
+  "HO HO HO - naughty boys can only defend themselves with their knives...": {
+    "translation": "呵呵呵,顽皮的人只能用刀进行防御"
+  },
+  "You are starting to feel uneasy about Christmas this year...": {
+    "translation": "你开始对今年的圣诞节感到不安"
+  },
+  "Maybe you shouldn't open your presents...": {
+    "translation": "也许你不该打开你的礼物"
+  },
+  "Level: Mars": {
+    "translation": "关卡:Mars"
+  },
+  "Level: Extreme 2": {
+    "translation": "关卡:Mako Extreme2"
+  },
+  "Level: Grismas": {
+    "translation": "关卡:Grismas"
+  },
+  "Level: Rebirth": {
+    "translation": "关卡:Rebirth"
+  },
+  "Error! Not enough players for buddy system, falling back to Classic Mode.": {
+    "translation": "错误,玩家数量不足以启用搭档系统,已切换为经典模式"
+  },
+  "The Boy Scout Leader is assigning buddies!": {
+    "translation": "领队正在分配搭档"
+  },
+  "WARNING LENNY OVERFLOW IS NIGH": {
+    "translation": "警告,lenny即将溢出"
+  },
+  "PLEASE STOP LENNYING": {
+    "translation": "请停止lenny行为"
+  },
+  "SANTA IS BEGGING YOU TO STOP LENNYING": {
+    "translation": "圣诞老人请求你停止lenny行为"
+  },
+  "YOUR MOTHER (I AM BANGING HER RIGHT NOW) IS BEGGING YOU TO STOP LENNYING": {
+    "translation": "正在请求你停止lenny行为"
+  },
+  "FUCKING GOOBER STOP LENNYING YOU LITTLE BITCH": {
+    "translation": "别再继续lenny行为了"
+  },
+  "WARNING LENNY OVERLOAD": {
+    "translation": "警告,lenny已超载"
+  },
+  "We saved Christmas! Time to reap our beautiful gifts from Santard!": {
+    "translation": "我们拯救了圣诞节,是时候领取奖励了"
+  },
+  "You have 120.67 seconds to complete the Rebirth!": {
+    "translation": "你有120秒完成重生"
+  },
+  "Epstein is angry - you need at least 4 humans to proceed!": {
+    "translation": "系统判定人数不足,需要至少4名人类玩家才能继续"
+  },
+  "The Book of Crimson Ceremony has been offered.": {
+    "translation": "猩红仪式之书已被献上"
+  },
+  "The Book of Lost Memories has been offered.": {
+    "translation": "遗失记忆之书已被献上"
+  },
+  "The Obsidian Goblet has been offered.": {
+    "translation": "黑曜石圣杯已被献上"
+  },
+  "The White Chrism has been offered.": {
+    "translation": "白色圣油已被献上"
+  },
+  "We have unlocked the Rebirth Ending!": {
+    "translation": "我们已解锁重生结局"
+  },
+  "VIP is... Erroneous???": {
+    "translation": "VIP状态异常"
+  },
+  "The VIP has disconnected! Selecting a new VIP!": {
+    "translation": "VIP已断开连接,正在选择新的VIP"
+  },
+  "The VIP has died - FUCK!!!!": {
+    "translation": "VIP已经死亡"
+  },
+  "***THE PIZZA IS AGGRESSIVE***": {
+    "translation": "披萨正在发动攻击"
+  },
+  "Locking heal while I fix the elevator...": {
+    "translation": "维护电梯期间限制治疗"
   }
 }
