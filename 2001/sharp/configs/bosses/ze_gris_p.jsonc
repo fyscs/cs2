@@ -1,0 +1,50 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "counter_rtv_boss_vida",
+      "hitbox": "break_st4_boss_hitbox",
+      "counter": "counter_rtv_hp_bar",
+      "display": "方块"
+    },
+    {
+      "iterator": "counter_st4_boss_vida",
+      "hitbox": "break_st4_boss_hitbox",
+      "counter": "counter_st4_boss_vida_bar",
+      "display": "方块"
+    },
+    {
+      "iterator": "l4_boss_vida",
+      "hitbox": "l4_boss_box",
+      "counter": "l4_boss_life_counter",
+      "display": "方块"
+    },
+    {
+      "iterator": "white_boss_vida",
+      "hitbox": "white_boss_vida_box",
+      "counter": "white_boss_life_counter",
+      "display": "方块"
+    }
+  ]
+}
