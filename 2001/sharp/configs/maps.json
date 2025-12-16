@@ -1340,7 +1340,7 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
-  "ze_ez": {
+  "ze_ez_run": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 60,
