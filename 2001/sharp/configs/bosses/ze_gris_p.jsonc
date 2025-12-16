@@ -24,24 +24,28 @@
   "Counters": [
     {
       "iterator": "counter_rtv_boss_vida",
+      "mass": "60",
       "hitbox": "break_st4_boss_hitbox",
       "counter": "counter_rtv_hp_bar",
       "display": "方块"
     },
     {
       "iterator": "counter_st4_boss_vida",
+      "mass": "60",
       "hitbox": "break_st4_boss_hitbox",
       "counter": "counter_st4_boss_vida_bar",
       "display": "方块"
     },
     {
       "iterator": "l4_boss_vida",
+      "mass": "55",
       "hitbox": "l4_boss_box",
       "counter": "l4_boss_life_counter",
       "display": "方块"
     },
     {
       "iterator": "white_boss_vida",
+      "mass": "80",
       "hitbox": "white_boss_vida_box",
       "counter": "white_boss_life_counter",
       "display": "方块"
