@@ -1,36 +1,23 @@
-// Console SayText i18n file generator.
-// i18n Version v21
+// Round Reward configuration file generator.
+// Reward Version v22
 // Copyright 2025 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
-  // blocked    (bool) -> 屏蔽本句输出
-  // clearText  (bool) -> 清除所有HUD文本
-  // clearTimer (bool) -> 清除所有倒计时
-  // countdown  (int)  -> 添加特殊的独立的倒计时
+  // rankPasses (int)   -> 通关云点
+  // rankDamage (int)   -> 伤害结算云点比例
+  // rankIntern (float) -> 低保云点比例 (每分钟)
+  // econPasses (int)   -> 通关龙晶
+  // econDamage (int)   -> 伤害结算龙晶比例
+  // econIntern (float) -> 低保龙晶比例 (每分钟)
 
 {
-  ">>>大门即将打开 30 seconds<<<": {
-    "translation": "大门即将打开 30 秒",
-    "countdown": 30
-  },
-  ">>>僵尸即将传送 10 seconds<<<": {
-    "translation": "僵尸即将传送 10 秒",
-    "countdown": 10
-  },
-  ">>>大门即将打开 20 seconds<<<": {
-    "translation": "大门即将打开 20 秒",
-    "countdown": 20
-  },
-  ">>>最后防守 20 seconds<<<": {
-    "translation": "最后防守 20 秒",
-    "countdown": 20
-  },
-  ">>>大门即将关闭 10 seconds<<<": {
-    "translation": "大门即将关闭 10 秒",
-    "countdown": 10
-  },
-  ">>>地图作者  ze探险家<<<": {
-    "translation": "地图作者 ze探险家"
+  "1": {
+    "rankPasses": 6,
+    "rankDamage": 24000,
+    "rankIntern": 0.46,
+    "econPasses": 3,
+    "econDamage": 26000,
+    "econIntern": 0.38
   }
 }
