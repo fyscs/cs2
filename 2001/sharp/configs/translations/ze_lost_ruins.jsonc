@@ -49,8 +49,7 @@
     "countdown": 30
   },
   "\"door open in 80s.\"": {
-    "translation": "门在80秒后开启",
-    "countdown": 80
+    "translation": "门在80秒后开启"
   },
   "\"author: diverse\"": {
     "translation": "作者diverse"
@@ -66,7 +65,6 @@
     "translation": "门已关闭"
   },
   "\"wall break in 70s.\"": {
-    "translation": "墙壁在70秒后破裂",
-    "countdown": 70
+    "translation": "墙壁在70秒后破裂"
   }
 }
