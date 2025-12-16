@@ -98,7 +98,7 @@
     "translation": "<< 快跳进水里 >>"
   },
   "<< ZOMBIE TP in 5 SEC!  >>": {
-    "translation": "<< 僵尸传送在 5 秒后传送! >>"
+    "translation": "<< 僵尸在 5 秒后传送! >>"
   },
   "<< PLATFORM LEAVING IN 25 SEC, DEFEND >>": {
     "translation": "<< 防守！ 平台将在 25 秒后离开 >>"
