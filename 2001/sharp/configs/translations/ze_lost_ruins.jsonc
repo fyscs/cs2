@@ -62,6 +62,7 @@
     "translation": "门已关闭"
   },
   "wall break in 70s.": {
-    "translation": "墙壁在70秒后破裂"
+    "translation": "墙壁在70秒后破裂",
+    "countdown": 70
   }
 }
