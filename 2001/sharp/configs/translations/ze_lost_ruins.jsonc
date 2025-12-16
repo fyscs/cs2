@@ -30,6 +30,7 @@
   },
   "wall break in 90s.": {
     "translation": "墙壁在90秒后破裂"
+    "countdown": 90
   },
   "wall breaked.": {
     "translation": "墙壁已破裂"
