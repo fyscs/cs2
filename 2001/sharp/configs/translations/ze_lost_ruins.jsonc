@@ -12,7 +12,7 @@
 {
   "door open in 60s.": {
     "translation": "门在60秒后开启",
-    "countdown": 60
+    "countdown": 101
   },
   "door opened.": {
     "translation": "门已开启"
