@@ -1,0 +1,176 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<< ROTOR STOPPING IN 5 SEC >>": {
+    "translation": "<< 乱转的柱子在 5 秒后停止 >>"
+  },
+  "<< ROTORS STOPPING IN 15 SEC >>": {
+    "translation": "<< 乱转的柱子在 15 秒后停止 >>"
+  },
+  "<< DEFEND YOUR TEAMMATES >>": {
+    "translation": "<< 帮老寒腿们开开枪 >>"
+  },
+  "<< DOOR BREAKING IN 15 SEC >>": {
+    "translation": "<< 门在 15 秒后破开 >>"
+  },
+  "<< DOOR BREAKING IN 5 SEC >>": {
+    "translation": "<< 门在 5 秒后破开 >>"
+  },
+  "<< MEME'S TOWER REACHED >>": {
+    "translation": "<< 有老登爬上了塔顶 >>"
+  },
+  "<< 30 SEC LEFT TO REACH THE TOP >>": {
+    "translation": "<< 还有 30 秒让老寒腿登塔 >>"
+  },
+  "<< CONGRATULATIONS....>>": {
+    "translation": "<< 恭喜....？ >>"
+  },
+  "<< PLEASE MEME.... >>": {
+    "translation": "<< 难道还有....? >>"
+  },
+  "<< 10 SECONDS >>": {
+    "translation": "<< 10 秒钟 >>"
+  },
+  "<< YOU ARE THE TRUE ESCAPERS >>": {
+    "translation": "<< 你是真正的身法老登 >>"
+  },
+  "<< CONGRATULATIONS >>": {
+    "translation": "<< 恭喜你逃离了梦魇 >>"
+  },
+  "<< MAP MADE BY ACME - THANKS TO MAPEADORES COMMUNITY AND TRLG >>": {
+    "translation": "<< 地图作者: ACME - 感谢 MAPEADORES 社区 和 TRLG >>"
+  },
+  "<< STAY ON THE GREY PLATFORMS >>": {
+    "translation": "<< 快站在灰色平台上 >>"
+  },
+  "<< OR YOU WILL GET DAMAGE >>": {
+    "translation": "<< 否则有你好受的 >>"
+  },
+  "<< ZOMBIE TP in 30 SEC >>": {
+    "translation": "<< 僵尸在 30 秒后传送 >>"
+  },
+  "<< ZOMBIE TP >>": {
+    "translation": "<< 僵尸传送 >>"
+  },
+  "<< DEFEND ON THE TOP FOR 35 SEC >>": {
+    "translation": "<< 在顶部防守 35 秒 >>"
+  },
+  "<< DEFEND FOR 15 SEC>>": {
+    "translation": "<< 防守 15 秒 >>"
+  },
+  "<< GLASS BREAKING IN 5 SEC>>": {
+    "translation": "<< 5 秒后玻璃破裂 >>"
+  },
+  "<< ZOMBIE TP in 5 SEC>>": {
+    "translation": "<< 僵尸在 5 秒后传送 >>"
+  },
+  "<< FOLLOW THE RULES!>>": {
+    "translation": "<< 抬头看，沿着铁栅栏内走 >>"
+  },
+  "<< STAGE 3 COMPLETED >>": {
+    "translation": "<< 关卡 3 完成 >>"
+  },
+  "<< STAGE 4: HARD: CLIMB THE MEME TOWER >>": {
+    "translation": "<< 关卡 4: 攻破身法梦魇之塔 >>"
+  },
+  "<< DOOR OPENING IN 15 SEC >>": {
+    "translation": "<< 门在 15 秒后开启 >>"
+  },
+  "<< DOOR OPENING IN 5 SEC >>": {
+    "translation": "<< 门在 5 秒后开启 >>"
+  },
+  "<< STAGE 2 COMPLETED >>": {
+    "translation": "<< 关卡 2 完成 >>"
+  },
+  "<< STAGE 3: MEDIUM >>": {
+    "translation": "<< 关卡 3: 困难的开始 >>"
+  },
+  "<< JUMP IN THE WATER >>": {
+    "translation": "<< 快跳进水里 >>"
+  },
+  "<< ZOMBIE TP in 5 SEC!  >>": {
+    "translation": "<< 僵尸传送在 5 秒后传送! >>"
+  },
+  "<< PLATFORM LEAVING IN 25 SEC, DEFEND >>": {
+    "translation": "<< 防守！ 平台将在 25 秒后离开 >>"
+  },
+  "<< PLATFORM LEAVING IN 5 SEC >>": {
+    "translation": "<< 平台将在 5 秒后离开 >>"
+  },
+  "<< PLATFORM LEAVING IN 10 SEC >>": {
+    "translation": "<< 平台将在 10 秒后离开 >>"
+  },
+  "<< DEFEND YOUR TEAMMATES FOR 40 SEC >>": {
+    "translation": "<< 帮老寒腿们防守 40 秒 >>"
+  },
+  "<< BREAKING EMERGENCY GLASS IN 15 SEC >>": {
+    "translation": "<< 15 秒后逃生玻璃破裂 >>"
+  },
+  "<< ZOMBIE SHORTCUT OPENED >>": {
+    "translation": "<< 僵尸捷径已开启 >>"
+  },
+  "<< ZOMBIES TAKE THE LADDER >>": {
+    "translation": "<< 僵尸爬到梯子了，赶快动动你的老寒腿 >>"
+  },
+  "<< CLOSING DOOR IN 25 SEC >>": {
+    "translation": "<< 门在 25 秒后关闭 >>"
+  },
+  "<< 5 SECONDS >>": {
+    "translation": "<< 5 秒钟 >>"
+  },
+  "<< STAGE 1: COMPLETED >>": {
+    "translation": "<< 关卡 1: 完成 >>"
+  },
+  "<< STAGE 2: EASY  >>": {
+    "translation": "<< 关卡 2: 普通的练手 >>"
+  },
+  "<< STAGE 2: EASY >>": {
+    "translation": "<< 关卡 2: 普通的练手 >>"
+  },
+  "<< TOUCH RING LIFE IF YOU < 100HP >>": {
+    "translation": "<< 低于 100 血可以碰这个环回血 >>",
+    "blocked": true
+  },
+  "<< DEFEND FOR 30 SEC >>": {
+    "translation": "<< 防守 30 秒 >>"
+  },
+  "<< DEFEND FOR 15 SEC >>": {
+    "translation": "<< 防守 15 秒 >>"
+  },
+  "<< STAY ON THE TOP BOX AND DEFEND  >>": {
+    "translation": "<< 站在箱子顶部防守 >>"
+  },
+  "<< 5 SECONDS  >>": {
+    "translation": "<< 5 秒钟 >>"
+  },
+  "<< DOOR OPENING, JUMP >>": {
+    "translation": "<< 开门啦, 快跳 >>"
+  },
+  "<< ZOMBIE TP IN 5 SECONDS >>": {
+    "translation": "<< 僵尸传送还有 5 秒钟 >>"
+  },
+  "<< DEFEND, DONT EDGE >>": {
+    "translation": "<< 防守, 不要贴边! >>"
+  },
+  "<< BOOST ENABLED >>": {
+    "translation": "<< 加速已开启 >>"
+  },
+  "<< Welcome to SKILL ESCAPE by acme>>": {
+    "translation": "<< 欢迎来到身法菜鸡的梦魇 作者: acme >>"
+  },
+  "<< STAGE 1: JUST A TRIM>>": {
+    "translation": "<< 关卡 1: 简单的热身 >>"
+  },
+  "<< Ported by proper>>": {
+    "translation": "<< 移植: proper, 文本: Kirin(麒麟) >>"
+  }
+}
