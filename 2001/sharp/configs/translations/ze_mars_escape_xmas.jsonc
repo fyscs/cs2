@@ -424,7 +424,8 @@
     "translation": "VIP已经死亡"
   },
   "***THE PIZZA IS AGGRESSIVE***": {
-    "translation": "披萨正在发动攻击"
+    "translation": "披萨正在发动攻击",
+    "blocked": true
   },
   "Locking heal while I fix the elevator...": {
     "translation": "维护电梯期间限制治疗"
