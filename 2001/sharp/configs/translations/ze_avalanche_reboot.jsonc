@@ -1,0 +1,268 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> STAGE 6 COMPLETED <<<": {
+    "translation": "第6关完成"
+  },
+  ">>> MAP RESTARTING <<<": {
+    "translation": "地图正在重启"
+  },
+  ">>> HOLD 5 SECONDS <<<": {
+    "translation": "坚守5秒"
+  },
+  ">>> HOLD 10 SECONDS <<<": {
+    "translation": "坚守10秒"
+  },
+  ">>> HOLD 15 SECONDS <<<": {
+    "translation": "坚守15秒"
+  },
+  ">>> HOLD 20 SECONDS <<<": {
+    "translation": "坚守20秒"
+  },
+  ">>> AFK TELEPORT IN 5 SECONDS <<<": {
+    "translation": "挂机玩家5秒后传送"
+  },
+  ">>> HOLD 25 SECONDS <<<": {
+    "translation": "坚守25秒"
+  },
+  ">>> 5 SECONDS LEFT <<<": {
+    "translation": "剩余5秒"
+  },
+  ">>> HOLD 30 SECONDS <<<": {
+    "translation": "坚守30秒"
+  },
+  ">>> HOLD 35 SECONDS <<<": {
+    "translation": "坚守35秒"
+  },
+  ">>> TELEPORT ACTIVATING IN 25 SECONDS <<<": {
+    "translation": "25秒后启动传送"
+  },
+  ">>> DOOR OPENS IN 25 SECONDS <<<": {
+    "translation": "大门25秒后开启"
+  },
+  ">>> WE HAVE TO BLOW UP THE ELECTRIC TOWER <<<": {
+    "translation": "我们必须摧毁电力塔"
+  },
+  ">>> FIND C4 <<<": {
+    "translation": "寻找C4"
+  },
+  ">>> C4 PICKED UP <<<": {
+    "translation": "已拾取C4"
+  },
+  ">>> BUTTON IS LOCKED  <<<": {
+    "translation": "按钮已锁定"
+  },
+  ">>> PRESS OTHER BUTTON TO UNLOCK <<<": {
+    "translation": "按下其他按钮解锁"
+  },
+  ">>> BOTH ELEVATORS CLOSE AND LEAVE IN 35 SECONDS <<<": {
+    "translation": "两部电梯将在35秒后关闭并离开"
+  },
+  ">>> AFK TELEPORT IN 10 SECONDS <<<": {
+    "translation": "挂机玩家10秒后传送"
+  },
+  ">>> BARRIER DOOR CLOSING IN 15 SECONDS <<<": {
+    "translation": "隔离门15秒后关闭"
+  },
+  ">>> ELECTRIC MACHINE STARTED UP SHOOT IT <<<": {
+    "translation": "电力机器已启动攻击它"
+  },
+  ">>> BOSS DEFEATED <<<": {
+    "translation": "BOSS已被击败"
+  },
+  ">>> DOOR OPENING IN 100 SECONDS <<<": {
+    "translation": "大门100秒后开启"
+  },
+  ">>> DOOR OPENING IN 70 SECONDS <<<": {
+    "translation": "大门70秒后开启"
+  },
+  ">>> REPAIR SHIELD ENABLED   DON'T SHOOT <<<": {
+    "translation": "修复护盾已启用不要射击"
+  },
+  ">>> ELECTRIC VORTEX ENABLED   GET ON SOMETHING <<<": {
+    "translation": "电力漩涡已启用站到高处"
+  },
+  ">>> ELECTRIC TORNADO ENABLED   CROUCH <<<": {
+    "translation": "电力龙卷已启用请蹲下"
+  },
+  ">>> ELECTRIC WAVE ENABLED <<<": {
+    "translation": "电力波已启用"
+  },
+  ">>> ELECTRIC GRAVITY ENABLED   HIDE SOMETHING <<<": {
+    "translation": "电力重力已启用寻找掩体"
+  },
+  ">>> Stage 1 - Normal <<<": {
+    "translation": "第一关 普通"
+  },
+  ">>> Map Made by Moray <<<": {
+    "translation": "地图作者:Moray 文本:Zeyu1"
+  },
+  ">>> Special Thanks : nano <<<": {
+    "translation": "特别感谢:nano"
+  },
+  ">>> Map Reboot by Glacius <<<": {
+    "translation": "地图重制:Glacius"
+  },
+  ">>> Map Finished by Ponya <<<": {
+    "translation": "地图完成:Ponya"
+  },
+  ">>> Stage 2 - Normal <<<": {
+    "translation": "第二关 普通"
+  },
+  ">>> Stage 3 - Normal <<<": {
+    "translation": "第三关 普通"
+  },
+  ">>> Stage 2 - Extreme <<<": {
+    "translation": "第二关 极限"
+  },
+  ">>> Stage 3 - Extreme <<<": {
+    "translation": "第三关 极限"
+  },
+  ">>> This Stage is Under Heavy Development! <<<": {
+    "translation": "该关卡仍在开发中"
+  },
+  ">>> Warmup Round! Map starting in 40 seconds. <<<": {
+    "translation": "热身回合地图40秒后开始"
+  },
+  ">>> 30 Seconds of Warmup Remaining <<<": {
+    "translation": "热身剩余30秒"
+  },
+  ">>> 20 Seconds of Warmup Remaining <<<": {
+    "translation": "热身剩余20秒"
+  },
+  ">>> 10 Seconds of Warmup Remaining <<<": {
+    "translation": "热身剩余10秒"
+  },
+  ">>> Warmup Ending - Map Starting <<<": {
+    "translation": "热身结束地图开始"
+  },
+  ">>> DOOR CLOSING IN 25 SECONDS <<<": {
+    "translation": "大门25秒后关闭"
+  },
+  ">>> BOSS IS ARRIVED <<<": {
+    "translation": "BOSS已出现"
+  },
+  ">>> BOSS POWERED UP <<<": {
+    "translation": "BOSS已强化自身"
+  },
+  ">>> BOSS USED BEAM <<<": {
+    "translation": "超聚能光束"
+  },
+  ">>> BOSS USED REPAIR SHIELD <<<": {
+    "translation": "能量吸收"
+  },
+  ">>> BOSS USED HEAL <<<": {
+    "translation": "自身治愈"
+  },
+  ">>> BOSS USED GRAVITY <<<": {
+    "translation": "死亡抓取"
+  },
+  ">>> BOSS USED CLIFF <<<": {
+    "translation": "首领使用悬崖技能"
+  },
+  ">>> FAIL ROUND <<<": {
+    "translation": "回合失败"
+  },
+  ">>> STAGE 1 COMPLETED <<<": {
+    "translation": "第一关 完成"
+  },
+  ">>> STAGE 4 COMPLETED <<<": {
+    "translation": "第四关 完成"
+  },
+  ">>> STAGE 2 COMPLETED <<<": {
+    "translation": "第二关 完成"
+  },
+  ">>> STAGE 5 COMPLETED <<<": {
+    "translation": "第五关 完成"
+  },
+  ">>> FIND C4 TO MAKE PASSAGE <<<": {
+    "translation": "寻找C4打开通道"
+  },
+  ">>> DEFEND UNTIL RESCUE COMES <<<": {
+    "translation": "坚守直到救援到来"
+  },
+  ">>> STAGE 3 COMPLETED <<<": {
+    "translation": "第3关卡完成"
+  },
+  ">>> SECURITY DOOR IS CLOSED <<<": {
+    "translation": "安全门已关闭"
+  },
+  ">>> GO CONTROL ROOM TO UNLOCK <<<": {
+    "translation": "前往控制室解锁"
+  },
+  ">>> ADMIN CHANGED TO STAGE 3 - EXTREME MODE <<<": {
+    "translation": "管理员切换至-关卡3极限模式"
+  },
+  ">>> C4 EXPLODE IN 10 SECONDS <<<": {
+    "translation": "C4将在10秒后爆炸"
+  },
+  ">>> ADMIN PRESSED KILL ALL BUTTON <<<": {
+    "translation": "管理员正在重启回合"
+  },
+  ">>> ADMIN CHANGED TO STAGE 2 - EXTREME MODE <<<": {
+    "translation": "管理员切换至-关卡2极限模式"
+  },
+  ">>> ADMIN CHANGED TO STAGE 3 - NORMAL MODE <<<": {
+    "translation": "管理员切换至-关卡3普通模式"
+  },
+  ">>> ADMIN CHANGED TO STAGE 1 - EXTREME MODE <<<": {
+    "translation": "管理员切换至-关卡1极限模式"
+  },
+  ">>> ADMIN CHANGED TO STAGE 2 - NORMAL MODE <<<": {
+    "translation": "管理员切换至-关卡2普通模式"
+  },
+  ">>> ADMIN CHANGED TO STAGE 1 - NORMAL MODE <<<": {
+    "translation": "管理员切换至-关卡1普通模式"
+  },
+  ">>> MACHINE ERROR WATCH OUT FOR EXPLOSION  <<<": {
+    "translation": "机器故障注意爆炸"
+  },
+  ">>> BUTTON UNLOCKED <<<": {
+    "translation": "按钮已解锁"
+  },
+  ">>> C4 EXPLODE IN 20 SECONDS <<<": {
+    "translation": "C4将在20秒后爆炸"
+  },
+  ">>> ELEVATOR STOPPED GO TO PRESS BUTTON <<<": {
+    "translation": "电梯已停止前往按按钮"
+  },
+  ">>> PLAYER PICKED WIND BLASTER <<<": {
+    "translation": "玩家拾取风能武器"
+  },
+  ">>> PLAYER PICKED ICY VORTEX <<<": {
+    "translation": "玩家拾取寒冰漩涡"
+  },
+  ">>> PLAYER PICKED ELECTRIC BEAM CANNON <<<": {
+    "translation": "玩家拾取电力光束炮"
+  },
+  ">>> HELICOPTER IS LEAVING <<<": {
+    "translation": "直升机正在离开"
+  },
+  ">>> DEFEND MORE <<<": {
+    "translation": "继续防守"
+  },
+  ">>> PLAYER PICKED FLAME BEAM CANNON <<<": {
+    "translation": "玩家拾取火焰光束炮"
+  },
+  ">>> PLAYER PICKED VENOM BEAM CANNON <<<": {
+    "translation": "玩家拾取毒素光束炮"
+  },
+  ">>> PLAYER PICKED BLUE SPARK <<<": {
+    "translation": "玩家拾取蓝色火花"
+  },
+  ">>> PLAYER PICKED HEAL <<<": {
+    "translation": "玩家拾取治疗"
+  },
+  ">>> PLAYER PICKED AMMO <<<": {
+    "translation": "玩家拾取弹药"
+  }
+}

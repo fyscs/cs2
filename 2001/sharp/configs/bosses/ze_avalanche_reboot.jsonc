@@ -1,0 +1,52 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "bosslvl5_end_counter",
+      "hitbox": "bosslvl5_end_hit",
+      "display": "猎杀者"
+    },
+    {
+      "iterator": "bosslvl3_counter1",
+      "backup": "bosslvl3_counter2",
+      "counter": "bosslvl3_counter3",
+      "hitbox": "bosslvl3_hit",
+      "display": "核心"
+    },
+    {
+      "iterator": "bosslvl1_4_counter1",
+      "backup": "bosslvl1_4_counter2",
+      "counter": "bosslvl1_4_counter3",
+      "hitbox": "bosslvl1_4_hit",
+      "display": "泰坦"
+    },
+    {
+      "iterator": "bosslvl2_5_counter1",
+      "backup": "bosslvl2_5_counter2",
+      "counter": "bosslvl2_5_counter3",
+      "hitbox": "bosslvl2_5_hit",
+      "display": "战蝎"
+    }
+  ]
+}
