@@ -29,12 +29,26 @@
     {
       "target": "BridgeSephirothHitbox",
       "display": "萨菲罗斯"
+    },
+    {
+      "target": "BahaHitbox",
+      "display": "Baha"
     }
   ],
   "Counters": [
     {
-      "iterator": "BahamutHealth_Counter",
-      "display": "超大圣诞老人"
+      "iterator": "counter_rtv_boss_vida",
+      "mass": 60,
+      "hitbox": "break_st4_boss_hitbox",
+      "counter": "counter_rtv_hp_bar",
+      "display": "方块rt"
+    },
+    {
+      "iterator": "counter_st4_boss_vida",
+      "mass": 60,
+      "hitbox": "break_st4_boss_hitbox",
+      "counter": "counter_st4_boss_vida_bar",
+      "display": "方块st4"
     }
   ],
   "Monsters": [
@@ -45,6 +59,22 @@
     {
       "display": "长条",
       "identity": "3399"
+    },
+    {
+      "identity": "77237",
+      "display": "npc"
+    },
+    {
+      "identity": "77212",
+      "display": "npc"
+    },
+    {
+      "identity": "77198",
+      "display": "npc"
+    },
+    {
+      "identity": "77191",
+      "display": "npc"
     }
   ]
 }
