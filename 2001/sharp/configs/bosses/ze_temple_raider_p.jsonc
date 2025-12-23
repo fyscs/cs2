@@ -24,6 +24,8 @@
   "Counters": [
     {
       "iterator": "Boss_Health",
+      "counter": "boss_hp_bar_counter",
+      "mass": 50,
       "hitbox": "Boss_Armor_Break",
       "display": "岩浆巨龙"
     },
