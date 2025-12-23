@@ -11,34 +11,34 @@
 
 {
   ">>A player has learned an ability from White Mage <<": {
-    "translation": "一位玩家成为了白魔法师（初始默认为冰冻效果，抬头E可切换为奶）"
+    "translation": "一位玩家成为了白魔法师(初始默认为冰冻效果,抬头E可切换为奶)"
   },
   ">>A player has learned an ability from Astrologian <<": {
-    "translation": "一位玩家成为了占星术士（初始默认为奶，抬头按E可切换为引力)"
+    "translation": "一位玩家成为了占星术士(初始默认为奶,抬头按E可切换为引力)"
   },
   ">>A player has learned an ability from Bard<<": {
-    "translation": "一位玩家成为了吟游诗人（初始默认为弹药，抬头E可切换为加速)"
+    "translation": "一位玩家成为了吟游诗人(初始默认为弹药,抬头E可切换为加速)"
   },
   ">>Revelation<<": {
-    "translation": "天启(躲避脚底特效天谴）"
+    "translation": "天启(躲避脚底特效天谴)"
   },
   ">>Shield<<": {
     "translation": "护盾"
   },
   ">>Gravity<<": {
-    "translation": "引力（抵抗面前吸力）"
+    "translation": "引力(抵抗面前吸力)"
   },
   ">>Fountain of Fire<<": {
-    "translation": "灵泉之炎（全屏范围伤害）"
+    "translation": "灵泉之炎(全屏范围伤害)"
   },
   ">>BrandofPurgatory<<": {
-    "translation": "炼狱之炎（躲避被点名人员脚底黄色特效）"
+    "translation": "炼狱之炎(躲避被点名人员脚底黄色特效)"
   },
   ">>FlamesofUnforgiveness<<": {
     "translation": "炼狱之燎火"
   },
   ">>A player has picked up Electric <<": {
-    "translation": "一名玩家已捡起电（按E使用，减速并对范围内僵尸造成伤害）"
+    "translation": "一名玩家已捡起电(按E使用,减速并对范围内僵尸造成伤害)"
   },
   ">>A zombie got some power from Ifrit<<": {
     "translation": "一位僵尸获得了火神伊弗利特的力量"
@@ -50,16 +50,16 @@
     "translation": "一位僵尸获得了雷神拉姆的力量"
   },
   ">> Gleaming steel, take fire and descend! <<": {
-    "translation": "钢铁燃烧吧!成为我降临于此的刀剑吧!（远离boss，规避boss内场攻击）"
+    "translation": "钢铁燃烧吧!成为我降临于此的刀剑吧!(远离boss,规避boss内场攻击)"
   },
   ">> Gleaming steel, plunge and take fiery edge! <<": {
-    "translation": "钢铁成为我降临于此的燃烧之剑!（远离boss，规避boss内场攻击）"
+    "translation": "钢铁成为我降临于此的燃烧之剑!(远离boss,规避boss内场攻击)"
   },
   ">> From red moon I draw steel, in my descent to bare! <<": {
-    "translation": "我自月而来携钢铁降临于此!（优先靠近boss，待外场特效消失后，第一时间远离boss，规避boss内场攻击）"
+    "translation": "我自月而来携钢铁降临于此!(优先靠近boss,待外场特效消失后,第一时间远离boss,规避boss内场攻击)"
   },
   ">> From red moon I descend, upon burning earth to tread! <<": {
-    "translation": "我自月而来降临于此,踏过炽热之地!（靠近boss，规避外场攻击）"
+    "translation": "我自月而来降临于此,踏过炽热之地!(靠近boss,规避外场攻击)"
   },
   ">>From red moon I descend, a hail of stars to bring! <<": {
     "translation": "我自月而来降临于此,召唤星降之夜!"
@@ -110,34 +110,34 @@
     "translation": "激发"
   },
   ">> Piercing Laser <<": {
-    "translation": "激光（靠近boss球体，躲避伤害）"
+    "translation": "激光(靠近boss球体,躲避伤害)"
   },
   ">> Repelling Cannon <<": {
-    "translation": "加农炮（远离boss球体，躲避伤害）"
+    "translation": "加农炮(远离boss球体,躲避伤害)"
   },
   ">>A zombie got some power from Titan<<": {
     "translation": "一位僵尸获得了土神泰坦的力量"
   },
   ">>A player has learned an ability from Scholar<<": {
-    "translation": "一位玩家成为了学者（初始默认为奶，抬头E可切换为环形风）"
+    "translation": "一位玩家成为了学者(初始默认为奶,抬头E可切换为环形风)"
   },
   ">>Collision<<": {
     "translation": "俯冲"
   },
   "|||No.1 Lunar Dynamo|||": {
-    "translation": "月流电圈（靠近boss，躲避外场红色特效）"
+    "translation": "月流电圈(靠近boss,躲避外场红色特效)"
   },
   "|||No.1 Iron Chariot|||": {
-    "translation": "钢铁战车（远离boss，躲避中心红色特效）"
+    "translation": "钢铁战车(远离boss,躲避中心红色特效)"
   },
   ">>Iron Chariot<<": {
-    "translation": "钢铁战车（远离boss，躲避中心红色特效）"
+    "translation": "钢铁战车(远离boss,躲避中心红色特效)"
   },
   ">>Dalamud Dive<<": {
     "translation": "月华冲"
   },
   ">>Lunar Dynamo<<": {
-    "translation": "月流电圈（靠近boss，躲避外场红色特效）"
+    "translation": "月流电圈(靠近boss,躲避外场红色特效)"
   },
   ">>Million Nuclear Explosionst<<": {
     "translation": "百万核爆"
