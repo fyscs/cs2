@@ -121,5 +121,101 @@
   },
   "“***！就差一点了！”": {
     "translation": "***!就差一点了!"
+  },
+  "“40s”": {
+    "translation": "门还有40秒",
+    "countdown": 40
+  },
+  "“20s”": {
+    "translation": "门还有40秒",
+    "countdown": 20
+  },
+  "技术员：“区域电力已恢复(17s)”": {
+    "translation": "区域电力将在17秒后恢复",
+    "countdown": 17
+  },
+  "技术员：“35s”": {
+    "translation": "还有35秒!",
+    "countdown": 35
+  },
+  "技术员：“完事了，可以后撤！45s后撤退路开”": {
+    "translation": "45秒后撤退路开",
+    "countdown": 45
+  },
+  "技术员：“25s”": {
+    "translation": "还有25秒",
+    "countdown": 25
+  },
+  "“最后5s”": {
+    "translation": "最后5秒!",
+    "countdown": 5
+  },
+  "“35s”": {
+    "translation": "还有35秒",
+    "countdown": 35
+  },
+  "技术员：“15s”": {
+    "translation": "还有15秒",
+    "countdown": 15
+  },
+  "技术员：“25s”": {
+    "translation": "还有25秒",
+    "countdown": 25
+  },
+  "最后10s": {
+    "translation": "最后10秒!",
+    "countdown": 10
+  },
+  "20s": {
+    "translation": "还有20秒",
+    "countdown": 20
+  },
+  "准备进入（10s）": {
+    "translation": "10秒后进入",
+    "countdown": 10
+  },
+  "“电闸已打开！（60s）": {
+    "translation": "电闸已打开,还有60秒",
+    "countdown": 60
+  },
+  "技术员：“餐厅的门需要权限，我植入病毒起作用要60s”": {
+    "translation": "60秒后破解餐厅门",
+    "countdown": 60
+  },
+  "技术员：“快完事了（最后10s）”": {
+    "translation": "最后10s",
+    "countdown": 10
+  },
+  "“准备动身……（最后10s）”": {
+    "translation": "10秒后动身",
+    "countdown": 10
+  },
+  "“15s”": {
+    "translation": "还有15秒",
+    "countdown": 15
+  },
+  "“最后10s”": {
+    "translation": "最后10秒!",
+    "countdown": 10
+  },
+  "“10s”": {
+    "translation": "还有10秒",
+    "countdown": 10
+  },
+  "“45s”": {
+    "translation": "还有45秒",
+    "countdown": 45
+  },
+  "“撤退路15s后开”": {
+    "translation": "撤退路15秒后开",
+    "countdown": 15
+  },
+  "“撤退路10s后开”": {
+    "translation": "撤退路10秒后开",
+    "countdown": 10
+  },
+  "“最后15s”": {
+    "translation": "最后15秒!",
+    "countdown": 15
   }
 }
