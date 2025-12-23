@@ -11,36 +11,36 @@
 
 {
   "*** Get going before the platform breaks! Hurry! ***": {
-    "translation": "*** 快点! 在平台破裂之前快走! ***"
+    "translation": "快点! 在平台破裂之前快走!"
   },
   "*** Platforms will begin rising in 15 seconds! ***": {
-    "translation": "*** 平台将在 15 秒后开始上升! ***"
+    "translation": "平台将在 15 秒后开始上升!"
   },
   "*** Get in the center! ***": {
-    "translation": "*** 到中间去! ***"
+    "translation": "到中间去!"
   },
   "*** Wall breaks in 20 seconds. ***": {
-    "translation": "*** 墙壁将在 20 秒后破裂. ***"
+    "translation": "墙壁将在 20 秒后破裂."
   },
   "*** Move! ***": {
-    "translation": "*** 赶快跑喔! ***"
+    "translation": "赶快跑喔!"
   },
   "*** Slowpoke teleport in 15 seconds.***": {
-    "translation": "*** 老寒腿们将在 15 秒后被传送. ***"
+    "translation": "老寒腿们将在 15 秒后被传送."
   },
   "*** Second teleport in 20 seconds! Don't stay behind. ***": {
-    "translation": "*** 第二次传送将在 20 秒后进行! 不要掉队了. ***"
+    "translation": "第二次传送将在 20 秒后进行! 不要掉队了."
   },
   "*** Final glass window will open in 50 seconds... ***": {
-    "translation": "*** 最终的玻璃窗将在 50 秒后打开... ***"
+    "translation": "最终的玻璃窗将在 50 秒后打开..."
   },
   "*** Glass window is opening in 15 seconds. ***": {
-    "translation": "*** 玻璃窗将在 15 秒后打开. ***"
+    "translation": "玻璃窗将在 15 秒后打开."
   },
   "*** Glass window is opening in 5 seconds! Get ready! ***": {
-    "translation": "*** 玻璃窗将在 5 秒后打开! 准备好! ***"
+    "translation": "玻璃窗将在 5 秒后打开! 准备好!"
   },
   "*** Deadly gas launched! 10 seconds until glass door is sealed! ***": {
-    "translation": "*** 沙林毒气已释放! 玻璃门将在 10 秒后关闭! ***"
+    "translation": "沙林毒气已释放! 玻璃门将在 10 秒后关闭!"
   }
 }
