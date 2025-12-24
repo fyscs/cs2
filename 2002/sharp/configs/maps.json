@@ -368,6 +368,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ttt_highrise_ego": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ttt_highschool": {
     "admin": false,
     "certainTimes": [-1],
