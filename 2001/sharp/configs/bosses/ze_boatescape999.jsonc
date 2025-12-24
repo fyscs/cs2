@@ -21,7 +21,7 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-    "Breakables": [
+  "Breakables": [
     {
       "target": "Mode_8_Chaos_Box",
       "display": "Chaos",
