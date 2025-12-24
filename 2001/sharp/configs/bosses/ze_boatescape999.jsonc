@@ -21,10 +21,42 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Monsters": [
+    "Breakables": [
     {
-      "identity": "2188",
-      "display": "琪露诺"
+      "target": "Mode_8_Chaos_Box",
+      "display": "Chaos",
+    },
+    {
+      "target": "Mode_12_Sephiroth_Box",
+      "display": "Sephiroth",
+    },
+    {
+      "target": "Mode_5_Genesis_Box",
+      "display": "Genesis"
+    },
+    {
+      "target": "St2_Byakko_Final_Hitbox",
+      "display": "Byakko",
+    },
+    {
+      "target": "Mode_7_Zodiark_Box",
+      "display": "Zodiark"
+    },
+    {
+      "target": "Mode_1_Bahamut_Box",
+      "display": "Bahamut",
+    },
+    {
+      "target": "Mode_2_Sephiroth_Box",
+      "display": "Sephiroth"
+    },
+    {
+      "target": "Mode_13_Guard_Box",
+      "display": "Guard"
+    },
+    {
+      "target": "Item_Cirno_Box",
+      "display": "Cirno"
     }
   ]
 }
