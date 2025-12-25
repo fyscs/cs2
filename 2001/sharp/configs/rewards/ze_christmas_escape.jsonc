@@ -16,7 +16,7 @@
     "rankPasses": 9,
     "rankDamage": 22000,
     "rankIntern": 0.48,
-    "econPasses": 70,
+    "econPasses": 7,
     "econDamage": 24000,
     "econIntern": 0.34
   },
@@ -24,7 +24,7 @@
     "rankPasses": 5,
     "rankDamage": 18000,
     "rankIntern": 0.55,
-    "econPasses": 30,
+    "econPasses": 3,
     "econDamage": 20000,
     "econIntern": 0.4
   }
