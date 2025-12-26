@@ -22,17 +22,7 @@
     "countdown": 60
   },
   "门开了快走！！！": {
-    "translation": "门开了快走"
-  },
-  "坚守65秒！！！撑住我们才刚刚开始": {
-    "translation": "坚守65秒",
-    "countdown": 65
-  },
-  "门开了撤退": {
-    "translation": "门开了撤退"
-  },
-  "快跳上去！": {
-    "translation": "快跳上去!"
+    "translation": "门开了"
   },
   "守住40秒": {
     "translation": "守住40秒",
@@ -41,31 +31,25 @@
   "门开了": {
     "translation": "门开了"
   },
-  "快滑坚守105秒": {
-    "translation": "坚守105秒"
+  "快滑坚守60秒": {
+    "translation": "坚守60秒",
+    "countdown": 60
   },
   "僵尸传送了": {
     "translation": "僵尸传送了"
   },
-  "僵尸还有25秒传送": {
-    "translation": "僵尸还有25秒传送",
-    "countdown": 25
+  "僵尸还有20秒传送": {
+    "translation": "僵尸还有20秒传送",
+    "countdown": 20
   },
-  "喜欢刷？那就刷他  还有90秒": {
-    "translation": "还有90秒",
-    "countdown": 90
-  },
-  "温馨小提示不去后面是不会触发传送的": {
-    "translation": "温馨小提示:不去后面是不会触发传送的"
-  },
-  "不要偷跑哦~~~": {
-    "translation": "不要偷跑哦"
+  "喜欢刷？那就刷他  还有120秒": {
+    "translation": "还有120秒"
   },
   "门开了快走": {
-    "translation": "门开了快走"
+    "translation": "门开了"
   },
   "欣赏一下校长的花园吧马上就要撤离了": {
-    "translation": "欣赏一下校长的花园吧,马上就要撤离了"
+    "translation": "马上就要撤离了"
   },
   "对了坚持50秒哦~": {
     "translation": "坚持50秒",
@@ -78,9 +62,6 @@
     "translation": "坚持40秒!",
     "countdown": 40
   },
-  "道具全交！！！！！！！守住！！！！": {
-    "translation": "道具全交!守住!"
-  },
   "最后50秒": {
     "translation": "最后50秒",
     "countdown": 50
@@ -88,11 +69,22 @@
   "门碎了": {
     "translation": "门碎了"
   },
-  "我们安全了欢迎回家": {
-    "translation": "我们安全了欢迎回家"
-  },
   "感谢大家游玩作者：一只秋": {
-    "translation": "感谢大家游玩作者:一只秋"
+    "translation": "感谢大家游玩,作者:一只秋"
+  },
+  "我们安全了欢迎回家": {
+    "translation": "我们安全了"
+  },
+  "快爬！！！！！！！！！！！": {
+    "translation": "快爬!"
+  },
+  "还有45秒就回不去了": {
+    "translation": "还有45秒",
+    "countdown": 45
+  },
+  "超级老板：纯鲨比  阿撒馄饨": {
+    "translation": "超级老板:纯鲨比  阿撒馄饨",
+    "blocked": true
   },
   "找到三个按钮": {
     "translation": "找到三个按钮"
@@ -100,5 +92,50 @@
   "僵尸10秒传送": {
     "translation": "僵尸10秒传送",
     "countdown": 10
+  },
+  "感谢常正类人": {
+    "translation": "感谢常正类人",
+    "blocked": true
+  },
+  "琪亚娜": {
+    "translation": "琪亚娜",
+    "blocked": true
+  },
+  "一曲悲歌照幽梦": {
+    "translation": "一曲悲歌照幽梦",
+    "blocked": true
+  },
+  "香香阿花": {
+    "translation": "香香阿花",
+    "blocked": true
+  },
+  "樱落": {
+    "translation": "樱落",
+    "blocked": true
+  },
+  "炫叽歪": {
+    "translation": "炫叽歪",
+    "blocked": true
+  },
+  "科比布莱恩": {
+    "translation": "科比布莱恩",
+    "blocked": true
+  },
+  "接下来出发吧": {
+    "translation": "接下来出发吧"
+  },
+  "柑龙": {
+    "translation": "柑龙",
+    "blocked": true
+  },
+  "有人触发了！！！": {
+    "translation": "有人触发了"
+  },
+  "等等你们队友不要抛弃他们": {
+    "translation": "等等你们队友不要抛弃他们"
+  },
+  "还有40秒": {
+    "translation": "还有40秒",
+    "countdown": 40
   }
 }

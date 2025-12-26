@@ -23,22 +23,13 @@
 {
   "Counters": [
     {
-      "iterator": "Boss_Health",
-      "counter": "boss_hp_bar_counter",
-      "mass": 50,
-      "hitbox": "Boss_Armor_Break",
-      "display": "岩浆巨龙"
+      "iterator": "boss2_counter",
+      "hitbox": "boss2_hitbox",
+      "display": "Boss"
     },
     {
-      "iterator": "End_Boss_Health",
-      "hitbox": "End_Boss_Armor",
-      "display": "巨型飞船"
-    }
-  ],
-  "Monsters": [
-    {
-      "identity": "2598",
-      "display": "障碍物"
+      "iterator": "white_boss_hp",
+      "display": "white_boss"
     }
   ]
 }

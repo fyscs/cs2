@@ -23,22 +23,30 @@
 {
   "Counters": [
     {
-      "iterator": "Boss_Health",
-      "counter": "boss_hp_bar_counter",
-      "mass": 50,
-      "hitbox": "Boss_Armor_Break",
-      "display": "岩浆巨龙"
+      "iterator": "bosslvl5_end_counter",
+      "hitbox": "bosslvl5_end_hit",
+      "display": "猎杀者"
     },
     {
-      "iterator": "End_Boss_Health",
-      "hitbox": "End_Boss_Armor",
-      "display": "巨型飞船"
-    }
-  ],
-  "Monsters": [
+      "iterator": "bosslvl3_counter1",
+      "backup": "bosslvl3_counter2",
+      "counter": "bosslvl3_counter3",
+      "hitbox": "bosslvl3_hit",
+      "display": "核心"
+    },
     {
-      "identity": "2598",
-      "display": "障碍物"
+      "iterator": "bosslvl1_4_counter1",
+      "backup": "bosslvl1_4_counter2",
+      "counter": "bosslvl1_4_counter3",
+      "hitbox": "bosslvl1_4_hit",
+      "display": "泰坦"
+    },
+    {
+      "iterator": "bosslvl2_5_counter1",
+      "backup": "bosslvl2_5_counter2",
+      "counter": "bosslvl2_5_counter3",
+      "hitbox": "bosslvl2_5_hit",
+      "display": "战蝎"
     }
   ]
 }
