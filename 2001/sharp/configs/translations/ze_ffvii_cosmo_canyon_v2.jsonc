@@ -145,14 +145,14 @@
     "countdown": 25
   },
   "**The airship is right here...**": {
-    "translation": "飞空艇就在这里..."
+    "translation": "飞船就在这里..."
   },
   "**The airship to Shinra will arrive in 25 seconds**": {
-    "translation": "前往神罗的飞空艇将在25秒后到达",
+    "translation": "前往神罗的飞船将在25秒后到达",
     "countdown": 25
   },
   "**The airship to Shinra will arrive in 35 seconds**": {
-    "translation": "前往神罗的飞空艇将在35秒后到达",
+    "translation": "前往神罗的飞船将在35秒后到达",
     "countdown": 35
   },
   "**ZE_FFVII_COSMO_CANYON**": {
