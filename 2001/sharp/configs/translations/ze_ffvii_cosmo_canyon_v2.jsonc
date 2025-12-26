@@ -1,0 +1,348 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "[Shinra Base] Zombie support has arrived.": {
+    "translation": "[神罗基地] 僵尸已到达"
+  },
+  "**A player has picked up HEAL materia**": {
+    "translation": "一名玩家拾取了治疗"
+  },
+  "**A player has picked up BIO materia**": {
+    "translation": "一名玩家拾取了毒"
+  },
+  "**A player has picked up BOMB summon**": {
+    "translation": "一名玩家拾取了炸弹精灵"
+  },
+  "**The Bomb was summoned**": {
+    "translation": "炸弹精灵已被召唤"
+  },
+  "**A player has picked up Cactus summon**": {
+    "translation": "一名玩家拾取了仙人掌"
+  },
+  "**The Cactuar was summoned**": {
+    "translation": "仙人掌已被召唤"
+  },
+  "**A player has picked up ULTIMA materia**": {
+    "translation": "一名玩家拾取了终极"
+  },
+  "**A player has picked up EARTH materia**": {
+    "translation": "一名玩家拾取了土"
+  },
+  "**A player has picked up FIRE materia**": {
+    "translation": "一名玩家拾取了火"
+  },
+  "**A player has picked up ELECTRO materia**": {
+    "translation": "一名玩家拾取了电"
+  },
+  "**A player has picked up GRAVITY materia**": {
+    "translation": "一名玩家拾取了黑洞"
+  },
+  "**A player has picked up WIND materia**": {
+    "translation": "一名玩家拾取了风"
+  },
+  "**A player has picked up SLEEP materia**": {
+    "translation": "一名玩家拾取了睡"
+  },
+  "**...Are you surprised?...**": {
+    "translation": "你很惊讶吗?"
+  },
+  "**...Didn't you expect me?...**": {
+    "translation": "没想到是我吧?"
+  },
+  "**...Oh okay i'm disappearing...**": {
+    "translation": "好吧,我要走了"
+  },
+  "**Zombie cactus has been picked up**": {
+    "translation": "僵尸仙人掌已被拾取"
+  },
+  "**You have failed**": {
+    "translation": "你们失败了"
+  },
+  "**He is dead. KEEP GOING**": {
+    "translation": "他死了,快跑"
+  },
+  "**THE WINNERS HAD SELECTED THE MODE**": {
+    "translation": "胜利者已选择模式"
+  },
+  "**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**": {
+    "translation": "管理员更改了地图难度"
+  },
+  "**We got the power. The gates will open in 15 seconds**": {
+    "translation": "电力已恢复,大门将在15秒后开启",
+    "countdown": 15
+  },
+  "**The power is lost. Defend until the emergency generators are on**": {
+    "translation": "电力中断,防守直到应急发电机启动"
+  },
+  "**Ifrit is defeated. Get back in the elevator**": {
+    "translation": "伊芙利特被击败,回到电梯"
+  },
+  "** Nades do more damage. **": {
+    "translation": "手雷会造成更多伤害"
+  },
+  "**Shinra gates will open in 20 seconds**": {
+    "translation": "神罗大门将在20秒后开启",
+    "countdown": 20
+  },
+  "**Wait 5 more seconds**": {
+    "translation": "再等5秒"
+  },
+  "**The gates will open in 35 seconds**": {
+    "translation": "大门将在35秒后开启",
+    "countdown": 35
+  },
+  "**Shinra gates will open in 30 seconds**": {
+    "translation": "神罗大门将在30秒后开启",
+    "countdown": 30
+  },
+  "**The gates will open in 40 seconds**": {
+    "translation": "大门将在40秒后开启",
+    "countdown": 40
+  },
+  "**The gates will open in 20 seconds**": {
+    "translation": "大门将在20秒后开启",
+    "countdown": 20
+  },
+  "**The gates will open in 15 seconds**": {
+    "translation": "大门将在15秒后开启",
+    "countdown": 15
+  },
+  "**The elevator will leave in 15 seconds**": {
+    "translation": "电梯将在15秒后离开",
+    "countdown": 15
+  },
+  "**Cover here for 10 seconds before we clear this obstacle**": {
+    "translation": "在此防守10秒后障碍将被清除"
+  },
+  "**Cover here for 20 seconds before we clear this obstacle**": {
+    "translation": "在此防守20秒后障碍将被清除"
+  },
+  "**Welcome to Cosmo Canyon**": {
+    "translation": "欢迎来到宇宙峡谷"
+  },
+  "**We are near Cosmo Canyon**": {
+    "translation": "我们接近宇宙峡谷了"
+  },
+  "**The gates will open in 30 seconds**": {
+    "translation": "大门将在30秒后开启",
+    "countdown": 30
+  },
+  "**The rock will explode in 35 seconds**": {
+    "translation": "岩石将在35秒后爆炸",
+    "countdown": 35
+  },
+  "**The rock will explode in 25 seconds**": {
+    "translation": "岩石将在25秒后爆炸",
+    "countdown": 25
+  },
+  "**The airship is right here...**": {
+    "translation": "飞船就在这里..."
+  },
+  "**The airship to Shinra will arrive in 25 seconds**": {
+    "translation": "前往神罗的飞船将在25秒后到达",
+    "countdown": 25
+  },
+  "**The airship to Shinra will arrive in 35 seconds**": {
+    "translation": "前往神罗的飞船将在35秒后到达",
+    "countdown": 35
+  },
+  "**ZE_FFVII_COSMO_CANYON**": {
+    "translation": "最终幻想7:宇宙峡谷v2"
+  },
+  "**Map by Headshooter.SC & HaRyDe**": {
+    "translation": "地图作者: Headshooter.SC & HaRyDe 文本翻译: 小学生"
+  },
+  "** Models & animations by Batnik_ref.smd **": {
+    "translation": "模型与动画制作: Batnik_ref.smd",
+    "blocked": true
+  },
+  "**Thanks to Weed-Lancer for tons of grammar errors fix**": {
+    "translation": "感谢Weed-Lancer修复大量语法错误",
+    "blocked": true
+  },
+  "**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**": {
+    "translation": "僵尸来了,防守25秒酒馆后我们从后门撤退",
+    "countdown": 25
+  },
+  "**FALL BACK**": {
+    "translation": "撤退"
+  },
+  "**5 SECONDS LEFT**": {
+    "translation": "剩余5秒"
+  },
+  "**The gates will open in 25 seconds**": {
+    "translation": "大门将在25秒后开启",
+    "countdown": 25
+  },
+  "**The Cave of the GI gates will open in 15 seconds**": {
+    "translation": "吉族洞窟大门将在15秒后开启",
+    "countdown": 15
+  },
+  "**Wait until something happens**": {
+    "translation": "防守到一些事情发生"
+  },
+  "**GI Nattak arena will open in 35 seconds**": {
+    "translation": "吉纳塔克竞技场将在35秒后开启",
+    "countdown": 35
+  },
+  "**Nades do more damage. Use them!**": {
+    "translation": "手雷会造成更多伤害"
+  },
+  "**Some of the items can affect him. Use them!**": {
+    "translation": "某些神器可以影响他,使用这些神器!"
+  },
+  "**Gi Nattack is using ultima. Shoot him faster**": {
+    "translation": "吉纳塔克正在使用终极,快开枪啊"
+  },
+  "**Gi Nattak is using fire**": {
+    "translation": "吉纳塔克正在使用火"
+  },
+  "**Gi Nattak is using gravity**": {
+    "translation": "吉纳塔克正在使用黑洞(抵抗吸力)"
+  },
+  "**Gi Nattak has healed 150 hp**": {
+    "translation": "吉纳塔克回复了150点生命值"
+  },
+  "**Gi Nattak is using wind**": {
+    "translation": "吉纳塔克正在使用风(抵抗推力)"
+  },
+  "**Gi Nattak is using aspil**": {
+    "translation": "吉纳塔克正在使用摄魂术(蹲下)"
+  },
+  "**Gi Nattak is using poison**": {
+    "translation": "吉纳塔克正在使用毒(远离绿色特效)"
+  },
+  "**Gi Nattck is using shield**": {
+    "translation": "吉纳塔克正在使用护盾"
+  },
+  "**Gi Nattck is using silence**": {
+    "translation": "吉纳塔克正在使用沉默"
+  },
+  "**DOOR OPENS IN 35 SECONDS**": {
+    "translation": "大门将在35秒后开启",
+    "countdown": 35
+  },
+  "**10 SECONDS LEFT**": {
+    "translation": "剩余10秒"
+  },
+  "**The barman will open the door in 5 seconds**": {
+    "translation": "酒保将在5秒后开门"
+  },
+  "**Hard mode is beaten. Challenge yourself in EXTREME mode ! **": {
+    "translation": "困难模式已通关,挑战极限模式吧!"
+  },
+  "**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**": {
+    "translation": "你必须杀死所有僵尸才能获胜"
+  },
+  "**NORMAL mode was beaten. Unlocking HARD mode **": {
+    "translation": "普通模式已通关,解锁困难模式"
+  },
+  "** EXTREME mode is beaten. Get ready for your last challenge ...**": {
+    "translation": "极限模式已通关,准备好迎接最后的挑战..."
+  },
+  "**Gi Nattak is spawning minions. Watch out for them**": {
+    "translation": "吉纳塔克正在召唤仆从,小心它们"
+  },
+  "**Gi Nattak is spawning minions. Look on them**": {
+    "translation": "吉纳塔克正在召唤仆从,注意它们"
+  },
+  "**ADMIN PRESSED KILL ALL BUTTON**": {
+    "translation": "管理员按下了处死按钮"
+  },
+  "**You are too slow**": {
+    "translation": "你们太慢了"
+  },
+  "**You have beaten Cosmo Canyon!! Congratulations !! **": {
+    "translation": "你们通关了宇宙峡谷!!恭喜!!"
+  },
+  "**NORMAL MODE**": {
+    "translation": "普通模式"
+  },
+  "**HARD MODE**": {
+    "translation": "困难模式"
+  },
+  "**EXTREME MODE**": {
+    "translation": "极限模式"
+  },
+  "**GI NATTAK USES LAVA SUPERATTACK**": {
+    "translation": "吉纳塔克使用熔岩攻击"
+  },
+  "**Get on the rocks to get saved!!!**": {
+    "translation": "跳上石头活下来!!!"
+  },
+  "**Ifrit is defeated! Get on the airship**": {
+    "translation": "伊芙利特被击败!快上飞船"
+  },
+  "**RAGE MODE**": {
+    "translation": "狂暴模式"
+  },
+  "**The map is beaten. Find your place and defend it**": {
+    "translation": "地图已通关,找一个地方防守就行"
+  },
+  "**ZM MODE**": {
+    "translation": "ZM模式"
+  },
+  "**WARMUP ROUND**": {
+    "translation": "热身回合"
+  },
+  "**2 MINUTES LEFT!**": {
+    "translation": "剩余2分钟!"
+  },
+  "**1 MINUTES LEFT!**": {
+    "translation": "剩余1分钟!"
+  },
+  "**30 SECONDS LEFT!**": {
+    "translation": "剩余30秒!"
+  },
+  "**15 SECONDS LEFT!**": {
+    "translation": "剩余15秒!"
+  },
+  "**Teleporting humans to the Observatory**": {
+    "translation": "将人类传送至天文台"
+  },
+  "**Defend here for 15 seconds before the platform leaves**": {
+    "translation": "在平台离开前防守15秒"
+  },
+  "**The platform is leaving**": {
+    "translation": "平台正在离开"
+  },
+  "**WINNERS GONNA CHANGE NEXT STAGE**": {
+    "translation": "胜利者将选择下一关卡"
+  },
+  "**Hellz MODE**": {
+    "translation": "Hellz模式"
+  },
+  "**This is your last hold point**": {
+    "translation": "这是你的最后防守"
+  },
+  "**Get on the rocks and hold 25 seconds**": {
+    "translation": "爬上岩石并坚守25秒"
+  },
+  "**Cover here for 5 seconds before we clear this obstacle**": {
+    "translation": "在此防守5秒后障碍将会被清除"
+  },
+  "**The big cactus is blocking the way. Shopopt him!**": {
+    "translation": "巨大仙人掌挡住了道路,射击它!"
+  },
+  "**Now you can get out of Cave of Gi**": {
+    "translation": "现在你可以离开吉族洞窟了"
+  },
+  "**Gi Nattack is dead**": {
+    "translation": "吉纳塔克死了"
+  },
+  "[Cloud] Nice job! I hope that we are done with them for once and for all. The next stop is Cosmo Canyon..": {
+    "translation": "[克劳德] 干得好!我希望我们彻底解决了他们,下一站是宇宙峡谷.."
+  },
+  "** Dont Bhop **": {
+    "translation": "不要连跳"
+  }
+}
