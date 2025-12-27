@@ -42,7 +42,7 @@
     "nomination": true,
     "price": 700,
     "requiredOnline": -1,
-    "requiredPlayers": 40
+    "requiredPlayers": 30
   },
   "ze_240s_survival_v1": {
     "admin": true,
@@ -177,7 +177,7 @@
     "nomination": true,
     "price": 600,
     "requiredOnline": -1,
-    "requiredPlayers": 40
+    "requiredPlayers": 30
   },
   "ze_aot_trost_v6r": {
     "admin": false,
@@ -222,7 +222,7 @@
     "nomination": true,
     "price": 800,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_arctic_escape_p": {
     "admin": true,
@@ -339,7 +339,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_aware": {
     "admin": false,
@@ -348,7 +348,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_azathoth_p": {
     "admin": false,
@@ -420,7 +420,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 40
+    "requiredPlayers": 30
   },
   "ze_bathroom": {
     "admin": false,
@@ -510,7 +510,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 40
+    "requiredPlayers": 30
   },
   "ze_bioshock_v6_cs2": {
     "admin": false,
@@ -870,7 +870,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_contradiction_spiral": {
     "admin": false,
@@ -879,7 +879,7 @@
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
-    "requiredPlayers": 40
+    "requiredPlayers": 30
   },
   "ze_coolcoolsnowman_n64": {
     "admin": false,
@@ -951,7 +951,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_dabadeedabadie": {
     "admin": false,
@@ -987,7 +987,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_deadcore": {
     "admin": true,
@@ -1122,7 +1122,7 @@
     "nomination": true,
     "price": 700,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_dnb_realms_a1": {
     "admin": false,
@@ -1257,7 +1257,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_epstein_island": {
     "admin": true,
@@ -1635,7 +1635,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 40
+    "requiredPlayers": 30
   },
   "ze_flowering": {
     "admin": false,
@@ -1662,7 +1662,7 @@
     "nomination": true,
     "price": 700,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_forestbunkers_p": {
     "admin": false,
@@ -1788,7 +1788,7 @@
     "nomination": true,
     "price": 650,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_gods_wrath_p": {
     "admin": false,
@@ -1824,7 +1824,7 @@
     "nomination": true,
     "price": 700,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_greece_escape_p": {
     "admin": false,
@@ -1851,7 +1851,7 @@
     "nomination": true,
     "price": 600,
     "requiredOnline": 600,
-    "requiredPlayers": 40
+    "requiredPlayers": 30
   },
   "ze_gtasa_police_station_2_m": {
     "admin": false,
@@ -2013,7 +2013,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 40
+    "requiredPlayers": 30
   },
   "ze_hydroponic_garden": {
     "admin": false,
@@ -2022,7 +2022,7 @@
     "nomination": true,
     "price": 700,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_hypernova_p": {
     "admin": false,
@@ -2121,7 +2121,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 40
+    "requiredPlayers": 30
   },
   "ze_imperium": {
     "admin": false,
@@ -2148,7 +2148,7 @@
     "nomination": true,
     "price": 700,
     "requiredOnline": 900,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_indiana_jones_004_p": {
     "admin": false,
@@ -2445,7 +2445,7 @@
     "nomination": true,
     "price": 450,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_lightnight_v1": {
     "admin": false,
@@ -2454,7 +2454,7 @@
     "nomination": true,
     "price": 550,
     "requiredOnline": -1,
-    "requiredPlayers": 40
+    "requiredPlayers": 30
   },
   "ze_lila_panic_escape_p": {
     "admin": false,
@@ -2589,7 +2589,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_luigismansion_p": {
     "admin": false,
@@ -2715,7 +2715,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_minecraft_adventure": {
     "admin": false,
@@ -2805,7 +2805,7 @@
     "nomination": true,
     "price": 550,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_mirrors_edge_reborn_p": {
     "admin": false,
@@ -2850,7 +2850,7 @@
     "nomination": true,
     "price": 650,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_mix": {
     "admin": false,
@@ -2940,7 +2940,7 @@
     "nomination": true,
     "price": 450,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_neron": {
     "admin": false,
@@ -2949,7 +2949,7 @@
     "nomination": true,
     "price": 550,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_new_italy_cs2": {
     "admin": false,
@@ -2994,7 +2994,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 40
+    "requiredPlayers": 30
   },
   "ze_noir_p": {
     "admin": false,
@@ -3012,7 +3012,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 40
+    "requiredPlayers": 30
   },
   "ze_notredame_p": {
     "admin": false,
@@ -3318,7 +3318,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_omega_p": {
     "admin": false,
@@ -3336,7 +3336,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_omochi_cs2": {
     "admin": false,
@@ -3480,7 +3480,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_parkers_pit_p": {
     "admin": false,
@@ -3723,7 +3723,7 @@
     "nomination": true,
     "price": 600,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_prototype": {
     "admin": false,
@@ -3750,7 +3750,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_puta_p": {
     "admin": false,
@@ -3777,7 +3777,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_r_w_b_ulti_cs2": {
     "admin": false,
@@ -3849,7 +3849,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_realm": {
     "admin": false,
@@ -3858,7 +3858,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_requiem_test": {
     "admin": false,
@@ -3867,7 +3867,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_rien_z": {
     "admin": false,
@@ -3876,7 +3876,7 @@
     "nomination": true,
     "price": 600,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_rizomata_p": {
     "admin": false,
@@ -4398,7 +4398,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_starlight_revue_cs2": {
     "admin": false,
@@ -4695,7 +4695,7 @@
     "nomination": true,
     "price": 450,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_tesv_skyrim_p": {
     "admin": false,
@@ -4947,7 +4947,7 @@
     "nomination": true,
     "price": 700,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_ultra_ungent_a2_cs2": {
     "admin": false,
@@ -4956,7 +4956,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_ultrakill": {
     "admin": false,
@@ -5001,7 +5001,7 @@
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
-    "requiredPlayers": 40
+    "requiredPlayers": 30
   },
   "ze_untitled_touhou": {
     "admin": false,
@@ -5082,7 +5082,7 @@
     "nomination": true,
     "price": 700,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_voodoo_islands_p": {
     "admin": false,
@@ -5145,7 +5145,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_xiii_winslow_bank": {
     "admin": false,
