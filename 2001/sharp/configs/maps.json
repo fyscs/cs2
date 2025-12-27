@@ -4706,6 +4706,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_texturescape_cs2_l": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_the_curse_of_blackwater": {
     "admin": false,
     "certainTimes": [-1],
