@@ -71,7 +71,7 @@
     "translation": "将有事情发生"
   },
   "the zombie item arrived": {
-    "translation": "僵尸神器已送达"
+    "translation": "僵尸补给已送达"
   },
   "hold on until the end": {
     "translation": "坚持到最后"
@@ -86,6 +86,6 @@
     "translation": "99秒后失败"
   },
   "a zombie will get item": {
-    "translation": "一个僵尸将获得神器"
+    "translation": "一个僵尸将获得补给"
   }
 }
