@@ -371,7 +371,7 @@
   "ttt_highrise_ego": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 10,
+    "cooldown": 15,
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
