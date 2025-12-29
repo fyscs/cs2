@@ -1,0 +1,229 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Player had picked up Wind Spirit Pearl**": {
+    "translation": "***Player had picked up Wind Spirit Pearl**"
+  },
+  "***Player had picked up Thunder Spirit Pearl**": {
+    "translation": "***Player had picked up Thunder Spirit Pearl**"
+  },
+  "***Player had picked up Flame Spirit Pearl**": {
+    "translation": "***Player had picked up Flame Spirit Pearl**"
+  },
+  "***Player had picked up Earth Spirit Pearl**": {
+    "translation": "***Player had picked up Earth Spirit Pearl**"
+  },
+  "***Player had picked up Water Spirit Pearl**": {
+    "translation": "***Player had picked up Water Spirit Pearl**"
+  },
+  "***Zombie had picked up Fury heart**": {
+    "translation": "***Zombie had picked up Fury heart**"
+  },
+  "***Zombie had picked up Hide cloak**": {
+    "translation": "***Zombie had picked up Hide cloak**"
+  },
+  "***Zombie had picked up Execution**": {
+    "translation": "***Zombie had picked up Execution**"
+  },
+  "***Zombie had picked up Laser,watch out!**": {
+    "translation": "***Zombie had picked up Laser,watch out!**"
+  },
+  "***Zombie had picked up Calamity,watch out!**": {
+    "translation": "***Zombie had picked up Calamity,watch out!**"
+  },
+  "***Door will open in 25s***": {
+    "translation": "***Door will open in 25s***"
+  },
+  "***Map by Reikira***": {
+    "translation": "***Map by Reikira***"
+  },
+  "***ze_imperial_sanctum***": {
+    "translation": "***ze_imperial_sanctum***"
+  },
+  "***Map designed by imagination***": {
+    "translation": "***Map designed by imagination***"
+  },
+  "***This is my first map,Thank you for your visit***": {
+    "translation": "***This is my first map,Thank you for your visit***"
+  },
+  "***Level 1***": {
+    "translation": "***Level 1***"
+  },
+  "***level 2***": {
+    "translation": "***level 2***"
+  },
+  "***level 3 - Hard Ending***": {
+    "translation": "***level 3 - Hard Ending***"
+  },
+  "***Hold for 30s***": {
+    "translation": "***Hold for 30s***"
+  },
+  "***Zombie way and gravity had been enabled***": {
+    "translation": "***Zombie way and gravity had been enabled***"
+  },
+  "***Human way and gravity had been enabled***": {
+    "translation": "***Human way and gravity had been enabled***"
+  },
+  "***You will get low gravity for 25s after pass the rock***": {
+    "translation": "***You will get low gravity for 25s after pass the rock***"
+  },
+  "***Well,somewhere is abnormal.Be careful!***": {
+    "translation": "***Well,somewhere is abnormal.Be careful!***"
+  },
+  "***Boss will appear in 24s***": {
+    "translation": "***Boss will appear in 24s***"
+  },
+  "*** Push ***": {
+    "translation": "*** Push ***"
+  },
+  "*** Fire Fury ***": {
+    "translation": "*** Fire Fury ***"
+  },
+  "*** Rise ***": {
+    "translation": "*** Rise ***"
+  },
+  "*** Heal ***": {
+    "translation": "*** Heal ***"
+  },
+  "*** Fire Spirit will appear in 130s ***": {
+    "translation": "*** Fire Spirit will appear in 130s ***"
+  },
+  "***It is dead,the way will open in 18s***": {
+    "translation": "***It is dead,the way will open in 18s***"
+  },
+  "***Unlimited ammo Released***": {
+    "translation": "***Unlimited ammo Released***"
+  },
+  "***Rock will be removed in 10s***": {
+    "translation": "***Rock will be removed in 10s***"
+  },
+  "***Hold on***": {
+    "translation": "***Hold on***"
+  },
+  "***Finally 5 seconds!!!***": {
+    "translation": "***Finally 5 seconds!!!***"
+  },
+  "***You too late,zombie released***": {
+    "translation": "***You too late,zombie released***"
+  },
+  "***Well Done,the teleport will enable in 20s***": {
+    "translation": "***Well Done,the teleport will enable in 20s***"
+  },
+  "***Way will enable in 25s***": {
+    "translation": "***Way will enable in 25s***"
+  },
+  "***Double door will break in 20s***": {
+    "translation": "***Double door will break in 20s***"
+  },
+  "***Well Done.Door will break in 10s***": {
+    "translation": "***Well Done.Door will break in 10s***"
+  },
+  "***Dragon is dead,help your teammate and run after 15s!!!***": {
+    "translation": "***Dragon is dead,help your teammate and run after 15s!!!***"
+  },
+  "***Zombie will release in 12s***": {
+    "translation": "***Zombie will release in 12s***"
+  },
+  "***You ate too late***": {
+    "translation": "***You ate too late***"
+  },
+  "***Good,dragon will come in 12s***": {
+    "translation": "***Good,dragon will come in 12s***"
+  },
+  "***Unlimited ammo released,kill it quickly!!!***": {
+    "translation": "***Unlimited ammo released,kill it quickly!!!***"
+  },
+  "***Dragon get more energy,it is very dangerous***": {
+    "translation": "***Dragon get more energy,it is very dangerous***"
+  },
+  "***Rock will remove in 20s***": {
+    "translation": "***Rock will remove in 20s***"
+  },
+  "***Dragon get weakness 20s***": {
+    "translation": "***Dragon get weakness 20s***"
+  },
+  "***Rock will explode in 10s***": {
+    "translation": "***Rock will explode in 10s***"
+  },
+  "***Rock will explode in 30s***": {
+    "translation": "***Rock will explode in 30s***"
+  },
+  "***elevator will open in 10s***": {
+    "translation": "***elevator will open in 10s***"
+  },
+  "***Good work,low gravity had enable***": {
+    "translation": "***Good work,low gravity had enable***"
+  },
+  "***omg,the lantern is absorbing energy.prevent it !!!***": {
+    "translation": "***omg,the lantern is absorbing energy.prevent it !!!***"
+  },
+  "***Finally 15 seconds!!!***": {
+    "translation": "***Finally 15 seconds!!!***"
+  },
+  "***level 3 - Easy Ending***": {
+    "translation": "***level 3 - Easy Ending***"
+  },
+  "***Good , way will enable in 15s***": {
+    "translation": "***Good , way will enable in 15s***"
+  },
+  "***Door will break in 15s***": {
+    "translation": "***Door will break in 15s***"
+  },
+  "***Door will break in 30s***": {
+    "translation": "***Door will break in 30s***"
+  },
+  "***Bridge will open in 20s***": {
+    "translation": "***Bridge will open in 20s***"
+  },
+  "***Team Ending***": {
+    "translation": "***Team Ending***"
+  },
+  "***Teleporter enable in 15s***": {
+    "translation": "***Teleporter enable in 15s***"
+  },
+  "***Solo Ending***": {
+    "translation": "***Solo Ending***"
+  },
+  "***Snowdrift break in 20s***": {
+    "translation": "***Snowdrift break in 20s***"
+  },
+  "***What a nice snow!***": {
+    "translation": "***What a nice snow!***"
+  },
+  "***Good,Snowdrift break in 20s***": {
+    "translation": "***Good,Snowdrift break in 20s***"
+  },
+  "***Oh shit,whats that?***": {
+    "translation": "***Oh shit,whats that?***"
+  },
+  "***Kill it before the late***": {
+    "translation": "***Kill it before the late***"
+  },
+  "***Zombie had enable sideway,be careful!***": {
+    "translation": "***Zombie had enable sideway,be careful!***"
+  },
+  "***Rotating will open in 8s***": {
+    "translation": "***Rotating will open in 8s***"
+  },
+  "***You will be 15s invincible outside,go fast!!!***": {
+    "translation": "***You will be 15s invincible outside,go fast!!!***"
+  },
+  "***Hold for 5s***": {
+    "translation": "***Hold for 5s***"
+  },
+  "***Be careful!!!***": {
+    "translation": "***Be careful!!!***"
+  },
+  "***Wall will break in 8s***": {
+    "translation": "***Wall will break in 8s***"
+  }
+}
