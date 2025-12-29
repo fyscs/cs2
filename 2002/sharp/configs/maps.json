@@ -372,10 +372,10 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": false,
+    "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": -1
+    "requiredPlayers": 15,
   },
   "ttt_highschool": {
     "admin": false,
