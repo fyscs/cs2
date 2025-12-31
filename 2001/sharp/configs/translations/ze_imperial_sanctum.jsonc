@@ -1,4 +1,4 @@
-// Console SayText i18n file generator.
+﻿// Console SayText i18n file generator.
 // i18n Version v21
 // Copyright 2025 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
@@ -11,221 +11,222 @@
 
 {
   "***Player had picked up Wind Spirit Pearl**": {
-    "translation": "玩家拾取了风灵珠"
+    "translation": "***Player had picked up Wind Spirit Pearl**"
   },
   "***Player had picked up Thunder Spirit Pearl**": {
-    "translation": "玩家拾取了雷灵珠"
+    "translation": "***Player had picked up Thunder Spirit Pearl**"
   },
   "***Player had picked up Flame Spirit Pearl**": {
-    "translation": "玩家拾取了火灵珠"
+    "translation": "***Player had picked up Flame Spirit Pearl**"
   },
   "***Player had picked up Earth Spirit Pearl**": {
-    "translation": "玩家拾取了土灵珠"
+    "translation": "***Player had picked up Earth Spirit Pearl**"
   },
   "***Player had picked up Water Spirit Pearl**": {
-    "translation": "玩家拾取了水灵珠"
+    "translation": "***Player had picked up Water Spirit Pearl**"
   },
   "***Zombie had picked up Fury heart**": {
-    "translation": "僵尸拾取了狂怒之心"
+    "translation": "***Zombie had picked up Fury heart**"
   },
   "***Zombie had picked up Hide cloak**": {
-    "translation": "僵尸拾取了隐身斗篷"
+    "translation": "***Zombie had picked up Hide cloak**"
   },
   "***Zombie had picked up Execution**": {
-    "translation": "僵尸拾取了处决"
+    "translation": "***Zombie had picked up Execution**"
   },
   "***Zombie had picked up Laser,watch out!**": {
-    "translation": "僵尸拾取了激光,小心!"
+    "translation": "***Zombie had picked up Laser,watch out!**"
   },
   "***Zombie had picked up Calamity,watch out!**": {
-    "translation": "僵尸拾取了灾厄,小心!"
+    "translation": "***Zombie had picked up Calamity,watch out!**"
+  },
+  "***Player had picked up Fallfilter**": {
+    "translation": "***Player had picked up Fallfilter**"
   },
   "***Door will open in 25s***": {
-    "translation": "大门将在25秒后打开"
+    "translation": "***Door will open in 25s***"
   },
   "***Map by Reikira***": {
-    "translation": "地图作者: Reikira 文本翻译: 小学生"
+    "translation": "***Map by Reikira***"
   },
   "***ze_imperial_sanctum***": {
-    "translation": "ze_imperial_sanctum"
+    "translation": "***ze_imperial_sanctum***"
   },
   "***Map designed by imagination***": {
-    "translation": "地图由想象力设计",
-    "blocked": true
+    "translation": "***Map designed by imagination***"
   },
   "***This is my first map,Thank you for your visit***": {
-    "translation": "这是我的第一张地图,感谢你的游玩",
-    "blocked": true
+    "translation": "***This is my first map,Thank you for your visit***"
   },
   "***Level 1***": {
-    "translation": "第一关"
+    "translation": "***Level 1***"
   },
   "***level 2***": {
-    "translation": "第二关"
+    "translation": "***level 2***"
   },
   "***level 3 - Hard Ending***": {
-    "translation": "第三关-困难结局"
+    "translation": "***level 3 - Hard Ending***"
   },
   "***Hold for 30s***": {
-    "translation": "坚守30秒"
+    "translation": "***Hold for 30s***"
   },
   "***Zombie way and gravity had been enabled***": {
-    "translation": "僵尸路线和重力已启用"
+    "translation": "***Zombie way and gravity had been enabled***"
   },
   "***Human way and gravity had been enabled***": {
-    "translation": "人类路线和重力已启用"
+    "translation": "***Human way and gravity had been enabled***"
   },
   "***You will get low gravity for 25s after pass the rock***": {
-    "translation": "通过岩石后你将获得25秒低重力"
+    "translation": "***You will get low gravity for 25s after pass the rock***"
   },
   "***Well,somewhere is abnormal.Be careful!***": {
-    "translation": "嗯?有点不同寻常.小心!"
+    "translation": "***Well,somewhere is abnormal.Be careful!***"
   },
   "***Boss will appear in 24s***": {
-    "translation": "BOSS将在24秒后出现"
+    "translation": "***Boss will appear in 24s***"
   },
   "*** Push ***": {
-    "translation": "推力"
+    "translation": "*** Push ***"
   },
   "*** Fire Fury ***": {
-    "translation": "烈焰之怒"
+    "translation": "*** Fire Fury ***"
   },
   "*** Rise ***": {
-    "translation": "上升"
+    "translation": "*** Rise ***"
   },
   "*** Heal ***": {
-    "translation": "治疗"
+    "translation": "*** Heal ***"
   },
   "*** Fire Spirit will appear in 130s ***": {
-    "translation": "火灵将在130秒后出现"
+    "translation": "*** Fire Spirit will appear in 130s ***"
   },
   "***It is dead,the way will open in 18s***": {
-    "translation": "它死了,道路将在18秒后打开"
+    "translation": "***It is dead,the way will open in 18s***"
   },
   "***Unlimited ammo Released***": {
-    "translation": "无限弹药已释放"
+    "translation": "***Unlimited ammo Released***"
   },
   "***Rock will be removed in 10s***": {
-    "translation": "岩石将在10秒后移除"
+    "translation": "***Rock will be removed in 10s***"
   },
   "***Hold on***": {
-    "translation": "坚守"
+    "translation": "***Hold on***"
   },
   "***Finally 5 seconds!!!***": {
-    "translation": "最后5秒!"
+    "translation": "***Finally 5 seconds!!!***"
   },
   "***You too late,zombie released***": {
-    "translation": "你太迟了,僵尸已释放"
+    "translation": "***You too late,zombie released***"
   },
   "***Well Done,the teleport will enable in 20s***": {
-    "translation": "干得好,传送将在20秒后启用"
+    "translation": "***Well Done,the teleport will enable in 20s***"
   },
   "***Way will enable in 25s***": {
-    "translation": "道路将在25秒后启用"
+    "translation": "***Way will enable in 25s***"
   },
   "***Double door will break in 20s***": {
-    "translation": "双层门将在20秒后破碎"
+    "translation": "***Double door will break in 20s***"
   },
   "***Well Done.Door will break in 10s***": {
-    "translation": "干得好.门将在10秒后破碎"
+    "translation": "***Well Done.Door will break in 10s***"
   },
   "***Dragon is dead,help your teammate and run after 15s!!!***": {
-    "translation": "龙死了,帮助你的队友并在15秒后跑!"
+    "translation": "***Dragon is dead,help your teammate and run after 15s!!!***"
   },
   "***Zombie will release in 12s***": {
-    "translation": "僵尸将在12秒后释放"
+    "translation": "***Zombie will release in 12s***"
   },
   "***You ate too late***": {
-    "translation": "太慢了"
+    "translation": "***You ate too late***"
   },
   "***Good,dragon will come in 12s***": {
-    "translation": "很好,龙将在12秒后到来"
+    "translation": "***Good,dragon will come in 12s***"
   },
   "***Unlimited ammo released,kill it quickly!!!***": {
-    "translation": "无限弹药已释放,快速击杀它!"
+    "translation": "***Unlimited ammo released,kill it quickly!!!***"
   },
   "***Dragon get more energy,it is very dangerous***": {
-    "translation": "龙获得了更多能量,非常危险"
+    "translation": "***Dragon get more energy,it is very dangerous***"
   },
   "***Rock will remove in 20s***": {
-    "translation": "岩石将在20秒后移除"
+    "translation": "***Rock will remove in 20s***"
   },
   "***Dragon get weakness 20s***": {
-    "translation": "龙获得虚弱20秒"
+    "translation": "***Dragon get weakness 20s***"
   },
   "***Rock will explode in 10s***": {
-    "translation": "岩石将在10秒后爆炸"
+    "translation": "***Rock will explode in 10s***"
   },
   "***Rock will explode in 30s***": {
-    "translation": "岩石将在30秒后爆炸"
+    "translation": "***Rock will explode in 30s***"
   },
   "***elevator will open in 10s***": {
-    "translation": "电梯将在10秒后打开"
+    "translation": "***elevator will open in 10s***"
   },
   "***Good work,low gravity had enable***": {
-    "translation": "干得好,低重力已启用"
+    "translation": "***Good work,low gravity had enable***"
   },
   "***omg,the lantern is absorbing energy.prevent it !!!***": {
-    "translation": "天啊,灯笼正在吸收能量.阻止它!"
+    "translation": "***omg,the lantern is absorbing energy.prevent it !!!***"
   },
   "***Finally 15 seconds!!!***": {
-    "translation": "最后15秒!"
+    "translation": "***Finally 15 seconds!!!***"
   },
   "***level 3 - Easy Ending***": {
-    "translation": "第三关-简单结局"
+    "translation": "***level 3 - Easy Ending***"
   },
   "***Good , way will enable in 15s***": {
-    "translation": "很好,道路将在15秒后启用"
+    "translation": "***Good , way will enable in 15s***"
   },
   "***Door will break in 15s***": {
-    "translation": "门将在15秒后破碎"
+    "translation": "***Door will break in 15s***"
   },
   "***Door will break in 30s***": {
-    "translation": "门将在30秒后破碎"
+    "translation": "***Door will break in 30s***"
   },
   "***Bridge will open in 20s***": {
-    "translation": "桥梁将在20秒后打开"
+    "translation": "***Bridge will open in 20s***"
   },
   "***Team Ending***": {
-    "translation": "团队结局"
+    "translation": "***Team Ending***"
   },
-  "***Teleporter enable in 15s***": {
-    "translation": "传送器在15秒后启用"
+  "***Teleporter enable in 25s***": {
+    "translation": "***Teleporter enable in 25s***"
   },
   "***Solo Ending***": {
-    "translation": "Solo结局"
+    "translation": "***Solo Ending***"
   },
   "***Snowdrift break in 20s***": {
-    "translation": "雪堆在20秒后破碎"
+    "translation": "***Snowdrift break in 20s***"
   },
   "***What a nice snow!***": {
-    "translation": "多好的雪啊!"
+    "translation": "***What a nice snow!***"
   },
   "***Good,Snowdrift break in 20s***": {
-    "translation": "很好,雪堆在20秒后破碎"
+    "translation": "***Good,Snowdrift break in 20s***"
   },
   "***Oh shit,whats that?***": {
-    "translation": "糟糕,那是什么?"
+    "translation": "***Oh shit,whats that?***"
   },
   "***Kill it before the late***": {
-    "translation": "趁还来得及杀了它"
+    "translation": "***Kill it before the late***"
   },
   "***Zombie had enable sideway,be careful!***": {
-    "translation": "僵尸已启用侧路,小心!"
+    "translation": "***Zombie had enable sideway,be careful!***"
   },
   "***Rotating will open in 8s***": {
-    "translation": "旋转门将在8秒后打开"
+    "translation": "***Rotating will open in 8s***"
   },
   "***You will be 15s invincible outside,go fast!!!***": {
-    "translation": "你在外面将有15秒无敌,快走!"
+    "translation": "***You will be 15s invincible outside,go fast!!!***"
   },
   "***Hold for 5s***": {
-    "translation": "坚守5秒"
+    "translation": "***Hold for 5s***"
   },
   "***Be careful!!!***": {
-    "translation": "小心!"
+    "translation": "***Be careful!!!***"
   },
   "***Wall will break in 8s***": {
-    "translation": "墙壁将在8秒后破碎"
+    "translation": "***Wall will break in 8s***"
   }
 }
