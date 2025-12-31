@@ -191,7 +191,8 @@
     "countdown": 10
   },
   "** DOOR OPENS IN 5 s **": {
-    "translation": "大门将在5秒后打开"
+    "translation": "大门将在5秒后打开",
+    "blocked": true
   },
   "**Superior door opening in 30 seconds**": {
     "translation": "门将在30秒后打开",
@@ -277,13 +278,13 @@
     "translation": "全图通关"
   },
   "**CURRENT DIFFICULTY ** >> HARD << **": {
-    "translation": "当前难度 >> HARD模式 <<"
+    "translation": "当前难度 >> HARD <<"
   },
   "**CURRENT DIFFICULTY ** >> EXTREME << **": {
-    "translation": "当前难度 >> EXTREME模式 <<"
+    "translation": "当前难度 >> EXTREME <<"
   },
   "**CURRENT DIFFICULTY ** >> NORMAL << **": {
-    "translation": "当前难度 >> NORMAL模式 <<"
+    "translation": "当前难度 >> NORMAL <<"
   },
   "*** MATERIAS AT LVL 2 ***": {
     "translation": "当前神器等级:二"
