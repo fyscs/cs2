@@ -183,7 +183,8 @@
     "translation": "干得好,低重力已启用"
   },
   "***omg,the lantern is absorbing energy.prevent it !!!***": {
-    "translation": "天啊,灯笼正在吸收能量,阻止它!!!"
+    "translation": "天啊,灯笼正在吸收能量,阻止它!!!",
+    "blocked": true
   },
   "***Finally 15 seconds!!!***": {
     "translation": "最后15秒!!!",
