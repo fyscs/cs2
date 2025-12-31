@@ -50,7 +50,7 @@
   },
   "**Door is opening in 10 seconds**": {
     "translation": "大门还有10秒打开",
-    "countdown ": 10
+    "countdown": 10
   },
   "**Door is open**": {
     "translation": "门开了"
