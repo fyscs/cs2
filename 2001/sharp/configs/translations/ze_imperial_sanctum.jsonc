@@ -56,7 +56,7 @@
     "translation": "地图由作者脑洞设计而成"
   },
   "***This is my first map,Thank you for your visit***": {
-    "translation": "这是我的第一张地图，感谢您的游玩"
+    "translation": "这是我的第一张地图,感谢您的游玩"
   },
   "***Level 1***": {
     "translation": "第一关"
@@ -103,7 +103,7 @@
     "translation": "火精灵将在130秒后出现"
   },
   "***It is dead,the way will open in 18s***": {
-    "translation": "它死了，道路将在18秒后打开",
+    "translation": "它死了,道路将在18秒后打开",
     "countdown": 18
   },
   "***Unlimited ammo Released***": {
@@ -123,7 +123,7 @@
     "translation": "你太慢了, 僵尸已经自由了"
   },
   "***Well Done,the teleport will enable in 20s***": {
-    "translation": "做得好，传送将在20秒后启用",
+    "translation": "做得好,传送将在20秒后启用",
     "countdown": 20
   },
   "***Way will enable in 25s***": {
@@ -135,7 +135,7 @@
     "countdown": 20
   },
   "***Well Done.Door will break in 10s***": {
-    "translation": "做得好，门将在10秒后破碎",
+    "translation": "做得好,门将在10秒后破碎",
     "countdown": 10
   },
   "***Dragon is dead,help your teammate and run after 15s!!!***": {
@@ -193,7 +193,7 @@
     "translation": "第三关 - 简单结局"
   },
   "***Good , way will enable in 15s***": {
-    "translation": "很好，道路将在15秒后开启",
+    "translation": "很好,道路将在15秒后开启",
     "countdown": 15
   },
   "***Door will break in 15s***": {
@@ -226,7 +226,7 @@
     "translation": "好美的雪啊!"
   },
   "***Good,Snowdrift break in 20s***": {
-    "translation": "很好，雪堆将在20秒后破碎",
+    "translation": "很好,雪堆将在20秒后破碎",
     "countdown": 20
   },
   "***Oh shit,whats that?***": {
