@@ -35,10 +35,10 @@
     "translation": "僵尸拾取了处决"
   },
   "***Zombie had picked up Laser,watch out!**": {
-    "translation": "僵尸拾取了双剑，小心！"
+    "translation": "僵尸拾取了双剑, 小心!"
   },
   "***Zombie had picked up Calamity,watch out!**": {
-    "translation": "僵尸拾取了灾厄，小心！"
+    "translation": "僵尸拾取了灾厄, 小心!"
   },
   "***Player had picked up Fallfilter**": {
     "translation": "玩家拾取了坠落过滤器"
@@ -47,7 +47,7 @@
     "translation": "门将在25秒后打开"
   },
   "***Map by Reikira***": {
-    "translation": "地图作者：Reikira 文本翻译: 小学生"
+    "translation": "地图作者: Reikira 文本翻译: 小学生"
   },
   "***ze_imperial_sanctum***": {
     "translation": "ze_imperial_sanctum"
@@ -81,7 +81,7 @@
     "translation": "通过岩石后将获得25秒低重力"
   },
   "***Well,somewhere is abnormal.Be careful!***": {
-    "translation": "有些地方不太对劲，小心！"
+    "translation": "有些地方不太对劲,小心!"
   },
   "***Boss will appear in 24s***": {
     "translation": "Boss将在24秒后出现",
@@ -117,10 +117,10 @@
     "translation": "坚持住"
   },
   "***Finally 5 seconds!!!***": {
-    "translation": "最后5秒！！！"
+    "translation": "最后5秒!!!"
   },
   "***You too late,zombie released***": {
-    "translation": "你太慢了,僵尸已经自由了"
+    "translation": "你太慢了, 僵尸已经自由了"
   },
   "***Well Done,the teleport will enable in 20s***": {
     "translation": "做得好，传送将在20秒后启用",
@@ -139,7 +139,7 @@
     "countdown": 10
   },
   "***Dragon is dead,help your teammate and run after 15s!!!***": {
-    "translation": "巨龙已死，帮助你的队友，15秒后撤退！！！",
+    "translation": "巨龙已死,帮助你的队友,15秒后撤退!!!",
     "countdown": 15
   },
   "***Zombie will release in 12s***": {
@@ -150,14 +150,14 @@
     "translation": "你太晚了"
   },
   "***Good,dragon will come in 12s***": {
-    "translation": "很好，巨龙将在12秒后到来",
+    "translation": "很好,巨龙将在12秒后到来",
     "countdown": 12
   },
   "***Unlimited ammo released,kill it quickly!!!***": {
-    "translation": "无限弹药已启用，快速击杀它！！！"
+    "translation": "无限弹药已启用,快速击杀它!!!"
   },
   "***Dragon get more energy,it is very dangerous***": {
-    "translation": "巨龙获得了更多能量，非常危险"
+    "translation": "巨龙获得了更多能量,非常危险"
   },
   "***Rock will remove in 20s***": {
     "translation": "岩石将在20秒后移除",
@@ -180,13 +180,13 @@
     "countdown": 10
   },
   "***Good work,low gravity had enable***": {
-    "translation": "干得好，低重力已启用"
+    "translation": "干得好,低重力已启用"
   },
   "***omg,the lantern is absorbing energy.prevent it !!!***": {
-    "translation": "天啊，灯笼正在吸收能量，阻止它！！！"
+    "translation": "天啊,灯笼正在吸收能量,阻止它!!!"
   },
   "***Finally 15 seconds!!!***": {
-    "translation": "最后15秒！！！",
+    "translation": "最后15秒!!!",
     "countdown": 15
   },
   "***level 3 - Easy Ending***": {
@@ -230,26 +230,26 @@
     "countdown": 20
   },
   "***Oh shit,whats that?***": {
-    "translation": "糟糕，那是什么？"
+    "translation": "糟糕,那是什么?"
   },
   "***Kill it before the late***": {
     "translation": "在为时已晚之前击杀它"
   },
   "***Zombie had enable sideway,be careful!***": {
-    "translation": "僵尸已开启侧路，小心！"
+    "translation": "僵尸已开启侧路,小心!"
   },
   "***Rotating will open in 8s***": {
     "translation": "旋转门将在8秒后打开",
     "countdown": 8
   },
   "***You will be 15s invincible outside,go fast!!!***": {
-    "translation": "你在外面将获得15秒的无敌时间，快走！！！"
+    "translation": "你在外面将获得15秒的无敌时间,快走!!!"
   },
   "***Hold for 5s***": {
     "translation": "守住5秒"
   },
   "***Be careful!!!***": {
-    "translation": "小心！！！"
+    "translation": "小心!!!"
   },
   "***Wall will break in 8s***": {
     "translation": "墙将在8秒后破碎",
