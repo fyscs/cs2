@@ -1,0 +1,79 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** zombie teleport in 10 seconds ***": {
+    "translation": " 僵尸10秒后传送 "
+  },
+  "*** defense zombie 50 seconds ***": {
+    "translation": " 防守50秒 "
+  },
+  "*** defense middle bridge ***": {
+    "translation": " 守住中间的桥 "
+  },
+  "*** survive in 60 seconds ***": {
+    "translation": " 存活60秒 "
+  },
+  "*** teleported zombie ***": {
+    "translation": " 传送僵尸 "
+  },
+  "*** 30 seconds left ***": {
+    "translation": " 还剩30秒 "
+  },
+  "*** Map by DJ_tusla ***": {
+    "translation": " 地图作者:DJ_tusla "
+  },
+  "*** Port by 三百度幸运12121 ***": {
+    "translation": " Port by 三百度幸运12121 翻译:白姬 "
+  },
+  "*** zombies are coming!!! ***": {
+    "translation": " 僵尸来了!!! "
+  },
+  "*** 3 guys clear last surf all humans ganna teleport in 5 sec ***": {
+    "translation": " 3个基佬完成了所有滑翔,所有人将在5秒后传送 "
+  },
+  "*** zombies teleport in 10 seconds": {
+    "translation": " 脏比10秒后传送"
+  },
+  "*** defense 40 seconds ***": {
+    "translation": "*** 防御40秒 ***"
+  },
+  "*** holy shit!!!! ricardo is coming to fuck ur ass!!! ***": {
+    "translation": " MD!!!! 里卡多要来操你了!!! "
+  },
+  "*** ear raping in 1 ***": {
+    "translation": " 如听仙乐耳暂明 1 "
+  },
+  "*** ear raping in 2 ***": {
+    "translation": " 如听仙乐耳暂明 2 "
+  },
+  "*** ear raping in 3 ***": {
+    "translation": " 如听仙乐耳暂明 3 "
+  },
+  "*** ear raping in 4 ***": {
+    "translation": " 如听仙乐耳暂明 4 "
+  },
+  "*** ear raping in 5 ***": {
+    "translation": " 如听仙乐耳暂明 5 "
+  },
+  "***sanic is boost***": {
+    "translation": "sanic要加速了"
+  },
+  "*** 3guys clear last surf in 1 min or zombies coming! ***": {
+    "translation": " 如果没有3个高手完成最终滑翔的话就要当僵尸小零食了! "
+  },
+  "*** human win ***": {
+    "translation": " 人类胜利 ***"
+  },
+  "*** you are hentai ***": {
+    "translation": " 你个hentai(傲娇音) "
+  }
+}

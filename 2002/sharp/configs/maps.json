@@ -170,6 +170,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ttt_cs2_jank": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ttt_cs2_magma": {
     "admin": false,
     "certainTimes": [-1],
@@ -371,11 +380,11 @@
   "ttt_highrise_ego": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 10,
-    "nomination": false,
+    "cooldown": 15,
+    "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": -1
+    "requiredPlayers": 15
   },
   "ttt_highschool": {
     "admin": false,

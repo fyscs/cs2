@@ -23,28 +23,41 @@
 {
   "Counters": [
     {
-      "iterator": "math_boss_s2",
-      "display": "电箱",
-      "hitbox": "Electric_shield"
+      "iterator": "Special_Health",
+      "backup": "Special_HealthInit",
+      "counter": "Special_HealthCount",
+      "reverse": true,
+      "display": "Boss"
     },
     {
-      "iterator": "math_boss_s3",
-      "display": "东南亚の拳王",
-      "hitbox": "Boss_cook-body"
-    }
-  ],
-  "Monsters": [
-    {
-      "identity": "4752",
-      "display": "水管"
+      "iterator": "lvl2_Gi_Nattak_Counter",
+      "hitbox": "lvl2_Boss_Hitbox",
+      "display": "Boss"
     },
     {
-      "identity": "4763",
-      "display": "障碍1"
+      "iterator": "Hellz_Genesis_End_Phy",
+      "hitbox": "Hellz_Genesis_End_Counter",
+      "display": "Boss"
     },
     {
-      "identity": "4765",
-      "display": "障碍2"
+      "iterator": "lvl3_end_boss",
+      "hitbox": "lvl2_Gi_Nattak_Counter",
+      "display": "Boss"
+    },
+    {
+      "iterator": "Genesis_Counter",
+      "hitbox": "lvl4_end_boss",
+      "display": "Boss"
+    },
+    {
+      "iterator": "Rage2_Ifrit_Counter",
+      "hitbox": "Rage_Ifrit_Hitbox",
+      "display": "Boss"
+    },
+    {
+      "iterator": "Chocobo_End_Counter",
+      "hitbox": "Chocobo_End_Counter",
+      "display": "Boss"
     }
   ]
 }
