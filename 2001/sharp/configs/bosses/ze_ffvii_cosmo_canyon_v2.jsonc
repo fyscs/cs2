@@ -1,0 +1,63 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Special_Health",
+      "backup": "Special_HealthInit",
+      "counter": "Special_HealthCount",
+      "reverse": true,
+      "display": "Boss"
+    },
+    {
+      "iterator": "lvl2_Gi_Nattak_Counter",
+      "hitbox": "lvl2_Boss_Hitbox",
+      "display": "Boss"
+    },
+    {
+      "iterator": "Hellz_Genesis_End_Phy",
+      "hitbox": "Hellz_Genesis_End_Counter",
+      "display": "Boss"
+    },
+    {
+      "iterator": "lvl3_end_boss",
+      "hitbox": "lvl2_Gi_Nattak_Counter",
+      "display": "Boss"
+    },
+    {
+      "iterator": "Genesis_Counter",
+      "hitbox": "lvl4_end_boss",
+      "display": "Boss"
+    },
+    {
+      "iterator": "Rage2_Ifrit_Counter",
+      "hitbox": "Rage_Ifrit_Hitbox",
+      "display": "Boss"
+    },
+    {
+      "iterator": "Chocobo_End_Counter",
+      "hitbox": "Chocobo_End_Counter",
+      "display": "Boss"
+    }
+  ]
+}
