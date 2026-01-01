@@ -23,14 +23,14 @@
 {
   "Counters": [
     {
-      "iterator": "Electric_shield",
+      "iterator": "math_boss_s2",
       "display": "电箱",
-      "hitbox": "math_boss_s2"
+      "hitbox": "Electric_shield"
     },
     {
-      "iterator": "Boss_cook-body",
+      "iterator": "math_boss_s3",
       "display": "东南亚の拳王",
-      "hitbox": "math_boss_s3"
+      "hitbox": "Boss_cook-body"
     }
   ],
   "Monsters": [
