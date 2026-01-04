@@ -89,13 +89,13 @@
     "countdown": 60
   },
   "**Easy**": {
-    "translation": "难度: 简单"
+    "translation": "难度: Easy"
   },
   "**Normal**": {
-    "translation": "难度: 正常"
+    "translation": "难度: Normal"
   },
   "**Hard**": {
-    "translation": "难度: 困难"
+    "translation": "难度: Hard"
   },
   "** Nethicite must be on Cidolfus... **": {
     "translation": "破魔石一定在希德博士手上..."
@@ -168,25 +168,25 @@
     "translation": "土"
   },
   "** Adramelech is summoning the Sandmoster**": {
-    "translation": "** 阿德拉梅利克正在召唤沙漠怪物 **"
+    "translation": "阿德拉梅利克正在召唤沙漠怪物"
   },
   "**Thundara**": {
     "translation": "电圈"
   },
   "**Flash Arc**": {
-    "translation": "闪光弧(随机对一个人点名)"
+    "translation": "闪光弧<随机对一个人点名>"
   },
   "**Judgment Bolt**": {
-    "translation": "审判雷霆(贴墙)"
+    "translation": "审判雷霆<贴墙>"
   },
   "**Heal**": {
     "translation": "治愈"
   },
   "**Quicksandl**": {
-    "translation": "急速流沙(别站在地面上)"
+    "translation": "急速流沙<别站在地面上>"
   },
   "** Reflexive **": {
-    "translation": "反射(别开枪)"
+    "translation": "反射<别开枪>"
   },
   "** too late **": {
     "translation": "太慢了!"
@@ -210,22 +210,22 @@
     "translation": ""
   },
   "** Gravity **": {
-    "translation": "重力(抵抗吸力)"
+    "translation": "重力<抵抗吸力>"
   },
   "** Double Damage **": {
     "translation": "双倍伤害"
   },
   "** Flash Freeze **": {
-    "translation": "急速冻结(贴墙站)"
+    "translation": "急速冻结<贴墙站>"
   },
   "** Clouds **": {
-    "translation": "迷雾(全屏伤害)"
+    "translation": "迷雾<全屏伤害>"
   },
   "** Soul Purge**": {
-    "translation": "灵魂净化(贴墙站)"
+    "translation": "灵魂净化<贴墙站>"
   },
   "** Devour Soul**": {
-    "translation": "灵魂吞噬(远离boss前方)"
+    "translation": "灵魂吞噬<远离boss前方>"
   },
   "** Please... take care of Larsa... **": {
     "translation": "拜托你, 保护好拉萨殿下..."
