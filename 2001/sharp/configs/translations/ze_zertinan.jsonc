@@ -11,214 +11,224 @@
 
 {
   "**Defend 25s**": {
-    "translation": "**Defend 25s**"
+    "translation": "防守25秒",
+    "countdown": 25
   },
   "** what is yourpast .Daughter of dalmasca? Did you not swear revenge? Do the dead not demand it? **": {
-    "translation": "** what is yourpast .Daughter of dalmasca? Did you not swear revenge? Do the dead not demand it? **"
+    "translation": "达尔马斯卡的公主, 你忘记了你的的过去? 你不是有着血海深仇吗? 死者们不必再理会了吗?"
   },
   "> The Esper Adrammelech  fight in 10 seconds <": {
-    "translation": "> The Esper Adrammelech  fight in 10 seconds <"
+    "translation": "10秒后与召唤兽亚德拉梅利克战斗开始"
   },
   "**Defend 10s**": {
-    "translation": "**Defend 10s**"
+    "translation": "防守10秒",
+    "countdown": 10
   },
   "**Defend 15s**": {
-    "translation": "**Defend 15s**"
+    "translation": "防守15秒",
+    "countdown": 15
   },
   "**Defend 20s**": {
-    "translation": "**Defend 20s**"
+    "translation": "防守20秒",
+    "countdown": 25
   },
   "> The Esper Shemhazai  fight in 10 seconds <": {
-    "translation": "> The Esper Shemhazai  fight in 10 seconds <"
+    "translation": "10秒后与告密者谢米哈扎战斗开始"
   },
   "** Judge drace? Why she is here.. **": {
-    "translation": "** Judge drace? Why she is here.. **"
+    "translation": "裁判官多蕾丝? 她为什么在这里..."
   },
   "**Defend 30s**": {
-    "translation": "**Defend 30s**"
+    "translation": "防守30秒",
+    "countdown": 30
   },
   "** The power is on, and the door will open soon **": {
-    "translation": "** The power is on, and the door will open soon **"
+    "translation": "电源已接通, 门很快就会打开"
   },
   "** KILL REMAINING ZOMBIES **": {
-    "translation": "** KILL REMAINING ZOMBIES **"
+    "translation": "杀死剩余僵尸"
   },
   "** The elevator still has 5s to rise **": {
-    "translation": "** The elevator still has 5s to rise **"
+    "translation": "电梯还有5秒上升"
   },
   "** The elevator is warming up **": {
-    "translation": "** The elevator is warming up **"
+    "translation": "电梯正在启动"
   },
   "** Both switches have been pulled down **": {
-    "translation": "** Both switches have been pulled down **"
+    "translation": "两个开关都已拉下"
   },
   "** Round failed! Zombies have reached the objective! **": {
-    "translation": "** Round failed! Zombies have reached the objective! **"
+    "translation": "回合失败! 僵尸已达目标!"
   },
   "** We need to pull down two switches to start the elevator**": {
-    "translation": "** We need to pull down two switches to start the elevator**"
+    "translation": "我们需要拉下两个开关来启动电梯"
   },
   "** Map By Runa **": {
-    "translation": "** Map By Runa **"
+    "translation": "地图作者: Runa"
   },
   "** CS2 Port By @Seth **": {
-    "translation": "** CS2 Port By @Seth **"
+    "translation": "CS2移植: @Seth | 汉化: Zeyu1&小学生"
   },
   "**10 seconds remaining**": {
-    "translation": "**10 seconds remaining**"
+    "translation": "还剩10秒",
+    "countdown": 10
   },
   "**20 seconds remaining**": {
-    "translation": "**20 seconds remaining**"
+    "translation": "还剩20秒",
+    "countdown": 20
   },
   "**30 seconds remaining**": {
-    "translation": "**30 seconds remaining**"
+    "translation": "还剩30秒",
+    "countdown": 30
   },
   "**Warm Round**": {
-    "translation": "**Warm Round**"
+    "translation": "热身回合"
   },
   "**60 seconds remaining**": {
-    "translation": "**60 seconds remaining**"
+    "translation": "还剩60秒",
+    "countdown": 60
   },
   "**Easy**": {
-    "translation": "**Easy**"
+    "translation": "难度: 简单"
   },
   "**Normal**": {
-    "translation": "**Normal**"
+    "translation": "难度: 正常"
   },
   "**Hard**": {
-    "translation": "**Hard**"
+    "translation": "难度: 困难"
   },
   "** Nethicite must be on Cidolfus... **": {
-    "translation": "** Nethicite must be on Cidolfus... **"
+    "translation": "破魔石一定在希德博士手上..."
   },
   "** We need to go the top ascent of the Draklor Laboratory and find him. **": {
-    "translation": "** We need to go the top ascent of the Draklor Laboratory and find him. **"
+    "translation": "我们必须前往卓克罗尔研究所的最高层去寻找他"
   },
   "** Look! The Sochen Cave Palace is right there!. We almost reach to The Imperial City of Archades. **": {
-    "translation": "** Look! The Sochen Cave Palace is right there!. We almost reach to The Imperial City of Archades. **"
+    "translation": "看! 索亨洞穴宫殿就在那里! 穿过那里我们就能到达阿凯迪斯帝都"
   },
   "** After Judge Bergan invaded Mt.Bur-Omisace, we decided to go Draklor Laboratory and destory the Nethicite. **": {
-    "translation": "** After Judge Bergan invaded Mt.Bur-Omisace, we decided to go Draklor Laboratory and destory the Nethicite. **"
+    "translation": "在裁判长贝干入侵神都布尔奥米赛斯之后, 我们决定前往卓克罗尔研究所摧毁破魔石"
   },
   "** 240s **": {
-    "translation": "** 240s **"
+    "translation": "240秒"
   },
   "** Gate open in 15 sec. **": {
-    "translation": "** Gate open in 15 sec. **"
+    "translation": "大门将15秒后开启",
+    "countdown": 15
   },
   "** Airship is ready,wait for takeoff. **": {
-    "translation": "** Airship is ready,wait for takeoff. **"
+    "translation": "飞船已就绪, 等待起飞"
   },
   "**Warm End...**": {
-    "translation": "**Warm End...**"
+    "translation": "热身结束..."
   },
   "<Gabranth> Even astray has pride,I shall humour you any time.": {
-    "translation": "<Gabranth> Even astray has pride,I shall humour you any time."
+    "translation": "加布朗斯: 误入歧途之人也有自尊, 我随时都会陪你玩玩."
   },
   "<Gabranth> Behold, the power of a judge hate me with all your heart.": {
-    "translation": "<Gabranth> Behold, the power of a judge hate me with all your heart."
+    "translation": "加布朗斯: 见识裁判者的力量, 尽情恨我吧!"
   },
   "<Gabranth> There is no cause for concern.": {
-    "translation": "<Gabranth> There is no cause for concern."
+    "translation": "加布朗斯: 无需担心."
   },
   "<Gabranth> You should not have massed judged me.": {
-    "translation": "<Gabranth> You should not have massed judged me."
+    "translation": "加布朗斯: 你们不应该审判我."
   },
   "<Gabranth> This is the result of your pride,Be mind of who you challenge next.": {
-    "translation": "<Gabranth> This is the result of your pride,Be mind of who you challenge next."
+    "translation": "加布朗斯: 这是你自傲的后果, 下次想想是否应该挑战我."
   },
   "<Gabranth> You only your self to blame.": {
-    "translation": "<Gabranth> You only your self to blame."
+    "translation": "加布朗斯: 这只能怪你自己."
   },
   "<Gabranth> Eternal pain...Destruction！": {
-    "translation": "<Gabranth> Eternal pain...Destruction！"
+    "translation": "加布朗斯: 永恒的痛苦... 毁灭吧!"
   },
   "<Gabranth> You will be judged,By my sword!": {
-    "translation": "<Gabranth> You will be judged,By my sword!"
+    "translation": "加布朗斯: 你将会被我的圣剑审判!"
   },
   "** ADMIN HAS SWITCH ENDING 2 AT THIS ROUND.**": {
-    "translation": "** ADMIN HAS SWITCH ENDING 2 AT THIS ROUND.**"
+    "translation": "管理员已选择结局2"
   },
   "** ADMIN HAS SWITCH ENDING 1 AT THIS ROUND.**": {
-    "translation": "** ADMIN HAS SWITCH ENDING 1 AT THIS ROUND.**"
+    "translation": "管理员已选择结局1"
   },
   "** fire **": {
-    "translation": "** fire **"
+    "translation": "火"
   },
   "** ice **": {
-    "translation": "** ice **"
+    "translation": "冰"
   },
   "** Thundara **": {
-    "translation": "** Thundara **"
+    "translation": "电"
   },
   "** wind **": {
-    "translation": "** wind **"
+    "translation": "风"
   },
   "** Earth **": {
-    "translation": "** Earth **"
+    "translation": "土"
   },
   "** Adramelech is summoning the Sandmoster**": {
-    "translation": "** Adramelech is summoning the Sandmoster**"
+    "translation": "** 阿德拉梅利克正在召唤沙漠怪物 **"
   },
   "**Thundara**": {
-    "translation": "**Thundara**"
+    "translation": "电圈"
   },
   "**Flash Arc**": {
-    "translation": "**Flash Arc**"
+    "translation": "闪光弧(随机对一个人点名)"
   },
   "**Judgment Bolt**": {
-    "translation": "**Judgment Bolt**"
+    "translation": "审判雷霆(贴墙)"
   },
   "**Heal**": {
-    "translation": "**Heal**"
+    "translation": "治愈"
   },
   "**Quicksandl**": {
-    "translation": "**Quicksandl**"
+    "translation": "急速流沙(别站在地面上)"
   },
   "** Reflexive **": {
-    "translation": "** Reflexive **"
+    "translation": "反射(别开枪)"
   },
   "** too late **": {
-    "translation": "** too late **"
+    "translation": "太慢了!"
   },
   "** As per Cidolfus what he said, Giruvegan will be our next stop to go. **": {
-    "translation": "** As per Cidolfus what he said, Giruvegan will be our next stop to go. **"
+    "translation": "如西德博士所说, 我们接下来必须前往基鲁维冈"
   },
   "** Cidolfus is gone, we have to find a way to get out from here first. **": {
-    "translation": "** Cidolfus is gone, we have to find a way to get out from here first. **"
+    "translation": "西德逃走了, 我们现在得想办法离开这里"
   },
   "** behold the manufacted nethicite.... the\n fruit of our power and knowledge! **": {
-    "translation": "** behold the manufacted nethicite.... the\n fruit of our power and knowledge! **"
+    "translation": "见识人造破魔石的威力吧... 这是我们力量与智慧的结晶!"
   },
   "** see what the stone of man is capable of! witness its power with your own eyes! **": {
-    "translation": "** see what the stone of man is capable of! witness its power with your own eyes! **"
+    "translation": "看看人造之石能做什么! 用你自己的眼睛见证它的力量!"
   },
   "** famfrit! to me! **": {
-    "translation": "** famfrit! to me! **"
+    "translation": "法姆弗利特! 听我号令!"
   },
   "": {
     "translation": ""
   },
   "** Gravity **": {
-    "translation": "** Gravity **"
+    "translation": "重力(抵抗吸力)"
   },
   "** Double Damage **": {
-    "translation": "** Double Damage **"
+    "translation": "双倍伤害"
   },
   "** Flash Freeze **": {
-    "translation": "** Flash Freeze **"
+    "translation": "急速冻结(贴墙站)"
   },
   "** Clouds **": {
-    "translation": "** Clouds **"
+    "translation": "迷雾(全屏伤害)"
   },
   "** Soul Purge**": {
-    "translation": "** Soul Purge**"
+    "translation": "灵魂净化(贴墙站)"
   },
   "** Devour Soul**": {
-    "translation": "** Devour Soul**"
+    "translation": "灵魂吞噬(远离boss前方)"
   },
   "** Please... take care of Larsa... **": {
-    "translation": "** Please... take care of Larsa... **"
+    "translation": "拜托你, 保护好拉萨殿下..."
   }
 }
 
