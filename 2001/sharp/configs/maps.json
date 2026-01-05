@@ -4943,7 +4943,7 @@
   "ze_trap_escape_p": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 600,
+    "cooldown": 120,
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
