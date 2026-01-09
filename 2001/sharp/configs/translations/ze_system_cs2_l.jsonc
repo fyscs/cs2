@@ -1,0 +1,85 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "| 25 |": {
+    "translation": "25秒"
+  },
+  "| 20 |": {
+    "translation": "20秒"
+  },
+  "| 15 |": {
+    "translation": "15秒"
+  },
+  "| 10 |": {
+    "translation": "10秒"
+  },
+  "| 5 |": {
+    "translation": "5秒"
+  },
+  "*** GOOD JOB ***": {
+    "translation": "干的不错"
+  },
+  "| YOU WON THIS TEST |": {
+    "translation": "你通过了本次测试"
+  },
+  "| GOOD JOB |": {
+    "translation": "干的不错"
+  },
+  "| 70 |": {
+    "translation": "70秒"
+  },
+  "| 40 |": {
+    "translation": "40秒"
+  },
+  "| 30 |": {
+    "translation": "30秒"
+  },
+  "| 50 |": {
+    "translation": "50秒"
+  },
+  "| 60 |": {
+    "translation": "60秒"
+  },
+  "| Survive 20 seconds |": {
+    "translation": "存活20秒"
+  },
+  "< K-Nu - Dancefloor Heroes >": {
+    "translation": "K-Nu - Dancefloor Heroes"
+  },
+  "< Gijensu - Implosion >": {
+    "translation": "Gijensu - Implosion"
+  },
+  "<  Unknown artist - Maboroshi >": {
+    "translation": "Unknown artist - Maboroshi"
+  },
+  "<  Heywood - Untitled >": {
+    "translation": "Heywood - Untitled"
+  },
+  "< Goreshit - Fine night >": {
+    "translation": "Goreshit - Fine night"
+  },
+  "< Camelia - Light it up >": {
+    "translation": "Camelia - Light it up"
+  },
+  "< Camelia - Amorphous >": {
+    "translation": "Camelia - Amorphous"
+  },
+  "| ALL STAGES COMPLETED |": {
+    "translation": "所有关卡都已完成"
+  },
+  "< Goreshit - Burn this moment into the retina of my eye >": {
+    "translation": "Goreshit - Burn this moment into the retina of my eye"
+  },
+  "| LOOKING FOR SYSTEM |": {
+    "translation": "寻找系统"
+  }
+}
