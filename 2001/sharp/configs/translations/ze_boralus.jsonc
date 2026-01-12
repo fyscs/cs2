@@ -1,0 +1,151 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "英勇": {
+    "translation": "英勇"
+  },
+  "英勇已结束": {
+    "translation": "英勇已结束"
+  },
+  ">>>door open in 20 seconds<<<": {
+    "translation": "门在20秒后开启",
+    "countdown": 20
+  },
+  ">>>tp in 10 seconds<<<": {
+    "translation": "10秒后传送",
+    "countdown": 10
+  },
+  ">>>钥匙已经找到<<<": {
+    "translation": "钥匙已经找到"
+  },
+  ">>>找到钥匙！<<<": {
+    "translation": "找到钥匙"
+  },
+  ">>>tp in 20 seconds<<<": {
+    "translation": "20秒后传送",
+    "countdown": 20
+  },
+  ">>>在天台最后防守 30 seconds<<<": {
+    "translation": "在天台最后防守30秒",
+    "countdown": 30
+  },
+  ">>>干的漂亮，离开这座监狱<<<": {
+    "translation": "干得漂亮,离开这座监狱"
+  },
+  ">>>我们的船已经来接我们了，但还要一些准备<<<": {
+    "translation": "我们的船已经来接我们了,但还需要一些准备"
+  },
+  ">>>所有传送已关闭<<<": {
+    "translation": "所有传送已关闭"
+  },
+  ">>>快上船!<<<": {
+    "translation": "快上船"
+  },
+  ">>>给我点时间搭一座木桥, 10 seconds left<<<": {
+    "translation": "给我点时间搭一座木桥,还剩10秒",
+    "countdown": 10
+  },
+  ">>>10 seconds left<<<": {
+    "translation": "还剩10秒",
+    "countdown": 10
+  },
+  ">>>我们要通过港务长办公室进入伯拉勒斯, 40 seconds left<<<": {
+    "translation": "通过办公室进入伯拉勒斯,还剩40秒",
+    "countdown": 40
+  },
+  ">>>正在清理障碍, 30 seconds left<<<": {
+    "translation": "正在清理障碍,还剩30秒",
+    "countdown": 30
+  },
+  ">>>这儿是伯拉勒斯的汇帆市场<<<": {
+    "translation": "这里是伯拉勒斯的汇帆市场"
+  },
+  ">>>door open in 30 seconds left<<<": {
+    "translation": "门在30秒后开启",
+    "countdown": 30
+  },
+  ">>>前方是戴姆维克街区<<<": {
+    "translation": "前方是戴姆维克街区"
+  },
+  ">>>那里是流浪汉的居所<<<": {
+    "translation": "那里是流浪汉的居所"
+  },
+  ">>>我们必须穿过这片街区<<<": {
+    "translation": "我们必须穿过这片街区"
+  },
+  ">>>20 seconds left<<<": {
+    "translation": "还剩20秒",
+    "countdown": 20
+  },
+  ">>>终于从这恶心的街区出来了<<<": {
+    "translation": "终于从这片恶心的街区出来了"
+  },
+  ">>>有一面墙壁碎了<<<": {
+    "translation": "有一面墙壁碎了"
+  },
+  ">>>stage 2 complete<<<": {
+    "translation": "第二关 完成"
+  },
+  ">>>防守到门关, 20 seconds left<<<": {
+    "translation": "防守到门关闭,还剩20秒",
+    "countdown": 20
+  },
+  ">>>30 seconds left<<<": {
+    "translation": "还剩30秒",
+    "countdown": 30
+  },
+  ">>找到钥匙<<<": {
+    "translation": "找到钥匙"
+  },
+  ">>>找到地窖的钥匙我们才能继续前进<<<": {
+    "translation": "找到地窖的钥匙我们才能继续前进"
+  },
+  ">>>door open in 30 seconds<<<": {
+    "translation": "门在30秒后开启",
+    "countdown": 30
+  },
+  ">>30 seconds left<<<": {
+    "translation": "还剩30秒",
+    "countdown": 30
+  },
+  ">>>上边的路已经不通了，我们要走水路了<<<": {
+    "translation": "上面的路已经不通了,我们要走水路了"
+  },
+  ">>>是时候离开伯拉勒斯了, 30 seconds left<<<": {
+    "translation": "是时候离开伯拉勒斯了,还剩30秒",
+    "countdown": 30
+  },
+  ">>>最后60秒，活下去就是胜利, 60 seconds left<<<": {
+    "translation": "最后60秒,活下去就是胜利",
+    "countdown": 60
+  },
+  ">>>stage 4 complete<<<": {
+    "translation": "第四关 完成"
+  },
+  ">>>nuke in 20 seconds<<<": {
+    "translation": "核爆还有20秒",
+    "countdown": 20
+  },
+  ">>>stage 1 complete<<<": {
+    "translation": "第一关 完成"
+  },
+  ">>40 seconds left<<<": {
+    "translation": "还剩40秒",
+    "countdown": 40
+  },
+  ">>>回到汇帆市场<<<": {
+    "translation": "回到汇帆市场"
+  },
+  ">>>stage 3 complete<<<": {
+    "translation": "第三关 完成"
+  }
+}

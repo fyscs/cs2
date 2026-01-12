@@ -593,6 +593,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_boralus": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_boatescape101_p": {
     "admin": false,
     "certainTimes": [-1],
