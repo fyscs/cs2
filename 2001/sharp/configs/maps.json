@@ -108,10 +108,10 @@
     "requiredPlayers": -1
   },
   "ze_alien_shooter": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 60,
-    "nomination": false,
+    "nomination": true,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
