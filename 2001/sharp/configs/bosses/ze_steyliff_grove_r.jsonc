@@ -26,35 +26,43 @@
       "iterator": "Anxiang_Boss_HP",
       "hitbox": "Anxiang_Boss_Hitbox",
       "counter": "Anxiang_Boss_HP_Counter",
+      "mass": 50,
       "display": "暗香"
     },
     {
       "iterator": "Qiou_Boss_HP",
       "hitbox": "Qiou_Boss_Hitbox",
       "counter": "Qiou_Boss_HP_Counter",
+      "mass": 50,
       "display": "器偶"
     },
     {
       "iterator": "Jing_Boss_HP",
       "hitbox": "Jing_Boss_Hitbox",
       "counter": "Jing_Boss_HP_Counter",
+      "mass": 25,
       "display": "镜"
+    },
+    {
+      "iterator": "Dark_Boss_HP",
+      "hitbox": "Dark_Boss_Hitbox",
+      "counter": "Dark_Boss_HP_Counter",
+      "mass": 25,
+      "display": "阴"
+    },
+    {
+      "iterator": "Light_Boss_HP",
+      "hitbox": "Light_Boss_Hitbox",
+      "counter": "Light_Boss_HP_Counter",
+      "mass": 25,
+      "display": "阳"
     },
     {
       "iterator": "Qiou_Call_HP",
       "hitbox": "Qiou_Call_Hitbox",
       "counter": "Qiou_Call_HP_Counter",
+      "mass": 15,
       "display": "器偶"
-    }
-  ],
-      "Monsters": [
-    {
-      "identity": "21590",
-      "display": "阳"
-    },
-    {
-      "identity": "21592",
-      "display": "阴"
     }
   ]
 }
