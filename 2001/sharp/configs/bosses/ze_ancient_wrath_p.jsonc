@@ -21,5 +21,56 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Proxy": true
+  "Counters": [
+    {
+      "iterator": "chain_e_counter",
+      "hitbox": "boss_5_chainE_physbox",
+      "display": "Chain_1"
+    },
+    {
+      "iterator": "chain_s_counter",
+      "hitbox": "boss_5_chainS_physbox",
+      "display": "Chain_2"
+    },
+    {
+      "iterator": "chain_n_counter",
+      "hitbox": "boss_5_chainN_physbox",
+      "display": "Chain_3"
+    },
+    {
+      "iterator": "chain_w_counter",
+      "hitbox": "boss_5_chainW_physbox",
+      "display": "Chain_4"
+    },
+    {
+      "iterator": "boss_worm2_01_counter",
+      "hitbox": "boss_worm2_01_physbox",
+      "display": "Worm_2nd"
+    },
+    {
+      "iterator": "quad_phase2_counter",
+      "hitbox": "boss_4_hitbox",
+      "display": "Quad_Phase_2"
+    },
+    {
+      "iterator": "boss_worm_01_counter",
+      "hitbox": "boss_worm_01_physbox",
+      "display": "Worm_1st"
+    },
+    {
+      "iterator": "quad_phase1_counter",
+      "hitbox": "boss_3_hitbox",
+      "display": "Quad_Phase_1"
+    },
+    {
+      "iterator": "boss_worm3_counter",
+      "hitbox": "boss_worm3_01_physbox",
+      "display": "Worm_3rd"
+    },
+    {
+      "iterator": "boss_2_knockback_3_counter",
+      "hitbox": "boss_2_hitbox",
+      "display": "Boss_KnockBack"
+    }
+  ]
 }
