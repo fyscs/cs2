@@ -104,7 +104,7 @@
     "translation": "还没找全吗?还需要三个"
   },
   "**[Tonberry] Still havent found all keys? You need to bring me 2 more keys**": {
-    "translation": "还没找全吗?还需要二个"
+    "translation": "还没找全吗?还需要两个"
   },
   "**[Tonberry] Still havent found all keys? You need to bring me 1 more keys**": {
     "translation": "还没找全吗?还需要一个"
@@ -218,7 +218,7 @@
   "**Judge Bergan has casted Tranquility Wave!**": {
     "translation": "[贝甘]使用了 <静爆>,按S键抵抗!"
   },
-  "**[Bash] Well done! You interrupted the attack and now you may attack Judge Berga**": {
+  "**[Bash] Well done! You interrupted the attack and now you may attack Judge Bergan**": {
     "translation": "好!你中断了它的攻击,现在可以继续了"
   },
   "**Judge Bergan has casted Moon Blast!**": {
@@ -456,7 +456,7 @@
     "translation": ">> 在增援到来前击败 [加布拉斯] >>"
   },
   "**Judge Gabranth has casted Shadow Assault!**": {
-    "translation": "[加布拉斯]使用了 <暗影突击>"
+    "translation": "[加布拉斯]使用了 <暗影突击>,进入隐身!"
   },
   "**Judge Gabranth has casted Fury of Courage!**": {
     "translation": "[加布拉斯]使用了 <暴怒>,提高自身移速!"
@@ -495,7 +495,7 @@
     "translation": "[加布拉斯]召唤了<玛提乌斯皇帝>,释放冻天击!"
   },
   "**Judge Gabranth summons Esper Zalera!**": {
-    "translation": "[加布拉斯]召唤了<死亡天使>,抵抗中场的吸力!"
+    "translation": "[加布拉斯]召唤了<死亡天使>,对着中场按S!"
   },
   "**Judge Gabranth summons Esper Ultima!**": {
     "translation": "[加布拉斯]召唤了<圣天使>,全体玩家血量变为100hp"
@@ -552,7 +552,7 @@
     "translation": ">> 快离开中间 >>"
   },
   "**Sanctuary Keeper has casted Annihilate!**": {
-    "translation": "神殿守卫使用了<湮灭>,将释放全屏秒杀!"
+    "translation": "神殿守卫使用了<湮灭>,快触碰蓝球以规避全屏伤害!"
   },
   "**Get to the teleport to to avoid death!**": {
     "translation": "神殿守卫使用了<无效>,神器将暂时禁用!"
@@ -655,7 +655,7 @@
     "translation": "[贝甘]召唤了 <轮回王>,小心落雷!"
   },
   "**Judge Bergan summons Esper Famfirt!**": {
-    "translation": "[贝甘]召唤了 <法姆弗里特>,注意推力!"
+    "translation": "[贝甘]召唤了 <法姆弗里特>,注意四周推力!"
   },
   "**Judge Bergan summons Esper Adrammelech!**": {
     "translation": "[贝甘]召唤了 <愤怒の灵帝>,远离脚底X形特效!"
