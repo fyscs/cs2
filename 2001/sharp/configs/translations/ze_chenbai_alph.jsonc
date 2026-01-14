@@ -26,13 +26,15 @@
     "translation": "找到前往大门的路"
   },
   "say25 enable teleport": {
-    "translation": "25s后传送"
+    "translation": "25s后传送",
+    "countdown": 25
   },
   "找到了！就在这里.等我把门打开！我需要30秒的时间！": {
     "translation": "打开大门需要30秒"
   },
   "等我把门打开！我需要30秒的时间！": {
-    "translation": "防守30s"
+    "translation": "防守30s",
+    "blocked": true
   },
   "这是本人第一张正式地图，原本计划是多关卡的神器对抗地图，但是由于个人原因搁置了1年的时间，最近才重新制作，很多细节都没有处理，有缘会在后续完善该地图": {
     "translation": "本人第一张地图,有缘会在后续进行完善"
