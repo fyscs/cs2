@@ -219,7 +219,7 @@
   "Map by Trazix": {
     "translation": "地图作者:Trazix地图汉化:余清茗染@Fys"
   },
-  "The doors opening in 25s": {
+  "The doors opening in 30s": {
     "translation": "25秒后开门",
     "clearTimer": true,
     "countdown": 25
