@@ -67,6 +67,16 @@
     {
       "iterator": "Mojie_miniboss_counter",
       "display": "Mojie_miniboss"
+    },
+    {
+      "iterator": "Bergan_boss1_attack_moon_HP",
+      "hitbox": "bergan_boss1_attack_moon_breakable",
+      "display": "Moon"
+    },
+    {
+      "iterator": "Venat_mini_boss_HP",
+      "hitbox": "Venat_mini_boss_physbox",
+      "display": "Venat"
     }
   ],
   "Monsters": [
