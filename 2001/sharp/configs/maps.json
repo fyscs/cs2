@@ -4265,6 +4265,15 @@
     "requiredOnline": 600,
     "requiredPlayers": 40
   },
+  "ze_silent_hill_rengurn": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_silenthill_pt": {
     "admin": false,
     "certainTimes": [-1],
