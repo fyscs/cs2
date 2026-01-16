@@ -35,7 +35,7 @@
     {
       "iterator": "lv3_team_boss_hp",
       "hitbox": "lv3_team_boss_hitbox",
-      "display": ""lv3_team_boss"
+      "display": "lv3_team_boss"
     },
     {
       "iterator": "lv3_team_boss2_hp",
