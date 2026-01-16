@@ -220,7 +220,9 @@
     "translation": "地图作者:Trazix地图汉化:余清茗染@Fys"
   },
   "The doors opening in 30s": {
-    "translation": "30秒后开门"
+    "translation": "25秒后开门",
+    "clearTimer": true,
+    "countdown": 25
   },
   "Stay inside the room until the zombies outside get teleport!": {
     "translation": "待在房间里直到外面的僵尸传送"
@@ -229,6 +231,7 @@
     "translation": "激活起爆器后爬上箱子"
   },
   "Keep holding until zombies get teleport!": {
-    "translation": "守住直到僵尸传送"
+    "translation": "僵尸将在83秒后传送",
+    "countdown": 83
   }
 }
