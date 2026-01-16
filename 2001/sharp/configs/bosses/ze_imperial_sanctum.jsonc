@@ -25,7 +25,7 @@
     {
       "iterator": "lv1_boss_counter",
       "hitbox": "lv1_boss_hitbox",
-      "display": "Boss"
+      "display": "lv1_boss"
     },
     {
       "iterator": "feilin_hp",
@@ -35,22 +35,22 @@
     {
       "iterator": "lv3_team_boss_hp",
       "hitbox": "lv3_team_boss_hitbox",
-      "display": "Boss"
+      "display": ""lv3_team_boss"
     },
     {
       "iterator": "lv3_team_boss2_hp",
       "hitbox": "lv3_team_boss2_hitbox",
-      "display": "Boss"
+      "display": "lv3_team_boss2"
     },
     {
       "iterator": "lv3_solo_boss1_hp",
       "hitbox": "lv3_solo_boss1_hitbox",
-      "display": "Boss"
+      "display": "lv3_solo_boss1"
     },
     {
       "iterator": "lv3_solo_boss2_hp",
       "hitbox": "lv3_solo_boss2_hitbox",
-      "display": "Boss"
+      "display": "lv3_solo_boss2"
     }
   ]
 }
