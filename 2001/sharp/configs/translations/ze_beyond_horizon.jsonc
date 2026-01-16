@@ -1,0 +1,113 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "use wind": {
+    "translation": "使用风力"
+  },
+  "use thunder": {
+    "translation": "使用雷电"
+  },
+  "hardMOD": {
+    "translation": "困难模式"
+  },
+  "Stage1 Extreme Mode": {
+    "translation": "第一关ex模式"
+  },
+  "Stage2": {
+    "translation": "第二关"
+  },
+  "Survive until you teleport": {
+    "translation": "存活直至传送"
+  },
+  "*ーーーーーーーーーーーーーーーーーーーーーーーー*": {
+    "translation": "*------------------------------*",
+    "blocked": true
+  },
+  "StageEX3": {
+    "translation": "ex第三关"
+  },
+  "Stage EX2": {
+    "translation": "ex第二关"
+  },
+  "Stage1": {
+    "translation": "第一关"
+  },
+  "Stage3": {
+    "translation": "第三关"
+  },
+  "afk teleport 10s": {
+    "translation": "挂机还有10秒传送"
+  },
+  "Waiting for the dolphins to arrive": {
+    "translation": "等待海豚抵达"
+  },
+  "hold 30s": {
+    "translation": "坚守30秒"
+  },
+  "hold 15s": {
+    "translation": "坚守15秒"
+  },
+  "hold 50s": {
+    "translation": "坚守50秒"
+  },
+  "map by 冬條舞兎-ToujouMaito": {
+    "translation": "地图作者:冬條舞兎 地图文本:雾雨猫猫"
+  },
+  "Welcome to the Beyond Horizon": {
+    "translation": "欢迎来到地平线"
+  },
+  "Have a good time!": {
+    "translation": "祝你玩得愉快"
+  },
+  "last Defense 30s": {
+    "translation": "最后防守30秒"
+  },
+  "hold 20s": {
+    "translation": "坚守20秒"
+  },
+  "It takes 10 seconds for the large dolphin to start moving.": {
+    "translation": "海豚需要10秒后移动"
+  },
+  "hold 40s": {
+    "translation": "坚守40秒"
+  },
+  "This red crystal looks like it could be destroyed with a gun.": {
+    "translation": "这个红色水晶看起来可以用枪摧毁"
+  },
+  "hold 60s": {
+    "translation": "坚守60秒"
+  },
+  "STAGE 1 win": {
+    "translation": "第一关胜利"
+  },
+  "next STAGE2": {
+    "translation": "下一阶段:第二关"
+  },
+  "STAGE 2 win": {
+    "translation": "第二关胜利"
+  },
+  "next STAGE 3": {
+    "translation": "下一阶段:第三关"
+  },
+  "hold 10s": {
+    "translation": "坚守10秒"
+  },
+  "Thanks for playing": {
+    "translation": "感谢游玩"
+  },
+  "STAGE3 win": {
+    "translation": "第三关胜利"
+  },
+  "遊んでくれてありがとうございます！": {
+    "translation": "感谢您的游玩"
+  }
+}
