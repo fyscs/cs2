@@ -1,0 +1,69 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "路径在30秒后开放": {
+    "translation": "路径在30秒后开放"
+  },
+  "say我记得花园没有围栏的啊？！哪里来的围栏？！": {
+    "translation": "我记得花园没有围栏的啊,哪里来的围栏"
+  },
+  "20s": {
+    "translation": "20s"
+  },
+  "say我们需要坚守20秒直到激光过载关闭": {
+    "translation": "坚守20秒"
+  },
+  "say里怎么有那么多草丛？我们要找到前往大门的路！！": {
+    "translation": "找到前往大门的路"
+  },
+  "say25 enable teleport": {
+    "translation": "25s后传送",
+    "countdown": 25
+  },
+  "找到了！就在这里.等我把门打开！我需要30秒的时间！": {
+    "translation": "打开大门需要30秒"
+  },
+  "等我把门打开！我需要30秒的时间！": {
+    "translation": "防守30s",
+    "blocked": true
+  },
+  "这是本人第一张正式地图，原本计划是多关卡的神器对抗地图，但是由于个人原因搁置了1年的时间，最近才重新制作，很多细节都没有处理，有缘会在后续完善该地图": {
+    "translation": "本人第一张地图,有缘会在后续进行完善"
+  },
+  "路径15s": {
+    "translation": "路径15s"
+  },
+  "enable teleport in 10s": {
+    "translation": "10s后传送"
+  },
+  "玻璃？打碎它！": {
+    "translation": "打碎玻璃"
+  },
+  "rady to teleport": {
+    "translation": "准备传送"
+  },
+  "这里怎么有一块玻璃？打碎它！": {
+    "translation": "打碎玻璃"
+  },
+  "30s": {
+    "translation": "30s"
+  },
+  "say怎么会有半座桥升上来？这不合理啊！！谁设计的地图！": {
+    "translation": "怎么会有半座桥升上来"
+  },
+  "say该死，前面怎么还有激光？！想办法关掉它！": {
+    "translation": "想办法关掉激光"
+  },
+  "say玻璃？这怎么有个玻璃挡路，给我30S时间！等我吧这不合理的玻璃删除": {
+    "translation": "需要30s破碎玻璃"
+  }
+}
