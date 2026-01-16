@@ -2744,6 +2744,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_military_escape_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_minecraft_adventure": {
     "admin": false,
     "certainTimes": [-1],
