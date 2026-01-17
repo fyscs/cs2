@@ -265,13 +265,13 @@
     "translation": "你们通关了宇宙峡谷!!恭喜!!"
   },
   "**NORMAL MODE**": {
-    "translation": "普通模式"
+    "translation": "NORMAL模式"
   },
   "**HARD MODE**": {
-    "translation": "困难模式"
+    "translation": "HARD模式"
   },
   "**EXTREME MODE**": {
-    "translation": "极限模式"
+    "translation": "EXTREME模式"
   },
   "**GI NATTAK USES LAVA SUPERATTACK**": {
     "translation": "吉纳塔克使用熔岩攻击"
@@ -283,7 +283,7 @@
     "translation": "伊芙利特被击败!快上飞船"
   },
   "**RAGE MODE**": {
-    "translation": "狂暴模式"
+    "translation": "Rage模式"
   },
   "**The map is beaten. Find your place and defend it**": {
     "translation": "地图已通关,找一个地方防守就行"
@@ -344,5 +344,23 @@
   },
   "** Dont Bhop **": {
     "translation": "不要连跳"
+  },
+  "[Sephiroth]:I will never be a memory.": {
+    "translation": "[萨菲罗斯]:I will never be a memory。"
+  },
+  "**Cover here for 15 seconds before we clear this obstacle**": {
+    "translation": "在此防守15秒后障碍将被清除"
+  },
+  "[Sephiroth]:You actually defeated Genesis... incredible.": {
+    "translation": "[萨菲罗斯]:你们竟然打败了杰尼西斯...难以置信。"
+  },
+  "[Sephiroth]: Now, are you prepared to face my attack？": {
+    "translation": "[萨菲罗斯]: 现在,你们准备好面对我的攻击了吗？"
+  },
+  "[Sephiroth]: I will strike from the Left side.": {
+    "translation": "[萨菲罗斯]: 我将从左侧发起进攻。"
+  },
+  "[Sephiroth]: I will strike from the Right side.": {
+    "translation": "[萨菲罗斯]: 我将从右侧发起进攻。"
   }
 }
