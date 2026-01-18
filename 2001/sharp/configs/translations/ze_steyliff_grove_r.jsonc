@@ -1,0 +1,187 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "> 往下跳,返回传送门所在之处.": {
+    "translation": "往下跳,返回传送门所在之处"
+  },
+  "> 上升的平台损坏了!?": {
+    "translation": "上升的平台损坏了!?"
+  },
+  "> 只能深入其中了...": {
+    "translation": "只能深入其中了..."
+  },
+  "> 等待此门开启.": {
+    "translation": "等待此门开启"
+  },
+  "< 13 seconds? >": {
+    "translation": "13秒"
+  },
+  "< 11 seconds? >": {
+    "translation": "11秒"
+  },
+  "> 石门正在缓缓开启...": {
+    "translation": "石门正在缓缓开启..."
+  },
+  "- Steyliff Grove Re -": {
+    "translation": "FF15:斯基利弗宫RE 文本翻译:圣光猫猫&Fys"
+  },
+  "< Original - Final Fantasy XV >": {
+    "translation": "原作:最终幻想XV"
+  },
+  "*当前版本<前冲Avant>和<后跳Elusive>未进行区域限制,请勿利用漏洞进行卖人行为*": {
+    "translation": "当前版本<前冲Avant>和<后跳Elusive>未进行区域限制,请勿利用漏洞进行卖人行为"
+  },
+  "> 等待传送门开启..": {
+    "translation": "等待传送门开启.."
+  },
+  "- 又一次,,,是错觉？ -": {
+    "translation": "又一次,,,是错觉?"
+  },
+  "- 蝴蝶纷飞的花朵,深藏其中的秘密 -": {
+    "translation": "蝴蝶纷飞的花朵,深藏其中的秘密"
+  },
+  "> 花と心臓": {
+    "translation": "花と心臓"
+  },
+  "- 命运的道路出现了分岔口 -": {
+    "translation": "命运的道路出现了分岔口"
+  },
+  "< 17 seconds? >": {
+    "translation": "17秒"
+  },
+  "> 平台将在13秒后上升.": {
+    "translation": "平台将在13秒后上升"
+  },
+  "- 时光重来是否会有不一样的结局 -": {
+    "translation": "时光重来是否会有不一样的结局"
+  },
+  "> 是离开这的时刻了...": {
+    "translation": "是离开这的时刻了..."
+  },
+  "< 15 seconds? >": {
+    "translation": "15秒"
+  },
+  "> 搭乘上升平台前往高层.": {
+    "translation": "搭乘上升平台前往高层"
+  },
+  "< 初 >": {
+    "translation": "初"
+  },
+  "< 花 >": {
+    "translation": "花"
+  },
+  "< 12 seconds? >": {
+    "translation": "12秒"
+  },
+  "「未完成的,不安定魔法」": {
+    "translation": "未完成的,不安定魔法"
+  },
+  "> 花妖的试炼之战在10秒后.": {
+    "translation": "花妖的试炼之战在10秒后"
+  },
+  "> 与不明之物的战斗在10秒后.": {
+    "translation": "与不明之物的战斗在10秒后"
+  },
+  "> 等待雾气消散.": {
+    "translation": "等待雾气消散"
+  },
+  "< 终 >": {
+    "translation": "终"
+  },
+  "- Zombie Item Lock -": {
+    "translation": "僵尸神器封锁"
+  },
+  "- Zombie Item Unlock -": {
+    "translation": "僵尸神器解锁"
+  },
+  "> 不妙的气息...": {
+    "translation": "不妙的气息..."
+  },
+  "Merry Christmas Audiฅ^｡ꞈ｡^ฅ": {
+    "translation": "圣诞快乐 Audiฅ^｡ꞈ｡^ฅ"
+  },
+  "さよなら,ハルメギド": {
+    "translation": "永别,哈鲁梅吉德"
+  },
+  "> A player has learned [ Elusive ] magic, <": {
+    "translation": "一名玩家掌握了<后跳>魔法"
+  },
+  "> A player has learned [ Avant ] magic, <": {
+    "translation": "一名玩家掌握了<前冲>魔法"
+  },
+  "> A player has learned [ Sprint ] magic, <": {
+    "translation": "一名玩家掌握了<加速>魔法"
+  },
+  "> A player has learned [ Bio ] magic, <": {
+    "translation": "一名玩家掌握了<生物>魔法"
+  },
+  "> A player has learned [ Blizzard ] magic, <": {
+    "translation": "一名玩家掌握了<暴雪>魔法"
+  },
+  "> A zombie has learned [ Siphon ] magic, <": {
+    "translation": "一名僵尸掌握了<加速>魔法"
+  },
+  "> A zombie has learned [ Ward ] magic, <": {
+    "translation": "一名僵尸掌握了<冲锋>魔法"
+  },
+  "> A zombie has learned [ Impact ] magic, <": {
+    "translation": "一名僵尸掌握了<冲击>魔法"
+  },
+  "> A player has learned [ Fire ] magic, <": {
+    "translation": "一名玩家掌握了<火>魔法"
+  },
+  "- 爆炎已就绪 -": {
+    "translation": "爆炎已就绪"
+  },
+  "> Copy Qiou-Square <": {
+    "translation": "复制 器偶-方阵"
+  },
+  "> Copy Qiou-Beam <": {
+    "translation": "复制 器偶-激光"
+  },
+  "< 章节完成 >": {
+    "translation": "章节完成"
+  },
+  "> 似乎领悟了些什么...": {
+    "translation": "似乎领悟了些什么..."
+  },
+  "< 咔咔咔! >": {
+    "translation": "咔咔咔!"
+  },
+  "> 回到传送门之处重新启动它..": {
+    "translation": "回到传送门之处重新启动它.."
+  },
+  "> ❀と❤,": {
+    "translation": "❀と❤"
+  },
+  "> 似乎无法正常启动...": {
+    "translation": "似乎无法正常启动..."
+  },
+  "> A player has learned [ Gravity ] magic, <": {
+    "translation": "一名玩家掌握了<黑洞>魔法"
+  },
+  "> A player has learned [ Cure ] magic, <": {
+    "translation": "一名玩家掌握了<奶>魔法"
+  },
+  "> 不明之物的力量并未消散!?": {
+    "translation": "不明之物的力量并未消散!?"
+  },
+  "> 消失了？...": {
+    "translation": "消失了?..."
+  },
+  "> 这个力量是?": {
+    "translation": "这个力量是?"
+  },
+  "> 成群的蝙蝠预示着不幸？": {
+    "translation": "成群的蝙蝠预示着不幸?"
+  }
+}
