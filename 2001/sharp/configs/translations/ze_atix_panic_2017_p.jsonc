@@ -11,53 +11,53 @@
 
 {
   "++ 60 seconds until the secret is disabled ++": {
-    "translation": "**60秒后将禁用密码**"
+    "translation": "60秒后将禁用密码"
   },
   "++ NUKE IN 10 SECONDS ++": {
-    "translation": "**10秒后核爆**"
+    "translation": "10秒后核爆"
   },
   "++ 20 SECONDS UNTIL THE HELICOPTER LEAVES ++": {
-    "translation": "**直升机还有20秒撤离**"
+    "translation": "直升机还有20秒撤离"
   },
   "++ HELICOPTER IS LEAVING ++": {
-    "translation": "**直升机正在撤离**"
+    "translation": "直升机正在撤离"
   },
   "++ HELICOPTER ON THE WAY ++": {
-    "translation": "**等待直升机到达**"
+    "translation": "等待直升机到达"
   },
   "++ 30 SECONDS UNTIL ARRIVAL ++": {
-    "translation": "**还有30秒到达**"
+    "translation": "还有30秒到达"
   },
   "++ 15 seconds to choose ++": {
-    "translation": "**你有15秒的时间去选择**"
+    "translation": "你有15秒的时间去选择"
   },
   "++ ZOMBIE BARRIERS ARE EASIER TO BREAK NOW ++": {
-    "translation": "**障碍物现在变得不堪一击**"
+    "translation": "障碍物现在变得不堪一击"
   },
   "++ ALL FLOORS ARE UNLOCKED ++": {
-    "translation": "**所有楼层都已解封**"
+    "translation": "所有楼层都已解封"
   },
   "++ THIRD FLOOR WILL BE UNLOCKED IN 10 SECONDS ++": {
-    "translation": "**三楼将在10秒后解封**"
+    "translation": "三楼将在10秒后解封"
   },
   "++ SECOND FLOOR WILL BE UNLOCKED IN 10 SECONDS ++": {
-    "translation": "**二楼将在10秒后解封**"
+    "translation": "二楼将在10秒后解封"
   },
   "++ FIRST FLOOR WILL BE UNLOCKED IN 10 SECONDS ++": {
-    "translation": "**一楼将在10秒后解封**"
+    "translation": "一楼将在10秒后解封"
   },
   "++ DOORS WILL BE UNLOCKED IN 30 SECONDS ++": {
-    "translation": "**大门将在30秒后解锁**",
+    "translation": "大门将在30秒后解锁",
     "blocked": true
   },
   "++ DOORS WILL BE UNLOCKED IN 60 SECONDS ++": {
-    "translation": "**大门将在60秒后解锁**"
+    "translation": "大门将在60秒后解锁"
   },
   "++ DOORS WILL BE UNLOCKED IN 120 SECONDS ++": {
-    "translation": "**大门将在10秒后解锁**",
+    "translation": "大门将在10秒后解锁",
     "blocked": true
   },
   "++ Wrong button! ++": {
-    "translation": "**错误的按钮!**"
+    "translation": "错误的按钮!"
   }
 }
