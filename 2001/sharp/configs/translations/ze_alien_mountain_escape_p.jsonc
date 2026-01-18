@@ -11,30 +11,30 @@
 
 {
   "*** AFK Teleport in 15 seconds ***": {
-    "translation": "*** 15秒后传送挂机的僵尸 ***"
+    "translation": "15秒后传送挂机的僵尸"
   },
   "*** Nuke in 20 seconds ***": {
-    "translation": "*** 20秒后核爆 ***"
+    "translation": "20秒后核爆"
   },
   "*** Spaceship leaving in 90 seconds ***": {
-    "translation": "*** 飞船将在90秒后离开 ***"
+    "translation": "飞船将在90秒后离开"
   },
   "*** Spaceship leaving in 60 seconds ***": {
-    "translation": "*** 飞船将在60秒后离开 ***",
+    "translation": "飞船将在60秒后离开",
     "blocked": true
   },
   "*** Spaceship leaving in 30 seconds ***": {
-    "translation": "*** 飞船将在30秒后离开 ***",
+    "translation": "飞船将在30秒后离开",
     "blocked": true
   },
   "*** Spaceship leaving in 10 seconds ***": {
-    "translation": "*** 飞船将在10秒后离开 ***",
+    "translation": "飞船将在10秒后离开",
     "blocked": true
   },
   "*** Spaceship leaving ***": {
-    "translation": "*** 飞船启动 ***"
+    "translation": "飞船启动"
   },
   "*** AFK Teleport in 10 seconds ***": {
-    "translation": "*** 10秒后传送挂机的僵尸 ***"
+    "translation": "10秒后传送挂机的僵尸"
   }
 }
