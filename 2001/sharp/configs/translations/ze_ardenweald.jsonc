@@ -11,46 +11,46 @@
 
 {
   ">>>被你发现了<<<": {
-    "translation": ">>>被你发现了<<<"
+    "translation": "被你发现了"
   },
   ">>>你好像走错了<<<": {
     "translation": "你好像走错了..."
   },
   ">>>前方的路很难走，要仔细辨别哦，5 seconds left<<<": {
-    "translation": ">>>5秒后门开<<<",
+    "translation": "5秒后门开",
     "countdown": 5
   },
   ">>>还需要再等一会哦,30second left<<<": {
-    "translation": ">>>坚守30秒<<<",
+    "translation": "坚守30秒",
     "countdown": 30
   },
   ">>>还需要再等一会哦,10second left<<<": {
-    "translation": ">>>坚守10秒<<<",
+    "translation": "坚守10秒",
     "blocked": true
   },
   ">>>石碑印记，指明道路。独一无二，引领前路<<<": {
-    "translation": ">>>石碑印记,指明道路.独一无二,引领前路<<<"
+    "translation": "石碑印记,指明道路.独一无二,引领前路"
   },
   ">>>地图作者：ze探险家<<<": {
-    "translation": ">>>地图作者:ze探险家 文本翻译:秋言不会跳刀<<<"
+    "translation": "地图作者:ze探险家 文本翻译:秋言不会跳刀"
   },
   ">>>欢迎来到炽蓝仙野<<<": {
-    "translation": ">>>欢迎来到炽蓝仙野<<<"
+    "translation": "欢迎来到炽蓝仙野"
   },
   ">>>找出不同图案解锁机关<<<": {
-    "translation": ">>>找出不同图案解锁机关<<<"
+    "translation": "找出不同图案解锁机关"
   },
   ">>>祝你好运<<<": {
-    "translation": ">>>祝你好运<<<"
+    "translation": "祝你好运"
   },
   ">>>你需要找到机关才能打开迷雾之门<<<": {
-    "translation": ">>>你需要找到机关才能打开迷雾之门<<<"
+    "translation": "你需要找到机关才能打开迷雾之门"
   },
   ">>>咦，这个宝石是干嘛的<<<": {
-    "translation": ">>>咦,这个宝石是干嘛的<<<"
+    "translation": "咦,这个宝石是干嘛的"
   },
   ">>>10 seconds<<<": {
-    "translation": ">>>再阻挡10秒<<<",
+    "translation": "再阻挡10秒",
     "countdown": 10
   },
   ">>>终于出来了！小心前方荆棘！，15second<<<": {
@@ -62,10 +62,10 @@
     "countdown": 10
   },
   ">>>太好了，你找到了<<<": {
-    "translation": ">>>太好了,你找到了<<<"
+    "translation": "太好了,你找到了"
   },
   ">>>同类同形，虚无之路。唯一印记，唯一正途<<<": {
-    "translation": ">>>同类同形,虚无之路,唯一印记,唯一正途<<<"
+    "translation": "同类同形,虚无之路,唯一印记,唯一正途"
   },
   ">>>开关已全部激活 20 seconds left<<<": {
     "translation": "石板将在20秒后上升",
@@ -84,7 +84,7 @@
     "countdown": 30
   },
   ">>>第一关胜利<<<": {
-    "translation": ">>>第一关胜利<<<"
+    "translation": "第一关胜利"
   },
   ">>>道路还有10秒显现, 10 seconds left<<<": {
     "translation": "道路还有10秒显现",
@@ -105,7 +105,7 @@
     "countdown": 30
   },
   ">>>胜利<<<": {
-    "translation": ">>>恭喜你胜利了<<<"
+    "translation": "恭喜你胜利了"
   },
   ">>>被你发现了,10second left<<<": {
     "translation": "迷雾之门10秒后散去",
