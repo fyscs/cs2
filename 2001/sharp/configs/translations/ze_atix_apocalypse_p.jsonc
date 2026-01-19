@@ -11,15 +11,15 @@
 
 {
   "*** HELICOPTER EVACUATION ***": {
-    "translation": "***直升机撤离***"
+    "translation": "直升机撤离"
   },
   "*** TRUCK EVACUATION ***": {
-    "translation": "***卡车撤离***"
+    "translation": "卡车撤离"
   },
   "*** TRAIN EVACUATION ***": {
-    "translation": "***列车撤离***"
+    "translation": "列车撤离"
   },
   "*** BOAT EVACUATION ***": {
-    "translation": "***船只撤离***"
+    "translation": "船只撤离"
   }
 }
