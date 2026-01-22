@@ -1,0 +1,196 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "激光将在20秒后关闭": {
+    "translation": "激光将在20秒后关闭"
+  },
+  "看样子下面漏电了,快找到电源开关": {
+    "translation": "找到电源开关"
+  },
+  "<<  30  >>": {
+    "translation": "30秒",
+    "countdown": 30
+  },
+  "电梯将在30秒后开启": {
+    "translation": "电梯将在30秒后开启"
+  },
+  "红色双扇门将在30秒后开启": {
+    "translation": "红色双扇门将在30秒后开启"
+  },
+  "<<  15  >>": {
+    "translation": "15秒",
+    "countdown": 15
+  },
+  "<<  45  >>": {
+    "translation": "45秒",
+    "countdown": 45
+  },
+  "<<   30   >>": {
+    "translation": "30秒",
+    "countdown": 30
+  },
+  "找到电源开关了": {
+    "translation": "找到电源开关了"
+  },
+  "<<  20  >>": {
+    "translation": "20秒",
+    "countdown": 20
+  },
+  "蒸汽关掉了": {
+    "translation": "蒸汽关掉了"
+  },
+  "<< 门将在40秒后开启 >>": {
+    "translation": "门将在40秒后开启"
+  },
+  "<<  30 >>": {
+    "translation": "30秒",
+    "countdown": 30
+  },
+  "***  10  ***": {
+    "translation": "10秒",
+    "countdown": 10
+  },
+  "<< 30 >>": {
+    "translation": "30秒",
+    "countdown": 30
+  },
+  "<<  10 >>": {
+    "translation": "10秒",
+    "countdown": 10
+  },
+  "在这个房间里找到蒸汽管道开关!": {
+    "translation": "在这个房间里找到蒸汽管道开关"
+  },
+  "可以走了": {
+    "translation": "可以走了"
+  },
+  "马上了": {
+    "translation": "马上了"
+  },
+  "还有10秒": {
+    "translation": "还有10秒"
+    "countdown": 10
+  },
+  "马上就可以出去了": {
+    "translation": "马上就可以出去了"
+  },
+  "5秒钟": {
+    "translation": "5秒"
+    "countdown": 5
+  },
+  "道路被火焰阻挡了": {
+    "translation": "道路被火焰阻挡了"
+  },
+  "我们要穿过餐厅了": {
+    "translation": "我们要穿过餐厅了"
+  },
+  "在给我10秒时间": {
+    "translation": "再给我10秒时间"
+  },
+  "<<  10  >>": {
+    "translation": "10秒",
+    "countdown": 10
+  },
+  "看来我们要走左边了": {
+    "translation": "看来我们要走左边了"
+  },
+  "<<  5  >>": {
+    "translation": "5秒",
+    "countdown": 5
+  },
+  "看来我们要走中间了": {
+    "translation": "看来我们要走中间了"
+  },
+  "<<  25  >>": {
+    "translation": "25秒",
+    "countdown": 25
+  },
+  "第二区域大门将在20秒后开启": {
+    "translation": "大门将在20秒后开启"
+  },
+  "障碍将在20秒后破碎": {
+    "translation": "障碍将在20秒后破碎"
+  },
+  "快想办法攻击电箱关闭电源": {
+    "translation": "想办法攻击电箱关闭电源"
+  },
+  "<<  20 >>": {
+    "translation": "20秒",
+    "countdown": 20
+  },
+  "找到开关了": {
+    "translation": "找到开关了"
+  },
+  "给我一点时间": {
+    "translation": "给我一点时间"
+  },
+  "该死!这个电梯年久失修了": {
+    "translation": "该死!这个电梯年久失修了"
+  },
+  "还能找到其他道路吗?": {
+    "translation": "还能找到其他道路吗?"
+  },
+  "这个电梯看样子还有办法使用": {
+    "translation": "这个电梯看样子还有办法使用"
+  },
+  "去找一下开关吧": {
+    "translation": "去找一下开关吧"
+  },
+  "希望不会出问题": {
+    "translation": "希望不会出问题"
+  },
+  "障碍将在30秒碎裂": {
+    "translation": "障碍将在30秒后碎裂"
+  },
+  "<<  35  >>": {
+    "translation": "35秒",
+    "countdown": 35
+  },
+  "<<  3  >>": {
+    "translation": "3秒",
+    "countdown": 3
+  },
+  "检测到人数低于 << 38 >>": {
+    "translation": "检测到人数低于38人"
+  },
+  "将已 << 赤子 >> 小队进行后续": {
+    "translation": "将已赤子小队进行后续"
+  },
+  "结局二:  << 赤子之心 >>": {
+    "translation": "结局二:赤子之心"
+  },
+  "已启用 << 赤子之心 >> 配置": {
+    "translation": "已启用赤子之心配置"
+  },
+  "<<  40  >>": {
+    "translation": "40秒",
+    "countdown": 40
+  },
+  "设施区域正在破解": {
+    "translation": "设施区域正在破解"
+  },
+  "给我10秒": {
+    "translation": "给我10秒"
+  },
+  "检测到人数大于<< 38 >>人": {
+    "translation": "检测到人数大于38人"
+  },
+  "将已 << 赤心 >> 小队进行后续": {
+    "translation": "将已赤心小队进行后续"
+  },
+  "结局: << 灼日烛心 >>": {
+    "translation": "结局:灼日烛心"
+  },
+  "已启用 <<灼日烛心>> 配置": {
+    "translation": "已启用灼日烛心配置"
+  }
+}
