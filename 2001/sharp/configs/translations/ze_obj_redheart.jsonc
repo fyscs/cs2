@@ -11,7 +11,8 @@
 
 {
   "激光将在20秒后关闭": {
-    "translation": "激光将在20秒后关闭"
+    "translation": "激光将在20秒后关闭",
+    "countdown": 20
   },
   "看样子下面漏电了,快找到电源开关": {
     "translation": "找到电源开关"
@@ -21,10 +22,12 @@
     "countdown": 30
   },
   "电梯将在30秒后开启": {
-    "translation": "电梯将在30秒后开启"
+    "translation": "电梯将在30秒后开启",
+    "countdown": 30
   },
   "红色双扇门将在30秒后开启": {
-    "translation": "红色双扇门将在30秒后开启"
+    "translation": "红色双扇门将在30秒后开启",
+    "countdown": 30
   },
   "<<  15  >>": {
     "translation": "15秒",
@@ -49,7 +52,8 @@
     "translation": "蒸汽关掉了"
   },
   "<< 门将在40秒后开启 >>": {
-    "translation": "门将在40秒后开启"
+    "translation": "门将在40秒后开启",
+    "countdown": 40
   },
   "<<  30 >>": {
     "translation": "30秒",
@@ -77,13 +81,15 @@
     "translation": "马上了"
   },
   "还有10秒": {
-    "translation": "还有10秒"
+    "translation": "还有10秒",
+    "countdown": 10
   },
   "马上就可以出去了": {
     "translation": "马上就可以出去了"
   },
   "5秒钟": {
-    "translation": "5秒"
+    "translation": "5秒",
+    "countdown": 5
   },
   "道路被火焰阻挡了": {
     "translation": "道路被火焰阻挡了"
@@ -92,7 +98,8 @@
     "translation": "我们要穿过餐厅了"
   },
   "在给我10秒时间": {
-    "translation": "再给我10秒时间"
+    "translation": "再给我10秒时间",
+    "countdown": 10
   },
   "<<  10  >>": {
     "translation": "10秒",
@@ -113,10 +120,12 @@
     "countdown": 25
   },
   "第二区域大门将在20秒后开启": {
-    "translation": "大门将在20秒后开启"
+    "translation": "大门将在20秒后开启",
+    "countdown": 20
   },
   "障碍将在20秒后破碎": {
-    "translation": "障碍将在20秒后破碎"
+    "translation": "障碍将在20秒后破碎",
+    "countdown": 20
   },
   "快想办法攻击电箱关闭电源": {
     "translation": "想办法攻击电箱关闭电源"
@@ -147,7 +156,8 @@
     "translation": "希望不会出问题"
   },
   "障碍将在30秒碎裂": {
-    "translation": "障碍将在30秒后碎裂"
+    "translation": "障碍将在30秒后碎裂",
+    "countdown": 30
   },
   "<<  35  >>": {
     "translation": "35秒",
@@ -177,7 +187,8 @@
     "translation": "设施区域正在破解"
   },
   "给我10秒": {
-    "translation": "给我10秒"
+    "translation": "给我10秒",
+    "countdown": 10
   },
   "检测到人数大于<< 38 >>人": {
     "translation": "检测到人数大于38人"
