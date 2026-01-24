@@ -101,7 +101,7 @@
     "translation": "已击败伊芙利特!快上飞船"
   },
   "**Get on the rocks to get saved!!!**": {
-    "translation": "快上石头,要结束了!"
+    "translation": "快跳上岩石才能保命"
   },
   "**GI NATTAK USES LAVA SUPERATTACK**": {
     "translation": "基纳塔克使用了岩浆攻击"
@@ -251,7 +251,7 @@
     "translation": ">> ZM模式 >>"
   },
   "**Gi Nattak is using fire**": {
-    "translation": "基纳塔克正在释放火焰"
+    "translation": "基纳塔克正在释放火焰(全屏伤害)"
   },
   "**Gi Nattak is using gravity**": {
     "translation": "基纳塔克正在释放重力,往后退"
@@ -260,13 +260,13 @@
     "translation": "基纳塔克恢复了自身血量!!"
   },
   "**Gi Nattak is using wind**": {
-    "translation": "基纳塔克正在释放暴风"
+    "translation": "基纳塔克正在释放暴风(对场中抵抗)"
   },
   "**Gi Nattak is using aspil**": {
     "translation": "基纳塔克正在释放摄魂术,快蹲下"
   },
   "**Gi Nattak is using poison**": {
-    "translation": "基纳塔克正在使用毒药"
+    "translation": "基纳塔克正在使用毒药(远离绿色特效)"
   },
   "**Gi Nattak is using shield**": {
     "translation": "基纳塔克正在使用护盾"
@@ -275,10 +275,10 @@
     "translation": "基纳塔克使用了沉默"
   },
   "**Gi Nattak is using Fire Nova!!! Get out of middle**": {
-    "translation": "基纳塔克释放了火焰新星!!离开中间!"
+    "translation": "基纳塔克释放了火焰新星!去场地边缘!"
   },
   "**Gi Nattak is using teleport**": {
-    "translation": "基纳塔克正在使用传送"
+    "translation": "基纳塔克正在使用传送,不要移动(可以直接按s回中间)"
   },
   "**The gates will open in 30 seconds**": {
     "translation": "大门还有30秒打开"
