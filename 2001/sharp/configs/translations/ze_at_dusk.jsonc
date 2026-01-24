@@ -1,0 +1,55 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "恭喜你们达成成就：": {
+    "translation": "恭喜你们达成成就"
+  },
+  "管理员的庇护": {
+    "translation": "管理员的庇护"
+  },
+  "坚持105秒": {
+    "translation": "坚持105秒"
+  },
+  "还有2分钟找个地方开黑": {
+    "translation": "还有120秒 找个地方开黑"
+  },
+  "你们有30秒进行躲藏": {
+    "translation": "你们有30秒进行躲藏",
+    "countdown": 30
+  },
+  "僵尸来了": {
+    "translation": "僵尸来了"
+  },
+  "坚持200秒": {
+    "translation": "坚持200秒"
+  },
+  "僵尸还有10秒到达": {
+    "translation": "僵尸还有10秒到达",
+    "countdown": 10
+  },
+  "这个酒馆发生了什么": {
+    "translation": "这个酒馆发生了什么"
+  },
+  "那个墙上怎么有一个凹陷": {
+    "translation": "那个墙上怎么有一个凹陷"
+  },
+  "这是个门守住50秒": {
+    "translation": "这是个门 守住50秒",
+    "countdown": 50
+  },
+  "恭喜你们达成成就": {
+    "translation": "恭喜你们达成成就"
+  },
+  "酒馆的秘密": {
+    "translation": "酒馆的秘密"
+  }
+}
