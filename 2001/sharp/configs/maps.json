@@ -719,6 +719,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_chenbai_alph": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_chicken_kingdom": {
     "admin": false,
     "certainTimes": [-1],
