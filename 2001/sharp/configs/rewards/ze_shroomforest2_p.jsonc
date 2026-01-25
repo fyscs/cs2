@@ -13,59 +13,59 @@
 
 {
   "1": {
-    "rankPasses": 7,
-    "rankDamage": 18000,
-    "rankIntern": 0.4,
-    "econPasses": 4,
-    "econDamage": 24000,
-    "econIntern": 0.2
-  },
-  "2": {
-    "rankPasses": 7,
-    "rankDamage": 18000,
-    "rankIntern": 0.4,
-    "econPasses": 3,
-    "econDamage": 24000,
-    "econIntern": 0.2
-  },
-  "3": {
-    "rankPasses": 7,
-    "rankDamage": 18000,
-    "rankIntern": 0.4,
-    "econPasses": 4,
-    "econDamage": 24000,
-    "econIntern": 0.2
-  },
-  "4": {
-    "rankPasses": 7,
-    "rankDamage": 18000,
-    "rankIntern": 0.4,
-    "econPasses": 5,
-    "econDamage": 24000,
-    "econIntern": 0.2
-  },
-  "5": {
-    "rankPasses": 7,
-    "rankDamage": 18000,
-    "rankIntern": 0.4,
-    "econPasses": 4,
-    "econDamage": 24000,
-    "econIntern": 0.2
-  },
-  "6": {
     "rankPasses": 8,
     "rankDamage": 18000,
-    "rankIntern": 0.4,
-    "econPasses": 4,
-    "econDamage": 24000,
-    "econIntern": 0.2
+    "rankIntern": 0.55,
+    "econPasses": 5,
+    "econDamage": 20000,
+    "econIntern": 0.48
+  },
+  "2": {
+    "rankPasses": 8,
+    "rankDamage": 18000,
+    "rankIntern": 0.48,
+    "econPasses": 5,
+    "econDamage": 20000,
+    "econIntern": 0.42
+  },
+  "3": {
+    "rankPasses": 8,
+    "rankDamage": 18000,
+    "rankIntern": 0.45,
+    "econPasses": 5,
+    "econDamage": 20000,
+    "econIntern": 0.4
+  },
+  "4": {
+    "rankPasses": 8,
+    "rankDamage": 18000,
+    "rankIntern": 0.55,
+    "econPasses": 5,
+    "econDamage": 20000,
+    "econIntern": 0.48
+  },
+  "5": {
+    "rankPasses": 8,
+    "rankDamage": 18000,
+    "rankIntern": 0.45,
+    "econPasses": 5,
+    "econDamage": 20000,
+    "econIntern": 0.4
+  },
+  "6": {
+    "rankPasses": 10,
+    "rankDamage": 24000,
+    "rankIntern": 0.42,
+    "econPasses": 6,
+    "econDamage": 26000,
+    "econIntern": 0.38
   },
   "7": {
     "rankPasses": 10,
-    "rankDamage": 18000,
-    "rankIntern": 0.45,
+    "rankDamage": 24000,
+    "rankIntern": 0.42,
     "econPasses": 6,
-    "econDamage": 24000,
-    "econIntern": 0.3
+    "econDamage": 26000,
+    "econIntern": 0.38
   }
 }
