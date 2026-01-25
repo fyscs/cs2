@@ -64,7 +64,7 @@
   },
   "ttt_closequarters": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [0, 1, 2, 3, 4, 5, 6, 7, 8],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -82,7 +82,7 @@
   },
   "ttt_community_pool_2017_v2": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 20,
     "nomination": true,
     "price": 250,
@@ -91,7 +91,7 @@
   },
   "ttt_community_pool_2018": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 20,
     "nomination": true,
     "price": 300,
@@ -109,7 +109,7 @@
   },
   "ttt_cs2_ballistrade_ctg": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 15,
     "nomination": true,
     "price": 300,
@@ -118,7 +118,7 @@
   },
   "ttt_cs2_chateau": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 10,
     "nomination": false,
     "price": 250,
@@ -172,7 +172,7 @@
   },
   "ttt_cs2_jank": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -181,7 +181,7 @@
   },
   "ttt_cs2_magma": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 10,
     "nomination": false,
     "price": 250,
@@ -190,7 +190,7 @@
   },
   "ttt_cs2_mako_reactor": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 20,
     "nomination": true,
     "price": 400,
@@ -199,7 +199,7 @@
   },
   "ttt_cs2_mcvillage_b3": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 15,
     "nomination": false,
     "price": 300,
@@ -217,7 +217,7 @@
   },
   "ttt_cs2_moonjam": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 15,
     "nomination": true,
     "price": 250,
@@ -262,7 +262,7 @@
   },
   "ttt_cs2_slender_slayers": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 15,
     "nomination": true,
     "price": 400,
@@ -280,7 +280,7 @@
   },
   "ttt_cs2_terrortrain_v1": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 15,
     "nomination": false,
     "price": 250,
@@ -298,7 +298,7 @@
   },
   "ttt_cs2_toxa_west_v2": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [0, 1, 2, 3, 4, 5, 6, 7, 8],
     "cooldown": 10,
     "nomination": false,
     "price": 250,
@@ -316,7 +316,7 @@
   },
   "ttt_cs2_two_house": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [0, 1, 2, 3, 4, 5, 6, 7, 8],
     "cooldown": 10,
     "nomination": false,
     "price": 250,
@@ -325,7 +325,7 @@
   },
   "ttt_cs2_typhoon": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 10,
     "nomination": false,
     "price": 250,
@@ -334,7 +334,7 @@
   },
   "ttt_cs2_yakuza": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 15,
     "nomination": false,
     "price": 350,
@@ -343,7 +343,7 @@
   },
   "ttt_cs2_minecraft_village_city": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [0, 1, 2, 3, 4, 5, 6, 7, 8],
     "cooldown": 10,
     "nomination": false,
     "price": 250,
@@ -388,7 +388,7 @@
   },
   "ttt_highschool": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 10,
     "nomination": false,
     "price": 300,
@@ -397,7 +397,7 @@
   },
   "ttt_militia_original": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 15,
     "nomination": false,
     "price": 300,
