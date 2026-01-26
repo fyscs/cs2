@@ -3699,7 +3699,7 @@
     "requiredPlayers": 25
   },
   "ze_pokemon_kanto_v1": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 60,
     "nomination": false,
