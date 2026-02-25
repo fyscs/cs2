@@ -66,8 +66,7 @@
   "Breakables": [
     {
       "target": "Borov_01_hitbox",
-      "display": "野猪",
-      "hitbox": "Borov_01_Model"
+      "display": "野猪"
     }
   ],
   "Monsters": [
