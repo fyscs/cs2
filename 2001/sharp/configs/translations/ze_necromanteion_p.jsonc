@@ -1,0 +1,446 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***The door is locked. Find a way to unlock it***": {
+    "translation": "门被锁住了,想办法打开它"
+  },
+  "***Shoot the wall to go outside! Hurry !!!***": {
+    "translation": "射击墙壁到外面去"
+  },
+  "***Shoot the wall to go inside***": {
+    "translation": "射击墙壁进去"
+  },
+  "***Admin button is pressed !!!***": {
+    "translation": "管理员按钮被按下了"
+  },
+  "***Changing to Level 1***": {
+    "translation": "切换到第1关"
+  },
+  "***Changing to Level 2***": {
+    "translation": "切换到第2关"
+  },
+  "***Changing to Level 3***": {
+    "translation": "切换到第3关"
+  },
+  "***The door will break in 15s***": {
+    "translation": "门将在15秒后破坏"
+  },
+  "***The door is opened***": {
+    "translation": "门开了"
+  },
+  "***30s***": {
+    "translation": "30秒"
+  },
+  "***45s***": {
+    "translation": "45秒"
+  },
+  "***1 minute 30s***": {
+    "translation": "90秒",
+    "countdown": 90
+  },
+  "***Hold them for 2 minutes***": {
+    "translation": "坚守120秒"
+  },
+  "***1 minute***": {
+    "translation": "60秒"
+  },
+  "***15s***": {
+    "translation": "15秒"
+  },
+  "***5s***": {
+    "translation": "5秒"
+  },
+  "***Congratulation!!!***": {
+    "translation": "恭喜!"
+  },
+  "***You won this map!!!***": {
+    "translation": "你赢了这张地图!"
+  },
+  "***Thanks for playing***": {
+    "translation": "感谢游玩"
+  },
+  "***I hope you enjoy this map***": {
+    "translation": "希望你喜欢这张地图"
+  },
+  "***Map by Qahnaarin***": {
+    "translation": "地图作者: Qahnaarin,地图文本:雾雨猫猫"
+  },
+  "***You take too much of time!!!***": {
+    "translation": "你们花的时间太久了!"
+  },
+  "***You failed!!!***": {
+    "translation": "你们失败了!"
+  },
+  "***SERVANTS***": {
+    "translation": "仆从们"
+  },
+  "***BLACK HOLE***": {
+    "translation": "黑洞"
+  },
+  "***DEATH LIGHT***": {
+    "translation": "死亡之光"
+  },
+  "***SUPERNOVA***": {
+    "translation": "超新星"
+  },
+  "***WELCOME MORTALS***": {
+    "translation": "欢迎,凡人"
+  },
+  "***FACE THE JUDGEMENT***": {
+    "translation": "面对审判"
+  },
+  "***You defeated me....***": {
+    "translation": "你打败了我...."
+  },
+  "***But Iem not dead yet.....***": {
+    "translation": "但我还没死....."
+  },
+  "***I know I will see you in the future......***": {
+    "translation": "我知道我们未来还会再见......"
+  },
+  "***LEAVE NOW***": {
+    "translation": "立刻离开"
+  },
+  "***Not bad...***": {
+    "translation": "不错嘛..."
+  },
+  "***But...***": {
+    "translation": "但是..."
+  },
+  "***How about now?***": {
+    "translation": "现在呢?"
+  },
+  "***The door will open in 25s***": {
+    "translation": "门将在25秒后打开"
+  },
+  "***The door will open in 10s***": {
+    "translation": "门将在10秒后打开"
+  },
+  "***JUMP DOWN***": {
+    "translation": "跳下去"
+  },
+  "***The ceiling will break in 15s***": {
+    "translation": "天花板将在15秒后破裂"
+  },
+  "***The ceiling is broken***": {
+    "translation": "天花板破裂了"
+  },
+  "***Shoot the floor!!!***": {
+    "translation": "射击地板!"
+  },
+  "***The door will open in 20s***": {
+    "translation": "门将在20秒后打开"
+  },
+  "***The door will open in 5s***": {
+    "translation": "门将在5秒后打开"
+  },
+  "***The first button is triggered***": {
+    "translation": "第一个按钮被触发了"
+  },
+  "***All buttons are triggered***": {
+    "translation": "所有按钮都被触发了"
+  },
+  "***The elevators are leaving in 40s***": {
+    "translation": "电梯将在40秒后离开"
+  },
+  "***The elevators are leaving in 15s***": {
+    "translation": "电梯将在15秒后离开"
+  },
+  "***The elevators are leaving in 5s***": {
+    "translation": "电梯将在5秒后离开"
+  },
+  "***The gates will break in 5s***": {
+    "translation": "大门将在5秒后破坏"
+  },
+  "***The gates will break in 20s***": {
+    "translation": "大门将在20秒后破坏"
+  },
+  "***Keep holding***": {
+    "translation": "继续坚守"
+  },
+  "***Door is opened***": {
+    "translation": "门开了"
+  },
+  "***What is happening?***": {
+    "translation": "发生什么事了?"
+  },
+  "***Looks like something gonna happen...***": {
+    "translation": "看起来有什么事要发生了..."
+  },
+  "***Wait...what...***": {
+    "translation": "等等...什么..."
+  },
+  "***Ahhhhhhhhhhhhhh***": {
+    "translation": "啊!"
+  },
+  "***Lasers!!!**": {
+    "translation": "激光!"
+  },
+  "***Lasers!!!***": {
+    "translation": "激光!"
+  },
+  "***The bridge will be activated in 15s***": {
+    "translation": "桥将在15秒后激活"
+  },
+  "***The bridge will be activated in 5s***": {
+    "translation": "桥将在5秒后激活"
+  },
+  "***The bridge is activated***": {
+    "translation": "桥已激活"
+  },
+  "***The portal will activate in 70s***": {
+    "translation": "传送门将在70秒后激活"
+  },
+  "***The portal will activate in 20s***": {
+    "translation": "传送门将在20秒后激活"
+  },
+  "***The portal will activate in 5s***": {
+    "translation": "传送门将在5秒后激活"
+  },
+  "***The portal is activated***": {
+    "translation": "传送门已激活"
+  },
+  "***Only the chosen one can live***": {
+    "translation": "只有天选之人才能活下来"
+  },
+  "***You are too weak***": {
+    "translation": "你太弱了"
+  },
+  "***Let's do a test***": {
+    "translation": "来做个小测试"
+  },
+  "***Show me your strength***": {
+    "translation": "展示你的实力"
+  },
+  "***Beware***": {
+    "translation": "当心"
+  },
+  "***Door will open in 45s***": {
+    "translation": "门将在45秒后打开"
+  },
+  "***Door will open in 10s***": {
+    "translation": "门将在10秒后打开"
+  },
+  "***Door is opening***": {
+    "translation": "门正在打开"
+  },
+  "***Elevator leaving in 15s***": {
+    "translation": "电梯将在15秒后离开"
+  },
+  "***Elevator leaving in 5s***": {
+    "translation": "电梯将在5秒后离开"
+  },
+  "***Teleporter will be activated in 20s***": {
+    "translation": "传送器将在20秒后激活"
+  },
+  "***Teleporter will be activated in 10s***": {
+    "translation": "传送器将在10秒后激活"
+  },
+  "***Teleporter activated***": {
+    "translation": "传送器已激活"
+  },
+  "***The brige will open in 20s***": {
+    "translation": "桥将在20秒后打开"
+  },
+  "***The bridge will open in 5s***": {
+    "translation": "桥将在5秒后打开"
+  },
+  "***I see Doorhugger...***": {
+    "translation": "我知道你爱贴门"
+  },
+  "***Doorhugger please defend...***": {
+    "translation": "贴门要开枪防守"
+  },
+  "***Or you will die...***": {
+    "translation": "不然你会死..."
+  },
+  "***I have to do this....***": {
+    "translation": "我不得不这么做...."
+  },
+  "***Rest in Peace...***": {
+    "translation": "安息吧..."
+  },
+  "***Waiting for something to happen...***": {
+    "translation": "等待某事发生..."
+  },
+  "***The secret door is opening***": {
+    "translation": "暗门正在打开"
+  },
+  "***Fall back***": {
+    "translation": "撤退"
+  },
+  "***Zombies aboard***": {
+    "translation": "僵尸上来了"
+  },
+  "***You failed***": {
+    "translation": "你失败了"
+  },
+  "***Congratulations!!!***": {
+    "translation": "恭喜!"
+  },
+  "***You won Level: The Underground***": {
+    "translation": "你赢了关卡:地下"
+  },
+  "***Level: The Necromanteion activated***": {
+    "translation": "关卡:Necromanteion激活"
+  },
+  "***Congratulation!!!!***": {
+    "translation": "恭喜!"
+  },
+  "***Level: The Maze completed***": {
+    "translation": "关卡:迷宫完成"
+  },
+  "***Level: The Underground activated***": {
+    "translation": "关卡:地下激活"
+  },
+  "***The platform is leaving in 25s***": {
+    "translation": "平台将在25秒后离开"
+  },
+  "***The platform is leaving in 5s***": {
+    "translation": "平台将在5秒后离开"
+  },
+  "***Door will open in 40s***": {
+    "translation": "门将在40秒后打开"
+  },
+  "***Door will open in 5s***": {
+    "translation": "门将在5秒后打开"
+  },
+  "***Door will open in 20s***": {
+    "translation": "门将在20秒后打开"
+  },
+  "***The door will open in 40s***": {
+    "translation": "门将在40秒后打开"
+  },
+  "***Level: The Maze***": {
+    "translation": "关卡:迷宫"
+  },
+  "***Level: The Underground***": {
+    "translation": "关卡:地下"
+  },
+  "***Level: The Necromanteion***": {
+    "translation": "关卡:Necromanteion"
+  },
+  "***Welcome***": {
+    "translation": "欢迎"
+  },
+  "***There is a hidden door!!!***": {
+    "translation": "这里有个暗门!"
+  },
+  "***Go to the hidden path!!!***": {
+    "translation": "去隐藏道路!"
+  },
+  "***The door will open in 15s***": {
+    "translation": "门将在15秒后打开"
+  },
+  "***Door opened***": {
+    "translation": "门已打开"
+  },
+  "***Final escape door open in 10s***": {
+    "translation": "最终逃生门将在10秒后打开"
+  },
+  "***Resist 30s***": {
+    "translation": "抵挡30秒"
+  },
+  "***Resist 5s***": {
+    "translation": "抵挡5秒"
+  },
+  "***The path is cleared***": {
+    "translation": "道路已清空"
+  },
+  "***Jump into the hole***": {
+    "translation": "跳进洞里"
+  },
+  "***The floor will break in 20s***": {
+    "translation": "地板将在20秒后破裂"
+  },
+  "***Door will open in 25s***": {
+    "translation": "门将在25秒后打开"
+  },
+  "***Teleporter activate in 20s***": {
+    "translation": "传送器将在20秒后激活"
+  },
+  "***Teleporter will activate in 20s***": {
+    "translation": "传送器将在20秒后激活"
+  },
+  "***Zombie Teleport in 10s***": {
+    "translation": "僵尸传送在10秒后"
+  },
+  "***All pillars have been activated***": {
+    "translation": "所有柱子都已激活"
+  },
+  "***Teleporter will activate in 40s***": {
+    "translation": "传送器将在40秒后激活"
+  },
+  "***Teleporter will activate in 5s***": {
+    "translation": "传送器将在5秒后激活"
+  },
+  "***The bridge will lower down soon, keep defending***": {
+    "translation": "桥即将放下, 继续防守"
+  },
+  "***Bridge ready in 30s***": {
+    "translation": "桥将在30秒后准备就绪"
+  },
+  "***Bridge ready in 15s***": {
+    "translation": "桥将在15秒后准备就绪"
+  },
+  "***Resist 20s***": {
+    "translation": "抵挡20秒"
+  },
+  "***Zombie teleport in 20s***": {
+    "translation": "僵尸传送在20秒后"
+  },
+  "***Defend the last platform for 45s***": {
+    "translation": "防守最后的平台45秒"
+  },
+  "***Other platforms break in 5s***": {
+    "translation": "其他平台将在5秒后破坏"
+  },
+  "***Path to the truth will open in 5s***": {
+    "translation": "通往真相的道路将在5秒后打开"
+  },
+  "***Other platforms break in 20s***": {
+    "translation": "其他平台将在20秒后破坏"
+  },
+  "***What is this": {
+    "translation": "这是什么"
+  },
+  "***A garden?**": {
+    "translation": "一个花园?"
+  },
+  "***WELCOME TO THE MAZE***": {
+    "translation": "欢迎来到迷宫"
+  },
+  "***Find the button to open the door***": {
+    "translation": "找到按钮来开门"
+  },
+  "***All buttons are pressed***": {
+    "translation": "所有按钮都被按下了"
+  },
+  "***The door will open in 30s***": {
+    "translation": "门将在30秒后打开"
+  },
+  "***AFK teleport in 10s***": {
+    "translation": "挂机传送在10秒后"
+  },
+  "***You found the button***": {
+    "translation": "你找到了按钮"
+  },
+  "***Button 1 is triggered***": {
+    "translation": "按钮1被触发了"
+  },
+  "***Button 2 is triggered***": {
+    "translation": "按钮2被触发了"
+  },
+  "***Zombies reached the gate***": {
+    "translation": "僵尸到达了大门"
+  }
+}
