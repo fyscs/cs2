@@ -49,7 +49,6 @@
     },
     {
       "iterator": "Diabolos_HP",
-      "hitbox": "Diabolos_Hitbox_Front",
       "display": "迪亚波罗斯"
     },
     {
@@ -64,7 +63,6 @@
     },
     {
       "iterator": "Omega_Phase1_HP",
-      "hitbox": "Omega_M_Hitbox",
       "counter": "Omega_Phase1_Bar_HP",
       "mass": 135,
       "display": "欧米伽终极版"
