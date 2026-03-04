@@ -20,7 +20,7 @@
   // display    (string)   -> 显示的名称
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
-  {
+{
   "Counters": [
     {
       "iterator": "Ahriman_Hp",
