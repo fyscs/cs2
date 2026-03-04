@@ -69,16 +69,16 @@
       "display": "黑骑士"
     },
     {
-      "identity": "143390",
-      "display": "野猪"
-    },
-    {
       "identity": "145197",
       "display": "软泥怪"
     },
     {
       "identity": "143384",
       "display": "黑骑士"
+    },
+    {
+      "display": "野猪",
+      "identity": "143390"
     }
   ]
 }
