@@ -72,7 +72,7 @@
     {
       "iterator": "Omega_Phase1_HP",
       "hitbox": "Omega_M_Hitbox2",
-      "counter": "Omega_Phase2_Bar_HP",
+      "counter": "Omega_Phase1_Bar_HP",
       "mass": 135,
       "stages": 2,
       "display": "欧米伽终极版"
