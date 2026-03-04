@@ -49,21 +49,6 @@
     },
     {
       "iterator": "Diabolos_HP",
-      "hitbox": "Diabolos_Hitbox_Right",
-      "display": "迪亚波罗斯"
-    },
-    {
-      "iterator": "Diabolos_HP",
-      "hitbox": "Diabolos_Hitbox_Left",
-      "display": "迪亚波罗斯"
-    },
-    {
-      "iterator": "Diabolos_HP",
-      "hitbox": "Diabolos_Hitbox_After",
-      "display": "迪亚波罗斯"
-    },
-    {
-      "iterator": "Diabolos_HP",
       "hitbox": "Diabolos_Hitbox_Front",
       "display": "迪亚波罗斯"
     },
@@ -89,6 +74,7 @@
       "hitbox": "Omega_M_Hitbox2",
       "counter": "Omega_Phase2_Bar_HP",
       "mass": 135,
+      "stages": 2,
       "display": "欧米伽终极版"
     }
   ]
