@@ -1,0 +1,205 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "< 防守直至传送启动 >": {
+    "translation": "防守直至传送启动"
+  },
+  "< 防守直至道路畅通 >": {
+    "translation": "防守直至道路畅通"
+  },
+  "< 防守直至大门打开 >": {
+    "translation": "防守直至大门打开"
+  },
+  "** 鬼眼于虚无中复生 **": {
+    "translation": "鬼眼于虚无中复生"
+  },
+  "** 困难关卡完成! **": {
+    "translation": "困难关卡完成!"
+  },
+  ">* 暗之战技 *<": {
+    "translation": "暗之战技(去boss手中球的另一边)"
+  },
+  ">* 零式波动炮 *<": {
+    "translation": "零式波动炮(远离正面)"
+  },
+  ">* 广域波动炮 *<": {
+    "translation": "广域波动炮(去boss最左右两边)"
+  },
+  ">* 暗之泛滥 *<": {
+    "translation": "暗之泛滥(全屏伤害)"
+  },
+  "< 暗黑能量已然消散…… >": {
+    "translation": "暗黑能量已然消散......"
+  },
+  "那是……": {
+    "translation": "那是......"
+  },
+  "侦测到内部水晶能量剧烈波动！只有破坏它我们才能暂时安全！": {
+    "translation": "侦测到内部水晶能量剧烈波动!只有破坏它我们才能暂时安全!"
+  },
+  "子弹好像打不穿那道屏障！绕到她后面去！": {
+    "translation": "子弹好像打不穿那道屏障!绕到她后面去!"
+  },
+  "** 阴云正在重新聚集 **": {
+    "translation": "阴云正在重新聚集"
+  },
+  "** 极限关卡完成! **": {
+    "translation": "极限关卡完成!"
+  },
+  "你们成功了！那个水晶现在只是一堆烂石头了": {
+    "translation": "你们成功了!那个水晶现在只是一堆烂石头了"
+  },
+  "< 啸与泣的灭世罡风即将扯碎天幕 >": {
+    "translation": "啸与泣的灭世罡风即将扯碎天幕"
+  },
+  "** 一位占星术士加入了队伍 **": {
+    "translation": "一位占星术士加入了队伍"
+  },
+  "** 一位暗黑骑士加入了队伍 **": {
+    "translation": "一位暗黑骑士加入了队伍"
+  },
+  "** 一位黑魔法师加入了队伍 **": {
+    "translation": "一位黑魔法师加入了队伍"
+  },
+  "** 一位忍者加入了队伍 **": {
+    "translation": "一位忍者加入了队伍"
+  },
+  "** 一位光之战士加入了队伍 **": {
+    "translation": "一位光之战士加入了队伍"
+  },
+  "< 血与腐的逆生咒文正在溃烂处蠕动 >": {
+    "translation": "血与腐的逆生咒文正在溃烂处蠕动"
+  },
+  "< 影与梦的沉眠使者已于夜幕下展开双翼 >": {
+    "translation": "影与梦的沉眠使者已于夜幕下展开双翼"
+  },
+  ">* 虚空梦魇 *<": {
+    "translation": "虚空梦魇(不要看boss)"
+  },
+  ">* 虚空恐惧 *<": {
+    "translation": "虚空恐惧"
+  },
+  ">* 虚空之惊 *<": {
+    "translation": "虚空之惊(靠近中场)"
+  },
+  ">* 阴影直刺 *<": {
+    "translation": "阴影直刺(远离正面)"
+  },
+  ">* 虚空暗夜 *<": {
+    "translation": "虚空暗夜(站在一起然后低头)"
+  },
+  ">* 梦魇 *<": {
+    "translation": "梦魇"
+  },
+  ">* 究极恐惧 *<": {
+    "translation": "究极恐惧(远离boss)"
+  },
+  ">* 暗夜恐惧 *<": {
+    "translation": "暗夜恐惧"
+  },
+  ">* 暗影护盾 *<": {
+    "translation": "暗影护盾"
+  },
+  "** 一位赤魔法师加入了队伍 **": {
+    "translation": "一位赤魔法师加入了队伍"
+  },
+  "** 一位武士加入了队伍 **": {
+    "translation": "一位武士加入了队伍"
+  },
+  "** 一位学者加入了队伍 **": {
+    "translation": "一位学者加入了队伍"
+  },
+  "< 防守直至发生什么 >": {
+    "translation": "防守直至发生什么"
+  },
+  "侦测到十二级时空能量波形！看来要想撤离得先击败它！": {
+    "translation": "侦测到十二级时空能量波形!看来要想撤离得先击败它!"
+  },
+  "** 恭喜你！你就是光之战士！ **": {
+    "translation": "恭喜你!你就是光之战士!"
+  },
+  "干得好！但是不要放松警惕！": {
+    "translation": "干得好!但是不要放松警惕!"
+  },
+  "撤离平台还有二十秒充能完毕！": {
+    "translation": "撤离平台还有二十秒充能完毕!"
+  },
+  "< 渊与怒的灭世具象正撕开地狱门扉 >": {
+    "translation": "渊与怒的灭世具象正撕开地狱门扉"
+  },
+  "** 无心的兵器再次踏上寻“心”之旅 **": {
+    "translation": "无心的兵器再次踏上寻心之旅"
+  },
+  "< 欲与惑的奴役种子已疾驰待命 >": {
+    "translation": "欲与惑的奴役种子已疾驰待命"
+  },
+  "< 鳞与风的背叛之翼正编织通路 >": {
+    "translation": "鳞与风的背叛之翼正编织通路"
+  },
+  "< MAP BY vueru >": {
+    "translation": "地图作者:vueru 文本:小学生"
+  },
+  "< ZE_AMDAPOR_KEEP >": {
+    "translation": "最终幻想14:无限城古堡"
+  },
+  "< Collaborative Eugen&7ychu5 >": {
+    "translation": "合作作者:Eugen&7ychu5"
+  },
+  "< Complete Runa  >": {
+    "translation": "地图由Runa编译"
+  },
+  "★ 地图仍处于测试阶段，欢迎反馈bug和提供建议 ★": {
+    "translation": "★ 地图仍处于测试阶段,欢迎反馈bug和提供建议 ★"
+  },
+  "< Savage Mode >": {
+    "translation": "Savage Mode"
+  },
+  "< 极限模式 >": {
+    "translation": "极限模式"
+  },
+  "** 冥狱的魔神已从深渊中归来 **": {
+    "translation": "冥狱的魔神已从深渊中归来"
+  },
+  "** 零式关卡完成! **": {
+    "translation": "零式关卡完成!"
+  },
+  "< 湮与噬的归零奇点已准备随时坍缩 >": {
+    "translation": "湮与噬的归零奇点已准备随时坍缩"
+  },
+  "< ??? >": {
+    "translation": "???"
+  },
+  "< 困难模式 >": {
+    "translation": "困难模式"
+  },
+  "！？": {
+    "translation": " ! ? "
+  },
+  "< 不要被植入两种病毒 >": {
+    "translation": "不要被植入两种病毒"
+  },
+  ">- Loading OBJ Mode ...": {
+    "translation": "- OBJ模式已加载,OBJ启动 ..."
+  },
+  "**Omega**": {
+    "translation": "Omega"
+  },
+  "**Savage**": {
+    "translation": "Savage"
+  },
+  "**Extreme**": {
+    "translation": "Extreme"
+  },
+  "**Hard**": {
+    "translation": "Hard"
+  }
+}

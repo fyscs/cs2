@@ -1,0 +1,95 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+  {
+  "Counters": [
+    {
+      "iterator": "Ahriman_Hp",
+      "hitbox": "Ahriman_Hitbox",
+      "display": "小恶魔"
+    },
+    {
+      "iterator": "Laser_Diabolos_Hollow_Hp",
+      "hitbox": "Laser_Diabolos_Hollow_Hitobx",
+      "display": "迪亚波罗斯"
+    },
+    {
+      "iterator": "First_Omega_HP",
+      "hitbox": "First_Omega_Hitbox",
+      "display": "欧米伽"
+    },
+    {
+      "iterator": "Crystal_HP",
+      "hitbox": "Crystal_Hitbox",
+      "display": "水晶"
+    },
+    {
+      "iterator": "Diabolos_Hollow_HP",
+      "hitbox": "Diabolos_Hollow_Hitbox",
+      "display": "虚空迪亚波罗斯"
+    },
+    {
+      "iterator": "Diabolos_HP",
+      "hitbox": "Diabolos_Hitbox_Right",
+      "display": "迪亚波罗斯"
+    },
+    {
+      "iterator": "Diabolos_HP",
+      "hitbox": "Diabolos_Hitbox_Left",
+      "display": "迪亚波罗斯"
+    },
+    {
+      "iterator": "Diabolos_HP",
+      "hitbox": "Diabolos_Hitbox_After",
+      "display": "迪亚波罗斯"
+    },
+    {
+      "iterator": "Diabolos_HP",
+      "hitbox": "Diabolos_Hitbox_Front",
+      "display": "迪亚波罗斯"
+    },
+    {
+      "iterator": "Cloud_of_Darkness_HP",
+      "hitbox": "Cloud_of_Darkness_Hitbox",
+      "display": "暗黑之云"
+    },
+    {
+      "iterator": "Laser_Omega_HP",
+      "hitbox": "Laser_Omega_Hitobx",
+      "display": "欧米茄"
+    },
+    {
+      "iterator": "Omega_Phase1_HP",
+      "hitbox": "Omega_M_Hitbox",
+      "counter": "Omega_Phase1_Bar_HP",
+      "mass": 135,
+      "display": "欧米伽终极版"
+    },
+    {
+      "iterator": "Omega_Phase1_HP",
+      "hitbox": "Omega_M_Hitbox2",
+      "counter": "Omega_Phase2_Bar_HP",
+      "mass": 135,
+      "display": "欧米伽终极版"
+    }
+  ]
+}
