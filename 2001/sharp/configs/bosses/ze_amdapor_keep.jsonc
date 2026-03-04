@@ -64,7 +64,7 @@
     },
     {
       "iterator": "Omega_Phase1_HP",
-      "hitbox": ["Omega_M_Hitbox2","Omega_F_Model_Hitbox","Omega_M_Hitbox"],
+      "hitbox": "Omega_M_Hitbox",
       "counter": "Omega_Phase1_Bar_HP",
       "mass": 135,
       "display": "欧米伽终极版"
