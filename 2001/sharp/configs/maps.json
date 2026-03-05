@@ -1277,6 +1277,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_elmas": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 600,
+    "requiredOnline": 600,
+    "requiredPlayers": 40
+  },
   "ze_emerald": {
     "admin": false,
     "certainTimes": [-1],
