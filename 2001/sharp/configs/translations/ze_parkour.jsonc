@@ -41,7 +41,7 @@
     "translation": "前方是低重力区域.走上发射台"
   },
   "Push gun has been picked up.Press e to push zombies with 80s cooldown.": {
-    "translation": "已拾取推力枪.按E键推开僵尸.冷却时间80秒."
+    "translation": "已拾取推力枪.按E键推开僵尸.冷却时间80秒.",
     "blocked": true
   },
   "Low gravity zone ahead. Jump over the wall.": {
