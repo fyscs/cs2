@@ -4247,6 +4247,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_sewer": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_sewer_escape_p": {
     "admin": true,
     "certainTimes": [-1],
