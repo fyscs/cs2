@@ -35,21 +35,21 @@
     "translation": "电梯将在40秒后到达"
   },
   "You'd better hurry up.The elevator starts in 10s.": {
-    "translation": "你最好快点 电梯将在10秒后启动。"
+    "translation": "你最好快点.电梯将在10秒后启动."
   },
   "Low gravity area ahead. Walk onto the launchpad.": {
-    "translation": "前方是低重力区域 走上发射台"
+    "translation": "前方是低重力区域.走上发射台"
   },
   "Push gun has been picked up.Press e to push zombies with 80s cooldown.": {
-    "translation": "已拾取推力枪 按E键推开僵尸 冷却时间80秒。"
+    "translation": "已拾取推力枪.按E键推开僵尸.冷却时间80秒."
   },
   "Low gravity zone ahead. Jump over the wall.": {
-    "translation": "前方是低重力区域 跳过墙壁"
+    "translation": "前方是低重力区域.跳过墙壁"
   },
   "Map by Denn15  Port by Charlie": {
     "translation": "地图作者:Denn15 移植作者:Charlie@龙哥"
   },
-  "\"Wish you have fun XD\"": {
+  "Wish you have fun XD": {
     "translation": "祝你玩得开心 XD"
   }
 }
