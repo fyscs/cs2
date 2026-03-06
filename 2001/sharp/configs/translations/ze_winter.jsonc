@@ -1,0 +1,41 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "[Teleporting slow players in 20 seconds]": {
+    "translation": "挂机玩家将在20秒后传送"
+  },
+  "* * * MAP BY MARKKO AND HERR_POLE * * *": {
+    "translation": "MAP BY MARKKO AND HERR_POLE"
+  },
+  "* * * A nuclear bomb has been launched toward this town * * *": {
+    "translation": "一颗核弹正朝这个小镇飞来"
+  },
+  "* * * You've got about 4 minutes before it arrives * * *": {
+    "translation": "存活240秒",
+    "blocked": true
+  },
+  "* * * Quick! Find the bunker and don't let the zombies in  * * *": {
+    "translation": "找个地方开黑吧:D"
+  },
+  "* * * Warning: 2 minutes remaining * * *": {
+    "translation": "存活120秒",
+    "blocked": true
+  },
+  "* * * Warning: 1 minute remaining * * *": {
+    "translation": "存活60秒",
+    "countdown": 60
+  },
+  "* * * Warning: 30 seconds remaining * * *": {
+    "translation": "还剩30秒",
+    "blocked": true
+  }
+}
