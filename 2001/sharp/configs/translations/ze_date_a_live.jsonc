@@ -1,0 +1,86 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "早知道不装密码门了,还有20秒才开门": {
+    "translation": "还有20秒开门",
+    "countdown": 20
+  },
+  "该死的门！启动它需要30秒时间": {
+    "translation": "启动大门需要30秒",
+    "countdown": 30
+  },
+  "OK了！快按下键盘解锁门禁！": {
+    "translation": "快按下键盘解锁门禁!"
+  },
+  "又是这种门？这次要久一点，等我40秒": {
+    "translation": "等我40秒启动大门",
+    "countdown": 40
+  },
+  "还真是啊！没事，手里头的电锯已经饥渴难耐了，给我30秒": {
+    "translation": "给我30秒",
+    "countdown": 30
+  },
+  "还有20秒僵尸就会死光光啦！": {
+    "translation": "还有20秒僵尸就会死光光啦!",
+    "countdown": 20
+  },
+  "被堵路了！用这把电锯清理道路至少需要20秒": {
+    "translation": "清理道路需要20秒",
+    "countdown": 20
+  },
+  "坏了！左边铁门门禁得去电脑室关闭，小心右边铁门的僵尸": {
+    "translation": "左边铁门门禁得去电脑室关闭,小心右边铁门的僵尸"
+  },
+  "你们猜我发现了什么？物理学圣剑！但是撬开防盗窗需要30秒_(:з」∠)_": {
+    "translation": "撬开防盗窗需要30秒",
+    "countdown": 30
+  },
+  "刚好刚才的电锯还能用！等我30秒！": {
+    "translation": "等我30秒",
+    "countdown":30
+  },
+  "从舞台旁的员工通道撤离,但是好像被封锁了，等我20秒清理": {
+    "translation": "从舞台旁的员工通道撤离,等我20秒清理",
+    "countdown": 20
+  },
+  "这种屏障等待20秒后就能消除": {
+    "translation": "等待20秒消除屏障",
+    "countdown": 20
+  },
+  "糟糕！左右两边都被封死了！": {
+    "translation": "糟糕!左右两边都被封死了!"
+  },
+  "我知道左边有个地方可以绕开，跟我来": {
+    "translation": "左边有个地方可以绕开"
+  },
+  "【警告:10秒后僵尸将被传送】": {
+    "translation": "10秒后僵尸将被传送",
+    "countdown": 10
+  },
+  "【警告：僵尸将在10秒后传送】": {
+    "translation": "僵尸将在10秒后传送",
+    "countdown": 10
+  },
+  "前面就是出口，等30秒屏障就会消失了": {
+    "translation": "等30秒屏障消失",
+    "countdown": 30
+  },
+  "我找到了消防栓，必须立刻去灭火，不然就危险了": {
+    "translation": "找到了消防栓,必须立刻去灭火"
+  },
+  "前面好像油车倒了，油都漏出来了，感觉要出事啊！": {
+    "translation": "前面好像油车倒了,油都漏出来了,感觉要出事啊!"
+  },
+  "危险！快走，还是要爆炸了！": {
+    "translation": "危险!快走,还是要爆炸了!"
+  }
+}
