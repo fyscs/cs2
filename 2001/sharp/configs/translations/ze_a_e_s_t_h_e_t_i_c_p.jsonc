@@ -1,0 +1,250 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** Tough luck, lads! Come back when you learn to read computer minds! **": {
+    "translation": "真倒霉,伙计们!等你们学会读懂电脑心思再回来吧!"
+  },
+  "** Bardiblub Blidablibloop! The magician turned to goop! **": {
+    "translation": "Bardiblub Blidablibloop!魔术师变成一滩烂泥了!"
+  },
+  "** Look! Lucy is up there in the sky -- She has dynamite! **": {
+    "translation": "看!露西在天上--她拿着炸药!"
+  },
+  "** Oh! And all those efforts so vain, wasted, just to reach further and then be slain!  **": {
+    "translation": "哦!这一切努力都是徒劳,白费了,只为走得更远,然后被杀死!"
+  },
+  "** Behold! It is time for the brundabogbog! **": {
+    "translation": "看呐!是时候进行brundabogbog了!"
+  },
+  "** Not without surprise we stand and stand as time goes by... **": {
+    "translation": "我们并非毫无惊讶地站着,站着,任时光流逝"
+  },
+  "** We once dreamed for elsewhere -- a gentler place -- and might regret if there we get... **": {
+    "translation": "我们曾梦想去别处--一个更温柔的地方--若真到了那里或许又会后悔"
+  },
+  "** Ticking for not much longer and then... ...will we see your face againf **": {
+    "translation": "时间所剩无几,然后我们还能再见到你的面容吗"
+  },
+  "** The walk from here and onwards might deceivingly look cheerful. **": {
+    "translation": "从此处开始的路途,或许看似愉悦,实则不然"
+  },
+  "** What do those forged smiles mean to the free men  **": {
+    "translation": "对那些自由之人而言,那些伪装的微笑又意味着什么"
+  },
+  "** At an unbreakable impasse with time Kochan stood -- monsters crept and creep still...  **": {
+    "translation": "在与时间无法打破的僵局中,Kochan伫立着--怪物们曾悄悄爬行,如今仍在爬行"
+  },
+  "** ...and forever after the monsters creeping would... **": {
+    "translation": "而此后永远,怪物们的爬行将会"
+  },
+  "** AWAKE! OH EYES THAT SEE... But what will we find looking in these dreamsr **": {
+    "translation": "醒来吧!哦,能看见的眼睛,但在这些梦境中寻找,我们又会发现什么r"
+  },
+  "** Thanks for your visit. **": {
+    "translation": "感谢你的到访"
+  },
+  "** The show is starting soon: broadcasting LIVE in 10. **": {
+    "translation": "演出即将开始:10秒后现场直播."
+  },
+  "** The spectacle must continue, though at a different place. **": {
+    "translation": "奇观必须继续,尽管是在不同的地点"
+  },
+  "** Extras must be part of the action too, or were they the protagonists **": {
+    "translation": "群演也必须是行动的一部分,或者他们才是主角"
+  },
+  "** A scene change might go well with the changing times that soon may come. **": {
+    "translation": "场景的转换或许能与即将到来的时代变迁相得益彰"
+  },
+  "** Off they go! The calmer tones of the prairie might soothen the wilder souls. **": {
+    "translation": "他们出发了!大草原更平静的色调或许能抚慰更狂野的灵魂."
+  },
+  "** First base reached. It ought to begin. **": {
+    "translation": "已抵达一垒.该开始了"
+  },
+  "** Second base reached. Steps further from either end.**": {
+    "translation": "已抵达二垒.离两端都更远了"
+  },
+  "** Third base reached. The double entendre is cuadruple intended. **": {
+    "translation": "已抵达三垒.双关语被赋予了四重意图"
+  },
+  "** Fourth base reached. Nearing and yet still so afar. **": {
+    "translation": "已抵达四垒.日益接近,却仍如此遥远"
+  },
+  "** Fifth base reached. Wisely interpreted, the still-standing walls will fall. **": {
+    "translation": "已抵达五垒.若解读得当,屹立的高墙将倒塌"
+  },
+  "** At some point in the journey, the traveller is given a hand. **": {
+    "translation": "在旅程的某个时刻,旅人会得到帮助"
+  },
+  "** Reaching out for help is at times harder than everything else... **": {
+    "translation": "寻求帮助有时比任何事都难"
+  },
+  "** Stay in the grey lest you want the tentacles to grab you and take you to your end. **": {
+    "translation": "待在灰色区域,除非你想让触手抓住你,把你拖向终结"
+  },
+  "** Who was Merle Haggard@ Why did his mother cry@ **": {
+    "translation": "Merle Haggard是谁@他母亲为何哭泣"
+  },
+  "** The stories of old ought to be forgotten - only that way shall new always be found. **": {
+    "translation": "古老的故事应该被遗忘-唯有如此,才能不断发现新故事."
+  },
+  "** [...] The hand that feeds you, that knows you, that helps you -- that hand you will bite. **": {
+    "translation": "那只喂养你,了解你,帮助你的手--你将咬那只手."
+  },
+  "** Moving forward and destroying for change... mumbling progress-... an ideal... **": {
+    "translation": "为了改变而前进并摧毁,喃喃自语着进步-一个理想"
+  },
+  "** ...the time might come for the trees to hang onto themselves and the wind a hundred tales will tell... **": {
+    "translation": "或许会有那么一刻,树木攀附自身,而风将诉说千百个故事"
+  },
+  "** Céline probably rides along with us to the end of the night, making offhand remarks. **": {
+    "translation": "Celine大概会和我们一起骑行到夜的尽头,随口说着即兴的评论"
+  },
+  "** Has anybody seen the keys that open the window to reach the starsi **": {
+    "translation": "有人见过那扇通往星辰的窗户的钥匙吗"
+  },
+  "** That cadence that beating in you is nothing but a feverish dream, a selfish attack against the One State. **": {
+    "translation": "你体内那节拍,那跳动,不过是一场狂热的梦,一场对唯一之国的自私攻击."
+  },
+  "** Oh! What could you not have done with some more time? **": {
+    "translation": "哦!若再多些时间,你还有什么做不到呢"
+  },
+  "** Sadly, we shall never know -- for time is the only resource truly long gone! **": {
+    "translation": "遗憾的是,我们永远无从知晓--因为时间是唯一真正一去不返的资源!"
+  },
+  "** Poor King Cool! Dreams and dreams of hamboighas he can": {
+    "translation": "可怜的酷王!他梦想着,梦想着hamboighas"
+  },
+  "** FEED HIM! **": {
+    "translation": "喂他!"
+  },
+  "** And so it awakes, hamboighed! Will only a piece of stardust, a clump of meat save us": {
+    "translation": "难道仅凭一片星尘,一团肉就能拯救我们吗"
+  },
+  "** In the endless halls of time rests the shade of Ahuramazda, erased by a crescent moon... **": {
+    "translation": "在时间的无尽长廊里,安息着阿胡拉-马兹达的幽魂,被一弯新月抹去"
+  },
+  "** Shall we equally erase the horizon onto which the burning hot sun setsa **": {
+    "translation": "我们是否也该同样抹去那炽热太阳沉入的地平线"
+  },
+  "** Ponder at times and remember how the journey began looking at a screen... **": {
+    "translation": "时常思考,并铭记这趟旅程是如何从凝视屏幕开始的"
+  },
+  "** Too meta it is for me to if it was yours or instead this mapss TV... **": {
+    "translation": "这对我来说太抽象了,分不清是你的,还是这张地图的电视"
+  },
+  "** Again we meet! Another battle! **": {
+    "translation": "我们又见面了!又一场战斗!"
+  },
+  "** Fight this time not with bullets but just transparent fists! **": {
+    "translation": "这次战斗不用子弹,只用无形的拳头!"
+  },
+  "** MOVE IT! The rumble is nigh! **": {
+    "translation": "快动!轰鸣将至!"
+  },
+  "** Forget anything Keats said about urns! In the end we will all face the Jabberwock! **": {
+    "translation": "忘了济慈关于古瓮所说的一切吧!最终我们都将面对炸脖龙!"
+  },
+  "** Prepare the vorpal swords! What is aheadn A jub-jub bird_ No! Just the shadow of beyond. **": {
+    "translation": "准备好利剑!前方是什么n是一只啁啾鸟_不!只是彼方的阴影."
+  },
+  "** Will we ever meet those who slept before us": {
+    "translation": "我们能否遇见那些先于我们长眠之人"
+  },
+  "** I really don t know -- My name is Billy and I*m just the janitor... **": {
+    "translation": "我真不知道--我叫比利,我只是个看门人"
+  },
+  "** Who are these  moguls from the topB these Cressida fellows so insistently chant about? **": {
+    "translation": "这些顶层的大人物是谁让这些Cressida如此坚持地歌颂?"
+  },
+  "** Lasciate ogne speranza, o voi ch'intrate. **": {
+    "translation": "入此门者,弃绝希望"
+  },
+  "** The tide shall turn as we see a little man crashing through a window... **": {
+    "translation": "当我们看到一个小个子男人撞破窗户时,潮汐将会逆转"
+  },
+  "** Do beware of the beep-boop-boop-bah that might come to mess with you. **": {
+    "translation": "一定要当心那个可能会来捣乱的哔-哔-嘟-嘟-吧."
+  },
+  "** Up or down -- does it mattero It all ends up being the same... **": {
+    "translation": "向上或向下--这有关系吗,最终都一样"
+  },
+  "** The king dreams he is king, and he lives in the deceit of a king... **": {
+    "translation": "国王梦见自己是国王,他活在国王的欺瞒之中"
+  },
+  "** What good is a king without kingdoml What good a man lost of objectives0 **": {
+    "translation": "没有王国的国王有何用迷失目标的人有何用0"
+  },
+  "** Tomorrow and tomorrow and tomorrow... And then days evertold -- but nothing lest we act! **": {
+    "translation": "明天,明天,再明天...然后日子一天天过去--但若不行动,便一事无成!"
+  },
+  "** Blue: faces behind shards of glass lost in the thick mist... Where are you? **": {
+    "translation": "蓝色:玻璃碎片后的脸庞,迷失在浓雾中...你在哪里?"
+  },
+  "** Oh Camillo Golgi... Why did you turn by brain into a Rosetta stone with the blue-tinted saddest tales? **": {
+    "translation": "你为何将我的大脑变成承载着忧伤的蓝色故事的石碑?"
+  },
+  "** Down, down and sliding -- If sad, dont forget smiling... **": {
+    "translation": "向下,向下滑落--如果悲伤,别忘了微笑"
+  },
+  "** No longer shall we cross our eyes to see! Reality at last! Rejoice! **": {
+    "translation": "我们不必再斜眼看世界了!终于看到现实!欢呼吧!"
+  },
+  "** Ahead: The giants of Don Quixote - a cautionary tale on dreams not begotten **": {
+    "translation": "堂吉诃德的巨人-一个关于未竟梦想的警示故事"
+  },
+  "** If I were you, I'd look up some 70s Canterbury bands to go with the Bucholics of this land... **": {
+    "translation": "如果我是你,我会找些70年代的坎特伯雷乐队,来搭配这片土地的田园风光"
+  },
+  "** But as finding keys and levers that open mouths and brains is more important, Iod diversify as well. **": {
+    "translation": "但既然找到能开启嘴巴和大脑的钥匙和杠杆更重要,我也得多样化发展"
+  },
+  "** Nobody would have expected less from such a formidable team... **": {
+    "translation": "对于这样一支强大的队伍,没人会期待更少"
+  },
+  "** Memories untold of Critilus would agree if they had been... **": {
+    "translation": "Critilus那些未讲述的记忆,若它们存在过,也会同意"
+  },
+  "** And so rejoice! We may clear the path for other pointless ways to cross! **": {
+    "translation": "所以欢呼吧!我们或许能为其他无意义的穿越方式扫清道路!"
+  },
+  "** And as time is but a rambling story, rambling further it shall flow. **": {
+    "translation": "既然时间不过是一段漫无边际的故事,那它就将这样漫无边际地流淌下去."
+  },
+  "** Where is the spectacle but in what is unknown  **": {
+    "translation": "奇观若非存在于未知之中,又会在何处"
+  },
+  "** ...and as lovers they meet: different but equal in ways they couldn}t tell... **": {
+    "translation": "他们如恋人般相遇:不同却又平等,以他们无法言说的方式"
+  },
+  "** BEHOLD! Little more than beasts in humanly flesh will come! **": {
+    "translation": "看呐!来的将不过是些披着人皮的野兽!"
+  },
+  "** Move it! Only of bar stools, ephebes and nonsense may the future be made of! **": {
+    "translation": "快动!未来或许仅由酒吧高脚凳,少年和胡言乱语构成!"
+  },
+  "** Something's up, something's left. The movement comes soon again. **": {
+    "translation": "有东西上升,有东西留下.移动即将再次来临"
+  },
+  "** ...and so the brave Ulysses rests his eyes on the stars... **": {
+    "translation": "于是勇敢的尤利西斯将目光停留在星辰之上"
+  },
+  "** ...after battle held with passing hours for no one to understand... **": {
+    "translation": "在与流逝的时光搏斗之后,无人能懂"
+  },
+  "** ...these words that lie forever, never turned to strokes by hand... **": {
+    "translation": "这些永远静默的话语,从未被手写就"
+  },
+  "** ...and so the brave Ulysses rests: long forgotten in the past... **": {
+    "translation": "于是勇敢的尤利西斯安息了:早已被遗忘在过去"
+  }
+}
