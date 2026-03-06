@@ -1,0 +1,55 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "\"Low gravity zone ahead. Jump from the platfrom to the roof.\"": {
+    "translation": "前方是低重力区域 从平台跳到屋顶上"
+  },
+  "\"Door opens in 40s.\"": {
+    "translation": "40秒后门开"
+  },
+  "\"Go Go Go\"": {
+    "translation": "Go Go Go"
+  },
+  "\"Zombies tp in 10s.\"": {
+    "translation": "僵尸10秒后传送"
+  },
+  "\"Warehouse door opens in 20s.\"": {
+    "translation": "仓库门将在20秒后打开"
+  },
+  "\"Warehouse door is opening.\"": {
+    "translation": "仓库门正在打开"
+  },
+  "\"Shoot the table legs.\"": {
+    "translation": "射击桌腿"
+  },
+  "\"Elevator is arriving in 40s.\"": {
+    "translation": "电梯将在40秒后到达"
+  },
+  "\"You'd better hurry up.The elevator starts in 10s.\"": {
+    "translation": "你最好快点 电梯将在10秒后启动。"
+  },
+  "\"Low gravity area ahead. Walk onto the launchpad.\"": {
+    "translation": "前方是低重力区域 走上发射台"
+  },
+  "\"Push gun has been picked up.Press e to push zombies with 80s cooldown.\"": {
+    "translation": "已拾取推力枪 按E键推开僵尸 冷却时间80秒。"
+  },
+  "\"Low gravity zone ahead. Jump over the wall.\"": {
+    "translation": "前方是低重力区域 跳过墙壁"
+  },
+  "\"Map by Denn15  Port by Charlie\"": {
+    "translation": "地图作者:Denn15 移植作者:Charlie"
+  },
+  "\"Wish you have fun XD\"": {
+    "translation": "祝你玩得开心 XD"
+  }
+}
