@@ -11,120 +11,120 @@
 
 {
   "Remaining humans and zombies will be killed in 10 seconds!": {
-    "translation": "剩余的人类和僵尸将在10秒后被消灭!"
+    "translation": "剩余的人类和僵尸将在10秒后被消灭"
   },
   "Teleporting all players that are behind, afk, or delaying to the stash room in 60 seconds!": {
-    "translation": "60秒后将把所有掉队,挂机或故意拖延的玩家传送到储藏室!"
+    "translation": "60秒后将挂机玩家传送到储藏室"
   },
   "Final door is opening! Final door will close in 50 seconds. Hold off the infection.": {
-    "translation": "最终大门正在开启! 最终大门将在50秒后关闭. 抵挡僵尸的进攻."
+    "translation": "大门将在50秒后关闭"
   },
   "Final door is closing in 10 seconds!": {
-    "translation": "最终大门将在10秒后关闭!"
+    "translation": "大门将在10秒后关闭"
   },
   "Final door is closing!": {
-    "translation": "最终大门正在关闭!"
+    "translation": "大门正在关闭"
   },
   "Final backdoor is opening!": {
-    "translation": "最终后门正在开启!"
+    "translation": "门正在开启"
   },
   "Bomb exploding in 5 seconds!": {
-    "translation": "炸弹将在5秒后爆炸!"
+    "translation": "炸弹将在5秒后爆炸"
   },
   "Final back door closing in 5 seconds!": {
-    "translation": "最终后门将在5秒后关闭!"
+    "translation": "门将在5秒后关闭"
   },
   "Final back door is closing!": {
-    "translation": "最终后门正在关闭!"
+    "translation": "门正在关闭"
   },
   "Activate the bomb in the center before continuing!": {
     "translation": "继续行动前请激活中央的炸弹!"
   },
   "Elevator starting up in 45 seconds! Hold off the infection.": {
-    "translation": "电梯将在45秒后启动! 抵挡僵尸的进攻."
+    "translation": "电梯将在45秒后启动!"
   },
   "Elevator starting up in 10 seconds!": {
-    "translation": "电梯将在10秒后启动!"
+    "translation": "电梯将在10秒后启动"
   },
   "Elevator moving!": {
-    "translation": "电梯正在运行!"
+    "translation": "电梯正在运行"
   },
   "Side ladder will be usable in 30 seconds!": {
-    "translation": "侧梯将在30秒后可用!"
+    "translation": "侧梯将在30秒后可用"
   },
   "Side ladder is now usable!": {
-    "translation": "侧梯现在可以使用了!"
+    "translation": "侧梯现在可以使用了"
   },
   "Stash door opening and stash zombie gate closing in 45 seconds! Hold off the infection.": {
-    "translation": "储藏室门将开启,储藏室僵尸门将在45秒后关闭! 抵挡感染者的进攻."
+    "translation": "储藏室门将在45秒后关闭"
   },
   "Stash zombie gate closing in 10 seconds!": {
-    "translation": "储藏室僵尸门将在10秒后关闭!"
+    "translation": "储藏室门将在10秒后关闭"
   },
   "Stash zombie gate opening again in 25 seconds, stash door is opening!": {
-    "translation": "储藏室僵尸门将在25秒后重新开启,储藏室门正在开启!"
+    "translation": "储藏室门将在25秒后重新开启"
   },
   "Stash zombie gate closing!": {
-    "translation": "储藏室僵尸门正在关闭!"
+    "translation": "储藏室门正在关闭"
   },
   "Stash zombie gate is opening!": {
-    "translation": "储藏室僵尸门正在开启!"
+    "translation": "储藏室门正在开启"
   },
   "Bridge will break, and the bridge door will open in 55 seconds! Hold the infection off.": {
-    "translation": "桥梁将断裂, 桥梁门将在55秒后开启! 抵挡僵尸的进攻."
+    "translation": "桥梁门将在55秒后开启"
   },
   "Bridge door will open in 10 seconds!": {
-    "translation": "桥梁门将在10秒后开启!"
+    "translation": "桥梁门将在10秒后开启"
   },
   "Bridge door is opening and the bridge has broken!": {
-    "translation": "桥梁门正在开启, 桥梁已经断裂!"
+    "translation": "桥梁已经断裂"
   },
   "Bridge box has broken!": {
-    "translation": "桥梁箱体已破损!"
+    "translation": "桥梁箱体已破损"
   },
   "Bridge box will break in 30 seconds!": {
-    "translation": "桥梁箱体将在30秒后破损!"
+    "translation": "桥梁箱体将在30秒后破损"
   },
   "Zombies have gotten past the hallway defend point! Zombie gate being deployed. Gate will open in 20 seconds.": {
-    "translation": "僵尸已经突破走廊防御点! 僵尸门正在部署中. 该门将在20秒后开启."
+    "translation": "门将在20秒后开启."
   },
   "Zombies have gotten past the ramp defend point! Zombie gate being deployed. Gate will open in 20 seconds.": {
-    "translation": "僵尸已经突破斜坡防御点! 僵尸门正在部署中. 该门将在20秒后开启."
+    "translation": "门将在20秒后开启."
   },
   "Ramp door closing in 50 seconds! Hold off the infection.": {
-    "translation": "斜坡门将在50秒后关闭! 抵挡僵尸的进攻."
+    "translation": "门将在50秒后关闭"
   },
   "Ramp door will open again in 20 seconds!": {
-    "translation": "斜坡门将在20秒后重新开启!"
+    "translation": "门将在20秒后重新开启"
   },
   "Ramp door is closing!": {
-    "translation": "斜坡门正在关闭!"
+    "translation": "门正在关闭"
   },
   "Ramp back door is opening!": {
-    "translation": "斜坡后门正在开启!"
+    "translation": "后门正在开启"
   },
   "Ramp door is closing in 10 seconds!": {
-    "translation": "斜坡门将在10秒后关闭!"
+    "translation": "门将在10秒后关闭"
   },
   "Map by: Night Fury": {
-    "translation": "地图作者: Night Fury"
+    "translation": "地图作者: Night Fury,地图文本: 暮雪"
   },
   "Zombies will be here soon! Get through the sewer activate the bomb at the stash and get out.": {
-    "translation": "僵尸即将来袭! 穿过下水道, 激活储藏室的炸弹然后撤离."
+    "translation": "激活储藏室的炸弹后撤离."
   },
   "Hallway door is being opened, hallway door will close in 40 seconds! Hold off the infection.": {
-    "translation": "走廊门正在开启, 该门将在40秒后关闭! 抵挡僵尸的进攻."
+    "translation": "门将在40秒后关闭"
   },
   "Hallway door will open again in 20 seconds!": {
-    "translation": "走廊门将在20秒后重新开启!"
+    "translation": "门将在20秒后重新开启"
   },
   "Hallway door is closing!": {
-    "translation": "走廊门正在关闭!"
+    "translation": "门正在关闭"
   },
   "Secondary hallway door is opening!": {
-    "translation": "副走廊门正在开启!"
+    "translation": "副门正在开启"
   },
   "Hallway door is closing in 10 seconds!": {
-    "translation": "走廊门将在10秒后关闭!"
+    "translation": "门将在10秒后关闭"
   }
 }
