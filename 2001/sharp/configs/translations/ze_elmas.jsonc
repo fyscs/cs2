@@ -11,16 +11,8 @@
 
 {
   "-ı| 10 |ı-": {
-    "translation": "10"
-  },
-  "-ı| 3 |ı-": {
-    "translation": "3"
-  },
-  "-ı| 2 |ı-": {
-    "translation": "2"
-  },
-  "-ı| 1 |ı-": {
-    "translation": "1"
+    "translation": "10",
+    "countdown": 10
   },
   "| OPEN GO |": {
     "translation": "开始出发"
@@ -91,19 +83,8 @@
     "translation": "BOSS道路15s后关闭"
   },
   "| 10 |": {
-    "translation": "10"
-  },
-  "| 5 |": {
-    "translation": "5"
-  },
-  "| 3 |": {
-    "translation": "3"
-  },
-  "| 2 |": {
-    "translation": "2"
-  },
-  "| 1 |": {
-    "translation": "1"
+    "translation": "10",
+    "countdown": 10
   },
   "| WAY BREAK |": {
     "translation": "道路断裂"
