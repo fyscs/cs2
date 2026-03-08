@@ -2752,6 +2752,7 @@
     "price": 450,
     "requiredOnline": -1,
     "requiredPlayers": 40
+  },
   "ze_maontain_escape": {
     "admin": true,
     "certainTimes": [-1],
