@@ -166,6 +166,14 @@
     "translation": "60秒将触发核爆",
     "countdown": 60
   },
+  "5秒将触发核爆": {
+    "translation": "5秒将触发核爆",
+    "countdown": 5
+  },
+  "60秒将触发核爆": {
+    "translation": "60秒将触发核爆",
+    "countdown": 60
+  },
   "5秒将触发核保": {
     "translation": "5秒将触发核爆",
     "countdown": 5
