@@ -35,20 +35,17 @@
     "translation": "***60秒***"
   },
   "***30 seconds***": {
-    "translation": "***30秒***",
-    "blocked": true
+    "translation": "***30秒***"
   },
   "***20 seconds***": {
-    "translation": "***20秒***",
-    "blocked": true
+    "translation": "***20秒***"
   },
   "***5 seconds***": {
     "translation": "***5秒***",
     "blocked": true
   },
   "***10 seconds***": {
-    "translation": "***10秒***",
-    "blocked": true  
+    "translation": "***10秒***"
   },
   "***Get ready to hold down the W key***": {
     "translation": "***准备好按住W键***"
@@ -81,8 +78,7 @@
     "translation": "***在150秒内杀死boss***"
   },
   "***25 seconds***": {
-    "translation": "***25秒***",
-    "blocked": true
+    "translation": "***25秒***"
   },
   "***50 seconds***": {
     "translation": "***50秒***"
@@ -189,7 +185,7 @@
     "translation": "***黑色是门或传送***"
   },
   "***DJ_tusla, Aoba, Dus?K,0,-1***": {
-    "translation": "***DJ_tusla,Aoba,Dus?K,P0P***",
+    "translation": "***DJ_tusla,Aoba,Dus?K,P0P***"
   },
   "***Thanks to Hestia, reflelia***": {
     "translation": "***感谢Hestia, reflelia***"
