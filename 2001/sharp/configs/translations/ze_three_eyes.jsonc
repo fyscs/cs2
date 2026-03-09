@@ -1,0 +1,100 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**Wait here for the moving platform**": {
+    "translation": "等待平台移动..."
+  },
+  "40 Seconds": {
+    "translation": "还有40秒"
+  },
+  "30 Seconds": {
+    "translation": "还有30秒"
+  },
+  "20 Seconds": {
+    "translation": "还有20秒"
+  },
+  "10 Seconds": {
+    "translation": "还有10秒"
+  },
+  "45 Seconds": {
+    "translation": "还有45秒"
+  },
+  "35 Seconds": {
+    "translation": "还有35秒"
+  },
+  "25 Seconds": {
+    "translation": "还有25秒"
+  },
+  "15 Seconds": {
+    "translation": "还有15秒"
+  },
+  "5 Seconds": {
+    "translation": "5秒"
+  },
+  "50 Seconds": {
+    "translation": "50秒"
+  },
+  "**Stay on the Cube**": {
+    "translation": "待在方块上"
+  },
+  "**Pick a platform**": {
+    "translation": "选择一个平台防守"
+  },
+  "**Zombies are comming**": {
+    "translation": "僵尸正在出笼"
+  },
+  "**Wait until the teleport activates**": {
+    "translation": "等待传送装置启动"
+  },
+  "60 Seconds": {
+    "translation": "剩余60秒"
+  },
+  "**Level 4 - Three Eyes selected**": {
+    "translation": "第四关"
+  },
+  "**Level 3 - Red Eyes selected**": {
+    "translation": "第三关"
+  },
+  "**Level 2 - Green Eyes selected**": {
+    "translation": "第二关"
+  },
+  "**Level 1 - Blue Eyes selected**": {
+    "translation": "第一关"
+  },
+  "**Thanks to Airvulpes for the textures**": {
+    "translation": "感谢Airvulpes的纹理素材"
+  },
+  "**Special thanks to Jewdice for particles work**": {
+    "translation": "特别致谢Jewdice为粒子特效所做的工作"
+  },
+  "**Special thanks to Moltard and Soft Serve**": {
+    "translation": "特别致谢:Moltard与Soft Serve"
+  },
+  "- Map LastUpdate:2025.11.16 -": {
+    "translation": "最后一次更新于2025.11.16 地图文本:Korihana"
+  },
+  "**Thanks for playing the map**": {
+    "translation": "感谢你们游玩这张地图"
+  },
+  "**Complete the final course to select the level**": {
+    "translation": "完成最后一关以选择任意关卡"
+  },
+  "*** FAILURE ***": {
+    "translation": "失败了..."
+  },
+  "CS2 Port by AntiLockwise": {
+    "translation": "CS2版本由AntiLockwise移植"
+  },
+  "Map by Lv.100 Crobat": {
+    "translation": "地图作者:Lv.100 Crobat"
+  }
+}
