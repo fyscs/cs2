@@ -1,0 +1,49 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "\"ze_name_defense by Charlie\"": {
+    "translation": "作者:Charlie@龙哥 翻译:白姬"
+  },
+  "\"Audio gun 1 has been picked up.It can play music with 20s cooldown\"": {
+    "translation": "音频枪1已被捡起.它可以播放音乐.冷却时间为20秒"
+  },
+  "\"zombie will be released 15s later\"": {
+    "translation": "僵尸15s后释放"
+  },
+  "\"head for next stage\"": {
+    "translation": "前往下一区域"
+  },
+  "\"defend here for 45s\"": {
+    "translation": "防守45s""
+  },
+  "\"head for last stage\"": {
+    "translation": "前往最后区域"
+  },
+  "\"prohibit suggesting map name\"": {
+    "translation": "不要暗示图名"
+  },
+  "\"Audio gun 2 has been picked uAudio gun 2 has bep.It can play music with 20s cooldown\"": {
+    "translation": "音频枪2已被捡起.它可以播放音乐.冷却时间为20秒"
+  },
+  "\"Audio gun 4 has been picked up.It can play music with 20s cooldown\"": {
+    "translation": "音频枪4已被捡起.它可以播放音乐.冷却时间为20秒"
+  },
+  "\"Audio gun 3 has been picked up.It can play music with 20s cooldown\"": {
+    "translation": "音频枪3已被捡起.它可以播放音乐.冷却时间为20秒"
+  },
+  "\"Audio knife 1 has been picked up.It can play music with 20s cooldown\"": {
+    "translation": "音频刀1已被捡起.它可以播放音乐.冷却时间为20秒"
+  },
+  "\"Audio knife 2 has been picked up.It can play music with 60s cooldown\"": {
+    "translation": "音频刀2已被捡起.它可以播放音乐.冷却时间为60秒"
+  }
+}
