@@ -24,81 +24,38 @@
   "Counters": [
     {
       "iterator": "L4_WhiteEyes_HP",
-      "counter": "L4_WhiteEyes_HP",
       "hitbox": "L4_WhiteEyes_Hitbox",
-      "display": "白白眼"
+      "display": "白白眼(跳刀)"
     },
     {
       "iterator": "L3_RedEyes_HP",
-      "counter": "L3_RedEyes_HP",
       "hitbox": "L3_RedEyes_Hitbox", 
       "display": "红红眼"
     },
     {
       "iterator": "L2_GreenEyes_HP",
-      "counter": "L2_GreenEyes_HP",
       "hitbox": "L2_GreenEyes_Hitbox", 
       "display": "绿绿眼"
     },
     {
       "iterator": "L1_BlueEyes_HP",
-      "counter": "L1_BlueEyes_HP",
       "hitbox": "L1_BlueEyes_Hitbox", 
       "display": "蓝蓝眼"
     },
     {
-      "target": "L2_5_Sphere",
-      "count": 7500,
-      "hitbox": "L2_5_Sphere",
-      "display": "Core"
+      "iterator": "L4_BossPhase_1",
+      "hitbox": "L4_BossHitbox",
+      "display": "三眼"
     },
     {
-      "target": "L1_2_Sphere1",
-      "count": 3000,
-      "hitbox": "L1_2_Sphere1",
-      "display": "小球①号"
+      "iterator": "L4_BossPhase_2",
+      "hitbox": "L4_BossHitbox",
+      "display": "三眼"
     },
     {
-      "target": "L1_2_Sphere2",
-      "count": 3000,
-      "hitbox": "L1_2_Sphere2",
-      "display": "小球②号"
-    },
-    {
-      "target": "L2_2_Sphere1",
-      "count": 3000,
-      "hitbox": "L2_2_Sphere1",
-      "display": "小球③号"
-    },
-    {
-      "target": "L2_2_Sphere2",
-      "count": 3000,
-      "hitbox": "L2_2_Sphere2",
-      "display": "小球④号"
-    },
-    {
-      "target": "L2_3_Sphere",
-      "count": 3000,
-      "hitbox": "L2_3_Sphere",
-      "display": "Core"
-    },
-    {
-      "target": "L3_3_Sphere1",
-      "count": 5000,
-      "hitbox": "L3_3_Sphere1",
-      "display": "小球⑤号"
-    },
-    {
-      "target": "L3_3_Sphere3",
-      "count": 5000,
-      "hitbox": "L3_3_Sphere3",
-      "display": "小球⑥号"
-    },
-    {
-      "target": "L3_2_Sphere",
-      "count": 7500,
-      "hitbox": "L3_2_Sphere",
-      "display": "Core"
+      "iterator": "L4_BossPhase_3",
+      "hitbox": "L4_BossHitbox",
+      "display": "三眼"
     }
   ]
 }
