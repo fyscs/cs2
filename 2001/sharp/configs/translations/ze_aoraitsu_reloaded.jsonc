@@ -134,7 +134,7 @@
     "translation": ">>> 管理员修改至[第一幕] <<<"
   },
   "| EP.0 Complete |": {
-    "translation": "| EP.0 Complete |"
+    "translation": "| EP.0 已完成 |"
   },
   "| 最后的30秒! |": {
     "translation": "| 最后的30秒! |"
@@ -170,10 +170,10 @@
     "translation": "嗯?"
   },
   "| Door will open in 20 Second |": {
-    "translation": "| Door will open in 20 Second |"
+    "translation": "| 大门将在20秒后打开 |"
   },
   "| Door Opend |": {
-    "translation": "| Door Opend |"
+    "translation": "| 大门打开了 |"
   },
   ">>> 管理员结束了回合 <<<": {
     "translation": ">>> 管理员结束了回合 <<<"
@@ -182,7 +182,7 @@
     "translation": "| 35秒后门就要开了 |"
   },
   "| EP.1 Complete |": {
-    "translation": "| EP.1 Complete |"
+    "translation": "| EP.1 已完成 |"
   },
   "| 最后25秒? |": {
     "translation": "| 最后25秒? |"
@@ -248,7 +248,7 @@
     "translation": "AoraitsuR TU0.99 24/08/16 18:17"
   },
   "Aoraitsu:Reload | Swan III": {
-    "translation": "Aoraitsu:Reload | Swan III"
+    "translation": "流光幻境 作者:花澪墨音"
   },
   ">这里变成了一个变成了<": {
     "translation": ">这里变成了一个变成了<"
