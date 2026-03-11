@@ -32,6 +32,7 @@
     {
       "iterator": "stage2_track_counter",
       "hitbox": "stage2_track_breakable"
+      "display": "Ball④"
     },
     {
       "iterator": "s5_sphere_boss_counter",
