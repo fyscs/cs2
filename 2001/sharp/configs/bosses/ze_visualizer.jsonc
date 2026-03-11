@@ -31,7 +31,7 @@
     },
     {
       "iterator": "stage2_track_counter",
-      "hitbox": "stage2_track_breakable"
+      "hitbox": "stage2_track_breakable",
       "display": "Ball②"
     },
     {
