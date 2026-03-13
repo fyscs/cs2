@@ -1,0 +1,154 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "▲A TRAVELLER HAS PICKED ROAR CRYSTAL▲": {
+    "translation": "一名旅行者选择了咆哮水晶"
+  },
+  "▲A TRAVELLER HAS PICKED UNKNOWN CRYSTAL▲": {
+    "translation": "一名旅行者选择了未知水晶"
+  },
+  "▲A TRAVELLER HAS PICKED LIGHTWALL CRYSTAL▲": {
+    "translation": "一名旅行者选择了光墙水晶▲"
+  },
+  "▲A ZOMBIE HAS PICKED FEAR CRYSTAL▲": {
+    "translation": "一名僵尸选择了恐惧水晶"
+  },
+  "▲A ZOMBIE HAS PICKED HEALTH CRYSTAL▲": {
+    "translation": "一名僵尸选择了生命水晶"
+  },
+  "▲A TRAVELLER HAS PICKED HALO CRYSTAL▲": {
+    "translation": "一名旅行者选择了光环水晶"
+  },
+  "▲A TRAVELLER HAS PICKED SNOWSTORM CRYSTAL▲": {
+    "translation": "一名旅行者选择了暴风雪水晶"
+  },
+  "▲A TRAVELLER HAS PICKED BOSS STAR'S ULTIMATE: WAVE▲": {
+    "translation": "一名旅行者选择了Boss星的终极技能: 波浪"
+  },
+  "▲A TRAVELLER HAS PICKED SHOCK RING▲": {
+    "translation": "一名旅行者选择了冲击环"
+  },
+  "▲GENERATING FROYO WORLD IN 1 SECOND▲": {
+    "translation": "1秒后生成酸奶の世界"
+  },
+  "▲GENERATING FROYO WORLD IN 2 SECONDS▲": {
+    "translation": "2秒后生成酸奶の世界"
+  },
+  "▲GENERATING FROYO WORLD IN 3 SECONDS▲": {
+    "translation": "3秒后生成酸奶の世界"
+  },
+  "▲BOSS STAR▲": {
+    "translation": "Boss星"
+  },
+  "▲WARM UP ROUND▲": {
+    "translation": "热身回合"
+  },
+  "▲WELCOME TO FROYO WORLD▲": {
+    "translation": "欢迎来到酸奶世界"
+  },
+  "▲MAP BY 酸奶▲": {
+    "translation": "MAP BY 酸奶"
+  },
+  "▲PORT BY Charlie AND 酸奶▲": {
+    "translation": "移植:查理@龙哥 AND 酸奶, 文本:白姬"
+  },
+  "▲LET'S ENJOY A FANTASTIC TRIP▲": {
+    "translation": "让我们享受这场奇妙的旅程"
+  },
+  "▲HOLD STAR FOR 60 SECONDS▲": {
+    "translation": "守住星星60秒"
+  },
+  "▲30 SECONDS LEFT▲": {
+    "translation": "还剩30秒"
+  },
+  "▲5 SECONDS LEFT▲": {
+    "translation": "还剩5秒"
+  },
+  "▲ZOMBIES WILL COME IN 12 SECONDS▲": {
+    "translation": "僵尸将在12秒后出现"
+  },
+  "▲TRAVELLERS SUCCEED▲": {
+    "translation": "你赢了,旅行者"
+  },
+  "▲HOLD FOR 75 SECONDS▲": {
+    "translation": "坚守75s"
+  },
+  "▲ALL ZOMBIES WILL BE TELEPORTED IN 10 SECONDS▲": {
+    "translation": "所有僵尸将在10秒后被传送"
+  },
+  "▲ZOMBIES WILL COME IN 15 SECONDS▲": {
+    "translation": "僵尸将在15秒后出现"
+  },
+  "▲YOU HAVE 120S TO FIGHT BOSS STAR▲": {
+    "translation": "你有120秒时间和Boss星van游戏"
+  },
+  "▲HEGRENADE CAN GIVE BOSS STAR MORE DAMAGE▲": {
+    "translation": "高爆手雷可以对Boss星造成更多伤害"
+  },
+  "▲4 SECONDS LEFT▲": {
+    "translation": "剩余4秒▲"
+  },
+  "▲3 SECONDS LEFT▲": {
+    "translation": "剩余3秒▲"
+  },
+  "▲2 SECONDS LEFT▲": {
+    "translation": "剩余2秒"
+  },
+  "▲1 SECOND LEFT▲": {
+    "translation": "剩余1秒"
+  },
+  "▲30 SECONDS LEFT TO WIN▲": {
+    "translation": "距离胜利还剩30秒"
+  },
+  "▲ZOMBIES! FEEL FROYO'S FORCE! BALABALA...▲": {
+    "translation": "僵尸们!感受Froyo的力量!巴拉巴拉..."
+  },
+  "▲PRESS THE RED BUTTON AND ENTER THE CASTLE▲": {
+    "translation": "按下红色按钮并进入城堡"
+  },
+  "▲YOU HAVE 60 SECONDS TO FIGHT BOSS STAR▲": {
+    "translation": "你有60秒时间和Boss星van游戏"
+  },
+  "▲YOU HAVE 90 SECONDS TO FIGHT BOSS STAR▲": {
+    "translation": "你有90秒时间和Boss星van游戏"
+  },
+  "▲YOU HAVE 30 SECONDS TO FIGHT BOSS STAR▲": {
+    "translation": "你有30秒时间和Boss星van游戏"
+  },
+  "▲WELL! BOSS STAR WAS DEFEATED! THE STAR PLATFORM WILL RISE IN 10 SECONDS▲": {
+    "translation": "太好了!Boss星被击败了!星星平台将在10秒后升起"
+  },
+  "▲WOOD DOOR WILL OPEN IN 10 SECONDS▲": {
+    "translation": "木门将在10秒后打开"
+  },
+  "▲FIND AND TOUCH THE FROYO▲": {
+    "translation": "找到并触摸酸奶"
+  },
+  "▲ZOMBIES WILL COME IN 20 SECONDS▲": {
+    "translation": "僵尸将在20秒后出现"
+  },
+  "▲IF THE COUNT OF TRAVELLERS IS MORE THAN HALF,ALL ZOMBIES WILL BE TELEPORTED IN 20 SECONDS▲": {
+    "translation": "如果旅行者数量超过一半,所有僵尸将在20秒后被传送"
+  },
+  "▲WELL! IF THE COUNT OF TRAVELLERS IS LESS THAN HALF,ALL ZOMBIES WILL BE TELEPORTED IN 60 SECONDS▲": {
+    "translation": "好吧!如果旅行者数量少于一半,所有僵尸将在60秒后被传送"
+  },
+  "▲THE TELEPORTION CRYSTAL WILL BE ACTIVE IN 45 SECONDS▲": {
+    "translation": "传送水晶将在45秒后激活"
+  },
+  "▲THE TELEPORTION CRYSTAL IS ACTIVE▲": {
+    "translation": "传送水晶已激活"
+  },
+  "▲BOSS STAR WILL APPEAR IN 10 SECONDS▲": {
+    "translation": "Boss星将在10秒后出现"
+  }
+}
