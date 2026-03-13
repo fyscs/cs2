@@ -25,20 +25,26 @@
     {
       "iterator": "Genichiro_A_Hp",
       "hitbox": "Genichiro_A_Box",
+      "counter": "Genichiro_A_Hp_Counter",
+      "mass": 100,
       "display": "苇名弦一郎"
     },
     {
       "iterator": "Genichiro_B_Hp",
       "hitbox": "Genichiro_b_Box",
+      "counter": "Genichiro_B_Hp_Counter",
+      "mass": 100,
       "display": "苇名弦一郎-终"
     },
-    {
+        {
       "iterator": "Always_T_Hp",
       "hitbox": "Always_T_Box",
+      "counter": "Always_T_Hp_Counter",
+      "mass": 100,
       "display": "永真"
     }
   ],
-  "Monsters": [
+    "Monsters": [
     {
       "identity": "7223",
       "display": "火牛"
