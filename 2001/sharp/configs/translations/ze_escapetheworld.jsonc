@@ -1,0 +1,316 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "[Admin have select stage 1]": {
+    "translation": "管理员选择了第一关"
+  },
+  "[Admin have select stage RTV]": {
+    "translation": "管理员选择了RTV关"
+  },
+  "[Admin have select stage 3]": {
+    "translation": "管理员选择了第三关"
+  },
+  "[Stage rtv]": {
+    "translation": "RTV关!"
+  },
+  "[Increasing zombie speed]": {
+    "translation": "僵尸加速"
+  },
+  "[You have 160 secs to find all cubes and destroy them]": {
+    "translation": "你有160秒去找到所有的方块并击碎它们"
+  },
+  "[Thanks for playing my map]": {
+    "translation": "感谢游玩这张地图"
+  },
+  "[Map made by K-31]": {
+    "translation": "地图作者:K-31"
+  },
+  "[RESPECT TO ZE_GRAU(For map IDEA]": {
+    "translation": "地图灵感来自于:ze_grau"
+  },
+  "[WHAT !?!]": {
+    "translation": "什么?"
+  },
+  "[WHERE ARE WE ?]": {
+    "translation": "给我干哪来了?"
+  },
+  "[Will continue on my next map]": {
+    "translation": "续作正在制作中..."
+  },
+  "[Map port by 沉默中的羔羊]": {
+    "translation": "cs2版本移植由:沉默中的羔羊,文本:Korihana"
+  },
+  "[Next Gate will open in 10 secs]": {
+    "translation": "下一个大门将在10秒后打开"
+  },
+  "[Wait for 25 secs]": {
+    "translation": "等待25秒"
+  },
+  "[Gate will open in 25 secs]": {
+    "translation": "大门在25秒后打开"
+  },
+  "[Shoot the white cube]": {
+    "translation": "射击那个白色方块"
+  },
+  "[Gate will open in 15 secs]": {
+    "translation": "大门在15秒后打开"
+  },
+  "[Middle gate will open in 20 secs]": {
+    "translation": "中部大门将在20秒后打开"
+  },
+  "[We almost there wait for 25 secs]": {
+    "translation": "在这防守25秒"
+  },
+  "[Zombie will tele in 10 secs]": {
+    "translation": "僵尸传送在10秒后..."
+  },
+  "[Teleport will enable in 30 secs]": {
+    "translation": "30秒后启用传送"
+  },
+  "[Wait for 20 secs]": {
+    "translation": "等待20秒"
+  },
+  "Item now can be use again": {
+    "translation": "神器冷却完成"
+  },
+  "[Left Gate will Break in 15 secs]": {
+    "translation": "左边大门在15秒后破碎"
+  },
+  "[Teleport Enable in 15 secs]": {
+    "translation": "15秒后启用传送"
+  },
+  "[Zombie will free in 10 secs]": {
+    "translation": "僵尸在10秒后出笼"
+  },
+  "[Path will open in 50 secs]": {
+    "translation": "道路在50秒后打开"
+  },
+  "[Teleport Afk in 10 secs]": {
+    "translation": "AFK传送在10秒后..."
+  },
+  "[Wait here for 20 secs]": {
+    "translation": "在这等待20秒"
+  },
+  "[Gate will break in 25 secs]": {
+    "translation": "大门在25秒后破碎"
+  },
+  "[Left door open in 15 secs]": {
+    "translation": "左边大门在15秒后打开"
+  },
+  "[Gate will open in 40 secs]": {
+    "translation": "大门在40秒后打开"
+  },
+  "[Shoot the black cube]": {
+    "translation": "射击这个黑色方块"
+  },
+  "[Right door open in 10 secs]": {
+    "translation": "右边大门在10秒后打开"
+  },
+  "[Afk teleport in 10 secs]": {
+    "translation": "AFK传送在10秒后..."
+  },
+  "[Wait here]": {
+    "translation": "等待..."
+  },
+  "[Stage 1 Complete]": {
+    "translation": "第一关完成"
+  },
+  "[Door will open in 25 secs]": {
+    "translation": "大门在25秒后打开"
+  },
+  "[Door is open GO BACK]": {
+    "translation": "大门打开了,准备返回"
+  },
+  "[The core is working again!!]": {
+    "translation": "核心再次运作了!!"
+  },
+  "[Defend here while the core working]": {
+    "translation": "核心运作期间,守住这里!"
+  },
+  "[Afk teleport in 13 secs]": {
+    "translation": "AFK传送在13秒后..."
+  },
+  "[DOOR WILL CLOSE IN 10 SECS!!!!]": {
+    "translation": "大门将在10秒后关闭"
+  },
+  "[Look the middle room i think we should go there]": {
+    "translation": "我觉得我们应该走中间"
+  },
+  "[Wait here for 26 secs]": {
+    "translation": "等待26秒"
+  },
+  "[Look the Core]": {
+    "translation": "看这个核心"
+  },
+  "[We need the core work again]": {
+    "translation": "我们需要让它再次运作"
+  },
+  "[SHOOT IT]": {
+    "translation": "射击它!"
+  },
+  "[AFK Teleport will enable soon !!!]": {
+    "translation": "即将启用AFK传送"
+  },
+  "[Teleport will Enable in 20 secs]": {
+    "translation": "传送在20秒后启动"
+  },
+  "[We need find a door to keep going]": {
+    "translation": "咱得找着门才能接着走"
+  },
+  "[Look a crystal shoot it]": {
+    "translation": "看那个水晶!射他!"
+  },
+  "[Hmm we need those cube working]": {
+    "translation": "呃...我们需要让那个方块开始运作]"
+  },
+  "[Look there are 2  telephones]": {
+    "translation": "看,那有两个电话亭"
+  },
+  "[Defend here]": {
+    "translation": "防守这个地方!"
+  },
+  "[We need to find 4 cubes and destroy it]": {
+    "translation": "我们需要找到4个方块并摧毁它们"
+  },
+  "[Final door closing in 15 sec]": {
+    "translation": "最后大门将在15秒后关闭"
+  },
+  "[GOOD BYE]": {
+    "translation": "拜拜!"
+  },
+  "[Gate open again soon]": {
+    "translation": "大门即将再次打开"
+  },
+  "[SHOOT IT IF U WANT TO LIVE]": {
+    "translation": "若欲求生,即刻射击"
+  },
+  "[All 4 cube have break DON'T MOVE you will teleport back in 5 secs]": {
+    "translation": "干得好!别动,传送装置将在5秒后启动"
+  },
+  "[Tele Zm in 5 secs]": {
+    "translation": "zm传送在5秒后启动"
+  },
+  "[Everybody stand in the tree and u will tele in 10 secs]": {
+    "translation": "贴着树,10秒后传送将会启动"
+  },
+  "[The crystal is working wait for 35 secs]": {
+    "translation": "水晶正在运作,等待35秒"
+  },
+  "[Elevator will go up in 10 secs]": {
+    "translation": "电梯在10秒后就走咯"
+  },
+  "[afk tele in 3 secs]": {
+    "translation": "AFK传送在3秒后..."
+  },
+  "[Door will open in 35 secs]": {
+    "translation": "这个门在35秒后机会开"
+  },
+  "[Fall back zombie teleport]": {
+    "translation": "僵尸传送点已更新"
+  },
+  "[Door for zombie will open soon]": {
+    "translation": "僵尸侧路即将开启"
+  },
+  "[Door will break in 30 secs and Look a telephone we should find a way get up there]": {
+    "translation": "这个门将在30秒后打开,找到路去触碰那个电话"
+  },
+  "[Left Door open in 20 secs]": {
+    "translation": "左边门在20秒后打开"
+  },
+  "[Door will open in 30 secs]": {
+    "translation": "门将在30秒后打开"
+  },
+  "[Zombie shortcut has broken]": {
+    "translation": "僵尸侧路已失效"
+  },
+  "[The second zombie shortcut has open]": {
+    "translation": "第二个侧路已开放"
+  },
+  "[Only the chosen one may survive]": {
+    "translation": "唯有天选之人方能幸存"
+  },
+  "[Gate open in 20 secs]": {
+    "translation": "大门在20秒后打开"
+  },
+  "[Teleport in 20 secs ]": {
+    "translation": "传送在20秒后"
+  },
+  "[Stage 2 Complete]": {
+    "translation": "第二关完成"
+  },
+  "[Stage 1]": {
+    "translation": "第一关"
+  },
+  "[Stage 2]": {
+    "translation": "第二关]"
+  },
+  "[Stage 3]": {
+    "translation": "第三关"
+  },
+  "[Zombie item spawned]": {
+    "translation": "zm神器已出现"
+  },
+  "[Mapper K-31]": {
+    "translation": "作者K-31"
+  },
+  "[Special Thanks Excaliber]": {
+    "translation": "特别感谢:Excaliber"
+  },
+  "[Thanks to server Syndoria and tester for test my map]": {
+    "translation": "感谢Syndoria提供的测试机会"
+  },
+  "[This is my first map pls enjoy ^-^]": {
+    "translation": "这是我的第一张地图^-^"
+  },
+  "[Thanks Doan xem for music lv 3]": {
+    "translation": "感谢Doan xem提供的第三关配乐"
+  },
+  "[Respect to ze_grau(Map idea)]": {
+    "translation": "地图构思来自于:ze_grau"
+  },
+  "[Admin room is above u]": {
+    "translation": "调关房在哪里?不告诉你们"
+  },
+  "[Door open in 35 secs]": {
+    "translation": "这个门将在35秒后打开"
+  },
+  "[Hmm we need to break something to open the door]": {
+    "translation": "我们需要打碎某个东西来打开大门"
+  },
+  "[Door open in 30 secs ]": {
+    "translation": "这个门将在35秒后打开"
+  },
+  "[Door open in 30 secs]": {
+    "translation": "这个门将在35秒后打开"
+  },
+  "[Zombie teleport in 10 secs]": {
+    "translation": "僵尸传送在10秒后"
+  },
+  "[Admin have select stage 2]": {
+    "translation": "管理员选择了第二关"
+  },
+  "[Zombie tele in 10 secs]": {
+    "translation": "僵尸传送在10秒后"
+  },
+  "[A zombie has speed item]": {
+    "translation": "加速神器已被拾取"
+  },
+  "[A cube has been break]": {
+    "translation": "一个方块被打碎了"
+  },
+  "[I WILL SEE U AGAIN]": {
+    "translation": "我还会再见到你的..."
+  },
+  "[Teleport in 10  secs]": {
+    "translation": "传送在10秒后..."
+  }
+}
