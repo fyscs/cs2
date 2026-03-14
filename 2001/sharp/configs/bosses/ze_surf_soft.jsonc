@@ -26,11 +26,11 @@
       "iterator": "Boss crystal phase_1 HP",
       "hitbox": "Boss_multiplayer",
       "display": "Boss"
-    }
-  ],
+    },
     {
       "iterator": "Boss crystal phase_2 HP",
       "hitbox": "Boss_phase2_multiplayer",
       "display": "BOSS"
     }
+  ]
 }
