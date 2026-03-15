@@ -5336,6 +5336,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 45
   },
+  "ze_winter": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_winter_warehouse_p": {
     "admin": false,
     "certainTimes": [-1],
