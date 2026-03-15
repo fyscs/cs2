@@ -1052,6 +1052,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_date_a_live": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 350,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_deadcore": {
     "admin": true,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
