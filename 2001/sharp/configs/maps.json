@@ -1709,6 +1709,15 @@
     "requiredOnline": 600,
     "requiredPlayers": 45
   },
+  "ze_flat_surviva": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_floating_rocks_survival": {
     "admin": false,
     "certainTimes": [-1],
