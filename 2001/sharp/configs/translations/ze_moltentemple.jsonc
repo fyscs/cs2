@@ -1,0 +1,40 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "[A LEVER HAS BEEN PRESSED]": {
+    "translation": "已按下开关"
+  },
+  "[ADMIN FORCED FULL MODE]": {
+    "translation": "管理员开启ex模式"
+  },
+  "[YOU HAVE FAILED: ZOMBIES REACHED THE OBJECTIVE]": {
+    "translation": "任务失败: 僵尸到达目标点"
+  },
+  "[ADMIN FORCED NORMAL STAGE 1]": {
+    "translation": "管理员开启第一关"
+  },
+  "[MAP BY GEORGE]": {
+    "translation": "地图作者: George"
+  },
+  "[ADMIN FORCED NORMAL STAGE 2]": {
+    "translation": "管理员开启第二关"
+  },
+  "[NORMAL MODE - STAGE 1]": {
+    "translation": "第一关"
+  },
+  "[NORMAL MODE - STAGE 2]": {
+    "translation": "第二关"
+  },
+  "[FULL MODE]": {
+    "translation": "ex模式"
+  }
+}
