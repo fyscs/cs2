@@ -26,8 +26,8 @@
       "iterator": "boss_hp",
       "hitbox": "Zombie_Item_Boss_Super_Health",
       "display": "Alex"
-    },
-"Monsters": [
+    }
+  "Monsters": [
     {
       "identity": "333,
       "display": "铁血"
