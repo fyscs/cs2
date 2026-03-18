@@ -1,0 +1,96 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Breakables": [
+    {
+      "target": "s14boss_hit_phy",
+      "display": "Boss_S1"
+    },
+    {
+      "target": "s25boss_1_hit",
+      "display": "Boss_S2_1"
+    },
+    {
+      "target": "s25_boss_2_hit",
+      "display": "Boss_S2_2"
+    },
+    {
+      "target": "s36boss_hit",
+      "display": "Boss_S3_1"
+    },
+    {
+      "target": "s36miniboss_hit",
+      "display": "Boss_S3_2"
+    },
+    {
+      "target": "s5_endboss_hit",
+      "display": "Boss_S5"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "6706",
+      "display": "神秘のNpc_10"
+    },
+    {
+      "identity": "6702",
+      "display": "神秘のNpc_1"
+    },
+    {
+      "identity": "6703",
+      "display": "神秘のNpc_2"
+    },
+    {
+      "identity": "6711",
+      "display": "神秘のNpc_3"
+    },
+    {
+      "identity": "6709",
+      "display": "神秘のNpc_4"
+    },
+    {
+      "identity": "6707",
+      "display": "神秘のNpc_5"
+    },
+    {
+      "identity": "6701",
+      "display": "神秘のNpc_6"
+    },
+    {
+      "identity": "6704",
+      "display": "神秘のNpc_7"
+    },
+    {
+      "identity": "6706",
+      "display": "神秘のNpc_8"
+    },
+    {
+      "identity": "6708",
+      "display": "神秘のNpc_9"
+    },
+    {
+      "identity": "1850",
+      "display": "Npc"
+    }
+  ]
+}
