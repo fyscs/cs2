@@ -130,8 +130,7 @@
     "countdown": 5
   },
   ">>> EXIT DOORS ARE OPENING IN 100 SECONDS <<<": {
-    "translation": "出口大门将在100秒后打开",
-    "countdown": 100
+    "translation": "出口大门将在100秒后打开"
   },
   ">>> 60 SECONDS LEFT <<<": {
     "translation": "剩余60秒",
@@ -146,8 +145,7 @@
     "countdown": 10
   },
   ">>> EXIT DOORS ARE OPENING IN 120 SECONDS <<<": {
-    "translation": "出口大门将在120秒后打开",
-    "countdown": 120
+    "translation": "出口大门将在120秒后打开"
   },
   ">>> ROUTE1 : ZOMBIE BROKE THE DOOR <<<": {
     "translation": "线路1:僵尸破门而入"
