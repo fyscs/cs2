@@ -27,13 +27,14 @@
       "hitbox": "Zombie_Item_Boss_Super_Health",
       "display": "Alex"
     }
+  ],
   "Monsters": [
     {
-      "identity": "333,
+      "identity": "333",
       "display": "铁血"
     },
     {
-      "identity": "53,
+      "identity": "53",
       "display": "女鬼"
     }
   ]
