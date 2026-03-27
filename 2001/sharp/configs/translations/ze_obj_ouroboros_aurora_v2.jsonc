@@ -1,0 +1,57 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "“准备撤退”": {
+    "translation": "准备撤退"
+  },
+  "“准备撤退，5秒”": {
+    "translation": "5秒后撤退!",
+    "countdown": 5
+  },
+  "<<经典双路已触发>>": {
+    "translation": "<<经典双路已触发>>"
+  },
+  "<<给我40秒，接应马上到，我们需要跳下去>>": {
+    "translation": "给我40秒,接应马上到,我们需要跳下去",
+    "countdown": 40
+  },
+  "<<还有10秒>>": {
+    "translation": "还有10秒",
+    "countdown": 10
+  },
+  "<<随机单路已触发>>": {
+    "translation": "随机单路已触发"
+  },
+  "“电梯即将关闭 5秒”": {
+    "translation": "5秒后即将关闭电梯",
+    "countdown": 5
+  },
+  "“给我30秒”": {
+    "translation": "给我30秒",
+    "countdown": 30
+  },
+  "“快跳进光球中”": {
+    "translation": "快跳进光球中"
+  },
+  "“快跳上列车轨道，一路前进”": {
+    "translation": "快跳上列车轨道,一路前进"
+  },
+  "“注意身后的感染者”": {
+    "translation": "注意身后的感染者"
+  },
+  "“重力场偏移注意！！”": {
+    "translation": "重力场偏移注意!!(暂时取消低重力效果)"
+  },
+  "“此处会在后续添加片尾动画以及感谢，恭喜通关,80秒后核爆”": {
+    "translation": "80秒后核爆"
+  }
+}
