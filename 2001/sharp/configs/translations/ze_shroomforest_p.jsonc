@@ -51,7 +51,8 @@
     "translation": "墙已经碎了,快润!"
   },
   "*** WAIT TILL THAT WALL BREAKS ***": {
-    "translation": "你再急也要等着堵墙碎掉!"
+    "translation": "这堵墙将在30秒后碎掉.",
+    "countdown": 30
   },
   "*** HOLD FOR 40 seconds ***": {
     "translation": "坚守40秒钟"
