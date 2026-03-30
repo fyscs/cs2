@@ -31,19 +31,33 @@
       "display": "Bahamut"
     },
     {
-      "iterator": "Rage2_Ifrit_Counter",
+      "iterator": "ifrit_2_counter",
       "hitbox": "Rage_Ifrit_Hitbox",
       "display": "Ifrit"
     },
     {
       "iterator": "skin_sephiroth_counter",
       "hitbox": "sephiroth_laser_physbox",
-      "display": "SkinSeph"
+      "display": "Sephiroth"
     },
     {
-      "iterator": "Ifrit_Counter",
+      "iterator": "ifrit_1_counter",
       "hitbox": "Ifrit_Phys_Body",
       "display": "Ifrit"
+    }
+  ],
+  "Breakables": [
+    {
+      "target": "Final_Fulgor_Breakable",
+      "display": "Bahamut"
+    },
+    {
+      "target": "Sephiroth_Final_Breakable",
+      "display": "Sephiroth"
+    },
+    {
+      "target": "Csomo_Genesis_Final_Breakable",
+      "display": "Genesis"
     }
   ]
 }
