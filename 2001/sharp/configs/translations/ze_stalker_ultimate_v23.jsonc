@@ -1,0 +1,302 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "A player picked up spikeball": {
+    "translation": "有玩家拾取了海胆"
+  },
+  "A player picked up nightstar": {
+    "translation": "有玩家拾取了夜星"
+  },
+  "A player picked up flash": {
+    "translation": "有玩家拾取了闪电"
+  },
+  "A player picked up meatchunk": {
+    "translation": "有玩家拾取了肉块"
+  },
+  "A player picked up a piece of flesh": {
+    "translation": "有玩家拾取了一块血肉"
+  },
+  "A player picked up fireball": {
+    "translation": "有玩家拾取了火球"
+  },
+  "***THE BOSS HAS MAXIMUM HP***": {
+    "translation": "Boss 血量已达到最大值"
+  },
+  "The gate 1 will open in 30 seconds": {
+    "translation": "1号门将在30秒后打开",
+    "countdown": 30
+  },
+  "***The electricity in on. You can push the panels to open the gates***": {
+    "translation": "电力已开启,你可以推动面板打开大门"
+  },
+  "***IF YOU WANT TO OPEN THE GATES TURN THE ELECTRICITY ON!!!***": {
+    "translation": "想开门就先把电力打开!!!"
+  },
+  "Hold this position for 10 seconds!!": {
+    "translation": "守住这里10秒!!",
+    "countdown": 10
+  },
+  "**This is a map based on the game STALKER**": {
+    "translation": "本地图改编自游戏 STALKER"
+  },
+  "**The map isn't eazy. It needs good ZE skills and good teamplay**": {
+    "translation": "本图不简单,需要良好的ZE技巧和团队配合",
+    "blocked": true
+  },
+  "THE LIFT 1 WILL LEAVE IN 4 SECONDS": {
+    "translation": "1号电梯将在4秒后离开"
+  },
+  "THE LIFT 2 WILL LEAVE IN 9 SECONDS": {
+    "translation": "2号电梯将在9秒后离开"
+  },
+  "**15 SECONDS LEFT**": {
+    "translation": "还剩15秒"
+  },
+  "**5 SECONDS LEFT**": {
+    "translation": "还剩5秒"
+  },
+  "***Break the spheres to escape***": {
+    "translation": "打碎球体才能逃脱"
+  },
+  "***OH NO WHO IS IT? WE MUST KILL IT!***": {
+    "translation": "不好,那是谁?我们必须干掉它!"
+  },
+  "**AUTO-SLAYER ENABLED**": {
+    "translation": "自动处决已启用"
+  },
+  "**Hold the place for 25 seconds**": {
+    "translation": "守住这里25秒",
+    "countdown": 25
+  },
+  "Zombie shield is disabled.": {
+    "translation": "僵尸护盾已关闭"
+  },
+  "Zombie shield is activated. You have 15 seconds.": {
+    "translation": "僵尸护盾已开启,你们有15秒"
+  },
+  "**You did it!! You have completed stage 2!!**": {
+    "translation": "成功了!!你们完成了第2关!!"
+  },
+  "**now is the time to see something new**": {
+    "translation": "现在是见识新东西的时候了"
+  },
+  "**There are zombies in bunker. The level is failed.**": {
+    "translation": "地堡里有僵尸,关卡失败"
+  },
+  "**THE ADMIN SET BLOWOUT. U GONNA DIE IN 20 SECONDS**": {
+    "translation": "管理员触发了爆发,你们20秒后会死"
+  },
+  "**OPENING THE GATES (10 SECONDS)**": {
+    "translation": "正在开门(10秒)"
+  },
+  "**Bloodsucker have been defeated**": {
+    "translation": "吸血怪已被击败"
+  },
+  "**Wait until the debris break**": {
+    "translation": "等待障碍物破碎"
+  },
+  "**Your items got more power**": {
+    "translation": "你的道具变得更强了"
+  },
+  "Bloodsucker is watching you...": {
+    "translation": "吸血怪正在盯着你..."
+  },
+  "**Good job!! You won stage 3!! New area opened!**": {
+    "translation": "干得漂亮!!你们赢下第3关!!新区域已开启!"
+  },
+  "Type in console mat_colorcorrection 1 for dynamic effects!!": {
+    "translation": "控制台输入 mat_colorcorrection 1 开启动态效果!!",
+    "blocked": true
+  },
+  "Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E": {
+    "translation": "地图作者 gleb_erilov(Headshooter.SC),特别感谢 HaRyDe POMKA Said Z-O-M-B-I-E"
+  },
+  "**ADMIN SET LEVEL 3 IN THE ADMIN ROOM**": {
+    "translation": "管理员在管理房设置了第3关"
+  },
+  "**ADMIN SET LEVEL 2 IN THE ADMIN ROOM**": {
+    "translation": "管理员在管理房设置了第2关"
+  },
+  "**ADMIN SET LEVEL 1 IN THE ADMIN ROOM**": {
+    "translation": "管理员在管理房设置了第1关"
+  },
+  "You are too slow...": {
+    "translation": "你太慢了..."
+  },
+  "**You win the round!!You unlock the hard mode.**": {
+    "translation": "你们赢了!!已解锁困难模式"
+  },
+  "The emission will be in 50 seconds. Find the bunker and hide in it!!!": {
+    "translation": "50秒后将发生放射,找到地堡并躲进去!!!"
+  },
+  "Survive for 70 seconds": {
+    "translation": "存活70秒"
+  },
+  "Zombie sheld is activated for 30 seconds!!": {
+    "translation": "僵尸护盾开启30秒!!"
+  },
+  "The Chernobyl gate will open in 20 seconds.": {
+    "translation": "切尔诺贝利大门将在20秒后打开",
+    "countdown": 20
+  },
+  "**Hold this way for 10 seconds**": {
+    "translation": "守住这条路10秒"
+  },
+  "**It's dead. Good job**": {
+    "translation": "它死了,干得好"
+  },
+  "**1 PLAYER have to go to the command room to take documents**": {
+    "translation": "需要1名玩家去指挥室拿文件"
+  },
+  "**The documents are here!**We are too close!**": {
+    "translation": "文件在这里!我们太接近了!"
+  },
+  "**Defend a bit**The door will explode in a few seconds!**": {
+    "translation": "顶住一会儿,门几秒后会爆炸!"
+  },
+  "**RUN RUN RUN!!!**": {
+    "translation": "跑!跑!跑!!!"
+  },
+  "**The door wil open in 10 seconds**": {
+    "translation": "门将在10秒后打开"
+  },
+  "Lab door 1 will open for zombies in 18 seconds": {
+    "translation": "实验室1号门将在18秒后为僵尸打开"
+  },
+  "Lab door 1 will open in 11 seconds": {
+    "translation": "实验室1号门将在11秒后打开"
+  },
+  "Lab door 2 will open for zombies in 18 seconds": {
+    "translation": "实验室2号门将在18秒后为僵尸打开"
+  },
+  "Lab door 2 will open in 13 seconds": {
+    "translation": "实验室2号门将在13秒后打开"
+  },
+  "**The blowout is comming**": {
+    "translation": "爆发即将到来"
+  },
+  "**Prepare for ultimate survival. Fight for your life!!**": {
+    "translation": "准备终极生存,为活命而战!!"
+  },
+  "**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**": {
+    "translation": "Boss 正在操控你的大脑!!这里不是真实的!!"
+  },
+  "**You have defeated controller!!! Good job**": {
+    "translation": "你们击败了操控者!!!干得好"
+  },
+  "**Now go away to the coast**": {
+    "translation": "现在前往海岸"
+  },
+  "**Hold here for 25 seconds**": {
+    "translation": "在这里坚守25秒",
+    "countdown": 25
+  },
+  "**And then go to the pool**": {
+    "translation": "然后去泳池"
+  },
+  "**YOU DID IT!!!**GOOD LUCK!!**": {
+    "translation": "你们做到了!!!祝好运!!"
+  },
+  "**GO INTO THE TELEPORTER***": {
+    "translation": "进入传送器"
+  },
+  "**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**": {
+    "translation": "所有挂机和慢速玩家已被传送"
+  },
+  "**NOW WE ARE READY TO GO**": {
+    "translation": "现在我们准备出发"
+  },
+  "***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***": {
+    "translation": "你们有时间寻找一些隐藏物品"
+  },
+  "***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**": {
+    "translation": "然后撤退,等待屏障开启"
+  },
+  "**ADMIN SET LEVEL 4 IN THE ADMIN ROOM**": {
+    "translation": "管理员在管理房设置了第4关"
+  },
+  "**FAIL DETECTED**GLITCH WIN PROTECTION IS ON**": {
+    "translation": "检测到失败,防卡胜保护已开启"
+  },
+  "**..We founded something unusial..**": {
+    "translation": "我们发现了不寻常的东西..."
+  },
+  "**.. Is it a new anomaly?!..**": {
+    "translation": "这是一种新的异常吗?!"
+  },
+  "**YOU ARE TOO CLOSE TO WIN**KEEP HOLDING**": {
+    "translation": "你们快要胜利了,继续坚守"
+  },
+  "**THEY WANT TO KILL US!! SHOOT AS U CAN!!!**": {
+    "translation": "他们想杀了我们!!尽全力开火!!!"
+  },
+  "**Prepare to FIGHT**": {
+    "translation": "准备战斗"
+  },
+  "**YOUR ITEMS GOT MAXIMUM POWER**USE WHEN NESESSARY**": {
+    "translation": "你的道具已达到最大威力,必要时使用"
+  },
+  "**PREPARE TO MOVE IN 10 SECONDS!**": {
+    "translation": "10秒后准备移动!"
+  },
+  "**GO!!**GO!!**GO!!**": {
+    "translation": "冲!!冲!!冲!!"
+  },
+  "**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**": {
+    "translation": "你们通关了!!你们才是真正的潜行者!!!"
+  },
+  "**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**": {
+    "translation": "管理员在管理房设置了第5关"
+  },
+  "**PLAY AS YOU CAN**": {
+    "translation": "尽力而为"
+  },
+  "**DON'T LET HIM TO FAIL US!!**": {
+    "translation": "别让他让我们失败!!"
+  },
+  "**YOU HAVE FAILED**": {
+    "translation": "你们失败了"
+  },
+  "**HE IS DEAD!!NICE WORK!!**": {
+    "translation": "他死了!!干得漂亮!!"
+  },
+  "**A PIECE OF FLESH GOT MAXIMUM POWER**": {
+    "translation": "血肉已达到最大威力"
+  },
+  "**FLASH GOT MAXIMUM POWER**": {
+    "translation": "电已达到最大威力"
+  },
+  "**FIREBALL GOT MAXIMUM POWER**": {
+    "translation": "火球已达到最大威力"
+  },
+  "**SPIKEBALL GOT MAXIMUM POWER**": {
+    "translation": "海胆已达到最大威力"
+  },
+  "**NIGHTSTAR GOT MAXIMUM POWER**": {
+    "translation": "夜星已达到最大威力"
+  },
+  "**REWARD**YOU HAVE OBTAINED ONE MORE ITEM ON THIS STAGE": {
+    "translation": "奖励:本关你又获得了一个道具"
+  },
+  "**UNKNOWN ARTEFACT** QUEST COMPLETED": {
+    "translation": "未知神器任务完成"
+  },
+  "sm_c**UNKNOWN ARTEFACT** +50% COMPLETE": {
+    "translation": "sm_c 未知神器 完成度+50%"
+  },
+  "sm_c**UNKNOWN ARTEFACT**+50% COMPLETED": {
+    "translation": "sm_c 未知神器 完成度+50%"
+  },
+  "**THE LEVEL IS FAILED** ZOMBIES MADE IT TO THE SECOND WAY**": {
+    "translation": "关卡失败:僵尸到达了第二条路线"
+  }
+}
