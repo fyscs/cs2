@@ -25,7 +25,6 @@
   "Counters": [
     {
       "iterator": "HPCounter",
-      "backup": "HPCounterBackUp",
       "counter": "HPCounterIterator",
       "hitbox": "Boss_Bahamut_Breakable",
       "display": "Bahamut"
