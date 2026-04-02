@@ -1,0 +1,130 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<< Zombies are on the lift. Failed. >>>": {
+    "translation": "僵尸上电梯了上.caibee"
+  },
+  "<<< Watch out Lasers!!! >>>": {
+    "translation": "小心激光"
+  },
+  "<<< Shoot Boss!!>>>": {
+    "translation": "射击Boss"
+  },
+  "<<< Boss fight in 8 seconds >>>": {
+    "translation": "8秒后开始Boss战"
+  },
+  "<<< Sky tears >>>": {
+    "translation": "天空之泪"
+  },
+  "<<< Explosion >>>": {
+    "translation": "爆炸"
+  },
+  "<<< Imaginary anti wind >>>": {
+    "translation": "虚拟逆风"
+  },
+  "<<< Imaginary wind >>>": {
+    "translation": "虚拟风"
+  },
+  "<<< Attack >>>": {
+    "translation": "攻击"
+  },
+  "<<< survive 30 seconds >>>": {
+    "translation": "存活30秒"
+  },
+  "<<< 5 seconds >>>": {
+    "translation": "5秒"
+  },
+  "<<< Failed >>>": {
+    "translation": "失败"
+  },
+  "<<< Shoot! >>>": {
+    "translation": "射击"
+  },
+  "<<< Boss fight in 10 seconds >>>": {
+    "translation": "10秒后开始Boss战"
+  },
+  "<<< 10 seconds >>>": {
+    "translation": "10秒"
+  },
+  "<<< thank you for playing!!!! >>>": {
+    "translation": "感谢游玩"
+  },
+  "<<< ze_surf_soft >>>": {
+    "translation": "ze_surf_soft"
+  },
+  "<<< Map by Entry_field >>>": {
+    "translation": "地图作者 Entry_field"
+  },
+  "<<< Port by 三百度幸运12121 >>>": {
+    "translation": "移植作者 三百度幸运12121 文本 白姬"
+  },
+  "<<< Break glass walls in 40 seconds >>>": {
+    "translation": "40秒后玻璃墙破碎"
+  },
+  "<<< Survive 65 seconds >>>": {
+    "translation": "存活65秒"
+  },
+  "<<< Go!! >>>": {
+    "translation": "出发"
+  },
+  "<<< afk teleport active soon!! >>>": {
+    "translation": "挂机传送即将激活"
+  },
+  "<<< zombies coming! >>>": {
+    "translation": "僵尸来了"
+  },
+  "<<< All players teleport in 6 seconds >>>": {
+    "translation": "所有玩家6秒后传送"
+  },
+  "<<< Nice! Humans teleport in 5 seconds >>>": {
+    "translation": "很好 人类5秒后传送"
+  },
+  "<<< Zombies teleport in 7 seconds >>>": {
+    "translation": "僵尸7秒后传送"
+  },
+  "<<< Snow wall breaks in 40 seconds >>>": {
+    "translation": "40秒后雪墙破碎"
+  },
+  "<<< Teleport starts in 15 seconds >>>": {
+    "translation": "15秒后开始传送"
+  },
+  "<<< Door opens in 10 seconds >>>": {
+    "translation": "10秒后门打开"
+  },
+  "<<< Go!!! >>>": {
+    "translation": "GO!!!"
+  },
+  "<<< Defend for 30 seconds >>>": {
+    "translation": "防守30秒"
+  },
+  "<<< Go! >>>": {
+    "translation": "GO!!!"
+  },
+  "<<< sky elevator moves in 20 seconds >>>": {
+    "translation": "20秒后天空电梯移动"
+  },
+  "<<< Last defend!!!! >>>": {
+    "translation": "最后防守"
+  },
+  "<<< Last surf in 40 seconds >>>": {
+    "translation": "40秒后最后滑翔"
+  },
+  "<<< Open >>>": {
+    "translation": "打开"
+  },
+  "<<< Watch out!!!!! >>>": {
+    "translation": "小心"
+  },
+  "<<< Ice used >>>": {
+    "translation": "冰已使用"
+  }
+}

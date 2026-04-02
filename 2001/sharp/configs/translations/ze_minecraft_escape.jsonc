@@ -1,0 +1,40 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***The last gate closes in 40 seconds***": {
+    "translation": "最后一道大门将在 40 秒后关闭"
+  },
+  "***The door opens in 30 seconds***": {
+    "translation": "门将在 30 秒后打开"
+  },
+  "***Boat leaving in 40 second***": {
+    "translation": "船只将在 40 秒后驶离"
+  },
+  "*** Train leaveing in 50 seconds***": {
+    "translation": "列车将在 50 秒后发车"
+  },
+  "***Ohhhhh!Altman is here!!!***": {
+    "translation": "你相信光吗"
+  },
+  "***The door Close in 40 seconds***": {
+    "translation": "门将在 40 秒后关闭"
+  },
+  "***Wrong Password***": {
+    "translation": "密码错误"
+  },
+  "***The door opens in 40 seconds***": {
+    "translation": "门将在 40 秒后打开"
+  },
+  "Map by Problem": {
+    "translation": "地图作者: Problem"
+  }
+}

@@ -66,6 +66,11 @@
       "counter": "Omega_Phase1_Bar_HP",
       "mass": 135,
       "display": "欧米伽终极版"
+    },
+    {
+      "iterator": "Elidibus_Wall_HP",
+      "hitbox": "Elidibus_Wall",
+      "display": "伊里迪布斯之墙"
     }
   ]
 }
