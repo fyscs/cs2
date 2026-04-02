@@ -21,17 +21,17 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Breakables": [
+  "Counters": [
     {
-      "target": "personAhitbox",
+      "iterator": "personAhitbox",
       "display": "A"
     },
     {
-      "target": "personBhitbox",
+      "iterator": "personBhitbox",
       "display": "B"
     },
     {
-      "target": "boss_breakble",
+      "iterator": "boss_breakble",
       "display": "Boss"
     }
   ]
