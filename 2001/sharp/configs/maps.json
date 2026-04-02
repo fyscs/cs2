@@ -4301,6 +4301,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_sewage_processing": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_sewer": {
     "admin": false,
     "certainTimes": [-1],

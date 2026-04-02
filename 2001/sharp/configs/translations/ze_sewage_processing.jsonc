@@ -1,0 +1,80 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** SIDE DOOR FOR ZOMBIES IS OPEN, GO ZOMBIES GO! ***": {
+    "translation": "僵尸侧门已打开"
+  },
+  "*** ELEVATOR LEAVING IN 30 SECONDS, HOLD  ZOMBIES OFF ***": {
+    "translation": "电梯 30 秒后离开"
+  },
+  "*** ELEVATOR LEAVING IN 5 SECONDS ***": {
+    "translation": "电梯 5 秒后离开"
+  },
+  "*** ELEVATOR IS LEAVING, FALL BACK ***": {
+    "translation": "电梯即将驶离"
+  },
+  "*** HOLD OFF THE ZOMBIES HERE FOR 15 SECONDS ***": {
+    "translation": "防守僵尸 15 秒"
+  },
+  "*** QUICK, GET TO HIGH GROUND AND ACTIVATE TOXIC CHEMICAL RELEASE! ***": {
+    "translation": "前往高处"
+  },
+  "*** ZOMBIE BARRICADE WILL BREAK IN 5 SECONDS ***": {
+    "translation": "僵尸路障 5 秒后被突破"
+  },
+  "*** VENT OPENING BREAKING IN 25 SECONDS ***": {
+    "translation": "通风口 25 秒后被破开"
+  },
+  "*** VENT WILL BREAK IN 5 SECONDS, GET READY TO FALL BACK ***": {
+    "translation": "通风口 5 秒后被突破"
+  },
+  "*** BULKHEAD DOORS OPENING IN 25 SECONDS ***": {
+    "translation": "舱门 25 秒后打开"
+  },
+  "*** BULKHEAD DOORS OPENING IN 5 SECONDS ***": {
+    "translation": "舱门 5 秒后打开"
+  },
+  "*** DOORS ARE OPEN, FALL BACK! ***": {
+    "translation": "门已打开"
+  },
+  "*** FIRST FLOOD DOOR OPENING IN 15 SECONDS ***": {
+    "translation": "第一道门 15 秒后打开"
+  },
+  "*** FIRST FLOOD DOOR OPENING NOW ***": {
+    "translation": "第一道门正在打开"
+  },
+  "*** ZOMBIES ARE SETTING UP AMBUSH, SECOND FLOOD DOOR OPENING IN 10 SECONDS ***": {
+    "translation": "第二道门 10 秒后打开"
+  },
+  "*** TOXIC CHEMICALS WILL FLOOD CANAL IN 40 SECONDS ***": {
+    "translation": "有毒化学品将在 40 秒后淹没通道"
+  },
+  "*** HOLD OFF THE ZOMBIES! ***": {
+    "translation": "防守僵尸"
+  },
+  "*** TOXIC CHEMICALS WILL BE RELEASED IN 10 SECONDS ***": {
+    "translation": "有毒化学品 10 秒后释放"
+  },
+  "*** TOXIC CHEMICALS WILL BE RELEASED IN 5 SECONDS ***": {
+    "translation": "有毒化学品 5 秒后释放"
+  },
+  "*** WATER ENTRIES WILL BREAK IN 30 SECONDS ***": {
+    "translation": "进水口 30 秒后被冲破"
+  },
+  "*** ENTRIES OPENING IN 5 SECONDS ***": {
+    "translation": "入口 5 秒后打开"
+  },
+  "*** ENTRIES ARE NOW OPEN, FALL BACK! ***": {
+    "translation": "入口已打开"
+  }
+}
+
