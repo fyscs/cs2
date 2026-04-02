@@ -357,5 +357,17 @@
   },
   "完成成就<<<ERROR>>>": {
     "translation": "完成成就<<<ERROR>>>"
+  },
+  "still 10 seconds": {
+    "translation": "还有10秒"
+  },
+  "still 20 seconds": {
+    "translation": "还有20秒"
+  },
+  "still 30 seconds": {
+    "translation": "还有30秒"
+  },
+  "still 40 seconds": {
+    "translation": "还有40秒"
   }
 }

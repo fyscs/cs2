@@ -31,7 +31,7 @@
     "translation": "注意安全"
   },
   "> Map by @Seth <": {
-    "translation": "地图作者 Seth 文本:雾雨猫猫"
+    "translation": "地图作者 Seth 文本:雾雨猫猫&creeper_kk"
   },
   "> The exploration start in 10 sec. <": {
     "translation": "探索将在10秒后开始",
@@ -41,10 +41,10 @@
     "translation": "大家注意"
   },
   ">We are start to no-cliping now.": {
-    "translation": "我们现在开始穿模"
+    "translation": "我们现在开始切入层级..."
   },
   ">Prepare yourself,Stay contact.": {
-    "translation": "做好准备保持联系"
+    "translation": "交战,搜索,搞定就撤"
   },
   "> 20 <": {
     "translation": "20秒",
@@ -129,7 +129,7 @@
     "translation": "在他们发现我们之前进入电梯"
   },
   ">One Human stay in each pool will slowly reduce sanity.<": {
-    "translation": "每个池子留一个人会缓慢降低理智"
+    "translation": "请注意:在水池里每泡1.5秒会减少1点理智"
   },
   ">Use it to control the sanity status,Prevent sanity overhigh.<": {
     "translation": "用它来控制理智状态防止理智过高"
@@ -195,10 +195,10 @@
     "translation": "找到电源开关打开灯光它们无法抵抗光线"
   },
   ">Recycling Stations< Wait for it close!": {
-    "translation": "回收站等待它关闭"
+    "translation": "回收站 - 等待它关闭"
   },
   ">Warehouse< Wait for it close!": {
-    "translation": "仓库等待它关闭"
+    "translation": "仓库 - 等待它关闭"
   },
   "> Light start up in 10 sec. <": {
     "translation": "灯光将在10秒后启动",
@@ -215,10 +215,10 @@
     "countdown": 20
   },
   ">Market< Wait for it close!": {
-    "translation": "市场等待它关闭"
+    "translation": "市场 - 等待它关闭"
   },
   ">Recycling Stations< Power are starting up!": {
-    "translation": "回收站电力正在启动"
+    "translation": "回收站 - 电力正在启动"
   },
   ">Recycling Stations< Final door will open in 85 sec.": {
     "translation": "回收站最终门将在85秒后开启",
@@ -228,7 +228,7 @@
     "translation": "回收站它不工作了我们得找另一条出路"
   },
   ">Warehouse< Power are starting up!": {
-    "translation": "仓库电力正在启动"
+    "translation": "仓库 - 电力正在启动"
   },
   ">Warehouse< Final door will open in 85 sec.": {
     "translation": "仓库最终门将在85秒后开启",
@@ -336,7 +336,7 @@
     "translation": "幻影派对人能力已锁定"
   },
   ">Market< Power are starting up!": {
-    "translation": "市场电力正在启动"
+    "translation": "市场 - 电力正在启动"
   },
   ">Market< Final door will open in 85 sec.": {
     "translation": "市场最终门将在85秒后开启",
@@ -474,16 +474,20 @@
     "translation": "检测到10名玩家通过迷你层级 材料加100"
   },
   "> Detect 20 Player survived Mini Level,Metarials +100. <": {
-    "translation": "检测到20名玩家通过迷你层级 材料加100"
+    "translation": "检测到20名玩家通过迷你层级 材料加100",
+    "clearText": true
   },
   "> Detect 30 Player survived Mini Level,Metarials +100. <": {
-    "translation": "检测到30名玩家通过迷你层级 材料加100"
+    "translation": "检测到30名玩家通过迷你层级 材料加100",
+    "clearText": true
   },
   "> Detect 40 Player survived Mini Level,Metarials +100. <": {
-    "translation": "检测到40名玩家通过迷你层级 材料加100"
+    "translation": "检测到40名玩家通过迷你层级 材料加100",
+    "clearText": true
   },
   "> Detect 50 Player survived Mini Level,Metarials +150. <": {
-    "translation": "检测到50名玩家通过迷你层级 材料加150"
+    "translation": "检测到50名玩家通过迷你层级 材料加150",
+    "clearText": true
   },
   ">Reseting map progress...<": {
     "translation": "重置地图进度"
@@ -600,5 +604,116 @@
   },
   "> A human has turn into Wretches!(Zombies) <": {
     "translation": "一名人类已转变为僵尸"
+  },
+  ">Admin has select Level 0,Endround...<": {
+    "translation": ">Admin has select Level 0,Endround...<",
+    "blocked": true
+  },
+  ">Admin has select Level 37,Endround...<": {
+    "translation": ">Admin has select Level 37,Endround...<",
+    "blocked": true
+  },
+  ">Admin has select Level 1,Endround...<": {
+    "translation": ">Admin has select Level 1,Endround...<",
+    "blocked": true
+  },
+  ">Admin has select Level Fun,Endround...<": {
+    "translation": ">Admin has select Level Fun,Endround...<",
+    "blocked": true
+  },
+  ">Admin has select Level 2,Endround...<": {
+    "translation": ">Admin has select Level 2,Endround...<",
+    "blocked": true
+  },
+  ">Admin has select Level 0.1,Endround...<": {
+    "translation": ">Admin has select Level 0.1,Endround...<",
+    "blocked": true
+  },
+  ">> A human traded Water Gun,Metarials -350 <<": {
+    "translation": "神器水枪已购买 后室材料-350"
+  },
+  ">> A human traded Scanner Mk1,Metarials -100 <<": {
+    "translation": "扫描仪 Mk1 已购买 后室材料-100"
+  },
+  ">You have collect..Oh,seems like there has no metarials in sweeper today,damn.<": {
+    "translation": "你貌似...好吧看来扫地机器人没给你收集到任何材料.."
+  },
+  ">You have collect 100 metarials in sweeper,yey!<": {
+    "translation": "你从扫地机器人中获得了100材料,耶!"
+  },
+  ">You have collect 200 metarials in sweeper,yey!<": {
+    "translation": "你从扫地机器人中获得了200材料,耶!"
+  },
+  ">You have collect 300 metarials in sweeper,yey!<": {
+    "translation": "你从扫地机器人中获得了300材料,耶!"
+  },
+  ">You have collect 400 metarials in sweeper,yey!<": {
+    "translation": "你从扫地机器人中获得了400材料,耶!"
+  },
+  ">You have collect 500 metarials in sweeper,yey!<": {
+    "translation": "你从扫地机器人中获得了500材料,耶!"
+  },
+  ">The Collector Task has finished!<": {
+    "translation": "收集者任务已完成,材料上限已突破"
+  },
+  "PVE ON.": {
+    "translation": "PVE ON.",
+    "blocked": true
+  },
+  "春节彩蛋已触发！": {
+    "translation": "春节彩蛋已触发"
+  },
+  "耶咦耶咦耶咦耶哦齁": {
+    "translation": "耶咦耶咦耶咦耶哦齁"
+  },
+  ">Admin has turn on Slot Mode!<": {
+    "translation": ">Admin has turn on Slot Mode!<",
+    "blocked": true
+  },
+  ">Admin has turn off Slot Mode!<": {
+    "translation": ">Admin has turn off Slot Mode!<",
+    "blocked": true
+  },
+  "全猫耳时装已被启用!": {
+    "translation": "全猫耳时装已被启用!"
+  },
+  "已踢出刚买过神器的玩家.": {
+    "translation": "已踢出刚买过神器的玩家."
+  },
+  "PVE LOADING LEVEL 0...": {
+    "translation": "PVE LOADING LEVEL 0...",
+    "blocked": true
+  },
+  "PVE LOADING LEVEL 1...": {
+    "translation": "PVE LOADING LEVEL 1...",
+    "blocked": true
+  },
+  "PVE LOADING LEVEL 37...": {
+    "translation": "PVE LOADING LEVEL 37...",
+    "blocked": true
+  },
+  "PVE PASS!": {
+    "translation": "PVE PASS!",
+    "blocked": true
+  },
+  ">Someone found Collection-Crystal,Metarials +1500<": {
+    "translation": "非洲之星已被拾取,后室材料+1500"
+  },
+  ">Someone found Collection-Sweeper Bot,Metarials +350<": {
+    "translation": "扫地机器人已被拾取,后室材料+350"
+  },
+  ">Sweeper Bot now has appear in Lobby,You can obtain random metarials every new round now.<": {
+    "translation": "现在你每回合开始可以在大厅的扫地机器人中获取随机数量的后室材料了"
+  },
+  ">Someone found Collection-Vehicle Battery,Metarials +600<": {
+    "translation": "装甲车电池已被拾取,后室材料+600"
+  },
+  ">Scanner Mk1< Press E to emit glow dot from your aiming direction,mostly use for guiding way.": {
+    "translation": ">Scanner Mk1< Press E to emit glow dot from your aiming direction,mostly use for guiding way.",
+    "blocked": true
+  },
+  ">Liquid Pain< Press E to drink pain,if you want to try it?...": {
+    "translation": ">Liquid Pain< Press E to drink pain,if you want to try it?...",
+    "blocked": true
   }
 }

@@ -126,7 +126,7 @@
     "requiredPlayers": -1
   },
   "ze_amdaporkeep": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 100,
     "nomination": true,
@@ -458,6 +458,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 25
   },
+  "ze_best_korea_p": {
+    "admin": true,
+    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 600,
+    "requiredOnline": 600,
+    "requiredPlayers": 45
+  },
   "ze_beyond_horizon": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
@@ -652,7 +661,7 @@
     "certainTimes": [-1],
     "cooldown": 100,
     "nomination": true,
-    "price": 1000,
+    "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": 25
   },
@@ -661,7 +670,7 @@
     "certainTimes": [-1],
     "cooldown": 100,
     "nomination": true,
-    "price": 1000,
+    "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": 25
   },
@@ -1007,6 +1016,15 @@
     "requiredOnline": 900,
     "requiredPlayers": 45
   },
+  "ze_cyberderp": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_cyberspace_v2": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
@@ -1306,9 +1324,9 @@
   },
   "ze_elmas": {
     "admin": false,
-    "certainTimes": [-1],
-    "cooldown": 60,
-    "nomination": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 80,
+    "nomination": true,
     "price": 600,
     "requiredOnline": 600,
     "requiredPlayers": 40
@@ -1709,6 +1727,15 @@
     "requiredOnline": 600,
     "requiredPlayers": 45
   },
+  "ze_flat_surviva": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_floating_rocks_survival": {
     "admin": false,
     "certainTimes": [-1],
@@ -2096,6 +2123,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+    "ze_hr_dead_center": {
+    "admin": true,
+    "certainTimes": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 500,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
   "ze_hsc": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
@@ -2246,7 +2282,7 @@
     "cooldown": 150,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 900,
+    "requiredOnline": 600,
     "requiredPlayers": 30
   },
   "ze_indiana_jones_004_p": {
@@ -2556,7 +2592,7 @@
     "requiredPlayers": 30
   },
   "ze_lightnight_v1": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 120,
     "nomination": true,
@@ -2654,6 +2690,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 45
   },
+  "ze_lotr_minas_tirith_cs2": {
+    "admin": false,
+    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 800,
+    "requiredOnline": -1,
+    "requiredPlayers": 45
+  },
   "ze_lotr_minas_tirith_p": {
     "admin": true,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
@@ -2708,6 +2753,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_m0w0m_cs2": {
+    "admin": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 550,
+    "requiredOnline": 600,
+    "requiredPlayers": 40
+  },
   "ze_mabinogi_f4_1_cs2": {
     "admin": false,
     "certainTimes": [-1],
@@ -2761,6 +2815,15 @@
     "price": 350,
     "requiredOnline": -1,
     "requiredPlayers": 30
+  },
+  "ze_maixia_v1": {
+    "admin": false,
+    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 450,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
   },
   "ze_maontain_escape": {
     "admin": true,
@@ -2870,6 +2933,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_minecraft_escape": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_minecraft_journey_v1": {
     "admin": false,
     "certainTimes": [-1],
@@ -2962,7 +3034,7 @@
   },
   "ze_miside": {
     "admin": false,
-    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "certainTimes": [-1],
     "cooldown": 120,
     "nomination": true,
     "price": 450,
@@ -3032,6 +3104,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_moltentemple": {
+    "admin": false,
+    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 700,
+    "requiredOnline": 600,
+    "requiredPlayers": 40
+  },
   "ze_mountain_escape_snow": {
     "admin": false,
     "certainTimes": [-1],
@@ -3078,7 +3159,7 @@
     "requiredPlayers": 25
   },
   "ze_necromanteion_p": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 80,
     "nomination": true,
@@ -3380,6 +3461,15 @@
     "cooldown": 150,
     "nomination": true,
     "price": 2000,
+    "requiredOnline": 900,
+    "requiredPlayers": 50
+  },
+    "ze_obj_ouroboros_aurora_v2": {
+    "admin": true,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 150,
+    "nomination": true,
+    "price": 1500,
     "requiredOnline": 900,
     "requiredPlayers": 50
   },
@@ -4022,6 +4112,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 35
   },
+  "ze_rawnscape_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 350,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_re_creation": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
@@ -4032,7 +4131,7 @@
     "requiredPlayers": 30
   },
   "ze_realm": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 100,
     "nomination": true,
@@ -4133,6 +4232,15 @@
   "ze_rt4_hessel_valley": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 700,
+    "requiredOnline": -1,
+    "requiredPlayers": 45
+  },
+  "ze_rt4_hessel_valley_fys": {
+    "admin": true,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 120,
     "nomination": true,
     "price": 700,
@@ -4291,6 +4399,15 @@
     "price": 800,
     "requiredOnline": -1,
     "requiredPlayers": 40
+  },
+  "ze_sewage_processing": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
   },
   "ze_sewer": {
     "admin": false,
@@ -4571,6 +4688,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 25
   },
+  "ze_stalker_ultimate_v23": {
+    "admin": false,
+    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 500,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
   "ze_stalker_ultimate_z": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
@@ -4739,6 +4865,15 @@
     "cooldown": 100,
     "nomination": true,
     "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
+    "ze_surf_froyo_lite": {
+    "admin": false,
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 350,
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
@@ -5281,6 +5416,15 @@
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": 30
+  },
+  "ze_variis": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 25
   },
   "ze_v0u0v_p": {
     "admin": true,

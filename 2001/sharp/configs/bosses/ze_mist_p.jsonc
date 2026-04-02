@@ -29,6 +29,7 @@
     },
     {
       "iterator": "counter_dragon",
+      "hitbox": "pbox_dragon",
       "display": "死灵龙"
     }
   ]
