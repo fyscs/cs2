@@ -26,6 +26,7 @@
     {
       "iterator": "HPCounter",
       "counter": "HPCounterIterator",
+      "mass": 5,
       "hitbox": "Boss_Bahamut_Breakable",
       "display": "Bahamut"
     },
