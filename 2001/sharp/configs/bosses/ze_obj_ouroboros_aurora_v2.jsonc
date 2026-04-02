@@ -47,6 +47,32 @@
     {
       "target": "radio_4",
       "display": "Radio4"
+    },
+    {
+      "target": "boss_radio1",
+      "display": "R1"
+    },
+    {
+      "target": "boss_radio2",
+      "display": "R2"
+    },
+    {
+      "target": "boss_radio3",
+      "display": "R3"
+    },
+    {
+      "target": "boss_radio4",
+      "display": "R4"
+    }
+  ],
+  "Monsters": [
+    {
+      "display": "Barnacle",
+      "identity": "54020"
+    },
+    {
+      "display": "Npc",
+      "identity": "53928"
     }
   ]
 }
