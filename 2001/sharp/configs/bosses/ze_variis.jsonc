@@ -23,15 +23,18 @@
 {
   "Counters": [
     {
-      "iterator": "personAhitbox",
+      "iterator": "personAmathcounter",
+      "hitbox": "personAhitbox",
       "display": "A"
     },
     {
-      "iterator": "personBhitbox",
+      "iterator": "personBmathcounter",
+      "hitbox": "personAhitbox",
       "display": "B"
     },
     {
-      "iterator": "boss_breakble",
+      "iterator": "BHealth",
+      "hitbox": "boss_breakble",
       "display": "Boss"
     }
   ]
