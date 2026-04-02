@@ -1,0 +1,85 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** Yo wat does this shit carpet cost to fly with": {
+    "translation": "这破地毯飞一次要多少钱"
+  },
+  "*** 200gp. ***": {
+    "translation": "200大洋"
+  },
+  "*** 200gp. you mad": {
+    "translation": "200大洋?,你老冯飞了"
+  },
+  "*** Your stolen Carpet flying in 7 seconds ***": {
+    "translation": "你偷来的地毯将在7秒后起飞"
+  },
+  "*** The Big marks are strong in this team wait 30 mins for the gate to open ***": {
+    "translation": "这个大标记在这个队伍里很强 等待30分钟大门开启"
+  },
+  "*** Some bridge is coming soon My Waiting level is 20  ***": {
+    "translation": "某座桥即将出现 我的等待等级是20"
+  },
+  "*** OK BRO my str level is better than yours come at me bro 15 sec to go ***": {
+    "translation": "好吧兄弟 我的力量等级比你高 来打我啊兄弟 还剩15秒"
+  },
+  "*** Map by Mod Mark ***": {
+    "translation": "地图作者:Mod Mark 文本:白姬"
+  },
+  "*** Thanks to Mod MMG for technically help ***": {
+    "translation": "感谢 Mod MMG 提供的技术帮助"
+  },
+  "*** [WARNING] FriendlyFire in wilderness 30 secs to go ***": {
+    "translation": "警告 荒野中将开启友军伤害 还剩30秒"
+  },
+  "*** Oh CRAP We got lured in here better not lose our stuff ***": {
+    "translation": "糟糕 我们被诱骗到这里了 最好别弄丢我们的装备"
+  },
+  "*** what the shit is this? a gate? wtf well better wait till it opens ***": {
+    "translation": "这什么鬼东西 一扇门  WTF 好吧最好等它打开"
+  },
+  "*** Kill it before it lay eggs ***": {
+    "translation": "在它产卵前杀掉它"
+  },
+  "*** WHAT THE FUCK ***": {
+    "translation": "搞什么飞机"
+  },
+  "*** Dude what the  ***": {
+    "translation": "兄弟 这是什么"
+  },
+  "*** HOLY FUCK DUDE we killed it ***": {
+    "translation": "天啊兄弟 我们干掉它了"
+  },
+  "*** This fat door opens in 30 seconds better defend newbs ***": {
+    "translation": "这扇厚重的大门将在30秒后打开 菜bee们最好防守住"
+  },
+  "*** Lets get out of this Private Server trash 10 seconds to the teleporter opens! ***": {
+    "translation": "让我们离开这个垃圾私服 传送门将在10秒后打开"
+  },
+  "*** 5 ***": {
+    "translation": "*** 5 ***"
+  },
+  "*** 4 ***": {
+    "translation": "*** 4 ***"
+  },
+  "*** 3 ***": {
+    "translation": "*** 3 ***"
+  },
+  "*** 2 ***": {
+    "translation": "*** 2 ***"
+  },
+  "*** 1 ***": {
+    "translation": "*** 1 ***"
+  },
+  "*** GO! ***": {
+    "translation": "润"
+  }
+}
