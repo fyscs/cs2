@@ -20,13 +20,13 @@
     "translation": "困难模式"
   },
   "「Tips」 Human must touch <Blue Snake> and <Long Key> to avoiding damage in second part.": {
-    "translation": "人类必须触碰<蓝蛇>和长条以避免伤害"
+    "translation": "人类必须触碰蓝蛇和长条以避免伤害"
   },
   ">>Stage Failed<<": {
     "translation": "关卡失败"
   },
   ">>Arcana Heart<<": {
-    "translation": ">>阿卡纳之心<< 文本:Korihana"
+    "translation": "阿卡纳之心 文本:Korihana"
   },
   ">>Ver:1.6.14<<": {
     "translation": "当前版本:1.6.14"
@@ -44,55 +44,55 @@
     "translation": "真结局触发进度4/4"
   },
   "| Genesis of Heart |": {
-    "translation": "| 起源之心 |"
+    "translation": "起源之心"
   },
   "| Volcanic Torches |": {
-    "translation": "| 炽炎创火 |"
+    "translation": "炽炎创火"
   },
   "| Heartforge |": {
-    "translation": "| 心之试炼 |"
+    "translation": "心之试炼"
   },
   "| Conceptual Mutiflare |": {
-    "translation": "| 多重耀斑 |"
+    "translation": "多重耀斑"
   },
   "| Reforged Reflection |": {
-    "translation": "| 概念重构 |"
+    "translation": "概念重构"
   },
   "| Into the Shadow |": {
-    "translation": "| 潜心入影 |"
+    "translation": "潜心入影"
   },
   "| Ektothermos |": {
-    "translation": "| 异位热源 |"
+    "translation": "异位热源"
   },
   "| Rampage |": {
-    "translation": "| 能量爆发 |"
+    "translation": "能量爆发"
   },
   "| Illusory Creation |": {
-    "translation": "| 幻象创生 |"
+    "translation": "幻象创生"
   },
   "| Fourfold Miasm |": {
-    "translation": "| 四重毒瘴 |"
+    "translation": "四重毒瘴"
   },
   "| Cthonic Vent |": {
-    "translation": "| 地渊喷口 |"
+    "translation": "地渊喷口"
   },
   "| Heart Crush |": {
-    "translation": "| 心之撞击 |"
+    "translation": "心之撞击"
   },
   "| Heart Impact |": {
-    "translation": "| 心之冲击 |"
+    "translation": "心之冲击"
   },
   "| Shining Heart |": {
-    "translation": "| 辉耀之心 |"
+    "translation": "辉耀之心"
   },
   "「Duration」 5 sec 「Cooldown」 80 sec": {
     "translation": "持续时间5秒,冷却时间80秒"
   },
   "「Function」 Reverse human items effects (except item <Heart>)": {
-    "translation": "逆转人类神器的效果,<治疗>神器除外"
+    "translation": "逆转人类神器的效果,治疗神器除外"
   },
   "「Reverse(ZM)」": {
-    "translation": "「逆转之心」"
+    "translation": "逆转之心(ZM)"
   },
   "「Duration」 7 sec 「Cooldown」 80 sec": {
     "translation": "持续时间7秒,冷却时间80秒"
@@ -101,7 +101,7 @@
     "translation": "创造一个圆形屏障以阻挡僵尸"
   },
   "「Barrier」": {
-    "translation": "「审判之盾」"
+    "translation": "审判之盾"
   },
   "「Duration」 8 sec 「Cooldown」 60 sec": {
     "translation": "持续8秒,冷却时间60秒"
@@ -110,10 +110,10 @@
     "translation": "减速范围内的僵尸"
   },
   "「Gravity」": {
-    "translation": "「流星瀑布」"
+    "translation": "流星瀑布"
   },
   ">>Reflect<<": {
-    "translation": ">>镜花水月<<"
+    "translation": "镜花水月"
   },
   "「Duration」 10 sec 「Cooldown」 60 sec": {
     "translation": "持续10秒,冷却时间60秒"
@@ -122,7 +122,7 @@
     "translation": "创造一个方块(可以攀爬),可以被人类击碎"
   },
   "「Cube(ZM)」": {
-    "translation": "「虚空立方」"
+    "translation": "虚空立方(ZM)"
   },
   "「Duration」 12 sec 「Cooldown」 80 sec": {
     "translation": "持续12秒,冷却时间80秒"
@@ -131,13 +131,13 @@
     "translation": "生成一个爱心,持续治疗周围的人类"
   },
   "「Heart」": {
-    "translation": "「复苏之光」"
+    "translation": "复苏之光"
   },
   ">>Motion or Stillness<<": {
-    "translation": ">>移动或静止<<"
+    "translation": "移动或静止"
   },
   ">Maybe the cubes can be climbed<": {
-    "translation": ">也许可以爬上这些方块<"
+    "translation": "也许可以爬上这些方块"
   },
   "「Duration」 7 sec 「Cooldown」 70 sec": {
     "translation": "持续7秒,冷却时间70秒"
@@ -146,7 +146,7 @@
     "translation": "在你前方生成一道水波,它会将人类推向你"
   },
   "「Water(ZM)」": {
-    "translation": "「涟漪之波」"
+    "translation": "涟漪之波(ZM)"
   },
   "> 2 - F <": {
     "translation": "假结局"
@@ -164,10 +164,10 @@
     "translation": "治疗附近僵尸并提高速度"
   },
   "「Heal(ZM)」": {
-    "translation": "「灵枢之心」"
+    "translation": "灵枢之心(ZM)"
   },
   "「Push」": {
-    "translation": "「救赎之力」"
+    "translation": "救赎之力"
   },
   "「Function」Push zombies in the direction of the crosshair": {
     "translation": "将前方的僵尸推向你的准星方向"
