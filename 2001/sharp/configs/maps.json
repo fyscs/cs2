@@ -2282,7 +2282,7 @@
     "cooldown": 150,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 600,
+    "requiredOnline": 900,
     "requiredPlayers": 30
   },
   "ze_indiana_jones_004_p": {
