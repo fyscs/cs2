@@ -1,0 +1,43 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "作者一只秋感谢游玩": {
+    "translation": "作者一只秋感谢游玩"
+  },
+  "你们要在这等你们队友不要抛弃他们": {
+    "translation": "你们要在这等你们队友不要抛弃他们"
+  },
+  "门还要30秒别着急": {
+    "translation": "门还要30秒别着急",
+    "countdown": 30
+  },
+  "僵尸会被阻拦15秒": {
+    "translation": "僵尸会被阻拦15秒",
+    "countdown": 15
+  },
+  "你们有45秒的时间找到出口": {
+    "translation": "你们有45秒的时间找到出口",
+    "countdown": 45
+  },
+  "已经有人到达通往上面的门将在10秒后关闭": {
+    "translation": "已经有人到达通往上面的门将在10秒后关闭",
+    "countdown": 10
+  },
+  "平台还有55秒上升": {
+    "translation": "平台还有55秒上升",
+    "countdown": 55
+  },
+  "还有30秒": {
+    "translation": "还有30秒",
+    "countdown": 30
+  }
+}

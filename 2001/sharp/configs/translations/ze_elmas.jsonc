@@ -1,0 +1,119 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "-ı| 10 |ı-": {
+    "translation": "10",
+    "countdown": 10
+  },
+  "| OPEN GO |": {
+    "translation": "开始出发"
+  },
+  "| ZM TP 10 |": {
+    "translation": "僵尸10s传送"
+  },
+  "| ZM TP 5 |": {
+    "translation": "僵尸5秒传送"
+  },
+  "-ı| 30 |ı-": {
+    "translation": "30",
+    "countdown": 30
+  },
+  "| OPEN ! GO BACK |": {
+    "translation": "开启返回"
+  },
+  "-ı| 20 |ı-": {
+    "translation": "20",
+    "countdown": 20
+  },
+  "-ı| 15 |ı-": {
+    "translation": "15",
+    "countdown": 15
+  },
+  "| OPEN |": {
+    "translation": "开启"
+  },
+  "-ı| ZM SHORT WAY OPEN |ı-": {
+    "translation": "僵尸捷径开启"
+  },
+  "-ı| 40 |ı-": {
+    "translation": "40",
+    "countdown": 40
+  },
+  "| first way opening |": {
+    "translation": "第一条路开启"
+  },
+  "| all way open |": {
+    "translation": "所有路开启"
+  },
+  "| second way opening |": {
+    "translation": "第二条路开启"
+  },
+  "-ı| WAY OPEN |ı-": {
+    "translation": "道路开启"
+  },
+  "-ı| 5 |ı-": {
+    "translation": "5",
+    "countdown": 5
+  },
+  "* wall item pickup - 60 sec cooldown *": {
+    "translation": "墙体拾取"
+  },
+  "* slow item pickup - 30 sec cooldown *": {
+    "translation": "减速拾取"
+  },
+  "* freeze item pickup - 30 sec cooldown *": {
+    "translation": "冰冻拾取"
+  },
+  "* fire item pickup - 30 sec cooldown *": {
+    "translation": "火焰拾取"
+  },
+  "| ZOMBIE DETECTED  |": {
+    "translation": "检测到僵尸"
+  },
+  "| BOSS WAY CLOSING 15 |": {
+    "translation": "BOSS道路15s后关闭"
+  },
+  "| 10 |": {
+    "translation": "10",
+    "countdown": 10
+  },
+  "| WAY BREAK |": {
+    "translation": "道路断裂"
+  },
+  "| WELCOME TO BOSS |": {
+    "translation": "欢迎来到BOSS"
+  },
+  "| BOSS DOOR OPEN |": {
+    "translation": "BOSS门开启"
+  },
+  "| LASER ACTIVATED |": {
+    "translation": "激光已激活"
+  },
+  "| PUSH |": {
+    "translation": "推力"
+  },
+  "| ZM WAY OPENING |": {
+    "translation": "僵尸道路开启"
+  },
+  "| SKILL BALL |": {
+    "translation": "技能球"
+  },
+  "| BOSS DIE |": {
+    "translation": "BOSS死亡"
+  },
+  "| KILL THE ZOMBIES |": {
+    "translation": "击杀僵尸"
+  },
+  "| MAP CREATOR PLATIN |": {
+    "translation": "地图作者:PLATIN,地图文本:雾雨猫猫"
+  }
+}
