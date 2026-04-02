@@ -1,0 +1,78 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Boss_HpCounter",
+      "backup": "BossHp_Counter_2",
+      "counter": "BossHpBar_Counter",
+      "reverse": true,
+      "hitbox": "bossbreak",
+      "display": "Boss"
+    }
+  ],
+  "Breakables": [
+    {
+      "target": "radio_1",
+      "display": "Radio1"
+    },
+    {
+      "target": "radio_2",
+      "display": "Radio2"
+    },
+    {
+      "target": "radio_3",
+      "display": "Radio3"
+    },
+    {
+      "target": "radio_4",
+      "display": "Radio4"
+    },
+    {
+      "target": "boss_radio1",
+      "display": "R1"
+    },
+    {
+      "target": "boss_radio2",
+      "display": "R2"
+    },
+    {
+      "target": "boss_radio3",
+      "display": "R3"
+    },
+    {
+      "target": "boss_radio4",
+      "display": "R4"
+    }
+  ],
+  "Monsters": [
+    {
+      "display": "Barnacle",
+      "identity": "54020"
+    },
+    {
+      "display": "Npc",
+      "identity": "53928"
+    }
+  ]
+}

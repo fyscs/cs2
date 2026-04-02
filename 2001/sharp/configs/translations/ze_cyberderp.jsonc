@@ -1,0 +1,259 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "* * * Slightly Cursed Hexahedron has been picked up * * *": {
+    "translation": "*诅咒已被拾取"
+  },
+  "* * * Aeolus' Spirit has been picked up * * *": {
+    "translation": "风已被拾取"
+  },
+  "* * * Frost Wave has been picked up * * *": {
+    "translation": "冰已被拾取"
+  },
+  "* * * Flame of Udun has been picked up * * *": {
+    "translation": "火已被拾取"
+  },
+  "* * Door opening in 25 seconds * *": {
+    "translation": "门将在25秒后打开"
+  },
+  "* * KEEP DEFENDING * *": {
+    "translation": "继续防守"
+  },
+  "* * Closing door * * 5 seconds left * *": {
+    "translation": "还剩5秒门关"
+  },
+  "* * Go to the lower floor * *": {
+    "translation": "前往下层"
+  },
+  "> INITIALIZING CORE <": {
+    "translation": "核心初始化中"
+  },
+  "> THE CORE WILL BE READY IN 21 SECONDS <": {
+    "translation": "核心将在21秒后就绪"
+  },
+  "> CORE READY IN 5 SECONDS <": {
+    "translation": "核心将在5秒后就绪"
+  },
+  "* * We can move * * FALL BACK * *": {
+    "translation": "我们可以移动了,撤退"
+  },
+  "> CORE READY <": {
+    "translation": "核心已就绪"
+  },
+  "* * Hacking doors. This may take a few seconds * *": {
+    "translation": "正在入侵门,这可能需要几秒钟"
+  },
+  "* * Press the orange button to start the Core * *": {
+    "translation": "按下橙色按钮启动核心"
+  },
+  "* * Hold 25 seconds * *": {
+    "translation": "坚守25秒"
+  },
+  "* * You have defended long enough * *": {
+    "translation": "你们防守得够久了"
+  },
+  "* * Keep running * *": {
+    "translation": "继续跑"
+  },
+  "* * 20 seconds until the door opens * *": {
+    "translation": "距离门打开还有20秒"
+  },
+  "* * The Core is getting unstable... * *": {
+    "translation": "核心正变得不稳定..."
+  },
+  "**Enviolinador's Buttgun has been found**": {
+    "translation": "Enviolinador的枪已被发现"
+  },
+  "EXCELSIOR! EXCELSIOR! EXCELSIOR!": {
+    "translation": "精益求精!"
+  },
+  "* * * Starting elevator * * * 20 seconds * * *": {
+    "translation": "电梯启动还有20秒"
+  },
+  "* * * Hold 15 seconds * * *": {
+    "translation": "坚守15秒"
+  },
+  "* * * 5 seconds left * * *": {
+    "translation": "还剩5秒"
+  },
+  "* * Hold here for 20 seconds * *": {
+    "translation": "在此处坚守20秒"
+  },
+  "* * 3 seconds left * *": {
+    "translation": "还剩3秒"
+  },
+  "* * Wait 15 seconds * *": {
+    "translation": "等待15秒"
+  },
+  "* * You can pass * *": {
+    "translation": "你可以通过了"
+  },
+  "* * * IT'S DEAD * * *": {
+    "translation": "它死了"
+  },
+  "* * * RUN! * * *": {
+    "translation": "快跑!"
+  },
+  "* * 15 seconds until final teleport * *": {
+    "translation": "距离最终传送还有15秒"
+  },
+  "* * Humans must reach the arena or they will be teleported * *": {
+    "translation": "人类必须到达竞技场, 否则将被传送"
+  },
+  "* * 25 seconds until this... thing... starts * *": {
+    "translation": "距离这个东西启动还有25秒"
+  },
+  "* * Resist! * * It all will end soon * *": {
+    "translation": "抵抗!这一切很快就会结束"
+  },
+  "* * * Projectile Deflector has been picked up * * *": {
+    "translation": "投射物偏转器已被拾取"
+  },
+  "(Left) * * * Door opening * * * 8 seconds * * *": {
+    "translation": "左侧门正在打开8秒"
+  },
+  "(Right) * * * Door opening * * * 8 seconds * * *": {
+    "translation": "右侧门正在打开8秒"
+  },
+  "* * * ONLY 3 SECONDS LEFT * * *": {
+    "translation": "只剩3秒了"
+  },
+  "* * * HOLD FOR 15 SECONDS * * *": {
+    "translation": "坚守15秒"
+  },
+  "* * Left route door will open in 20 seconds * *": {
+    "translation": "左侧路线的门将在20秒后打开"
+  },
+  "* * Wait 23 seconds * *": {
+    "translation": "等待23秒"
+  },
+  "* * BUTTONS PRESSED * *": {
+    "translation": "按钮已按下"
+  },
+  "* * GO GO GO * *": {
+    "translation": "冲冲冲"
+  },
+  "* * Press both buttons at the same time * *": {
+    "translation": "同时按下两个按钮"
+  },
+  "* * The main door WILL open in 35s... * *": {
+    "translation": "主门将在35秒后打开"
+  },
+  "* * ...but this convenient side vent might help * *": {
+    "translation": "这个方便的侧边通风口或许能帮上忙"
+  },
+  "* * Wait 40 seconds until the magic elevator is ready to go * *": {
+    "translation": "等待40秒"
+  },
+  "* * You have reached the escape zone * *": {
+    "translation": "你已到达逃生区域"
+  },
+  "* * Only 10 seconds left * * Hold * *": {
+    "translation": "只剩10秒了"
+  },
+  "* * Magic elevator is ready * *": {
+    "translation": "魔法电梯已就绪"
+  },
+  "* * Final door opening in 20 seconds * *": {
+    "translation": "最终门将在20秒后打开"
+  },
+  "* * Final door opening in 5 seconds * *": {
+    "translation": "最终门将在5秒后打开"
+  },
+  "* * * The bridge will be enabled in 25 seconds * * *": {
+    "translation": "桥梁将在25秒后启用"
+  },
+  "* * * MOVE * * *": {
+    "translation": "移动"
+  },
+  "* * * Door opening in 12 seconds * * *": {
+    "translation": "门将在12秒后打开"
+  },
+  "* * * Door opening in 3 seconds * * *": {
+    "translation": "门将在3秒后打开"
+  },
+  "* * * Wait 7 seconds * * *": {
+    "translation": "等待7秒"
+  },
+  "* * * Exit door will open in 10 seconds * * *": {
+    "translation": "出口门将在10秒后打开"
+  },
+  "* * * Hold this position for 30 seconds * * *": {
+    "translation": "守住这个位置30秒"
+  },
+  "* * * 10 seconds left * * *": {
+    "translation": "还剩10秒"
+  },
+  "* * Top door will open in 15 seconds * *": {
+    "translation": "上方的门将在15秒后打开"
+  },
+  "* * Top door will open in 3 seconds * *": {
+    "translation": "*上方的门将在3秒后打开"
+  },
+  "* * Bottom door will open in 3 seconds * *": {
+    "translation": "下方的门将在3秒后打开"
+  },
+  "* * Bottom door will open in 15 seconds * *": {
+    "translation": "下方的门将在15秒后打开"
+  },
+  "* * * Top exit door will open in 13 seconds * * *": {
+    "translation": "上方出口门将在13秒后打开"
+  },
+  "* * * Bottom exit door will open in 11 seconds * * *": {
+    "translation": "下方出口门将在11秒后打开"
+  },
+  "* * * There must be a way to open that door * * *": {
+    "translation": "一定有办法打开那扇门"
+  },
+  "* * * Figure it out * * *": {
+    "translation": "自己想办法"
+  },
+  "* * * It's open * * *": {
+    "translation": "它开了"
+  },
+  "* * * Wait until magic happens * * *": {
+    "translation": "等待奇迹发生"
+  },
+  "* * * HOLD THIS POSITION * * *": {
+    "translation": "守住这个位置"
+  },
+  "* * * Just a bit more... * * *": {
+    "translation": "再坚持一下..."
+  },
+  "* * * The Magic Fire has arrived! * * *": {
+    "translation": "魔法火焰已抵达!"
+  },
+  "* * * IT HAS RUN AWAY * * *": {
+    "translation": "它逃跑了"
+  },
+  "* * * ZOMBIES! nowin4u * * *": {
+    "translation": "僵尸!输了"
+  },
+  "* * Zombies got inside * * Learn2hold * *": {
+    "translation": "僵尸进来了,吸取教训保持防守"
+  },
+  "* * >>TIP<< ORANGE is a GOOD colour * *": {
+    "translation": "提示:橙色是个好颜色"
+  },
+  "* * The pedestal will be raising in 25 seconds * *": {
+    "translation": "基座将在25秒后升起"
+  },
+  "* * Map by Mojonero * *": {
+    "translation": "地图作者: Mojonero,地图文本: 雾雨猫猫"
+  },
+  "* * * The door will open in 15 seconds * * *": {
+    "translation": "门将在15秒后打开"
+  },
+  "* * * Da boss is here * * *": {
+    "translation": "Boss在这里"
+  }
+}

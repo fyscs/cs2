@@ -1,0 +1,112 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "nuke": {
+    "translation": "核爆"
+  },
+  "rote door : 30": {
+    "translation": "红色门:30秒"
+  },
+  "20....": {
+    "translation": "20"
+  },
+  "10....": {
+    "translation": "10"
+  },
+  "5....": {
+    "translation": "5"
+  },
+  "B attack choice": {
+    "translation": "B攻击选择"
+  },
+  "B attack : none": {
+    "translation": "B攻击:无"
+  },
+  "B attack : push": {
+    "translation": "B攻击:推力"
+  },
+  "B attack : slow": {
+    "translation": "B攻击:减速"
+  },
+  "B attack : zpush": {
+    "translation": "B攻击:纵向推力"
+  },
+  "B : hi": {
+    "translation": "B:你好"
+  },
+  "B : whaaaaaa!!!!": {
+    "translation": "B:哇啊啊啊"
+  },
+  "B : im defeat ... ?": {
+    "translation": "B:我被击败了"
+  },
+  "Defend : 15": {
+    "translation": "防守:15秒"
+  },
+  "A : hm ... okay next door open": {
+    "translation": "A:嗯,好的下一道门开启"
+  },
+  "A attack : none": {
+    "translation": "A攻击:无"
+  },
+  "A attack : shake": {
+    "translation": "A攻击:震动"
+  },
+  "A attack choice": {
+    "translation": "A攻击选择"
+  },
+  "A attack : push": {
+    "translation": "A攻击:推力"
+  },
+  "A : hello": {
+    "translation": "A:你好"
+  },
+  "A attack : zpush": {
+    "translation": "A攻击:纵向推力"
+  },
+  "A : bye zombie ~": {
+    "translation": "A:再见僵尸"
+  },
+  "A attack : stop dmg": {
+    "translation": "A攻击:停止伤害"
+  },
+  "wood door break : 20": {
+    "translation": "木门破坏:20秒"
+  },
+  "Back Back": {
+    "translation": "后退后退"
+  },
+  "gate open : 20": {
+    "translation": "大门开启:20秒"
+  },
+  "gate open : 25": {
+    "translation": "大门开启:25秒"
+  },
+  "under path open : 25": {
+    "translation": "下方通道开启:25秒"
+  },
+  "Teleport gate open : 20": {
+    "translation": "传送门开启:20秒"
+  },
+  "GateOpen : 20": {
+    "translation": "大门开启:20秒"
+  },
+  "mapping help , brush make help : fubukifox": {
+    "translation": "地图制作帮助:fubukifox"
+  },
+  "creat by : Amaya": {
+    "translation": "作者:Amaya 文本:Zeyu1"
+  },
+  "ze_variis": {
+    "translation": "ze_variis"
+  }
+}

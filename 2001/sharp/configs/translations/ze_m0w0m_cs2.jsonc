@@ -1,0 +1,432 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> AFK TELEPORT IN 10 SECONDS <<<": {
+    "translation": "10秒后传送",
+    "countdown": 10
+  },
+  ">>> ELEVATOR IS LEAVING IN 20 SECONDS <<<": {
+    "translation": "电梯将在20秒后离开",
+    "countdown": 20
+  },
+  "EX ON !": {
+    "translation": "EX ON !"
+  },
+  ">>> Map made by Moray <<<": {
+    "translation": "作者:Moray 移植:lopb 翻译:秋言不会跳刀"
+  },
+  ">>> Stage1 Activated <<<": {
+    "translation": "第一阶段"
+  },
+  ">>> Stage4 Activated <<<": {
+    "translation": "第四阶段"
+  },
+  ">>> Stage2 Activated <<<": {
+    "translation": "第二阶段"
+  },
+  ">>> Stage5 Activated <<<": {
+    "translation": "第五阶段"
+  },
+  ">>> Stage3 Activated <<<": {
+    "translation": "第三阶段"
+  },
+  ">>> Stage6 Activated <<<": {
+    "translation": "第六阶段"
+  },
+  ">>> DIFFICULTY : NORMAL <<<": {
+    "translation": "难度:普通"
+  },
+  ">>> STAGE 1 : WATERFALL PLAIN <<<": {
+    "translation": "第一阶段:瀑布平原"
+  },
+  ">>> STAGE 2 : RIVERSIDE CITY <<<": {
+    "translation": "第二阶段:和滨城"
+  },
+  ">>> STAGE 3 : RIDGE TEMPLES <<<": {
+    "translation": "第三阶段:山脊庙会"
+  },
+  ">>> DIFFICULTY : HELL <<<": {
+    "translation": "难度:EX"
+  },
+  ">>> STAGE 4 : WATERFALL PLAIN <<<": {
+    "translation": "第四阶段:瀑布平原"
+  },
+  ">>> STAGE 5 : RIVERSIDE CITY <<<": {
+    "translation": "第五阶段:和滨城"
+  },
+  ">>> STAGE 6 : RIDGE TEMPLES <<<": {
+    "translation": "第六阶段:山脊庙会"
+  },
+  ">>> STAGE 0 : UNDERWORLD <<<": {
+    "translation": "里世界"
+  },
+  "OnStartTouch>command>Command>||| HOLD 5 SECONDS |||>0>1": {
+    "translation": "坚守5秒",
+    "countdown": 5
+  },
+  "OnStartTouch>command>Command>||| HOLD 15 SECONDS |||>0>1": {
+    "translation": "坚守15秒",
+    "countdown": 15
+  },
+  "OnPressed>command>Command>||| ZOMBIES TAKE THE STAIRS |||>21.0>1": {
+    "translation": "僵尸路是楼梯"
+  },
+  "OnPressed>command>Command>||| ZOMBIES TAKE THE STAIRS |||>16.0>1": {
+    "translation": "僵尸路是楼梯"
+  },
+  "OnStartTouch>command>Command>||| HELICOPTER IS DEPARTING IN 15 SECONDS |||>0>1": {
+    "translation": "直升机将在15秒后起飞",
+    "countdown": 15
+  },
+  "OnStartTouch>command>Command>||| HELICOPTER IS DEPARTING IN 25 SECONDS |||>0>1": {
+    "translation": "直升机将在25秒后起飞",
+    "countdown": 25
+  },
+  "OnStartTouch>command>Command>||| HOLD 20 SECONDS |||>0>1": {
+    "translation": "坚守20秒",
+    "countdown": 20
+  },
+  "OnStartTouch>command>Command>||| HOLD 30 SECONDS |||>0>1": {
+    "translation": "坚守30秒",
+    "countdown": 30
+  },
+  "OnStartTouch>command>Command>||| HOLD 10 SECONDS |||>0>1": {
+    "translation": "坚守10秒",
+    "countdown": 10
+  },
+  ">>> PORYGON HAS BEEN DEFEATED <<<": {
+    "translation": "多边兽已被击败"
+  },
+  ">>> THE PLATFORM IS MOVING IN 10 SECONDS <<<": {
+    "translation": "平台将在10秒内移动",
+    "countdown": 10
+  },
+  ">>> GOLEM HAS BEEN DEFEATED <<<": {
+    "translation": "魔像已被击败"
+  },
+  ">>> IFRIT HAS BEEN DEFEATED <<<": {
+    "translation": "火焰神父已被击败"
+  },
+  ">>> UFO IS COMING <<<": {
+    "translation": "猫鼬即将到来"
+  },
+  ">>> AIRCRAFT HAS BEEN DEFEATED <<<": {
+    "translation": "飞机已被击败"
+  },
+  ">>> UFO HAS BEEN DEFEATED <<<": {
+    "translation": "猫鼬已被击败"
+  },
+  ">>> ZOMBIES TELEPORT IN 5 SECONDS <<<": {
+    "translation": "5秒后僵尸传送<",
+    "countdown": 5
+  },
+  ">>> EXIT DOORS ARE OPENING IN 100 SECONDS <<<": {
+    "translation": "出口大门将在100秒后打开"
+  },
+  ">>> 60 SECONDS LEFT <<<": {
+    "translation": "剩余60秒",
+    "countdown": 60
+  },
+  ">>> 30 SECONDS LEFT <<<": {
+    "translation": "剩余30秒",
+    "countdown": 30
+  },
+  ">>> 10 SECONDS LEFT <<<": {
+    "translation": "剩余10秒",
+    "countdown": 10
+  },
+  ">>> EXIT DOORS ARE OPENING IN 120 SECONDS <<<": {
+    "translation": "出口大门将在120秒后打开"
+  },
+  ">>> ROUTE1 : ZOMBIE BROKE THE DOOR <<<": {
+    "translation": "线路1:僵尸破门而入"
+  },
+  ">>> IFRIT IS COMING <<<": {
+    "translation": "火焰神父即将到来"
+  },
+  ">>> STAGE6 COMPLETED <<<": {
+    "translation": "第六阶段已完成"
+  },
+  ">>> STAGE3 COMPLETED <<<": {
+    "translation": "第三阶段已完成"
+  },
+  ">>> GOLEM IS COMING <<<": {
+    "translation": "魔像即将到来"
+  },
+  ">>> GOLEM SUMMONED PROTECT CRYSTAL <<<": {
+    "translation": "召唤魔像保护水晶"
+  },
+  ">>> HOLD 20 SECONDS <<<": {
+    "translation": "坚守20秒",
+    "countdown": 20
+  },
+  ">>> HOLD 15 SECONDS <<<": {
+    "translation": "坚守15秒",
+    "countdown": 15
+  },
+  ">>> HOLD 25 SECONDS <<<": {
+    "translation": "坚守25秒",
+    "countdown": 25
+  },
+  ">>> HOLD 5 SECONDS <<<": {
+    "translation": "坚守5秒",
+    "countdown": 5
+  },
+  ">>> FALL BACK <<<": {
+    "translation": "退后"
+  },
+  ">>> HOLD 10 SECONDS <<<": {
+    "translation": "坚守10秒",
+    "countdown": 10
+  },
+  ">>> STAGE4 COMPLETED <<<": {
+    "translation": "第四阶段已完成"
+  },
+  ">>> PORYGON IS COMING <<<": {
+    "translation": "多边兽来了"
+  },
+  ">>> ROUTE 1 : HOLD 20 SECONDS <<<": {
+    "translation": "线路1:保持20秒",
+    "countdown": 20
+  },
+  ">>> ROUTE 2 : HOLD 20 SECONDS <<<": {
+    "translation": "线路2:保持20秒",
+    "countdown": 20
+  },
+  ">>> STAGE1 COMPLETED <<<": {
+    "translation": "第一阶段完成"
+  },
+  ">>> ROUND FAILED <<<": {
+    "translation": "你们失败了"
+  },
+  ">>> ROUTE 1 : HOLD 10 SECONDS <<<": {
+    "translation": "线路1:保持10秒",
+    "countdown": 10
+  },
+  ">>> ROUTE 2 : HOLD 15 SECONDS <<<": {
+    "translation": "线路2:保持15秒",
+    "countdown": 15
+  },
+  ">>> SHORTCUT WILL OPEN IN 10 SECONDS <<<": {
+    "translation": "捷径将在10秒后打开",
+    "countdown": 10
+  },
+  ">>> BOAT IS DEPARTING IN 25 SECONDS <<<": {
+    "translation": "船将在25秒后出发",
+    "countdown": 25
+  },
+  ">>> PLAYER HAS PICKED UP MAXWELL <<<": {
+    "translation": "玩家已拾取猫猫"
+  },
+  ">>> PLAYER HAS PICKED UP MEGA BLAST <<<": {
+    "translation": "玩家已拾取大嘴炮"
+  },
+  ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<": {
+    "translation": "玩家已拾取僵尸治疗"
+  },
+  ">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<": {
+    "translation": "玩家已拾取僵尸重力"
+  },
+  ">>> PLAYER HAS PICKED UP C4 <<<": {
+    "translation": "玩家已拾取C4"
+  },
+  ">>> PLAYER HAS PICKED UP FREEZE GRENADE LAUNCHER <<<": {
+    "translation": "玩家已拾取冰冻弹发射器"
+  },
+  ">>> PLAYER HAS PICKED UP SLUGGER <<<": {
+    "translation": "玩家已捡起手炮"
+  },
+  ">>> PLAYER HAS PICKED UP BEAM RIFLE <<<": {
+    "translation": "玩家已拾取光束步枪"
+  },
+  ">>> PLAYER HAS PICKED UP GATLING GUN <<<": {
+    "translation": "玩家已拾取加特林机枪"
+  },
+  ">>> GATLING AMMO RUNS OUT <<<": {
+    "translation": "加特林弹药用尽"
+  },
+  ">>> PLAYER HAS PICKED UP FLAMETHROWER <<<": {
+    "translation": "玩家已拾取火焰喷射器"
+  },
+  ">>> FLAMETHROWER FUEL RUNS OUT <<<": {
+    "translation": "火焰喷射器燃料用尽"
+  },
+  ">>> PLAYER HAS PICKED UP ROCKET LAUNCHER <<<": {
+    "translation": "玩家已拾取火箭发射器"
+  },
+  ">>> PLAYER HAS PICKED UP WATER STAFF <<<": {
+    "translation": "玩家已拾取水杖"
+  },
+  ">>> PLAYER HAS PICKED UP WIND STAFF <<<": {
+    "translation": "玩家已拾取风杖"
+  },
+  ">>> PLAYER HAS PICKED UP GRAVITY STAFF <<<": {
+    "translation": "玩家已拾取黑杖"
+  },
+  ">>> PLAYER HAS PICKED UP POISON STAFF <<<": {
+    "translation": "玩家捡起了毒杖"
+  },
+  ">>> PLAYER HAS PICKED UP LIGHTNING STAFF <<<": {
+    "translation": "玩家已拾取电杖"
+  },
+  ">>> PLAYER HAS PICKED UP ICE STAFF <<<": {
+    "translation": "玩家已拾取冰杖"
+  },
+  ">>> PLAYER HAS PICKED UP FIRE STAFF <<<": {
+    "translation": "玩家已拾取火杖"
+  },
+  ">>> PLAYER HAS PICKED UP ANTIDOTER <<<": {
+    "translation": "玩家已拾取减速"
+  },
+  ">>> PLAYER HAS PICKED UP PULSE FIELD <<<": {
+    "translation": "玩家已拾取击退立场"
+  },
+  ">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<": {
+    "translation": "玩家已拾取激光"
+  },
+  ">>> PLAYER HAS PICKED UP AMMO <<<": {
+    "translation": "玩家已拾取弹药"
+  },
+  ">>> PLAYER HAS PICKED UP HEAL <<<": {
+    "translation": "玩家已拾取治疗"
+  },
+  ">>> STAGE5 COMPLETED <<<": {
+    "translation": "第五阶段已完成"
+  },
+  ">>> STAGE2 COMPLETED <<<": {
+    "translation": "第二阶段已完成"
+  },
+  ">>> THE GATE IS CLOSING <<<": {
+    "translation": "大门即将关闭"
+  },
+  ">>> GOLEM USED QUAKE <<<": {
+    "translation": "魔像使用地震术"
+  },
+  ">>> GOLEM USED BEAM <<<": {
+    "translation": "魔像使用光束"
+  },
+  ">>> GOLEM USED FALLING BLOCK <<<": {
+    "translation": "魔像使用下落方块"
+  },
+  ">>> GOLEM USED CLUSTER BLOCK <<<": {
+    "translation": "魔像使用集群方块"
+  },
+  ">>> THE PROTECT HAS BEEN BROKEN <<<": {
+    "translation": "BOSS保护层已损坏"
+  },
+  ">>> SHOOT HIS FACE <<<": {
+    "translation": "打他的脸"
+  },
+  ">>> PORYGON USED CONVERSION <<<": {
+    "translation": "多边兽已使用转换"
+  },
+  ">>> PORYGON USED TRI ATTACK <<<": {
+    "translation": "多边兽使用三重攻击"
+  },
+  ">>> PORYGON USED DISCHARGE <<<": {
+    "translation": "多边兽使用放电"
+  },
+  ">>> PORYGON USED TELEPORT <<<": {
+    "translation": "多边兽使用了传送术"
+  },
+  ">>> PORYGON USED ZAP CANNON <<<": {
+    "translation": "多边兽使用了电击炮"
+  },
+  ">>> PORYGON USED SIGNAL BEAM <<<": {
+    "translation": "多边兽使用了信号光束"
+  },
+  ">>> PORYGON USED PSYSHOCK <<<": {
+    "translation": "多边兽使用了精神冲击"
+  },
+  ">>> PORYGON USED PSYBEAM <<<": {
+    "translation": "多边兽使用了心灵控制"
+  },
+  ">>> IFRIT USED LAVA RAIN <<<": {
+    "translation": "火焰神父使用了熔岩雨"
+  },
+  ">>> IFRIT SUMMONED MINIONS <<<": {
+    "translation": "火焰神父召唤小兵"
+  },
+  ">>> IFRIT USED ORBITAL CANNON <<<": {
+    "translation": "火焰神父使用轨道炮"
+  },
+  "OnCase03>command>Command>||| IFRIT USED DETONATION |||>0>0": {
+    "translation": "火焰神父使用爆轰"
+  },
+  ">>> TRAINS ARE LEAVING IN 15 SECONDS <<<": {
+    "translation": "列车将在15秒后发车",
+    "countdown": 15
+  },
+  ">>> ELEVATOR IS LEAVING IN 15 SECONDS <<<": {
+    "translation": "电梯将在15秒后离开",
+    "countdown": 15
+  },
+  ">>> KILL THE GUARDIANS <<<": {
+    "translation": "杀死守护者"
+  },
+  ">>> ELEVATOR2 IS LEAVING IN 15 SECONDS <<<": {
+    "translation": "2号电梯15秒后出发",
+    "countdown": 15
+  },
+  ">>> ROUTE1 : HOLD 20 SECONDS <<<": {
+    "translation": "线路1:保持20秒",
+    "countdown": 20
+  },
+  ">>> ELEVATOR IS LEAVING IN 25 SECONDS <<<": {
+    "translation": "电梯将在25秒后离开",
+    "countdown": 25
+  },
+  ">>> AIRCRAFT IS COMING <<<": {
+    "translation": "飞机来了"
+  },
+  ">>> DEFEND ELEVATOR FOR 15 SECONDS <<<": {
+    "translation": "守卫电梯15秒",
+    "countdown": 15
+  },
+  ">>> ROUTE2 : ZOMBIE BROKE THE DOOR <<<": {
+    "translation": "线路2:僵尸破门而入"
+  },
+  ">>> ROUTE2 : HOLD 15 SECONDS <<<": {
+    "translation": "线路2:保持15秒",
+    "countdown": 15
+  },
+  ">>> ROUTE1 : HOLD 15 SECONDS <<<": {
+    "translation": "线路1:保持15秒",
+    "countdown": 15
+  },
+  ">>> l0v0l <<<": {
+    "translation": ">l0v0l"
+  },
+  ">>> ELEVATOR1 IS LEAVING IN 15 SECONDS <<<": {
+    "translation": "1号电梯15秒后出发",
+    "countdown": 15
+  },
+  ">>> ROUTE1 : HOLD 25 SECONDS <<<": {
+    "translation": "线路1:保持25秒",
+    "countdown": 25
+  },
+  ">>> ROUTE1 : AFK TELEPORT IN 10 SECONDS <<<": {
+    "translation": "线路1:10秒后AFK传送",
+    "countdown": 10
+  },
+  ">>> ROUTE2 : AFK TELEPORT IN 10 SECONDS <<<": {
+    "translation": "线路2:10秒后AFK传送",
+    "countdown": 10
+  },
+  ">>> THE GUARDIANS ARE BLOCKING THE WAY <<<": {
+    "translation": "守护者们挡住了去路"
+  },
+  ">>> HOLD 30 SECONDS <<<": {
+    "translation": "保持30秒",
+    "countdown": 30
+  }
+}
