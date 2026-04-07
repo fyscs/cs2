@@ -4938,7 +4938,7 @@
     "nomination": true,
     "price": 1500,
     "requiredOnline": 600,
-    "requiredPlayers": 50
+    "requiredPlayers": 40
   },
   "ze_surf_outside": {
     "admin": false,
