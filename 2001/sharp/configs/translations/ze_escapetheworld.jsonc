@@ -274,7 +274,8 @@
     "translation": "这是我的第一张地图^-^"
   },
   "[Thanks Doan xem for music lv 3]": {
-    "translation": "感谢Doan xem提供的第三关配乐"
+    "translation": "感谢Doan xem提供的第三关配乐",
+    "blocked": true
   },
   "[Respect to ze_grau(Map idea)]": {
     "translation": "地图灵感来自于:ze_grau"
