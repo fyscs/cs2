@@ -13,36 +13,36 @@
 
 {
   "1": {
-    "rankPasses": 11,
+    "rankPasses": 12,
     "rankDamage": 15000,
-    "rankIntern": 0.4,
-    "econPasses": 8,
+    "rankIntern": 0.68,
+    "econPasses": 7,
     "econDamage": 18000,
-    "econIntern": 0.2
+    "econIntern": 0.4
   },
   "2": {
-    "rankPasses": 11,
+    "rankPasses": 12,
     "rankDamage": 15000,
-    "rankIntern": 0.4,
+    "rankIntern": 0.65,
     "econPasses": 8,
     "econDamage": 20000,
-    "econIntern": 0.2
+    "econIntern": 0.5
   },
   "3": {
     "rankPasses": 14,
     "rankDamage": 15000,
-    "rankIntern": 0.4,
-    "econPasses": 10,
+    "rankIntern": 0.7,
+    "econPasses": 9,
     "econDamage": 20000,
-    "econIntern": 0.22
+    "econIntern": 0.5
   },
   "4": {
-    "rankPasses": 12,
+    "rankPasses": 6,
     "rankDamage": 15000,
-    "rankIntern": 0.44,
-    "econPasses": 8,
+    "rankIntern": 0.3,
+    "econPasses": 3,
     "econDamage": 22000,
-    "econIntern": 0.24
+    "econIntern": 0.12
   },
   "5": {
     "rankPasses": 10,
@@ -55,16 +55,16 @@
   "6": {
     "rankPasses": 18,
     "rankDamage": 20000,
-    "rankIntern": 0.4,
-    "econPasses": 13,
+    "rankIntern": 0.9,
+    "econPasses": 10,
     "econDamage": 24000,
-    "econIntern": 0.2
+    "econIntern": 0.58
   },
   "7": {
-    "rankPasses": 8,
+    "rankPasses": 7,
     "rankDamage": 20000,
     "rankIntern": 0.4,
-    "econPasses": 5,
+    "econPasses": 4,
     "econDamage": 24000,
     "econIntern": 0.2
   },
