@@ -672,7 +672,7 @@
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
-    "requiredPlayers": 25
+    "requiredPlayers": -1
   },
   "ze_boatescape999": {
     "admin": false,
