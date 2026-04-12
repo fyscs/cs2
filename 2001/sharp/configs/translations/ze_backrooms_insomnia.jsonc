@@ -361,11 +361,10 @@
     "translation": "你需要重置本轮才能生效"
   },
   "< Partygoner want to play a game with you. >": {
-    "translation": "派对人想和你玩个游戏 你需要在3分钟内找到并打破8个红气球"
+    "translation": "派对人想和你玩个游戏"
   },
   "< You need to poke 8 Red Balloon in 3 minutes. >": {
-    "translation": "还有180秒",
-    "countdown": 180
+    "translation": "你需要在3分钟内找到并打破8个红气球"
   },
   "< Partygoner and zombies will hunt you in 1 minutes. >": {
     "translation": "派对气球和僵尸将在63秒后追捕你",
