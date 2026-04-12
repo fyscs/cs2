@@ -1,0 +1,76 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<< 终于摆脱了巨人!我们快回去吧! >>>": {
+    "translation": "终于摆脱了巨人!我们快回去吧!"
+  },
+  "<<< 关卡:Stage1 >>>": {
+    "translation": "关卡:Stage1"
+  },
+  "<<< 外城门将在20秒后开启 >>>": {
+    "translation": "外城门将在20秒后开启",
+    "countdown": 20
+  },
+  "<<< 内城门将在30秒后开启 >>>": {
+    "translation": "内城门将在30秒后开启",
+    "countdown": 30
+  },
+  "<<< 正门将在45秒后开启 >>>": {
+    "translation": "正门将在45秒后开启",
+    "countdown": 45
+  },
+  "<<< 门将在20秒后开启 >>>": {
+    "translation": "门将在20秒后开启",
+    "countdown": 20
+  },
+  "<<< 电梯将在20秒后上升 >>>": {
+    "translation": "电梯将在20秒后上升"
+  },
+  "<<< 所有城门都关上了!这是个陷阱! >>>": {
+    "translation": "所有城门都关上了!这是个陷阱!"
+  },
+  "<<< 等待30秒破坏箱子 >>>": {
+    "translation": "等待30秒破坏箱子",
+    "countdown": 30
+  },
+  "<<< 关卡:Stage2 >>>": {
+    "translation": "关卡:Stage2"
+  },
+  "<<< 关卡:Stage3 >>>": {
+    "translation": "关卡:Stage3"
+  },
+  "<<< 关卡:EX-Stage3 >>>": {
+    "translation": "关卡:EX3"
+  },
+  "<<< 关卡:EX-Stage2 >>>": {
+    "translation": "关卡:EX2"
+  },
+  "<<< 关卡:EX-Stage1 >>>": {
+    "translation": "关卡:EX1"
+  },
+  "<<< 城门总开关被破坏!巨人将长驱直入...... >>>": {
+    "translation": "城门总开关被破坏!巨人将长驱直入"
+  },
+  "<<< 人类已经无法逃脱! >>>": {
+    "translation": "人类已经无法逃脱!"
+  },
+  "<<< 开关已经拉下!坚守45秒!!! >>>": {
+    "translation": "开关已经拉下!坚守45秒!!!",
+    "countdown": 45
+  },
+  "<<< 所有炮台都已设置完毕!拉动并保护城门总开关! >>>": {
+    "translation": "所有炮台都已设置完毕!拉动并保护城门总开关!"
+  },
+  "<<< 巨人正在朝着城墙来!快把炮台都准备好! >>>": {
+    "translation": "巨人正在朝着城墙来!快把炮台都准备好!"
+  }
+}
