@@ -24,8 +24,8 @@
   "Counters": [
     {
       "iterator": "Stage4_Boss_Bergan_HP_Main",
-      "backup": "Stage4_Boss_Bergan_HP_Middle",
       "counter": "Stage4_Boss_Bergan_HP_End",
+      "mass": 100,
       "hitbox": "Stage4_Boss_Bergan_Phys_Body",
       "display": "Bergan"
     },
@@ -37,7 +37,7 @@
     {
       "iterator": "Stage3_End_Guard_HP",
       "hitbox": "Stage3_End_Guard_Phys",
-      "display": "Guard"
+      "display": "Mateus"
     },
     {
       "iterator": "Stage4_Ending_Bergan_HP",
@@ -46,22 +46,22 @@
     },
     {
       "iterator": "Mateus_Health_HP_Main",
-      "backup": "Mateus_Health_Middle",
       "counter": "Mateus_Health_End",
+      "mass": 73,
       "hitbox": "Stage3_Mateus_Phys_Body",
       "display": "Mateus"
     },
     {
       "iterator": "Dragon_Aevis_Health_HP_Main",
-      "backup": "Dragon_Aevis_Health_Middle",
       "counter": "Dragon_Aevis_Health_End",
+      "mass": 55,
       "hitbox": "Dragon_Aevis_Phys_Body",
       "display": "Aevis"
     },
     {
       "iterator": "Stage-1_Gabranth_HP_Main",
-      "backup": "Stage-1_Gabranth_HP_Middle",
       "counter": "Stage-1_Gabranth_HP_End",
+      "mass": 55,
       "hitbox": "Stage-1_Gabranth_Phys_Body",
       "display": "Gabranth"
     },
@@ -74,7 +74,7 @@
   "Monsters": [
     {
       "identity": "2018",
-      "display": "Mini"
+      "display": "Cactus"
     }
   ]
 }
