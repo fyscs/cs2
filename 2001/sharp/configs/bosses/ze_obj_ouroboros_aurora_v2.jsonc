@@ -29,6 +29,13 @@
       "reverse": true,
       "hitbox": "bossbreak",
       "display": "Boss"
+    },
+    {
+      "iterator": "boss_health_base",
+      "mass": 1000,
+      "counter": "boss_health_backup",
+      "hitbox": "boss_hitbox",
+      "display": "Bxoss"
     }
   ],
   "Breakables": [

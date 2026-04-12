@@ -41,7 +41,7 @@
     "translation": "大家注意"
   },
   ">We are start to no-cliping now.": {
-    "translation": "我们现在开始切入层级..."
+    "translation": "牢记以下事项:"
   },
   ">Prepare yourself,Stay contact.": {
     "translation": "交战,搜索,搞定就撤"
@@ -364,10 +364,11 @@
     "translation": "派对人想和你玩个游戏"
   },
   "< You need to poke 8 Red Balloon in 3 minutes. >": {
-    "translation": "你需要在3分钟内戳破8个红气球"
+    "translation": "你需要在3分钟内找到并打破8个红气球"
   },
   "< Partygoner and zombies will hunt you in 1 minutes. >": {
-    "translation": "派对人及僵尸将在1分钟后追捕你"
+    "translation": "派对气球和僵尸将在63秒后追捕你",
+    "countdown": 63
   },
   "< Party starts now. >": {
     "translation": "派对现在开始"
@@ -382,34 +383,35 @@
     "translation": "Level Fun已被攻克"
   },
   "< Your knife has stripped because it still show while you hiding. >": {
-    "translation": "你的刀被没收了 因为它在你躲藏时仍显露"
+    "translation": "你的刀被没收了 因为它在你躲藏时仍显露",
+    "blocked": true
   },
   "< 1/8 Balloon left. >": {
-    "translation": "剩余1/8气球"
+    "translation": "还剩7个气球"
   },
   "< 2/8 Balloon left. >": {
-    "translation": "剩余2/8气球"
+    "translation": "还剩6个气球"
   },
   "< 3/8 Balloon left. >": {
-    "translation": "剩余3/8气球"
+    "translation": "还剩5个气球"
   },
   "< 4/8 Balloon left. >": {
-    "translation": "剩余4/8气球"
+    "translation": "还剩4个气球"
   },
   "< 5/8 Balloon left. >": {
-    "translation": "剩余5/8气球"
+    "translation": "还剩3个气球"
   },
   "< 6/8 Balloon left. >": {
-    "translation": "剩余6/8气球"
+    "translation": "还剩2个气球"
   },
   "< 7/8 Balloon left. >": {
-    "translation": "剩余7/8气球"
+    "translation": "还剩1个气球"
   },
   "< All Red Balloon has poked. >": {
     "translation": "所有红气球已戳破"
   },
   "< Wait for the time end then we could clip outta here. >": {
-    "translation": "等待时间结束我们就能穿离此处"
+    "translation": "等待时间结束,我们就可逃离此处了"
   },
   "< You have fail and trap in Level Fun forever... >": {
     "translation": "你已失败并永远困在Level Fun"
@@ -453,16 +455,16 @@
     "translation": "拾起那些手电筒 照射笑魇3秒 将其放逐至边缘"
   },
   "< 1/5 Switch left. >": {
-    "translation": "剩余1/5开关"
+    "translation": "还有4个.."
   },
   "< 2/5 Switch left. >": {
-    "translation": "剩余2/5开关"
+    "translation": "还有3个.."
   },
   "< 3/5 Switch left. >": {
-    "translation": "剩余3/5开关"
+    "translation": "还有2个.."
   },
   "< 4/5 Switch left. >": {
-    "translation": "剩余4/5开关"
+    "translation": "还有1个.."
   },
   "< Level 0.1 has been takedown. >": {
     "translation": "Level 01已被攻克"
@@ -715,5 +717,8 @@
   ">Liquid Pain< Press E to drink pain,if you want to try it?...": {
     "translation": ">Liquid Pain< Press E to drink pain,if you want to try it?...",
     "blocked": true
+  },
+  "僵尸技能已启用": {
+    "translation": "请注意: 僵尸技能已启用"
   }
 }

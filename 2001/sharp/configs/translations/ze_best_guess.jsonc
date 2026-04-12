@@ -1,0 +1,124 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<| DOOR OPEN |>": {
+    "translation": "门开"
+  },
+  "<| WALL BREAK IN 15 SECONDS |>": {
+    "translation": "墙15秒后破",
+    "countdown": 15
+  },
+  "<| WALL BROKEN |>": {
+    "translation": "墙已破"
+  },
+  "<| DOOR OPENING IN 15 SECONDS |>": {
+    "translation": "门15秒后开",
+    "countdown": 15
+  },
+  "<| DOOR OPENING IN 20 SECONDS |>": {
+    "translation": "门20秒后开",
+    "countdown": 20
+  },
+  "<| HUMAN TELEPORT IN 5 SECONDS |>": {
+    "translation": "人类5秒后传送",
+    "countdown": 5
+  },
+  "<| ZOMBIE TELEPORT IN 5 SECONDS |>": {
+    "translation": "僵尸5秒后传送",
+    "countdown": 5
+  },
+  "<| WALL BREAK IN 10 SECONDS |>": {
+    "translation": "墙10秒后破",
+    "countdown": 10
+  },
+  "<| DOOR OPEN IN 15 SECONDS |>": {
+    "translation": "门15秒后开",
+    "countdown": 15
+  },
+  "<| JUMP TO SIDE |>": {
+    "translation": "跳向一边"
+  },
+  "<| PLATFORM LEAVE IN 15 SECONDS |>": {
+    "translation": "平台15秒后离开",
+    "countdown": 15
+  },
+  "<| NEXT CARD - CHOOSE |>": {
+    "translation": "下一张牌:选择"
+  },
+  "<| PYCR STARTS IN 10 SECONDS |>": {
+    "translation": "PYCR 10秒后开始",
+    "countdown": 10
+  },
+  "<| DOOR OPEN 20 SECONDS|>": {
+    "translation": "门开20秒",
+    "countdown": 20
+  },
+  "<| TARGET RANGE - SHOOT 8 TARGETS TO OPEN DOOR|>": {
+    "translation": "射击8个靶子开门"
+  },
+  "<| WALL BREAK 20 SECONDS |>": {
+    "translation": "墙破20秒",
+    "countdown": 20
+  },
+  "<| DOOR OPEN IN 20 SECONDS |>": {
+    "translation": "门20秒后开",
+    "countdown": 20
+  },
+  "<| WALL BREAK 30 SECONDS |>": {
+    "translation": "墙破30秒",
+    "countdown": 30
+  },
+  "<| GET IN QUICK |>": {
+    "translation": "快进来"
+  },
+  "<| SHOWDOWN - HUMANS vs ZOMBIES |>": {
+    "translation": "人类 vs 僵尸"
+  },
+  "<| SHOWDOWN - HIGHEST SCORE WINS |>": {
+    "translation": "最高分获胜"
+  },
+  "<| SHOWDOWN START IN 10 SECONDS |>": {
+    "translation": "10秒后开始",
+    "countdown": 10
+  },
+  "<| DOOR OPEN 10 SECONDS|>": {
+    "translation": "门开10秒",
+    "countdown": 10
+  },
+  "<| QUIZ RULES -  ANSWER EACH QUESTION |>": {
+    "translation": "问答规则:回答每个问题"
+  },
+  "<| CORRECT ANSWER - NO DAMAGE |>": {
+    "translation": "答对 = 无伤害"
+  },
+  "<| WRONG ANSWER - 20 HP DAMAGE |>": {
+    "translation": "答错 = 20生命值伤害"
+  },
+  "<| NO PICK - 40 HP DAMAGE |>": {
+    "translation": "不选 = 40生命值伤害"
+  },
+  "<| PLAY YOUR CARDS RIGHT |>": {
+    "translation": "选择好你的牌"
+  },
+  "<| PICK IF NEXT CARD WILL BE HIGHER OR LOWER TO PREVIOUS CARD |>": {
+    "translation": "选择下一张牌比前一张牌高或低"
+  },
+  "<| GUESS WRONG = 15 HP DAMAGE |>": {
+    "translation": "猜错 = 15生命值伤害"
+  },
+  "<| GUESS RIGHT = 12 HP HEAL |>": {
+    "translation": "猜对 = 12生命值治疗"
+  },
+  "<| NO PICK = 20 HP DAMAGE |>": {
+    "translation": "不选 = 20生命值伤害"
+  }
+}
