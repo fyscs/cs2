@@ -35,13 +35,13 @@
       "display": "Boss"
     },
     {
-      "iterator": "Hellz_Genesis_End_Phy",
-      "hitbox": "Hellz_Genesis_End_Counter",
+      "iterator": "Hellz_Genesis_End_Counter",
+      "hitbox": "Hellz_Genesis_End_Phy",
       "display": "Boss"
     },
     {
-      "iterator": "lvl3_end_boss",
-      "hitbox": "lvl2_Gi_Nattak_Counter",
+      "iterator": "lvl2_Gi_Nattak_Counter",
+      "hitbox": "lvl3_end_boss",
       "display": "Boss"
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "iterator": "Chocobo_End_Counter",
-      "hitbox": "Chocobo_End_Counter",
+      "hitbox": "Chocobo_End_Hitbox",
       "display": "Boss"
     }
   ]
