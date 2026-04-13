@@ -31,17 +31,11 @@
     },
     {
       "iterator": "lvl2_Gi_Nattak_Counter",
-      "hitbox": "lvl2_Boss_Hitbox",
       "display": "Boss"
     },
     {
       "iterator": "Hellz_Genesis_End_Counter",
       "hitbox": "Hellz_Genesis_End_Phy",
-      "display": "Boss"
-    },
-    {
-      "iterator": "lvl2_Gi_Nattak_Counter",
-      "hitbox": "lvl3_end_boss",
       "display": "Boss"
     },
     {
