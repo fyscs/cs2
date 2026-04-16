@@ -2853,7 +2853,7 @@
     "requiredPlayers": 40
   },
   "ze_maontain_escape": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 140,
     "nomination": true,
