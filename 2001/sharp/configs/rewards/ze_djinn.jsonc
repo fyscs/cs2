@@ -13,9 +13,9 @@
 
 {
   "1": {
-    "rankPasses": 14,
-    "rankDamage": 18000,
-    "rankIntern": 0.42,
+    "rankPasses": 18,
+    "rankDamage": 20000,
+    "rankIntern": 0.5,
     "econPasses": 10,
     "econDamage": 26000,
     "econIntern": 0.3
