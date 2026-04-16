@@ -47,6 +47,10 @@
     {
       "identity": "991",
       "display": "NPC"
+    },
+    {
+      "identity": "804",
+      "display": "Crystal"
     }
   ]
 }
