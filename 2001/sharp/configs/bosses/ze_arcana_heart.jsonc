@@ -45,5 +45,11 @@
       "hitbox": "Boss_S4_Hitbox",
       "display": "HEART"
     }
+  ],
+  "Monsters": [
+    {
+      "identity": "765",
+      "display": "S2_End"
+    }
   ]
 }
