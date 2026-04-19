@@ -28,11 +28,16 @@
       "display": "恐惧之源"
     },
     {
-      "iterator": "s2_boss_hp",
-      "hitbox": "sad",
+      "iterator": "s2_boss_hp_backup",
+      "mass": 88,
       "counter": "s2_boss_hp_main",
-      "backup": "s2_boss_hp_backup",
+      "hitbox": "sad",
       "display": "界外者"
+    },
+    {
+      "iterator": "hey_boss_hp",
+      "hitbox": "hey_phys_1_s1",
+      "display": "HeyBird"
     }
   ]
 }
