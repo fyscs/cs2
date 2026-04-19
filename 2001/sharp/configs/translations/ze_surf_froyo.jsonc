@@ -86,7 +86,7 @@
     "translation": "飞机1将在25秒后移动"
   },
   "▲GREAT!THE TELEPORTION CRYSTAL IS ACTIVE▲": {
-    "translation": "太棒了！传送水晶已激活"
+    "translation": "太棒了!传送水晶已激活"
   },
   "▲PLANE 3 WILL MOVE IN 25 SECONDS▲": {
     "translation": "飞机3将在25秒后移动"
@@ -134,7 +134,7 @@
     "translation": "很好!传送将在60秒后激活"
   },
   "▲TELEPORTION IS ACTIVE!GO AHEAD,TRAVELLERS▲": {
-    "translation": "传送已激活!前进吧，旅行者们"
+    "translation": "传送已激活!前进吧,旅行者们"
   },
   "▲ADMIN CHOOSES BOSS FROYO IN NEXT ROUND▲": {
     "translation": "管理员在下一轮选择了Boss Froyo"
@@ -173,14 +173,13 @@
     "translation": "很好!如果旅行者数量少于一半,所有僵尸将在40秒后被传送"
   },
   "▲YOU HAVE 60 SECONDS TO FIGHT BOSS STAR▲": {
-    "translation": "你有60秒时间对抗Boss Star"
+    "translation": "你有60秒时间对抗Boss星"
   },
   "▲YOU HAVE 90 SECONDS TO FIGHT BOSS STAR▲": {
-    "translation": "你有90秒时间对抗Boss Star"
+    "translation": "你有90秒时间对抗Boss星"
   },
   "▲YOU HAVE 30 SECONDS TO FIGHT BOSS STAR▲": {
-    "translation": "你有30秒时间对抗Boss Star"
-  },
+    "translation": "你有30秒时间对抗Boss星
   "▲BOSS STAR▲": {
     "translation": "Boss Star"
   },
@@ -254,7 +253,7 @@
     "translation": "僵尸们!感受Froyo的力量!巴拉巴拉..."
   },
   "▲CONGRATULATIONS!TRAVELLERS SUCCEED▲": {
-    "translation": "恭喜！旅行者成功了"
+    "translation": "恭喜!旅行者成功了"
   },
   "▲4 SECONDS LEFT▲": {
     "translation": "剩余4秒"
@@ -281,10 +280,10 @@
     "translation": "按下红色按钮并进入城堡"
   },
   "▲YOU HAVE 120 SECONDS TO FIGHT BOSS STAR▲": {
-    "translation": "你有120秒时间对抗Boss Star"
+    "translation": "你有120秒时间对抗BOSS星"
   },
   "▲HEGRENADE CAN GIVE BOSS STAR MORE DAMAGE▲": {
-    "translation": "高爆手雷可以对Boss Star造成更多伤害"
+    "translation": "高爆手雷可以对BOSS星造成更多伤害"
   },
   "▲ZOMBIES WILL COME IN 8 SECONDS▲": {
     "translation": "僵尸将在8秒后出现"
