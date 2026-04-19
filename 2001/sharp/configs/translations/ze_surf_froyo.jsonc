@@ -300,5 +300,8 @@
   },
   "▲WELL! BOSS FROYO WAS DEFEATED▲": {
     "translation": "很好!Boss Froyo被击败了"
+  },
+  "▲THE COUNT OF TRAVELLERS IS MORE THAN HALF,ALL ZOMBIES WILL BE TELEPORTED IN 20 SECONDS▲": {
+    "translation": "旅行者数量超过一半,所有僵尸将在20秒后被传送"
   }
 }
