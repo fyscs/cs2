@@ -48,6 +48,11 @@
       "iterator": "Shinra_Shiva_Counter",
       "hitbox": "Shinra_Shiva_Phys",
       "display": "希瓦"
+    },
+    {
+      "iterator": "Genesis_Counter",
+      "hitbox": "lvl4_end_boss",
+      "display": "杰内西斯"
     }
   ]
 }
