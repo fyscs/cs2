@@ -24,11 +24,11 @@
   "Breakables": [
     {
       "target": "Pedobear_lvl1",
-      "display": "熊大",
+      "display": "熊大"
     },
     {
       "target": "Pedobear_lvl2",
-      "display": "熊大大",
+      "display": "熊大大"
     }
   ]
 }

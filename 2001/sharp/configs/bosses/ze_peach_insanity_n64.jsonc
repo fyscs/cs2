@@ -39,7 +39,7 @@
     {
       "target": "hazy_middle_boss_hp",
       "hitbox": "hazy_boss_breakable_middle",
-      "display": "炮弹の中",
+      "display": "炮弹の中"
     },
     {
       "target": "hazy_right_boss_hp",

@@ -53,10 +53,10 @@
     "translation": "蒜头王八使用了飞叶快刀"
   },
   "Bulbasaur is dead": {
-    "translation": "蒜头王八死了",
+    "translation": "蒜头王八死了"
   },
   "A Magikarp is in the way": {
-    "translation": "是一只鲤鱼王挡住我们路了?,把他变成红烧鲤鱼王!",
+    "translation": "是一只鲤鱼王挡住我们路了?,把他变成红烧鲤鱼王!"
   },
   "Magikarp is dead": {
     "translation": "已经成功烹饪美食:红烧鲤鱼王"
@@ -67,24 +67,7 @@
   "Pikachu is using spark attack": {
     "translation": "哦?是一只皮卡丘! 解决掉他."
   },
-  "Hold for 25 seconds": {
-    "translation": "道路将在25秒后开放"
-  },
-  "Zombies will TP in 20 seconds": {
-    "translation": "僵尸将在20秒后传送"
-  },
-  "Gym will open in 40 seconds": {
-    "translation": "道馆大门将在40秒后对你们开放" 
-  },
-  "Gym is open!": {
-    "translation": "开门喽" 
-  },
-  "Hold bridge for 30 seconds": {
-    "translation": "桥将在30秒后关闭" 
-  },
-  "Gym will open in 40 seconds": {
-    "translation": "道馆大门将在40秒后对你们开放" 
-  },
+
   "Brock is challenging you": {
     "translation": "是小刚" 
   },
@@ -103,15 +86,6 @@
   "Stage 1 complete": {
     "translation": "第一关结束了,GGWP" 
   },
-  "Map created by Bart": {
-    "translation": "地图作者:bart地图翻译:余清茗染@Fys" 
-  },
-  "Door will open in 15 seconds": {
-    "translation": "门将在15秒后开启" 
-  },
-  "Spawn teleport will activate in 20 seconds": {
-    "translation": "未进入门的玩家将在20秒后进行传送" 
-  },
   "Voltorb is blocking the way, kill him": {
     "translation": "开枪把这个霹雳球打了,小心它会自爆" 
   },
@@ -123,9 +97,6 @@
   },
   "All digletts have been killed, ladder will open in 30 seconds": {
     "translation": "看样子你们解决了所有的地鼠,干得好,道路将在30秒后开放,注意摔伤" 
-  },
-  "Zombies will TP in 15 seconds": {
-    "translation": "15秒后僵尸传送" 
   },
   "Zubat is attacking us": {
     "translation": "是超音蝠,他在对我们发起攻击" 
@@ -139,26 +110,11 @@
   "Golem is attacking us": {
     "translation": "一只隆隆石挡住了去路" 
   },
-  "Golem is using rock throw": {
-    "translation": "隆隆石发动了泥洪石流" 
-  },
-  "Golem is dead": {
-    "translation": "隆隆石被干掉了" 
-  },
-  "Hold for 40 seconds": {
-    "translation": "道路将在40秒后开放" 
-  },
   "Zombies will TP in 20 seconds": {
     "translation": "僵尸将在20秒后传送" 
   },
   "Gym will open in 40 seconds": {
     "translation": "道馆将在40秒后对你们开放" 
-  },
-  "Gym is open": {
-    "translation": "道馆大门开启了" 
-  },
-  "Hold bridge for 30 seconds": {
-    "translation": "桥将在30秒后关闭" 
   },
   "Misty is challenging you": {
     "translation": "是小霞" 
@@ -178,12 +134,6 @@
   "Stage 2 complete": {
     "translation": "第二关通关" 
   },
-  "Map created by Bart": {
-    "translation": "地图作者:bart地图翻译:余清茗染@Fys" 
-  },
-  "Door will open in 15 seconds": {
-    "translation": "门将在15秒后开启" 
-  },
   "Zombies will TP in 10 seconds": {
     "translation": "僵尸将在10秒后传送在圈内" 
   },
@@ -195,9 +145,6 @@
   },
   "Nidorino is dead": {
     "translation": "尼多兰被打败了" 
-  },
-  "Hold for 30 seconds": {
-    "translation": "道路将在30秒后开启" 
   },
   "Zombies will TP in 30 seconds": {
     "translation": "僵尸将在30秒后传送" 
@@ -216,12 +163,6 @@
   },
   "Golem is dead": {
     "translation": "隆隆石彻底没了" 
-  },
-  "Hold for 45 seconds": {
-    "translation": "45秒后道路开放" 
-  },
-  "Zombies will TP in 15 seconds": {
-    "translation": "僵尸将在15秒后传送" 
   },
   "Gym will open in 60 seconds": {
     "translation": "道馆大门将在60秒后开启" 
@@ -253,20 +194,11 @@
   "Stage 3 complete": {
     "translation": "第三关完成" 
   },
-  "Map created by Bart": {
-    "translation": "地图作者:bart地图翻译:余清茗染@Fys" 
-  },
-  "Door will open in 15 seconds": {
-    "translation": "门将在15秒后开启" 
-  },
   "Spawn teleport will activate in 20 seconds": {
     "translation": "未进入门的玩家将在20秒后进行传送" 
   },
   "Hold for 45 seconds": {
     "translation": "道路将在45秒后开启" 
-  },
-  "Guard door is open, fall back": {
-    "translation": "道路已开通,撤退" 
   },
   "Squirtle is attacking us": {
     "translation": "是一只杰尼龟" 
@@ -303,9 +235,6 @@
   },
   "Gym is open!": {
     "translation": "道路已开通,撤退" 
-  },
-  "Hold for 30 seconds": {
-    "translation": "桥将在30秒后关闭" 
   },
   "Sabrina is challenging you": {
     "translation": "萨布丽娜在挑战你" 

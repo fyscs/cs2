@@ -24,7 +24,7 @@
   "Counters": [
     {
       "iterator": "math_counter",
-      "display": "Boss",
+      "display": "Boss"
     }
   ]
 }

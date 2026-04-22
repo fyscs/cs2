@@ -24,11 +24,11 @@
   "Breakables": [
     {
       "target": "Mode_8_Chaos_Box",
-      "display": "Chaos",
+      "display": "Chaos"
     },
     {
       "target": "Mode_12_Sephiroth_Box",
-      "display": "Sephiroth",
+      "display": "Sephiroth"
     },
     {
       "target": "Mode_5_Genesis_Box",
@@ -36,7 +36,7 @@
     },
     {
       "target": "St2_Byakko_Final_Hitbox",
-      "display": "Byakko",
+      "display": "Byakko"
     },
     {
       "target": "Mode_7_Zodiark_Box",
@@ -44,7 +44,7 @@
     },
     {
       "target": "Mode_1_Bahamut_Box",
-      "display": "Bahamut",
+      "display": "Bahamut"
     },
     {
       "target": "Mode_2_Sephiroth_Box",

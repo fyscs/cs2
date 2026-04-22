@@ -33,19 +33,19 @@
   "Breakables": [
     {
       "target": "moray_breakable",
-      "display": "魔鳗",
+      "display": "魔鳗"
     },
     {
       "target": "kamek_health",
-      "display": "卡美克",
+      "display": "卡美克"
     },
     {
       "target": "whomp_king_breakable",
-      "display": "石像怪",
+      "display": "石像怪"
     },
     {
       "target": "bomp_breakable",
-      "display": "炸弹王",
+      "display": "炸弹王"
     }
   ],
   "Monsters": [
