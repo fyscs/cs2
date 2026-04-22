@@ -1,7 +1,10 @@
 * text=auto
 
+*.ts    eol=lf
+*.kv    eol=lf
+*.md    eol=lf
 *.cfg   eol=lf
 *.txt   eol=lf
-*.kv    eol=lf
+*.fgd   eol=lf
 *.json  eol=lf
 *.jsonc eol=lf
