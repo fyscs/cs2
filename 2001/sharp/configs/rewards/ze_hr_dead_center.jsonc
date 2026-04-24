@@ -1,6 +1,6 @@
 // Round Reward configuration file generator.
 // Reward Version v22
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -14,33 +14,33 @@
 {
   "1": {
     "rankPasses": 7,
-    "rankDamage": 20000,
+    "rankDamage": 24000,
     "rankIntern": 0.4,
     "econPasses": 5,
-    "econDamage": 22000,
+    "econDamage": 26000,
     "econIntern": 0.3
   },
   "2": {
-    "rankPasses": 10,
-    "rankDamage": 20000,
+    "rankPasses": 7,
+    "rankDamage": 24000,
     "rankIntern": 0.6,
-    "econPasses": 6,
-    "econDamage": 22000,
+    "econPasses": 5,
+    "econDamage": 26000,
     "econIntern": 0.4
   },
   "3": {
-    "rankPasses": 10,
-    "rankDamage": 20000,
+    "rankPasses": 7,
+    "rankDamage": 26000,
     "rankIntern": 0.6,
-    "econPasses": 6,
-    "econDamage": 22000,
+    "econPasses": 5,
+    "econDamage": 30000,
     "econIntern": 0.4
   },
   "4": {
     "rankPasses": 12,
     "rankDamage": 18000,
     "rankIntern": 0.65,
-    "econPasses": 7,
+    "econPasses": 6,
     "econDamage": 20000,
     "econIntern": 0.45
   },

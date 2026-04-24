@@ -1,6 +1,6 @@
 // Console SayText i18n file generator.
 // i18n Version v21
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -193,9 +193,6 @@
   },
   "EXTREME MODE - Discover the Garamsythe Waterway. WARNING - Esper.": {
     "translation": "EX模式 - 探索加兰塞斯水道 - Esper."
-  },
-  "**THE TOMB GATES WILL OPEN IN 20 SECONDS**": {
-    "translation": "墓穴大门将在20秒后打开"
   },
   "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**": {
     "translation": "**人类获得电(Lv.1)**"

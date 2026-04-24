@@ -1,6 +1,6 @@
 // BossHP configuration file generator.
 // Boss Version v23
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -21,18 +21,35 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
+  "Counters": [
+    {
+      "iterator": "Stage2_Boss_Hp_Counter",
+      "counter": "Stage2_Boss_Hp_Counter_Bar",
+      "mass": 50,
+      "hitbox": "Stage2_Boss_Physbox",
+      "display": "Duck"
+    }
+  ],
   "Monsters": [
     {
-      "identity": "2695",
-      "display": "Duckk"
-    },
-    {
-      "display": "Break1",
+      "display": "触发",
       "identity": "2911"
     },
     {
-      "display": "Break2",
+      "display": "触发",
       "identity": "2912"
+    },
+    {
+      "display": "水龙头",
+      "identity": "4123"
+    },
+    {
+      "display": "小鸭",
+      "identity": "2833"
+    },
+    {
+      "display": "小鸭",
+      "identity": "2676"
     }
   ]
 }

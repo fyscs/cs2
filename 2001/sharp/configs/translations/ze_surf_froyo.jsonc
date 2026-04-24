@@ -1,0 +1,307 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "▲A TRAVELLER HAS PICKED ROAR CRYSTAL▲": {
+    "translation": "一位旅行者拾取了咆哮水晶"
+  },
+  "▲A TRAVELLER HAS PICKED SHOCK RING▲": {
+    "translation": "一位旅行者拾取了冲击戒指"
+  },
+  "▲A ZOMBIE HAS PICKED FEAR CRYSTAL▲": {
+    "translation": "一只僵尸拾取了恐惧水晶"
+  },
+  "▲A ZOMBIE HAS PICKED HEALTH CRYSTAL▲": {
+    "translation": "一只僵尸拾取了生命水晶"
+  },
+  "▲A TRAVELLER HAS PICKED UNKNOWN CRYSTAL▲": {
+    "translation": "一位旅行者拾取了未知水晶"
+  },
+  "▲A TRAVELLER HAS PICKED LIGHTWALL CRYSTAL▲": {
+    "translation": "一位旅行者拾取了光墙水晶"
+  },
+  "▲A TRAVELLER HAS PICKED SNOWSTORM CRYSTAL▲": {
+    "translation": "一位旅行者拾取了暴风雪水晶"
+  },
+  "▲A TRAVELLER HAS PICKED BOSS STAR'S ULTIMATE: WAVE▲": {
+    "translation": "一位旅行者拾取了Boss Star的终极技能:波浪"
+  },
+  "▲A TRAVELLER HAS PICKED HALO CRYSTAL▲": {
+    "translation": "一位旅行者拾取了光环水晶"
+  },
+  "▲A TRAVELLER HAS PICKED BOSS FROYO'S ULTIMATE: BLAST▲": {
+    "translation": "一位旅行者拾取了Boss Froyo的终极技能:爆炸"
+  },
+  "▲TELEPORT ALL ZOMBIES▲": {
+    "translation": "传送所有僵尸"
+  },
+  "▲ZOMBIES WILL COME IN 10 SECONDS▲": {
+    "translation": "僵尸将在10秒后出现"
+  },
+  "▲ADMIN CHOOSES BOSS STAR IN NEXT ROUND▲": {
+    "translation": "管理员在下一轮选择了Boss Star"
+  },
+  "▲HOLD FOR 25 SECONDS▲": {
+    "translation": "坚持25秒"
+  },
+  "▲5 SECONDS LEFT▲": {
+    "translation": "剩余5秒"
+  },
+  "▲ADMIN CHOOSES NORMAL IN NEXT ROUND▲": {
+    "translation": "管理员在下一轮选择了普通模式"
+  },
+  "▲BOSS STAR WILL APPEAR IN 20 SECONDS▲": {
+    "translation": "Boss Star将在20秒后出现"
+  },
+  "▲THE TELEPORTION CRYSTAL WILL BE ACTIVE IN 60 SECONDS▲": {
+    "translation": "传送水晶将在60秒后激活"
+  },
+  "▲THE TELEPORTION CRYSTAL IS ACTIVE▲": {
+    "translation": "传送水晶已激活"
+  },
+  "▲ADMIN CHOOSES BOSS STAR II IN NEXT ROUND▲": {
+    "translation": "管理员在下一轮选择了Boss Star II"
+  },
+  "▲ADMIN CHOOSES HARD IN NEXT ROUND▲": {
+    "translation": "管理员在下一轮选择了困难模式"
+  },
+  "▲THE PLATFORM WILL MOVE IN 35 SECONDS▲": {
+    "translation": "平台将在35秒后移动"
+  },
+  "▲THE BOAT WILL MOVE IN 60 SECONDS▲": {
+    "translation": "船将在60秒后移动"
+  },
+  "▲THE BOAT WILL MOVE IN 30 SECONDS▲": {
+    "translation": "船将在30秒后移动"
+  },
+  "▲PLANE 1 WILL MOVE IN 25 SECONDS▲": {
+    "translation": "飞机1将在25秒后移动"
+  },
+  "▲GREAT!THE TELEPORTION CRYSTAL IS ACTIVE▲": {
+    "translation": "太棒了!传送水晶已激活"
+  },
+  "▲PLANE 3 WILL MOVE IN 25 SECONDS▲": {
+    "translation": "飞机3将在25秒后移动"
+  },
+  "▲BOSS FROYO WILL APPEAR IN 30 SECONDS▲": {
+    "translation": "Boss Froyo将在30秒后出现"
+  },
+  "▲PLANE 2 WILL MOVE IN 25 SECONDS▲": {
+    "translation": "飞机2将在25秒后移动"
+  },
+  "▲ZOMBIES WILL COME IN 15 SECONDS▲": {
+    "translation": "僵尸将在15秒后出现"
+  },
+  "▲WOOD WILL BREAK IN 30 SECONDS▲": {
+    "translation": "木头将在30秒后断裂"
+  },
+  "▲BOX WILL BREAK IN 10 SECONDS▲": {
+    "translation": "箱子将在10秒后破碎"
+  },
+  "▲FIND AND TOUCH THE STAR▲": {
+    "translation": "找到并触碰星星"
+  },
+  "▲WAIT FOR 10 SECONDS UNTIL THE BOX BREAKS▲": {
+    "translation": "等待10秒直到箱子破碎"
+  },
+  "▲BRIDGE CAN PASS THROUGH IN 5 SECONDS▲": {
+    "translation": "桥梁将在5秒后可通过"
+  },
+  "▲BRIDGE CAN PASS THROUGH IN 25 SECONDS▲": {
+    "translation": "桥梁将在25秒后可通过"
+  },
+  "▲HOLD HERE FOR 30 SECONDS▲": {
+    "translation": "在此坚持30秒"
+  },
+  "▲ADMIN CHOOSES LASER IN NEXT ROUND▲": {
+    "translation": "管理员在下一轮选择了激光"
+  },
+  "▲ADMIN CHOOSES INITIAL IN NEXT ROUND▲": {
+    "translation": "管理员在下一轮选择了初始模式"
+  },
+  "▲WAIT FOR 40 SECONDS UNTIL THE BOX BREAKS▲": {
+    "translation": "等待40秒直到箱子破碎"
+  },
+  "▲WELL!TELEPORTION WILL BE ACTIVE IN 60 SECONDS▲": {
+    "translation": "很好!传送将在60秒后激活"
+  },
+  "▲TELEPORTION IS ACTIVE!GO AHEAD,TRAVELLERS▲": {
+    "translation": "传送已激活!前进吧,旅行者们"
+  },
+  "▲ADMIN CHOOSES BOSS FROYO IN NEXT ROUND▲": {
+    "translation": "管理员在下一轮选择了Boss Froyo"
+  },
+  "▲INITIALIZING FROYO WORLD IN 3 SECONDS▲": {
+    "translation": "Froyo世界正在初始化,3秒"
+  },
+  "▲INITIALIZING FROYO WORLD IN 2 SECONDS▲": {
+    "translation": "Froyo世界正在初始化,2秒"
+  },
+  "▲INITIALIZING FROYO WORLD IN 1 SECOND▲": {
+    "translation": "Froyo世界正在初始化,1秒"
+  },
+  "▲YOU TRAVELLERS MUST TRAVEL AROUND THE INITIAL FROYO WORLD▲": {
+    "translation": "你们旅行者必须在初始的Froyo世界周围旅行"
+  },
+  "▲THEN YOU CAN EXPLORE MORE AND MORE DIFFERENT FROYO WORLDS▲": {
+    "translation": "然后你们可以探索越来越多不同的Froyo世界"
+  },
+  "▲INITIAL▲": {
+    "translation": "初始"
+  },
+  "▲WOOD BOX WILL BREAK IN 30 SECONDS▲": {
+    "translation": "木箱将在30秒后破碎"
+  },
+  "▲WOOD BOX WILL BREAK IN 5 SECONDS▲": {
+    "translation": "木箱将在5秒后破碎"
+  },
+  "▲BOX WILL BREAK IN 20 SECONDS▲": {
+    "translation": "箱子将在20秒后破碎"
+  },
+  "▲PRESS THE BUTTON AND ACTIVATE TELEPORTION▲": {
+    "translation": "按下按钮并激活传送"
+  },
+  "▲WELL!IF THE COUNT OF TRAVELLERS IS LESS THAN HALF,ALL ZOMBIES WILL BE TELEPORTED IN 40 SECONDS▲": {
+    "translation": "很好!如果旅行者数量少于一半,所有僵尸将在40秒后被传送"
+  },
+  "▲YOU HAVE 60 SECONDS TO FIGHT BOSS STAR▲": {
+    "translation": "你有60秒时间对抗Boss星"
+  },
+  "▲YOU HAVE 90 SECONDS TO FIGHT BOSS STAR▲": {
+    "translation": "你有90秒时间对抗Boss星"
+  },
+  "▲YOU HAVE 30 SECONDS TO FIGHT BOSS STAR▲": {
+    "translation": "你有30秒时间对抗Boss星"
+  },
+  "▲BOSS STAR▲": {
+    "translation": "BOSS星"
+  },
+  "▲LASER▲": {
+    "translation": "激光"
+  },
+  "▲BOSS FROYO▲": {
+    "translation": "酸奶"
+  },
+  "▲YOU HAVE 60 SECONDS TO FIGHT BOSS FROYO▲": {
+    "translation": "你有60秒时间对抗Boss Froyo"
+  },
+  "▲YOU HAVE 30 SECONDS TO FIGHT BOSS FROYO▲": {
+    "translation": "你有30秒时间对抗Boss Froyo"
+  },
+  "▲HARD▲": {
+    "translation": "困难"
+  },
+  "▲BOSS STAR II▲": {
+    "translation": "Boss Star II"
+  },
+  "▲WAIT FOR 120S OR COMPLETE LAST SURF TO ACTIVATE THE TELEPORTION CRYSTAL▲": {
+    "translation": "等待120秒或完成上次冲浪以激活传送水晶"
+  },
+  "▲WARM UP ROUND▲": {
+    "translation": "热身回合"
+  },
+  "▲WELCOME TO FROYO WORLD▲": {
+    "translation": "欢迎来到Froyo世界"
+  },
+  "▲MAP BY 酸奶▲": {
+    "translation": "地图作者:酸奶"
+  },
+  "▲PORT BY Charlie AND 酸奶▲": {
+    "translation": "移植佬:Charlie@龙哥 酸奶 文本:白姬"
+  },
+  "▲LET'S ENJOY A FANTASTIC TRIP▲": {
+    "translation": "让我们享受一段奇妙的旅程"
+  },
+  "▲GENERATING FROYO WORLD IN 1 SECOND▲": {
+    "translation": "正在生成Froyo世界,1秒"
+  },
+  "▲GENERATING FROYO WORLD IN 2 SECONDS▲": {
+    "translation": "正在生成Froyo世界,2秒"
+  },
+  "▲GENERATING FROYO WORLD IN 3 SECONDS▲": {
+    "translation": "正在生成Froyo世界,3秒"
+  },
+  "▲30 SECONDS LEFT▲": {
+    "translation": "剩余30秒"
+  },
+  "▲HOLD FOR 40 SECONDS▲": {
+    "translation": "坚持40秒"
+  },
+  "▲ZOMBIES WILL COME IN 20 SECONDS▲": {
+    "translation": "僵尸将在20秒后出现"
+  },
+  "▲HOLD FOR 60 SECONDS▲": {
+    "translation": "坚持60秒"
+  },
+  "▲ALL ZOMBIES WILL BE TELEPORTED IN 10 SECONDS▲": {
+    "translation": "所有僵尸将在10秒后被传送"
+  },
+  "▲WOOD DOOR WILL OPEN IN 10 SECONDS▲": {
+    "translation": "木门将在10秒后打开"
+  },
+  "▲FIND AND TOUCH THE FROYO▲": {
+    "translation": "找到并触碰Froyo"
+  },
+  "▲ZOMBIES! FEEL FROYO'S FORCE! BALABALA...▲": {
+    "translation": "僵尸们!感受Froyo的力量!巴拉巴拉..."
+  },
+  "▲CONGRATULATIONS!TRAVELLERS SUCCEED▲": {
+    "translation": "恭喜!旅行者成功了"
+  },
+  "▲4 SECONDS LEFT▲": {
+    "translation": "剩余4秒"
+  },
+  "▲3 SECONDS LEFT▲": {
+    "translation": "剩余3秒"
+  },
+  "▲2 SECONDS LEFT▲": {
+    "translation": "剩余2秒"
+  },
+  "▲1 SECOND LEFT▲": {
+    "translation": "剩余1秒"
+  },
+  "▲30 SECONDS LEFT TO WIN▲": {
+    "translation": "30秒后美美吃分"
+  },
+  "▲10 SECONDS LEFT TO WIN▲": {
+    "translation": "10秒后美美吃分"
+  },
+  "▲HOLD FROYO FOR 30 SECONDS▲": {
+    "translation": "在Froyo处坚持30秒"
+  },
+  "▲PRESS THE RED BUTTON AND ENTER THE CASTLE▲": {
+    "translation": "按下红色按钮并进入城堡"
+  },
+  "▲YOU HAVE 120 SECONDS TO FIGHT BOSS STAR▲": {
+    "translation": "你有120秒时间对抗BOSS星"
+  },
+  "▲HEGRENADE CAN GIVE BOSS STAR MORE DAMAGE▲": {
+    "translation": "高爆手雷可以对BOSS星造成更多伤害"
+  },
+  "▲ZOMBIES WILL COME IN 8 SECONDS▲": {
+    "translation": "僵尸将在8秒后出现"
+  },
+  "▲WELL! BOSS STAR WAS DEFEATED! THE STAR PLATFORM WILL RISE IN 10 SECONDS▲": {
+    "translation": "很好!Boss Star被击败了!星平台将在10秒后升起"
+  },
+  "▲NORMAL▲": {
+    "translation": "普通"
+  },
+  "▲YOU HAVE 90 SECONDS TO FIGHT BOSS FROYO▲": {
+    "translation": "你有90秒时间对抗Boss Froyo"
+  },
+  "▲WELL! BOSS FROYO WAS DEFEATED▲": {
+    "translation": "很好!Boss Froyo被击败了"
+  },
+  "▲THE COUNT OF TRAVELLERS IS MORE THAN HALF,ALL ZOMBIES WILL BE TELEPORTED IN 20 SECONDS▲": {
+    "translation": "旅行者数量超过一半,所有僵尸将在20秒后被传送"
+  }
+}

@@ -1,6 +1,6 @@
 // BossHP configuration file generator.
 // Boss Version v23
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -36,7 +36,7 @@
       "iterator": "s3_boss_health_counter",
       "hitbox": "s3_boss_model",
       "display": "Boss"
-    },
+    }
   ],
   "Monsters": [
     {

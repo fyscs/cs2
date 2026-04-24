@@ -1,6 +1,6 @@
 // BossHP configuration file generator.
 // Boss Version v23
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -31,17 +31,11 @@
     },
     {
       "iterator": "lvl2_Gi_Nattak_Counter",
-      "hitbox": "lvl2_Boss_Hitbox",
       "display": "Boss"
     },
     {
-      "iterator": "Hellz_Genesis_End_Phy",
-      "hitbox": "Hellz_Genesis_End_Counter",
-      "display": "Boss"
-    },
-    {
-      "iterator": "lvl3_end_boss",
-      "hitbox": "lvl2_Gi_Nattak_Counter",
+      "iterator": "Hellz_Genesis_End_Counter",
+      "hitbox": "Hellz_Genesis_End_Phy",
       "display": "Boss"
     },
     {
@@ -56,7 +50,7 @@
     },
     {
       "iterator": "Chocobo_End_Counter",
-      "hitbox": "Chocobo_End_Counter",
+      "hitbox": "Chocobo_End_Hitbox",
       "display": "Boss"
     }
   ]

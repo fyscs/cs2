@@ -1,6 +1,6 @@
 // Console SayText i18n file generator.
 // i18n Version v21
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -214,10 +214,10 @@
     "countdown": 33
   },
   "-- 85 --": {
-    "translation": "-- 85 --",
+    "translation": "-- 85 --"
   },
   "-- 50 --": {
-    "translation": "-- 50 --",
+    "translation": "-- 50 --"
   },
   "-- STAGE I - EASY MODE --": {
     "translation": "-- 第一关-简单 --"

@@ -1,6 +1,6 @@
 // Console SayText i18n file generator.
 // i18n Version v21
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -131,7 +131,7 @@
     "translation": "** 40秒后打开井口 **"
   },
   "** Pit is opening in 20s **": {
-    "translation": "** 20秒后打开井口 **",
+    "translation": "** 20秒后打开井口 **"
   },
   "** Nicely done! You got the correct combination! **": {
     "translation": "** 做得好,钥匙被放在了正确的位置上! **"

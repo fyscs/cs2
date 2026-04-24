@@ -1,0 +1,64 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "The underground warehouse door opens in 30s.": {
+    "translation": "地下仓库的门将在30秒后打开."
+  },
+  "The door closes in 25s.": {
+    "translation": "25秒后门关."
+  },
+  "Laser game begins in 45s.": {
+    "translation": "45秒后鸡爽跳刀"
+  },
+  "Obstacle breaks in 10s,": {
+    "translation": "障碍物将在10秒后损坏,"
+  },
+  "The right iron plate has been opened.": {
+    "translation": "右侧铁门已打开."
+  },
+  "Zombies will be teleported in 10s.": {
+    "translation": "僵尸将在10秒后被传送."
+  },
+  "Oh, no. Gas leaks.We have to squat through this area.": {
+    "translation": "哦,不.煤气泄漏.我们必须蹲着通过这里."
+  },
+  "There is a switch at the end to turn off the gas.": {
+    "translation": "前方有个安全阀门,去关闭它"
+  },
+  "The door opens in 10s,": {
+    "translation": "大门:10秒"
+  },
+  "The ventilation pipe has been closed. Come on.": {
+    "translation": "警报解除"
+  },
+  "The elevator starts in 30s.": {
+    "translation": "电梯:30秒"
+  },
+  "Zombies will be teleported in 5s.": {
+    "translation": "僵尸传送:10秒"
+  },
+  "Map by 蛋疼小青年": {
+    "translation": "地图作者: 蛋疼小青年 文本:Zeyu1@白姬"
+  },
+  "Port by Charlie": {
+    "translation": "移植: Charlie@龙哥"
+  },
+  "This button is powered off. We must turn on the power.": {
+    "translation": "等待电力重启"
+  },
+  "The switch is behind crate on the left.": {
+    "translation": "开关在箱子的后面"
+  },
+  "Okay, now we can press the elevator button.": {
+    "translation": "电力重启,电梯恢复运行"
+  }
+}

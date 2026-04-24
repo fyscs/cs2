@@ -1,6 +1,6 @@
 // BossHP configuration file generator.
 // Boss Version v23
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -33,19 +33,19 @@
   "Breakables": [
     {
       "target": "moray_breakable",
-      "display": "魔鳗",
+      "display": "魔鳗"
     },
     {
       "target": "kamek_health",
-      "display": "卡美克",
+      "display": "卡美克"
     },
     {
       "target": "whomp_king_breakable",
-      "display": "石像怪",
+      "display": "石像怪"
     },
     {
       "target": "bomp_breakable",
-      "display": "炸弹王",
+      "display": "炸弹王"
     }
   ],
   "Monsters": [

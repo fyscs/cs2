@@ -1,0 +1,58 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+// 可用字段:
+// [Boss (Breakables/Counters)]
+// display    (string)   -> 显示的名称
+// hitbox     (string)   -> 打击框
+// stages     (int)      -> 阶段数
+// target     (string)   -> 目标名称 (Breakable only)
+// count      (int)      -> 血条格数 (Breakable only)
+// iterator   (string)   -> 计数器 (MathCounter only)
+// backup     (string)   -> 后备计数器 (MathCounter only)
+// mass       (int)      -> 后备算法参数 (MathCounter only)
+// counter    (string)   -> 血条计数器 (MathCounter only)
+// increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+// reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+// [Npc (Monsters)]
+// display    (string)   -> 显示的名称
+// identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+{
+  "Counters": [
+    {
+      "iterator": "genesis_health",
+      "hitbox": "Ifrit_Phys_Body",
+      "display": "杰内西斯"
+    },
+    {
+      "iterator": "lvl2_Gi_Nattak_Counter",
+      "display": "蹦蹦炸弹"
+    },
+    {
+      "iterator": "gi_nattak_health",
+      "hitbox": "Boss_Hitbox",
+      "display": "吉纳塔克"
+    },
+    {
+      "iterator": "Shinra_Ifrit_Counter",
+      "hitbox": "Shinra_Ifrit_Phys",
+      "display": "伊芙利特"
+    },
+    {
+      "iterator": "Shinra_Jenova_Counter",
+      "hitbox": "Shinra_Jenova_Phys",
+      "display": "杰内瓦"
+    },
+    {
+      "iterator": "Shinra_Shiva_Counter",
+      "hitbox": "Shinra_Shiva_Phys",
+      "display": "希瓦"
+    },
+    {
+      "iterator": "Genesis_Counter",
+      "hitbox": "lvl4_end_boss",
+      "display": "杰内西斯"
+    }
+  ]
+}

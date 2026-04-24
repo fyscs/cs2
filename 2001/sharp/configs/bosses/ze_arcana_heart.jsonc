@@ -1,6 +1,6 @@
 // BossHP configuration file generator.
 // Boss Version v23
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -44,6 +44,12 @@
       "reverse": true,
       "hitbox": "Boss_S4_Hitbox",
       "display": "HEART"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "765",
+      "display": "S2_End"
     }
   ]
 }

@@ -1,6 +1,6 @@
 // Console SayText i18n file generator.
 // i18n Version v21
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -253,13 +253,13 @@
     "translation": "**前往传送阵!**"
   },
   ">>The rock will break in 15 seconds<<": {
-    "translation": "**岩石将在15秒后破碎**",
+    "translation": "**岩石将在15秒后破碎**"
   },
   ">>The rock will break in 25 seconds<<": {
-    "translation": "**岩石将在25秒后破碎**",
+    "translation": "**岩石将在25秒后破碎**"
   },
   ">>The rock will break in 30 seconds<<": {
-    "translation": "**岩石将在30秒后破碎**",
+    "translation": "**岩石将在30秒后破碎**"
   },
   ">>The rock will break in 40 seconds<<": {
     "translation": "**岩石将在40秒后破碎**"
@@ -352,9 +352,6 @@
     "translation": ">>还剩10秒.<<",
     "blocked": true
   },
-  ">>Come out of the Palace and defend the zombies<<": {
-    "translation": ">>走出宫殿,守住僵尸<<"
-  },
   ">>The elevator will leave in 5 seconds<<": {
     "translation": ">>电梯将在5秒后离开<<"
   },
@@ -369,5 +366,5 @@
   },
   ">>THE SIDE DOOR WILL OPEN IN 10 SECONDS<<": {
     "translation": ">>侧路的门将在10秒后打开<<"
-  },
+  }
 }

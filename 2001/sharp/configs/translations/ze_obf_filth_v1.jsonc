@@ -1,6 +1,6 @@
 // Console SayText i18n file generator.
 // i18n Version v21
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -65,7 +65,7 @@
     "translation": "<工厂电源在重启了!>"
   },
   "<大概要60秒恢复电力.>": {
-    "translation": "<大概要60秒恢复电力.>",
+    "translation": "<大概要60秒恢复电力.>"
   },
   "<士兵们,死守阵线!.>": {
     "translation": "<士兵们,死守阵线!.>"
@@ -435,5 +435,5 @@
   },
   "<正在重启电梯..>": {
     "translation": "<正在重启电梯..>"
-  },
+  }
 }

@@ -7,7 +7,7 @@
 
 ## 服务器配置仓库 (Counter-Strike 2)
 
-Copyright © 2019-2025 FyS. ALL RIGHTS RESERVED.
+Copyright © 2019-2026 FyS. ALL RIGHTS RESERVED.
 <br />
 
 ## 管理员说明

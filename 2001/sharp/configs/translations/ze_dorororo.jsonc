@@ -1,6 +1,6 @@
 // Console SayText i18n file generator.
 // i18n Version v21
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -163,10 +163,10 @@
     "translation": "生存150秒"
   },
   "生存90秒": {
-    "translation": "生存90秒",
+    "translation": "生存90秒"
   },
   "生存30秒": {
-    "translation": "生存30秒",
+    "translation": "生存30秒"
   },
   "*重力恢复*": {
     "translation": "重力恢复"

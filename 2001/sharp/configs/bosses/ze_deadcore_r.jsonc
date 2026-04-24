@@ -1,6 +1,6 @@
 // BossHP configuration file generator.
 // Boss Version v23
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -47,6 +47,10 @@
     {
       "identity": "991",
       "display": "NPC"
+    },
+    {
+      "identity": "804",
+      "display": "Crystal"
     }
   ]
 }

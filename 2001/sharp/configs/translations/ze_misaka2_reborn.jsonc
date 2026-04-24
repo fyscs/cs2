@@ -1,6 +1,6 @@
 // Console SayText i18n file generator.
 // i18n Version v21
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -253,7 +253,7 @@
     "translation": "20秒后传送"
   },
   "<< AFK Teleport in 10 seconds >>": {
-    "translation": "挂机者将在10秒后传送",
+    "translation": "挂机者将在10秒后传送"
   },
   "** Something will happen in 20 seconds **": {
     "translation": "20秒后会发生某些事情.."
@@ -295,7 +295,7 @@
     "translation": "安下C4,然后马上离开!!!"
   },
   "<< AFK teleport in 10>>": {
-    "translation": "挂机者将在10秒后传送",
+    "translation": "挂机者将在10秒后传送"
   },
   "** C4 will explode in 20 seconds **": {
     "translation": "C4将在20秒后引爆"

@@ -1,6 +1,6 @@
 // Console SayText i18n file generator.
 // i18n Version v21
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -29,7 +29,7 @@
     "translation": "蛙趣!反应堆已失控,快离开这里!"
   },
   "***Defend this position 20 sec***": {
-    "translation": "在这里守20秒",
+    "translation": "在这里守20秒"
   },
   "***Shit ! the door is blocked ! Hold this position***": {
     "translation": "靠!门锁上了!守住这里!"

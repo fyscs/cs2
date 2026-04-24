@@ -1,6 +1,6 @@
 // BossHP configuration file generator.
 // Boss Version v23
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -31,17 +31,17 @@
     },
     {
       "iterator": "stage2_track_counter",
-      "hitbox": "stage2_track_breakable"
+      "hitbox": "stage2_track_breakable",
+      "display": "Yellow"
     },
     {
       "iterator": "s5_sphere_boss_counter",
-      "hitbox": "s5_sphereboss_breakables",
-      "display": "Ball⑤"
-    }
-  ],
-  "Monsters": [
+      "hitbox": "s5_sphereboss_breakable",
+      "display": "Ball_5th"
+    },
     {
-      "identity": "4471",
+      "iterator": "niveau5_track_counter",
+      "hitbox": "niveau5_track_breakable",
       "display": "Purple"
     }
   ]

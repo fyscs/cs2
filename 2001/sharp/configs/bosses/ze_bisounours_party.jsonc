@@ -1,6 +1,6 @@
 // BossHP configuration file generator.
 // Boss Version v23
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -24,11 +24,11 @@
   "Breakables": [
     {
       "target": "Pedobear_lvl1",
-      "display": "熊大",
+      "display": "熊大"
     },
     {
       "target": "Pedobear_lvl2",
-      "display": "熊大大",
+      "display": "熊大大"
     }
   ]
 }

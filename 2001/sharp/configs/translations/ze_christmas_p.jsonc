@@ -1,6 +1,6 @@
 // Console SayText i18n file generator.
 // i18n Version v21
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -182,9 +182,6 @@
   },
   "***Plant the C4 to blow the way***": {
     "translation": ">>***安放C4炸弹炸掉这条路***<<"
-  },
-  "**Level completed**": {
-    "translation": ">>**关卡已完成**<<"
   },
   "***Defend! Something is coming!***": {
     "translation": ">>***防守!有些东西要来了!***<<"
