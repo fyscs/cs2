@@ -1079,24 +1079,6 @@
   "PRTS:The tools collected during the expedition have been organized in the left-hand room. It's advisable to take inventory before heading out": {
     "translation": "PRTS:远征期间收集的工具已整理在左侧房间,建议出发前清点"
   },
-  "Welcome to ze_arknights_caerula_arbor": {
-    "translation": "ze_arknights_caerula_arbor 文本:Zeyu1"
-  },
-  "The round you are currently in is the warm-up round": {
-    "translation": "当前是热身回合"
-  },
-  "When you feel boring,you can try to drink some hot water": {
-    "translation": "当你感到无聊时,可以喝点热水"
-  },
-  "If you're in offline mode, use the console command to reset the round and start the first level": {
-    "translation": "离线模式请使用控制台命令 重置回合并开始第一关"
-  },
-  "At last,wish you enjoy your trip": {
-    "translation": "最后,祝你旅途愉快"
-  },
-  "ex模式已开启，祝你好运!": {
-    "translation": "ex模式已开启,祝你好运!"
-  },
   "Originium coins +2": {
     "translation": "源石锭+2"
   },
@@ -1913,9 +1895,6 @@
   "Dice rolls a 6! Zombie movement speed reduced to 0.4 for 8s;reset cooldowns for all human items: Heal1, Ice, Slow, and True Sight": {
     "translation": "骰子掷出<6>,僵尸移动速度降低,重置人类物品冷却"
   },
-  "第一层已通过，额外获得6源石锭": {
-    "translation": "第一层已通过,额外获得6源石锭"
-  },
   "Zombies will teleport in 30s": {
     "translation": "僵尸将在30s后传送"
   },
@@ -2186,9 +2165,6 @@
   },
   "Isharmla has exited its evolved form and entered the final phase.": {
     "translation": "伊莎玛拉已退出进化形态并进入最终阶段"
-  },
-  "boss难度-2": {
-    "translation": "boss难度-2"
   },
   "已集齐3个魔王类藏品": {
     "translation": "已集齐3个魔王类藏品"

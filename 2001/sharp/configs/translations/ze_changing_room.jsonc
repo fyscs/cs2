@@ -121,29 +121,11 @@
   "**  这个好像卡住了 **": {
     "translation": "这个好像卡住了"
   },
-  "**  wait 45s **": {
-    "translation": "等待45秒"
-  },
   "** This seems to be stuck. **": {
     "translation": "这个好像卡住了"
   },
   "**  wait 40s  **": {
     "translation": "等待40秒"
-  },
-  "**  wait 30s  **": {
-    "translation": "等待30秒"
-  },
-  "**  wait 35s **": {
-    "translation": "等待35秒"
-  },
-  "**  wait 25s **": {
-    "translation": "等待25秒"
-  },
-  "**  圣诞老人请你吃披萨  **": {
-    "translation": "圣诞老人请你吃披萨"
-  },
-  "**  Santa Claus invites you to eat pizza  **": {
-    "translation": "圣诞老人请你吃披萨"
   },
   "**  model by Luffaren  **": {
     "translation": "由Luffaren提供模型ohye!~"
@@ -172,29 +154,14 @@
   "** wall **": {
     "translation": "墙"
   },
-  "**  黄天谴来杀你全家了  **": {
-    "translation": "黄天谴来杀你全家了  **"
-  },
-  "**  Heaven will punish you and come to kill your entire family  **": {
-    "translation": "黄天谴来杀你全家了"
-  },
   "**  wait 40s **": {
     "translation": "等待40秒"
-  },
-  "**  wait 25s **": {
-    "translation": "等待25秒"
   },
   "**  wait 55s **": {
     "translation": "等待55秒"
   },
   "**  wait 50s **": {
     "translation": "等待50秒"
-  },
-  "**  wait 30s  **": {
-    "translation": "等待30秒"
-  },
-  "**  wait 15s **": {
-    "translation": "等待15秒"
   },
   "**  wait 30s **": {
     "translation": "等待30秒"
@@ -205,14 +172,8 @@
   "**  史莱克发现了你在偷吃他的生日蛋糕！  **": {
     "translation": "史莱克发现了你在偷吃他的生日蛋糕!"
   },
-  "**  model by Luffaren  **": {
-    "translation": "由Luffaren提供模型ohye!~"
-  },
   "**  Shrek found you sneaking a bite of his birthday cake!  **": {
     "translation": "史莱克发现了你在偷吃他的生日蛋糕!"
-  },
-  "**  wait 35s **": {
-    "translation": "等待35秒"
   },
   "**  今天是蛋白粉折扣日，邪恶筋肉人成群结队的前去买蛋白粉  **": {
     "translation": "今天是蛋白粉折扣日,邪恶筋肉人成群结队的前去买蛋白粉"
@@ -249,11 +210,5 @@
   },
   "**   the Great Scythe  killed by you.  **": {
     "translation": "我去大镰刀居然被你打死了"
-  },
-  "**  model by Luffaren  **": {
-    "translation": "由Luffaren提供模型ohye!~"
-  },
-  "？？？": {
-    "translation": "???"
   }
 }
