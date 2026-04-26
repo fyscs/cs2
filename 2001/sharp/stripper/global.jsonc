@@ -24,9 +24,6 @@
     },
     // Bomb / Hostage
     {
-      "classname": "weapon_c4"
-    },
-    {
       "classname": "hostage_entity"
     },
     {
