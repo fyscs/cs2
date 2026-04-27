@@ -1,0 +1,145 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "maindoor opens in 25s": {
+    "translation": "主门25秒后打开"
+  },
+  "maindoor opens in 5s": {
+    "translation": "主门5秒后打开"
+  },
+  "maindoor opens in 15s": {
+    "translation": "主门15秒后打开"
+  },
+  "corridor opens in 20s": {
+    "translation": "走廊20秒后打开"
+  },
+  "corridor opens in 5s": {
+    "translation": "走廊5秒后打开"
+  },
+  "zombie teleport activated in 15s": {
+    "translation": "僵尸传送15秒后激活"
+  },
+  "a random door will open in 10s": {
+    "translation": "随机门10秒后打开"
+  },
+  "rightdoor opens in 30s": {
+    "translation": "右门30秒后打开"
+  },
+  "rightdoor opens in 5s": {
+    "translation": "右门5秒后打开"
+  },
+  "leftdoor opens in 30s": {
+    "translation": "左门30秒后打开"
+  },
+  "leftdoor opens in 5s": {
+    "translation": "左门5秒后打开"
+  },
+  "leftdoor opens in 25s": {
+    "translation": "左门25秒后打开"
+  },
+  "Teleport on the left activated in 10s": {
+    "translation": "左侧传送10秒后激活"
+  },
+  "rightdoor opens in 20s": {
+    "translation": "右门20秒后打开"
+  },
+  "Teleport on the right activated in 10s": {
+    "translation": "右侧传送10秒后激活"
+  },
+  "leftdoor opens in 20s": {
+    "translation": "左门20秒后打开"
+  },
+  "maindoor opens in 40s": {
+    "translation": "主门40秒后打开"
+  },
+  "maindoor opens in 50s": {
+    "translation": "主门50秒后打开"
+  },
+  "maindoor opens in 20s": {
+    "translation": "主门20秒后打开"
+  },
+  "maindoor opens in 30s": {
+    "translation": "主门30秒后打开"
+  },
+  "maindoor opens in 35s": {
+    "translation": "主门35秒后打开"
+  },
+  "Time to escape...": {
+    "translation": "该逃走了..."
+  },
+  "RUN!": {
+    "translation": "快跑!"
+  },
+  "The destination is within our reach": {
+    "translation": "目的地近在眼前"
+  },
+  "The final door opens in 15s": {
+    "translation": "最后的门15秒后打开"
+  },
+  "The final door opens in 5s": {
+    "translation": "最后的门5秒后打开"
+  },
+  "The final door opens in 10s": {
+    "translation": "最后的门10秒后打开"
+  },
+  "Survive for 30s!": {
+    "translation": "坚持30秒!"
+  },
+  "Survive for 20s!": {
+    "translation": "坚持20秒!"
+  },
+  "Survive for 10s!": {
+    "translation": "坚持10秒!"
+  },
+  "Survive for 5s!": {
+    "translation": "坚持5秒!"
+  },
+  "[ Clip happends in 15s ]": {
+    "translation": "Clip - 15秒"
+  },
+  "[ Clip happends in 10s ]": {
+    "translation": "Clip - 10秒"
+  },
+  "[ Clip happends in 5s ]": {
+    "translation": "Clip - 5秒"
+  },
+  "[ Map made by Lastims ]": {
+    "translation": "地图作者:Lastims 文本:Zeyu1"
+  },
+  "[ Please turn on the bgm and filters for the best experience ]": {
+    "translation": "请开启背景音乐和滤镜以获得最佳体验"
+  },
+  "[ Huge thanks to Waffel,ka9ura14,@Seth for their careful guidance! ]": {
+    "translation": "非常感谢Waffel,ka9ura14,Seth的细心指导!"
+  },
+  "rightdoor opens in 25s": {
+    "translation": "右门25秒后打开"
+  },
+  "maindoor opens in 10s": {
+    "translation": "主门10秒后打开"
+  },
+  "The path seems to be...separate?": {
+    "translation": "道路似乎...分开了?"
+  },
+  "sidedoor opens in 5s": {
+    "translation": "侧门5秒后打开"
+  },
+  "main door opens in 25s": {
+    "translation": "主门25秒后打开"
+  },
+  "main door opens in 5s": {
+    "translation": "主门5秒后打开"
+  },
+  "Is this the right destination?": {
+    "translation": "这是正确的目的地吗?"
+  }
+}
