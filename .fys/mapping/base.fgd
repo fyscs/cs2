@@ -442,6 +442,8 @@
 
 	// Inputs
 	input Break(void) : "Breaks the breakable."
+	input SetEnableBreaking(boolean) : "Sets whether or not the breakable can break."
+	input SetEnableCollisions(boolean) : "Sets whether or not the breakable has collision at all."
 	input SetHealth(integer) : "Sets a new value for the breakable's health. If the breakable's health reaches zero it will break."
 	input AddHealth(integer) : "Adds health to the breakable. If the breakable's health reaches zero it will break."
 	input RemoveHealth(integer) : "Removes health from the breakable. If the breakable's health reaches zero it will break."
@@ -1549,25 +1551,7 @@
 		32768: "Use Orientation for Custom Explosion" : 0
 	]
 
-	explosion_type(choices) : "Explosion Type" : "" : "" =
-	[
-		""					:	"Default"
-		"grenade"			:	"Grenade"
-		"molotov"			:	"Molotov"
-		"fireworks"			:	"Fireworks"
-		"gascan"			:	"Gasoline Can"
-		"gascylinder"		:	"Pressurized Gas Cylinder"
-		"explosivebarrel"	:	"Explosive Barrel"
-		"electrical"		:	"Electrical"
-		"emp"				:	"EMP"
-		"shrapnel"			:	"Shrapnel"
-		"smoke"				:	"Smoke Grenade"
-		"flashbang"			:	"Flashbang"
-		"tripmine"			:	"Tripmine"
-		"ice"				:	"Ice"
-		"none"				:	"None"
-		"custom"			:	"Custom"
-	]
+	explosion_type(vdata_choice:scripts/explosion_types.vdata) : "Explosion Type" : "" : ""
 	explosion_custom_effect(resource:particle) : "Custom Particle Effect"
 	explosion_custom_sound(sound) : "Custom Sound Effect" : ""
 
@@ -1628,6 +1612,8 @@
 	]
 
 	AffectInvulnerableEnts(boolean) : "Affect Invulnerable Ents" : "1" : "If true, also push entities that do not take damage (like func_physbox)"
+
+	DisablePushClamp(boolean) : "Disable Push Clamp" : "0" : "Disable clamping of push impulses (by default limits impulses that would move 75kg object more than 400 units-per-second)"
 
 	// Inputs
 	input Explode(void) : "Trigger the explosion."
@@ -3304,7 +3290,6 @@
 	input SetRotationDistance(float) : "Set the distance (in degrees) between Open and Closed."
 	input SetSpeed(float) : "Set the speed at which the door rotates. 100 is default."
 	input SetNoNPCs(boolean) : "Set whether NPCs can use this door or not."
-	input SetUnbreakable(void) : "Set Unbreakable."
 ]
 
 
@@ -4256,6 +4241,18 @@
 	output OnFail(void) : "Fired in response to TestActivator input if the activator fails to pass the filter."
 ]
 
+@FilterClass base(BaseFilter) iconsprite("editor/filter_team.vmat") = filter_activator_team :
+	"A filter that filters by the team of the activator."
+[
+	filterteam(choices) : "Filter Team Number" : 2 : "The team number to filter by.  If the filter mode is Allow, only entities whose "+
+		"team number matches the given team will pass the filter. If the filter mode is Disallow, "+
+		"all entities EXCEPT those whose team number matches the given team will pass the filter." =
+	[
+		2 : "Terrorist"
+		3 : "Counter-Terrorist"
+	]
+]
+
 @FilterClass base(BaseFilter) iconsprite("editor/filter_multiple.vmat") = filter_multi :
 	"A filter that tests the activator against multiple filters. This allows you to build more complex filters, such as"+
 	"'Allow anyone on Team 1 who is also class engineer', or 'Allow everyone except classes npc_zombie and npc_headcrab'."
@@ -4289,17 +4286,6 @@
 	input RemoveFilter(api)
 ]
 
-@FilterClass base(BaseFilter) size(-8 -8 -8, 8 8 8) = filter_activator_team :
-	"A filter that filters by the team of the activator."
-[
-	filterteam(choices) : "Filter Team Number" : 2 : "The team number to filter by.  If the filter mode is Allow, only entities whose "+
-		"team number matches the given team will pass the filter. If the filter mode is Disallow, "+
-		"all entities EXCEPT those whose team number matches the given team will pass the filter." =
-	[
-		2 : "Terrorist"
-		3 : "Counter-Terrorist"
-	]
-]
 
 @FilterClass base(BaseFilter) iconsprite("editor/filter_name.vmat") = filter_activator_name :
 	"A filter that filters by the name of the activator."
@@ -4933,6 +4919,8 @@
 @PointClass base(TwoObjectPhysics, Parentname) editormodel("models/editor/axis_helper.vmdl") tags( Physics ) = phys_genericconstraint : 
 	"A configurable constraint between two objects."
 [
+	place_anchors_at_constraint_transform(boolean) : "Place Anchors At Constraint Transform" : "1" : "If true, the joint anchors on each entity will be set to match the transform of the constraint entity. If false, the anchors will be set to the specified attachment points, or the physics body origins if no attachments are specified."
+
 	linear_motion_x(choices) : "Linear Motion X" : "JOINT_MOTION_FREE" =
 	[
 		"JOINT_MOTION_FREE" : "Free motion"
@@ -5087,7 +5075,7 @@
 	input Scale(string) : "Set Force Scale"
 ]
 
-@PointClass base( ForceController) tags( Physics ) = phys_thruster : 
+@PointClass base( ForceController ) tags( Physics ) editormodel("models/editor/axis_helper_thick.vmdl") = phys_thruster : 
 	"An entity used to apply constant acceleration to a physics object. "+
 	"The force and torque is calculated using the position and direction of the thruster as an impulse. So moving those off the object's center "+
 	"will cause torque as well. Torque can be removed by unchecking the 'apply torque' flag. The position of the thruster can be forced to be "+
@@ -5226,6 +5214,7 @@
 		256 : "Start with collision disabled" : 0
 		512 : "Set to Nav Ignore" : 0
 		1024 : "Set to Local-Nav Ignore (NPC will not try to avoid this entity)" : 0
+		2048 : "Exclude from PVS (Always networked, use sparingly)" : 0
 	]
 
 	disablelowviolence(choices) : "Turn Off in Low-Violence" : 0 =
@@ -5332,12 +5321,12 @@
 		1 : "Lightmapped"
 		0 : "Lightprobed"
 	]
-	disableshadows(choices) [ group="Lighting" ] : "Shadow Type" : 0 : "Selects the type of shadows that should be cast from this prop_static." = 
+	disableshadows(choices) [ group="Lighting" ] : "Cast Shadows" : 0 : "Selects the type of shadows that should be cast from this prop_static." = 
 	[
-		0: "Baked & Dynamic"
-		3: "Only Baked"
-		2: "Only Dynamic"
-		1: "None"
+		0: "Enabled" : "Prop will cast static shadows, unless something forces dynamic shadows (eg Render With Dynamic)"
+		1: "Disabled" : "Prop will cast no shadows"
+		3: "Only Baked" : "Prop will only cast shadows into the lightmap, it will not cast dynamic shadows"
+		2: "Only Dynamic" : "Prop will only cast dynamic shadows, it will not cast shadows into the lightmap"
 	]
 	emissive(boolean) [ group = "Lighting" ] : "Emissive" : 1 : "Allow this prop to emit lighting. Note that this only works on materials with Self Illum parameters, and is only visible in the GPU Path Tracing Preview and in the final lightmap bake."
 	emissive_lighting_boost(float) { group = "Lighting" min="0.0" max="8.0" enabled={ variable="emissive" value="1"  } } : "Emissive Boost" : "1.0" : "Used to boost emissive lighting from a mesh. Note that boosting emissive on smaller meshes can create more lighting artifacts/noise."
@@ -5559,6 +5548,8 @@
 
 	massScale(float) [ group = "Physics Properties" ] : "Mass Scale" : "0" : "A scale multiplier for the object's mass. 0 = use auto-calculated mass based on the object's size / shape and material"
 	buoyancyscale(float) [ group = "Physics Properties" ] : "Buoyancy Scale" : "1" : "Scale on the buoyancy / fluid forces applied to this object"
+	updatenavwhenmoving(boolean) [ group="Physics Properties" ] : "Update Nav When Moving" : "0" : "If set, nav mesh will be constantly updated while this obstacle is moving, and not just when this obstacle is settled."
+	forcenavcut(boolean) [ group = "Physics Properties" ] : "Force Nav Cut " : "0" : "If set, this obstacle will cut the mesh causing NPC's to avoid it regardless of its mass."
 
 	input EnableMotion(void) : "Enable physics motion/collision response."
 	input DisableMotion(void) : "Disable physics motion/collision response."
@@ -5952,6 +5943,7 @@
 		128 : "HL1 Train" : 0
 		256 : "Use max speed for pitch shifting move sound" : 0
 		512 : "Is unblockable by player" : 0
+		1024 : "Exclude from PVS (Always networked, use sparingly)" : 0
 	]
 	
 	target(target_destination) : "First Stop Target" : "" : "The name of the first path_track in the train's path. The train " +
