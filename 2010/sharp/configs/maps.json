@@ -98,6 +98,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "de_cache": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 16,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "de_cbble": {
     "admin": false,
     "certainTimes": [-1],
