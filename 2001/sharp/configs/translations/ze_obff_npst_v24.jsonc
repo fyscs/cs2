@@ -1,0 +1,330 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<< THE DOOR HAS OPENED >>>": {
+    "translation": "门开了"
+  },
+  "<<< Prepare to fight for your life!!! >>>": {
+    "translation": "为生存而战!!"
+  },
+  "RUN": {
+    "translation": "快跑!!!"
+  },
+  "The door opened": {
+    "translation": "门打开了!!"
+  },
+  "<<< Call the elevator >>>": {
+    "translation": "呼叫电梯!!"
+  },
+  "Climb up the ladder": {
+    "translation": "爬上梯子!!"
+  },
+  "<<< Prepare for the Battle of Your Life >>>": {
+    "translation": "生存之战!!!"
+  },
+  "<<< They are coming... >>>": {
+    "translation": "他们来了..."
+  },
+  "DON'T TOUCH THE LASERS": {
+    "translation": "不要去碰激光!!!"
+  },
+  "<<< The electricity should be cut off in a few seconds >>>": {
+    "translation": "电力将在片刻后断开"
+  },
+  "<<< Electricity is OFF >>>": {
+    "translation": "电力中断"
+  },
+  ">> 双方神器已解锁! <<": {
+    "translation": "双方神器已解锁!"
+  },
+  "<<< The door leading to the elevator are open! >>>": {
+    "translation": "去往电梯的门打开了"
+  },
+  "Map by Trazix": {
+    "translation": "地图制作:Trazix 文本翻译:Lia"
+  },
+  "CS2 by Nino": {
+    "translation": "CS2部分由Nino呈现"
+  },
+  "v2 Update by @Seth": {
+    "translation": "地图更新:@Seth"
+  },
+  "Welcome on Objective NPST": {
+    "translation": "行动代号:FF-NPST"
+  },
+  "Good Luck !": {
+    "translation": "祝你们好运!"
+  },
+  "<<< The door is opening get inside !>>>": {
+    "translation": "门开了,快进来!"
+  },
+  "They are coming": {
+    "translation": "他们来了!"
+  },
+  "DOOR IS OPEN": {
+    "translation": "门开了"
+  },
+  "DOOR HAS OPENED": {
+    "translation": "门已经开了"
+  },
+  "<<< DOOR IS OPEN >>>": {
+    "translation": "门开了"
+  },
+  "<<<5>>>": {
+    "translation": "还有5秒"
+  },
+  "<<<4>>>": {
+    "translation": "<<<4>>>",
+    "blocked": true
+  },
+  "<<<3>>>": {
+    "translation": "<<<3>>>",
+    "blocked": true
+  },
+  "<<<2>>>": {
+    "translation": "<<<2>>>",
+    "blocked": true
+  },
+  "<<<1>>>": {
+    "translation": "<<<1>>>",
+    "blocked": true
+  },
+  "<<< GO GO GOOOO >>>": {
+    "translation": "快跑!!"
+  },
+  "<<< It's not finished >>>": {
+    "translation": "并没有结束..."
+  },
+  "<<< Get out of here !!! >>>": {
+    "translation": "快离开这里!!!"
+  },
+  "<<< The yellow door Area 9 will open in 10 seconds >>>": {
+    "translation": "实验室区域的门10秒后打开"
+  },
+  "<<< The yellow door leading to the HUB will open soon >>>": {
+    "translation": "实验室区域的门即将打开"
+  },
+  "> 牢大我们进的不是机密大坝吗 <": {
+    "translation": "> 牢大我们进的不是机密大坝吗 <"
+  },
+  "> 给我干哪来了 <": {
+    "translation": "给我干哪来了"
+  },
+  "> 哦,这一定是绝密大坝吧 <": {
+    "translation": "哦,这一定是绝密大坝吧"
+  },
+  "> 原来策划藏东西了 <": {
+    "translation": "原来策划藏东西了"
+  },
+  "> 还想说S9赛季产能这么低呢 <": {
+    "translation": "还想说S9赛季产能这么低呢"
+  },
+  "Elevator door opened": {
+    "translation": "电梯门开了"
+  },
+  "The fire will burn out in a few seconds": {
+    "translation": "火焰消失还有一会"
+  },
+  "RUNNNNN !!!!": {
+    "translation": "快跑!!"
+  },
+  "<<< We are not giving thanks to Waffel for hepling >>>": {
+    "translation": "不要忘了感谢Waffel的帮助"
+  },
+  "THE DOOR OPENED RIGHT SIDE": {
+    "translation": "右边的门打开了"
+  },
+  "THE DOOR IS OPENING": {
+    "translation": "门正在打开"
+  },
+  "<<< The water level is increasing >>>": {
+    "translation": "水平面正在上升..."
+  },
+  "<<< The door is going to open >>>": {
+    "translation": "门马上就开了"
+  },
+  "<<< Prepare to shoot >>>": {
+    "translation": "准备射击!!"
+  },
+  "<<< The door is about to open.. >>>": {
+    "translation": "门就要开了"
+  },
+  "<<< The vent is going to explode... >>>": {
+    "translation": "障碍物即将爆炸..."
+  },
+  "<<< The door is going to open in 10 sec >>>": {
+    "translation": "门还有10秒打开"
+  },
+  "<<< The Sewer is going to open in 10 sec >>>": {
+    "translation": "下水道还有10秒打开"
+  },
+  "<<< The Flames is going to burn out in 10 sec >>>": {
+    "translation": "火焰还有10秒消失"
+  },
+  "<<< The vent is going to open in 10 sec >>>": {
+    "translation": "障碍物清除还有10秒"
+  },
+  "<<< Prepare to run. >>>": {
+    "translation": "准备跑路"
+  },
+  "<<< The fence has broken >>>": {
+    "translation": "障碍物已破坏"
+  },
+  ">> 僵尸和人类常驻型神器已锁定! <<": {
+    "translation": "僵尸和人类常驻型神器已锁定!"
+  },
+  "<检测到泰坦离场,10秒后执行处死事件>": {
+    "translation": "检测到泰坦离场,10秒后执行处死事件"
+  },
+  "<已触发处死事件>": {
+    "translation": "已触发处死事件"
+  },
+  ">> 僵尸和人类常驻型神器已解锁! <<": {
+    "translation": "僵尸和人类常驻型神器已解锁!"
+  },
+  "Sniper downn.": {
+    "translation": "Sniper downn."
+  },
+  "[ Go. ]": {
+    "translation": "[ Go. ]"
+  },
+  "[ Its time to end this.. ]": {
+    "translation": "[ Its time to end this.. ]"
+  },
+  "伽布拉斯: 尼大头51休假去了": {
+    "translation": "伽布拉斯: 尼大头51休假去了"
+  },
+  "伽布拉斯: 怕你寂寞,给你找个人陪你玩几把吧": {
+    "translation": "伽布拉斯: 怕你寂寞,给你找个人陪你玩几把吧"
+  },
+  "> 学者的技能范围和效果已进化 <": {
+    "translation": "学者的技能范围和效果已进化"
+  },
+  "> 黑骑的嘲讽已解锁 <": {
+    "translation": "黑骑的嘲讽已解锁"
+  },
+  "> 学者的护盾获得减伤效果 <": {
+    "translation": "学者的护盾获得减伤效果"
+  },
+  "> 泰坦疑似脱战,确认中... <": {
+    "translation": "泰坦疑似脱战,确认中..."
+  },
+  "<<< 25 >>>": {
+    "translation": "还有25秒!",
+    "countdown": 25
+  },
+  "<<< 20 >>>": {
+    "translation": "还有20秒!",
+    "countdown": 20
+  },
+  "<<< 30 >>>": {
+    "translation": "还有30秒!",
+    "countdown": 30
+  },
+  "<<< 35 >>>": {
+    "translation": "还有35秒!",
+    "countdown": 35
+  },
+  ">> 双方神器已锁定! <<": {
+    "translation": "双方神器已锁定!"
+  },
+  "< 又回来了,果然是不存在的图啊 >": {
+    "translation": "又回来了,果然是不存在的图啊"
+  },
+  "< 湿湿的我以为是汗,原来是尿啊 >": {
+    "translation": "湿湿的我以为是汗,原来是尿啊"
+  },
+  "> 好像有什么玩意追过来了 <": {
+    "translation": "好像有什么玩意追过来了"
+  },
+  "> 应该是叫什么拉布拉多的 <": {
+    "translation": "应该是叫什么拉布拉多的"
+  },
+  "拉布拉多: 叫伽布拉斯": {
+    "translation": "拉布拉多: 叫伽布拉斯"
+  },
+  "伽布拉斯: 扫码了": {
+    "translation": "伽布拉斯: 扫码了"
+  },
+  "> 我怎么打不到你 叠多少层无实体啊 <": {
+    "translation": "我怎么打不到你 叠多少层无实体啊"
+  },
+  "伽布拉斯: 我开回响形态了": {
+    "translation": "伽布拉斯: 我开回响形态了"
+  },
+  "伽布拉斯: 我说我开回响形态了": {
+    "translation": "伽布拉斯: 我说我开回响形态了"
+  },
+  ">> 检测到玩家抵达餐厅,已锁定双方神器! <<": {
+    "translation": "检测到玩家抵达餐厅,已锁定双方神器!"
+  },
+  ">> 人类常驻神器已解锁! <<": {
+    "translation": "人类常驻神器已解锁!"
+  },
+  "伽布拉斯: 你以为这就结束了吗?": {
+    "translation": "伽布拉斯: 你以为这就结束了吗?"
+  },
+  "伽布拉斯: 反正我要结束了,神都准备第四关了": {
+    "translation": "伽布拉斯: 反正我要结束了,神都准备第四关了"
+  },
+  "伽布拉斯: 我先撤了,你加油": {
+    "translation": "伽布拉斯: 我先撤了,你加油"
+  },
+  "进度已存档": {
+    "translation": "进度已存档"
+  },
+  "已取消存档 需要重启回合": {
+    "translation": "已取消存档 需要重启回合"
+  },
+  ">处死上局BOSS战前的僵尸": {
+    "translation": "处死上局BOSS战前的僵尸"
+  },
+  "已启用存档 重启后将直接从BOSS战开始": {
+    "translation": "已启用存档 重启后将直接从BOSS战开始"
+  },
+  "** A player has adquired HEAL MATERIA **": {
+    "translation": "一名玩家获得了奶元素"
+  },
+  "** 一位武士加入了队伍 **": {
+    "translation": "一位武士加入了队伍"
+  },
+  "** 一位忍者加入了队伍 **": {
+    "translation": "一位忍者加入了队伍"
+  },
+  "** A player has adquired WIND MATERIA **": {
+    "translation": "一名玩家获得了风元素"
+  },
+  "** A player has adquired ICE MATERIA **": {
+    "translation": "一名玩家获得了冰元素"
+  },
+  "** A player has learned Water magick. **": {
+    "translation": "一名玩家获得了水元素"
+  },
+  "** 一位学者加入了队伍 **": {
+    "translation": "一位学者加入了队伍"
+  },
+  "** 一位暗黑骑士加入了队伍 **": {
+    "translation": "一位暗黑骑士加入了队伍"
+  },
+  "** A player has adquired GRAVITY MATERIA **": {
+    "translation": "一名玩家获得了水元素"
+  },
+  "** A player has adquired FIRE MATERIA **": {
+    "translation": "一名玩家获得了火元素"
+  },
+  "** A player has adquired EARTH MATERIA **": {
+    "translation": "一名玩家获得了土元素"
+  },
+  "** A player has adquired ELECTRO MATERIA **": {
+    "translation": "一名玩家获得了电元素"
+  }
+}
