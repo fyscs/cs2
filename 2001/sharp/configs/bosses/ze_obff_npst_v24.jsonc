@@ -31,6 +31,11 @@
       "iterator": "Sniper_Counter",
       "hitbox": "Sniper_Hitbox",
       "display": "Sniper"
+    },
+    {
+      "iterator": "St1_Thordan_HP_Counter",
+      "hitbox": "St1_Thordan_Top_Hitbox",
+      "display": "托尔丹"
     }
   ],
   "Monsters": [
