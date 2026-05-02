@@ -17,7 +17,8 @@
     "translation": "地图作者: Gargantua 文本:Zeyu1"
   },
   "Rotate by Shino/Exia": {
-    "translation": "特别鸣谢: Shino/Exia"
+    "translation": "特别鸣谢: Shino/Exia",
+    "blocked": true
   },
   "Port by Charlie": {
     "translation": "移植: Charlie - 显示器转一下就能玩了"
