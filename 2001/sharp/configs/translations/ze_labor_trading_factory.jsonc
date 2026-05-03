@@ -1,0 +1,186 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "拒绝者：准备3": {
+    "translation": "3"
+  },
+  "拒绝者：2": {
+    "translation": "2"
+  },
+  "拒绝者：1，右手边楼梯上去快走": {
+    "translation": "1-右手边楼梯上去快走"
+  },
+  "《门将在40秒后打开》": {
+    "translation": "门将在40秒后打开",
+    "countdown": 40
+  },
+  "《门将在10秒后打开》": {
+    "translation": "门将在10秒后打开",
+    "countdown": 10
+  },
+  "拒绝者：OK我们准备进门了，别按鸡！！！": {
+    "translation": "别按鸡"
+  },
+  "拒绝者：来我们准备3": {
+    "translation": "3"
+  },
+  "拒绝者：1！快进来！": {
+    "translation": "1"
+  },
+  "《门将在20秒后打开》": {
+    "translation": "门将在20秒后打开",
+    "countdown": 20
+  },
+  "拒绝者：还有5秒僵尸要传送了，懂哥注意一下": {
+    "translation": "还有5秒僵尸要传送了",
+    "countdown": 5
+  },
+  "拒绝者：OK准备撤退了，梯子是路奥": {
+    "translation": "梯子是路"
+  },
+  "拒绝者：3": {
+    "translation": "3"
+  },
+  "拒绝者：1，快走！": {
+    "translation": "1,快走!"
+  },
+  "《障碍物将在30秒后消失》": {
+    "translation": "障碍物将在30秒后消失",
+    "countdown": 30
+  },
+  "《障碍物将在10秒后消失》": {
+    "translation": "障碍物将在10秒后消失",
+    "countdown": 10
+  },
+  "《管道将在25秒后打开》": {
+    "translation": "管道将在25秒后打开",
+    "countdown": 25
+  },
+  "《管道将在10秒后打开》": {
+    "translation": "管道将在10秒后打开",
+    "countdown": 10
+  },
+  "《门将在30秒后打开》": {
+    "translation": "门将在30秒后打开",
+    "countdown": 30
+  },
+  "拒绝者：OK电梯要上升了": {
+    "translation": "电梯要上升了"
+  },
+  "《电梯将在30秒后上升》": {
+    "translation": "电梯将在30秒后上升",
+    "countdown": 30
+  },
+  "《电梯将在10秒后上升》": {
+    "translation": "电梯将在10秒后上升",
+    "countdown": 10
+  },
+  "《障碍物将在40秒后消失》": {
+    "translation": "障碍物将在40秒后消失",
+    "countdown": 40
+  },
+  "《铁网将在30秒后消失》": {
+    "translation": "铁网将在30秒后消失",
+    "countdown": 30
+  },
+  "《铁网将在10秒后消失》": {
+    "translation": "铁网将在10秒后消失",
+    "countdown": 10
+  },
+  "《障碍物将在20秒后消失》": {
+    "translation": "障碍物将在20秒后消失",
+    "countdown": 20
+  },
+  "拒绝者：跑快点，上面还有空降": {
+    "translation": "跑快点,上面还有空降"
+  },
+  "拒绝者：OK按鸡了，往后退一点守": {
+    "translation": "按鸡了,往后退一点守"
+  },
+  "拒绝者：OK玻璃还有5秒就碎了": {
+    "translation": "玻璃还有5秒就碎了",
+    "countdown": 5
+  },
+  "《玻璃将在30秒后破碎》": {
+    "translation": "玻璃将在30秒后破碎",
+    "countdown": 30
+  },
+  "《玻璃将在10秒后破碎》": {
+    "translation": "玻璃将在10秒后破碎",
+    "countdown": 10
+  },
+  "拒绝者：下面门要开了，准备": {
+    "translation": "下面门要开了,准备"
+  },
+  "拒绝者：OK，脚下路马上开了": {
+    "translation": "脚下路马上开了"
+  },
+  "《地板将在25秒后塌陷》": {
+    "translation": "地板将在25秒后塌陷",
+    "countdown": 25
+  },
+  "《地板将在10秒后塌陷》": {
+    "translation": "地板将在10秒后塌陷",
+    "countdown": 10
+  },
+  "拒绝者：僵尸马上传送了，准备开枪": {
+    "translation": "僵尸马上传送了,准备开枪"
+  },
+  "《通风装置将在60秒后炸开》": {
+    "translation": "通风装置将在60秒后炸开",
+    "countdown": 60
+  },
+  "《通风装置将在10秒后炸开》": {
+    "translation": "通风装置将在10秒后炸开",
+    "countdown": 10
+  },
+  "拒绝者：来我们都过来贴门，头顶还有5秒空降了": {
+    "translation": "头顶还有5秒空降了",
+    "countdown": 5
+  },
+  "《木板将在45秒后消失》": {
+    "translation": "木板将在45秒后消失",
+    "countdown": 45
+  },
+  "《木板将在10秒后消失》": {
+    "translation": "木板将在10秒后消失",
+    "countdown": 10
+  },
+  "《门将在45秒后打开》": {
+    "translation": "门将在45秒后打开",
+    "countdown": 45
+  },
+  "《门将在60秒后打开》": {
+    "translation": "门将在60秒后打开",
+    "countdown": 60
+  },
+  "拒绝者：OK按鸡了，5秒后前面标点僵尸传送": {
+    "translation": "5秒后僵尸传送",
+    "countdown": 5
+  },
+  "拒绝者：我们进列车回头守到核爆就赢了": {
+    "translation": "我们进列车回头守到核爆就赢了"
+  },
+  "《核爆将在10秒后启动》": {
+    "translation": "核爆将在10秒后启动",
+    "countdown": 10
+  },
+  "拒绝者：注意！火不要碰！火不要碰！": {
+    "translation": "注意!火不要碰!火不要碰!"
+  },
+  "拒绝者：OK，不要按鸡！！！": {
+    "translation": "不要按鸡!!!"
+  },
+  "拒绝者：别按鸡！！！！": {
+    "translation": "别按鸡!!!!"
+  }
+}
