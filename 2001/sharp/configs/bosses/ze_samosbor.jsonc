@@ -40,12 +40,24 @@
       "display": "心脏枷锁-4"
     },
     {
-      "identity": "3537",
+      "identity": "16299",
       "display": "地雷"
     },
     {
-      "identity": "3561",
+      "identity": "16298",
       "display": "夹子"
+    },
+    {
+      "identity": "9337",
+      "display": "KLETKA"
+    },
+    {
+      "identity": "3573",
+      "display": "箱子"
+    },
+    {
+      "identity": "12358",
+      "display": "礼物盒"
     }
   ]
 }
