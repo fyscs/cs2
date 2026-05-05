@@ -105,23 +105,6 @@
 [
 ]
 
-@OverrideClass base(Targetname, Parentname) tags( Lighting ) = light_base
-[
-	// Remove these until we have a need for them to avoid cluttering up the UI for light ents
-	nearclipplane(remove_key)
-	fademindist(remove_key) 
-	fademaxdist(remove_key) 
-	range(remove_key) 
-]
-
-@OverrideClass = light_base_legacy_params
-[
-//	rendertransmissive(remove_key)
-//	renderspecular(remove_key)
-//	renderdiffuse(remove_key)
-//	indirectlight(remove_key)
-]
-
 @PointClass   editormodel("models/editor/camera.vmdl", fixedbounds) = csm_fov_override :
 	"This entity indicates the FOV override for cascading shadow maps.   ."
 [
@@ -504,7 +487,7 @@
 	input ToggleEnabled(void) : "Toggle the enabled/disabled state of this spawn point."
 ]
 
-@PointClass base(Targetname, Angles) studio("characters/models/tm_professional/tm_professional_varh.mdl")
+@PointClass base(Targetname, Angles) studio("agents/models/tm_professional/tm_professional_varh.mdl")
 	metadata
 	{
 	entity_tool_name = "Deathmatch Spawn Point"
@@ -522,7 +505,7 @@
 	input ToggleEnabled(void) : "Toggle the enabled/disabled state of this spawn point."
 ]
 
-@PointClass base(Targetname, Angles) studio("characters/models/ctm_st6/ctm_st6_variantl.vmdl")
+@PointClass base(Targetname, Angles) studio("agents/models/ctm_st6/ctm_st6_variantl.vmdl")
 	metadata
 	{
 	entity_tool_name = "Arms Race Counter Terrorist Spawn Point"
@@ -541,7 +524,7 @@
 	input ToggleEnabled(void) : "Toggle the enabled/disabled state of this spawn point."
 ]
 
-@PointClass base(Targetname, Angles) studio("characters/models/tm_leet/tm_leet_varianta.mdl")
+@PointClass base(Targetname, Angles) studio("agents/models/tm_leet/tm_leet_varianta.mdl")
 	metadata
 	{
 	entity_tool_name = "Arms Race Terrorist Spawn Point"
@@ -560,7 +543,7 @@
 	input ToggleEnabled(void) : "Toggle the enabled/disabled state of this spawn point."
 ]
 
-@PointClass base(Targetname, Angles) studio("characters/models/tm_phoenix/tm_phoenix.vmdl") sphere(hide_radius) = info_enemy_terrorist_spawn :
+@PointClass base(Targetname, Angles) studio("agents/models/tm_phoenix/tm_phoenix.vmdl") sphere(hide_radius) = info_enemy_terrorist_spawn :
 	"This entity marks the start point for enemy terrorists in a coop game. " +
 	"Should be placed at least 80 units away from each other and surrounding walls."
 [
@@ -917,6 +900,12 @@
 	ambient_occlusion_proxy_strength_2(float) { group="Ambient Occlusion Proxies" min="0.0" max="1.0" } : "Custom AO Proxy Cone Strength 2" : "0.5" : "Relative Strength of Imaginary Shadowing Light."
 	ambient_occlusion_proxy_strength_3(float) { group="Ambient Occlusion Proxies" min="0.0" max="1.0" } : "Custom AO Proxy Cone Strength 3" : "0.5" : "Relative Strength of Imaginary Shadowing Light."
 	ambient_occlusion_proxy_ambient_strength(float) { group="Ambient Occlusion Proxies" min="0.01" max="1.0" } : "AO Proxy Ambient Strength" : "1.0" : "Relative Strength of Ambient/Unshadowed term. Lower values make darker shadows."
+
+	// Remove these until we have a need for them to avoid cluttering up the UI for light ents
+	nearclipplane(remove_key)
+	fademindist(remove_key) 
+	fademaxdist(remove_key) 
+	range(remove_key) 
 ]
 
 @OverrideClass = light_barn
@@ -958,7 +947,6 @@
 	fog(remove_key)
 	fogstrength(remove_key)
 	fogshadows(remove_key)
-	fogmixedshadows(remove_key)
 ]
 
 @OverrideClass = light_rect
@@ -991,7 +979,6 @@
 	fog(remove_key)
 	fogstrength(remove_key)
 	fogshadows(remove_key)
-	fogmixedshadows(remove_key)
 ]
 
 @OverrideClass = light_omni2
@@ -1033,7 +1020,6 @@
 	fog(remove_key)
 	fogstrength(remove_key)
 	fogshadows(remove_key)	
-	fogmixedshadows(remove_key)	
 ]
 
 @OverrideClass = sky_camera
@@ -1785,7 +1771,7 @@ metadata
 
 @PointClass iconsprite("materials/editor/point_script.vmat") = point_script
 [
-    targetname(target_source) { sort_priority = 90 } : "Name" : : "The name that other entities refer to this entity by."
-    cs_script(resource:vjs) : "cs_script"
-    input RunScriptInput(string) : "Run callback registered using OnScriptInput."
+	targetname(target_source) { sort_priority = 90 } : "Name" : : "The name that other entities refer to this entity by."
+	cs_script(resource:vjs) : "cs_script"
+	input RunScriptInput(string) : "Run callback registered using OnScriptInput."
 ]
