@@ -4517,6 +4517,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_shaun_of_the_dead": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_sex_mod_hentai_beachescape_camper_p": {
     "admin": true,
     "certainTimes": [-1],
