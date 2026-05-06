@@ -1331,6 +1331,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 25
   },
+  "ze_einstein": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_eizures_b1_1": {
     "admin": true,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
