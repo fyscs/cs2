@@ -1332,7 +1332,7 @@
     "requiredPlayers": 25
   },
   "ze_einstein": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 60,
     "nomination": true,
