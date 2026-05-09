@@ -4364,6 +4364,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_runaway_underroof2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_rush_a": {
     "admin": false,
     "certainTimes": [-1],
