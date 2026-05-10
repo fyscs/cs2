@@ -187,7 +187,7 @@
     "translation": "留在后面的人将面临死亡.."
   },
   "***MAP by Luffaren. Port by Waffel***": {
-    "translation": "作者: Luffaren. 移植: waffel. 文本:@creeper_kk"
+    "translation": "作者:Luffaren 移植:Waffel 翻译@creeper_kk"
   },
   "***PUSH WILL ENABLE IN 60 SECONDS***": {
     "translation": "上升推流将在60秒后生效",
@@ -196,5 +196,13 @@
   "***HUMANS ON BRIDGE WILL DIE IN 35 SECONDS***": {
     "translation": "停留在桥上的玩家将在35秒后处死.",
     "countdown": 35
+  },
+    "***WOODEN DOOR WILL OPEN IN 40 SECONDS***": {
+    "translation": "木门将在40秒后打开",
+    "countdown": 40
+  },
+    "***DOOR OPENING IN 30 SECONDS***": {
+    "translation": "门将在30秒后打开",
+    "countdown": 30
   }
 }
