@@ -197,11 +197,11 @@
     "translation": "停留在桥上的玩家将在35秒后处死.",
     "countdown": 35
   },
-    "***WOODEN DOOR WILL OPEN IN 40 SECONDS***": {
+  "***WOODEN DOOR WILL OPEN IN 40 SECONDS***": {
     "translation": "木门将在40秒后打开",
     "countdown": 40
   },
-    "***DOOR OPENING IN 30 SECONDS***": {
+  "***DOOR OPENING IN 30 SECONDS***": {
     "translation": "门将在30秒后打开",
     "countdown": 30
   }
