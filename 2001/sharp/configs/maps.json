@@ -1475,6 +1475,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_evolution_by_selection": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": 25
+  },
   "ze_exchange_innovation_p": {
     "admin": false,
     "certainTimes": [-1],
