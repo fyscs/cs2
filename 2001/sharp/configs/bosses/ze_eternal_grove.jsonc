@@ -26,5 +26,11 @@
       "target": "i_minotaurgod_hp",
       "display": "半人马战士"
     }
+  ],
+  "Monsters": [
+    {
+      "identity": "1992",
+      "display": "神殿守卫"
+    }
   ]
 }
