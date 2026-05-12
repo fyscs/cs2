@@ -1,0 +1,55 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "parking_nemesis_counter",
+      "backup": "parking_nemesis_hp_backup",
+      "counter": "parking_nemesis_hp_iterations",
+      "display": "Random_Nemesis"
+    },
+    {
+      "iterator": "Special_Health",
+      "hitbox": "Nemesis_Phys_Body",
+      "display": "Nemesis"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "16055",
+      "display": "油桶"
+    },
+    {
+      "identity": "17705",
+      "display": "鳄鱼"
+    },
+    {
+      "identity": "47668",
+      "display": "Npc_Base"
+    },
+    {
+      "identity": "47670",
+      "display": "Npc_Head"
+    }
+  ]
+}
