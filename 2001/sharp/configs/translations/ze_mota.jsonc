@@ -1,0 +1,204 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "仙子:刚才我去看过了，你的剑被放在五楼，你的盾在九楼上。": {
+    "translation": "刚才我去看过了,你的剑被放在五楼,你的盾在九楼上."
+  },
+  "The door is opening": {
+    "translation": "门正在打开"
+  },
+  "门将在10秒后打开": {
+    "translation": "门将在10秒后打开",
+    "countdown": 10
+  },
+  "力量提升!": {
+    "translation": "力量提升!"
+  },
+  "Zombie will tp after 10s": {
+    "translation": "僵尸将在10秒后传送",
+    "countdown": 10
+  },
+  "仙子:处于怪物的一个范围内，点击鼠标右键即可。": {
+    "translation": "处于怪物的一个范围内,点击鼠标右键即可."
+  },
+  "防御提升!": {
+    "translation": "防御提升!"
+  },
+  "神秘老人:记住，尽你所能收集更多的宝石。": {
+    "translation": "记住,尽你所能收集更多的宝石."
+  },
+  "strength up!": {
+    "translation": "力量提升!"
+  },
+  "初入魔塔": {
+    "translation": "初入魔塔"
+  },
+  "**ze_mota**": {
+    "translation": "魔塔"
+  },
+  "**作者：沉默中的羔羊**": {
+    "translation": "作者:沉默中的羔羊"
+  },
+  "门将在10s后打开": {
+    "translation": "门将在10秒后打开",
+    "countdown": 10
+  },
+  "boss血量被大幅度削减了": {
+    "translation": "首领血量被大幅度削减了"
+  },
+  "仙子：力量消散了，快跑。": {
+    "translation": "仙子:力量消散了,快跑."
+  },
+  "仙子：我们要尽快通过这一层，已经没时间开黄门了，但是蓝门应该可以尝试。": {
+    "translation": "我们要尽快通过这一层,已经没时间开黄门了,但是蓝门应该可以尝试."
+  },
+  "获得两把黄钥匙": {
+    "translation": "获得两把黄钥匙"
+  },
+  "门将在20秒后打开": {
+    "translation": "门将在20秒后打开",
+    "countdown": 20
+  },
+  "门将在5秒后打开": {
+    "translation": "门将在5秒后打开",
+    "countdown": 5
+  },
+
+  "仙子：小心怪物也跟着下来了，记得站住上楼的传送器。60s后上楼传送器会再次开启。": {
+    "translation": "60秒后上楼传送器会再次开启.",
+    "countdown": 60
+  },
+  "注意前方": {
+    "translation": "注意前方"
+  },
+  "黑洞": {
+    "translation": "黑洞"
+  },
+  "怪物来袭": {
+    "translation": "怪物来袭"
+  },
+  "剧毒": {
+    "translation": "剧毒"
+  },
+  "有人完成了挑战！！！": {
+    "translation": "有人完成了挑战!!!"
+  },
+  "仙子：预计其余怪物在45秒后才能传送过来。": {
+    "translation": "预计其余怪物在45秒后才能传送过来.",
+    "countdown": 45
+  },
+  "黄钥匙：0": {
+    "translation": "黄钥匙:0"
+  },
+  "黄钥匙：1": {
+    "translation": "黄钥匙:1"
+  },
+  "黄钥匙：2": {
+    "translation": "黄钥匙:2"
+  },
+  "黄钥匙：3": {
+    "translation": "黄钥匙:3"
+  },
+  "黄钥匙：4": {
+    "translation": "黄钥匙:4"
+  },
+  "黄钥匙：5": {
+    "translation": "黄钥匙:5"
+  },
+  "黄钥匙：6": {
+    "translation": "黄钥匙:6"
+  },
+  "黄钥匙：7": {
+    "translation": "黄钥匙:7"
+  },
+  "黄钥匙：8": {
+    "translation": "黄钥匙:8"
+  },
+  "黄钥匙：9": {
+    "translation": "黄钥匙:9"
+  },
+  "黄钥匙：10": {
+    "translation": "黄钥匙:10"
+  },
+  "蓝钥匙：0": {
+    "translation": "蓝钥匙:0"
+  },
+  "蓝钥匙：1": {
+    "translation": "蓝钥匙:1"
+  },
+  "蓝钥匙：2": {
+    "translation": "蓝钥匙:2"
+  },
+  "蓝钥匙：3": {
+    "translation": "蓝钥匙:3"
+  },
+  "蓝钥匙：4": {
+    "translation": "蓝钥匙:4"
+  },
+  "蓝钥匙：5": {
+    "translation": "蓝钥匙:5"
+  },
+  "红钥匙：0": {
+    "translation": "红钥匙:0"
+  },
+  "红钥匙：1": {
+    "translation": "红钥匙:1"
+  },
+  "红钥匙：2": {
+    "translation": "红钥匙:2"
+  },
+  "红钥匙：3": {
+    "translation": "红钥匙:3"
+  },
+  "红钥匙：4": {
+    "translation": "红钥匙:4"
+  },
+  "红钥匙：5": {
+    "translation": "红钥匙:5"
+  },
+  "仙子：快走。": {
+    "translation": "快走."
+  },
+  "范围加速": {
+    "translation": "范围加速"
+  },
+  "低重力": {
+    "translation": "低重力"
+  },
+  "无敌": {
+    "translation": "无敌"
+  },
+  "治疗": {
+    "translation": "治疗"
+  },
+  "僵尸光环已被拾取": {
+    "translation": "僵尸光环已被拾取"
+  },
+  "使用3秒后吸引周围人类。": {
+    "translation": "使用3秒后吸引周围人类."
+  },
+  "当前效果为无敌，头顶E可以切换为恢复。": {
+    "translation": "当前效果为无敌,头顶字母键可以切换为恢复."
+  },
+  "人类速度耐力已被拾取，只有通过耐力试炼的人才能支付使用的代价。": {
+    "translation": "人类速度耐力已被拾取,只有通过耐力试炼的人才能支付使用的代价."
+  },
+  "只有付出献血，才能使用神器的力量。": {
+    "translation": "只有付出献血,才能使用神器的力量."
+  },
+  "当前效果为范围加速，头顶E可以切换为范围低重力": {
+    "translation": "当前效果为范围加速,头顶字母键可以切换为范围低重力"
+  },
+  "人类速度神器已被拾取，只有通过速度试炼的人才可以使用。": {
+    "translation": "人类速度神器已被拾取,只有通过速度试炼的人才可以使用."
+  }
+}
