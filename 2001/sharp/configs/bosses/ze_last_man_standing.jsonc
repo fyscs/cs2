@@ -21,11 +21,26 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Counters": [
+  "Monsters": [
     {
-      "iterator": "boss_hp",
-      "hitbox": "Zombie_Item_Boss_Super_Health",
+      "identity": "122",
       "display": "Alex"
+    },
+    {
+      "identity": "333",
+      "display": "铁血战士"
+    },
+    {
+      "identity": "53",
+      "display": "女鬼"
+    },
+    {
+      "identity": "13884",
+      "display": "坦克"
+    },
+    {
+      "identity": "694",
+      "display": "ZM坦克"
     }
   ]
 }
