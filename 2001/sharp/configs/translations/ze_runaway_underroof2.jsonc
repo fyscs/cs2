@@ -1,0 +1,55 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "DOOR WILL OPEN IN 60 SECONDS.": {
+    "translation": "大门60秒后开."
+  },
+  "DOOR WILL OPEN IN 30 SECONDS.": {
+    "translation": "大门30秒后开."
+  },
+  "DOOR IS NOW OPEN!!": {
+    "translation": "门开了,快润!!"
+  },
+  "DOOR WILL OPEN IN 15 SECONDS.": {
+    "translation": "大门15秒后开."
+  },
+  "DOOR WILL OPEN IN 10 SECONDS.": {
+    "translation": "大门10秒后开."
+  },
+  "DOOR WILL OPEN IN 5 SECONDS.": {
+    "translation": "大门5秒后开."
+  },
+  "DOOR WILL OPEN IN 120 SECONDS.": {
+    "translation": "大门120秒后开."
+  },
+  "DOOR WILL OPEN IN 90 SECONDS.": {
+    "translation": "大门90秒后开."
+  },
+  "Map by GARGANTUA": {
+    "translation": "作者:GARGANTUA,友情提醒:头晕屏幕反过来玩"
+  },
+  "Reverse by Charlie": {
+    "translation": "移植:Charlie@龙哥 翻译:白姬"
+  },
+  "INCOMING AIRSTRIKE!!": {
+    "translation": "核弹来咯!!"
+  },
+  "DOOR WILL CLOSE IN 10 SECONDS.": {
+    "translation": "大门10秒后开."
+  },
+  "DOOR IS CLOSING": {
+    "translation": "大门正在关闭"
+  },
+  "DOOR WILL CLOSE IN 5 SECONDS.": {
+    "translation": "大门5秒后开."
+  }
+}
