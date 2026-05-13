@@ -1,0 +1,173 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***20***": {
+    "translation": "20s",
+    "countdown": 20
+  },
+  "***30***": {
+    "translation": "30s",
+    "countdown": 30
+  },
+  "Kiacy:有点不对劲...": {
+    "translation": "Kiacy:有点不对劲..."
+  },
+  "Kiacy:究竟是谁启动了这些机关的....": {
+    "translation": "Kiacy:究竟是谁启动了这些机关的...."
+  },
+  "Kiacy:当初我到这里来的时候，是没有这些陷阱的": {
+    "translation": "Kiacy:当初我到这里来的时候,是没有这些陷阱的"
+  },
+  "Kiacy:小心!!!别碰到那些激光!!": {
+    "translation": "Kiacy:小心!!!别碰到那些激光!!"
+  },
+  "***15***": {
+    "translation": "15s",
+    "countdown": 15
+  },
+  "***25***": {
+    "translation": "25s",
+    "countdown": 20
+  },
+  "Kiacy:呐，醒醒": {
+    "translation": "Kiacy:呐,醒醒"
+  },
+  "Kiacy:列车停下来了，我想我们得从这里开始步行了": {
+    "translation": "Kiacy:列车停下来了,我想我们得从这里开始步行了"
+  },
+  "Kiacy:有听到吗?": {
+    "translation": "Kiacy:有听到吗?"
+  },
+  "Kiacy:真是的，我们现在可是在逃跑中呢，你是怎么睡的这么安稳的?": {
+    "translation": "Kiacy:真是的,我们现在可是在逃跑中呢,你是怎么睡的这么安稳的?"
+  },
+  "Kiacy:希望他们没发现我们": {
+    "translation": "Kiacy:希望他们没发现我们"
+  },
+  "Kiacy:这里地下好像有路，等我一下我来想办法打开他": {
+    "translation": "Kiacy:这里地下好像有路,等我一下我来想办法打开他"
+  },
+  "Kiacy:好了!快跟我站在一起": {
+    "translation": "Kiacy:好了!快跟我站在一起"
+  },
+  "Kiacy:呀!!!怎么是这样的开门方式阿?": {
+    "translation": "Kiacy:呀!!!怎么是这样的开门方式阿?"
+  },
+  "Kiacy:开启这扇门需要点时间，你在旁边等我一下": {
+    "translation": "Kiacy:开启这扇门需要点时间,你在旁边等我一下"
+  },
+  "Kiacy:怎么没路了?": {
+    "translation": "Kiacy:怎么没路了?"
+  },
+  "Kiacy:怎么还来呀!!!": {
+    "translation": "Kiacy:怎么还来呀!!!"
+  },
+  "Kiacy:呐,???从这里逃出去后，你有特别想做的事情吗?": {
+    "translation": "Kiacy:呐,???从这里逃出去后,你有特别想做的事情吗?"
+  },
+  "Kiacy:我呢，想当个导游": {
+    "translation": "Kiacy:我呢,想当个导游"
+  },
+  "Kiacy:一直被关在这里，只能透过书籍来认识外面的世界": {
+    "translation": "Kiacy:一直被关在这里,只能透过书籍来认识外面的世界"
+  },
+  "Kiacy:我想作为一名导游，到世界各地去，实际到书上展示的那些地方去": {
+    "translation": "Kiacy:我想作为一名导游,到世界各地去,实际到书上展示的那些地方去"
+  },
+  "Kiacy:你呢,???你想做些什么?": {
+    "translation": "Kiacy:你呢,???你想做些什么?"
+  },
+  "???:我...我不知道...": {
+    "translation": "???:我...我不知道..."
+  },
+  "Kiacy:这样阿...，如果你一直都不知道要做什么的话": {
+    "translation": "Kiacy:这样阿...,如果你一直都不知道要做什么的话"
+  },
+  "Kiacy:就来跟我一起当导游吧!一起去旅行~": {
+    "translation": "Kiacy:就来跟我一起当导游吧!一起去旅行~"
+  },
+  "Kiacy:门开了,可是为什么又没路了？难道又在底下?": {
+    "translation": "Kiacy:门开了,可是为什么又没路了?难道又在底下?"
+  },
+  "Kiacy:遭了!这次不是在底下，我们中陷阱了": {
+    "translation": "Kiacy:遭了!这次不是在底下,我们中陷阱了"
+  },
+  "???:这里是...？": {
+    "translation": "???:这里是...?"
+  },
+  "Kiacy:不清楚，看起来像是宿舍一样": {
+    "translation": "Kiacy:不清楚,看起来像是宿舍一样"
+  },
+  "Kiacy:我们被迷晕后给带到了这里": {
+    "translation": "Kiacy:我们被迷晕后给带到了这里"
+  },
+  "Kiacy:你动的起来吗?": {
+    "translation": "Kiacy:你动的起来吗?"
+  },
+  "???:可以": {
+    "translation": "???:可以"
+  },
+  "Kiacy:把我们关到这里后却没人看守": {
+    "translation": "Kiacy:把我们关到这里后却没人看守"
+  },
+  "Kiacy:我不清楚他们究竟想做些什么": {
+    "translation": "Kiacy:我不清楚他们究竟想做些什么"
+  },
+  "Kiacy:我说阿，我们都相处五年了，你为什么从来没叫过我的名字?": {
+    "translation": "Kiacy:我说阿,我们都相处五年了,你为什么从来没叫过我的名字?"
+  },
+  "Kiacy:我最多只听过你叫过我姐姐而已": {
+    "translation": "Kiacy:我最多只听过你叫过我姐姐而已"
+  },
+  "???:....": {
+    "translation": "???:...."
+  },
+  "Kiacy:来麻，叫一次我的名字听听": {
+    "translation": "Kiacy:来麻,叫一次我的名字听听"
+  },
+  "???:Ki....Kiacy": {
+    "translation": "???:Ki....Kiacy"
+  },
+  "Kiacy:这不是能很正常的说出来吗?": {
+    "translation": "Kiacy:这不是能很正常的说出来吗?"
+  },
+  "Kiacy:为什么以前都没叫过一次我的名字?": {
+    "translation": "Kiacy:为什么以前都没叫过一次我的名字?"
+  },
+  "???:我...我有点害羞": {
+    "translation": "???:我...我有点害羞"
+  },
+  "Kiacy:只是叫名字而已，有什么好害羞的?": {
+    "translation": "Kiacy:只是叫名字而已，有什么好害羞的?"
+  },
+  "Kiacy:我想起来这里了，以前他们单独带过我来这里": {
+    "translation": "Kiacy:我想起来这里了,以前他们单独带过我来这里"
+  },
+  "Kiacy:我记得前面有座大电梯，那也是唯一的出入口": {
+    "translation": "Kiacy:我记得前面有座大电梯,那也是唯一的出入口"
+  },
+  "Kiacy:看来只能从那里离开了...": {
+    "translation": "Kiacy:看来只能从那里离开了..."
+  },
+  "Kiacy:我们走吧!": {
+    "translation": "Kiacy:我们走吧!"
+  },
+  "???:嗯": {
+    "translation": "???:嗯"
+  },
+  "Kiacy:怎么回事？电梯自己启动了？": {
+    "translation": "Kiacy:怎么回事？电梯自己启动了?"
+  },
+  "Kiacy:???我们快走!": {
+    "translation": "Kiacy:???我们快走!"
+  }
+}
