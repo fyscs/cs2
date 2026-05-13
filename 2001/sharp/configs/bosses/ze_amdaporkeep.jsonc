@@ -24,6 +24,8 @@
   "Counters": [
     {
       "iterator": "Ahriman_Hp",
+      "backup": "Ahriman_Hp_Init",
+      "counter": "Ahriman_HP_Blocks",
       "hitbox": "Ahriman_Hitbox",
       "display": "小恶魔"
     },
@@ -44,15 +46,21 @@
     },
     {
       "iterator": "Diabolos_Hollow_HP",
+      "backup": "Diabolos_Hollow_HP_Init",
+      "counter": "Diabolos_Hollow_HP_Blocks",
       "hitbox": "Diabolos_Hollow_Hitbox",
       "display": "虚空迪亚波罗斯"
     },
     {
       "iterator": "Diabolos_HP",
+      "backup": "Diabolos_HP_Init",
+      "counter": "Diabolos_HP_Blocks",
       "display": "迪亚波罗斯"
     },
     {
       "iterator": "Cloud_of_Darkness_HP",
+      "backup": "Cloud_of_Darkness_HP_Init",
+      "counter": "Cloud_of_Darkness_HP_Blocks",
       "hitbox": "Cloud_of_Darkness_Hitbox",
       "display": "暗黑之云"
     },
@@ -62,9 +70,9 @@
       "display": "欧米茄"
     },
     {
-      "iterator": "Omega_Phase1_HP",
-      "counter": "Omega_Phase1_Bar_HP",
-      "mass": 135,
+      "iterator": "Omega_HP",
+      "backup": "Omega_HP_Init",
+      "counter": "Omega_HP_Blocks",
       "display": "欧米伽终极版"
     },
     {
