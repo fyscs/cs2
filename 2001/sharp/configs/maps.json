@@ -116,6 +116,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_akala_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 70,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": 600,
+    "requiredPlayers": 20
+  },
   "ze_alien_mountain_escape_p": {
     "admin": false,
     "certainTimes": [-1],
