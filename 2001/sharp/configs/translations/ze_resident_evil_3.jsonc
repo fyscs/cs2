@@ -1,0 +1,501 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**You didn't crank the door open in time.**": {
+    "translation": "你未能及时转动曲柄."
+  },
+  "**You didn't retrieve the battery in time.**": {
+    "translation": "你未能及时取回电池..."
+  },
+  "**We found an Eagle Medal**": {
+    "translation": "我们找到了鹰徽章"
+  },
+  "**We found a Wolf Medal**": {
+    "translation": "我们找到了狼徽章"
+  },
+  "**Rocket launcher is out of ammo**": {
+    "translation": "火箭发射器没有弹药了"
+  },
+  "**We found the Rocket Launcher**": {
+    "translation": "我们找到了火箭发射器"
+  },
+  "**We found a Combat Shotgun**": {
+    "translation": "我们找到了战斗霰弹枪"
+  },
+  "**Shotgun is out of ammo**": {
+    "translation": "霰弹枪没有弹药了"
+  },
+  "**We found a Flamethrower**": {
+    "translation": "我们找到了火焰喷射器"
+  },
+  "**One power source has been restored -- We need more!**": {
+    "translation": "已恢复一个电源."
+  },
+  "**That's it! -- Try to operate the control panel now**": {
+    "translation": "就是这样!现在尝试操作控制面板!"
+  },
+  "**We found a Saw**": {
+    "translation": "我们找到把锯子"
+  },
+  "**We found the Survival Knife**": {
+    "translation": "我们找到了生存小刀"
+  },
+  "**Elevator leaves in 20 seconds**": {
+    "translation": "电梯20秒后离开",
+    "countdown": 20
+  },
+  "**We've reached the comms channel of a passing-by evacuation helicopter**": {
+    "translation": "我们接入了附近撤离直升机的通讯频道"
+  },
+  "**It'll come pick us up on this building's roof!**": {
+    "translation": "直升机会在这栋楼的屋顶接我们!"
+  },
+  "**Do you hear that?**": {
+    "translation": "你听到了吗?"
+  },
+  "**Go and investigate what's going on**": {
+    "translation": "去调查发生了什么"
+  },
+  "**This train is a death trap -- We must escape the facility through some other way**": {
+    "translation": "这列火车是死亡陷阱-我们必须用别的方式离开设施"
+  },
+  "**That sounds like... C4 charges under the traincars?**": {
+    "translation": "听起来像是...车厢下面有C4?"
+  },
+  "**Did we... did we set off a trap?**": {
+    "translation": "我们...我们触发陷阱了吗?"
+  },
+  "**We found a First-Aid Spray**": {
+    "translation": "我们找到了急救喷雾"
+  },
+  "**The doors to the 1st floor will open in 5 sec**": {
+    "translation": "1楼大门5秒后打开",
+    "countdown": 5
+  },
+  "**kar98 is out of ammo**": {
+    "translation": "卡宾枪没有弹药了"
+  },
+  "**We found the kar98k**": {
+    "translation": "我们找到了卡宾枪"
+  },
+  "**We found a crank**": {
+    "translation": "我们找到了曲柄"
+  },
+  "**This lever may come in handy**": {
+    "translation": "这根拉杆或许有用"
+  },
+  "**Museum window will open in 15 seconds**": {
+    "translation": "博物馆窗户15秒后打开",
+    "countdown": 15
+  },
+  "**Museum doors will open in 10 seconds**": {
+    "translation": "博物馆大门10秒后打开",
+    "countdown": 10
+  },
+  "**Shop doors will open in 7 seconds**": {
+    "translation": "商店大门7秒后打开",
+    "countdown": 7
+  },
+  "**Books shop door will open in 20 seconds**": {
+    "translation": "书店大门20秒后打开",
+    "countdown": 20
+  },
+  "**Apartments doors will open soon**": {
+    "translation": "公寓大门即将打开"
+  },
+  "**Office doors will open in 8 seconds**": {
+    "translation": "办公室大门8秒后打开",
+    "countdown": 8
+  },
+  "**FALL BACK**": {
+    "translation": "后撤"
+  },
+  "**ze_Resident_Evil_3**": {
+    "translation": "生化危机3"
+  },
+  "**Original L4D2 map by Roku**": {
+    "translation": "源自于L4D2 作者: Roku;翻译:@creeper_kk"
+  },
+  "**Full Remake by HaRyDe. Kuroki. Microsoft**": {
+    "translation": "地图重制:HaRyDe. Kuroki. Microsoft"
+  },
+  "**Special thanks: Headsh. Kotya. Friend. Tilgep. Vanyarin. LeXeR. NiceShot**": {
+    "translation": "特别感谢: Headsh. Kotya. Friend. Tilgep. Vanyarin. LeXeR. NiceShot",
+    "blocked": true
+  },
+  "**Defend until the power comes back up**": {
+    "translation": "守到电力恢复"
+  },
+  "**We used both medals to unlock the door**": {
+    "translation": "我们使用两枚徽章打开了大门"
+  },
+  "**We used the crank -- Defend here until the door opens**": {
+    "translation": "我们使用了曲柄-在这里防守20秒",
+    "countdown": 20
+  },
+  "**We found a fuse**": {
+    "translation": "我们找到了保险丝"
+  },
+  "**This side is overrun with zombies -- We need to get out through the back door**": {
+    "translation": "这边被僵尸占领了-我们需要从后门离开"
+  },
+  "**We used the basement key**": {
+    "translation": "我们使用了地下室钥匙"
+  },
+  "**Defend here for 15 seconds**": {
+    "translation": "在此防守15秒",
+    "countdown": 15
+  },
+  "**Doors will close in 5 seconds**": {
+    "translation": "大门5秒后关闭",
+    "countdown": 5
+  },
+  "**Door will open in 25 seconds**": {
+    "translation": "大门25秒后打开",
+    "countdown": 25
+  },
+  "**We used the wrench to repair the generator**": {
+    "translation": "我们用扳手修好了发电机"
+  },
+  "**5 seconds left**": {
+    "translation": "剩余5秒",
+    "countdown": 5
+  },
+  "**We used both gems -- The Raccoon City Hall will open soon**": {
+    "translation": "我们使用了两颗宝石-市政厅即将打开"
+  },
+  "**We found a green gem**": {
+    "translation": "我们找到了绿色宝石"
+  },
+  "**We can use these two gems on that pedestal over at the City Hall!**": {
+    "translation": "我们可以把这两颗宝石放到市政厅的底座上!"
+  },
+  "**We fixed the button with the fuse! The door will open soon**": {
+    "translation": "我们用保险丝修好了按钮!大门即将打开"
+  },
+  "**We found a blue gem**": {
+    "translation": "我们找到了蓝色宝石"
+  },
+  "**This gem might be useful to us later -- Let's keep it for now**": {
+    "translation": "这颗宝石以后可能有用,先留着"
+  },
+  "**This button's fuse is busted -- The door will not open**": {
+    "translation": "这个按钮的保险丝坏了-大门不会打开"
+  },
+  "**Maybe we can find a replacement fuse at the power plant**": {
+    "translation": "也许我们能在发电厂找到备用保险丝"
+  },
+  "**Defend here for 20 seconds**": {
+    "translation": "在此防守20秒",
+    "countdown": 20
+  },
+  "**We found a wrench -- Door opens in 15 seconds**": {
+    "translation": "我们找到了扳手-大门15秒后打开",
+    "countdown": 15
+  },
+  "**Let's go through the parking lot**": {
+    "translation": "让我们穿过停车场"
+  },
+  "**Looks like this road is blocked too**": {
+    "translation": "看来这条路也被堵住了"
+  },
+  "**We found our escape vehicle! The train will leave in 35 seconds**": {
+    "translation": "我们找到了逃生载具!列车35秒后出发",
+    "countdown": 35
+  },
+  "**Train will leave in 10 seconds**": {
+    "translation": "列车10秒后出发",
+    "countdown": 10
+  },
+  "**Door will open in 20 seconds**": {
+    "translation": "大门20秒后打开",
+    "countdown": 20
+  },
+  "**Raccoon Press doors will open in 20 seconds**": {
+    "translation": "新闻社大门20秒后打开",
+    "countdown": 20
+  },
+  "**Alleyway door will open in 15 seconds**": {
+    "translation": "小巷大门15秒后打开",
+    "countdown": 15
+  },
+  "**Two gems are missing from that pedestal**": {
+    "translation": "底座上缺少两颗宝石"
+  },
+  "**Looks like this blue gem we found will come in handy. But where will we find the other one?**": {
+    "translation": "看来这颗蓝色宝石会派上用场.但另一颗在哪里?"
+  },
+  "**The back door is locked -- We need to find the key to open it**": {
+    "translation": "后门上锁了-我们需要找到钥匙打开它"
+  },
+  "**Door will open in 15 seconds**": {
+    "translation": "大门15秒后打开",
+    "countdown": 15
+  },
+  "**The door to the parking lot will open in 20 seconds**": {
+    "translation": "停车场大门20秒后打开",
+    "countdown": 20
+  },
+  "**Door will open in 10 seconds**": {
+    "translation": "大门10秒后打开",
+    "countdown": 10
+  },
+  "**RPD main gate will open in 25 seconds**": {
+    "translation": "主大门25秒后打开",
+    "countdown": 25
+  },
+  "**RPD back gate will open in 10 seconds**": {
+    "translation": "后大门10秒后打开",
+    "countdown": 10
+  },
+  "**Raccoon City is in total turmoil...**": {
+    "translation": "城市陷入了全面混乱..."
+  },
+  "**We may be able to escape if we get to the train station**": {
+    "translation": "如果到达火车站也许就能逃走"
+  },
+  "**Let's go there -- We'll think of what to do once we're there**": {
+    "translation": "去那里吧-到了再想办法"
+  },
+  "**Gate will open in 15 seconds**": {
+    "translation": "大门15秒后打开",
+    "countdown": 15
+  },
+  "**Office back alley door will open in 20 seconds**": {
+    "translation": "办公区后巷大门20秒后打开",
+    "countdown": 20
+  },
+  "**You are too slow**": {
+    "translation": "你太慢了! "
+  },
+  "**The Nemesis has been incapacitated -- This is our chance!**": {
+    "translation": "复仇女神已被击倒-这是我们的机会!"
+  },
+  "**Escape from that facility immediately -- We're going to blow it up with Nemesis in it!**": {
+    "translation": "立刻逃离设施-我们要把复仇女神一起炸掉!"
+  },
+  "**Hard Mode complete! Moving onto Akuma Mode...**": {
+    "translation": "困难模式完成!进入恶魔模式..."
+  },
+  "**Normal Mode completed! Moving onto Hard Mode...**": {
+    "translation": "普通模式完成!进入困难模式..."
+  },
+  "**Zombies are in the train cabin. The ending is failed**": {
+    "translation": "僵尸进入了车厢.结局失败"
+  },
+  "**Upper office door will open in 5 seconds**": {
+    "translation": "上层办公室大门5秒后打开",
+    "countdown": 5
+  },
+  "**Let's grab what we need and get out of here**": {
+    "translation": "拿上需要的东西然后离开这里"
+  },
+  "**We found the key -- Defend for 20 seconds**": {
+    "translation": "我们找到了钥匙-防守20秒",
+    "countdown": 20
+  },
+  "**We need to keep these zombies out of the train so we can escape the city**": {
+    "translation": "我们必须阻止僵尸进入列车才能逃离城市"
+  },
+  "**Nice job! The train will leave in 20 seconds**": {
+    "translation": "干得漂亮!列车20秒后出发",
+    "countdown": 20
+  },
+  "**We're gonna have to take a different path**": {
+    "translation": "我们得换条路走"
+  },
+  "**Damnit! The tunnel has been blown up!**": {
+    "translation": "该死!隧道被炸毁了!"
+  },
+  "**Nemesis is in its desperation phase**": {
+    "translation": "复仇女神进入了绝境阶段"
+  },
+  "**We found a battery**": {
+    "translation": "我们找到了电池"
+  },
+  "**Smells like there's a gas leak...**": {
+    "translation": "闻起来像是煤气泄漏..."
+  },
+  "**Oh no... Nemesis must be planning to blow up the gas station -- GET OUT OF HERE NOW!**": {
+    "translation": "不好...复仇女神一定要炸掉加油站-立刻离开这里!"
+  },
+  "**The storage door will open soon**": {
+    "translation": "仓库大门即将打开"
+  },
+  "**Admin has selected S.T.A.R.S. Mode as next stage**": {
+    "translation": "管理员已选择特战模式作为下一阶段"
+  },
+  "**This is it -- Hold out until the helicopter comes for you**": {
+    "translation": "守住35秒直到直升机来接你",
+    "countdown": 35
+  },
+  "**Get in or get left behind!**": {
+    "translation": "要么上来要么死!"
+  },
+  "**ADMIN PRESSED KILL ALL BUTTON**": {
+    "translation": "管理员按下了全灭按钮"
+  },
+  "**Admin has selected Hard Mode as next stage**": {
+    "translation": "管理员已选择困难模式作为下一阶段"
+  },
+  "**There's been reports of Nemesis lurking around the area -- 120s**": {
+    "translation": "有报告称复仇女神在附近出没"
+  },
+  "**We need to find that fuse and get out of here before it's too late!**": {
+    "translation": "我们必须找到保险丝并尽快离开这里!否则就来不及了!"
+  },
+  "**60 seconds left**": {
+    "translation": "还剩下60秒",
+    "countdown": 60
+  },
+  "**15 seconds left**": {
+    "translation": "剩余15秒",
+    "countdown": 15,
+    "blocked": true
+  },
+  "**You took too long**": {
+    "translation": "你用时太久了!"
+  },
+  "**You have 120 seconds to extract the battery out of the compartment**": {
+    "translation": "你有120秒把电池从舱室取出"
+  },
+  "**We need to be fast before Nemesis catches up to us**": {
+    "translation": "在复仇女神追上来之前我们得快点行动"
+  },
+  "**Seems like we need a crank to roll that door open**": {
+    "translation": "看来我们需要曲柄才能把门卷起来打开"
+  },
+  "**Good thing we found one along the way... right?**": {
+    "translation": "幸好我们路上找到了一个...对吧?"
+  },
+  "**10 seconds left to open the door**": {
+    "translation": "还剩10秒打开大门",
+    "countdown": 10
+  },
+  "**You did not retrieve the train's steering wheel in time**": {
+    "translation": "你未能及时取回列车方向盘"
+  },
+  "**This entire place is a ticking timebomb**": {
+    "translation": "这里就像一颗正在倒计时的炸弹"
+  },
+  "**We need to find the train's steering wheel in 120 seconds**": {
+    "translation": "我们需要在120秒内找到列车方向盘"
+  },
+  "**Or else this whole place will blow up and we'll die**": {
+    "translation": "否则这里会爆炸我们都会死"
+  },
+  "**60 seconds left until the explosion**": {
+    "translation": "爆炸倒计时60秒",
+    "countdown": 60,
+    "clearTimer": true
+  },
+  "**15 seconds left until the explosion**": {
+    "translation": "爆炸倒计时15秒",
+    "countdown": 15
+  },
+  "**Admin has selected Akuma Mode as next stage**": {
+    "translation": "管理员已选择恶魔模式作为下一阶段"
+  },
+  "**Normal Mode**": {
+    "translation": "普通模式"
+  },
+  "**Let's begin...**": {
+    "translation": "开始吧..."
+  },
+  "**The door will open in 5 seconds -- Get ready**": {
+    "translation": "大门5秒后打开-准备好"
+  },
+  "OnStartTouch>cmd>Command>**Normal Mode - Ending A cleared!**>8>1": {
+    "translation": "普通模式-结局一通关!"
+  },
+  "**Akumu / 悪 夢 Mode**": {
+    "translation": "噩梦模式"
+  },
+  "OnStartTouch>cmd>Command>**Akumu Mode - Ending B cleared!**>8>1": {
+    "translation": "噩梦模式-结局二通关!"
+  },
+  "**Hard Mode**": {
+    "translation": "困难模式"
+  },
+  "OnStartTouch>cmd>Command>**Hard Mode - Ending A cleared!**>8>1": {
+    "translation": "困难模式-结局一通关!"
+  },
+  "OnStartTouch>cmd>Command>**Hard Mode - Ending B cleared!**>8>1": {
+    "translation": "困难模式-结局二通关!"
+  },
+  "**Warmup Round -- The game will start in 5 seconds**": {
+    "translation": "热身回合-游戏5秒后开始",
+    "blocked": true
+  },
+  "**Warmup Round -- The game will start in 20 seconds**": {
+    "translation": "热身回合-游戏20秒后开始",
+    "blocked": true
+  },
+  "**Warmup Round -- The game will start in 40 seconds**": {
+    "translation": "热身回合-游戏40秒后开始",
+    "blocked": true
+  },
+  "**Akuma Mode completed!**": {
+    "translation": "恶梦模式完成!"
+  },
+  "**Congratulations! You have beaten the map!**": {
+    "translation": "恭喜!你们通关了这张地图!"
+  },
+  "**What's happening to us?**": {
+    "translation": "我们怎么了?"
+  },
+  "**This virus... it's eating us alive!**": {
+    "translation": "这种病毒...正在吞噬我们的生命!"
+  },
+  "**Entered the correct password**": {
+    "translation": "输入了正确密码"
+  },
+  "**Entered the incorrect password**": {
+    "translation": "输入了错误密码"
+  },
+  "**reset**": {
+    "translation": "重置"
+  },
+  "**Note: I left the password to the safe on the shelf of William Shakespeares Tragedies in the bookstore**": {
+    "translation": "提示:我把保险箱密码放在书店书架上的莎士比亚悲剧集中."
+  },
+  "**Note: This zombie outbreak is similar to the one at Spencer Mansion. so I think theyre somehow related. I send you a full countdown soon**": {
+    "translation": "提示:这次僵尸爆发与斯宾塞宅邸那次很像.所以我认为它们有关联.我很快把完整倒计时发给你."
+  },
+  "**Note: Mom disappeared somewhere and Dad went looking for her. He told me not to open the door to anyone until he returned**": {
+    "translation": "提示:妈妈失踪了爸爸去找她.他让我在他回来前不要给任何人开门."
+  },
+  "**Note: For now I place my dolls all over the museum. My mother will be happy when she sees them**": {
+    "translation": "提示:我暂时把玩偶摆在博物馆各处.妈妈看到会很开心."
+  },
+  "**Note: Some madman bit Robert on the arm. A policeman pulled him away and we managed to escape**": {
+    "translation": "提示:有个疯子咬了罗伯特的手臂.一名警察把他拉开我们才逃出来."
+  },
+  "**Note: I wanted to get the rifle from the basement. but I forgot where you hid the key. We are going to the hospital and will wait for you there**": {
+    "translation": "提示:我想从地下室拿步枪.但我忘了你把钥匙藏在哪.我们要去医院并在那等你."
+  },
+  "**Note: I put the fuse in storage. People have gone mad and are devouring each other. I advise you to leave the city at the first opportunity**": {
+    "translation": "提示:我把保险丝放在仓库.人们都疯了在互相吞食.我建议一有机会就离开城市."
+  },
+  "**Note: Its a complete mess here. There arent enough weapons for everyone. I left a shotgun in the parking lot especially for you**": {
+    "translation": "提示:这里一团糟.武器不够分给所有人.我特意在停车场给你留了一把霰弹枪."
+  },
+  "**Note: I hope you can make it there. Then break through to the train station**": {
+    "translation": "提示:希望你能赶到那里.然后突围到火车站."
+  },
+  "**Note: Umbrella Corp announced a change in the primary distribution point for our products**": {
+    "translation": "提示:保护伞公司宣布更改我们产品的主要配送点."
+  },
+  "**Note: I dont understand why they in such a rush. I send you the coordinates for their new base soon**": {
+    "translation": "提示:我不明白他们为何这么着急.我很快把新基地坐标发给你."
+  }
+}
