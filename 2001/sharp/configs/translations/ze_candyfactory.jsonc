@@ -1,0 +1,667 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Act:序章 结束": {
+    "translation": "Act:序章 结束"
+  },
+  "垃圾场大门将于20s后打开": {
+    "translation": "垃圾场大门将于20s后打开",
+    "countdown": 20
+  },
+  "垃圾场大门将于10s后打开": {
+    "translation": "垃圾场大门将于10s后打开",
+    "countdown": 10
+  },
+  "垃圾场大门将于5s后打开": {
+    "translation": "垃圾场大门将于5s后打开",
+    "countdown": 5
+  },
+  "[10s后僵尸传送]": {
+    "translation": "10s后僵尸传送",
+    "countdown": 10
+  },
+  "下水道入口将于20s后打开": {
+    "translation": "下水道入口将于20s后打开",
+    "countdown": 20
+  },
+  "下水道入口将于10s后打开": {
+    "translation": "下水道入口将于10s后打开",
+    "countdown": 10
+  },
+  "下水道入口将于5s后打开": {
+    "translation": "下水道入口将于5s后打开",
+    "countdown": 5
+  },
+  "上门将于60s后打开": {
+    "translation": "上门将于60s后打开",
+    "countdown": 60
+  },
+  "上门将于30s后打开": {
+    "translation": "上门将于30s后打开",
+    "countdown": 30
+  },
+  "上门将于20s后打开": {
+    "translation": "上门将于20s后打开",
+    "countdown": 20
+  },
+  "上门将于10s后打开": {
+    "translation": "上门将于10s后打开",
+    "countdown": 10
+  },
+  "上门将于5s后打开": {
+    "translation": "上门将于5s后打开",
+    "countdown": 5
+  },
+  "下门将于20s后打开": {
+    "translation": "下门将于20s后打开",
+    "countdown": 20
+  },
+  "下门将于10s后打开": {
+    "translation": "下门将于10s后打开",
+    "countdown": 10
+  },
+  "下门将于5s后打开": {
+    "translation": "下门将于5s后打开",
+    "countdown": 5
+  },
+  "咦呃 难怪下水道这么臭": {
+    "translation": "咦呃 难怪下水道这么臭"
+  },
+  "完了 好像要喷射了": {
+    "translation": "完了 好像要喷射了"
+  },
+  "主路已贴门触发": {
+    "translation": "主路已触发"
+  },
+  "侧路已贴门触发": {
+    "translation": "侧路已触发"
+  },
+  "栈道上侧门将于10s后打开": {
+    "translation": "栈道上侧门将于10s后打开",
+    "countdown": 10
+  },
+  "栈道上侧门将于5s后打开": {
+    "translation": "栈道上侧门将于5s后打开",
+    "countdown": 5
+  },
+  "栈道二门将于30s后打开": {
+    "translation": "栈道二门将于30s后打开",
+    "countdown": 30
+  },
+  "栈道二门将于20s后打开": {
+    "translation": "栈道二门将于20s后打开",
+    "countdown": 20
+  },
+  "栈道二门将于10s后打开": {
+    "translation": "栈道二门将于10s后打开",
+    "countdown": 10
+  },
+  "栈道二门将于5s后打开": {
+    "translation": "栈道二门将于5s后打开",
+    "countdown": 5
+  },
+  "电梯将于20s后上升": {
+    "translation": "电梯将于20s后上升",
+    "countdown": 20
+  },
+  "电梯将于10s后上升": {
+    "translation": "电梯将于10s后上升",
+    "countdown": 10
+  },
+  "电梯将于5s后上升": {
+    "translation": "电梯将于5s后上升",
+    "countdown": 5
+  },
+  "隧道小门将于20s后打开": {
+    "translation": "隧道小门将于20s后打开",
+    "countdown": 20
+  },
+  "隧道小门将于10s后打开": {
+    "translation": "隧道小门将于10s后打开",
+    "countdown": 10
+  },
+  "隧道小门将于5s后打开": {
+    "translation": "隧道小门将于5s后打开",
+    "countdown": 5
+  },
+  "你拒绝了黑哥的电话": {
+    "translation": "你拒绝了黑哥的电话"
+  },
+  "你将受到黑哥的惩罚": {
+    "translation": "你将受到黑哥的惩罚"
+  },
+  "你接受了黑哥的电话": {
+    "translation": "你接受了黑哥的电话"
+  },
+  "哟 这个隧道来了新访客": {
+    "translation": "哟 这个隧道来了新访客"
+  },
+  "你能看到我的金项链吗 24K的": {
+    "translation": "你能看到我的金项链吗 24K的"
+  },
+  "什么你想要通过这个隧道": {
+    "translation": "什么你想要通过这个隧道"
+  },
+  "又一群糖果追求者": {
+    "translation": "又一群糖果追求者"
+  },
+  "先经过Catr的考验再说吧": {
+    "translation": "先经过Catr的考验再说吧"
+  },
+  "好像有什么动静...": {
+    "translation": "好像有什么动静..."
+  },
+  "快跑!!!": {
+    "translation": "快跑!!!"
+  },
+  "你们通过了Catr的考验": {
+    "translation": "你们通过了Catr的考验"
+  },
+  "但还不够...": {
+    "translation": "但还不够..."
+  },
+  "栈道下侧门将于10s后打开": {
+    "translation": "栈道下侧门将于10s后打开",
+    "countdown": 10
+  },
+  "栈道下侧门将于5s后打开": {
+    "translation": "栈道下侧门将于5s后打开",
+    "countdown": 5
+  },
+  "安全通道将于30s后打开": {
+    "translation": "安全通道将于30s后打开",
+    "countdown": 30
+  },
+  "安全通道将于20s后打开": {
+    "translation": "安全通道将于20s后打开",
+    "countdown": 20
+  },
+  "安全通道将于10s后打开": {
+    "translation": "安全通道将于10s后打开",
+    "countdown": 10
+  },
+  "安全通道将于5s后打开": {
+    "translation": "安全通道将于5s后打开",
+    "countdown": 5
+  },
+  "通道门将于20s后打开": {
+    "translation": "通道门将于20s后打开",
+    "countdown": 20
+  },
+  "通道门将于10s后打开": {
+    "translation": "通道门将于10s后打开",
+    "countdown": 10
+  },
+  "通道门将于5s后打开": {
+    "translation": "通道门将于5s后打开",
+    "countdown": 5
+  },
+  "主升降梯将于50s后离开": {
+    "translation": "主升降梯将于50s后离开",
+    "countdown": 50
+  },
+  "主升降梯将于30s后离开": {
+    "translation": "主升降梯将于30s后离开",
+    "countdown": 30
+  },
+  "主升降梯将于20s后离开": {
+    "translation": "主升降梯将于20s后离开",
+    "countdown": 20
+  },
+  "主升降梯将于10s后离开": {
+    "translation": "主升降梯将于10s后离开",
+    "countdown": 10
+  },
+  "主升降梯将于5s后离开": {
+    "translation": "主升降梯将于5s后离开",
+    "countdown": 5
+  },
+  "逃生出口将于30s后打开": {
+    "translation": "逃生出口将于30s后打开",
+    "countdown": 30
+  },
+  "逃生出口将于20s后打开": {
+    "translation": "逃生出口将于20s后打开",
+    "countdown": 20
+  },
+  "逃生出口将于10s后打开": {
+    "translation": "逃生出口将于10s后打开",
+    "countdown": 10
+  },
+  "逃生出口将于5s后离打开": {
+    "translation": "逃生出口将于5s后离打开",
+    "countdown": 5
+  },
+  "Act:I 结束": {
+    "translation": "Act:I 结束"
+  },
+  "商场大门将于10s后打开": {
+    "translation": "商场大门将于10s后打开",
+    "countdown": 10
+  },
+  "商场大门将于5s后打开": {
+    "translation": "商场大门将于5s后打开",
+    "countdown": 5
+  },
+  "商场暗房将于20s后打开": {
+    "translation": "商场暗房将于20s后打开",
+    "countdown": 20
+  },
+  "商场暗房将于10s后打开": {
+    "translation": "商场暗房将于10s后打开",
+    "countdown": 10
+  },
+  "商场暗房将于5s后打开": {
+    "translation": "商场暗房将于5s后打开",
+    "countdown": 5
+  },
+  "电梯井门将于50s后打开": {
+    "translation": "电梯井门将于50s后打开",
+    "countdown": 20
+  },
+  "电梯井门将于20s后打开": {
+    "translation": "电梯井门将于20s后打开",
+    "countdown": 20
+  },
+  "电梯井门将于30s后打开": {
+    "translation": "电梯井门将于30s后打开",
+    "countdown": 30
+  },
+  "电梯井门将于10s后打开": {
+    "translation": "电梯井门将于10s后打开",
+    "countdown": 10
+  },
+  "电梯井门将于5s后打开": {
+    "translation": "电梯井门将于5s后打开",
+    "countdown": 5
+  },
+  "商场地下门将于25s后打开": {
+    "translation": "商场地下门将于25s后打开",
+    "countdown": 25
+  },
+  "商场地下门将于5s后打开": {
+    "translation": "商场地下门将于5s后打开",
+    "countdown": 5
+  },
+  "商场地下门将于10s后打开": {
+    "translation": "商场地下门将于10s后打开",
+    "countdown": 10
+  },
+  "地下电梯将于20s后上升": {
+    "translation": "地下电梯将于20s后上升",
+    "countdown": 20
+  },
+  "地下电梯将于10s后上升": {
+    "translation": "地下电梯将于10s后上升",
+    "countdown": 10
+  },
+  "地下电梯将于5s后上升": {
+    "translation": "地下电梯将于5s后上升",
+    "countdown": 5
+  },
+  "我去Piggod": {
+    "translation": "我去Piggod"
+  },
+  "额...": {
+    "translation": "额..."
+  },
+  "电梯将于30s后上升": {
+    "translation": "电梯将于30s后上升",
+    "countdown": 30
+  },
+  "[5s后僵尸传送]": {
+    "translation": "5s后僵尸传送",
+    "countdown": 5
+  },
+  "嘿 就是你": {
+    "translation": "嘿 就是你"
+  },
+  "我是糖果商店的老板": {
+    "translation": "我是糖果商店的老板"
+  },
+  "想必你也很喜欢糖果吧": {
+    "translation": "想必你也很喜欢糖果吧"
+  },
+  "美味的糖果": {
+    "translation": "美味的糖果"
+  },
+  "就因为他太上头了": {
+    "translation": "就因为他太上头了"
+  },
+  "所有人变卖家产都要得到一颗糖果": {
+    "translation": "所有人变卖家产都要得到一颗糖果"
+  },
+  "想必你也是来追求糖果的吧": {
+    "translation": "想必你也是来追求糖果的吧"
+  },
+  "毕竟每个人都喜欢糖果": {
+    "translation": "毕竟每个人都喜欢糖果"
+  },
+  "我可以给你工厂的入场券": {
+    "translation": "我可以给你工厂的入场券"
+  },
+  "什么？？？？ 你恨透了糖果": {
+    "translation": "什么 你恨透了糖果"
+  },
+  "再无话说": {
+    "translation": "再无话说"
+  },
+  "你别想得到任何东西！！！": {
+    "translation": "你别想得到任何东西"
+  },
+  "运输板将于10s后离开": {
+    "translation": "运输板将于10s后离开",
+    "countdown": 10
+  },
+  "运输板将于5s后离开": {
+    "translation": "运输板将于5s后离开",
+    "countdown": 5
+  },
+  "天台门将于10s后打开": {
+    "translation": "天台门将于10s后打开",
+    "countdown": 10
+  },
+  "天台门将于5s后打开": {
+    "translation": "天台门将于5s后打开",
+    "countdown": 5
+  },
+  "你摧毁了我的糖果!!!": {
+    "translation": "你摧毁了我的糖果"
+  },
+  "不": {
+    "translation": "不"
+  },
+  "电梯将于20s后启动": {
+    "translation": "电梯将于20s后启动",
+    "countdown": 20
+  },
+  "电梯将于10s后启动": {
+    "translation": "电梯将于10s后启动",
+    "countdown": 10
+  },
+  "电梯将于5s后启动": {
+    "translation": "电梯将于5s后启动",
+    "countdown": 5
+  },
+  "逃离了吗?": {
+    "translation": "逃离了吗?"
+  },
+  "真吓人 好像上面是出口": {
+    "translation": "真吓人 好像上面是出口"
+  },
+  "怎么回事": {
+    "translation": "怎么回事"
+  },
+  "大门将于30s后打开": {
+    "translation": "大门将于30s后打开",
+    "countdown": 30
+  },
+  "大门将于20s后打开": {
+    "translation": "大门将于20s后打开",
+    "countdown": 20
+  },
+  "大门将于10s后打开": {
+    "translation": "大门将于10s后打开",
+    "countdown": 10
+  },
+  "大门将于5s后打开": {
+    "translation": "大门将于5s后打开",
+    "countdown": 5
+  },
+  "朝天花板的石锥射击!!": {
+    "translation": "朝天花板的石锥射击!!"
+  },
+  "壁岩机关将于20s后启动": {
+    "translation": "壁岩机关将于20s后启动",
+    "countdown": 20
+  },
+  "壁岩机关将于10s后启动": {
+    "translation": "壁岩机关将于10s后启动",
+    "countdown": 10
+  },
+  "壁岩机关将于5s后启动": {
+    "translation": "壁岩机关将于5s后启动",
+    "countdown": 5
+  },
+  "20s后将进入工厂内部": {
+    "translation": "20s后将进入工厂内部",
+    "countdown": 20
+  },
+  "5s后将进入工厂内部": {
+    "translation": "5s后将进入工厂内部",
+    "countdown": 5
+  },
+  "10s后将进入工厂内部": {
+    "translation": "10s后将进入工厂内部",
+    "countdown": 10
+  },
+  "等待...": {
+    "translation": "等待..."
+  },
+  "跳下去!!": {
+    "translation": "跳下去!!"
+  },
+  "卷帘门将于15s后打开": {
+    "translation": "卷帘门将于15s后打开",
+    "countdown": 15
+  },
+  "卷帘门将于5s后打开": {
+    "translation": "卷帘门将于5s后打开",
+    "countdown": 5
+  },
+  "激光将于30s后关闭": {
+    "translation": "激光将于30s后关闭",
+    "countdown": 30
+  },
+  "激光将于5s后关闭": {
+    "translation": "激光将于5s后关闭",
+    "countdown": 5
+  },
+  "激光将于20s后关闭": {
+    "translation": "激光将于20s后关闭",
+    "countdown": 20
+  },
+  "激光将于10s后关闭": {
+    "translation": "激光将于10s后关闭",
+    "countdown": 10
+  },
+  "货物将于10s后上升": {
+    "translation": "货物将于10s后上升",
+    "countdown": 10
+  },
+  "货物将于5s后上升": {
+    "translation": "货物将于5s后上升",
+    "countdown": 5
+  },
+  "电梯井门将于40s后打开": {
+    "translation": "电梯井门将于40s后打开",
+    "countdown": 40
+  },
+  "电梯将在5s后运转": {
+    "translation": "电梯将在5s后运转"
+  },
+  "最终激光将于20s后关闭": {
+    "translation": "最终激光将于20s后关闭",
+    "countdown": 20
+  },
+  "最终激光将于10s后关闭": {
+    "translation": "最终激光将于10s后关闭",
+    "countdown": 10
+  },
+  "最终激光将于5s后关闭": {
+    "translation": "最终激光将于5s后关闭",
+    "countdown": 5
+  },
+  "运载板正在下降...": {
+    "translation": "运载板正在下降..."
+  },
+  "电梯将于20s后离开": {
+    "translation": "电梯将于20s后离开",
+    "countdown": 20
+  },
+  "电梯将于10s后离开": {
+    "translation": "电梯将于10s后离开",
+    "countdown": 10
+  },
+  "电梯将于5s后离开": {
+    "translation": "电梯将于5s后离开",
+    "countdown": 5
+  },
+  "木板将于20s后落下": {
+    "translation": "木板将于20s后落下",
+    "countdown": 20
+  },
+  "木板将于10s后落下": {
+    "translation": "木板将于10s后落下",
+    "countdown": 10
+  },
+  "木板将于5s后落下": {
+    "translation": "木板将于5s后落下",
+    "countdown": 5
+  },
+  "最终大门将于30s后打开": {
+    "translation": "最终大门将于30s后打开",
+    "countdown": 30
+  },
+  "最终大门将于20s后打开": {
+    "translation": "最终大门将于20s后打开",
+    "countdown": 20
+  },
+  "最终大门将于10s后打开": {
+    "translation": "最终大门将于10s后打开",
+    "countdown": 10
+  },
+  "最终大门将于5s后打开": {
+    "translation": "最终大门将于5s后打开",
+    "countdown": 5
+  },
+  "小升降梯将于30s后离开": {
+    "translation": "小升降梯将于30s后离开",
+    "countdown": 30
+  },
+  "小升降梯将于20s后离开": {
+    "translation": "小升降梯将于20s后离开",
+    "countdown": 20
+  },
+  "小升降梯将于10s后离开": {
+    "translation": "小升降梯将于10s后离开",
+    "countdown": 10
+  },
+  "小升降梯将于5s后离开": {
+    "translation": "小升降梯将于5s后离开",
+    "countdown": 5
+  },
+  "控制室小门将于30s后打开": {
+    "translation": "控制室小门将于30s后打开",
+    "countdown": 30
+  },
+  "控制室小门将于20s后打开": {
+    "translation": "控制室小门将于20s后打开",
+    "countdown": 20
+  },
+  "控制室小门将于10s后打开": {
+    "translation": "控制室小门将于10s后打开",
+    "countdown": 10
+  },
+  "控制室小门将于5s后离打开": {
+    "translation": "控制室小门将于5s后离打开",
+    "countdown": 5
+  },
+  "竞技场将于15s后启动": {
+    "translation": "竞技场将于15s后启动",
+    "countdown": 15
+  },
+  "竞技场将于10s后启动": {
+    "translation": "竞技场将于10s后启动",
+    "countdown": 10
+  },
+  "竞技场将于5s后启动": {
+    "translation": "竞技场将于5s后启动",
+    "countdown": 5
+  },
+  "[打爆所有糖果才能激活道路]": {
+    "translation": "打爆所有糖果才能激活道路"
+  },
+  "闹剧终于结束了": {
+    "translation": "闹剧终于结束了"
+  },
+  "是时候反击Baby了!!": {
+    "translation": "是时候反击Baby了!!"
+  },
+  "[15s后僵尸传送]": {
+    "translation": "15s后僵尸传送",
+    "countdown": 15
+  },
+  "[20s后僵尸传送]": {
+    "translation": "20s后僵尸传送",
+    "countdown": 20
+  },
+  "终于找到你了": {
+    "translation": "终于找到你了"
+  },
+  "Baby!!!!": {
+    "translation": "Baby!!!!"
+  },
+  "[朝Baby头盔射击]": {
+    "translation": "朝Baby头盔射击"
+  },
+  "挡板将于15s后打开": {
+    "translation": "挡板将于15s后打开",
+    "countdown": 15
+  },
+  "挡板将于5s后打开": {
+    "translation": "挡板将于5s后打开",
+    "countdown": 5
+  },
+  "90%": {
+    "translation": "90%"
+  },
+  "这是什么地方": {
+    "translation": "这是什么地方"
+  },
+  "什么?!?!": {
+    "translation": "什么?!?!"
+  },
+  "作者有些话说": {
+    "translation": "作者有些话说"
+  },
+  "这个作品是从2025年8月份开始制作的": {
+    "translation": "这个作品是从2025年8月份开始制作的"
+  },
+  "也是我的第一份作品": {
+    "translation": "也是我的第一份作品"
+  },
+  "谢谢所有支持我完成作品的人": {
+    "translation": "谢谢所有支持我完成作品的人"
+  },
+  "谢谢你们的游玩": {
+    "translation": "谢谢你们的游玩"
+  },
+  "你们过关了!!!": {
+    "translation": "你们过关了!!!"
+  },
+  "Act:III 结束": {
+    "translation": "Act:III 结束"
+  },
+  "这死猪又来了": {
+    "translation": "这死猪又来了"
+  },
+  "我真服了 快点打爆他": {
+    "translation": "我真服了 快点打爆他"
+  },
+  "[岩浆喷发仿佛5s间隔一次]": {
+    "translation": "岩浆喷发仿佛5s间隔一次"
+  },
+  "Act:II 结束": {
+    "translation": "Act:II 结束"
+  }
+}
