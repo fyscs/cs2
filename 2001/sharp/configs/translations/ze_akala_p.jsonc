@@ -1,0 +1,115 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "DOOR OPENS IN 30 SECONDS": {
+    "translation": "门将在 30 秒后打开"
+  },
+  "DOOR OPENS IN 5 SECONDS": {
+    "translation": "门将在 5 秒后打开"
+  },
+  "DEFEND THE JUMPS": {
+    "translation": "防守跳跃点"
+  },
+  "FALL BACK": {
+    "translation": "撤退"
+  },
+  "LAND ON THE TREES!!!": {
+    "translation": "跳到树上!!!"
+  },
+  "HOLD THE CRUSHERS": {
+    "translation": "守住粉碎机区域"
+  },
+  "DOOR BREAKING IN 25 SECONDS": {
+    "translation": "门将在 25 秒后被打破"
+  },
+  "DOOR BREAKING IN 5 SECONDS": {
+    "translation": "门将在 5 秒后被打破"
+  },
+  "AFK TP IN 10 SECONDS": {
+    "translation": "挂机传送将在 10 秒后执行"
+  },
+  "DEFEND JUMPS": {
+    "translation": "防守跳跃点"
+  },
+  "MAP MADE BY TELO": {
+    "translation": "地图作者：TELO,翻译:白姬"
+  },
+  "DOOR BREAKING IN 30 SECONDS": {
+    "translation": "门将在 30 秒后被打破"
+  },
+  "DEFEND THE PILLARS": {
+    "translation": "防守柱子区域"
+  },
+  "DOOR BREAKNING IN 20 SECONDS": {
+    "translation": "门将在 20 秒后被打破"
+  },
+  "HOLD THE GARBAGE PILES": {
+    "translation": "守住垃圾堆"
+  },
+  "DOOR BREAKNING IN 30 SECONDS": {
+    "translation": "门将在 30 秒后被打破"
+  },
+  "HOLD THE SPINNING BARRELS": {
+    "translation": "守住旋转桶区域"
+  },
+  "HELP BRIDGES SPAWNING IN 8 SECONDS": {
+    "translation": "救援桥梁将在 8 秒后生成"
+  },
+  "RUN! WE HAVE TO TAKE A LEAP!": {
+    "translation": "跑!我们必须跳了!"
+  },
+  "YOU FAILED TO KILL THE ZOMBIES IN TIME!": {
+    "translation": "你未能在时间内杀死僵尸！"
+  },
+  "DEFEND THE BOXES": {
+    "translation": "防守箱子区域"
+  },
+  "HAHAHA DID YOU REALLY THINK A BUNKER WOULD SAVE YOU?": {
+    "translation": "哈哈哈 你真的以为地堡能救你吗?"
+  },
+  "CONTINUE YOUR ESCAPE FROM HERE": {
+    "translation": "从这里继续你的逃生"
+  },
+  "WE WILL FIND A PLACE TO SURVIVE EVENTUALLY... RIGHT?": {
+    "translation": "我们最终会找到一个生存的地方... 对吧?"
+  },
+  "DOOR WILL OPEN SHORTLY": {
+    "translation": "门即将打开"
+  },
+  "AFK TP IN 30 SECONDS": {
+    "translation": "挂机传送将在 30 秒后执行"
+  },
+  "DOOR OPENS IN 20 SECONDS": {
+    "translation": "门将在 20 秒后打开"
+  },
+  "DEFEND THE WATER": {
+    "translation": "防守水源处"
+  },
+  "GO TO THE SAFE HOUSE DO NOT CLIMB THE TOWER": {
+    "translation": "去安全屋 不要爬塔"
+  },
+  "NUKE IN 15 SECONDS": {
+    "translation": "核弹将在 15 秒后引爆"
+  },
+  "NUKE IN 5 SECONDS": {
+    "translation": "核弹将在 5 秒后引爆"
+  },
+  "DEFEND THE SAFE HOUSE": {
+    "translation": "防守安全屋"
+  },
+  "AFK TP IN 5 SECONDS": {
+    "translation": "挂机传送将在 5 秒后执行"
+  },
+  "NUKE IN 30 SECONDS": {
+    "translation": "核弹将在 30 秒后引爆"
+  }
+}
