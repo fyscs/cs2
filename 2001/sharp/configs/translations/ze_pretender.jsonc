@@ -1,0 +1,343 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** requires more than 70% of the votes to start the game!! **": {
+    "translation": "需要超过70%的投票才能开始游戏!!"
+  },
+  "** Welcome, brave heroes! Spend your earnings to enhance your attributes or equip yourselves with better weapons! **": {
+    "translation": "欢迎,勇敢的英雄们!花费你的收益来提升属性或装备更好的武器!"
+  },
+  "** more money **": {
+    "translation": "更多金钱"
+  },
+  "** clear money **": {
+    "translation": "清空金钱"
+  },
+  "** skip vote **": {
+    "translation": "跳过投票"
+  },
+  "*** Map by wolfkk ***": {
+    "translation": "地图作者:wolfkk 文本:Zeyu1"
+  },
+  "*** ze_pretender ***": {
+    "translation": "奶龙历险记"
+  },
+  "*** Thanks for your play ***": {
+    "translation": "感谢游玩"
+  },
+  "** chapter1 **": {
+    "translation": "第1章"
+  },
+  "** chapter2 **": {
+    "translation": "第2章"
+  },
+  "kill all": {
+    "translation": "全部击杀"
+  },
+  "** Vote passed.Game starting now! **": {
+    "translation": "投票通过.游戏现在开始!"
+  },
+  "** Extra **": {
+    "translation": "额外"
+  },
+  "** chapter1:The Mysterious Forest**": {
+    "translation": "第1章:神秘森林"
+  },
+  "** chapter2:The Creepy Castle**": {
+    "translation": "第2章:诡异城堡"
+  },
+  "**  chapter3:hell  **": {
+    "translation": "第3章:地狱"
+  },
+  "** fuck off **": {
+    "translation": "滚开"
+  },
+  "** chapter3 **": {
+    "translation": "第3章"
+  },
+  "** heaven **": {
+    "translation": "天堂"
+  },
+  "** deep hell **": {
+    "translation": "深层地狱"
+  },
+  "**  chapter0.3:Bunker  **": {
+    "translation": "第0.3章:地堡"
+  },
+  "** zombie unlock magichand **": {
+    "translation": "僵尸解锁-magichand"
+  },
+  "** zombie unlock doakes **": {
+    "translation": "僵尸解锁-doakes"
+  },
+  "** zombie unlock jump **": {
+    "translation": "僵尸解锁-高跳"
+  },
+  "** Waiting for the map to load for the next chapter. **": {
+    "translation": "正在等待 下一章节地图加载."
+  },
+  "** You have to go through the portal to get to the next level. **": {
+    "translation": "你必须穿过传送门才能到达下一关."
+  },
+  "** chapter114514:Future **": {
+    "translation": "第114514章:未来"
+  },
+  "pick up 50G": {
+    "translation": "拾取50G"
+  },
+  "pick up 10G": {
+    "translation": "拾取10G"
+  },
+  "pick up 20G": {
+    "translation": "拾取20G"
+  },
+  "** zombie pick up jump **": {
+    "translation": "僵尸拾取-高跳"
+  },
+  "** zombie pick up doakes **": {
+    "translation": "僵尸拾取-doakes"
+  },
+  "** zombie pick up magichand **": {
+    "translation": "僵尸拾取-magichand"
+  },
+  "** zombie pick up hammer **": {
+    "translation": "僵尸拾取-锤子"
+  },
+  "** Someone got a score of 200. **": {
+    "translation": "有人获得了200分."
+  },
+  "** come in **": {
+    "translation": "进来"
+  },
+  "** Welcome to the jungle **": {
+    "translation": "欢迎来到丛林"
+  },
+  "** Wait 20 seconds for the stone to explode **": {
+    "translation": "等待20秒让石头爆炸",
+    "countdown": 20
+  },
+  "** Wait 30 seconds for the stone to explode **": {
+    "translation": "等待30秒让石头爆炸",
+    "countdown": 30
+  },
+  "** So you are still alive. You are our last hope. Kill Void and save our people. **": {
+    "translation": "所以你还活着.你是我们最后的希望.杀死VOID并拯救我们的人民."
+  },
+  "** Watch out for the creepy laughter. That marks the infected among us. **": {
+    "translation": "小心诡异的笑声.那代表我们之中有感染者."
+  },
+  "** Wait 30 seconds for the stone to break **": {
+    "translation": "等待30秒让石头破碎",
+    "countdown": 30
+  },
+  "** Wait 20 seconds for the stone to break **": {
+    "translation": "等待20秒让石头破碎",
+    "countdown": 20
+  },
+  "** You've killed that bastard beast, the bridge will activate in 5 seconds. **": {
+    "translation": "你杀死了那个混蛋野兽,桥梁将在5秒后启动."
+  },
+  "** run!!! **": {
+    "translation": "快跑!!!"
+  },
+  "** More power surged forth, and Void summoned 2 servants from the zombies, unleashing them after 10 seconds. **": {
+    "translation": "更多力量涌现,虚空从僵尸中召唤了2名仆从,并将在10秒后释放它们."
+  },
+  "** Light calls out to you **": {
+    "translation": "光明正在呼唤你"
+  },
+  "** Wait 40 seconds for the stone to explode **": {
+    "translation": "等待40秒让石头爆炸",
+    "countdown": 40
+  },
+  "** Wait 10 seconds to open next gate **": {
+    "translation": "等待10秒打开下一道门",
+    "countdown": 10
+  },
+  "** Wait 46 seconds to open the iron gate **": {
+    "translation": "等待46秒打开铁门",
+    "countdown": 46
+  },
+  "** Darkness will arrive in 9 seconds. **": {
+    "translation": "黑暗将在9秒后到来.",
+    "countdown": 9
+  },
+  "** Wait 15 seconds to open **": {
+    "translation": "等待15秒打开",
+    "countdown": 15
+  },
+  "** Wait 30 seconds to open **": {
+    "translation": "等待30秒打开",
+    "countdown": 30
+  },
+  "** Wait 30 seconds open right door **": {
+    "translation": "等待30秒打开右门",
+    "countdown": 30
+  },
+  "** Wait 15 seconds open left door **": {
+    "translation": "等待15秒打开左门",
+    "countdown": 15
+  },
+  "** Wait 20 seconds explode left wall **": {
+    "translation": "等待20秒炸开左墙",
+    "countdown": 20
+  },
+  "** Wait 30 seconds open left lift **": {
+    "translation": "等待30秒打开左侧升降梯",
+    "countdown": 30
+  },
+  "** Wait 20 seconds open right lift **": {
+    "translation": "等待20秒打开右侧升降梯",
+    "countdown": 20
+  },
+  "** Wait 30 seconds open center lift **": {
+    "translation": "等待30秒打开中央升降梯",
+    "countdown": 30
+  },
+  "** Wait 20 seconds explode right wall **": {
+    "translation": "等待20秒炸开右墙",
+    "countdown": 20
+  },
+  "** Wait 30 seconds explode face **": {
+    "translation": "等待30秒炸开脸部",
+    "countdown": 30
+  },
+  "** Follow the light!!  **": {
+    "translation": "跟随光明!!"
+  },
+  "** Darkness will arrive in 16 seconds. **": {
+    "translation": "黑暗将在16秒后到来.",
+    "countdown": 16
+  },
+  "** You have unleashed hell. **": {
+    "translation": "你释放了地狱."
+  },
+  "** Wait 30 seconds explode **": {
+    "translation": "等待30秒爆炸",
+    "countdown": 30
+  },
+  "** 15seconds later open zombie's tp **": {
+    "translation": "15秒后打开僵尸传送",
+    "countdown": 15
+  },
+  "** Wait 20 seconds open **": {
+    "translation": "等待20秒打开",
+    "countdown": 20
+  },
+  "** Wait 15 seconds to open the iron gate **": {
+    "translation": "等待15秒打开铁门",
+    "countdown": 15
+  },
+  "** Wait 30 seconds break **": {
+    "translation": "等待30秒破碎",
+    "countdown": 30
+  },
+  "** Darkness will arrive in 10 seconds. **": {
+    "translation": "黑暗将在10秒后到来.",
+    "countdown": 10
+  },
+  "** Welcome to my kingdom, baby **": {
+    "translation": "欢迎来到我的王国,宝贝"
+  },
+  "** Wait 30 seconds explode epstain's body **": {
+    "translation": "等待30秒炸开Epstain的身体",
+    "countdown": 30
+  },
+  "** I feel like I'm almost cumming. **": {
+    "translation": "我感觉快要射了."
+  },
+  "** Oh no, I'm gonna blow! **": {
+    "translation": "哦不,我要爆了!"
+  },
+  "** lever pull 1/3 **": {
+    "translation": "拉下拉杆1/3"
+  },
+  "** lever pull 2/3 **": {
+    "translation": "拉下拉杆2/3"
+  },
+  "** lever pull 3/3 **": {
+    "translation": "拉下拉杆3/3"
+  },
+  "** I will enjoy your service. **": {
+    "translation": "我会享受你的服务."
+  },
+  "** Wait 15 seconds break 67boys mouth **": {
+    "translation": "等待15秒打破boys的嘴",
+    "countdown": 15
+  },
+  "** Wait 15 seconds open next door **": {
+    "translation": "等待15秒打开下一扇门",
+    "countdown": 15
+  },
+  "** No, you are not allowed to blow up my den. **": {
+    "translation": "不,你不准炸毁我的巢穴."
+  },
+  "** Allahu Akbar **": {
+    "translation": "真主至大"
+  },
+  "** Don't touch me **": {
+    "translation": "不要碰我"
+  },
+  "** Wait 10 seconds open end door**": {
+    "translation": "等待10秒打开终点门",
+    "countdown": 10
+  },
+  "** August 12, 2036, the universe died dead! **": {
+    "translation": "2036年8月12日,宇宙彻底死亡!"
+  },
+  "** Disable zombie start tp **": {
+    "translation": "禁用僵尸起始传送"
+  },
+  "** Welcome to Charlie Kirk's private den. Feel free to indulge in all the pleasures. **": {
+    "translation": "欢迎来到Charlie的私人巢穴.尽情享受所有乐趣吧."
+  },
+  "** It looks like it's been abandoned for a long time. **": {
+    "translation": "看起来这里已经被废弃很久了."
+  },
+  "** Watch out for the sandstorms. **": {
+    "translation": "小心沙尘暴."
+  },
+  "** Wait 25 seconds open **": {
+    "translation": "等待25秒打开",
+    "countdown": 25
+  },
+  "** Darkness will arrive in 15 seconds. **": {
+    "translation": "黑暗将在15秒后到来.",
+    "countdown": 15
+  },
+  "** 10seconds later open zombie's tp **": {
+    "translation": "10秒后打开僵尸传送",
+    "countdown": 10
+  },
+  "** Welcome to the year 114514. **": {
+    "translation": "欢迎来到114514年"
+  },
+  "** Slay all humans at home in 25 seconds. **": {
+    "translation": "在25秒内击杀家中的所有人类",
+    "countdown": 25
+  },
+  "** Wait 30 seconds open **": {
+    "translation": "等待30秒打开",
+    "countdown": 30
+  },
+  "** Wait 35 seconds open **": {
+    "translation": "等待35秒打开",
+    "countdown": 35
+  },
+  "** Darkness will arrive in 25 seconds. **": {
+    "translation": "黑暗将在25秒后到来",
+    "countdown": 25
+  },
+  "** I'm going to blow your testicles into. **": {
+    "translation": "我要把你的魔丸炸掉"
+  }
+}
