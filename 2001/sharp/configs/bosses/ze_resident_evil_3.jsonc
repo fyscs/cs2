@@ -26,7 +26,19 @@
       "iterator": "parking_nemesis_counter",
       "backup": "parking_nemesis_hp_backup",
       "counter": "parking_nemesis_hp_iterations",
-      "display": "Random_Nemesis"
+      "display": "Nemesis"
+    },
+    {
+      "iterator": "house_nemesis_counter",
+      "backup": "house_nemesis_hp_backup",
+      "counter": "house_nemesis_hp_iterations",
+      "display": "Nemesis"
+    },
+    {
+      "iterator": "random_crocodile_counter",
+      "backup": "random_crocodiles_hp_backup",
+      "counter": "random_crocodile_hp_iterations",
+      "display": "鳄鱼"
     },
     {
       "iterator": "Special_Health",
@@ -38,10 +50,6 @@
     {
       "identity": "16055",
       "display": "油桶"
-    },
-    {
-      "identity": "17705",
-      "display": "鳄鱼"
     },
     {
       "identity": "47668",
