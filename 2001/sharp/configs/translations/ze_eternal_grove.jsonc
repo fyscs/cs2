@@ -132,7 +132,7 @@
     "blocked": true
   },
   "***doorwood3 WILL OPEN IN 40 SECONDS***": {
-    "translation": "树枝前的木门将在40秒后打开",
+    "translation": "树枝上的木门将在40秒后打开",
     "countdown": 40
   },
   "***doorwood3 WILL OPEN IN 20 SECONDS***": {
@@ -190,11 +190,11 @@
     "translation": "作者:Luffaren 移植:Waffel 翻译@creeper_kk"
   },
   "***PUSH WILL ENABLE IN 60 SECONDS***": {
-    "translation": "上升推力将在60秒后生效",
+    "translation": "上升推流将在60秒后生效",
     "countdown": 60
   },
   "***HUMANS ON BRIDGE WILL DIE IN 35 SECONDS***": {
-    "translation": "停留在桥上的玩家将在35秒后处死.",
+    "translation": "停留在后面的玩家将在35秒后处死.",
     "countdown": 35
   },
   "***WOODEN DOOR WILL OPEN IN 40 SECONDS***": {
