@@ -26,19 +26,19 @@
       "iterator": "Bergan_boss1_attack_HP1",
       "counter": "Bergan_boss1_attack_HP2",
       "mass": 100,
-      "display": "Bergan"
+      "display": "Bergan (1/2)"
     },
     {
       "iterator": "Bergan_boss2_attack_HP1",
       "counter": "Bergan_boss2_attack_HP2",
       "mass": 100,
-      "display": "Bergan_2"
+      "display": "Bergan (2/2)"
     },
     {
       "iterator": "BehemothRed_Boss_Attack_HP1",
       "counter": "BehemothRed_Boss_Attack_HP2",
       "mass": 104,
-      "display": "BehemothRed"
+      "display": "Behemoth"
     },
     {
       "iterator": "Gabranth_boss2_attack_HP1",
@@ -50,7 +50,7 @@
       "iterator": "sanctuary_keeper_boss_HP1",
       "counter": "sanctuary_keeper_boss_HP2",
       "mass": 128,
-      "display": "SanctuaryKeeper"
+      "display": "Sanctuary Keeper"
     },
     {
       "iterator": "Adrammelech_boss_counter",
@@ -58,15 +58,15 @@
     },
     {
       "iterator": "Ending_boss1_laser_counter",
-      "display": "Ending_boss1"
+      "display": "Zargabaath"
     },
     {
       "iterator": "ending_boss2_laser_HP",
-      "display": "Ending_boss2"
+      "display": "Gabranth"
     },
     {
       "iterator": "Mojie_miniboss_counter",
-      "display": "Mojie_miniboss"
+      "display": "Adrammelech"
     },
     {
       "iterator": "Bergan_boss1_attack_moon_HP",
@@ -79,18 +79,22 @@
       "display": "Venat"
     }
   ],
-  "Monsters": [
+  "Breakables": [
     {
-      "identity": "6098",
+      "target": "lvl1_crystal_ending_model",
       "display": "水晶"
     },
     {
-      "identity": "2859",
+      "target": "Shield_boss_laser_breakable",
       "display": "盾牌"
     },
     {
-      "identity": "2558",
+      "target": "Random_event_Cactus_physbox",
       "display": "仙人掌"
+    },
+    {
+      "target": "Random_event_imperial_army_physbox",
+      "display": "Guard"
     }
   ]
 }
