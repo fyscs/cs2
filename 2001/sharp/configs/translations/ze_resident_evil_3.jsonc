@@ -214,7 +214,8 @@
   },
   "**Train will leave in 10 seconds**": {
     "translation": "列车10秒后出发",
-    "countdown": 10
+    "countdown": 10,
+    "clearTimer": true
   },
   "**Door will open in 20 seconds**": {
     "translation": "大门20秒后打开",
@@ -278,10 +279,10 @@
     "translation": "你太慢了! "
   },
   "**The Nemesis has been incapacitated -- This is our chance!**": {
-    "translation": "复仇女神已被击倒-这是我们的机会!"
+    "translation": "追迹者已被击倒-这是我们的机会!"
   },
   "**Escape from that facility immediately -- We're going to blow it up with Nemesis in it!**": {
-    "translation": "立刻逃离设施-我们要把复仇女神一起炸掉!"
+    "translation": "立刻逃离设施-我们要把追迹者一起炸掉!"
   },
   "**Hard Mode complete! Moving onto Akuma Mode...**": {
     "translation": "困难模式完成!进入恶魔模式..."
@@ -317,16 +318,17 @@
     "translation": "该死!隧道被炸毁了!"
   },
   "**Nemesis is in its desperation phase**": {
-    "translation": "复仇女神进入了绝境阶段"
+    "translation": "追迹者进入了绝境阶段"
   },
   "**We found a battery**": {
     "translation": "我们找到了电池"
   },
   "**Smells like there's a gas leak...**": {
-    "translation": "闻起来像是煤气泄漏..."
+    "translation": "闻起来像是煤气泄漏...",
+    "clearTimer": true
   },
   "**Oh no... Nemesis must be planning to blow up the gas station -- GET OUT OF HERE NOW!**": {
-    "translation": "不好...复仇女神一定要炸掉加油站-立刻离开这里!"
+    "translation": "不好...追迹者一定要炸掉加油站-立刻离开这里!"
   },
   "**The storage door will open soon**": {
     "translation": "仓库大门即将打开"
@@ -348,7 +350,7 @@
     "translation": "管理员已选择困难模式作为下一阶段"
   },
   "**There's been reports of Nemesis lurking around the area -- 120s**": {
-    "translation": "有报告称复仇女神在附近出没"
+    "translation": "有报告称追迹者在附近出没"
   },
   "**We need to find that fuse and get out of here before it's too late!**": {
     "translation": "我们必须找到保险丝并尽快离开这里!否则就来不及了!"
@@ -369,7 +371,7 @@
     "translation": "你有120秒把电池从舱室取出"
   },
   "**We need to be fast before Nemesis catches up to us**": {
-    "translation": "在复仇女神追上来之前我们得快点行动"
+    "translation": "在追迹者追上来之前我们得快点行动"
   },
   "**Seems like we need a crank to roll that door open**": {
     "translation": "看来我们需要曲柄才能把门卷起来打开"
