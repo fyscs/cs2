@@ -77,16 +77,16 @@
   ],
   "Monsters": [
     {
-        "identity": "6857",
-        "display": "Energy Tube"
+      "identity": "6857",
+      "display": "Energy Tube"
     },
     {
-        "identity": "6781",
-        "display": "Energy Tube"
+      "identity": "6781",
+      "display": "Energy Tube"
     },
     {
-        "identity": "7067",
-        "display": "Container"
+      "identity": "7067",
+      "display": "Container"
     }
   ]
 }
