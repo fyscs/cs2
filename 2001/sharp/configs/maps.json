@@ -1071,7 +1071,7 @@
     "requiredPlayers": 45
   },
   "ze_cyberderp": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 60,
     "nomination": true,
