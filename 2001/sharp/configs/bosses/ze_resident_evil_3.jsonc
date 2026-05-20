@@ -58,6 +58,14 @@
     {
       "identity": "47670",
       "display": "Npc_Head"
+    },
+    {
+      "identity": "80594",
+      "display": "舔舐者"
+    },
+    {
+      "identity": "80580",
+      "display": "舔舐者的舌头"
     }
   ]
 }
