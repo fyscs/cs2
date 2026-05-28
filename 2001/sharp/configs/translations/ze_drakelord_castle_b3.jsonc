@@ -1,4 +1,4 @@
-﻿// Console SayText i18n file generator.
+// Console SayText i18n file generator.
 // i18n Version v21
 // Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
@@ -68,7 +68,7 @@
     "translation": "最终大门正在关闭"
   },
   "***MAP BY LUFFAREN***": {
-    "translation": "地图作者:luffaren 翻译:zib1&Zeyu"
+    "translation": "地图作者:luffaren 翻译:zib1 & Zeyu"
   },
   "***BETA VERSION - MORE THINGS TO COME***": {
     "translation": "BETA版本,更多内容soon"
