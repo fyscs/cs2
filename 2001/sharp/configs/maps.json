@@ -4265,6 +4265,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 35
   },
+  "ze_rats_escape": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_rawnscape_p": {
     "admin": false,
     "certainTimes": [-1],
