@@ -1,5 +1,5 @@
-// Round Reward configuration file generator.
-// Reward Version v22
+// Console SayText i18n file generator.
+// i18n Version v21
 // Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
@@ -20,7 +20,7 @@
     "translation": "炉子按钮已被按下!"
   },
   "There is a RAT! KILL THE RAT!": {
-    "translation": "前有老鼠一只出没！"
+    "translation": "前有老鼠一只出没!"
   },
   "Defend here 30 seconds!": {
     "translation": "在这里防守 30 秒!"
@@ -47,13 +47,13 @@
     "translation": "找到出路!"
   },
   "Split here! We have to defend two sides!": {
-    "translation": "分开防守！我们必须防守两翼!"
+    "translation": "分开防守!我们必须防守两翼!"
   },
   "Someone have to go down!": {
     "translation": "有人必须下去!"
   },
   "FALL BACK!": {
-    "translation": "撤退！"
+    "translation": "撤退!"
   },
   "WE DID IT!": {
     "translation": "我们做到了!"
