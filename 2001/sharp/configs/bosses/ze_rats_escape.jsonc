@@ -24,7 +24,7 @@
   "Breakables": [
     {
       "target": "Rat_Boss_Breakable",
-      "display": "老鼠一只"
+      "display": "老鼠"
     }
   ]
 }
