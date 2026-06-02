@@ -1,0 +1,67 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "The rat is dead!": {
+    "translation": "你干翻老鼠了!"
+  },
+  "Zombie Teleport 5 Seconds": {
+    "translation": "僵尸5秒后传送"
+  },
+  "Stove button has been pressed!": {
+    "translation": "炉子按钮已被按下!"
+  },
+  "There is a RAT! KILL THE RAT!": {
+    "translation": "前有老鼠出没!"
+  },
+  "Defend here 30 seconds!": {
+    "translation": "在这里防守 30 秒!"
+  },
+  "Defend 30 seconds!": {
+    "translation": "防守 30 秒!"
+  },
+  "Defend and wait for sponge!": {
+    "translation": "防守并等待海绵移动!"
+  },
+  "Sponge is moving!": {
+    "translation": "海绵在移动!"
+  },
+  "Remake by AleksanderNen": {
+    "translation": "由 AleksanderNen 重制"
+  },
+  "Map by Skydush": {
+    "translation": "由 Skydush 制作"
+  },
+  "Port by Charlie": {
+    "translation": "移植@Charlie,翻译@白姬"
+  },
+  "Find the way out!": {
+    "translation": "找到出路!"
+  },
+  "Split here! We have to defend two sides!": {
+    "translation": "分开防守!我们必须防守两翼!"
+  },
+  "Someone have to go down!": {
+    "translation": "有人必须下去!"
+  },
+  "FALL BACK!": {
+    "translation": "撤退!"
+  },
+  "WE DID IT!": {
+    "translation": "我们做到了!"
+  },
+  "Defend and find the way!": {
+    "translation": "防守并寻找出路!"
+  },
+  "Zombie teleport 10 seconds!": {
+    "translation": "僵尸10秒后传送!"
+  }
+}
