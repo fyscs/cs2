@@ -26,13 +26,13 @@
       "iterator": "parking_nemesis_counter",
       "backup": "parking_nemesis_hp_backup",
       "counter": "parking_nemesis_hp_iterations",
-      "display": "Nemesis"
+      "display": "追迹者"
     },
     {
       "iterator": "house_nemesis_counter",
       "backup": "house_nemesis_hp_backup",
       "counter": "house_nemesis_hp_iterations",
-      "display": "Nemesis"
+      "display": "追迹者"
     },
     {
       "iterator": "random_crocodile_counter",
@@ -43,7 +43,7 @@
     {
       "iterator": "Special_Health",
       "hitbox": "Nemesis_Phys_Body",
-      "display": "Nemesis"
+      "display": "追迹者"
     }
   ],
   "Monsters": [
@@ -53,11 +53,11 @@
     },
     {
       "identity": "47668",
-      "display": "Npc_Base"
+      "display": "NPC的身体"
     },
     {
       "identity": "47670",
-      "display": "Npc_Head"
+      "display": "NPC的头"
     },
     {
       "identity": "80594",
