@@ -43,7 +43,7 @@
       "display": "吸血鬼"
     },
     {
-      "iterator": "[PR#]mob_grudge_math",
+      "iterator": "mob_grudge_math",
       "hitbox": "boss_break2",
       "display": "脑波怪2"
     },
