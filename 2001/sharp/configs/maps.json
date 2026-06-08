@@ -2990,7 +2990,7 @@
   "ze_maontain_escape": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 140,
+    "cooldown": 80,
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
