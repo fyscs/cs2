@@ -1,0 +1,82 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<MINES DETONATION IN 20 SECONDS>>": {
+    "translation": "<<MINES DETONATION IN 20 SECONDS>>"
+  },
+  "<<BOULDERS DETONATION IN 40 SECONDS>>": {
+    "translation": "<<BOULDERS DETONATION IN 40 SECONDS>>"
+  },
+  "<<ZOMBIES ARE BLOCKED FOR 5 SECONDS>>": {
+    "translation": "<<ZOMBIES ARE BLOCKED FOR 5 SECONDS>>"
+  },
+  "<<SPAWN ADVANCE IN 15 SECONDS>>": {
+    "translation": "<<SPAWN ADVANCE IN 15 SECONDS>>"
+  },
+  "<<HIDDEN DOOR OPENS IN 35 SECONDS>>": {
+    "translation": "<<HIDDEN DOOR OPENS IN 35 SECONDS>>"
+  },
+  "<<HIDDEN DOOR OPENS IN 5 SECONDS>>": {
+    "translation": "<<HIDDEN DOOR OPENS IN 5 SECONDS>>"
+  },
+  "<<DOOR BREAKS IN 30 SECONDS>>": {
+    "translation": "<<DOOR BREAKS IN 30 SECONDS>>"
+  },
+  "<<DESTRUCTION OF THE REACTOR IN 75 SECONDS>>": {
+    "translation": "<<DESTRUCTION OF THE REACTOR IN 75 SECONDS>>"
+  },
+  "<<CHICKENS FLYING AWAY IN 65 SECONDS>>": {
+    "translation": "<<CHICKENS FLYING AWAY IN 65 SECONDS>>"
+  },
+  "<<CHICKENS FLYING AWAY IN 5 SECONDS>>": {
+    "translation": "<<CHICKENS FLYING AWAY IN 5 SECONDS>>"
+  },
+  "<<DESTRUCTION OF THE REACTOR IN 5 SECONDS>>": {
+    "translation": "<<DESTRUCTION OF THE REACTOR IN 5 SECONDS>>"
+  },
+  "<<MINE DETONATION IN 30 SECONDS>>": {
+    "translation": "<<MINE DETONATION IN 30 SECONDS>>"
+  },
+  "<<WALL IS DESTROYED>>": {
+    "translation": "<<WALL IS DESTROYED>>"
+  },
+  "<<CLIMB THE STRUCTURE>>": {
+    "translation": "<<CLIMB THE STRUCTURE>>"
+  },
+  "<<FINAL SPAWN ADVANCE IN 35 SECONDS>>": {
+    "translation": "<<FINAL SPAWN ADVANCE IN 35 SECONDS>>"
+  },
+  "<<LASERS DISABLING IN 30 SECONDS>>": {
+    "translation": "<<LASERS DISABLING IN 30 SECONDS>>"
+  },
+  "<<LASERS ARE DISABLED>>": {
+    "translation": "<<LASERS ARE DISABLED>>"
+  },
+  "<<TWIN SWORDS HAS BEEN FOUND>>": {
+    "translation": "<<TWIN SWORDS HAS BEEN FOUND>>"
+  },
+  "<<MAP BY Shinsengumi00>>": {
+    "translation": "<<MAP BY Shinsengumi00>>"
+  },
+  "<<With Special Thanks to Moo.TheDoctor>>": {
+    "translation": "<<With Special Thanks to Moo.TheDoctor>>"
+  },
+  "<<PORT BY Charlie>>": {
+    "translation": "<<PORT BY Charlie>>"
+  },
+  "<<GRAVITATIONAL BOOSTER HAS BEEN FOUND>>": {
+    "translation": "<<GRAVITATIONAL BOOSTER HAS BEEN FOUND>>"
+  },
+  "<<SWORDS READY>>": {
+    "translation": "<<SWORDS READY>>"
+  }
+}
