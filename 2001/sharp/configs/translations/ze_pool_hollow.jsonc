@@ -9,12 +9,6 @@
   // clearTimer (bool) -> 清除所有倒计时
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
-  // 可用字段:
-  // blocked    (bool) -> 屏蔽本句输出
-  // clearText  (bool) -> 清除所有HUD文本
-  // clearTimer (bool) -> 清除所有倒计时
-  // countdown  (int)  -> 添加特殊的独立的倒计时
-
 {
   "作者：161可爱的米库": {
     "translation": "作者:161可爱的米库"
