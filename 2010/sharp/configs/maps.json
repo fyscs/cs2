@@ -125,6 +125,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "de_cpl_mill": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 16,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "de_dust2": {
     "admin": false,
     "certainTimes": [-1],
