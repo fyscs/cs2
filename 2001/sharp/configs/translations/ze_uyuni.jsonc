@@ -1,0 +1,106 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "FAIL": {
+    "translation": "失败"
+  },
+  "STAGE 2 Complete": {
+    "translation": "第2关完成"
+  },
+  "20 seconds": {
+    "translation": "20 秒"
+  },
+  "10 seconds": {
+    "translation": "10 秒"
+  },
+  "5 seconds": {
+    "translation": "5 秒"
+  },
+  "25 seconds": {
+    "translation": "25 秒"
+  },
+  "15 seconds": {
+    "translation": "15 秒"
+  },
+  "30 seconds": {
+    "translation": "30 秒"
+  },
+  "50 seconds": {
+    "translation": "50 秒"
+  },
+  "avoid the red area": {
+    "translation": "避开红色区域"
+  },
+  "crouch": {
+    "translation": "蹲下"
+  },
+  "40 seconds": {
+    "translation": "40 秒"
+  },
+  "LOOK DOWN": {
+    "translation": "向下看"
+  },
+  "STAGE 1 Complete": {
+    "translation": "第 1 关完成"
+  },
+  "ZOMBIE": {
+    "translation": "尸笼已开启"
+  },
+  "avoid the wall": {
+    "translation": "避开前方墙壁"
+  },
+  "Kill the Boss in 120 seconds": {
+    "translation": "在 120 秒内击杀 Boss"
+  },
+  "STAGE 1": {
+    "translation": "第 1 关"
+  },
+  "STAGE 2": {
+    "translation": "第 2 关"
+  },
+  "STAGE 3 COMPLETE": {
+    "translation": "第 3 关完成"
+  },
+  "THANK YOU FOR PLAYING": {
+    "translation": "感谢游玩!文本:Korihana"
+  },
+  "STAGE 3": {
+    "translation": "第 3 关"
+  },
+  "The admin pressed the STAGE 3 button": {
+    "translation": "管理员设置了第三关"
+  },
+  "laser beam charging": {
+    "translation": "激光充能中"
+  },
+  "Run away": {
+    "translation": "快跑"
+  },
+  "The platform on the right will break soon": {
+    "translation": "右侧平台即将崩塌"
+  },
+  "The platform on the left will break soon": {
+    "translation": "左侧平台即将崩塌"
+  },
+  "loading practice mode": {
+    "translation": "正在加载练习模式"
+  },
+  "The admin pressed the STAGE 2 button": {
+    "translation": "管理员设置了第二关"
+  },
+  "The admin pressed the STAGE 1 button": {
+    "translation": "管理员设置了第一关"
+  },
+  "The admin pressed the PRACTICE MODE button": {
+    "translation": "管理员按下了练习模式按钮"
+  }
+}

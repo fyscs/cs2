@@ -1,0 +1,124 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "+++ heal  has been found +++": {
+    "translation": "治疗已拾取"
+  },
+  "+++ zombie heal has been found +++": {
+    "translation": "僵尸治疗已拾取"
+  },
+  "+++ zombie rocket has been found +++": {
+    "translation": "僵尸火箭已拾取"
+  },
+  "+++ teleport pad has been found +++": {
+    "translation": "传送垫已拾取"
+  },
+  "+++ barricade has been found +++": {
+    "translation": "路障已拾取"
+  },
+  "--- FINAL DOOR OPENS IN 25 SECONDS ---": {
+    "translation": "最终大门将在25秒后打开"
+  },
+  "--- DOOR OPENS IN 25 SECONDS ---": {
+    "translation": "大门将在25秒后打开"
+  },
+  "+++ ammo has been found +++": {
+    "translation": "弹药已拾取"
+  },
+  "+++ exploding barrel has been found +++": {
+    "translation": "爆炸桶已拾取"
+  },
+  "+++ flamethrower has been found +++": {
+    "translation": "火焰喷射器已拾取"
+  },
+  "+++ mine  has been found +++": {
+    "translation": "地雷已拾取"
+  },
+  "--- shoot and break the wood beams my man ---": {
+    "translation": "射击并打破木梁"
+  },
+  "--- created by king buzzo ---": {
+    "translation": "地图作者:king buzzo 文本:Zeyu1"
+  },
+  "--- this is our final hold ---": {
+    "translation": "这是我们最后的防守"
+  },
+  "--- keep resisting ---": {
+    "translation": "继续防守"
+  },
+  "*** max rooms: 5 ***": {
+    "translation": "最大房间数:5"
+  },
+  "*** max rooms: 10 ***": {
+    "translation": "最大房间数:10"
+  },
+  "*** max rooms: 15 ***": {
+    "translation": "最大房间数:15"
+  },
+  "*** INFINITE MODE ***": {
+    "translation": "无限模式"
+  },
+  "*** SURVIVE FOR 60 MINUTES ***": {
+    "translation": "生存60分钟"
+  },
+  "*** OR JUST RTV, MAP IS BEATEN LOL ***": {
+    "translation": "或者直接重新投票,地图已经通关了"
+  },
+  "*** CONGRATULATION ON BEATING MAP YOU ARE THE REAL WINNER ***": {
+    "translation": "恭喜通关地图,你是真正的赢家"
+  },
+  "--- kill remanining zombies ---": {
+    "translation": "击杀剩余僵尸"
+  },
+  "--- level passed ---": {
+    "translation": "关卡通过"
+  },
+  "--- no humans detected, level failed ---": {
+    "translation": "未检测到人类,关卡失败"
+  },
+  "--- adding 5 rooms next round ---": {
+    "translation": "下一回合增加5个房间"
+  },
+  "--- thank you for playing ---": {
+    "translation": "感谢游玩"
+  },
+  "--- map created by king buzzo ---": {
+    "translation": "地图作者:king buzzo 文本:Zeyu1"
+  },
+  "--- door breaks in 30 seconds ---": {
+    "translation": "大门将在30秒后破裂"
+  },
+  "--- hold here for a good time ---": {
+    "translation": "在这里防守一段时间"
+  },
+  "---keep it up ---": {
+    "translation": "继续防守"
+  },
+  "--- closing in 5s ---": {
+    "translation": "将在5秒后关闭"
+  },
+  "--- kill zombies in the room ---": {
+    "translation": "击杀房间内的僵尸"
+  },
+  "*** ADMIN SET STAGE 1 ***": {
+    "translation": "管理员设置-关卡1"
+  },
+  "*** ADMIN SET STAGE 2 ***": {
+    "translation": "管理员设置-关卡2"
+  },
+  "*** ADMIN SET STAGE 3 ***": {
+    "translation": "管理员设置-关卡3"
+  },
+  "*** ADMIN SET INFINITE MODE ***": {
+    "translation": "管理员设置-无限模式"
+  }
+}

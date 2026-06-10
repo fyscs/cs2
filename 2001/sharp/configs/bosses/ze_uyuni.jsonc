@@ -1,0 +1,68 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Proxy": true,
+  "Counters": [
+    {
+      "iterator": "hp_boss_normal",
+      "hitbox": "phy_boss_normal",
+      "display": "雪与星之天空"
+    },
+    {
+      "iterator": "hp_boss_hard",
+      "hitbox": "lv2_boss_night_phy, lv2_boss_morning_phy",
+      "display": "光与暗之天空"
+    },
+    {
+      "iterator": "lv2_boss_killer_counter",
+      "hitbox": "lv2_boss_killer_phy",
+      "display": "杀戮之光"
+    },
+    {
+      "iterator": "lv2_end_boss_counter",
+      "hitbox": "lv2_end_boss_phy",
+      "display": "破坏之光"
+    },
+    {
+      "iterator": "lv3_midboss_counter",
+      "hitbox": "lv3_mid_boss_phy",
+      "display": "崩坏之光"
+    },
+    {
+      "iterator": "lv3_mid_boss2_counter",
+      "hitbox": "lv3_mid_boss2_phy",
+      "display": "崩坏之水"
+    },
+    {
+      "iterator": "Edge_Health",
+      "hitbox": "Edge_Physbox",
+      "display": "崩坏之天空"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "394248",
+      "display": "雕像"
+    }
+  ]
+}

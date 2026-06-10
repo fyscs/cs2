@@ -1,0 +1,208 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "WARMUP - 60 SECONDS LEFT***": {
+    "translation": "热身时间-还剩60秒"
+  },
+  "***WARMUP MODE DISABLED FOR NEXT ROUND***": {
+    "translation": "热身回合已在下回合禁用"
+  },
+  "***WARMUP - 30 SECONDS LEFT***": {
+    "translation": "热身时间-还剩30秒",
+    "blocked": true
+  },
+  "***GOOD LUCK***": {
+    "translation": "祝你好运."
+  },
+  "***SKIPPING TO TEMPLE***": {
+    "translation": "管理员选择跳转到神庙"
+  },
+  "***ERROR GOTOTEMPLE - DO IT BEFORE FIRST LEVER***": {
+    "translation": "操作失败-请在按下第一个拉杆前操作."
+  },
+  "***SKIPPING TO BOSS***": {
+    "translation": "管理员选择跳转到Boss战"
+  },
+  "***STARTING IN 15 SECONDS***": {
+    "translation": "15秒后开始Boss战"
+  },
+  "**ERROR GOTOBOSS - DO IT BEFORE FIRST LEVER***": {
+    "translation": "操作失败-请在按下第一个拉杆前操作."
+  },
+  "***GROVE ENTRANCE OPENING IN 40 SECONDS***": {
+    "translation": "永恒之森的大门将在40秒后打开",
+    "countdown": 40
+  },
+  "***GROVE ENTRANCE OPENING IN 20 SECONDS***": {
+    "translation": "永恒之森的大门将在20秒后打开",
+    "countdown": 20,
+    "blocked": true
+  },
+  "***GROVE ENTRANCE OPENING IN 5 SECONDS***": {
+    "translation": "永恒之森的大门将在5秒后打开",
+    "countdown": 5,
+    "blocked": true
+  },
+  "***GROVE ENTRANCE IS OPENING***": {
+    "translation": "永恒之森的大门正在打开.."
+  },
+  "***WOODEN DOOR1 WILL OPEN IN 30 SECONDS***": {
+    "translation": "第一扇木门将在30秒后打开",
+    "countdown": 30
+  },
+  "***WOODEN DOOR WILL OPEN IN 10 SECONDS***": {
+    "translation": "木门将在10秒后打开",
+    "countdown": 10,
+    "blocked": true
+  },
+  "***WOODEN DOOR IS OPENING***": {
+    "translation": "木门正在打开.."
+  },
+  "***WOODEN DOOR2 WILL OPEN IN 40 SECONDS***": {
+    "translation": "第二扇木门将在40秒后打开",
+    "countdown": 40
+  },
+  "***WOODEN VINES WILL BREAK IN 30 SECONDS***": {
+    "translation": "藤蔓将在30秒后破坏",
+    "countdown": 30
+  },
+  "***WOODEN VINES WILL BREAK IN 10 SECONDS***": {
+    "translation": "藤蔓将在10秒后破坏",
+    "countdown": 10,
+    "blocked": true
+  },
+  "***WOODEN VINES ARE BROKEN***": {
+    "translation": "藤蔓已被破坏.."
+  },
+  "***TEMPLE ENTRANCE OPENING IN 50 SECONDS***": {
+    "translation": "神庙入口将在50秒后打开",
+    "countdown": 50
+  },
+  "***TEMPLE ENTRANCE OPENING IN 30 SECONDS***": {
+    "translation": "神庙入口将在30秒后打开",
+    "countdown": 30,
+    "blocked": true
+  },
+  "***TEMPLE ENTRANCE OPENING IN 10 SECONDS***": {
+    "translation": "神庙入口将在10秒后打开",
+    "countdown": 10,
+    "blocked": true
+  },
+  "***TEMPLE ENTRANCE IS OPENING***": {
+    "translation": "神庙入口正在打开.."
+  },
+  "***DOOR IS OPENING***": {
+    "translation": "有扇门开了.."
+  },
+  "***DOOR OPENING IN 5 SECONDS***": {
+    "translation": "液压机附近的门将在5秒后打开",
+    "countdown": 5
+  },
+  "***DOOR IS OPEN***": {
+    "translation": "液压机的门已经开了"
+  },
+  "***WATCH OUT FOR THE TRAPS***": {
+    "translation": "抬头注意陷阱,别被压成肉饼了"
+  },
+  "***DOOR6 OPENING IN 30 SECONDS***": {
+    "translation": "树干后的门将在30秒后打开",
+    "countdown": 30
+  },
+  "***DOOR6 OPENING IN 10 SECONDS***": {
+    "translation": "树干后的门将在10秒后打开",
+    "countdown": 10,
+    "blocked": true
+  },
+  "***DOOR7 OPENING IN 30 SECONDS***": {
+    "translation": "离开神庙的小门将在30秒后打开",
+    "countdown": 30
+  },
+  "***DOOR7 OPENING IN 10 SECONDS***": {
+    "translation": "离开神庙的小门将在10秒后打开",
+    "countdown": 10,
+    "blocked": true
+  },
+  "***doorwood3 WILL OPEN IN 40 SECONDS***": {
+    "translation": "树枝上的木门将在40秒后打开",
+    "countdown": 40
+  },
+  "***doorwood3 WILL OPEN IN 20 SECONDS***": {
+    "translation": "树枝上的木门将在20秒后打开",
+    "countdown": 20,
+    "blocked": true
+  },
+  "***doorwood3 WILL OPEN IN 10 SECONDS***": {
+    "translation": "树枝上的木门将在10秒后打开",
+    "countdown": 10,
+    "blocked": true
+  },
+  "***doorwood3 WILL OPEN IN 5 SECONDS***": {
+    "translation": "树枝上的木门将在5秒后打开",
+    "countdown": 5,
+    "blocked": true
+  },
+  "***TOWER LIFT LEAVING IN 50 SECONDS***": {
+    "translation": "电梯还有50秒上升",
+    "countdown": 50
+  },
+  "***TOWER LIFT LEAVING IN 30 SECONDS***": {
+    "translation": "电梯还有30秒上升",
+    "countdown": 30,
+    "blocked": true
+  },
+  "***TOWER LIFT LEAVING IN 20 SECONDS***": {
+    "translation": "电梯还有20秒上升",
+    "countdown": 20,
+    "blocked": true
+  },
+  "***TOWER LIFT LEAVING IN 10 SECONDS***": {
+    "translation": "电梯还有10秒上升",
+    "countdown": 10,
+    "blocked": true
+  },
+  "***TOWER LIFT LEAVING IN 5 SECONDS***": {
+    "translation": "电梯还有5秒上升",
+    "countdown": 5,
+    "blocked": true
+  },
+  "***TOWER LIFT IS LEAVING***": {
+    "translation": "电梯上升了.."
+  },
+  "***HUMANS MUST GO AND SLAY THE REMAINING ZOMBIES***": {
+    "translation": "找到并剿灭剩下的僵尸..."
+  },
+  "***STAYING BEHIND WILL RESULT IN DEATH***": {
+    "translation": "倘若无所作为则会导致人类死亡.."
+  },
+  "***HUMANS BEHIND WILL NOW DIE***": {
+    "translation": "留在后面的人将面临死亡.."
+  },
+  "***MAP by Luffaren. Port by Waffel***": {
+    "translation": "作者:Luffaren 移植:Waffel 翻译@creeper_kk"
+  },
+  "***PUSH WILL ENABLE IN 60 SECONDS***": {
+    "translation": "上升推流将在60秒后生效",
+    "countdown": 60
+  },
+  "***HUMANS ON BRIDGE WILL DIE IN 35 SECONDS***": {
+    "translation": "停留在桥上的玩家将在35秒后处死.",
+    "countdown": 35
+  },
+  "***WOODEN DOOR WILL OPEN IN 40 SECONDS***": {
+    "translation": "木门将在40秒后打开",
+    "countdown": 40
+  },
+  "***DOOR OPENING IN 30 SECONDS***": {
+    "translation": "门将在30秒后打开",
+    "countdown": 30
+  }
+}
