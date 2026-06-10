@@ -1,0 +1,79 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Breakables": [
+    {
+      "target": "bone_dragon_Hitbox",
+      "hitbox": "bone_dragon_Model",
+      "display": "Bone_dragon"
+    },
+    {
+      "target": "vermisanguis_Hitbox",
+      "hitbox": "vermisanguis_Model",
+      "display": "Vermisanguis"
+    },
+    {
+      "target": "x_dragon_Hitbox",
+      "hitbox": "x_dragon_Model",
+      "display": "X_dragon"
+    },
+    {
+      "target": "drowned_warden_Hitbox",
+      "hitbox": "drowned_warden_Model",
+      "display": "Drowned_warden"
+    },
+    {
+      "target": "gundyr_Hitbox",
+      "hitbox": "gundyr_Model",
+      "display": "Gundyr"
+    }
+  ],
+  "Counters": [
+    {
+      "iterator": "skeleton_guardian_Health",
+      "hitbox": "skeleton_guardian_Hitbox",
+      "counter": "skeleton_guardian_HealthCount",
+      "backup": "skeleton_guardian_HealthBackup",
+      "reverse": true,
+      "display": "Skeleton_guardian"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "15201",
+      "display": "Mimic"
+    },
+    {
+      "identity": "15261",
+      "display": "Serppentman"
+    },
+    {
+      "identity": "15142",
+      "display": "Knight"
+    },
+    {
+      "identity": "15089",
+      "display": "Andre"
+    }
+  ]
+}
