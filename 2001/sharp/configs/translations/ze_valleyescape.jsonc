@@ -1,6 +1,6 @@
 // Console SayText i18n file generator.
 // i18n Version v21
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -11,72 +11,72 @@
 
 {
   "<<MINES DETONATION IN 20 SECONDS>>": {
-    "translation": "<<MINES DETONATION IN 20 SECONDS>>"
+    "translation": "地雷将在 20 秒后引爆"
   },
   "<<BOULDERS DETONATION IN 40 SECONDS>>": {
-    "translation": "<<BOULDERS DETONATION IN 40 SECONDS>>"
+    "translation": "巨石将在 40 秒后引爆"
   },
   "<<ZOMBIES ARE BLOCKED FOR 5 SECONDS>>": {
-    "translation": "<<ZOMBIES ARE BLOCKED FOR 5 SECONDS>>"
+    "translation": "僵尸被阻挡 5 秒"
   },
   "<<SPAWN ADVANCE IN 15 SECONDS>>": {
-    "translation": "<<SPAWN ADVANCE IN 15 SECONDS>>"
+    "translation": "传送点将在 15 秒后推进"
   },
   "<<HIDDEN DOOR OPENS IN 35 SECONDS>>": {
-    "translation": "<<HIDDEN DOOR OPENS IN 35 SECONDS>>"
+    "translation": "暗门将在 35 秒后开启"
   },
   "<<HIDDEN DOOR OPENS IN 5 SECONDS>>": {
-    "translation": "<<HIDDEN DOOR OPENS IN 5 SECONDS>>"
+    "translation": "暗门将在 5 秒后开启"
   },
   "<<DOOR BREAKS IN 30 SECONDS>>": {
-    "translation": "<<DOOR BREAKS IN 30 SECONDS>>"
+    "translation": "大门将在 30 秒后破损"
   },
   "<<DESTRUCTION OF THE REACTOR IN 75 SECONDS>>": {
-    "translation": "<<DESTRUCTION OF THE REACTOR IN 75 SECONDS>>"
+    "translation": "反应堆将在 75 秒后被毁"
   },
   "<<CHICKENS FLYING AWAY IN 65 SECONDS>>": {
-    "translation": "<<CHICKENS FLYING AWAY IN 65 SECONDS>>"
+    "translation": "鸡群将在 65 秒后飞离"
   },
   "<<CHICKENS FLYING AWAY IN 5 SECONDS>>": {
-    "translation": "<<CHICKENS FLYING AWAY IN 5 SECONDS>>"
+    "translation": "鸡群将在 5 秒后飞离"
   },
   "<<DESTRUCTION OF THE REACTOR IN 5 SECONDS>>": {
-    "translation": "<<DESTRUCTION OF THE REACTOR IN 5 SECONDS>>"
+    "translation": "反应堆将在 5 秒后被毁"
   },
   "<<MINE DETONATION IN 30 SECONDS>>": {
-    "translation": "<<MINE DETONATION IN 30 SECONDS>>"
+    "translation": "地雷将在 30 秒后引爆"
   },
   "<<WALL IS DESTROYED>>": {
-    "translation": "<<WALL IS DESTROYED>>"
+    "translation": "墙体已被摧毁"
   },
   "<<CLIMB THE STRUCTURE>>": {
-    "translation": "<<CLIMB THE STRUCTURE>>"
+    "translation": "爬上去"
   },
   "<<FINAL SPAWN ADVANCE IN 35 SECONDS>>": {
-    "translation": "<<FINAL SPAWN ADVANCE IN 35 SECONDS>>"
+    "translation": "最终传送点将在 35 秒后推进"
   },
   "<<LASERS DISABLING IN 30 SECONDS>>": {
-    "translation": "<<LASERS DISABLING IN 30 SECONDS>>"
+    "translation": "激光将在 30 秒后失效"
   },
   "<<LASERS ARE DISABLED>>": {
-    "translation": "<<LASERS ARE DISABLED>>"
+    "translation": "激光已失效"
   },
   "<<TWIN SWORDS HAS BEEN FOUND>>": {
-    "translation": "<<TWIN SWORDS HAS BEEN FOUND>>"
+    "translation": "已找到双剑"
   },
   "<<MAP BY Shinsengumi00>>": {
-    "translation": "<<MAP BY Shinsengumi00>>"
+    "translation": "地图制作: Shinsengumi00"
   },
   "<<With Special Thanks to Moo.TheDoctor>>": {
-    "translation": "<<With Special Thanks to Moo.TheDoctor>>"
+    "translation": "特别感谢: Moo.TheDoctor"
   },
   "<<PORT BY Charlie>>": {
-    "translation": "<<PORT BY Charlie>>"
+    "translation": "移植制作: Charlie"
   },
   "<<GRAVITATIONAL BOOSTER HAS BEEN FOUND>>": {
-    "translation": "<<GRAVITATIONAL BOOSTER HAS BEEN FOUND>>"
+    "translation": "已找到重力增幅器"
   },
   "<<SWORDS READY>>": {
-    "translation": "<<SWORDS READY>>"
+    "translation": "武器就绪"
   }
 }
