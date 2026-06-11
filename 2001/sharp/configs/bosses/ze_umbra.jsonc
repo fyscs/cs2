@@ -56,24 +56,69 @@
       "backup": "skeleton_guardian_HealthBackup",
       "reverse": true,
       "display": "Skeleton_guardian"
+    },
+    {
+      "iterator": "andre_health_count",
+      "hitbox": "andre_Hitbox",
+      "mass": 130,
+      "display": "Andre"
+    },
+    {
+      "iterator": "phase2_sk_health",
+      "hitbox": "phase_2_sk_phyxbox",
+      "mass": 22,
+      "counter": "phase2_sk_segment",
+      "display": "phase_2_sk"
     }
   ],
   "Monsters": [
     {
       "identity": "15201",
-      "display": "Mimic"
+      "display": "宝箱怪"
     },
     {
       "identity": "15261",
-      "display": "Serppentman"
+      "display": "蛇人"
     },
     {
       "identity": "15142",
-      "display": "Knight"
+      "display": "骑士"
     },
     {
-      "identity": "15089",
-      "display": "Andre"
+      "identity": "15311",
+      "display": "Basalisk"
+    },
+    {
+      "identity": "15498",
+      "display": "野兽"
+    },
+    {
+      "identity": "15387",
+      "display": "暗影"
+    },
+    {
+      "identity": "13012",
+      "display": "龙"
+    },
+    {
+      "identity": "11413",
+      "display": "炸药"
+    },
+    {
+      "identity": "15440",
+      "display": "灵魂体"
+    },
+    {
+      "identity": "11490",
+      "display": "八爪"
+    },
+    {
+      "identity": "15251",
+      "display": "异形"
+    },
+    {
+      "identity": "12767",
+      "display": "蠕虫"
     }
   ]
 }
