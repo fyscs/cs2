@@ -1,0 +1,94 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> PLAYER HAS PICKED UP BAZOOKA <<<": {
+    "translation": "玩家已拾取火箭筒"
+  },
+  ">>> PLAYER HAS PICKED UP TURRET <<<": {
+    "translation": "玩家已拾取炮塔"
+  },
+  ">>> PLAYER HAS PICKED UP WIND <<<": {
+    "translation": "玩家已拾取风"
+  },
+  ">>> PLAYER USED WIND <<<": {
+    "translation": "玩家使用了风"
+  },
+  ">>> PLAYER HAS PICKED UP HEAL <<<": {
+    "translation": "玩家已拾取治疗"
+  },
+  ">>> PLAYER USED HEAL <<<": {
+    "translation": "玩家使用了治疗"
+  },
+  ">>> PLAYER USED LASER <<<": {
+    "translation": "玩家使用了激光"
+  },
+  "*** Wait 30 sec ! ***": {
+    "translation": "等待30秒"
+  },
+  "*** Zombies teleport in 10 seconds ***": {
+    "translation": "僵尸在10秒内传送"
+  },
+  "*** Portal open in 30 seconds ***": {
+    "translation": "门在30秒内打开"
+  },
+  "*** KILL CAT BEFORE IT KILLS YOU ***": {
+    "translation": "喵喵冲撞"
+  },
+  "***   ROTATION BEAM  ***": {
+    "translation": "旋转光束"
+  },
+  "***  ARENA IS BREAK NOW  ***": {
+    "translation": "竞技场处于休息中"
+  },
+  "***  PUSH INSIDE  ***": {
+    "translation": "吸力"
+  },
+  "***  PUSH OUTSIDE  ***": {
+    "translation": "推力"
+  },
+  "***  CROUCH ***": {
+    "translation": "蹲下"
+  },
+  "*** Zombies coming in 10 seconds ***": {
+    "translation": "僵尸10秒后出现"
+  },
+  "*** Press the four levers  to open the portal ***": {
+    "translation": "寻找房间四个控制杆按下以打开入口"
+  },
+  "*** LVL ***": {
+    "translation": "第一关"
+  },
+  "*** RTV ***": {
+    "translation": "RTV"
+  },
+  "*** Congratulations, you have won this battle ! ***": {
+    "translation": "恭喜你,赢得了这场战斗!"
+  },
+  "*** Congratulations, you have won ! ***": {
+    "translation": "祝贺你,你赢了!"
+  },
+  "<<< MAP BY =LIROY= >>>": {
+    "translation": "地图作者:LIROY 文本:Zeyu1"
+  },
+  "*** Wait 20 sec ! ***": {
+    "translation": "等待20秒"
+  },
+  "*** Wait 40 sec ! ***": {
+    "translation": "等待40秒"
+  },
+  "***  NPC ATTACK !!! ***": {
+    "translation": "替身攻击"
+  },
+  "***  ZOMBIE ATTACK  ***": {
+    "translation": "尸笼"
+  }
+}
