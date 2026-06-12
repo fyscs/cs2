@@ -13,27 +13,27 @@
 
 {
   "1": {
-    "rankPasses": 0,
-    "rankDamage": 0,
-    "rankIntern": 0,
-    "econPasses": 0,
-    "econDamage": 0,
-    "econIntern": 0
+    "rankPasses": 7,
+    "rankDamage": 20000,
+    "rankIntern": 0.5,
+    "econPasses": 4,
+    "econDamage": 20000,
+    "econIntern": 0.3
   },
   "2": {
-    "rankPasses": 0,
-    "rankDamage": 0,
-    "rankIntern": 0,
-    "econPasses": 0,
-    "econDamage": 0,
-    "econIntern": 0
+    "rankPasses": 11,
+    "rankDamage": 20000,
+    "rankIntern": 0.5,
+    "econPasses": 7,
+    "econDamage": 20000,
+    "econIntern": 0.3
   },
   "3": {
-    "rankPasses": 0,
-    "rankDamage": 0,
-    "rankIntern": 0,
-    "econPasses": 0,
-    "econDamage": 0,
-    "econIntern": 0
+    "rankPasses": 20,
+    "rankDamage": 24000,
+    "rankIntern": 0.8,
+    "econPasses": 13,
+    "econDamage": 24000,
+    "econIntern": 0.6
   }
 }
