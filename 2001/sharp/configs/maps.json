@@ -676,7 +676,7 @@
   },
   "ze_boatescape_ultimate": {
     "admin": false,
-    "certainTimes": [-1],
+    "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
     "cooldown": 100,
     "nomination": true,
     "price": 1000,
