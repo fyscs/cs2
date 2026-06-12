@@ -2587,7 +2587,7 @@
     "certainTimes": [-1],
     "cooldown": 80,
     "nomination": true,
-    "price": 300,
+    "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
