@@ -1,0 +1,148 @@
+﻿// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> Fall Back <<<": {
+    "translation": ">>> Fall Back <<<"
+  },
+  ">>> The door will open fully in 5 sec <<<": {
+    "translation": ">>> The door will open fully in 5 sec <<<"
+  },
+  ">>> Defend 25 sec <<<": {
+    "translation": ">>> Defend 25 sec <<<"
+  },
+  "You have won the map! Congratulations!": {
+    "translation": "You have won the map! Congratulations!"
+  },
+  "Special Thanks to Cuniczek": {
+    "translation": "Special Thanks to Cuniczek"
+  },
+  ">>> Map made by Puklica <<<": {
+    "translation": ">>> Map made by Puklica <<<"
+  },
+  "Fly model created by Kaesar": {
+    "translation": "Fly model created by Kaesar"
+  },
+  ">>> Wait 25 sec <<<": {
+    "translation": ">>> Wait 25 sec <<<"
+  },
+  ">>> Defend 30 sec <<<": {
+    "translation": ">>> Defend 30 sec <<<"
+  },
+  "Map made by Puklica": {
+    "translation": "Map made by Puklica"
+  },
+  ">>> | STAGE 2 | <<<": {
+    "translation": ">>> | STAGE 2 | <<<"
+  },
+  "You have won STAGE 1!": {
+    "translation": "You have won STAGE 1!"
+  },
+  ">>> | STAGE 1 | <<<": {
+    "translation": ">>> | STAGE 1 | <<<"
+  },
+  ">>> Wait 30 sec <<<": {
+    "translation": ">>> Wait 30 sec <<<"
+  },
+  ">>> Wait 20 sec <<<": {
+    "translation": ">>> Wait 20 sec <<<"
+  },
+  ">>> Defend 10 sec <<<": {
+    "translation": ">>> Defend 10 sec <<<"
+  },
+  "|Admin Room| *** SLAY ALL ***": {
+    "translation": "|Admin Room| *** SLAY ALL ***"
+  },
+  ">>> Door opens in 20 sec <<<": {
+    "translation": ">>> Door opens in 20 sec <<<"
+  },
+  ">>> The door is open <<<": {
+    "translation": ">>> The door is open <<<"
+  },
+  "Kill all zombies inside!": {
+    "translation": "Kill all zombies inside!"
+  },
+  ">>> Elevator leave in 40 sec <<<": {
+    "translation": ">>> Elevator leave in 40 sec <<<"
+  },
+  ">>> Elevator leave in 5 sec <<<": {
+    "translation": ">>> Elevator leave in 5 sec <<<"
+  },
+  ">>> Door opens in 25 sec <<<": {
+    "translation": ">>> Door opens in 25 sec <<<"
+  },
+  ">>> Door closes in 15 sec <<<": {
+    "translation": ">>> Door closes in 15 sec <<<"
+  },
+  ">>> Door closes in 5 sec <<<": {
+    "translation": ">>> Door closes in 5 sec <<<"
+  },
+  ">>> Defend 35 sec <<<": {
+    "translation": ">>> Defend 35 sec <<<"
+  },
+  ">>> DEFEND <<<": {
+    "translation": ">>> DEFEND <<<"
+  },
+  "|Admin Room| *** Admin has changed difficulty to STAGE 1 ***": {
+    "translation": "|Admin Room| *** Admin has changed difficulty to STAGE 1 ***"
+  },
+  ">>> RUN <<<": {
+    "translation": ">>> RUN <<<"
+  },
+  ">>> | STAGE 3 | <<<": {
+    "translation": ">>> | STAGE 3 | <<<"
+  },
+  ">>> Last Defend 35 sec <<<": {
+    "translation": ">>> Last Defend 35 sec <<<"
+  },
+  ">>> Still Defend 5 sec <<<": {
+    "translation": ">>> Still Defend 5 sec <<<"
+  },
+  "|Admin Room| *** Admin has changed difficulty to STAGE 3 ***": {
+    "translation": "|Admin Room| *** Admin has changed difficulty to STAGE 3 ***"
+  },
+  ">>> The vent is open <<<": {
+    "translation": ">>> The vent is open <<<"
+  },
+  "|Admin Room| *** Admin has changed difficulty to STAGE 2 ***": {
+    "translation": "|Admin Room| *** Admin has changed difficulty to STAGE 2 ***"
+  },
+  ">>> Door closes in 20 sec <<<": {
+    "translation": ">>> Door closes in 20 sec <<<"
+  },
+  ">>> Push the sponge <<<": {
+    "translation": ">>> Push the sponge <<<"
+  },
+  "You have won STAGE 2!": {
+    "translation": "You have won STAGE 2!"
+  },
+  ">>> START SHOOTING <<<": {
+    "translation": ">>> START SHOOTING <<<"
+  },
+  ">>> 1 <<<": {
+    "translation": ">>> 1 <<<"
+  },
+  ">>> 2 <<<": {
+    "translation": ">>> 2 <<<"
+  },
+  ">>> 3 <<<": {
+    "translation": ">>> 3 <<<"
+  },
+  ">>> The path has been cleared <<<": {
+    "translation": ">>> The path has been cleared <<<"
+  },
+  ">>> Door opens in 30 sec <<<": {
+    "translation": ">>> Door opens in 30 sec <<<"
+  },
+  ">>> Door opens in 5 sec <<<": {
+    "translation": ">>> Door opens in 5 sec <<<"
+  }
+}

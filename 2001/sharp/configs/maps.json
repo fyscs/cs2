@@ -2582,6 +2582,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 35
   },
+  "ze_kitchen": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_kororinpa": {
     "admin": false,
     "certainTimes": [-1],
