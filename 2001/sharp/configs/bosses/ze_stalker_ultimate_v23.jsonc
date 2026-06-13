@@ -25,17 +25,17 @@
     {
       "iterator": "boss3_health",
       "hitbox": "boss3_break",
-      "display": "boss"
+      "display": "蓝色光球"
     },
     {
       "iterator": "boss5_hp",
       "hitbox": "boss4_break",
-      "display": "boss"
+      "display": "黄色光球"
     },
     {
       "iterator": "boss4_hp",
       "hitbox": "boss2_break",
-      "display": "boss"
+      "display": "Boss"
     },
     {
       "iterator": "boss_hp",
@@ -50,7 +50,7 @@
     {
       "iterator": "mob_grudge_math1",
       "hitbox": "phys2",
-      "display": "脑波怪"
+      "display": "脑波怪1"
     },
     {
       "iterator": "mob_grudge_math_1",
