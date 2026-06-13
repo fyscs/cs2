@@ -1,0 +1,220 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "A player has aquired berserker powerup!": {
+    "translation": "一名玩家获得了狂暴"
+  },
+  "Berserker powerup has one charge!": {
+    "translation": "狂暴有一次充能"
+  },
+  "Beserker charge fully depleted!": {
+    "translation": "狂暴充能完全耗尽"
+  },
+  "Beserker charge depleting in 1": {
+    "translation": "狂暴充能将在1秒后耗尽"
+  },
+  "Beserker charge depleting in 2": {
+    "translation": "狂暴充能将在2秒后耗尽"
+  },
+  "Beserker charge depleting in 3": {
+    "translation": "狂暴充能将在3秒后耗尽"
+  },
+  "Beserker has been enabled!": {
+    "translation": "狂暴已激活"
+  },
+  "A player has aquired the soulsphere powerup!": {
+    "translation": "一名玩家获得了灵魂球能量"
+  },
+  "Soulsphere power has 2 charges and a 120 second cooldown!": {
+    "translation": "灵魂球有2次充能,冷却时间120秒!"
+  },
+  "First soulsphere charge used!": {
+    "translation": "灵魂球第一次充能已使用!"
+  },
+  "Soulsphere first charge depleted!": {
+    "translation": "灵魂球第一次充能已耗尽!"
+  },
+  "Soulsphere recharged": {
+    "translation": "灵魂球充能完成"
+  },
+  "Soulsphere final charge used!": {
+    "translation": "灵魂球最后一次充能已使用!"
+  },
+  "Soulsphere power fully depleted!": {
+    "translation": "灵魂球能量完全耗尽!"
+  },
+  "A player has aquired the megasphere powerup!": {
+    "translation": "一名玩家获得了超级球能量"
+  },
+  "Megasphere powerup has one charge!": {
+    "translation": "超级球有一次充能!"
+  },
+  "Megasphere only usable 30 seconds after pikcup!": {
+    "translation": "超级球拾取30秒后才可使用!"
+  },
+  "Megasphere now usable!": {
+    "translation": "超级球现在可以使用!"
+  },
+  "Megasphere used!": {
+    "translation": "超级球已使用!"
+  },
+  "Megasphere power depleted!": {
+    "translation": "超级球能量已耗尽!"
+  },
+  "A player has aquired the BFG!": {
+    "translation": "一名玩家获得了BFG!"
+  },
+  "BFG powerup has one shot!": {
+    "translation": "BFG只有一发!"
+  },
+  "BFG only usable 30 seconds after pickup!": {
+    "translation": "BFG拾取30秒后才可使用!"
+  },
+  "BFG now usable!": {
+    "translation": "BFG现在可以使用!"
+  },
+  "** Door opening in 25 seconds! **": {
+    "translation": "门将在25秒后打开!"
+  },
+  "** Door opening in 10 seconds! **": {
+    "translation": "门将在10秒后打开!"
+  },
+  "** Door opened! **": {
+    "translation": "门已打开!"
+  },
+  "** BAD WIN!! ZOMBIES DETECTED **": {
+    "translation": "检测到僵尸,失败!"
+  },
+  "** NIGHTMARE! difficulty selected. **": {
+    "translation": "噩梦难度已选择."
+  },
+  "** Teleport active! **": {
+    "translation": "传送已激活!"
+  },
+  "** Teleport active in 10 seconds! **": {
+    "translation": "传送将在10秒后激活!"
+  },
+  "** Teleport active in 40 seconds! **": {
+    "translation": "传送将在40秒后激活!"
+  },
+  "** Door opening in 25 seconds **": {
+    "translation": "门将在25秒后打开"
+  },
+  "** Door opening in 10 seconds **": {
+    "translation": "门将在10秒后打开"
+  },
+  "** Door opening in 20 seconds! **": {
+    "translation": "门将在20秒后打开!"
+  },
+  "** Opening X door in few seconds **": {
+    "translation": "X门将在几秒后打开"
+  },
+  "** Exit door opening in 40 seconds! **": {
+    "translation": "出口门将在40秒后打开!"
+  },
+  "** Exit door opening in 10 seconds! **": {
+    "translation": "出口门将在10秒后打开!"
+  },
+  "** Exit door opened! **": {
+    "translation": "出口门已打开!"
+  },
+  "** Map by Night Fury **": {
+    "translation": "地图作者:Night Fury"
+  },
+  "** LEVEL: NIGHTMARE **": {
+    "translation": "当前难度:噩梦"
+  },
+  "** Door Opening in 23 Seconds **": {
+    "translation": "门将在23秒后打开"
+  },
+  "** Exit door closing in 40 seconds! **": {
+    "translation": "出口门将在40秒后关闭!"
+  },
+  "** Exit door closing in 10 seconds! **": {
+    "translation": "出口门将在10秒后关闭!"
+  },
+  "** Exit door closed! **": {
+    "translation": "出口门已关闭!"
+  },
+  "** Killing exit room in 10 seconds! **": {
+    "translation": "出口房间将在10秒后清理!"
+  },
+  "** Elevator Leaving in 10 Seconds...**": {
+    "translation": "电梯将在10秒后离开..."
+  },
+  "** Elevator Leaving in 35 Seconds...**": {
+    "translation": "电梯将在35秒后离开..."
+  },
+  "** BAD WIN!! ZOMBIES DETECTED!! **": {
+    "translation": "检测到僵尸,失败!!"
+  },
+  "** Door Opening in 15 Seconds !!!**": {
+    "translation": "门将在15秒后打开!!!"
+  },
+  "** Door Opened **": {
+    "translation": "门已打开"
+  },
+  "** LEVEL: NO REST FOR LIVING **": {
+    "translation": "当前难度:困难"
+  },
+  "** Door Opening in 30 seconds! **": {
+    "translation": "门将在30秒后打开!"
+  },
+  "** NO REST FOR THE LIVING difficulty selected. **": {
+    "translation": "困难难度已选择."
+  },
+  "** Opening door in 10 seconds... **": {
+    "translation": "门将在10秒后打开..."
+  },
+  "** Humans failed! **": {
+    "translation": "人类失败!"
+  },
+  "** 10 seconds left to kill boss! **": {
+    "translation": "剩余10秒击杀Boss!"
+  },
+  "** Humans have 2 minutes to deafet the boss! **": {
+    "translation": "人类有2分钟击败Boss!"
+  },
+  "** Opening Door... **": {
+    "translation": "正在开门..."
+  },
+  "** Opening door in 10 Seconds **": {
+    "translation": "门将在10秒后打开"
+  },
+  "** Opening door in 20 Seconds **": {
+    "translation": "门将在20秒后打开"
+  },
+  "** Exit door closing in 15 seconds! **": {
+    "translation": "出口门将在15秒后关闭!"
+  },
+  "** Resist! a few seconds more **": {
+    "translation": "坚持住!还需要几秒"
+  },
+  "** LEVEL: NOT TOO ROUGH **": {
+    "translation": "当前难度:一般"
+  },
+  "** Opening door in 15 Seconds!! **": {
+    "translation": "门将在15秒后打开!!"
+  },
+  "** Door opening in 40 seconds! **": {
+    "translation": "门将在40秒后打开!"
+  },
+  "** NOT TOO ROUGH difficulty selected. **": {
+    "translation": "一般难度已选择."
+  },
+  "** Boss defeated! **": {
+    "translation": "Boss已击败!"
+  },
+  "** Zombies have been released! **": {
+    "translation": "僵尸已释放!"
+  }
+}
