@@ -1,0 +1,460 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "** THE KEY HAS BEEN FOUND **": {
+    "translation": "钥匙已找到"
+  },
+  "** KEEP DEFENDING UNTIL THE MAIN ENTRANCE OPEN **": {
+    "translation": "坚守防线,等待主入口开启"
+  },
+  "** FIND A WAY TO OPEN THE ARENA GRATE **": {
+    "translation": "想办法打开竞技场铁栅门"
+  },
+  "[LORE] Long ago, Umbra was a realm of light and wisdom. Now, it lies beneath an eternal dusk. A cursed kingdom devoured by its own shadows.": {
+    "translation": "很久以前,安布拉是一片充满光明与智慧的国度.如今此地永陷黄昏,这座受诅咒的王国已被自身的暗影吞噬."
+  },
+  "** ZOMBIES HAVE REACHED THE OBJECTIVE **": {
+    "translation": "僵尸抵达目标点位"
+  },
+  "** KEEP DEFENDING **": {
+    "translation": "坚守防线"
+  },
+  "** FIND THE KEY TO OPEN THE GRIM ARCHIVE DOOR **": {
+    "translation": "寻找钥匙,开启死寂档案馆大门"
+  },
+  "[LOCATION] GRIM ARCHIVE": {
+    "translation": "[区域] 死寂档案馆"
+  },
+  "** BATTLEFIELD DOOR OPENING IN 20 SECONDS **": {
+    "translation": "战场大门将在20秒后开启"
+  },
+  "** FIND A WAY TO ACCESS THE ARCHIVE **": {
+    "translation": "寻找进入档案馆的通路"
+  },
+  "** WATCH OUT FOR THE METEORS ! **": {
+    "translation": "小心陨石!"
+  },
+  "**ELEVATOR LEAVING IN 20 SECONDS **": {
+    "translation": "电梯将在20秒后驶离 "
+  },
+  "** ACTIVATE 3 LEVERS TO OPEN BOTH PATH **": {
+    "translation": "启动三根操纵杆,开启两条通路"
+  },
+  "** DOORS OPENING IN 15 SECONDS **": {
+    "translation": "大门将在15秒后开启"
+  },
+  "** BASTION EXIT GATE OPENING IN 15 SECONDS **": {
+    "translation": "堡垒出口闸门将在15秒后开启"
+  },
+  "[LOCATION] SIEGEBOUND COURT": {
+    "translation": "[区域] 围城庭院"
+  },
+  "[LORE] Once a place of strategy and might, now abandoned, the court trembles under the weight of forgotten wars.": {
+    "translation": "此地曾是运筹帷幄和彰显强权的重地,如今荒废一片,庭院仍在昔日战乱的重压下震颤."
+  },
+  "** DOOR OPENING IN 20 SECONDS **": {
+    "translation": "大门将在20秒后开启"
+  },
+  "** BASTION ENTRANCES OPENING IN 20 SECONDS **": {
+    "translation": "堡垒各入口将在20秒后开启"
+  },
+  "[LORE] Shadows coil along the ramparts, hiding the secrets of a kingdom long devoured by darkness.": {
+    "translation": "暗影沿着城墙盘绕,藏匿着这座早已被黑暗吞噬的王国的秘密."
+  },
+  "** SPLIT ON BOTH SIDES **": {
+    "translation": "兵分两路防守"
+  },
+  "** GRIM ARCHIVE ARENA GRATE OPENING IN 20 SECONDS **": {
+    "translation": "死寂档案馆竞技场铁栅门将在20秒后开启"
+  },
+  "** GET INSIDE THE GRIM ARCHIVE ARENA AND KEEP DEFENDING **": {
+    "translation": "进入死寂档案馆竞技场并坚守防线"
+  },
+  "[LORE] Echoes of the Grim Archive awaken something ancient, a protector forged from memory and bone.": {
+    "translation": "死寂档案馆的回响唤醒了远古存在,一具由记忆与白骨铸就的守护者."
+  },
+  "** RESIST 20 MORE SECONDS **": {
+    "translation": "再坚守20秒"
+  },
+  "[LORE] Echoes of the past linger here, whispers of scholars lost to the darkness that consumes this place.": {
+    "translation": "过往的残响在此萦绕,皆是葬身这片黑暗的学者们的低语."
+  },
+  "[LOCATION] CURSED BASTION": {
+    "translation": "[区域] 诅咒堡垒"
+  },
+  "Special thanks to Moltard, Xehanort, Hobbiten, x1aofu, Vndrew, mini, koen, Kaemon, toasty, cron, harley, NiDE, Unloze": {
+    "translation": "特别感谢 Moltard、Xehanort、Hobbiten、x1aofu、Vndrew、mini、koen、Kaemon、toasty、cron、harley、NiDE、Unloze",
+    "blocked": true
+  },
+  "**Stripper v1.4 loaded**": {
+    "translation": "Stripper 1.4版本已加载"
+  },
+  "[BOSS] EIDOLON, WARDEN OF THE GRIM ARCHIVE": {
+    "translation": "[首领] 伊多隆,死寂档案馆看守者"
+  },
+  "[LOCATION] LAKE OF BLOOD": {
+    "translation": "[区域] 血之湖"
+  },
+  "** KEEP DEFENDING ! **": {
+    "translation": "坚守防线!"
+  },
+  "** GRATE BREAKING IN 10 SECONDS **": {
+    "translation": "铁栅门将在10秒后损毁"
+  },
+  "[LOCATION] UMBRAL DUNGEON": {
+    "translation": "[区域] 暗影地牢"
+  },
+  "[LORE] Beneath the Bastion lies the Umbral Dungeon. A labyrinth drowned in rot and sorrow.": {
+    "translation": "堡垒之下便是暗影地牢,一座充斥腐朽与悲恸的迷宫."
+  },
+  "[LORE] Rusted bars and chained echoes mark the halls where countless souls once screamed.": {
+    "translation": "锈蚀铁栏与锁链余响遍布长廊,无数亡魂曾在此哀嚎."
+  },
+  "** LAKE OF BLOOD DOOR OPENING IN 20 SECONDS **": {
+    "translation": "血之湖大门将在20秒后开启"
+  },
+  "** LAKE OF BLOOD ENTRANCE DOOR WILL BREAK IN 30 SECONDS **": {
+    "translation": "血之湖入口大门将在30秒后破损"
+  },
+  "** LAKE OF BLOOD ENTRANCE DOOR WILL BREAK IN 10 SECONDS **": {
+    "translation": "血之湖入口大门将在10秒后破损"
+  },
+  "** BRIDGE GATES OPENING IN 20 SECONDS **": {
+    "translation": "桥梁闸门将在20秒后开启"
+  },
+  "** KEEP DEFENDING UNTIL THE TUMB OPEN **": {
+    "translation": "坚守防线,等待墓穴开启"
+  },
+  "** TOWER GATE OPENING IN 15 SECONDS **": {
+    "translation": "塔楼闸门将在15秒后开启"
+  },
+  "** FIND THE LEVERS TO ACTIVATE BOTH PATH **": {
+    "translation": "找到操纵杆,开启两条通路"
+  },
+  "** TOWER EXIT DOOR OPENING IN 10 SECONDS **": {
+    "translation": "塔楼出口大门将在10秒后开启"
+  },
+  "** FIND A WAY TO EXIT THIS AREA .. **": {
+    "translation": "想办法离开这片区域......"
+  },
+  "** MAIN DOOR OPENING IN 15 SECONDS **": {
+    "translation": "主大门将在15秒后开启"
+  },
+  "[BOOK] A player has discovered a mystic book": {
+    "translation": "[古籍] 一名玩家找到了神秘古籍"
+  },
+  "**THE SECRET OF THE GRIM ARCHIVE  IS REVEALED **": {
+    "translation": "死寂档案馆的秘密已揭晓 "
+  },
+  "**ALL BOOKS COLLECTED **": {
+    "translation": "全部古籍已收集完毕 "
+  },
+  "** THE PATH WILL OPEN IN 15 SECONDS **": {
+    "translation": "通路将在15秒后开启"
+  },
+  "[LORE] A low growl echoes through the stone, heralding what waits beyond.": {
+    "translation": "低沉嘶吼在石道回荡,预示着门后潜藏的怪物."
+  },
+  "** PRESSURE PLATE ACTIVATED **": {
+    "translation": "压力踏板已触发"
+  },
+  "** LIFT MOVING IN 15 SECONDS **": {
+    "translation": "升降梯将在15秒后启动"
+  },
+  "** DOOR OPENS IN 15 SECONDS **": {
+    "translation": "大门将在15秒后开启"
+  },
+  "** MAIN GATE OPENING IN 25 SECONDS **": {
+    "translation": "主闸门将在25秒后开启"
+  },
+  "** KEEP DEFENDING UNTIL SOMETHING HAPPEN **": {
+    "translation": "坚守防线,等待事态变化"
+  },
+  "** BOTH PRESSURE PLATES ACTIVATED **": {
+    "translation": "两块压力踏板均已触发"
+  },
+  "** KEEP DEFENDING AS MUCH AS YOU CAN **": {
+    "translation": "拼尽全力守住防线"
+  },
+  "** DO NOT LET ANY ZOMBIES INSIDE **": {
+    "translation": "切勿放任任何僵尸闯入内部"
+  },
+  "** STAY IN THE MIDDLE **": {
+    "translation": "全员驻守中央区域"
+  },
+  "[BOSS] VERMISANGUIS, THE CRIMSON PARASITE": {
+    "translation": "[首领] 维尔米桑吉斯,猩红寄生物"
+  },
+  "*** AN ADMIN HAS FORCE STAGE 2 TRUE ENDING ***": {
+    "translation": "管理员强制触发第二关真结局"
+  },
+  "*** AN ADMIN HAS FORCE STAGE 1 TRUE ENDING ***": {
+    "translation": "管理员强制触发第一关真结局"
+  },
+  "*** ADMIN TRIGGERED STAGE 2 TRUE ENDING ***": {
+    "translation": "管理员触发第二关真结局"
+  },
+  "*** ADMIN TRIGGERED STAGE 2 ***": {
+    "translation": "管理员触发第二关"
+  },
+  "*** ADMIN TRIGGERED STAGE 1 TRUE ENDING ***": {
+    "translation": "管理员触发第一关真结局"
+  },
+  "*** ADMIN TRIGGERED STAGE 1 ***": {
+    "translation": "管理员触发第一关"
+  },
+  "**1/4 DRAGON RELICS COLLECTED **": {
+    "translation": "已收集龙裔遗物 1/4 ",
+    "clearTimer": ture
+  },
+  "**2/4 DRAGON RELICS COLLECTED **": {
+    "translation": "已收集龙裔遗物 2/4 ",
+    "clearTimer": ture
+  },
+  "**3/4 DRAGON RELICS COLLECTED **": {
+    "translation": "已收集龙裔遗物 3/4 ",
+    "clearTimer": ture
+  },
+  "** DOOR OPENING SOON **": {
+    "translation": "大门即将开启"
+  },
+  "**1/3 BOOKS COLLECTED **": {
+    "translation": "已收集古籍 1/3 ",
+    "clearTimer": ture
+  },
+  "**2/3 BOOKS COLLECTED **": {
+    "translation": "已收集古籍 2/3 ",
+    "clearTimer": ture
+  },
+  "** ZOMBIE DETECTED **": {
+    "translation": "检测到僵尸"
+  },
+  "** BOTH DRAGONS HAS BEEN DEFEATED **": {
+    "translation": "两头巨龙均已被击败"
+  },
+  "** DOOR TO EXIT THE CAVE WILL OPEN SOON **": {
+    "translation": "洞穴出口大门即将开启"
+  },
+  "** DRAGONLORDS RUINS ESCAPED **": {
+    "translation": "已成功逃离龙君遗迹"
+  },
+  "** THANK YOU FOR PLAYING **": {
+    "translation": "感谢游玩"
+  },
+  "** YOU ARE CLOSE TO ESCAPE THE CAVE **": {
+    "translation": "即将逃出洞穴"
+  },
+  "[BOSS] MYCELAR, THE DROWNED GUARDIAN": {
+    "translation": "[首领] 迈塞拉尔,溺亡守护者"
+  },
+  "[LORE] A damp, fungal stench fills the cavern, heralding something monstrous.": {
+    "translation": "洞窟中弥漫潮湿菌臭,预示着巨型魔物将至."
+  },
+  "*** DRAGONLORDS RUINS SECRET MAP FOUND ***": {
+    "translation": "找到龙君遗迹秘密地图"
+  },
+  "[LORE] Scorched ruins mark the passage of two Dragonlords: one of living flame, one of bone and shadow.": {
+    "translation": "焦黑遗迹见证两位龙君的过往:一位执掌烈焰,一位统御白骨暗影."
+  },
+  "[RELIC] A player has collected a dragon relic": {
+    "translation": "[遗物] 一名玩家拾取了龙裔遗物"
+  },
+  "** DRAGONLORDS RUINS AREA UNLOCKED **": {
+    "translation": "龙君遗迹区域已解锁"
+  },
+  "** ALL DRAGON RELICS COLLECTED **": {
+    "translation": "全部龙裔遗物收集完毕"
+  },
+  "[LOCATION] CAVERN OF ECHOES": {
+    "translation": "[区域] 回音洞窟"
+  },
+  "[LORE] Ancient whispers resonate here, telling of those who vanished without a trace.": {
+    "translation": "远古低语在此回荡,诉说着那些凭空消失之人的故事."
+  },
+  "** ZOMBIES DETECTED **": {
+    "translation": "检测到僵尸.."
+  },
+  "** ZOMBIE HAS REACHED THE OBJECTIVE **": {
+    "translation": "僵尸抵达目标点位"
+  },
+  "** DUNGEON ESCAPED **": {
+    "translation": "成功逃出地牢"
+  },
+  "** FIND ALL THE LEVERS NEEDED TO CONTINUE **": {
+    "translation": "找齐所有必需操纵杆方可继续前进"
+  },
+  "[LOCATION] DRAGONLORDS RUINS": {
+    "translation": "[区域] 龙君遗迹"
+  },
+  "** PREPARE TO FIGHT **": {
+    "translation": "准备迎战"
+  },
+  "[LORE] The air reeks of iron and rot, a graveyard unmarked by time.": {
+    "translation": "空气中充斥铁锈与腐臭,此处是一座无岁月标记的坟场."
+  },
+  "*** DRAGON HEART COLLECTED ***": {
+    "translation": "拾取龙心"
+  },
+  "*** DRAGON CALORBLOOM COLLECTED ***": {
+    "translation": "拾取龙焰花"
+  },
+  "*** BLOOD AMBER COLLECTED ***": {
+    "translation": "拾取血琥珀"
+  },
+  "*** DRAGON STONE COLLECTED ***": {
+    "translation": "拾取龙晶石"
+  },
+  "** FINAL ELEVATOR IS READY TO LEAVE **": {
+    "translation": "最终撤离升降梯已就绪"
+  },
+  "** KEEP DEFENDING A BIT MORE **": {
+    "translation": "再坚守片刻"
+  },
+  "** ELEVATOR LEAVING IN 10 SECONDS **": {
+    "translation": "升降梯将在10秒后驶离"
+  },
+  "** LAST DOOR IS OPENING SOON.. DO NOT BE LATE **": {
+    "translation": "最后一道大门即将开启,切勿迟到"
+  },
+  "*** GATE OPENING SOON, KEEP DEFENDING ***": {
+    "translation": "闸门即将开启,坚守防线"
+  },
+  "*** GATES OPENING IN 20 SECONDS ***": {
+    "translation": "闸门将在20秒后开启"
+  },
+  "** JUMP DOWN AND REACH THE EXIT **": {
+    "translation": "向下跳跃,前往出口"
+  },
+  "** SECOND BOULDER DISABLED **": {
+    "translation": "第二块落石机关已解除"
+  },
+  "** FIRST BOULDER DISABLED **": {
+    "translation": "第一块落石机关已解除"
+  },
+  "** WATCH OUT FOR THE BOULDERS **": {
+    "translation": "小心落石"
+  },
+  "**UNDERGROUND ENTRANCE OPENING IN 30 SECONDS **": {
+    "translation": "地下入口将在30秒后开启 "
+  },
+  "** TUNNEL EXIT WILL OPEN IN 15 SECONDS **": {
+    "translation": "隧道出口将在15秒后开启"
+  },
+  "** KEEP DEFENDING UNTIL THE GRATE BREAKS **": {
+    "translation": "坚守防线直至铁栅门损毁"
+  },
+  "[LORE] Shadows twist as an ancient warrior returns, eager to test those who dare approach.": {
+    "translation": "暗影翻涌,远古战士再度现世,考验胆敢前来之人."
+  },
+  "** TUNNEL GRATE OPENING SOON **": {
+    "translation": "隧道铁栅门即将开启"
+  },
+  "** ONE OF THE PATH WILL OPEN SOON **": {
+    "translation": "其中一条通路即将开启"
+  },
+  "** HIDDEN HOLLOW ENTRANCE OPENING IN 25 SECONDS **": {
+    "translation": "隐秘洞窟入口将在25秒后开启"
+  },
+  "[LORE] Stones slick with moisture form a narrow path, leading deeper into the heart of the forgotten underground.": {
+    "translation": "湿滑岩石铺就狭窄小径,通向这片被遗忘地下区域的深处."
+  },
+  "*** SHOOT THE ORB TO DISABLE SKELVRYNS SHIELD ***": {
+    "translation": "射击宝珠,破除斯凯尔文的护盾"
+  },
+  "[BOSS] VAELTHAR & SKELVRYN, KEEPERS OF THE DRAGONLORD RUINS": {
+    "translation": "[首领] 维尔萨尔与斯凯尔文,龙君遗迹守护者"
+  },
+  "[LORE] Ancient scales scrape stone as twin dragons awaken, guardians of forgotten dominions.": {
+    "translation": "远古龙鳞摩擦石壁,双生巨龙苏醒,守护着早已覆灭的疆土."
+  },
+  "[ITEM] A player has picked up Howling Tempest": {
+    "translation": "[道具] 一名玩家拾取了狂啸风暴"
+  },
+  "*** ESCAPE IN THE DUNGEON ENTRANCE ***": {
+    "translation": "从地牢入口撤离"
+  },
+  "*** HOLD THE LINE UNTIL ALL GRATES ARE CLOSED! ***": {
+    "translation": "守住阵线,直至所有铁栅门全部关闭!"
+  },
+  "[BOSS] CHAMPION GUNDYR": {
+    "translation": "[首领] 勇士冈迪尔"
+  },
+  "** YOU ARE CLOSE TO THE ESCAPE ZONE KEEP DEFENDING **": {
+    "translation": "即将抵达撤离区,继续坚守"
+  },
+  "** THE NEXT DOOR WILL OPEN SOON **": {
+    "translation": "下一道大门即将开启"
+  },
+  "[ITEM] A player has picked up nade box": {
+    "translation": "[道具] 一名玩家拾取了手雷补给箱"
+  },
+  "[ITEM] A player has discovered a healing potion": {
+    "translation": "[道具] 一名玩家找到了治疗药剂"
+  },
+  "[ITEM] A player has discovered an ammo potion": {
+    "translation": "[道具] 一名玩家找到了弹药药剂"
+  },
+  "[ITEM] A player has discovered a speed potion": {
+    "translation": "[道具] 一名玩家找到了迅捷药剂"
+  },
+  "[ITEM] A player has picked up explosive bow": {
+    "translation": "[道具] 一名玩家拾取了爆破长弓"
+  },
+  "[ITEM] A player has picked up explosive barrel": {
+    "translation": "[道具] 一名玩家拾取了爆破桶"
+  },
+  "[ITEM] A player has picked up bow": {
+    "translation": "[道具] 一名玩家拾取了长弓"
+  },
+  "[ITEM] A zombie has picked up burning curse skull": {
+    "translation": "[道具] 僵尸拾取了灼烧诅咒头骨"
+  },
+  "[ITEM] A zombie has picked up frozen skull": {
+    "translation": "[道具] 僵尸拾取了寒霜头骨"
+  },
+  "[ITEM] A zombie has picked up toxic orb": {
+    "translation": "[道具] 僵尸拾取了剧毒宝珠"
+  },
+  "[ITEM] A zombie has picked up plague mist": {
+    "translation": "[道具] 僵尸拾取了瘟疫迷雾"
+  },
+  "[ITEM] A player has picked up ice bow": {
+    "translation": "[道具] 一名玩家拾取了寒冰长弓"
+  },
+  "[ITEM] A player has picked up holy heal": {
+    "translation": "[道具] 一名玩家拾取了神圣治愈道具"
+  },
+  "Grace is now available! You can buy weapons and equipment, and get healed for 60 seconds; infinite ammo is available nearby": {
+    "translation": "恩典补给站已开放!可购买武器装备,获得持续60秒的治疗效果;附近有无尽弹药补给"
+  },
+  "[ITEM] A player has picked up ice stormcallers wrath": {
+    "translation": "[道具] 一名玩家拾取了冰风暴使者之怒"
+  },
+  "[ITEM] A zombie has picked up frosbite storm": {
+    "translation": "[道具] 僵尸拾取了霜寒风暴"
+  },
+  "[ITEM] A player has picked up fire magic spell": {
+    "translation": "[道具] 一名玩家拾取了火焰法术书"
+  },
+  "[ITEM] A player has picked up ice magic spell": {
+    "translation": "[道具] 一名玩家拾取了寒冰法术书"
+  },
+  "** ORB DESTROYED **": {
+    "translation": "宝珠已摧毁"
+  },
+  "** YOU CAN NOW DAMAGE THE BOSS **": {
+    "translation": "现已可对BOSS造成伤害"
+  },
+  "** AIM FOR THE PURPLE AURA UNDER THE DRAGON TO DEAL DAMAGE **": {
+    "translation": "瞄准巨龙身下紫色光环才能造成伤害"
+  }
+}
