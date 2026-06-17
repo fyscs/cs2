@@ -10,97 +10,211 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "FAIL": {
-    "translation": "失败"
+  "<Hold 30 seconds>": {
+    "translation": "坚守 30 秒"
   },
-  "STAGE 2 Complete": {
-    "translation": "第2关完成"
+  "<Defend 25 seconds>": {
+    "translation": "防守 25 秒"
   },
-  "20 seconds": {
+  "<Defend 30 seconds>": {
+    "translation": "防守 30 秒"
+  },
+  "<The Gate open in 20 seconds>": {
+    "translation": "大门将在 20 秒后开启"
+  },
+  "<You won Normal Mode>": {
+    "translation": "普通模式已通关"
+  },
+  "<20 seconds>": {
     "translation": "20 秒"
   },
-  "10 seconds": {
-    "translation": "10 秒"
+  "<Failed>": {
+    "translation": "失败"
   },
-  "5 seconds": {
-    "translation": "5 秒"
+  "***Snow Prism***": {
+    "translation": "雪之棱镜"
   },
-  "25 seconds": {
-    "translation": "25 秒"
+  "***Shooting Star***": {
+    "translation": "流星"
   },
-  "15 seconds": {
-    "translation": "15 秒"
+  "***ZM***": {
+    "translation": "僵尸进攻"
   },
-  "30 seconds": {
-    "translation": "30 秒"
+  "<The Gate opens in 20 seconds>": {
+    "translation": "大门将在 20 秒后开启"
   },
-  "50 seconds": {
-    "translation": "50 秒"
+  "***Suction Mist***": {
+    "translation": "吸能迷雾"
   },
-  "avoid the red area": {
-    "translation": "避开红色区域"
+  "***Super Snow Storm***": {
+    "translation": "超级暴风雪"
   },
-  "crouch": {
-    "translation": "蹲下"
+  "<Defend 35 seconds>": {
+    "translation": "防守 35 秒"
   },
-  "40 seconds": {
-    "translation": "40 秒"
+  "< Keep defending >": {
+    "translation": "继续防守"
   },
-  "LOOK DOWN": {
-    "translation": "向下看"
+  "< Defend for 20 seconds >": {
+    "translation": "防守 20 秒"
   },
-  "STAGE 1 Complete": {
-    "translation": "第 1 关完成"
+  "< Hold here >": {
+    "translation": "在此坚守"
   },
-  "ZOMBIE": {
-    "translation": "尸笼已开启"
+  "< 15 >": {
+    "translation": "15"
   },
-  "avoid the wall": {
-    "translation": "避开前方墙壁"
+  "< Defend for 15 seconds >": {
+    "translation": "防守 15 秒"
   },
-  "Kill the Boss in 120 seconds": {
-    "translation": "在 120 秒内击杀 Boss"
+  "< You won Hard Mode >": {
+    "translation": "你赢得了困难模式"
   },
-  "STAGE 1": {
-    "translation": "第 1 关"
+  "< Teleport activates in 20 seconds >": {
+    "translation": "传送将在 20 秒后激活"
   },
-  "STAGE 2": {
-    "translation": "第 2 关"
+  "< You won endless mode >": {
+    "translation": "你赢得了无尽模式"
   },
-  "STAGE 3 COMPLETE": {
-    "translation": "第 3 关完成"
+  "< ZM Items are disabled >": {
+    "translation": "僵尸神器已禁用"
   },
-  "THANK YOU FOR PLAYING": {
-    "translation": "感谢游玩!文本:Korihana"
+  "< Gods lights are now ready >": {
+    "translation": "神之光现已就绪"
   },
-  "STAGE 3": {
-    "translation": "第 3 关"
+  "< Defend for 35 seconds >": {
+    "translation": "防守 35 秒"
   },
-  "The admin pressed the STAGE 3 button": {
-    "translation": "管理员设置了第三关"
+  "< 25 >": {
+    "translation": "25"
   },
-  "laser beam charging": {
-    "translation": "激光充能中"
+  "< De?/n# fo> 30 s!c@nds >": {
+    "translation": "防?/#守>30!秒@"
   },
-  "Run away": {
-    "translation": "快跑"
+  "< The Possessed Light >": {
+    "translation": "被附身的光芒"
   },
-  "The platform on the right will break soon": {
-    "translation": "右侧平台即将崩塌"
+  "< It will end in 20 seconds >": {
+    "translation": "将在 20 秒后结束"
   },
-  "The platform on the left will break soon": {
-    "translation": "左侧平台即将崩塌"
+  "< Defend for 25 seconds>": {
+    "translation": "防守 25 秒"
   },
-  "loading practice mode": {
-    "translation": "正在加载练习模式"
+  "< The gate opens in 30 seconds >": {
+    "translation": "大门将在 30 秒后开启"
   },
-  "The admin pressed the STAGE 2 button": {
-    "translation": "管理员设置了第二关"
+  "< Defend for 30 seconds >": {
+    "translation": "防守 30 秒"
   },
-  "The admin pressed the STAGE 1 button": {
-    "translation": "管理员设置了第一关"
+  "< Chase the light >": {
+    "translation": "追逐光芒"
   },
-  "The admin pressed the PRACTICE MODE button": {
-    "translation": "管理员按下了练习模式按钮"
+  "< Do not let zombies touch the light >": {
+    "translation": "别让僵尸触碰到光"
+  },
+  "< ze_Uyuni >": {
+    "translation": "ze_Uyuni 天空之境"
+  },
+  "HARD Mode -The Beautiful Lake-": {
+    "translation": "困难模式-绝美之湖-"
+  },
+  "< It is recommended to set Shader Detail to HIGH or higher >": {
+    "translation": "建议将着色器细节设置为高或更高"
+  },
+  "< Map by Pohmian/Mochi >": {
+    "translation": "地图作者:Pohmian/Mochi"
+  },
+  "< Map port by 沉默中的羔羊 >": {
+    "translation": "地图移植:沉默中的羔羊 文本:Korihana"
+  },
+  "Endless Mode -Chase The Light-": {
+    "translation": "无尽模式-逐光之旅-"
+  },
+  "<Keep Defending 20 seconds>": {
+    "translation": "继续防守 20 秒"
+  },
+  "HOLY LIGHT - HEAL NEARBY HUMANS": {
+    "translation": "圣光 - 治疗附近的人类"
+  },
+  "< Endless Mode >": {
+    "translation": "无尽模式"
+  },
+  "COOL LIGHT - FREEZES NEARBY ZOMBIES": {
+    "translation": "冷光 - 冻结附近的僵尸"
+  },
+  "ABSOLUTE TEMPERATURE - FREEZE EVERYTHING": {
+    "translation": "绝对零度 - 冻结一切"
+  },
+  "< Normal Mode >": {
+    "translation": "普通模式"
+  },
+  "< A player picked up Rainbow Squares >": {
+    "translation": "一名玩家拾取了彩虹方块"
+  },
+  "GALE LIGHT - PUSHES NEARBY ZOMBIES": {
+    "translation": "烈风之光 - 击退附近的僵尸"
+  },
+  "ANEMOI - BLOW EVERYTHING AWAY": {
+    "translation": "风神之息 - 吹飞一切"
+  },
+  "<Defend 20 seconds>": {
+    "translation": "防守 20 秒"
+  },
+  "<Hold 25 seconds>": {
+    "translation": "坚守 25 秒"
+  },
+  "NORMAL Mode -The Eternal Flat World-": {
+    "translation": "普通模式 -永恒平界-"
+  },
+  "WARM LIGHT - BURNS NEARBY ZOMBIES": {
+    "translation": "暖光 - 灼烧附近的僵尸"
+  },
+  "SUNLIGHT - BURN EVERYTHING": {
+    "translation": "日光 - 燃尽万物"
+  },
+  "<Hold 15 seconds>": {
+    "translation": "坚守 15 秒"
+  },
+  "< Hard Mode >": {
+    "translation": "困难模式"
+  },
+  "< A zombie picked up Gravity Light  >": {
+    "translation": "一只僵尸拾取了重力之光"
+  },
+  "GRAVITY LIGHT - CREATES GRAVITATIONAL SINGULARITY": {
+    "translation": "重力之光 - 制造引力奇点"
+  },
+  "< A player picked up Gale Light  >": {
+    "translation": "一名玩家拾取了烈风之光"
+  },
+  "< A zombie picked up Fallen Light  >": {
+    "translation": "一只僵尸拾取了堕落之光"
+  },
+  "FALLEN LIGHT - NEARBY ZOMBIES GET FASTER": {
+    "translation": "堕落之光 - 附近的僵尸速度提升"
+  },
+  "< A zombie picked up Mortal Light  >": {
+    "translation": "一只僵尸拾取了致死之光"
+  },
+  "MORTAL LIGHT - KILLS NEARBY HUMANS": {
+    "translation": "致死之光 - 击杀附近的人类"
+  },
+  "< A zombie picked up Abyss Light  >": {
+    "translation": "一只僵尸拾取了深渊之光"
+  },
+  "ABYSS LIGHT - CREATS BLACK HOLE": {
+    "translation": "深渊之光 - 制造黑洞"
+  },
+  "< A player picked up Warm Light  >": {
+    "translation": "一名玩家拾取了暖光"
+  },
+  "< A player picked up Cool Light >": {
+    "translation": "一名玩家拾取了冷光"
+  },
+  "< A player picked up Holy Light  >": {
+    "translation": "一名玩家拾取了圣光"
+  },
+  "< Round Failed >": {
+    "translation": "回合失败"
   }
 }
