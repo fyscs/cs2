@@ -24,21 +24,19 @@
   "Counters": [
     {
       "iterator": "2boss_hp",
+      "counter": "2boss_hp_left",
+      "mass": 75,
       "hitbox": "2_boss_hitbox",
-      "backup": "2boss_hp_add",
-      "display": "Boss",
-      "counter": "2boss_hp_left"
+      "display": "水晶"
     },
     {
       "iterator": "ex1_boss_hp",
       "hitbox": "ex1_boss_hitbox",
-      "backup": "",
       "display": "X博士"
     },
     {
       "iterator": "ex1_final_boss_hp",
       "hitbox": "ex1_final_boss_hitbox",
-      "backup": "",
       "display": "X博士"
     },
     {
@@ -49,31 +47,33 @@
     },
     {
       "iterator": "ex2_boss_hp",
-      "hitbox": "ex2_boss_hitbox",
-      "backup": "ex2_boss_hp_add",
+      "counter": "2boss_hp_left",
       "mass": 100,
-      "display": "米诺莉拉",
-      "counter": "2boss_hp_left"
+      "hitbox": "ex2_boss_hitbox",
+      "display": "米诺莉拉"
     },
     {
       "iterator": "3_boss_hp",
+      "counter": "3_boss_hp_left",
+      "mass": 130,
       "hitbox": "3_boss_hitbox",
-      "backup": "3_boss_hp_add",
-      "mass": 100,
-      "display": "Tesla",
-      "counter": "3_boss_hp_left"
+      "display": "Tesla"
     },
     {
       "iterator": "3_final_boss_hp",
       "hitbox": "3_final_boss_hitbox",
-      "backup": "",
       "display": "X博士"
+    },
+    {
+      "iterator": "ex2_boss_black_hp",
+      "hitbox": "ex2_boss_black_hitbox",
+      "display": "黑方块"
     }
   ],
   "Monsters": [
     {
-      "identity": "2523",
-      "display": "Black"
+      "identity": "664",
+      "display": "雕像"
     }
   ]
 }
