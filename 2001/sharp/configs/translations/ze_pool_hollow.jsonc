@@ -1,0 +1,258 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "作者：161可爱的米库": {
+    "translation": "作者:161可爱的米库"
+  },
+  "测试阶段 及时反馈bug": {
+    "translation": "测试阶段 及时反馈问题",
+    "blocked": true
+  },
+  "…… 你过来了。明明刚刚还好好待在房间里，为什么突然盯着门口看？": {
+    "translation": "你过来了.明明刚刚还好好待在房间里,为什么突然盯着门口看?",
+    "blocked": true
+  },
+  "你看起来…… 很放松。": {
+    "translation": "你看起来...很放松.",
+    "blocked": true
+  },
+  "你：（毫无防备，不明所以）怎么了？": {
+    "translation": "你:(毫无防备,不明所以)怎么了?",
+    "blocked": true
+  },
+  "......没什么。只是差不多该出发了": {
+    "translation": "......没什么.只是差不多该出发了",
+    "blocked": true
+  },
+  "做好准备吧，15秒后我们会切入安全层级......这算是....对你第一次的适应？": {
+    "translation": "15秒后我们会切入安全层级",
+    "countdown": 15
+  },
+  "你：诶.....?怎么....怎么切入？我要干嘛？": {
+    "translation": "你:诶.....?怎么....怎么切入?我要干嘛?",
+    "blocked": true
+  },
+  "别动,踩在地板上...别跳上家具....我不想重复第二遍": {
+    "translation": "别动,踩在地板上...别跳上家具....我不想重复第二遍",
+    "blocked": true
+  },
+  "这里是水域部分，水里会让你感到舒服，但是我不建议你多泡": {
+    "translation": "这里是水域部分,水里会让你感到舒服,但是我不建议你多泡",
+    "blocked": true
+  },
+  "咦？这里怎么有曾经感染的僵尸？": {
+    "translation": "咦?这里怎么有曾经感染的僵尸?",
+    "blocked": true
+  },
+  "不管了，你的水平，坚持15s没问题吧，我来打开这个门": {
+    "translation": "坚持15秒,我来打开这个门",
+    "countdown": 15
+  },
+  "道路还有25s开启，这里并不安全": {
+    "translation": "道路还有25秒开启",
+    "countdown": 25
+  },
+  "不对.....别去！那是实体鸭子！": {
+    "translation": "不对.....别去!那是实体鸭子!",
+    "blocked": true
+  },
+  "道路还有15s开启": {
+    "translation": "道路还有15秒开启",
+    "countdown": 15
+  },
+  "这个实体.....目前不会造成伤害？看着怪吓人的": {
+    "translation": "这个实体.....目前不会造成伤害?看着怪吓人的",
+    "blocked": true
+  },
+  "这里得防守15s，我一时半会没搞懂这个电梯怎么开......": {
+    "translation": "防守15秒,",
+    "countdown": 15
+  },
+  "你怎么知道这是电梯？": {
+    "translation": "你怎么知道这是电梯?"
+  },
+  "......": {
+    "translation": "......"
+  },
+  "提示：不要卡电梯，除非你想被肘下去？": {
+    "translation": "提示:不要卡电梯,除非你想被肘下去?"
+  },
+  "这里.....是不是出现了什么变故？": {
+    "translation": "这里.....是不是出现了什么变故?",
+    "blocked": true
+  },
+  "30s": {
+    "translation": "30秒",
+    "countdown": 30
+  },
+  "提示：不要站在小黄鸭面前！": {
+    "translation": "提示:不要站在小黄鸭面前!"
+  },
+  "20s": {
+    "translation": "20秒",
+    "countdown": 20
+  },
+  "hey ，这里还算安全吧......嘻嘻": {
+    "translation": "嘿,这里还算安全吧......嘻嘻",
+    "blocked": true
+  },
+  "至少....没有肢团大飞......": {
+    "translation": "至少....没有肢团大飞......",
+    "blocked": true
+  },
+  "门将在20s后关闭": {
+    "translation": "门将在20秒后关闭"
+  },
+  "这里没路.....明明这里是可以打开的.....让我找找哪里可以动": {
+    "translation": "这里没路.....明明这里是可以打开的.....让我找找哪里可以动",
+    "blocked": true
+  },
+  "这....怎么做到的.....力拔山兮气盖世": {
+    "translation": "这....怎么做到的.....力拔山兮气盖世",
+    "blocked": true
+  },
+  "这是后室.....都有可能！我可没这么大力气QAQ": {
+    "translation": "这是后室.....都有可能!我可没这么大力气呜呜",
+    "blocked": true
+  },
+  "僵尸传送10s": {
+    "translation": "僵尸传送10秒",
+    "countdown": 10
+  },
+  "提示：前方有神秘push，jump！": {
+    "translation": "提示:前方有神秘推力,跳!"
+  },
+  "你来了.....我找到了一个出口....跟着我": {
+    "translation": "你来了.....我找到了一个出口....跟着我",
+    "blocked": true
+  },
+  "50s": {
+    "translation": "50秒",
+    "countdown": 50
+  },
+  "不要跳下去！": {
+    "translation": "不要跳下去!"
+  },
+  "侧路还有10s开启": {
+    "translation": "侧路还有10秒开启",
+    "countdown": 10
+  },
+  "我们进来了这里，好压抑.....": {
+    "translation": "我们进来了这里,好压抑.....",
+    "blocked": true
+  },
+  "僵尸还有10s传送！": {
+    "translation": "僵尸还有10秒传送!",
+    "countdown": 10
+  },
+  "先守住20s，我来打开这里的门": {
+    "translation": "守住20秒",
+    "countdown": 20
+  },
+  "这里是内部池核......但是好像荒废了好久": {
+    "translation": "这里是内部池核......但是好像荒废了好久",
+    "blocked": true
+  },
+  "嗯....我帮你垫了一下水池，上去的时候别卡脚了": {
+    "translation": "嗯....我帮你垫了一下水池,上去的时候别卡脚了",
+    "blocked": true
+  },
+  "10s，8s后休息区前的僵尸传送": {
+    "translation": "10秒",
+    "countdown": 10
+  },
+  "有编号的水池？里面的生物......唔....好突兀，或许按顺序点他可以有意想不到的事情": {
+    "translation": "有编号的水池?里面的生物......唔....好突兀,或许按顺序点他可以有意想不到的事情",
+    "blocked": true
+  },
+  "大门开了！": {
+    "translation": "大门开了!"
+  },
+  "好像成功了！后面有一点动静......我们坚持30s": {
+    "translation": "好像成功了!坚持30秒",
+    "countdown": 30
+  },
+  "全体还有30s传送": {
+    "translation": "全体还有30秒传送",
+    "countdown": 30
+  },
+  "我们坚持10s": {
+    "translation": "我们坚持10秒",
+    "countdown": 10
+  },
+  "大门打开！全体还有30s传送": {
+    "translation": "大门打开!全体还有30秒传送",
+    "countdown": 30
+  },
+  "15s": {
+    "translation": "15秒",
+    "countdown": 15
+  },
+  ".....?": {
+    "translation": ".....?"
+  },
+  "10s": {
+    "translation": "10秒",
+    "countdown": 10
+  },
+  ".......???": {
+    "translation": ".......???"
+  },
+  "僵尸10s后传送到脚下！": {
+    "translation": "僵尸10秒后传送到脚下!",
+    "countdown": 10
+  },
+  "你先去这里看看，我去另外一边，等会会合": {
+    "translation": "你先去这里看看,我去另外一边,等会会合",
+    "blocked": true
+  },
+  "梯子还有10s开启": {
+    "translation": "梯子还有10秒开启",
+    "countdown": 10
+  },
+  "去找下面的米库！": {
+    "translation": "去找下面的米库!",
+    "blocked": true
+  },
+  "唔.....这里.....怎么回事": {
+    "translation": "唔.....这里.....怎么回事",
+    "blocked": true
+  },
+  "你先拖着，我来找路": {
+    "translation": "你先拖着,我来找路",
+    "blocked": true
+  },
+  "15s后清理安全区外的所有生物": {
+    "translation": "15秒后清理安全区外的所有生物",
+    "countdown": 15
+  },
+  "这是一个美好的体验吧QAQ": {
+    "translation": "这是一个美好的体验吧呜呜",
+    "blocked": true
+  },
+  "感谢游玩！": {
+    "translation": "感谢游玩!"
+  },
+  "我们切入了哪里？": {
+    "translation": "我们切入了哪里?"
+  },
+  "这个星野....或许是前进路上的必经之路？": {
+    "translation": "这个星野....或许是前进路上的必经之路?",
+    "blocked": true
+  },
+  "**Ammo on": {
+    "translation": "弹药开启"
+  },
+  "**Ammo off": {
+    "translation": "弹药关闭"
+  }
+}
