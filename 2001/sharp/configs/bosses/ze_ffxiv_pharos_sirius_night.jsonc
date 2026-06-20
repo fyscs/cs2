@@ -54,6 +54,7 @@
       "iterator": "Pharos_Fourthfloor_Ladylilith_Hp",
       "backup": "Pharos_Fourthfloor_Ladylilith_Hp_Init",
       "counter": "Pharos_Fourthfloor_Ladylilith_Hp_Blocks",
+      "hitbox": "lilith_body",
       "display": "莉莉丝女士"
     },
     {
@@ -77,14 +78,6 @@
     {
       "target": "stage_ultimate_yojimbo_body",
       "display": "保镖"
-    },
-    {
-      "target": "stage_savage_final_rock_body",
-      "display": "石墙"
-    },
-    {
-      "target": "bahamut_rock_body",
-      "display": "石墙"
     }
   ],
   "Monsters": [
@@ -95,6 +88,14 @@
     {
       "identity": "3435",
       "display": "寄生体"
+    },
+    {
+      "identity": "1098",
+      "display": "石墙"
+    },
+    {
+      "identity": "1106",
+      "display": "石墙"
     }
   ]
 }
