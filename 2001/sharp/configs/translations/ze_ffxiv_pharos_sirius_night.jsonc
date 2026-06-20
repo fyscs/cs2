@@ -10,34 +10,34 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "\u0007< A PLAYER HAS ACQUIRED FIRE ELEMENT >": {
+  "< A PLAYER HAS ACQUIRED FIRE ELEMENT >": {
     "translation": "一名玩家获得了火元素"
   },
-  "\u0004< A PLAYER HAS ACQUIRED HEAL ELEMENT >": {
+  "< A PLAYER HAS ACQUIRED HEAL ELEMENT >": {
     "translation": "一名玩家获得了治疗元素"
   },
   "< A PLAYER HAS ACQUIRED WATER ELEMENT >": {
     "translation": "一名玩家获得了水元素"
   },
-  "\u0006< A PLAYER HAS ACQUIRED ROCK ELEMENT >": {
+  "< A PLAYER HAS ACQUIRED ROCK ELEMENT >": {
     "translation": "一名玩家获得了岩石元素"
   },
-  "\u0002< A PLAYER HAS ACQUIRED GRAVITY ELEMENT >": {
+  "< A PLAYER HAS ACQUIRED GRAVITY ELEMENT >": {
     "translation": "一名玩家获得了重力元素"
   },
-  "\u0002< Gravity Element Has Been Upgraded >": {
+  "< Gravity Element Has Been Upgraded >": {
     "translation": "重力元素已升级"
   },
-  "\u0006< Rock Element Has Been Upgraded >": {
+  "< Rock Element Has Been Upgraded >": {
     "translation": "岩石元素已升级"
   },
   "< Water Element Has Been Upgraded >": {
     "translation": "水元素已升级"
   },
-  "\u0007< Fire Element Has Been Upgraded >": {
+  "< Fire Element Has Been Upgraded >": {
     "translation": "火元素已升级"
   },
-  "\u0004< Heal Element Has Been Upgraded >": {
+  "< Heal Element Has Been Upgraded >": {
     "translation": "治疗元素已升级"
   },
   "< A ZOMBIE HAS ACQUIRED WARP MAGIC >": {
@@ -70,7 +70,7 @@
   "< Garland >": {
     "translation": "加兰德"
   },
-  "\u0007< Tyrant >": {
+  "< Tyrant >": {
     "translation": "暴君"
   },
   "< TELEPORT ACTIVATES >": {
@@ -85,7 +85,7 @@
   "< DEFEND UNTIL THE ROCK IS CLEAR >": {
     "translation": "防守至岩石被清除"
   },
-  "\u000E< Shadowlord >": {
+  "< Shadowlord >": {
     "translation": "暗影领主"
   },
   "< Shadow Lord HAS BEEN DEFEATED >": {
@@ -94,34 +94,34 @@
   "< YOU ARE TOO LATE ... >": {
     "translation": "你们来得太迟了..."
   },
-  "\u000E< Doom Arc >": {
+  "< Doom Arc >": {
     "translation": "末日弧光"
   },
-  "\u0007< Flame Field >": {
+  "< Flame Field >": {
     "translation": "烈焰领域"
   },
-  "\u000E< Dark Shock >": {
+  "< Dark Shock >": {
     "translation": "暗黑冲击"
   },
   "< Ice Nova >": {
     "translation": "寒冰新星"
   },
-  "\u0002< Cross Smash >": {
+  "< Cross Smash >": {
     "translation": "十字粉碎"
   },
-  "\u000E< Ladylilith >": {
+  "< Ladylilith >": {
     "translation": "莉莉丝女士"
   },
   "< Lady Lilith HAS DISAPPEARED >": {
     "translation": "莉莉丝女士消失了"
   },
-  "\u000E< Dream Weaver >": {
+  "< Dream Weaver >": {
     "translation": "织梦者"
   },
-  "\u0010< Sun Strike >": {
+  "< Sun Strike >": {
     "translation": "烈日冲击"
   },
-  "\u0006< Rock Burst >": {
+  "< Rock Burst >": {
     "translation": "岩石爆破"
   },
   "< Anima Ingest >": {
@@ -133,7 +133,7 @@
   "< BAHAMUT HAS CASTED ITS POWER TO SEAL THE GATE ! >": {
     "translation": "巴哈姆特施展力量封印了大门!"
   },
-  "\u0002< Bahamut >": {
+  "< Bahamut >": {
     "translation": "巴哈姆特"
   },
   "< Bahamut HAS CASTED MEGA FLARE ! >": {
@@ -151,22 +151,22 @@
   "< Yojimbo HAS CASTED SHADOW TURBULENCE >": {
     "translation": "用心棒施放了暗影乱流"
   },
-  "\u000E< Yojimbo >": {
+  "< Yojimbo >": {
     "translation": "用心棒"
   },
-  "\u0007< Flare Lazer >": {
+  "< Flare Lazer >": {
     "translation": "烈焰激光"
   },
   "< Bravery >": {
     "translation": "勇气"
   },
-  "\u000F< Searing Implosion >": {
+  "< Searing Implosion >": {
     "translation": "灼热内爆"
   },
   "< Cyclone >": {
     "translation": "旋风"
   },
-  "\u0007< Round Edge >": {
+  "< Round Edge >": {
     "translation": "圆环利刃"
   },
   "< Ultra Attack >": {
@@ -193,19 +193,19 @@
   "< Thunder Wing >< Tyrant Breath Switch -> Thunder >": {
     "translation": "雷霆之翼: 暴君吐息切换为雷电"
   },
-  "\u000F< Blood Shield >< Tyrant Breath Switch -> Thunder >": {
+  "< Blood Shield >< Tyrant Breath Switch -> Thunder >": {
     "translation": "鲜血护盾: 暴君吐息切换为雷电"
   },
   "< Round Ice >< Tyrant Breath Switch -> Ice >": {
     "translation": "寒冰圆环: 暴君吐息切换为寒冰"
   },
-  "\u0007< Evil Fire >< Tyrant Breath Switch -> Fire >": {
+  "< Evil Fire >< Tyrant Breath Switch -> Fire >": {
     "translation": "邪恶烈焰: 暴君吐息切换为火焰"
   },
   "< Ice Prison >< Tyrant Breath Switch -> Ice >": {
     "translation": "寒冰牢狱: 暴君吐息切换为寒冰"
   },
-  "\u0006< Flame Rope >< Tyrant Breath Switch -> Fire >": {
+  "< Flame Rope >< Tyrant Breath Switch -> Fire >": {
     "translation": "烈焰绳索: 暴君吐息切换为火焰"
   },
   "< LILITH HAS BEEN DEFEATED >": {
@@ -214,19 +214,19 @@
   "l Lilith l < PATHETIC HUMANS ... >": {
     "translation": "莉莉丝: 可悲的人类..."
   },
-  "\u000E< Extreme -> Dream Weaver >": {
+  "< Extreme -> Dream Weaver >": {
     "translation": "极限技: 织梦者"
   },
   "< Extreme -> Ruin Aurora >": {
     "translation": "极限技: 毁灭极光"
   },
-  "\u0007< Extreme -> Sun Strike >": {
+  "< Extreme -> Sun Strike >": {
     "translation": "极限技: 烈日冲击"
   },
-  "\u0002< Golem Summon >": {
+  "< Golem Summon >": {
     "translation": "召唤魔像"
   },
-  "\u0006< Extreme -> Rock Burst >": {
+  "< Extreme -> Rock Burst >": {
     "translation": "极限技: 岩石爆破"
   },
   "< Extreme -> Anima Ingest >": {
