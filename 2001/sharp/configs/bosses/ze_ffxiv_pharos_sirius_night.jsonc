@@ -1,0 +1,100 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only)
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Shadowlord_Hp",
+      "backup": "Shadowlord_Hp_Init",
+      "counter": "Shadowlord_Hp_Blocks",
+      "hitbox": "shadowlord_body",
+      "display": "暗影领主"
+    },
+    {
+      "iterator": "Ladylilith_Hp",
+      "backup": "Ladylilith_Hp_Init",
+      "counter": "Ladylilith_Hp_Blocks",
+      "hitbox": "ladylilith_body",
+      "display": "莉莉丝女士"
+    },
+    {
+      "iterator": "Garland_Hp",
+      "backup": "Garland_Hp_Init",
+      "counter": "Garland_Hp_Blocks",
+      "hitbox": "garland_body",
+      "display": "加兰德"
+    },
+    {
+      "iterator": "Tyrant_Hp",
+      "backup": "Tyrant_Hp_Init",
+      "counter": "Tyrant_Hp_Blocks",
+      "hitbox": "tyrant_body",
+      "display": "暴君"
+    },
+    {
+      "iterator": "Pharos_Fourthfloor_Ladylilith_Hp",
+      "backup": "Pharos_Fourthfloor_Ladylilith_Hp_Init",
+      "counter": "Pharos_Fourthfloor_Ladylilith_Hp_Blocks",
+      "display": "莉莉丝女士"
+    },
+    {
+      "iterator": "Lilith_Hp",
+      "backup": "Lilith_Hp_Init",
+      "counter": "Lilith_Hp_Blocks",
+      "hitbox": "lilith_body",
+      "display": "莉莉丝"
+    },
+    {
+      "iterator": "Bahamut_Hp",
+      "hitbox": "bahamut_body",
+      "display": "巴哈姆特"
+    }
+  ],
+  "Breakables": [
+    {
+      "target": "yojimbo_body",
+      "display": "保镖"
+    },
+    {
+      "target": "stage_ultimate_yojimbo_body",
+      "display": "保镖"
+    },
+    {
+      "target": "stage_savage_final_rock_body",
+      "display": "石墙"
+    },
+    {
+      "target": "bahamut_rock_body",
+      "display": "石墙"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "3983",
+      "display": "魔像"
+    },
+    {
+      "identity": "3435",
+      "display": "寄生体"
+    }
+  ]
+}
