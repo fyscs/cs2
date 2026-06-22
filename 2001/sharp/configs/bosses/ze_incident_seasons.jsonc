@@ -21,5 +21,12 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Proxy": true
+  "Proxy": true,
+  "Counters": [
+    {
+      "iterator": "lvl4_crystal_hp",
+      "hitbox": "lvl4_crystal",
+      "display": "Crystal"
+    }
+  ]
 }
