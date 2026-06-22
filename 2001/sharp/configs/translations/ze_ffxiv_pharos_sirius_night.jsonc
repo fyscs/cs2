@@ -11,40 +11,40 @@
 
 {
   "< A PLAYER HAS ACQUIRED FIRE ELEMENT >": {
-    "translation": "一名玩家获得了火元素"
+    "translation": "一名玩家获得了火"
   },
   "< A PLAYER HAS ACQUIRED HEAL ELEMENT >": {
-    "translation": "一名玩家获得了治疗元素"
+    "translation": "一名玩家获得了奶"
   },
   "< A PLAYER HAS ACQUIRED WATER ELEMENT >": {
-    "translation": "一名玩家获得了水元素"
+    "translation": "一名玩家获得了水"
   },
   "< A PLAYER HAS ACQUIRED ROCK ELEMENT >": {
-    "translation": "一名玩家获得了岩石元素"
+    "translation": "一名玩家获得了土"
   },
   "< A PLAYER HAS ACQUIRED GRAVITY ELEMENT >": {
-    "translation": "一名玩家获得了重力元素"
+    "translation": "一名玩家获得了黑洞"
   },
   "< Gravity Element Has Been Upgraded >": {
-    "translation": "重力元素已升级"
+    "translation": "黑洞已升级"
   },
   "< Rock Element Has Been Upgraded >": {
-    "translation": "岩石元素已升级"
+    "translation": "土已升级"
   },
   "< Water Element Has Been Upgraded >": {
-    "translation": "水元素已升级"
+    "translation": "水已升级"
   },
   "< Fire Element Has Been Upgraded >": {
-    "translation": "火元素已升级"
+    "translation": "火已升级"
   },
   "< Heal Element Has Been Upgraded >": {
-    "translation": "治疗元素已升级"
+    "translation": "奶已升级"
   },
   "< A ZOMBIE HAS ACQUIRED WARP MAGIC >": {
     "translation": "一只僵尸获得了传送魔法"
   },
   "< A ZOMBIE HAS ACQUIRED GRAVITY MAGIC >": {
-    "translation": "一只僵尸获得了重力魔法"
+    "translation": "一只僵尸获得了黑洞魔法"
   },
   "< A ZOMBIE HAS ACQUIRED PARASITIC MAGIC >": {
     "translation": "一只僵尸获得了寄生魔法"
@@ -233,7 +233,7 @@
     "translation": "极限技: 灵魂吞噬"
   },
   "< WHY DONT YOU USE ENDROUND ? CNM >": {
-    "translation": "为什么不结束回合? CNM"
+    "translation": "为什么不结束回合? 草泥马"
   },
   "< Lady Lilith ? HOW COULD SHE BE HERE ... >": {
     "translation": "莉莉丝女士? 她怎么会在这里..."
@@ -242,7 +242,7 @@
     "translation": "她消失了..."
   },
   "l Garland l < TAKE THAT ! GO ! HERE I COME ! I WILL CRUSH YOU ! >": {
-    "translation": "加兰德: 接招! 上吧! 我来了! 我要碾碎你们!"
+    "translation": "加兰德: 接招!我来了!我要碾碎你们!"
   },
   "< DEFEND UNTIL THE TELEPORT ACTIVATES >": {
     "translation": "防守至传送启动"
@@ -270,5 +270,8 @@
   },
   "< Extermination thunder >": {
     "translation": "灭绝雷霆"
+  },
+  "僵尸将在十秒后大传": {
+    "translation": "僵尸将在十秒后大传"
   }
 }
