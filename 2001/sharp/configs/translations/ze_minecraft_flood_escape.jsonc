@@ -1,0 +1,217 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">> Map made by Lastims <<": {
+    "translation": "地图制作: Lastims "
+  },
+  ">> Adapted from a Minecraft map of the same name <<": {
+    "translation": "改编自同名我的世界地图"
+  },
+  "All members of Alpha Squad, assemble!": {
+    "translation": "全体队员,集合!"
+  },
+  "Today is the routine inspection of the 014 Base's drainage system.": {
+    "translation": "今日对排水系统开展检查"
+  },
+  "According to the manual requirements, we need to descend from the platform industrial elevator and adjust the stability of the deep drainage device.": {
+    "translation": "根据操作手册要求,我们需乘坐平台工业电梯下至下层,调试深层排水装置的稳定性能"
+  },
+  "Clear? Move your ass now!": {
+    "translation": "听明白了吗?立刻行动!"
+  },
+  ">> The elevator doors will close in 15s <<": {
+    "translation": "电梯门将在15秒后关闭"
+  },
+  "Hurry!": {
+    "translation": "快点!"
+  },
+  "There seems to be some strange noise overhead...": {
+    "translation": "头顶上方似乎传来奇怪的声响..."
+  },
+  "Something is falling down!": {
+    "translation": "有东西掉下来了!"
+  },
+  "Enemy attack!!!": {
+    "translation": "遭遇敌方袭击!!!"
+  },
+  "It is an unidentified biological weapon! Our soldiers have been transformed!": {
+    "translation": "是未知生化武器!我方士兵出现异变!"
+  },
+  "Mission terminated! Repeat, mission terminated!": {
+    "translation": "任务终止!重复,任务终止!"
+  },
+  "Shit! The elevator is conquered. We need to find another way out!": {
+    "translation": "糟了!电梯已被敌方控制,我们必须另寻出路!"
+  },
+  "Reinforcements cannot arrive for immediately. Shut down the drainage system now!": {
+    "translation": "增援部队无法即刻抵达,立刻关停排水系统!"
+  },
+  "All members of Beta Squad, assemble!": {
+    "translation": "贝塔小队全体队员,集合!"
+  },
+  "Understand? Let's go.": {
+    "translation": "清楚了吗?出发"
+  },
+  "We are under attack! Repeat, we are under attack!": {
+    "translation": "我方遭受袭击!重复,我方遭受袭击!"
+  },
+  "Shit! The elevator is conquered. Form up, prepare to defend!!": {
+    "translation": "糟了!电梯已被敌方占领,列队布防,准备迎敌!!"
+  },
+  "Reinforcements cannot arrive for immediately. Reboot the drainage system now! we cannot allow enemies to infiltrate the base!": {
+    "translation": "增援无法即刻赶到,立刻重启排水系统!绝不能让敌人渗入基地!"
+  },
+  "We need to press the emergency fuse button to stop the water level from rising!": {
+    "translation": "我们需要按下应急熔断按钮,阻止水位持续上涨!"
+  },
+  "All members of Gamma Squad, assemble!": {
+    "translation": "伽马小队全体队员,集合!"
+  },
+  "......": {
+    "translation": "......"
+  },
+  "......Did you hear some noises?": {
+    "translation": "......你们听到异响了吗?"
+  },
+  "What's happening?!!": {
+    "translation": "发生什么事了?!!"
+  },
+  "It is a trap! The poisonous water is rising!": {
+    "translation": "这是圈套!毒水正在不断上涨!"
+  },
+  "We have to run, now!!!": {
+    "translation": "我们必须马上撤离!!!"
+  },
+  "Shit! We have lost contact with the ground. This area is under the enemy's control!": {
+    "translation": "完了!我们和地面失去联络,这片区域已被敌人掌控!"
+  },
+  "There's no reinforcement arriving to save us! We need to escape by ourselves now!": {
+    "translation": "不会有增援前来救援,我们只能靠自己逃出去!"
+  },
+  "Run! As fast as you can! Don't get behind others!!": {
+    "translation": "快跑!全力冲刺!别落在队伍后面!!"
+  },
+  "!!! WARNING !!! BIOLOGICAL WEAPON ATTACK DETECTED !!!": {
+    "translation": "!!! 警告 !!! 检测到生化武器袭击 !!!"
+  },
+  ">> Blast-resistant gate unlocks in 30s <<": {
+    "translation": "防爆门将在30秒后解锁"
+  },
+  ">> Blast-resistant gate unlocks in 5s <<": {
+    "translation": "防爆门将在5秒后解锁"
+  },
+  "Wait...you our contact with the ground has been lost?": {
+    "translation": "等等...我们和地面彻底失联了?"
+  },
+  ">> Obstacles clear in 30s <<": {
+    "translation": "障碍物将在30秒后清除"
+  },
+  ">> Obstacles clear in 5s <<": {
+    "translation": "障碍物将在5秒后清除"
+  },
+  "The depth gauge shows that we are still 8,000 units from the ascent platform.": {
+    "translation": "深度检测仪显示,我们距离上升平台还有8000单位距离"
+  },
+  "Just hold on...": {
+    "translation": "再坚持一下..."
+  },
+  "Our soilders vanished like snowflakes...": {
+    "translation": "我们的战友如同雪花般消散殆尽..."
+  },
+  "But the zombies came flooding in like a torrent!": {
+    "translation": "可变异体如同潮水般不断涌来!"
+  },
+  "If I remember correctly, there are roads on both sides.": {
+    "translation": "如果我没记错,道路两侧都有通道"
+  },
+  "To some extent, this is completely a trap ...": {
+    "translation": "某种意义上来说,这完全是一场陷阱..."
+  },
+  "I'm sorry, rookies, you didn't have to be caught up in this incident.": {
+    "translation": "对不起,新兵们,你们本不该卷入这场灾难"
+  },
+  "The final destination is within our reach.": {
+    "translation": "最终撤离点已经近在眼前"
+  },
+  "I seem to already be able to see the sunlight on the ascent platform.": {
+    "translation": "我仿佛已经能看见上升平台上的日光"
+  },
+  "My amigo, I am no longer useful, and the road ahead is for you to go, I'm gonna restart the power system of the ascent platform here.": {
+    "translation": "伙伴,我已经走不动了,前路交给你们,我留在这里重启上升平台的供电系统"
+  },
+  "That golden platform, see it? I will stay here to cover the rear.": {
+    "translation": "看见那座金色平台了吗?我留下来断后"
+  },
+  "Huff, all blast-resistant gates unlocked.": {
+    "translation": "呼,所有防爆门均已解锁"
+  },
+  "As my prayer for our departed fellows.": {
+    "translation": "以此告慰逝去的战友"
+  },
+  "!!! Survivors Detected !!!": {
+    "translation": "!!! 检测到存活人员 !!!"
+  },
+  ">> The final elevator leaves in 25s <<": {
+    "translation": "最终撤离电梯将在25秒后出发"
+  },
+  ">> The final elevator leaves in 20s <<": {
+    "translation": "最终撤离电梯将在20秒后出发"
+  },
+  ">> The final elevator leaves in 15s <<": {
+    "translation": "最终撤离电梯将在15秒后出发"
+  },
+  ">> The final elevator leaves in 10s <<": {
+    "translation": "最终撤离电梯将在10秒后出发"
+  },
+  ">> The final elevator leaves in 5s <<": {
+    "translation": "最终撤离电梯将在5秒后出发"
+  },
+  ">> The final elevator is leaving. <<": {
+    "translation": "最终撤离电梯现已启动"
+  },
+  "!!! Ascent Platform Activated !!!": {
+    "translation": "!!!上升平台已启动 !!!"
+  },
+  "!!! Unknown Objects Detected !!!": {
+    "translation": "!!! 检测到不明物体 !!!"
+  },
+  "!!! Ascent Platform Deactivated !!!": {
+    "translation": "!!!上升平台已强制关闭 !!!"
+  },
+  "!!! WARNING !!! THE SELF-DESTRUCT SYSTEM WILL ACTIVATE IN 20 SECONDS !!!": {
+    "translation": "!!! 警告 !!! 自毁系统将在20秒后启动 !!!"
+  },
+  "!!! WARNING !!! THE SELF-DESTRUCT SYSTEM WILL ACTIVATE IN 10 SECONDS !!!": {
+    "translation": "!!! 警告 !!! 自毁系统将在10秒后启动 !!!"
+  },
+  "!!! WARNING !!! THE SELF-DESTRUCT SYSTEM WILL ACTIVATE IN 4 SECONDS !!!": {
+    "translation": "!!! 警告 !!! 自毁系统将在4秒后启动 !!!"
+  },
+  "!!! WARNING !!! THE SELF-DESTRUCT SYSTEM WILL ACTIVATE IN 3 SECONDS !!!": {
+    "translation": "!!! 警告!!! 自毁系统将在3秒后启动 !!!"
+  },
+  "!!! WARNING !!! THE SELF-DESTRUCT SYSTEM WILL ACTIVATE IN 2 SECONDS !!!": {
+    "translation": "!!! 警告 !!! 自毁系统将在2秒后启动 !!!"
+  },
+  "!!! WARNING !!! THE SELF-DESTRUCT SYSTEM WILL ACTIVATE IN 1 SECONDS !!!": {
+    "translation": "!!! 警告 !!! 自毁系统将在1秒后启动 !!!"
+  },
+  "!!! WARNING !!! THE SELF-DESTRUCT SYSTEM WILL ACTIVATE IN 15 SECONDS !!!": {
+    "translation": "!!! 警告 !!! 自毁系统将在15秒后启动 !!!"
+  },
+  "!!! WARNING !!! THE SELF-DESTRUCT SYSTEM HAS BEEN ACTIVATED !!!": {
+    "translation": "!!! 警告 !!! 自毁系统已正式启动 !!!"
+  },
+  "!!! WARNING !!! THE SELF-DESTRUCT SYSTEM WILL ACTIVATE IN 5 SECONDS !!!": {
+    "translation": "!!! 警告 !!! 自毁系统将在5秒后启动 !!!"
+  }
+}
