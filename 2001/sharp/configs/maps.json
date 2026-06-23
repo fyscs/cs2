@@ -2321,6 +2321,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_i_wanna_play_ze": {
+    "admin": true,
+    "certainTimes": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
   "ze_iamlegend_p": {
     "admin": false,
     "certainTimes": [-1],
