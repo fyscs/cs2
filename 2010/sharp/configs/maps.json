@@ -206,6 +206,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "de_inferno_classic_fys": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 16,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "de_inferno_night": {
     "admin": false,
     "certainTimes": [-1],
