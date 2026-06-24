@@ -27,12 +27,19 @@
       "mass": 55,
       "counter": "boss_hp_left_counter",
       "hitbox": "boss_break",
-      "display": "Geo"
+      "display": "形状"
+    },
+    {
+      "iterator": "boss_hp_counter",
+      "mass": 55,
+      "counter": "rtv_hp_left_counter",
+      "hitbox": "boss_break",
+      "display": "RTV形状"
     },
     {
       "iterator": "boss_final_hp",
       "hitbox": "sct_final_break",
-      "display": "Geometric"
+      "display": "最终形状"
     }
   ]
 }
