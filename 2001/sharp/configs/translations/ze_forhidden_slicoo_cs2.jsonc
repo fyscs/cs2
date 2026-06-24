@@ -41,9 +41,6 @@
   "**晶体被破坏，周围的空气开始凝结**": {
     "translation": "晶体被破坏,周围的空气开始凝结"
   },
-  "finded": {
-    "translation": "finded"
-  },
   "**一名玩家拾取了【埃洛斯的诅咒】**": {
     "translation": "一名玩家拾取了埃洛斯的诅咒"
   },
@@ -126,10 +123,6 @@
   "**僵尸神器：雷沃尔熊人**": {
     "translation": "僵尸神器:雷沃尔熊人"
   },
-  "print(\"lua load\")": {
-    "translation": "print(\"lua load\")",
-    "blocked": true
-  },
   "** 这将是最后一次警告! **": {
     "translation": "这将是最后一次警告!"
   },
@@ -144,11 +137,11 @@
   },
   "** 20秒后升起石柱 **": {
     "translation": "20秒后升起石柱",
-     "countdown": 20
+    "countdown": 20
   },
   "*** 瞭望塔的玻璃以及悬崖的石头7秒后碎开 ***": {
     "translation": "瞭望塔的玻璃以及悬崖的石头7秒后碎开",
-     "countdown": 7
+    "countdown": 7
   },
   "起暴雪了!我们要多加小心!": {
     "translation": "起暴雪了!我们要多加小心!"
@@ -245,7 +238,7 @@
   },
   "**20秒后门打开**": {
     "translation": "20秒后门打开",
-     "blocked": true
+    "blocked": true
   },
   "**35秒后门打开**": {
     "translation": "35秒后门打开",
