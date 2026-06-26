@@ -55,14 +55,14 @@
       "backup": "Pharos_Fourthfloor_Ladylilith_Hp_Init",
       "counter": "Pharos_Fourthfloor_Ladylilith_Hp_Blocks",
       "hitbox": "lilith_body",
-      "display": "莉莉丝女士"
+      "display": "莉莉丝(一阶段)"
     },
     {
       "iterator": "Lilith_Hp",
       "backup": "Lilith_Hp_Init",
       "counter": "Lilith_Hp_Blocks",
       "hitbox": "lilith_body",
-      "display": "莉莉丝"
+      "display": "莉莉丝(二阶段)"
     },
     {
       "iterator": "Bahamut_Hp",
