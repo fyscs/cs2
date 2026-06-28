@@ -1,0 +1,625 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">> Stage I - Garden of Echoes <<": {
+    "translation": "第一章  回响花园"
+  },
+  "Echoing...": {
+    "translation": "余音回荡..."
+  },
+  "Tracing back to the very beginning...": {
+    "translation": "追溯一切最初的源头..."
+  },
+  "Chasing the first dream which has fallen...": {
+    "translation": "追寻那已然陨落的初梦..."
+  },
+  "It all starts where the sky meets the sea.": {
+    "translation": "万物始于海天相接之处."
+  },
+  "It all ends where the sea meets the sky.": {
+    "translation": "万物终于海天之交界."
+  },
+  ">> The place where flowers spread with colors <<": {
+    "translation": "繁花盛放之地"
+  },
+  ">> Stage II - Ruheplatz <<": {
+    "translation": "第二章  安息之地"
+  },
+  ">> The place where our dreams last forever <<": {
+    "translation": "美梦永存之地"
+  },
+  ">> Prayer & Sweet Dreams <<": {
+    "translation": "祷告与安眠"
+  },
+  "What should have died": {
+    "translation": "本应消亡之物"
+  },
+  "still wanders at night": {
+    "translation": "仍于暗夜中游荡"
+  },
+  "Among the pillars of the broken church": {
+    "translation": "在残破教堂的立柱之间"
+  },
+  "shakes frost from its hair": {
+    "translation": "抖落发间寒霜"
+  },
+  "What is already buried": {
+    "translation": "早已入土之物"
+  },
+  "still drinks the moonlight": {
+    "translation": "仍啜饮清辉月色"
+  },
+  "Silver seeps through the coffin cracks": {
+    "translation": "银白月光渗过棺木缝隙"
+  },
+  "wraps round the bone's pale palm": {
+    "translation": "缠绕枯骨苍白掌纹"
+  },
+  "I offer wilted flowers": {
+    "translation": "我献上枯萎的花束"
+  },
+  "offer the lives that've passed": {
+    "translation": "祭奠逝去的生灵"
+  },
+  "Let wind carry the rotten scent": {
+    "translation": "任清风携腐朽气息"
+  },
+  "to bury them in nightmare that lasts": {
+    "translation": "将其永埋无尽梦魇"
+  },
+  "I pray to the empty altar": {
+    "translation": "我向着空祭坛祈祷"
+  },
+  "let the sleeping close their eyes at last": {
+    "translation": "愿长眠者终得阖眼"
+  },
+  "may every waking soul": {
+    "translation": "愿每一个清醒灵魂"
+  },
+  "hold the soft moonlight that sinks upon the pillow cast": {
+    "translation": "拥住落于枕畔的柔月"
+  },
+  "I hear wind through the arch, singing a nameless tune": {
+    "translation": "风穿拱门,吟唱无名曲调"
+  },
+  "I watch the candle flicker, licking the dust on the prayer card's edge": {
+    "translation": "烛火摇曳,舔舐祷告卡边缘尘埃"
+  },
+  "Dark green ivy crawls all over the cross": {
+    "translation": "深绿常春藤爬满十字架"
+  },
+  "The icon's eyes are veiled in thin ash, unseeing": {
+    "translation": "圣像双目覆薄灰,不见万物"
+  },
+  ">> Stage III - Manor of Forget <<": {
+    "translation": "第三章  遗忘庄园"
+  },
+  ">> The place where everything was vanished <<": {
+    "translation": "万物消逝之地"
+  },
+  ">> Elegy of Embers - Volume IV <<": {
+    "translation": "残烬挽歌  第四卷"
+  },
+  "Crown of the Holy Realm": {
+    "translation": "圣域之冠"
+  },
+  "Sceptre of the Holy Blood": {
+    "translation": "圣血权杖"
+  },
+  "Covenant struck with heaven, enthroning God as King": {
+    "translation": "与天立约,奉神明为王"
+  },
+  "Name the realm holy, call the people righteous": {
+    "translation": "称疆域为圣,唤子民为公义"
+  },
+  "The golden dome once held the prayers of thousands of pilgrims": {
+    "translation": "鎏金穹顶曾承载万千朝圣者祈愿"
+  },
+  "The stone seat before the gate engraved a covenant unbroken for a hundred years": {
+    "translation": "门前石座刻着百年未碎的誓约"
+  },
+  "Yet the nightmare came": {
+    "translation": "可梦魇终究降临"
+  },
+  "Yet the fire descended": {
+    "translation": "烈火倾泻而下"
+  },
+  "Stained glass shattered to rubble, the palace gate burned to cinders": {
+    "translation": "彩绘玻璃碎作瓦砾,宫门燃为灰烬"
+  },
+  "Scriptures turned to ash, the hymn lost its voice": {
+    "translation": "经书化为飞灰,圣歌不复回响"
+  },
+  "The people prostrate on the ground, tears falling to ash": {
+    "translation": "众生伏于尘土,泪水落作尘埃"
+  },
+  "No one collects their bones, no one weeps for their passing": {
+    "translation": "无人收殓遗骨,无人为逝者哀泣"
+  },
+  "The old monument lies half-buried in the still-hot dust": {
+    "translation": "古老石碑半埋尚有余温的焦土"
+  },
+  "Crows perch on broken columns, pecking at charred bones": {
+    "translation": "乌鸦栖于断柱,啄食焦黑残骨"
+  },
+  "The breeze carries the embers away": {
+    "translation": "微风卷走残存余烬"
+  },
+  "The fog buries the last echo deep": {
+    "translation": "浓雾深埋最后一声回响"
+  },
+  "Wild grass will sprout from the foot of the broken wall next spring": {
+    "translation": "来年春日,断墙脚下将生出野草"
+  },
+  "When blood is all burned out, where will the soul go?": {
+    "translation": "当鲜血燃尽,灵魂将去往何方?"
+  },
+  ">> Stage IV - Town of Edelweiss <<": {
+    "translation": "第四章  雪绒花小镇"
+  },
+  ">> The place where formerly known as heaven <<": {
+    "translation": "曾被称作天国之地"
+  },
+  ">> Hymn • Blessing Through Suffering <<": {
+    "translation": "圣歌  苦难赐福"
+  },
+  "Truth lies buried deep in mist": {
+    "translation": "真相深埋迷雾之下"
+  },
+  "Hymn echoes inside the skull": {
+    "translation": "圣歌在脑海中回荡"
+  },
+  "The penitent kneels on the stone step": {
+    "translation": "忏悔者跪于石阶之上"
+  },
+  "grinding his palm until it bleeds": {
+    "translation": "摩擦掌心直至鲜血淋漓"
+  },
+  "The scripture is worn white at the edge": {
+    "translation": "经书边角磨损泛白"
+  },
+  "still circles the unfulfilled blessing": {
+    "translation": "仍缠绕着未曾兑现的祝福"
+  },
+  "We receive the blessing that has long rotten": {
+    "translation": "我们接纳早已腐朽的祝福"
+  },
+  "we bear the pain that never ends": {
+    "translation": "我们承受无尽不休的苦痛"
+  },
+  "Whip scars bloom like red flowers on the back": {
+    "translation": "鞭痕如红花绽于脊背"
+  },
+  "Chains choke the throat yet we still cry out the song": {
+    "translation": "锁链扼住咽喉,我们仍高唱圣曲"
+  },
+  "Oh, the blood": {
+    "translation": "啊,这鲜血"
+  },
+  "Oh, the holy blood": {
+    "translation": "啊,这神圣之血"
+  },
+  "The thorn crown frays the warm skin of the brow": {
+    "translation": "荆棘冠划破额头温热肌肤"
+  },
+  "The nail print burns an inscription in the palm": {
+    "translation": "钉痕在掌心烙下印记"
+  },
+  "Salvation dissolved in the blood": {
+    "translation": "救赎融于鲜血之中"
+  },
+  "Blasphemy dissolved in the holy blood": {
+    "translation": "亵渎消散于圣血之内"
+  },
+  "God says suffering itself is the path of trial": {
+    "translation": "神明言道,苦难本就是试炼之路"
+  },
+  "Only souls refined by fire deserve the kingdom above": {
+    "translation": "唯有烈火淬炼的灵魂方能抵达天国"
+  },
+  "Praise the holy believers": {
+    "translation": "赞颂圣洁的信徒"
+  },
+  "Praise the immortal Sovereign": {
+    "translation": "赞颂不朽的主宰"
+  },
+  "......": {
+    "translation": "......"
+  },
+  ">> Stage V - Throne of Divine <<": {
+    "translation": "第五章  神之王座"
+  },
+  ">> Whispers in Ash <<": {
+    "translation": "灰烬低语"
+  },
+  "I see the dream like ash": {
+    "translation": "我见残梦如飞灰"
+  },
+  "burning in the dark of night": {
+    "translation": "于暗夜之中燃烧"
+  },
+  "The stars weep, the moon chokes": {
+    "translation": "星辰垂泪,月色哽咽"
+  },
+  "weaving a shroud of rest for those who never come back": {
+    "translation": "为一去不返之人编织安息裹布"
+  },
+  "Cold mist creeps over the grass-choked path": {
+    "translation": "冷雾漫过荒草遮蔽的小径"
+  },
+  "Dew dampens the unmarked stone slab": {
+    "translation": "露水打湿无碑石板"
+  },
+  "Who walks the path we trod before": {
+    "translation": "谁踏过我们曾走过的路"
+  },
+  "Who has forgotten the first light we were born with": {
+    "translation": "谁遗忘了与生俱来的初光"
+  },
+  "Wind tugs crumpled paper past my ankle": {
+    "translation": "清风卷皱纸拂过脚踝"
+  },
+  "an unfinished prayer, drifting into the distance": {
+    "translation": "一段未完成的祷告,飘向远方"
+  },
+  "All blood is burned out": {
+    "translation": "所有鲜血已然燃尽"
+  },
+  "only embers are left whispering": {
+    "translation": "只剩余烬低声呢喃"
+  },
+  "Moonlight seeps through the crack in the old wall": {
+    "translation": "月光透过旧墙缝隙渗入"
+  },
+  "spreading a layer of silver over the long-closed coffin": {
+    "translation": "为尘封已久的棺木覆上一层银辉"
+  },
+  "He says:": {
+    "translation": "他言道:"
+  },
+  "I carved you into the heart of silence": {
+    "translation": "我将你刻入寂静深处"
+  },
+  "Now you return to dust": {
+    "translation": "如今你重归尘土"
+  },
+  ">> Map made by Lastims <<": {
+    "translation": " 地图制作: Lastims "
+  },
+  ">> Huge thanks to Inailuz!!! <<": {
+    "translation": "万分感谢Inailuz!"
+  },
+  "雾林镇每日的颂歌照常传颂": {
+    "translation": "雾林镇每日的颂歌照常传颂"
+  },
+  "悄然而至的污秽无人在意": {
+    "translation": "悄然而至的污秽无人在意"
+  },
+  "腐败蔓延，侵蚀心智，将镇上的居民化作他物": {
+    "translation": "腐败蔓延,侵蚀心智,将镇上的居民化作他物"
+  },
+  "异乡的旅人啊，原初之血注视着您": {
+    "translation": "异乡的旅人啊,原初之血注视着您"
+  },
+  "恳请您结束这场肆虐已久的腐朽盛宴": {
+    "translation": "恳请您结束这场肆虐已久的腐朽盛宴"
+  },
+  "Barrier will break in 30s": {
+    "translation": "屏障将在30秒后失效"
+  },
+  "Barrier will break in 5s": {
+    "translation": "屏障将在5秒后失效"
+  },
+  "先前的术士在城镇各处设置了法术屏障，可惜于事无补": {
+    "translation": "先前的术士在城镇各处设置了法术屏障,可惜于事无补"
+  },
+  "部分遗落至今的屏障仍在发挥作用，只不过效果适得其反了": {
+    "translation": "部分遗落至今的屏障仍在发挥作用,只不过效果适得其反了"
+  },
+  "给我一点时间，我在破解它们": {
+    "translation": "给我一点时间,我在破解它们"
+  },
+  "Zombie will teleport in 10s": {
+    "translation": "僵尸将在10秒后传送"
+  },
+  "Barrier will break in 45s": {
+    "translation": "屏障将在45秒后失效"
+  },
+  "解开这道法术屏障需要的时间会久一些": {
+    "translation": "解开这道法术屏障需要的时间会久一些"
+  },
+  "欢声笑语，都化作了过往云烟": {
+    "translation": "欢声笑语,都化作了过往云烟"
+  },
+  "湖畔的礼拜厅，纷繁的花房...": {
+    "translation": "湖畔的礼拜厅,纷繁的花房..."
+  },
+  "种种情景，皆浮现在我面前": {
+    "translation": "种种情景,皆浮现在我面前"
+  },
+  "Zombie will teleport in 5s": {
+    "translation": "僵尸将在5秒后传送"
+  },
+  "前面的路被堵上了，看来只能走这条小路了": {
+    "translation": "前面的路被堵上了,看来只能走这条小路了"
+  },
+  "千万不要走错路了": {
+    "translation": "千万不要走错路了"
+  },
+  "不远处就是秘密圣所了": {
+    "translation": "不远处就是秘密圣所了"
+  },
+  "希望你已经收集到了足够的材料": {
+    "translation": "希望你已经收集到了足够的材料"
+  },
+  "在祷告厅正中央的席位上放置净化之心，应该就能奏效": {
+    "translation": "在祷告厅正中央的席位上放置净化之心,应该就能奏效"
+  },
+  "这样应该就能驱散它们身上的死疫": {
+    "translation": "这样应该就能驱散它们身上的死疫"
+  },
+  "情况有些不妙，看来我们得另寻出路了": {
+    "translation": "情况有些不妙,看来我们得另寻出路了"
+  },
+  "Zombie will teleport in 20s": {
+    "translation": "僵尸将在20秒后传送"
+  },
+  "我没记错的话，码头有一条通往圣所侧门的通路": {
+    "translation": "我没记错的话,码头有一条通往圣所侧门的通路"
+  },
+  "要想通过那段路，就得冒险解除沿路的大多数法术屏障了": {
+    "translation": "要想通过那段路,就得冒险解除沿路的大多数法术屏障了"
+  },
+  "你说，腐朽的虔诚，会得到救赎吗": {
+    "translation": "你说,腐朽的虔诚,会得到救赎吗"
+  },
+  "Barrier will break in 60s": {
+    "translation": "屏障将在60秒后失效"
+  },
+  "此处的法术屏障最为复杂，请再坚持一会": {
+    "translation": "此处的法术屏障最为复杂,请再坚持一会"
+  },
+  "万幸，这里尚且还能顺利通行": {
+    "translation": "万幸,这里尚且还能顺利通行"
+  },
+  "就快好了，再给我一点时间...": {
+    "translation": "就快好了,再给我一点时间..."
+  },
+  "听着，破坏掉此处的法术屏障，必然会招致不洁之物的袭击": {
+    "translation": "听着,破坏掉此处的法术屏障,必然会招致不洁之物的袭击"
+  },
+  "时间有限，老朽无法再为你们提供庇护": {
+    "translation": "时间有限,老朽无法再为你们提供庇护"
+  },
+  "无论是否出现意外，务必保卫圣堂": {
+    "translation": "无论是否出现意外,务必保卫圣堂"
+  },
+  "成败在此一举，老朽死不足惜...": {
+    "translation": "成败在此一举,老朽死不足惜..."
+  },
+  "Zombie will teleport in 25s": {
+    "translation": "僵尸将在25秒后传送"
+  },
+  ">> 净化之心正在激活 <<": {
+    "translation": "净化之心正在激活"
+  },
+  "Stay Alive for 90s!": {
+    "translation": "坚持存活90秒!"
+  },
+  "Stay Alive for 80s!": {
+    "translation": "坚持存活80秒!"
+  },
+  "Stay Alive for 70s!": {
+    "translation": "坚持存活70秒!"
+  },
+  "Stay Alive for 60s!": {
+    "translation": "坚持存活60秒!"
+  },
+  "Stay Alive for 50s!": {
+    "translation": "坚持存活50秒!"
+  },
+  "Stay Alive for 40s!": {
+    "translation": "坚持存活40秒!"
+  },
+  "Stay Alive for 30s!": {
+    "translation": "坚持存活30秒!"
+  },
+  "Stay Alive for 20s!": {
+    "translation": "坚持存活20秒!"
+  },
+  "Stay Alive for 15s!": {
+    "translation": "坚持存活15秒!"
+  },
+  "Stay Alive for 10s!": {
+    "translation": "坚持存活10秒!"
+  },
+  "Stay Alive for 9s!": {
+    "translation": "坚持存活9秒!"
+  },
+  "Stay Alive for 8s!": {
+    "translation": "坚持存活8秒!"
+  },
+  "Stay Alive for 7s!": {
+    "translation": "坚持存活7秒!"
+  },
+  "Stay Alive for 6s!": {
+    "translation": "坚持存活6秒!"
+  },
+  "Stay Alive for 5s!": {
+    "translation": "坚持存活5秒!"
+  },
+  "Stay Alive for 4s!": {
+    "translation": "坚持存活4秒!"
+  },
+  "Stay Alive for 3s!": {
+    "translation": "坚持存活3秒!"
+  },
+  "Stay Alive for 2s!": {
+    "translation": "坚持存活2秒!"
+  },
+  "Stay Alive for 1s!": {
+    "translation": "坚持存活1秒!"
+  },
+  "是时候离开这里了": {
+    "translation": "是时候离开这里了"
+  },
+  "在圣所的后门集合，只有那片区域尚未沦陷": {
+    "translation": "在圣所的后门集合,只有那片区域尚未沦陷"
+  },
+  "圣所要沦陷了，我们要坚持到净化之心生效": {
+    "translation": "圣所要沦陷了,我们要坚持到净化之心生效"
+  },
+  "我们被包围了...": {
+    "translation": "我们被包围了..."
+  },
+  "Devil will be executed in 30s!": {
+    "translation": "魔物将在30秒后被处决!"
+  },
+  "Devil will be executed in 20s!": {
+    "translation": "魔物将在20秒后被处决!"
+  },
+  "Devil will be executed in 10s!": {
+    "translation": "魔物将在10秒后被处决!"
+  },
+  "Devil will be executed in 5s!": {
+    "translation": "魔物将在5秒后被处决!"
+  },
+  "Devil will be executed in 4s!": {
+    "translation": "魔物将在4秒后被处决!"
+  },
+  "Devil will be executed in 3s!": {
+    "translation": "魔物将在3秒后被处决!"
+  },
+  "Devil will be executed in 2s!": {
+    "translation": "魔物将在2秒后被处决!"
+  },
+  "Devil will be executed in 1s!": {
+    "translation": "魔物将在1秒后被处决!"
+  },
+  "You are the heroes of Edelweiss Town, and you deserve to be remembered by future generations...": {
+    "translation": "你们是雪绒花小镇的英雄,理应被后世铭记..."
+  },
+  "You failed, Edelweiss Town is about to vanish into silence again...": {
+    "translation": "你们失败了,雪绒花小镇即将再次归于沉寂..."
+  },
+  "旅人啊，希望老朽这本陈旧的手记能帮助到你": {
+    "translation": "旅人啊,希望老朽这本陈旧的手记能帮助到你"
+  },
+  "它将指引你前往这场死疫的源头": {
+    "translation": "它将指引你前往这场死疫的源头"
+  },
+  "镇上地形错综复杂，老朽愿尽绵薄之力": {
+    "translation": "镇上地形错综复杂,老朽愿尽绵薄之力"
+  },
+  "只愿重现雾林镇那往日的祥和...": {
+    "translation": "只愿重现雾林镇那往日的祥和..."
+  },
+  "All enchanted barrier activated!": {
+    "translation": "全部法术屏障已启动!"
+  },
+  "Survive for 180s until they work!": {
+    "translation": "坚守180秒等待屏障生效!"
+  },
+  "Survive for 150s until they work!": {
+    "translation": "坚守150秒等待屏障生效!"
+  },
+  "Survive for 90s until they work!": {
+    "translation": "坚守90秒等待屏障生效!"
+  },
+  "Survive for 60s until they work!": {
+    "translation": "坚守60秒等待屏障生效!"
+  },
+  "Survive for 120s until they work!": {
+    "translation": "坚守120秒等待屏障生效!"
+  },
+  "Survive for 30s until they work!": {
+    "translation": "坚守30秒等待屏障生效!"
+  },
+  "Survive for 20s until they work!": {
+    "translation": "坚守20秒等待屏障生效!"
+  },
+  "Survive for 10s until they work!": {
+    "translation": "坚守10秒等待屏障生效!"
+  },
+  "Survive for 5s until they work!": {
+    "translation": "坚守5秒等待屏障生效!"
+  },
+  "": {
+    "translation": ""
+  },
+  "That day, that dusk...": {
+    "translation": "那一日,那黄昏..."
+  },
+  "We need to activate all enchanted barrier to defend our town!": {
+    "translation": "我们必须启动所有法术屏障守护小镇!"
+  },
+  "19/20 enchanted barrier left!": {
+    "translation": "剩余19/20道法术屏障待激活!"
+  },
+  "18/20 enchanted barrier left!": {
+    "translation": "剩余18/20道法术屏障待激活!"
+  },
+  "17/20 enchanted barrier left!": {
+    "translation": "剩余17/20道法术屏障待激活!"
+  },
+  "16/20 enchanted barrier left!": {
+    "translation": "剩余16/20道法术屏障待激活!"
+  },
+  "15/20 enchanted barrier left!": {
+    "translation": "剩余15/20道法术屏障待激活!"
+  },
+  "14/20 enchanted barrier left!": {
+    "translation": "剩余14/20道法术屏障待激活!"
+  },
+  "13/20 enchanted barrier left!": {
+    "translation": "剩余13/20道法术屏障待激活!"
+  },
+  "12/20 enchanted barrier left!": {
+    "translation": "剩余12/20道法术屏障待激活!"
+  },
+  "11/20 enchanted barrier left!": {
+    "translation": "剩余11/20道法术屏障待激活!"
+  },
+  "10/20 enchanted barrier left!": {
+    "translation": "剩余10/20道法术屏障待激活!"
+  },
+  "9/20 enchanted barrier left!": {
+    "translation": "剩余9/20道法术屏障待激活!"
+  },
+  "8/20 enchanted barrier left!": {
+    "translation": "剩余8/20道法术屏障待激活!"
+  },
+  "7/20 enchanted barrier left!": {
+    "translation": "剩余7/20道法术屏障待激活!"
+  },
+  "6/20 enchanted barrier left!": {
+    "translation": "剩余6/20道法术屏障待激活!"
+  },
+  "5/20 enchanted barrier left!": {
+    "translation": "剩余5/20道法术屏障待激活!"
+  },
+  "4/20 enchanted barrier left!": {
+    "translation": "剩余4/20道法术屏障待激活!"
+  },
+  "3/20 enchanted barrier left!": {
+    "translation": "剩余3/20道法术屏障待激活!"
+  },
+  "2/20 enchanted barrier left!": {
+    "translation": "剩余2/20道法术屏障待激活!"
+  },
+  "1/20 enchanted barrier left!": {
+    "translation": "剩余1/20道法术屏障待激活!"
+  },
+  "0/20 enchanted barrier left!": {
+    "translation": "已无剩余待激活法术屏障!"
+  }
+}

@@ -3140,6 +3140,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_minecraft_hortus_de_escapismo": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 120,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_minecraft_journey_v1": {
     "admin": false,
     "certainTimes": [-1],
