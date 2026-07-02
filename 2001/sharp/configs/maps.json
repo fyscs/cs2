@@ -1148,7 +1148,7 @@
     "cooldown": 120,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 900,
+    "requiredOnline": 300,
     "requiredPlayers": 45
   },
   "ze_dear": {
