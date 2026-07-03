@@ -3149,6 +3149,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+"ze_minecraft_lucky_blocks": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": 20
+  },
   "ze_minecraft_p": {
     "admin": false,
     "certainTimes": [-1],
