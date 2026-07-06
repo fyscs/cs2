@@ -1,0 +1,1182 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "i love you": {
+    "translation": "...我爱你..."
+  },
+  "***PURCHASED - DISCO PUSH***": {
+    "translation": "玩家购买了推力"
+  },
+  "***RUN***": {
+    "translation": "快跑"
+  },
+  "***OH NO, IT'S THE DIDDLE DICK***": {
+    "translation": "厚礼蟹,你这蠢货"
+  },
+  "***PREPARE YER ARSEHOLES***": {
+    "translation": "准备迎接审判吧..."
+  },
+  "***THE DIDDLERY IS COMING***": {
+    "translation": "跳刀皇在来的路上了..."
+  },
+  "***ZOMBIES TELEPORT IN 15 SECONDS***": {
+    "translation": "僵尸将在15秒后传送",
+    "countdown": 15
+  },
+  "***ZOMBIES TELEPORT IN 10 SECONDS***": {
+    "translation": "僵尸将在10秒后传送",
+    "countdown": 10
+  },
+  "***ZOMBIES TELEPORT IN 5 SECONDS***": {
+    "translation": "僵尸将在5秒后传送",
+    "countdown": 5
+  },
+  "***ZOMBIES TELEPORTING***": {
+    "translation": "僵尸已传送"
+  },
+  "***OH NO***": {
+    "translation": "厚礼泄"
+  },
+  "***A POWERFUL MAGICAL SEAL IS BLOCKING YOUR PATH TO VICTORY***": {
+    "translation": "一只强大的魔法海豹正阻挡你的去路"
+  },
+  "***HOW WILL YOU EVER GET PAST THIS CHALLENGE?***": {
+    "translation": "你会怎么做?还用问?"
+  },
+  "***YOU MUST FIND A WAY TO BREAK THE POWERFUL SEAL***": {
+    "translation": "找到打破海豹的方法吧.."
+  },
+  "***QUICKLY***": {
+    "translation": "快..."
+  },
+  "***OH NO, THE SEAL IS TOO POWERFUL***": {
+    "translation": "啧,这海豹血太厚了"
+  },
+  "***WE NEED TO SHOOT IT WITH ALL OUR MIGHT***": {
+    "translation": "加大力度射击它"
+  },
+  "***YOU DID IT!***": {
+    "translation": "人类又㕛叒叕再获得一次短暂的胜利"
+  },
+  "***THE POWERFUL SEAL HAS BEEN BROKEN***": {
+    "translation": "强大的魔法海豹已被打破"
+  },
+  "***PEACE SHALL REMAIN IN THE PEACEFUL LAND OF ANTARCTICA***": {
+    "translation": "坏海豹死了,和平之光将会继续洒落在南极洲各地"
+  },
+  "*Defend here for 20 seconds*": {
+    "translation": "在此地防守20秒",
+    "countdown": 20
+  },
+  "*FALL BACK*": {
+    "translation": "撤退"
+  },
+  "*Elevator Activating in 10 seconds*": {
+    "translation": "电梯将在10秒后启动"
+  },
+  "*Elevator activated*": {
+    "translation": "电梯已启动"
+  },
+  "*Defend for 30 seconds*": {
+    "translation": "防守30秒",
+    "countdown": 30
+  },
+  "*15 seconds before bridge breaks*": {
+    "translation": "大桥还有15秒就要断裂",
+    "countdown": 15
+  },
+  "***Demon Turtle Of Despair has appeared!***": {
+    "translation": "海龟狂暴了!"
+  },
+  "***Hey, doing well i see***": {
+    "translation": "?:嘿,干得不错"
+  },
+  "***Since you are doing so well, i figure that i should make it harder for you***": {
+    "translation": "?:看起来你似乎很轻松的样子"
+  },
+  "***Goooodluck***": {
+    "translation": "祝祝祝祝祝祝你好运"
+  },
+  "***I will heal the big turtle every now and then***": {
+    "translation": "?:现在我将时不时治愈它"
+  },
+  "***Because i am a naughty little turtle.. rowr XD***": {
+    "translation": "?:嘻嘻 XD"
+  },
+  "*Last stand - Defend for 30 seconds*": {
+    "translation": "守住最后的30秒",
+    "countdown": 30
+  },
+  "*Jump Down*": {
+    "translation": "往下跳往下跳往下跳往下跳往下跳"
+  },
+  "*Enter the Sand Castle*": {
+    "translation": "*前进*"
+  },
+  "*Defend here for 30 seconds*": {
+    "translation": "守住30秒"
+  },
+  "***I will help***": {
+    "translation": "?:现在我来帮你了"
+  },
+  "***FUS RO...***": {
+    "translation": "(施法中...)"
+  },
+  "*Do you hear that again..?*": {
+    "translation": "?:你听到泥头车的声音了吗?"
+  },
+  "*You are stuck inside Turtle Reaction's Computer - Try to escape this place*": {
+    "translation": "关卡: 海龟关"
+  },
+  "*Defend for 20 seconds*": {
+    "translation": "防守20秒",
+    "countdown": 20
+  },
+  "say*FALL BACK*": {
+    "translation": "撤退!"
+  },
+  "***Hello there, Im Turtle***": {
+    "translation": "?:你好啊 我是一只海龟"
+  },
+  "***I came to warn you, something BIG is out there and angry***": {
+    "translation": "我来是警告你,外面有个大东西在生气"
+  },
+  "***But ill be there to help. Bye for now***": {
+    "translation": "但我等下会帮你的,放心,我先去准备准备了"
+  },
+  "*The hell..? I thought we left Turtle Reactions Computer*": {
+    "translation": "搞什么啊,还以为我们守完那个代码城堡就完事了"
+  },
+  "*Last Stand - Defend for 40 seconds*": {
+    "translation": "守住最后的40秒",
+    "countdown": 40
+  },
+  "*Gates closing*": {
+    "translation": "大门关闭"
+  },
+  "*Looks like this is the way out of the computer!*": {
+    "translation": "似乎这里就是逃离电脑的出口了"
+  },
+  "*Initializing Escape Program Sequence*": {
+    "translation": "电脑出错,启动应急代码"
+  },
+  "*What is this music...?*": {
+    "translation": "什么音乐?"
+  },
+  "*Gates closing in 5 seconds*": {
+    "translation": "大门将在5秒后关闭",
+    "countdown": 5
+  },
+  "***FIST ME DADDY***": {
+    "translation": "快用你的大拳拳打我,爸爸"
+  },
+  "***OH YEAH DADDY HARDER***": {
+    "translation": "***OH YEAH DADDY HARDER***",
+    "blocked": true
+  },
+  "***DADDY PLEASE STOP IT HURTS***": {
+    "translation": "不要再打我了"
+  },
+  "***PURCHASED - HEAL***": {
+    "translation": "一名玩家购买了小奶"
+  },
+  "***PURCHASED - LEGENDARY HEAL***": {
+    "translation": "一名玩家购买了大奶"
+  },
+  "***PURCHASED - SMALL DICK***": {
+    "translation": "一名玩家购买了单体加速"
+  },
+  "***PURCHASED - BIG DICK***": {
+    "translation": "一名玩家购买了群体加速"
+  },
+  "***PURCHASED - DIDDLE CANNON***": {
+    "translation": "一名玩家购买了手炮"
+  },
+  "***PURCHASED - LEGENDARY GUARDIAN***": {
+    "translation": "一名玩家购买了大墙"
+  },
+  "***PURCHASED - BIG GUARDIAN***": {
+    "translation": "一名玩家购买了中墙(红墙)"
+  },
+  "***PURCHASED - GUARDIAN***": {
+    "translation": "一名玩家购买了小墙(绿墙)"
+  },
+  "hold here": {
+    "translation": "在这守住,马上Boss战了"
+  },
+  "wait for the door to open": {
+    "translation": "等待旁边的门爆破"
+  },
+  "wait for the finall wall to break": {
+    "translation": "等待最后的门爆破"
+  },
+  "the wall.. quick": {
+    "translation": "近路的墙爆炸了"
+  },
+  "alright let's fight that dicklett": {
+    "translation": "地鼠战: 分身"
+  },
+  "wait for the right door to open": {
+    "translation": "长据点 - 人类需要守住岩浆大厅"
+  },
+  "wait for the doors to open": {
+    "translation": "等待滑翔下面的门打开"
+  },
+  "defend": {
+    "translation": "防守"
+  },
+  "oooh... look at those cute digletts": {
+    "translation": "哇哦...看看这些可爱的地鼠"
+  },
+  "defend here untill the wall breaks": {
+    "translation": "在这防守直到门开"
+  },
+  "hold 15sec": {
+    "translation": "还有15秒",
+    "countdown": 15
+  },
+  "go...": {
+    "translation": "后撤."
+  },
+  "shoot the floor": {
+    "translation": "快打后面地板,然后钻下去"
+  },
+  "every night when i go to bed i think about the vast universe and how insignificant we are": {
+    "translation": "每天晚上睡觉的时候我都会想到浩瀚的宇宙和我们是多么的渺小"
+  },
+  "why do we even exist": {
+    "translation": "为了胜利而活着"
+  },
+  "there are probably AT LEAST 50 people in the world who likes to sniff cats buttholes": {
+    "translation": "据我所知,这个世界上至少有五十个人有喜欢闻猫屁股的特殊xp"
+  },
+  "watch out for soggy ovaries": {
+    "translation": "watch out for soggy ovaries",
+    "blocked": true
+  },
+  "***THE DIDDLERY HAS BEEN DONE***": {
+    "translation": "冒险结束,但你可能没有收集完所有金币"
+  },
+  "***HOWEVER, YOU ARE POOR AND SAD INSIDE***": {
+    "translation": "因此,你没有进入天堂的资格.."
+  },
+  "***COME BACK WHEN YOU ARE WEALTHIER***": {
+    "translation": "等你集齐所有硬币再来试试吧"
+  },
+  "***THE DIDDLE DICK HAS BEEN DEFEATED***": {
+    "translation": "Boss被打败了"
+  },
+  "***TAKE A LEAP OF FAITH***": {
+    "translation": "信仰之跃!"
+  },
+  "***DEFEND FOR 20 SECONDS***": {
+    "translation": "防守20秒",
+    "countdown": 20
+  },
+  "***THE END IS NEAR***": {
+    "translation": "终点近在咫尺"
+  },
+  "***STAY STRONG FOR DADDY***": {
+    "translation": "为了DADDY,坚持住"
+  },
+  "***HOLD OUT FOR 30 SECONDS***": {
+    "translation": "还有30秒",
+    "countdown": 30
+  },
+  "***THE END IS COMING IN 20 SECONDS***": {
+    "translation": "还有20秒",
+    "countdown": 20
+  },
+  "***THE END IS COMING IN 10 SECONDS***": {
+    "translation": "还有10秒",
+    "countdown": 10,
+    "blocked": true
+  },
+  "***THE END IS COMING IN 5 SECONDS***": {
+    "translation": "还有5秒",
+    "countdown": 5,
+    "blocked": true
+  },
+  "***THE END IS COMING IN 4 SECONDS***": {
+    "translation": "还有4秒",
+    "countdown": 4,
+    "blocked": true
+  },
+  "***THE END IS COMING IN 3 SECONDS***": {
+    "translation": "还有3秒",
+    "countdown": 3,
+    "blocked": true
+  },
+  "***THE END IS COMING IN 2 SECONDS***": {
+    "translation": "还有2秒",
+    "countdown": 2,
+    "blocked": true
+  },
+  "***THE END IS COMING IN 1 SECOND***": {
+    "translation": "还有1秒",
+    "countdown": 1,
+    "blocked": true
+  },
+  "***THE END IS NIGH***": {
+    "translation": "他 来 了"
+  },
+  "***ZOMBIES REACHED ELEVATOR - YOU'RE DEAD***": {
+    "translation": "僵尸到达电梯,你们完了"
+  },
+  "***ZOMBIES REACHED TOP GATE - YOU'RE DEAD***": {
+    "translation": "僵尸到达电梯门,你们完了"
+  },
+  "***SKIP STAGE - DDAY***": {
+    "translation": "跳关-抢滩登陆"
+  },
+  "father": {
+    "translation": "father",
+    "blocked": true
+  },
+  "fist me": {
+    "translation": "快打我.."
+  },
+  "***FALL BACK***": {
+    "translation": "撤退!!"
+  },
+  "***5 SECONDS LEFT***": {
+    "translation": "还有5秒",
+    "countdown": 5
+  },
+  "***DEFEND FOR 40 SECONDS***": {
+    "translation": "防守40秒",
+    "countdown": 40
+  },
+  "***THIS ELEVATOR WILL LEAVE ONCE THE OTHER PATH HAS BEEN FINISHED***": {
+    "translation": "电梯只有在另一条路最上面的大门触发开启了才会启动"
+  },
+  "***STAND YOUR GROUND UNTIL THEN***": {
+    "translation": "还在电梯的你站在电梯上等就完了"
+  },
+  "***BE STRONG FOR DADDY***": {
+    "translation": "加油嗷,要坚强"
+  },
+  "***WELCOME TO THE VAGINA***": {
+    "translation": "欢迎来到花果山"
+  },
+  "***GO***": {
+    "translation": "撤退"
+  },
+  "***DIDDLE THEM OFF FOR 20 SECONDS***": {
+    "translation": "在这里守20秒",
+    "countdown": 20
+  },
+  "***EARN YOUR DIDDLERY***": {
+    "translation": "马上就到终点了"
+  },
+  "***GET DIDDLING***": {
+    "translation": "(在被殴打中)"
+  },
+  "***YA DOODLERS***": {
+    "translation": "(还在被打中)"
+  },
+  "***RIP MY POODLE APART***": {
+    "translation": "(依旧被打中)"
+  },
+  "***SKIP STAGE - WEEB***": {
+    "translation": "跳关-二次元"
+  },
+  "*****ROUND END*****": {
+    "translation": "回合结束"
+  },
+  "GRILLS ARE ACTUALLY NOT REAL THEY ONLY EXIST IN OUR MINDS": {
+    "translation": "GRILLS ARE ACTUALLY NOT REAL THEY ONLY EXIST IN OUR MINDS",
+    "blocked": true
+  },
+  "***THE MIDDLE GATE WILL OPEN IN 25 SECONDS***": {
+    "translation": "中间路的门还有25秒打开",
+    "countdown": 25
+  },
+  "***THE MIDDLE GATE WILL OPEN IN 5 SECONDS***": {
+    "translation": "中间路的门还有5秒打开",
+    "countdown": 5
+  },
+  "***THE MIDDLE GATE IS DIDDLED***": {
+    "translation": "中间路的门开了"
+  },
+  "***HOLD THEM OFF FOR A LONG TIME***": {
+    "translation": "防守128秒"
+  },
+  "***THIS MIGHT BE YOUR FINAL STAND***": {
+    "translation": "守住这道通往天堂的防线"
+  },
+  "***HOLD THE LINE***": {
+    "translation": "守住此地"
+  },
+  "***LOVE ISN'T ALWAYS ON TIME***": {
+    "translation": "爱并不总是准时"
+  },
+  "***YEE BETTER GET INSIDE, FELLAS***": {
+    "translation": "别死断了"
+  },
+  "***IF YOU ENJOY THE FEELING OF BEING LEFT OUT...***": {
+    "translation": "如果你不喜欢被卖的感觉,那就赶紧进去"
+  },
+  "***..THEN DON'T GET INSIDE***": {
+    "translation": "! 不要进去 !"
+  },
+  "***JUST STAY THERE AND CRY***": {
+    "translation": "再断就是死断了"
+  },
+  "***1 LIKE = ONE PRAYER FOR JEBUS***": {
+    "translation": "记得给本地图点赞"
+  },
+  "***THE FETUS WANTS YOU***": {
+    "translation": "似乎他想吃掉你"
+  },
+  "***THE FETUS NEEDS YOU***": {
+    "translation": "他需要你.."
+  },
+  "***THE FETUS NEEDS NUTRITION***": {
+    "translation": "他很需要营养"
+  },
+  "***SKIP STAGE - TURTLE***": {
+    "translation": "跳关-海龟关"
+  },
+  "***THIS GATE SHALL OPEN IN 40 HUMAN SECONDS***": {
+    "translation": "角斗场地还有40秒开启",
+    "countdown": 40
+  },
+  "***THIS GATE SHALL OPEN IN 5 HUMAN SECONDS***": {
+    "translation": "角斗场地还有5秒开启",
+    "countdown": 5
+  },
+  "***THIS GATE SHALL BE OPENING RIGHT NOW***": {
+    "translation": "角斗场地正在开启"
+  },
+  "***FALL BACK, FELLOW HUMANS***": {
+    "translation": "后退,同胞们"
+  },
+  "***KILL BUTTON PRESSED***": {
+    "translation": "ADMIN处死了全体人"
+  },
+  "***RESETTING THE MAP***": {
+    "translation": "正在重置地图"
+  },
+  "***WATCH OUT FOR SINKING PLATFORMS***": {
+    "translation": "跑到那些浮上来的岩浆平台"
+  },
+  "***WARMUP***": {
+    "translation": "热身回合"
+  },
+  "***HAPPY DIDDLING***": {
+    "translation": "冒险现在正式开始"
+  },
+  "***THE DIDDLERY WILL COMMENCE IN 30 SECONDS***": {
+    "translation": "冒险还有30秒开始",
+    "countdown": 30
+  },
+  "***THE DIDDLERY WILL COMMENCE IN 20 SECONDS***": {
+    "translation": "冒险还有20秒开始",
+    "countdown": 20,
+    "blocked": true
+  },
+  "***THE DIDDLERY WILL COMMENCE IN 10 SECONDS***": {
+    "translation": "冒险还有10秒开始",
+    "countdown": 10,
+    "blocked": true
+  },
+  "***THE DIDDLERY WILL COMMENCE IN 5 SECONDS***": {
+    "translation": "冒险还有5秒开始",
+    "countdown": 5,
+    "blocked": true
+  },
+  "***THE DIDDLERY WILL COMMENCE IN 4 SECONDS***": {
+    "translation": "冒险还有4秒开始",
+    "countdown": 4,
+    "blocked": true
+  },
+  "***THE DIDDLERY WILL COMMENCE IN 3 SECONDS***": {
+    "translation": "冒险还有3秒开始",
+    "countdown": 3,
+    "blocked": true
+  },
+  "***THE DIDDLERY WILL COMMENCE IN 2 SECONDS***": {
+    "translation": "冒险还有2秒开始",
+    "countdown": 2,
+    "blocked": true
+  },
+  "***THE DIDDLERY WILL COMMENCE IN 1 SECOND***": {
+    "translation": "冒险还有1秒开始",
+    "countdown": 1,
+    "blocked": true
+  },
+  "***THE DIDDLERY WILL COMMENCE IN 60 SECONDS***": {
+    "translation": "冒险还有60秒开始",
+    "countdown": 60
+  },
+  "***ZOMBIES ARE TELEPORTING***": {
+    "translation": "僵尸已传送到二次元"
+  },
+  "***ZOMBIES ARE TELEPORTING IN 5 SECONDS***": {
+    "translation": "僵尸还有5秒传送到二次元",
+    "countdown": 5,
+    "blocked": true
+  },
+  "***ZOMBIES ARE TELEPORTING IN 10 SECONDS***": {
+    "translation": "僵尸还有10秒传送到二次元",
+    "countdown": 10,
+    "blocked": true
+  },
+  "***ZOMBIES ARE TELEPORTING IN 15 SECONDS***": {
+    "translation": "僵尸还有15秒传送到二次元",
+    "countdown": 15
+  },
+  "***PICK UP THE TORCHES AND BURN ALL WEEBS***": {
+    "translation": "捡起火把烧掉你看到的所有房屋和纸片人"
+  },
+  "***HURRY, BEFORE WEEBLAND INVADES US***": {
+    "translation": "如果不能按时烧掉则你们完蛋了"
+  },
+  "***THE TORCHES BURNS AND PUSHES ZOMBIES***": {
+    "translation": "火把可以点燃并退走僵尸"
+  },
+  "***ALSO USE THE TORCHES TO LIGHT HOUSES***": {
+    "translation": "同样,也能点燃房屋"
+  },
+  "***SHOOT AT THE BASE OF THE ARMS***": {
+    "translation": "打那些触手能减少天谴触发和减少NPC出生概率,最多能减少至无触发"
+  },
+  "***JUMP INSIDE THE DOODLE DOODY***": {
+    "translation": "跳进花果山"
+  },
+  "***THE BOOBLE JOOBLE***": {
+    "translation": "花果山十分热闹"
+  },
+  "***THE BABY MACHINE***": {
+    "translation": "是孕育大头们的地方"
+  },
+  "***THE TOWER GATE IS DIDDLED***": {
+    "translation": "塔楼的大门打开了"
+  },
+  "***THE TOWER GATE IS OPENING IN 5 SECONDS***": {
+    "translation": "塔楼的大门还有5秒打开",
+    "countdown": 5,
+    "blocked": true
+  },
+  "***THE TOWER GATE IS OPENING IN 10 SECONDS***": {
+    "translation": "塔楼的大门还有10秒打开",
+    "countdown": 10,
+    "blocked": true
+  },
+  "***THE TOWER GATE IS OPENING IN 30 SECONDS***": {
+    "translation": "塔楼的大门还有30秒打开",
+    "countdown": 30
+  },
+  "***THE ELEVATOR LEAVES IN 20 SECONDS***": {
+    "translation": "电梯20秒后升起",
+    "countdown": 20
+  },
+  "***THE ELEVATOR LEAVES IN 10 SECONDS***": {
+    "translation": "电梯10秒后升起",
+    "countdown": 10,
+    "blocked": true
+  },
+  "***THE ELEVATOR LEAVES IN 5 SECONDS***": {
+    "translation": "电梯5秒后升起",
+    "countdown": 5,
+    "blocked": true
+  },
+  "***THE ELEVATOR IS DIDDLING***": {
+    "translation": "电梯正在启动"
+  },
+  "***THE CHAPEL DOOR WILL OPEN IN 15 SECONDS***": {
+    "translation": "教堂的门还有15秒打开",
+    "countdown": 15
+  },
+  "***A VAGINA IS WARM***": {
+    "translation": "花果山烟雾弥漫"
+  },
+  "***A VAGINA IS MUSHY***": {
+    "translation": "花果山香气四溢"
+  },
+  "***A VAGINA IS DANGEROUS***": {
+    "translation": "花果山危机四伏"
+  },
+  "***A VAGINA IS FILLED WITH TEETH***": {
+    "translation": "花果山真菌遍布"
+  },
+  "***A VAGINA IS GOOD***": {
+    "translation": "花果山环境宜人"
+  },
+  "***A VAGINA IS NEAT***": {
+    "translation": "花果山风景优美"
+  },
+  "***A VAGINA IS BOOBLY***": {
+    "translation": "花果山洞让人流连忘返"
+  },
+  "***A VAGINA IS WELCOMED***": {
+    "translation": "花果山欢迎您的到来"
+  },
+  "***DEFEND FOR 50 SECONDS***": {
+    "translation": "还有50秒",
+    "countdown": 50
+  },
+  "***10 SECONDS LEFT***": {
+    "translation": "还有10秒",
+    "countdown": 10
+  },
+  "***15 SECONDS LEFT***": {
+    "translation": "还有15秒",
+    "countdown": 15
+  },
+  "***30 SECONDS LEFT***": {
+    "translation": "还有30秒",
+    "countdown": 30
+  },
+  "***SKIPPING DIRECTLY TO FINALE***": {
+    "translation": "跳关-跳过所有小关卡"
+  },
+  "***YOU ARE THE ULTIMATE DIDDLERS***": {
+    "translation": "你是真正的卤粉精英"
+  },
+  "***MAY THE DOODLING BE WITH YOU***": {
+    "translation": "祝你们卤粉痴身体健康"
+  },
+  "***THANK YOU FOR PLAYING***": {
+    "translation": "感谢你的游玩"
+  },
+  "***THIS IS A COLLABORATIVE MAP MADE BY:***": {
+    "translation": "地图作者列表见左下角"
+  },
+  "* THE ORDIAXER": {
+    "translation": "地图文本: creeper_kk@FYS"
+  },
+  "***ELEVATOR LEAVES IN 10 SECONDS***": {
+    "translation": "电梯10秒后升起",
+    "countdown": 10
+  },
+  "***ELEVATOR LEAVES IN 5 SECONDS***": {
+    "translation": "电梯5秒后升起",
+    "countdown": 5
+  },
+  "***ELEVATOR IS LEAVING***": {
+    "translation": "电梯正在离开"
+  },
+  "***I'M RICK HARRISON, AND THIS IS MY PAWN SHOP***": {
+    "translation": "我是里克哈里森,这是我的商店"
+  },
+  "***DUE TO HUGE ITEM DEMAND WE CAN ONLY LET ONE PERSON IN AT A TIME***": {
+    "translation": "神器超市只能容纳一个人类玩家购物"
+  },
+  "***LINE UP AND KEEP HUGGING THE DOOR FOR A CHANCE TO GET INSIDE***": {
+    "translation": "请排好队伍,不要争抢"
+  },
+  "***IF/WHEN YOU GET INSIDE YOU'LL HAVE 10 SECONDS TO BUY SOMETHING***": {
+    "translation": "你进去只有10秒钟的时间购买东西"
+  },
+  "***ALL COINS BUTTON PRESSED***": {
+    "translation": "跳关-全硬币收集"
+  },
+  "<<<ZOMBIE TP TO BOSS>>>": {
+    "translation": "BOSS攻击 - 传送僵尸进角斗场"
+  },
+  "***YOU TOOK TOO LONG - RELEASING ZOMBIES***": {
+    "translation": "[地图系统]你搞太久了,释放所有僵尸进角斗场"
+  },
+  "***HICHATU CAN'T MAKE MODELS IN BLENDER***": {
+    "translation": "***HICHATU CAN'T MAKE MODELS IN BLENDER***",
+    "blocked": true
+  },
+  "***A VAGINA RUNS 78 MILES PER DAY ON AVERAGE***": {
+    "translation": "这座花果山每天都接受七十八万人参观"
+  },
+  "***A VAGINA INCLUDES CHILD SUPPORT***": {
+    "translation": "花果山空气清新"
+  },
+  "***A VAGINA IS AFRAID OF CLOWNS***": {
+    "translation": "花果山可喜欢别人前来参观了"
+  },
+  "***A VAGINA DOES NOT WANT TO PLAY ANYMORE***": {
+    "translation": "这座花果山不喜欢你逗弄里面的猴子"
+  },
+  "***A VAGINA IS ALLERGIC TO DICKERY***": {
+    "translation": "花果山环境优美"
+  },
+  "***A VAGINA HELPS THE POOR***": {
+    "translation": "花果山周边需要来人开发"
+  },
+  "***A VAGINA OPENS FOR YOU***": {
+    "translation": "这座花果山好多大型野生动物"
+  },
+  "***A VAGINA IS IN ALL OF US***": {
+    "translation": "我们现在身处花果山之中"
+  },
+  "***A VAGINA CALLS TO US***": {
+    "translation": "花果山正在广播"
+  },
+  "***A VAGINA DIDDLES US***": {
+    "translation": "花果山突然开始泄洪"
+  },
+  "***A VAGINA DOODLES US***": {
+    "translation": "花果山突然开始地震"
+  },
+  "***A VAGINA FOR EVERY SANTA CLAUS***": {
+    "translation": "花果山住着圣诞老人"
+  },
+  "***A VAGINA EATS PIZZA DAILY***": {
+    "translation": "在花果山每天都可以吃到披萨"
+  },
+  "***A VAGINA CAN FART***": {
+    "translation": "这座花果山每天都排出好多香气"
+  },
+  "***A VAGINA CAN BE BOUGHT***": {
+    "translation": "花果山山下的农庄正在招收股东"
+  },
+  "***A VAGINA CAN BE SOLD***": {
+    "translation": "花果山山下的农庄正在招收兼职"
+  },
+  "***A VAGINA RUNS AROUND THE PRIZE OF 40$***": {
+    "translation": "花果山的门票现在是四十美金"
+  },
+  "***A VAGINA GIVES BIRTH TO GOOD PEOPLE***": {
+    "translation": "每周至少跑一次花果山,让你身心重获新生,换个好心情"
+  },
+  "***A VAGINA GIVES BIRTH TO BAD PEOPLE***": {
+    "translation": "不跑必后悔"
+  },
+  "***A VAGINA MUST FOLLOW THE LAWS OF PHYSICS***": {
+    "translation": "花果山内的物理定律非常真实"
+  },
+  "***A VAGINA CANNOT JUMP WITHOUT LEG FRIENDS***": {
+    "translation": "比如你不按跳就跳不起来"
+  },
+  "***A VAGINA USUALLY CAUSES SMOKING***": {
+    "translation": "请勿在花果山洞内吸烟"
+  },
+  "***A VAGINA WANTS TO SPIT YOU OUT***": {
+    "translation": "花果山洞内即将到尽头"
+  },
+  "***THANK YOU FOR PARTICIPATING IN THIS SEX-ED CLASS***": {
+    "translation": "感谢你的参观"
+  },
+  "***NOW GO OUT THERE AND DIDDLE EACH OTHER***": {
+    "translation": "欢迎下次光临"
+  },
+  "***DADDY IS PROUD OF YOU***": {
+    "translation": "我为你感到自豪"
+  },
+  "***SKIP STAGE - SHREK***": {
+    "translation": "跳关-史莱克"
+  },
+  "|====<YOU HAVE GATHERED ALL THE DIDDLE COINS>====|": {
+    "translation": "你现在已收集地图的所有硬币"
+  },
+  "|====<YOU ARE RICH AND PROUD, AND SHALL THEREFORE REACH GREATER HEIGHTS>====|": {
+    "translation": "现在你有资格进入天堂了"
+  },
+  "|====<PREPARE FOR THE ULTIMATE DIDDLING>====|": {
+    "translation": "为了最终冒险而做好准备吧"
+  },
+  "BUILD A LADDER ||-----||": {
+    "translation": "[地图秘密]地图生成了一条梯子"
+  },
+  "***SKIP STAGE - DIGLETT***": {
+    "translation": "跳关-地鼠关"
+  },
+  "***PEOPLE WITH DREAMS OF LIVING ON THE EDGE SHALL SUCCUMB TO THE LIQUID WARMTH OF DIDDLERY***": {
+    "translation": "[地图秘密]你喜欢贴边那LUFF就给你点奖励"
+  },
+  "***DIDDLE EXTREME ACTIVATED***": {
+    "translation": "EX模式已启动"
+  },
+  "***PREPARE FOR ULTIMATE DIDDLING***": {
+    "translation": "为真正的EX DIDDLE做好准备吧"
+  },
+  "***THE LIMBO OF SHREK CHOSEN***": {
+    "translation": "已选择关卡: 史莱克"
+  },
+  "***THE VIRUS CHOSEN***": {
+    "translation": "已选择关卡: 海龟关"
+  },
+  "***WEEABOO ANNIHILATION CHOSEN***": {
+    "translation": "已选择关卡: 二次元"
+  },
+  "***REVENGE OF THE DICKLETT TEMPLE CHOSEN***": {
+    "translation": "已选择关卡: 地鼠关"
+  },
+  "***OMAHA BEACH CHOSEN***": {
+    "translation": "已选择关卡: 抢滩登陆"
+  },
+  "**earthquake**": {
+    "translation": "BOSS攻击 - 地震"
+  },
+  "**laser attack**": {
+    "translation": "BOSS攻击 - 镭射激光"
+  },
+  "**kill the diglett**": {
+    "translation": "地鼠BOSS战"
+  },
+  "*Pull attack<": {
+    "translation": "BOSS攻击 - 吸星大法"
+  },
+  "**the dicklett has been killed**": {
+    "translation": "人类获得短暂胜利"
+  },
+  "Run towards the back exit": {
+    "translation": "跑向前面出口"
+  },
+  "defend 'till the door's been fully opened": {
+    "translation": "守住这里直到门完全开启"
+  },
+  "**fart attack**": {
+    "translation": "放屁攻击"
+  },
+  "***earthquake***": {
+    "translation": "地震攻击"
+  },
+  "***laser attack***": {
+    "translation": "镭射攻击"
+  },
+  "***Kill the final boss***": {
+    "translation": "地鼠Boss战 - 最终之战"
+  },
+  "***dick attack<<< WIP": {
+    "translation": "***dick attack<<< WIP",
+    "blocked": true
+  },
+  "the main door is stuck": {
+    "translation": "正门似乎卡住了"
+  },
+  "we found a secret entrance": {
+    "translation": "找到了一个秘密通道"
+  },
+  "wait until we find another way": {
+    "translation": "先守一会,看看能不能找到别的入口"
+  },
+  "go in": {
+    "translation": "快走"
+  },
+  "*boss fight imminent<": {
+    "translation": "地鼠Boss战"
+  },
+  "**stomp attack**": {
+    "translation": "BOSS攻击 - 践踏地震"
+  },
+  "defend for 10 sec": {
+    "translation": "还有10秒",
+    "countdown": 10
+  },
+  "defend for 20 sec": {
+    "translation": "defend for 20 sec",
+    "countdown": 20
+  },
+  "defend for 30 sec": {
+    "translation": "defend for 30 sec",
+    "countdown": 30
+  },
+  "*ground attack*": {
+    "translation": "BOSS攻击 - 地面攻击"
+  },
+  "**jizz attack left**": {
+    "translation": "BOSS攻击 - 往左边屙尿"
+  },
+  "**jizz attack mid**": {
+    "translation": "BOSS攻击 - 往中间屙尿"
+  },
+  "**jizz attack right**": {
+    "translation": "BOSS攻击 - 往右边屙尿"
+  },
+  "*Tiki 3 Broken*": {
+    "translation": "[彩蛋]Tiki 3号触发"
+  },
+  "*Tiki 1 Broken - There are 2 more tikis to find*": {
+    "translation": "[彩蛋]Tiki 1号触发 - 还有2个Tiki需要找到"
+  },
+  "*Tiki 2 Broken*": {
+    "translation": "[彩蛋]Tiki 2号触发"
+  },
+  "*-9).$ casts -Turtle.jpg*": {
+    "translation": "BOSS攻击 - 图片"
+  },
+  "*Demon Turtle 7_) Launch2.0.exe*": {
+    "translation": "BOSS攻击 - 跳刀"
+  },
+  "*Demon 7{{2 casts ERROR#*": {
+    "translation": "BOSS攻击 - 冻结代码"
+  },
+  "*Demon Turtle casts 29--;*": {
+    "translation": "BOSS攻击 - 平台转换"
+  },
+  "*Push the little red cube :)*": {
+    "translation": "麻烦贴门的玩家对红色的玩意按一下E"
+  },
+  "*Demon Turtle casts Chill*": {
+    "translation": "BOSS攻击 - 结霜(离开平台)"
+  },
+  "*Demon Turtle casts Spears*": {
+    "translation": "BOSS攻击 - 地刺(离开桥)"
+  },
+  "*Demon Turtle casts Launch*": {
+    "translation": "跳刀发射!"
+  },
+  "*Demon Turtle casts Water Blast*": {
+    "translation": "*BOSS攻击 - 吐口水(中间推)"
+  },
+  "***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:20 MINUTES)***": {
+    "translation": "你只有140秒的时间"
+  },
+  "***You didn't make it in time, what a fucking shame, you don't get the secret item now***": {
+    "translation": "丢人.."
+  },
+  "***BURN ALL 10 HOUSES AND SHOOT ALL 5 WEEBS TO TELEPORT OUT EARLIER***": {
+    "translation": "烧掉所有的房子,并把五个纸片人烧灭了"
+  },
+  "**the diglett is dead**": {
+    "translation": "人类获得短暂胜利"
+  },
+  "***The digletts have been defeated<<< gg": {
+    "translation": "地鼠皇死了,这一关即将结束"
+  },
+  "*get in the hole<": {
+    "translation": "跳下去"
+  },
+  "===[ ZOMBIE JIHAD ABORTED - BAD/EXPLOIT SPOT ]===": {
+    "translation": "僵尸清真无法在这种地方爆炸"
+  },
+  "GIT OUT OF MI HOUUUUUSE": {
+    "translation": "史莱克:滚出去!"
+  },
+  "*Something is happening..*": {
+    "translation": "有什么事要发生了.."
+  },
+  "***Good Job! You have defeated the virus and now will leave the computer!***": {
+    "translation": "电脑病毒清理完毕, 获胜人类即将传送"
+  },
+  "***I hope you a have a lovely journey back home and...***": {
+    "translation": "我希望你能把这张地图里面的(说话被打断)"
+  },
+  "***W..wait***": {
+    "translation": "等..等一下"
+  },
+  "***WAAAAAAAAAAAAAAAIIIIIIII----***": {
+    "translation": "等一一一一...(随后声音突然消失)"
+  },
+  "*Demon Turtle seems to be angrier*": {
+    "translation": "恶魔海龟似乎更加愤怒了"
+  },
+  "I killed a faggot weeaboo": {
+    "translation": "I killed a faggot weeaboo",
+    "blocked": true
+  },
+  "***TP'ING IN 10 SECS***": {
+    "translation": "10秒后传送",
+    "countdown": 10
+  },
+  "***TP'ING IN 5 SECS***": {
+    "translation": "5秒后传送",
+    "countdown": 5,
+    "blocked": true
+  },
+  "***TP'ING IN 4 SECS***": {
+    "translation": "4秒后传送",
+    "countdown": 4,
+    "blocked": true
+  },
+  "***TP'ING IN 3 SECS***": {
+    "translation": "3秒后传送",
+    "countdown": 3,
+    "blocked": true
+  },
+  "***TP'ING IN 2 SECS***": {
+    "translation": "2秒后传送",
+    "countdown": 2,
+    "blocked": true
+  },
+  "***TP'ING IN 1 SEC***": {
+    "translation": "1秒后传送",
+    "countdown": 1,
+    "blocked": true
+  },
+  "***Poof*": {
+    "translation": "噗!(施法使你离开的声音)"
+  },
+  "***YOU TOOK TOO LONG - NUKING HUMANS***": {
+    "translation": "[地图系统]人类打太久了,处死他们"
+  },
+  "DADDY OOOOH YEAH DADDY LICK MY NIPPLES": {
+    "translation": "DADDY OOOOH YEAH DADDY LICK MY NIPPLES",
+    "blocked": true
+  },
+  "*The digletts died*": {
+    "translation": "地鼠们死了"
+  },
+  "now defend untill the door is fully opened": {
+    "translation": "守住这里直到门完全打开"
+  },
+  "hold this room for 20 sec": {
+    "translation": "守住20秒",
+    "countdown": 20
+  },
+  "!!shoot the zombies to the side!!": {
+    "translation": "别让僵尸靠近你"
+  },
+  "<==Get in the helicopter and out in 80s ==>": {
+    "translation": "还有80秒",
+    "countdown": 80
+  },
+  "<== All soldiers get out the ship and forward!": {
+    "translation": "关卡: 抢滩登陆"
+  },
+  "<== You must find the bomb to open the way": {
+    "translation": "别忘记收集雷管"
+  },
+  "<== Get 4 !  ==>": {
+    "translation": "4号雷管已收集"
+  },
+  "<== Get 5 !  ==>": {
+    "translation": "5号雷管已收集"
+  },
+  "<== Get 6 !  ==>": {
+    "translation": "6号雷管已收集"
+  },
+  "<== Get 3 !  ==>": {
+    "translation": "3号雷管已收集"
+  },
+  "<== Get 2 !  ==>": {
+    "translation": "2号雷管已收集"
+  },
+  "<== Get 1 !  ==>": {
+    "translation": "1号雷管已收集"
+  },
+  "<== Bomb explosion in 30second ==>": {
+    "translation": "炸弹在30秒后炸",
+    "countdown": 30
+  },
+  "<== Bomb explosionin 15 second ==>": {
+    "translation": "炸弹在15秒后炸",
+    "countdown": 15
+  },
+  "<== Bomb explosion in 10 second ==>": {
+    "translation": "炸弹在10秒后炸",
+    "countdown": 10
+  },
+  "<== Wait 25 second to go to heilcopter==>": {
+    "translation": "等待25秒以登上直升机",
+    "countdown": 25
+  },
+  "<==heilcopter fly out now! ==>": {
+    "translation": "抢滩登陆战 - 通关"
+  },
+  "<==helicopter fly out in 5s ==>": {
+    "translation": "还有5秒",
+    "countdown": 5
+  },
+  "<==helicopter fly out in 15s ==>": {
+    "translation": "还有15秒",
+    "countdown": 15
+  },
+  "<==helicopter fly out in 30s ==>": {
+    "translation": "还有30秒",
+    "countdown": 30
+  },
+  "*Wall 2 breaks in 40 seconds*": {
+    "translation": "左门在40秒后打开",
+    "countdown": 40
+  },
+  "*Wall 1 breaks in 40 seconds*": {
+    "translation": "右门在40秒后打开",
+    "countdown": 40
+  },
+  "*Do you hear that?*": {
+    "translation": "等等,你听到了吗?"
+  },
+  "*That was a close one!*": {
+    "translation": "我靠,是海龟泥头车"
+  },
+  "***FIND YOUR LOVE***": {
+    "translation": "找到你最爱的史莱克"
+  },
+  "***SURPRISE YOUR LOVE***": {
+    "translation": "给史莱克一点惊喜"
+  },
+  "***BLESS YOUR LOVE***": {
+    "translation": "祝福史莱克"
+  },
+  "***FEED YOUR LOVE***": {
+    "translation": "给史莱克多点爱"
+  },
+  "***SACRIFICE YOUR LOVE***": {
+    "translation": "拥抱史莱克"
+  },
+  "***ESCAPE YOUR LOVE***": {
+    "translation": "逃离史莱克..?"
+  },
+  "***FAREWELL YOUR LOVE***": {
+    "translation": "史莱克:永别了"
+  },
+  "['NORMAL' MODE VOTE] PASSED - SLAYING": {
+    "translation": "关卡现已更改为NORMAL"
+  },
+  "***NOT ENOUGH HUMANS - SLAYING TO SAVE TIME***": {
+    "translation": "人数不足以进行下一个小关卡,开始处死TE"
+  },
+  "***EXTREME MODE IS ACTIVE, YOU CAN SHOOT THE STAGE PICTURES TO SELECT THEM***": {
+    "translation": "EX模式现已激活,你现在需要通过射击大门上图片来选择你要进行的小关卡"
+  },
+  "***YOU WENT THROUGH ALL OF EXTREME WITHOUT GETTING ALL COINS!?***": {
+    "translation": "什么叫你通过了EX全流程但是没有全硬币?"
+  },
+  "***WHAT A SHAMEFUL DISPLAY, DO IT AGAIN AND DO IT RIGHT!!!***": {
+    "translation": "不好意思,那只能重头再来咯"
+  },
+  "***YOU SHALL NOW ENTER A NEW CHALLENGE...***": {
+    "translation": "卤粉痴门开始折磨自己了(指EXdiddle)"
+  },
+  "***ENABLING EXTREME MODE...***": {
+    "translation": "正在启用EX"
+  },
+  "***YOU HAVE WON EXTREME MODE!***": {
+    "translation": "你拿下了EX DIDDLE!"
+  },
+  "***YOU ARE EXTREMELY LEGENDARY!***": {
+    "translation": "你才是永恒的传奇!"
+  },
+  "***SHOP IS SOLD OUT***": {
+    "translation": "商店已售罄"
+  },
+  "***COME IN TO PICK UP LEFTOVERS (IF ANY)***": {
+    "translation": "可以进来看看能不能捡漏啥吧"
+  },
+  "*This is extreme, you better not doorhug...*": {
+    "translation": "这是EX难度,最好别贴门了"
+  },
+  "*Wait, this is extreme mode!*": {
+    "translation": "等等,这是EX模式!"
+  },
+  "*It's pretty extreme, right?*": {
+    "translation": "那么就很难,对吧?"
+  },
+  "*Watch it, here it comes again!*": {
+    "translation": "看,它又来了"
+  },
+  "*Extreme mode to the rescue!*": {
+    "translation": "EX模式来救场了!"
+  },
+  "*Alright now you may proceed*": {
+    "translation": "看样子你还得继续"
+  },
+  "OMG IT'S ABOUT TO BLOW UP": {
+    "translation": "我草,它要爆炸了"
+  },
+  "***TORCHES REMOVED, GOOD LUCK...***": {
+    "translation": "火把神器现已失效"
+  },
+  "*THEY ALSO DIE BY TRAVERSING TOO FAR - BATTLE IT OUT!*": {
+    "translation": "它们也会因为走得太远而死亡 - 战斗到底吧!"
+  }
+}
