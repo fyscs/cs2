@@ -1,6 +1,6 @@
 // Console SayText i18n file generator.
 // i18n Version v21
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
 
   // 可用字段:
@@ -901,10 +901,12 @@
     "translation": "[彩蛋]Tiki 2号触发"
   },
   "*-9).$ casts -Turtle.jpg*": {
-    "translation": "BOSS攻击 - 图片"
+    "translation": "BOSS攻击 - 图片",
+    "blocked": true
   },
   "*Demon Turtle 7_) Launch2.0.exe*": {
-    "translation": "BOSS攻击 - 跳刀"
+    "translation": "BOSS攻击 - 跳刀",
+    "blocked": true
   },
   "*Demon 7{{2 casts ERROR#*": {
     "translation": "BOSS攻击 - 冻结代码"
