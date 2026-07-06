@@ -179,8 +179,8 @@
     "translation": "*** 已启动BOSS ***"
   },
   "*** OH NOES!!! IT'S A BOSS WITH STRANGELY FAMILIAR LOOKS!!! ***": {
-    "translation": "Boss将在94秒后核爆",
-    "countdown": 94
+    "translation": "Boss将在90秒后核爆",
+    "countdown": 90
   },
   "*** Bunker door opens in 15 seconds. ***": {
     "translation": "地堡在15秒后打开."
