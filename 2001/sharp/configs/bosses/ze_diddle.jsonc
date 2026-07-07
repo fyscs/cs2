@@ -47,6 +47,10 @@
       "display": "大型地鼠"
     },
     {
+      "target": "seal",
+      "display": "封印"
+    },
+    {
       "target": "dd_hp",
       "hitbox": "dd_model",
       "display": "地豆大雕"
