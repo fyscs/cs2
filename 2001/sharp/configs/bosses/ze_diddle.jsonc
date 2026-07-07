@@ -49,12 +49,12 @@
     {
       "target": "dd_hp",
       "hitbox": "dd_model",
-      "display": "跳刀皇"
+      "display": "地豆大雕"
     },
     {
       "target": "i_npc_hp_1",
       "hitbox": "fb_body",
-      "display": "大头"
+      "display": "胎儿"
     }
   ],
   "Monsters": [
@@ -68,11 +68,11 @@
     },
     {
       "identity": "8040",
-      "display": "婴儿脸"
+      "display": "怪胎"
     },
     {
       "identity": "8022",
-      "display": "大脸"
+      "display": "阴险的脸"
     },
     {
       "identity": "3429",
