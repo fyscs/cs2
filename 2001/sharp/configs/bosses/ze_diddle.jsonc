@@ -1,0 +1,62 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Breakables": [
+    {
+      "target": "dd_model",
+      "hitbox": "dd_hp",
+      "display": "跳刀皇"
+    },
+    {
+      "target": "fb_body",
+      "hitbox": "i_npc_hp_1",
+      "display": "大头"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "blobarm_hp&0000",
+      "display": "触手"
+    },
+    {
+      "identity": "i_debrisblock&0000",
+      "display": "石头"
+    },
+    {
+      "identity": "i_diddlebaby_phys&0000",
+      "display": "婴儿脸"
+    },
+    {
+      "identity": "i_vaginaface_hp&0000",
+      "display": "大脸"
+    },
+    {
+      "identity": "X69Xluff_npc_phys2gg&0000",
+      "display": "史莱克"
+    },
+    {
+      "identity": "i_debrisblock&0003",
+      "display": "婴儿脸1"
+    }
+  ]
+}
