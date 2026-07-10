@@ -25,11 +25,17 @@
     {
       "iterator": "counter_eschp",
       "hitbox": "br_escdragon",
-      "display": "死灵龙"
+      "display": "复活の死灵龙"
     },
     {
       "iterator": "counter_dragon",
       "hitbox": "pbox_dragon",
+      "display": "死灵龙血条"
+    }
+  ],
+  "Breakables": [
+    {
+      "target": "pbox_dragon",
       "display": "死灵龙"
     }
   ]
