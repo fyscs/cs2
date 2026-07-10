@@ -1,0 +1,55 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**A door will open in the Present in 30 seconds**": {
+    "translation": "30秒后,现世的一扇门将会开启."
+  },
+  "**A Door will open in the Past in 30 seconds**": {
+    "translation": "30秒后,过去的一扇门将会开启."
+  },
+  "**An Elevator will arrive in the Past in 30 seconds**": {
+    "translation": "30秒后,电梯将抵达过去时空."
+  },
+  "**A Door will open in the Past in 25 seconds**": {
+    "translation": "25秒后,过去的一扇门将会开启."
+  },
+  "**A Door will open in the Past in 20 seconds**": {
+    "translation": "20秒后,过去的一扇门将会开启."
+  },
+  "**Facility Self Destruct in 120 Seconds**": {
+    "translation": "设施将在120秒后自毁."
+  },
+  "**Facility Self Destruct in 10 Seconds**": {
+    "translation": "设施将在10秒后自毁."
+  },
+  "**The Final Door will open in the Present in 30 seconds**": {
+    "translation": "30秒后,现世的最终大门将会开启."
+  },
+  "**Warm-up**": {
+    "translation": "热身阶段.移植:Waffel.翻译:白姬"
+  },
+  "**Press E to Shift through time**": {
+    "translation": "按下E键进行时空切换."
+  },
+  "**This door does not seem to open**": {
+    "translation": "这扇门似乎无法打开."
+  },
+  "**Try shifting to the Past**": {
+    "translation": "尝试切换至过去时空."
+  },
+  "**Press E**": {
+    "translation": "按下E键."
+  },
+  "**A door will open in the Past in 15 seconds**": {
+    "translation": "15秒后,过去的一扇门将会开启."
+  }
+}

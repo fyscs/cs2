@@ -1,0 +1,86 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only)
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Breakables": [
+    {
+      "target": "X69XTurtleBossHP1",
+      "display": "大海龟(1/2)"
+    },
+    {
+      "target": "X69XTurtleBosshp2",
+      "display": "大海龟(2/2)"
+    },
+    {
+      "target": "Ord_lvl_01_boss_break",
+      "display": "地鼠"
+    },
+    {
+      "target": "Ord_lvl_02_boss_break",
+      "display": "地鼠一家整整齐齐"
+    },
+    {
+      "target": "X69XOrd_main_mid_diglett_break",
+      "display": "中型地鼠"
+    },
+    {
+      "target": "X69XOrd_main_large_diglett_break",
+      "display": "大型地鼠"
+    },
+    {
+      "target": "seal",
+      "display": "封印"
+    },
+    {
+      "target": "dd_hp",
+      "hitbox": "dd_model",
+      "display": "地豆大雕"
+    },
+    {
+      "target": "i_npc_hp_1",
+      "hitbox": "fb_body",
+      "display": "胎儿"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "1199",
+      "display": "触手怪"
+    },
+    {
+      "identity": "5025",
+      "display": "碎石"
+    },
+    {
+      "identity": "8040",
+      "display": "怪胎"
+    },
+    {
+      "identity": "8022",
+      "display": "阴险的脸"
+    },
+    {
+      "identity": "3429",
+      "display": "史莱克"
+    }
+  ]
+}
