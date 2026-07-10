@@ -3143,7 +3143,7 @@
   "ze_minecraft_hortus_de_escapismo": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 120,
+    "cooldown": 100,
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
