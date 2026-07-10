@@ -1,0 +1,127 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** AZZIP SUOICILED TNAW LLITS I ****": {
+    "translation": "我依旧想要美味的披萨."
+  },
+  "*** I STILL WANT DELICIOUS PIZZA ****": {
+    "translation": "我依旧想要美味的披萨."
+  },
+  ">> Map made by Lastims <<": {
+    "translation": " 地图由 Lastims 制作 ,翻译:白姬"
+  },
+  ">> Welcome to the world of lucky blocks! <<": {
+    "translation": " 欢迎来到幸运方块的世界! "
+  },
+  ">> Your goal is to beat the map with the help of lucky blocks! <<": {
+    "translation": " 你的目标是借助幸运方块通关这张地图! "
+  },
+  ">> Now get ready... <<": {
+    "translation": "现在做好准备... "
+  },
+  ">> And enjoy it! <<": {
+    "translation": "祝你游玩愉快! "
+  },
+  "!!!  Fall Damage 8x !!!": {
+    "translation": "坠落伤害提高8倍"
+  },
+  "A dumb fell out of the world": {
+    "translation": "有个眉笔掉出了世界."
+  },
+  ">> You are taking too much time! <<": {
+    "translation": ">你花费的时间太久了! "
+  },
+  ">> Mapper is gonna PUNISH u <<": {
+    "translation": " 地图作者将狠狠惩罚你 "
+  },
+  ">> Shut up, u have been erased <<": {
+    "translation": ">闭嘴,你你被优化了 "
+  },
+  "Wait for 10s if you are a noob!": {
+    "translation": "菜鸟需要原地防守10秒!"
+  },
+  "Left noob push unlocked!": {
+    "translation": "左侧菜鸟低重力已解锁!"
+  },
+  "Right noob push unlocked!": {
+    "translation": "右侧菜鸟低重力已解锁!"
+  },
+  "Zombie execution has been activated!": {
+    "translation": "现在击杀僵尸将不会复活!"
+  },
+  "You have 60s to eliminate all zombies!": {
+    "translation": "你有60秒时间消灭所有僵尸!"
+  },
+  "You have 50s to eliminate all zombies!": {
+    "translation": "你有50秒时间消灭所有僵尸!"
+  },
+  "You have 40s to eliminate all zombies!": {
+    "translation": "你有40秒时间消灭所有僵尸!"
+  },
+  "You have 30s to eliminate all zombies!": {
+    "translation": "你有30秒时间消灭所有僵尸!"
+  },
+  "You have 20s to eliminate all zombies!": {
+    "translation": "你有20秒时间消灭所有僵尸!"
+  },
+  "You have 10s to eliminate all zombies!": {
+    "translation": "你有10秒时间消灭所有僵尸!"
+  },
+  "You lose!": {
+    "translation": "什么吊火力,这都没刷死僵尸,等着猝死吧!"
+  },
+  "The barrier will break in 5s!": {
+    "translation": "屏障将在5秒后破碎!"
+  },
+  "The left barrier will break in 10s!": {
+    "translation": "左侧屏障将在10秒后破碎!"
+  },
+  "The right barrier will break in 10s!": {
+    "translation": "右侧屏障将在10秒后破碎!"
+  },
+  "The left teleport will be activated in 20s!": {
+    "translation": "左侧传送门将在20秒后激活!"
+  },
+  "The left teleport is activated!": {
+    "translation": "左侧传送门已激活!"
+  },
+  "The left teleport will be activated in 10s!": {
+    "translation": "左侧传送门将在10秒后激活!"
+  },
+  "The left zombie teleport will be activated in 20s!": {
+    "translation": "左侧僵尸传送门将在20秒后激活!"
+  },
+  "The left zombie teleport will be activated in 10s!": {
+    "translation": "左侧僵尸传送门将在10秒后激活!"
+  },
+  "The left zombie teleport is activated!": {
+    "translation": "左侧僵尸传送门已激活!"
+  },
+  "The right teleport will be activated in 20s!": {
+    "translation": "右侧传送门将在20秒后激活!"
+  },
+  "The right teleport is activated!": {
+    "translation": "右侧传送门已激活!"
+  },
+  "The right teleport will be activated in 10s!": {
+    "translation": "右侧传送门将在10秒后激活!"
+  },
+  "The right zombie teleport will be activated in 20s!": {
+    "translation": "右侧僵尸传送门将在20秒后激活!"
+  },
+  "The right zombie teleport will be activated in 10s!": {
+    "translation": "右侧僵尸传送门将在10秒后激活!"
+  },
+  "The right zombie teleport is activated!": {
+    "translation": "右侧僵尸传送门已激活!"
+  }
+}
