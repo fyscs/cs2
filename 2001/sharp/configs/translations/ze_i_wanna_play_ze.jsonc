@@ -1,0 +1,145 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "I still want to eat delicious apples.": {
+    "translation": "我还是想吃香甜的苹果"
+  },
+  "Teleport activated! Wait for 5s.": {
+    "translation": "传送装置已启动! 等待 5 秒"
+  },
+  "Level completed!!": {
+    "translation": "关卡通关!!"
+  },
+  "Time to challenge the next level!": {
+    "translation": "该挑战下一关了!"
+  },
+  "More levels coming soon!": {
+    "translation": "更多关卡即将上线!"
+  },
+  "SAVED!!!": {
+    "translation": "存档成功!!!"
+  },
+  "Welcome to the world of I WANNA!": {
+    "translation": "欢迎来到 I WANNA 的世界!"
+  },
+  ">> Level 1 - Beginner's Tutorial <<": {
+    "translation": "第一关  新手教程"
+  },
+  "You need to touch the save button to save progress!": {
+    "translation": "你需要触碰存档按钮来保存进度!"
+  },
+  "And, be aware of those sharp spikes!": {
+    "translation": "另外,小心那些尖锐的尖刺!"
+  },
+  "Apples are tasty, but also poisonous!": {
+    "translation": "苹果虽然好吃,但含有剧毒!"
+  },
+  "You can do a double jump by pressing the space again while in the air.": {
+    "translation": "在空中再次按下空格即可二段跳"
+  },
+  "Kids, our world is infected by Nailoong virus, We need you to save us!": {
+    "translation": "孩子们,我们的世界被奶龙病毒侵蚀了,我们需要你来拯救大家!"
+  },
+  "Making good use of these abilities, they will be very helpful for your adventure!": {
+    "translation": "熟练运用这些能力,它们会对你的冒险大有帮助!"
+  },
+  "Watch out! Do a double jump in the air can delay the time of landing.": {
+    "translation": "注意! 空中二段跳可以延缓落地时间"
+  },
+  "Sometimes, if you dont watch the road clearly, each jump coule be lethal!": {
+    "translation": "有时若看不清前路,每一次跳跃都可能致命!"
+  },
+  "Button in this shape can be triggered to unlock the road ahead.": {
+    "translation": "这种形状的按钮触发后可以打通前方道路"
+  },
+  "You can jump in the water, though it's kinda useless.": {
+    "translation": "你可以跳进水里,不过没什么用处"
+  },
+  "And you can also jump when climbing on the vines.": {
+    "translation": "攀爬藤蔓时你也可以跳跃"
+  },
+  "Running fast isn't always a good thing, remember to wait for your teammates.": {
+    "translation": "跑得快未必是好事,记得等等你的队友"
+  },
+  "The finish line is just ahead, please wait for the portal to the next level to open.": {
+    "translation": "终点就在前方,请等待通往下一关的传送门开启"
+  },
+  ">> Level 2 - Mellow Hills <<": {
+    "translation": "第二关  柔缓丘陵"
+  },
+  ">> Level 3 - Mechanical Core <<": {
+    "translation": "第三关  机械核心"
+  },
+  ">> Level 4 - Hive Concept <<": {
+    "translation": "第四关  蜂巢领域"
+  },
+  ">> Level 5 - Siphoned Void <<": {
+    "translation": "第五关  抽吸虚空"
+  },
+  "Break all six stars to clear the road!": {
+    "translation": "击碎全部六颗星星才能打通道路!"
+  },
+  "5 stars left!": {
+    "translation": "剩余 5 颗星星!"
+  },
+  "4 stars left!": {
+    "translation": "剩余 4 颗星星!"
+  },
+  "3 stars left!": {
+    "translation": "剩余 3 颗星星!"
+  },
+  "2 stars left!": {
+    "translation": "剩余 2 颗星星!"
+  },
+  "1 stars left!": {
+    "translation": "剩余 1 颗星星!"
+  },
+  "No stars left!": {
+    "translation": "星星已全部清除!"
+  },
+  "Nailoong WIN!!! You failed...": {
+    "translation": "奶龙获胜!!! 你失败了..."
+  },
+  "HINT: When you have extra jumps, you can jump on the ladder instead of falling horizontally.": {
+    "translation": "提示: 拥有额外跳跃次数时,你可以跳到梯子上,避免横向坠落"
+  },
+  "HINT: Stand on the edge of ladders can reset your jumping counter.": {
+    "translation": "提示: 站在梯子边缘可以重置跳跃次数"
+  },
+  "HINT: Walking straight toward the ladder allows you to hang directly on the it.": {
+    "translation": "提示: 径直走向梯子就能直接攀附在梯子上"
+  },
+  "HINT: It is crucial to manage every single jump properly.": {
+    "translation": "提示: 合理把控每一次跳跃十分关键"
+  },
+  "HINT: You have mastered the new use of double jump, now try to beat the level carefully!": {
+    "translation": "提示: 你已经掌握二段跳的全新用法,现在小心通关吧!"
+  },
+  "HINT: Those moving floor can get you stuck easily, so try to jump when in the air!": {
+    "translation": "提示: 移动平台很容易把你卡住,尽量在空中跳跃!"
+  },
+  "HINT: This is a difficult level that request various skills. Good luck!": {
+    "translation": "提示: 这一关难度较高,需要运用多种技巧,祝你好运!"
+  },
+  "HINT: Moving floor is always lethal, make good use of your tiny body!": {
+    "translation": "提示: 移动平台带有致命伤害,充分利用小巧的身形!"
+  },
+  "HINT: Always paying attention to your feet is a good habit.": {
+    "translation": "提示: 时刻留意脚下是个好习惯"
+  },
+  "HINT: Watch out! Are you really gonna hurriedly jump down without observation?": {
+    "translation": "提示: 小心!你真的打算不观察就匆忙跳下去吗?"
+  },
+  "HINT: Blindly using certain skills often leads to failure.": {
+    "translation": "提示: 盲目使用某些技能往往会导致失败"
+  }
+}

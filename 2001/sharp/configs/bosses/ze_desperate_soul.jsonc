@@ -28,6 +28,12 @@
       "display": "霍格"
     }
   ],
+  "Breakables": [
+    {
+      "target": "S1_Diablo_Box",
+      "display": "暗黑破坏神"
+    }
+  ],
   "Monsters": [
     {
       "identity": "8554",
@@ -40,6 +46,14 @@
     {
       "identity": "3326",
       "display": "霍格"
+    },
+    {
+      "identity": "4782",
+      "display": "Ronka"
+    },
+    {
+      "identity": "8600",
+      "display": "蜘蛛墙"
     }
   ]
 }
