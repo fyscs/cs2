@@ -628,5 +628,11 @@
   },
   "165 sec": {
     "translation": "165秒后传送至rtv关"
+  },
+  "<<< Summer >>>": {
+    "translation": "夏季,按下[绿色]按钮"
+  },
+  "<<< Spring >>>": {
+    "translation": "春季,按下[粉色]按钮"
   }
 }
