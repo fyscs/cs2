@@ -1,0 +1,160 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>> Fall Back <<<": {
+    "translation": "撤退"
+  },
+  ">>> The door will open fully in 5 sec <<<": {
+    "translation": "门将在5秒后完全打开"
+  },
+  ">>> Defend 25 sec <<<": {
+    "translation": "防守25秒",
+    "countdown": 25
+  },
+  "You have won the map! Congratulations!": {
+    "translation": "地图通关! 恭喜!"
+  },
+  "Special Thanks to Cuniczek": {
+    "translation": "特别感谢 Cuniczek"
+  },
+  ">>> Map made by Puklica <<<": {
+    "translation": "地图作者: Puklica 文本:小学生"
+  },
+  "Fly model created by Kaesar": {
+    "translation": "苍蝇模型作者: Kaesar"
+  },
+  ">>> Wait 25 sec <<<": {
+    "translation": "等待25秒",
+    "countdown": 25
+  },
+  ">>> Defend 30 sec <<<": {
+    "translation": "防守30秒",
+    "countdown": 30
+  },
+  "Map made by Puklica": {
+    "translation": "地图作者: Puklica"
+  },
+  ">>> | STAGE 2 | <<<": {
+    "translation": "| 第二关 |"
+  },
+  "You have won STAGE 1!": {
+    "translation": "第一关已通关!"
+  },
+  ">>> | STAGE 1 | <<<": {
+    "translation": "| 第一关 |"
+  },
+  ">>> Wait 30 sec <<<": {
+    "translation": "等待30秒",
+    "countdown": 30
+  },
+  ">>> Wait 20 sec <<<": {
+    "translation": "等待20秒",
+    "countdown": 20
+  },
+  ">>> Defend 10 sec <<<": {
+    "translation": "防守10秒"
+  },
+  "|Admin Room| *** SLAY ALL ***": {
+    "translation": "|管理员房间| 处死所有人"
+  },
+  ">>> Door opens in 20 sec <<<": {
+    "translation": "门将在20秒后打开",
+    "countdown": 20
+  },
+  ">>> The door is open <<<": {
+    "translation": "门已打开"
+  },
+  "Kill all zombies inside!": {
+    "translation": "杀掉里面所有僵尸!"
+  },
+  ">>> Elevator leave in 40 sec <<<": {
+    "translation": "电梯将在40秒后离开",
+    "countdown": 40
+  },
+  ">>> Elevator leave in 5 sec <<<": {
+    "translation": "电梯将在5秒后离开"
+  },
+  ">>> Door opens in 25 sec <<<": {
+    "translation": "门将在25秒后打开",
+    "countdown": 25
+  },
+  ">>> Door closes in 15 sec <<<": {
+    "translation": "门将在15秒后关闭"
+  },
+  ">>> Door closes in 5 sec <<<": {
+    "translation": "门将在5秒后关闭"
+  },
+  ">>> Defend 35 sec <<<": {
+    "translation": "防守35秒",
+    "countdown": 35
+  },
+  ">>> DEFEND <<<": {
+    "translation": "防守"
+  },
+  "|Admin Room| *** Admin has changed difficulty to STAGE 1 ***": {
+    "translation": "|管理员房间| 管理已将难度切换为第一关"
+  },
+  ">>> RUN <<<": {
+    "translation": "快跑"
+  },
+  ">>> | STAGE 3 | <<<": {
+    "translation": "| 第三关 |"
+  },
+  ">>> Last Defend 35 sec <<<": {
+    "translation": "最后防守35秒",
+    "countdown": 35
+  },
+  ">>> Still Defend 5 sec <<<": {
+    "translation": "继续防守5秒"
+  },
+  "|Admin Room| *** Admin has changed difficulty to STAGE 3 ***": {
+    "translation": "|管理员房间| 管理已将难度切换为第三关"
+  },
+  ">>> The vent is open <<<": {
+    "translation": "通风管道已打开"
+  },
+  "|Admin Room| *** Admin has changed difficulty to STAGE 2 ***": {
+    "translation": "|管理员房间| 管理已将难度切换为第二关"
+  },
+  ">>> Door closes in 20 sec <<<": {
+    "translation": "门将在20秒后关闭",
+    "countdown": 20
+  },
+  ">>> Push the sponge <<<": {
+    "translation": "推动海绵"
+  },
+  "You have won STAGE 2!": {
+    "translation": "第二关已通关!"
+  },
+  ">>> START SHOOTING <<<": {
+    "translation": "开始射击"
+  },
+  ">>> 1 <<<": {
+    "translation": "1"
+  },
+  ">>> 2 <<<": {
+    "translation": "2"
+  },
+  ">>> 3 <<<": {
+    "translation": "3"
+  },
+  ">>> The path has been cleared <<<": {
+    "translation": "道路已清空"
+  },
+  ">>> Door opens in 30 sec <<<": {
+    "translation": "门将在30秒后打开",
+    "countdown": 30
+  },
+  ">>> Door opens in 5 sec <<<": {
+    "translation": "门将在5秒后打开"
+  }
+}

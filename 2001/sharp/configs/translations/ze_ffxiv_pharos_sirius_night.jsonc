@@ -1,0 +1,277 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "< A PLAYER HAS ACQUIRED FIRE ELEMENT >": {
+    "translation": "一名玩家获得了火"
+  },
+  "< A PLAYER HAS ACQUIRED HEAL ELEMENT >": {
+    "translation": "一名玩家获得了奶"
+  },
+  "< A PLAYER HAS ACQUIRED WATER ELEMENT >": {
+    "translation": "一名玩家获得了水"
+  },
+  "< A PLAYER HAS ACQUIRED ROCK ELEMENT >": {
+    "translation": "一名玩家获得了土"
+  },
+  "< A PLAYER HAS ACQUIRED GRAVITY ELEMENT >": {
+    "translation": "一名玩家获得了黑洞"
+  },
+  "< Gravity Element Has Been Upgraded >": {
+    "translation": "黑洞已升级"
+  },
+  "< Rock Element Has Been Upgraded >": {
+    "translation": "土已升级"
+  },
+  "< Water Element Has Been Upgraded >": {
+    "translation": "水已升级"
+  },
+  "< Fire Element Has Been Upgraded >": {
+    "translation": "火已升级"
+  },
+  "< Heal Element Has Been Upgraded >": {
+    "translation": "奶已升级"
+  },
+  "< A ZOMBIE HAS ACQUIRED WARP MAGIC >": {
+    "translation": "一只僵尸获得了传送魔法"
+  },
+  "< A ZOMBIE HAS ACQUIRED GRAVITY MAGIC >": {
+    "translation": "一只僵尸获得了黑洞魔法"
+  },
+  "< A ZOMBIE HAS ACQUIRED PARASITIC MAGIC >": {
+    "translation": "一只僵尸获得了寄生魔法"
+  },
+  "< A ZOMBIE HAS ACQUIRED ELECTRIC MAGIC >": {
+    "translation": "一只僵尸获得了雷电魔法"
+  },
+  "< A PLAYER HAS ACQUIRED SHADOWLORD SWORD >": {
+    "translation": "一名玩家获得了暗影领主之剑"
+  },
+  "< DEFEND UNTIL THE GATE OPEN >": {
+    "translation": "防守至大门开启"
+  },
+  "< ZOMBIE DETECTED >": {
+    "translation": "检测到僵尸"
+  },
+  "< Kill REMAINING ZOMBIES ! >": {
+    "translation": "消灭剩余僵尸!"
+  },
+  "< NADE CAN DO MORE DAMAGE >": {
+    "translation": "手雷可以造成额外伤害"
+  },
+  "< Garland >": {
+    "translation": "加兰德"
+  },
+  "< Tyrant >": {
+    "translation": "暴君"
+  },
+  "< TELEPORT ACTIVATES >": {
+    "translation": "传送已启动"
+  },
+  "< Lilith >": {
+    "translation": "莉莉丝"
+  },
+  "< YOU ARE THE HERO OF LIGHT ! >": {
+    "translation": "你就是光之战士!"
+  },
+  "< DEFEND UNTIL THE ROCK IS CLEAR >": {
+    "translation": "防守至岩石被清除"
+  },
+  "< Shadowlord >": {
+    "translation": "暗影领主"
+  },
+  "< Shadow Lord HAS BEEN DEFEATED >": {
+    "translation": "暗影领主已被击败"
+  },
+  "< YOU ARE TOO LATE ... >": {
+    "translation": "你们太迟了..."
+  },
+  "< Doom Arc >": {
+    "translation": "末日弧光"
+  },
+  "< Flame Field >": {
+    "translation": "烈焰领域"
+  },
+  "< Dark Shock >": {
+    "translation": "暗黑冲击"
+  },
+  "< Ice Nova >": {
+    "translation": "寒冰新星"
+  },
+  "< Cross Smash >": {
+    "translation": "十字粉碎"
+  },
+  "< Ladylilith >": {
+    "translation": "莉莉丝女士"
+  },
+  "< Lady Lilith HAS DISAPPEARED >": {
+    "translation": "莉莉丝女士消失了"
+  },
+  "< Dream Weaver >": {
+    "translation": "织梦者"
+  },
+  "< Sun Strike >": {
+    "translation": "烈日冲击"
+  },
+  "< Rock Burst >": {
+    "translation": "岩石爆破"
+  },
+  "< Anima Ingest >": {
+    "translation": "灵魂吞噬"
+  },
+  "< Ruin Aurora >": {
+    "translation": "毁灭极光"
+  },
+  "< BAHAMUT HAS CASTED ITS POWER TO SEAL THE GATE ! >": {
+    "translation": "巴哈姆特施展力量封印了大门!"
+  },
+  "< Bahamut >": {
+    "translation": "巴哈姆特"
+  },
+  "< Bahamut HAS CASTED MEGA FLARE ! >": {
+    "translation": "巴哈姆特施放了百万核爆!"
+  },
+  "< Yojimbo IS DEAD >": {
+    "translation": "保镖已被击败"
+  },
+  "< DAMN IT ! THAT IS Yojimbo >": {
+    "translation": "该死! 是保镖!"
+  },
+  "< HE DISAPPEARS ... >": {
+    "translation": "他消失了..."
+  },
+  "< Yojimbo HAS CASTED SHADOW TURBULENCE >": {
+    "translation": "保镖施放了暗影乱流"
+  },
+  "< Yojimbo >": {
+    "translation": "保镖"
+  },
+  "< Flare Lazer >": {
+    "translation": "烈焰激光"
+  },
+  "< Bravery >": {
+    "translation": "勇气"
+  },
+  "< Searing Implosion >": {
+    "translation": "灼热内爆"
+  },
+  "< Cyclone >": {
+    "translation": "旋风"
+  },
+  "< Round Edge >": {
+    "translation": "圆环利刃"
+  },
+  "< Ultra Attack >": {
+    "translation": "超斩击"
+  },
+  "l Garland l < THE STRONG WILL ALWAYS WIN ! THAT HIS FATE  >": {
+    "translation": "加兰德: 强者终将获胜! 这就是他的命运!"
+  },
+  "l Garland l < IS THERE NO ONE WHO CAN DEFEAT ME ! THERE IS NO LIMIT TO MY STRENGTH ! >": {
+    "translation": "加兰德: 没有人能击败我! 我的力量没有极限!"
+  },
+  "l Garland l < IMPOSSIBLE ... I CANNOT BE DEFEATED >": {
+    "translation": "加兰德: 不可能...我不可能被击败"
+  },
+  "l Garland l < I HAVE NO REGRETS ... THE CYCLE CONTINUES >": {
+    "translation": "加兰德: 我无怨无悔...轮回仍将继续"
+  },
+  "< Tyrant HAS BEEN DEFEATED >": {
+    "translation": "暴君已被击败"
+  },
+  "< Tyrant IS GO BERSERK ... >": {
+    "translation": "暴君陷入狂暴..."
+  },
+  "< Thunder Wing >< Tyrant Breath Switch -> Thunder >": {
+    "translation": "雷霆之翼: 暴君吐息切换为雷电"
+  },
+  "< Blood Shield >< Tyrant Breath Switch -> Thunder >": {
+    "translation": "鲜血护盾: 暴君吐息切换为雷电"
+  },
+  "< Round Ice >< Tyrant Breath Switch -> Ice >": {
+    "translation": "寒冰圆环: 暴君吐息切换为寒冰"
+  },
+  "< Evil Fire >< Tyrant Breath Switch -> Fire >": {
+    "translation": "邪恶烈焰: 暴君吐息切换为火焰"
+  },
+  "< Ice Prison >< Tyrant Breath Switch -> Ice >": {
+    "translation": "寒冰牢狱: 暴君吐息切换为寒冰"
+  },
+  "< Flame Rope >< Tyrant Breath Switch -> Fire >": {
+    "translation": "烈焰绳索: 暴君吐息切换为火焰"
+  },
+  "< LILITH HAS BEEN DEFEATED >": {
+    "translation": "莉莉丝已被击败"
+  },
+  "l Lilith l < PATHETIC HUMANS ... >": {
+    "translation": "莉莉丝: 可悲的人类..."
+  },
+  "< Extreme -> Dream Weaver >": {
+    "translation": "极限技: 织梦者"
+  },
+  "< Extreme -> Ruin Aurora >": {
+    "translation": "极限技: 毁灭极光"
+  },
+  "< Extreme -> Sun Strike >": {
+    "translation": "极限技: 烈日冲击"
+  },
+  "< Golem Summon >": {
+    "translation": "召唤外道魔像"
+  },
+  "< Extreme -> Rock Burst >": {
+    "translation": "极限技: 岩石爆破"
+  },
+  "< Extreme -> Anima Ingest >": {
+    "translation": "极限技: 灵魂吞噬"
+  },
+  "< WHY DONT YOU USE ENDROUND ? CNM >": {
+    "translation": "为什么不结束回合? 草泥马"
+  },
+  "< Lady Lilith ? HOW COULD SHE BE HERE ... >": {
+    "translation": "莉莉丝女士? 她怎么会在这里..."
+  },
+  "< SHE DISAPPEARS ... >": {
+    "translation": "她消失了..."
+  },
+  "l Garland l < TAKE THAT ! GO ! HERE I COME ! I WILL CRUSH YOU ! >": {
+    "translation": "加兰德: 接招!我来了!我要碾碎你们!"
+  },
+  "< DEFEND UNTIL THE TELEPORT ACTIVATES >": {
+    "translation": "防守至传送启动"
+  },
+  "< ZE_FFXIV_PHAROS_SIRIUS >": {
+    "translation": "最终幻想14: 天狼星灯塔"
+  },
+  "< MAP BY Dakotec & Lishang >": {
+    "translation": "地图作者: Dakotec & Lishang 移植:团少 文本:小学生"
+  },
+  "< MAP COMPLETE BY Tianli >": {
+    "translation": "地图完善: Tianli"
+  },
+  "< Congratulations ! You won this stage ! >": {
+    "translation": "恭喜! 你通过了本关!"
+  },
+  "< HARD MODE >": {
+    "translation": "困难模式"
+  },
+  "< SAVAGE MODE >": {
+    "translation": "零式模式"
+  },
+  "< ULTIMATE MODE >": {
+    "translation": "绝境模式"
+  },
+  "< Extermination thunder >": {
+    "translation": "灭绝雷霆"
+  },
+  "僵尸将在十秒后大传": {
+    "translation": "僵尸将在十秒后大传"
+  }
+}

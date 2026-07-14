@@ -11,64 +11,64 @@
 
 {
   "** MATEUS TRICKED US! IT'S A FAKE ESPER! **": {
-    "translation": ">> 玛提乌斯骗了我们!这是假的!! >>"
+    "translation": "玛提乌斯骗了我们!这是假的!!"
   },
   "** Player has acquired the esper MATEUS **": {
-    "translation": "<< 玩家获得了 皇帝 <<"
+    "translation": "玩家获得了 皇帝"
   },
   "** Player has acquired a HOLY-POTION **": {
-    "translation": "<< 玩家获得了 神圣药水 <<"
+    "translation": "玩家获得了 神圣药水"
   },
   "** Player has acquired a SPEED-POTION **": {
-    "translation": "<< 玩家获得了 速度药水 <<"
+    "translation": "玩家获得了 速度药水"
   },
   "** Player has acquired a AMMO-POTION **": {
-    "translation": "<< 玩家获得了 补给药水 <<"
+    "translation": "玩家获得了 补给药水"
   },
   "** Player has acquired a HI-POTION **": {
-    "translation": "<< 玩家获得了 大回复药水 <<"
+    "translation": "玩家获得了 大回复药水"
   },
   "** Player has acquired a HP-POTION **": {
-    "translation": "<< 玩家获得了 小回复药水 <<"
+    "translation": "玩家获得了 小回复药水"
   },
   "** Player has learned AERO (WIND MAGICK)**": {
-    "translation": "<< 玩家掌握了 风魔法 <<"
+    "translation": "玩家掌握了 风魔法"
   },
   "** Player has learned POISON (POISON MAGICK)**": {
-    "translation": "<< 玩家掌握了 毒魔法 <<"
+    "translation": "玩家掌握了 毒魔法"
   },
   "** Player has learned BLIZZARD (ICE MAGICK)**": {
-    "translation": "<< 玩家掌握了 冰魔法 <<"
+    "translation": "玩家掌握了 冰魔法"
   },
   "** Player has learned FIRE (FIRE MAGICK)**": {
-    "translation": "<< 玩家掌握了 火魔法 <<"
+    "translation": "玩家掌握了 火魔法"
   },
   "** Player has learned CURE (HEAL MAGICK)**": {
-    "translation": "<< 玩家掌握了 治疗魔法 <<"
+    "translation": "玩家掌握了 治疗魔法"
   },
   ">>The esper MATEUS is killed in action<<": {
-    "translation": ">>The esper MATEUS is killed in action<<"
+    "translation": "The esper MATEUS is killed in action"
   },
   ">>The esper MATEUS has been summoned<<": {
-    "translation": ">> <玛提乌斯> 已被召唤 <<"
+    "translation": "<玛提乌斯> 已被召唤"
   },
   "** BUTTON PRESSED - HOLD 20 SECONDS **": {
     "translation": "已按下按钮,等待20秒"
   },
   "** END OF THE LINE **": {
-    "translation": ">> 决一死战 <<"
+    "translation": "决一死战"
   },
   "** YOU HAVE FAILED.. **": {
-    "translation": "<< 你失败了 <<"
+    "translation": "你失败了"
   },
   "** KILL REMAINING ZOMBIES **": {
-    "translation": ">> 清理剩余的僵尸 >>"
+    "translation": "清理剩余的僵尸"
   },
   "** COVER AND WAIT FOR SOMETHING TO HAPPEN **": {
-    "translation": ">> 守住,有什么要发生了 >>"
+    "translation": "守住,有什么要发生了"
   },
   "** THE SWORD WILL OPEN THE WAY SOON **": {
-    "translation": ">> 路径即将开放 >>"
+    "translation": "路径即将开放"
   },
   "** SHOOT THE SWARM BEFORE THEY CAN ATTACK **": {
     "translation": "快朝它们射击!!"
@@ -168,13 +168,13 @@
     "translation": "地图制作:SLAYERDRAGON & OCTALI 文本翻译:Liastical"
   },
   "** ALL STATUES HAVE BEEN ALIGNED.. **": {
-    "translation": ">> 所有雕像已完成校准.. >>"
+    "translation": "所有雕像已完成校准.."
   },
   "** .. HOLD 10 MORE SECONDS **": {
-    "translation": ">> 还有10秒 >>"
+    "translation": "还有10秒"
   },
   "** BOSS HAS BEEN STAGGERED **": {
-    "translation": ">>> Boss进入虚弱状态 >>>"
+    "translation": "Boss进入虚弱状态"
   },
   "** STAGGERED (12 SECS LEFT) **": {
     "translation": "<虚弱状态> 还有12秒",
@@ -189,7 +189,7 @@
     "blocked": true
   },
   "** BULLETS/NADES DOES 200 '/. DAMAGE ON BOSS FOR 10 SECONDS **": {
-    "translation": ">>> 子弹与手雷将在此段时间内对Boss造成大量伤害 >>>"
+    "translation": "子弹与手雷将在此段时间内对Boss造成大量伤害"
   },
   "** STAGGERED (9 SECS LEFT) **": {
     "translation": "** STAGGERED (9 SECS LEFT) **",
@@ -239,7 +239,7 @@
     "blocked": true
   },
   "** STAGGERED (DONE) **": {
-    "translation": ">>> <虚弱状态> 已结束 >>>"
+    "translation": "<虚弱状态> 已结束"
   },
   "** MATEUS IS DEAD! GO ESCAPE TO THE FOREST! **": {
     "translation": "<玛提乌斯>死了,快去丛林那里!!"
@@ -263,7 +263,7 @@
     "translation": "[关卡]: 米利暗遗迹"
   },
   "** 15 SECONDS BEFORE EVERYONE FREEZES TO DEATH!  **": {
-    "translation": ">> 距离死亡还有15秒 >>"
+    "translation": "距离死亡还有15秒"
   },
   "** BOSS MATEUS CHARGES HIS LAST ATTACK!  **": {
     "translation": "<玛提乌斯> 使用了终极一击!!"
@@ -278,7 +278,7 @@
     "translation": "这里是第一关最后一个守点了"
   },
   "** MAKE SURE NO ZOMBIES ENTER THE SHRINE **": {
-    "translation": ">> 确保不要有僵尸进来 >>"
+    "translation": "确保不要有僵尸进来"
   },
   "** HOLD THE ENTRANCE FOR 10 SECONDS **": {
     "translation": "** HOLD THE ENTRANCE FOR 10 SECONDS **",
@@ -329,10 +329,10 @@
     "translation": "完成<雕像解密>"
   },
   "** THE RIGHT WAY HAS BEEN OPENED **": {
-    "translation": ">> <右边> 的道路已打开 >>"
+    "translation": "<右边> 的道路已打开"
   },
   "** THE LEFT WAY HAS BEEN OPENED **": {
-    "translation": ">> <左边> 的道路已打开 >>"
+    "translation": "<左边> 的道路已打开"
   },
   "** YOU HAVE COMPLETED THE SIDE QUEST **": {
     "translation": "你们已完成 <支线任务>"

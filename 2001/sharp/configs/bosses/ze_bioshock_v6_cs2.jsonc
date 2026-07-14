@@ -53,15 +53,15 @@
       "reverse": true,
       "hitbox": "songbird_hitbox_head",
       "display": "夜莺"
-    }
-  ],
-  "Monsters": [
-    {
-      "identity": "5213",
-      "display": "Songbird Finale"
     },
     {
-      "identity": "3836",
+      "iterator": "songbird_finale_health",
+      "display": "夜莺"
+    }
+  ],
+  "Breakables": [
+    {
+      "target": "columbia_patriot_health",
       "display": "Columbia Patriot"
     }
   ]

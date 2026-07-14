@@ -1,0 +1,124 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Breakables": [
+    {
+      "target": "bone_dragon_Hitbox",
+      "hitbox": "bone_dragon_Model",
+      "display": "Bone_dragon"
+    },
+    {
+      "target": "vermisanguis_Hitbox",
+      "hitbox": "vermisanguis_Model",
+      "display": "Vermisanguis"
+    },
+    {
+      "target": "x_dragon_Hitbox",
+      "hitbox": "x_dragon_Model",
+      "display": "X_dragon"
+    },
+    {
+      "target": "drowned_warden_Hitbox",
+      "hitbox": "drowned_warden_Model",
+      "display": "Drowned_warden"
+    },
+    {
+      "target": "gundyr_Hitbox",
+      "hitbox": "gundyr_Model",
+      "display": "Gundyr"
+    }
+  ],
+  "Counters": [
+    {
+      "iterator": "skeleton_guardian_Health",
+      "hitbox": "skeleton_guardian_Hitbox",
+      "counter": "skeleton_guardian_HealthCount",
+      "backup": "skeleton_guardian_HealthBackup",
+      "reverse": true,
+      "display": "Skeleton_guardian"
+    },
+    {
+      "iterator": "andre_health_count",
+      "hitbox": "andre_Hitbox",
+      "mass": 130,
+      "display": "Andre"
+    },
+    {
+      "iterator": "phase2_sk_health",
+      "hitbox": "phase_2_sk_phyxbox",
+      "mass": 22,
+      "counter": "phase2_sk_segment",
+      "display": "phase_2_sk"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "15201",
+      "display": "宝箱怪"
+    },
+    {
+      "identity": "15261",
+      "display": "蛇人"
+    },
+    {
+      "identity": "15142",
+      "display": "骑士"
+    },
+    {
+      "identity": "15311",
+      "display": "Basalisk"
+    },
+    {
+      "identity": "15498",
+      "display": "野兽"
+    },
+    {
+      "identity": "15387",
+      "display": "暗影"
+    },
+    {
+      "identity": "13012",
+      "display": "龙"
+    },
+    {
+      "identity": "11413",
+      "display": "炸药"
+    },
+    {
+      "identity": "15440",
+      "display": "灵魂体"
+    },
+    {
+      "identity": "11490",
+      "display": "八爪"
+    },
+    {
+      "identity": "15251",
+      "display": "异形"
+    },
+    {
+      "identity": "12767",
+      "display": "蠕虫"
+    }
+  ]
+}

@@ -49,5 +49,41 @@
       "hitbox": "Skeleton_Boss_Phys3",
       "display": "龙离③号"
     }
+  ],
+  "Breakables": [
+    {
+      "target": "Hitler_Boss_Tank1_Break",
+      "display": "坦克①"
+    },
+    {
+      "target": "Hitler_Boss_Tank2_Break",
+      "display": "坦克②"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "1548",
+      "display": "蜘蛛①"
+    },
+    {
+      "identity": "1572",
+      "display": "蜘蛛②"
+    },
+    {
+      "identity": "1578",
+      "display": "蜘蛛③"
+    },
+    {
+      "identity": "1584",
+      "display": "蜘蛛④"
+    },
+    {
+      "identity": "1590",
+      "display": "蜘蛛⑤"
+    },
+    {
+      "identity": "1598",
+      "display": "蜘蛛⑥"
+    }
   ]
 }
