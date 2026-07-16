@@ -1989,7 +1989,7 @@
     "requiredPlayers": 45
   },
   "ze_forius_just_run_p": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 60,
     "nomination": false,
