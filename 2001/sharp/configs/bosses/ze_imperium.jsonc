@@ -23,7 +23,7 @@
 {
   "Breakables": [
     {
-      "target": "boss_prop",
+      "target": "boss_hitbox",
       "display": "混沌巫师"
     }
   ]
