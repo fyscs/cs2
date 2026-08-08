@@ -159,7 +159,12 @@
 ]
 
 
-@BaseClass = Parentname
+@BaseClass
+	metadata
+	{
+		api_classes = [ "" ]
+	}
+ = Parentname
 [ 
 	parentname(target_destination) { group="Hierarchy" } : "Parent" : : "The name of this entity's parent in the movement hierarchy. Entities with parents move with their parent."
 	parentAttachmentName(parentAttachment) { group="Hierarchy" } : "Parent Bone/Attachment Name" : : "The name of the bone or attachment to attach to on the entity's parent in the movement hierarchy. Use !bonemerge to use bone-merge style attachment. NOTE: If this is specified the Hammer transform will be disregarded, even if 'Use Local Transform' is NOT specified (in that case local transform will be identity)"
@@ -190,7 +195,9 @@
 	local.scales(vector) { group="Hierarchy" enabled={ variable="useLocalOffset" value="1" } } : "Local Scale" : : "Scale in the local space of the parent model's attachment/bone to use in hierarchy. Not used if you are not using parent attachment."
 
 	// Inputs
-	input SetParent(target_destination) : "Changes the entity's parent in the movement hierarchy."
+	input SetParent(api)
+	input SetParentWithOffset(api)
+	input SetParentMaintainOffset(api)
 	input SetParentAttachment(string) : "Change this entity to attach to a specific attachment point on its parent. Entities must be parented before being sent this input. The parameter passed in should be the name of the attachment."
 	input SetParentAttachmentMaintainOffset(string) : "Change this entity to attach to a specific attachment point on it's parent. Entities must be parented before being sent this input. The parameter passed in should be the name of the attachment. The entity will maintain it's position relative to the parent at the time it is attached."
 	input ClearParent(void) : "Removes this entity from the the movement hierarchy, leaving it free to move independently."
@@ -466,6 +473,7 @@
 		1024: "Don't take physics damage" : 0
 		2048: "Don't allow bullet penetration": 0
 		4096: "Don't allow hand physics damage" : 0
+		16777216: "Force nav-ignore" : 0
 	]
 
 	propdata(choices) : "Prop Data" : 0 : "Set to the best approximation of the size and material of this entity's brushes. If set, it will override this entity's health and damage taken from various weapons. See the propdata.txt file in the scripts directory of your MOD to get a detailed list of what each entry specifies." =
@@ -1279,13 +1287,13 @@
 		0 : "No"
 		1 : "Yes"
 	]	
+	AlwaysSolidIgnoreNav(boolean) : "Nav: Ignore if 'Always Solid'" : 0 : "If set, nav generation will ignore this func_brush if 'Solidity' is set to 'Always Solid'."
 
 	interactAs(string) [ group="Physics Properties" ] : "interactAs" : "" : "comma-separated list of interaction layers"
 	interactWith(string) [ group="Physics Properties" ] : "interactWith" : "" : "comma-separated list of interaction layers to interact with"
 	interactExclude(string) [ group="Physics Properties" ] : "interactExclude" : "" : "comma-separated list of interaction layers to not collide with"
 	solidbsp(boolean) : "Solid BSP" : 0 : "Set this if this brush is in hierarchy with a moving object of some kind, and the player can stand on this brush."
 	ScriptedMovement(boolean) : "Scripted Movement" : 0 : "Set this to allow vscript code to move the brush via SetVelocity() calls."
-	vrad_brush_cast_shadows(boolean) : "Shadows" : 0 : "Set this if this brush casts lightmap shadows."
 	NoInterpolate(boolean) [ group="Misc" ] : "Disable Client-Side Interpolation" : 0
 	
 	input Alpha(integer) : "Sets the brush's alpha value."
@@ -2583,6 +2591,7 @@
 	input SetDataControlPointX(float) : "Set X Component of Data Control Point"
 	input SetDataControlPointY(float) : "Set Y Component of Data Control Point"
 	input SetDataControlPointZ(float) : "Set Z Component of Data Control Point"
+	input SetTextString(api)
 ]
 
 
@@ -3567,6 +3576,39 @@
 	output OnNotEqual(void) : "Fires if the values are not equal"
 ]
 
+
+@PointClass base(Targetname) tags( Logic ) iconsprite("editor/logic_multicompare.vmat") = logic_activityevent :
+	"Fires an activity event of the specified type. "
+[
+	// keys
+	DurationValue(float) : "Duration"
+	ActivityEventType(choices) : "Activity Event Type" : "0" : "Activity Event type to fire." =
+	[
+		0 : "None"
+		1 : "nearby impact threat"
+		2 : "area player damage"
+	]
+	sourceEntityName(target_destination) : "Source Entity Name" : "" : "Name of the entity the event will be associated with. If unspecified, it will be \'this\'."
+
+	// Inputs
+	input FireEvent(void) : "Fires the specified activity event."
+	input SetSourceEntity(string) : "Set the name of the entity to associate this event with."
+
+
+]
+
+@PointClass base(Targetname) tags( Logic ) iconsprite("editor/logic_case.vmat") = logic_gamestate_report :
+	"Primarily a pulse interface for examining game_state. "
+[ 
+	startDisabled(bool) : "Start Disabled" : 0
+
+	//Inputs
+	input Enable(void) : "Enable the entity"
+	input Disable(void) : "Disable the entity"
+	
+]
+
+
 @BaseClass = LogicNPCCounterPointBase
 [ 
 	startDisabled(bool) : "Start Disabled" : 0
@@ -3827,7 +3869,7 @@
 	attach1(target_destination) : "Attachment 1" : "" : "First entity.  Must be a single entity unless \"Support multiple entities with same name\" is specified."
 	attach2(target_destination) : "Attachment 2" : "" : "Second entity.  Must be a single entity unless \"Support multiple entities with same name\" is specified."
 
-	support_multiple_entities_with_same_name(boolean) : "Support multiple entities with same name" : 0 : "If true, we affect all entities matching our attachment names. If false, we only affect the first entity found matching each attachment name."
+	support_multiple_entities_with_same_name(boolean) : "Support multiple entities with same name" : 1 : "If true, we affect all entities matching our attachment names. If false, we only affect the first entity found matching each attachment name."
 	include_hierarchy(boolean) : "Include Hierarchy" : 0 : "Disable collision between the entire hierarchies of the two entities, instead of just the individual entities themselves."
 	startdisabled(boolean) : "Start with collisions disabled" : 1
 
@@ -4286,7 +4328,6 @@
 	input RemoveFilter(api)
 ]
 
-
 @FilterClass base(BaseFilter) iconsprite("editor/filter_name.vmat") = filter_activator_name :
 	"A filter that filters by the name of the activator."
 [
@@ -4603,7 +4644,11 @@
 	masscenteroffset(vector) [ group = "Physics Properties" ] : "Center of Mass Offset" : "0 0 0" : "Offset in local space applied to the object's center of mass."
 	buoyancyscale(float) [ group = "Physics Properties" ] : "Buoyancy Scale" : "1" : "Scale on the buoyancy forces applied to this object (not including fluid drag)"
 	fluiddragscale(float) [ group = "Physics Properties" ] : "Fluid Drag Scale" : "1" : "Scale on fluid forces applied to this object (not including buoyancy)"
-	
+	collisionGroup(string) [ group="Physics Properties" ] : "Collision Group" : "" : "Override the default collision group"
+	interactsAs(string) [ group="Physics Properties" ] : "Interacts As" : "" : "comma-separated list of interaction layers"
+	interactsWith(string) [ group="Physics Properties" ] : "Interacts With" : "" : "comma-separated list of interaction layers to interact with"
+	interactsExclude(string) [ group="Physics Properties" ] : "Interacts Exclude" : "" : "comma-separated list of interaction layers to not collide with"
+
 	damagetoenablemotion(integer) : "Health Level to Override Motion" : 0 : "If specified, this object will start motion disabled. Once its health has dropped below this specified amount, it will enable motion."
 	forcetoenablemotion(float) : "Physics Impact Force to Override Motion" : 0 : "If specified, this object will start motion disabled. Any impact that imparts a force greater than this value on the physbox will enable motion."
 	enableuseoutput(boolean) : "Enable +Use Output" : 0 : "Enables OnPlayerUse output being fired when this object is used"
@@ -5548,8 +5593,6 @@
 
 	massScale(float) [ group = "Physics Properties" ] : "Mass Scale" : "0" : "A scale multiplier for the object's mass. 0 = use auto-calculated mass based on the object's size / shape and material"
 	buoyancyscale(float) [ group = "Physics Properties" ] : "Buoyancy Scale" : "1" : "Scale on the buoyancy / fluid forces applied to this object"
-	updatenavwhenmoving(boolean) [ group="Physics Properties" ] : "Update Nav When Moving" : "0" : "If set, nav mesh will be constantly updated while this obstacle is moving, and not just when this obstacle is settled."
-	forcenavcut(boolean) [ group = "Physics Properties" ] : "Force Nav Cut " : "0" : "If set, this obstacle will cut the mesh causing NPC's to avoid it regardless of its mass."
 
 	input EnableMotion(void) : "Enable physics motion/collision response."
 	input DisableMotion(void) : "Disable physics motion/collision response."
@@ -5591,181 +5634,6 @@
 	input Unlock(void) : "Re-allow passengers to enter or exit the vehicle."
 ]
 
-//==================================================================================================
-@PointClass base(BaseVehicle) 
-	vdata_model{my_key = "subclass_name" vdata_key = "m_sModelName" use_class_when_blank = true}
-= vehicle_entityio :
-	"Vehicle which does nothing but fire outputs based on IN_BUTTONS, typically used for prototyping."
-[
-	button1(choices) : "Button 1" : 0 : "The button which fires the Button1-related outputs." =
-	[
-		0 : "IN_NONE"
-		1 : "IN_ATTACK"
-		2 : "IN_JUMP"
-		4 : "IN_DUCK"
-		8 : "IN_FORWARD"
-		16 : "IN_BACK"
-	//	32 : "IN_CANCEL"
-	//	64 : "IN_TURNLEFT"
-	//	128 : "IN_TURNRIGHT"
-		256 : "IN_MOVELEFT"
-		512 : "IN_MOVERIGHT"
-		1024 : "IN_ATTACK2"
-	//	2048 : "IN_RUN"
-		4096 : "IN_RELOAD"
-	]
-
-	button2(choices) : "Button 2" : 0 : "The button which fires the Button2-related outputs." =
-	[
-		0 : "IN_NONE"
-		1 : "IN_ATTACK"
-		2 : "IN_JUMP"
-		4 : "IN_DUCK"
-		8 : "IN_FORWARD"
-		16 : "IN_BACK"
-	//	32 : "IN_CANCEL"
-	//	64 : "IN_TURNLEFT"
-	//	128 : "IN_TURNRIGHT"
-		256 : "IN_MOVELEFT"
-		512 : "IN_MOVERIGHT"
-		1024 : "IN_ATTACK2"
-	//	2048 : "IN_RUN"
-		4096 : "IN_RELOAD"
-	]
-
-	button3(choices) : "Button 3" : 0 : "The button which fires the Button3-related outputs." =
-	[
-		0 : "IN_NONE"
-		1 : "IN_ATTACK"
-		2 : "IN_JUMP"
-		4 : "IN_DUCK"
-		8 : "IN_FORWARD"
-		16 : "IN_BACK"
-	//	32 : "IN_CANCEL"
-	//	64 : "IN_TURNLEFT"
-	//	128 : "IN_TURNRIGHT"
-		256 : "IN_MOVELEFT"
-		512 : "IN_MOVERIGHT"
-		1024 : "IN_ATTACK2"
-	//	2048 : "IN_RUN"
-		4096 : "IN_RELOAD"
-	]
-
-	button4(choices) : "Button 4" : 0 : "The button which fires the Button4-related outputs." =
-	[
-		0 : "IN_NONE"
-		1 : "IN_ATTACK"
-		2 : "IN_JUMP"
-		4 : "IN_DUCK"
-		8 : "IN_FORWARD"
-		16 : "IN_BACK"
-	//	32 : "IN_CANCEL"
-	//	64 : "IN_TURNLEFT"
-	//	128 : "IN_TURNRIGHT"
-		256 : "IN_MOVELEFT"
-		512 : "IN_MOVERIGHT"
-		1024 : "IN_ATTACK2"
-	//	2048 : "IN_RUN"
-		4096 : "IN_RELOAD"
-	]
-
-	button5(choices) : "Button 5" : 0 : "The button which fires the Button5-related outputs." =
-	[
-		0 : "IN_NONE"
-		1 : "IN_ATTACK"
-		2 : "IN_JUMP"
-		4 : "IN_DUCK"
-		8 : "IN_FORWARD"
-		16 : "IN_BACK"
-	//	32 : "IN_CANCEL"
-	//	64 : "IN_TURNLEFT"
-	//	128 : "IN_TURNRIGHT"
-		256 : "IN_MOVELEFT"
-		512 : "IN_MOVERIGHT"
-		1024 : "IN_ATTACK2"
-	//	2048 : "IN_RUN"
-		4096 : "IN_RELOAD"
-	]
-
-	button6(choices) : "Button 6" : 0 : "The button which fires the Button6-related outputs." =
-	[
-		0 : "IN_NONE"
-		1 : "IN_ATTACK"
-		2 : "IN_JUMP"
-		4 : "IN_DUCK"
-		8 : "IN_FORWARD"
-		16 : "IN_BACK"
-	//	32 : "IN_CANCEL"
-	//	64 : "IN_TURNLEFT"
-	//	128 : "IN_TURNRIGHT"
-		256 : "IN_MOVELEFT"
-		512 : "IN_MOVERIGHT"
-		1024 : "IN_ATTACK2"
-	//	2048 : "IN_RUN"
-		4096 : "IN_RELOAD"
-	]
-
-	button7(choices) : "Button 7" : 0 : "The button which fires the Button7-related outputs." =
-	[
-		0 : "IN_NONE"
-		1 : "IN_ATTACK"
-		2 : "IN_JUMP"
-		4 : "IN_DUCK"
-		8 : "IN_FORWARD"
-		16 : "IN_BACK"
-	//	32 : "IN_CANCEL"
-	//	64 : "IN_TURNLEFT"
-	//	128 : "IN_TURNRIGHT"
-		256 : "IN_MOVELEFT"
-		512 : "IN_MOVERIGHT"
-		1024 : "IN_ATTACK2"
-	//	2048 : "IN_RUN"
-		4096 : "IN_RELOAD"
-	]
-
-	button8(choices) : "Button 8" : 0 : "The button which fires the Button8-related outputs." =
-	[
-		0 : "IN_NONE"
-		1 : "IN_ATTACK"
-		2 : "IN_JUMP"
-		4 : "IN_DUCK"
-		8 : "IN_FORWARD"
-		16 : "IN_BACK"
-	//	32 : "IN_CANCEL"
-	//	64 : "IN_TURNLEFT"
-	//	128 : "IN_TURNRIGHT"
-		256 : "IN_MOVELEFT"
-		512 : "IN_MOVERIGHT"
-		1024 : "IN_ATTACK2"
-	//	2048 : "IN_RUN"
-		4096 : "IN_RELOAD"
-	]
-
-	// Outputs
-	output OnButtonStart1(integer) : "Passenger started hitting button 1 (argument is passenger index)"
-	output OnButtonEnd1(integer) : "Passenger stopped hitting button 1 (argument is passenger index)"
-
-	output OnButtonStart2(integer) : "Passenger started hitting button 1 (argument is passenger index)"
-	output OnButtonEnd2(integer) : "Passenger stopped hitting button 2 (argument is passenger index)"
-
-	output OnButtonStart3(integer) : "Passenger started hitting button 3 (argument is passenger index)"
-	output OnButtonEnd3(integer) : "Passenger stopped hitting button 3 (argument is passenger index)"
-
-	output OnButtonStart4(integer) : "Passenger started hitting button 4 (argument is passenger index)"
-	output OnButtonEnd4(integer) : "Passenger stopped hitting button 4 (argument is passenger index)"
-
-	output OnButtonStart5(integer) : "Passenger started hitting button 5 (argument is passenger index)"
-	output OnButtonEnd5(integer) : "Passenger stopped hitting button 5 (argument is passenger index)"
-
-	output OnButtonStart6(integer) : "Passenger started hitting button 6 (argument is passenger index)"
-	output OnButtonEnd6(integer) : "Passenger stopped hitting button 6 (argument is passenger index)"
-
-	output OnButtonStart7(integer) : "Passenger started hitting button 7 (argument is passenger index)"
-	output OnButtonEnd7(integer) : "Passenger stopped hitting button 7 (argument is passenger index)"
-
-	output OnButtonStart8(integer) : "Passenger started hitting button 8 (argument is passenger index)"
-	output OnButtonEnd8(integer) : "Passenger stopped hitting button 8 (argument is passenger index)"
-]
 
 //-------------------------------------------------------------------------
 //
@@ -6129,7 +5997,7 @@
 //
 //-------------------------------------------------------------------------
 
-@SolidClass base(Targetname) tags( Trigger )
+@SolidClass base(Targetname,EnableDisable) tags( Trigger )
 	metadata
 	{
 		auto_apply_material = "materials/tools/toolstrigger.vmat"
@@ -6143,6 +6011,8 @@
 	DangerousTimer(float) : "Dangerous Timer" : 0 : "The number of seconds the player must survive before this autosave takes effect."
 	
 	MinimumHitPoints(integer): "Minumum Hit Points" : 0 : "Don't save dangerous when player has less than this many hitpoints."
+
+	RetriggerDelay(float) : "Multiple Retrigger Delay" : -1 : "If >0 allow re-triggering after the specified number of seconds passes"
 ]
 
 @SolidClass base(EnableDisable) tags( Trigger )
@@ -6938,6 +6808,7 @@
 	input Toggle(void) : "Toggle rendering."
 	input SetMessage(string) : "Change the text."
 	input SetIntMessage(integer) : "Set the text to an integer value."
+	input SetTextColor(color255) : "Set the text color."
 ]
 
 
@@ -6962,7 +6833,6 @@
 		2: "Teleport to THIS path_corner" : 0
 	]
 	target(target_destination) : "Next stop target"
-	wait(integer) : "Wait here (secs)" : 0
 	speed(integer) : "Speed" : 0
 	yaw_speed(integer) : "New Train rot. Speed" : 0
 	radius(float) : "Radius" : 0
@@ -7098,7 +6968,7 @@
 [
 	width(float) : "Width" : "32"
 	height(float) : "Height" : "32"
-	panel_dpi(float) : "DPI" : "32"
+	panel_dpi(float) : "DPI" : "2"
 	ignore_input(boolean) : "Ignore Input" : "0"
 	interact_distance(float) : "Interact Distance" : "8"
 	lit(boolean) : "Lit" : "0"

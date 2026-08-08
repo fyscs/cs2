@@ -21,10 +21,14 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Breakables": [
+  "Monsters": [
     {
-      "target": "boss_hitbox",
-      "display": "混沌巫师"
+      "identity": "5881",
+      "display": "藤蔓"
+    },
+    {
+      "identity": "4745",
+      "display": "尖刺天花板"
     }
   ]
 }
