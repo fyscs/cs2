@@ -27,6 +27,11 @@
       "hitbox": "boss_hitbox",
       "display": "巴托莉",
       "stages": 4
+    },
+    {
+      "iterator": "s3_math_wushi_hp",
+      "hitbox": "s3_break_wushi",
+      "display": "巫师"
     }
   ]
 }
