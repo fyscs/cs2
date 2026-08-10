@@ -27,7 +27,6 @@
       "hitbox": "Knight_Breakable",
       "display": "狼骑士"
     },
-    // HP_attack and HP_int systems fill their HUD counter toward OnHitMax as health falls.
     {
       "iterator": "KOH_HP_attack",
       "backup": "KOH_HP_int",
