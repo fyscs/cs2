@@ -178,7 +178,8 @@
     "translation": "*** 守住这里25秒 ***"
   },
   "*** 10 more seconds ***": {
-    "translation": "*** 还有10秒 ***"
+    "translation": "*** 还有10秒 ***",
+    "countdown": 10
   },
   "*** Heli leaves in 30 seconds ***": {
     "translation": "*** 直升机30秒后离开 ***"
@@ -294,7 +295,8 @@
     "translation": "*** 守住30秒! ***"
   },
   "*** 20 more seconds! ***": {
-    "translation": "*** 还有20秒! ***"
+    "translation": "*** 还有20秒! ***",
+    "countdown": 20
   },
   "*** 10 more seconds! ***": {
     "translation": "*** 还有10秒! ***",
