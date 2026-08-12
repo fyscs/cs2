@@ -20,7 +20,7 @@
     "translation": "-地图作者: Sea_Sedge-海苔 -"
   },
   "-Ported by oVo-": {
-    "translation": "-移植:oVo 汉化:Zeyu1 -"
+    "translation": "-移植:oVo 汉化:Zeyu1,Korihana -"
   },
   "I just have one question for you,Frisk.How did you get back to the Ruins from here...?": {
     "translation": "我还有一个问题想问你, Frisk. 你是怎么从这里回到Ruins的...?"
@@ -29,10 +29,10 @@
     "translation": "...等等, 我知道了. 她一定是在离开的时候把你也一起带走了."
   },
   "And decided to give you a proper burial,rather than...Hanging out in the basement forever.": {
-    "translation": "且打算将你妥善的安葬, 而不是...把你晾在地下室里当孤魂野鬼...."
+    "translation": "而且打算将你妥善的安葬, 而不是...把你晾在地下室里当孤魂野鬼...."
   },
   "...but,why then...?What made you wake up?Did you hear me calling you...?": {
-    "translation": "...但是..为什么 你为什么会苏醒呢?你听到我对你的呼唤了吗?"
+    "translation": "...但是..为什么... 你为什么会苏醒呢?你听到我对你的呼唤了吗?"
   },
   "It doesn't matter now.I'm so tired of this,Frisk.": {
     "translation": "都无所谓了. 我已经彻底厌倦了.. Frisk.."
@@ -227,10 +227,10 @@
     "translation": "我的身体变成了一朵花!"
   },
   "Mom!Dad!Somebody help me!I called out.": {
-    "translation": "我曾喊过 谁来帮帮我"
+    "translation": "爸爸!妈妈!谁来帮帮我!"
   },
   "But nobody came.": {
-    "translation": "但无人前往"
+    "translation": "但 是 谁 也 没 有 来."
   },
   "***There seems to be something in the kitchen***": {
     "translation": "***厨房里好像有什么动静***"
@@ -275,13 +275,13 @@
     "translation": "今天是多美好的一天啊."
   },
   "Birds are singing.Flowers are blooming...": {
-    "translation": "小鸟在唱歌, 鲜花在绽放..."
+    "translation": "小鸟在歌唱, 鲜花在绽放..."
   },
   "On days like these,kids like you...": {
     "translation": "在这样的一天里, 像你这样的孩子.."
   },
   "Should be burning in hell.": {
-    "translation": "应当在地狱里燃烧"
+    "translation": "应 当 在 地 狱 里 焚 烧"
   },
   "Huh.": {
     "translation": "不是吗."
@@ -290,7 +290,7 @@
     "translation": "我一直纳闷怎么从来没人一上来就用最强攻击呢."
   },
   "What?You think I'm just gonna stand there and take it?": {
-    "translation": "怎么,你以为我会站在那里默默接受吗"
+    "translation": "怎么着?你真以为我会站在那儿乖乖承受?"
   },
   "Our reports showed a massive anomaly in the timespace continuum.": {
     "translation": "我们的报告显示在时空连续区中出现了大量异常."
@@ -302,7 +302,7 @@
     "translation": "直至突然之间, 一切戛然而止"
   },
   "That's your fault,isn't it?": {
-    "translation": "这些都是你造成的?"
+    "translation": "这些都是你造成的,不是吗?"
   },
   "You can't understand how this feels.": {
     "translation": "你无法理解这种感受."
@@ -317,7 +317,7 @@
     "translation": "听着, 我很早之前就放弃回去了"
   },
   "We'll just end up right back here,without any memory of it,right?": {
-    "translation": "同样的, 前往地上对我来说也不再有吸引力了?"
+    "translation": "同样的, 前往地上对我来说也不再有吸引力了."
   },
   "To be blunt...": {
     "translation": "实话实说..."
@@ -335,10 +335,10 @@
     "translation": "我就再也不能视而不见了."
   },
   "Heya.": {
-    "translation": ":)"
+    "translation": ":) 你好呀."
   },
   "You've been busy,huh?": {
-    "translation": "你最近很忙,huh?"
+    "translation": "你最近很忙啊, 对吧?"
   },
   "So,I've got a question for ya.": {
     "translation": "所以, 我有一个问题要问你.."
@@ -347,28 +347,28 @@
     "translation": "你是不是觉得即使最坏的人也能改变..?"
   },
   "Heh heh heh heh...": {
-    "translation": ":) ..."
+    "translation": "呵呵呵呵..."
   },
   "All right.": {
     "translation": "好吧."
   },
   "Well,here's a better question.": {
-    "translation": "这样吧, 我有一个更好的问题"
+    "translation": "这样吧, 我有一个更好的问题要问你."
   },
   "Do you wanna have a bad time?": {
-    "translation": "你是不是想尝点苦头"
+    "translation": "你是不是想尝点苦头?"
   },
   "Cause if you take another step forward...": {
     "translation": "如果你再往前跨出一步的话...."
   },
   "You are really not going to like what happens next.": {
-    "translation": "我感觉接下来会发生的事你可绝对不会喜欢."
+    "translation": "接下来会发生的事你可绝对不会喜欢."
   },
   "welp.Sorry,old lady.": {
-    "translation": "抱歉了, 老女士.."
+    "translation": "好吧, 抱歉了, 老女士.."
   },
   "This is why I never make promises.": {
-    "translation": "这就是我从不许下承诺的原因.."
+    "translation": "这就是我从不许下承诺的原因."
   },
   "***The door will close in 10 seconds***": {
     "translation": "***大门还有10秒关闭**"
