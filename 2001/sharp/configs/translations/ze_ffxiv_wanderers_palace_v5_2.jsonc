@@ -1,0 +1,346 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "< . . . . . . >": {
+    "translation": "< . . . . . . >"
+  },
+  "< Zombie Detected >": {
+    "translation": "< 检测到僵尸 >"
+  },
+  "< Kill Remaining Zombies >": {
+    "translation": "< 消灭剩余僵尸 >"
+  },
+  "< You have escaped from Behemoth's claw >": {
+    "translation": "< 你们已逃离贝希摩斯的魔爪 >"
+  },
+  "< Seymour Natus is hurted... - Let's go >": {
+    "translation": "< 西摩尔已受伤... - 继续前进 >"
+  },
+  "< Defend until the path is clear! >": {
+    "translation": "< 防守至道路清理完毕! >"
+  },
+  "< Scantuary Keeper is defeated! - Don't stop defending! >": {
+    "translation": "< 圣地守护者已被击败! - 不要停止防守! >"
+  },
+  "< Odin is not strong enough to stop your steps! >": {
+    "translation": "< 奥丁不足以阻挡你们的脚步! >"
+  },
+  "< Nymian Device 1 has been pressed >": {
+    "translation": "< 尼姆装置一已按下 >"
+  },
+  "< Nymian Device 3 has been pressed >": {
+    "translation": "< 尼姆装置三已按下 >"
+  },
+  "< Nymian Device 4 has been pressed >": {
+    "translation": "< 尼姆装置四已按下 >"
+  },
+  "< Nymian Device 2 has been pressed >": {
+    "translation": "< 尼姆装置二已按下 >"
+  },
+  "< Defend until the teleport activates >": {
+    "translation": "< 防守至传送启动 >"
+  },
+  "< Teleport Activates! - Retreat! >": {
+    "translation": "< 传送已启动! - 撤退! >"
+  },
+  "< You have hunted down Knight! - Is time to receive your reward >": {
+    "translation": "< 你们已击败狼骑士!是时候领取奖励了 >"
+  },
+  "< Boss has been defeated! >": {
+    "translation": "< Boss已被击败! >"
+  },
+  "< You have defeated Normal Mode >": {
+    "translation": "< 你们已通过普通模式 >"
+  },
+  "< Enkidu is spawned - Seems like we need to shoot it? >": {
+    "translation": "< 恩奇都已出现 - 看来需要攻击它? >"
+  },
+  "< Bahamut is retreating - Keep defending! >": {
+    "translation": "< 巴哈姆特正在撤退 - 继续防守! >"
+  },
+  "< You have interrupted Bahamut's Final Attack! >": {
+    "translation": "< 你们已打断巴哈姆特的最终攻击! >"
+  },
+  "< Prepare to meet your destiny! >": {
+    "translation": "< 准备面对命运! >"
+  },
+  "< Zombie Dectected >": {
+    "translation": "< 检测到僵尸 >"
+  },
+  "< You are the hero of the light! >": {
+    "translation": "< 你就是光之战士! >"
+  },
+  "< Keep Defending until the Gates Open >": {
+    "translation": "< 防守至大门开启 >"
+  },
+  "< We are almost near the end... >": {
+    "translation": "< 我们就快到终点了... >"
+  },
+  "< A Player has acquired Knight's Sword >": {
+    "translation": "< 一名玩家获得了骑士之剑 >"
+  },
+  "< A Player has acquired Sword Oath >": {
+    "translation": "< 一名玩家获得了剑誓言 >"
+  },
+  "< A Player has acquired Oath >": {
+    "translation": "< 一名玩家获得了誓言 >"
+  },
+  "< A Player has acquired Thunder >": {
+    "translation": "< 一名玩家获得了紫电 >"
+  },
+  "< A Player has acquired Blizzard >": {
+    "translation": "< 一名玩家获得了冰莲 >"
+  },
+  "< A Player has acquired Heal >": {
+    "translation": "< 一名玩家获得了治愈术 >"
+  },
+  "< A Player has acquired Zombie Ice >": {
+    "translation": "< 一名玩家获得了僵尸冰 >"
+  },
+  "< A Player has acquired Zombie Malefic >": {
+    "translation": "< 一名玩家获得了僵尸煞星 >"
+  },
+  "< A Player has acquired Zombie Heal >": {
+    "translation": "< 一名玩家获得了僵尸治疗 >"
+  },
+  "< A Player has acquired Zombie Gravity >": {
+    "translation": "< 一名玩家获得了僵尸黑洞 >"
+  },
+  "< A Player has acquired Seymour Natus >": {
+    "translation": "< 一名玩家获得了西摩尔 >"
+  },
+  "< A Player has picked up Garuda >": {
+    "translation": "< 一名玩家拾取了迦楼罗 >"
+  },
+  "< A Player has picked up Vyraal >": {
+    "translation": "< 一名玩家拾取了阿尔提克 >"
+  },
+  "< A Player has acquired Summon Bahamut >": {
+    "translation": "< 一名玩家获得了召唤巴哈姆特 >"
+  },
+  "< Seymour Natus has summoned Break Ability >": {
+    "translation": "< 西摩尔召唤了破坏技能 >"
+  },
+  "< You did not interrupt Mortibody's Break Attack >": {
+    "translation": "< 你们未能打断幻光变异体的破坏攻击 >"
+  },
+  "< YOU ARE DEAD >": {
+    "translation": "< 你们死定了 >"
+  },
+  "< Great! -  Your interrupted Mortybody's Break Attack >": {
+    "translation": "< 很好! - 你们打断了幻光变异体的破坏攻击 >"
+  },
+  "< Seymour Natus has summoned Thunder Ability >": {
+    "translation": "< 西摩尔召唤了紫电技能 >"
+  },
+  "< Seymour Natus has summoned Protect Spell >": {
+    "translation": "< 西摩尔施放了护盾法术 >"
+  },
+  "< Seymour Natus has summoned Fire Meteor >": {
+    "translation": "< 西摩尔召唤了火焰陨石 >"
+  },
+  "< Seymour Natus has summoned Blizzard Ability >": {
+    "translation": "< 西摩尔召唤了冰莲技能 >"
+  },
+  "< Seymour Natus has summoned Water Ability >": {
+    "translation": "< 西摩尔召唤了水流技能 >"
+  },
+  "< Seymour Natus has summoned Lure Ability >": {
+    "translation": "< 西摩尔召唤了诱导技能 >"
+  },
+  "< Seymour Natus has summoned Wind Ability >": {
+    "translation": "< 西摩尔召唤了疾风技能 >"
+  },
+  "< Hurry up!!! - Seymour Natus power up his abilities >": {
+    "translation": "< 快点!!! - 西摩尔正在强化技能 >"
+  },
+  "< The Darkness has arosed from Seymour Natus... >": {
+    "translation": "< 黑暗正从西摩尔体内涌现... >"
+  },
+  "< A Player has picked up Alteci >": {
+    "translation": "< 一名玩家拾取了阿尔提克 >"
+  },
+  "< Keeper of Halidom has used Beatdown Ability >": {
+    "translation": "< 古菩猩猩使用了猛击技能 >"
+  },
+  "< Keeper of Halidom has used Inhale Ability >": {
+    "translation": "< 古菩猩猩使用了吸入技能 >"
+  },
+  "< Keeper of Halidom has used Moldy Phlegm Ability >": {
+    "translation": "< 古菩猩猩使用了霉菌痰液技能 >"
+  },
+  "< Keeper of Halidom has used Goobbue's Grief Ability >": {
+    "translation": "< 古菩猩猩使用了悲伤技能 >"
+  },
+  "< Hurry! - You have 20 seconds left to defeat The Keeper of Halidom >": {
+    "translation": "< 快点! - 你们只剩20秒击败古菩猩猩 >"
+  },
+  "< You did not defeat KOH in time >": {
+    "translation": "< 你们未能及时击败古菩猩猩 >"
+  },
+  "< Keeper of Halidom has used Moldy Sneeze Ability >": {
+    "translation": "< 古菩猩猩使用了霉菌喷嚏技能 >"
+  },
+  "< You have failed to defeat Sanctuary Keeper... >": {
+    "translation": "< 你们未能击败圣地守护者... >"
+  },
+  "< Nymian Devices have been activated >": {
+    "translation": "< 尼姆装置已激活 >"
+  },
+  "< Ultima Weapon has casted Eye of The Storm >": {
+    "translation": "< 究极神兵施放了风暴之眼 >"
+  },
+  "< Ultima Weapon has casted Wreckage Meteor >": {
+    "translation": "< 究极神兵施放了飞空艇坠落 >"
+  },
+  "< Ultima Weapon has casted Geocrush >": {
+    "translation": "< 究极神兵施放了大地粉碎 >"
+  },
+  "< Ultima Weapon has casted Gravity Ability >": {
+    "translation": "< 究极神兵施放了黑洞 >"
+  },
+  "< . . . >": {
+    "translation": "< . . . >"
+  },
+  "< Loading . . . 芝麻Mochi - 约束 >": {
+    "translation": "< 加载中 . . . 芝麻Mochi - 约束 >"
+  },
+  "< Loading Empty_old_City(english_Ver) >": {
+    "translation": "< 加载Empty_old_City(英文版) >"
+  },
+  "< Loading Empty_old_City(japanese_Ver) >": {
+    "translation": "< 加载Empty_old_City(日文版) >"
+  },
+  "< Hurry! - Behemoth's rage will destroy all of you >": {
+    "translation": "< 快点! - 贝希摩斯的怒火将毁灭所有人 >"
+  },
+  "< You did not defeat Behemoth in time >": {
+    "translation": "< 你们未能及时击败贝希摩斯 >"
+  },
+  "< Behemoth finally fell down... - Retreat! >": {
+    "translation": "< 贝希摩斯终于倒下了... - 撤退! >"
+  },
+  "< Behemoth has casted Heave Attack >": {
+    "translation": "< 贝希摩斯施放了沉重攻击 >"
+  },
+  "< Behemoth has casted Thunder Ability >": {
+    "translation": "< 贝希摩斯施放了紫电技能 >"
+  },
+  "< Behemoth has casted Wild Horn Ability >": {
+    "translation": "< 贝希摩斯施放了狂野号角 >"
+  },
+  "< Behemoth has casted Fire Attack >": {
+    "translation": "< 贝希摩斯施放了火焰攻击 >"
+  },
+  "< Behemoth has casted Ecliptic Meteor >": {
+    "translation": "< 贝希摩斯施放了黄道陨石 >"
+  },
+  "< Behemoth has casted Mega Fire Attack >": {
+    "translation": "< 贝希摩斯施放了百万火光 >"
+  },
+  "< Behemoth has casted Shock Wave >": {
+    "translation": "< 贝希摩斯施放了冲击波 >"
+  },
+  "< Behemoth is howling! >": {
+    "translation": "< 贝希摩斯正在咆哮! >"
+  },
+  "< Prepare to die >": {
+    "translation": "< 准备受死 >"
+  },
+  "< Bahamut is blocking your path - Shoot it now! >": {
+    "translation": "< 巴哈姆特挡住了去路 - 立即射击! >"
+  },
+  "< Bahamut is back - Keep Shooting! >": {
+    "translation": "< 巴哈姆特回来了 - 继续射击! >"
+  },
+  "< Ultima Weapon has casted Radiant Plumes >": {
+    "translation": "< 究极神兵施放了光辉火羽 >"
+  },
+  "< Ultima Weapon has casted Eruption >": {
+    "translation": "< 究极神兵施放了地火喷发 >"
+  },
+  "< Ultima Weapon is casting Ultima! - Dont stop firing! >": {
+    "translation": "< 究极神兵正在施放究极! - 不要停止射击! >"
+  },
+  "< Ultima Weapon has casted Poison Attack >": {
+    "translation": "< 究极神兵施放了毒气弹 >"
+  },
+  "< Ultima Weapon has casted Vulcan Burst >": {
+    "translation": "< 究极神兵施放了火神爆裂 >"
+  },
+  "< Seymour Natus has summoned Banish Ability >": {
+    "translation": "< 西摩尔召唤了放逐技能 >"
+  },
+  "< Shoot! - Dont let Odin hunt you down!!! >": {
+    "translation": "< 射击! - 别让奥丁追上你们!!! >"
+  },
+  "< Sanctuary Keeper is setenced to judge your fate! >": {
+    "translation": "< 圣地守护者将审判你们的命运! >"
+  },
+  "< Defend until the gates close >": {
+    "translation": "< 防守至大门关闭 >"
+  },
+  "< Defend until the gates open >": {
+    "translation": "< 防守至大门开启 >"
+  },
+  "< Knight is going to judge your destiny? >": {
+    "translation": "< 狼骑士将审判你们的命运? >"
+  },
+  "< Ultimate Mode has been selected >": {
+    "translation": "< 已选择终极模式 >"
+  },
+  "< Savage Mode has been selected >": {
+    "translation": "< 已选择绝境模式 >"
+  },
+  "< Hard Mode has been selected >": {
+    "translation": "< 已选择困难模式 >"
+  },
+  "< Normal Mode has been selected >": {
+    "translation": "< 已选择普通模式 >"
+  },
+  "< All Nymian Devices have been pressed >": {
+    "translation": "< 所有尼姆装置均已按下 >"
+  },
+  "< Door will open in 20 seconds >": {
+    "translation": "< 门将在20秒后开启 >"
+  },
+  "< Gates are unlocking soon! - Keep Defend >": {
+    "translation": "< 大门即将解锁! - 继续防守 >"
+  },
+  "< ze_FFXIV_Wanderers_Palace >": {
+    "translation": "< 最终幻想14:放浪古神殿 >"
+  },
+  "< Map by Dakotec & Lishang >": {
+    "translation": "< 地图作者:Dakotec和Lishang >"
+  },
+  "< Cs2 Version port by Shana >": {
+    "translation": "< CS2版本移植:Shana >"
+  },
+  "< Special thanks to 汐月雪 and Tianli for the help >": {
+    "translation": "< 特别感谢汐月雪和Tianli的帮助 >"
+  },
+  "< Hard Mode >": {
+    "translation": "< 困难模式 >"
+  },
+  "< Savage Mode >": {
+    "translation": "< 绝境模式 >"
+  },
+  "< Normal Mode >": {
+    "translation": "< 普通模式 >"
+  },
+  "< Ultimate Mode >": {
+    "translation": "< 终极模式 >"
+  },
+  "< Ultima Weapon has casted Dark Shockwave >": {
+    "translation": "< 究极神兵施放了暗黑冲击 >"
+  }
+}

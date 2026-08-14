@@ -1,0 +1,93 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only)
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Knight_HP_Counter",
+      "hitbox": "Knight_Breakable",
+      "display": "狼骑士"
+    },
+    {
+      "iterator": "KOH_HP_attack",
+      "backup": "KOH_HP_int",
+      "counter": "KOH_HP_Counter",
+      "reverse": true,
+      "hitbox": "KOH_Breakable",
+      "display": "古菩猩猩"
+    },
+    {
+      "iterator": "Behemoth_HP_attack",
+      "backup": "Behemoth_HP_int",
+      "counter": "Behemoth_HP_Counter",
+      "reverse": true,
+      "hitbox": "Behemoth_Breakable",
+      "display": "贝希摩斯"
+    },
+    {
+      "iterator": "Seymour_Natus_HP_attack",
+      "backup": "Seymour_Natus_HP_int",
+      "counter": "Seymour_Natus_HP_Counter",
+      "reverse": true,
+      "hitbox": "Seymour_Natus_Breakable",
+      "display": "西摩尔"
+    },
+    {
+      "iterator": "Mortibody_HP_Counter",
+      "hitbox": "Mortibody_Breakable",
+      "display": "幻光变异体"
+    },
+    {
+      "iterator": "Sanctuary_Keeper_HP_Counter",
+      "hitbox": "Sanctuary_Keeper_Breakable",
+      "display": "圣地守护者"
+    },
+    {
+      "iterator": "Odin_HP_Counter",
+      "hitbox": "Odin_Breakable",
+      "display": "奥丁"
+    },
+    {
+      "iterator": "Castle_Bahamut_HP_Counter",
+      "hitbox": "Castle_Bahamut_Breakable",
+      "display": "巴哈姆特"
+    },
+    {
+      "iterator": "Ultima_Weapon_HP_attack",
+      "backup": "Ultima_Weapon_HP_int",
+      "counter": "Ultima_Weapon_HP_Counter",
+      "reverse": true,
+      "hitbox": "Ultima_Weapon_Breakable",
+      "display": "究极神兵"
+    },
+    {
+      "iterator": "Final_Bahamut_HP_Counter",
+      "hitbox": "Final_Bahamut_Breakable",
+      "display": "巴哈姆特"
+    },
+    {
+      "iterator": "Garland_HP_Counter",
+      "hitbox": "Garland_Breakable",
+      "display": "加兰德"
+    }
+  ]
+}
