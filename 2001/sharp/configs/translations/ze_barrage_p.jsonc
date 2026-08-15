@@ -11,70 +11,70 @@
 
 {
   ">>ROAD SELECTION : House<<": {
-    "translation": ">>道路选择 : 房屋<<"
+    "translation": "道路选择:房屋"
   },
   ">>ROAD SELECTION : Gas Station<<": {
-    "translation": ">>道路选择 : 加油站<<"
+    "translation": "道路选择:加油站"
   },
   ">>DEFEND THE HOUSE 50s<<": {
-    "translation": ">>防守房屋 50 秒<<"
+    "translation": "防守房屋50秒"
   },
   ">>DOOR CLOSING IN 15s<<": {
-    "translation": ">>门将在 15 秒后关闭<<"
+    "translation": "门将在15秒后关闭"
   },
   ">>5s LEFT<<": {
-    "translation": ">>剩余 5 秒<<"
+    "translation": "剩余5秒"
   },
   ">>>RUN<<<": {
-    "translation": ">>> 快 跑 <<<"
+    "translation": "快跑"
   },
   ">>1ST FLOOR LOST : CLOSING IN 5s<<": {
-    "translation": ">>一楼失守 : 5 秒后关闭<<"
+    "translation": "一楼失守:5秒后关闭"
   },
   ">>ZOMBIES IN THE BEDROOM DEFEND 5s<<": {
-    "translation": ">>僵尸进入卧室 坚守 5 秒<<"
+    "translation": "僵尸进入卧室坚守5秒"
   },
   ">>DEFEND THE GAS STATION 50s<<": {
-    "translation": ">>防守加油站 50 秒<<"
+    "translation": "防守加油站50秒"
   },
   ">>ACTIVATE THE GENERATOR IN THE BARN !<<": {
-    "translation": ">>激活谷仓内的发电机 !<<"
+    "translation": "激活谷仓内的发电机!"
   },
   ">>DEFEND 30s<<": {
-    "translation": ">>坚守 30 秒<<"
+    "translation": "坚守30秒"
   },
   ">>BLOW UP THE BARRAGE WITH THE COMPUTER<<": {
-    "translation": ">>用电脑炸毁障碍物<<"
+    "translation": "用电脑炸毁障碍物"
   },
   ">>>MAP BY LeGrem<<<": {
-    "translation": ">>>地图作者: LeGrem 地图文本: 茜茜 <<<"
+    "translation": "地图作者:LeGrem 地图文本:茜茜"
   },
   ">>BYE BYE<<": {
-    "translation": ">>加纳~<<"
+    "translation": "加纳~"
   },
   ">>LADDERS BREAK<<": {
-    "translation": ">>梯子断裂<<"
+    "translation": "梯子断裂"
   },
   ">>LADDERS ACCESS OPEN<<": {
-    "translation": ">>梯子通道已开启<<"
+    "translation": "梯子通道已开启"
   },
   ">>ROOF OPEN<<": {
-    "translation": ">>屋顶开启<<"
+    "translation": "屋顶开启"
   },
   ">>EXPLOSION IN 1 MINUTE<<": {
-    "translation": ">>60 秒后爆炸<<",
+    "translation": "60秒后爆炸",
     "countdown": 60
   },
   ">>TOO MUCH CT. SECOND WAY OPEN<<": {
-    "translation": ">>CT人数过多. 已开启第二路径<<"
+    "translation": "CT人数过多.已开启第二路径"
   },
   ">>DEFEND THE BARN 45s<<": {
-    "translation": ">>保卫谷仓 45 秒<<"
+    "translation": "保卫谷仓45秒"
   },
   ">>DOORS CLOSING IN 15s<<": {
-    "translation": ">>所有门将在 15 秒后关闭<<"
+    "translation": "所有门将在15秒后关闭"
   },
   ">>DEFEND THE 2 BRIDGES<<": {
-    "translation": ">>守住两座桥梁<<"
+    "translation": "守住两座桥梁"
   }
 }
