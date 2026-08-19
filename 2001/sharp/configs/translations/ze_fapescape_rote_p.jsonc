@@ -280,7 +280,8 @@
     "translation": "*** 门很快会打开! ***"
   },
   "*** Hold this position for awhile! ***": {
-    "translation": "*** 还有25秒! ***"
+    "translation": "*** 还有25秒! ***",
+    "countdown": 25
   },
   "*** Doors open in 30 seconds ***": {
     "translation": "*** 门在30秒后打开 ***"
