@@ -140,25 +140,25 @@
     "translation": "< 很好! - 你们打断了幻光变异体的破坏攻击 >"
   },
   "< Seymour Natus has summoned Thunder Ability >": {
-    "translation": "< 西摩尔召唤了紫电技能 >"
+    "translation": "< 紫电-远离中间 >"
   },
   "< Seymour Natus has summoned Protect Spell >": {
-    "translation": "< 西摩尔施放了护盾法术 >"
+    "translation": "< 护盾-免疫伤害 >"
   },
   "< Seymour Natus has summoned Fire Meteor >": {
-    "translation": "< 西摩尔召唤了火焰陨石 >"
+    "translation": "< 火焰陨石-小心头顶 >"
   },
   "< Seymour Natus has summoned Blizzard Ability >": {
-    "translation": "< 西摩尔召唤了冰莲技能 >"
+    "translation": "< 冰莲-小心脚下 >"
   },
   "< Seymour Natus has summoned Water Ability >": {
-    "translation": "< 西摩尔召唤了水流技能 >"
+    "translation": "< 水流-全屏伤害 >"
   },
   "< Seymour Natus has summoned Lure Ability >": {
-    "translation": "< 西摩尔召唤了诱导技能 >"
+    "translation": "< 魔导光束-去中间 >"
   },
   "< Seymour Natus has summoned Wind Ability >": {
-    "translation": "< 西摩尔召唤了疾风技能 >"
+    "translation": "< 疾风-抵抗推力 >"
   },
   "< Hurry up!!! - Seymour Natus power up his abilities >": {
     "translation": "< 快点!!! - 西摩尔正在强化技能 >"
@@ -170,16 +170,16 @@
     "translation": "< 一名玩家拾取了阿尔提克 >"
   },
   "< Keeper of Halidom has used Beatdown Ability >": {
-    "translation": "< 古菩猩猩使用了猛击技能 >"
+    "translation": "< 古菩猩猩使用了拍打 >"
   },
   "< Keeper of Halidom has used Inhale Ability >": {
-    "translation": "< 古菩猩猩使用了吸入技能 >"
+    "translation": "< 古菩猩猩使用了暴风吸入 >"
   },
   "< Keeper of Halidom has used Moldy Phlegm Ability >": {
-    "translation": "< 古菩猩猩使用了霉菌痰液技能 >"
+    "translation": "< 古菩猩猩吐了一口痰 >"
   },
   "< Keeper of Halidom has used Goobbue's Grief Ability >": {
-    "translation": "< 古菩猩猩使用了悲伤技能 >"
+    "translation": "< 古菩猩猩很悲伤,小心脚底火焰 >"
   },
   "< Hurry! - You have 20 seconds left to defeat The Keeper of Halidom >": {
     "translation": "< 快点! - 你们只剩20秒击败古菩猩猩 >"
@@ -188,7 +188,7 @@
     "translation": "< 你们未能及时击败古菩猩猩 >"
   },
   "< Keeper of Halidom has used Moldy Sneeze Ability >": {
-    "translation": "< 古菩猩猩使用了霉菌喷嚏技能 >"
+    "translation": "< 古菩猩猩打了一个喷嚏 >"
   },
   "< You have failed to defeat Sanctuary Keeper... >": {
     "translation": "< 你们未能击败圣地守护者... >"
@@ -197,16 +197,16 @@
     "translation": "< 尼姆装置已激活 >"
   },
   "< Ultima Weapon has casted Eye of The Storm >": {
-    "translation": "< 究极神兵施放了风暴之眼 >"
+    "translation": "< 风暴之眼-全屏伤害 >"
   },
   "< Ultima Weapon has casted Wreckage Meteor >": {
-    "translation": "< 究极神兵施放了飞空艇坠落 >"
+    "translation": "< 飞空艇坠落-头顶火焰 >"
   },
   "< Ultima Weapon has casted Geocrush >": {
-    "translation": "< 究极神兵施放了大地粉碎 >"
+    "translation": "< 大地粉碎-远离中间 >"
   },
   "< Ultima Weapon has casted Gravity Ability >": {
-    "translation": "< 究极神兵施放了黑洞 >"
+    "translation": "< 黑洞-抵抗推力 >"
   },
   "< . . . >": {
     "translation": "< . . . >"
@@ -230,25 +230,25 @@
     "translation": "< 贝希摩斯终于倒下了... - 撤退! >"
   },
   "< Behemoth has casted Heave Attack >": {
-    "translation": "< 贝希摩斯施放了沉重攻击 >"
+    "translation": "< 沉重攻击-全屏伤害 >"
   },
   "< Behemoth has casted Thunder Ability >": {
-    "translation": "< 贝希摩斯施放了紫电技能 >"
+    "translation": "< 紫电-远离中间 >"
   },
   "< Behemoth has casted Wild Horn Ability >": {
-    "translation": "< 贝希摩斯施放了狂野号角 >"
+    "translation": "< 贝希摩斯施放了咆哮 >"
   },
   "< Behemoth has casted Fire Attack >": {
-    "translation": "< 贝希摩斯施放了火焰攻击 >"
+    "translation": "< 火焰攻击-远离内场 >"
   },
   "< Behemoth has casted Ecliptic Meteor >": {
-    "translation": "< 贝希摩斯施放了黄道陨石 >"
+    "translation": "< 黄道陨石-头顶火焰 >"
   },
   "< Behemoth has casted Mega Fire Attack >": {
-    "translation": "< 贝希摩斯施放了百万火光 >"
+    "translation": "< 百万火光-远离外场 >"
   },
   "< Behemoth has casted Shock Wave >": {
-    "translation": "< 贝希摩斯施放了冲击波 >"
+    "translation": "< 冲击波-抵抗推力 >"
   },
   "< Behemoth is howling! >": {
     "translation": "< 贝希摩斯正在咆哮! >"
@@ -263,22 +263,22 @@
     "translation": "< 巴哈姆特回来了 - 继续射击! >"
   },
   "< Ultima Weapon has casted Radiant Plumes >": {
-    "translation": "< 究极神兵施放了光辉火羽 >"
+    "translation": "< 火神爆裂 >"
   },
   "< Ultima Weapon has casted Eruption >": {
-    "translation": "< 究极神兵施放了地火喷发 >"
+    "translation": "< 地火喷发-远离中间>"
   },
   "< Ultima Weapon is casting Ultima! - Dont stop firing! >": {
     "translation": "< 究极神兵正在施放究极! - 不要停止射击! >"
   },
   "< Ultima Weapon has casted Poison Attack >": {
-    "translation": "< 究极神兵施放了毒气弹 >"
+    "translation": "< 毒气弹-注意脚底 >"
   },
   "< Ultima Weapon has casted Vulcan Burst >": {
-    "translation": "< 究极神兵施放了火神爆裂 >"
+    "translation": "< 以太波动-抵抗吸力 >"
   },
   "< Seymour Natus has summoned Banish Ability >": {
-    "translation": "< 西摩尔召唤了放逐技能 >"
+    "translation": "< 放逐-远离脚底 >"
   },
   "< Shoot! - Dont let Odin hunt you down!!! >": {
     "translation": "< 射击! - 别让奥丁追上你们!!! >"
@@ -323,7 +323,7 @@
     "translation": "< 地图作者:Dakotec和Lishang >"
   },
   "< Cs2 Version port by Shana >": {
-    "translation": "< CS2版本移植:Shana >"
+    "translation": "< CS2版本移植:Shana 翻译:小学生 >"
   },
   "< Special thanks to 汐月雪 and Tianli for the help >": {
     "translation": "< 特别感谢汐月雪和Tianli的帮助 >"
@@ -341,6 +341,6 @@
     "translation": "< 终极模式 >"
   },
   "< Ultima Weapon has casted Dark Shockwave >": {
-    "translation": "< 究极神兵施放了暗黑冲击 >"
+    "translation": "< 暗黑冲击-远离脚底 >"
   }
 }
