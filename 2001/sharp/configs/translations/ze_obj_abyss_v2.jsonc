@@ -24,7 +24,7 @@
     "translation": "有人享用了茶~"
   },
   "有人吃掉了披萨！(This pizza is not aggresive)": {
-    "translation": "有人吃掉了披萨！(This pizza is not aggresive)"
+    "translation": "有人吃掉了披萨!(This pizza is not aggresive)"
   },
   "<<< 40 秒后激光消失 >>>": {
     "translation": "<<< 40 秒后激光消失 >>>",
@@ -244,10 +244,10 @@
     "translation": "[对讲机] 很好. 出发吧, 战士们."
   },
   "[对讲机] 你们本次的行动代号是：": {
-    "translation": "[对讲机] 你们本次的行动代号是："
+    "translation": "[对讲机] 你们本次的行动代号是:"
   },
   "“破渊之剑”": {
-    "translation": "“破渊之剑”"
+    "translation": "<破渊之剑>"
   },
   "[Polaris] 是的...这里的一切都似曾相识.": {
     "translation": "[Polaris] 是的...这里的一切都似曾相识."
@@ -298,7 +298,7 @@
     "countdown": 10
   },
   "** 不好，有辆自动驾驶火车开过来了 **": {
-    "translation": "** 不好，有辆自动驾驶火车开过来了 **"
+    "translation": "** 不好,有辆自动驾驶火车开过来了 **"
   },
   "** 快躲到实验室里去！ **": {
     "translation": "** 快躲到实验室里去! **"
@@ -319,7 +319,7 @@
     "translation": "** 僵尸彩蛋已禁用 **"
   },
   "<<< 结局：深渊归寂 >>>": {
-    "translation": "<<< 结局：深渊归寂 >>>"
+    "translation": "<<< 结局:深渊归寂 >>>"
   },
   "我们此行已凶多吉少.": {
     "translation": "我们此行已凶多吉少."
@@ -365,7 +365,7 @@
     "translation": "我们的结束, 终将回到我们的开始..."
   },
   "<<< 结局：破烬之刃 >>>": {
-    "translation": "<<< 结局：破烬之刃 >>>"
+    "translation": "<<< 结局:破烬之刃 >>>"
   },
   "<<< 5 秒后关门 >>>": {
     "translation": "<<< 5 秒后关门 >>>",
@@ -380,7 +380,7 @@
   },
   "<<< 最终一战 -- 40 秒后开门 >>>": {
     "translation": "<<< 最终一战 -- 40 秒后开门 >>>",
-    "coundtown": 40
+    "countdown": 40
   },
   "重见天日的感觉真好, 我再也不想待在这个鬼地方了.": {
     "translation": "重见天日的感觉真好, 我再也不想待在这个鬼地方了."
