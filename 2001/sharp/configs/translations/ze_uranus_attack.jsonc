@@ -1,0 +1,102 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+
+{
+  "[INFO] Tractor Beam enabled in 30 sec": {
+    "translation": " [信息] 牵引光束将在30秒后启用 "
+  },
+  "[INFO] Tractor Beam enabled in 10 sec": {
+    "translation": " [信息] 牵引光束将在10秒后启用 "
+  },
+  "[INFO] Door opening in 15 sec": {
+    "translation": " [信息] 门将在15秒后开启 "
+  },
+  "[INFO] Door opening in 5 sec": {
+    "translation": " [信息] 门将在5秒后开启 "
+  },
+  "[INFO] Door opening in 20 sec": {
+    "translation": " [信息] 门将在20秒后开启 "
+  },
+  "[INFO] Ladder going down": {
+    "translation": " [信息] 梯子正在降下 "
+  },
+  "[INFO] Door openning in 10 sec": {
+    "translation": " [信息] 门将在10秒后开启 "
+  },
+  "[INFO] Explosion in 10 sec": {
+    "translation": " [信息] 10秒后发生爆炸 "
+  },
+  "[INFO] Explosion in 30 sec": {
+    "translation": " [信息] 30秒后发生爆炸 "
+  },
+  "[INFO] Explosion in 1 minute": {
+    "translation": " [信息] 1分钟后发生爆炸 "
+  },
+  "[INFO] Explosion in 2 minutes": {
+    "translation": " [信息] 2分钟后发生爆炸 "
+  },
+  "[INFO] Explosion in 3 minutes": {
+    "translation": " [信息] 3分钟后发生爆炸 "
+  },
+  "[INFO] Closing door in 10 sec": {
+    "translation": " [信息] 门将在10秒后关闭 "
+  },
+  "[INFO] Control room door openning": {
+    "translation": " [信息] 控制室门正在开启 "
+  },
+  "[INFO] Closing in 20 sec": {
+    "translation": " [信息] 将在20秒后关闭 "
+  },
+  "[INFO] Closing in 5 sec": {
+    "translation": " [信息] 将在5秒后关闭 "
+  },
+  "[INFO] Platforms enabled in 20 sec": {
+    "translation": " [信息] 平台将在20秒后启用 "
+  },
+  "[INFO] Platforms enabled in 5 sec": {
+    "translation": " [信息] 平台将在5秒后启用 "
+  },
+  "[INFO] Spaceships unlocked": {
+    "translation": " [信息] 宇宙飞船已解锁 "
+  },
+  "[INFO] Door closing in 20 sec": {
+    "translation": " [信息] 门将在20秒后关闭 "
+  },
+  "Map by Raphi": {
+    "translation": " 地图制作：Raphi 翻译@白姬 "
+  },
+  "Made for the Mapeadores Zombie Apocalypse Contest": {
+    "translation": " 为Mapeadores僵尸启示录大赛制作 "
+  },
+  "[INFO] 3rd crank has been set up": {
+    "translation": " [信息] 第三个曲柄已安装完成 "
+  },
+  "[INFO] 2nd crank has been set up": {
+    "translation": " [信息] 第二个曲柄已安装完成 "
+  },
+  "[INFO] 1st crank has been set up": {
+    "translation": " [信息] 第一个曲柄已安装完成 "
+  },
+  "[INFO] 4th crank has been set up": {
+    "translation": " [信息]第四个曲柄已安装完成 "
+  },
+  "***MARATHON MODE ACTIVATED***": {
+    "translation": " 马拉松模式已激活,走得慢就被bear狠狠厚乳 "
+  },
+  "***CHECKPOINTS REMOVED !!!***": {
+    "translation": " 检查点已移除!!! "
+  },
+  "***GOOD LUCK***": {
+    "translation": " 祝你好运 "
+  }
+}
