@@ -1,8 +1,7 @@
 // Console SayText i18n file generator.
 // i18n Version v21
-// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
-
 
   // 可用字段:
   // blocked    (bool) -> 屏蔽本句输出
@@ -73,7 +72,7 @@
     "translation": " [信息] 门将在20秒后关闭 "
   },
   "Map by Raphi": {
-    "translation": " 地图制作：Raphi 翻译@白姬 "
+    "translation": " 地图制作:Raphi 翻译@白姬 "
   },
   "Made for the Mapeadores Zombie Apocalypse Contest": {
     "translation": " 为Mapeadores僵尸启示录大赛制作 "
