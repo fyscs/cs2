@@ -34,51 +34,51 @@
   },
   "<<< Tips:Recharge item each have 60 energy,which restore 1 energy per second when not in use >>>": {
     "translation": "<<< 提示: 充能道具拥有60点能量, 未使用时每秒恢复1点能量 >>>",
-    "blocked:true"
+    "blocked":true"
   },
   "<<< Tips:When the energy is exhausted or the user uses the upper part, the recharg item's effect  will be invalid >>>": {
     "translation": "<<< 提示: 能量耗尽或使用者按下顶部按键后, 充能道具效果将会失效 >>>",
-    "blocked:true"
+    "blocked":true"
   },
   "<<< Tips:Human item 65 seconds CD, recharge item 5 seconds CD, zombie item 70 seconds CD, weather item 80 seconds CD >>>": {
     "translation": "<<< 提示: 人类道具冷却65秒, 充能道具冷却5秒, 僵尸道具冷却70秒, 天气道具冷却80秒 >>>",
-    "blocked:true"
+    "blocked":true"
   },
   "<<< Tips:The effect will disappear 4 seconds after FrozenTomb's crystal is crushed >>>": {
     "translation": "<<< 提示: 冰封之墓的水晶被击碎后, 效果会在4秒后消失 >>>",
-    "blocked:true"
+    "blocked":true"
   },
   "<<< Tips:FrozenTomb will freeze the zombies around for 9 seconds when uses the Top Button part >>>": {
     "translation": "<<< 提示: 冰封之墓按下顶部按键时, 会冻结周围僵尸9秒 >>>",
-    "blocked:true"
+    "blocked":true"
   },
   "<<< Tips:Both SunnyDoll and Rainbow can heal humans, Rainbow will also provide ammunition supplies >>>": {
     "translation": "<<< 提示: 晴天娃娃与彩虹均可治疗人类, 彩虹还会提供弹药补给 >>>",
-    "blocked:true"
+    "blocked":true"
   },
   "<<< Tips:Blizzard will form a storm after 5 seconds, freezing the zombies in the range >>>": {
     "translation": "<<< 提示: 暴风雪5秒后会生成风暴, 冻结范围内的僵尸 >>>",
-    "blocked:true"
+    "blocked":true"
   },
   "<<< Tips:Mist is poisonous, especially in the last 5 seconds >>>": {
     "translation": "<<< 提示: 迷雾含有毒性, 最后5秒毒性尤为强烈 >>>",
-    "blocked:true"
+    "blocked":true"
   },
   "<<< Tips:Weather items will only appear under certain circumstances and will lead to different endings. >>>": {
     "translation": "<<< 提示: 天气道具只会在特定条件下出现, 并会触发不同结局 >>>",
-    "blocked:true"
+    "blocked":true"
   },
   "<<< Tips:SunnyDoll will slightly block zombies >>>": {
     "translation": "<<< 提示: 晴天娃娃可以轻微推开僵尸 >>>",
-    "blocked:true"
+    "blocked":true"
   },
   "<<< Tips:Thunderbolt and all recharge item can cause damage to boss >>>": {
     "translation": "<<< 提示: 雷霆以及全部充能道具均可对BOSS造成伤害 >>>",
-    "blocked:true"
+    "blocked":true"
   },
   "<<< The journey begins, hope you can enjoy >>>": {
     "translation": "<<< 旅程就此开启, 祝你游玩愉快 >>>",
-    "blocked:true"
+    "blocked":true"
   },
   "<<< The sky has taken Amano Hina, let's bring her back! >>>": {
     "translation": "<<< 天空带走了天野阳菜, 让我们把她带回来! >>>"
@@ -190,60 +190,60 @@
   },
   "<< Effect: Clear Zombies In The Range Immediately After 20 Second >>": {
     "translation": "<< 效果: 20秒后立即清除范围内所有僵尸 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Duration: 8 Second >>": {
     "translation": "<< 持续时间: 8秒 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Cold Down: Once Only >>": {
     "translation": "<< 冷却: 仅可使用一次 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< FrozenTomb Was Picked UP >>": {
     "translation": "<< 拾取到冰封陵墓 >>"
   },
   "<< Effect: Launch Tomb And Freeze The Surrounding Zombies After Encountering Zombie >>": {
     "translation": "<< 效果: 释放冰墓, 接触僵尸后冻结周围僵尸 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Duration: 7 Second >>": {
     "translation": "<< 持续时间: 7秒 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Cold Down: 65 Second >>": {
     "translation": "<< 冷却时间: 65秒 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Tips: Use Top Button To Trigger From Itself, Freezing Surrounding Zombies For 9 Second, Only User Can Break Crystal >>": {
     "translation": "<< 提示: 按下顶部按键原地触发, 冻结周围僵尸9秒, 只有使用者可以击碎水晶 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Arashi Was Picked UP >>": {
     "translation": "<< 拾取到岚 >>"
   },
   "<< Effect: Push Away The Zombies In A Circle >>": {
     "translation": "<< 效果: 环形推开范围内僵尸 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< RainBow Was Picked UP >>": {
     "translation": "<< 拾取到彩虹 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Effect: The Humans In The Range Are Restored To 200 Health And Are Provided With Unlimited Ammo >>": {
     "translation": "<< 效果: 将范围内人类生命值恢复至200, 并提供无限弹药 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Tips: The Last 5 Second Of Mist Will Prevent Humans From Recovering Health >>": {
     "translation": "<< 提示: 迷雾的最后5秒会使人类无法恢复生命值 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< ScorchingSun Was Picked UP >>": {
     "translation": "<< 拾取到烈阳 >>"
   },
   "<< Effect: Burn And Slow Down Zombies In Range >>": {
     "translation": "<< 效果: 灼烧并减速范围内僵尸 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Consume: 8 Energy Per Second >>": {
     "translation": "<< 消耗: 每秒8点能量 >>",
@@ -251,7 +251,7 @@
   },
   "<< Cold Down: 5 Second >>": {
     "translation": "<< 冷却时间: 5秒 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Blizzard Was Picked UP >>": {
     "translation": "<< 拾取到暴风雪 >>"
@@ -262,26 +262,26 @@
   },
   "<< Consume: 3/7 Energy Per Second >>": {
     "translation": "<< 消耗: 每秒3/7点能量 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< IceWorld Was Picked UP >>": {
     "translation": "<< 拾取到冰雪世界 >>"
   },
   "<< Effect: Change The Movement Of Everyone, Refresh CDd Of FrostEddy, Clear The Effect Of ScorchingSun >>": {
     "translation": "<< 效果: 改变所有人移动状态, 刷新凛涡冷却, 清除烈阳效果 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Duration: 20 Second >>": {
     "translation": "<< 持续时间: 20秒 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Cold Down: 80 Second >>": {
     "translation": "<< 冷却时间: 80秒 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Tips: SunnyDoll Can Clear Movement Effect. After Being Cleared By SunnyDoll, Using Iceworld Will Enter CD But No Effect >>": {
     "translation": "<< 提示: 晴天娃娃可以清除移动异常效果; 被晴天娃娃清除后, 释放冰雪世界只会进入冷却但不会产生效果 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<<< Ice And Snow Are Eroding The World >>>": {
     "translation": "<<< 冰雪正在侵蚀这个世界 >>>"
@@ -291,37 +291,37 @@
   },
   "<< Effect: Slow Down The Surrounding Humans And Absorb Them In 1 Second >>": {
     "translation": "<< 效果: 减速周围人类, 1秒后将其吞噬 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Duration: 3 Second >>": {
     "translation": "<< 持续时间: 3秒 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Cold Down: 70 Second >>": {
     "translation": "<< 冷却时间: 70秒 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Thunder Was Picked UP >>": {
     "translation": "<< 拾取到惊雷 >>"
   },
   "<< Effect: Kill Humans Around Immediately >>": {
     "translation": "<< 效果: 立刻击杀周围人类 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Duration: 0.5 Second >>": {
     "translation": "<< 持续时间: 0.5秒 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Doomsday Was Picked UP >>": {
     "translation": "<< 拾取到末日 >>"
   },
   "<< Effect: After Slowing Down For 3 Second, Sprint Forward And Burn Surrounding Humans >>": {
     "translation": "<< 效果: 自身减速3秒后向前猛冲, 灼烧周围人类 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Duration: 10 Second >>": {
     "translation": "<< 持续时间: 10秒 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Tips: Fireworld Will Greatly Increase The Damage Of DoomsDay >>": {
     "translation": "<< 提示: 炎之世界会大幅提升末日的伤害 >>",
@@ -336,7 +336,7 @@
   },
   "<< Consume: 5 Energy Per Second >>": {
     "translation": "<< 消耗: 每秒5点能量 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Tips: SunnyDoll Will Clear The Weather Effect After 5 Second >>": {
     "translation": "<< 提示: 晴天娃娃将在5秒后清除天气效果 >>",
@@ -350,15 +350,15 @@
   },
   "<< Effect: Release Toxic Mist To Block Human Sight, Damage Increases After 10 Second >>": {
     "translation": "<< 效果: 释放毒雾遮蔽人类视野, 10秒后伤害提升 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Duration: 15 Second >>": {
     "translation": "<< 持续时间: 15秒 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<< Tips: Humans Injured After Damage Is Increased Will Not Be Able To Restore Health Through Rainbow >>": {
     "translation": "<< 提示: 受到增伤后伤害的人类, 无法通过彩虹恢复生命值 >>",
-    "blocked:true"
+    "blocked":true"
   },
   "<<< The fire is burning the world >>>": {
     "translation": "<<< 烈火正在焚烧这个世界 >>>"
