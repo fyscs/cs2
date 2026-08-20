@@ -70,7 +70,7 @@
   },
   "<<< Tips:SunnyDoll will slightly block zombies >>>": {
     "translation": "<<< 提示: 晴天娃娃可以轻微推开僵尸 >>>",
-    "blocked":true"
+    "blocked": true
   },
   "<<< Tips:Thunderbolt and all recharge item can cause damage to boss >>>": {
     "translation": "<<< 提示: 雷霆以及全部充能道具均可对BOSS造成伤害 >>>",
@@ -209,7 +209,7 @@
   },
   "<< Duration: 7 Second >>": {
     "translation": "<< 持续时间: 7秒 >>",
-    "blocked":true"
+    "blocked": true
   },
   "<< Cold Down: 65 Second >>": {
     "translation": "<< 冷却时间: 65秒 >>",
