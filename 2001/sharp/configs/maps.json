@@ -797,7 +797,7 @@
     "cooldown": 140,
     "nomination": true,
     "price": 400,
-    "requiredOnline": 300,
+    "requiredOnline": 600,
     "requiredPlayers": 40
   },
   "ze_celestial_ops": {
