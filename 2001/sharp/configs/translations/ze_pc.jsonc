@@ -1,0 +1,116 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+
+{
+  ">>> Defend 25 sec <<<": {
+    "translation": " 坚守25秒 "
+  },
+  ">>> Fall Back <<<": {
+    "translation": " 撤退 "
+  },
+  ">>> Defend <<<": {
+    "translation": " 进行坚守 "
+  },
+  ">>> Defend 20 sec <<<": {
+    "translation": " 坚守20秒 "
+  },
+  ">>> Go destroy the CPU <<<": {
+    "translation": " 前去摧毁中央处理器 "
+  },
+  ">>> 10 sec <<<": {
+    "translation": " 10秒 "
+  },
+  ">>> Still Defend 5 sec <<<": {
+    "translation": " 继续坚守5秒 "
+  },
+  ">>> Special Thanks to Cuniczek <<<": {
+    "translation": " 特别感谢 Cuniczek "
+  },
+  ">>> Map made by Puklica <<<": {
+    "translation": " 地图由 Puklica 制作 "
+  },
+  ">>> You have won the map! Congratulations! <<<": {
+    "translation": " 你通关了这张地图! 恭喜! "
+  },
+  ">>> CPU is broken! <<<": {
+    "translation": " 中央处理器已被摧毁! "
+  },
+  ">>> PC restart: 65 sec <<<": {
+    "translation": " 电脑重启: 65秒 "
+  },
+  ">>> PC restart: 69 sec <<<": {
+    "translation": " 电脑重启: 69秒 "
+  },
+  ">>> PC restart: 40 sec <<<": {
+    "translation": " 电脑重启: 40秒 "
+  },
+  ">>> PC restart: 50 sec <<<": {
+    "translation": " 电脑重启: 50秒 "
+  },
+  ">>> PC restart: 60 sec <<<": {
+    "translation": " 电脑重启: 60秒 "
+  },
+  ">>> PC restart: 30 sec <<<": {
+    "translation": " 电脑重启: 30秒 "
+  },
+  ">>> PC restart: 20 sec <<<": {
+    "translation": " 电脑重启: 20秒 "
+  },
+  ">>> PC restart: 15 sec <<<": {
+    "translation": " 电脑重启: 15秒 "
+  },
+  ">>> PC restart: 10 sec <<<": {
+    "translation": " 电脑重启: 10秒 "
+  },
+  ">>> Restart failed. Another restart attempt in 41 sec <<<": {
+    "translation": " 重启失败.将在41秒后再次尝试重启 "
+  },
+  ">>> PC restart: 25 sec <<<": {
+    "translation": " 电脑重启: 25秒 "
+  },
+  ">>> PC restart: 35 sec <<<": {
+    "translation": " 电脑重启: 35秒 "
+  },
+  ">>> PC restart: 41 sec <<<": {
+    "translation": " 电脑重启: 41秒 "
+  },
+  ">>> Shoot the fan blades <<<": {
+    "translation": " 射击风扇叶片 "
+  },
+  ">>> Defend 30 sec <<<": {
+    "translation": " 坚守30秒 "
+  },
+  ">>> FAN is broken! <<<": {
+    "translation": " 风扇已被摧毁! "
+  },
+  ">>> Defend 15 sec <<<": {
+    "translation": " 坚守15秒 "
+  },
+  ">>> The computer overheats <<<": {
+    "translation": " 电脑正在过热 "
+  },
+  ">>> ALU Boss <<<": {
+    "translation": " 算术逻辑单元首领 "
+  },
+  ">>> Humans have to avoid standing on wires that will be activated <<<": {
+    "translation": " 人类玩家需要避开即将被激活的线路 "
+  },
+  ">>> Activated wires are a result of the selected mathematical operation in binary representation <<<": {
+    "translation": " 被激活的线路由所选数学运算的二进制运算结果决定 "
+  },
+  ">>> Zombies can select input numbers by standing on corresponding wires in DECODE phase <<<": {
+    "translation": " 僵尸可以在解码阶段站到对应线路上来选择输入数值 "
+  },
+  ">>> Humans have to calculate which wires will be activated in EXECUTE phase <<<": {
+    "translation": " 人类玩家需要计算出执行阶段哪些线路将会被激活 "
+  }
+}
