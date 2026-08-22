@@ -1,0 +1,368 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+{
+  "<<< stage Amano Hina >>>": {
+    "translation": "<<< 场景 天野阳菜 >>>"
+  },
+  "<<< stage Overcast >>>": {
+    "translation": "<<< 场景 阴云密布 >>>"
+  },
+  "<<< stage WeatherRage >>>": {
+    "translation": "<<< 场景 天气之怒 >>>"
+  },
+  "<<< The elevator will descend in 20 sec >>>": {
+    "translation": "电梯将在20秒后下降"
+  },
+  "<<< The elevator will descend in 25 sec >>>": {
+    "translation": "电梯将在25秒后下降"
+  },
+  "<<< The elevator will descend in 30 sec >>>": {
+    "translation": "电梯将在30秒后下降"
+  },
+  "<Map by lopb>": {
+    "translation": "<地图制作:lopb>&翻译:立华游理"
+  },
+  "<<< Warmup >>>": {
+    "translation": "<<< 热身阶段 >>>"
+  },
+  "<<< Tips:Recharge item each have 60 energy,which restore 1 energy per second when not in use >>>": {
+    "translation": "<<< 提示: 充能道具拥有60点能量, 未使用时每秒恢复1点能量 >>>",
+    "blocked": true
+  },
+  "<<< Tips:When the energy is exhausted or the user uses the upper part, the recharg item's effect  will be invalid >>>": {
+    "translation": "<<< 提示: 能量耗尽或使用者按下顶部按键后, 充能道具效果将会失效 >>>",
+    "blocked": true
+  },
+  "<<< Tips:Human item 65 seconds CD, recharge item 5 seconds CD, zombie item 70 seconds CD, weather item 80 seconds CD >>>": {
+    "translation": "<<< 提示: 人类道具冷却65秒, 充能道具冷却5秒, 僵尸道具冷却70秒, 天气道具冷却80秒 >>>",
+    "blocked": true
+  },
+  "<<< Tips:The effect will disappear 4 seconds after FrozenTomb's crystal is crushed >>>": {
+    "translation": "<<< 提示: 冰封之墓的水晶被击碎后, 效果会在4秒后消失 >>>",
+    "blocked": true
+  },
+  "<<< Tips:FrozenTomb will freeze the zombies around for 9 seconds when uses the Top Button part >>>": {
+    "translation": "<<< 提示: 冰封之墓按下顶部按键时, 会冻结周围僵尸9秒 >>>",
+    "blocked": true
+  },
+  "<<< Tips:Both SunnyDoll and Rainbow can heal humans, Rainbow will also provide ammunition supplies >>>": {
+    "translation": "<<< 提示: 晴天娃娃与彩虹均可治疗人类, 彩虹还会提供弹药补给 >>>",
+    "blocked": true
+  },
+  "<<< Tips:Blizzard will form a storm after 5 seconds, freezing the zombies in the range >>>": {
+    "translation": "<<< 提示: 暴风雪5秒后会生成风暴, 冻结范围内的僵尸 >>>",
+    "blocked": true
+  },
+  "<<< Tips:Mist is poisonous, especially in the last 5 seconds >>>": {
+    "translation": "<<< 提示: 迷雾含有毒性, 最后5秒毒性尤为强烈 >>>",
+    "blocked": true
+  },
+  "<<< Tips:Weather items will only appear under certain circumstances and will lead to different endings. >>>": {
+    "translation": "<<< 提示: 天气道具只会在特定条件下出现, 并会触发不同结局 >>>",
+    "blocked": true
+  },
+  "<<< Tips:SunnyDoll will slightly block zombies >>>": {
+    "translation": "<<< 提示: 晴天娃娃可以轻微推开僵尸 >>>",
+    "blocked": true
+  },
+  "<<< Tips:Thunderbolt and all recharge item can cause damage to boss >>>": {
+    "translation": "<<< 提示: 雷霆以及全部充能道具均可对BOSS造成伤害 >>>",
+    "blocked": true
+  },
+  "<<< The journey begins, hope you can enjoy >>>": {
+    "translation": "<<< 旅程就此开启, 祝你游玩愉快 >>>",
+    "blocked": true
+  },
+  "<<< The sky has taken Amano Hina, let's bring her back! >>>": {
+    "translation": "<<< 天空带走了天野阳菜, 让我们把她带回来! >>>"
+  },
+  "<<< Amano Hina is no longer Sunny girl, her weather power is scattered everywhere, and the sky will no longer be clear >>>": {
+    "translation": "<<< 天野阳菜不再是晴女, 她的天气之力四散各处, 天空再也无法放晴 >>>"
+  },
+  "<<< The weather is angry at losing the sunny girl, maybe we can replace Amano Hina to make the weather sunny again >>>": {
+    "translation": "<<< 失去晴女, 天气为之震怒, 或许我们可以代替天野阳菜, 让天空重归晴朗 >>>"
+  },
+  "<<< 210 seconds left >>>": {
+    "translation": "剩余210秒"
+  },
+  "<<< stage LeisureTime >>>": {
+    "translation": "<<< 场景 休憩时刻 >>>"
+  },
+  "<<< The road will be cleared in 20 sec >>>": {
+    "translation": "道路将在20秒后开启"
+  },
+  "<<< The door of Yoyogi will open in 5 seconds >>>": {
+    "translation": "代代木之门将在5秒后开启"
+  },
+  "<<< ladder open in 10 sec >>>": {
+    "translation": "梯子将在10秒后放下"
+  },
+  "<<< We will [cross] the altar to the clouds in 25 sec >>>": {
+    "translation": "25秒后我们将穿过祭坛前往云之彼端"
+  },
+  "<<<[Morishima Hodaka] Is that ... fish ? ... Uhahahahahahah ... >>>": {
+    "translation": "<<<[森岛帆高]那是..鱼吗?..啊哈哈哈哈哈哈.. >>>"
+  },
+  "<<<[Morishima Hodaka] You don't have to be sunny again! >>>": {
+    "translation": "<<<[森岛帆高]不需要再祈求放晴了! >>>"
+  },
+  "<<<[Morishima Hodaka] Hina is better for me than blue sky! >>>": {
+    "translation": "<<<[森岛帆高]对我来说, 阳菜比这片蓝天更加重要! >>>"
+  },
+  "<<<[Morishima Hodaka] It's okay for the weather to stay crazy! >>>": {
+    "translation": "<<<[森岛帆高]就算天气一直这样糟糕也没关系! >>>"
+  },
+  "<<< Amano Hina will clear all zombies after 30 seconds >>>": {
+    "translation": "30秒后天野阳菜将会清除全部僵尸"
+  },
+  "<<< In another 30 seconds, we will return to the human world with Amano Hina >>>": {
+    "translation": "再过30秒, 我们将带着天野阳菜回到现世"
+  },
+  "<<< People are detected on the subway, emergency access open >>>": {
+    "translation": "<<< 检测到地铁内有人, 紧急通道已开启 >>>"
+  },
+  "<<< The road will be cleared in 25 sec >>>": {
+    "translation": "道路将在25秒后开启"
+  },
+  "<<< The road will be cleared in 30 sec >>>": {
+    "translation": "道路将在30秒后开启"
+  },
+  "<<< The door of Yoyogi will open in 10 seconds >>>": {
+    "translation": "代代木之门将在10秒后开启"
+  },
+  "<<< The door of the stairs will open in 10 seconds >>>": {
+    "translation": "楼梯门将在10秒后开启"
+  },
+  "<<< ladder open in 5 sec >>>": {
+    "translation": "梯子将在5秒后放下"
+  },
+  "<<< We will [cross] the altar to the clouds in 30 sec >>>": {
+    "translation": "30秒后我们将穿过祭坛前往云之彼端"
+  },
+  "<<< We will [cross] the altar to the clouds in 35 sec >>>": {
+    "translation": "35秒后我们将穿过祭坛前往云之彼端"
+  },
+  "<<< The way to leave the welkin will open in 30 seconds >>>": {
+    "translation": "离开天穹的通路将在30秒后开启"
+  },
+  "<<< zombie teleported in 5 secs >>>": {
+    "translation": "僵尸将在5秒后传送"
+  },
+  "<<< Run! Get out of here! >>>": {
+    "translation": "<<< 快跑! 快离开这里! >>>"
+  },
+  "<<< This will be the final trial! [30 sec] >>>": {
+    "translation": "30秒后面临最后的考验!"
+  },
+  "<<< Jump off the welkin in 15 seconds >>>": {
+    "translation": "15秒后跳下天穹"
+  },
+  "<<< Feel the rage of the weather! Die! insect! >>>": {
+    "translation": "<<< 感受天气的怒火吧! 去死吧, 蝼蚁! >>>"
+  },
+  "<<< Jump >>>": {
+    "translation": "<<< 跳下去 >>>"
+  },
+  "<<< Stage Competition >>>": {
+    "translation": "<<< 场景 决战 >>>"
+  },
+  "<<< Morishima Hodaka Picked UP The Pistol >>>": {
+    "translation": "<<< 森岛帆高捡起了手枪 >>>"
+  },
+  "<<< The stairs in the building are blocked. Fight for 15 seconds. Let's find another way >>>": {
+    "translation": "楼内楼梯被封堵,坚守15秒,我们另寻出路"
+  },
+  "<<<[Morishima Hodaka] Why hinder me! You know everything, but you all pretend not to know! I just wanted to... see that person again! >>>": {
+    "translation": "<<<[森岛帆高]为什么要阻拦我! 你们明明全都知晓, 却装作一无所知! 我只是想要..再见她一面! >>>"
+  },
+  "<<< The stairs in the building are blocked. Fight for 30 seconds. Let's find another way >>>": {
+    "translation": "楼内楼梯被封堵,坚守30秒,我们另寻出路"
+  },
+  "<< ThunderBolt Was Picked UP >>": {
+    "translation": "<< 拾取到雷霆 >>"
+  },
+  "<< Effect: Clear Zombies In The Range Immediately After 20 Second >>": {
+    "translation": "<< 效果: 20秒后立即清除范围内所有僵尸 >>",
+    "blocked": true
+  },
+  "<< Duration: 8 Second >>": {
+    "translation": "<< 持续时间: 8秒 >>",
+    "blocked": true
+  },
+  "<< Cold Down: Once Only >>": {
+    "translation": "<< 冷却: 仅可使用一次 >>",
+    "blocked": true
+  },
+  "<< FrozenTomb Was Picked UP >>": {
+    "translation": "<< 拾取到冰封陵墓 >>"
+  },
+  "<< Effect: Launch Tomb And Freeze The Surrounding Zombies After Encountering Zombie >>": {
+    "translation": "<< 效果: 释放冰墓, 接触僵尸后冻结周围僵尸 >>",
+    "blocked": true
+  },
+  "<< Duration: 7 Second >>": {
+    "translation": "<< 持续时间: 7秒 >>",
+    "blocked": true
+  },
+  "<< Cold Down: 65 Second >>": {
+    "translation": "<< 冷却时间: 65秒 >>",
+    "blocked": true
+  },
+  "<< Tips: Use Top Button To Trigger From Itself, Freezing Surrounding Zombies For 9 Second, Only User Can Break Crystal >>": {
+    "translation": "<< 提示: 按下顶部按键原地触发, 冻结周围僵尸9秒, 只有使用者可以击碎水晶 >>",
+    "blocked": true
+  },
+  "<< Arashi Was Picked UP >>": {
+    "translation": "<< 拾取到岚 >>"
+  },
+  "<< Effect: Push Away The Zombies In A Circle >>": {
+    "translation": "<< 效果: 环形推开范围内僵尸 >>",
+    "blocked": true
+  },
+  "<< RainBow Was Picked UP >>": {
+    "translation": "<< 拾取到彩虹 >>",
+    "blocked": true
+  },
+  "<< Effect: The Humans In The Range Are Restored To 200 Health And Are Provided With Unlimited Ammo >>": {
+    "translation": "<< 效果: 将范围内人类生命值恢复至200, 并提供无限弹药 >>",
+    "blocked": true
+  },
+  "<< Tips: The Last 5 Second Of Mist Will Prevent Humans From Recovering Health >>": {
+    "translation": "<< 提示: 迷雾的最后5秒会使人类无法恢复生命值 >>",
+    "blocked": true
+  },
+  "<< ScorchingSun Was Picked UP >>": {
+    "translation": "<< 拾取到烈阳 >>"
+  },
+  "<< Effect: Burn And Slow Down Zombies In Range >>": {
+    "translation": "<< 效果: 灼烧并减速范围内僵尸 >>",
+    "blocked": true
+  },
+  "<< Consume: 8 Energy Per Second >>": {
+    "translation": "<< 消耗: 每秒8点能量 >>",
+    "blocked": true
+  },
+  "<< Cold Down: 5 Second >>": {
+    "translation": "<< 冷却时间: 5秒 >>",
+    "blocked": true
+  },
+  "<< Blizzard Was Picked UP >>": {
+    "translation": "<< 拾取到暴风雪 >>"
+  },
+  "<< Effect: Slow Zombies In Range, Effect Becomes Frozen After 5 Second >>": {
+    "translation": "<< 效果: 减速范围内僵尸, 5秒后转为冻结效果 >>",
+    "blocked": true
+  },
+  "<< Consume: 3/7 Energy Per Second >>": {
+    "translation": "<< 消耗: 每秒3/7点能量 >>",
+    "blocked": true
+  },
+  "<< IceWorld Was Picked UP >>": {
+    "translation": "<< 拾取到冰雪世界 >>"
+  },
+  "<< Effect: Change The Movement Of Everyone, Refresh CDd Of FrostEddy, Clear The Effect Of ScorchingSun >>": {
+    "translation": "<< 效果: 改变所有人移动状态, 刷新凛涡冷却, 清除烈阳效果 >>",
+    "blocked": true
+  },
+  "<< Duration: 20 Second >>": {
+    "translation": "<< 持续时间: 20秒 >>",
+    "blocked": true
+  },
+  "<< Cold Down: 80 Second >>": {
+    "translation": "<< 冷却时间: 80秒 >>",
+    "blocked": true
+  },
+  "<< Tips: SunnyDoll Can Clear Movement Effect. After Being Cleared By SunnyDoll, Using Iceworld Will Enter CD But No Effect >>": {
+    "translation": "<< 提示: 晴天娃娃可以清除移动异常效果; 被晴天娃娃清除后, 释放冰雪世界只会进入冷却但不会产生效果 >>",
+    "blocked": true
+  },
+  "<<< Ice And Snow Are Eroding The World >>>": {
+    "translation": "<<< 冰雪正在侵蚀这个世界 >>>"
+  },
+  "<< Frost Was Picked UP >>": {
+    "translation": "<< 拾取到寒霜 >>"
+  },
+  "<< Effect: Slow Down The Surrounding Humans And Absorb Them In 1 Second >>": {
+    "translation": "<< 效果: 减速周围人类, 1秒后将其吞噬 >>",
+    "blocked": true
+  },
+  "<< Duration: 3 Second >>": {
+    "translation": "<< 持续时间: 3秒 >>",
+    "blocked": true
+  },
+  "<< Cold Down: 70 Second >>": {
+    "translation": "<< 冷却时间: 70秒 >>",
+    "blocked": true
+  },
+  "<< Thunder Was Picked UP >>": {
+    "translation": "<< 拾取到惊雷 >>"
+  },
+  "<< Effect: Kill Humans Around Immediately >>": {
+    "translation": "<< 效果: 立刻击杀周围人类 >>",
+    "blocked": true
+  },
+  "<< Duration: 0.5 Second >>": {
+    "translation": "<< 持续时间: 0.5秒 >>",
+    "blocked": true
+  },
+  "<< Doomsday Was Picked UP >>": {
+    "translation": "<< 拾取到末日 >>"
+  },
+  "<< Effect: After Slowing Down For 3 Second, Sprint Forward And Burn Surrounding Humans >>": {
+    "translation": "<< 效果: 自身减速3秒后向前猛冲, 灼烧周围人类 >>",
+    "blocked": true
+  },
+  "<< Duration: 10 Second >>": {
+    "translation": "<< 持续时间: 10秒 >>",
+    "blocked": true
+  },
+  "<< Tips: Fireworld Will Greatly Increase The Damage Of DoomsDay >>": {
+    "translation": "<< 提示: 炎之世界会大幅提升末日的伤害 >>"
+  },
+  "<< SunnyDoll Was Picked UP >>": {
+    "translation": "<< 拾取到晴天娃娃 >>"
+  },
+  "<< Effect: Slightly Push Away The Approaching Zombies And Heal The Humans In Range >>": {
+    "translation": "<< 效果: 轻微推开靠近的僵尸并治疗范围内人类 >>",
+    "blocked": true
+  },
+  "<< Consume: 5 Energy Per Second >>": {
+    "translation": "<< 消耗: 每秒5点能量 >>",
+    "blocked": true
+  },
+  "<< Tips: SunnyDoll Will Clear The Weather Effect After 5 Second >>": {
+    "translation": "<< 提示: 晴天娃娃将在5秒后清除天气效果 >>",
+    "blocked": true
+  },
+  "<<< SunnyDoll is clearing the weather effect >>>": {
+    "translation": "<<< 晴天娃娃正在清除天气效果 >>>"
+  },
+  "<< Mist Was Picked UP >>": {
+    "translation": "<< 拾取到毒雾 >>"
+  },
+  "<< Effect: Release Toxic Mist To Block Human Sight, Damage Increases After 10 Second >>": {
+    "translation": "<< 效果: 释放毒雾遮蔽人类视野, 10秒后伤害提升 >>",
+    "blocked": true
+  },
+  "<< Duration: 15 Second >>": {
+    "translation": "<< 持续时间: 15秒 >>",
+    "blocked": true
+  },
+  "<< Tips: Humans Injured After Damage Is Increased Will Not Be Able To Restore Health Through Rainbow >>": {
+    "translation": "<< 提示: 受到增伤后伤害的人类, 无法通过彩虹恢复生命值 >>",
+    "blocked": true
+  },
+  "<<< The fire is burning the world >>>": {
+    "translation": "<<< 烈火正在焚烧这个世界 >>>"
+  },
+  "<<< Fireworld was picked up >>>": {
+    "translation": "<<< 拾取到炎之世界 >>>"
+  }
+}
