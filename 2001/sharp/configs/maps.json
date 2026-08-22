@@ -3212,6 +3212,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 20
   },
+"ze_minecraft_manor_panic": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_minecraft_p": {
     "admin": false,
     "certainTimes": [-1],
