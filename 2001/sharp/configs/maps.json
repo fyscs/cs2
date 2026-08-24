@@ -4261,9 +4261,9 @@
     "certainTimes": [-1],
     "cooldown": 80,
     "nomination": true,
-    "price": 500,
+    "price": 400,
     "requiredOnline": -1,
-    "requiredPlayers": 40
+    "requiredPlayers": -1
   },
   "ze_por_island_p": {
     "admin": false,
