@@ -11,37 +11,37 @@
   // econDamage (int)   -> 伤害结算龙晶比例
   // econIntern (float) -> 低保龙晶比例 (每分钟)
 
-  {
-    "1": {
-      "rankPasses": 10,
-      "rankDamage": 10000,
-      "rankIntern": 0.5,
-      "econPasses": 8,
-      "econDamage": 12000,
-      "econIntern": 0.4
-    },
-    "2": {
-      "rankPasses": 10,
-      "rankDamage": 10000,
-      "rankIntern": 0.5,
-      "econPasses": 8,
-      "econDamage": 12000,
-      "econIntern": 0.4
-    },
-    "3": {
-      "rankPasses": 15,
-      "rankDamage": 12000,
-      "rankIntern": 0.5,
-      "econPasses": 12,
-      "econDamage": 15000,
-      "econIntern": 0.4
-    },
-    "4": {
-      "rankPasses": 15,
-      "rankDamage": 12000,
-      "rankIntern": 0.5,
-      "econPasses": 12,
-      "econDamage": 15000,
-      "econIntern": 0.4
+{
+  "1": {
+    "rankPasses": 12,
+    "rankDamage": 12000,
+    "rankIntern": 0.4,
+    "econPasses": 10,
+    "econDamage": 14000,
+    "econIntern": 0.38
+  },
+  "2": {
+    "rankPasses": 12,
+    "rankDamage": 12000,
+    "rankIntern": 0.42,
+    "econPasses": 10,
+    "econDamage": 14000,
+    "econIntern": 0.38
+  },
+  "3": {
+    "rankPasses": 15,
+    "rankDamage": 13000,
+    "rankIntern": 0.42,
+    "econPasses": 12,
+    "econDamage": 15000,
+    "econIntern": 0.38
+  },
+  "4": {
+    "rankPasses": 15,
+    "rankDamage": 13000,
+    "rankIntern": 0.42,
+    "econPasses": 6,
+    "econDamage": 15000,
+    "econIntern": 0.38
     }
   }
