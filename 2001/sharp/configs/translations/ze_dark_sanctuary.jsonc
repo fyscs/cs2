@@ -15,7 +15,7 @@
   },
   "还需要25秒": {
     "translation": "还需要25秒",
-    "countdown":25
+    "countdown": 25
   },
   "去寻求魔女的帮助,鉴定一下带回来的水晶": {
     "translation": "去寻求魔女的帮助,鉴定一下带回来的水晶"
@@ -34,7 +34,7 @@
   },
   "还需要10秒": {
     "translation": "还需要10秒",
-    "countdown":10
+    "countdown": 10
   },
   "看来这条路废弃了很久了": {
     "translation": "看来这条路废弃了很久了"
@@ -86,7 +86,7 @@
   },
   "还需10秒": {
     "translation": "还需10秒",
-    "countdown":10
+    "countdown": 10
   },
   "快把路障弄开": {
     "translation": "快把路障弄开"
@@ -135,7 +135,7 @@
   },
   "还需60秒": {
     "translation": "还需60秒",
-    "countdown":60
+    "countdown": 60
   },
   "大门打不开.看来得找别的路了": {
     "translation": "大门打不开.看来得找别的路了"
@@ -160,7 +160,7 @@
   },
   "还需要15秒": {
     "translation": "还需要15秒",
-    "countdown":15
+    "countdown": 15
   },
   "准备走了": {
     "translation": "准备走了"
@@ -173,7 +173,7 @@
   },
   "还需15秒": {
     "translation": "还需15秒",
-    "countdown":15
+    "countdown": 15
   },
   "把墙体破坏掉吧": {
     "translation": "把墙体破坏掉吧"
@@ -183,9 +183,6 @@
   },
   "想办法给他弄开.": {
     "translation": "想办法给他弄开."
-  },
-  "没路了？这个墙体根本破坏不了。": {
-    "translation": "没路了？这个墙体根本破坏不了。"
   },
   "这好像有个门,打开他": {
     "translation": "这好像有个门,打开他"
@@ -199,20 +196,20 @@
   "好像有什么声音": {
     "translation": "好像有什么声音"
   },
-  "恩,试着打开这个门": {
+  "恩,试着打开这个门": { 
     "translation": "恩,试着打开这个门"
   },
-  "还需要20秒": {
+  "还需要20秒": { 
     "translation": "还需要20秒",
-    "countdown":20
+    "countdown": 20
   },
   ">>>10<<<": {
     "translation": "10",
-    "countdown":10
+    "countdown": 10
   },
   "还需要30秒": {
     "translation": "还需要30秒",
-    "countdown":30
+    "countdown": 30
   },
   "烈焰狂奔": {
     "translation": "烈焰狂奔"
