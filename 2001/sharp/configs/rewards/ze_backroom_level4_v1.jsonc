@@ -14,10 +14,10 @@
 {
   "1": {
     "rankPasses": 8,
-    "rankDamage": 38000,
+    "rankDamage": 42000,
     "rankIntern": 0.4,
     "econPasses": 4,
-    "econDamage": 40000,
+    "econDamage": 50000,
     "econIntern": 0.2
   }
 }
