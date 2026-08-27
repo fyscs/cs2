@@ -1,0 +1,424 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "> It's time to leave here now.": {
+    "translation": "> 现在该离开这里了."
+  },
+  "[ Chaos ] -> Like lambs to the slaughter!": {
+    "translation": "[ 卡奥斯 ] -> 如待宰的羔羊!"
+  },
+  "[ Chaos ] -> I thirst for carnage.": {
+    "translation": "[ 卡奥斯 ] -> 我渴望杀戮."
+  },
+  "[ Chaos ] -> Show me power befitting your station.": {
+    "translation": "[ 卡奥斯 ] -> 展现与身份相配的力量."
+  },
+  "< ??? will be sealed off in 15 seconds! >": {
+    "translation": "< ???区域将在15秒后封锁! >"
+  },
+  "< ??? is sealed off! >": {
+    "translation": "< ???区域已封锁! >"
+  },
+  "< ??? is no longer sealed! >": {
+    "translation": "< ???区域已解除封锁! >"
+  },
+  "< A Player has acquired Heal >": {
+    "translation": "< 一名玩家获得了治愈术 >"
+  },
+  "< A Player has acquired Summon Bahamut - Firaga >": {
+    "translation": "< 一名玩家获得了召唤巴哈姆特 - 火 >"
+  },
+  "< A Player has acquired Summon Bahamut - Blizzaga >": {
+    "translation": "< 一名玩家获得了召唤巴哈姆特 - 冰 >"
+  },
+  "< A Player has acquired Summon Bahamut - Thundaga >": {
+    "translation": "< 一名玩家获得了召唤巴哈姆特 - 雷 >"
+  },
+  "< A Player has acquired Heart of Light >": {
+    "translation": "< 一名玩家获得了光之心 >"
+  },
+  "< A Player has acquired Blizzard III >": {
+    "translation": "< 一名玩家获得了冰澈 III >"
+  },
+  "< A Player has acquired Gravity >": {
+    "translation": "< 一名玩家获得了重力 >"
+  },
+  "< A Player has acquired Thunder IV >": {
+    "translation": "< 一名玩家获得了暴雷 IV >"
+  },
+  "< Congratulations! - You won Extreme Mode >": {
+    "translation": "< 恭喜! - 你们已通过极限模式 >"
+  },
+  "< A Player has acquired Ricochet >": {
+    "translation": "< 一名玩家获得了弹射 >"
+  },
+  "< A Player has acquired Apex Arrow >": {
+    "translation": "< 一名玩家获得了绝峰箭 >"
+  },
+  "< A Player has acquired Ley Lines >": {
+    "translation": "< 一名玩家获得了黑魔纹 >"
+  },
+  "> ...": {
+    "translation": "> ..."
+  },
+  "> The release of death is denied me here": {
+    "translation": "> 死亡的解脱在此将我拒绝"
+  },
+  "> I shall live with my regret until the world itself hath ceased to be.": {
+    "translation": "> 我将背负悔恨活下去,直至世界终结."
+  },
+  "> Such is my just punishment for consorting with Darkness ...": {
+    "translation": "> 这正是我与黑暗为伍应得的惩罚..."
+  },
+  "> for calling forth aloathsome and lamentable creature which ...": {
+    "translation": "> 因为我召来了那可憎又可悲的生物..."
+  },
+  "> blackeneth my beloved's memory.": {
+    "translation": "> 它玷污了我挚爱的记忆."
+  },
+  "[ Lishang ] -> All good things must come to an end.": {
+    "translation": "[ Lishang ] -> 美好的事物终将结束."
+  },
+  "- The dream has been changed -": {
+    "translation": "- 梦境已改变 -"
+  },
+  "- Memory confusion between dreams and reality -": {
+    "translation": "- 梦境与现实的记忆混乱 -"
+  },
+  "- Sweet Dream -": {
+    "translation": "- 美梦 -"
+  },
+  "- Nightmare -": {
+    "translation": "- 噩梦 -"
+  },
+  "- Dreamless -": {
+    "translation": "- 无梦 -"
+  },
+  "- Sweet dreams are always the best -": {
+    "translation": "- 美梦总是最好的 -"
+  },
+  "- The nightmare continues -": {
+    "translation": "- 噩梦仍在继续 -"
+  },
+  "- Dreamless - The dream is broken -": {
+    "translation": "- 无梦 - 梦境破碎 -"
+  },
+  "- Dreamless - The dream will continue to weave -": {
+    "translation": "- 无梦 - 梦境将继续编织 -"
+  },
+  "< The sealed gate opens! >": {
+    "translation": "< 封印之门已开启! >"
+  },
+  "< Nymian Device 4 has been pressed >": {
+    "translation": "< 尼姆装置四已按下 >"
+  },
+  "< Nymian Device 3 has been pressed >": {
+    "translation": "< 尼姆装置三已按下 >"
+  },
+  "< Nymian Device 2 has been pressed >": {
+    "translation": "< 尼姆装置二已按下 >"
+  },
+  "< Nymian Device 1 has been pressed >": {
+    "translation": "< 尼姆装置一已按下 >"
+  },
+  "< All Nymian Devices have been pressed >": {
+    "translation": "< 所有尼姆装置均已按下 >"
+  },
+  "< Defend until the gates open! >": {
+    "translation": "< 防守至大门开启! >"
+  },
+  "< A hidden door slides open! >": {
+    "translation": "< 隐藏的门缓缓开启! >"
+  },
+  "< The wall will break soon >": {
+    "translation": "< 墙体即将破碎 >"
+  },
+  "< ZOMBIE ESCAPED >": {
+    "translation": "< 僵尸逃脱了 >"
+  },
+  "< You are the hero of the light! >": {
+    "translation": "< 你就是光之战士! >"
+  },
+  "> We are almost near the end ...": {
+    "translation": "> 我们快到终点了..."
+  },
+  "> All good things must come to an end.": {
+    "translation": "> 美好的事物终将结束."
+  },
+  "> The story is coming to an end ...": {
+    "translation": "> 故事即将结束..."
+  },
+  "> The end is also a beginning.": {
+    "translation": "> 终点亦是起点."
+  },
+  "< The chantry will be sealed off in 15 seconds! >": {
+    "translation": "< 礼拜堂将在15秒后封锁! >"
+  },
+  "< The chantry is sealed off! >": {
+    "translation": "< 礼拜堂已封锁! >"
+  },
+  "< The chantry is no longer sealed! >": {
+    "translation": "< 礼拜堂已解除封锁! >"
+  },
+  "< Nymian Device has been pressed >": {
+    "translation": "< 尼姆装置已按下 >"
+  },
+  "< The door opens. >": {
+    "translation": "< 门已开启. >"
+  },
+  "< Water drains from the causeway revealing a passage! >": {
+    "translation": "< 堤道积水退去,露出一条通道! >"
+  },
+  "< The water has completely drained from the causeway >": {
+    "translation": "< 堤道积水已完全排空 >"
+  },
+  "< KILL THE REMAINING ZOMBIES >": {
+    "translation": "< 消灭剩余僵尸 >"
+  },
+  "< Congratulations! - You won Hard Mode >": {
+    "translation": "< 恭喜! - 你们已通过困难模式 >"
+  },
+  "< The Final Ease will be sealed off in 15 seconds! >": {
+    "translation": "< 最终安息之地将在15秒后封锁! >"
+  },
+  "< The Final Ease is sealed off! >": {
+    "translation": "< 最终安息之地已封锁! >"
+  },
+  "< The Final Ease is no longer sealed! >": {
+    "translation": "< 最终安息之地已解除封锁! >"
+  },
+  "< Congratulations! - You won Normal Mode >": {
+    "translation": "< 恭喜! - 你们已通过普通模式 >"
+  },
+  "< Congratulations! - You won Easy Mode >": {
+    "translation": "< 恭喜! - 你们已通过简单模式 >"
+  },
+  "I don't want you here.": {
+    "translation": "我不想让你待在这里."
+  },
+  "The map is from Final Fantasy XIV.": {
+    "translation": "该地图来自最终幻想14."
+  },
+  "STFU": {
+    "translation": "闭嘴"
+  },
+  "everyone rtv for mako": {
+    "translation": "大家都为mako发起rtv"
+  },
+  "Never gonna give you up": {
+    "translation": "永远不会放弃你"
+  },
+  "Never gonna let you down": {
+    "translation": "永远不会让你失望"
+  },
+  "Never gonna run around and desert you": {
+    "translation": "永远不会转身离开并抛弃你"
+  },
+  "Never gonna make you cry": {
+    "translation": "永远不会让你哭泣"
+  },
+  "Never gonna goodbye": {
+    "translation": "永远不会向你告别"
+  },
+  "Never gonna tell a lie and hurt you": {
+    "translation": "永远不会用谎言伤害你"
+  },
+  "Rickroll'd :D": {
+    "translation": "被Rickroll了 :D"
+  },
+  "I apologize for my lie": {
+    "translation": "我为自己的谎言道歉"
+  },
+  "cuz this version is v6_2 instead of v7 xD": {
+    "translation": "因为这个版本是v6_2,不是v7 xD"
+  },
+  "and i m tired too": {
+    "translation": "而且我也累了"
+  },
+  "Good luck wanderers.": {
+    "translation": "祝流浪者好运."
+  },
+  "Oops": {
+    "translation": "糟糕"
+  },
+  "holLow wORlD": {
+    "translation": "空洞世界"
+  },
+  "Hollow-World": {
+    "translation": "空洞世界"
+  },
+  "Hollow.": {
+    "translation": "空洞."
+  },
+  "<pos> 999999999": {
+    "translation": "<pos> 999999999"
+  },
+  "FAKE DOLL": {
+    "translation": "假人偶"
+  },
+  "Type 1 in chat to get solo.": {
+    "translation": "在聊天中输入1可获得solo."
+  },
+  "I hate December": {
+    "translation": "我讨厌十二月"
+  },
+  "Nobody cares.": {
+    "translation": "没人在乎."
+  },
+  "...": {
+    "translation": "..."
+  },
+  "Slay goober": {
+    "translation": "杀死傻子"
+  },
+  "[ Admin ] -> Selected Easy Mode for next round.": {
+    "translation": "[ 管理员 ] -> 下一回合已选择简单模式."
+  },
+  "[ Admin ] -> Selected Normal Mode for next round.": {
+    "translation": "[ 管理员 ] -> 下一回合已选择普通模式."
+  },
+  "[ Admin ] -> Selected Hard Mode for next round.": {
+    "translation": "[ 管理员 ] -> 下一回合已选择困难模式."
+  },
+  "[ Admin ] -> Selected Extreme Mode for next round.": {
+    "translation": "[ 管理员 ] -> 下一回合已选择极限模式."
+  },
+  "[ Admin ] -> Selected Refrain Mode for next round.": {
+    "translation": "[ 管理员 ] -> 下一回合已选择轮回模式."
+  },
+  "[ Admin ] -> I had a sensation of falling": {
+    "translation": "[ 管理员 ] -> 我感到自己正在坠落"
+  },
+  "[ Admin ] -> as if in a dream.": {
+    "translation": "[ 管理员 ] -> 仿佛身处梦中."
+  },
+  "[ Admin ] -> Killed all zombie items.": {
+    "translation": "[ 管理员 ] -> 已清除所有僵尸神器."
+  },
+  "[ Admin ] -> Killed the current boss.": {
+    "translation": "[ 管理员 ] -> 已击杀当前Boss."
+  },
+  "[ Admin ] -> Spawned all S items.": {
+    "translation": "[ 管理员 ] -> 已生成所有S级神器."
+  },
+  "[ Admin ] -> Spawned Dream Breaker & Dream Weaver.": {
+    "translation": "[ 管理员 ] -> 已生成破梦者和织梦者."
+  },
+  "- A Player has acquired Dream Breaker -": {
+    "translation": "- 一名玩家获得了破梦者 -"
+  },
+  "- You did not break anything -": {
+    "translation": "- 你什么也没有打破 -"
+  },
+  "- Sing - Dream Breaker -": {
+    "translation": "- 吟唱 - 破梦者 -"
+  },
+  "- Dream Weaving - Teleporter -": {
+    "translation": "- 织梦 - 传送 -"
+  },
+  "- Dream Weaving - Summon -": {
+    "translation": "- 织梦 - 召唤 -"
+  },
+  "- Dream Weaving - Cure -": {
+    "translation": "- 织梦 - 治愈 -"
+  },
+  "- Dream Weaving - Rage -": {
+    "translation": "- 织梦 - 狂暴 -"
+  },
+  "- Dream Weaving - Low Gravity -": {
+    "translation": "- 织梦 - 低重力 -"
+  },
+  "- Dream Weaving - Protect -": {
+    "translation": "- 织梦 - 保护 -"
+  },
+  "- Dream Weaving - Damage -": {
+    "translation": "- 织梦 - 伤害 -"
+  },
+  "- Dream Weaving - Slow -": {
+    "translation": "- 织梦 - 减速 -"
+  },
+  "- Dream Weaving - Burn -": {
+    "translation": "- 织梦 - 燃烧 -"
+  },
+  "- Dream Weaving - Control -": {
+    "translation": "- 织梦 - 控制 -"
+  },
+  "- Dream Weaving - Boss Health Add -": {
+    "translation": "- 织梦 - Boss血量增加 -"
+  },
+  "- Dream Weaving - Boss Health Subtract -": {
+    "translation": "- 织梦 - Boss血量减少 -"
+  },
+  "- Dream Weaving - Aether -": {
+    "translation": "- 织梦 - 以太 -"
+  },
+  "- Dream Weaving - Strengthen Debuff -": {
+    "translation": "- 织梦 - 强化减益 -"
+  },
+  "- Dream Weaving - Strengthen Buff -": {
+    "translation": "- 织梦 - 强化增益 -"
+  },
+  "- Dream Weaving - Lost -": {
+    "translation": "- 织梦 - 迷失 -"
+  },
+  "- End of weaving - Dreamland reappearance -": {
+    "translation": "- 编织结束 - 梦境重现 -"
+  },
+  "- End of weaving - Dreamland vanishes -": {
+    "translation": "- 编织结束 - 梦境消散 -"
+  },
+  "< Still Waters will be sealed off in 15 seconds! >": {
+    "translation": "< 静水之地将在15秒后封锁! >"
+  },
+  "< Still Waters is sealed off! >": {
+    "translation": "< 静水之地已封锁! >"
+  },
+  "< Still Waters is no longer sealed! >": {
+    "translation": "< 静水之地已解除封锁! >"
+  },
+  "- Dreamland Journey -": {
+    "translation": "- 梦境之旅 -"
+  },
+  "- Dream Fall -": {
+    "translation": "- 梦境坠落 -"
+  },
+  "< ze_FFXIV_Wanderers_Palace >": {
+    "translation": "< 最终幻想14:放浪古神殿 >"
+  },
+  "< Map by Dakotec & Lishang >": {
+    "translation": "< 地图作者:Dakotec和Lishang 翻译:小学生>"
+  },
+  "< Special thanks - Tianli >": {
+    "translation": "< 特别感谢:Tianli >"
+  },
+  "< Map ported by Waffel. Thanks to NiceShot, koen and jaek for helping. >": {
+    "translation": "< 地图移植:Waffel. 感谢NiceShot,koen和jaek的帮助. >"
+  },
+  "< Map Update: 01/08/26 >": {
+    "translation": "< 地图更新:01/08/26 >"
+  },
+  "< Extreme Mode >": {
+    "translation": "< 极限模式 >"
+  },
+  "< Refrain Mode >": {
+    "translation": "< 轮回模式 >"
+  },
+  "< Hard Mode >": {
+    "translation": "< 困难模式 >"
+  },
+  "< Normal Mode >": {
+    "translation": "< 普通模式 >"
+  },
+  "< Easy Mode >": {
+    "translation": "< 简单模式 >"
+  }
+}
