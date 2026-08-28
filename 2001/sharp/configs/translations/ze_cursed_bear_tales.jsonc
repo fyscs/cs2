@@ -1,0 +1,334 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***TEMPLE CLOSING IN 40 SEC***": {
+    "translation": " 神殿将在40秒后关闭 "
+  },
+  "***WARMUP ROUND***": {
+    "translation": " 热身回合 "
+  },
+  "***MAP STARTING IN 30 SEC***": {
+    "translation": " 地图将在30秒后开始 "
+  },
+  "***MAP STARTING IN 20 SEC***": {
+    "translation": " 地图将在20秒后开始 "
+  },
+  "***YOUR MISSION WILL BE TO BRING THE 2 ARTIFACTS***": {
+    "translation": " 你的任务是取回2件圣物 "
+  },
+  "***YOU WILL START BY THE CHRISTMAS ONE***": {
+    "translation": " 你需要先取回圣诞圣物 "
+  },
+  "***MAP STARTING IN 5 SEC***": {
+    "translation": " 地图将在5秒后开始 "
+  },
+  "***MAP BY RAPHI***": {
+    "translation": " 地图制作:RAPHI 翻译:白姬 "
+  },
+  "***YOU FINALLY DEFEATED HIM!!!***": {
+    "translation": " 你终于击败了他!!! "
+  },
+  "***GET OUT OF THE TEMPLE***": {
+    "translation": " 离开神殿 "
+  },
+  "***KEEP DEFENDING***": {
+    "translation": " 继续防守 "
+  },
+  "***TELEPORT SPAWNING IN 10 SEC***": {
+    "translation": " 传送门将在10秒后生成 "
+  },
+  "***30 SECONDS LEFT***": {
+    "translation": " 剩余30秒 "
+  },
+  "***10 SECONDS LEFT***": {
+    "translation": " 剩余10秒 "
+  },
+  "***HE IS STEALING THE ARTIFACT***": {
+    "translation": " 他正在盗取圣物 "
+  },
+  "***THIS TRAITOR RAN AWAY***": {
+    "translation": " 这个叛徒逃跑了 "
+  },
+  "***WE HAVE TO KILL HIM NOW***": {
+    "translation": " 我们必须现在击杀他 "
+  },
+  "***RELEASING ZOMBIES IN 5 SEC***": {
+    "translation": " 5秒后释放僵尸 "
+  },
+  "***WAIT 30 SEC***": {
+    "translation": " 等待30秒 "
+  },
+  "***FALLBACK***": {
+    "translation": " 撤退 "
+  },
+  "***LEFT LEVER PRESSED***": {
+    "translation": " 左侧拉杆已按下 "
+  },
+  "***YOU JUST BEAT THE MAP***": {
+    "translation": " 你通关了这张地图 "
+  },
+  "***CONGRATZ***": {
+    "translation": " 恭喜 "
+  },
+  "***MADE BY RAPHI***": {
+    "translation": " 制作:RAPHI 翻译:白姬 "
+  },
+  "***Final LEVEL***": {
+    "translation": " 最终关卡 "
+  },
+  "***WALL BREAKING IN 30 SEC***": {
+    "translation": " 墙体将在30秒后破碎 "
+  },
+  "***FALL BACK***": {
+    "translation": " 撤退 "
+  },
+  "***TEMPLE WILL OPEN IN 20 SEC***": {
+    "translation": " 神殿将在20秒后开启 "
+  },
+  "***ELEVATOR ENABLED***": {
+    "translation": " 电梯已启用 "
+  },
+  "***WALL BREAKING IN 20 SEC***": {
+    "translation": " 墙体将在20秒后破碎 "
+  },
+  "***RIGHT LEVER PRESSED***": {
+    "translation": " 右侧拉杆已按下 "
+  },
+  "***YOU'RE THE WORST TEAM IVE EVER SEEN***": {
+    "translation": " 你们是我见过最差的队伍 "
+  },
+  "***ILL JUST SKIP THE ENIGMA FOR YOU***": {
+    "translation": " 我直接帮你们跳过谜题 caibee "
+  },
+  "***Both button pressed***": {
+    "translation": " 两个按钮均已按下 "
+  },
+  "***ELEVATOR LEAVING IN 10 SEC***": {
+    "translation": " 电梯将在10秒后离开 "
+  },
+  "SANTA: WHY DID YOU COME ON MY ISLAND": {
+    "translation": " 圣诞老人:你们为何来到我的岛屿 "
+  },
+  "SANTA: Oh I see... You came for my artifact": {
+    "translation": " 圣诞老人:我明白了...你们是为我的圣物而来 "
+  },
+  "SANTA: You will pay for the damage you have already done!": {
+    "translation": " 圣诞老人:你们要为造成的破坏付出代价! "
+  },
+  "SANTA: I AM A DEMIGOD. PREPARE FOR UNIMAGINABLE POWER": {
+    "translation": " 圣诞老人:我是半神,准备迎接难以想象的力量 "
+  },
+  "SANTA: GET READY TO BE ANNIHILATED": {
+    "translation": " 圣诞老人:准备被彻底消灭 "
+  },
+  "***ENIGMA SOLVED***": {
+    "translation": " 谜题已解开 "
+  },
+  "***DOOR OPENING IN 20 SEC***": {
+    "translation": " 大门将在20秒后开启 "
+  },
+  "***DOOR OPENING IN 5 SEC***": {
+    "translation": " 大门将在5秒后开启 "
+  },
+  "***Christmas LEVEL***": {
+    "translation": " 圣诞关卡 "
+  },
+  "***Halloween LEVEL***": {
+    "translation": " 万圣节关卡 "
+  },
+  "***Upper Button Pressed***": {
+    "translation": " 上方按钮已按下 "
+  },
+  "***Downer Button Pressed***": {
+    "translation": " 下方按钮已按下 "
+  },
+  "***WALL WILL BREAK IN 20 SEC***": {
+    "translation": " 墙体将在20秒后破碎 "
+  },
+  "***WALL WILL BREAK IN 5 SEC***": {
+    "translation": " 墙体将在5秒后破碎 "
+  },
+  "***UPPER DOOR OPENING IN 20 SEC***": {
+    "translation": " 上层大门将在20秒后开启 "
+  },
+  "***UPPER DOOR OPENING IN 5 SEC***": {
+    "translation": " 上层大门将在5秒后开启 "
+  },
+  "***SOMEONE HAS TO CALL THE ELEVATOR***": {
+    "translation": " 需要有人呼叫电梯 "
+  },
+  "***ELEVATOR GOING DOWN***": {
+    "translation": " 电梯正在下降 "
+  },
+  "***SOLVE THE ENIGMA***": {
+    "translation": " 解开谜题 "
+  },
+  "***DOOR OPENS IN 20 SEC***": {
+    "translation": " 大门将在20秒后开启 "
+  },
+  "***DOOR OPENS IN 5 SEC***": {
+    "translation": " 大门将在5秒后开启 "
+  },
+  "***DEFEND 45 SEC***": {
+    "translation": " 防守45秒 "
+  },
+  "***CLOSING DOOR IN 10 SEC***": {
+    "translation": " 大门将在10秒后关闭 "
+  },
+  "***DOOR OPEN IN 20 SEC***": {
+    "translation": " 大门将在20秒后开启 "
+  },
+  "***DOOR OPEN IN 5 SEC***": {
+    "translation": " 大门将在5秒后开启 "
+  },
+  "***DOOR CLOSE IN 5 SEC***": {
+    "translation": " 大门将在5秒后关闭 "
+  },
+  "***GET IN THE TRAINS***": {
+    "translation": " 进入列车 "
+  },
+  "***DOOR CLOSING IN 10 SEC***": {
+    "translation": " 大门将在10秒后关闭 "
+  },
+  "***DOOR WILL OPEN IN 30 SEC***": {
+    "translation": " 大门将在30秒后开启 "
+  },
+  "***DOOR WILL OPEN IN 10 SEC***": {
+    "translation": " 大门将在10秒后开启 "
+  },
+  "***Right Button Pressed***": {
+    "translation": " 右侧按钮已按下 "
+  },
+  "***Left Button Pressed***": {
+    "translation": " 左侧按钮已按下 "
+  },
+  "***TELEPORTING ZM IN 5 SEC***": {
+    "translation": " 5秒后传送僵尸魔主 "
+  },
+  "***YOU WON CHRISTMAS LEVEL***": {
+    "translation": " 你通关圣诞关卡 "
+  },
+  "***CIRCLES HAVE BEEN TRIGGERED***": {
+    "translation": " 圆形机关已触发 "
+  },
+  "***ENABLING TELEPORT IN 10 SEC***": {
+    "translation": " 传送将在10秒后启用 "
+  },
+  "***DOOR CLOSING IN 30 SECONDS***": {
+    "translation": " 大门将在30秒后关闭 "
+  },
+  "***DOOR CLOSING IN 10 SECONDS***": {
+    "translation": " 大门将在10秒后关闭 "
+  },
+  "***ELEVATOR LEAVING IN 30 SEC***": {
+    "translation": " 电梯将在30秒后离开 "
+  },
+  "***BUTTON PRESSED***": {
+    "translation": " 按钮已按下 "
+  },
+  "***TELEPORT ENABLE IN 40 SEC***": {
+    "translation": " 传送将在40秒后启用 "
+  },
+  "***DOOR OPENNING IN 20 SEC***": {
+    "translation": " 大门将在20秒后开启 "
+  },
+  "***DOORS WILL OPEN IN 20 SEC***": {
+    "translation": " 多扇大门将在20秒后开启 "
+  },
+  "***OPENNING IN 5 SEC***": {
+    "translation": " 将在5秒后开启 "
+  },
+  "***PRESS THE BUTTON TO OPEN THE DOORS***": {
+    "translation": " 按下按钮开启大门 "
+  },
+  "***DOORS OPENING IN 30 SEC***": {
+    "translation": " 多扇大门将在30秒后开启 "
+  },
+  "***DOORS OPENING IN 10 SEC***": {
+    "translation": " 多扇大门将在10秒后开启 "
+  },
+  "***DOORS OPENING IN 20 SEC***": {
+    "translation": " 多扇大门将在20秒后开启 "
+  },
+  "***DOOR OPENING IN 30 SEC***": {
+    "translation": " 大门将在30秒后开启 "
+  },
+  "***DOOR OPENING IN 10 SEC***": {
+    "translation": " 大门将在10秒后开启 "
+  },
+  "***WAIT 20 SECONDS***": {
+    "translation": " 等待20秒 "
+  },
+  "***DOOR OPENING IN 40 SEC***": {
+    "translation": " 大门将在40秒后开启 "
+  },
+  "***YOU DEFEATED HIM***": {
+    "translation": " 你击败了他 "
+  },
+  "***YOU CAN NOW TAKE HIS ARTIFACT***": {
+    "translation": " 现在你可以拾取他的圣物 "
+  },
+  "***WAIT SOMEONE IS COMING***": {
+    "translation": " 等等,有人过来了 "
+  },
+  "***ARTIFACT TAKEN***": {
+    "translation": " 圣物已被拾取 "
+  },
+  "***YOU WON HALLOWEEN LEVEL***": {
+    "translation": " 你通关 "
+  },
+  "***YOU CAN KILL THE ZOMBIES***": {
+    "translation": " 你现在可以将僵尸杀死 "
+  },
+  "***PICK UP THE ARTIFACT***": {
+    "translation": " 拾取圣物 "
+  },
+  "***HEAL PICKED UP***": {
+    "translation": " 治疗道具已拾取 "
+  },
+  "***CAN BE USED EVERY 120 SEC***": {
+    "translation": " 每120秒可使用一次 "
+  },
+  "***PICK UP THE ARTIFACT AND RUN AWAY***": {
+    "translation": " 拾取圣物然后逃跑 "
+  },
+  "***HALLOWEEN ARTIFACT PICKED UP***": {
+    "translation": " 万圣节圣物已拾取 "
+  },
+  "***CAN BE USED EVERY 60 SEC***": {
+    "translation": " 每60秒可使用一次 "
+  },
+  "***PUSH THE ZOMBIES AWAY***": {
+    "translation": " 将僵尸推开 "
+  },
+  "***A PORTAL WILL OPEN IN 30 SEC ON THE FLOOR BELOW***": {
+    "translation": " 下层地面将在30秒后开启传送门 "
+  },
+  "***PORTAL READY IN 10 SEC***": {
+    "translation": " 传送门将在10秒后就绪 "
+  },
+  "***GET IN!!***": {
+    "translation": " 快进去!! "
+  },
+  "***MINE PICKED UP***": {
+    "translation": " 地雷已拾取 "
+  },
+  "***CAN BE USED EVERY 20 SEC***": {
+    "translation": " 每20秒可使用一次 "
+  },
+  "***CHRISTMAS ARTIFACT PICKED UP***": {
+    "translation": " 圣诞圣物已拾取 "
+  },
+  "***SLOW DOWN THE ZOMBIES***": {
+    "translation": " 减缓僵尸移动速度 "
+  }
+}
