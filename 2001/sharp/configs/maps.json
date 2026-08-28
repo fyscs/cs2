@@ -1130,8 +1130,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 600,
-    "requiredOnline": -1,
-    "requiredPlayers": -1
+    "requiredOnline": 600,
+    "requiredPlayers": 45
   },
   "ze_darkest_hour": {
     "admin": false,
