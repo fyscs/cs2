@@ -1,0 +1,34 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "lll Waiting for the iron gate to open lll": {
+    "translation": "正在等待铁门开启"
+  },
+  "||| The door is about to be blown open |||": {
+    "translation": "大门即将被炸开"
+  },
+  "lll Waiting for the rolling shutter door to unlock. lll": {
+    "translation": "正在等待卷帘门解锁"
+  },
+  "lll A-130 is about to leave lll": {
+    "translation": "A-130即将离开"
+  },
+  "lll Waiting for the door to unlock lll": {
+    "translation": "正在等待大门解锁"
+  },
+  "lll TO AVOID THE MINE lll": {
+    "translation": "避开地雷"
+  },
+  "lll Ahead lies a dense minefield. Perhaps Matshu can help us lll": {
+    "translation": "前方是一片密集雷区, 或许麻薯能帮助我们"
+  }
+}
