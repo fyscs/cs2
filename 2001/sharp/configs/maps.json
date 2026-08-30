@@ -2882,9 +2882,9 @@
   "ze_loom": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 70,
+    "cooldown": 100,
     "nomination": true,
-    "price": 300,
+    "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
