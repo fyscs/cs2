@@ -474,7 +474,7 @@
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 30
   },
   "ze_barrage_p": {
     "admin": false,
