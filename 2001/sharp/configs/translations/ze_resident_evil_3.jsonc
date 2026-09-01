@@ -2,11 +2,13 @@
 // i18n Version v21
 // Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
+
   // 可用字段:
   // blocked    (bool) -> 屏蔽本句输出
   // clearText  (bool) -> 清除所有HUD文本
   // clearTimer (bool) -> 清除所有倒计时
   // countdown  (int)  -> 添加特殊的独立的倒计时
+
 {
   "**The doors to the 2nd floor will open in 5 sec**": {
     "translation": "2楼大门5秒后打开"
