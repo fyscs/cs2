@@ -11,19 +11,24 @@
 
 {
   "lll Waiting for the iron gate to open lll": {
-    "translation": "正在等待铁门开启"
+    "translation": "铁门35秒后开启",
+    "countdown": 35
   },
   "||| The door is about to be blown open |||": {
-    "translation": "大门即将被炸开"
+    "translation": "大门35秒后炸开",
+    "countdown": 35
   },
   "lll Waiting for the rolling shutter door to unlock. lll": {
-    "translation": "正在等待卷帘门解锁"
+    "translation": "卷帘门30秒后解锁",
+    "countdown": 30
   },
   "lll A-130 is about to leave lll": {
-    "translation": "A-130即将离开"
+    "translation": "飞机50秒后离开",
+    "countdown": 50
   },
   "lll Waiting for the door to unlock lll": {
-    "translation": "正在等待大门解锁"
+    "translation": "大门30秒后解锁",
+    "countdown": 30
   },
   "lll TO AVOID THE MINE lll": {
     "translation": "避开地雷"
