@@ -5207,7 +5207,7 @@
     "cooldown": 120,
     "nomination": true,
     "price": 500,
-    "requiredOnline": 60,
+    "requiredOnline": 600,
     "requiredPlayers": 45
   },
   "ze_steyliff_grove_r": {
