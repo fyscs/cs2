@@ -23,46 +23,32 @@
 {
   "Counters": [
     {
-      "iterator": "Anxiang_Boss_HP",
-      "hitbox": "Anxiang_Boss_Hitbox",
-      "counter": "Anxiang_Boss_HP_Counter",
-      "mass": 50,
-      "display": "暗香"
+      "iterator": "Arachne_HP",
+      "hitbox": "Arachne_hitbox",
+      "counter": "Arachne_HP_math",
+      "mass": 30,
+      "display": "阿剌克涅"
     },
     {
-      "iterator": "Qiou_Boss_HP",
-      "hitbox": "Qiou_Boss_Hitbox",
-      "counter": "Qiou_Boss_HP_Counter",
-      "mass": 50,
-      "display": "器偶"
+      "iterator": "mystic_HP",
+      "hitbox": "mystic_Hitbox",
+      "counter": "mystic_HP_math",
+      "mass": 60,
+      "display": "夜叉王"
     },
     {
-      "iterator": "Jing_Boss_HP",
-      "hitbox": "Jing_Boss_Hitbox",
-      "counter": "Jing_Boss_HP_Counter",
-      "mass": 25,
-      "display": "镜"
+      "iterator": "Bahamut_HP",
+      "hitbox": "Bahamut_Hitbox",
+      "counter": "Bahamut_HP_math",
+      "mass": 100,
+      "display": "剑神巴哈姆特"
     },
     {
-      "iterator": "Dark_Boss_HP",
-      "hitbox": "Dark_Boss_Hitbox",
-      "counter": "Dark_Boss_HP_Counter",
-      "mass": 25,
-      "display": "阴"
-    },
-    {
-      "iterator": "Light_Boss_HP",
-      "hitbox": "Light_Boss_Hitbox",
-      "counter": "Light_Boss_HP_Counter",
-      "mass": 25,
-      "display": "阳"
-    },
-    {
-      "iterator": "Qiou_Call_HP",
-      "hitbox": "Qiou_Call_Hitbox",
-      "counter": "Qiou_Call_HP_Counter",
-      "mass": 15,
-      "display": "器偶"
+      "iterator": "S3_end_boss_Hp",
+      "hitbox": "S3_end_boss_hitbox",
+      "counter": "S3_end_boss_Hp_math",
+      "mass": 65,
+      "display": "夜叉王—终"
     }
   ]
 }
