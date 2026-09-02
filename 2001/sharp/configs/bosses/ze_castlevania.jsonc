@@ -1,0 +1,92 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Breakables": [
+    {
+      "target": "boss_swampmonster_model",
+      "display": "海怪"
+    },
+    {
+      "target": "boss_spiderqueen_model",
+      "display": "蜘蛛女王"
+    },
+    {
+      "target": "boss_ogre_model",
+      "display": "食人魔"
+    },
+    {
+      "target": "boss_slogra_model",
+      "display": "Slogra"
+    },
+    {
+      "target": "boss_gaibon_model",
+      "display": "Gaibon"
+    },
+    {
+      "target": "boss_snowtitan_model",
+      "display": "冰雪巨人"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "3111",
+      "display": "npc"
+    },
+    {
+      "identity": "3112",
+      "display": "npc"
+    },
+    {
+      "identity": "3113",
+      "display": "npc"
+    },
+    {
+      "identity": "3105",
+      "display": "npc"
+    },
+    {
+      "identity": "3109",
+      "display": "npc"
+    },
+    {
+      "identity": "3110",
+      "display": "npc"
+    },
+    {
+      "identity": "3106",
+      "display": "npc"
+    },
+    {
+      "identity": "3107",
+      "display": "npc"
+    },
+    {
+      "identity": "3108",
+      "display": "npc"
+    },
+    {
+      "identity": "631",
+      "display": "npc"
+    }
+  ]
+}
