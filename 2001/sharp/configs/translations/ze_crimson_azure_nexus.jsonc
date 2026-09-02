@@ -50,37 +50,37 @@
     "translation": "[雾隐]已出现"
   },
   "<< 血雾将至...>>": {
-    "translation": "<<血雾将至...>>"
+    "translation": "血雾将至..."
   },
   "<< 第一道门将在15s后打开 >>": {
     "translation": "第一道门将在15s后打开",
-    "countdown":15
+    "countdown": 15
   },
   "<< 第二道门将在15s后打开 >>": {
     "translation": "第二道门将在15s后打开",
-    "countdown":15
+    "countdown": 15
   },
   "<< 大门将在30s后打开 >>": {
     "translation": "大门将在30s后打开",
-    "countdown":30
+    "countdown": 30
   },
   "<< Afk的玩家将在10s后传送 >>": {
     "translation": "Afk的玩家将在10s后传送"
   },
   "<< 大门将在20s后打开 >>": {
     "translation": "大门将在20s后打开",
-    "countdown":20
+    "countdown": 20
   },
   "<< 第二扇大门将在20s后打开 >>": {
     "translation": "第二扇大门将在20s后打开",
-    "countdown":20
+    "countdown": 20
   },
   "<< Afk僵尸将在5s后传送 >>": {
     "translation": "Afk僵尸将在5s后传送"
   },
   "<< 等待30s大门打开...>>": {
     "translation": "等待30s大门打开...",
-    "countdown":30
+    "countdown": 30
   },
   "3": {
     "translation": "3"
@@ -93,14 +93,14 @@
   },
   "<< 通路将在15s后打开 >>": {
     "translation": "通路将在15s后打开",
-    "countdown":15
+    "countdown": 15
   },
   "<< AFk玩家将在10s后传送 >>": {
     "translation": "AFk玩家将在10s后传送"
   },
   "<< 大门将在35s后打开 >>": {
     "translation": "大门将在35s后打开",
-    "countdown":35
+    "countdown": 35
   },
   "<< The Final >>": {
     "translation": ">>The Final<<"
@@ -112,8 +112,7 @@
     "translation": "熔岩喷泉已经激活,小心脚下"
   },
   "<< 我们已经沟通传送地点，120s后传送开启 >>": {
-    "translation": "我们已经沟通传送地点,120s后传送开启",
-    "countdown":120
+    "translation": "我们已经沟通传送地点,120s后传送开启"
   },
   "<< 传送开启还有60s >>": {
     "translation": "传送开启还有60s"
@@ -138,7 +137,7 @@
   },
   "<< 这里似乎可以放置梯子,等待35s梯子放好 >>": {
     "translation": "这里似乎可以放置梯子,等待35s梯子放好",
-    "countdown":35
+    "countdown": 35
   },
   "<< 梯子已搭好，快走 >>": {
     "translation": "梯子已搭好,快走"
@@ -151,11 +150,11 @@
   },
   "<< 前侧城堡大门将在30s后开启 >>": {
     "translation": "前侧城堡大门将在30s后开启",
-    "countdown":30
+    "countdown": 30
   },
   "<< 右边城堡大门将在30s后开启 >>": {
     "translation": "右边城堡大门将在30s后开启",
-    "countdown":30
+    "countdown": 30
   },
   "<< 一番苦战,终于解决了boss >>": {
     "translation": "一番苦战,终于解决了boss"
@@ -165,7 +164,7 @@
   },
   "<< 最后防守20s，等待传送开辟 >>": {
     "translation": "最后防守20s,等待传送开辟",
-    "countdown":20
+    "countdown": 20
   },
   "< 激光扫荡 >": {
     "translation": "激光扫荡"
@@ -175,22 +174,22 @@
   },
   "<< 岩石将在25s后破碎 >>": {
     "translation": "岩石将在25s后破碎",
-    "countdown":25
+    "countdown": 25
   },
   "<< 岩石还有10s破碎，左侧的道路被攻破了！ >>": {
     "translation": "岩石还有10s破碎,左侧的道路被攻破了!",
-    "countdown":10
+    "countdown": 10
   },
   "<< 地板在15s后破碎,快进来 >>": {
     "translation": "地板在15s后破碎,快进来",
-    "countdown":15
+    "countdown": 15
   },
   "<< 僵尸阻挡已经失效 >>": {
     "translation": "僵尸阻挡已经失效"
   },
   "<< 大门将在40s后打开 >>": {
     "translation": "大门将在40s后打开",
-    "countdown":40
+    "countdown": 40
   },
   "<< Afk的玩家将在3s后传送 >>": {
     "translation": "Afk的玩家将在3s后传送"
@@ -200,44 +199,44 @@
   },
   "<< 左侧栅栏将在25s后打开 >>": {
     "translation": "左侧栅栏将在25s后打开",
-    "countdown":25
+    "countdown": 25
   },
   "<< 两侧大门将在25s后打开 >>": {
     "translation": "两侧大门将在25s后打开",
-    "countdown":25
+    "countdown": 25
   },
   "<< 一侧开关已被按下 >>": {
     "translation": "一侧开关已被按下"
   },
   "<< 两处开关已全部按下，通路即将在20s后打开 >>": {
     "translation": "两处开关已全部按下,通路即将在20s后打开",
-    "countdown":20
+    "countdown": 20
   },
   "<< 正在集结传送能量，前往水池中央，等待传送开启 >>": {
     "translation": "正在集结传送能量,前往水池中央,等待传送开启"
   },
   "<< 传送已启动，快进来 >>": {
     "translation": "传送已启动,快进来",
-    "countdown":20
+    "countdown": 20
   },
   "<< 新的传送将在30s后打开 >>": {
     "translation": "新的传送将在30s后打开",
-    "countdown":30
+    "countdown": 30
   },
   "<< AFk的玩家将在5s后传送 >>": {
     "translation": "AFk的玩家将在5s后传送"
   },
   "<< 大门将在25s后打开 >>": {
     "translation": "大门将在25s后打开",
-    "countdown":25
+    "countdown": 25
   },
   "<< 第一道大门将在10s后打开 >>": {
     "translation": "第一道大门将在10s后打开",
-    "countdown":10
+    "countdown": 10
   },
   "<< 第二道大门将在20s后打开 >>": {
     "translation": "第二道大门将在20s后打开",
-    "countdown":20
+    "countdown": 20
   },
   "<< AFk玩家将在5s后传送 >>": {
     "translation": "AFk玩家将在5s后传送"
@@ -247,37 +246,33 @@
   },
   "<< 传送将在5s后启动，我们快走 >>": {
     "translation": "传送将在5s后启动,我们快走",
-    "countdown":5
+    "countdown": 5
   },
   "<< 打碎前面这些碍事的石头 >>": {
     "translation": "打碎前面这些碍事的石头"
   },
-  "<< 大门将在20s后打开 >> ": {
-    "translation": "大门将在20s后打开",
-    "countdown":20
-  },
   "<< 没有道路了，全部集合，守住直到大门30s后开启 >>": {
     "translation": "没有道路了,全部集合,守住直到大门30s后开启",
-    "countdown":30
+    "countdown": 30
   },
   "<< 大门将在10s后关闭 >>": {
     "translation": "大门将在10s后关闭",
-    "countdown":10
+    "countdown": 10
   },
   "<< 这个光球是什么东西，不管是什么,集火攻击他 >>": {
     "translation": "这个光球是什么东西,不管是什么,集火攻击他"
   },
   "<< 安静的异常...等待30s门开 >>": {
     "translation": "安静的异常...等待30s门开",
-    "countdown":30
+    "countdown": 30
   },
   "<< 门开了，传送已经打开了,快前进 >>": {
     "translation": "门开了,传送已经打开了,快前进"
   },
-  "<< 已到最终之地,守住前方 >> ": {
+  "<< 已到最终之地,守住前方 >>": {
     "translation": "已到最终之地,守住前方"
   },
-  "<< AFK玩家将在15s后传送 >> ": {
+  "<< AFK玩家将在15s后传送 >>": {
     "translation": "AFK玩家将在15s后传送"
   },
   "<< 不好，强敌来袭 >>": {
@@ -294,7 +289,7 @@
   },
   "<< 终于击败了他，最后坚守15s,胜利就在眼前 >>": {
     "translation": "终于击败了他,最后坚守15s,胜利就在眼前",
-    "countdown":15
+    "countdown": 15
   },
   "<< 传送已启动，我们快走 >>": {
     "translation": "传送已启动,我们快走"
@@ -325,7 +320,7 @@
   },
   "<< 等待10s，集结前进>>": {
     "translation": "等待10s,集结前进",
-    "countdown":10
+    "countdown": 10
   },
   "<< 右侧的道路被水流阻挡，换一条路寻找一下解决方法吧 >>": {
     "translation": "右侧的道路被水流阻挡,换一条路寻找一下解决方法吧"
@@ -338,7 +333,7 @@
   },
     "<< 等待60s通路打开 >>": {
     "translation": "等待60s通路打开",
-    "countdown":60
+    "countdown": 60
   },
     "<< 快走，顺着水流进入传送 >>": {
     "translation": "快走,顺着水流进入传送"
@@ -360,7 +355,7 @@
   },
     "<< 传送锚点已经稳定,10s后传送 >>": {
     "translation": "传送锚点已经稳定,10s后传送",
-    "countdown":10
+    "countdown": 10
   },
     "<< 蓝色光球？怎么追到了这里 >>": {
     "translation": "蓝色光球?怎么追到了这里"
@@ -389,9 +384,9 @@
     "<< 确定新的坐标了，守住30s直到我们传送 >>": {
     "translation": "确定新的坐标了,守住30s直到我们传送"
   },
-    "<< 大门将在15s后打开 >> ": {
+    "<< 大门将在15s后打开 >>": {
     "translation": "大门将在15s后打开",
-    "countdown":15
+    "countdown": 15
   },
     "<< 这里有点不对劲，似乎传送将我们带到了错误的地点 >>": {
     "translation": "这里有点不对劲,似乎传送将我们带到了错误的地点"
@@ -399,12 +394,12 @@
     "<< 这里充斥着蓝色能量，我们需要寻找出口 >>": {
     "translation": "这里充斥着蓝色能量,我们需要寻找出口"
   },
-    "<< AFK玩家将在10s后传送 >> ": {
+    "<< AFK玩家将在10s后传送 >>": {
     "translation": "AFK玩家将在10s后传送"
   },
     "<< 大门将在10s后打开 >>": {
     "translation": "大门将在10s后打开",
-    "countdown":10
+    "countdown": 10
   },
     "<< 奇怪，为什么第二道大门还没有打开 >>": {
     "translation": "奇怪,为什么第二道大门还没有打开"
@@ -414,15 +409,15 @@
   },
     "<< 通往地下的通道将在15s后打开 >>": {
     "translation": "通往地下的通道将在15s后打开",
-    "countdown":15
+    "countdown": 15
   },
     "<< 障碍将在15s后破碎 >>": {
     "translation": "障碍将在15s后破碎",
-    "countdown":15
+    "countdown": 15
   },
-    "<< 守住20s >> ": {
+    "<< 守住20s >>": {
     "translation": "守住20s",
-    "countdown":20
+    "countdown": 20
   },
     "<< 我们需要收集这里的蓝色方块用作能源 >>": {
     "translation": "我们需要收集这里的蓝色方块用作能源"
@@ -435,7 +430,7 @@
   },
     "<< 传送通道大门已经打开,将在15s后关闭 >>": {
     "translation": "传送通道大门已经打开,将在15s后关闭",
-    "countdown":15
+    "countdown": 15
   },
     "<< 大门已经关闭，准备传送 >>": {
     "translation": "大门已经关闭,准备传送"
@@ -450,19 +445,18 @@
     "translation": "僵尸刀已被禁用"
   },
     "<< 且战且退,前方道路将在120s后打开 >>": {
-    "translation": "且战且退,前方道路将在120s后打开",
-    "countdown":120
+    "translation": "且战且退,前方道路将在120s后打开"
   },
     "<< 大门已经打开,快走 >>": {
     "translation": "大门已经打开,快走"
   },
     "<< 玻璃后面有能量涌动，等待20s我们打开通路 >>": {
     "translation": "玻璃后面有能量涌动,等待20s我们打开通路",
-    "countdown":20
+    "countdown": 20
   },
     "<< 通往二层的通路将在20s后打开 >>": {
     "translation": "通往二层的通路将在20s后打开",
-    "countdown":20
+    "countdown": 20
   },
     "<< 圣光所属的骑士 已经出现 >>": {
     "translation": "圣光所属的骑士已经出现"
@@ -496,15 +490,15 @@
   },
     "<< 左侧大门将在15s后打开 >>": {
     "translation": "左侧大门将在15s后打开",
-    "countdown":15
+    "countdown": 15
   },
     "<< 新的通路将在20s后打通 >>": {
     "translation": "新的通路将在20s后打通",
-    "countdown":20
+    "countdown": 20
   },
     "<< 右侧栅栏将在25s后打开 >>": {
     "translation": "右侧栅栏将在25s后打开",
-    "countdown":25
+    "countdown": 25
   },
     "<< 左侧石头已经破碎 >>": {
     "translation": "左侧石头已经破碎"
