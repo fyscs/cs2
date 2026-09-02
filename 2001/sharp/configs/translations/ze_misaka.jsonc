@@ -463,13 +463,11 @@
   "<< The wall will break in 35 seconds >>": {
     "translation": "墙在35秒后消失"
   },
-  "OnBreak>command>Command>** The wall will break in 12 seconds **>0>1": {
-    "translation": "OnBreak>command>Command>** The wall will break in 12 seconds **>0>1",
-    "blocked": true
+  "** The wall will break in 12 seconds **": {
+    "translation": "墙在12秒后消失",
   },
-  "OnBreak>command>Command>** Something may happen in 20 seconds... ** >22>1": {
-    "translation": "OnBreak>command>Command>** Something may happen in 20 seconds... ** >22>1",
-    "blocked": true
+  "** Something may happen in 20 seconds... **": {
+    "translation": "传送将在20秒后激活",
   },
   "<< Ending in 12 seconds... >>": {
     "translation": "还剩12秒"
