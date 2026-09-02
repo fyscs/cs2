@@ -1,4 +1,4 @@
-﻿// Console SayText i18n file generator.
+// Console SayText i18n file generator.
 // i18n Version v21
 // Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
@@ -771,9 +771,6 @@
   "野猪亨利发狂了，爆炒了一名玩家的菊花，并美美跑路": {
     "translation": "野猪亨利发狂了,爆炒了一名玩家的菊花,并美美跑路"
   },
-  "——经典模式——": {
-    "translation": "——经典模式——"
-  },
   "检测到大量僵尸反应，开启防守模式，生存三分钟": {
     "translation": "检测到大量僵尸反应,开启防守模式,生存三分钟"
   },
@@ -785,12 +782,6 @@
   },
   "场上大约有一半的人类被特殊病毒感染！（猝死机制很抱歉）": {
     "translation": "场上大约有一半的人类被特殊病毒感染!"
-  },
-  "第一关——追击模式": {
-    "translation": "第一关——追击模式"
-  },
-  "第二关——经典模式": {
-    "translation": "第二关——经典模式"
   },
   "与服务器连接中...": {
     "translation": "与服务器连接中..."
