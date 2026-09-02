@@ -6155,6 +6155,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 25
   },
+    "ze_zombie_scenario_lostcity": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_zombiemod_corporation_p": {
     "admin": false,
     "certainTimes": [-1],
