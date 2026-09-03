@@ -27,10 +27,16 @@
       "display": "Boss"
     }
   ],
+  "Breakables": [
+    {
+      "target": "Final_Ultima_Weapon_Hitbox",
+      "display": "究极神兵"
+    }
+  ],
   "Monsters": [
     {
-      "identity": "1133",
-      "display": "究极神兵"
+      "identity": "3403",
+      "display": "石牢"
     },
     {
       "identity": "1434",
