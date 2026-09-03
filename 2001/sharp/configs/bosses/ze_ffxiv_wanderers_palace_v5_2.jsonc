@@ -89,5 +89,15 @@
       "hitbox": "Garland_Breakable",
       "display": "加兰德"
     }
+  ],
+  "Breakables": [
+    {
+      "target": "Iron_Giant_Breakable",
+      "display": "钢铁巨人"
+    },
+    {
+      "target": "Serpent_Breakable",
+      "display": "蛇"
+    }
   ]
 }
