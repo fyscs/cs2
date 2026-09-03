@@ -23,39 +23,8 @@
 {
   "Counters": [
     {
-      "iterator": "Boss_Health_Goobbue",
-      "hitbox": "Goobbue_Hitbox",
-      "display": "古菩猩猩"
-    },
-    {
-      "iterator": "Boss_Health_Garuda",
-      "hitbox": "Garuda_Hitbox",
-      "display": "迦楼罗"
-    },
-    {
-      "iterator": "Boss_Health_Ifrit",
-      "hitbox": "Hard_Ifrit_Hitbox",
-      "display": "伊弗利特"
-    },
-    {
-      "iterator": "Boss_Health_Titan",
-      "hitbox": "Titan_Hitbox",
-      "display": "泰坦"
-    },
-    {
-      "iterator": "Boss_Health_Suzaku",
-      "hitbox": "Suzaku_Hitbox",
-      "display": "朱雀"
-    },
-    {
-      "iterator": "Boss_Health_Ultima_Weapon",
-      "hitbox": "Ultima_Weapon_Hitbox",
-      "display": "究极神兵"
-    },
-    {
-      "iterator": "Boss_Health_Chaos",
-      "hitbox": "Chaos_Hitbox",
-      "display": "卡奥斯"
+      "iterator": "Boss_Health",
+      "display": "Boss"
     }
   ],
   "Monsters": [
