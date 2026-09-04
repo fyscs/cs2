@@ -26,10 +26,12 @@
     "translation": "抓危"
   },
   "** 传送将在10秒后启用 **": {
-    "translation": "传送将在10秒后启用"
+    "translation": "传送将在10秒后启用",
+    "countdown": 10
   },
   "** 刹那小手办：想要15秒抓住未来！！！ **": {
-    "translation": "刹那小手办:想要15秒抓住未来!!!"
+    "translation": "刹那小手办:想要15秒抓住未来!!!",
+    "countdown": 15
   },
   "** 已习得绝技·不死斩 **": {
     "translation": "已习得绝技-不死斩"
@@ -56,7 +58,8 @@
     "translation": "天守阁正在崩塌尽快逃离"
   },
   "** 船只将在30秒后启程 **": {
-    "translation": "船只将在30秒后启程"
+    "translation": "船只将在30秒后启程",
+    "countdown": 30
   },
   "** 僵尸5秒后传送 **": {
     "translation": "僵尸5秒后传送"
@@ -65,25 +68,31 @@
     "translation": "门锁被破坏了"
   },
   "** 门将在45秒后开启 **": {
-    "translation": "门将在45秒后开启"
+    "translation": "门将在45秒后开启",
+    "countdown": 45
   },
   "** 门将在30秒后开启 **": {
-    "translation": "门将在30秒后开启"
+    "translation": "门将在30秒后开启",
+    "countdown": 30
   },
   "** 传送将在30秒后启用 **": {
-    "translation": "传送将在30秒后启用"
+    "translation": "传送将在30秒后启用",
+    "countdown": 30
   },
   "** 传送剩余40秒 **": {
-    "translation": "传送剩余40秒"
+    "translation": "传送剩余40秒",
+    "countdown": 40
   },
   "** 衷心感谢您体验我的首张创作，任何建议与反馈都將是我前进的动力。 **": {
     "translation": "衷心感谢您体验我的首张创作,任何建议与反馈都將是我前进的动力"
   },
   "** 最后20秒 **": {
-    "translation": "最后20秒"
+    "translation": "最后20秒",
+    "countdown": 20
   },
   "** 大门10秒后打开 **": {
-    "translation": "大门10秒后打开"
+    "translation": "大门10秒后打开",
+    "countdown": 10
   },
   "** 门被弦一郎封死了,另寻出路 **": {
     "translation": "门被弦一郎封死了,另寻出路"
@@ -92,22 +101,26 @@
     "translation": "道路被堵住了,需要破开一条路"
   },
   "** 门将在15秒后打开 **": {
-    "translation": "门将在15秒后打开"
+    "translation": "门将在15秒后打开",
+    "countdown": 15
   },
   "** 门被弦一郎封死了 **": {
     "translation": "门被弦一郎封死了"
   },
   "** 门将在25秒后打开 **": {
-    "translation": "门将在25秒后打开"
+    "translation": "门将在25秒后打开",
+    "countdown": 25
   },
   "** 门将在30秒后打开 **": {
-    "translation": "门将在30秒后打开"
+    "translation": "门将在30秒后打开",
+    "countdown": 30
   },
   "** 僵尸传送还剩5秒 **": {
     "translation": "僵尸传送还剩5秒"
   },
   "** 坚守20秒或打破这扇门 **": {
-    "translation": "坚守20秒或打破这扇门"
+    "translation": "坚守20秒或打破这扇门",
+    "countdown": 20
   },
   "** 锦囊已全部收集 **": {
     "translation": "锦囊已全部收集"
@@ -155,7 +168,8 @@
     "translation": "欢迎来到<只狼>.这是我的初次尝试.感谢您的游玩"
   },
   "** 门将在20秒后打开 **": {
-    "translation": "门将在20秒后打开"
+    "translation": "门将在20秒后打开",
+    "countdown": 20
   },
   "** 哎呀……这是一心大人喜欢的酒呀。来喝吧!，狼哈……真好喝！ **": {
     "translation": "哎呀...这是一心大人喜欢的酒呀.来喝吧!,狼哈...真好喝!"
