@@ -1,0 +1,81 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<< MAP BY =LIROY= >>>": {
+    "translation": "地图作者: =LIROY="
+  },
+  "<<< ZOMBIES ARE COMING !!! >>>": {
+    "translation": "他们来啦 !!!"
+  },
+  ">>> PLAYER USED FREEZE <<<": {
+    "translation": "已使用冰神器"
+  },
+  ">>> PLAYER HAS PICKED UP FREEZE <<<": {
+    "translation": "已拾取冰神器"
+  },
+  "<<< ZOMBIES ARE GONE  !!! >>>": {
+    "translation": "僵尸已隔离 !!!"
+  },
+  "<<< WELL DONE !!!  GO TO THE CENTER OF ARENA !!!>>>": {
+    "translation": "干得漂亮 !!! 去竞技场中央"
+  },
+  "<<< THE DOOR IS OPEN !!! >>>": {
+    "translation": "Boss门开了 !!!"
+  },
+  "<<< PORT BY QAQmolingQAQ >>>": {
+    "translation": "由 QAQmolingQAQ 移植并翻译, 文本:Kirin(麒麟)"
+  },
+  "<<< Thanks for Charlie, 三百度幸运, source 2 开发部 help  >>>": {
+    "translation": "感谢 Charlie, 三百度幸运以及 source 2 开发部 提供帮助"
+  },
+  "<<< Thanks for Lolop give issue >>>": {
+    "translation": "感谢 Lolop 给出问题解决方案"
+  },
+  "<<< Thanks for 超音速老猫, 华莱士员工， 墨尔本的猫, LaurenTii, 百年萌新白也, 天荒の星灾, Kirin test the map >>>": {
+    "translation": "感谢 超音速老猫, 华莱士员工, 墨尔本的猫, LaurenTii, 百年萌新白也, 天荒の星灾, Kirin 测试地图"
+  },
+  "<<< SURVIVE 100 SECONDS >>>": {
+    "translation": "坚持100秒"
+  },
+  "<<< RUN TO THE SURF  !!! >>>": {
+    "translation": "前往 SURF !!!"
+  },
+  "<<< LOOK UP !!! >>>": {
+    "translation": "向上看 !!!"
+  },
+  "<<< HOLD ZOMBIES 60 SEC >>>": {
+    "translation": "坚持 60 秒",
+    "countdown": 60
+  },
+  "<<< HOLD ZOMBIES 50 SEC >>>": {
+    "translation": "坚持 50 秒",
+    "countdown": 50
+  },
+  "<<< HOLD ZOMBIES 30 SEC >>>": {
+    "translation": "坚持 30 秒",
+    "countdown": 30
+  },
+  "<<< HOLD ZOMBIES 20 SEC !!! >>>": {
+    "translation": "坚持 20 秒 !!!",
+    "countdown": 20
+  },
+  "<<< HOLD ZOMBIES 10 SEC >>>": {
+    "translation": "坚持 10 秒",
+    "countdown": 10
+  },
+  "<<< HOLD ZOMBIES !!! >>>": {
+    "translation": "坚持 !!!"
+  },
+  "<<< GET READY FOR THE BOSS LASER ATTACK !!! >>>": {
+    "translation": "准备好迎接Boss的激光攻击 !!!"
+  }
+}
