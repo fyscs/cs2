@@ -1,0 +1,548 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "> 20 <": {
+    "translation": "> 20 <",
+    "countdown": 20
+  },
+  "> Go back to the van. <": {
+    "translation": "> 回到车上去 <"
+  },
+  ">Goliath: I must not be defeated...in a place like this..": {
+    "translation": ">歌莉娅: 我绝不能在这样的地方被击败..."
+  },
+  ">Goliath: Insolent human!You're the one who's going to die!": {
+    "translation": ">歌莉娅: 无礼的人类!你才是那个会死的人!"
+  },
+  ">Goliath: You'll be sorry for this!": {
+    "translation": ">歌莉娅: 你会为此后悔的!"
+  },
+  ">Nero: Yeah,Maybe i will.Sorry I'm about to kill ya!": {
+    "translation": ">尼禄: 是啊,也许我会的.抱歉,我马上就要杀了你!"
+  },
+  ">Goliath: Stop buzzing around!": {
+    "translation": ">歌莉娅: 别再到处嗡嗡叫了!"
+  },
+  ">Goliath: Human..I wasn't expecting any survivors!": {
+    "translation": ">歌莉娅: 人类...我没想到会有幸存者!"
+  },
+  "< Map by @Seth (英俊) >": {
+    "translation": "< 地图由@Seth(英俊)制作,翻译:初心心 >"
+  },
+  "< Map require keep cs2f_use_old_push enable! >": {
+    "translation": "< 地图需要保持cs2f_use_old_push启用! >"
+  },
+  "> 15 <": {
+    "translation": "> 15 <",
+    "countdown": 15
+  },
+  "MAP NOW WIP,THIS VERSION ONLY FOR TRY OUT": {
+    "translation": "地图目前未完成,该版本仅供预览游玩"
+  },
+  "> Zombie Item's ability unlock in 20 sec. <": {
+    "translation": "> 僵尸能力将在20秒后解锁 <"
+  },
+  ">Dante: Round two!": {
+    "translation": ">但丁: 第二轮!"
+  },
+  ">Dante: V,Get Nero out of here!This was a bad move!": {
+    "translation": ">但丁: V,把尼禄赶出去真是个糟糕的选择! "
+  },
+  ">Nero: I can still fight!": {
+    "translation": ">尼禄: 我还能战斗!"
+  },
+  ">Dante: Nero,go!You're just dead weight.": {
+    "translation": ">但丁: 尼禄,走!你只是个累赘."
+  },
+  ">Nero: Back off!": {
+    "translation": ">尼禄: 退后!"
+  },
+  ">Nero: That bastard called me dead weight!": {
+    "translation": ">尼禄: 那个混蛋说我是累赘!"
+  },
+  ">Nero: I didn't come all this way for nothing!": {
+    "translation": ">尼禄: 我可没白跑这么远!"
+  },
+  ">V: Stop hitting yourself.": {
+    "translation": ">V: 别再打自己了."
+  },
+  ">V: And think of ways to get stronger and actually help.": {
+    "translation": ">V: 想办法让自己变得更强大,真正提供帮助"
+  },
+  ">V: If dante loses...you are all that can defeat Urizen.": {
+    "translation": ">V: 如果但丁输了...你是唯一能打败尤里曾的人."
+  },
+  ">Nero: Is that what you called him?": {
+    "translation": ">尼禄: 你是这么叫他的吗?"
+  },
+  ">V: Yes,Urizen,The demon king...": {
+    "translation": ">V: 是的,尤里曾,恶魔之王..."
+  },
+  ">V: That's the name of the demon that took your arm.": {
+    "translation": ">V: 那是夺去你手臂的恶魔的名字."
+  },
+  ">Nero: What am i doin',wasting my time here?He's got this.": {
+    "translation": ">尼禄: 我在做什么,在这里浪费时间?他有这个."
+  },
+  ">V: You should not underestimate this demon.": {
+    "translation": ">V: 你不应该低估这个恶魔."
+  },
+  ">V: After all,It was he who took your right arm...": {
+    "translation": ">V: 毕竟,是他夺走了你的右臂..."
+  },
+  "V: ...and gained a great deal of power from it.": {
+    "translation": ">V: ...并因此获得了抛瓦."
+  },
+  ">V: I'm leaving.": {
+    "translation": ">V: 我要走了."
+  },
+  ">V: I'm suggest you do not fall behind.": {
+    "translation": ">V: 我建议你不要落后."
+  },
+  ">Nero: Yeah...": {
+    "translation": ">尼禄: 是啊..."
+  },
+  ">Nero: Ok V...You're an interesting guy,But you're right.": {
+    "translation": ">尼禄: 好的V...你是个有趣的人,但你说得对."
+  },
+  ">Nero: I've got a score to settle with that son of a bitch.": {
+    "translation": ">尼禄: 我得去解决那个混蛋."
+  },
+  ">Nero: Hey,jackass!": {
+    "translation": ">尼禄: 嘿,混蛋!"
+  },
+  ">Nero: Didn't your mother ever teach you it's not nice to steal?": {
+    "translation": ">尼禄: 你妈妈没教过你偷东西是不好的吗?"
+  },
+  ">Nero: Sorry,Dante...": {
+    "translation": ">尼禄: 抱歉,但丁..."
+  },
+  ">Nero: I'm baggin' this bitch!": {
+    "translation": ">尼禄: 我要干掉这个混蛋!"
+  },
+  ">???: ...": {
+    "translation": ">???: ..."
+  },
+  "> Seal off in 20 sec. <": {
+    "translation": "> 封印将在20秒后解除. <",
+    "countdown": 20
+  },
+  "> ACT I CLEARED <": {
+    "translation": "> 第一幕完结 <"
+  },
+  "> Clear all zombies. <": {
+    "translation": "> 清除所有僵尸. <"
+  },
+  "> Game start in 25 sec. <": {
+    "translation": "> 游戏将在25秒后开始. <",
+    "countdown": 25
+  },
+  "> 10 <": {
+    "translation": "> 10 <",
+    "countdown": 10
+  },
+  "> Now go back and place the bug. <": {
+    "translation": "> 现在回去放置虫子. <"
+  },
+  "> ACT II CLEARED <": {
+    "translation": "> 第二幕完结 <"
+  },
+  "< 1/4 Soul stone found. >": {
+    "translation": "< 已找到1/4的蓝魂石. >"
+  },
+  "< Max health up to 125. >": {
+    "translation": "< 最大血量已提升至125. >"
+  },
+  "< 2/4 Soul stone found. >": {
+    "translation": "< 已找到2/4的蓝魂石. >"
+  },
+  "< Max health up to 150. >": {
+    "translation": "< 最大血量已提升至150. >"
+  },
+  "< 3/4 Soul stone found. >": {
+    "translation": "< 已找到3/4的蓝魂石. >"
+  },
+  "< Max health up to 175. >": {
+    "translation": "< 最大血量已提升至175. >"
+  },
+  "< All Soul stone found. >": {
+    "translation": "< 所有蓝魂石已被找到. >"
+  },
+  "< Max health up to 200. >": {
+    "translation": "< 最大血量已提升至200. >"
+  },
+  "< Zombie Item's ability has unlocked. >": {
+    "translation": "< 僵尸能力已解锁. >"
+  },
+  "> Sealed up in 40 sec. <": {
+    "translation": "> 封印将在40秒后解锁. <",
+    "countdown": 40
+  },
+  "Devil Hunter >Nero< has join the game!": {
+    "translation": "传奇猎魔人 >尼禄< 已加入游戏!"
+  },
+  "reset": {
+    "translation": "重置"
+  },
+  "< Nero has been take down... >": {
+    "translation": "< 尼禄已被击倒... >"
+  },
+  "> Area seal up in 10 sec <": {
+    "translation": "> 区域将在10秒后关闭 <",
+    "countdown": 10
+  },
+  "<< 新的传送将在30s后打开 >>": {
+    "translation": "新的传送将在30s后打开",
+    "countdown": 30
+  },
+  "> 25 <": {
+    "translation": "> 25 <",
+    "countdown": 25
+  },
+  "> Defeat Artmis and activate the portal. <": {
+    "translation": "> 击败阿尔忒弥斯并激活传送门. <"
+  },
+  "< Angelo are very weak,Defeat him now! >": {
+    "translation": "< 尼洛安杰罗非常弱,快击败他! >"
+  },
+  "> 30 <": {
+    "translation": "> 30 <",
+    "countdown": 30
+  },
+  "> Final 30 sec <": {
+    "translation": "> 最终30秒 <",
+    "countdown": 30
+  },
+  "< Stay behind Dante if you don't want to get lasered. >": {
+    "translation": "< 如果你不想要跳刀就躲在但丁身后. >"
+  },
+  "< Get to the theater in 120 sec! >": {
+    "translation": "< 在120秒内到达剧院! >"
+  },
+  "< You feels something is coming for you.. >": {
+    "translation": "< 你感觉有什么事情要发生了.. >"
+  },
+  "< Prepare to take the hit! >": {
+    "translation": "< 准备承受打击! >"
+  },
+  ">Dante: Come on baby,come get me!": {
+    "translation": ">但丁: 来吧宝贝,快来抓我!"
+  },
+  "> ACT III CLEARED <": {
+    "translation": "> 第三幕完结 <"
+  },
+  ">Angelo: It's not done yet,Spartans.": {
+    "translation": ">尼洛安杰罗: 还没完呢,斯巴达们."
+  },
+  ">Angelo: We will meet again soon.": {
+    "translation": ">尼洛安杰罗: 我们很快会再见面."
+  },
+  "< Seems like entrance has sealed. >": {
+    "translation": "< 看起来入口已经封死了. >"
+  },
+  "< Let's take a shortcut. >": {
+    "translation": "< 我们走捷径吧. >"
+  },
+  "> 5 <": {
+    "translation": "> 5 <",
+    "countdown": 5
+  },
+  "< Beware,Middle area are no longer sealed. >": {
+    "translation": "< 注意,中间区域不再封闭. >"
+  },
+  ">Dante: This portal will bring us to Urizen.": {
+    "translation": ">但丁: 这个传送门将带我们前往尤里曾的位置."
+  },
+  ">Dante: Let's finish this,Once for all.": {
+    "translation": ">但丁: 让我们彻底结束这一切吧."
+  },
+  ">Dante: Those Qliphoth trees are getting out of control.": {
+    "translation": ">但丁: 那些邪恶之树已经失控了."
+  },
+  ">Urizen: Dante...You dare approach me in that form?": {
+    "translation": ">尤里曾: 但丁...你竟敢以那种形式接近我?"
+  },
+  "< Defend zombies and defeat Urizen. >": {
+    "translation": "< 防御僵尸并击败尤里曾. >"
+  },
+  "< Human character can deal damage to Urizen with any attacks now. >": {
+    "translation": "< 人类角色现在可以使用任何攻击对尤里曾造成伤害. >"
+  },
+  ">Urizen: Very well,I shall show you...": {
+    "translation": ">尤里曾: 很好,我将向你展示..."
+  },
+  ">Urizen: My true POWER!": {
+    "translation": ">尤里曾: 我真正的抛瓦!"
+  },
+  ">Urizen: How..how are you so powerful!?": {
+    "translation": ">尤里曾: 你..你怎么那么强大!?"
+  },
+  ">Urizen: You never lost anything!": {
+    "translation": ">尤里曾: 你从未失去过任何东西!"
+  },
+  ">Dante: You threw away everything you ever had..": {
+    "translation": ">但丁: 你抛弃了你曾经拥有的一切.."
+  },
+  ">Dante: No wonder you have no true power!": {
+    "translation": ">但丁: 难怪你没有真正的抛瓦!"
+  },
+  ">Urizen: DANTEEEE!": {
+    "translation": ">尤里曾: 但丁!!!"
+  },
+  ">V: While thy branches mix with mine,and our roots together join.": {
+    "translation": ">V: 当你的枝与我的枝交合,我们的根连在一起."
+  },
+  ">Dante: ..Vergil!": {
+    "translation": ">但丁: ..维吉尔!"
+  },
+  "< Human character can't damage Vergil. >": {
+    "translation": "< 人类角色无法对维吉尔造成伤害. >"
+  },
+  "< Admin has set stage to ACT I >": {
+    "translation": "< 第一幕 >"
+  },
+  "< Admin has set stage to ACT II >": {
+    "translation": "< 第二幕 >"
+  },
+  "< Admin has set stage to ACT III >": {
+    "translation": "< 第三幕 >"
+  },
+  "< Admin has set stage to ACT VI >": {
+    "translation": "< 第四幕 >"
+  },
+  "< Admin has set stage to ACT V >": {
+    "translation": "< 谢幕 >"
+  },
+  ">Urizen: Come to me,brother..": {
+    "translation": ">尤里曾: 来我这里,兄弟.."
+  },
+  ">Urizen: I shall enlighten you,Dante!": {
+    "translation": ">尤里曾: 我将引导你,但丁!"
+  },
+  "< Urizen are going to cast a shockwave,Defeat him fast! >": {
+    "translation": "< 尤里曾将要释放冲击波,快击败他! >"
+  },
+  "< Zombie inside the tunnel. >": {
+    "translation": "< 隧道里有僵尸. >"
+  },
+  "< You failed. >": {
+    "translation": "< 你失败了. >"
+  },
+  "> ACT IV CLEARED <": {
+    "translation": "> 第四幕完结 <"
+  },
+  "Devil Hunter >Dante< has join the game!": {
+    "translation": "传奇猎魔人 >但丁< 已加入游戏!"
+  },
+  "off": {
+    "translation": "关闭"
+  },
+  "on": {
+    "translation": "打开"
+  },
+  "2": {
+    "translation": "2"
+  },
+  "w": {
+    "translation": "w"
+  },
+  "a": {
+    "translation": "a"
+  },
+  "s": {
+    "translation": "s"
+  },
+  "d": {
+    "translation": "d"
+  },
+  "333": {
+    "translation": "333"
+  },
+  "< Dante has been take down... >": {
+    "translation": "< 但丁已被击倒... >"
+  },
+  "> 35 <": {
+    "translation": "> 35 <",
+    "countdown": 35
+  },
+  "> Now go place the bug. <": {
+    "translation": "> 现在去放置虫子. <"
+  },
+  ">Dante: This portal could take us to the tree top.": {
+    "translation": ">但丁: 这个传送门可以带我们去往树顶."
+  },
+  ">Dante: We're about to face my brother.": {
+    "translation": ">但丁: 我们要面对我的哥哥了."
+  },
+  ">Dante: Prepare yourself.": {
+    "translation": ">但丁: 做好准备."
+  },
+  ">Dante: Are you ready?": {
+    "translation": ">但丁: 你准备好了吗?"
+  },
+  ">Dante: Our journey is about to end...": {
+    "translation": ">但丁: 我们的旅程即将结束..."
+  },
+  "> Arena seal in 20 sec <": {
+    "translation": "> 竞技场封印将在20秒后生效 <",
+    "countdown": 20
+  },
+  "< Arena has sealed >": {
+    "translation": "< 竞技场已被封印 >"
+  },
+  "< All items except Heal has disabled. >": {
+    "translation": "< 除治疗外所有物品已被禁用. >"
+  },
+  "< I didn't finish the cutsence so skip this shlt >": {
+    "translation": "< 我还没说完这句话,所以跳过这一段吧 >"
+  },
+  ">Vergil: Shall we begin?": {
+    "translation": ">维吉尔: 我们开始吧?"
+  },
+  "< Arena are no longer sealed >": {
+    "translation": "< 竞技场不再被封印 >"
+  },
+  ">Vergil: Jackpot.": {
+    "translation": ">维吉尔: 头奖."
+  },
+  "> 3 <": {
+    "translation": "> 3 <",
+    "countdown": 3
+  },
+  "< Vergil has been repelled! >": {
+    "translation": "< 维吉尔已被击退! >"
+  },
+  "< Vergil's phantom has vanished. >": {
+    "translation": "< 维吉尔的分身消失了. >"
+  },
+  "< Devil May Cry >": {
+    "translation": "< Devil May Cry >"
+  },
+  "The End.": {
+    "translation": "The End."
+  },
+  "感谢你的游玩测试!": {
+    "translation": "感谢你的游玩测试!"
+  },
+  "虽然地图没达到我想要的效果,但希望你享受到了地图的氛围.": {
+    "translation": "虽然地图没达到我想要的效果,但希望你享受到了地图的氛围."
+  },
+  "< You have been devoured by the storm... >": {
+    "translation": "< 你已被风暴吞噬... >"
+  },
+  "Devil Breaker >Sweet Surrender< Obtained": {
+    "translation": "恶魔破坏者 >爱抚< 已获得"
+  },
+  "Devil Breaker >Rawhide< Obtained": {
+    "translation": "恶魔破坏者 >链剑< 已获得"
+  },
+  "Devil Breaker >Ragtime< Obtained": {
+    "translation": "恶魔破坏者 >时停< 已获得"
+  },
+  "Devil Breaker >Overture< Obtained": {
+    "translation": "恶魔破坏者 >磁暴< 已获得"
+  },
+  "Devil Breaker >Punchline< Obtained": {
+    "translation": "恶魔破坏者 >爆裂< 已获得"
+  },
+  "lock": {
+    "translation": "锁住"
+  },
+  "Devil Breaker >Gerbera< Obtained": {
+    "translation": "恶魔破坏者 >冲击< 已获得"
+  },
+  ">Goliath: Hahahaha!Tremble before my might!": {
+    "translation": ">歌莉娅: 哈哈哈!在我的强大面前颤抖吧!"
+  },
+  ">Nero: It's your grave..Jack it up all you want.": {
+    "translation": ">尼禄: 这是你的坟墓..你想怎么样就怎么样吧."
+  },
+  ">Goliath: The next thing to shatter will be your bones!": {
+    "translation": ">歌莉娅: 接下来要粉碎的将是你的骨头!"
+  },
+  "back": {
+    "translation": "返回"
+  },
+  "unlock": {
+    "translation": "解锁"
+  },
+  "break": {
+    "translation": "打破"
+  },
+  ">Nico: You better take care on using that!": {
+    "translation": ">妮可: 你最好小心使用那个!"
+  },
+  "< Judgment Cut End has been interrupted! >": {
+    "translation": "< 审判中断了! >"
+  },
+  "Devil Breaker >Buster Arm< Obtained": {
+    "translation": "恶魔破坏者 >投技< 已获得"
+  },
+  "Devil Breaker >Mega Buster< Obtained": {
+    "translation": "恶魔破坏者 >洛克炮< 已获得"
+  },
+  "Devil Breaker >Helter Skelter< Obtained": {
+    "translation": "恶魔破坏者 >旋钻< 已获得"
+  },
+  "11": {
+    "translation": "11"
+  },
+  "l": {
+    "translation": "l"
+  },
+  "h": {
+    "translation": "h"
+  },
+  "left": {
+    "translation": "左边"
+  },
+  "right": {
+    "translation": "右边"
+  },
+  "1": {
+    "translation": "1"
+  },
+  "444": {
+    "translation": "444"
+  },
+  "> Final 25 sec <": {
+    "translation": "> 最终25秒 <",
+    "countdown": 25
+  },
+  "< Don't let them get in the last tunnel! >": {
+    "translation": "< 别让他们进入最后一个隧道! >"
+  },
+  ">Vergil: Defeating you like this has no meaning.": {
+    "translation": ">维吉尔: 打败这样的你毫无意义."
+  },
+  ">Dante: C'mon,Vergil.Let's do this!": {
+    "translation": ">但丁: 来吧,维吉尔.让我们开始吧!"
+  },
+  ">Vergil: Heal your wounds,Dante.Get strong.": {
+    "translation": ">维吉尔: 治愈你的伤痛,Dante.变得更加强大."
+  },
+  ">Vergil: After that,we'll settle the matter.": {
+    "translation": ">维吉尔: 在那之后,我们会解决这个事情."
+  },
+  "< Geryon has distorted everyone's time speed! >": {
+    "translation": "< 革律翁扭曲了每个人的时间! >"
+  },
+  "< Avoid their attacks with your speed,React quickly! >": {
+    "translation": "< 用你的速度避开他们的攻击,迅速反应! >"
+  },
+  "< Slay Mode has enabled! >": {
+    "translation": "< 杀戮模式已启用! >"
+  },
+  "< Slay Mode has disabled! >": {
+    "translation": "< 杀戮模式已关闭! >"
+  }
+}
