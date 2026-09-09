@@ -21,10 +21,10 @@
     "econIntern": 0.45
   },
   "2": {
-    "rankPasses": 40,
+    "rankPasses": 30,
     "rankDamage": 22000,
     "rankIntern": 0.5,
-    "econPasses": 30,
+    "econPasses": 25,
     "econDamage": 24000,
     "econIntern": 0.45
   },
