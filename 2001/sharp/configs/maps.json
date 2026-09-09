@@ -4038,7 +4038,7 @@
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
-    "requiredPlayers": 30
+    "requiredPlayers": -1
   },
   "ze_outerwilds": {
     "admin": false,
