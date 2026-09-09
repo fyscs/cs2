@@ -22,32 +22,6 @@
 
 {
   "Proxy": true,
-  "Breakables": [
-    {
-      "target": "boss_swampmonster_model",
-      "display": "海怪"
-    },
-    {
-      "target": "boss_spiderqueen_model",
-      "display": "蜘蛛女王"
-    },
-    {
-      "target": "boss_ogre_model",
-      "display": "食人魔"
-    },
-    {
-      "target": "boss_slogra_model",
-      "display": "Slogra"
-    },
-    {
-      "target": "boss_gaibon_model",
-      "display": "Gaibon"
-    },
-    {
-      "target": "boss_snowtitan_model",
-      "display": "冰雪巨人"
-    }
-  ],
   "Monsters": [
     {
       "identity": "3111",
