@@ -1,0 +1,172 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***Door vanished***": {
+    "translation": " 大门消失 "
+  },
+  "***45 sec left***": {
+    "translation": " 剩余45秒 "
+  },
+  "***15 sec left***": {
+    "translation": " 剩余15秒 "
+  },
+  "***A ZOMBIE REACHED THE FINAL PLATFORM GG***": {
+    "translation": " 僵尸上最后平台了 GG "
+  },
+  "***CAN YOU LEARN HOW TO SHOOT ???***": {
+    "translation": " 能不能学学怎么射击 "
+  },
+  "ZOMBIE PICKED UP 67 JIHAD": {
+    "translation": " 僵尸拾取67号自爆道具 "
+  },
+  "ZOMBIE PICKED UP ROCKET LAUNCHER": {
+    "translation": " 僵尸拾取火箭发射器 "
+  },
+  "ZOMBIE PICKED UP AMOGUS": {
+    "translation": " 僵尸拾取太空人道具 妈妈我要当太空人 "
+  },
+  "***Round 01***": {
+    "translation": " 第01回合 "
+  },
+  "***Round 02***": {
+    "translation": " 第02回合 "
+  },
+  "***Round 03***": {
+    "translation": " 第03回合 "
+  },
+  "***Round 04***": {
+    "translation": " 第04回合 "
+  },
+  "***Round 05***": {
+    "translation": " 第05回合 "
+  },
+  "***Round 06***": {
+    "translation": " 第06回合 "
+  },
+  "***Round 07***": {
+    "translation": " 第07回合 "
+  },
+  "***Round 08***": {
+    "translation": " 第08回合 "
+  },
+  "***YOU FUCKIN BEAST***": {
+    "translation": " 你太猛了, "
+  },
+  "HUMAN PICKED UP BOOMSTICK": {
+    "translation": " 人类拾取霰弹枪 "
+  },
+  "HUMAN PICKED UP JELLY FISH JAM": {
+    "translation": " 人类拾取水母道具 "
+  },
+  "HUMAN PICKED UP SLEEPY": {
+    "translation": " 人类拾取昏睡道具 "
+  },
+  "HUMAN PICKED UP FART": {
+    "translation": " 人类拾取臭气道具 "
+  },
+  "ZOMBIE PICKED UP BAGUETTE": {
+    "translation": " 僵尸拾取法棍道具 "
+  },
+  "HUMAN PICKED UP DESTROYER": {
+    "translation": " 人类拾取毁灭者 "
+  },
+  "ZOMBIE PICKED UP HOOP": {
+    "translation": " 僵尸拾取圆环道具 "
+  },
+  "ZOMBIE PICKED UP BANANA BOMB": {
+    "translation": " 僵尸拾取香蕉炸弹 "
+  },
+  "ZOMBIE PICKED UP UNO REVERSE CARD": {
+    "translation": " 僵尸拾取uno反转牌 "
+  },
+  "ZOMBIE PICKED UP SHIELD": {
+    "translation": " 僵尸拾取护盾 "
+  },
+  "HUMAN PICKED UP PIZZA": {
+    "translation": " 人类拾取了披萨 "
+  },
+  "Teleporting losers in 30 sec": {
+    "translation": " 30秒后投喂落后的小零食 "
+  },
+  "READY TO GO ?": {
+    "translation": " 准备出发 "
+  },
+  "Teleporting losers in 5 sec": {
+    "translation": " 5秒后投喂落后的小零食 "
+  },
+  "WELCOME TO ZE_ICESKATE": {
+    "translation": " 欢迎来到ze滑冰冰 "
+  },
+  "MADE BY RAPHI & KING BUZZO": {
+    "translation": " 制作作者 raphi 与 king buzzo 翻译:白姬"
+  },
+  "***HUMANS WIN !!***": {
+    "translation": " 人类胜利 "
+  },
+  "***ZOMBIES WIN !!***": {
+    "translation": " 僵尸胜利 "
+  },
+  "***Ending selected: Capture the blue circles***": {
+    "translation": " 已选择结局 占领蓝色圆圈 "
+  },
+  "***Score 300 points to win the round***": {
+    "translation": " 获得300分即可赢得回合 "
+  },
+  "***Ending selected: Classic***": {
+    "translation": " 已选择结局 经典模式 "
+  },
+  "***Reach the top and escape***": {
+    "translation": " 抵达顶端完成逃生 "
+  },
+  "***Ending selected: Dodgeball***": {
+    "translation": " 已选择结局 躲避球模式 "
+  },
+  "***Last human alive wins!***": {
+    "translation": " 最后存活的人类获胜 "
+  },
+  "***or survive 2 minutes***": {
+    "translation": " 或者存活2分钟 "
+  },
+  "***GG !***": {
+    "translation": " 对局结束 "
+  },
+  "Too slow... Picking random": {
+    "translation": " 磨磨唧唧干嘛呢 给你随便选一个了 "
+  },
+  "***Ending selected: British Bulldog***": {
+    "translation": " 已选择结局 斗牛犬模式 "
+  },
+  "***Humans will have to cross the arena 8 time***": {
+    "translation": " 人类需要穿越竞技场8次 "
+  },
+  "***Zombies can place obstacles and have to catch humans***": {
+    "translation": " 僵尸可以放置障碍并抓捕人类 "
+  },
+  "***Teleporting Zombies in 3***": {
+    "translation": " 3秒后传送僵尸 "
+  },
+  "***You have 15 sec to cross the arena !***": {
+    "translation": " 你有15秒穿越竞技场 "
+  },
+  "***3***": {
+    "translation": " 3 "
+  },
+  "***2***": {
+    "translation": " 2 "
+  },
+  "***1***": {
+    "translation": " 1 "
+  },
+  "***Door closed***": {
+    "translation": " 大门关闭 "
+  }
+}
