@@ -3883,9 +3883,9 @@
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "cooldown": 70,
     "nomination": true,
-    "price": 2000,
-    "requiredOnline": 900,
-    "requiredPlayers": 50
+    "price": 1000,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
   },
   "ze_obj_redemption": {
     "admin": false,
