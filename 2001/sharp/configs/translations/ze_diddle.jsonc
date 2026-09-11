@@ -1150,7 +1150,8 @@
     "translation": "商店已售罄"
   },
   "防守128s": {
-    "translation": "防守128秒"
+    "translation": "防守128秒",
+    "countdown": 128
   },
   "***COME IN TO PICK UP LEFTOVERS (IF ANY)***": {
     "translation": "可以进来看看能不能捡漏啥吧"
