@@ -78,6 +78,18 @@
     {
       "identity": "3429",
       "display": "史莱克"
+    },
+    {
+      "identity": "4735",
+      "display": "红墙"
+    },
+    {
+      "identity": "4741",
+      "display": "绿墙"
+    },
+    {
+      "identity": "4746",
+      "display": "黄墙"
     }
   ]
 }
