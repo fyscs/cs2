@@ -35,15 +35,15 @@
       "display": "白骨龙"
     },
     {
-      "iterator": "boss_death_hitbox",
+      "target": "boss_death_hitbox",
       "display": "死神"
     },
     {
-      "iterator": "boss_dracula_hitbox",
+      "target": "boss_dracula_hitbox",
       "display": "德古拉"
     },
     {
-      "iterator": "boss_dracula_monster_hitbox",
+      "target": "boss_dracula_monster_hitbox",
       "display": "怪物德古拉"
     }
   ],
