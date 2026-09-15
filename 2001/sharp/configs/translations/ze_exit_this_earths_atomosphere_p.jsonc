@@ -56,7 +56,7 @@
     "translation": "火箭将于20秒后触发"
   },
   "Elevator going back in 5s!": {
-    "translation": "电梯5秒后返程！"
+    "translation": "电梯5秒后返程!"
   },
   "Truck starting in 10s": {
     "translation": "卡车将于10秒后启动"
@@ -140,6 +140,6 @@
     "translation": "小行星撞击航天飞机"
   },
   "*** WARMUP. LOADING SPAWNGROUP...***": {
-    "translation": "热身中，正在加载生成组"
+    "translation": "热身中,正在加载生成组"
   }
 }
