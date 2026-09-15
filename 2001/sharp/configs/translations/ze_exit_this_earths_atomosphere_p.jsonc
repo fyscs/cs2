@@ -1,0 +1,145 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Nah": {
+    "translation": "算了"
+  },
+  "USE MAD NOW!": {
+    "translation": "立刻使用MAD!"
+  },
+  "SHOOT ALL ASTEROIDS!!": {
+    "translation": "击毁所有小行星!!"
+  },
+  "Truck starting in 15s": {
+    "translation": "卡车将于15秒后启动"
+  },
+  "Tram leaving in 20s": {
+    "translation": "电车将于20秒后出发"
+  },
+  "Building doors will open in 20s": {
+    "translation": "建筑大门将于20秒后开启"
+  },
+  "Apartment doors will open in 10s": {
+    "translation": "公寓门将于10秒后开启"
+  },
+  "Wood blocker will break in 10s": {
+    "translation": "木质障碍物将于10秒后损毁"
+  },
+  "Fence shortcut in 5s": {
+    "translation": "围栏捷径将于5秒后开启"
+  },
+  "Parking lot garage will open in 30s": {
+    "translation": "停车场车库将于30秒后开启"
+  },
+  "Door opens in 20s": {
+    "translation": "大门将于20秒后开启"
+  },
+  "Wood door will break in 15s": {
+    "translation": "木门将于15秒后损毁"
+  },
+  "Door will open in 15s": {
+    "translation": "大门将于15秒后开启"
+  },
+  "Elevator starting in 40s": {
+    "translation": "电梯将于40秒后启动"
+  },
+  "Rocket trigger in 20s": {
+    "translation": "火箭将于20秒后触发"
+  },
+  "Elevator going back in 5s!": {
+    "translation": "电梯5秒后返程!"
+  },
+  "Truck starting in 10s": {
+    "translation": "卡车将于10秒后启动"
+  },
+  "Bunker door closing in 10s": {
+    "translation": "地堡大门将于10秒后关闭"
+  },
+  "Tram starting in 15s": {
+    "translation": "电车将于15秒后启动"
+  },
+  "Ladder shortcut open": {
+    "translation": "梯子捷径已开启"
+  },
+  "Big doors opening in 20s": {
+    "translation": "大型闸门将于20秒后开启"
+  },
+  "MAD picked up": {
+    "translation": "拾取MAD"
+  },
+  "Tram will move in 10s": {
+    "translation": "电车将于10秒后移动"
+  },
+  "Grate blocker will break in 15s": {
+    "translation": "格栅障碍物将于15秒后损毁"
+  },
+  "Elevator starting in 20s": {
+    "translation": "电梯将于20秒后启动"
+  },
+  "Tram is coming down": {
+    "translation": "电车正在下降"
+  },
+  "Elevator doors will open in 20s": {
+    "translation": "电梯门将于20秒后开启"
+  },
+  "Elevator starting in 5s": {
+    "translation": "电梯将于5秒后启动"
+  },
+  "Entrance to the underground opens in 30s": {
+    "translation": "地下入口将于30秒后开启"
+  },
+  "A secret underground entrance": {
+    "translation": "一处秘密地下入口"
+  },
+  "Window glass breaks in 20s": {
+    "translation": "窗玻璃将于20秒后碎裂"
+  },
+  "Door is opening": {
+    "translation": "大门正在开启"
+  },
+  "Tram will move in 25s": {
+    "translation": "电车将于25秒后移动"
+  },
+  "Wood blocker will break in 20s": {
+    "translation": "木质障碍物将于20秒后损毁"
+  },
+  "ONE": {
+    "translation": "一"
+  },
+  "TWO": {
+    "translation": "二"
+  },
+  "THREE": {
+    "translation": "三"
+  },
+  "Bunker door will open in 15s": {
+    "translation": "地堡大门将于15秒后开启"
+  },
+  "ADP picked up": {
+    "translation": "拾取ADP"
+  },
+  "Door opens in 10s": {
+    "translation": "大门将于10秒后开启"
+  },
+  "ADP is now available!": {
+    "translation": "ADP现已可用!"
+  },
+  "ADP available!": {
+    "translation": "ADP可用!"
+  },
+  "Asteroid hit the space shuttle": {
+    "translation": "小行星撞击航天飞机"
+  },
+  "*** WARMUP. LOADING SPAWNGROUP...***": {
+    "translation": "热身中,正在加载生成组"
+  }
+}
