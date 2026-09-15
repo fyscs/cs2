@@ -1,0 +1,490 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***A CRYSTAL HAS BEEN ABSORBED***": {
+    "translation": "水晶已被吸收"
+  },
+  "***A KEY HAS BEEN ACQUIRED***": {
+    "translation": "已获得钥匙"
+  },
+  "***A LEVER HAS BEEN PRESSED***": {
+    "translation": "已按下杠杆"
+  },
+  "***THE GATE IS OPEN***": {
+    "translation": "大门打开"
+  },
+  "***OPENING GATE***": {
+    "translation": "大门正在开启"
+  },
+  "***BRIDGE IS LOWERING IN 15 SECONDS***": {
+    "translation": "桥在15秒后降下"
+  },
+  "***BRIDGE IS LOWERING***": {
+    "translation": "桥已降下"
+  },
+  "***STAGE 5 -- THE CAVES***": {
+    "translation": "阶段五-蜘蛛洞穴"
+  },
+  "***STAGE 6 -- THE MOUNTAIN***": {
+    "translation": "阶段六-茫茫雪山"
+  },
+  "***USE THE TNT TO OPEN UP THE BLOCKADE***": {
+    "translation": "使用TNT来炸开封锁线"
+  },
+  "***TIP -- DONT WASTE THE TORCHES***": {
+    "translation": "提示-不要浪费火把"
+  },
+  "***THE ELEVATOR IS LEAVING IN 30 SECONDS***": {
+    "translation": "电梯30秒后离开"
+  },
+  "***TIP -- DEFEND AS EARLY ON AS POSSIBLE***": {
+    "translation": "提示-尽可能的在前面防守"
+  },
+  "***TIP -- DEFENDING THE UPPER SECTION IS CRUCIAL***": {
+    "translation": "提示-防守上层是至关重要的"
+  },
+  "***THE ELEVATOR WILL ASCEND IN 30 SECONDS***": {
+    "translation": "电梯将在30秒后上升"
+  },
+  "***THE ELEVATOR WILL ASCEND IN 20 SECONDS***": {
+    "translation": "电梯将在20秒后上升"
+  },
+  "***THE ELEVATOR WILL ASCEND IN 5 SECONDS***": {
+    "translation": "电梯将在5秒后离开"
+  },
+  "***THE ELEVATOR IS LEAVING IN 20 SECONDS***": {
+    "translation": "电梯20秒后离开"
+  },
+  "***THE ELEVATOR IS LEAVING IN 10 SECONDS***": {
+    "translation": "电梯10秒后离开"
+  },
+  "***THE ELEVATOR IS LEAVING IN 5 SECONDS***": {
+    "translation": "电梯5秒后离开"
+  },
+  "***THE ELEVATOR IS LEAVING***": {
+    "translation": "电梯已经离开"
+  },
+  "***THE ELEVATOR IS ASCENDING TOWARDS THE SURFACE***": {
+    "translation": "电梯正在上升"
+  },
+  "***FALL BACK***": {
+    "translation": "撤退"
+  },
+  "***HOLD OUT FOR 30 SECONDS***": {
+    "translation": "守住30秒"
+  },
+  "***20 SECONDS LEFT***": {
+    "translation": "还剩20秒"
+  },
+  "***DEFEND FOR 20 SECONDS***": {
+    "translation": "防守20秒"
+  },
+  "***10 SECONDS LEFT***": {
+    "translation": "还剩10秒"
+  },
+  "***5 SECONDS LEFT***": {
+    "translation": "还剩5秒"
+  },
+  "***STAND YOUR GROUND FOR 20 SECONDS***": {
+    "translation": "坚守这个地方20秒"
+  },
+  "***THE SPIDER QUEEN HAS BEEN SLAIN***": {
+    "translation": "蜘蛛女王已被杀死"
+  },
+  "***ESCAPE TOWARDS THE SURFACE***": {
+    "translation": "逃到地面"
+  },
+  "***HURRY***": {
+    "translation": "赶快"
+  },
+  "***SOMETHING IS CHASING US***": {
+    "translation": "有什么鬼祟的东西在追着我们"
+  },
+  "***RUN FOR YOUR LIFE***": {
+    "translation": "小命不保了,快跑"
+  },
+  "***KILL THE SPIDER QUEEN***": {
+    "translation": "杀死蜘蛛女王"
+  },
+  "***ITS COMING***": {
+    "translation": "它来了"
+  },
+  "***THE SPIDER WEB IS SLOWING US DOWN***": {
+    "translation": "蜘蛛网让我们的速度骤然下降"
+  },
+  "***THE ELEVATOR WILL ASCEND IN 10 SECONDS***": {
+    "translation": "电梯将在10秒后离开"
+  },
+  "***YOU LOST***": {
+    "translation": "失败"
+  },
+  "***THE VIP HAS BEEN KILLED***": {
+    "translation": "VIP已死亡"
+  },
+  "***WOMBO COMBO!***": {
+    "translation": "组合技"
+  },
+  "***WOMBO COMBO ENDED!***": {
+    "translation": "组合技结束"
+  },
+  "***STAGE 7 -- THE ROAD TO CASTLE DRACULA***": {
+    "translation": "阶段七-德古拉城堡"
+  },
+  "***HOLD HERE FOR 15 SECONDS***": {
+    "translation": "在这里守住15秒"
+  },
+  "***TIP -- A STRONG ENOUGH ITEM COULD BREAK THE SNOW***": {
+    "translation": "提示-一件足够坚固的物品可以打破积雪"
+  },
+  "***WE HAVE AT LAST ARRIVED AT THE CHAPEL***": {
+    "translation": "我们终于到达了教堂"
+  },
+  "***FIND A WAY INSIDE***": {
+    "translation": "找到出路"
+  },
+  "***HOLD FOR 20 SECONDS***": {
+    "translation": "防守20秒"
+  },
+  "***STAND BACK***": {
+    "translation": "往后退"
+  },
+  "***IT'S A SNOW TITAN***": {
+    "translation": "这是冰霜巨人"
+  },
+  "***IT'S ABOUT TO ATTACK***": {
+    "translation": "即将发起攻击"
+  },
+  "***FALL BACK TO THE CHAPEL***": {
+    "translation": "返回教堂"
+  },
+  "***HOLD HERE FOR 20 SECONDS***": {
+    "translation": "在这里守住20秒"
+  },
+  "***THE TITAN IS MOVING***": {
+    "translation": "泰坦开始移动"
+  },
+  "***DEFEND FOR 15 SECONDS***": {
+    "translation": "守住15秒"
+  },
+  "***HOLD YOUR GROUND HERE***": {
+    "translation": "守住你的阵地"
+  },
+  "***CLIMB TO THE TOP OF THE CHAPEL***": {
+    "translation": "爬到教堂的顶部"
+  },
+  "***...IN THE NEXT VERSION...***": {
+    "translation": "...将在下个版本出现"
+  },
+  "***YOU DID IT***": {
+    "translation": "你做到了"
+  },
+  "***THE SNOW TITANS ATTACK HAS BEEN INTERRUPTED***": {
+    "translation": "泰坦的攻击已被中断"
+  },
+  "***STAGE 4 -- THE SWAMP***": {
+    "translation": "阶段四-沼泽怪物"
+  },
+  "***HOLD THEM BACK FOR 60 SECONDS***": {
+    "translation": "守住60秒"
+  },
+  "***TIP - DEFEND AND SLOW THE ZOMBIES DOWN ALONG THE WAY***": {
+    "translation": "提示-守住并拖慢僵尸的步伐"
+  },
+  "***TIP - HUGGING THE WALL WONT HELP YOUR TEAM***": {
+    "translation": "提示-紧贴着门并不会对你的团队有任何帮助"
+  },
+  "***ESCAPE INTO THE CAVES***": {
+    "translation": "进入洞穴"
+  },
+  "***THE SWAMPMONSTER HAS BEEN SLAIN***": {
+    "translation": "沼泽怪物已死亡"
+  },
+  "***HOLD THEM OFF***": {
+    "translation": "拖住他们"
+  },
+  "***THE CAVES WILL COLLAPSE IN 20 SECONDS***": {
+    "translation": "洞穴20秒后坍塌"
+  },
+  "***THE CAVES WILL COLLAPSE IN 5 SECONDS***": {
+    "translation": "洞穴5秒后坍塌"
+  },
+  "***KILL THE SWAMPMONSTER***": {
+    "translation": "杀死沼泽怪物"
+  },
+  "***YOU GET OVERWHELMED BY A FEELING OF DESPAIR***": {
+    "translation": "你被一种绝望的情绪所围绕"
+  },
+  "***EVERYONE GET IN POSITION***": {
+    "translation": "所有人准备就位"
+  },
+  "***STAGE 3 -- THE FOREST***": {
+    "translation": "阶段三-恐怖森林"
+  },
+  "***MAKE YOUR WAY THROUGH THE FOREST***": {
+    "translation": "找到可以穿过森林的道路"
+  },
+  "***HOLD THIS AREA - GATHER EVERYBODY UP***": {
+    "translation": "守住这里-等到大家集合"
+  },
+  "***MOVE FURTHER INTO THE FOREST***": {
+    "translation": "准备深入森林"
+  },
+  "***TIP -- DO NOT RUN INSTANTLY TO THE HOLD***": {
+    "translation": "提示-不要立即前往据点"
+  },
+  "***TIP -- PUSH THEM BACK AS YOU FALL BACK - SLOW THEM DOWN***": {
+    "translation": "提示-撤退时不要忘记的你身后追赶着什么"
+  },
+  "***HOLD YOUR GROUND HERE FOR A WHILE***": {
+    "translation": "在这里稍等一会"
+  },
+  "***MIND THE PARALLELL PATH IF ZOMBIFIED***": {
+    "translation": "当你变成僵尸时-注意找一下第二条道路"
+  },
+  "***DEFEND THE CHAPEL***": {
+    "translation": "守住教堂"
+  },
+  "***THE CHAPEL TOWER IS OPEN***": {
+    "translation": "教堂高塔大门已打开"
+  },
+  "***TIP -- MAKE SURE TO HOLD BOTH THE TOP AND BOTTOM***": {
+    "translation": "提示-两条道路都要有人去防守"
+  },
+  "***SOMEONE NEEDS TO GET THE TNT IN ORDER TO BLOW UP THE GATE***": {
+    "translation": "需要有人拿到TNT炸开大门"
+  },
+  "***TIP -- LET ONE PLAYER CLIMB FOR IT AS THE REST HOLDS THE ZOMBIES OFF***": {
+    "translation": "提示-让一位玩家爬上去拿TNT,其余玩家守住僵尸"
+  },
+  "***TIP -- YOU CAN ALSO BREAK THE GATE USING NORMAL ITEMS***": {
+    "translation": "提示-你也可以用其余东西打开大门"
+  },
+  "***TIP -- ...HOWEVER IT WILL TAKE ALOT LONGER***": {
+    "translation": "提示-但那会花费更多的时间"
+  },
+  "***CLIMB TOWARDS THE TOP***": {
+    "translation": "爬到顶部"
+  },
+  "***PROVE YOUR WORTH***": {
+    "translation": "证明你的价值"
+  },
+  "***CLIMB THE RUBBLE TO GET INSIDE***": {
+    "translation": "通过残破建筑留下的瓦砾进入里面"
+  },
+  "***GOOD LUCK***": {
+    "translation": "祝你好运"
+  },
+  "***MEET YOUR ADVERSARIES...***": {
+    "translation": "那是你的对手"
+  },
+  "***SLOGRA AND GAIBON***": {
+    "translation": "slogra和gaibon"
+  },
+  "***DEFEAT SLOGRA***": {
+    "translation": "击败slogra"
+  },
+  "***SLOGRA HAS FALLEN***": {
+    "translation": "slogra已倒下"
+  },
+  "***SLOW THE ZOMBIES DOWN***": {
+    "translation": "拖住僵尸-给我们争取时间"
+  },
+  "***YOU HAVE INFILTRATED THE TOWER***": {
+    "translation": "你已成功进入高塔"
+  },
+  "***MAKE YOUR WAY TO THE TOP***": {
+    "translation": "想办法到达高塔顶部"
+  },
+  "***GET INSIDE THE TOWER THROUGH THE CHAPEL***": {
+    "translation": "通过教堂进入高塔"
+  },
+  "***DEFEAT GAIBON***": {
+    "translation": "击败gaibon"
+  },
+  "***GAIBON HAS BEEN DEFEATED***": {
+    "translation": "gaibon被打败了"
+  },
+  "***THE TOWER IS COLLAPSING***": {
+    "translation": "高塔开始倒塌"
+  },
+  "***ESCAPE***": {
+    "translation": "逃离这个地方"
+  },
+  "***GO OUT THROUGH THE MAIN GATE***": {
+    "translation": "准备从大门处离开"
+  },
+  "***WATCH OUT!***": {
+    "translation": "小心"
+  },
+  "***BEHIND YOU!***": {
+    "translation": "在你后面"
+  },
+  "***IT'S NOT OVER YET***": {
+    "translation": "还没结束呢"
+  },
+  "***STAGE COMPLETE***": {
+    "translation": "阶段完成"
+  },
+  "***MOVING ON TO...***": {
+    "translation": "继续..."
+  },
+  "***BRING THEM DOWN***": {
+    "translation": "拿下他们"
+  },
+  "***MAN THE CANNONS***": {
+    "translation": "需要人类进入船舱进行炮击"
+  },
+  "***ENEMY INCOMING***": {
+    "translation": "敌船来袭"
+  },
+  "***STAGE 1 -- THE SHIP***": {
+    "translation": "阶段一-遭遇海怪"
+  },
+  "***STAGE 2 -- THE TOWN***": {
+    "translation": "阶段二-无人小镇"
+  },
+  "***SHOOT THE TENTACLES***": {
+    "translation": "射击海怪伸出来的触手"
+  },
+  "***KILL THE SEAMONSTER***": {
+    "translation": "杀死海怪"
+  },
+  "***WE ARE SURROUNDED BY DARKNESS***": {
+    "translation": "我们被黑暗包围了"
+  },
+  "***BAD WEATHER IS COMING***": {
+    "translation": "糟糕!我们遇上了坏天气"
+  },
+  "***PREPARE FOR AN EPIC JOURNEY***": {
+    "translation": "准备开始一次史诗般的旅行"
+  },
+  "***ZE_CASTLEVANIA***": {
+    "translation": "恶魔城 作者:luffaren  文本:Zeyu1"
+  },
+  "***LUFFAREN PROUDLY PRESENTS...***": {
+    "translation": "luffaren自豪的介绍"
+  },
+  "***WE'RE SAVED***": {
+    "translation": "我们似乎赢了"
+  },
+  "***WE DID IT***": {
+    "translation": "海怪死了"
+  },
+  "***YOU FAILED***": {
+    "translation": "你失败了"
+  },
+  "***YOUR BULLETS WONT REACH IT***": {
+    "translation": "该死!我们不能命中他的本体"
+  },
+  "***ADMIN ROOM - STAGE 1 SET***": {
+    "translation": "调关房-阶段一"
+  },
+  "***ADMIN ROOM - STAGE 2 SET***": {
+    "translation": "调关房-阶段二"
+  },
+  "***ADMIN ROOM - STAGE 3 SET***": {
+    "translation": "调关房-阶段三"
+  },
+  "***ADMIN ROOM - STAGE 4 SET***": {
+    "translation": "调关房-阶段四"
+  },
+  "***ADMIN ROOM - STAGE 5 SET***": {
+    "translation": "调关房-阶段五"
+  },
+  "***ADMIN ROOM - STAGE 6 SET***": {
+    "translation": "调关房-阶段六"
+  },
+  "***ADMIN ROOM - KILL ALL***": {
+    "translation": "处死全体"
+  },
+  "***GET RID OF THE REMAINING ZOMBIES***": {
+    "translation": "摆脱剩余的僵尸"
+  },
+  "***THE FIRE IS OBSTRUCTING YOUR PATH***": {
+    "translation": "大火挡住了我们的道路"
+  },
+  "***HOLD OUT UNTIL IT'S EXTINGUISHED***": {
+    "translation": "坚持到它熄灭"
+  },
+  "***THE FIRE IS OUT***": {
+    "translation": "火被扑灭了"
+  },
+  "***MOVE IT***": {
+    "translation": "前进"
+  },
+  "***WATCH OUT***": {
+    "translation": "当心"
+  },
+  "***SAVE YOURSELVES SOME TIME BY HOLDING THEM BACK***": {
+    "translation": "尽可能断后, 可以为你们争取大把时间"
+  },
+  "***HOLD OUT AS LONG AS POSSIBLE***": {
+    "translation": "能守多久是多久"
+  },
+  "***THE TOWN IS UNDER ATTACK***": {
+    "translation": "城镇正在遭到攻击"
+  },
+  "***DEFEND THE STAIRS FOR 40 SECONDS***": {
+    "translation": "在阶梯处防守40秒"
+  },
+  "***THE DEBRIS IS BLOCKING YOUR PATH***": {
+    "translation": "碎石挡住了我们的去路"
+  },
+  "***SPAM E ON IT TO REMOVE IT***": {
+    "translation": "在面前按E可以清理道路"
+  },
+  "***THE MORE PEOPLE CLEARING IT THE FASTER IT WILL TAKE***": {
+    "translation": "人越多清理的速度越快"
+  },
+  "***YOU MADE IT TO THE TOWN ENTRANCE***": {
+    "translation": "你已成功到达城镇大门"
+  },
+  "***HOLD THE ZOMBIES BACK FOR A WHILE***": {
+    "translation": "不要让僵尸到达这里"
+  },
+  "***TIP - STAY AND HOLD BEHIND THE TOWER***": {
+    "translation": "提示-侧路的瞭望塔即将倒塌"
+  },
+  "***GET ON THE BOARS***": {
+    "translation": "爬到野猪背上"
+  },
+  "***THE OGRE HAS BEEN SLAIN***": {
+    "translation": "食人魔已被击杀"
+  },
+  "***WATCH OUT AHEAD***": {
+    "translation": "小心前方!"
+  },
+  "***INCOMING BOARS***": {
+    "translation": "僵尸可以通过传送门传送至野猪背"
+  },
+  "***THEY ARE AFTER US***": {
+    "translation": "它们在追我们"
+  },
+  "***HOLD THEM BACK WHILE AVOIDING OBSTACLES***": {
+    "translation": "守住它们-并躲避障碍物"
+  },
+  "***SEEMS LIKE WE LOST THEM***": {
+    "translation": "我们似乎赢了"
+  },
+  "***KILL ANY REMAINING ENEMIES***": {
+    "translation": "杀死剩下的敌人"
+  },
+  "***LUFFAREN HAS ENTERED THE GAME***": {
+    "translation": "luffaren进入游戏"
+  },
+  "***DEFEAT THE SNOW TITAN BEFORE IT KILLS US ALL***": {
+    "translation": "在泰坦杀了我们之前打败它"
+  },
+  "***THE SNOW TITAN FELL OFF***": {
+    "translation": "泰坦掉下去了"
+  }
+}

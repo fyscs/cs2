@@ -10,178 +10,232 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "> 往下跳,返回传送门所在之处.": {
-    "translation": "往下跳,返回传送门所在之处"
-  },
-  "> 上升的平台损坏了!?": {
-    "translation": "上升的平台损坏了!?"
-  },
-  "> 只能深入其中了...": {
-    "translation": "只能深入其中了..."
-  },
-  "> 等待此门开启.": {
-    "translation": "等待此门开启"
-  },
-  "< 13 seconds? >": {
-    "translation": "13秒"
-  },
-  "< 11 seconds? >": {
-    "translation": "11秒"
-  },
-  "> 石门正在缓缓开启...": {
-    "translation": "石门正在缓缓开启..."
-  },
   "- Steyliff Grove Re -": {
     "translation": "FF15:斯基利弗宫RE 文本翻译:圣光猫猫&Fys"
   },
   "< Original - Final Fantasy XV >": {
     "translation": "原作:最终幻想XV"
   },
-  "*当前版本<前冲Avant>和<后跳Elusive>未进行区域限制,请勿利用漏洞进行卖人行为*": {
-    "translation": "当前版本<前冲Avant>和<后跳Elusive>未进行区域限制,请勿利用漏洞进行卖人行为"
+  "< Map+ Eugen & Joucho >": {
+    "translation": "原地图作者:Eugen & Joucho"
   },
-  "> 等待传送门开启..": {
-    "translation": "等待传送门开启.."
+  "< 后续制作：runa >": {
+    "translation": "< 后续地图制作:runa"
   },
-  "- 又一次,,,是错觉？ -": {
-    "translation": "又一次,,,是错觉?"
+  "> 幻影剑目前可能存在bug，如果有遇到穿墙之类的情况，请自觉返回地图。": {
+    "translation": "幻影剑目前可能存在bug,如果有遇到穿墙之类的情况,请自觉返回地图"
   },
-  "- 蝴蝶纷飞的花朵,深藏其中的秘密 -": {
-    "translation": "蝴蝶纷飞的花朵,深藏其中的秘密"
+  "> 无法返回地图请自觉处死自己": {
+    "translation": "无法返回地图请自觉处死自己"
   },
-  "> 花と心臓": {
-    "translation": "花と心臓"
+  "> 某些地方存在能用幻影剑提前触发的情况，也不要提前触发": {
+    "translation": "某些地方存在能用幻影剑提前触发的情况,也不要提前触发"
   },
-  "- 命运的道路出现了分岔口 -": {
-    "translation": "命运的道路出现了分岔口"
-  },
-  "< 17 seconds? >": {
-    "translation": "17秒"
-  },
-  "> 平台将在13秒后上升.": {
-    "translation": "平台将在13秒后上升"
-  },
-  "- 时光重来是否会有不一样的结局 -": {
-    "translation": "时光重来是否会有不一样的结局"
-  },
-  "> 是离开这的时刻了...": {
-    "translation": "是离开这的时刻了..."
-  },
-  "< 15 seconds? >": {
-    "translation": "15秒"
-  },
-  "> 搭乘上升平台前往高层.": {
-    "translation": "搭乘上升平台前往高层"
-  },
-  "< 初 >": {
-    "translation": "初"
-  },
-  "< 花 >": {
-    "translation": "花"
-  },
-  "< 12 seconds? >": {
-    "translation": "12秒"
+  "> no卖人": {
+    "translation": "别当卖人的dog"
   },
   "「未完成的,不安定魔法」": {
     "translation": "未完成的,不安定魔法"
   },
-  "> 花妖的试炼之战在10秒后.": {
-    "translation": "花妖的试炼之战在10秒后"
+  "* Despair Devoured *": {
+    "translation": "吞噬绝望"
   },
-  "> 与不明之物的战斗在10秒后.": {
-    "translation": "与不明之物的战斗在10秒后"
+  "Zombie Item Lock": {
+    "translation": "僵尸神器已禁用"
   },
-  "> 等待雾气消散.": {
-    "translation": "等待雾气消散"
+  "Zombie Item Unlock": {
+    "translation": "僵尸神器已解锁"
   },
-  "< 终 >": {
-    "translation": "终"
+  "> 获得了40冰元素 <": {
+    "translation": "获得了40冰元素"
   },
-  "- Zombie Item Lock -": {
-    "translation": "僵尸神器封锁"
+  "> 获得了40火元素 <": {
+    "translation": "获得了40火元素"
   },
-  "- Zombie Item Unlock -": {
-    "translation": "僵尸神器解锁"
+  "> 获得了40雷元素 <": {
+    "translation": "获得了40雷元素"
   },
-  "> 不妙的气息...": {
-    "translation": "不妙的气息..."
+  "> A player has learned [ Hi-Potion ] magic, <": {
+    "translation": "一名玩家掌握了<高级恢复药>魔法"
   },
-  "Merry Christmas Audiฅ^｡ꞈ｡^ฅ": {
-    "translation": "圣诞快乐 Audiฅ^｡ꞈ｡^ฅ"
+  "> A player has learned [ Potion ] magic, <": {
+    "translation": "一名玩家掌握了<恢复药>魔法"
   },
-  "さよなら,ハルメギド": {
-    "translation": "永别,哈鲁梅吉德"
+  "> A player has learned [ Summons ] magic, <": {
+    "translation": "一名玩家掌握了<召唤>魔法"
   },
-  "> A player has learned [ Elusive ] magic, <": {
-    "translation": "一名玩家掌握了<后跳>魔法"
+  "> A player has learned [ DarkSword ] magic, <": {
+    "translation": "一名玩家掌握了<暗剑>魔法"
   },
-  "> A player has learned [ Avant ] magic, <": {
-    "translation": "一名玩家掌握了<前冲>魔法"
+  "> A player has learned [ HolySword ] magic, <": {
+    "translation": "一名玩家掌握了<圣剑>魔法"
   },
-  "> A player has learned [ Sprint ] magic, <": {
-    "translation": "一名玩家掌握了<加速>魔法"
+  "> A player has learned [ Benefic ] magic, <": {
+    "translation": "一名玩家掌握了<增益>魔法"
   },
-  "> A player has learned [ Bio ] magic, <": {
-    "translation": "一名玩家掌握了<生物>魔法"
+  "> A zombie has learned [ Malefic ] magic, <": {
+    "translation": "一名僵尸掌握了<菲克>魔法"
   },
-  "> A player has learned [ Blizzard ] magic, <": {
-    "translation": "一名玩家掌握了<暴雪>魔法"
+  "* DarkSword in Malefic *": {
+    "translation": "暗剑被放逐"
+  },
+  "* HolySword in Malefic *": {
+    "translation": "圣剑被放逐"
+  },
+  "* Fire in Malefic *": {
+    "translation": "火焰被放逐"
+  },
+  "* Aero in Malefic *": {
+    "translation": "风暴被放逐"
+  },
+  "* Thunder in Malefic *": {
+    "translation": "雷电被放逐"
+  },
+  "* Water in Malefic *": {
+    "translation": "水瀑被放逐"
+  },
+  "* Blizzard in Malefic *": {
+    "translation": "暴雪被放逐"
+  },
+  "* Cure in Malefic *": {
+    "translation": "治疗被放逐"
+  },
+  "> A player has learned [ MegaElixir ] magic, <": {
+    "translation": "一名玩家掌握了<高级圣灵药>魔法"
+  },
+  "> A player has learned [ Ether ] magic, <": {
+    "translation": "一名玩家掌握了<以太药>魔法"
+  },
+  "> A player has learned [ Elixir ] magic, <": {
+    "translation": "一名玩家掌握了<圣灵药>魔法"
+  },
+  "> A player has learned [ Mega-Elixir ] magic, <": {
+    "translation": "一名玩家掌握了<终极圣灵药>魔法"
+  },
+  "> A player has learned [ Aero ] magic, <": {
+    "translation": "一名玩家掌握了<风暴>魔法"
   },
   "> A zombie has learned [ Siphon ] magic, <": {
     "translation": "一名僵尸掌握了<加速>魔法"
   },
-  "> A zombie has learned [ Ward ] magic, <": {
-    "translation": "一名僵尸掌握了<冲锋>魔法"
+  "> A zombie has learned [ Umbral ] magic, <": {
+    "translation": "一名僵尸掌握了<暗影>魔法"
+  },
+  "* Umbral Assault *": {
+    "translation": "深黯之影"
+  },
+  "> A zombie has learned [ Gravity ] magic, <": {
+    "translation": "一名僵尸掌握了<黑洞>魔法"
   },
   "> A zombie has learned [ Impact ] magic, <": {
     "translation": "一名僵尸掌握了<冲击>魔法"
   },
-  "> A player has learned [ Fire ] magic, <": {
-    "translation": "一名玩家掌握了<火>魔法"
+  "> A zombie has learned [ Foul ] magic, <": {
+    "translation": "一名僵尸掌握了<污秽>魔法"
   },
-  "- 爆炎已就绪 -": {
-    "translation": "爆炎已就绪"
+  "> A zombie has learned [ Despair ] magic, <": {
+    "translation": "一名僵尸掌握了<绝望>魔法"
   },
-  "> Copy Qiou-Square <": {
-    "translation": "复制 器偶-方阵"
+  "> A zombie has learned [ Frazzle ] magic, <": {
+    "translation": "一名僵尸掌握了<诅咒>魔法"
   },
-  "> Copy Qiou-Beam <": {
-    "translation": "复制 器偶-激光"
+  "* Frazzle Curse *": {
+    "translation": "弗雷泽诅咒"
   },
-  "< 章节完成 >": {
-    "translation": "章节完成"
+  "> A zombie has learned [ Ward ] magic, <": {
+    "translation": "一名僵尸掌握了<冲锋>魔法"
   },
-  "> 似乎领悟了些什么...": {
-    "translation": "似乎领悟了些什么..."
-  },
-  "< 咔咔咔! >": {
-    "translation": "咔咔咔!"
-  },
-  "> 回到传送门之处重新启动它..": {
-    "translation": "回到传送门之处重新启动它.."
-  },
-  "> ❀と❤,": {
-    "translation": "❀と❤"
-  },
-  "> 似乎无法正常启动...": {
-    "translation": "似乎无法正常启动..."
-  },
-  "> A player has learned [ Gravity ] magic, <": {
-    "translation": "一名玩家掌握了<黑洞>魔法"
+  "* Ward Unfold *": {
+    "translation": "壁垒展开"
   },
   "> A player has learned [ Cure ] magic, <": {
     "translation": "一名玩家掌握了<奶>魔法"
   },
-  "> 不明之物的力量并未消散!?": {
-    "translation": "不明之物的力量并未消散!?"
+  "> A player has learned [ Fire ] magic, <": {
+    "translation": "一名玩家掌握了<火焰>魔法"
   },
-  "> 消失了？...": {
-    "translation": "消失了?..."
+  "** 火炎 **": {
+    "translation": "火炎"
   },
-  "> 这个力量是?": {
-    "translation": "这个力量是?"
+  "** 烈炎 **": {
+    "translation": "烈炎"
   },
-  "> 成群的蝙蝠预示着不幸？": {
-    "translation": "成群的蝙蝠预示着不幸?"
+  "** 爆炎 **": {
+    "translation": "爆炎"
+  },
+  "> A player has learned [ Thunder ] magic, <": {
+    "translation": "一名玩家掌握了<雷电>魔法"
+  },
+  "** 闪雷 **": {
+    "translation": "闪雷"
+  },
+  "** 震雷 **": {
+    "translation": "震雷"
+  },
+  "** 暴雷 **": {
+    "translation": "暴雷"
+  },
+  "> A player has learned [ Water ] magic, <": {
+    "translation": "一名玩家掌握了<水瀑>魔法"
+  },
+  "> A player has learned [ Blizzard ] magic, <": {
+    "translation": "一名玩家掌握了<暴雪>魔法"
+  },
+  "** 结冰 **": {
+    "translation": "结冰"
+  },
+  "** 冻结 **": {
+    "translation": "冻结"
+  },
+  "** 冰封 **": {
+    "translation": "冰封"
+  },
+  "> 平台将在14秒后上升.": {
+    "translation": "平台将在14秒后上升"
+  },
+  "> 等待此门开启.19秒": {
+    "translation": "等待此门开启19秒"
+  },
+  "> 某处的门将在10秒后开启.": {
+    "translation": "某处的门将在10秒后开启"
+  },
+  "> 某处的门将在24秒后开启.": {
+    "translation": "某处的门将在24秒后开启"
+  },
+  "> 与巴哈姆特的战斗将在19秒后开始.": {
+    "translation": "与巴哈姆特的战斗将在19秒后开始"
+  },
+  "> 等待此门开启.29秒": {
+    "translation": "等待此门开启29秒"
+  },
+  "> 等待此门开启.14秒": {
+    "translation": "等待此门开启14秒"
+  },
+  "> 传送门将在19秒后开启": {
+    "translation": "传送门将在19秒后开启"
+  },
+  "> 幻影剑禁用": {
+    "translation": "幻影剑禁用"
+  },
+  "> 光幕于19秒后消散": {
+    "translation": "光幕于19秒后消散"
+  },
+  "> 等待此门开启.9秒": {
+    "translation": "等待此门开启9秒"
+  },
+  "** 杀死剩余的僵尸 **": {
+    "translation": "杀死剩余的僵尸"
+  },
+  "> 等待此门开启.24秒": {
+    "translation": "等待此门开启24秒"
+  },
+  "< 11 seconds? >": {
+    "translation": "还有11秒?"
+  },
+  "> 等待屏障消失.19秒": {
+    "translation": "等待屏障消失19秒"
+  },
+  "> 等待此门开启.": {
+    "translation": "等待此门开启"
   }
 }

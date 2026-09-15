@@ -1,0 +1,299 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "先去找到坐标位置吧,向左去教堂": {
+    "translation": "先去找到坐标位置吧,向左去教堂"
+  },
+  "还需要25秒": {
+    "translation": "还需要25秒",
+    "countdown": 25
+  },
+  "去寻求魔女的帮助,鉴定一下带回来的水晶": {
+    "translation": "去寻求魔女的帮助,鉴定一下带回来的水晶"
+  },
+  "去右边区域的时钟下有去该区域的魔法阵": {
+    "translation": "去右边区域的时钟下有去该区域的魔法阵"
+  },
+  "城市视乎被什么东西控制了": {
+    "translation": "城市视乎被什么东西控制了"
+  },
+  "把路障清理干净吧": {
+    "translation": "把路障清理干净吧"
+  },
+  "这是士兵走的小门,把门升起来": {
+    "translation": "这是士兵走的小门,把门升起来"
+  },
+  "还需要10秒": {
+    "translation": "还需要10秒",
+    "countdown": 10
+  },
+  "看来这条路废弃了很久了": {
+    "translation": "看来这条路废弃了很久了"
+  },
+  "继续清理吧": {
+    "translation": "继续清理吧"
+  },
+  "来传送阵上": {
+    "translation": "来传送阵上"
+  },
+  "正在充能": {
+    "translation": "正在充能"
+  },
+  "这个遗迹里好像有线索": {
+    "translation": "这个遗迹里好像有线索"
+  },
+  "想办法把门打开": {
+    "translation": "想办法把门打开"
+  },
+  "打开它": {
+    "translation": "打开它"
+  },
+  "额 好像门坏了": {
+    "translation": "额 好像门坏了"
+  },
+  "破坏掉": {
+    "translation": "破坏掉"
+  },
+  "看起来有些门还能动": {
+    "translation": "看起来有些门还能动"
+  },
+  "没路了?不可能.恩?墙体好像是空的.": {
+    "translation": "没路了?不可能.恩?墙体好像是空的."
+  },
+  "打碎他": {
+    "translation": "打碎他"
+  },
+  "啊,那是什么,快干掉他": {
+    "translation": "啊,那是什么,快干掉他"
+  },
+  "希望这东西还有用": {
+    "translation": "希望这东西还有用"
+  },
+  "不可思议,这居然是传送,这座遗迹的主人也太奢侈了": {
+    "translation": "不可思议,这居然是传送,这座遗迹的主人也太奢侈了"
+  },
+  "把车挪开": {
+    "translation": "把车挪开"
+  },
+  "还需10秒": {
+    "translation": "还需10秒",
+    "countdown": 10
+  },
+  "快把路障弄开": {
+    "translation": "快把路障弄开"
+  },
+  "好多货物,把木头弄开": {
+    "translation": "好多货物,把木头弄开"
+  },
+  "正在升起": {
+    "translation": "正在升起"
+  },
+  "需要等待一下走的慢的人": {
+    "translation": "需要等待一下走的慢的人"
+  },
+  "好了继续走吧": {
+    "translation": "好了继续走吧"
+  },
+  "恩姆,正在准备进行传送": {
+    "translation": "恩姆,正在准备进行传送"
+  },
+  "积蓄能量中": {
+    "translation": "积蓄能量中"
+  },
+  "啊,把路障清掉吧": {
+    "translation": "啊,把路障清掉吧"
+  },
+  "货物挡住了路": {
+    "translation": "货物挡住了路"
+  },
+  "没办法了清理掉吧": {
+    "translation": "没办法了清理掉吧"
+  },
+  "呼呼,应该快到了": {
+    "translation": "呼呼,应该快到了"
+  },
+  "打开他吧": {
+    "translation": "打开他吧"
+  },
+  "doroshy:能来到我这,你们还不错吗": {
+    "translation": "doroshy:能来到我这,你们还不错吗"
+  },
+  "doroshy:跟在你们后面的小虫子交给你们了": {
+    "translation": "doroshy:跟在你们后面的小虫子交给你们了"
+  },
+  "doroshy:研究这个需要一些时间": {
+    "translation": "doroshy:研究这个需要一些时间"
+  },
+  "还需60秒": {
+    "translation": "还需60秒",
+    "countdown": 60
+  },
+  "大门打不开.看来得找别的路了": {
+    "translation": "大门打不开.看来得找别的路了"
+  },
+  "清理旁边的区域,我们走里面": {
+    "translation": "清理旁边的区域,我们走里面"
+  },
+  "事到如今,走院子里吧": {
+    "translation": "事到如今,走院子里吧"
+  },
+  "小心!": {
+    "translation": "小心!"
+  },
+  "看来原来的路好像走不通了,上桥吧": {
+    "translation": "看来原来的路好像走不通了,上桥吧"
+  },
+  "我去,这边被堵住了,快点清理": {
+    "translation": "我去,这边被堵住了,快点清理"
+  },
+  "走中间吧": {
+    "translation": "走中间吧"
+  },
+  "还需要15秒": {
+    "translation": "还需要15秒",
+    "countdown": 15
+  },
+  "准备走了": {
+    "translation": "准备走了"
+  },
+  "等一会走的慢的人": {
+    "translation": "等一会走的慢的人"
+  },
+  "再等等走的慢的": {
+    "translation": "再等等走的慢的"
+  },
+  "还需15秒": {
+    "translation": "还需15秒",
+    "countdown": 15
+  },
+  "把墙体破坏掉吧": {
+    "translation": "把墙体破坏掉吧"
+  },
+  "等等?这里好像有个暗门.": {
+    "translation": "等等?这里好像有个暗门."
+  },
+  "想办法给他弄开.": {
+    "translation": "想办法给他弄开."
+  },
+  "这好像有个门,打开他": {
+    "translation": "这好像有个门,打开他"
+  },
+  "这里好像是个门,试着打开": {
+    "translation": "这里好像是个门,试着打开"
+  },
+  "想办法找到出路": {
+    "translation": "想办法找到出路"
+  },
+  "好像有什么声音": {
+    "translation": "好像有什么声音"
+  },
+  "恩,试着打开这个门": {
+    "translation": "恩,试着打开这个门"
+  },
+  "还需要20秒": {
+    "translation": "还需要20秒",
+    "countdown": 20
+  },
+  ">>>10<<<": {
+    "translation": "10",
+    "countdown": 10
+  },
+  "还需要30秒": {
+    "translation": "还需要30秒",
+    "countdown": 30
+  },
+  "烈焰狂奔": {
+    "translation": "烈焰狂奔"
+  },
+  "寒风冰步": {
+    "translation": "寒风冰步"
+  },
+  "眷属召唤": {
+    "translation": "眷属召唤"
+  },
+  "风雷电掣": {
+    "translation": "风雷电掣"
+  },
+  "火域烈焰": {
+    "translation": "火域烈焰"
+  },
+  "万钧烈斩": {
+    "translation": "万钧烈斩"
+  },
+  ">>>炙热之焰<<<": {
+    "translation": "炙热之焰"
+  },
+  ">>>电闪<<<": {
+    "translation": "电闪"
+  },
+  ">>>水冲击<<<": {
+    "translation": "水冲击"
+  },
+  ">>>恶毒侵蚀<<<": {
+    "translation": "恶毒侵蚀"
+  },
+  ">>>闪电冲击<<<": {
+    "translation": "闪电冲击"
+  },
+  ">>>罪与罚<<<": {
+    "translation": "罪与罚"
+  },
+  "毒球已被击破": {
+    "translation": "毒球已被击破"
+  },
+  ">>KILL HIM!!!<<": {
+    "translation": ">>杀了他!!!<<"
+  },
+  ">>IT SEEMS SOMEONE IS BLOCKING THE WAY<<": {
+    "translation": ">>额,道路似乎被什么人拦住了<<"
+  },
+  ">>SHOOT IT!!!<<": {
+    "translation": ">>开枪!!!<<"
+  },
+  ">>WE DEFEAT HIM<<": {
+    "translation": ">>我们击败了他!<<"
+  },
+  ">>KEEP DEFENCE<<": {
+    "translation": ">>保持防守<<"
+  },
+  ">>CRYSTAL IS INJECTING ENERGY<<": {
+    "translation": ">>水晶正在注入能量<<"
+  },
+  ">>WE WILL BE ABLE TO LEAVE SOON<<": {
+    "translation": ">>我们很快就能离开.<<"
+  },
+  ">>Hold for 20 seconds<<": {
+    "translation": ">>防守20秒.<<"
+  },
+  ">>20 seconds remaining<<": {
+    "translation": ">>还剩20秒.<<"
+  },
+  ">>10 seconds remaining<<": {
+    "translation": ">>还剩10秒.<<",
+    "blocked": true
+  },
+  ">>The elevator will leave in 5 seconds<<": {
+    "translation": ">>电梯将在5秒后离开<<"
+  },
+  ">>The library door will open in 30 seconds<<": {
+    "translation": ">>图书馆大门将在30秒后打开<<"
+  },
+  ">>The door will open in 15 seconds<<": {
+    "translation": ">>大门将在15秒后打开<<"
+  },
+  ">>Looks like this is a small path,break the metalfence<<": {
+    "translation": ">>看起来这是一条小路,快打破金属栅栏<<"
+  },
+  ">>THE SIDE DOOR WILL OPEN IN 10 SECONDS<<": {
+    "translation": ">>侧路的门将在10秒后打开<<"
+  }
+}

@@ -1,0 +1,40 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "lll gate to open in 35 sec lll": {
+    "translation": "铁门35秒后打开"
+  },
+  "||| The door is about to be blown open in 35 sec |||": {
+    "translation": "35秒后爆破"
+  },
+  "lll zombie tp in 10 sec lll": {
+    "translation": "僵尸10秒后传送"
+  },
+  "lll A-130 is about to leave in 80 sec lll": {
+    "translation": "飞机80秒后离开"
+  },
+  "lll Waiting for the door to unlock in 30 sec lll": {
+    "translation": "大门30秒后解锁"
+  },
+  "lll TO AVOID THE MINE lll": {
+    "translation": "避开地雷"
+  },
+  "lll Ahead lies a dense minefield. Perhaps Matshu can help us lll": {
+    "translation": "前方是一片密集雷区, 或许麻薯能帮助我们"
+  },
+  "lll gate open in 30 sec lll": {
+    "translation": "铁门30秒后打开"
+  },
+  "lll shutter door in open 30 sec lll": {
+    "translation": "卷帘门30秒后打开"
+  }
+}

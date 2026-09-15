@@ -480,7 +480,7 @@
     "translation": "已获得钥匙 - 塞恩古城"
   },
   "** The gate will open in 10 seconds **": {
-    "translation": "** 大门还有10秒开启 **"
+    "translation": "大门还有10秒开启"
   },
   "** The Top Asylum gates will open in 5 seconds **": {
     "translation": "顶层庇护所 10 秒打开"
@@ -501,12 +501,69 @@
     "translation": "亦有禁忌教派在此扎根之传闻"
   },
   "** The Sanctuary Gates will open in 10 seconds **": {
-    "translation": " 圣殿 10 秒打开"
+    "translation": "圣殿 10 秒打开"
   },
   "** The local clerics what these places hold their own dark secrets **": {
     "translation": "本地牧师皆言 此处暗藏玄机"
   },
   "** The Main Gate will open in 10 seconds **": {
     "translation": "主大门 10 秒打开"
+  },
+  "*** Well done you caught me but can you catch me again? he he he ***": {
+    "translation": "不错,你抓到我了,但你还能再抓到我吗?嘿嘿嘿"
+  },
+  "pass": {
+    "translation": "通过"
+  },
+  "fail": {
+    "translation": "失败"
+  },
+  "** Bonfire activated at 1/5 **": {
+    "translation": "篝火已激活 1/5"
+  },
+  "** Bonfire activated at 2/5 **": {
+    "translation": "篝火已激活 2/5"
+  },
+  "** Bonfire activated at 3/5 **": {
+    "translation": "篝火已激活 3/5"
+  },
+  "** Bonfire activated at 4/5 **": {
+    "translation": "篝火已激活 4/5"
+  },
+  "** Bonfire activated at 5/5 **": {
+    "translation": "篝火已激活 5/5"
+  },
+  "random end": {
+    "translation": "随机结局"
+  },
+  "** You have opened the possibility to be teleported to this bonfire next time! **": {
+    "translation": "已解锁,下次可传送至此篝火!"
+  },
+  "** The Bottom Asylum gates will open in 10 seconds **": {
+    "translation": "下层不死院大门将在10秒后开启"
+  },
+  "*** Welcome traveler what mouse brought you here?  ***": {
+    "translation": "欢迎啊旅人,是什么把你引到这里来的?"
+  },
+  "*** Ah you're lost... poor thing well you're not the first one you won't be the last he he he ***": {
+    "translation": "啊,你迷路了.可怜的家伙.你不是第一个,也绝不会是最后一个"
+  },
+  "*** Want to play a game with me? It's called cat and mouse ***": {
+    "translation": "想和我玩个游戏吗?游戏名叫猫捉老鼠"
+  },
+  "*** You'll be a cat and I'll be a mouse he he he ***": {
+    "translation": "你来当猫,我来当老鼠,嘿嘿嘿"
+  },
+  "*** Catch me a few times and I'll give you something that will make your tail wag with joy ***": {
+    "translation": "多抓到我几次,我就给你一份让你欣喜不已的奖励"
+  },
+  "*** Are you a smart cat or still a silly mouse who doesn't know that he's just being led by the nose? ***": {
+    "translation": "你究竟是只聪明的猫,还是一只被人牵着鼻子走的蠢老鼠?"
+  },
+  "*** Anyway here's your reward you can now travel to this bonfire when your current journey is tragically ends he he he ***": {
+    "translation": "好了,这是你的奖励.倘若你的旅途不幸落幕,你就可以传送到这处篝火,嘿嘿嘿"
+  },
+  "*** I don't think it will change much but enjoy your victory... silly mouse ***": {
+    "translation": "我觉得这改变不了什么,但好好享受你的胜利吧.傻老鼠"
   }
 }

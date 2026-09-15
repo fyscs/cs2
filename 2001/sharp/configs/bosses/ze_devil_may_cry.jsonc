@@ -1,0 +1,67 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only)
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    // 以下Boss共用这一套Boss血条计数器:
+    // [PR#]Boss_Goliath_Hitbox, [PR#]Boss_Urizen_Hitbox, [PR#]Boss_Urizen2_Hitbox,
+    // [PR#]Boss_Angelo_Physbox, [PR#]Boss_Angelo_P2_Physbox.
+    {
+      "iterator": "Boss_HpCounter",
+      "backup": "BossHp_Counter_2",
+      "counter": "BossHpBar_Counter",
+      "reverse": true,
+      "display": "Boss"
+    },
+    {
+      "iterator": "Crystal_HpCounter",
+      "backup": "CrystalHp_Counter_2",
+      "counter": "CrystalHpBar_Counter",
+      "reverse": true,
+      "hitbox": "Boss_Urizen_Hitbox_Crystal",
+      "display": "魔树结晶"
+    },
+    {
+      "iterator": "Act3_Boss_Artmis_Counter",
+      "hitbox": "Act3_Boss_Artmis_Physbox",
+      "display": "阿尔忒弥斯"
+    },
+    {
+      "iterator": "Act4_Final_Urizen_Counter",
+      "hitbox": "Act4_Final_Urizen_Physbox",
+      "display": "尤里曾"
+    },
+    {
+      "iterator": "Act4_Laser_Counter",
+      "hitbox": "Act4_Laser_Hitbox",
+      "display": "真魔人维吉尔"
+    },
+    // 维吉尔第二阶段重置同一计数器, 所以stages写2.
+    {
+      "iterator": "BossHpBar_Counter_Vergil_No",
+      "increase": true,
+      "hitbox": "Boss_Vergil_Hitbox",
+      "stages": 2,
+      "display": "维吉尔"
+    }
+  ]
+}

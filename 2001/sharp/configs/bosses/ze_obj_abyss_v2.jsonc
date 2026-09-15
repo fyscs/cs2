@@ -1,0 +1,58 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Monsters": [
+    {
+      "display": "玻璃",
+      "identity": "102137"
+    },
+    {
+      "display": "墙壁",
+      "identity": "102797"
+    },
+    {
+      "display": "阔剑地雷",
+      "identity": "179713"
+    },
+    {
+      "display": "阔剑地雷",
+      "identity": "179112"
+    },
+    {
+      "display": "阔剑地雷",
+      "identity": "179114"
+    },
+    {
+      "display": "铁门",
+      "identity": "114101"
+    },
+    {
+      "display": "管道门",
+      "identity": "126766"
+    },
+    {
+      "display": "油罐",
+      "identity": "175321"
+    }
+  ]
+}
