@@ -1,0 +1,232 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "OVERKILL Mode enabled, disabling all checkpoints": {
+    "translation": "极限杀戮模式已开启,禁用所有存档点"
+  },
+  "Door opens in 5s": {
+    "translation": "5秒后门开启"
+  },
+  "Metal gate wall breaking in 20s": {
+    "translation": "金属闸门墙将在20秒后破裂"
+  },
+  "Releasing poisoned gas in 5s": {
+    "translation": "5秒后释放毒气"
+  },
+  "Poisoned gas released": {
+    "translation": "毒气已释放"
+  },
+  "Poisoned gas will be released soon!!": {
+    "translation": "毒气即将释放!!"
+  },
+  "The tower door opens in 20s. Get ready to jump!": {
+    "translation": "塔楼大门将在20秒后开启,准备跳跃!"
+  },
+  "Kill all remaining zombies!!": {
+    "translation": "消灭剩余所有僵尸!!"
+  },
+  "Door opens in 20s": {
+    "translation": "20秒后门开启"
+  },
+  "Tram will start moving in 15s": {
+    "translation": "电车将在15秒后启动"
+  },
+  "Cage will break in 5s": {
+    "translation": "牢笼将在5秒后破损"
+  },
+  "Opening the double doors in 3s": {
+    "translation": "3秒后开启双开门"
+  },
+  "Main power has been shut down": {
+    "translation": "主电源已关闭"
+  },
+  "Running the emergency power": {
+    "translation": "启动应急电源"
+  },
+  "Door will open in 15s": {
+    "translation": "门将在15秒后开启"
+  },
+  "Door will open in 10s": {
+    "translation": "门将在10秒后开启"
+  },
+  "Big double doors will open in 10s": {
+    "translation": "大型双开门将在10秒后开启"
+  },
+  "Tram leaving in 10s": {
+    "translation": "电车10秒后发车"
+  },
+  "Metal door will break in 5s": {
+    "translation": "金属门将在5秒后破损"
+  },
+  "Closing the door in 5s": {
+    "translation": "5秒后关闭大门"
+  },
+  "Door will close in 10s": {
+    "translation": "大门将在10秒后关闭"
+  },
+  "Tram will move in 10s": {
+    "translation": "电车将在10秒后开动"
+  },
+  "Left Elevator leaving in 5s": {
+    "translation": "左侧电梯5秒后出发"
+  },
+  "Right elevator leaving in 10s": {
+    "translation": "右侧电梯10秒后出发"
+  },
+  "Elevator leaving in 10s": {
+    "translation": "电梯10秒后出发"
+  },
+  "Zombies catching up from the bottom, shoot them off!!": {
+    "translation": "僵尸从下方追上来了,击退它们!!"
+  },
+  "Jump Down!!": {
+    "translation": "往下跳!!"
+  },
+  "Zombie cage breaking in 10s": {
+    "translation": "僵尸牢笼将在10秒后破裂"
+  },
+  "Metal grate wall will break in 5s": {
+    "translation": "金属格栅墙将在5秒后破损"
+  },
+  "Metal grate wall will break in 10s": {
+    "translation": "金属格栅墙将在10秒后破损"
+  },
+  "Dogma barrier has been destroyed": {
+    "translation": "教条屏障已被摧毁"
+  },
+  "Dogma Resistance can be picked up": {
+    "translation": "教条抗性道具可拾取"
+  },
+  "CROUCH IN 3s !!": {
+    "translation": "3秒后蹲下 !!"
+  },
+  "DOGMA RESISTANCE IS NOW READY": {
+    "translation": "教条抗性现已就绪"
+  },
+  "Another metal wall blocker will break in 10s": {
+    "translation": "另一处金属阻隔墙将在10秒后破损"
+  },
+  "OVERKILL DESTROYED": {
+    "translation": "极限杀戮已失效"
+  },
+  "Try completing without using any checkpoints": {
+    "translation": "尝试不使用任何存档点通关"
+  },
+  "Big metal grate wall will break in 10s": {
+    "translation": "大型金属格栅墙将在10秒后破损"
+  },
+  "Last elevator leaving in 10s": {
+    "translation": "最后一台电梯10秒后出发"
+  },
+  "Zombie Freeze Beam has been picked up": {
+    "translation": "僵尸冷冻射线已拾取"
+  },
+  "Health Box has been picked up": {
+    "translation": "医疗包已拾取"
+  },
+  "Molotov has been picked up": {
+    "translation": "燃烧瓶已拾取"
+  },
+  "Door closing in 5s": {
+    "translation": "5秒后关门"
+  },
+  "Elevator starting in 7s": {
+    "translation": "电梯7秒后启动"
+  },
+  "Metal grate wall breaking in 10s": {
+    "translation": "金属格栅墙将在10秒后破裂"
+  },
+  "One human made it, teleporting the rest in 5s": {
+    "translation": "一名幸存者已抵达,剩余人员5秒后传送"
+  },
+  "Dogma Resistance has been picked up": {
+    "translation": "教条抗性已拾取"
+  },
+  "Door opens in 10s": {
+    "translation": "10秒后门开启"
+  },
+  "Split up!": {
+    "translation": "分散行动!"
+  },
+  "Doors will open in 15s": {
+    "translation": "大门将在15秒后开启"
+  },
+  "Wood blocker will break in 15s": {
+    "translation": "木质阻隔物将在15秒后破损"
+  },
+  "Wood blocker will break in 20s": {
+    "translation": "木质阻隔物将在20秒后破损"
+  },
+  "Metal gate wall will break in 15s": {
+    "translation": "金属闸门墙将在15秒后破损"
+  },
+  "Tunnel wall blocker will break in 15s": {
+    "translation": "隧道阻隔墙将在15秒后破损"
+  },
+  "Secondary door closing in 5s": {
+    "translation": "副门5秒后关闭"
+  },
+  "Opening the maze door in 5s": {
+    "translation": "5秒后开启迷宫大门"
+  },
+  "AFK Tele in 5s": {
+    "translation": "挂机传送5秒后触发"
+  },
+  "Door opens in 15s": {
+    "translation": "15秒后门开启"
+  },
+  "AFK Tele incoming": {
+    "translation": "即将触发挂机传送"
+  },
+  "Door will close in 6s": {
+    "translation": "大门将在6秒后关闭"
+  },
+  "Metal gate wall breaks in 15s": {
+    "translation": "金属闸门墙将在15秒后破裂"
+  },
+  "Door closing in 10s": {
+    "translation": "10秒后关门"
+  },
+  "Elevator leaving in 15s": {
+    "translation": "电梯15秒后出发"
+  },
+  "Main exit door has been closed...": {
+    "translation": "主出口大门已关闭..."
+  },
+  "Opening seconday door in 15s": {
+    "translation": "15秒后开启副门"
+  },
+  "Halfway reached": {
+    "translation": "已到达中途点"
+  },
+  "Closing all exit door maze soon": {
+    "translation": "迷宫所有出口大门即将关闭"
+  },
+  "Exit elevator leaving in 15s": {
+    "translation": "出口电梯15秒后出发"
+  },
+  "Double doors will open in 10s": {
+    "translation": "双开门将在10秒后开启"
+  },
+  "Main exit door is still locked": {
+    "translation": "主出口大门仍处于锁定状态"
+  },
+  "Going to the tower exit instead": {
+    "translation": "改为前往塔楼出口"
+  },
+  "Spread out!!": {
+    "translation": "散开!!"
+  },
+  "Back up!!": {
+    "translation": "后退!!"
+  }
+}
