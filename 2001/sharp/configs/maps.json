@@ -221,7 +221,7 @@
     "cooldown": 130,
     "nomination": true,
     "price": 800,
-    "requiredOnline": 900,
+    "requiredOnline": 600,
     "requiredPlayers": 45
   },
   "ze_aot_trost_v8": {
