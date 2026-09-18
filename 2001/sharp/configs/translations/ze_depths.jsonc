@@ -10,17 +10,11 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "A fuel can has been found": {
-    "translation": "发现燃料罐"
-  },
-  "Bring it back to the car!": {
-    "translation": "把它带回车上"
-  },
   "Button pressed": {
     "translation": "按钮已按下"
   },
-  "Last door is opening in 10 seconds": {
-    "translation": "最后一道门将在10秒后开启"
+  "Last door is opening in 20 seconds": {
+    "translation": "最后一道门将在20秒后开启"
   },
   "Water levels lowering": {
     "translation": "水位下降中"
@@ -70,26 +64,20 @@
   "A car! We could make some use of it if it works...": {
     "translation": "老司机快来开车"
   },
-  "The car has ran out of fuel...": {
-    "translation": "车的燃料耗尽了"
-  },
-  "Defend until we get the car moving again!": {
-    "translation": "防御直到我们让车重新开动"
-  },
-  "Search the boxes for a fuel canister": {
-    "translation": "在箱子中寻找燃料罐"
-  },
   "Buttons pressed": {
     "translation": "按钮已按下"
   },
   "ADMINROOM - STAGE 2 SET": {
     "translation": "第一关-已开启"
   },
+  "ADMINROOM - STAGE 4 SET": {
+    "translation": "第四关-已开启"
+  },
   "ADMINROOM - STAGE 1 SET": {
     "translation": "第二关-已开启"
   },
-  "Stage 4 -": {
-    "translation": "第四关"
+  "Stage 4 - Destiny": {
+    "translation": "第四关-命运"
   },
   "Last doors are closing in 10 seconds": {
     "translation": "最后的门将在10秒后关闭"
@@ -175,15 +163,6 @@
   "...": {
     "translation": "..."
   },
-  "Warmup round": {
-    "translation": "热身回合"
-  },
-  "Map starts in 30 seconds": {
-    "translation": "地图将在30秒后开始"
-  },
-  "Map is starting": {
-    "translation": "地图正在开始"
-  },
   "Defend until the door opens": {
     "translation": "防御直到门开启"
   },
@@ -205,29 +184,17 @@
   "We should be more careful": {
     "translation": "我们应该更小心"
   },
-  "Gate opens in 15 seconds": {
-    "translation": "大门在15秒后开启"
-  },
-  "The gate appears to be stuck": {
-    "translation": "大门似乎卡住了"
-  },
-  "Hold until we figure something out": {
-    "translation": "保持防守"
-  },
-  "Get ready to jump": {
-    "translation": "准备跳跃"
-  },
-  "There are boxes incoming again!": {
-    "translation": "又有箱子过来了"
-  },
   "Door opens in 15 seconds": {
     "translation": "门在15秒后开启"
+  },
+  "Gate opens in 15 seconds": {
+    "translation": "大门在15秒后开启"
   },
   "The gate is about to open!": {
     "translation": "大门即将开启"
   },
   "The gate should open soon! Keep holding!": {
-    "translation": "大门应该很快会开启 继续坚守"
+    "translation": "大门应该很快会开启,继续坚守"
   },
   "Gate is opening": {
     "translation": "大门正在开启"
@@ -239,7 +206,7 @@
     "translation": "箱子将在10秒后再次移动"
   },
   "We cannot pass through the barrier! Get down!": {
-    "translation": "我们无法穿过屏障趴下"
+    "translation": "我们无法穿过屏障,趴下"
   },
   "Fall back!": {
     "translation": "撤退"
@@ -248,7 +215,7 @@
     "translation": "保持防守"
   },
   "There are boxes incoming, we should get on them!": {
-    "translation": "有箱子过来了 我们快上去"
+    "translation": "有箱子过来了,我们快上去"
   },
   "Hold until the door opens": {
     "translation": "坚守直到门开启"
@@ -275,7 +242,7 @@
     "translation": "小心前方屏障"
   },
   "Platform is here, get on it!": {
-    "translation": "平台已到快上去"
+    "translation": "平台已到,快上去"
   },
   "STAGE 1 COMPLETE": {
     "translation": "第一关-完成"
@@ -289,11 +256,8 @@
   "STAGE 3 COMPLETE": {
     "translation": "第三关-完成"
   },
-  "TO BE CONTINUED...": {
-    "translation": "待续..."
-  },
   "Get in! Door is closing in 5 seconds": {
-    "translation": "快进门在5秒后关闭"
+    "translation": "快进,门在5秒后关闭"
   },
   "Temple door opens in 5 seconds": {
     "translation": "神殿门在5秒后开启"
@@ -306,5 +270,119 @@
   },
   "Use the car to break the grates!": {
     "translation": "用车撞开栅栏"
+  },
+  "The car has ran out of fuel...": {
+    "translation": "车的燃料耗尽了"
+  },
+  "Defend until we get the car moving again!": {
+    "translation": "防御直到我们让车重新开动"
+  },
+  "Search the boxes for a fuel canister": {
+    "translation": "在箱子中寻找燃料罐"
+  },
+  "The gate appears to be stuck": {
+    "translation": "大门似乎卡住了"
+  },
+  "Hold until we figure something out": {
+    "translation": "保持防守"
+  },
+  "There are boxes incoming again!": {
+    "translation": "又有箱子过来了"
+  },
+  "Get ready to jump": {
+    "translation": "准备跳跃"
+  },
+  "The Yellow Key has been picked up": {
+    "translation": "黄色钥匙已被拾取"
+  },
+  "The Yellow Key bears the Curse of Fog": {
+    "translation": "黄色钥匙带有迷雾诅咒"
+  },
+  "When the Curse of Fog is activated, the surrounding fog becomes thicker": {
+    "translation": "当迷雾诅咒激活时,周围雾气会变得更浓"
+  },
+  "The Green Key has been picked up": {
+    "translation": "绿色钥匙已被拾取"
+  },
+  "The Green Key bears the Curse of Sloth": {
+    "translation": "绿色钥匙带有怠惰诅咒"
+  },
+  "When the Curse of Sloth is activated, it reduces the speed of all humans": {
+    "translation": "当怠惰诅咒激活时,它会降低所有人类的速度"
+  },
+  "The Red Key has been picked up": {
+    "translation": "红色钥匙已被拾取"
+  },
+  "The Red Key bears the Curse of Inertia": {
+    "translation": "红色钥匙带有惯性诅咒"
+  },
+  "When the Curse of Inertia is activated all weapons become empty. The weapons will also gradually lose ammo": {
+    "translation": "当惯性诅咒激活时,所有武器弹匣清空,武器还会逐渐丢失弹药"
+  },
+  "Hold for 20 seconds": {
+    "translation": "坚守20秒"
+  },
+  "The Curse of Fog is now stronger": {
+    "translation": "迷雾诅咒现在更强了"
+  },
+  "The Curse of Sloth is now stronger": {
+    "translation": "怠惰诅咒现在更强了"
+  },
+  "The Curse of Inertia is now stronger": {
+    "translation": "惯性诅咒现在更强了"
+  },
+  "Path is opening in 20 seconds": {
+    "translation": "道路将在20秒后开启"
+  },
+  "All buttons pressed": {
+    "translation": "所有按钮已按下"
+  },
+  "Platform is moving in 20 seconds": {
+    "translation": "平台将在20秒后移动"
+  },
+  "Doors are opening in a few seconds": {
+    "translation": "门将在几秒后开启"
+  },
+  "Both buttons pressed": {
+    "translation": "两个按钮已按下"
+  },
+  "The way will open shortly": {
+    "translation": "道路很快就会开启"
+  },
+  "Door will open in 20 seconds": {
+    "translation": "门将在20秒后开启"
+  },
+  "Doors will open in 15 seconds": {
+    "translation": "门将在15秒后开启"
+  },
+  "The way will open in 10 seconds": {
+    "translation": "道路将在10秒后开启"
+  },
+  "Platform is rising in 10 seconds": {
+    "translation": "平台将在10秒后上升"
+  },
+  "Doors are opening in 25 seconds": {
+    "translation": "门将在25秒后开启"
+  },
+  "Platforms will rise in 15 seconds": {
+    "translation": "平台将在15秒后上升"
+  },
+  "The way will open in 15 seconds": {
+    "translation": "道路将在15秒后开启"
+  },
+  "STAGE 4 COMPLETE": {
+    "translation": "第四关-完成"
+  },
+  "THANK YOU FOR PLAYING!!": {
+    "translation": "感谢游玩"
+  },
+  "STAGE FAILED - ZOMBIE ON ELEVATOR": {
+    "translation": "回合失败-僵尸在电梯上"
+  },
+  "A fuel can has been found": {
+    "translation": "发现燃料罐"
+  },
+  "Bring it back to the car!": {
+    "translation": "把它带回车上"
   }
 }
