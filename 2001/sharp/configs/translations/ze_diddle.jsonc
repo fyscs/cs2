@@ -409,7 +409,7 @@
     "translation": "中间路的门开了"
   },
   "***HOLD THEM OFF FOR A LONG TIME***": {
-    "translation": "防守128秒"
+    "translation": "快了快了"
   },
   "***THIS MIGHT BE YOUR FINAL STAND***": {
     "translation": "守住这道通往天堂的防线"
@@ -872,11 +872,11 @@
     "countdown": 10
   },
   "defend for 20 sec": {
-    "translation": "defend for 20 sec",
+    "translation": "防守20秒",
     "countdown": 20
   },
   "defend for 30 sec": {
-    "translation": "defend for 30 sec",
+    "translation": "防守30秒",
     "countdown": 30
   },
   "*ground attack*": {
@@ -900,13 +900,11 @@
   "*Tiki 2 Broken*": {
     "translation": "[彩蛋]Tiki 2号触发"
   },
-  "*-9).$ casts -Turtle.jpg*": {
-    "translation": "BOSS攻击 - 图片",
-    "blocked": true
+  "BOSS攻击 - 图片": {
+    "translation": "BOSS攻击 - 图片"
   },
-  "*Demon Turtle 7_) Launch2.0.exe*": {
-    "translation": "BOSS攻击 - 跳刀",
-    "blocked": true
+  "BOSS攻击 - 跳刀": {
+    "translation": "BOSS攻击 - 跳刀"
   },
   "*Demon 7{{2 casts ERROR#*": {
     "translation": "BOSS攻击 - 冻结代码"
@@ -1150,6 +1148,13 @@
   },
   "***SHOP IS SOLD OUT***": {
     "translation": "商店已售罄"
+  },
+  "防守128s": {
+    "translation": "防守128秒"
+  },
+  "还剩90秒": {
+    "translation": "防守90秒",
+    "countdown": 90
   },
   "***COME IN TO PICK UP LEFTOVERS (IF ANY)***": {
     "translation": "可以进来看看能不能捡漏啥吧"

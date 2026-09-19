@@ -296,7 +296,8 @@
     "translation": " 治疗道具已拾取 "
   },
   "***CAN BE USED EVERY 120 SEC***": {
-    "translation": " 每120秒可使用一次 "
+    "translation": " 每120秒可使用一次 ",
+    "blocked": true
   },
   "***PICK UP THE ARTIFACT AND RUN AWAY***": {
     "translation": " 拾取圣物然后逃跑 "
@@ -305,7 +306,8 @@
     "translation": " 万圣节圣物已拾取 "
   },
   "***CAN BE USED EVERY 60 SEC***": {
-    "translation": " 每60秒可使用一次 "
+    "translation": " 每60秒可使用一次 ",
+    "blocked": true
   },
   "***PUSH THE ZOMBIES AWAY***": {
     "translation": " 将僵尸推开 "
@@ -323,7 +325,8 @@
     "translation": " 地雷已拾取 "
   },
   "***CAN BE USED EVERY 20 SEC***": {
-    "translation": " 每20秒可使用一次 "
+    "translation": " 每20秒可使用一次 ",
+    "blocked": true
   },
   "***CHRISTMAS ARTIFACT PICKED UP***": {
     "translation": " 圣诞圣物已拾取 "

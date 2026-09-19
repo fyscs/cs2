@@ -28,6 +28,16 @@
       "display": "僵尸博士"
     }
   ],
+  "Breakables": [
+    {
+      "target": "underwater_door_lv1",
+      "display": "栅栏门"
+    },
+    {
+      "target": "chimney_fence_lv4",
+      "display": "铁网"
+    }
+  ],
   "Monsters": [
     {
       "identity": "562",
@@ -48,10 +58,6 @@
     {
       "identity": "467",
       "display": "桥2"
-    },
-    {
-      "identity": "1797", 
-      "display": "铁网"
     },
     {
       "identity": "4587",

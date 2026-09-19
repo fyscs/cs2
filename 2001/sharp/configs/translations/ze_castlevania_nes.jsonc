@@ -1,0 +1,247 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** STAGE 1 COMPLETE ***": {
+    "translation": "阶段一完成"
+  },
+  "*** THIS WAY! ***": {
+    "translation": "这边走"
+  },
+  "*** WE'LL DEFEAT DRACULA TOGETHER! ***": {
+    "translation": "我们一起击败德古拉"
+  },
+  "*** THE GATE WEAKENS ***": {
+    "translation": "大门正在变弱"
+  },
+  "*** ZOMBIES FREE ***": {
+    "translation": "僵尸已释放"
+  },
+  "*** BOTH LEVERS PULLED ***": {
+    "translation": "两个杠杆已拉下"
+  },
+  "*** KEEP HOLDING ***": {
+    "translation": "继续坚守"
+  },
+  "*** FALL BACK! ***": {
+    "translation": "撤退"
+  },
+  "*** Map by HOBGOBLIN ***": {
+    "translation": "地图作者 HOBGOBLIN 文本:Zeyu1"
+  },
+  "*** CASTLEVANIA NES ***": {
+    "translation": "恶魔城 NES"
+  },
+  "*** MAP BY ***": {
+    "translation": "地图作者"
+  },
+  "*** HOBGOBLIN ***": {
+    "translation": "HOBGOBLIN"
+  },
+  "*** XEHANORT ***": {
+    "translation": "XEHANORT"
+  },
+  "*** ISZAAR ***": {
+    "translation": "ISZAAR"
+  },
+  "*** SPECIAL THANKS ***": {
+    "translation": "特别感谢"
+  },
+  "*** RANSMI KOEN 4ECHO ***": {
+    "translation": "RANSMI KOEN 4ECHO"
+  },
+  "*** STRIPPER 2 LOADED ***": {
+    "translation": "正在加载"
+  },
+  "*** Get in the barn! ***": {
+    "translation": "进谷仓"
+  },
+  "*** CONGRATULATIONS !!! ***": {
+    "translation": "恭喜"
+  },
+  "*** DRACULA IS ALL-POWERFUL! ***": {
+    "translation": "德古拉无所不能"
+  },
+  "*** YOU MUST AIM FOR THE HEAD TO DEFEAT HIM! ***": {
+    "translation": "你必须瞄准头部才能击败他"
+  },
+  "DRACULA:Oh, but this world invited me.": {
+    "translation": "德古拉:哦,但这个世界邀请了我"
+  },
+  "DRACULA:Your own kind called me forth with praise and tribute.": {
+    "translation": "德古拉:你的同类用赞美和贡品召唤了我"
+  },
+  "DRACULA:Freedom is always sacrificed to faith, good hunter.": {
+    "translation": "德古拉:自由总是被献祭给信仰,好猎人"
+  },
+  "DRACULA:Or are you truly here by choice?": {
+    "translation": "德古拉:还是你真的自愿来到这里?"
+  },
+  "DRACULA:Ha! Mankind. A cesspit of hatred and lies.": {
+    "translation": "德古拉:哈!人类,一个仇恨和谎言的粪坑"
+  },
+  "RICHTER:Dracula. Die now, and leave this world. You'll never belong here!": {
+    "translation": "里希特:德古拉,现在就死吧,离开这个世界,你永远不属于这里"
+  },
+  "RICHTER:Tribute? You're a thief. You steal men's souls, their freedom...": {
+    "translation": "里希特:贡品?你是个小偷,你偷走人们的灵魂和自由"
+  },
+  "RICHTER:All I'm here for is you. To hell with your heresy!": {
+    "translation": "里希特:我来这里只为了你,让你的异端见鬼去吧"
+  },
+  "RICHTER:You're nothing but a blight on mankind.": {
+    "translation": "里希特:你不过是人类的祸害"
+  },
+  "*** GET IN POSITION ***": {
+    "translation": "所有人准备就位"
+  },
+  "*** GATE OPENS IN 15 SECONDS ***": {
+    "translation": "大门15秒后开启"
+  },
+  "*** DOOR OPENS IN 25 SECONDS ***": {
+    "translation": "门25秒后开启"
+  },
+  "*** GATES OPEN IN 20 SECONDS ***": {
+    "translation": "大门20秒后开启"
+  },
+  "*** DOORS OPEN IN 20 SECONDS ***": {
+    "translation": "门20秒后开启"
+  },
+  "*** GATE OPENS IN 20 SECONDS ***": {
+    "translation": "大门20秒后开启"
+  },
+  "*** GATES OPEN IN 15 SECONDS ***": {
+    "translation": "大门15秒后开启"
+  },
+  "*** THIS SHALL TAKE US CLOSER TO THE CASTLE ***": {
+    "translation": "这将带我们更接近城堡"
+  },
+  "*** THESE CHAINS SEEM PRETTY WEAK ***": {
+    "translation": "这些锁链看起来很脆弱"
+  },
+  "*** DESTROYING THEM COULD LOWER THE GATE ***": {
+    "translation": "摧毁它们可以放下大门"
+  },
+  "*** DUNGEON GATE OPENS IN 15 SECONDS ***": {
+    "translation": "地牢大门15秒后开启"
+  },
+  "*** ENTRANCE GATE OPENS IN 15 SECONDS ***": {
+    "translation": "入口大门15秒后开启"
+  },
+  "*** KEY FOUND! ***": {
+    "translation": "已找到钥匙"
+  },
+  "*** DOOR OPENS IN 5 SECONDS ***": {
+    "translation": "门5秒后开启"
+  },
+  "*** LIBRARY DOORS OPEN IN 15 SECONDS ***": {
+    "translation": "图书馆门15秒后开启"
+  },
+  "*** A DEAD END... KEEP HOLDING ***": {
+    "translation": "死路,继续坚守"
+  },
+  "*** ZM TP IN 10 SECONDS ***": {
+    "translation": "僵尸10秒后传送"
+  },
+  "*** THE ENTRANCE IS JUST AHEAD ***": {
+    "translation": "入口就在前方"
+  },
+  "*** STAND YOUR GROUND ***": {
+    "translation": "守住你的阵地"
+  },
+  "*** EVIL AWAITS ***": {
+    "translation": "邪恶在等待"
+  },
+  "*** WE CAN'T PROCEED UNTIL SHE IS SLAIN ***": {
+    "translation": "不杀死她我们就无法前进"
+  },
+  "*** THIS IS IT! ***": {
+    "translation": "就是现在"
+  },
+  "*** KEEP THE EVIL OUT! ***": {
+    "translation": "把邪恶挡在外面"
+  },
+  "*** ... ***": {
+    "translation": "..."
+  },
+  "*** WATCH OUT! ***": {
+    "translation": "小心"
+  },
+  "*** HOLD ON... THE FIRE BLOCKS THE WAY! ****": {
+    "translation": "等等,大火挡住了去路"
+  },
+  "*** CHAPEL OPENS IN 15 SECONDS ***": {
+    "translation": "教堂15秒后开启"
+  },
+  "*** CHAPEL GATE OPENS IN 15 SECONDS ***": {
+    "translation": "教堂大门15秒后开启"
+  },
+  "*** THESE BEAMS SEEM WEAK... ***": {
+    "translation": "这些横梁看起来很脆弱"
+  },
+  "*** WE'RE TRAPPED ***": {
+    "translation": "我们被困住了"
+  },
+  "*** REGROUP ***": {
+    "translation": "重新集结"
+  },
+  "*** EVIL LURKS AROUND EVERY CORNER ***": {
+    "translation": "邪恶潜伏在每个角落"
+  },
+  "*** YOU FEEL A SENSE OF DREAD ***": {
+    "translation": "你感到一阵恐惧"
+  },
+  "*** WE CAN ESCAPE THROUGH THE WINDOWS! ***": {
+    "translation": "我们可以从窗户逃出去"
+  },
+  "*** KEEP DEFENDING ***": {
+    "translation": "继续防守"
+  },
+  "*** THIS IS IT ***": {
+    "translation": "就是现在"
+  },
+  "*** TIME TO DEFEAT DRACULA ONCE AND FOR ALL! ***": {
+    "translation": "是时候彻底击败德古拉了"
+  },
+  "*** ALMOST THERE ***": {
+    "translation": "就快到了"
+  },
+  "*** STAND YOUR GROUND! ***": {
+    "translation": "守住你的阵地"
+  },
+  "** Kill all remaining zombies **": {
+    "translation": "杀死剩下的所有僵尸"
+  },
+  "*** BEAMS ARE DOWN ***": {
+    "translation": "横梁已倒下"
+  },
+  "*** KEEP THE EVIL OUT ***": {
+    "translation": "把邪恶挡在外面"
+  },
+  "*** SOMEONE IS OPENING THE GATE ***": {
+    "translation": "有人正在开启大门"
+  },
+  "*** THAT SHOULD OPEN THE GATE! ***": {
+    "translation": "那应该能打开大门"
+  },
+  "***An admin has changed to level 2***": {
+    "translation": "管理员已切换到第二关"
+  },
+  "***An admin has changed to level 1***": {
+    "translation": "管理员已切换到第一关"
+  },
+  "*** ZOMBIES ARE FREE ***": {
+    "translation": "僵尸已释放"
+  },
+  "*** DEFEAT DRACULA AT ONCE ***": {
+    "translation": "立即击败德古拉"
+  }
+}
