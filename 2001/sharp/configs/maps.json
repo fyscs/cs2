@@ -434,10 +434,10 @@
   "ze_backroom_level4_v1": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 60,
+    "cooldown": 100,
     "nomination": true,
-    "price": 300,
-    "requiredOnline": -1,
+    "price": 350,
+    "requiredOnline": 600,
     "requiredPlayers": 20
   },
   "ze_backrooms": {
