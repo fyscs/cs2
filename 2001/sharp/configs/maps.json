@@ -437,7 +437,7 @@
     "cooldown": 100,
     "nomination": true,
     "price": 350,
-    "requiredOnline": 300,
+    "requiredOnline": 600,
     "requiredPlayers": 20
   },
   "ze_backrooms": {
