@@ -2520,7 +2520,7 @@
     "requiredPlayers": -1
   },
   "ze_iceskate": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 100,
     "nomination": true,
