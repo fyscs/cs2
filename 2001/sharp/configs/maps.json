@@ -2522,7 +2522,7 @@
   "ze_iceskate": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 100,
+    "cooldown": 60,
     "nomination": true,
     "price": 350,
     "requiredOnline": -1,
