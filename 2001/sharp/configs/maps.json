@@ -4104,7 +4104,7 @@
     "requiredPlayers": 30
   },
   "ze_overkill_p": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 35,
     "nomination": true,
