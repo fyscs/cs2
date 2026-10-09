@@ -1,0 +1,177 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "防守60秒": {
+    "translation": "防守60秒",
+    "countdown": 60
+  },
+  "ze_x_game_room 作者:佐贺": {
+    "translation": "ze_x_game_room 作者:佐贺"
+  },
+  "防守25秒": {
+    "translation": "防守25秒",
+    "countdown": 25
+  },
+  "循环格子": {
+    "translation": "循环格子"
+  },
+  "小游戏": {
+    "translation": "小游戏"
+  },
+  "防守30秒,这是最后一个守点了": {
+    "translation": "防守30秒,这是最后一个守点了",
+    "countdown": 30
+  },
+  "防守30秒": {
+    "translation": "防守30秒",
+    "countdown": 30
+  },
+  "撤退": {
+    "translation": "撤退"
+  },
+  "看起来没有路了,是死局了么？": {
+    "translation": "看起来没有路了,是死局了么?"
+  },
+  "死!者!稣!生!": {
+    "translation": "死!者!稣!生!"
+  },
+  "防守20秒": {
+    "translation": "防守20秒",
+    "countdown": 20
+  },
+  "防守40秒": {
+    "translation": "防守40秒",
+    "countdown": 40
+  },
+  "防守20秒后进入彩虹门": {
+    "translation": "防守20秒后进入彩虹门",
+    "countdown": 20
+  },
+  "防守30秒后进入彩虹门": {
+    "translation": "防守30秒后进入彩虹门",
+    "countdown": 30
+  },
+  "map by 佐贺,rebuild by 2en0w": {
+    "translation": "map by 佐贺,rebuild by 2en0w"
+  },
+  "防守40秒，彩虹门会把我们送到哪？": {
+    "translation": "防守40秒,彩虹门会把我们送到哪",
+    "countdown": 40
+  },
+  "快远离飞机投放的僵尸": {
+    "translation": "快远离飞机投放的僵尸"
+  },
+  "cialalalala:快去特效里面": {
+    "translation": "cialalalala:快去特效里面"
+  },
+  "轰鸣声:注意躲避周围的飞船": {
+    "translation": "轰鸣声:注意躲避周围的飞船"
+  },
+  "龙车!龙车!龙车!注意!": {
+    "translation": "龙车!龙车!龙车!注意!"
+  },
+  "激光声:远离飞机正前方": {
+    "translation": "激光声:远离飞机正前方"
+  },
+  "投弹声:注意飞机投下的炸弹": {
+    "translation": "投弹声:注意飞机投下的炸弹"
+  },
+  "ze_x_game_room 试玩版，不代表最终品质。": {
+    "translation": "ze_x_game_room 试玩版,不代表最终品质"
+  },
+  "你在飞行棋游戏中获胜了,恭喜!现在清理残余的僵尸!": {
+    "translation": "你在飞行棋游戏中获胜了,恭喜!现在清理残余的僵尸!"
+  },
+  "防守30秒，看起来小黄鸭会帮我们": {
+    "translation": "防守30秒,看起来小黄鸭会帮我们"
+  },
+  "小黄鸭:上来吧，我带你们走": {
+    "translation": "小黄鸭:上来吧,我带你们走"
+  },
+  "那是什么？为什么电竞房里的飞船会在这？": {
+    "translation": "那是什么?为什么电竞房里的飞船会在这?"
+  },
+  "为什么水面上会有switch？这个房间是怎么回事？": {
+    "translation": "为什么水面上会有switch 这个房间是怎么回事?"
+  },
+  "防守25秒直到怡宝瓶子消失": {
+    "translation": "防守25秒直到怡宝瓶子消失",
+    "countdown": 25
+  },
+  "撤退。只是...这是什么地方？": {
+    "translation": "撤退,只是...这是什么地方?"
+  },
+  "撤退,这些彩虹门到底是什么？": {
+    "translation": "撤退,这些彩虹门到底是什么?"
+  },
+  "防守30秒,等待可乐消失": {
+    "translation": "防守30秒,等待可乐消失",
+    "countdown": 30
+  },
+  "???关": {
+    "translation": "???关"
+  },
+  "RTV关": {
+    "translation": "RTV关"
+  },
+  "第3关": {
+    "translation": "第3关"
+  },
+  "生存关卡": {
+    "translation": "生存关卡"
+  },
+  "生存180秒": {
+    "translation": "生存180秒"
+  },
+  "第2关": {
+    "translation": "第2关"
+  },
+  "第1关": {
+    "translation": "第1关"
+  },
+  "撤退,我们能继续前进了。": {
+    "translation": "撤退,我们能继续前进了"
+  },
+  "快上平台！": {
+    "translation": "快上平台"
+  },
+  "防守20秒,我们要跳下去。": {
+    "translation": "防守20秒,我们要跳下去"
+  },
+  "似乎有什么事情要发生。": {
+    "translation": "似乎有什么事情要发生"
+  },
+  "木块在缓慢推进": {
+    "translation": "木块在缓慢推进"
+  },
+  "屋主人还玩三角洲？防守20秒。": {
+    "translation": "屋主人还玩三角洲?防守20秒",
+    "countdown": 20
+  },
+  "路被该死的乐事薯片挡住了，防守25秒。": {
+    "translation": "路被该死的乐事薯片挡住了,防守25秒",
+    "countdown": 25
+  },
+  "撤退,想办法到床上去。": {
+    "translation": "撤退,想办法到床上去"
+  },
+  "飞行棋开始,请远离棋子,站在棋盘上": {
+    "translation": "飞行棋开始,请远离棋子,站在棋盘上"
+  },
+  "防守45秒": {
+    "translation": "防守45秒",
+    "countdown": 45
+  },
+  "看，有先跳过去的倒霉蛋": {
+    "translation": "看,有先跳过去的倒霉蛋"
+  }
+}
