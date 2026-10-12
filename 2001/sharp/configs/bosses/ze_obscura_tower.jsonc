@@ -22,26 +22,31 @@
 
 {
   "Counters": [
+    // 当前地图直接在 hp_iterations 中扣血, 不再使用旧的多血条计数器.
     {
-      "iterator": "blackknight_counter",
-      "counter": "blackknight_hp_iterations",
-      "backup": "blackknight_hp_backup",
-      "hitbox": "blackknight_hitbox",
+      "iterator": "[PR#]blackknight_hp_iterations",
+      "hitbox": "[PR#]blackknight_hitbox",
       "display": "黑骑士"
     },
     {
-      "iterator": "spider_counter",
-      "counter": "spider_hp_iterations",
-      "backup": "spider_hp_backup",
-      "hitbox": "s2_spider_hitbox",
+      "iterator": "[PR#]spider_hp_iterations",
+      "hitbox": "[PR#]s2_spider_hitbox",
       "display": "蜘蛛"
     },
     {
-      "iterator": "terror_counter",
-      "counter": "terror_hp_iterations",
-      "backup": "terror_hp_backup",
-      "hitbox": "terror_hitbox",
+      "iterator": "[PR#]terror_hp_iterations",
+      "hitbox": "[PR#]terror_hitbox",
       "display": "恐惧"
+    },
+    {
+      "iterator": "[PR#]dragon_hp_iterations",
+      "hitbox": "[PR#]s3_dragon_hitbox",
+      "display": "巨龙"
+    },
+    {
+      "iterator": "[PR#]s3_alastor_hp_iterations",
+      "hitbox": "[PR#]s3_alastor_hitbox",
+      "display": "阿拉斯托"
     }
   ]
 }
