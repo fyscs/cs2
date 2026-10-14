@@ -1,0 +1,71 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Stage0_BossGetHP",
+      "backup": "Stage0_BossBackHP",
+      "counter": "Stage0_Boss_DieHP",
+      "hitbox": "Solid_Paper_Hitbox",
+      "display": "炸弹精灵"
+    },
+    {
+      "iterator": "Stage1_BossGetHP",
+      "backup": "Stage1_BossBackHP",
+      "counter": "Stage1_Boss_DieHP",
+      "hitbox": "Stage1_BossPhysbox",
+      "display": "佐迪亚克"
+    },
+    {
+      "iterator": "Stage3_BossGetHP",
+      "backup": "Stage3_BossBackHP",
+      "counter": "Stage3_Boss_DieHP",
+      "hitbox": "Stage3_BerganModel",
+      "display": "贝甘"
+    },
+    {
+      "iterator": "Stage4_BossGetHP",
+      "backup": "Stage4_BossBackHP",
+      "counter": "Stage4_Boss_DieHP",
+      "hitbox": "Stage4_Bergan_Model",
+      "display": "贝甘"
+    },
+    {
+      "iterator": "Stage-1_BossGetHP",
+      "backup": "Stage-1_BossBackHP",
+      "counter": "Stage-1_Boss_DieHP",
+      "hitbox": "Stage-1_Boss_Physbox",
+      "display": "巴哈姆特"
+    },
+    {
+      "iterator": "Stage-1_Laser_HP_Counter",
+      "hitbox": "Stage-1_BossPhysbox",
+      "display": "Exodus"
+    },
+    {
+      "iterator": "Stage4_Laser_HP_Counter",
+      "hitbox": "Stage4_Lazer_Func",
+      "display": "贝甘"
+    }
+  ]
+}
