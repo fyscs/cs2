@@ -23,7 +23,6 @@
 {
   "Counters": [
     {
-      "name": "King Bomb",
       "counter": "Stage0_BossGetHP",
       "iterator": "Stage0_Boss_DieHP",
       "display": "炸弹精灵"
@@ -64,9 +63,11 @@
     {
       "iterator": "Event_Bahamut_Counter",
       "display": "巴哈姆特"
-    },
+    }
+  ],
+  "Breakables": [
     {
-      "iterator": "Event_zombie_model5_func",
+      "identity": "Event_zombie_model5_func",
       "display": "僵尸术士"
     }
   ]
