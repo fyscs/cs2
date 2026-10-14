@@ -25,11 +25,13 @@
     {
       "counter": "Stage0_BossGetHP",
       "iterator": "Stage0_Boss_DieHP",
+      "backup": "Stage0_BossBackHP",
       "display": "炸弹精灵"
     },
     {
       "iterator": "Stage1_BossGetHP",
       "counter": "Stage1_Boss_DieHP",
+      "backup": "Stage1_BossBackHP",
       "display": "Exodus"
     },
     {
@@ -40,11 +42,13 @@
     {
       "iterator": "Stage4_BossGetHP",
       "counter": "Stage4_Boss_DieHP",
+      "backup": "Stage4_BossBackHP",
       "display": "贝甘(阶段2)"
     },
     {
       "iterator": "Stage-1_BossGetHP",
       "counter": "Stage-1_Boss_DieHP",
+      "backup": "Stage-1_BossBackHP",
       "display": "巴哈姆特"
     },
     {
