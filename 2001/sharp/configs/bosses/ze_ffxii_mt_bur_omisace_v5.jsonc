@@ -23,38 +23,29 @@
 {
   "Counters": [
     {
-      "iterator": "Stage0_BossGetHP",
-      "backup": "Stage0_BossBackHP",
-      "counter": "Stage0_Boss_DieHP",
-      "hitbox": "Solid_Paper_Hitbox",
+      "name": "King Bomb",
+      "counter": "Stage0_BossGetHP",
+      "iterator": "Stage0_Boss_DieHP",
       "display": "炸弹精灵"
     },
     {
       "iterator": "Stage1_BossGetHP",
-      "backup": "Stage1_BossBackHP",
       "counter": "Stage1_Boss_DieHP",
-      "hitbox": "Stage1_BossPhysbox",
-      "display": "佐迪亚克"
+      "display": "Exodus"
     },
     {
       "iterator": "Stage3_BossGetHP",
       "backup": "Stage3_BossBackHP",
-      "counter": "Stage3_Boss_DieHP",
-      "hitbox": "Stage3_BerganModel",
-      "display": "贝甘"
+      "display": "贝甘(阶段1)"
     },
     {
       "iterator": "Stage4_BossGetHP",
-      "backup": "Stage4_BossBackHP",
       "counter": "Stage4_Boss_DieHP",
-      "hitbox": "Stage4_Bergan_Model",
-      "display": "贝甘"
+      "display": "贝甘(阶段2)"
     },
     {
       "iterator": "Stage-1_BossGetHP",
-      "backup": "Stage-1_BossBackHP",
       "counter": "Stage-1_Boss_DieHP",
-      "hitbox": "Stage-1_Boss_Physbox",
       "display": "巴哈姆特"
     },
     {
@@ -64,8 +55,19 @@
     },
     {
       "iterator": "Stage4_Laser_HP_Counter",
-      "hitbox": "Stage4_Lazer_Func",
       "display": "贝甘"
+    },
+    {
+      "iterator": "Event_Cactus_Counter",
+      "display": "仙人掌"
+    },
+    {
+      "iterator": "Event_Bahamut_Counter",
+      "display": "巴哈姆特"
+    },
+    {
+      "iterator": "Event_zombie_model5_func",
+      "display": "僵尸术士"
     }
   ]
 }
