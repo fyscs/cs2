@@ -67,7 +67,7 @@
   ],
   "Breakables": [
     {
-      "identity": "Event_zombie_model5_func",
+      "target": "Event_zombie_model5_func",
       "display": "僵尸术士"
     }
   ]
