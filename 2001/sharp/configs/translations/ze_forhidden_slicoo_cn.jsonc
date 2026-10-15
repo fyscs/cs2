@@ -104,10 +104,6 @@
   "**僵尸神器：雷沃尔熊人**": {
     "translation": "僵尸神器:雷沃尔熊人"
   },
-  "print(\"lua load\")": {
-    "translation": "print",
-    "blocked": true
-  },
   "**剩余20秒**": {
     "translation": "剩余20秒",
     "countdown": 20
