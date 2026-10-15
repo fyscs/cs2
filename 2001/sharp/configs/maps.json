@@ -4133,7 +4133,7 @@
   "ze_overkill_p": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 35,
+    "cooldown": 90,
     "nomination": true,
     "price": 600,
     "requiredOnline": -1,
