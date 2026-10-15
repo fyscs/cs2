@@ -1,0 +1,78 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "counter": "Stage0_BossGetHP",
+      "iterator": "Stage0_Boss_DieHP",
+      "backup": "Stage0_BossBackHP",
+      "display": "炸弹精灵"
+    },
+    {
+      "iterator": "Stage1_BossGetHP",
+      "counter": "Stage1_Boss_DieHP",
+      "backup": "Stage1_BossBackHP",
+      "display": "Exodus"
+    },
+    {
+      "iterator": "Stage3_BossGetHP",
+      "backup": "Stage3_BossBackHP",
+      "display": "贝甘(阶段1)"
+    },
+    {
+      "iterator": "Stage4_BossGetHP",
+      "counter": "Stage4_Boss_DieHP",
+      "backup": "Stage4_BossBackHP",
+      "display": "贝甘(阶段2)"
+    },
+    {
+      "iterator": "Stage-1_BossGetHP",
+      "counter": "Stage-1_Boss_DieHP",
+      "backup": "Stage-1_BossBackHP",
+      "display": "巴哈姆特"
+    },
+    {
+      "iterator": "Stage-1_Laser_HP_Counter",
+      "hitbox": "Stage-1_BossPhysbox",
+      "display": "Exodus"
+    },
+    {
+      "iterator": "Stage4_Laser_HP_Counter",
+      "display": "贝甘"
+    },
+    {
+      "iterator": "Event_Cactus_Counter",
+      "display": "仙人掌"
+    },
+    {
+      "iterator": "Event_Bahamut_Counter",
+      "display": "巴哈姆特"
+    }
+  ],
+  "Breakables": [
+    {
+      "target": "Event_zombie_model5_func",
+      "display": "僵尸术士"
+    }
+  ]
+}
