@@ -21,21 +21,5 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Breakables": [
-    {
-      "target": "assetdep_the_collective",
-      "display": "瘦猴圣诞老人",
-      "hitbox": "the_collective"
-    }
-  ],
-  "Monsters": [
-    {
-      "identity": "1297",
-      "display": "超大脸"
-    },
-    {
-      "identity": "402",
-      "display": "抱人怪"
-    }
-  ]
+  "Proxy": true
 }
