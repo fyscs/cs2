@@ -23,8 +23,8 @@
 {
   "Counters": [
     {
-      "counter": "Stage0_BossGetHP",
-      "iterator": "Stage0_Boss_DieHP",
+      "counter": "Stage0_Boss_DieHP",
+      "iterator": "Stage0_BossGetHP",
       "backup": "Stage0_BossBackHP",
       "display": "炸弹精灵"
     },
@@ -36,6 +36,7 @@
     },
     {
       "iterator": "Stage3_BossGetHP",
+      "counter": "Stage3_Boss_DieHP",
       "backup": "Stage3_BossBackHP",
       "display": "贝甘(阶段1)"
     },
