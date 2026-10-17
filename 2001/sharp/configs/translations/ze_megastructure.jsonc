@@ -1,0 +1,286 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "We will climb up and press the button as quick": {
+    "translation": "我们将爬上去并尽快按下按钮"
+  },
+  "Flood will rise in 5s": {
+    "translation": "洪水将在5秒后上涨"
+  },
+  "Rule1: Don't go where they're not ready to let you go, or you'll get lost": {
+    "translation": "规则1:不要前往他们还没准备好让你去的地方,否则你会迷路"
+  },
+  "[MidFloor]ZM Path will open in 10s": {
+    "translation": "中楼层:僵尸路径将在10秒后开启"
+  },
+  "[MidFloor]ZM Path will open in 5s": {
+    "translation": "中楼层:僵尸路径将在5秒后开启"
+  },
+  "[MidFloor]Elevator will up in 15s": {
+    "translation": "中楼层:电梯将在15秒后上升"
+  },
+  "[MidFloor]Elevator will up in 5s": {
+    "translation": "中楼层:电梯将在5秒后上升"
+  },
+  "[MidFloor]The button is too huge": {
+    "translation": "中楼层:这个按钮太大了"
+  },
+  "[MidFloor]Maybe we need multiple people to stand on it": {
+    "translation": "中楼层:也许我们需要多个人站上去"
+  },
+  "[MidFloor]4?...": {
+    "translation": "中楼层:4个?"
+  },
+  "MidFloor prepare to jump": {
+    "translation": "中楼层准备跳跃"
+  },
+  "MidFloor is ready": {
+    "translation": "中楼层已就绪"
+  },
+  "DownFloor is ready": {
+    "translation": "下层已就绪"
+  },
+  "UpFloor is ready": {
+    "translation": "上层已就绪"
+  },
+  "The carrier is on its way": {
+    "translation": "运载器正在路上"
+  },
+  "Take care of yourself...": {
+    "translation": "照顾好你自己..."
+  },
+  "DownFloor prepare to jump": {
+    "translation": "下层准备跳跃"
+  },
+  "UpFloor prepare to jump": {
+    "translation": "上层准备跳跃"
+  },
+  "You're playing ze_megastructure": {
+    "translation": "你正在游玩巨型结构"
+  },
+  "Author: PokieeAkuno": {
+    "translation": "作者:波基阿库诺"
+  },
+  "Now it's time to take the journey": {
+    "translation": "现在是踏上旅程的时候了"
+  },
+  "That's weird...": {
+    "translation": "那很奇怪..."
+  },
+  "The brick will up in 15s": {
+    "translation": "方块将在15秒后上升"
+  },
+  "The brick will up in 5s": {
+    "translation": "方块将在5秒后上升"
+  },
+  "Rule2: There are some things on the map you can interact with to move around like a rope": {
+    "translation": "规则2:地图上有一些可以互动的东西,比如绳索,能让你移动"
+  },
+  "The button has been pressed": {
+    "translation": "按钮已按下"
+  },
+  "The button is too tall": {
+    "translation": "按钮太高了"
+  },
+  "Maybe we need to press it hard 8 times?": {
+    "translation": "也许我们需要用力按8次?"
+  },
+  "[DownFloor]Fan engine will startup in 5s": {
+    "translation": "下层:风扇引擎将在5秒后启动"
+  },
+  "[DownFloor]Fan engine will startup in 15s": {
+    "translation": "下层:风扇引擎将在15秒后启动"
+  },
+  "[DownFloor]ZM Push will open in 10s": {
+    "translation": "下层:僵尸推力将在10秒后开启"
+  },
+  "[DownFloor]ZM Push will open in 5s": {
+    "translation": "下层:僵尸推力将在5秒后开启"
+  },
+  "...": {
+    "translation": "..."
+  },
+  "Rule3: Something is breakable": {
+    "translation": "规则3:有些东西是可以破坏的"
+  },
+  "The sideway will open in 10s": {
+    "translation": "侧路将在10秒后开启"
+  },
+  "The sideway will open in 5s": {
+    "translation": "侧路将在5秒后开启"
+  },
+  "There is a rope being tied": {
+    "translation": "正在系绳子"
+  },
+  "The rope is firing": {
+    "translation": "绳索正在发射"
+  },
+  "The mechanism is activating.": {
+    "translation": "机关正在激活"
+  },
+  "Defend...": {
+    "translation": "防守..."
+  },
+  "Almost there...": {
+    "translation": "就快到了..."
+  },
+  "[ZMTP in 5s]": {
+    "translation": "僵尸5秒后传送"
+  },
+  "Wow, this button seems different": {
+    "translation": "哇,这个按钮看起来不一样"
+  },
+  "Let's stand on it": {
+    "translation": "让我们站上去"
+  },
+  "That's a magic button": {
+    "translation": "那是个魔法按钮"
+  },
+  "[ZMTP in 15s]": {
+    "translation": "僵尸15秒后传送"
+  },
+  "The door will open in 15s": {
+    "translation": "门将在15秒后开启"
+  },
+  "The door will open in 5s": {
+    "translation": "门将在5秒后开启"
+  },
+  "Defend for 20s": {
+    "translation": "防守20秒"
+  },
+  "Defend for 10s": {
+    "translation": "防守10秒"
+  },
+  "Defend for 5s": {
+    "translation": "防守5秒"
+  },
+  "Looks like all the arrows on the ground are pointing to this button": {
+    "translation": "看起来地上所有箭头都指向这个按钮"
+  },
+  "That's the end?": {
+    "translation": "那就是终点?"
+  },
+  "Hold this place for 25s": {
+    "translation": "守住这里25秒"
+  },
+  "15s countdown": {
+    "translation": "15秒倒计时"
+  },
+  "5s left": {
+    "translation": "剩余5秒"
+  },
+  "Press these two buttons at the same time to unlock the door": {
+    "translation": "同时按下这两个按钮来解锁门"
+  },
+  "Where am I...": {
+    "translation": "我在哪里..."
+  },
+  "An indoor sandy area?": {
+    "translation": "一个室内沙地?"
+  },
+  "Better be careful": {
+    "translation": "最好小心点"
+  },
+  "Someone gave their life for this team. Their memory will live on forever.": {
+    "translation": "有人为这个团队献出了生命.他们的记忆将永远长存"
+  },
+  "The lower door will open in 20s": {
+    "translation": "下层门将在20秒后开启"
+  },
+  "The lower door will open in 10s": {
+    "translation": "下层门将在10秒后开启"
+  },
+  "The lower door will open in 5s": {
+    "translation": "下层门将在5秒后开启"
+  },
+  "The lower door will open in 30s": {
+    "translation": "下层门将在30秒后开启"
+  },
+  "Left elevator will up in 15s": {
+    "translation": "左侧电梯将在15秒后上升"
+  },
+  "Left elevator will up in 5s": {
+    "translation": "左侧电梯将在5秒后上升"
+  },
+  "Right elevator will up in 15s": {
+    "translation": "右侧电梯将在15秒后上升"
+  },
+  "Right elevator will up in 5s": {
+    "translation": "右侧电梯将在5秒后上升"
+  },
+  "The gate will open in 10s": {
+    "translation": "大门将在10秒后开启"
+  },
+  "The gate will open in 5s": {
+    "translation": "大门将在5秒后开启"
+  },
+  "4 people button?": {
+    "translation": "4人按钮?"
+  },
+  "The last gate will open in 35s": {
+    "translation": "最后一道大门将在35秒后开启"
+  },
+  "The last gate will open in 20s": {
+    "translation": "最后一道大门将在20秒后开启"
+  },
+  "The last gate will open in 10s": {
+    "translation": "最后一道大门将在10秒后开启"
+  },
+  "The last gate will open in 5s": {
+    "translation": "最后一道大门将在5秒后开启"
+  },
+  "Be careful on the side path": {
+    "translation": "小心侧路"
+  },
+  "[ZMTP in 10s]": {
+    "translation": "僵尸10秒后传送"
+  },
+  "Welcome!": {
+    "translation": "欢迎"
+  },
+  "How can i help u?": {
+    "translation": "我能怎么帮你?"
+  },
+  "Or How can u help me???": {
+    "translation": "或者你能怎么帮我???"
+  },
+  "Human being...": {
+    "translation": "人类..."
+  },
+  "Break the powersupply!!!": {
+    "translation": "破坏电源"
+  },
+  "Find platform to avoid damage!!": {
+    "translation": "找到平台来躲避伤害"
+  },
+  "Last defend!!!": {
+    "translation": "最后防守"
+  },
+  "Jumpad outside door is open": {
+    "translation": "门外弹跳板已开启"
+  },
+  "Get ready for zombie coming": {
+    "translation": "准备好僵尸到来"
+  },
+  "Zombie is coming...": {
+    "translation": "僵尸来了..."
+  },
+  "We need drop something down": {
+    "translation": "我们需要扔点东西下去"
+  },
+  "Mine sweeper is best choice": {
+    "translation": "扫雷器是最好的选择"
+  },
+  "ct": {
+    "translation": "ct"
+  }
+}
