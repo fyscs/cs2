@@ -20,7 +20,7 @@
     "translation": "玩家获得了冥界之杖"
   },
   "**A Player has acquired Silver Mace**": {
-    "translation": "玩家获得了银色钉锤"
+    "translation": "玩家获得了白银权杖"
   },
   "**A Player has acquired HP Potion**": {
     "translation": "玩家获得了生命药剂"
@@ -32,10 +32,10 @@
     "translation": "玩家获得了混沌之刃"
   },
   "** Sword of Kings has been picked up **": {
-    "translation": "霸王之剑已被拾取"
+    "translation": "霸王之剑(终极)已被拾取"
   },
   "**A Player has acquired Betelgeuse**": {
-    "translation": "玩家获得了参宿四"
+    "translation": "玩家获得了光炮"
   },
   "**A Player has acquired Gunblade**": {
     "translation": "玩家获得了枪刃"
@@ -62,7 +62,7 @@
     "translation": "玩家获得了雷魔法"
   },
   "**A Player has acquired Penetrator Crossbow**": {
-    "translation": "玩家获得了穿透十字弩"
+    "translation": "玩家获得了十字弩"
   },
   "**A Player has acquired Ultimate Blade!**": {
     "translation": "玩家获得了审判之剑!"
@@ -95,31 +95,31 @@
     "translation": "关卡已更改为困难模式"
   },
   "**King Bomb has casted Flame Ability!**": {
-    "translation": "炸弹王施放了火焰技能"
+    "translation": "爆弹王施放了火焰技能"
   },
   "**King Bomb has summoned Ultimate Fireball Ability!**": {
-    "translation": "炸弹王释放了终极火球"
+    "translation": "爆弹王释放了终极火球"
   },
   "**King Bomb has casted Revenge Blast Ability!**": {
-    "translation": "炸弹王施放了复仇爆炸技能"
+    "translation": "爆弹王施放了复仇爆破!"
   },
   "**King Bomb has summoned Ultimate Flame Shield Ability!**": {
-    "translation": "炸弹王召唤了终极火焰护盾技能!"
+    "translation": "爆弹王召唤了终极烈焰护盾!"
   },
   "**King Bomb has summoned Mustard Bomb Ability!**": {
-    "translation": "炸弹王召唤了芥末炸弹技能!"
+    "translation": "爆弹王召唤了毒气炸弹!"
   },
   "**King Bomb has summoned Eruption Ability!**": {
-    "translation": "炸弹王召唤了爆发技能!"
+    "translation": "爆弹王召唤了火焰喷射!"
   },
   "**King Bomb has summoned Fire Angon Ability!**": {
-    "translation": "炸弹王召唤了火焰安贡技能!"
+    "translation": "爆弹王召唤了烈焰标枪!"
   },
   "**King Bomb has summoned Ultimate Bomb Meteor Ability!**": {
-    "translation": "炸弹王召唤了终极炸弹陨石技能!"
+    "translation": "爆弹王召唤了终极爆弹流星!"
   },
   "**King Bomb has casted Self-Destruct Ability!**": {
-    "translation": "炸弹王施放了自爆技能!"
+    "translation": "爆弹王施放了自爆技能!"
   },
   "**Defeat King Bomb before he burn us!**": {
     "translation": "尽快杀死他!"
@@ -131,55 +131,55 @@
     "translation": "守到平台移动"
   },
   "**Nades do more damage**": {
-    "translation": "**1颗手雷将造成30伤害!**"
+    "translation": "投掷手雷将造成更多伤害!"
   },
   "**Defeat Exodus before his power will consume us!**": {
-    "translation": "尽快击败艾克斯迪司"
+    "translation": "在被天秤座吞噬前击败它!!"
   },
   "**Exodus has summoned Electrogenesis Ability!**": {
-    "translation": "艾克斯迪司召唤了电能生成技能!"
+    "translation": "天秤座释放了暗影电流(呆在中间)"
   },
   "**Exodus has casted Ultravibration Ability!**": {
-    "translation": "艾克斯迪司施放了超振动技能!"
+    "translation": "天秤座使用了大地震颤!"
   },
   "**Stay on the middle to dodge the attack!**": {
     "translation": "站在中间以躲避攻击"
   },
   "**Exodus has casted Weakness Breaker Ability!**": {
-    "translation": "艾克斯迪司施放了弱点破坏技能!"
+    "translation": "天秤座使用了弱点击破"
   },
   "**Exodus has summoned Imbue Wind Ability**": {
-    "translation": "艾克斯迪司召唤了附风技能"
+    "translation": "天秤座释放了侵透之风"
   },
   "**Exodus has summoned Shock Strike Ability**": {
-    "translation": "艾克斯迪司召唤了震击技能"
+    "translation": "天秤座释放了冲击波(呆在外围)"
   },
   "**Exodus has summoned Electrogenesis Ability**": {
-    "translation": "艾克斯迪司召唤了电能生成技能"
+    "translation": "天秤座释放了暗影电流(呆在中间)"
   },
   "**Exodus has casted Guard Breaker**": {
-    "translation": "艾克斯迪司施放了破防技能"
+    "translation": "天秤座使用了护盾"
   },
   "**Exodus has summoned Perpetual Ray Ability!**": {
-    "translation": "艾克斯迪司召唤了永恒射线技能!"
+    "translation": "天秤座释放了永恒光束(远离boss正面)"
   },
   "**Exodus has casted Reflux Ability!**": {
-    "translation": "艾克斯迪司施放了回流技能!"
+    "translation": "天秤座使用了逆流"
   },
   "**Exodus has casted Ultimate Ability!**": {
-    "translation": "艾克斯迪司施放了究极技能!"
+    "translation": "天秤座使用了终极(伤害加强)"
   },
   "**Exodus attacks get 50% boost!**": {
-    "translation": "艾克斯迪司的攻击提升了50%!"
+    "translation": "天秤座的攻击变快了!"
   },
   "**Exodus has casted Break Exploiter Ability!**": {
-    "translation": "艾克斯迪司施放了破坏利用技能!"
+    "translation": "天秤座使用了破灭汲取"
   },
   "**Exodus has casted Elemental Retrieval Ability!**": {
-    "translation": "艾克斯迪司施放了元素回收技能!"
+    "translation": "天秤座使用了元素重置(神器沉默)"
   },
   "**Hurry up! Exodus summon his most powerful ability!**": {
-    "translation": "尽快杀死他!"
+    "translation": "反应快点!天秤座释放了它的最强技能!!"
   },
   "**Nades do 200% more damage!**": {
     "translation": "手雷将造成额外伤害"
@@ -221,7 +221,7 @@
     "translation": "关卡已更改为史诗模式"
   },
   "**Judge Bergan is dead": {
-    "translation": "**审判官贝甘已死亡"
+    "translation": "**裁判长贝甘已死亡"
   },
   "**Strahl exploded? Defend until something happen!**": {
     "translation": "**斯特拉号爆炸了?坚持防守,直到发生变化!**"
@@ -234,34 +234,34 @@
     "countdown": 25
   },
   "**Bergan has summoned Fire Bomb!**": {
-    "translation": "贝甘召唤了火焰炸弹!"
+    "translation": "贝甘召唤了火焰炸弹!(站在两侧!)"
   },
   "**Bergan is using Cure Magick!**": {
     "translation": "贝甘正在使用治疗魔法!"
   },
   "**Bergan has casted White Wind Ability!**": {
-    "translation": "贝甘施放了白风技能!"
+    "translation": "贝甘施放了复苏之风!(按W抵抗!)"
   },
   "**Bergan has casted Protect Ability!**": {
-    "translation": "贝甘施放了护盾技能!"
+    "translation": "贝甘施放了护盾技能,并将快速释放下一个技能"
   },
   "**Bergan has casted Shock Strike Ability!**": {
-    "translation": "贝甘施放了震击技能!"
+    "translation": "贝甘施放了冲击波!(中间或者两侧随机)"
   },
   "**Bergan has summoned Water Cannon Ability!**": {
-    "translation": "贝甘召唤了水炮技能!"
+    "translation": "贝甘召唤了水铁炮!(按S抵抗!)"
   },
   "**Bergan has casted Bad Breath Ability!**": {
-    "translation": "贝甘施放了坏息技能!"
+    "translation": "贝甘施放了腐蚀之气!(全屏AOE)"
   },
   "**Bergan has summoned 1000 Needles Ability!**": {
-    "translation": "贝甘召唤了千针技能!"
+    "translation": "贝甘召唤了针千本!(蹲下!)"
   },
   "**Bergan has casted Blood Drain Ability!**": {
-    "translation": "贝甘施放了吸血技能!"
+    "translation": "贝甘施放了吸血技能!(停枪!)"
   },
   "**Bergan has summoned Fire Angon Ability!**": {
-    "translation": "贝甘召唤了火焰技能!"
+    "translation": "贝甘召唤了龙息标枪!(站在中场两侧!)"
   },
   "**Judge Bergan should be dead but with them you never know": {
     "translation": "贝甘裁判长现在被我们淦碎了,目前已失去主要线索,该怎么办呢"
@@ -273,7 +273,7 @@
     "translation": "留在高塔现已没有意义,赶紧撤出这里"
   },
   "**Hurry up!!! - Judge Bergan power up his abilities**": {
-    "translation": "裁判长贝甘已经身受重伤,估计要放大了,赶紧杀了他"
+    "translation": "反应快点!!贝甘强化了他的技能!"
   },
   "**Hold this area for 15 seconds until gate is open!**": {
     "translation": "防守15秒",
@@ -290,25 +290,25 @@
     "translation": "巴哈姆特召唤了护盾技能!"
   },
   "**Bahamut has casted Lure Ability!**": {
-    "translation": "巴哈姆特施放了诱饵技能!"
+    "translation": "巴哈姆特施放了引力!(按S抵抗!)"
   },
   "**Bahamut has casted Push Ability!**": {
-    "translation": "巴哈姆特施放了推斥技能!"
+    "translation": "巴哈姆特施放了风炮(按W抵抗!)!"
   },
   "**Bahamut has summoned Ultimate Electro Ability!**": {
-    "translation": "巴哈姆特召唤了终极电击技能!"
+    "translation": "巴哈姆特召唤了终极雷电!(躲避脚底随机电场!)"
   },
   "**Bahamut has summoned Ultimate Push Ability!**": {
-    "translation": "巴哈姆特召唤了终极推斥技能!"
+    "translation": "巴哈姆特召唤了终极风炮,远离boss身后的两束光炮正面!"
   },
   "**Bahamut has summoned Electro Ability!**": {
-    "translation": "巴哈姆特召唤了电击技能!"
+    "translation": "巴哈姆特召唤了电击技能!(中场电击)"
   },
   "**Bahamut has summoned Flame Ability!**": {
-    "translation": "巴哈姆特召唤了火焰技能!"
+    "translation": "巴哈姆特召唤了火焰技能!(全屏AOE)"
   },
   "**Bahamut has summoned Mega Flare Ability!**": {
-    "translation": "巴哈姆特召唤了百万火光技能!"
+    "translation": "巴哈姆特召唤了百万核爆!(远离boss正面)"
   },
   "**That must be Bahamut lair! Kill this beast before he kill us!**": {
     "translation": "这里应该就是巴哈姆特的巢穴!在它杀死我们之前杀死它!"
@@ -411,37 +411,37 @@
     "translation": "快点!贝甘召唤了他的最强能力!"
   },
   "**Bergan has summoned Aqua Ability**": {
-    "translation": "贝甘召唤了水魔法技能"
+    "translation": "贝甘召唤了流体!"
   },
   "**Bergan has casted Fire Agony Ability!*": {
-    "translation": "贝甘施放了火焰痛苦技能!"
+    "translation": "贝甘施放了苦痛烈焰!"
   },
   "**Bergan has summoned Knight's Tour Ability!**": {
-    "translation": "贝甘召唤了骑士巡游技能!"
+    "translation": "贝甘使用了冲击波!(先站外场再站内场)"
   },
   "**Bergan has casted Chelonian Gate Ability!**": {
-    "translation": "贝甘施放了龟壳之门技能!"
+    "translation": "贝甘使用了玄冥壁!(全体人类强制100hp)"
   },
   "**Bergan has casted Peripheral Synthesis Ability!**": {
-    "translation": "贝甘施放了周边合成技能!"
+    "translation": "贝甘施放了外围强化!"
   },
   "**Bergan has casted Haste Ability!**": {
     "translation": "贝甘施放了加速技能!"
   },
   "**Bergan has casted Thunder Ability!*": {
-    "translation": "贝甘施放了雷电技能!"
+    "translation": "贝甘施放了雷电魔法!"
   },
   "**Bergan has summoned Ultimate Ability!**": {
-    "translation": "贝甘召唤了究极技能!"
+    "translation": "贝甘召唤了究极技能,快远离中间!"
   },
   "**Bergan has summoned Mustard Bomb Ability!**": {
-    "translation": "贝甘召唤了芥末炸弹技能!"
+    "translation": "贝甘召唤了毒气炸弹,躲避头上的火球!"
   },
   "**Bergan has summoned Sandstorm Ability!**": {
-    "translation": "贝甘召唤了沙暴技能!"
+    "translation": "贝甘召唤了沙暴!"
   },
   "**Bergan has summoned Electrogenesis Ability!**": {
-    "translation": "贝甘召唤了电能生成技能!"
+    "translation": "贝甘召唤了暗影电流!"
   },
   "**[Exodus] Face your weaknesses or die!**": {
     "translation": "[Exodus] 面对你虚弱的一面吧"
@@ -454,5 +454,13 @@
   },
   "**[Exodus] Goodbye!**": {
     "translation": "[Exodus] 再见!"
+  },
+  "还有15秒": {
+    "translation": "还有15秒",
+    "countdown": 15
+  },
+  "还有10秒": {
+    "translation": "还有10秒",
+    "countdown": 10
   }
 }
