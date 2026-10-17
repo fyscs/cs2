@@ -5360,7 +5360,7 @@
     "cooldown": 100,
     "nomination": true,
     "price": 500,
-    "requiredOnline": 600,
+    "requiredOnline": -1,
     "requiredPlayers": 40
   },
   "ze_sunkentemple": {
