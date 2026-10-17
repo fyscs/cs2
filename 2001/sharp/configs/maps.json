@@ -6201,7 +6201,7 @@
     "requiredPlayers": 25
   },
   "ze_x_game_room": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 80,
     "nomination": true,
