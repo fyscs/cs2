@@ -62,7 +62,7 @@
   },
   "3s后,出口2将被僵尸淹没": {
     "translation": "3秒后,出口2将被僵尸淹没",
-     "countdown": 3
+    "countdown": 3
   },
   "3s后,出口3将被僵尸淹没": {
     "translation": "3秒后,出口3将被僵尸淹没"
@@ -81,7 +81,7 @@
   },
   "僵尸5s后tp": {
     "translation": "僵尸5秒后传送",
-     "countdown": 5
+    "countdown": 5
   },
   "僵尸tp可用": {
     "translation": "僵尸传送可用"
