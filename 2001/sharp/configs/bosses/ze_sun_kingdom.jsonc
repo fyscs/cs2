@@ -22,6 +22,12 @@
 
 {
   "Proxy": true,
+  "Breakables": [
+    {
+      "target": "babyboss_hp",
+      "display": "奶龙"
+    }
+  ],
   "Monsters": [
     {
       "identity": "20630",
