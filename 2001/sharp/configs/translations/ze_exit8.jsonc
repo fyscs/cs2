@@ -50,18 +50,18 @@
     "translation": "[八番出口监控] 异常记录(3/3):门锁位置"
   },
   "10s后游戏开始": {
-    "translation": "10秒后游戏开始"
+    "translation": "10秒后游戏开始",
     "countdown": 10
   },
   "10后僵尸将淹没此地": {
-    "translation": "10后僵尸将淹没此地"
+    "translation": "10后僵尸将淹没此地",
     "countdown": 10
   },
   "30s": {
     "translation": "30秒"
   },
   "3s后,出口2将被僵尸淹没": {
-    "translation": "3秒后,出口2将被僵尸淹没"
+    "translation": "3秒后,出口2将被僵尸淹没",
      "countdown": 3
   },
   "3s后,出口3将被僵尸淹没": {
@@ -90,7 +90,7 @@
     "translation": "僵尸似乎没有追上来,我们直接走"
   },
   "僵尸侧路5s后可进攻": {
-    "translation": "僵尸侧路5秒后可进攻"
+    "translation": "僵尸侧路5秒后可进攻",
     "countdown": 5
   },
   "僵尸侧路tp 3s后可用": {
@@ -106,7 +106,7 @@
     "translation": "先返回出口1,再想办法"
   },
   "全部异常已记录,30s": {
-    "translation": "全部异常已记录,30秒"
+    "translation": "全部异常已记录,30秒",
     "countdown": 30
   },
   "出口1": {
@@ -152,14 +152,14 @@
     "translation": "守住40秒"
   },
   "已发现全部异常,守住30s": {
-    "translation": "已发现全部异常,守住30秒"
+    "translation": "已发现全部异常,守住30秒",
      "countdown": 30
   },
   "快找找这一层其他异常": {
     "translation": "快找找这一层其他异常"
   },
   "最后30s": {
-    "translation": "最后30秒"
+    "translation": "最后30秒",
     "countdown": 30
   },
   "没路了,快想想办法": {
