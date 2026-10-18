@@ -25,86 +25,86 @@
   "Breakables": [
     {
       "target": "HMV_EXCELSUS",
-      "display": "HMV EXCELSUS"
+      "display": "卓越号"
     },
     {
       "target": "horizon_vtol",
-      "display": "Horizon One"
+      "display": "地平线一号"
     }
   ],
   // 管道只显示命中血量, 避免逐根刷 Boss 结算榜.
   "Monsters": [
     {
       "identity": "285417",
-      "display": "OBJECT-83 管道01"
+      "display": "管道1"
     },
     {
       "identity": "285418",
-      "display": "OBJECT-83 管道02"
+      "display": "管道2"
     },
     {
       "identity": "285419",
-      "display": "OBJECT-83 管道03"
+      "display": "管道3"
     },
     {
       "identity": "285420",
-      "display": "OBJECT-83 管道04"
+      "display": "管道4"
     },
     {
       "identity": "285421",
-      "display": "OBJECT-83 管道05"
+      "display": "管道5"
     },
     {
       "identity": "285422",
-      "display": "OBJECT-83 管道06"
+      "display": "管道6"
     },
     {
       "identity": "285423",
-      "display": "OBJECT-83 管道07"
+      "display": "管道7"
     },
     {
       "identity": "285424",
-      "display": "OBJECT-83 管道08"
+      "display": "管道8"
     },
     {
       "identity": "285425",
-      "display": "OBJECT-83 管道09"
+      "display": "管道9"
     },
     {
       "identity": "285426",
-      "display": "OBJECT-83 管道10"
+      "display": "管道10"
     },
     {
       "identity": "285427",
-      "display": "OBJECT-83 管道11"
+      "display": "管道11"
     },
     {
       "identity": "285428",
-      "display": "OBJECT-83 管道12"
+      "display": "管道12"
     },
     {
       "identity": "285429",
-      "display": "OBJECT-83 管道13"
+      "display": "管道13"
     },
     {
       "identity": "285430",
-      "display": "OBJECT-83 管道14"
+      "display": "管道14"
     },
     {
       "identity": "285431",
-      "display": "OBJECT-83 管道15"
+      "display": "管道15"
     },
     {
       "identity": "285432",
-      "display": "OBJECT-83 管道16"
+      "display": "管道16"
     },
     {
       "identity": "285433",
-      "display": "OBJECT-83 管道17"
+      "display": "管道17"
     },
     {
       "identity": "285434",
-      "display": "OBJECT-83 管道18"
+      "display": "管道18"
     }
   ]
 }
