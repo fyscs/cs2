@@ -21,12 +21,90 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Counters": [
+  // 阶段仅按血量阈值切换, 每只 Boss 只触发一次 OnBreak.
+  "Breakables": [
     {
-      "iterator": "ctr_spider_boss_hp",
-      "increase": true,
-      "hitbox": "spider_lower",
-      "display": "Spider"
+      "target": "HMV_EXCELSUS",
+      "display": "卓越号"
+    },
+    {
+      "target": "horizon_vtol",
+      "display": "地平线一号"
+    }
+  ],
+  // 管道只显示命中血量, 避免逐根刷 Boss 结算榜.
+  "Monsters": [
+    {
+      "identity": "285417",
+      "display": "管道1"
+    },
+    {
+      "identity": "285418",
+      "display": "管道2"
+    },
+    {
+      "identity": "285419",
+      "display": "管道3"
+    },
+    {
+      "identity": "285420",
+      "display": "管道4"
+    },
+    {
+      "identity": "285421",
+      "display": "管道5"
+    },
+    {
+      "identity": "285422",
+      "display": "管道6"
+    },
+    {
+      "identity": "285423",
+      "display": "管道7"
+    },
+    {
+      "identity": "285424",
+      "display": "管道8"
+    },
+    {
+      "identity": "285425",
+      "display": "管道9"
+    },
+    {
+      "identity": "285426",
+      "display": "管道10"
+    },
+    {
+      "identity": "285427",
+      "display": "管道11"
+    },
+    {
+      "identity": "285428",
+      "display": "管道12"
+    },
+    {
+      "identity": "285429",
+      "display": "管道13"
+    },
+    {
+      "identity": "285430",
+      "display": "管道14"
+    },
+    {
+      "identity": "285431",
+      "display": "管道15"
+    },
+    {
+      "identity": "285432",
+      "display": "管道16"
+    },
+    {
+      "identity": "285433",
+      "display": "管道17"
+    },
+    {
+      "identity": "285434",
+      "display": "管道18"
     }
   ]
 }
