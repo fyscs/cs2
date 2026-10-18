@@ -21,7 +21,6 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Proxy": true,
   "Breakables": [
     {
       "target": "babyboss_hp",
