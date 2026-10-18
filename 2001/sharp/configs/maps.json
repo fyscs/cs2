@@ -1664,6 +1664,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_exit8": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 60,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_exit_this_earths_atomosphere_p": {
     "admin": true,
     "certainTimes": [-1],
