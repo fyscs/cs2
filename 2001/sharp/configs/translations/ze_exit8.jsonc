@@ -80,7 +80,7 @@
     "translation": "僵尸4秒后传送"
   },
   "僵尸5s后tp": {
-    "translation": "僵尸5秒后传送"
+    "translation": "僵尸5秒后传送",
      "countdown": 5
   },
   "僵尸tp可用": {
@@ -146,14 +146,16 @@
     "translation": "墙上标识牌写着出口0"
   },
   "守住30s": {
-    "translation": "守住30秒"
+    "translation": "守住30秒",
+    "countdown": 30
   },
   "守住40s": {
-    "translation": "守住40秒"
+    "translation": "守住40秒",
+    "countdown": 40
   },
   "已发现全部异常,守住30s": {
     "translation": "已发现全部异常,守住30秒",
-     "countdown": 30
+    "countdown": 30
   },
   "快找找这一层其他异常": {
     "translation": "快找找这一层其他异常"
@@ -172,6 +174,6 @@
     "translation": "离出口8已经不远了"
   },
   "该死,回到了出口0": {
-    "translation": ""
+    "translation": "该死,回到了出口0"
   }
 }
