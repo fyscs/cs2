@@ -22,13 +22,6 @@
 
 {
   "Proxy": true,
-  "Breakables": [
-    {
-      "target": "assetdep_the_collective",
-      "display": "大眼睛",
-      "hitbox": "the_collective"
-    }
-  ],
   "Monsters": [
     {
       "identity": "1297",
