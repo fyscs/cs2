@@ -22,21 +22,10 @@
 
 {
   "Proxy": true,
-  "Breakables": [
-    {
-      "target": "assetdep_the_collective",
-      "display": "大眼睛",
-      "hitbox": "the_collective"
-    }
-  ],
   "Monsters": [
     {
-      "identity": "1297",
+      "identity": "111",
       "display": "超大脸"
-    },
-    {
-      "identity": "402",
-      "display": "抱人怪"
     }
   ]
 }
