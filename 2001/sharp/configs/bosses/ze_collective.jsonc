@@ -24,12 +24,8 @@
   "Proxy": true,
   "Monsters": [
     {
-      "identity": "1297",
+      "identity": "111",
       "display": "超大脸"
-    },
-    {
-      "identity": "402",
-      "display": "抱人怪"
     }
   ]
 }
