@@ -707,7 +707,7 @@
     "translation": "传送门被不明力量破坏了!!!"
   },
   "*** Porting helped by Airvulpes,kune***": {
-    "translation": "移植协助 - Airvulpes、kune"
+    "translation": "移植协助 - Airvulpeskune"
   },
   "*** PUSHING ZOMBIES ARE COMING ***": {
     "translation": "推力僵尸正在靠近"
@@ -734,28 +734,28 @@
     "translation": "第1关已完成"
   },
   "*** STAGE 1: EXTREME ***": {
-    "translation": "第1关·极限"
+    "translation": "第1关  - 极限"
   },
   "*** STAGE 1: EXTREME COMPLETED ***": {
-    "translation": "第1关·极限已完成"
+    "translation": "第1关  - 极限已完成"
   },
   "*** STAGE 2 ***": {
     "translation": "第2关"
   },
   "*** STAGE 2 :EXTREME COMPLETED ***": {
-    "translation": "第2关·极限已完成"
+    "translation": "第2关  - 极限已完成"
   },
   "*** STAGE 2 COMPLETED ***": {
     "translation": "第2关已完成"
   },
   "*** STAGE 2: EXTREME ***": {
-    "translation": "第2关·极限"
+    "translation": "第2关  - 极限"
   },
   "*** STAGE 3 ***": {
     "translation": "第3关"
   },
   "*** STAGE 3: EXTREME ***": {
-    "translation": "第3关·极限"
+    "translation": "第3关  - 极限"
   },
   "*** STAGE : ????? button PRESSED ***": {
     "translation": "已选择关卡 - ?????"
@@ -798,19 +798,19 @@
     "translation": "第1关已选择"
   },
   "*** Stage1:EXTREME button PRESSED ***": {
-    "translation": "第1关·极限已选择"
+    "translation": "第1关  - 极限已选择"
   },
   "*** Stage2 button PRESSED ***": {
     "translation": "第2关已选择"
   },
   "*** Stage2:EXTREME button PRESSED ***": {
-    "translation": "第2关·极限已选择"
+    "translation": "第2关  - 极限已选择"
   },
   "*** Stage3 button PRESSED ***": {
     "translation": "第3关已选择"
   },
   "*** Stage3: EXTREME button PRESSED ***": {
-    "translation": "第3关·极限已选择"
+    "translation": "第3关  - 极限已选择"
   },
   "*** Star road will activate in 20 seconds ***": {
     "translation": "星光之路将在20秒后开启",
@@ -960,7 +960,8 @@
     "translation": "什么!?这里是什么地方......?"
   },
   "*** What are you doing? adventure is over.type rtv now ***": {
-    "translation": "还在等什么?冒险已经结束,输入rtv换图吧"
+    "translation": "还在等什么?冒险已经结束,输入rtv换图吧",
+    "block": true
   },
   "*** Where are we...? ***": {
     "translation": "我们到哪里了......?"
@@ -1089,7 +1090,7 @@
     "translation": "注意 - 只能使用一次"
   },
   "CLOUD FATHER : and I want to fight with you too.": {
-    "translation": "云父 - 而且,我也想与你们交手。"
+    "translation": "云父 - 而且,我也想与你们交手  - "
   },
   "CLOUD FATHER : Can we fight without kidding...?": {
     "translation": "云父 - 我们能认真地打一场吗......?"
@@ -1098,7 +1099,7 @@
     "translation": "云父 - 呵呵呵......"
   },
   "CLOUD FATHER : I think you want to experience the more hard.": {
-    "translation": "云父 - 我想,你们还想挑战更高的难度。"
+    "translation": "云父 - 我想,你们还想挑战更高的难度  - "
   },
   "CLOUD FATHER : Is which a winner...?": {
     "translation": "云父 - 究竟谁会获胜呢......?"
@@ -1107,19 +1108,19 @@
     "translation": "云父 - 记住,你们的神器对我无效!"
   },
   "CLOUD FATHER : Welcome humans.": {
-    "translation": "云父 - 欢迎你们,人类。"
+    "translation": "云父 - 欢迎你们,人类  - "
   },
   "CLOUD FATHER : You are our hero,thanks....": {
     "translation": "云父 - 你们是我们的英雄,谢谢......"
   },
   "CLOUD FATHER :...Me? don't worry I was made of water.": {
-    "translation": "云父 - ......我?不用担心,我是水做的。"
+    "translation": "云父 - ......我?不用担心,我是水做的  - "
   },
   "CLOUD FATHER :...So you should use it in other area.": {
-    "translation": "云父 - ......所以,你们可以在其他区域使用它。"
+    "translation": "云父 - ......所以,你们可以在其他区域使用它  - "
   },
   "CLOUD FATHER :Alright...finally you defeat me,you won.": {
-    "translation": "云父 - 好吧......你们终于打败我了,你们赢了。"
+    "translation": "云父 - 好吧......你们终于打败我了,你们赢了  - "
   },
   "CLOUD FATHER :Can you survive !?": {
     "translation": "云父 - 你们能活下来吗!?"
@@ -1134,10 +1135,10 @@
     "translation": "云父 - 看来......你们非常强大......"
   },
   "CLOUD FATHER :Humans,we don't know he is really dead.": {
-    "translation": "云父 - 人类,我们还不知道他是否真的死了。"
+    "translation": "云父 - 人类,我们还不知道他是否真的死了  - "
   },
   "CLOUD FATHER :I couldn't defeat him,because he was very stronger than me.": {
-    "translation": "云父 - 我没能打败他,因为他比我强大太多。"
+    "translation": "云父 - 我没能打败他,因为他比我强大太多  - "
   },
   "CLOUD FATHER :I hope he is dead...": {
     "translation": "云父 - 但愿他已经死了......"
@@ -1161,7 +1162,7 @@
     "translation": "云父 - 看好了!"
   },
   "CLOUD FATHER :Oh,please pretend you didn't hear that.": {
-    "translation": "云父 - 哦,请当作没听见刚才那句话。"
+    "translation": "云父 - 哦,请当作没听见刚才那句话  - "
   },
   "CLOUD FATHER :oh... I'm defeated..": {
     "translation": "云父 - 哦......我输了......"
@@ -1176,16 +1177,16 @@
     "translation": "云父 - 所以,请替我打败他......"
   },
   "CLOUD FATHER :Take care if you go anymore.": {
-    "translation": "云父 - 如果还要继续前进,一定要小心。"
+    "translation": "云父 - 如果还要继续前进,一定要小心  - "
   },
   "CLOUD FATHER :This injured will fix soon.": {
-    "translation": "云父 - 这点伤很快就会恢复。"
+    "translation": "云父 - 这点伤很快就会恢复  - "
   },
   "CLOUD FATHER :Time to show my high power...": {
     "translation": "云父 - 是时候展示我的真正力量了......"
   },
   "CLOUD FATHER :You can complete other area even you have it.": {
-    "translation": "云父 - 带上它,你们也能通过其他区域。"
+    "translation": "云父 - 带上它,你们也能通过其他区域  - "
   },
   "CLOUD FATHER :you can defeat him...": {
     "translation": "云父 - 你们能打败他......"
@@ -1206,7 +1207,7 @@
     "translation": "键盘破坏者 - 你们永远也杀不死我!"
   },
   "CRASHER :BANZAIIIIIIIIIIIIIIIIIIIII !!!!!!!!!!!!!!!!!!": {
-    "translation": "键盘破坏者 - 万岁——!!!"
+    "translation": "键盘破坏者 - 万岁!!!"
   },
   "CRASHER :HAHAHA !!! You can't kill me whatever you do anything !!!!!!": {
     "translation": "键盘破坏者 - 哈哈哈!不管你们做什么,都杀不死我!"
@@ -1221,7 +1222,7 @@
     "translation": "云女孩 - !?这可不是爸爸做的!是我自己做的!"
   },
   "Girl CLOUD : A,Anyway !! you will be defeated by this machine!!": {
-    "translation": "云女孩 - 总、总之!这台机器一定会打败你们!"
+    "translation": "云女孩 - 总 总之!这台机器一定会打败你们!"
   },
   "Girl cloud : Ahh!! Please move !!": {
     "translation": "云女孩 - 啊!快动起来呀!"
@@ -1233,7 +1234,7 @@
     "translation": "云女孩 - 啊啊啊啊啊!!!"
   },
   "Girl CLOUD : but... I prepared the machine for you": {
-    "translation": "云女孩 - 不过......我还为你们准备了一台机器。"
+    "translation": "云女孩 - 不过......我还为你们准备了一台机器  - "
   },
   "Girl CLOUD : Guh...you are stronger than I thought...": {
     "translation": "云女孩 - 唔......你们比我想象中更强......"
