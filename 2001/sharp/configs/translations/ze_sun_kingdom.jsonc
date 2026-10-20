@@ -10,606 +10,6 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "***..TO BEST SUNSHINE KINGDOM!!!!***": {
-    "translation": "欢迎来到奶龙王国!"
-  },
-  "***10 SECONDS LEFT***": {
-    "translation": "还有10秒"
-  },
-  "***20 SECONDS LEFT***": {
-    "translation": "还有20秒"
-  },
-  "***5 SECONDS LEFT***": {
-    "translation": "还有5秒"
-  },
-  "***A BOY HAS BLOWN YOU AWAY***": {
-    "translation": "塔菲把你吹走了"
-  },
-  "***ADMIN ROOM - KILL ALL***": {
-    "translation": "管理员 - kill all"
-  },
-  "***ADMIN ROOM - RESET MAP***": {
-    "translation": "管理员 - 重启地图"
-  },
-  "***ADMIN ROOM - STAGE 1***": {
-    "translation": "管理员 - 第一关"
-  },
-  "***ADMIN ROOM - STAGE 2***": {
-    "translation": "管理员 - 第二关"
-  },
-  "***ADMIN ROOM - STAGE 3***": {
-    "translation": "管理员 - 第三关"
-  },
-  "***ALLEY GATE IS OPENING IN 15 SECONDS***": {
-    "translation": "小巷的门将于15秒后打开"
-  },
-  "***ALLEY GATE IS OPENING***": {
-    "translation": "小巷的门已开启"
-  },
-  "***ALLEYWAY GATE IS OPENING IN 20 SECONDS***": {
-    "translation": "小巷的门 - 20秒后打开"
-  },
-  "***ALLEYWAY GATE IS OPENING IN 5 SECONDS***": {
-    "translation": "小巷的门 - 5秒后打开"
-  },
-  "***ALLEYWAY GATE IS OPENING***": {
-    "translation": "小巷的门 - 开启"
-  },
-  "***APARTMENT DOOR OPENING IN 30 SECONDS***": {
-    "translation": "公寓门 - 30秒后打开"
-  },
-  "***BALLOON DOORS ARE OPENING***": {
-    "translation": "热气球的门开了"
-  },
-  "***BALLOON DOORS WILL OPEN IN 10 SECONDS***": {
-    "translation": "热气球门 - 10秒后打开"
-  },
-  "***BALLOON DOORS WILL OPEN IN 5 SECONDS***": {
-    "translation": "热气球门 - 5秒后打开"
-  },
-  "***BALLOON IS LEAVING***": {
-    "translation": "热气球已离开"
-  },
-  "***BE SURE TO DEFEND HARD***": {
-    "translation": "快防守僵尸"
-  },
-  "***BIG BEST GATE IS OPENING***": {
-    "translation": "最美大门 - 开启"
-  },
-  "***BIG BEST GATE OPENING IN 10 SECONDS***": {
-    "translation": "最美大门 - 10秒后打开"
-  },
-  "***BIG BEST GATE OPENING IN 20 SECONDS***": {
-    "translation": "最美大门 - 20秒后打开"
-  },
-  "***BIG BEST GATE OPENING IN 5 SECONDS***": {
-    "translation": "最美大门 - 5秒后打开"
-  },
-  "***BIG BEST GATE OPENING IN 50 SECONDS***": {
-    "translation": "最美大门 - 50秒后打开"
-  },
-  "***BIG BEST KIM IS PROUD***": {
-    "translation": "伟大的奶龙以你为荣"
-  },
-  "***BIG MILK DRAGON IS PROUD***": {
-    "translation": "伟大的奶龙以你为荣"
-  },
-  "***BOMB PLANTED***": {
-    "translation": "炸弹已经安放"
-  },
-  "***BONUS: each jump damages all gravestones***": {
-    "translation": "每次跳跃都会破坏墓碑"
-  },
-  "***CASTLE PIECE ADDED (1/6)***": {
-    "translation": "积木(1/6)"
-  },
-  "***CASTLE PIECE ADDED (2/6)***": {
-    "translation": "积木(2/6)"
-  },
-  "***CASTLE PIECE ADDED (3/6)***": {
-    "translation": "积木(3/6)"
-  },
-  "***CASTLE PIECE ADDED (4/6)***": {
-    "translation": "积木(4/6)"
-  },
-  "***CASTLE PIECE ADDED (5/6)***": {
-    "translation": "积木(5/6)"
-  },
-  "***CASTLE PIECE ADDED (6/6)***": {
-    "translation": "积木(6/6)"
-  },
-  "***COULD YOU PLEASE HELP ME GET RID OF HIM?***": {
-    "translation": "能不能帮我甩开他?"
-  },
-  "***DADDY DADDY????***": {
-    "translation": "爸爸???"
-  },
-  "***DADDY DOOR IS OPENING IN 30 SECONDS***": {
-    "translation": "爸爸门 - 30秒后打开"
-  },
-  "***DADDY DOOR IS OPENING IN 5 SECONDS***": {
-    "translation": "爸爸门 - 5秒后打开"
-  },
-  "***DADDY DOOR IS OPENING***": {
-    "translation": "爸爸门已开启"
-  },
-  "***DEFEND AS YOU SEE FIT ALONG THE WAY***": {
-    "translation": "沿途防守僵尸"
-  },
-  "***DEFEND FOR 10 SECONDS***": {
-    "translation": "坚守10秒"
-  },
-  "***DEFEND FOR 20 SECONDS***": {
-    "translation": "坚守20秒"
-  },
-  "***DEFEND FOR 30 SECONDS***": {
-    "translation": "坚守30秒"
-  },
-  "***DEFEND FOR 40 SECONDS***": {
-    "translation": "坚守40秒"
-  },
-  "***DEFEND FOR 5 SECONDS***": {
-    "translation": "坚守5秒"
-  },
-  "***DEFEND FOR SOME TIME***": {
-    "translation": "再守一会"
-  },
-  "***DEFEND HARD***": {
-    "translation": "守住这里"
-  },
-  "***DESTINATION ETA - 10 SECONDS***": {
-    "translation": "预计10秒后抵达"
-  },
-  "***DESTINATION ETA - 20 SECONDS***": {
-    "translation": "预计20秒后抵达"
-  },
-  "***DESTINATION ETA - 30 SECONDS***": {
-    "translation": "预计30秒后抵达"
-  },
-  "***DESTINATION ETA - 5 SECONDS***": {
-    "translation": "预计5秒后抵达"
-  },
-  "***DESTINATION REACHED***": {
-    "translation": "已抵达目的地"
-  },
-  "***DID DADDY HURT YA?***": {
-    "translation": "爸爸伤到你了吗?"
-  },
-  "***DO YOU WANT SOME PRINGLES?***": {
-    "translation": "你想要点品客薯片吗?"
-  },
-  "***DOOR IS CLOSING***": {
-    "translation": "门关了"
-  },
-  "***DOOR OPENING IN 10 SECONDS***": {
-    "translation": "10秒后开门"
-  },
-  "***DOOR OPENING IN 5 SECONDS***": {
-    "translation": "5秒后开门"
-  },
-  "***DRAWBRIDGE IS OPENING IN 40 SECONDS***": {
-    "translation": "吊桥 - 40秒后放下"
-  },
-  "***DRAWBRIDGE IS OPENING IN 5 SECONDS***": {
-    "translation": "吊桥 - 5秒后放下"
-  },
-  "***DRAWBRIDGE IS OPENING***": {
-    "translation": "吊桥正在放下"
-  },
-  "***EAT ME DADDY***": {
-    "translation": "爸爸,请享用我"
-  },
-  "***ELEVATOR IS COMING IN 10 SECONDS***": {
-    "translation": "电梯 - 10秒后抵达"
-  },
-  "***ELEVATOR IS COMING IN 5 SECONDS***": {
-    "translation": "电梯 - 5秒后抵达"
-  },
-  "***ELEVATOR IS COMING***": {
-    "translation": "电梯已抵达"
-  },
-  "***ELEVATOR IS LEAVING IN 10 SECONDS***": {
-    "translation": "电梯 - 10秒后离开"
-  },
-  "***ELEVATOR IS LEAVING IN 20 SECONDS***": {
-    "translation": "电梯 - 20秒后离开"
-  },
-  "***ELEVATOR IS LEAVING IN 30 SECONDS***": {
-    "translation": "电梯 - 30秒后离开"
-  },
-  "***ELEVATOR IS LEAVING IN 5 SECONDS***": {
-    "translation": "电梯 - 5秒后离开"
-  },
-  "***ENJOY THE RIDE WHILE MURDERING***": {
-    "translation": "请享受这趟???之旅"
-  },
-  "***FALL BACK***": {
-    "translation": "撤退"
-  },
-  "***FATHER GATE IS OPENING IN 20 SECONDS***": {
-    "translation": "爸爸门 - 20秒后打开"
-  },
-  "***FATHER GATE IS OPENING IN 5 SECONDS***": {
-    "translation": "爸爸门 - 5秒后打开"
-  },
-  "***FATHER GATE IS OPENING***": {
-    "translation": "爸爸门已开启"
-  },
-  "***GET INSIDE THE SPACE ROCKET***": {
-    "translation": "快去火箭里面"
-  },
-  "***GET TO THE MIDDLE***": {
-    "translation": "去中间"
-  },
-  "***HAIL SUN KINGDOM***": {
-    "translation": "赞美奶龙王国"
-  },
-  "***HANG ON WHILE THE DOOR OPENS***": {
-    "translation": "在大门打开之前守住这里"
-  },
-  "***HAVE TWO PRINGLES***": {
-    "translation": "拿着这两品客薯片"
-  },
-  "***HELLO FEMBOYS***": {
-    "translation": "小蛋糕们,你们好啊"
-  },
-  "***HELLO PEASANTS***": {
-    "translation": "小蛋糕们,你们好啊"
-  },
-  "***I GET SO EMBARRASSED WHEN DADDY IS WATCHING...***": {
-    "translation": "爸爸看着我的时候我会很尴尬..."
-  },
-  "***I GET SO SAD WHEN DADDY IS WATCHING...***": {
-    "translation": "爸爸看着我的时候我会很伤心..."
-  },
-  "***I'M SURE I'LL BE ABLE TO HELP YOU IF HE'S GONE***": {
-    "translation": "他一走我保证立刻来帮你"
-  },
-  "***I'M SURE I'LL BE ABLE TO OPEN UP ONCE HE'S GONE***": {
-    "translation": "他一走我保证立马开门"
-  },
-  "***IF YOU ARE NAUGHTY YOU WILL DIE***": {
-    "translation": "答错了就嗝屁"
-  },
-  "***INITIALIZING ROCKET TAKEOFF PROCEDURE***": {
-    "translation": "初始化火箭起飞程序"
-  },
-  "***IT IS COMING...***": {
-    "translation": "他来了..."
-  },
-  "***IT MAY TAKE A WHILE TO OPEN IT...***": {
-    "translation": "需要一点时间来打开舱门"
-  },
-  "***ITTS BABY BOY SUNSHINE DRAGON!***": {
-    "translation": "是小奶龙!"
-  },
-  "***JUMP THE SORROWS AWAY, MY CHILDREN***": {
-    "translation": "赶紧把悲伤赶走吧"
-  },
-  "***JUST LET THEM THINK FOR A WHILE***": {
-    "translation": "让他们接着想一会吧"
-  },
-  "***LAGEVATOR IS LEAVING***": {
-    "translation": "电梯已离开"
-  },
-  "***LET ME ROLL TO YOU***": {
-    "translation": "让我给你滚一点"
-  },
-  "***LIBRARY GATE IS OPENING IN 20 SECONDS***": {
-    "translation": "图书馆大门 - 20秒后打开"
-  },
-  "***LIBRARY GATE IS OPENING***": {
-    "translation": "图书馆大门已打开"
-  },
-  "***LOADING STAGE 1 & 2...***": {
-    "translation": "正在加载第一关和第二关"
-  },
-  "***LOADING STAGE 3...***": {
-    "translation": "正在加载第三关"
-  },
-  "***LOWER GATE IS OPENING***": {
-    "translation": "下面的大门正在打开"
-  },
-  "***MAIN GATE IS OPENING IN 15 SECONDS***": {
-    "translation": "主门 - 15秒后打开"
-  },
-  "***MAIN GATE IS OPENING***": {
-    "translation": "主门已开启"
-  },
-  "***MAKE YOUR WAY TO THE SUN KINGDOM BEST SPACE ROCKET***": {
-    "translation": "你们赶快去最棒奶龙王国的航天火箭"
-  },
-  "***MANBO RANCH WILL WELCOME YOU IN 30 SECONDS***": {
-    "translation": "曼波牧场大门 - 30秒后打开"
-  },
-  "***MANBO RANCH WILL WELCOME YOU IN 5 SECONDS***": {
-    "translation": "曼波牧场大门 - 5秒后打开"
-  },
-  "***MAP BY LUFFAREN***(CHANGE BY 161MIKU HARMONY)": {
-    "translation": "地图作者:LUFFAREN 和谐:161MIKU 文本:Zeyu1"
-  },
-  "***MID GATE IS OPENING***": {
-    "translation": "中间的大门正在打开"
-  },
-  "***MISSILE SILO DOOR OPENS IN 10 SECONDS***": {
-    "translation": "导弹发射井门 - 10秒后打开"
-  },
-  "***MISSILE SILO DOOR OPENS IN 20 SECONDS***": {
-    "translation": "导弹发射井门 - 20秒后打开"
-  },
-  "***MISSILE SILO DOOR OPENS IN 30 SECONDS***": {
-    "translation": "导弹发射井门 - 30秒后打开"
-  },
-  "***MISSILE SILO DOOR OPENS IN 60 SECONDS***": {
-    "translation": "导弹发射井门 - 60秒后打开"
-  },
-  "***ONE OF THEM ARE DELAYED DUE TO RAMMING BALANCE***": {
-    "translation": "他们其中一个人因撞击失衡而被拖延"
-  },
-  "***OUTER DOOR IS OPENING***": {
-    "translation": "外门已开启"
-  },
-  "***OUTER DOOR OPENS IN 15 SECONDS***": {
-    "translation": "外门 - 15秒后打开"
-  },
-  "***OUTER DOOR OPENS IN 5 SECONDS***": {
-    "translation": "外门 - 5秒后打开"
-  },
-  "***OUTER GATE IS OPENING IN 10 SECONDS***": {
-    "translation": "外门 - 10秒后打开"
-  },
-  "***OUTER GATE IS OPENING***": {
-    "translation": "外门已打开"
-  },
-  "***PATH IS OPEN***": {
-    "translation": "道路已开放"
-  },
-  "***PATH OPENING IN 10 SECONDS***": {
-    "translation": "前面的道路 - 10秒后开放"
-  },
-  "***PATH OPENING IN 20 SECONDS***": {
-    "translation": "前面的道路 - 20秒后开放"
-  },
-  "***PATH OPENING IN 30 SECONDS***": {
-    "translation": "前面的道路 - 30秒后开放"
-  },
-  "***PATH OPENING IN 5 SECONDS***": {
-    "translation": "前面的道路 - 5秒后开放"
-  },
-  "***PEOPLE ARE BUYING BBY-COINS LIKE HOTCAKES***": {
-    "translation": "人们买婴儿币就像买烧饼一样"
-  },
-  "***PLEASE HOLD...***": {
-    "translation": "请稍等..."
-  },
-  "***PLEASE HOLD..***": {
-    "translation": "请稍等.."
-  },
-  "***PLEASE HOLD.***": {
-    "translation": "请稍等."
-  },
-  "***PLEASE HOLD***": {
-    "translation": "请稍等"
-  },
-  "***PRINGLES IS BACK!***": {
-    "translation": "品客薯片滚回来了!"
-  },
-  "***QUICK, CLIMB THE LADDER!***": {
-    "translation": "赶紧从梯子爬上去不然你就要变成猫饼了!"
-  },
-  "***RAM RANCH WILL WELCOME YOU IN 30 SECONDS***": {
-    "translation": "基情牧场大门 - 30秒后打开"
-  },
-  "***RAM RANCH WILL WELCOME YOU IN 5 SECONDS***": {
-    "translation": "基情牧场大门 - 5秒后打开"
-  },
-  "***RUN FOR IT***": {
-    "translation": "死腿快跑啊!"
-  },
-  "***SAY ADIOS TO RAM RANCH***": {
-    "translation": "和基情牧场说再见吧"
-  },
-  "***SHOOT THE STINK TO GAIN HP***": {
-    "translation": "射击那个洗手台 - 获取额外HP"
-  },
-  "***SHORTCUT GATE IS OPENING IN 10 SECONDS***": {
-    "translation": "近路的门 - 10秒后打开"
-  },
-  "***SHORTCUT GATE IS OPENING IN 5 SECONDS***": {
-    "translation": "近路的门 - 5秒后打开"
-  },
-  "***SHORTCUT GATE IS OPENING***": {
-    "translation": "捷径门已开启"
-  },
-  "***SOLDIERS INCOMING***": {
-    "translation": "士兵正在靠近!"
-  },
-  "***SOLVE THE SUN KING‘S PUZZLE***": {
-    "translation": "解决这个奶龙王国的谜题"
-  },
-  "***SOMETHING IS ABOUT TO HAPPEN***": {
-    "translation": "似乎要发生什么事情"
-  },
-  "***SPACE ROCKET DOOR IS OPENING***": {
-    "translation": "航天火箭的舱门已开启"
-  },
-  "***SPACE ROCKET DOOR OPENING IN 10 SECONDS***": {
-    "translation": "航天火箭的舱门 - 10秒后打开"
-  },
-  "***SPACE ROCKET DOOR OPENING IN 20 SECONDS***": {
-    "translation": "航天火箭的舱门 - 20秒后打开"
-  },
-  "***SPACE ROCKET DOOR OPENING IN 5 SECONDS***": {
-    "translation": "航天火箭的舱门 - 5秒后打开"
-  },
-  "***SPACE ROCKET DOOR OPENING IN 60 SECONDS***": {
-    "translation": "航天火箭的舱门 - 60秒后打开"
-  },
-  "***SPONSORED BY PRINGLES***": {
-    "translation": "本气球由品客冠名赞助"
-  },
-  "***STAGE 1 & 2 LOADED***": {
-    "translation": "正在加载第一关和第二关"
-  },
-  "***STAGE 1 & 2 UNLOADED***": {
-    "translation": "取消加载第一关和第二关"
-  },
-  "***STAGE 1 WON***": {
-    "translation": "你们拿下了第一关!"
-  },
-  "***STAGE 2 WON***": {
-    "translation": "你们拿下了第二关!"
-  },
-  "***STAGE 3 LOADED***": {
-    "translation": "正在加载第三关"
-  },
-  "***STAGE 3 UNLOADED***": {
-    "translation": "第三关未加载"
-  },
-  "***STAGE 3 WON***": {
-    "translation": "第三关完成"
-  },
-  "***STEP ON THE TRAM PLEASE***": {
-    "translation": "请登上电车"
-  },
-  "***TAKE SHELTER INSIDE, QUICK!***": {
-    "translation": "现在快去避难所里"
-  },
-  "***THAT'S ALL FOR NOW - MORE STAGES TO COME***": {
-    "translation": "更多关卡即将到来"
-  },
-  "***THE BABY SUICIDE RATE IS SKYROCKETING***": {
-    "translation": "婴儿自杀率正在快速攀升"
-  },
-  "***THE CASTLE HAS BEEN COMPLETED!***": {
-    "translation": "城堡盖好了!"
-  },
-  "***THE GATES WILL OPEN IN BALANCED ORDER***": {
-    "translation": "大门会平稳地打开"
-  },
-  "***THE GUARDS IN THE BACK ARE A BIT SLOW***": {
-    "translation": "后面的守卫稍微有点慢"
-  },
-  "***THE INNER RAM DOORS ARE BEING RAMMED OPEN***": {
-    "translation": "内部大门已开启"
-  },
-  "***THE INNER RAM DOORS WILL OPEN IN 10 SECONDS***": {
-    "translation": "内部大门 - 10秒后打开"
-  },
-  "***THE INNER RAM DOORS WILL OPEN IN 30 SECONDS***": {
-    "translation": "内部大门 - 30秒后打开"
-  },
-  "***THE INNER RAM DOORS WILL OPEN IN 5 SECONDS***": {
-    "translation": "内部大门 - 5秒后打开"
-  },
-  "***THE PLACE WHERE MAGIC HAPPENS***": {
-    "translation": "这里是见证奇迹的地方"
-  },
-  "***THEY WERE THINKING ABOUT PIZZA***": {
-    "translation": "或许他们在思考披萨的事情"
-  },
-  "***TRAM IS LEAVING IN 10 SECONDS***": {
-    "translation": "电车将于10秒后离开"
-  },
-  "***TRAM IS LEAVING IN 5 SECONDS***": {
-    "translation": "电车将于5秒后离开"
-  },
-  "***TRAM IS LEAVING***": {
-    "translation": "电车已离开"
-  },
-  "***UNLOADING STAGE 1 & 2...***": {
-    "translation": "取消加载第一关和第二关"
-  },
-  "***UNLOADING STAGE 3...***": {
-    "translation": ""
-  },
-  "***UPPER GATE IS OPENING***": {
-    "translation": "上面的大门正在打开"
-  },
-  "***WAIT...***": {
-    "translation": "等下..."
-  },
-  "***WARMUP***": {
-    "translation": "热身"
-  },
-  "***WATCH OUT***": {
-    "translation": "小心!"
-  },
-  "***WE WILL PROCESS YOUR ENTRY REQUEST***": {
-    "translation": "我们正在审批你们的入境请求"
-  },
-  "***WELCOME MY YOUNG BOYS***": {
-    "translation": "欢迎你们,年轻人"
-  },
-  "***WELCOME TO BEST SUN KINGDOM!!!!***": {
-    "translation": "欢迎来到奶龙王国"
-  },
-  "***WELCOME TO MANBO RANCH***": {
-    "translation": "欢迎来到奶龙牧场"
-  },
-  "***WELCOME TO RAM RANCH***": {
-    "translation": "欢迎来到基情牧场"
-  },
-  "***WELCOME TO THE BEST KOREAN BALLOON***": {
-    "translation": "欢迎来到最美???的热气球"
-  },
-  "***WELCOME...***": {
-    "translation": "欢迎..."
-  },
-  "***WHAT HAVE YOU DONE...***": {
-    "translation": "你看看你都干了什么..."
-  },
-  "***WHERE DID DADDY DIDDLE YA?***": {
-    "translation": "爸爸哪里有欺骗过你?"
-  },
-  "***YOU ATE THE PRINGLES***": {
-    "translation": "你把品客薯片都吃了"
-  },
-  "***YOU DID IT***": {
-    "translation": "你做到了"
-  },
-  "***YOU NEED TO EAT SOME PRINGLES***": {
-    "translation": "你需要吃一点品客薯片"
-  },
-  "***YOU SCUM***": {
-    "translation": "wdf"
-  },
-  "***YOU WILL BE SAFE THERE***": {
-    "translation": "你在那里会很安全"
-  },
-  "***YOUNG BABY KIM IS DEAD***": {
-    "translation": "奶龙宝宝倒头就睡了"
-  },
-  "***YOUNG BABY NAILONG IS DEAD***": {
-    "translation": "奶龙宝宝倒头就睡了"
-  },
-  "***ZOMBIE SURF PROTECTOR IS NOW ACTIVE***": {
-    "translation": "阻碍僵尸滑翔的推力已激活"
-  },
-  "***ZOMBIES ARE RELEASED***": {
-    "translation": "僵尸已被释放"
-  },
-  "***ZOMBIES HAVE RAMMED ONE OF THE PATHS***": {
-    "translation": "僵尸已经到达其中一条路"
-  },
-  "***ZOMBIES RELEASE IN 1 SECOND***": {
-    "translation": "1秒后释放僵尸"
-  },
-  "***ZOMBIES RELEASE IN 2 SECONDS***": {
-    "translation": "2秒后释放僵尸"
-  },
-  "***ZOMBIES RELEASE IN 3 SECONDS***": {
-    "translation": "3秒后释放僵尸"
-  },
-  "***ZOMBIES RELEASE IN 4 SECONDS***": {
-    "translation": "4秒后释放僵尸"
-  },
-  "***ZOMBIES RELEASE IN 5 SECONDS***": {
-    "translation": "5秒后释放僵尸"
-  },
-  "surf's up dude": {
-    "translation": "滑翔高手征集中...."
-  },
   "***..to best sunshine kingdom!!!!***": {
     "translation": "欢迎来到奶龙王国!"
   },
@@ -1205,6 +605,606 @@
     "translation": "4秒后释放僵尸"
   },
   "***zombies release in 5 seconds***": {
+    "translation": "5秒后释放僵尸"
+  },
+  "surf's up dude": {
+    "translation": "滑翔高手征集中...."
+  },
+  "***..TO BEST SUNSHINE KINGDOM!!!!***": {
+    "translation": "欢迎来到奶龙王国!"
+  },
+  "***10 SECONDS LEFT***": {
+    "translation": "还有10秒"
+  },
+  "***20 SECONDS LEFT***": {
+    "translation": "还有20秒"
+  },
+  "***5 SECONDS LEFT***": {
+    "translation": "还有5秒"
+  },
+  "***A BOY HAS BLOWN YOU AWAY***": {
+    "translation": "塔菲把你吹走了"
+  },
+  "***ADMIN ROOM - KILL ALL***": {
+    "translation": "管理员 - kill all"
+  },
+  "***ADMIN ROOM - RESET MAP***": {
+    "translation": "管理员 - 重启地图"
+  },
+  "***ADMIN ROOM - STAGE 1***": {
+    "translation": "管理员 - 第一关"
+  },
+  "***ADMIN ROOM - STAGE 2***": {
+    "translation": "管理员 - 第二关"
+  },
+  "***ADMIN ROOM - STAGE 3***": {
+    "translation": "管理员 - 第三关"
+  },
+  "***ALLEY GATE IS OPENING IN 15 SECONDS***": {
+    "translation": "小巷的门将于15秒后打开"
+  },
+  "***ALLEY GATE IS OPENING***": {
+    "translation": "小巷的门已开启"
+  },
+  "***ALLEYWAY GATE IS OPENING IN 20 SECONDS***": {
+    "translation": "小巷的门 - 20秒后打开"
+  },
+  "***ALLEYWAY GATE IS OPENING IN 5 SECONDS***": {
+    "translation": "小巷的门 - 5秒后打开"
+  },
+  "***ALLEYWAY GATE IS OPENING***": {
+    "translation": "小巷的门 - 开启"
+  },
+  "***APARTMENT DOOR OPENING IN 30 SECONDS***": {
+    "translation": "公寓门 - 30秒后打开"
+  },
+  "***BALLOON DOORS ARE OPENING***": {
+    "translation": "热气球的门开了"
+  },
+  "***BALLOON DOORS WILL OPEN IN 10 SECONDS***": {
+    "translation": "热气球门 - 10秒后打开"
+  },
+  "***BALLOON DOORS WILL OPEN IN 5 SECONDS***": {
+    "translation": "热气球门 - 5秒后打开"
+  },
+  "***BALLOON IS LEAVING***": {
+    "translation": "热气球已离开"
+  },
+  "***BE SURE TO DEFEND HARD***": {
+    "translation": "快防守僵尸"
+  },
+  "***BIG BEST GATE IS OPENING***": {
+    "translation": "最美大门 - 开启"
+  },
+  "***BIG BEST GATE OPENING IN 10 SECONDS***": {
+    "translation": "最美大门 - 10秒后打开"
+  },
+  "***BIG BEST GATE OPENING IN 20 SECONDS***": {
+    "translation": "最美大门 - 20秒后打开"
+  },
+  "***BIG BEST GATE OPENING IN 5 SECONDS***": {
+    "translation": "最美大门 - 5秒后打开"
+  },
+  "***BIG BEST GATE OPENING IN 50 SECONDS***": {
+    "translation": "最美大门 - 50秒后打开"
+  },
+  "***BIG BEST KIM IS PROUD***": {
+    "translation": "伟大的奶龙以你为荣"
+  },
+  "***BIG MILK DRAGON IS PROUD***": {
+    "translation": "伟大的奶龙以你为荣"
+  },
+  "***BOMB PLANTED***": {
+    "translation": "炸弹已经安放"
+  },
+  "***BONUS: each jump damages all gravestones***": {
+    "translation": "每次跳跃都会破坏墓碑"
+  },
+  "***CASTLE PIECE ADDED (1/6)***": {
+    "translation": "积木(1/6)"
+  },
+  "***CASTLE PIECE ADDED (2/6)***": {
+    "translation": "积木(2/6)"
+  },
+  "***CASTLE PIECE ADDED (3/6)***": {
+    "translation": "积木(3/6)"
+  },
+  "***CASTLE PIECE ADDED (4/6)***": {
+    "translation": "积木(4/6)"
+  },
+  "***CASTLE PIECE ADDED (5/6)***": {
+    "translation": "积木(5/6)"
+  },
+  "***CASTLE PIECE ADDED (6/6)***": {
+    "translation": "积木(6/6)"
+  },
+  "***COULD YOU PLEASE HELP ME GET RID OF HIM?***": {
+    "translation": "能不能帮我甩开他?"
+  },
+  "***DADDY DADDY????***": {
+    "translation": "爸爸???"
+  },
+  "***DADDY DOOR IS OPENING IN 30 SECONDS***": {
+    "translation": "爸爸门 - 30秒后打开"
+  },
+  "***DADDY DOOR IS OPENING IN 5 SECONDS***": {
+    "translation": "爸爸门 - 5秒后打开"
+  },
+  "***DADDY DOOR IS OPENING***": {
+    "translation": "爸爸门已开启"
+  },
+  "***DEFEND AS YOU SEE FIT ALONG THE WAY***": {
+    "translation": "沿途防守僵尸"
+  },
+  "***DEFEND FOR 10 SECONDS***": {
+    "translation": "坚守10秒"
+  },
+  "***DEFEND FOR 20 SECONDS***": {
+    "translation": "坚守20秒"
+  },
+  "***DEFEND FOR 30 SECONDS***": {
+    "translation": "坚守30秒"
+  },
+  "***DEFEND FOR 40 SECONDS***": {
+    "translation": "坚守40秒"
+  },
+  "***DEFEND FOR 5 SECONDS***": {
+    "translation": "坚守5秒"
+  },
+  "***DEFEND FOR SOME TIME***": {
+    "translation": "再守一会"
+  },
+  "***DEFEND HARD***": {
+    "translation": "守住这里"
+  },
+  "***DESTINATION ETA - 10 SECONDS***": {
+    "translation": "预计10秒后抵达"
+  },
+  "***DESTINATION ETA - 20 SECONDS***": {
+    "translation": "预计20秒后抵达"
+  },
+  "***DESTINATION ETA - 30 SECONDS***": {
+    "translation": "预计30秒后抵达"
+  },
+  "***DESTINATION ETA - 5 SECONDS***": {
+    "translation": "预计5秒后抵达"
+  },
+  "***DESTINATION REACHED***": {
+    "translation": "已抵达目的地"
+  },
+  "***DID DADDY HURT YA?***": {
+    "translation": "爸爸伤到你了吗?"
+  },
+  "***DO YOU WANT SOME PRINGLES?***": {
+    "translation": "你想要点品客薯片吗?"
+  },
+  "***DOOR IS CLOSING***": {
+    "translation": "门关了"
+  },
+  "***DOOR OPENING IN 10 SECONDS***": {
+    "translation": "10秒后开门"
+  },
+  "***DOOR OPENING IN 5 SECONDS***": {
+    "translation": "5秒后开门"
+  },
+  "***DRAWBRIDGE IS OPENING IN 40 SECONDS***": {
+    "translation": "吊桥 - 40秒后放下"
+  },
+  "***DRAWBRIDGE IS OPENING IN 5 SECONDS***": {
+    "translation": "吊桥 - 5秒后放下"
+  },
+  "***DRAWBRIDGE IS OPENING***": {
+    "translation": "吊桥正在放下"
+  },
+  "***EAT ME DADDY***": {
+    "translation": "爸爸,请享用我"
+  },
+  "***ELEVATOR IS COMING IN 10 SECONDS***": {
+    "translation": "电梯 - 10秒后抵达"
+  },
+  "***ELEVATOR IS COMING IN 5 SECONDS***": {
+    "translation": "电梯 - 5秒后抵达"
+  },
+  "***ELEVATOR IS COMING***": {
+    "translation": "电梯已抵达"
+  },
+  "***ELEVATOR IS LEAVING IN 10 SECONDS***": {
+    "translation": "电梯 - 10秒后离开"
+  },
+  "***ELEVATOR IS LEAVING IN 20 SECONDS***": {
+    "translation": "电梯 - 20秒后离开"
+  },
+  "***ELEVATOR IS LEAVING IN 30 SECONDS***": {
+    "translation": "电梯 - 30秒后离开"
+  },
+  "***ELEVATOR IS LEAVING IN 5 SECONDS***": {
+    "translation": "电梯 - 5秒后离开"
+  },
+  "***ENJOY THE RIDE WHILE MURDERING***": {
+    "translation": "请享受这趟???之旅"
+  },
+  "***FALL BACK***": {
+    "translation": "撤退"
+  },
+  "***FATHER GATE IS OPENING IN 20 SECONDS***": {
+    "translation": "爸爸门 - 20秒后打开"
+  },
+  "***FATHER GATE IS OPENING IN 5 SECONDS***": {
+    "translation": "爸爸门 - 5秒后打开"
+  },
+  "***FATHER GATE IS OPENING***": {
+    "translation": "爸爸门已开启"
+  },
+  "***GET INSIDE THE SPACE ROCKET***": {
+    "translation": "快去火箭里面"
+  },
+  "***GET TO THE MIDDLE***": {
+    "translation": "去中间"
+  },
+  "***HAIL SUN KINGDOM***": {
+    "translation": "赞美奶龙王国"
+  },
+  "***HANG ON WHILE THE DOOR OPENS***": {
+    "translation": "在大门打开之前守住这里"
+  },
+  "***HAVE TWO PRINGLES***": {
+    "translation": "拿着这两品客薯片"
+  },
+  "***HELLO FEMBOYS***": {
+    "translation": "小蛋糕们,你们好啊"
+  },
+  "***HELLO PEASANTS***": {
+    "translation": "小蛋糕们,你们好啊"
+  },
+  "***I GET SO EMBARRASSED WHEN DADDY IS WATCHING...***": {
+    "translation": "爸爸看着我的时候我会很尴尬..."
+  },
+  "***I GET SO SAD WHEN DADDY IS WATCHING...***": {
+    "translation": "爸爸看着我的时候我会很伤心..."
+  },
+  "***I'M SURE I'LL BE ABLE TO HELP YOU IF HE'S GONE***": {
+    "translation": "他一走我保证立刻来帮你"
+  },
+  "***I'M SURE I'LL BE ABLE TO OPEN UP ONCE HE'S GONE***": {
+    "translation": "他一走我保证立马开门"
+  },
+  "***IF YOU ARE NAUGHTY YOU WILL DIE***": {
+    "translation": "答错了就嗝屁"
+  },
+  "***INITIALIZING ROCKET TAKEOFF PROCEDURE***": {
+    "translation": "初始化火箭起飞程序"
+  },
+  "***IT IS COMING...***": {
+    "translation": "他来了..."
+  },
+  "***IT MAY TAKE A WHILE TO OPEN IT...***": {
+    "translation": "需要一点时间来打开舱门"
+  },
+  "***ITTS BABY BOY SUNSHINE DRAGON!***": {
+    "translation": "是小奶龙!"
+  },
+  "***JUMP THE SORROWS AWAY, MY CHILDREN***": {
+    "translation": "赶紧把悲伤赶走吧"
+  },
+  "***JUST LET THEM THINK FOR A WHILE***": {
+    "translation": "让他们接着想一会吧"
+  },
+  "***LAGEVATOR IS LEAVING***": {
+    "translation": "电梯已离开"
+  },
+  "***LET ME ROLL TO YOU***": {
+    "translation": "让我给你滚一点"
+  },
+  "***LIBRARY GATE IS OPENING IN 20 SECONDS***": {
+    "translation": "图书馆大门 - 20秒后打开"
+  },
+  "***LIBRARY GATE IS OPENING***": {
+    "translation": "图书馆大门已打开"
+  },
+  "***LOADING STAGE 1 & 2...***": {
+    "translation": "正在加载第一关和第二关"
+  },
+  "***LOADING STAGE 3...***": {
+    "translation": "正在加载第三关"
+  },
+  "***LOWER GATE IS OPENING***": {
+    "translation": "下面的大门正在打开"
+  },
+  "***MAIN GATE IS OPENING IN 15 SECONDS***": {
+    "translation": "主门 - 15秒后打开"
+  },
+  "***MAIN GATE IS OPENING***": {
+    "translation": "主门已开启"
+  },
+  "***MAKE YOUR WAY TO THE SUN KINGDOM BEST SPACE ROCKET***": {
+    "translation": "你们赶快去最棒奶龙王国的航天火箭"
+  },
+  "***MANBO RANCH WILL WELCOME YOU IN 30 SECONDS***": {
+    "translation": "曼波牧场大门 - 30秒后打开"
+  },
+  "***MANBO RANCH WILL WELCOME YOU IN 5 SECONDS***": {
+    "translation": "曼波牧场大门 - 5秒后打开"
+  },
+  "***MAP BY LUFFAREN***(CHANGE BY 161MIKU HARMONY)": {
+    "translation": "地图作者:LUFFAREN 和谐:161MIKU 文本:Zeyu1"
+  },
+  "***MID GATE IS OPENING***": {
+    "translation": "中间的大门正在打开"
+  },
+  "***MISSILE SILO DOOR OPENS IN 10 SECONDS***": {
+    "translation": "导弹发射井门 - 10秒后打开"
+  },
+  "***MISSILE SILO DOOR OPENS IN 20 SECONDS***": {
+    "translation": "导弹发射井门 - 20秒后打开"
+  },
+  "***MISSILE SILO DOOR OPENS IN 30 SECONDS***": {
+    "translation": "导弹发射井门 - 30秒后打开"
+  },
+  "***MISSILE SILO DOOR OPENS IN 60 SECONDS***": {
+    "translation": "导弹发射井门 - 60秒后打开"
+  },
+  "***ONE OF THEM ARE DELAYED DUE TO RAMMING BALANCE***": {
+    "translation": "他们其中一个人因撞击失衡而被拖延"
+  },
+  "***OUTER DOOR IS OPENING***": {
+    "translation": "外门已开启"
+  },
+  "***OUTER DOOR OPENS IN 15 SECONDS***": {
+    "translation": "外门 - 15秒后打开"
+  },
+  "***OUTER DOOR OPENS IN 5 SECONDS***": {
+    "translation": "外门 - 5秒后打开"
+  },
+  "***OUTER GATE IS OPENING IN 10 SECONDS***": {
+    "translation": "外门 - 10秒后打开"
+  },
+  "***OUTER GATE IS OPENING***": {
+    "translation": "外门已打开"
+  },
+  "***PATH IS OPEN***": {
+    "translation": "道路已开放"
+  },
+  "***PATH OPENING IN 10 SECONDS***": {
+    "translation": "前面的道路 - 10秒后开放"
+  },
+  "***PATH OPENING IN 20 SECONDS***": {
+    "translation": "前面的道路 - 20秒后开放"
+  },
+  "***PATH OPENING IN 30 SECONDS***": {
+    "translation": "前面的道路 - 30秒后开放"
+  },
+  "***PATH OPENING IN 5 SECONDS***": {
+    "translation": "前面的道路 - 5秒后开放"
+  },
+  "***PEOPLE ARE BUYING BBY-COINS LIKE HOTCAKES***": {
+    "translation": "人们买婴儿币就像买烧饼一样"
+  },
+  "***PLEASE HOLD...***": {
+    "translation": "请稍等..."
+  },
+  "***PLEASE HOLD..***": {
+    "translation": "请稍等.."
+  },
+  "***PLEASE HOLD.***": {
+    "translation": "请稍等."
+  },
+  "***PLEASE HOLD***": {
+    "translation": "请稍等"
+  },
+  "***PRINGLES IS BACK!***": {
+    "translation": "品客薯片滚回来了!"
+  },
+  "***QUICK, CLIMB THE LADDER!***": {
+    "translation": "赶紧从梯子爬上去不然你就要变成猫饼了!"
+  },
+  "***RAM RANCH WILL WELCOME YOU IN 30 SECONDS***": {
+    "translation": "基情牧场大门 - 30秒后打开"
+  },
+  "***RAM RANCH WILL WELCOME YOU IN 5 SECONDS***": {
+    "translation": "基情牧场大门 - 5秒后打开"
+  },
+  "***RUN FOR IT***": {
+    "translation": "死腿快跑啊!"
+  },
+  "***SAY ADIOS TO RAM RANCH***": {
+    "translation": "和基情牧场说再见吧"
+  },
+  "***SHOOT THE STINK TO GAIN HP***": {
+    "translation": "射击那个洗手台 - 获取额外HP"
+  },
+  "***SHORTCUT GATE IS OPENING IN 10 SECONDS***": {
+    "translation": "近路的门 - 10秒后打开"
+  },
+  "***SHORTCUT GATE IS OPENING IN 5 SECONDS***": {
+    "translation": "近路的门 - 5秒后打开"
+  },
+  "***SHORTCUT GATE IS OPENING***": {
+    "translation": "捷径门已开启"
+  },
+  "***SOLDIERS INCOMING***": {
+    "translation": "士兵正在靠近!"
+  },
+  "***SOLVE THE SUN KING‘S PUZZLE***": {
+    "translation": "解决这个奶龙王国的谜题"
+  },
+  "***SOMETHING IS ABOUT TO HAPPEN***": {
+    "translation": "似乎要发生什么事情"
+  },
+  "***SPACE ROCKET DOOR IS OPENING***": {
+    "translation": "航天火箭的舱门已开启"
+  },
+  "***SPACE ROCKET DOOR OPENING IN 10 SECONDS***": {
+    "translation": "航天火箭的舱门 - 10秒后打开"
+  },
+  "***SPACE ROCKET DOOR OPENING IN 20 SECONDS***": {
+    "translation": "航天火箭的舱门 - 20秒后打开"
+  },
+  "***SPACE ROCKET DOOR OPENING IN 5 SECONDS***": {
+    "translation": "航天火箭的舱门 - 5秒后打开"
+  },
+  "***SPACE ROCKET DOOR OPENING IN 60 SECONDS***": {
+    "translation": "航天火箭的舱门 - 60秒后打开"
+  },
+  "***SPONSORED BY PRINGLES***": {
+    "translation": "本气球由品客冠名赞助"
+  },
+  "***STAGE 1 & 2 LOADED***": {
+    "translation": "正在加载第一关和第二关"
+  },
+  "***STAGE 1 & 2 UNLOADED***": {
+    "translation": "取消加载第一关和第二关"
+  },
+  "***STAGE 1 WON***": {
+    "translation": "你们拿下了第一关!"
+  },
+  "***STAGE 2 WON***": {
+    "translation": "你们拿下了第二关!"
+  },
+  "***STAGE 3 LOADED***": {
+    "translation": "正在加载第三关"
+  },
+  "***STAGE 3 UNLOADED***": {
+    "translation": "第三关未加载"
+  },
+  "***STAGE 3 WON***": {
+    "translation": "第三关完成"
+  },
+  "***STEP ON THE TRAM PLEASE***": {
+    "translation": "请登上电车"
+  },
+  "***TAKE SHELTER INSIDE, QUICK!***": {
+    "translation": "现在快去避难所里"
+  },
+  "***THAT'S ALL FOR NOW - MORE STAGES TO COME***": {
+    "translation": "更多关卡即将到来"
+  },
+  "***THE BABY SUICIDE RATE IS SKYROCKETING***": {
+    "translation": "婴儿自杀率正在快速攀升"
+  },
+  "***THE CASTLE HAS BEEN COMPLETED!***": {
+    "translation": "城堡盖好了!"
+  },
+  "***THE GATES WILL OPEN IN BALANCED ORDER***": {
+    "translation": "大门会平稳地打开"
+  },
+  "***THE GUARDS IN THE BACK ARE A BIT SLOW***": {
+    "translation": "后面的守卫稍微有点慢"
+  },
+  "***THE INNER RAM DOORS ARE BEING RAMMED OPEN***": {
+    "translation": "内部大门已开启"
+  },
+  "***THE INNER RAM DOORS WILL OPEN IN 10 SECONDS***": {
+    "translation": "内部大门 - 10秒后打开"
+  },
+  "***THE INNER RAM DOORS WILL OPEN IN 30 SECONDS***": {
+    "translation": "内部大门 - 30秒后打开"
+  },
+  "***THE INNER RAM DOORS WILL OPEN IN 5 SECONDS***": {
+    "translation": "内部大门 - 5秒后打开"
+  },
+  "***THE PLACE WHERE MAGIC HAPPENS***": {
+    "translation": "这里是见证奇迹的地方"
+  },
+  "***THEY WERE THINKING ABOUT PIZZA***": {
+    "translation": "或许他们在思考披萨的事情"
+  },
+  "***TRAM IS LEAVING IN 10 SECONDS***": {
+    "translation": "电车将于10秒后离开"
+  },
+  "***TRAM IS LEAVING IN 5 SECONDS***": {
+    "translation": "电车将于5秒后离开"
+  },
+  "***TRAM IS LEAVING***": {
+    "translation": "电车已离开"
+  },
+  "***UNLOADING STAGE 1 & 2...***": {
+    "translation": "取消加载第一关和第二关"
+  },
+  "***UNLOADING STAGE 3...***": {
+    "translation": ""
+  },
+  "***UPPER GATE IS OPENING***": {
+    "translation": "上面的大门正在打开"
+  },
+  "***WAIT...***": {
+    "translation": "等下..."
+  },
+  "***WARMUP***": {
+    "translation": "热身"
+  },
+  "***WATCH OUT***": {
+    "translation": "小心!"
+  },
+  "***WE WILL PROCESS YOUR ENTRY REQUEST***": {
+    "translation": "我们正在审批你们的入境请求"
+  },
+  "***WELCOME MY YOUNG BOYS***": {
+    "translation": "欢迎你们,年轻人"
+  },
+  "***WELCOME TO BEST SUN KINGDOM!!!!***": {
+    "translation": "欢迎来到奶龙王国"
+  },
+  "***WELCOME TO MANBO RANCH***": {
+    "translation": "欢迎来到奶龙牧场"
+  },
+  "***WELCOME TO RAM RANCH***": {
+    "translation": "欢迎来到基情牧场"
+  },
+  "***WELCOME TO THE BEST KOREAN BALLOON***": {
+    "translation": "欢迎来到最美???的热气球"
+  },
+  "***WELCOME...***": {
+    "translation": "欢迎..."
+  },
+  "***WHAT HAVE YOU DONE...***": {
+    "translation": "你看看你都干了什么..."
+  },
+  "***WHERE DID DADDY DIDDLE YA?***": {
+    "translation": "爸爸哪里有欺骗过你?"
+  },
+  "***YOU ATE THE PRINGLES***": {
+    "translation": "你把品客薯片都吃了"
+  },
+  "***YOU DID IT***": {
+    "translation": "你做到了"
+  },
+  "***YOU NEED TO EAT SOME PRINGLES***": {
+    "translation": "你需要吃一点品客薯片"
+  },
+  "***YOU SCUM***": {
+    "translation": "wdf"
+  },
+  "***YOU WILL BE SAFE THERE***": {
+    "translation": "你在那里会很安全"
+  },
+  "***YOUNG BABY KIM IS DEAD***": {
+    "translation": "奶龙宝宝倒头就睡了"
+  },
+  "***YOUNG BABY NAILONG IS DEAD***": {
+    "translation": "奶龙宝宝倒头就睡了"
+  },
+  "***ZOMBIE SURF PROTECTOR IS NOW ACTIVE***": {
+    "translation": "阻碍僵尸滑翔的推力已激活"
+  },
+  "***ZOMBIES ARE RELEASED***": {
+    "translation": "僵尸已被释放"
+  },
+  "***ZOMBIES HAVE RAMMED ONE OF THE PATHS***": {
+    "translation": "僵尸已经到达其中一条路"
+  },
+  "***ZOMBIES RELEASE IN 1 SECOND***": {
+    "translation": "1秒后释放僵尸"
+  },
+  "***ZOMBIES RELEASE IN 2 SECONDS***": {
+    "translation": "2秒后释放僵尸"
+  },
+  "***ZOMBIES RELEASE IN 3 SECONDS***": {
+    "translation": "3秒后释放僵尸"
+  },
+  "***ZOMBIES RELEASE IN 4 SECONDS***": {
+    "translation": "4秒后释放僵尸"
+  },
+  "***ZOMBIES RELEASE IN 5 SECONDS***": {
     "translation": "5秒后释放僵尸"
   }
 }
