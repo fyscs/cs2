@@ -2,11 +2,13 @@
 // i18n Version v21
 // Copyright 2026 Kyle 'Kxnrl' Frankiss.
 // https://github.com/Kxnrl
-// 可用字段:
-// blocked    (bool) -> 屏蔽本句输出
-// clearText  (bool) -> 清除所有HUD文本
-// clearTimer (bool) -> 清除所有倒计时
-// countdown  (int)  -> 添加特殊的独立的倒计时
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
 {
   "**A player picked up heal crystal**": {
     "translation": "有玩家拾取了治疗水晶"
@@ -16,44 +18,56 @@
     "countdown": 25
   },
   "NOW PLAYING:ネオ竹林インフレイム - 黄昏フロンティア": {
-    "translation": "正在播放:ネオ竹林インフレイム - 黄昏フロンティア"
+    "translation": "正在播放: ネオ竹林インフレイム - 黄昏フロンティア"
   },
   "10s": {
-    "translation": "10s",
-    "countdown": 10
+    "translation": "10s"
   },
   "20s": {
     "translation": "20s",
     "countdown": 20
   },
-  "30s后僵尸传送": {
-    "translation": "30s后僵尸传送",
-    "countdown": 30
+  "20s后僵尸传送": {
+    "translation": "20s后僵尸传送",
+    "countdown": 20
+  },
+  "1.1近路开放": {
+    "translation": "1.1近路开放"
   },
   "20s后滑翔结束": {
     "translation": "20s后滑翔结束",
     "countdown": 20
   },
   "NOW PLAYING:Nosedive - EBIMAYO": {
-    "translation": "正在播放:Nosedive - EBIMAYO"
+    "translation": "正在播放: Nosedive - EBIMAYO"
+  },
+  "15s": {
+    "translation": "15s",
+    "countdown": 15
+  },
+  "30s后僵尸传送": {
+    "translation": "30s后僵尸传送",
+    "countdown": 30
+  },
+  "2.1近路开放": {
+    "translation": "2.1近路开放"
   },
   "30s后滑翔结束": {
     "translation": "30s后滑翔结束",
     "countdown": 30
   },
   "NOW PLAYING:就这样沉入黑暗吧 - StarX": {
-    "translation": "正在播放:就这样沉入黑暗吧 - StarX"
+    "translation": "正在播放: 就这样沉入黑暗吧 - StarX"
   },
   "5s": {
     "translation": "5s",
     "countdown": 5
   },
-  "40": {
-    "translation": "40s",
-    "countdown": 40
+  "3.1近路开放": {
+    "translation": "3.1近路开放"
   },
   "NOW PLAYING:飛行艇 - King Gnu": {
-    "translation": "正在播放:飛行艇 - King Gnu"
+    "translation": "正在播放 飛行艇 - King Gnu"
   },
   "最后一段滑翔已开放，存活120s": {
     "translation": "最后一段滑翔已开放,存活120s"
@@ -62,7 +76,7 @@
     "translation": "僵尸10s后传送"
   },
   "NOW PLAYING:SACRIFICE (Original Mix) - ayame": {
-    "translation": "正在播放:SACRIFICE (Original Mix) - ayame"
+    "translation": "正在播放: SACRIFICE (Original Mix) - ayame"
   },
   "30s": {
     "translation": "30s",
@@ -73,7 +87,7 @@
     "countdown": 20
   },
   "NOW PLAYING:タマモッチ - LuzeriA": {
-    "translation": "正在播放:タマモッチ - LuzeriA"
+    "translation": "正在播放: タマモッチ - LuzeriA"
   },
   "60s": {
     "translation": "60s",
