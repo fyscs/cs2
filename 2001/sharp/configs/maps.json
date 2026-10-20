@@ -675,7 +675,7 @@
     "requiredPlayers": -1
   },
   "ze_bluearchive_abydos": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 100,
     "nomination": true,
