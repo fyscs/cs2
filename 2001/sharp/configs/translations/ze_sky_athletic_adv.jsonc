@@ -961,7 +961,7 @@
   },
   "*** What are you doing? adventure is over.type rtv now ***": {
     "translation": "还在等什么?冒险已经结束,输入rtv换图吧",
-    "block": true
+    "blocked": true
   },
   "*** Where are we...? ***": {
     "translation": "我们到哪里了......?"
