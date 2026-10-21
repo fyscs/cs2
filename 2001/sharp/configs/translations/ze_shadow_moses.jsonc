@@ -1,0 +1,148 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "MAP BY BLUE BLUE": {
+    "translation": "地图作者:蓝蓝,翻译:白姬@Zeyu"
+  },
+  "▲▲▲ FIND A WAY IN THE VENT TO ENTER THE TANK HANGAR ▲▲▲": {
+    "translation": "寻找通风管道中的路线,进入坦克机库!"
+  },
+  "▲▲▲ QUICK ! GET OUT OF THE ELEVATOR !! ▲▲▲": {
+    "translation": "快!离开电梯!!"
+  },
+  "▲▲▲ ELEVATOR WILL LEAVE IN 10 SECONDS ▲▲▲": {
+    "translation": "电梯将在10秒后离开!"
+  },
+  "▲▲▲ KEEP THE ENEMIES OUTSIDE OF THE TOWER !! ▲▲▲": {
+    "translation": "阻止敌人进入塔内!!"
+  },
+  "▲▲▲ THE PATH WILL OPEN IN 20 SECONDS ▲▲▲": {
+    "translation": "道路将在20秒后开启!"
+  },
+  "PEW PEW SOUTH": {
+    "translation": "南方砰砰"
+  },
+  "▲▲▲ 10 SECONDS FOR THIS DOOR ▲▲▲": {
+    "translation": "这扇门还需等待10秒!"
+  },
+  "▲▲▲ WE CAN CONTINUE... ▲▲▲": {
+    "translation": "我们可以继续前进了..."
+  },
+  "▲▲▲ THIS ROCK WILL BREAK IN 20 SECONDS ▲▲▲": {
+    "translation": "这块岩石将在20秒后碎裂!"
+  },
+  "▲▲▲ KEEP GOING TO TURNING OFF THE GAS ▲▲▲": {
+    "translation": "继续前进,关闭毒气!"
+  },
+  "▲▲▲ HOLD 20 SECONDS FOR THIS DOOR TO OPEN ▲▲▲": {
+    "translation": "坚守20秒,等待这扇门开启!"
+  },
+  "▲▲▲ METAL GEAR PLATEFORM WILL RISE IN 20 SECONDS ▲▲▲": {
+    "translation": "合金装备平台将在20秒后升起!"
+  },
+  "▲▲▲ ELEVATOR MOVE IN 10 SECONDS ▲▲▲": {
+    "translation": "电梯将在10秒后移动!"
+  },
+  "▲▲▲ NEXT ELEVATOR IS MOVING ▲▲▲": {
+    "translation": "下一部电梯正在移动!"
+  },
+  "▲▲▲ NEXT DOOR WILL OPEN SOON ▲▲▲": {
+    "translation": "下一扇门即将开启!"
+  },
+  "▲▲▲ THIS CRANE WILL MOVE IN 15 SECONDS ▲▲▲": {
+    "translation": "这台起重机将在15秒后移动!"
+  },
+  "▲▲▲ 5 SECONDS LEFT ▲▲▲": {
+    "translation": "还剩5秒!"
+  },
+  "▲▲▲ CRANE IS COMING ▲▲▲": {
+    "translation": "起重机来了!"
+  },
+  "▲▲▲ PLACE THE C4 BEFORE MOVING ON ! ▲▲▲": {
+    "translation": "继续前进前先安放C4炸药!"
+  },
+  "▲▲▲ SNIPERWOLF IS GONE, THE COMMUNICATION TOWER WILL OPEN IN A FEW SECONDS ▲▲▲": {
+    "translation": "狙击狼已离开,通信塔将在几秒后开放!"
+  },
+  "▲▲▲ DEFEND THE ELEVATOR FOR 20 SECONDS ! ▲▲▲": {
+    "translation": "防守电梯20秒!"
+  },
+  "▲▲▲ THE DOOR WILL OPEN IN 10 SECONDS ▲▲▲": {
+    "translation": "门将在10秒后开启!"
+  },
+  "▲▲▲ THE ELEVATOR WILL MOVE IN 15 SECONDS ▲▲▲": {
+    "translation": "电梯将在15秒后移动!"
+  },
+  "▲▲▲ THIS DOOR WILL OPEN IN 20 SECONDS ▲▲▲": {
+    "translation": "这扇门将在20秒后开启!"
+  },
+  "▲▲▲ GET ON THE TRUCK ! WE GONNA BLOW THE WHOLE ISLAND ! ▲▲▲": {
+    "translation": "快上卡车!我们要炸毁整座岛屿!"
+  },
+  "▲▲▲ MANTIS MOUTH CLOSE IN 10 SECONDS ▲▲▲": {
+    "translation": "螳螂之口将在10秒后关闭!"
+  },
+  "▲▲▲ DON'T LET THEM ESCAPE THE TUNNEL !▲▲▲": {
+    "translation": "别让他们逃出隧道!"
+  },
+  "▲▲▲ WE FOUND A WAY TO ENTER THE BASE ! FALL BACK▲▲▲": {
+    "translation": "我们找到进入基地的路线了!撤退!"
+  },
+  "▲▲▲ THE ELEVATOR IS COMING ! ▲▲▲": {
+    "translation": "电梯来了!"
+  },
+  "▲▲▲ ELEVATOR WILL LEAVE IN 15 SECONDS ▲▲▲": {
+    "translation": "电梯将在15秒后离开!"
+  },
+  "▲▲▲ SECURITY SYSTEM IS OFF ▲▲▲": {
+    "translation": "安保系统已关闭!"
+  },
+  "▲▲▲ CRACKING THE DOOR PASSWORD... ▲▲▲": {
+    "translation": "正在破解门禁密码..."
+  },
+  "▲▲▲ CAMERA WILL TURN OFF IN 10 SECONDS ▲▲▲": {
+    "translation": "监控摄像头将在10秒后关闭!"
+  },
+  "▲▲▲ ELECTRIC FLOOR IS OFF AND THE CAMERA WILL BE SOON ! ▲▲▲": {
+    "translation": "带电地板已关闭,监控摄像头也即将关闭!"
+  },
+  "▲▲▲ LET'S FIND THE GENERATOR TO REACTIVATE THE NEXT DOOR ▲▲▲": {
+    "translation": "寻找发电机,重新接通下一扇门的电源!"
+  },
+  "▲▲▲ DECONTAMINATION CHAMBER WILL OPEN SOON ▲▲▲": {
+    "translation": "消毒室即将开启!"
+  },
+  "▲▲▲ WATCH OUT, FLOOR OF THE NEXT ROOM IS ELECTRIFIED ! ▲▲▲": {
+    "translation": "小心!下一个房间的地板带电!"
+  },
+  "▲▲▲ THIS DOOR NEEDS POWER TO OPEN ▲▲▲": {
+    "translation": "这扇门需要通电才能开启!"
+  },
+  "▲▲▲ ELEVATOR WILL GO BACK IN 10 SECONDS ▲▲▲": {
+    "translation": "电梯将在10秒后返回!"
+  },
+  "▲▲▲ THE WAY BACK TO THE ELEVATOR WILL OPEN IN 15 SECONDS ▲▲▲": {
+    "translation": "通往电梯的返回通道将在15秒后开启!"
+  },
+  "▲▲▲ BEHIND YOU... ▲▲▲": {
+    "translation": "就在你身后..."
+  },
+  "▲▲▲ IT'S GRAY FOX ! SHOOT HIM ! ▲▲▲": {
+    "translation": "是灰狐!快开枪射击!"
+  },
+  "▲▲▲ GAS WILL BE RELEASED IN 15 SECONDS ▲▲▲": {
+    "translation": "毒气将在15秒后释放!"
+  },
+  "▲▲▲ TAKE SHELTER IN ONE OF THE AIRTIGHT OFFICES ▲▲▲": {
+    "translation": "躲进其中一间密闭办公室!"
+  }
+}
