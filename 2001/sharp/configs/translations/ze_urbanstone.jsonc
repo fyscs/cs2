@@ -1,0 +1,194 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2025 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+{
+  "!!! BOX SPAWNER !!!": {
+    "translation": " 箱子生成器 "
+  },
+  "<< BOX SPAWNED >>": {
+    "translation": " 箱子已生成 "
+  },
+  "<< LIFT LEAVING >>": {
+    "translation": " 升降机即将离开 "
+  },
+  "<< LIFT LEAVING 15 SECONDS >>": {
+    "translation": " 升降机15秒后离开 "
+  },
+  "<<< CHECKPOINT 1 >>>": {
+    "translation": " 检查点 1 "
+  },
+  "<< DOOR OPEN >>": {
+    "translation": " 大门开启 "
+  },
+  "< THROW NADE IN HOLE >": {
+    "translation": " 往洞里扔手雷 "
+  },
+  "<<< BUILD TOWER TO PLATFORM >>>": {
+    "translation": " 搭塔前往平台 "
+  },
+  "<< PRESS AND HOLD >>": {
+    "translation": " 长按交互 "
+  },
+  "<< DOOR CLOSING >>": {
+    "translation": " 大门正在关闭 "
+  },
+  "< USE BLOCKS FOR COVER  >": {
+    "translation": " 利用方块掩护 "
+  },
+  "< FAN ACTIVATING >": {
+    "translation": " 风扇启动中 "
+  },
+  "< DEFEND HERE - ONE PERSON TURN OFF FAN  >": {
+    "translation": " 在此防守 一人去关闭风扇 "
+  },
+  "<< DOOR OPEN 20 SECONDS >>": {
+    "translation": " 大门20秒后开启 "
+  },
+  "<< DOOR CLOSING 5 SECONDS >>": {
+    "translation": " 大门5秒后关闭 "
+  },
+  "<<< FALL BACK >>>": {
+    "translation": " 全体后撤 "
+  },
+  "<<< CAUTION : FAN AUTOMATIC START >>>": {
+    "translation": " 警告 风扇将自动启动 "
+  },
+  "<< DOOR OPENING >>": {
+    "translation": " 大门开启中 "
+  },
+  "<< DOOR OPEN 25 SECONDS >>": {
+    "translation": " 大门25秒后开启 "
+  },
+  "<< DOOR OPENING 10 SECONDS >>": {
+    "translation": " 大门10秒后开启 "
+  },
+  "<< FALL BACK >>": {
+    "translation": " 后撤 "
+  },
+  "<< DEFEND HERE >>": {
+    "translation": " 在此防守 "
+  },
+  "<< FINAL DOOR CLOSING 30 SECONDS >>": {
+    "translation": " 最终大门30秒后关闭 "
+  },
+  "<< NO CHECKPOINTS >>": {
+    "translation": " 无检查点模式 "
+  },
+  "<< LEVEL 1 >>": {
+    "translation": " 第1关 "
+  },
+  "<< LEVEL 1 - NO CHECKPOINTS WON >>": {
+    "translation": " 第1关 无检查点通关 "
+  },
+  "<<< ZOMBIE DETECTED >>>": {
+    "translation": " 发现僵尸 "
+  },
+  "<< LEVEL 1 - CHECKPOINTS WON >>": {
+    "translation": " 第1关 检查点通关 "
+  },
+  "< BREAK TRAM >": {
+    "translation": " 破坏轨道车 "
+  },
+  "< CATCH BOX  >": {
+    "translation": " 接住箱子 "
+  },
+  "< TO SPAWN CRATE >": {
+    "translation": " 生成板条箱 "
+  },
+  "<< CHECKPOINT 1 >>": {
+    "translation": " 检查点 1 "
+  },
+  "<< CHECKPOINTS >>": {
+    "translation": " 检查点模式 "
+  },
+  "<< CHECKPOINT 4 >>": {
+    "translation": " 检查点 4 "
+  },
+  "<< CHECKPOINT 3 >>": {
+    "translation": " 检查点 3 "
+  },
+  "< PUSH CART >": {
+    "translation": " 推动推车 "
+  },
+  "< 6 PLAYERS - MAX SPEED >": {
+    "translation": " 6名玩家 达到最高速度 "
+  },
+  "<< DOOR OPENING 8 SECONDS >>": {
+    "translation": " 大门8秒后开启 "
+  },
+  "<<< DEFEND HERE >>>": {
+    "translation": " 在此防守 "
+  },
+  "<<< DOOR OPEN >>>": {
+    "translation": " 大门开启 "
+  },
+  "<<< CHECKPOINT 2 >>>": {
+    "translation": " 检查点 2 "
+  },
+  "<<< CHECKPOINT 4 >>>": {
+    "translation": " 检查点 4 "
+  },
+  "<<< CHECKPOINT 5 >>>": {
+    "translation": " 检查点 5 "
+  },
+  "<< MAP COMPLETE - NO CHECKPOINTS >>": {
+    "translation": " 地图通关 无检查点 "
+  },
+  "<< MAP COMPLETE - CHECKPOINTS >>": {
+    "translation": " 地图通关 检查点模式 "
+  },
+  "<<< CHECKPOINT 3 >>>": {
+    "translation": " 检查点 3 "
+  },
+  "<<< LAST DOOR  OPEN >>>": {
+    "translation": " 最后大门开启 "
+  },
+  "<< KEEP ZOMBIES OFF TRAM >>": {
+    "translation": " 阻止僵尸登上轨道车 "
+  },
+  "<< CART DESTROYED >>": {
+    "translation": " 推车已被摧毁 "
+  },
+  "< HUMANS - PROTECT THE CART >": {
+    "translation": " 人类 保护推车 "
+  },
+  "< ZOMBIES - DESTROY THE CART >": {
+    "translation": " 僵尸 摧毁推车 "
+  },
+  "<< DOOR OPENING 15 SECONDS >>": {
+    "translation": " 大门15秒后开启 "
+  },
+  "<< LEVEL 2 >>": {
+    "translation": " 第2关 "
+  },
+  "<< DOOR OPENING 20 SECONDS >>": {
+    "translation": " 大门20秒后开启 "
+  },
+  "<< DOOR OPEN 10 SECONDS >>": {
+    "translation": " 大门10秒后开启 "
+  },
+  "<< LEFT BRIDGE ACTIVE >>": {
+    "translation": " 左侧桥梁已激活 "
+  },
+  "<< RIGHT BRIDGE ACTIVE >>": {
+    "translation": " 右侧桥梁已激活 "
+  },
+  "<< DOOR OPEN 30 SECONDS >>": {
+    "translation": " 大门30秒后开启 "
+  },
+  "<< CHECKPOINT 2 >>": {
+    "translation": " 检查点 2 "
+  },
+  "<< STEPS OPEN >>": {
+    "translation": " 台阶开启 "
+  },
+  "<< FANS STOPPED >>": {
+    "translation": " 风扇已停止 "
+  }
+}
