@@ -674,6 +674,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_bluearchive_abydos": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": 900,
+    "requiredPlayers": 40
+  },
   "ze_bluearchive_abydos_b1": {
     "admin": false,
     "certainTimes": [-1],
