@@ -51,7 +51,7 @@
       "mass": 40,
       "counter": "lv2_boss_counter_big",
       "hitbox": "lv2_boss_hitbox",
-      "display": "白金铠甲"
+      "display": "塔其米"
     },
     {
       "iterator": "lv1_boss_counter_small",

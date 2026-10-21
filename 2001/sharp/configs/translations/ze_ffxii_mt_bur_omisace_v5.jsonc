@@ -1,0 +1,466 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**A Player has acquired Cactuar Summon**": {
+    "translation": "玩家获得了仙人掌"
+  },
+  "**A Player has acquired King Bomb Summon**": {
+    "translation": "玩家获得了炸弹王"
+  },
+  "**A Player has acquired Underworld Rod**": {
+    "translation": "玩家获得了冥界之杖"
+  },
+  "**A Player has acquired Silver Mace**": {
+    "translation": "玩家获得了白银权杖"
+  },
+  "**A Player has acquired HP Potion**": {
+    "translation": "玩家获得了生命药剂"
+  },
+  "**A Player has acquired Haste Potion**": {
+    "translation": "玩家获得了速度药剂"
+  },
+  "**A Player has acquired Chaos Blade**": {
+    "translation": "玩家获得了混沌之刃"
+  },
+  "** Sword of Kings has been picked up **": {
+    "translation": "霸王之剑(终极)已被拾取"
+  },
+  "**A Player has acquired Betelgeuse**": {
+    "translation": "玩家获得了光炮"
+  },
+  "**A Player has acquired Gunblade**": {
+    "translation": "玩家获得了枪刃"
+  },
+  "**Zombie Warlock blocking the path! Defeat him!**": {
+    "translation": "死灵法师挡住了道路!杀死他"
+  },
+  "**Bahamut is retreating! run!**": {
+    "translation": "巴哈姆特正在撤退!快跑!"
+  },
+  "**Bahamut is blocking your path - Shoot it now!**": {
+    "translation": "巴哈姆特挡住了道路!开枪!"
+  },
+  "**A Player has acquired Sandstorm Magick**": {
+    "translation": "玩家获得了流沙魔法"
+  },
+  "**A Player has acquired Ensanguined Shield**": {
+    "translation": "玩家获得了血染之盾"
+  },
+  "**A Player has acquired Heal Magick**": {
+    "translation": "玩家获得了治疗魔法"
+  },
+  "**A Player has acquired Thunder Magick**": {
+    "translation": "玩家获得了雷魔法"
+  },
+  "**A Player has acquired Penetrator Crossbow**": {
+    "translation": "玩家获得了十字弩"
+  },
+  "**A Player has acquired Ultimate Blade!**": {
+    "translation": "玩家获得了审判之剑!"
+  },
+  "**Survive 230 seconds!**": {
+    "translation": "存活230秒"
+  },
+  "**Survive 180 seconds!**": {
+    "translation": "存活180秒"
+  },
+  "**Survive 90 seconds!**": {
+    "translation": "存活90秒"
+  },
+  "**Survive 60 seconds!**": {
+    "translation": "存活60秒"
+  },
+  "**Survive 30 seconds!**": {
+    "translation": "存活30秒"
+  },
+  "**Survive 10 seconds!**": {
+    "translation": "还有10秒"
+  },
+  "**[Tonberry] Congratulation": {
+    "translation": "[Tonberry] 恭喜"
+  },
+  "**[Tonberry] Unfortunately": {
+    "translation": "[Tonberry] 糟糕哦"
+  },
+  "**Level has been changed on Hard Mode**": {
+    "translation": "关卡已更改为困难模式"
+  },
+  "**King Bomb has casted Flame Ability!**": {
+    "translation": "爆弹王施放了火焰技能"
+  },
+  "**King Bomb has summoned Ultimate Fireball Ability!**": {
+    "translation": "爆弹王释放了终极火球"
+  },
+  "**King Bomb has casted Revenge Blast Ability!**": {
+    "translation": "爆弹王施放了复仇爆破!"
+  },
+  "**King Bomb has summoned Ultimate Flame Shield Ability!**": {
+    "translation": "爆弹王召唤了终极烈焰护盾!"
+  },
+  "**King Bomb has summoned Mustard Bomb Ability!**": {
+    "translation": "爆弹王召唤了毒气炸弹!"
+  },
+  "**King Bomb has summoned Eruption Ability!**": {
+    "translation": "爆弹王召唤了火焰喷射!"
+  },
+  "**King Bomb has summoned Fire Angon Ability!**": {
+    "translation": "爆弹王召唤了烈焰标枪!"
+  },
+  "**King Bomb has summoned Ultimate Bomb Meteor Ability!**": {
+    "translation": "爆弹王召唤了终极爆弹流星!"
+  },
+  "**King Bomb has casted Self-Destruct Ability!**": {
+    "translation": "爆弹王施放了自爆技能!"
+  },
+  "**Defeat King Bomb before he burn us!**": {
+    "translation": "尽快杀死他!"
+  },
+  "< You are too slow >": {
+    "translation": "你太慢了!"
+  },
+  "**Defend until main platform start moving!**": {
+    "translation": "守到平台移动"
+  },
+  "**Nades do more damage**": {
+    "translation": "投掷手雷将造成更多伤害!"
+  },
+  "**Defeat Exodus before his power will consume us!**": {
+    "translation": "在被天秤座吞噬前击败它!!"
+  },
+  "**Exodus has summoned Electrogenesis Ability!**": {
+    "translation": "天秤座释放了暗影电流(呆在中间)"
+  },
+  "**Exodus has casted Ultravibration Ability!**": {
+    "translation": "天秤座使用了大地震颤!"
+  },
+  "**Stay on the middle to dodge the attack!**": {
+    "translation": "站在中间以躲避攻击"
+  },
+  "**Exodus has casted Weakness Breaker Ability!**": {
+    "translation": "天秤座使用了弱点击破"
+  },
+  "**Exodus has summoned Imbue Wind Ability**": {
+    "translation": "天秤座释放了侵透之风"
+  },
+  "**Exodus has summoned Shock Strike Ability**": {
+    "translation": "天秤座释放了冲击波(呆在外围)"
+  },
+  "**Exodus has summoned Electrogenesis Ability**": {
+    "translation": "天秤座释放了暗影电流(呆在中间)"
+  },
+  "**Exodus has casted Guard Breaker**": {
+    "translation": "天秤座使用了护盾"
+  },
+  "**Exodus has summoned Perpetual Ray Ability!**": {
+    "translation": "天秤座释放了永恒光束(远离boss正面)"
+  },
+  "**Exodus has casted Reflux Ability!**": {
+    "translation": "天秤座使用了逆流"
+  },
+  "**Exodus has casted Ultimate Ability!**": {
+    "translation": "天秤座使用了终极(伤害加强)"
+  },
+  "**Exodus attacks get 50% boost!**": {
+    "translation": "天秤座的攻击变快了!"
+  },
+  "**Exodus has casted Break Exploiter Ability!**": {
+    "translation": "天秤座使用了破灭汲取"
+  },
+  "**Exodus has casted Elemental Retrieval Ability!**": {
+    "translation": "天秤座使用了元素重置(神器沉默)"
+  },
+  "**Hurry up! Exodus summon his most powerful ability!**": {
+    "translation": "反应快点!天秤座释放了它的最强技能!!"
+  },
+  "**Nades do 200% more damage!**": {
+    "translation": "手雷将造成额外伤害"
+  },
+  "** MALGO SHIT MAPPING FIXED BY KOEN v1-13-2024 **": {
+    "translation": "感谢Ma/l/go的制作shitmap,由Koen修复,文本:creeper_kk"
+  },
+  "**When we were in the Stilshrine of Miriam we could see smoke coming from that area**": {
+    "translation": "当我们正在探索米利暗遗迹的时候,神都布尔奥米塞斯突然升起了狼烟"
+  },
+  "**We have to check it out**": {
+    "translation": "尽快去查看一番"
+  },
+  "**Find way to main temple and talk with Gran Kiltias Anastasis**": {
+    "translation": "任务:找到前往神庙的路,并与大僧正阿纳斯塔西斯交谈"
+  },
+  "**We need to get to him asap**": {
+    "translation": "尽快找到他!"
+  },
+  "[Tonberry] Congratulation I hope this item will serve you well!": {
+    "translation": "[Tonberry] 十分感谢!我看看能给你些什么好玩意..."
+  },
+  "**Judge Bergan probably went to the room where Gran Kiltias Anastasis is staying!**": {
+    "translation": "裁判长贝甘很可能已经前往大僧正的房间了!"
+  },
+  "**I hope the soldiers of the empire will not disturb us**": {
+    "translation": "希望这里的士兵不会阻挠我们"
+  },
+  "**Level has been changed on Normal Mode**": {
+    "translation": "关卡已更改为普通模式"
+  },
+  "**Level has been changed on Insane Mode**": {
+    "translation": "关卡已更改为疯狂模式"
+  },
+  "**Admin set Maximum Tenberry quest**": {
+    "translation": "管理员对冬贝利使用了黑魔法"
+  },
+  "**Level has been changed on Epic Mode**": {
+    "translation": "关卡已更改为史诗模式"
+  },
+  "**Judge Bergan is dead": {
+    "translation": "**裁判长贝甘已死亡"
+  },
+  "**Strahl exploded? Defend until something happen!**": {
+    "translation": "**斯特拉号爆炸了?坚持防守,直到发生变化!**"
+  },
+  "**Exodus finally is dead. run!**": {
+    "translation": "它死了,快跑"
+  },
+  "**Gates will open in 25 seconds!**": {
+    "translation": "大门还有25秒开启",
+    "countdown": 25
+  },
+  "**Bergan has summoned Fire Bomb!**": {
+    "translation": "贝甘召唤了火焰炸弹!(站在两侧!)"
+  },
+  "**Bergan is using Cure Magick!**": {
+    "translation": "贝甘正在使用治疗魔法!"
+  },
+  "**Bergan has casted White Wind Ability!**": {
+    "translation": "贝甘施放了复苏之风!(按W抵抗!)"
+  },
+  "**Bergan has casted Protect Ability!**": {
+    "translation": "贝甘施放了护盾技能,并将快速释放下一个技能"
+  },
+  "**Bergan has casted Shock Strike Ability!**": {
+    "translation": "贝甘施放了冲击波!(中间或者两侧随机)"
+  },
+  "**Bergan has summoned Water Cannon Ability!**": {
+    "translation": "贝甘召唤了水铁炮!(按S抵抗!)"
+  },
+  "**Bergan has casted Bad Breath Ability!**": {
+    "translation": "贝甘施放了腐蚀之气!(全屏AOE)"
+  },
+  "**Bergan has summoned 1000 Needles Ability!**": {
+    "translation": "贝甘召唤了针千本!(蹲下!)"
+  },
+  "**Bergan has casted Blood Drain Ability!**": {
+    "translation": "贝甘施放了吸血技能!(停枪!)"
+  },
+  "**Bergan has summoned Fire Angon Ability!**": {
+    "translation": "贝甘召唤了龙息标枪!(站在中场两侧!)"
+  },
+  "**Judge Bergan should be dead but with them you never know": {
+    "translation": "贝甘裁判长现在被我们淦碎了,目前已失去主要线索,该怎么办呢"
+  },
+  "**Hopefully Gran Kiltias Anastasis is safe**": {
+    "translation": "现在只能希望大僧正阿纳斯塔西斯平安无事了"
+  },
+  "**We can run away from this empty tower**": {
+    "translation": "留在高塔现已没有意义,赶紧撤出这里"
+  },
+  "**Hurry up!!! - Judge Bergan power up his abilities**": {
+    "translation": "反应快点!!贝甘强化了他的技能!"
+  },
+  "**Hold this area for 15 seconds until gate is open!**": {
+    "translation": "防守15秒",
+    "countdown": 15
+  },
+  "**It's last hold gates will open in 20 seconds!***": {
+    "translation": "最后一道门,还有20秒",
+    "countdown": 20
+  },
+  "**Bahamut has casted Cure Ability!**": {
+    "translation": "巴哈姆特施放了治疗技能!"
+  },
+  "**Bahamut has summoned Shield Ability!**": {
+    "translation": "巴哈姆特召唤了护盾技能!"
+  },
+  "**Bahamut has casted Lure Ability!**": {
+    "translation": "巴哈姆特施放了引力!(按S抵抗!)"
+  },
+  "**Bahamut has casted Push Ability!**": {
+    "translation": "巴哈姆特施放了风炮(按W抵抗!)!"
+  },
+  "**Bahamut has summoned Ultimate Electro Ability!**": {
+    "translation": "巴哈姆特召唤了终极雷电!(躲避脚底随机电场!)"
+  },
+  "**Bahamut has summoned Ultimate Push Ability!**": {
+    "translation": "巴哈姆特召唤了终极风炮,远离boss身后的两束光炮正面!"
+  },
+  "**Bahamut has summoned Electro Ability!**": {
+    "translation": "巴哈姆特召唤了电击技能!(中场电击)"
+  },
+  "**Bahamut has summoned Flame Ability!**": {
+    "translation": "巴哈姆特召唤了火焰技能!(全屏AOE)"
+  },
+  "**Bahamut has summoned Mega Flare Ability!**": {
+    "translation": "巴哈姆特召唤了百万核爆!(远离boss正面)"
+  },
+  "**That must be Bahamut lair! Kill this beast before he kill us!**": {
+    "translation": "这里应该就是巴哈姆特的巢穴!在它杀死我们之前杀死它!"
+  },
+  "< You are too slow! Bahamus escaping!**": {
+    "translation": "你太慢了!"
+  },
+  "**Well done! Bahamut is dead!**": {
+    "translation": "干得漂亮"
+  },
+  "**Insane mode was beaten. Unlocking Epic mode **": {
+    "translation": "疯狂难度已通关,解锁史诗难度"
+  },
+  "**Zombie detected**": {
+    "translation": "检测到僵尸"
+  },
+  "**Hold this area until way is open!**": {
+    "translation": "守到道路彻底打开"
+  },
+  "**Defend until gate is opens!**": {
+    "translation": "守到大门打开"
+  },
+  "**Hold this area**": {
+    "translation": "守住这里"
+  },
+  "**Way will open in 15 seconds!**": {
+    "translation": "还有15秒门开",
+    "countdown": 15
+  },
+  "**Hold this area for 30 seconds**": {
+    "translation": "在此处守30秒",
+    "countdown": 30
+  },
+  "**Hold this area for 20 seconds!**": {
+    "translation": "在此处守20秒",
+    "countdown": 20
+  },
+  "**Normal mode was beaten. Unlocking Hard mode**": {
+    "translation": "普通难度已通关,解锁困难难度"
+  },
+  "**Zombie detected": {
+    "translation": "检测到僵尸"
+  },
+  "**Defend for 30 seconds until the way is opens!**": {
+    "translation": "防守30秒直到道路打开",
+    "countdown": 30
+  },
+  "**Gates will open in 20 seconds!**": {
+    "translation": "门开还有20秒",
+    "countdown": 20
+  },
+  "**Oh no! Way is blocked!**": {
+    "translation": "路被堵住了!"
+  },
+  "**Defend until something happen!**": {
+    "translation": "等待什么事情发生"
+  },
+  "**Hold this area for 15 seconds until way is open!**": {
+    "translation": "还有15秒",
+    "countdown": 15
+  },
+  "**The Gates will open in 20 seconds!**": {
+    "translation": "还有20秒",
+    "countdown": 20
+  },
+  "**Hold this area for 30 seconds!**": {
+    "translation": "还有30秒",
+    "countdown": 30
+  },
+  "**Epic mode was beaten. You won map! **": {
+    "translation": "**史诗模式已通关.你赢得了这张地图!**"
+  },
+  "**Judge Bergan blocking the way": {
+    "translation": "**审判官贝甘正在阻挡道路"
+  },
+  "**Hard mode was beaten. Unlocking Insane mode**": {
+    "translation": "困难难度已通关,解锁疯狂难度"
+  },
+  "**Hold this area! We escaping in 30 seconds!**": {
+    "translation": "将在30秒后逃离此地",
+    "countdown": 30
+  },
+  "**Path will open in 25 seconds!**": {
+    "translation": "道路将在25秒后打开",
+    "countdown": 25
+  },
+  "**Defend! Way will open in 25 seconds!**": {
+    "translation": "防守25秒直到道路打开",
+    "countdown": 25
+  },
+  "**Hold here for 30 seconds!**": {
+    "translation": "守住30秒",
+    "countdown": 30
+  },
+  "**Hold here for 15 seconds!*": {
+    "translation": "守住15秒",
+    "countdown": 15
+  },
+  "**Hurry up! Bergan summon his most powerful ability!**": {
+    "translation": "快点!贝甘召唤了他的最强能力!"
+  },
+  "**Bergan has summoned Aqua Ability**": {
+    "translation": "贝甘召唤了流体!"
+  },
+  "**Bergan has casted Fire Agony Ability!*": {
+    "translation": "贝甘施放了苦痛烈焰!"
+  },
+  "**Bergan has summoned Knight's Tour Ability!**": {
+    "translation": "贝甘使用了冲击波!(先站外场再站内场)"
+  },
+  "**Bergan has casted Chelonian Gate Ability!**": {
+    "translation": "贝甘使用了玄冥壁!(全体人类强制100hp)"
+  },
+  "**Bergan has casted Peripheral Synthesis Ability!**": {
+    "translation": "贝甘施放了外围强化!"
+  },
+  "**Bergan has casted Haste Ability!**": {
+    "translation": "贝甘施放了加速技能!"
+  },
+  "**Bergan has casted Thunder Ability!*": {
+    "translation": "贝甘施放了雷电魔法!"
+  },
+  "**Bergan has summoned Ultimate Ability!**": {
+    "translation": "贝甘召唤了究极技能,快远离中间!"
+  },
+  "**Bergan has summoned Mustard Bomb Ability!**": {
+    "translation": "贝甘召唤了毒气炸弹,躲避头上的火球!"
+  },
+  "**Bergan has summoned Sandstorm Ability!**": {
+    "translation": "贝甘召唤了沙暴!"
+  },
+  "**Bergan has summoned Electrogenesis Ability!**": {
+    "translation": "贝甘召唤了暗影电流!"
+  },
+  "**[Exodus] Face your weaknesses or die!**": {
+    "translation": "[Exodus] 面对你虚弱的一面吧"
+  },
+  "**Where we are? i never saw this place before!**": {
+    "translation": "我在哪?我从未见过这里"
+  },
+  "**[Exodus] Welcome to Kiltian temple": {
+    "translation": "[Exodus] 欢迎来到基尔蒂安神庙"
+  },
+  "**[Exodus] Goodbye!**": {
+    "translation": "[Exodus] 再见!"
+  },
+  "还有15秒": {
+    "translation": "还有15秒",
+    "countdown": 15
+  },
+  "还有10秒": {
+    "translation": "还有10秒",
+    "countdown": 10
+  }
+}
