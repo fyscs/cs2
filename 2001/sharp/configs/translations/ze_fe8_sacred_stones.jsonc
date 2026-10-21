@@ -1,0 +1,391 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "<<<Path opens in 25 seconds>>>": {
+    "translation": "路径将在25秒后开启"
+  },
+  "<<<Zombies are getting closer to the root of all evil! Zombies now have 1.12 speed buff!>>>": {
+    "translation": "僵尸获得了邪恶根源的气息,现在它们的速度提升了1.12倍!"
+  },
+  "<<<The path is split into two...maybe we should split up equally?>>>": {
+    "translation": "有两条路径,也许我们该分开行动"
+  },
+  ">>>You have defeated Formortiis and successfully sealed away his remaining souls<<<": {
+    "translation": "成功击杀了佛德斯,它散落的灵魂也将受到封印"
+  },
+  ">>>You have achieved the impossible...<<<": {
+    "translation": "你们实现了不可能的目标"
+  },
+  ">>>You are the hero of Magvel<<<": {
+    "translation": "你们是魔界的英雄"
+  },
+  "<<<Enabling tp to final boss room in 30 seconds>>>": {
+    "translation": "传送:30秒"
+  },
+  "<<<Formortiis: Come, and face your death! Im waiting, you miserable fool. Your corpse will make a perfect offering in my resurrection...>>>": {
+    "translation": "佛德斯:来吧,面对死亡!我在等你,你这个可怜的小丑.你的尸体将成为我复活的完美祭品..."
+  },
+  "<<<Sacred Stone have detected powerful evil being...>>>": {
+    "translation": "神圣之石发现了强大邪恶气息的存在"
+  },
+  "<<<The stone has unlocked itself...USE IT NOW!!!!>>>": {
+    "translation": "神圣气息已经解锁,现在快使用它!"
+  },
+  "<<<Formortiis: Burn in ferocious lightning...>>>": {
+    "translation": "佛德斯:在凶猛的闪电里燃烧吧"
+  },
+  "<<<Formortiis: Facing the deceased ones....how interesting...>>>": {
+    "translation": "佛德斯:面对死亡,多么有趣的事情"
+  },
+  ">>>Mist....<<<": {
+    "translation": "雾隐之术"
+  },
+  ">>>Sword of Judgement....<<<": {
+    "translation": "审判之剑"
+  },
+  "<<<Formortiis: Bring them to me...minions>>>": {
+    "translation": "佛德斯:把他们带给我,我的小弟们"
+  },
+  ">>>Formortiis has changed weak point<<<": {
+    "translation": "佛德斯的破绽已转移"
+  },
+  "<<<Formortiis: Mortal! Do you fear your own nightmare?...>>>": {
+    "translation": "佛德斯:凡人,你畏惧自己的梦魇吗?"
+  },
+  ">>>Slow....<<<": {
+    "translation": "减速"
+  },
+  "<<<Castle Gate opens in 50 seconds>>>": {
+    "translation": "城门将在50秒后开启"
+  },
+  "<<<Hint: Zombies will get tp after this....don't doorhug!>>>": {
+    "translation": "提示:僵尸将会在稍后传送,不要贴门"
+  },
+  "<<<We need explosion to open up this door...>>>": {
+    "translation": "我们需要爆破这扇门"
+  },
+  "<<<What can we use?>>>": {
+    "translation": "我们该怎么做?"
+  },
+  "<<<ZM got inside!>>>": {
+    "translation": "僵尸进来了"
+  },
+  "<<<Stage Failed! Game Over...>>>": {
+    "translation": "关卡失败,人类玩完了"
+  },
+  "<<<Both paths will open in 40 seconds>>>": {
+    "translation": "两条路径将在40秒后开启"
+  },
+  "<<<We're almost at the end of the cave! Just hold on!>>>": {
+    "translation": "我们快到山洞的尽头了,坚持住"
+  },
+  "<<<AFK teleport in 8 seconds>>>": {
+    "translation": "挂机传送:8秒"
+  },
+  "<<<AFK teleport in 10 seconds>>>": {
+    "translation": "挂机传送:10秒"
+  },
+  "<<<Town gate opens in 15 seconds>>>": {
+    "translation": "城镇大门将在15秒后开启"
+  },
+  "<<<AFK Teleport in 15 seconds>>>": {
+    "translation": "挂机传送:15秒"
+  },
+  "<<<Seems like there's no survivors....>>>": {
+    "translation": "这里似乎没有幸存者了...."
+  },
+  "<<<However, a strong seal blocks the path ahead...please wait....>>>": {
+    "translation": "坚固的封印阻挡了前进的道路,让我们再等一下...."
+  },
+  "<<<Main gate opens in 25 seconds>>>": {
+    "translation": "主门将在25秒后开启"
+  },
+  "<<<We're finally here....opening up the gate...>>>": {
+    "translation": "我们终于到达了这里,正在打开大门"
+  },
+  "<<<Wait, what is that?>>>": {
+    "translation": "等等,那是什么?"
+  },
+  "<<<This might be the end...of the journey...>>>": {
+    "translation": "这里或许就是我们旅途的终点"
+  },
+  "<<<The stone....>>>": {
+    "translation": "石头...."
+  },
+  "<<<Go and defeat Grado's general and find the secret within!>>>": {
+    "translation": "打败格拉多的将军并寻找隐藏在其中的秘密"
+  },
+  "<<<The stone is protecting us for 10 seconds!>>>": {
+    "translation": "圣石会保护我们10秒!"
+  },
+  "<<<We have arrived at Grado Harbor..we should hurry>>>": {
+    "translation": "我们已经到达格拉多港,加快进度"
+  },
+  "<<<Hint: Ring the bell at the lighthouse!>>>": {
+    "translation": "提示:按下灯塔上的摇铃"
+  },
+  "<<<Signal has been sounded...>>>": {
+    "translation": "信号已经响起"
+  },
+  "<<<You did it!>>>": {
+    "translation": "你们做到了!"
+  },
+  "<<<Final door opens in 15 seconds>>>": {
+    "translation": "最终之门将在15秒后开启"
+  },
+  "<<<Congratulations! Advancing to next chapter>>>": {
+    "translation": "恭喜,进入下一章"
+  },
+  "<<<A zombie GOT ON THE SHIP! Game over....>>>": {
+    "translation": "船只上检测到邪恶的气息,人类玩完了"
+  },
+  "<<<Zombie ship is coming....>>>": {
+    "translation": "僵尸乘坐的船只来了"
+  },
+  "<<<Destroy all ships to advance to next chapter...>>>": {
+    "translation": "摧毁所有船进入下一章"
+  },
+  "<<<The mist is here...defend yourself from the monsters...>>>": {
+    "translation": "雾气来了,保护好自己免受怪物袭击"
+  },
+  "<<<Hint: Icebergs will only come from the front of the ship...Break them before it damages your ship!>>>": {
+    "translation": "提示:在冰块摧毁你的船只前把它破坏掉"
+  },
+  "<<<Zombie ship is coming...>>>": {
+    "translation": "僵尸乘坐的船只来了"
+  },
+  "<<<You may need to open up the other door first....>>>": {
+    "translation": "你需要先打开另一扇门"
+  },
+  ">>>Gaia Blast<<<": {
+    "translation": "盖亚爆破"
+  },
+  ">>>Stage Failed! Game Over...<<<": {
+    "translation": "关卡失败,人类玩完了"
+  },
+  "<<<The Sacred Guardian resides in the depth of this dungeon...>>>": {
+    "translation": "神圣的守护者居住在地牢的深处"
+  },
+  "<<<Castle doors open in 25 seconds!>>>": {
+    "translation": "城堡大门将在25秒后开启"
+  },
+  ">>>Tracing Spirit is casting...<<<": {
+    "translation": "追踪之灵正在施法..."
+  },
+  "<<<FREEZING BLIZZARD>>>": {
+    "translation": "极寒暴风雪"
+  },
+  "<<<ROCK SLIDE>>>": {
+    "translation": "落石"
+  },
+  "<<<RUNE SHIELD>>>": {
+    "translation": "符文护盾"
+  },
+  "<<<EARTHQUAKE>>>": {
+    "translation": "地震"
+  },
+  "<<<Platform rising in 15 sec>>>": {
+    "translation": "平台将在15秒后升起"
+  },
+  "<<<Platform leaving in 20 seconds>>>": {
+    "translation": "平台将在20秒后离开"
+  },
+  "<<<ZM Tp enables in 40 sec>>>": {
+    "translation": "僵尸传送:40秒"
+  },
+  "<<<Hint: break the statue in the middle>>>": {
+    "translation": "提示:破坏中间的雕像"
+  },
+  "<<<The door here seems to be locked? Nades don't seem to work anymore...We need a key>>>": {
+    "translation": "这扇门似乎已经被锁死了,我们需要一把钥匙"
+  },
+  "<<<The dungeon is straight ahead...>>>": {
+    "translation": "地牢在正前方"
+  },
+  "<<<The keybearer is unlocking the door...>>>": {
+    "translation": "持钥匙者正在开门"
+  },
+  "<<<Right side door is opening...>>>": {
+    "translation": "右侧的门正在打开"
+  },
+  "<<<Left side door Opens in 5 seconds>>>": {
+    "translation": "左侧的门将在5秒后开启"
+  },
+  "<<<Sewer elevator leaving in 10 seconds>>>": {
+    "translation": "下水道电梯将在10秒后离开"
+  },
+  "<<<Grenades can now be used on the other side door...>>>": {
+    "translation": "手雷现在可以在另外一扇门上使用"
+  },
+  "<<<Left Door opening in 25 seconds>>>": {
+    "translation": "左侧的门将在25秒后开启"
+  },
+  "<<<These crystals are more polished than the ones in the cave...>>>": {
+    "translation": "这些晶体比洞穴中的更加闪亮"
+  },
+  "<<<Hint: Pull the lever first before you break the crystal....>>>": {
+    "translation": "提示:破坏水晶之前先拉动杠杆"
+  },
+  "<<<Hint: there are a total of three crystals, upon destroying all, you shall receive the key to advance>>>": {
+    "translation": "提示:摧毁三个水晶后,你将获得一把钥匙让你继续你的旅程"
+  },
+  ">>>A Player has picked up Roy<<<": {
+    "translation": "一名玩家捡起了罗伊"
+  },
+  "<<<The cage is now unlocked...>>>": {
+    "translation": "笼子现在已经解锁"
+  },
+  "<<<WE got the key! Key user need to go through the tunnel to reach the other side...>>>": {
+    "translation": "拿到钥匙了,通过隧道到达另一端去使用这把钥匙"
+  },
+  "<<<Door opens in 20 seconds>>>": {
+    "translation": "大门将在20秒后开启"
+  },
+  "<<<AFK Teleport in 20 seconds>>>": {
+    "translation": "挂机传送:20秒"
+  },
+  "<<<Let's hurry before Grado lays their hand on the last stone!>>>": {
+    "translation": "我们要赶在格拉多把手伸向最后一块石头之前"
+  },
+  "<<<Hint: Break the initial statue>>>": {
+    "translation": "提示:破坏雕像"
+  },
+  "<<<That cave opening should lead to the Rausten Depth...Hurry!>>>": {
+    "translation": "这条应该是通往劳斯滕地牢的道路,快!"
+  },
+  "<<<Break the chains to start unsealing processs...>>>": {
+    "translation": "破坏铁链以解除封印"
+  },
+  "<<<Rocks break in 20 seconds>>>": {
+    "translation": "岩石将在20秒后破碎"
+  },
+  "<<<Path opens in 20 seconds>>>": {
+    "translation": "路径将在20秒后开启"
+  },
+  "<<<Chains broken!>>>": {
+    "translation": "铁链已破碎!"
+  },
+  "<<<Platform is rising...>>>": {
+    "translation": "平台正在升起"
+  },
+  ">>>Chapter 1: Rausten's Sacred Stone<<<": {
+    "translation": "第一章:劳斯滕的圣石"
+  },
+  ">>>Chapter 2: Rausten's Dungeon<<<": {
+    "translation": "第二章:劳斯滕的地牢"
+  },
+  ">>>Chapter 3: Road to Grado<<<": {
+    "translation": "第三章:通往格拉多的路"
+  },
+  ">>>Chapter 4: Grado<<<": {
+    "translation": "第四章:格拉多"
+  },
+  ">>>Final Chapter: Formortiis<<<": {
+    "translation": "最终章:佛德斯"
+  },
+  "<<<Teleport Activates in 25 seconds>>>": {
+    "translation": "传送将在25秒后启动"
+  },
+  ">>>Map by iXi<<<": {
+    "translation": "地图制作:iXi 文本:Zeyu1"
+  },
+  ">>>Music from: Fire Emblem 8, Vindictus, Overlord<<<": {
+    "translation": "音乐来源于:火焰纹章8,洛奇英雄传,霸王"
+  },
+  ">>>Your journey begins in 45 seconds<<<": {
+    "translation": "旅途将在45秒后开始"
+  },
+  ">>>Nuking...<<<": {
+    "translation": "愿世界核平"
+  },
+  ">>>This is my first map, enjoy!<<<": {
+    "translation": "这是我的第一张地图,祝你游戏愉快"
+  },
+  ">>>For some reason my profile is dead, you can find me on GUC / GFL discord<<<": {
+    "translation": "由于某些原因我的个人资料已失效,你可以在 GUC / GFL 上找到我"
+  },
+  ">>>This is the final version of the map, there won't be any more patches/changes unless needed...<<<": {
+    "translation": "这是地图的最终版,如无致命的问题,将不会再进行更新"
+  },
+  ">>>Special thanks to Luffaren for the animation idea<<<": {
+    "translation": "特别感谢 Luffaren 提供的创作灵感"
+  },
+  ">>>Custom assets 90% done by me<<<": {
+    "translation": "自定义素材有90%由我制作"
+  },
+  "<<<Duessel mentions a Dark Stone to Ephraim>>>": {
+    "translation": "杜塞尔向法莲提到了一块黑石头"
+  },
+  "<<<a substance that Lyon extraced from Grado's Sacred Stone>>>": {
+    "translation": "一种从格拉多帝国的圣石中提取的物质"
+  },
+  "<<<We need to get to the bottom of this and end it!>>>": {
+    "translation": "我们需要深入了解并终结它"
+  },
+  "<<<The best way to reach Grado is by sea>>>": {
+    "translation": "到达格拉多的最佳方式是海上航行"
+  },
+  "<<<The Grado Empire, a long-standing ally of Renais, launched a surprise attack on Renais, ordered by Emperor Vigarde>>>": {
+    "translation": "蕾娜斯帝国的长期盟友格拉多帝国的维加德皇帝却下令对蕾娜斯人发动突袭"
+  },
+  "<<<You must escape from Renais and find out Grado's motives>>>": {
+    "translation": "你必须从蕾娜斯逃脱,找出格拉多的动机"
+  },
+  "<<<After series of battles and victories, most of the sacred stones are destroyed >>>": {
+    "translation": "经过一系列的战斗和胜利,大部分的圣石被摧毁了"
+  },
+  "<<<The only sacred stone left is the one at Rausten Dungeon>>>": {
+    "translation": "剩下唯一一块圣石是劳斯滕地牢中的一块石头"
+  },
+  "<<<This should be a piece of cake since we have defeated Grado's army at Rausten Court...>>>": {
+    "translation": "这应该是小菜一碟,因为我们已经在劳斯滕战场击败了格拉多帝国的军队..."
+  },
+  "<<<Path opens in 10 seconds>>>": {
+    "translation": "路径将在10秒后开启"
+  },
+  ">>>Crystal energy is fading<<<": {
+    "translation": "晶体能量正在逐渐消失"
+  },
+  "<<<Path opens in 15 seconds>>>": {
+    "translation": "路径将在15秒后开启"
+  },
+  "<<<Defend for 15 seconds until the door closes...>>>": {
+    "translation": "守住15秒,直到门关闭"
+  },
+  "<<<Path is blocked, perhaps we can destroy the crystal...>>>": {
+    "translation": "路径被阻塞,也许我们可以摧毁水晶"
+  },
+  "<<<Hint: Destroy the brighter, smaller crystals>>>": {
+    "translation": "提示:破坏那些较小且明亮的晶体"
+  },
+  ">>>Crystal energy is fading...<<<": {
+    "translation": "晶体能量正在逐渐消失..."
+  },
+  "[RexBarrier]: Summons a barrier upon using it. There are requirements that need to be fullfilled first. CD: 60 seconds": {
+    "translation": "[屏障]:使用后召唤一道屏障,需要先满足特定条件.冷却:60秒"
+  },
+  "[Heal_pot]: Your everyday healing potion CD: 50 seconds": {
+    "translation": "[治疗药水]:日常使用的治疗药水,冷却:50秒"
+  },
+  "[Shield]: The more you use this item, the less powerful it gets, use it wisely. CD: 35 seconds": {
+    "translation": "[护盾]:这件物品使用次数越多效果越弱,请谨慎使用.冷却:35秒"
+  },
+  "[ZM_Nightmare]: Nightmares are lurkers of the dark. Upon right clicking, humans within a certain raidus will not be able to look straight, CD: 75 seconds": {
+    "translation": "[梦魇]:梦魇潜伏于黑暗之中.右键使用后,一定范围内的人类将无法看清前方,冷却:75秒"
+  },
+  "[ZM_Skeleton]: Skeleton have passive skill: ZM speed buff, CD: 60 seconds": {
+    "translation": "[骷髅]:骷髅拥有被动技能:僵尸加速,冷却:60秒"
+  },
+  "[ZM_Fire_Demon]: Right click to create a passive fire ring, CD: 60 seconds": {
+    "translation": "[炎魔]:右键生成一个持续的火环,冷却:60秒"
+  }
+}
