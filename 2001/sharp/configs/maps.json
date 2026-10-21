@@ -2312,6 +2312,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_gugugaga_escape": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 350,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_halloween_house_p": {
     "admin": false,
     "certainTimes": [-1],
