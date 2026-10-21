@@ -24,13 +24,13 @@
   "Counters": [
     {
       "display": "咕咕嘎嘎",
-      "iterator": "[PR#]gugugaga_hp",
-      "hitbox": "[PR#]gugugaga_hitbox"
+      "iterator": "gugugaga_hp",
+      "hitbox": "gugugaga_hitbox"
     },
     {
       "display": "企鹅王",
-      "iterator": "[PR#]boss_hp",
-      "hitbox": "[PR#]boss_hit"
+      "iterator": "boss_hp",
+      "hitbox": "boss_hit"
     }
   ],
   "Monsters": [
