@@ -4985,6 +4985,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_shadow_moses": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 450,
+    "requiredOnline": 600,
+    "requiredPlayers": 20
+  },
   "ze_shaurma_v3": {
     "admin": false,
     "certainTimes": [-1],
