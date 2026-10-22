@@ -1,0 +1,821 @@
+{
+  "surf_4am": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_ace": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_activation": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_aquaflow": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_arctic": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_astra": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_atrium": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_beginner": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_beginner_lin": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_benevolent": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_be_gentle": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_borderlands": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_boreas": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_botanica": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_cannonball": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 20,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_capsule": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_cartoon": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_classics": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_classics2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_classics3": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_colors_final": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_crush": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 25,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_crush2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 25,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_cubic_ksf": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_cyanide": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_cyberwave": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_cyka_ksf": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_decked": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_drain": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_elysium": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 25,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_ember2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 20,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_evo": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_excess": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 20,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_flow": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_fortum": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_frostedge": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_frosty": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_fruits": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_garden_h": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 25,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_gloomy": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 25,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_hekkz": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_holiday": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_how2surf": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_hyzer": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_illusion": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_insideout": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_intense": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 20,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_interceptor": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 20,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_invert": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_kitsune": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_kitsune2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_lovetunnel": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_lux": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_mesa_aether": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_mesa_revo": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_mom": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_momentum": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_neck_hurts": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_neoteric": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 20,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_not_so_neb": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_nuclear": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_nyx": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_n_turf": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_pantheon": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_papertown": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_paradise": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_phantasia": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_prisma": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_quest": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 25,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_race": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_rapid": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_remeanian": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 25,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_rookie": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_rookie2": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_santorini": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_scarlet": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_sippysip": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 20,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_slob": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_smile": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_snowfort": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_southpark": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_summit": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_syria": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_tendies": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_the_wave": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_tiltberg": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_tropic": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_utopia_njv": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_whiteout": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_whoknows": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 20,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
+  "surf_zeitgeist": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  }
+}
