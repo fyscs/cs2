@@ -1,0 +1,100 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only)
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "display": "BOY CLOUD (Angry)",
+      "iterator": "cute cloud angry count",
+      "hitbox": "cute target"
+    },
+    {
+      "display": "BOY CLOUD",
+      "iterator": "cute cloud hp",
+      "hitbox": "cute target"
+    },
+    {
+      "display": "KEY BOARD CRASHER (Angry)",
+      "iterator": "crasher angry count",
+      "hitbox": "crasher target"
+    },
+    {
+      "display": "KEY BOARD CRASHER",
+      "iterator": "crasher hp",
+      "hitbox": "crasher target"
+    },
+    {
+      "display": "Girl CLOUD (1)",
+      "iterator": "ex1_girl_cloud_hp1",
+      "hitbox": "ex1_girl_cloud_breakble"
+    },
+    {
+      "display": "Girl CLOUD (2)",
+      "iterator": "ex1_girl_cloud_hp_kakusei",
+      "hitbox": "ex1_girl_cloud2_fake"
+    },
+    {
+      "display": "Girl CLOUD (3)",
+      "iterator": "ex1_girl_cloud_hp2",
+      "hitbox": "ex1_girl_cloud2_fake_model"
+    },
+    {
+      "display": "CLOUD FATHER (Angry)",
+      "iterator": "ex2_boss_angry_hp",
+      "hitbox": "ex2_boss_target"
+    },
+    {
+      "display": "CLOUD FATHER",
+      "iterator": "ex2_boss_real_hp",
+      "hitbox": "ex2_boss_target"
+    },
+    {
+      "display": "CRASHER (Shield)",
+      "iterator": "final_boss_ittanstop_counter",
+      "hitbox": "final_boss_truetarget"
+    },
+    {
+      "display": "CRASHER",
+      "iterator": "final_boss_truehp_counter",
+      "hitbox": "final_boss_target"
+    },
+    {
+      "display": "CRASHER (Finale)",
+      "iterator": "final_crasher_finale_final_hp_counter",
+      "hitbox": "finale_cloud_final_crasher_phys"
+    },
+    {
+      "display": "CLOUD FATHER (RTV)",
+      "iterator": "betray_him_hp_count_now",
+      "counter": "betray_him_hp_count",
+      "mass": 100,
+      "hitbox": "betray_him_begin_target"
+    },
+    {
+      "display": "KEY BOARD CRASHER (Zombie)",
+      "iterator": "final_crasher_hp_counter_total",
+      "counter": "final_crasher_hp_counter_10",
+      "mass": 60,
+      "hitbox": "kbc_zombie_target"
+    }
+  ]
+}

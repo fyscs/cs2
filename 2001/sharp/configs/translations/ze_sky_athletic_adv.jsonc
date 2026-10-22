@@ -1,0 +1,1290 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "!?": {
+    "translation": "!?"
+  },
+  "*** !? ***": {
+    "translation": "!?"
+  },
+  "*** 0 **": {
+    "translation": "0"
+  },
+  "*** 1 **": {
+    "translation": "还剩1秒",
+    "countdown": 1
+  },
+  "*** 1!!! ***": {
+    "translation": "爆炸倒计时 - 1秒!",
+    "countdown": 1
+  },
+  "*** 10 ***": {
+    "translation": "还剩10秒",
+    "countdown": 10
+  },
+  "*** 2 **": {
+    "translation": "还剩2秒",
+    "countdown": 2
+  },
+  "*** 2!!! ***": {
+    "translation": "爆炸倒计时 - 2秒!",
+    "countdown": 2
+  },
+  "*** 20 ***": {
+    "translation": "还剩20秒",
+    "countdown": 20
+  },
+  "*** 3 **": {
+    "translation": "还剩3秒",
+    "countdown": 3
+  },
+  "*** 30 ***": {
+    "translation": "还剩30秒",
+    "countdown": 30
+  },
+  "*** 4 **": {
+    "translation": "还剩4秒",
+    "countdown": 4
+  },
+  "*** 40 ***": {
+    "translation": "还剩40秒",
+    "countdown": 40
+  },
+  "*** 5 **": {
+    "translation": "还剩5秒",
+    "countdown": 5
+  },
+  "*** 5 ***": {
+    "translation": "还剩5秒",
+    "countdown": 5
+  },
+  "*** 5 SECONDS LEFT !!***": {
+    "translation": "还剩5秒",
+    "countdown": 5
+  },
+  "*** 5 seconds left ***": {
+    "translation": "还剩5秒",
+    "countdown": 5
+  },
+  "*** 6 **": {
+    "translation": "还剩6秒",
+    "countdown": 6
+  },
+  "*** 7 **": {
+    "translation": "还剩7秒",
+    "countdown": 7
+  },
+  "*** 8 **": {
+    "translation": "还剩8秒",
+    "countdown": 8
+  },
+  "*** >>>> WARNING <<<< KEYBOARD RUSH ***": {
+    "translation": ">>>> 警告 <<<< 键盘冲锋"
+  },
+  "*** A PLAYER HAS PICKED UP A BIG HEALTH LIGHT ***": {
+    "translation": "一名玩家拾取了大型治疗之光"
+  },
+  "*** A PLAYER HAS PICKED UP A BURNING LIGHT ***": {
+    "translation": "一名玩家拾取了烈焰之光"
+  },
+  "*** A PLAYER HAS PICKED UP A COLD LIGHT ***": {
+    "translation": "一名玩家拾取了寒冰之光"
+  },
+  "*** A PLAYER HAS PICKED UP A PUSH LIGHT ***": {
+    "translation": "一名玩家拾取了推力之光"
+  },
+  "*** A PLAYER HAS PICKED UP A SMALL HEALTH LIGHT ***": {
+    "translation": "一名玩家拾取了小型治疗之光"
+  },
+  "*** A player has picked up the CLOUD FATHER ***": {
+    "translation": "一名玩家拾取了云父"
+  },
+  "*** Across their head !! ***": {
+    "translation": "从它们的头顶通过!"
+  },
+  "*** ADVENTURE IS OVER ***": {
+    "translation": "冒险结束了"
+  },
+  "*** Adventure is over,need to chenge map ***": {
+    "translation": "冒险已经结束,该换张地图了"
+  },
+  "*** ALL EXTREME STAGE COMPLETE IN 10 SECONDS ***": {
+    "translation": "全部极限关卡将在10秒后完成",
+    "countdown": 10
+  },
+  "*** ALL EXTREME STAGE COMPLETE IN 20 SECONDS ***": {
+    "translation": "全部极限关卡将在20秒后完成",
+    "countdown": 20
+  },
+  "*** ALL EXTREME STAGE COMPLETE IN 30 SECONDS ***": {
+    "translation": "全部极限关卡将在30秒后完成",
+    "countdown": 30
+  },
+  "*** ALL EXTREME STAGE COMPLETE IN 5 SECONDS ***": {
+    "translation": "全部极限关卡将在5秒后完成",
+    "countdown": 5
+  },
+  "*** ALL OF LASER DISABLED ***": {
+    "translation": "所有激光已关闭"
+  },
+  "*** ALL STAGE COMPLETE IN 10 SECONDS ***": {
+    "translation": "全部关卡将在10秒后完成",
+    "countdown": 10
+  },
+  "*** ALL STAGE COMPLETE IN 20 SECONDS ***": {
+    "translation": "全部关卡将在20秒后完成",
+    "countdown": 20
+  },
+  "*** ALL STAGE COMPLETE IN 30 SECONDS ***": {
+    "translation": "全部关卡将在30秒后完成",
+    "countdown": 30
+  },
+  "*** ALL STAGE COMPLETE IN 5 SECONDS ***": {
+    "translation": "全部关卡将在5秒后完成",
+    "countdown": 5
+  },
+  "*** ALL STAGE COMPLETED. EXTREME MODE IS COMING ***": {
+    "translation": "普通关卡全部完成,极限模式即将开启"
+  },
+  "*** Another cannon started ***": {
+    "translation": "另一门大炮已启动"
+  },
+  "*** Bad weather... ***": {
+    "translation": "天气变坏了......"
+  },
+  "*** BARRIER DISABLED ***": {
+    "translation": "屏障已解除"
+  },
+  "*** Be careful !! ***": {
+    "translation": "小心!"
+  },
+  "*** BOY CLOUD IS DEFEATED ***": {
+    "translation": "云小子已被击败"
+  },
+  "*** BURNING KEYBOARD ***": {
+    "translation": "燃烧键盘"
+  },
+  "*** CAREFULL!!! ***": {
+    "translation": "小心!!!"
+  },
+  "*** Character brok** a*d ano**er way o*****  ***": {
+    "translation": "角色损**,另**条道路已开***"
+  },
+  "*** CLOUD FATHER'S TRUE ATTACKS !!! ***": {
+    "translation": "云父的真正实力!!!"
+  },
+  "*** CONGRATULATIONS !!!!!!!! ***": {
+    "translation": "恭喜通关!!!"
+  },
+  "*** CRASHER HEALED 70 HP ***": {
+    "translation": "键盘破坏者恢复了70点生命值"
+  },
+  "*** CUTE CLOUDS created escape road !! ***": {
+    "translation": "小云朵们铺出了逃生道路!"
+  },
+  "*** Defend for 10 seconds ***": {
+    "translation": "防守10秒",
+    "countdown": 10
+  },
+  "*** Defend for 20 seconds ***": {
+    "translation": "防守20秒",
+    "countdown": 20
+  },
+  "*** Defend for 30 seconds ***": {
+    "translation": "防守30秒",
+    "countdown": 30
+  },
+  "*** Defend for 5 seconds ***": {
+    "translation": "防守5秒",
+    "countdown": 5
+  },
+  "*** DRAIN KEYBOARD ***": {
+    "translation": "吸血键盘"
+  },
+  "*** DRAIN KEYBOARD 2 ***": {
+    "translation": "吸血键盘2"
+  },
+  "*** ESC STORM ***": {
+    "translation": "ESC风暴"
+  },
+  "*** Expired 20 seconds,next round will start at STAGE 1 ***": {
+    "translation": "20秒已到,下一回合将从第一关开始"
+  },
+  "*** EXPLOSION IN 3 SECONDS!!!!! ***": {
+    "translation": "3秒后爆炸!",
+    "countdown": 3
+  },
+  "*** FINAL LEVEL:  ???? ***": {
+    "translation": "最终小关 - ????"
+  },
+  "*** FINAL Portal will activate in 10 SEDONDS ***": {
+    "translation": "最终区域 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** FINAL Portal will activate in 20 SECONDS ***": {
+    "translation": "最终区域 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** FINAL Portal will activate in 30 SECONDS ***": {
+    "translation": "最终区域 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** FINAL Portal will activate in 5 SECONDS ***": {
+    "translation": "最终区域 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** FIRST Portal will activate in 10 SECONDS ***": {
+    "translation": "起始区域 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** FIRST Portal will activate in 20 SEDONDS ***": {
+    "translation": "起始区域 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** FIRST Portal will activate in 5 SECONDS ***": {
+    "translation": "起始区域 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** FLYING CHANCE ***": {
+    "translation": "飞行时机"
+  },
+  "*** GET ON THE HIM !! ***": {
+    "translation": "快站到它身上!"
+  },
+  "*** GOOD LUCK... ***": {
+    "translation": "祝你们好运......"
+  },
+  "*** HE COMES AGAIN !!! ***": {
+    "translation": "他又来了!!!"
+  },
+  "*** He is not dead yet !! ***": {
+    "translation": "他还没死!"
+  },
+  "*** HE ISN'T HERE...?***": {
+    "translation": "他不在这里......?"
+  },
+  "*** Her machine is releasing smoke!!keep shooting !! ***": {
+    "translation": "她的机器开始冒烟了,继续射击!"
+  },
+  "*** HINT : Don't shoot the machine !! SHOOT THE her head !!! ***": {
+    "translation": "提示 - 别打机器,射击她的头部!"
+  },
+  "*** HOLD FOR 35 SECONDS !! ***": {
+    "translation": "坚守这里35秒",
+    "countdown": 35
+  },
+  "*** HOLD THIS POSITION for 10 SECONDS***": {
+    "translation": "坚守这里10秒",
+    "countdown": 10
+  },
+  "*** HOLD THIS POSITION for 20 SECONDS***": {
+    "translation": "坚守这里20秒",
+    "countdown": 20
+  },
+  "*** HOLD THIS POSITION for 30 SECONDS***": {
+    "translation": "坚守这里30秒",
+    "countdown": 30
+  },
+  "*** HOLD THIS POSITION for 5 SECONDS***": {
+    "translation": "坚守这里5秒",
+    "countdown": 5
+  },
+  "*** HUMAN>>> Climb the ladder ***": {
+    "translation": "人类>>> 爬上梯子"
+  },
+  "*** HURTING ZOMBIES ARE COMING ***": {
+    "translation": "伤害型僵尸正在靠近"
+  },
+  "*** IT CALLED MORE HIS FRIENDS ***": {
+    "translation": "他又叫来了更多伙伴"
+  },
+  "*** It's her final attack !! ***": {
+    "translation": "这是她的最后一击!"
+  },
+  "*** JUMP ***": {
+    "translation": "跳!"
+  },
+  "*** KAMIKAZE ZOMBIES ARE COMING ***": {
+    "translation": "自爆僵尸正在靠近"
+  },
+  "*** KEY BOARD CRASHER IS ANGRY!! DON'T STOP SHOOTING!! ***": {
+    "translation": "键盘破坏者发怒了,继续射击!"
+  },
+  "*** KEY BOARD CRASHER IS APPEARED!! SHOOT HIM!! ***": {
+    "translation": "键盘破坏者出现了,快射击他!"
+  },
+  "*** KEY BOARD CRASHER IS DEAD ***": {
+    "translation": "键盘破坏者已被击败"
+  },
+  "*** KEY BOARD CRASHER STARTED MOVING ***": {
+    "translation": "键盘破坏者开始移动了"
+  },
+  "*** KEY CANNON ***": {
+    "translation": "键帽大炮"
+  },
+  "*** KEY METEOR ***": {
+    "translation": "键帽陨石"
+  },
+  "*** KEY METEOR 2 ***": {
+    "translation": "键帽陨石2"
+  },
+  "*** KEY RAINS ***": {
+    "translation": "键帽雨"
+  },
+  "*** KEYBOARD ATTACK ***": {
+    "translation": "键盘攻击"
+  },
+  "*** KEYBOARD CUTTER ***": {
+    "translation": "键盘切割"
+  },
+  "*** KEYBOARD CUTTER 2 ***": {
+    "translation": "键盘切割2"
+  },
+  "*** KEYBOARD PARADISE ***": {
+    "translation": "键盘乐园"
+  },
+  "*** LEFT DOOR AND RIGHT DOOR ARE OPENING ***": {
+    "translation": "左右两侧的大门正在打开"
+  },
+  "*** LEVEL 10:  THE MOVING SCAFFOLDS 2 ***": {
+    "translation": "第10小关 - 移动平台2"
+  },
+  "*** LEVEL 11:  JUMPS ***": {
+    "translation": "第11小关 - 跳跃"
+  },
+  "*** LEVEL 12:  LASERS ***": {
+    "translation": "第12小关 - 激光"
+  },
+  "*** LEVEL 13: FLYING ***": {
+    "translation": "第13小关 - 飞行"
+  },
+  "*** LEVEL 14:  THE CLOUD BOSS ***": {
+    "translation": "第14小关 - 云朵首领"
+  },
+  "*** LEVEL 15: THE MOVING SCAFFOLD 3 ***": {
+    "translation": "第15小关 - 移动平台3"
+  },
+  "*** LEVEL 16: VARIOUS TYPE ROAD 1 ***": {
+    "translation": "第16小关 - 综合道路1"
+  },
+  "*** LEVEL 17: VARIOUS TYPE ROAD 2 ***": {
+    "translation": "第17小关 - 综合道路2"
+  },
+  "*** LEVEL 19: VARIOUS TYPE ROAD 3 ***": {
+    "translation": "第19小关 - 综合道路3"
+  },
+  "*** LEVEL 1: NORMAL JUMP ***": {
+    "translation": "第1小关 - 普通跳跃"
+  },
+  "*** LEVEL 20: VARIOUS TYPE ROAD 4 ***": {
+    "translation": "第20小关 - 综合道路4"
+  },
+  "*** LEVEL 2:  LADDERS ***": {
+    "translation": "第2小关 - 梯子"
+  },
+  "*** LEVEL 8: THE MOVING WALLS ***": {
+    "translation": "第8小关 - 移动墙壁"
+  },
+  "*** LEVEL 9:  THE ROTATING SCAFFOLDS ***": {
+    "translation": "第9小关 - 旋转平台"
+  },
+  "*** LEVEL UNKNOWN : UNKNOWN AREA *** ***": {
+    "translation": "未知小关 - 未知区域"
+  },
+  "*** LEVEL10 Portal will activate in 10 SEDONDS ***": {
+    "translation": "第10小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL10 Portal will activate in 20 SECONDS ***": {
+    "translation": "第10小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL10 Portal will activate in 30 SECONDS ***": {
+    "translation": "第10小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL10 Portal will activate in 5 SECONDS ***": {
+    "translation": "第10小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL11 Portal will activate in 10 SEDONDS ***": {
+    "translation": "第11小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL11 Portal will activate in 20 SECONDS ***": {
+    "translation": "第11小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL11 Portal will activate in 30 SECONDS ***": {
+    "translation": "第11小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL11 Portal will activate in 5 SECONDS ***": {
+    "translation": "第11小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL12 Portal will activate in 10 SEDONDS ***": {
+    "translation": "第12小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL12 Portal will activate in 20 SECONDS ***": {
+    "translation": "第12小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL12 Portal will activate in 30 SECONDS ***": {
+    "translation": "第12小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL12 Portal will activate in 5 SECONDS ***": {
+    "translation": "第12小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL13 Portal will activate in 10 SEDONDS ***": {
+    "translation": "第13小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL13 Portal will activate in 20 SECONDS ***": {
+    "translation": "第13小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL13 Portal will activate in 30 SECONDS ***": {
+    "translation": "第13小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL13 Portal will activate in 5 SECONDS ***": {
+    "translation": "第13小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL14 Portal will activate in 10 SEDONDS ***": {
+    "translation": "第14小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL14 Portal will activate in 20 SECONDS ***": {
+    "translation": "第14小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL14 Portal will activate in 30 SECONDS ***": {
+    "translation": "第14小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL14 Portal will activate in 5 SECONDS ***": {
+    "translation": "第14小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL16 Portal will activate in 10 SEDONDS ***": {
+    "translation": "第16小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL16 Portal will activate in 20 SECONDS ***": {
+    "translation": "第16小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL16 Portal will activate in 30 SECONDS ***": {
+    "translation": "第16小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL16 Portal will activate in 5 SECONDS ***": {
+    "translation": "第16小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL17 Portal will activate in 10 SEDONDS ***": {
+    "translation": "第17小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL17 Portal will activate in 20 SECONDS ***": {
+    "translation": "第17小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL17 Portal will activate in 30 SECONDS ***": {
+    "translation": "第17小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL17 Portal will activate in 5 SECONDS ***": {
+    "translation": "第17小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL18 Portal will activate in 10 SEDONDS ***": {
+    "translation": "第18小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL18 Portal will activate in 20 SECONDS ***": {
+    "translation": "第18小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL18 Portal will activate in 30 SECONDS ***": {
+    "translation": "第18小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL18 Portal will activate in 5 SECONDS ***": {
+    "translation": "第18小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL18 SLIDE 2 ***": {
+    "translation": "第18小关 - 滑道2"
+  },
+  "*** LEVEL19 Portal will activate in 10 SEDONDS ***": {
+    "translation": "第19小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL19 Portal will activate in 20 SECONDS ***": {
+    "translation": "第19小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL19 Portal will activate in 30 SECONDS ***": {
+    "translation": "第19小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL19 Portal will activate in 5 SECONDS ***": {
+    "translation": "第19小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL2 Portal will activate in 10 SECONDS***": {
+    "translation": "第2小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL2 Portal will activate in 20 SECONDS***": {
+    "translation": "第2小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL2 Portal will activate in 30 SECONDS***": {
+    "translation": "第2小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL2 Portal will activate in 5 SECONDS***": {
+    "translation": "第2小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL20 Portal will activate in 10 SEDONDS ***": {
+    "translation": "第20小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL20 Portal will activate in 20 SECONDS ***": {
+    "translation": "第20小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL20 Portal will activate in 30 SECONDS ***": {
+    "translation": "第20小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL20 Portal will activate in 5 SECONDS ***": {
+    "translation": "第20小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL3 Portal will activate in 10 SECONDS***": {
+    "translation": "第3小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL3 Portal will activate in 20 SECONDS***": {
+    "translation": "第3小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL3 Portal will activate in 30 SECONDS***": {
+    "translation": "第3小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL3 Portal will activate in 5 SECONDS***": {
+    "translation": "第3小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL4 LOW GRAVITY ***": {
+    "translation": "第4小关 - 低重力"
+  },
+  "*** LEVEL4 Portal will activate in 10 SECONDS***": {
+    "translation": "第4小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL4 Portal will activate in 20 SECONDS***": {
+    "translation": "第4小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL4 Portal will activate in 30 SECONDS***": {
+    "translation": "第4小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL4 Portal will activate in 5 SECONDS***": {
+    "translation": "第4小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL5 Portal will activate in 10 SECONDS***": {
+    "translation": "第5小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL5 Portal will activate in 20 SECONDS***": {
+    "translation": "第5小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL5 Portal will activate in 30 SECONDS***": {
+    "translation": "第5小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL5 Portal will activate in 5 SECONDS***": {
+    "translation": "第5小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL5 WINDY ***": {
+    "translation": "第5小关 - 强风"
+  },
+  "*** LEVEL6 Portal will activate in 10 SECONDS***": {
+    "translation": "第6小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL6 Portal will activate in 20 SECONDS***": {
+    "translation": "第6小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL6 Portal will activate in 30 SECONDS***": {
+    "translation": "第6小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL6 Portal will activate in 5 SECONDS***": {
+    "translation": "第6小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL6 SLIDE 1 ***": {
+    "translation": "第6小关 - 滑道1"
+  },
+  "*** LEVEL7 HOLD THIS POSITION ***": {
+    "translation": "第7小关 - 坚守阵地"
+  },
+  "*** LEVEL7 Portal will activate in 10 SECONDS***": {
+    "translation": "第7小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL7 Portal will activate in 20 SECONDS***": {
+    "translation": "第7小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL7 Portal will activate in 30 SECONDS***": {
+    "translation": "第7小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL7 Portal will activate in 5 SECONDS***": {
+    "translation": "第7小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** LEVEL9 Portal will activate in 10 SEDONDS ***": {
+    "translation": "第9小关 - 传送门将在10秒后开启",
+    "countdown": 10
+  },
+  "*** LEVEL9 Portal will activate in 20 SECONDS ***": {
+    "translation": "第9小关 - 传送门将在20秒后开启",
+    "countdown": 20
+  },
+  "*** LEVEL9 Portal will activate in 30 SECONDS ***": {
+    "translation": "第9小关 - 传送门将在30秒后开启",
+    "countdown": 30
+  },
+  "*** LEVEL9 Portal will activate in 5 SECONDS ***": {
+    "translation": "第9小关 - 传送门将在5秒后开启",
+    "countdown": 5
+  },
+  "*** Lift will start in 7 seconds ***": {
+    "translation": "升降台将在7秒后启动",
+    "countdown": 7
+  },
+  "*** map created by tharame ***": {
+    "translation": "地图作者 - tharame 文本:Zeyu1"
+  },
+  "*** OVERRUN PROTECTER DISABLED ***": {
+    "translation": "冲撞防护已关闭"
+  },
+  "*** OVERRUN PROTECTER ENABLED ***": {
+    "translation": "冲撞防护已开启"
+  },
+  "*** PORTAL ACTIVATED ***": {
+    "translation": "传送门已开启"
+  },
+  "*** Portal is broken by unknown !!!!! ***": {
+    "translation": "传送门被不明力量破坏了!!!"
+  },
+  "*** Porting helped by Airvulpes,kune***": {
+    "translation": "移植协助 - Airvulpeskune"
+  },
+  "*** PUSHING ZOMBIES ARE COMING ***": {
+    "translation": "推力僵尸正在靠近"
+  },
+  "*** RUN !!!!!!!***": {
+    "translation": "快跑!!!"
+  },
+  "*** RUN TO THE NEXT DEFENCE POINT ***": {
+    "translation": "快前往下一个防守点"
+  },
+  "*** SHOOT !! BEFORE HE KILL CLOUD FATHER !!!! ***": {
+    "translation": "快射击,阻止他杀死云父!"
+  },
+  "*** SHOOT HIM !! He has very strong power !! ***": {
+    "translation": "射击他!他的力量非常强大!"
+  },
+  "*** SHOOT HIM WITH YOUR FULL POWER !!!!!!!!!!!!! ***": {
+    "translation": "使出全力射击他!!!"
+  },
+  "*** STAGE 1 ***": {
+    "translation": "第1关"
+  },
+  "*** STAGE 1 COMPLETED ***": {
+    "translation": "第1关已完成"
+  },
+  "*** STAGE 1: EXTREME ***": {
+    "translation": "第1关  - 极限"
+  },
+  "*** STAGE 1: EXTREME COMPLETED ***": {
+    "translation": "第1关  - 极限已完成"
+  },
+  "*** STAGE 2 ***": {
+    "translation": "第2关"
+  },
+  "*** STAGE 2 :EXTREME COMPLETED ***": {
+    "translation": "第2关  - 极限已完成"
+  },
+  "*** STAGE 2 COMPLETED ***": {
+    "translation": "第2关已完成"
+  },
+  "*** STAGE 2: EXTREME ***": {
+    "translation": "第2关  - 极限"
+  },
+  "*** STAGE 3 ***": {
+    "translation": "第3关"
+  },
+  "*** STAGE 3: EXTREME ***": {
+    "translation": "第3关  - 极限"
+  },
+  "*** STAGE : ????? button PRESSED ***": {
+    "translation": "已选择关卡 - ?????"
+  },
+  "*** STAGE : HIS POWER button PRESSED ***": {
+    "translation": "已选择关卡 - 他的力量"
+  },
+  "*** STAGE : KEY WORLD ***": {
+    "translation": "特殊关卡 - 键盘世界"
+  },
+  "*** STAGE : No kidding 0/3***": {
+    "translation": "特殊关卡 - 动真格[0/3]"
+  },
+  "*** STAGE : No kidding 1/3***": {
+    "translation": "特殊关卡 - 动真格[1/3]"
+  },
+  "*** STAGE : No kidding 2/3***": {
+    "translation": "特殊关卡 - 动真格[2/3]"
+  },
+  "*** STAGE : No kidding 3/3***": {
+    "translation": "特殊关卡 - 动真格[3/3]"
+  },
+  "*** STAGE COMPLETE IN 10 SECONDS ***": {
+    "translation": "本关将在10秒后完成",
+    "countdown": 10
+  },
+  "*** STAGE COMPLETE IN 20 SECONDS ***": {
+    "translation": "本关将在20秒后完成",
+    "countdown": 20
+  },
+  "*** STAGE COMPLETE IN 30 SECONDS ***": {
+    "translation": "本关将在30秒后完成",
+    "countdown": 30
+  },
+  "*** STAGE COMPLETE IN 5 SECONDS ***": {
+    "translation": "本关将在5秒后完成",
+    "countdown": 5
+  },
+  "*** Stage1 button PRESSED ***": {
+    "translation": "第1关已选择"
+  },
+  "*** Stage1:EXTREME button PRESSED ***": {
+    "translation": "第1关  - 极限已选择"
+  },
+  "*** Stage2 button PRESSED ***": {
+    "translation": "第2关已选择"
+  },
+  "*** Stage2:EXTREME button PRESSED ***": {
+    "translation": "第2关  - 极限已选择"
+  },
+  "*** Stage3 button PRESSED ***": {
+    "translation": "第3关已选择"
+  },
+  "*** Stage3: EXTREME button PRESSED ***": {
+    "translation": "第3关  - 极限已选择"
+  },
+  "*** Star road will activate in 20 seconds ***": {
+    "translation": "星光之路将在20秒后开启",
+    "countdown": 20
+  },
+  "*** Star road will activate in 5 seconds ***": {
+    "translation": "星光之路将在5秒后开启",
+    "countdown": 5
+  },
+  "*** SUMMONING KEY ***": {
+    "translation": "召唤之键"
+  },
+  "*** SURVIVE FOR 1 SECONDS !! ***": {
+    "translation": "再坚持1秒!",
+    "countdown": 1
+  },
+  "*** SURVIVE FOR 10 SECONDS !! ***": {
+    "translation": "再坚持10秒!",
+    "countdown": 10
+  },
+  "*** SURVIVE FOR 11 SECONDS !! ***": {
+    "translation": "再坚持11秒!",
+    "countdown": 11
+  },
+  "*** SURVIVE FOR 12 SECONDS !! ***": {
+    "translation": "再坚持12秒!",
+    "countdown": 12
+  },
+  "*** SURVIVE FOR 13 SECONDS !! ***": {
+    "translation": "再坚持13秒!",
+    "countdown": 13
+  },
+  "*** SURVIVE FOR 14 SECONDS !! ***": {
+    "translation": "再坚持14秒!",
+    "countdown": 14
+  },
+  "*** SURVIVE FOR 15 SECONDS !! ***": {
+    "translation": "再坚持15秒!",
+    "countdown": 15
+  },
+  "*** SURVIVE FOR 2 SECONDS !! ***": {
+    "translation": "再坚持2秒!",
+    "countdown": 2
+  },
+  "*** SURVIVE FOR 3 SECONDS !! ***": {
+    "translation": "再坚持3秒!",
+    "countdown": 3
+  },
+  "*** SURVIVE FOR 4 SECONDS !! ***": {
+    "translation": "再坚持4秒!",
+    "countdown": 4
+  },
+  "*** SURVIVE FOR 5 SECONDS !! ***": {
+    "translation": "再坚持5秒!",
+    "countdown": 5
+  },
+  "*** SURVIVE FOR 6 SECONDS !! ***": {
+    "translation": "再坚持6秒!",
+    "countdown": 6
+  },
+  "*** SURVIVE FOR 7 SECONDS !! ***": {
+    "translation": "再坚持7秒!",
+    "countdown": 7
+  },
+  "*** SURVIVE FOR 8 SECONDS !! ***": {
+    "translation": "再坚持8秒!",
+    "countdown": 8
+  },
+  "*** SURVIVE FOR 9 SECONDS !! ***": {
+    "translation": "再坚持9秒!",
+    "countdown": 9
+  },
+  "*** TAPIOKA PUNCH ***": {
+    "translation": "木薯拳"
+  },
+  "*** THE CLOUD FATHER IS KILLED BY HIM !!* **": {
+    "translation": "云父被他杀死了!"
+  },
+  "*** THE CLOUD FATHER is top of the way !! ***": {
+    "translation": "云父就在道路上方!"
+  },
+  "*** The ESC Key is blocking our way !! ***": {
+    "translation": "ESC键挡住了我们的去路!"
+  },
+  "*** THE LASER MACHINE IS BROKEN ***": {
+    "translation": "激光装置已被摧毁"
+  },
+  "*** THE SCAFFOLD WILL MOVE IN 5 SECONDS ***": {
+    "translation": "平台将在5秒后开始移动",
+    "countdown": 5
+  },
+  "*** THE SCAFFOLD WILL RISE IN 10 SECONDS ***": {
+    "translation": "平台将在10秒后升起",
+    "countdown": 10
+  },
+  "*** THE SCAFFOLD WILL RISE IN 20 SECONDS ***": {
+    "translation": "平台将在20秒后升起",
+    "countdown": 20
+  },
+  "*** THE SCAFFOLD WILL RISE IN 5 SECONDS ***": {
+    "translation": "平台将在5秒后升起",
+    "countdown": 5
+  },
+  "*** THE WAY OF DELETEING ***": {
+    "translation": "删除之路"
+  },
+  "*** This area seems to begin to collapse !!! ***": {
+    "translation": "这片区域似乎开始崩塌了!"
+  },
+  "*** Wait until esc key come ***": {
+    "translation": "等待ESC键到来"
+  },
+  "*** Wait until something happen ***": {
+    "translation": "留在这里,等待后续变化"
+  },
+  "*** WARM UP ROUND ***": {
+    "translation": "热身回合"
+  },
+  "*** WARNING : FAST SPAWN ***": {
+    "translation": "警告 - 感染时间提前"
+  },
+  "*** WATCH OUT !! ***": {
+    "translation": "小心!"
+  },
+  "*** WATCH OUT !!!!!!! ***": {
+    "translation": "小心!!!"
+  },
+  "*** Watch out for esc cannon and your head !! ***": {
+    "translation": "小心ESC大炮,注意头顶!"
+  },
+  "*** Watch out for something !! ***": {
+    "translation": "小心,可能会有危险!"
+  },
+  "*** WE BACKED ***": {
+    "translation": "我们回来了"
+  },
+  "*** We can feel hard wind pressure...!! Dodge it !!!": {
+    "translation": "感受到强烈风压了......快躲开!"
+  },
+  "*** We don't know what will happen... ***": {
+    "translation": "不知道接下来会发生什么......"
+  },
+  "*** We have lost the escape route ***": {
+    "translation": "逃生道路消失了"
+  },
+  "*** WHAT !! where is there...? ***": {
+    "translation": "什么!?这里是什么地方......?"
+  },
+  "*** What are you doing? adventure is over.type rtv now ***": {
+    "translation": "还在等什么?冒险已经结束,输入rtv换图吧",
+    "blocked": true
+  },
+  "*** Where are we...? ***": {
+    "translation": "我们到哪里了......?"
+  },
+  "*** WIND is too strong !! Bullets will be back !! ***": {
+    "translation": "风力太强,子弹会被弹回来!"
+  },
+  "*** YOU CAN ACROSS NOW !! ***": {
+    "translation": "现在可以通过了!"
+  },
+  "*** You defeated CLOUD FATHER ***": {
+    "translation": "你们击败了云父"
+  },
+  "*** You defeated Girl cloud ***": {
+    "translation": "你们击败了云女孩"
+  },
+  "*** YOU DID IT !!! HE REALLY DEAD !! ***": {
+    "translation": "你们做到了!这次他真的死了!"
+  },
+  "*** You have beaten all stages !!!! Congratulations !!!! ***": {
+    "translation": "恭喜你们,所有关卡全部通关!"
+  },
+  "*** YOU SECURED SKY ATHLETIC...? ***": {
+    "translation": "你们守住天空竞技场了......吗?"
+  },
+  "*** ZOMBIE ARE ALIVE !! ***": {
+    "translation": "僵尸还活着!"
+  },
+  "*** ZOMBIE WAVE ***": {
+    "translation": "僵尸来袭"
+  },
+  "*** Zombie will come in 10 seconds  ***": {
+    "translation": "僵尸将在10秒后到达",
+    "countdown": 10
+  },
+  "*** ZOMBIE WILL COME IN 10 SECONDS ***": {
+    "translation": "僵尸将在10秒后到达",
+    "countdown": 10
+  },
+  "*** ZOMBIE WILL COME IN 8 SECONDS ***": {
+    "translation": "僵尸将在8秒后到达",
+    "countdown": 8
+  },
+  "*** ZOMBIE>>> Should go to under the entrance ***": {
+    "translation": "僵尸>>> 前往入口下方"
+  },
+  "*** ZOMBIES ARE ALIVE !! ***": {
+    "translation": "僵尸还活着!"
+  },
+  "*** ZOMBIES ARE ALIVE !! BE CAREFUL !! ***": {
+    "translation": "僵尸还活着,小心!"
+  },
+  "*** ZOMBIES ARE ALIVE !! SHOOT THEM TOO !! ***": {
+    "translation": "僵尸还活着,也要射击它们!"
+  },
+  "*** ZOMBIES ARE COMING ***": {
+    "translation": "僵尸正在靠近"
+  },
+  "***LEVEL 3: MOVING SCAFFOLDS 1 ***": {
+    "translation": "第3小关 - 移动平台1"
+  },
+  "***ZOMBIES ARE COMING***": {
+    "translation": "僵尸正在靠近"
+  },
+  "????? :That you won't !!!": {
+    "translation": "????? - 休想!!!"
+  },
+  "BOY CLOUD : !? they're the humans !?": {
+    "translation": "云小子 - !?他们就是人类!?"
+  },
+  "BOY CLOUD : Hey !! I and my friends will defeat you humans !!": {
+    "translation": "云小子 - 喂!我和伙伴们会打败你们这些人类!"
+  },
+  "BOY CLOUD : If I will be able to defeat you...": {
+    "translation": "云小子 - 只要我能打败你们......"
+  },
+  "BOY CLOUD : It's very proud for me too!!": {
+    "translation": "云小子 - 那我也会很自豪!"
+  },
+  "BOY CLOUD : My father said human is getting our place...": {
+    "translation": "云小子 - 爸爸说,人类正在侵占我们的领地......"
+  },
+  "BOY CLOUD : My father will praise me !!": {
+    "translation": "云小子 - 爸爸一定会表扬我的!"
+  },
+  "BOY CLOUD : Nuwaaaaaaaa!! My best speedddddd!!!!!": {
+    "translation": "云小子 - 呜哇啊啊!这就是我的最快速度!!!"
+  },
+  "BOY CLOUD : Shoot me !! if you can follow my speed !!": {
+    "translation": "云小子 - 跟得上我的速度,就尽管开枪吧!"
+  },
+  "BOY CLOUD : So!!! I need to defeat you at this time !!": {
+    "translation": "云小子 - 所以,这次我一定要打败你们!"
+  },
+  "BOY CLOUD : Too hot!! keep away it from me !!": {
+    "translation": "云小子 - 太烫了!快把它拿远点!"
+  },
+  "BOY CLOUD : What's this wind !? I can't do the best of speed !!": {
+    "translation": "云小子 - 这是什么风!?我没法全速移动了!"
+  },
+  "BOY CLOUD :Ahhh...They...really...strong...!!!": {
+    "translation": "云小子 - 啊......他们......真的......好强......!"
+  },
+  "BOY CLOUD :HEY DAD !! PLEASE DEFEAT THEM !!!!!!!!": {
+    "translation": "云小子 - 爸爸!求你打败他们!!!"
+  },
+  "BOY CLOUD :Hey humans !!": {
+    "translation": "云小子 - 喂,人类!"
+  },
+  "BOY CLOUD :I can't trust you even my father trust you !!": {
+    "translation": "云小子 - 就算爸爸相信你们,我也不会相信!"
+  },
+  "BOY CLOUD :I couldn't beat you humans...": {
+    "translation": "云小子 - 我没能打败你们这些人类......"
+  },
+  "BOY CLOUD :Please defeat them !! We will help you !!": {
+    "translation": "云小子 - 请打败他们!我们会帮你的!"
+  },
+  "BOY CLOUD :TAKE MY FINAL ATTACK !!!!!!!!!!!!!!!!!!!!!": {
+    "translation": "云小子 - 接下我的最后一击!!!"
+  },
+  "BOY CLOUD: Ahh!! remember this things !!!!!!": {
+    "translation": "云小子 - 啊!你们给我记住!!!"
+  },
+  "CAUTION :It can use only once": {
+    "translation": "注意 - 只能使用一次"
+  },
+  "CLOUD FATHER : and I want to fight with you too.": {
+    "translation": "云父 - 而且,我也想与你们交手  - "
+  },
+  "CLOUD FATHER : Can we fight without kidding...?": {
+    "translation": "云父 - 我们能认真地打一场吗......?"
+  },
+  "CLOUD FATHER : hehehe...": {
+    "translation": "云父 - 呵呵呵......"
+  },
+  "CLOUD FATHER : I think you want to experience the more hard.": {
+    "translation": "云父 - 我想,你们还想挑战更高的难度  - "
+  },
+  "CLOUD FATHER : Is which a winner...?": {
+    "translation": "云父 - 究竟谁会获胜呢......?"
+  },
+  "CLOUD FATHER : Remember your items can't effect me !!": {
+    "translation": "云父 - 记住,你们的神器对我无效!"
+  },
+  "CLOUD FATHER : Welcome humans.": {
+    "translation": "云父 - 欢迎你们,人类  - "
+  },
+  "CLOUD FATHER : You are our hero,thanks....": {
+    "translation": "云父 - 你们是我们的英雄,谢谢......"
+  },
+  "CLOUD FATHER :...Me? don't worry I was made of water.": {
+    "translation": "云父 - ......我?不用担心,我是水做的  - "
+  },
+  "CLOUD FATHER :...So you should use it in other area.": {
+    "translation": "云父 - ......所以,你们可以在其他区域使用它  - "
+  },
+  "CLOUD FATHER :Alright...finally you defeat me,you won.": {
+    "translation": "云父 - 好吧......你们终于打败我了,你们赢了  - "
+  },
+  "CLOUD FATHER :Can you survive !?": {
+    "translation": "云父 - 你们能活下来吗!?"
+  },
+  "CLOUD FATHER :Don't take hand for them !!": {
+    "translation": "云父 - 别对他们下手!"
+  },
+  "CLOUD FATHER :Hey! Humans !! I will help you !!": {
+    "translation": "云父 - 喂,人类!我来帮助你们!"
+  },
+  "CLOUD FATHER :Hey... You are very strong....": {
+    "translation": "云父 - 看来......你们非常强大......"
+  },
+  "CLOUD FATHER :Humans,we don't know he is really dead.": {
+    "translation": "云父 - 人类,我们还不知道他是否真的死了  - "
+  },
+  "CLOUD FATHER :I couldn't defeat him,because he was very stronger than me.": {
+    "translation": "云父 - 我没能打败他,因为他比我强大太多  - "
+  },
+  "CLOUD FATHER :I hope he is dead...": {
+    "translation": "云父 - 但愿他已经死了......"
+  },
+  "CLOUD FATHER :I think...": {
+    "translation": "云父 - 我想......"
+  },
+  "CLOUD FATHER :I'm giving the power to you...": {
+    "translation": "云父 - 我正在将力量交给你们......"
+  },
+  "CLOUD FATHER :If you was in at that time...we could save my...": {
+    "translation": "云父 - 如果那时你们也在......我们就能救下我的......"
+  },
+  "CLOUD FATHER :IRASSYAI MASE": {
+    "translation": "云父 - 欢迎光临!"
+  },
+  "CLOUD FATHER :It seems your power is true...": {
+    "translation": "云父 - 看来,你们的实力确实不假......"
+  },
+  "CLOUD FATHER :LOOK !!": {
+    "translation": "云父 - 看好了!"
+  },
+  "CLOUD FATHER :Oh,please pretend you didn't hear that.": {
+    "translation": "云父 - 哦,请当作没听见刚才那句话  - "
+  },
+  "CLOUD FATHER :oh... I'm defeated..": {
+    "translation": "云父 - 哦......我输了......"
+  },
+  "CLOUD FATHER :ok,Humans time to change your area...!": {
+    "translation": "云父 - 好了,人类,该前往下一个区域了!"
+  },
+  "CLOUD FATHER :Pick up me !! I will attack him !!!": {
+    "translation": "云父 - 把我捡起来!我来攻击他!"
+  },
+  "CLOUD FATHER :So please defeat him instead of me...": {
+    "translation": "云父 - 所以,请替我打败他......"
+  },
+  "CLOUD FATHER :Take care if you go anymore.": {
+    "translation": "云父 - 如果还要继续前进,一定要小心  - "
+  },
+  "CLOUD FATHER :This injured will fix soon.": {
+    "translation": "云父 - 这点伤很快就会恢复  - "
+  },
+  "CLOUD FATHER :Time to show my high power...": {
+    "translation": "云父 - 是时候展示我的真正力量了......"
+  },
+  "CLOUD FATHER :You can complete other area even you have it.": {
+    "translation": "云父 - 带上它,你们也能通过其他区域  - "
+  },
+  "CLOUD FATHER :you can defeat him...": {
+    "translation": "云父 - 你们能打败他......"
+  },
+  "COOL DOWN : 35 SEC": {
+    "translation": "冷却时间 - 35秒"
+  },
+  "COOL DOWN : 40 SEC": {
+    "translation": "冷却时间 - 40秒"
+  },
+  "COOL DOWN : 50 SEC": {
+    "translation": "冷却时间 - 50秒"
+  },
+  "CRASHER : hahahahHAHAHAHAHHHAHHAHAhHHHHHAAHAHA": {
+    "translation": "键盘破坏者 - 哈哈哈哈哈哈哈!!!"
+  },
+  "CRASHER : You can't kill me forever !!!!": {
+    "translation": "键盘破坏者 - 你们永远也杀不死我!"
+  },
+  "CRASHER :BANZAIIIIIIIIIIIIIIIIIIIII !!!!!!!!!!!!!!!!!!": {
+    "translation": "键盘破坏者 - 万岁!!!"
+  },
+  "CRASHER :HAHAHA !!! You can't kill me whatever you do anything !!!!!!": {
+    "translation": "键盘破坏者 - 哈哈哈!不管你们做什么,都杀不死我!"
+  },
+  "CRASHER :HAHAHA!!! What's the taste of this !!!?!?!?!": {
+    "translation": "键盘破坏者 - 哈哈哈!这一招的滋味怎么样!?"
+  },
+  "CRASHER :It's over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!": {
+    "translation": "键盘破坏者 - 结束了!哈哈哈哈哈!!!"
+  },
+  "Girl CLOUD : !? Not my father made !! ! I was made it myself !!": {
+    "translation": "云女孩 - !?这可不是爸爸做的!是我自己做的!"
+  },
+  "Girl CLOUD : A,Anyway !! you will be defeated by this machine!!": {
+    "translation": "云女孩 - 总 总之!这台机器一定会打败你们!"
+  },
+  "Girl cloud : Ahh!! Please move !!": {
+    "translation": "云女孩 - 啊!快动起来呀!"
+  },
+  "Girl CLOUD : Ahh... I was taught by him a little...": {
+    "translation": "云女孩 - 啊......他确实教了我一点......"
+  },
+  "Girl cloud : AHHHHHHHHHHHH !!": {
+    "translation": "云女孩 - 啊啊啊啊啊!!!"
+  },
+  "Girl CLOUD : but... I prepared the machine for you": {
+    "translation": "云女孩 - 不过......我还为你们准备了一台机器  - "
+  },
+  "Girl CLOUD : Guh...you are stronger than I thought...": {
+    "translation": "云女孩 - 唔......你们比我想象中更强......"
+  },
+  "Girl CLOUD : LOOK THE MY MACHINE !!!!": {
+    "translation": "云女孩 - 看看我的机器吧!!!"
+  },
+  "Girl CLOUD : What do you think about this machine ?": {
+    "translation": "云女孩 - 你们觉得这台机器怎么样?"
+  },
+  "Girl cloud : What...? Why can't move !?": {
+    "translation": "云女孩 - 什么......?为什么动不了了!?"
+  },
+  "Girl CLOUD :?? My machine is strong from wind!! that can't effect me !!": {
+    "translation": "云女孩 - ??我的机器很抗风,这招对我没用!"
+  },
+  "Girl CLOUD :Can't move finely !! Is engine colding !?": {
+    "translation": "云女孩 - 机器动不了了!引擎被冻住了吗!?"
+  },
+  "Girl CLOUD :I couldn't beat you too...": {
+    "translation": "云女孩 - 我也没能打败你们......"
+  },
+  "Girl CLOUD :Stop it !! Engine will be burning !!": {
+    "translation": "云女孩 - 住手!引擎要烧起来了!"
+  },
+  "Girl CLOUD: Fight me !!": {
+    "translation": "云女孩 - 来和我战斗吧!"
+  },
+  "Girl CLOUD: I will defeat you !!": {
+    "translation": "云女孩 - 我一定会打败你们!"
+  },
+  "Girl CLOUD: I'm boy cloud's sister!": {
+    "translation": "云女孩 - 我和云小子是兄妹!"
+  },
+  "Girl CLOUD: I'm stronger than you and father are thinking!!": {
+    "translation": "云女孩 - 我比你们和爸爸想象中更强!"
+  },
+  "Girl CLOUD: You defeated my brother and come this place right?": {
+    "translation": "云女孩 - 你们打败云小子后,才来到这里,对吧?"
+  },
+  "Remember : 10 COUNTS !!!!!": {
+    "translation": "记住 - 总共10次!!!"
+  },
+  "TWO CLOUDS :but...": {
+    "translation": "两朵云 - 但是......"
+  },
+  "TWO CLOUDS :My Father will defeat you instead of us !!": {
+    "translation": "两朵云 - 爸爸会替我们打败你们!"
+  },
+  "WARNING : ZOMBIES ARE ALIVE !!!": {
+    "translation": "警告 - 僵尸还活着!"
+  }
+}
