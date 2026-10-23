@@ -38,7 +38,7 @@
         "classname": "weapon_flashbang"
       },
       "insert": {
-        "subclass_name": "43"
+        "subclass_name": "weapon_flashbang"
       }
     },
     {
@@ -46,7 +46,7 @@
         "classname": "weapon_hegrenade"
       },
       "insert": {
-        "subclass_name": "44"
+        "subclass_name": "weapon_hegrenade"
       }
     },
     {
@@ -54,7 +54,7 @@
         "classname": "weapon_smokegrenade"
       },
       "insert": {
-        "subclass_name": "45"
+        "subclass_name": "weapon_smokegrenade"
       }
     },
     {
@@ -62,7 +62,7 @@
         "classname": "weapon_molotov"
       },
       "insert": {
-        "subclass_name": "46"
+        "subclass_name": "weapon_molotov"
       }
     },
     {
@@ -70,7 +70,7 @@
         "classname": "weapon_decoy"
       },
       "insert": {
-        "subclass_name": "47"
+        "subclass_name": "weapon_decoy"
       }
     },
     {
@@ -78,7 +78,7 @@
         "classname": "weapon_incgrenade"
       },
       "insert": {
-        "subclass_name": "48"
+        "subclass_name": "weapon_incgrenade"
       }
     },
     {
