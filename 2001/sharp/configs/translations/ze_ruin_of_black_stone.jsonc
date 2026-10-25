@@ -120,7 +120,7 @@
   "*** Do not move!!! ***": {
     "translation": "不要动!!!"
   },
-  "*** Dr.X summons zombies!!! *** ": {
+  "*** Dr.X summons zombies!!! ***": {
     "translation": "插博士召唤了僵尸!!!"
   },
   "*** Dr.X is using Ultimate Fire ***": {
@@ -276,7 +276,7 @@
   },
   "*** Tesla will release zombies in 120 seconds ***": {
     "translation": "特斯拉将在120秒后放出僵尸",
-    "countdown": 120
+    "countdown": 60
   },
   "*** Boss - Tesla ***": {
     "translation": "首领:特斯拉"
