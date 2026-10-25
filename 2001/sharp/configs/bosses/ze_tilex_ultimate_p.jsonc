@@ -25,20 +25,17 @@
     {
       "display": "最终 Boss",
       "iterator": "lastboss_hpcounter",
-      "hitbox": "lastbosstarget",
-      "stages": 1
+      "hitbox": "lastbosstarget"
     },
     {
       "display": "EX 光之 Boss",
       "iterator": "exholy_hpcounter",
-      "hitbox": "exholytarget",
-      "stages": 1
+      "hitbox": "exholytarget"
     },
     {
       "display": "EX 暗之 Boss",
       "iterator": "exdark_hpcounter",
-      "hitbox": "exdarktarget",
-      "stages": 1
+      "hitbox": "exdarktarget"
     }
   ],
   "Monsters": [
