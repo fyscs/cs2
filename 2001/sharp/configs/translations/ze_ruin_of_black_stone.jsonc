@@ -1,0 +1,464 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** A player has picked up Healing Magic ***": {
+    "translation": "一名玩家捡起了奶",
+    "blocked": true
+  },
+  "*** A zombie has picked up Nuke Magic ***>": {
+    "translation": "一名僵尸捡起了核弹",
+    "blocked": true
+  },
+  "*** A zombie has picked up Ice Magic ***": {
+    "translation": "一名僵尸捡起了寒冰",
+    "blocked": true
+  },
+  "*** A zombie has picked up Gravity Magic ***": {
+    "translation": "一名僵尸捡起了黑洞",
+    "blocked": true
+  },
+  "*** A zombie has picked up Heal Magic ***": {
+    "translation": "一名僵尸捡起了巫医",
+    "blocked": true
+  },
+  "*** A player has picked up Snow Magic ***": {
+    "translation": "一名玩家捡起了雪",
+    "blocked": true
+  },
+  "*** A player has picked up Earth Magic ***": {
+    "translation": "一名玩家捡起了土",
+    "blocked": true
+  },
+  "*** A player has picked up Electro Magic ***": {
+    "translation": "一名玩家捡起了电",
+    "blocked": true
+  },
+  "*** A player has picked up Wind Magic ***": {
+    "translation": "一名玩家捡起了风",
+    "blocked": true
+  },
+  "*** A player has picked up Poison Magic ***": {
+    "translation": "一名玩家捡起了毒",
+    "blocked": true
+  },
+  "*** A player has picked up Holy Magic ***": {
+    "translation": "一名玩家捡起了终极",
+    "blocked": true
+  },
+  "*** Dr.X again!!! Keep Shooting!!! ***": {
+    "translation": "又是插博士!!!继续开火!!!"
+  },
+  "*** Rock will explode in 5 seconds ***": {
+    "translation": "岩石将在5秒后爆炸",
+    "countdown": 5
+  },
+  "*** Zombie Escape... ***": {
+    "translation": "僵尸逃脱了..."
+  },
+  "*** Fail... ***": {
+    "translation": "你们失败了..."
+  },
+  "*** Minolila..... I do not know why she is there ***": {
+    "translation": "米诺莉拉.....我不知道她为什么会在这里"
+  },
+  "*** I think we should go to the palace of minolila again... ***": {
+    "translation": "我想我们该再去一趟米诺莉拉的宫殿..."
+  },
+  "*** Congratulations!!! ***": {
+    "translation": "恭喜你们!!!"
+  },
+  "*** You have win all Level!!! ***": {
+    "translation": "你们已通关所有关卡!!!"
+  },
+  "*** Map by Misaka ***": {
+    "translation": "地图作者:御坂"
+  },
+  "*** We do it!!! ***": {
+    "translation": "我们做到了!!!"
+  },
+  "*** ?! ***": {
+    "translation": "?!"
+  },
+  "*** Teleporter will activate in 45 seconds ***": {
+    "translation": "传送器将在45秒后启动",
+    "countdown": 45
+  },
+  "*** The rescue team is waiting for us ***": {
+    "translation": "救援队正在等我们"
+  },
+  "*** Dr.X: You finally come here ***": {
+    "translation": "插博士:你们终于来了"
+  },
+  "*** Dr.X: So you gonna die now and I will bury you all out!!! ***": {
+    "translation": "插博士:现在你们都得死,我会把你们统统埋葬!!!"
+  },
+  "*** Dr.X: I'm proud of your bravery to come here and find the truth ***": {
+    "translation": "插博士:你们敢来这里探寻真相,这份勇气让我佩服"
+  },
+  "*** Dr.X is using Slow Down Module ***": {
+    "translation": "插博士正在使用减速模块"
+  },
+  "*** Dr.X is using Acid Spray ***": {
+    "translation": "插博士正在使用酸液喷射"
+  },
+  "*** Dr.X will attack again in 8 seconds ***": {
+    "translation": "插博士将在8秒后再次发动攻击",
+    "countdown": 8
+  },
+  "*** Dr.X is using Data Analysis!!! ***": {
+    "translation": "插博士正在分析数据!!!"
+  },
+  "*** Do not move!!! ***": {
+    "translation": "不要动!!!"
+  },
+  "*** Dr.X summons zombies!!! *** ": {
+    "translation": "插博士召唤了僵尸!!!"
+  },
+  "*** Dr.X is using Ultimate Fire ***": {
+    "translation": "插博士正在使用终极烈焰"
+  },
+  "*** Dr.X: Not too bad... ***": {
+    "translation": "插博士:还不赖..."
+  },
+  "*** The ruin starts to collapse!!!***": {
+    "translation": "废墟开始坍塌了!!!"
+  },
+  "*** I've already prepared a teleporter at the ruin of black stone ***": {
+    "translation": "我已经在黑石城废墟准备好了传送器"
+  },
+  "*** Hurry up!!! Get out of there!!!  ***": {
+    "translation": "快点!!!离开那里!!!"
+  },
+  "*** Our guns do not affect him??? ***": {
+    "translation": "我们的枪对他无效???"
+  },
+  "*** Shooting these electric box first!!! ***": {
+    "translation": "先打掉这些电箱!!!"
+  },
+  "*** Defend until the rock explode ***": {
+    "translation": "守住,直到岩石爆炸"
+  },
+  "*** Defend for 15 seconds ***": {
+    "translation": "防守15秒",
+    "countdown": 15
+  },
+  "*** Gate will open in 20 seconds ***": {
+    "translation": "大门将在20秒后打开",
+    "countdown": 20
+  },
+  "*** Try to find a way to break the gate ***": {
+    "translation": "想办法破坏这道大门"
+  },
+  "*** Dr.X is not here... ***": {
+    "translation": "插博士不在这里..."
+  },
+  "*** It seems that we can teleport by this fountain ***": {
+    "translation": "看来我们可以通过这个喷泉传送"
+  },
+  "*** Defend for 10 seconds ***": {
+    "translation": "防守10秒",
+    "countdown": 10
+  },
+  "*** Hold for 15 seconds ***": {
+    "translation": "守住15秒",
+    "countdown": 15
+  },
+  "*** The Rock blocks our way ***": {
+    "translation": "岩石挡住了我们的去路"
+  },
+  "*** Boss - Tesla EX ***": {
+    "translation": "首领:炎王帝君"
+  },
+  "*** Gate will open in 5 seconds ***": {
+    "translation": "大门将在5秒后打开",
+    "countdown": 5
+  },
+  "*** The final gate will open in 25 seconds ***": {
+    "translation": "最后一道大门将在25秒后打开",
+    "countdown": 25
+  },
+  "*** Dr.X??? ***": {
+    "translation": "插博士???"
+  },
+  "*** Be careful about the strong wind!!! ***": {
+    "translation": "小心强风!!!"
+  },
+  "*** Dr.X disappeared... ***": {
+    "translation": "插博士消失了..."
+  },
+  "*** There is no doubt that Dr.X is the wire-puller ***": {
+    "translation": "毫无疑问,插博士就是幕后黑手"
+  },
+  "*** I can not believe that the crazy man is still alive ***": {
+    "translation": "真不敢相信,那个疯子居然还活着"
+  },
+  "*** I think we should go back to the ruin of black stone again ***": {
+    "translation": "我想我们该再回一趟黑石城废墟"
+  },
+  "*** Elevator will leave in 25 seconds ***": {
+    "translation": "电梯将在25秒后离开",
+    "countdown": 25
+  },
+  "*** Tesla has been slained!!! Fall back now!!! ***": {
+    "translation": "特斯拉已被击败!!!立刻撤退!!!"
+  },
+  "*** Tesla is using Psycho Cut ***": {
+    "translation": "特斯拉正在使用精神利刃"
+  },
+  "*** Tesla is using Earthquake ***": {
+    "translation": "特斯拉正在使用地震"
+  },
+  "*** Tesla is using Ominous Wind ***": {
+    "translation": "特斯拉正在使用奇异之风"
+  },
+  "*** Tesla is using Fire Power ***": {
+    "translation": "特斯拉正在释放烈焰之力"
+  },
+  "*** Zombie escape...... ***": {
+    "translation": "僵尸逃脱了......"
+  },
+  "*** Level Complete ***": {
+    "translation": "关卡完成"
+  },
+  "*** Door will open in 20 seconds ***": {
+    "translation": "门将在20秒后打开",
+    "countdown": 20
+  },
+  "*** There is no way, we need to use c4 to break this wall! ***": {
+    "translation": "没路了,我们得用炸弹炸开这堵墙!"
+  },
+  "*** C4 will explode in 20 seconds ***": {
+    "translation": "炸弹将在20秒后爆炸",
+    "countdown": 20
+  },
+  "*** Hold for 20 seconds ***": {
+    "translation": "守住20秒",
+    "countdown": 20
+  },
+  "*** Elevator will activate in 10 seconds ***": {
+    "translation": "电梯将在10秒后启动",
+    "countdown": 10
+  },
+  "*** The fire is too strong!!! ***": {
+    "translation": "火势太猛了!!!"
+  },
+  "*** We need to find another way ***": {
+    "translation": "我们得另找一条路"
+  },
+  "*** Door will open in 35 seconds ***": {
+    "translation": "门将在35秒后打开",
+    "countdown": 35
+  },
+  "*** Safe room will open in 30 seconds ***": {
+    "translation": "安全屋将在30秒后打开",
+    "countdown": 30
+  },
+  "*** Fall back!!! The safe room is opening!!! ***": {
+    "translation": "撤退!!!安全屋正在开启!!!"
+  },
+  "*** Level II Complete ***": {
+    "translation": "第二关完成"
+  },
+  "*** Zombies Escape...... ***": {
+    "translation": "僵尸逃脱了......"
+  },
+  "*** Fail...... ***": {
+    "translation": "你们失败了......"
+  },
+  "*** Tesla will release zombies in 120 seconds ***": {
+    "translation": "特斯拉将在120秒后放出僵尸",
+    "countdown": 120
+  },
+  "*** Boss - Tesla ***": {
+    "translation": "首领:特斯拉"
+  },
+  "*** Gate will open in 30 seconds ***": {
+    "translation": "大门将在30秒后打开",
+    "countdown": 30
+  },
+  "*** Gate will close in 5 seconds ***": {
+    "translation": "大门将在5秒后关闭",
+    "countdown": 5
+  },
+  "*** Level II ***": {
+    "translation": "普通第二关"
+  },
+  "*** Mission: Searching the Ruin of Black Stone ***": {
+    "translation": "任务:搜寻黑石城废墟"
+  },
+  "*** Mission: The Final Battle ***": {
+    "translation": "任务:最终决战"
+  },
+  "*** Extreme II ***": {
+    "translation": "极限第二关"
+  },
+  "*** Do NOT jump down ***": {
+    "translation": "不要往下跳"
+  },
+  "*** Give me some time to destroy this huge rock ***": {
+    "translation": "给我一点时间摧毁这块巨石"
+  },
+  "*** Rock will break in 20 seconds ***": {
+    "translation": "岩石将在20秒后破碎",
+    "countdown": 20
+  },
+  "*** Rock will break in 30 seconds ***": {
+    "translation": "岩石将在30秒后破碎",
+    "countdown": 30
+  },
+  "*** It is the end of this cave ***": {
+    "translation": "这里是洞穴的尽头"
+  },
+  "*** Find a button to break the gate ***": {
+    "translation": "找到按钮,破坏这道大门"
+  },
+  "*** ze_ruin_of_black_stone_v2 ***": {
+    "translation": "黑石城废墟第2版"
+  },
+  "*** Thanks to JianWang, Excarliber, koyomaple ***": {
+    "translation": "鸣谢剑王,艾克斯卡利伯,科约梅普尔"
+  },
+  "*** Models from ze_lotr_minas_tirith ***": {
+    "translation": "模型来自:魔戒白城"
+  },
+  "*** Tips: Zombies are not forced to teleport in Level I & Extreme I ***": {
+    "translation": "提示:普通第一关和极限第一关不会强制传送僵尸"
+  },
+  "*** Zombies can teleport by touching the fountain ***": {
+    "translation": "僵尸触碰喷泉即可传送"
+  },
+  "*** Level I ***": {
+    "translation": "普通第一关"
+  },
+  "*** Mission: Searching the Black Stone City ***": {
+    "translation": "任务:搜寻黑石城"
+  },
+  "*** Extreme I ***": {
+    "translation": "极限第一关"
+  },
+  "*** Mission: HEAD-TO-HEAD ***": {
+    "translation": "任务:正面交锋"
+  },
+  "*** Tesla should have died several years ago ***": {
+    "translation": "特斯拉几年前就该死了"
+  },
+  "*** I do not know why Tesla is still alive ***": {
+    "translation": "我不知道特斯拉为什么还活着"
+  },
+  "*** Go through the City, we need to find more truth! ***": {
+    "translation": "穿过这座城市,我们得查明更多真相!"
+  },
+  "*** This is the last defence!!! ***": {
+    "translation": "这是最后一道防线!!!"
+  },
+  "*** Gate will close in 30 seconds ***": {
+    "translation": "大门将在30秒后关闭",
+    "countdown": 30
+  },
+  "*** Do not let the zombies out!!! ***": {
+    "translation": "别让僵尸冲出来!!!"
+  },
+  "*** Level I Complete ***": {
+    "translation": "第一关完成"
+  },
+  "**** Zombie Escape... ***": {
+    "translation": "僵尸逃脱了..."
+  },
+  "**** Fail... ***": {
+    "translation": "你们失败了..."
+  },
+  "*** Gate will open in 35 seconds ***": {
+    "translation": "大门将在35秒后打开",
+    "countdown": 35
+  },
+  "*** The fire is too strong below!!! Go right side!!! ***": {
+    "translation": "下面的火势太猛了!!!走右边!!!"
+  },
+  "*** Give me some time to prepare the teleporter ***": {
+    "translation": "给我一点时间准备传送器"
+  },
+  "*** Defend until the teleporter is activated ***": {
+    "translation": "守住,直到传送器启动"
+  },
+  "*** Teleporter will activate in 40 seconds ***": {
+    "translation": "传送器将在40秒后启动",
+    "countdown": 40
+  },
+  "*** We need some time to unlock this door ***": {
+    "translation": "我们需要一点时间解锁这扇门"
+  },
+  "*** Hold for 30 seconds ***": {
+    "translation": "守住30秒",
+    "countdown": 30
+  },
+  "*** Gate will open in 10 seconds ***": {
+    "translation": "大门将在10秒后打开",
+    "countdown": 10
+  },
+  "*** Hold for 12 seconds ***": {
+    "translation": "守住12秒",
+    "countdown": 12
+  },
+  "*** The helicopter is waiting for us ***": {
+    "translation": "直升机正在等我们"
+  },
+  "*** Hold for 15 seconds until the door closing ***": {
+    "translation": "守住15秒,直到大门关闭",
+    "countdown": 15
+  },
+  "*** ... ***": {
+    "translation": "..."
+  },
+  "*** Be Careful!!! ***": {
+    "translation": "小心!!!"
+  },
+  "*** I do not know why the heli is crashed... ***": {
+    "translation": "我不知道直升机为什么坠毁了..."
+  },
+  "***Fall back to the entrance of the city!!! ***": {
+    "translation": "撤回城市入口!!!"
+  },
+  "*** Gate will open in 15 seconds ***": {
+    "translation": "大门将在15秒后打开",
+    "countdown": 15
+  },
+  "*** C4 has been planted ***": {
+    "translation": "炸弹已经安放"
+  },
+  "*** Teleporter will activate in 30 seconds ***": {
+    "translation": "传送器将在30秒后启动",
+    "countdown": 30
+  },
+  "*** Fence will break in 5 seconds ***": {
+    "translation": "栅栏将在5秒后破碎",
+    "countdown": 5
+  },
+  "*** Wait for 5 seconds ***": {
+    "translation": "等待5秒",
+    "countdown": 5
+  },
+  "*** The way to the city is blocked, wait until the C4 is planted!! **": {
+    "translation": "通往城市的路被堵住了,等待炸弹安放完毕!!"
+  },
+  "*** Difficulty changed to Level I ***": {
+    "translation": "难度已切换为普通第一关"
+  },
+  "*** Difficulty changed to Level II ***": {
+    "translation": "难度已切换为普通第二关"
+  },
+  "*** Difficulty changed to Extreme II ***": {
+    "translation": "难度已切换为极限第二关"
+  },
+  "*** Difficulty changed to Extreme I ***": {
+    "translation": "难度已切换为极限第一关"
+  }
+}
