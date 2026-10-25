@@ -1,0 +1,42 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***A Zombie Has Reached The Next Layer***": {
+    "translation": "有僵尸已到达下一层！"
+  },
+  "Map By Ricca2554": {
+    "translation": "地图作者:Ricca2554"
+  },
+  "Port by Waffel": {
+    "translation": "地图移植:Waffel 文本:Zeyu1"
+  },
+  "***Teleporting To Layer 2 In 60 Seconds***": {
+    "translation": "将在60秒后传送至第2层",
+    "countdown": 60
+  },
+  "***Teleporting To Layer 3 In 60 Seconds***": {
+    "translation": "将在60秒后传送至第3层",
+    "countdown": 60
+  },
+  "***Teleporting To Layer 4 In 60 Seconds***": {
+    "translation": "将在60秒后传送至第4层",
+    "countdown": 60
+  },
+  "***Teleporting To Layer 5 In 60 Seconds***": {
+    "translation": "将在60秒后传送至第5层",
+    "countdown": 60
+  },
+  "***Teleporting To Final Layer In 60 Seconds***": {
+    "translation": "将在60秒后传送至最终层",
+    "countdown": 60
+  }
+}
