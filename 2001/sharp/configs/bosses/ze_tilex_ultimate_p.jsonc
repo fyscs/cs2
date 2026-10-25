@@ -1,0 +1,94 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only)
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "display": "最终 Boss",
+      "iterator": "lastboss_hpcounter",
+      "hitbox": "lastbosstarget",
+      "stages": 1
+    },
+    {
+      "display": "EX 光之 Boss",
+      "iterator": "exholy_hpcounter",
+      "hitbox": "exholytarget",
+      "stages": 1
+    },
+    {
+      "display": "EX 暗之 Boss",
+      "iterator": "exdark_hpcounter",
+      "hitbox": "exdarktarget",
+      "stages": 1
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "2887",
+      "display": "痛苦靶子"
+    },
+    {
+      "identity": "2889",
+      "display": "痛苦靶子"
+    },
+    {
+      "identity": "2891",
+      "display": "痛苦靶子"
+    },
+    {
+      "identity": "2893",
+      "display": "痛苦靶子"
+    },
+    {
+      "identity": "2895",
+      "display": "痛苦靶子"
+    },
+    {
+      "identity": "2897",
+      "display": "痛苦靶子"
+    },
+    {
+      "identity": "2899",
+      "display": "痛苦靶子"
+    },
+    {
+      "identity": "2901",
+      "display": "痛苦靶子"
+    },
+    {
+      "identity": "2903",
+      "display": "痛苦靶子"
+    },
+    {
+      "identity": "2905",
+      "display": "痛苦靶子"
+    },
+    {
+      "identity": "2907",
+      "display": "痛苦靶子"
+    },
+    {
+      "identity": "2909",
+      "display": "痛苦靶子"
+    }
+  ]
+}
