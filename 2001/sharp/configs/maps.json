@@ -5035,9 +5035,9 @@
     "certainTimes": [-1],
     "cooldown": 80,
     "nomination": true,
-    "price": 600,
+    "price": 500,
     "requiredOnline": 600,
-    "requiredPlayers": 20
+    "requiredPlayers": -1
   },
   "ze_shaurma_v3": {
     "admin": false,
