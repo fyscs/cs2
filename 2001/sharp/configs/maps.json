@@ -5031,7 +5031,7 @@
     "requiredPlayers": 30
   },
   "ze_shadow_moses": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 80,
     "nomination": true,
