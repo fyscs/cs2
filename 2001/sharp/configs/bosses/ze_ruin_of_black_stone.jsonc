@@ -1,0 +1,69 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only)
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "display": "特斯拉",
+      "iterator": "lvl2_boss_hp",
+      "hitbox": "lvl2_boss_hitbox"
+    },
+    {
+      "display": "炎王帝君",
+      "iterator": "ex1_boss_hp_math",
+      "hitbox": "ex1_boss_hitbox"
+    },
+    {
+      "display": "插博士",
+      "iterator": "ex1_final_boss_hp",
+      "hitbox": "ex1_final_boss_hitbox"
+    },
+    {
+      "display": "插博士",
+      "iterator": "ex2_boss_hp",
+      "hitbox": "ex2_mdl_boss"
+    },
+    {
+      "display": "插博士END",
+      "iterator": "ex2_ending_boss_hp",
+      "hitbox": "ex2_ending_boss_mdl"
+    }
+  ],
+  "Monsters": [
+    {
+      "identity": "935",
+      "display": "红色电箱"
+    },
+    {
+      "identity": "937",
+      "display": "绿色电箱"
+    },
+    {
+      "identity": "939",
+      "display": "黄色电箱"
+    },
+    {
+      "identity": "941",
+      "display": "蓝色电箱"
+    }
+  ]
+}
