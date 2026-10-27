@@ -204,6 +204,14 @@
     },
     {
       "match": {
+        "classname": "weapon_knife"
+      },
+      "insert": {
+        "subclass_name": "weapon_knife"
+      }
+    },
+    {
+      "match": {
         "classname": "env_wind",
         "gustduration": "0"
       },
