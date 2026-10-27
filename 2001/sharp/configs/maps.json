@@ -3267,7 +3267,7 @@
     "requiredPlayers": -1
   },
   "ze_megastructure": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 80,
     "nomination": true,
