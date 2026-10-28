@@ -4274,6 +4274,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_parking_p": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 80,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_parkour": {
     "admin": false,
     "certainTimes": [-1],
