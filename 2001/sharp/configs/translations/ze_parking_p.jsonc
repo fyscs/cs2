@@ -1,0 +1,225 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>FLOOR UNSTABLE ! TAKE CARE !<<": {
+    "translation": "地板即将坍塌!小心!"
+  },
+  ">>COVER THE ELEVATORS ENTRY 30 SECONDS<<": {
+    "translation": "守住电梯入口,坚持30秒"
+  },
+  ">>ELEVATORS OPEN ! 15 SECONDS LEFT<<": {
+    "translation": "电梯已开启!还剩15秒!"
+  },
+  ">>ELEVATORS LEAVING !<<": {
+    "translation": "电梯要跑路了"
+  },
+  ">>AFK TELEPORT<<": {
+    "translation": "挂机玩家传送"
+  },
+  ">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE ELEVATORS !!<<<": {
+    "translation": "僵尸已进入电梯!禁止使用神器!"
+  },
+  ">>COVER 30 SECONDS UNTIL C4 EXPLOSION<<": {
+    "translation": "C4将在30秒后爆炸!"
+  },
+  ">>RUN<<": {
+    "translation": "快跑!"
+  },
+  ">>PREPARE TO RUN IN 5 SECONDS<<": {
+    "translation": "5秒后开始撤离"
+  },
+  ">>TAKE THE ELEVATORS<<": {
+    "translation": "乘坐电梯撤离"
+  },
+  ">>RUN TO THE COMMAND TENT TO START THE EXPLOSION<<": {
+    "translation": "前往指挥帐篷启动炸弹"
+  },
+  ">>ZOMBIES TAKE THE STAIRS<<": {
+    "translation": "僵尸可以爬楼梯"
+  },
+  ">>ELEVATOR LEAVING IN 5 SECONDS<<": {
+    "translation": "电梯将在5秒后离开"
+  },
+  ">>COVER THE EVACUATION AREA 45 SECONDS<<": {
+    "translation": "守住撤离区域,坚持45秒"
+  },
+  ">>NO ZOMBIES ALLOWED BEHIND THE CRATES<<": {
+    "translation": "僵尸禁止进入箱子后方"
+  },
+  ">>EXPLOSION IN 5 SECONDS<<": {
+    "translation": "5秒后爆炸"
+  },
+  ">>CHOPPER LEAVING IN 15 SECONDS<<": {
+    "translation": "直升机将在15秒后离开"
+  },
+  ">>5 SECONDS LEFT<<": {
+    "translation": "还剩5秒"
+  },
+  ">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE CHOPPER !!<<<": {
+    "translation": "僵尸已进入直升机!禁止使用神器!"
+  },
+  ">>COVER UNTIL CHOPPER ARRIVE<<": {
+    "translation": "守住阵地直到直升机抵达"
+  },
+  ">>CHOPPER ON WAY<<": {
+    "translation": "直升机正在赶来"
+  },
+  ">>THIS IS THE LAST CHOPPER<<": {
+    "translation": "这是最后一架直升机"
+  },
+  ">>YOU ARE THE LAST SURVIVORS<<": {
+    "translation": "你们是最后的幸存者"
+  },
+  ">>EVERYONE HAS BEEN EVACUATED<<": {
+    "translation": "所有人均已撤离"
+  },
+  ">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE EVACUATION AREA !!<<<": {
+    "translation": "撤离区域内有僵尸!禁止使用神器!"
+  },
+  ">>EXTREME MODE ACTIVATED FOR NEXT ROUNDS<<": {
+    "translation": "接下来的回合将启用极限模式"
+  },
+  ">>>CT WIN - ACCESS TO SPECIAL WEAPONS GRANTED<<<": {
+    "translation": "人类获胜,已解锁神器使用权限"
+  },
+  ">>AMMO PICKED UP<<": {
+    "translation": "已拾取弹药"
+  },
+  ">>UAV PICKED UP<<": {
+    "translation": "已拾取无人机"
+  },
+  ">>UAV Launched<<": {
+    "translation": "无人机已起飞"
+  },
+  "RETURN TO COVER THE DOOR": {
+    "translation": "返回防守大门"
+  },
+  ">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 1<<<": {
+    "translation": "调关房:关卡已切换至第1关"
+  },
+  ">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 2<<<": {
+    "translation": "调关房:关卡已切换至第2关"
+  },
+  ">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 3<<<": {
+    "translation": "调关房:关卡已切换至第3关"
+  },
+  ">>>EXTREME MODE ACTIVATED IN DEV ROOM<<<": {
+    "translation": "调关房:极限模式已启用"
+  },
+  ">>>RESET ROUND<<<": {
+    "translation": "重置回合"
+  },
+  ">>>KILLING EVERYONE<<<": {
+    "translation": "正在处死所有玩家"
+  },
+  ">>>EXTREME MODE DEACTIVATED IN DEVROOM<<<": {
+    "translation": "调关房:极限模式已关闭"
+  },
+  ">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 2<<<": {
+    "translation": "已抵达最后一个守点,下一回合将从第2关开始"
+  },
+  ">>>LEVEL 1 : EVACUATION POINT : ELEVATORS<<<": {
+    "translation": "第1关:撤离点:电梯"
+  },
+  ">>>WARMUP ROUND: 120 SECONDS<<<": {
+    "translation": "热身回合:120秒",
+    "blocked": true
+  },
+  ">>>WARMUP ROUND: 60 SECONDS<<<": {
+    "translation": "热身回合:60秒",
+    "blocked": true
+  },
+  ">>>WARMUP ROUND: 30 SECONDS<<<": {
+    "translation": "热身回合:30秒",
+    "blocked": true
+  },
+  ">>>WARMUP ROUND: 5 SECONDS<<<": {
+    "translation": "热身回合:5秒",
+    "blocked": true
+  },
+  ">>>WARMUP ROUND: 4 SECONDS<<<": {
+    "translation": "热身回合:4秒",
+    "blocked": true
+  },
+  ">>>WARMUP ROUND: 3 SECONDS<<<": {
+    "translation": "热身回合:3秒",
+    "blocked": true
+  },
+  ">>>WARMUP ROUND: 1 SECOND<<<": {
+    "translation": "热身回合:1秒",
+    "blocked": true
+  },
+  ">>>WARMUP ROUND: 2 SECONDS<<<": {
+    "translation": "热身回合:2秒",
+    "blocked": true
+  },
+  ">>>LEVEL 2 : EVACUATION POINT : STREET<<<": {
+    "translation": "第2关:撤离点:街道"
+  },
+  ">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 3<<<": {
+    "translation": "已抵达最后一个守点,下一回合将从第3关开始"
+  },
+  ">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 1<<<": {
+    "translation": "已抵达最后一个守点,下一回合将从第1关开始"
+  },
+  ">>>LEVEL 3 : EVACUATION POINT : ROOF<<<": {
+    "translation": "第3关:撤离点:屋顶"
+  },
+  ">>You are the last survivors of the zombie infection<<": {
+    "translation": "你们是僵尸病毒爆发后的最后幸存者"
+  },
+  ">>The last messages of the army invite us to evacuate to the parking in the middle of the city<<": {
+    "translation": "军方最后的消息要求我们撤离至城市中央的停车场"
+  },
+  ">>But they won't wait for long time !<<": {
+    "translation": "但他们不会等太久!"
+  },
+  ">>Let's go ! but be carefull ! there are still some zombies around us<<": {
+    "translation": "冲刺冲刺但注意周围还有僵尸!"
+  },
+  ">>SPECIAL WEAPONS ACCESS GRANTED<<": {
+    "translation": "已解锁神器使用权限"
+  },
+  ">>>EXTREME MODE ACTIVATED<<<": {
+    "translation": "极限模式已启用"
+  },
+  ">>>MAP BY LeGrem<<<": {
+    "translation": "地图作者:LeGrem文本翻译:Fys&圣光猫猫"
+  },
+  ">>>Thx to JorisCeoen for help with models<<<": {
+    "translation": "感谢JorisCeoen提供模型方面的帮助"
+  },
+  ">>>YOU WON EXTREME LEVEL 3<<<": {
+    "translation": "恭喜通关极限模式第3关"
+  },
+  ">>>YOU WON EXTREME LEVEL 2<<<": {
+    "translation": "恭喜通关极限模式第2关"
+  },
+  ">>>YOU WON EXTREME LEVEL 1<<<": {
+    "translation": "恭喜通关极限模式第1关"
+  },
+  ">>ELECTRO GUN PICKED UP<<": {
+    "translation": "已拾取电击枪"
+  },
+  ">>PROXY MINES PICKED UP<<": {
+    "translation": "已拾取感应地雷"
+  },
+  ">>GRENADE LAUNCHER PICKED UP<<": {
+    "translation": "已拾取榴弹发射器"
+  },
+  ">>MINIGUN PICKED UP<<": {
+    "translation": "已拾取加特林机枪"
+  },
+  ">>FLAMETHROWER PICKED UP<<": {
+    "translation": "已拾取火焰喷射器"
+  }
+}
