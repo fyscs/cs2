@@ -677,7 +677,7 @@
   "ze_bluearchive_abydos": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 100,
+    "cooldown": 30,
     "nomination": true,
     "price": 300,
     "requiredOnline": 900,
