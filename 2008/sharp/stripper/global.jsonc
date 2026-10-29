@@ -3,124 +3,23 @@
     {
       "classname": "item_defuser"
     },
-    // Bullshit Message
     {
       "classname": "env_message"
     },
     {
       "classname": "env_hudhint"
+    },
+    {
+      "classname": "game_player_equip"
+    },
+    {
+      "classname": "weapon_*"
+    },
+    {
+      "classname": "item_*"
     }
   ],
   "modify": [
-    {
-      "match": {
-        "item_defuser": "1"
-      },
-      "delete": {
-        "item_defuser": "1"
-      }
-    },
-    {
-      "match": {
-        "classname": "game_player_equip",
-        "spawnflags": "1"
-      },
-      "delete": {
-        "spawnflags": "1"
-      },
-      "insert": {
-        "spawnflags": "5"
-      }
-    },
-    {
-      "match": {
-        "classname": "game_player_equip"
-      },
-      "delete": {
-        "weapon0": "item_*",
-        "weapon1": "item_*",
-        "weapon2": "item_*",
-        "weapon3": "item_*",
-        "weapon4": "item_*",
-        "weapon5": "item_*",
-        "weapon6": "item_*",
-        "weapon7": "item_*",
-        "weapon8": "item_*",
-        "weapon9": "item_*",
-        "weapon10": "item_*",
-        "weapon11": "item_*",
-        "weapon12": "item_*",
-        "weapon13": "item_*",
-        "weapon14": "item_*",
-        "weapon15": "item_*",
-        "weapon16": "item_*",
-        "weapon17": "item_*",
-        "weapon18": "item_*",
-        "weapon19": "item_*",
-        "weapon20": "item_*",
-        "weapon21": "item_*",
-        "weapon22": "item_*",
-        "weapon23": "item_*",
-        "weapon24": "item_*",
-        "weapon25": "item_*",
-        "weapon26": "item_*",
-        "weapon27": "item_*",
-        "weapon28": "item_*",
-        "weapon29": "item_*",
-        "weapon30": "item_*",
-        "weapon31": "item_*",
-        "weapon32": "item_*"
-      }
-    },
-    //fix map placed grenade...
-    {
-      "match": {
-        "classname": "weapon_flashbang"
-      },
-      "insert": {
-        "subclass_name": "weapon_flashbang"
-      }
-    },
-    {
-      "match": {
-        "classname": "weapon_hegrenade"
-      },
-      "insert": {
-        "subclass_name": "weapon_hegrenade"
-      }
-    },
-    {
-      "match": {
-        "classname": "weapon_smokegrenade"
-      },
-      "insert": {
-        "subclass_name": "weapon_smokegrenade"
-      }
-    },
-    {
-      "match": {
-        "classname": "weapon_molotov"
-      },
-      "insert": {
-        "subclass_name": "weapon_molotov"
-      }
-    },
-    {
-      "match": {
-        "classname": "weapon_decoy"
-      },
-      "insert": {
-        "subclass_name": "weapon_decoy"
-      }
-    },
-    {
-      "match": {
-        "classname": "weapon_incgrenade"
-      },
-      "insert": {
-        "subclass_name": "weapon_incgrenade"
-      }
-    },
     {
       "match": {
         "classname": "env_wind",
