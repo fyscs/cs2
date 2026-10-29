@@ -251,6 +251,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "mg_shouwangzhe_v1": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 12,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "mg_ski_mountain_v2_csgo": {
     "admin": false,
     "certainTimes": [-1],
