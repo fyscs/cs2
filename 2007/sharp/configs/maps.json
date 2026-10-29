@@ -62,6 +62,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "surf_be_gentle": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 15,
+    "nomination": true,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "surf_beginner": {
     "admin": false,
     "certainTimes": [-1],
@@ -86,15 +95,6 @@
     "cooldown": 10,
     "nomination": false,
     "price": 250,
-    "requiredOnline": -1,
-    "requiredPlayers": -1
-  },
-  "surf_be_gentle": {
-    "admin": false,
-    "certainTimes": [-1],
-    "cooldown": 15,
-    "nomination": true,
-    "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
@@ -512,6 +512,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "surf_n_turf": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 10,
+    "nomination": true,
+    "price": 200,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "surf_neck_hurts": {
     "admin": false,
     "certainTimes": [-1],
@@ -549,15 +558,6 @@
     "requiredPlayers": -1
   },
   "surf_nyx": {
-    "admin": false,
-    "certainTimes": [-1],
-    "cooldown": 10,
-    "nomination": true,
-    "price": 200,
-    "requiredOnline": -1,
-    "requiredPlayers": -1
-  },
-  "surf_n_turf": {
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
