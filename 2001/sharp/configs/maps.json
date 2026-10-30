@@ -1229,8 +1229,8 @@
     "cooldown": 30,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 900,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 30
   },
   "ze_deadly_archive": {
     "admin": true,
