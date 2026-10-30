@@ -66,7 +66,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -129,7 +129,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 20,
-    "nomination": true,
+    "nomination": false,
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -147,7 +147,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -174,7 +174,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -192,7 +192,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 25,
-    "nomination": true,
+    "nomination": false,
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -201,7 +201,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 25,
-    "nomination": true,
+    "nomination": false,
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -210,7 +210,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -219,7 +219,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -237,7 +237,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -264,7 +264,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 25,
-    "nomination": true,
+    "nomination": false,
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -273,7 +273,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 20,
-    "nomination": true,
+    "nomination": false,
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -291,7 +291,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 20,
-    "nomination": true,
+    "nomination": false,
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -327,7 +327,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 250,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -336,7 +336,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -345,7 +345,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 25,
-    "nomination": true,
+    "nomination": false,
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -354,7 +354,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 25,
-    "nomination": true,
+    "nomination": false,
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -363,7 +363,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 250,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -372,7 +372,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 250,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -381,7 +381,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -390,7 +390,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -399,7 +399,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 250,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -408,7 +408,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -417,7 +417,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 20,
-    "nomination": true,
+    "nomination": false,
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -426,7 +426,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 20,
-    "nomination": true,
+    "nomination": false,
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -435,7 +435,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 250,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -444,7 +444,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -453,7 +453,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -462,7 +462,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -471,7 +471,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -480,7 +480,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -489,7 +489,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -498,7 +498,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -507,7 +507,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -516,7 +516,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -525,7 +525,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 250,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -534,7 +534,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 20,
-    "nomination": true,
+    "nomination": false,
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -543,7 +543,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -552,7 +552,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -561,7 +561,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -570,7 +570,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -579,7 +579,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 250,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -588,7 +588,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 250,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -597,7 +597,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -606,7 +606,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -615,7 +615,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 25,
-    "nomination": true,
+    "nomination": false,
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -624,7 +624,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -633,7 +633,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -642,7 +642,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 25,
-    "nomination": true,
+    "nomination": false,
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -651,7 +651,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 250,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -660,7 +660,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 250,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -669,7 +669,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -678,7 +678,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -687,7 +687,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 20,
-    "nomination": true,
+    "nomination": false,
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -696,7 +696,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 250,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -705,7 +705,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -714,7 +714,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -723,7 +723,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -732,7 +732,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -741,7 +741,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 250,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -750,7 +750,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -759,7 +759,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -768,7 +768,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -777,7 +777,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 250,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -786,7 +786,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -795,7 +795,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 10,
-    "nomination": true,
+    "nomination": false,
     "price": 200,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -804,7 +804,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 20,
-    "nomination": true,
+    "nomination": false,
     "price": 400,
     "requiredOnline": -1,
     "requiredPlayers": -1
@@ -813,7 +813,7 @@
     "admin": false,
     "certainTimes": [-1],
     "cooldown": 15,
-    "nomination": true,
+    "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
