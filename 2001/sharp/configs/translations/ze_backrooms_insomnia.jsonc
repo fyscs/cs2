@@ -75,19 +75,19 @@
     "translation": "..."
   },
   ">You are not gonna stop hunting us aren't you?..": {
-    "translation": "你不打算停止追捕我们不是吗"
+    "translation": "看样子你不打算停止追捕我们"
   },
   ">Well then,This will be your last chance to get us.": {
-    "translation": "那么这将是你抓到我们的最后机会"
+    "translation": "那么..这将是你抓到我们的最后机会"
   },
   ">It's time to go now,RUN!": {
-    "translation": "该走了快跑"
+    "translation": "该走了,快跑"
   },
   "> There is no way to run faster than Bacteria. <": {
     "translation": "我们不可能跑得比细菌更快"
   },
   "> Use weapons,or Items that emit light to delay its speed. <": {
-    "translation": "使用武器或发光物品来延缓它的速度"
+    "translation": "开枪打它或发光物品来延缓它的速度"
   },
   "> Zombies has no longer sealed. <": {
     "translation": "僵尸解除封锁"
@@ -123,7 +123,7 @@
     "translation": "注意躲藏的时机"
   },
   "> Smiler blocked the way,Use Items that emit light to banish it! <": {
-    "translation": "笑魇挡住了道路使用发光物品来驱逐它"
+    "translation": "笑魇挡住了道路,使用发光物品来驱逐它"
   },
   ">Get in the elevator before they found us!": {
     "translation": "在他们发现我们之前进入电梯"
@@ -135,35 +135,35 @@
     "translation": "用它来控制理智状态防止理智过高"
   },
   "< 25 >": {
-    "translation": "25",
+    "translation": "还有25秒",
     "countdown": 25
   },
   "< 30 >": {
-    "translation": "30",
+    "translation": "还有30秒",
     "countdown": 30
   },
   "< 35 >": {
-    "translation": "35",
+    "translation": "还有35秒",
     "countdown": 35
   },
   "< 10 >": {
-    "translation": "10",
+    "translation": "还有10秒",
     "countdown": 10
   },
   "< 40 >": {
-    "translation": "40",
+    "translation": "还有40秒",
     "countdown": 40
   },
   "< 15 >": {
-    "translation": "15",
+    "translation": "还有15秒",
     "countdown": 15
   },
   "< 20 >": {
-    "translation": "20",
+    "translation": "还有20秒",
     "countdown": 20
   },
   ">This water seems not safe,Better not go deep in it.": {
-    "translation": "这水似乎不安全最好不要深入"
+    "translation": "这水似乎不安全,最好不要深入"
   },
   ">The water down there might has deadly virus.": {
     "translation": "下面的水可能含有致命病毒"
@@ -181,18 +181,18 @@
     "translation": "病毒水也会感染人类不要掉进水中"
   },
   "> 25 <": {
-    "translation": "25",
+    "translation": "还有25秒",
     "countdown": 25
   },
   "> 35 <": {
-    "translation": "35",
+    "translation": "还有35秒",
     "countdown": 35
   },
   "> Smiler will spawn in the dark area. <": {
     "translation": "笑魇会在黑暗区域生成"
   },
   "> Find power switch to turn on the light,They unable to resist the light. <": {
-    "translation": "找到电源开关打开灯光它们无法抵抗光线"
+    "translation": "找到电源开关打开灯光,它们无法抵抗光线"
   },
   ">Recycling Stations< Wait for it close!": {
     "translation": "回收站 - 等待它关闭"
@@ -205,7 +205,7 @@
     "countdown": 10
   },
   ">This is kinda...weird,Who design this.": {
-    "translation": "这有点奇怪谁设计的这个"
+    "translation": "这有点奇怪,谁设计的这个"
   },
   ">Someone has to swtich the light at here.": {
     "translation": "必须有人在这里开关灯"
@@ -225,7 +225,7 @@
     "countdown": 85
   },
   ">Recycling Stations< It's not working,We have to find another way out.": {
-    "translation": "回收站它不工作了我们得找另一条出路"
+    "translation": "回收站它不工作了,我们得找另一条出路"
   },
   ">Warehouse< Power are starting up!": {
     "translation": "仓库 - 电力正在启动"
@@ -235,7 +235,7 @@
     "countdown": 85
   },
   ">Warehouse< It's not working,We have to find another way out.": {
-    "translation": "仓库它不工作了我们得找另一条出路"
+    "translation": "仓库它不工作了,我们得找另一条出路"
   },
   "< Level 0 has been takedown. >": {
     "translation": "Level 0已被攻克"
@@ -262,10 +262,10 @@
     "translation": "我们需要待在不会熄灭的灯光下"
   },
   ">And move when all light on,Or the Smiler will hunt us!": {
-    "translation": "并在所有灯亮时移动否则笑魇会追捕我们"
+    "translation": "并在所有灯亮时移动.否则笑魇会追捕我们"
   },
   "> 15 <": {
-    "translation": "15",
+    "translation": "还有15秒",
     "countdown": 15
   },
   "> There only has one path to escape.. <": {
@@ -369,6 +369,10 @@
   "< Partygoner and zombies will hunt you in 1 minutes. >": {
     "translation": "派对气球和僵尸将在63秒后追捕你",
     "countdown": 63
+  },
+  "等待90秒直到什么事件发生": {
+    "translation": "等待90秒直到什么事件发生",
+    "countdown": 90
   },
   "< Party starts now. >": {
     "translation": "派对现在开始"
