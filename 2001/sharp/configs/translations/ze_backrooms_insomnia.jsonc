@@ -31,7 +31,7 @@
     "translation": "注意安全"
   },
   "> Map by @Seth <": {
-    "translation": "地图作者 Seth 文本:雾雨猫猫&creeper_kk"
+    "translation": "作者Seth 文本:雾雨猫猫&creeper_kk"
   },
   "> The exploration start in 10 sec. <": {
     "translation": "探索将在10秒后开始",
@@ -75,19 +75,19 @@
     "translation": "..."
   },
   ">You are not gonna stop hunting us aren't you?..": {
-    "translation": "你不打算停止追捕我们不是吗"
+    "translation": "看样子你不打算停止追捕我们"
   },
   ">Well then,This will be your last chance to get us.": {
-    "translation": "那么这将是你抓到我们的最后机会"
+    "translation": "那么..这将是你抓到我们的最后机会"
   },
   ">It's time to go now,RUN!": {
-    "translation": "该走了快跑"
+    "translation": "该走了,快跑"
   },
   "> There is no way to run faster than Bacteria. <": {
     "translation": "我们不可能跑得比细菌更快"
   },
   "> Use weapons,or Items that emit light to delay its speed. <": {
-    "translation": "使用武器或发光物品来延缓它的速度"
+    "translation": "开枪或用发光物品来延缓它的速度"
   },
   "> Zombies has no longer sealed. <": {
     "translation": "僵尸解除封锁"
@@ -123,47 +123,47 @@
     "translation": "注意躲藏的时机"
   },
   "> Smiler blocked the way,Use Items that emit light to banish it! <": {
-    "translation": "笑魇挡住了道路使用发光物品来驱逐它"
+    "translation": "笑魇挡住了道路,快使用发光物品"
   },
   ">Get in the elevator before they found us!": {
     "translation": "在他们发现我们之前进入电梯"
   },
   ">One Human stay in each pool will slowly reduce sanity.<": {
-    "translation": "请注意:在水池里每泡1.5秒会减少1点理智"
+    "translation": "注意:水池每泡1.5秒会减少1点理智"
   },
   ">Use it to control the sanity status,Prevent sanity overhigh.<": {
     "translation": "用它来控制理智状态防止理智过高"
   },
   "< 25 >": {
-    "translation": "25",
+    "translation": "还有25秒",
     "countdown": 25
   },
   "< 30 >": {
-    "translation": "30",
+    "translation": "还有30秒",
     "countdown": 30
   },
   "< 35 >": {
-    "translation": "35",
+    "translation": "还有35秒",
     "countdown": 35
   },
   "< 10 >": {
-    "translation": "10",
+    "translation": "还有10秒",
     "countdown": 10
   },
   "< 40 >": {
-    "translation": "40",
+    "translation": "还有40秒",
     "countdown": 40
   },
   "< 15 >": {
-    "translation": "15",
+    "translation": "还有15秒",
     "countdown": 15
   },
   "< 20 >": {
-    "translation": "20",
+    "translation": "还有20秒",
     "countdown": 20
   },
   ">This water seems not safe,Better not go deep in it.": {
-    "translation": "这水似乎不安全最好不要深入"
+    "translation": "这水似乎不安全,最好不要深入"
   },
   ">The water down there might has deadly virus.": {
     "translation": "下面的水可能含有致命病毒"
@@ -172,7 +172,7 @@
     "translation": "看来我们得搭个便车"
   },
   "> Zombies entering the Virus Water will be infected to low health. <": {
-    "translation": "进入病毒水的僵尸会被感染至低生命值"
+    "translation": "进入水的僵尸会被感染至低生命值"
   },
   "> Kill them while they in the water. <": {
     "translation": "在他们还在水中时杀死他们"
@@ -181,18 +181,18 @@
     "translation": "病毒水也会感染人类不要掉进水中"
   },
   "> 25 <": {
-    "translation": "25",
+    "translation": "还有25秒",
     "countdown": 25
   },
   "> 35 <": {
-    "translation": "35",
+    "translation": "还有35秒",
     "countdown": 35
   },
   "> Smiler will spawn in the dark area. <": {
     "translation": "笑魇会在黑暗区域生成"
   },
   "> Find power switch to turn on the light,They unable to resist the light. <": {
-    "translation": "找到电源开关打开灯光它们无法抵抗光线"
+    "translation": "找到电源开关,它们无法抵抗光线"
   },
   ">Recycling Stations< Wait for it close!": {
     "translation": "回收站 - 等待它关闭"
@@ -205,7 +205,7 @@
     "countdown": 10
   },
   ">This is kinda...weird,Who design this.": {
-    "translation": "这有点奇怪谁设计的这个"
+    "translation": "这有点奇怪,谁设计的这个"
   },
   ">Someone has to swtich the light at here.": {
     "translation": "必须有人在这里开关灯"
@@ -225,7 +225,7 @@
     "countdown": 85
   },
   ">Recycling Stations< It's not working,We have to find another way out.": {
-    "translation": "回收站它不工作了我们得找另一条出路"
+    "translation": "回收站它不工作了,得找另一条出路"
   },
   ">Warehouse< Power are starting up!": {
     "translation": "仓库 - 电力正在启动"
@@ -235,7 +235,7 @@
     "countdown": 85
   },
   ">Warehouse< It's not working,We have to find another way out.": {
-    "translation": "仓库它不工作了我们得找另一条出路"
+    "translation": "仓库它不工作了,得找另一条出路"
   },
   "< Level 0 has been takedown. >": {
     "translation": "Level 0已被攻克"
@@ -262,17 +262,17 @@
     "translation": "我们需要待在不会熄灭的灯光下"
   },
   ">And move when all light on,Or the Smiler will hunt us!": {
-    "translation": "并在所有灯亮时移动否则笑魇会追捕我们"
+    "translation": "并在灯亮时移动.否则笑魇会杀我们"
   },
   "> 15 <": {
-    "translation": "15",
+    "translation": "还有15秒",
     "countdown": 15
   },
   "> There only has one path to escape.. <": {
     "translation": "只有一条逃生路径"
   },
   "> You need to let some teammate split up and find the right Exit. <": {
-    "translation": "你需要让一些队友分开寻找正确的出口"
+    "translation": "你需要让队友分开寻找正确的出口"
   },
   "> Don't forget to wait the teammate that found wrong path come back. <": {
     "translation": "不要忘记等待找错路的队友回来"
@@ -296,25 +296,25 @@
     "blocked": true
   },
   ">> A human traded Tactical Flashlight,Metarials -100 <<": {
-    "translation": "人类交易了战术手电筒 材料减100"
+    "translation": "交易了战术手电筒 材料减100"
   },
   ">> A human traded Bundle of Glow Stick,Metarials -50 <<": {
-    "translation": "人类交易了荧光棒捆 材料减50"
+    "translation": "交易了荧光棒捆 材料减50"
   },
   ">> A human traded Bucket of Almond Water,Metarials -150 <<": {
-    "translation": "人类交易了桶装杏仁水 材料减150"
+    "translation": "交易了桶装杏仁水 材料减150"
   },
   ">> A human traded Bag of Fire Salt,Metarials -200 <<": {
-    "translation": "人类交易了袋装火盐 材料减200"
+    "translation": "交易了袋装火盐 材料减200"
   },
   ">> A human traded Man Made Lightning in Bottle,Metarials -150 <<": {
-    "translation": "人类交易了人造瓶装闪电 材料减150"
+    "translation": "交易了人造瓶装闪电 材料减150"
   },
   ">> A human traded Light Burster,Metarials -300 <<": {
-    "translation": "人类交易了光爆器 材料减300"
+    "translation": "交易了光爆器 材料减300"
   },
   ">> A human traded Spirit Detecter,Metarials -300 <<": {
-    "translation": "人类交易了灵体探测器 材料减300"
+    "translation": "交易了灵体探测器 材料减300"
   },
   ">> You need to left store to let other teammate trade. <<": {
     "translation": "你需要离开商店让其他队友交易"
@@ -343,7 +343,7 @@
     "countdown": 85
   },
   ">Market< It's not working,We have to find another way out.": {
-    "translation": "市场它不工作了 我们得找另一条出路"
+    "translation": "市场它不工作了 得找另一条出路"
   },
   ">Admin has add 500 metarials.<": {
     "translation": "管理员添加了500材料",
@@ -364,11 +364,15 @@
     "translation": "派对人想和你玩个游戏"
   },
   "< You need to poke 8 Red Balloon in 3 minutes. >": {
-    "translation": "你需要在3分钟内找到并打破8个红气球"
+    "translation": "你需要找到并打破8个红气球"
   },
   "< Partygoner and zombies will hunt you in 1 minutes. >": {
     "translation": "派对气球和僵尸将在63秒后追捕你",
     "countdown": 63
+  },
+  "等待90秒直到什么事件发生": {
+    "translation": "等待90秒直到什么事件发生",
+    "countdown": 90
   },
   "< Party starts now. >": {
     "translation": "派对现在开始"
@@ -414,13 +418,13 @@
     "translation": "等待时间结束,我们就可逃离此处了"
   },
   "< You have fail and trap in Level Fun forever... >": {
-    "translation": "你已失败并永远困在Level Fun"
+    "translation": "你已永远困在Level Fun"
   },
   "< Level 2 has been takedown. >": {
     "translation": "Level 2已被攻克"
   },
   "< Seems like smiler appear,beware your front and back. >": {
-    "translation": "似乎笑魇出现了注意你的前后方"
+    "translation": "似乎笑魇出现了,小心前后方"
   },
   "< Hide in gap when smiler near you. >": {
     "translation": "当笑魇靠近时躲在缝隙中"
@@ -436,7 +440,7 @@
     "translation": "哦不有很多笑魇过来了"
   },
   "> We got no time to cut this,Use weapon to break it! <": {
-    "translation": "我们没时间切割了 用武器打破它"
+    "translation": "我们没时间了 用武器打破它"
   },
   "< You did it,Elevator are starting in 60 sec. >": {
     "translation": "电梯将在60秒后启动",
@@ -452,7 +456,7 @@
     "translation": "该死它停了"
   },
   "< Pick up those flashlight,Irradiate to smiler 3 sec to banish them to edge. >": {
-    "translation": "拾起那些手电筒 照射笑魇3秒 将其放逐至边缘"
+    "translation": "用手电筒 照射将其放逐至边缘"
   },
   "< 1/5 Switch left. >": {
     "translation": "还有4个.."
@@ -470,25 +474,25 @@
     "translation": "Level 01已被攻克"
   },
   ">> A human traded Water Gun,Metarials -300 <<": {
-    "translation": "人类交易了水枪 材料减300"
+    "translation": "人类交易了水枪 材料-300"
   },
   "> Detect 10 Player survived Mini Level,Metarials +100. <": {
-    "translation": "检测到10名玩家通过迷你层级 材料加100"
+    "translation": "检测到10名玩家通过 材料加100"
   },
   "> Detect 20 Player survived Mini Level,Metarials +100. <": {
-    "translation": "检测到20名玩家通过迷你层级 材料加100",
+    "translation": "检测到20名玩家通过 材料加100",
     "clearText": true
   },
   "> Detect 30 Player survived Mini Level,Metarials +100. <": {
-    "translation": "检测到30名玩家通过迷你层级 材料加100",
+    "translation": "检测到30名玩家通过 材料加100",
     "clearText": true
   },
   "> Detect 40 Player survived Mini Level,Metarials +100. <": {
-    "translation": "检测到40名玩家通过迷你层级 材料加100",
+    "translation": "检测到40名玩家通过 材料加100",
     "clearText": true
   },
   "> Detect 50 Player survived Mini Level,Metarials +150. <": {
-    "translation": "检测到50名玩家通过迷你层级 材料加150",
+    "translation": "检测到50名玩家通过 材料加150",
     "clearText": true
   },
   ">Reseting map progress...<": {
@@ -502,31 +506,31 @@
     "blocked": true
   },
   ">Someone found Collection-Graphics Card,Metarials +90<": {
-    "translation": "已收集显卡收藏品 材料加90"
+    "translation": "已收集显卡 材料加90"
   },
   ">Someone found Collection-Experimental Data,Metarials +70<": {
-    "translation": "已收集实验数据收藏品 材料加70"
+    "translation": "已收集实验数据 材料加70"
   },
   ">Someone found Collection-Quantum Storage,Metarials +50<": {
-    "translation": "已收集量子存储收藏品 材料加50"
+    "translation": "已收集量子存储 材料加50"
   },
   ">Someone found Collection-RAID,Bring back lobby to get Metarials<": {
-    "translation": "已收集RAID收藏品 带回大厅获得材料"
+    "translation": "已收集RAID收藏品"
   },
   ">Someone found Collection-Blade Server,Bring back lobby to get Metarials<": {
-    "translation": "已收集刀片服务器收藏品 带回大厅获得材料"
+    "translation": "已收集刀片服务器收藏品"
   },
   ">Someone found Collection-Power Battery Pack,Bring back lobby to get Metarials<": {
-    "translation": "已收集动力电池包收藏品 带回大厅获得材料"
+    "translation": "已收集动力电池包收藏品"
   },
   ">Someone found Collection-Reactor,Metarials +250<": {
-    "translation": "已收集反应堆收藏品 材料加250"
+    "translation": "已收集反应堆 材料加250"
   },
   ">Someone found Collection-Laptop,Metarials +200<": {
-    "translation": "已收集笔记本电脑收藏品 材料加200"
+    "translation": "已收集笔记本电脑 材料加200"
   },
   ">Someone found Collection-Supercomputer,Metarials +150<": {
-    "translation": "已收集超级计算机收藏品 材料加150"
+    "translation": "已收集超级计算机 材料加150"
   },
   ">Spirit Detecter< Press E to detect Smiler's position 3 times.": {
     "translation": "灵体探测器 按E探测笑魇位置3次",
@@ -632,28 +636,28 @@
     "blocked": true
   },
   ">> A human traded Water Gun,Metarials -350 <<": {
-    "translation": "神器水枪已购买 后室材料-350"
+    "translation": "神器水枪已购买 材料-350"
   },
   ">> A human traded Scanner Mk1,Metarials -100 <<": {
-    "translation": "扫描仪 Mk1 已购买 后室材料-100"
+    "translation": "扫描仪Mk1 已购买 材料-100"
   },
   ">You have collect..Oh,seems like there has no metarials in sweeper today,damn.<": {
-    "translation": "你貌似...好吧看来扫地机器人没给你收集到任何材料.."
+    "translation": "看来机器人没给你收集到任何材料."
   },
   ">You have collect 100 metarials in sweeper,yey!<": {
-    "translation": "你从扫地机器人中获得了100材料,耶!"
+    "translation": "你从扫地机器人中获得了100,耶"
   },
   ">You have collect 200 metarials in sweeper,yey!<": {
-    "translation": "你从扫地机器人中获得了200材料,耶!"
+    "translation": "你从扫地机器人中获得了200,耶"
   },
   ">You have collect 300 metarials in sweeper,yey!<": {
-    "translation": "你从扫地机器人中获得了300材料,耶!"
+    "translation": "你从扫地机器人中获得了300,耶"
   },
   ">You have collect 400 metarials in sweeper,yey!<": {
-    "translation": "你从扫地机器人中获得了400材料,耶!"
+    "translation": "你从扫地机器人中获得了400,耶"
   },
   ">You have collect 500 metarials in sweeper,yey!<": {
-    "translation": "你从扫地机器人中获得了500材料,耶!"
+    "translation": "你从扫地机器人中获得了500,耶"
   },
   ">The Collector Task has finished!<": {
     "translation": "收集者任务已完成,材料上限已突破"
@@ -699,16 +703,16 @@
     "blocked": true
   },
   ">Someone found Collection-Crystal,Metarials +1500<": {
-    "translation": "非洲之星已被拾取,后室材料+1500"
+    "translation": "非洲之星已被拾取,材料+1500"
   },
   ">Someone found Collection-Sweeper Bot,Metarials +350<": {
-    "translation": "扫地机器人已被拾取,后室材料+350"
+    "translation": "扫地机器人已被拾取,材料+350"
   },
   ">Sweeper Bot now has appear in Lobby,You can obtain random metarials every new round now.<": {
-    "translation": "现在你每回合开始可以在大厅的扫地机器人中获取随机数量的后室材料了"
+    "translation": "现在你可以在大厅中获取随机数量的材料了"
   },
   ">Someone found Collection-Vehicle Battery,Metarials +600<": {
-    "translation": "装甲车电池已被拾取,后室材料+600"
+    "translation": "装甲车电池已被拾取,材料+600"
   },
   ">Scanner Mk1< Press E to emit glow dot from your aiming direction,mostly use for guiding way.": {
     "translation": ">Scanner Mk1< Press E to emit glow dot from your aiming direction,mostly use for guiding way.",
