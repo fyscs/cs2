@@ -3042,7 +3042,7 @@
     "requiredPlayers": -1
   },
   "ze_lost_ruins": {
-    "admin": false,
+    "admin": true,
     "certainTimes": [-1],
     "cooldown": 80,
     "nomination": true,
