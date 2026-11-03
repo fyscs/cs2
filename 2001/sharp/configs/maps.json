@@ -1559,7 +1559,7 @@
   "ze_endemic": {
     "admin": true,
     "certainTimes": [-1],
-    "cooldown": 100,
+    "cooldown": 30,
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
