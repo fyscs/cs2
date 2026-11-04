@@ -21,5 +21,32 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Proxy": true
+  "Counters": [
+    {
+      "display": "虚伪之光",
+      "iterator": "lv2_boss_math1",
+      "counter": "lv2_boss_math2",
+      "mass": 70,
+      "hitbox": "lv2_boss_hitbox"
+    },
+    {
+      "display": "核心",
+      "iterator": "lv3_boss_math1",
+      "counter": "lv3_boss_math2",
+      "mass": 45,
+      "hitbox": "lv3_boss_hitbox"
+    },
+    {
+      "display": "核心(终)",
+      "iterator": "lv3_final_math4",
+      "hitbox": "lv3_final_hitbox"
+    },
+    {
+      "display": "暗影",
+      "iterator": "lv4_boss_math_1",
+      "counter": "lv4_boss_math_2",
+      "mass": 45,
+      "hitbox": "lv4_boss_hitbox"
+    }
+  ]
 }
