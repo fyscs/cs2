@@ -40,15 +40,15 @@
     "rankPasses": 14,
     "rankDamage": 18000,
     "rankIntern": 0.5,
-    "econPasses": 9,
+    "econPasses": 8,
     "econDamage": 24000,
     "econIntern": 0.34
   },
   "5": {
-    "rankPasses": 6,
+    "rankPasses": 5,
     "rankDamage": 18000,
     "rankIntern": 0.3,
-    "econPasses": 4,
+    "econPasses": 3,
     "econDamage": 24000,
     "econIntern": 0.2
   }
