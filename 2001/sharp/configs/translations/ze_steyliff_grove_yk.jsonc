@@ -11,25 +11,25 @@
 
 {
   "- Steyliff Grove Yk -": {
-    "translation": "FF15:斯基利弗宫Yk 文本翻译:圣光猫猫&Fys"
+    "translation": "FF15:斯基利弗宫Yk"
   },
   "< Original - Final Fantasy XV >": {
-    "translation": "原作:最终幻想XV"
+    "translation": "原作:最终幻想XV翻译:圣光猫猫"
   },
   "< Map+ Eugen & Joucho >": {
-    "translation": "原地图作者:Eugen & Joucho"
+    "translation": "原地图作者:Eugen&Joucho"
   },
   "< 后续制作：runa >": {
     "translation": "后续地图制作:runa"
   },
   "> 幻影剑目前可能存在bug，如果有遇到穿墙之类的情况，请自觉返回地图。": {
-    "translation": "幻影剑目前可能存在bug,如果有遇到穿墙之类的情况,请自觉返回地图"
+    "translation": "幻影剑有bug,不要离开地图"
   },
   "> 无法返回地图请自觉处死自己": {
     "translation": "无法返回地图请自觉处死自己"
   },
   "> 某些地方存在能用幻影剑提前触发的情况，也不要提前触发": {
-    "translation": "某些地方存在能用幻影剑提前触发的情况,也不要提前触发"
+    "translation": "不要用幻影剑提前触发"
   },
   "> no卖人": {
     "translation": "别当卖人的dog"
@@ -56,25 +56,25 @@
     "translation": "获得了40雷元素"
   },
   "> A player has learned [ Hi-Potion ] magic, <": {
-    "translation": "一名玩家掌握了<高级恢复药>魔法"
+    "translation": "一名玩家掌握了<高级恢复药>"
   },
   "> A player has learned [ Potion ] magic, <": {
-    "translation": "一名玩家掌握了<恢复药>魔法"
+    "translation": "一名玩家掌握了<恢复药>"
   },
   "> A player has learned [ Summons ] magic, <": {
-    "translation": "一名玩家掌握了<召唤>魔法"
+    "translation": "一名玩家掌握了<召唤>"
   },
   "> A player has learned [ DarkSword ] magic, <": {
-    "translation": "一名玩家掌握了<暗剑>魔法"
+    "translation": "一名玩家掌握了<暗剑>"
   },
   "> A player has learned [ HolySword ] magic, <": {
-    "translation": "一名玩家掌握了<圣剑>魔法"
+    "translation": "一名玩家掌握了<圣剑>"
   },
   "> A player has learned [ Benefic ] magic, <": {
-    "translation": "一名玩家掌握了<增益>魔法"
+    "translation": "一名玩家掌握了<增益>"
   },
   "> A zombie has learned [ Malefic ] magic, <": {
-    "translation": "一名僵尸掌握了<菲克>魔法"
+    "translation": "一名僵尸掌握了<菲克>"
   },
   "* DarkSword in Malefic *": {
     "translation": "暗剑被放逐"
@@ -101,58 +101,58 @@
     "translation": "治疗被放逐"
   },
   "> A player has learned [ MegaElixir ] magic, <": {
-    "translation": "一名玩家掌握了<高级圣灵药>魔法"
+    "translation": "一名玩家掌握了<高级圣灵药>"
   },
   "> A player has learned [ Ether ] magic, <": {
-    "translation": "一名玩家掌握了<以太药>魔法"
+    "translation": "一名玩家掌握了<以太药>"
   },
   "> A player has learned [ Elixir ] magic, <": {
-    "translation": "一名玩家掌握了<圣灵药>魔法"
+    "translation": "一名玩家掌握了<圣灵药>"
   },
   "> A player has learned [ Mega-Elixir ] magic, <": {
-    "translation": "一名玩家掌握了<终极圣灵药>魔法"
+    "translation": "一名玩家掌握了<终极圣灵药>"
   },
   "> A player has learned [ Aero ] magic, <": {
-    "translation": "一名玩家掌握了<风暴>魔法"
+    "translation": "一名玩家掌握了<风暴>"
   },
   "> A zombie has learned [ Siphon ] magic, <": {
-    "translation": "一名僵尸掌握了<加速>魔法"
+    "translation": "一名僵尸掌握了<加速>"
   },
   "> A zombie has learned [ Umbral ] magic, <": {
-    "translation": "一名僵尸掌握了<暗影>魔法"
+    "translation": "一名僵尸掌握了<暗影>"
   },
   "* Umbral Assault *": {
     "translation": "深黯之影"
   },
   "> A zombie has learned [ Gravity ] magic, <": {
-    "translation": "一名僵尸掌握了<黑洞>魔法"
+    "translation": "一名僵尸掌握了<黑洞>"
   },
   "> A zombie has learned [ Impact ] magic, <": {
-    "translation": "一名僵尸掌握了<冲击>魔法"
+    "translation": "一名僵尸掌握了<冲击>"
   },
   "> A zombie has learned [ Foul ] magic, <": {
-    "translation": "一名僵尸掌握了<污秽>魔法"
+    "translation": "一名僵尸掌握了<污秽>"
   },
   "> A zombie has learned [ Despair ] magic, <": {
-    "translation": "一名僵尸掌握了<绝望>魔法"
+    "translation": "一名僵尸掌握了<绝望>"
   },
   "> A zombie has learned [ Frazzle ] magic, <": {
-    "translation": "一名僵尸掌握了<诅咒>魔法"
+    "translation": "一名僵尸掌握了<诅咒>"
   },
   "* Frazzle Curse *": {
     "translation": "弗雷泽诅咒"
   },
   "> A zombie has learned [ Ward ] magic, <": {
-    "translation": "一名僵尸掌握了<冲锋>魔法"
+    "translation": "一名僵尸掌握了<冲锋>"
   },
   "* Ward Unfold *": {
     "translation": "壁垒展开"
   },
   "> A player has learned [ Cure ] magic, <": {
-    "translation": "一名玩家掌握了<奶>魔法"
+    "translation": "一名玩家掌握了<奶>"
   },
   "> A player has learned [ Fire ] magic, <": {
-    "translation": "一名玩家掌握了<火焰>魔法"
+    "translation": "一名玩家掌握了<火焰>"
   },
   "** 火炎 **": {
     "translation": "火炎"
@@ -164,7 +164,7 @@
     "translation": "爆炎"
   },
   "> A player has learned [ Thunder ] magic, <": {
-    "translation": "一名玩家掌握了<雷电>魔法"
+    "translation": "一名玩家掌握了<雷电>"
   },
   "** 闪雷 **": {
     "translation": "闪雷"
@@ -176,10 +176,10 @@
     "translation": "暴雷"
   },
   "> A player has learned [ Water ] magic, <": {
-    "translation": "一名玩家掌握了<水瀑>魔法"
+    "translation": "一名玩家掌握了<水瀑>"
   },
   "> A player has learned [ Blizzard ] magic, <": {
-    "translation": "一名玩家掌握了<暴雪>魔法"
+    "translation": "一名玩家掌握了<暴雪>"
   },
   "** 结冰 **": {
     "translation": "结冰"
