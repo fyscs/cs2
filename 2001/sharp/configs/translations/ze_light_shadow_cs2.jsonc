@@ -10,148 +10,250 @@
   // countdown  (int)  -> 添加特殊的独立的倒计时
 
 {
-  "<<< No one escapes success, the shadow covers the world >>>": {
-    "translation": "没有人能够幸免于难,暗影笼罩着这个世界"
+  "*** A zombie learned gravity ***": {
+    "translation": "一名僵尸获得了黑洞"
   },
-  "<<< It's now. Defeat shadow !!!!! >>>": {
-    "translation": "是时候了,驱散这股黑暗!!"
+  "*** A zombie learned ice ***": {
+    "translation": "一名僵尸获得了寒冰"
   },
-  "*** Don't let zombies get the power of light. Hold here ***": {
-    "translation": "别让僵尸夺走光的力量,死守这里"
+  "*** A human learned push ***": {
+    "translation": "一名人类获得了推力"
   },
-  "<<< 60 seconds left >>>": {
-    "translation": "还有60秒"
+  "*** A human learned freeze ***": {
+    "translation": "一名人类获得了冰冻"
   },
-  "*** stage set to Shadow ***": {
-    "translation": "<< 关卡设定至 Shadow <<"
+  "*** map by lopb ***": {
+    "translation": "地图作者 lopb 文本:Zeyu1&Korihana"
   },
-  "<<< 20 seconds left >>>": {
-    "translation": "还有20秒"
+  "*** admin set stage rtv ***": {
+    "translation": "管理员将关卡设置为rtv"
   },
-  "*** Time has been reset, but we have found another way to the temple of light. We need to go ahead of the core ***": {
-    "translation": "时间已经重置,但我们找到了通往光之神殿的的另一种方式,我们需要走在核心的前面"
+  "*** admin set stage shadow ***": {
+    "translation": "管理员将关卡设置为暗影"
   },
-  "<<< 30 seconds left >>>": {
-    "translation": "还有30秒"
+  "*** admin slay all ***": {
+    "translation": "管理员处决了所有玩家"
   },
-  "*** We need the power of light here to defeat the shadow ***": {
-    "translation": "唯有光明能驱散暗影"
+  "*** admin skip stage ring ***": {
+    "translation": "管理员调整关卡为光环"
   },
-  "<<< zombie is coming,retreat >>>": {
-    "translation": "僵尸来了,撤退"
-  },
-  "*** 10 seconds left ***": {
-    "translation": "还有10秒"
-  },
-  "<<< Zombies are faster than us. We lose >>>": {
-    "translation": "僵尸比我们更快!我们输了"
-  },
-  "<<< Something's wrong >>>": {
-    "translation": "不对劲..."
-  },
-  "<<< Core perceives us ,it will use the power of light to defeat us >>>": {
-    "translation": "核心察觉到了人类的气息,它将会利用光的力量来击败我们"
-  },
-  "<<< Press both squares at the same time >>>": {
-    "translation": "同时按下两处方块"
-  },
-  "<<< You escaped, but the core became shadow >>>": {
-    "translation": "你成功逃离了这里,但核心获得了黑暗之力"
-  },
-  "<<< The ring protects core and restarts the time >>>": {
-    "translation": "光环正在保护着核心来重置时间"
-  },
-  "<<< Now you're facing real shadow >>>": {
-    "translation": "这才是真正的暗影"
-  },
-  "<<< Light has been gone for a long time >>>": {
-    "translation": "光明....早已销声匿迹"
-  },
-  "<<< People only respect the light >>>": {
-    "translation": "人类崇尚着<光明>"
-  },
-  "<<< Shadow disguises light >>>": {
-    "translation": "暗影伪装为<光明>"
-  },
-  "<<< Camouflage weakens shadow >>>": {
-    "translation": "伪装使暗影变得虚弱"
-  },
-  "<<< Maybe one day, shadow will be really defeated >>>": {
-    "translation": "或许有一天,暗影会被彻底击败"
-  },
-  "<<< Shadow ruled the world a long time ago >>>": {
-    "translation": "暗影很早之前统治着这个世界"
-  },
-  "<<< it's too late! >>>": {
-    "translation": "太迟了!!"
-  },
-  "<<< It's too late for you to escape >>>": {
-    "translation": "太迟了走不了了!!"
-  },
-  "<<< A human get wing >>>": {
-    "translation": "人类获得了翅膀"
-  },
-  "<<< Ring has noticed us >>>": {
-    "translation": "<光环>察觉到了我们"
-  },
-  "*** admin set stage ring ***": {
-    "translation": ">> [管理员]设置关卡至 RING >>"
-  },
-  "*** admin set stage core ***": {
-    "translation": ">> [管理员]设置关卡至 CORE >>"
+  "*** admin skip stage core ***": {
+    "translation": "管理员跳转至核心关"
   },
   "*** admin set stage escape ***": {
-    "translation": ">> [管理员]设置关卡至 ESCAPE >>"
+    "translation": "管理员将关卡设置为逃亡"
+  },
+  "*** admin reset stage ***": {
+    "translation": "管理员重置了关卡"
+  },
+  "*** stage set to Ring ***": {
+    "translation": "当前关卡:光环"
+  },
+  "*** stage set to Core ***": {
+    "translation": "当前关卡:核心"
   },
   "*** stage set to Escape ***": {
-    "translation": "<< 关卡设定至 Escape <<"
+    "translation": "当前关卡:逃离"
   },
-  "<<< Protected by light, you are now immune to zombie attacks, but zombies will still prevent you from escaping >>>": {
-    "translation": "光的力量正在保护我们免受僵尸的袭击,但它们仍然会阻止我们逃离这里"
+  "*** stage set to Shadow ***": {
+    "translation": "当前关卡:暗影"
   },
-  "<<< Zombie's Freeze is stronger >>>": {
-    "translation": "<< 僵尸冰冻变得更强了 <<"
+  "*** 10 seconds left ***": {
+    "translation": "剩余10秒",
+    "countdown": 10
   },
-  "<<< Zombies have escaped. You've lost >>>": {
-    "translation": "僵尸逃跑了,你们失败了"
+  "*** 15 seconds left ***": {
+    "translation": "剩余15秒",
+    "countdown": 15
   },
-  "<<< 15 seconds left >>>": {
-    "translation": "还有15秒"
+  "*** 18 seconds left ***": {
+    "translation": "剩余18秒",
+    "countdown": 18
   },
-  "<<< 18 seconds left >>>": {
-    "translation": "还有18秒"
+  "*** 20 seconds left ***": {
+    "translation": "剩余20秒",
+    "countdown": 20
   },
-  "<<< Touch the light block to destroy the core >>>": {
-    "translation": "触碰白色方块来破坏核心"
+  "*** 30 seconds left ***": {
+    "translation": "剩余30秒",
+    "countdown": 30
   },
-  "<<< The core run away,But we found another way >>>": {
-    "translation": "核心消失了,但我们找到到了另一条路"
+  "*** 60 seconds left ***": {
+    "translation": "剩余60秒",
+    "countdown": 60
   },
-  "<<< 10 seconds left >>>": {
-    "translation": "还有10秒"
+  "*** Light is destroyed by zombies, and the world will be shrouded in shadow ***": {
+    "translation": "光明被僵尸摧毁..."
   },
-  "<<< Core has noticed us >>>": {
-    "translation": "核心注意到了我们"
+  "*** It's now. Defeat shadow !!!!! ***": {
+    "translation": "就是现在!击败暗影!!!!!"
   },
-  "<<< Zombies are faster than you. You lose >>>": {
-    "translation": "僵尸比你们更快,你们失败了"
+  "*** Don't let zombies get the power of light. Hold here ***": {
+    "translation": "不要让僵尸夺取光明之力,守住这里!"
   },
-  "<<< Beat it! False light ! >>>": {
+  "*** Time has been reset, but we have found another way to the temple of light. We need to go ahead of the core ***": {
+    "translation": "时间已被重置,必须在核心之前到达.."
+  },
+  "*** We need the power of light here to defeat the shadow ***": {
+    "translation": "我们要借助这里的光明来击败暗影"
+  },
+  "*** zombie is coming,retreat ***": {
+    "translation": "僵尸正在逼近,快撤退!"
+  },
+  "*** Zombies are faster than us. We lose ***": {
+    "translation": "僵尸比我们更快,我们失败了!"
+  },
+  "*** Something's wrong ***": {
+    "translation": "情况有些不对劲..."
+  },
+  "*** Core perceives us ,it will use the power of light to defeat us ***": {
+    "translation": "核心察觉到了我们"
+  },
+  "*** Now zombies are coming faster ***": {
+    "translation": "现在僵尸正在以更快的速度逼近!"
+  },
+  "*** Shadow ruled the world a long time ago ***": {
+    "translation": "很久以前,暗影统治着整个世界"
+  },
+  "*** Light has been gone for a long time ***": {
+    "translation": "光明早已消失了许久"
+  },
+  "*** People only respect the light ***": {
+    "translation": "人们只崇尚光明"
+  },
+  "*** Shadow disguises light ***": {
+    "translation": "暗影伪装成了光明"
+  },
+  "*** Camouflage weakens shadow ***": {
+    "translation": "伪装使暗影变得虚弱"
+  },
+  "*** Maybe one day, shadow will be really defeated ***": {
+    "translation": "或许终有一天,暗影会被彻底击败"
+  },
+  "*** Zombies have escaped. You've lost ***": {
+    "translation": "僵尸已经逃脱,你们失败了!"
+  },
+  "*** This is the temple of light, but it has been occupied by the core ***": {
+    "translation": "这里是光之神殿,但它已被核心占据"
+  },
+  "*** No one escapes success, the shadow covers the world ***": {
+    "translation": "无人成功逃脱,暗影笼罩了整个世界"
+  },
+  "*** Press both squares at the same time ***": {
+    "translation": "同时按下两个方块"
+  },
+  "*** Touch the light block to destroy the core ***": {
+    "translation": "找到前往核心的方法..."
+  },
+  "*** Protected by light, you are now immune to zombie attacks, but zombies will still prevent you from escaping ***": {
+    "translation": "在光明的庇护下,免疫僵尸的攻击"
+  },
+  "*** It's too late for you to escape ***": {
+    "translation": "已经太迟了,你们无法逃脱!"
+  },
+  "*** you did it !!! Core have been defeated by you,but you still have to resist zombie attacks until the end ***": {
+    "translation": "仍需抵御僵尸的进攻,坚守到最后!"
+  },
+  "*** Zombie freeze is stronger ***": {
+    "translation": "僵尸的冰冻能力增强了!"
+  },
+  "*** You escaped, but the core became shadow ***": {
+    "translation": "你们成功逃脱了,但核心已化为暗影"
+  },
+  "*** The ring protects core and restarts the time ***": {
+    "translation": "光环正在保护核心,启动时间循环"
+  },
+  "*** Now you're facing real shadow ***": {
+    "translation": "现在,你们面对的才是真正的暗影!"
+  },
+  "*** Zombies are faster than you. You lose ***": {
+    "translation": "僵尸比你们更快,你们失败了!"
+  },
+  "*** Beat it! False light ! ***": {
     "translation": "击败它!虚伪之光!"
   },
-  "<<< This is the temple of light, but it has been occupied by the core >>>": {
-    "translation": "这里是光之神殿,但现在它已被核心占据了"
+  "*** The core run away,But we found another way ***": {
+    "translation": "核心逃走了,但我们找到了另一条路"
   },
-  "<<< A human get Freeze >>>": {
-    "translation": "人类获得了寒冰"
+  "*** Core has noticed us ***": {
+    "translation": "核心已经察觉到了我们"
   },
-  "<<< A zombie get Freeze >>>": {
-    "translation": "僵尸拾取了冰冻"
+  "*** Ring has noticed us ***": {
+    "translation": "光环已经察觉到了我们"
   },
-  "<<< A zombie get Gravity >>>": {
-    "translation": "僵尸拾取了黑洞"
+  "*** Shadow is too strong ***": {
+    "translation": "暗影的力量太强大了"
   },
-  "lua load": {
-    "translation": ">>> Lua加载中 >>>"
+  "*** Light is here ! Ring is restoring power to Light !!! ***": {
+    "translation": "光环正在为光明恢复力量!!!"
+  },
+  "*** Light is protecting us. We must protect Light until the last moment !!! ***": {
+    "translation": "光明正在庇护我们!坚守到最后一刻!"
+  },
+  "*** Charging:0% ***": {
+    "translation": "充能进度:百分之0"
+  },
+  "*** Charging:10% ***": {
+    "translation": "充能进度:百分之10"
+  },
+  "*** Charging:20% ***": {
+    "translation": "充能进度:百分之20"
+  },
+  "*** Charging:30% ***": {
+    "translation": "充能进度:百分之30"
+  },
+  "*** Charging:40% ***": {
+    "translation": "充能进度:百分之40"
+  },
+  "*** Charging:50% ***": {
+    "translation": "充能进度:百分之50"
+  },
+  "*** Charging:60% ***": {
+    "translation": "充能进度:百分之60"
+  },
+  "*** Charging:70% ***": {
+    "translation": "充能进度:百分之70"
+  },
+  "*** Charging:80% ***": {
+    "translation": "充能进度:百分之80"
+  },
+  "*** Charging:90% ***": {
+    "translation": "充能进度:百分之90"
+  },
+  "*** Charging:100% ***": {
+    "translation": "充能进度:百分之100"
+  },
+  "*** We need to go back to the place where Ring was born. Maybe we can find a way to defeat shadow ***": {
+    "translation": "我们必须返回光环诞生之地"
+  },
+  "*** It's too late. Zombies come out ***": {
+    "translation": "已经太迟了,僵尸逃脱了!"
+  },
+  "*** A long time ago, Shadow drown out Light ***": {
+    "translation": "很久以前,暗影吞噬了光明"
+  },
+  "*** Shadow steal the power of Light ***": {
+    "translation": "暗影窃取了光明的力量"
+  },
+  "*** Ring is deceived by the power of Light ***": {
+    "translation": "光环受到了光明之力的蒙骗"
+  },
+  "*** Ring has served false Light for a long time ***": {
+    "translation": "光环已为虚假的光明效力了很长时间"
+  },
+  "*** One day, Ring and Shadow were awakened ***": {
+    "translation": "直到有一天,光环与暗影被唤醒了"
+  },
+  "*** These people found false Light and destroyed it on the way to escape ***": {
+    "translation": "这些人发现了虚假的光明,并将其摧毁"
+  },
+  "*** Ring resets the time, and people finally have the chance to defeat Shadow ***": {
+    "translation": "人们终于获得了击败暗影的机会"
+  },
+  "*** With the help of Light, people overcome Shadow, and the world reappears light ***": {
+    "translation": "人们战胜了暗影,世界终于重见光明"
+  },
+  "*** Zombies get the power of light. You lose ***": {
+    "translation": "僵尸获得了光明之力,你们失败了!"
   }
 }
