@@ -1,0 +1,241 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "- Steyliff Grove Yk -": {
+    "translation": "FF15:斯基利弗宫Yk"
+  },
+  "< Original - Final Fantasy XV >": {
+    "translation": "原作:最终幻想XV翻译:圣光猫猫"
+  },
+  "< Map+ Eugen & Joucho >": {
+    "translation": "原地图作者:Eugen&Joucho"
+  },
+  "< 后续制作：runa >": {
+    "translation": "后续地图制作:runa"
+  },
+  "> 幻影剑目前可能存在bug，如果有遇到穿墙之类的情况，请自觉返回地图。": {
+    "translation": "幻影剑有bug,不要离开地图"
+  },
+  "> 无法返回地图请自觉处死自己": {
+    "translation": "无法返回地图请自觉处死自己"
+  },
+  "> 某些地方存在能用幻影剑提前触发的情况，也不要提前触发": {
+    "translation": "不要用幻影剑提前触发"
+  },
+  "> no卖人": {
+    "translation": "别当卖人的dog"
+  },
+  "「未完成的,不安定魔法」": {
+    "translation": "未完成的,不安定魔法"
+  },
+  "* Despair Devoured *": {
+    "translation": "吞噬绝望"
+  },
+  "Zombie Item Lock": {
+    "translation": "僵尸神器已禁用"
+  },
+  "Zombie Item Unlock": {
+    "translation": "僵尸神器已解锁"
+  },
+  "> 获得了40冰元素 <": {
+    "translation": "获得了40冰元素"
+  },
+  "> 获得了40火元素 <": {
+    "translation": "获得了40火元素"
+  },
+  "> 获得了40雷元素 <": {
+    "translation": "获得了40雷元素"
+  },
+  "> A player has learned [ Hi-Potion ] magic, <": {
+    "translation": "一名玩家掌握了<高级恢复药>"
+  },
+  "> A player has learned [ Potion ] magic, <": {
+    "translation": "一名玩家掌握了<恢复药>"
+  },
+  "> A player has learned [ Summons ] magic, <": {
+    "translation": "一名玩家掌握了<召唤>"
+  },
+  "> A player has learned [ DarkSword ] magic, <": {
+    "translation": "一名玩家掌握了<暗剑>"
+  },
+  "> A player has learned [ HolySword ] magic, <": {
+    "translation": "一名玩家掌握了<圣剑>"
+  },
+  "> A player has learned [ Benefic ] magic, <": {
+    "translation": "一名玩家掌握了<增益>"
+  },
+  "> A zombie has learned [ Malefic ] magic, <": {
+    "translation": "一名僵尸掌握了<菲克>"
+  },
+  "* DarkSword in Malefic *": {
+    "translation": "暗剑被放逐"
+  },
+  "* HolySword in Malefic *": {
+    "translation": "圣剑被放逐"
+  },
+  "* Fire in Malefic *": {
+    "translation": "火焰被放逐"
+  },
+  "* Aero in Malefic *": {
+    "translation": "风暴被放逐"
+  },
+  "* Thunder in Malefic *": {
+    "translation": "雷电被放逐"
+  },
+  "* Water in Malefic *": {
+    "translation": "水瀑被放逐"
+  },
+  "* Blizzard in Malefic *": {
+    "translation": "暴雪被放逐"
+  },
+  "* Cure in Malefic *": {
+    "translation": "治疗被放逐"
+  },
+  "> A player has learned [ MegaElixir ] magic, <": {
+    "translation": "一名玩家掌握了<高级圣灵药>"
+  },
+  "> A player has learned [ Ether ] magic, <": {
+    "translation": "一名玩家掌握了<以太药>"
+  },
+  "> A player has learned [ Elixir ] magic, <": {
+    "translation": "一名玩家掌握了<圣灵药>"
+  },
+  "> A player has learned [ Mega-Elixir ] magic, <": {
+    "translation": "一名玩家掌握了<终极圣灵药>"
+  },
+  "> A player has learned [ Aero ] magic, <": {
+    "translation": "一名玩家掌握了<风暴>"
+  },
+  "> A zombie has learned [ Siphon ] magic, <": {
+    "translation": "一名僵尸掌握了<加速>"
+  },
+  "> A zombie has learned [ Umbral ] magic, <": {
+    "translation": "一名僵尸掌握了<暗影>"
+  },
+  "* Umbral Assault *": {
+    "translation": "深黯之影"
+  },
+  "> A zombie has learned [ Gravity ] magic, <": {
+    "translation": "一名僵尸掌握了<黑洞>"
+  },
+  "> A zombie has learned [ Impact ] magic, <": {
+    "translation": "一名僵尸掌握了<冲击>"
+  },
+  "> A zombie has learned [ Foul ] magic, <": {
+    "translation": "一名僵尸掌握了<污秽>"
+  },
+  "> A zombie has learned [ Despair ] magic, <": {
+    "translation": "一名僵尸掌握了<绝望>"
+  },
+  "> A zombie has learned [ Frazzle ] magic, <": {
+    "translation": "一名僵尸掌握了<诅咒>"
+  },
+  "* Frazzle Curse *": {
+    "translation": "弗雷泽诅咒"
+  },
+  "> A zombie has learned [ Ward ] magic, <": {
+    "translation": "一名僵尸掌握了<冲锋>"
+  },
+  "* Ward Unfold *": {
+    "translation": "壁垒展开"
+  },
+  "> A player has learned [ Cure ] magic, <": {
+    "translation": "一名玩家掌握了<奶>"
+  },
+  "> A player has learned [ Fire ] magic, <": {
+    "translation": "一名玩家掌握了<火焰>"
+  },
+  "** 火炎 **": {
+    "translation": "火炎"
+  },
+  "** 烈炎 **": {
+    "translation": "烈炎"
+  },
+  "** 爆炎 **": {
+    "translation": "爆炎"
+  },
+  "> A player has learned [ Thunder ] magic, <": {
+    "translation": "一名玩家掌握了<雷电>"
+  },
+  "** 闪雷 **": {
+    "translation": "闪雷"
+  },
+  "** 震雷 **": {
+    "translation": "震雷"
+  },
+  "** 暴雷 **": {
+    "translation": "暴雷"
+  },
+  "> A player has learned [ Water ] magic, <": {
+    "translation": "一名玩家掌握了<水瀑>"
+  },
+  "> A player has learned [ Blizzard ] magic, <": {
+    "translation": "一名玩家掌握了<暴雪>"
+  },
+  "** 结冰 **": {
+    "translation": "结冰"
+  },
+  "** 冻结 **": {
+    "translation": "冻结"
+  },
+  "** 冰封 **": {
+    "translation": "冰封"
+  },
+  "> 平台将在14秒后上升.": {
+    "translation": "平台将在14秒后上升"
+  },
+  "> 等待此门开启.19秒": {
+    "translation": "等待此门开启19秒"
+  },
+  "> 某处的门将在10秒后开启.": {
+    "translation": "某处的门将在10秒后开启"
+  },
+  "> 某处的门将在24秒后开启.": {
+    "translation": "某处的门将在24秒后开启"
+  },
+  "> 与巴哈姆特的战斗将在19秒后开始.": {
+    "translation": "与巴哈姆特的战斗将在19秒后开始"
+  },
+  "> 等待此门开启.29秒": {
+    "translation": "等待此门开启29秒"
+  },
+  "> 等待此门开启.14秒": {
+    "translation": "等待此门开启14秒"
+  },
+  "> 传送门将在19秒后开启": {
+    "translation": "传送门将在19秒后开启"
+  },
+  "> 幻影剑禁用": {
+    "translation": "幻影剑禁用"
+  },
+  "> 光幕于19秒后消散": {
+    "translation": "光幕于19秒后消散"
+  },
+  "> 等待此门开启.9秒": {
+    "translation": "等待此门开启9秒"
+  },
+  "** 杀死剩余的僵尸 **": {
+    "translation": "杀死剩余的僵尸"
+  },
+  "> 等待此门开启.24秒": {
+    "translation": "等待此门开启24秒"
+  },
+  "< 11 seconds? >": {
+    "translation": "还有11秒?"
+  },
+  "> 等待屏障消失.19秒": {
+    "translation": "等待屏障消失19秒"
+  },
+  "> 等待此门开启.": {
+    "translation": "等待此门开启"
+  }
+}
