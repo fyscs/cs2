@@ -402,23 +402,17 @@
   "on": {
     "translation": "打开"
   },
-  "2": {
-    "translation": "2"
-  },
   "w": {
-    "translation": "前"
+    "translation": "w"
   },
   "a": {
-    "translation": "左"
+    "translation": "a"
   },
   "s": {
-    "translation": "后"
+    "translation": "s"
   },
   "d": {
-    "translation": "右"
-  },
-  "333": {
-    "translation": "333"
+    "translation": "d"
   },
   "< Dante has been take down... >": {
     "translation": "但丁已被击倒..."
