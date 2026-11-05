@@ -83,7 +83,7 @@
     "countdown": 60
   },
   "*** Light is destroyed by zombies, and the world will be shrouded in shadow ***": {
-    "translation": "光明被僵尸摧毁,整个世界将笼罩在暗影之中"
+    "translation": "光明被僵尸摧毁..."
   },
   "*** It's now. Defeat shadow !!!!! ***": {
     "translation": "就是现在!击败暗影!!!!!"
@@ -92,10 +92,10 @@
     "translation": "不要让僵尸夺取光明之力,守住这里!"
   },
   "*** Time has been reset, but we have found another way to the temple of light. We need to go ahead of the core ***": {
-    "translation": "时间已被重置,但我们找到了通往光之神殿的另一条路,必须抢在核心前面!"
+    "translation": "时间已被重置,必须在核心之前到达.."
   },
   "*** We need the power of light here to defeat the shadow ***": {
-    "translation": "我们需要借助这里的光明之力来击败暗影"
+    "translation": "我们要借助这里的光明来击败暗影"
   },
   "*** zombie is coming,retreat ***": {
     "translation": "僵尸正在逼近,快撤退!"
@@ -107,7 +107,7 @@
     "translation": "情况有些不对劲..."
   },
   "*** Core perceives us ,it will use the power of light to defeat us ***": {
-    "translation": "核心察觉到了我们,它将利用光明之力来击败我们!"
+    "translation": "核心察觉到了我们"
   },
   "*** Now zombies are coming faster ***": {
     "translation": "现在僵尸正在以更快的速度逼近!"
@@ -146,22 +146,22 @@
     "translation": "找到前往核心的方法..."
   },
   "*** Protected by light, you are now immune to zombie attacks, but zombies will still prevent you from escaping ***": {
-    "translation": "在光明的庇护下,你们现在免疫僵尸的攻击,但僵尸仍会阻止你们逃脱!"
+    "translation": "在光明的庇护下,免疫僵尸的攻击"
   },
   "*** It's too late for you to escape ***": {
     "translation": "已经太迟了,你们无法逃脱!"
   },
   "*** you did it !!! Core have been defeated by you,but you still have to resist zombie attacks until the end ***": {
-    "translation": "你们成功了!!!核心已被击败,但仍需抵御僵尸的进攻,坚守到最后!"
+    "translation": "仍需抵御僵尸的进攻,坚守到最后!"
   },
   "*** Zombie freeze is stronger ***": {
     "translation": "僵尸的冰冻能力增强了!"
   },
   "*** You escaped, but the core became shadow ***": {
-    "translation": "你们成功逃脱了,但核心已经化为了暗影"
+    "translation": "你们成功逃脱了,但核心已化为暗影"
   },
   "*** The ring protects core and restarts the time ***": {
-    "translation": "光环正在保护核心,并重新启动时间循环"
+    "translation": "光环正在保护核心,启动时间循环"
   },
   "*** Now you're facing real shadow ***": {
     "translation": "现在,你们面对的才是真正的暗影!"
@@ -185,10 +185,10 @@
     "translation": "暗影的力量太强大了"
   },
   "*** Light is here ! Ring is restoring power to Light !!! ***": {
-    "translation": "光明降临了!光环正在为光明恢复力量!!!"
+    "translation": "光环正在为光明恢复力量!!!"
   },
   "*** Light is protecting us. We must protect Light until the last moment !!! ***": {
-    "translation": "光明正在庇护我们!我们必须保护光明,坚守到最后一刻!!!"
+    "translation": "光明正在庇护我们!坚守到最后一刻!"
   },
   "*** Charging:0% ***": {
     "translation": "充能进度:百分之0"
@@ -224,7 +224,7 @@
     "translation": "充能进度:百分之100"
   },
   "*** We need to go back to the place where Ring was born. Maybe we can find a way to defeat shadow ***": {
-    "translation": "我们必须返回光环诞生的地方,或许能在那里找到击败暗影的方法"
+    "translation": "我们必须返回光环诞生之地"
   },
   "*** It's too late. Zombies come out ***": {
     "translation": "已经太迟了,僵尸逃脱了!"
@@ -239,19 +239,19 @@
     "translation": "光环受到了光明之力的蒙骗"
   },
   "*** Ring has served false Light for a long time ***": {
-    "translation": "光环已经为虚假的光明效力了很长时间"
+    "translation": "光环已为虚假的光明效力了很长时间"
   },
   "*** One day, Ring and Shadow were awakened ***": {
     "translation": "直到有一天,光环与暗影被唤醒了"
   },
   "*** These people found false Light and destroyed it on the way to escape ***": {
-    "translation": "这些人在逃亡途中发现了虚假的光明,并将其摧毁"
+    "translation": "这些人发现了虚假的光明,并将其摧毁"
   },
   "*** Ring resets the time, and people finally have the chance to defeat Shadow ***": {
-    "translation": "光环重置了时间,人们终于获得了击败暗影的机会"
+    "translation": "人们终于获得了击败暗影的机会"
   },
   "*** With the help of Light, people overcome Shadow, and the world reappears light ***": {
-    "translation": "在光明的帮助下,人们战胜了暗影,世界终于重见光明"
+    "translation": "人们战胜了暗影,世界终于重见光明"
   },
   "*** Zombies get the power of light. You lose ***": {
     "translation": "僵尸获得了光明之力,你们失败了!"
