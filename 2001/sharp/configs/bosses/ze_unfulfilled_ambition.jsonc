@@ -1,0 +1,74 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only)
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Breakables": [
+    {
+      "target": "bosshp1_break",
+      "display": "Boss(1/6)"
+    },
+    {
+      "target": "bosshp2_break",
+      "display": "Boss(2/6)"
+    },
+    {
+      "target": "bosshp3_break",
+      "display": "Boss(3/6)"
+    },
+    {
+      "target": "bosshp4_break",
+      "display": "Boss(4/6)"
+    },
+    {
+      "target": "bosshp5_break",
+      "display": "Boss(5/6)"
+    },
+    {
+      "target": "bosshp6_break",
+      "display": "Boss(6/6)"
+    },
+    {
+      "target": "boss2hp1_break",
+      "display": "Boss2(1/6)"
+    },
+    {
+      "target": "boss2hp2_break",
+      "display": "Boss2(2/6)"
+    },
+    {
+      "target": "boss2hp3_break",
+      "display": "Boss2(3/6)"
+    },
+    {
+      "target": "boss2hp4_break",
+      "display": "Boss2(4/6)"
+    },
+    {
+      "target": "boss2hp5_break",
+      "display": "Boss2(5/6)"
+    },
+    {
+      "target": "boss2hp6_break",
+      "display": "Boss2(6/6)"
+    }
+  ]
+}
