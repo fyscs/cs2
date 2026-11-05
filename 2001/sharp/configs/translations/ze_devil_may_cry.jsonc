@@ -260,8 +260,7 @@
     "translation": "如果你不想要跳刀就躲在但丁身后."
   },
   "< Get to the theater in 120 sec! >": {
-    "translation": "在120秒内到达剧院!",
-    "countdown": 120
+    "translation": "在120秒内到达剧院!"
   },
   "< You feels something is coming for you.. >": {
     "translation": "你感觉有什么事情要发生了.."
@@ -607,7 +606,7 @@
   "> All Perks has been clear. <": {
     "translation": "所有增益已清除."
   },
-  ">V: \"While thy branches mix with mine,and our roots together join.\"": {
+  ">V: While thy branches mix with mine,and our roots together join.": {
     "translation": "神秘人:你的枝条与我的交缠,我们的根也连在了一起.",
     "blocked": true
   },
@@ -652,15 +651,13 @@
     "countdown": 25
   },
   "> Survive for 180 seconds. <": {
-    "translation": "坚持180秒!",
-    "countdown": 180
+    "translation": "坚持180秒!"
   },
   "> There will be laser part for human again B). <": {
     "translation": "人类接下来还要躲激光!"
   },
   "> Survive for 120 seconds. <": {
-    "translation": "再坚持120秒!",
-    "countdown": 120
+    "translation": "再坚持120秒!"
   },
   "> Survive for 60 seconds. <": {
     "translation": "再坚持60秒!",
