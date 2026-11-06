@@ -33,28 +33,28 @@
       "iterator": "Stage1_BossGetHP",
       "counter": "Stage1_Boss_DieHP",
       "mass": 62,
-      "hitbox": "Stage1_BossModel",
+      "hitbox": "Stage1_BossPhysbox",
       "display": "Exodus"
     },
     {
       "iterator": "Stage3_BossGetHP",
       "counter": "Stage3_Boss_DieHP",
       "mass": 68,
-      "hitbox": "Stage3_BerganModel",
+      "hitbox": "Stage3_BerganFunc",
       "display": "贝甘(阶段1)"
     },
     {
       "iterator": "Stage4_BossGetHP",
       "counter": "Stage4_Boss_DieHP",
       "mass": 45,
-      "hitbox": "Stage4_Bergan_Model",
+      "hitbox": "Ifrit_Phys_Body",
       "display": "贝甘(阶段2)"
     },
     {
       "iterator": "Stage-1_BossGetHP",
       "counter": "Stage-1_Boss_DieHP",
       "mass": 90,
-      "hitbox": "Zodiark_Phys",
+      "hitbox": "Stage-1_Boss_Physbox",
       "display": "巴哈姆特"
     },
     {
