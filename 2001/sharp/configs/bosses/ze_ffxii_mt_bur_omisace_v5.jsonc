@@ -25,40 +25,47 @@
     {
       "counter": "Stage0_Boss_DieHP",
       "iterator": "Stage0_BossGetHP",
-      "backup": "Stage0_BossBackHP",
+      "mass": 24,
+      "hitbox": "Solid_Paper_Hitbox",
       "display": "炸弹精灵"
     },
     {
       "iterator": "Stage1_BossGetHP",
       "counter": "Stage1_Boss_DieHP",
-      "backup": "Stage1_BossBackHP",
+      "mass": 62,
+      "hitbox": "Stage1_BossPhysbox",
       "display": "Exodus"
     },
     {
       "iterator": "Stage3_BossGetHP",
       "counter": "Stage3_Boss_DieHP",
-      "backup": "Stage3_BossBackHP",
+      "mass": 68,
+      "hitbox": "Stage3_BerganFunc",
       "display": "贝甘(阶段1)"
     },
     {
       "iterator": "Stage4_BossGetHP",
       "counter": "Stage4_Boss_DieHP",
-      "backup": "Stage4_BossBackHP",
+      "mass": 45,
+      "hitbox": "Ifrit_Phys_Body",
       "display": "贝甘(阶段2)"
     },
     {
       "iterator": "Stage-1_BossGetHP",
       "counter": "Stage-1_Boss_DieHP",
-      "backup": "Stage-1_BossBackHP",
+      "mass": 90,
+      "hitbox": "Stage-1_Boss_Physbox",
       "display": "巴哈姆特"
     },
     {
       "iterator": "Stage-1_Laser_HP_Counter",
+      "mass": 60,
       "hitbox": "Stage-1_BossPhysbox",
       "display": "Exodus"
     },
     {
       "iterator": "Stage4_Laser_HP_Counter",
+      "mass": 80,
       "display": "贝甘"
     },
     {
