@@ -54,14 +54,6 @@
       "iterator": "Act4_Laser_Counter",
       "hitbox": "Act4_Laser_Hitbox",
       "display": "真魔人维吉尔"
-    },
-    // 维吉尔第二阶段重置同一计数器, 所以stages写2.
-    {
-      "iterator": "BossHpBar_Counter_Vergil_No",
-      "increase": true,
-      "hitbox": "Boss_Vergil_Hitbox",
-      "stages": 2,
-      "display": "维吉尔"
     }
   ]
 }
