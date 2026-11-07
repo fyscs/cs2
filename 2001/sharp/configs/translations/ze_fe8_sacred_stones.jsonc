@@ -32,7 +32,8 @@
     "translation": "传送:30秒"
   },
   "<<<Formortiis: Come, and face your death! Im waiting, you miserable fool. Your corpse will make a perfect offering in my resurrection...>>>": {
-    "translation": "佛德斯:来吧,面对死亡!我在等你,你这个可怜的小丑.你的尸体将成为我复活的完美祭品..."
+    "translation": "佛德斯:来吧,面对死亡!我在等你,你这个可怜的小丑.你的尸体将成为我复活的完美祭品...",
+    "blocked": true
   },
   "<<<Sacred Stone have detected powerful evil being...>>>": {
     "translation": "神圣之石发现了强大邪恶气息的存在"
@@ -311,7 +312,8 @@
     "translation": "这是我的第一张地图,祝你游戏愉快"
   },
   ">>>For some reason my profile is dead, you can find me on GUC / GFL discord<<<": {
-    "translation": "由于某些原因我的个人资料已失效,你可以在 GUC / GFL 上找到我"
+    "translation": "由于某些原因我的个人资料已失效,你可以在 GUC / GFL 上找到我",
+    "blocked": true
   },
   ">>>This is the final version of the map, there won't be any more patches/changes unless needed...<<<": {
     "translation": "这是地图的最终版,如无致命的问题,将不会再进行更新"
@@ -335,7 +337,8 @@
     "translation": "到达格拉多的最佳方式是海上航行"
   },
   "<<<The Grado Empire, a long-standing ally of Renais, launched a surprise attack on Renais, ordered by Emperor Vigarde>>>": {
-    "translation": "蕾娜斯帝国的长期盟友格拉多帝国的维加德皇帝却下令对蕾娜斯人发动突袭"
+    "translation": "蕾娜斯帝国的长期盟友格拉多帝国的维加德皇帝却下令对蕾娜斯人发动突袭",
+    "blocked": true
   },
   "<<<You must escape from Renais and find out Grado's motives>>>": {
     "translation": "你必须从蕾娜斯逃脱,找出格拉多的动机"
@@ -347,7 +350,8 @@
     "translation": "剩下唯一一块圣石是劳斯滕地牢中的一块石头"
   },
   "<<<This should be a piece of cake since we have defeated Grado's army at Rausten Court...>>>": {
-    "translation": "这应该是小菜一碟,因为我们已经在劳斯滕战场击败了格拉多帝国的军队..."
+    "translation": "这应该是小菜一碟,因为我们已经在劳斯滕战场击败了格拉多帝国的军队...",
+    "blocked": true
   },
   "<<<Path opens in 10 seconds>>>": {
     "translation": "路径将在10秒后开启"
@@ -371,21 +375,26 @@
     "translation": "晶体能量正在逐渐消失..."
   },
   "[RexBarrier]: Summons a barrier upon using it. There are requirements that need to be fullfilled first. CD: 60 seconds": {
-    "translation": "[屏障]:使用后召唤一道屏障,需要先满足特定条件.冷却:60秒"
+    "translation": "[屏障]:使用后召唤一道屏障,需要先满足特定条件.冷却:60秒",
+    "blocked": true
   },
   "[Heal_pot]: Your everyday healing potion CD: 50 seconds": {
-    "translation": "[治疗药水]:日常使用的治疗药水,冷却:50秒"
+    "translation": "[治疗药水]:日常使用的治疗药水,冷却:50秒",
+    "blocked": true
   },
   "[Shield]: The more you use this item, the less powerful it gets, use it wisely. CD: 35 seconds": {
     "translation": "[护盾]:这件物品使用次数越多效果越弱,请谨慎使用.冷却:35秒"
   },
   "[ZM_Nightmare]: Nightmares are lurkers of the dark. Upon right clicking, humans within a certain raidus will not be able to look straight, CD: 75 seconds": {
-    "translation": "[梦魇]:梦魇潜伏于黑暗之中.右键使用后,一定范围内的人类将无法看清前方,冷却:75秒"
+    "translation": "[梦魇]:梦魇潜伏于黑暗之中.右键使用后,一定范围内的人类将无法看清前方,冷却:75秒",
+    "blocked": true
   },
   "[ZM_Skeleton]: Skeleton have passive skill: ZM speed buff, CD: 60 seconds": {
-    "translation": "[骷髅]:骷髅拥有被动技能:僵尸加速,冷却:60秒"
+    "translation": "[骷髅]:骷髅拥有被动技能:僵尸加速,冷却:60秒",
+    "blocked": true
   },
   "[ZM_Fire_Demon]: Right click to create a passive fire ring, CD: 60 seconds": {
-    "translation": "[炎魔]:右键生成一个持续的火环,冷却:60秒"
+    "translation": "[炎魔]:右键生成一个持续的火环,冷却:60秒",
+    "blocked": true
   }
 }
