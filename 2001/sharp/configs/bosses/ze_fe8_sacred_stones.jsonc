@@ -27,5 +27,17 @@
       "identity": "4626",
       "display": "小怪"
     }
+  ],
+  "Counters": [
+    {
+      "iterator": "level3_boss_hp_1",
+      "hitbox": "level3_boss_hitbox",
+      "display": "Queen"
+    },
+    {
+      "iterator": "formortiis_hp",
+      "hitbox": "formortiis_hitbox_head",
+      "display": "Formortiis"
+    }
   ]
 }
