@@ -247,7 +247,7 @@
     "translation": "笼子现在已经解锁"
   },
   "<<<WE got the key! Key user need to go through the tunnel to reach the other side...>>>": {
-    "translation": "拿到钥匙了,通过隧道到达另一端去使用这把钥匙"
+    "translation": "拿到钥匙了,去隧道另一端使用钥匙"
   },
   "<<<Door opens in 20 seconds>>>": {
     "translation": "大门将在20秒后开启"
@@ -302,7 +302,7 @@
     "translation": "地图制作:iXi 文本:Zeyu1"
   },
   ">>>Music from: Fire Emblem 8, Vindictus, Overlord<<<": {
-    "translation": "音乐来源于:火焰纹章8,洛奇英雄传,霸王"
+    "translation": "音乐:火焰纹章8,洛奇英雄传,霸王"
   },
   ">>>Your journey begins in 45 seconds<<<": {
     "translation": "旅途将在45秒后开始"
@@ -390,7 +390,8 @@
     "blocked": true
   },
   "[Shield]: The more you use this item, the less powerful it gets, use it wisely. CD: 35 seconds": {
-    "translation": "[护盾]:这件物品使用次数越多效果越弱,请谨慎使用.冷却:35秒"
+    "translation": "[护盾]:这件物品使用次数越多效果越弱,请谨慎使用.冷却:35秒",
+    "blocked": true
   },
   "[ZM_Nightmare]: Nightmares are lurkers of the dark. Upon right clicking, humans within a certain raidus will not be able to look straight, CD: 75 seconds": {
     "translation": "[梦魇]:梦魇潜伏于黑暗之中.右键使用后,一定范围内的人类将无法看清前方,冷却:75秒",
