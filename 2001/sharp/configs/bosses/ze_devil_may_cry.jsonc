@@ -59,6 +59,7 @@
     {
       "iterator": "Vergil_hpcounter",
       "hitbox": "Boss_Vergil_Hitbox",
+      "backup": "BossHp_Counter_2",
       "counter": "BossHpBar_Counter_Vergil",
       "reverse": true,
       "stages": 2,
