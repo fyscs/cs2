@@ -54,6 +54,15 @@
       "iterator": "Act4_Laser_Counter",
       "hitbox": "Act4_Laser_Hitbox",
       "display": "真魔人维吉尔"
+    },
+    //维吉尔
+    {
+      "iterator": "Vergil_hpcounter",
+      "hitbox": "Boss_Vergil_Hitbox",
+      "counter": "BossHpBar_Counter_Vergil",
+      "reverse": true,
+      "stages": 2,
+      "display": "维吉尔"
     }
   ]
 }
