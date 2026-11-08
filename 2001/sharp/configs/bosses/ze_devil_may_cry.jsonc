@@ -54,6 +54,16 @@
       "iterator": "Act4_Laser_Counter",
       "hitbox": "Act4_Laser_Hitbox",
       "display": "真魔人维吉尔"
+    },
+    //维吉尔 由于分2阶段故stage写2
+    {
+      "iterator": "Vergil_hpcounter",
+      "hitbox": "Boss_Vergil_Hitbox",
+      "backup": "BossHp_Counter_2",
+      "counter": "BossHpBar_Counter_Vergil",
+      "reverse": true,
+      "stages": 2,
+      "display": "维吉尔"
     }
   ]
 }
