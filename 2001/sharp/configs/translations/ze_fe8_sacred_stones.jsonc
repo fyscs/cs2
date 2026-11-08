@@ -14,13 +14,13 @@
     "translation": "路径将在25秒后开启"
   },
   "<<<Zombies are getting closer to the root of all evil! Zombies now have 1.12 speed buff!>>>": {
-    "translation": "僵尸获得了邪恶根源的气息,现在它们的速度提升了1.12倍!"
+    "translation": "僵尸的速度提升了1.12倍!"
   },
   "<<<The path is split into two...maybe we should split up equally?>>>": {
     "translation": "有两条路径,也许我们该分开行动"
   },
   ">>>You have defeated Formortiis and successfully sealed away his remaining souls<<<": {
-    "translation": "成功击杀了佛德斯,它散落的灵魂也将受到封印"
+    "translation": "成功击杀了佛德斯"
   },
   ">>>You have achieved the impossible...<<<": {
     "translation": "你们实现了不可能的目标"
@@ -105,7 +105,7 @@
     "translation": "这里似乎没有幸存者了...."
   },
   "<<<However, a strong seal blocks the path ahead...please wait....>>>": {
-    "translation": "坚固的封印阻挡了前进的道路,让我们再等一下...."
+    "translation": "让我们再等一下...."
   },
   "<<<Main gate opens in 25 seconds>>>": {
     "translation": "主门将在25秒后开启"
@@ -123,7 +123,8 @@
     "translation": "石头...."
   },
   "<<<Go and defeat Grado's general and find the secret within!>>>": {
-    "translation": "打败格拉多的将军并寻找隐藏在其中的秘密"
+    "translation": "打败格拉多的将军并寻找隐藏在其中的秘密",
+    "blocked": true
   },
   "<<<The stone is protecting us for 10 seconds!>>>": {
     "translation": "圣石会保护我们10秒!"
@@ -207,7 +208,7 @@
     "translation": "提示:破坏中间的雕像"
   },
   "<<<The door here seems to be locked? Nades don't seem to work anymore...We need a key>>>": {
-    "translation": "这扇门似乎已经被锁死了,我们需要一把钥匙"
+    "translation": "我们需要一把钥匙"
   },
   "<<<The dungeon is straight ahead...>>>": {
     "translation": "地牢在正前方"
@@ -237,7 +238,7 @@
     "translation": "提示:破坏水晶之前先拉动杠杆"
   },
   "<<<Hint: there are a total of three crystals, upon destroying all, you shall receive the key to advance>>>": {
-    "translation": "提示:摧毁三个水晶后,你将获得一把钥匙让你继续你的旅程"
+    "translation": "提示:摧毁三个水晶后继续你的旅程"
   },
   ">>>A Player has picked up Roy<<<": {
     "translation": "一名玩家捡起了罗伊"
@@ -255,13 +256,14 @@
     "translation": "挂机传送:20秒"
   },
   "<<<Let's hurry before Grado lays their hand on the last stone!>>>": {
-    "translation": "我们要赶在格拉多把手伸向最后一块石头之前"
+    "translation": "我们要赶在格拉多把手伸向最后一块石头之前",
+    "blocked": true
   },
   "<<<Hint: Break the initial statue>>>": {
     "translation": "提示:破坏雕像"
   },
   "<<<That cave opening should lead to the Rausten Depth...Hurry!>>>": {
-    "translation": "这条应该是通往劳斯滕地牢的道路,快!"
+    "translation": "这条应该是通往劳斯滕地牢的道路"
   },
   "<<<Break the chains to start unsealing processs...>>>": {
     "translation": "破坏铁链以解除封印"
@@ -316,13 +318,15 @@
     "blocked": true
   },
   ">>>This is the final version of the map, there won't be any more patches/changes unless needed...<<<": {
-    "translation": "这是地图的最终版,如无致命的问题,将不会再进行更新"
+    "translation": "这是地图的最终版,如无致命的问题,将不会再进行更新",
+    "blocked": true
   },
   ">>>Special thanks to Luffaren for the animation idea<<<": {
     "translation": "特别感谢 Luffaren 提供的创作灵感"
   },
   ">>>Custom assets 90% done by me<<<": {
-    "translation": "自定义素材有90%由我制作"
+    "translation": "自定义素材有90%由我制作",
+    "blocked": true
   },
   "<<<Duessel mentions a Dark Stone to Ephraim>>>": {
     "translation": "杜塞尔向法莲提到了一块黑石头"
@@ -341,13 +345,16 @@
     "blocked": true
   },
   "<<<You must escape from Renais and find out Grado's motives>>>": {
-    "translation": "你必须从蕾娜斯逃脱,找出格拉多的动机"
+    "translation": "你必须从蕾娜斯逃脱,找出格拉多的动机",
+    "blocked": true
   },
   "<<<After series of battles and victories, most of the sacred stones are destroyed >>>": {
-    "translation": "经过一系列的战斗和胜利,大部分的圣石被摧毁了"
+    "translation": "经过一系列的战斗和胜利,大部分的圣石被摧毁了",
+    "blocked": true
   },
   "<<<The only sacred stone left is the one at Rausten Dungeon>>>": {
-    "translation": "剩下唯一一块圣石是劳斯滕地牢中的一块石头"
+    "translation": "剩下唯一一块圣石是劳斯滕地牢中的一块石头",
+    "blocked": true
   },
   "<<<This should be a piece of cake since we have defeated Grado's army at Rausten Court...>>>": {
     "translation": "这应该是小菜一碟,因为我们已经在劳斯滕战场击败了格拉多帝国的军队...",
