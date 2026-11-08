@@ -55,7 +55,7 @@
       "hitbox": "Act4_Laser_Hitbox",
       "display": "真魔人维吉尔"
     },
-    //维吉尔
+    //维吉尔 由于分2阶段故stage写2
     {
       "iterator": "Vergil_hpcounter",
       "hitbox": "Boss_Vergil_Hitbox",
