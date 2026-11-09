@@ -3512,7 +3512,7 @@
   "ze_mission_escape_cs2": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 40,
+    "cooldown": 60,
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
