@@ -18,150 +18,117 @@
     "translation": "回到车上去"
   },
   ">Goliath: I must not be defeated...in a place like this..": {
-    "translation": "歌莉娅:我绝不能在这样的地方被击败...",
-    "blocked": true
+    "translation": "歌莉娅:我不能在这被击败..."
   },
   ">Goliath: Insolent human!You're the one who's going to die!": {
-    "translation": "歌莉娅:无礼的人类!你才是那个会死的人!",
-    "blocked": true
+    "translation": "歌莉娅:无礼!你才会死!"
   },
   ">Goliath: You'll be sorry for this!": {
-    "translation": "歌莉娅:你会为此后悔的!",
-    "blocked": true
+    "translation": "歌莉娅:你会为此后悔的!"
   },
   ">Nero: Yeah,Maybe i will.Sorry I'm about to kill ya!": {
-    "translation": "尼禄:是啊,也许我会的.抱歉,我马上就要杀了你!",
-    "blocked": true
+    "translation": "尼禄:也许吧,抱歉,我要杀了你"
   },
   ">Goliath: Stop buzzing around!": {
-    "translation": "歌莉娅:别再到处嗡嗡叫了!",
-    "blocked": true
+    "translation": "歌莉娅:别再到处嗡嗡叫了!"
   },
   ">Goliath: Human..I wasn't expecting any survivors!": {
-    "translation": "歌莉娅:人类...我没想到会有幸存者!",
-    "blocked": true
+    "translation": "歌莉娅:没想到还有幸存者!"
   },
   "< Map by @Seth (英俊) >": {
-    "translation": "地图作者:Seth(英俊)  翻译:初心心."
+    "translation": "作者:Seth(英俊) 初心心译"
   },
   "< Map require keep cs2f_use_old_push enable! >": {
-    "translation": "本地图需要启用旧版推力机制!",
-    "blocked": true
+    "translation": "本地图需要启用旧版推力机制!"
   },
   "> 15 <": {
     "translation": "15",
     "countdown": 15
   },
   "MAP NOW WIP,THIS VERSION ONLY FOR TRY OUT": {
-    "translation": "地图目前未完成,该版本仅供预览游玩"
+    "translation": "地图未完成,仅供预览"
   },
   "> Zombie Item's ability unlock in 20 sec. <": {
     "translation": "僵尸神器技能将在20秒后解锁.",
     "countdown": 20
   },
   ">Dante: Round two!": {
-    "translation": "但丁:第二轮!",
-    "blocked": true
+    "translation": "但丁:第二轮!"
   },
   ">Dante: V,Get Nero out of here!This was a bad move!": {
-    "translation": "但丁:神秘人,带尼禄离开这里!我们失算了!",
-    "blocked": true
+    "translation": "但丁:神秘人,带尼禄走!失算了!"
   },
   ">Nero: I can still fight!": {
-    "translation": "尼禄:我还能战斗!",
-    "blocked": true
+    "translation": "尼禄:我还能战斗!"
   },
   ">Dante: Nero,go!You're just dead weight.": {
-    "translation": "但丁:尼禄,走!你只是个累赘.",
-    "blocked": true
+    "translation": "但丁:尼禄,走!你只是个累赘."
   },
   ">Nero: Back off!": {
-    "translation": "尼禄:退后!",
-    "blocked": true
+    "translation": "尼禄:退后!"
   },
   ">Nero: That bastard called me dead weight!": {
-    "translation": "尼禄:那个混蛋说我是累赘!",
-    "blocked": true
+    "translation": "尼禄:那个混蛋说我是累赘!"
   },
   ">Nero: I didn't come all this way for nothing!": {
-    "translation": "尼禄:我可没白跑这么远!",
-    "blocked": true
+    "translation": "尼禄:我可没白跑这么远!"
   },
   ">V: Stop hitting yourself.": {
-    "translation": "神秘人:别再打自己了.",
-    "blocked": true
+    "translation": "神秘人:别再打自己了."
   },
   ">V: And think of ways to get stronger and actually help.": {
-    "translation": "神秘人:想办法让自己变得更强大,真正提供帮助",
-    "blocked": true
+    "translation": "神秘人:变强,才能真正帮上忙"
   },
   ">V: If dante loses...you are all that can defeat Urizen.": {
-    "translation": "神秘人:如果但丁输了...你是唯一能打败尤里曾的人.",
-    "blocked": true
+    "translation": "神秘人:但丁若败,唯你能胜尤里曾"
   },
   ">Nero: Is that what you called him?": {
-    "translation": "尼禄:你是这么叫他的吗?",
-    "blocked": true
+    "translation": "尼禄:你是这么叫他的吗?"
   },
   ">V: Yes,Urizen,The demon king...": {
-    "translation": "神秘人:是的,尤里曾,恶魔之王...",
-    "blocked": true
+    "translation": "神秘人:没错,尤里曾,魔王..."
   },
   ">V: That's the name of the demon that took your arm.": {
-    "translation": "神秘人:那是夺去你手臂的恶魔的名字.",
-    "blocked": true
+    "translation": "神秘人:那就是夺你手臂的恶魔"
   },
   ">Nero: What am i doin',wasting my time here?He's got this.": {
-    "translation": "尼禄:我在做什么,在这里浪费时间?他有这个.",
-    "blocked": true
+    "translation": "尼禄:我在这儿浪费时间?他行的"
   },
   ">V: You should not underestimate this demon.": {
-    "translation": "神秘人:你不应该低估这个恶魔.",
-    "blocked": true
+    "translation": "神秘人:你不应该低估这个恶魔."
   },
   ">V: After all,It was he who took your right arm...": {
-    "translation": "神秘人:毕竟,是他夺走了你的右臂...",
-    "blocked": true
+    "translation": "神秘人:毕竟,是他夺走你的右臂"
   },
   "V: ...and gained a great deal of power from it.": {
-    "translation": "神秘人:...并从中获得了强大的力量.",
-    "blocked": true
+    "translation": "神秘人:...并因此获得强大力量"
   },
   ">V: I'm leaving.": {
-    "translation": "神秘人:我要走了.",
-    "blocked": true
+    "translation": "神秘人:我要走了."
   },
   ">V: I'm suggest you do not fall behind.": {
-    "translation": "神秘人:我建议你不要落后.",
-    "blocked": true
+    "translation": "神秘人:我建议你不要落后."
   },
   ">Nero: Yeah...": {
-    "translation": "尼禄:是啊...",
-    "blocked": true
+    "translation": "尼禄:是啊..."
   },
   ">Nero: Ok V...You're an interesting guy,But you're right.": {
-    "translation": "尼禄:好吧,神秘人...你这家伙挺有意思,不过你说得对.",
-    "blocked": true
+    "translation": "尼禄:好吧,神秘人,你说得对"
   },
   ">Nero: I've got a score to settle with that son of a bitch.": {
-    "translation": "尼禄:我得去解决那个混蛋.",
-    "blocked": true
+    "translation": "尼禄:我得去解决那个混蛋."
   },
   ">Nero: Hey,jackass!": {
-    "translation": "尼禄:嘿,混蛋!",
-    "blocked": true
+    "translation": "尼禄:嘿,混蛋!"
   },
   ">Nero: Didn't your mother ever teach you it's not nice to steal?": {
-    "translation": "尼禄:你妈妈没教过你偷东西是不好的吗?",
-    "blocked": true
+    "translation": "尼禄:你妈没教你偷东西不好吗?"
   },
   ">Nero: Sorry,Dante...": {
-    "translation": "尼禄:抱歉,但丁...",
-    "blocked": true
+    "translation": "尼禄:抱歉,但丁..."
   },
   ">Nero: I'm baggin' this bitch!": {
-    "translation": "尼禄:我要干掉这个混蛋!",
-    "blocked": true
+    "translation": "尼禄:我要干掉这个混蛋!"
   },
   ">???: ...": {
     "translation": "???:..."
@@ -269,19 +236,16 @@
     "translation": "准备承受打击!"
   },
   ">Dante: Come on baby,come get me!": {
-    "translation": "但丁:来吧宝贝,快来抓我!",
-    "blocked": true
+    "translation": "但丁:来吧宝贝,快来抓我!"
   },
   "> ACT III CLEARED <": {
     "translation": "第三幕完结"
   },
   ">Angelo: It's not done yet,Spartans.": {
-    "translation": "尼洛安杰罗:还没完呢,斯巴达们.",
-    "blocked": true
+    "translation": "尼洛安杰罗:还没完呢,斯巴达们."
   },
   ">Angelo: We will meet again soon.": {
-    "translation": "尼洛安杰罗:我们很快会再见面.",
-    "blocked": true
+    "translation": "尼洛安杰罗:我们很快会再见面."
   },
   "< Seems like entrance has sealed. >": {
     "translation": "看起来入口已经封死了."
@@ -297,20 +261,16 @@
     "translation": "注意,中间区域不再封闭."
   },
   ">Dante: This portal will bring us to Urizen.": {
-    "translation": "但丁:这个传送门将带我们前往尤里曾的位置.",
-    "blocked": true
+    "translation": "但丁:传送门会带我们到尤里曾"
   },
   ">Dante: Let's finish this,Once for all.": {
-    "translation": "但丁:让我们彻底结束这一切吧.",
-    "blocked": true
+    "translation": "但丁:让我们彻底结束这一切吧."
   },
   ">Dante: Those Qliphoth trees are getting out of control.": {
-    "translation": "但丁:那些邪恶之树已经失控了.",
-    "blocked": true
+    "translation": "但丁:那些邪恶之树已经失控了."
   },
   ">Urizen: Dante...You dare approach me in that form?": {
-    "translation": "尤里曾:但丁...你竟敢以那种形式接近我?",
-    "blocked": true
+    "translation": "尤里曾:但丁,竟敢以这形态接近?"
   },
   "< Defend zombies and defeat Urizen. >": {
     "translation": "防御僵尸并击败尤里曾."
@@ -319,40 +279,31 @@
     "translation": "任何攻击都会对尤里曾造成伤害."
   },
   ">Urizen: Very well,I shall show you...": {
-    "translation": "尤里曾:很好,我将向你展示...",
-    "blocked": true
+    "translation": "尤里曾:很好,我将向你展示..."
   },
   ">Urizen: My true POWER!": {
-    "translation": "尤里曾:我真正的抛瓦!",
-    "blocked": true
+    "translation": "尤里曾:我真正的抛瓦!"
   },
   ">Urizen: How..how are you so powerful!?": {
-    "translation": "尤里曾:你..你怎么那么强大!?",
-    "blocked": true
+    "translation": "尤里曾:你..你怎么那么强大!?"
   },
   ">Urizen: You never lost anything!": {
-    "translation": "尤里曾:你从未失去过任何东西!",
-    "blocked": true
+    "translation": "尤里曾:你从未失去过任何东西!"
   },
   ">Dante: You threw away everything you ever had..": {
-    "translation": "但丁:你抛弃了你曾经拥有的一切..",
-    "blocked": true
+    "translation": "但丁:你抛弃了曾拥有的一切"
   },
   ">Dante: No wonder you have no true power!": {
-    "translation": "但丁:难怪你没有真正的抛瓦!",
-    "blocked": true
+    "translation": "但丁:难怪你没有真正的抛瓦!"
   },
   ">Urizen: DANTEEEE!": {
-    "translation": "尤里曾:但丁!!!",
-    "blocked": true
+    "translation": "尤里曾:但丁!!!"
   },
   ">V: While thy branches mix with mine,and our roots together join.": {
-    "translation": "神秘人:你的枝条与我的交缠,我们的根也连在了一起.",
-    "blocked": true
+    "translation": "神秘人:枝蔓交织,根也相连"
   },
   ">Dante: ..Vergil!": {
-    "translation": "但丁:..维吉尔!",
-    "blocked": true
+    "translation": "但丁:..维吉尔!"
   },
   "< Human character can't damage Vergil. >": {
     "translation": "人类角色无法对维吉尔造成伤害."
@@ -373,12 +324,10 @@
     "translation": "谢幕"
   },
   ">Urizen: Come to me,brother..": {
-    "translation": "尤里曾:来我这里,兄弟..",
-    "blocked": true
+    "translation": "尤里曾:来我这里,兄弟.."
   },
   ">Urizen: I shall enlighten you,Dante!": {
-    "translation": "尤里曾:我将引导你,但丁!",
-    "blocked": true
+    "translation": "尤里曾:我将引导你,但丁!"
   },
   "< Urizen are going to cast a shockwave,Defeat him fast! >": {
     "translation": "尤里曾将要释放冲击波,快击败他!"
@@ -393,8 +342,7 @@
     "translation": "第四幕完结"
   },
   "Devil Hunter >Dante< has join the game!": {
-    "translation": "传奇猎魔人但丁已加入游戏!",
-    "blocked": true
+    "translation": "传奇猎魔人但丁已加入游戏!"
   },
   "off": {
     "translation": "关闭"
@@ -425,24 +373,19 @@
     "translation": "现在去放置虫子."
   },
   ">Dante: This portal could take us to the tree top.": {
-    "translation": "但丁:这个传送门可以带我们去往树顶.",
-    "blocked": true
+    "translation": "但丁:传送门能带我们去树顶"
   },
   ">Dante: We're about to face my brother.": {
-    "translation": "但丁:我们要面对我的哥哥了.",
-    "blocked": true
+    "translation": "但丁:我们要面对我的哥哥了."
   },
   ">Dante: Prepare yourself.": {
-    "translation": "但丁:做好准备.",
-    "blocked": true
+    "translation": "但丁:做好准备."
   },
   ">Dante: Are you ready?": {
-    "translation": "但丁:你准备好了吗?",
-    "blocked": true
+    "translation": "但丁:你准备好了吗?"
   },
   ">Dante: Our journey is about to end...": {
-    "translation": "但丁:我们的旅程即将结束...",
-    "blocked": true
+    "translation": "但丁:我们的旅程即将结束..."
   },
   "> Arena seal in 20 sec <": {
     "translation": "竞技场封印将在20秒后生效",
@@ -455,7 +398,7 @@
     "translation": "除治疗外所有物品已被禁用."
   },
   "< I didn't finish the cutsence so skip this shlt >": {
-    "translation": "我还没说完这句话,所以跳过这一段吧"
+    "translation": "话没说完,跳过这段"
   },
   ">Vergil: Shall we begin?": {
     "translation": "维吉尔:我们开始吧?"
@@ -513,16 +456,13 @@
     "translation": "冲击已获得"
   },
   ">Goliath: Hahahaha!Tremble before my might!": {
-    "translation": "歌莉娅:哈哈哈!在我的强大面前颤抖吧!",
-    "blocked": true
+    "translation": "歌莉娅:哈哈哈!在力量前颤抖吧!"
   },
   ">Nero: It's your grave..Jack it up all you want.": {
-    "translation": "尼禄:这是你的坟墓..你想怎么样就怎么样吧.",
-    "blocked": true
+    "translation": "尼禄:这是你的坟墓,随你便吧"
   },
   ">Goliath: The next thing to shatter will be your bones!": {
-    "translation": "歌莉娅:接下来要粉碎的将是你的骨头!",
-    "blocked": true
+    "translation": "歌莉娅:接下来碎的是你的骨头!"
   },
   "back": {
     "translation": "返回"
@@ -534,8 +474,7 @@
     "translation": "打破"
   },
   ">Nico: You better take care on using that!": {
-    "translation": "妮可:你最好小心使用那个!",
-    "blocked": true
+    "translation": "妮可:你最好小心使用那个!"
   },
   "< Judgment Cut End has been interrupted! >": {
     "translation": "审判中断了!"
@@ -563,26 +502,22 @@
     "translation": "别让他们进入最后一个隧道!"
   },
   ">Vergil: Defeating you like this has no meaning.": {
-    "translation": "维吉尔:打败这样的你毫无意义.",
-    "blocked": true
+    "translation": "维吉尔:打败这样的你毫无意义."
   },
   ">Dante: C'mon,Vergil.Let's do this!": {
-    "translation": "但丁:来吧,维吉尔.让我们开始吧!",
-    "blocked": true
+    "translation": "但丁:来吧,维吉尔,开始吧!"
   },
   ">Vergil: Heal your wounds,Dante.Get strong.": {
-    "translation": "维吉尔:但丁,养好伤,变得更强吧.",
-    "blocked": true
+    "translation": "维吉尔:但丁,养好伤,变强吧"
   },
   ">Vergil: After that,we'll settle the matter.": {
-    "translation": "维吉尔:在那之后,我们会解决这个事情.",
-    "blocked": true
+    "translation": "维吉尔:之后我们再解决这事"
   },
   "< Geryon has distorted everyone's time speed! >": {
     "translation": "革律翁扭曲了每个人的时间!"
   },
   "< Avoid their attacks with your speed,React quickly! >": {
-    "translation": "用你的速度避开他们的攻击,迅速反应!"
+    "translation": "用速度避开攻击,迅速反应"
   },
   "< Slay Mode has enabled! >": {
     "translation": "杀戮模式已启用!"
@@ -594,8 +529,7 @@
     "translation": "地图尚未完成,此版本仅供预览."
   },
   ">V: ...and gained a great deal of power from it.": {
-    "translation": "神秘人:...并从中获得了强大的力量.",
-    "blocked": true
+    "translation": "神秘人:...并因此获得强大力量"
   },
   "> All Perks has been clear. <": {
     "translation": "所有增益已清除."
@@ -658,7 +592,7 @@
     "countdown": 20
   },
   "> Max power for Dante and Vergil in 20 sec. <": {
-    "translation": "20秒后,但丁和维吉尔的魔人值将充满.",
+    "translation": "20秒后但丁维吉尔魔人满",
     "countdown": 20
   },
   "< Admin has set stage to ACT ZM >": {
