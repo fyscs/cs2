@@ -58,7 +58,7 @@
     // 由 Stripper 提供独立计数器, 每阶段 300 条血, 两阶段合并结算.
     {
       "iterator": "Vergil_hpcounter",
-      "hitbox": "[PR#]Boss_Vergil_Hitbox",
+      "hitbox": "Boss_Vergil_Hitbox",
       "backup": "Vergil_hpbackup",
       "counter": "Vergil_hpbar",
       "reverse": true,
