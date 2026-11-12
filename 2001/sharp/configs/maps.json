@@ -467,6 +467,15 @@
     "requiredOnline": 600,
     "requiredPlayers": 40
   },
+  "ze_bakabox": {
+    "admin": true,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": false,
+    "price": 300,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_bang_dream_mygo": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
