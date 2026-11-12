@@ -55,12 +55,12 @@
       "hitbox": "Act4_Laser_Hitbox",
       "display": "真魔人维吉尔"
     },
-    //维吉尔 由于分2阶段故stage写2
+    // 由 Stripper 提供独立计数器, 每阶段 300 条血, 两阶段合并结算.
     {
       "iterator": "Vergil_hpcounter",
-      "hitbox": "Boss_Vergil_Hitbox",
-      "backup": "BossHp_Counter_2",
-      "counter": "BossHpBar_Counter_Vergil",
+      "hitbox": "[PR#]Boss_Vergil_Hitbox",
+      "backup": "Vergil_hpbackup",
+      "counter": "Vergil_hpbar",
       "reverse": true,
       "stages": 2,
       "display": "维吉尔"
