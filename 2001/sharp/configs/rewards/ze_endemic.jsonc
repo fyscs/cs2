@@ -16,7 +16,7 @@
 // must not auto-change after one ending, so players can still challenge the others.
 {
   "1": {
-    "rankPasses": 9,
+    "rankPasses": 10,
     "rankDamage": 20000,
     "rankIntern": 0.5,
     "econPasses": 5,
@@ -24,7 +24,7 @@
     "econIntern": 0.4
   },
   "2": {
-    "rankPasses": 9,
+    "rankPasses": 10,
     "rankDamage": 20000,
     "rankIntern": 0.5,
     "econPasses": 5,
