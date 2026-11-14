@@ -9,7 +9,6 @@
   // hitbox     (string)   -> 打击框
   // stages     (int)      -> 阶段数
   // target     (string)   -> 目标名称 (Breakable only)
-  // count      (int)      -> 血条格数 (Breakable only)
   // iterator   (string)   -> 计数器 (MathCounter only)
   // backup     (string)   -> 后备计数器 (MathCounter only)
   // mass       (int)      -> 后备算法参数 (MathCounter only)
@@ -25,55 +24,42 @@
     {
       "iterator": "Fat_Nigger_Counter",
       "hitbox": "Fat_Nigger_Phys",
-      "display": "Fatt"
+      "display": "骷髅守卫"
     },
     {
       "iterator": "Stage_4_End_Guard_Counter",
       "hitbox": "Stage_4_End_Guard_Phys",
-      "display": "LaserFinal"
+      "display": "加布拉斯"
     },
+    // 三只召唤兽共用血量计数器, 不固定绑定其中一只的打击框.
     {
       "iterator": "Special_Health",
       "backup": "Special_HealthInit",
       "counter": "Special_HealthCount",
       "reverse": true,
-      "hitbox": "Hashmel_Hitbox",
-      "display": "Hashmel"
+      "display": "召唤兽"
     },
     {
       "iterator": "Stage_2_End_Dragon_Counter",
       "hitbox": "Stage_2_End_Boss_Phys",
-      "display": "Dragon"
+      "display": "海德拉"
     },
     {
       "iterator": "Stage_3_End_Boss_Counter",
       "hitbox": "Stage_3_End_Boss_Phys",
-      "display": "LaserFinal"
+      "display": "海德拉"
     },
     {
       "iterator": "Stage_24_End_Famfrit_Counter",
       "hitbox": "Stage_24_End_Famfrit_Phys",
-      "display": "Famfrit"
-    },
-    {
-      "iterator": "Famfrit_Holy_Summon_Counter",
-      "hitbox": "Famfrit_Phys_Body_Holy",
-      "display": "Body Holy"
-    },
-    {
-      "iterator": "Famfrit_Fire_Summon_Counter",
-      "hitbox": "Famfrit_Phys_Body_Fire",
-      "display": "Body Fire"
+      "display": "法姆弗里特"
     }
   ],
   "Monsters": [
     {
-      "identity": "2525",
-      "display": "Famfrit"
-    },
-    {
-      "identity": "3822",
-      "display": "Zalera"
+      // 两个召唤物打击框共用此计数器, 物理盒自身血量不是实际血量.
+      "identity": "2738",
+      "display": "希德博士"
     }
   ]
 }
