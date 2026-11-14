@@ -59,21 +59,22 @@
     },
     {
       "iterator": "Stage-1_Laser_HP_Counter",
-      "mass": 60,
       "hitbox": "Stage-1_BossPhysbox",
       "display": "Exodus"
     },
     {
       "iterator": "Stage4_Laser_HP_Counter",
-      "mass": 80,
+      "hitbox": "Stage4_Lazer_Func",
       "display": "贝甘"
     },
     {
       "iterator": "Event_Cactus_Counter",
+      "hitbox": "Event_Cactus_Breakable",
       "display": "仙人掌"
     },
     {
       "iterator": "Event_Bahamut_Counter",
+      "hitbox": "Event_Bahamut_Breakable",
       "display": "巴哈姆特"
     }
   ],
