@@ -1,0 +1,250 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>The gates will open in 20 seconds<<": {
+    "translation": "大门将在20秒后开启"
+  },
+  ">>The gates will open in 35 seconds<<": {
+    "translation": "大门将在35秒后开启"
+  },
+  ">>The gates will open in 15 seconds<<": {
+    "translation": "大门将在15秒后开启"
+  },
+  ">>The gates will open in 25 seconds<<": {
+    "translation": "大门将在25秒后开启"
+  },
+  ">>The arena entrance will open in 30 seconds<<": {
+    "translation": "竞技场入口将在30秒后开启"
+  },
+  ">>Defend this way for 25 seconds<<": {
+    "translation": "守住这条路25秒"
+  },
+  ">>The final gates will open in 20 seconds<<": {
+    "translation": "最后的大门将在20秒后开启"
+  },
+  ">>Hydro is dead! Run to to the platform!<<": {
+    "translation": "海德拉已被击败! 快跑到平台上!"
+  },
+  ">>The door will open in 25 seconds<<": {
+    "translation": "门将在25秒后开启"
+  },
+  ">>Hold here for 10 seconds<<": {
+    "translation": "在这里守住10秒"
+  },
+  ">>Wait before the airflow starts<<": {
+    "translation": "等待气流启动"
+  },
+  ">>The arena gates will open in 20 seconds<<": {
+    "translation": "竞技场大门将在20秒后开启"
+  },
+  ">>The final gates will open in 30 seconds<<": {
+    "translation": "最后的大门将在30秒后开启"
+  },
+  ">>Famfrit is defeated! Now get ready to escape this place..<<": {
+    "translation": "法姆弗里特已被击败! 准备逃离这里!"
+  },
+  ">> Zombie items have been enabled! <<": {
+    "translation": "僵尸神器已启用!"
+  },
+  ">> Zombie items have been disabled for the duration of the boss fight! <<": {
+    "translation": "Boss战期间已禁用僵尸神器!"
+  },
+  ">>You are too slow..<<": {
+    "translation": "你们太慢了..."
+  },
+  ">>Is this over...or not?...<<": {
+    "translation": "结束了吗...还是没有?..."
+  },
+  ">>You have failed<<": {
+    "translation": "你们失败了"
+  },
+  ">> You have beaten NORMAL MODE! Congratulations! <<": {
+    "translation": "恭喜通过普通模式!"
+  },
+  ">>YOU MUST KILL ALL THE ZOMBIES TO WIN<<": {
+    "translation": "必须消灭所有僵尸才能通关!"
+  },
+  ">> You have beaten HARD MODE! Congratulations! <<": {
+    "translation": "恭喜通过困难模式!"
+  },
+  ">>ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM<<": {
+    "translation": "管理员已通过管理房切换关卡"
+  },
+  ">>ADMIN PRESSED KILL ALL BUTTON<<": {
+    "translation": "管理员按下了全体击杀按钮"
+  },
+  ">> You have beaten EXTREME MODE! Congratulations! <<": {
+    "translation": "恭喜通过极限模式!"
+  },
+  ">>The guard is dead! Run to to the platform!<<": {
+    "translation": "加布拉斯已被击败! 快跑到平台上!"
+  },
+  ">> You have beaten CHAOS MODE! Congratulations you beat the map! <<": {
+    "translation": "恭喜通过混沌模式! 你们征服了这张地图!"
+  },
+  ">>Oh no the sword disappeared..We will be back there next time..<<": {
+    "translation": "糟了,圣剑消失了...下次再来吧..."
+  },
+  ">>ZE_FFXII_RIDORANA_CATARACT<<": {
+    "translation": "最终幻想XII: 利多拉纳大瀑布"
+  },
+  ">>Map by Headshooter.SC & HaRyDe<<": {
+    "translation": "地图作者: Headshooter.SC & HaRyDe"
+  },
+  ">>The Hashmel is defeated!<<": {
+    "translation": "哈修玛利姆已被击败!"
+  },
+  ">>The Zalera is defeated!<<": {
+    "translation": "死亡天使已被击败!"
+  },
+  ">>WARMUP ROUND<<": {
+    "translation": "热身回合"
+  },
+  ">>ZM MODE<<": {
+    "translation": "僵尸模式"
+  },
+  ">>CHAOS MODE<<": {
+    "translation": "混沌模式"
+  },
+  ">>EXTREME MODE<<": {
+    "translation": "极限模式"
+  },
+  ">>HARD MODE<<": {
+    "translation": "困难模式"
+  },
+  ">>NORMAL MODE<<": {
+    "translation": "普通模式"
+  },
+  "OnTrigger>cmd>Command>**Someone is trying to interfere us**>1.1>1": {
+    "translation": "有人正在阻挠我们"
+  },
+  "OnTrigger>cmd>Command>**Both ways will open in 25 seconds**>0>1": {
+    "translation": "两条路都将在25秒后开启"
+  },
+  ">>Hold here for 20 seconds<<": {
+    "translation": "在这里守住20秒"
+  },
+  ">>CACTUS SIDEQUEST STARTED - FIND A CACTUS TO GET A LEVEL | ONLY 1 HUMAN CAN GET A LEVEL | ONLY ONCE<<": {
+    "translation": "仙人掌支线已开启! 找到仙人掌可提升一级,仅一名人类可获得,且只能领取一次"
+  },
+  ">>Hold here for 15 seconds<<": {
+    "translation": "在这里守住15秒"
+  },
+  ">>To activate the gates you need to break the crystals in the side rooms<<": {
+    "translation": "打碎两侧房间的水晶才能打开大门"
+  },
+  ">>1/2 crystals broken<<": {
+    "translation": "已打碎一颗水晶,还剩一颗"
+  },
+  ">>You got it! The gates will open in 20 seconds<<": {
+    "translation": "成功了! 大门将在20秒后开启"
+  },
+  ">>The gates will open in 30 seconds<<": {
+    "translation": "大门将在30秒后开启"
+  },
+  ">>The end gates will close in 20 seconds. Keep defending!<<": {
+    "translation": "终点大门将在20秒后关闭,继续防守!"
+  },
+  ">>You are late..<<": {
+    "translation": "你们来晚了..."
+  },
+  ">>The gates will open in 10 seconds<<": {
+    "translation": "大门将在10秒后开启"
+  },
+  ">>The crystal gates 1 will open in 5 seconds<<": {
+    "translation": "水晶门①将在5秒后开启"
+  },
+  ">>The crystal gates 2 will open in 5 seconds<<": {
+    "translation": "水晶门②将在5秒后开启"
+  },
+  ">>The crystal main gate will open in 25 seconds<<": {
+    "translation": "水晶主门将在25秒后开启"
+  },
+  ">>Wait for the opening<<": {
+    "translation": "等待大门开启"
+  },
+  ">>Cactus found. The player who found it was given 1 level<<": {
+    "translation": "仙人掌已被找到,找到它的玩家提升了一级"
+  },
+  ">>A PLAYER HAS PICKED UP THE ULTIMA SWORD<<": {
+    "translation": "一名玩家拾取了究极圣剑"
+  },
+  ">>Gabranth has stolen the crystal. We need to stop him<<": {
+    "translation": "加布拉斯偷走了水晶,必须阻止他!"
+  },
+  ">>Gabranth is using the power of the crystal and blocking the Legendary Sword<<": {
+    "translation": "加布拉斯正在借助水晶的力量封印传说之剑"
+  },
+  ">>The Dr.Cid is down<<": {
+    "translation": "希德博士已被击败"
+  },
+  ">>The Hydro is defeated<< >>Keep running<<": {
+    "translation": "海德拉已被击败,继续前进!"
+  },
+  ">>ZOMBIE WARP WAS PICKED UP (DAMAGE LEVEL 1)<<": {
+    "translation": "僵尸拾取了秒杀 (一级)"
+  },
+  ">>ZOMBIE WARP WAS PICKED UP (DAMAGE LEVEL 2)<<": {
+    "translation": "僵尸拾取了秒杀 (二级)"
+  },
+  ">>ZOMBIE WARP WAS PICKED UP (DAMAGE LEVEL 3)<<": {
+    "translation": "僵尸拾取了秒杀 (三级)"
+  },
+  ">>ZOMBIE DARKAGA WAS PICKED UP (PULL LEVEL 1)<<": {
+    "translation": "僵尸拾取了黑洞 (一级)"
+  },
+  ">>ZOMBIE DARKAGA WAS PICKED UP (PULL LEVEL 2)<<": {
+    "translation": "僵尸拾取了黑洞 (二级)"
+  },
+  ">>ZOMBIE DARKAGA WAS PICKED UP (PULL LEVEL 3)<<": {
+    "translation": "僵尸拾取了黑洞 (三级)"
+  },
+  ">>ZOMBIE FIRAGA WAS PICKED UP (FIRE LEVEL 1)<<": {
+    "translation": "僵尸拾取了火 (一级)"
+  },
+  ">>ZOMBIE FIRAGA WAS PICKED UP (FIRE LEVEL 2)<<": {
+    "translation": "僵尸拾取了火 (二级)"
+  },
+  ">>ZOMBIE FIRAGA WAS PICKED UP (FIRE LEVEL 3)<<": {
+    "translation": "僵尸拾取了火 (三级)"
+  },
+  ">>ZOMBIE CURAGA WAS PICKED UP (HEAL LEVEL 1)<<": {
+    "translation": "僵尸拾取了奶 (一级)"
+  },
+  ">>ZOMBIE CURAGA WAS PICKED UP (HEAL LEVEL 2)<<": {
+    "translation": "僵尸拾取了奶 (二级)"
+  },
+  ">>ZOMBIE CURAGA WAS PICKED UP (HEAL LEVEL 3)<<": {
+    "translation": "僵尸拾取了奶 (三级)"
+  },
+  ">>A PLAYER HAS ACQUIRED CURAGA<<": {
+    "translation": "一名玩家拾取了奶"
+  },
+  ">>A PLAYER HAS ACQUIRED AEROGA<<": {
+    "translation": "一名玩家拾取了风"
+  },
+  ">>A PLAYER HAS ACQUIRED DARKAGA<<": {
+    "translation": "一名玩家拾取了黑洞"
+  },
+  ">>A PLAYER HAS ACQUIRED BLIZZAGA<<": {
+    "translation": "一名玩家拾取了冰"
+  },
+  ">>A PLAYER HAS ACQUIRED THUNDAGA<<": {
+    "translation": "一名玩家拾取了电"
+  },
+  ">>A PLAYER HAS ACQUIRED FIRAGA<<": {
+    "translation": "一名玩家拾取了火"
+  },
+  ">>A PLAYER HAS HOLY ITEM<<": {
+    "translation": "一名玩家拾取了神圣"
+  }
+}
