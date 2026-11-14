@@ -1,0 +1,70 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "*** WARMUP ***": {
+    "translation": "热身回合"
+  },
+  "*** BAKA WILL SLAY ALL PLAYERS IN 60 SECONDS ***": {
+    "translation": "Baka将在60秒后处死所有玩家"
+  },
+  "*** BAKA WILL SLAY ALL PLAYERS IN 30 SECONDS ***": {
+    "translation": "Baka将在30秒后处死所有玩家"
+  },
+  "*** BAKA WILL SLAY ALL PLAYERS IN 10 SECONDS ***": {
+    "translation": "Baka将在10秒后处死所有玩家"
+  },
+  "*** THE JOURNEY SHALL COMMENCE SHORTLY ***": {
+    "translation": "旅程即将开始"
+  },
+  "*** THE TIME IS NOW ***": {
+    "translation": "出发的时刻到了"
+  },
+  "***WANNA REVERT BACK TO NORMAL MODE? > STEP ON THE PLATFORM***": {
+    "translation": "想恢复普通难度请站上平台"
+  },
+  "***50% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***": {
+    "translation": "需要50%的人类投票才能通过"
+  },
+  "***BAKA IS PROUD OF YOU***": {
+    "translation": "Baka为你们感到骄傲"
+  },
+  "***WANNA SKIP TO EXTREME MODE? > STEP ON THE PLATFORM***": {
+    "translation": "想切换极限难度请站上平台"
+  },
+  "***80% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***": {
+    "translation": "需要80%的人类投票才能通过"
+  },
+  "***THE VOTE HAS SPOKEN***": {
+    "translation": "投票已经通过"
+  },
+  "***REVERTING TO NORMAL MODE***": {
+    "translation": "正在恢复普通难度"
+  },
+  "***RESTARTING ROUND***": {
+    "translation": "正在重启回合"
+  },
+  "***BAKA BAKA***": {
+    "translation": "Baka Baka"
+  },
+  "***ENABLING EXTREME MODE***": {
+    "translation": "正在开启极限难度"
+  },
+  "***THE ETERNAL TRUTH LOOMS***": {
+    "translation": "永恒真理即将降临"
+  },
+  "*** NORMAL ***": {
+    "translation": "普通难度"
+  },
+  "*** EXTREME ***": {
+    "translation": "极限难度"
+  }
+}
