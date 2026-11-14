@@ -14,7 +14,7 @@
   // backup     (string)   -> 后备计数器 (MathCounter only)
   // mass       (int)      -> 后备算法参数 (MathCounter only)
   // counter    (string)   -> 血条计数器 (MathCounter only)
-  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only)
   // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
   // [Npc (Monsters)]
   // display    (string)   -> 显示的名称
@@ -49,6 +49,7 @@
     },
     {
       "iterator": "quad_phase2_counter",
+      "hitbox": "[PR#]boss_4_hitbox",
       "display": "Quadralex"
     },
     {
@@ -58,6 +59,7 @@
     },
     {
       "iterator": "quad_phase1_counter",
+      "hitbox": "[PR#]boss_3_hitbox",
       "display": "Quadralex"
     },
     {
@@ -72,6 +74,7 @@
     },
     {
       "iterator": "boss_quad_encounter_01_counter",
+      "hitbox": "[PR#]boss_quad_encounter_01_hitbox",
       "display": "Quadralex"
     }
   ],
