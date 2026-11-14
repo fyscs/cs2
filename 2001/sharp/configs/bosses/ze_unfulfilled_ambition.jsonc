@@ -21,53 +21,65 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Breakables": [
+  "Counters": [
     {
-      "target": "bosshp1_break",
+      "iterator": "bosshp1",
+      "hitbox": "bosshp1_break",
       "display": "Boss(1/6)"
     },
     {
-      "target": "bosshp2_break",
+      "iterator": "bosshp2",
+      "hitbox": "bosshp2_break",
       "display": "Boss(2/6)"
     },
     {
-      "target": "bosshp3_break",
+      "iterator": "bosshp3",
+      "hitbox": "bosshp3_break",
       "display": "Boss(3/6)"
     },
     {
-      "target": "bosshp4_break",
+      "iterator": "bosshp4",
+      "hitbox": "bosshp4_break",
       "display": "Boss(4/6)"
     },
     {
-      "target": "bosshp5_break",
+      "iterator": "bosshp5",
+      "hitbox": "bosshp5_break",
       "display": "Boss(5/6)"
     },
     {
-      "target": "bosshp6_break",
+      "iterator": "bosshp6",
+      "hitbox": "bosshp6_break",
       "display": "Boss(6/6)"
     },
     {
-      "target": "boss2hp1_break",
+      "iterator": "boss2hp1",
+      "hitbox": "boss2hp1_break",
       "display": "Boss2(1/6)"
     },
     {
-      "target": "boss2hp2_break",
+      "iterator": "boss2hp2",
+      "hitbox": "boss2hp2_break",
       "display": "Boss2(2/6)"
     },
     {
-      "target": "boss2hp3_break",
+      "iterator": "boss2hp3",
+      "hitbox": "boss2hp3_break",
       "display": "Boss2(3/6)"
     },
     {
-      "target": "boss2hp4_break",
+      "iterator": "boss2hp4",
+      "hitbox": "boss2hp4_break",
       "display": "Boss2(4/6)"
     },
     {
-      "target": "boss2hp5_break",
+      "iterator": "boss2hp5",
+      "hitbox": "boss2hp5_break",
       "display": "Boss2(5/6)"
     },
     {
-      "target": "boss2hp6_break",
+      "iterator": "boss2hp6",
+      "hitbox": "boss2hp6_break",
       "display": "Boss2(6/6)"
     }
   ]
