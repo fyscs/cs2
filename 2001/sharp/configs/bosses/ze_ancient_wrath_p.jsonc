@@ -49,7 +49,7 @@
     },
     {
       "iterator": "quad_phase2_counter",
-      "hitbox": "[PR#]boss_4_hitbox",
+      "hitbox": "boss_4_hitbox",
       "display": "Quadralex"
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "iterator": "quad_phase1_counter",
-      "hitbox": "[PR#]boss_3_hitbox",
+      "hitbox": "boss_3_hitbox",
       "display": "Quadralex"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "iterator": "boss_quad_encounter_01_counter",
-      "hitbox": "[PR#]boss_quad_encounter_01_hitbox",
+      "hitbox": "boss_quad_encounter_01_hitbox",
       "display": "Quadralex"
     }
   ],
