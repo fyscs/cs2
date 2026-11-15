@@ -125,10 +125,10 @@
   ">>NORMAL MODE<<": {
     "translation": "普通模式"
   },
-  "OnTrigger>cmd>Command>**Someone is trying to interfere us**>1.1>1": {
+  "**Someone is trying to interfere us**": {
     "translation": "有人正在阻挠我们"
   },
-  "OnTrigger>cmd>Command>**Both ways will open in 25 seconds**>0>1": {
+  "**Both ways will open in 25 seconds**": {
     "translation": "两条路都将在25秒后开启"
   },
   ">>Hold here for 20 seconds<<": {
