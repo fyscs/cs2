@@ -50,7 +50,7 @@
     "translation": "最后的大门将在30秒后开启"
   },
   ">>Famfrit is defeated! Now get ready to escape this place..<<": {
-    "translation": "法姆弗里特已被击败! 准备逃离这里!"
+    "translation": "法姆弗里特已败!准备撤离!"
   },
   ">> Zombie items have been enabled! <<": {
     "translation": "僵尸神器已启用!"
@@ -86,19 +86,20 @@
     "translation": "恭喜通过极限模式!"
   },
   ">>The guard is dead! Run to to the platform!<<": {
-    "translation": "加布拉斯已被击败! 快跑到平台上!"
+    "translation": "加布拉斯已败!快上平台!"
   },
   ">> You have beaten CHAOS MODE! Congratulations you beat the map! <<": {
-    "translation": "恭喜通过混沌模式! 你们征服了这张地图!"
+    "translation": "混沌模式通过!恭喜征服本图!"
   },
   ">>Oh no the sword disappeared..We will be back there next time..<<": {
-    "translation": "糟了,圣剑消失了...下次再来吧..."
+    "translation": "圣剑消失了,下次再来吧..."
   },
   ">>ZE_FFXII_RIDORANA_CATARACT<<": {
     "translation": "最终幻想XII: 利多拉纳大瀑布"
   },
   ">>Map by Headshooter.SC & HaRyDe<<": {
-    "translation": "地图作者: Headshooter.SC & HaRyDe"
+    "translation": "地图作者: Headshooter.SC & HaRyDe",
+    "blocked": true
   },
   ">>The Hashmel is defeated!<<": {
     "translation": "哈修玛利姆已被击败!"
@@ -134,7 +135,7 @@
     "translation": "在这里守住20秒"
   },
   ">>CACTUS SIDEQUEST STARTED - FIND A CACTUS TO GET A LEVEL | ONLY 1 HUMAN CAN GET A LEVEL | ONLY ONCE<<": {
-    "translation": "仙人掌支线已开启! 找到仙人掌可提升一级,仅一名人类可获得,且只能领取一次"
+    "translation": "仅首位找到仙人掌的人类升一级"
   },
   ">>Hold here for 15 seconds<<": {
     "translation": "在这里守住15秒"
@@ -152,7 +153,7 @@
     "translation": "大门将在30秒后开启"
   },
   ">>The end gates will close in 20 seconds. Keep defending!<<": {
-    "translation": "终点大门将在20秒后关闭,继续防守!"
+    "translation": "终点门20秒后关闭,继续防守!"
   },
   ">>You are late..<<": {
     "translation": "你们来晚了..."
@@ -173,7 +174,7 @@
     "translation": "等待大门开启"
   },
   ">>Cactus found. The player who found it was given 1 level<<": {
-    "translation": "仙人掌已被找到,找到它的玩家提升了一级"
+    "translation": "仙人掌已找到,发现者升一级"
   },
   ">>A PLAYER HAS PICKED UP THE ULTIMA SWORD<<": {
     "translation": "一名玩家拾取了究极圣剑"
@@ -182,7 +183,7 @@
     "translation": "加布拉斯偷走了水晶,必须阻止他!"
   },
   ">>Gabranth is using the power of the crystal and blocking the Legendary Sword<<": {
-    "translation": "加布拉斯正在借助水晶的力量封印传说之剑"
+    "translation": "加布拉斯借水晶封印传说之剑"
   },
   ">>The Dr.Cid is down<<": {
     "translation": "希德博士已被击败"
