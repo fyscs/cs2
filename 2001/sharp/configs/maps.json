@@ -6435,7 +6435,7 @@
     "requiredPlayers": 30
   },
   "ze_ze_ez_escape_cs2": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [-1],
     "cooldown": 100,
     "nomination": true,
