@@ -23,11 +23,11 @@
 {
   "Counters": [
     {
-      "iterator": "[PR#]Stage2_Boss_Hp_Counter",
-      "counter": "[PR#]Stage2_Boss_Hp_Counter_Bar",
+      "iterator": "Stage2_Boss_Hp_Counter",
+      "counter": "Stage2_Boss_Hp_Counter_Bar",
       "reverse": true,
       "mass": 50,
-      "hitbox": "[PR#]Stage2_Boss_Physbox",
+      "hitbox": "Stage2_Boss_Physbox",
       "display": "Duck"
     }
   ],
