@@ -6437,7 +6437,7 @@
   "ze_ze_ez_escape_cs2": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 60,
+    "cooldown": 30,
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
