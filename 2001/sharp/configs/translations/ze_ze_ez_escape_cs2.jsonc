@@ -1,0 +1,78 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**AFK teleport in 15s**": {
+    "translation": "挂机玩家将在15秒后传送",
+    "countdown": 15
+  },
+  "**door open in 20sec**": {
+    "translation": "大门将在20秒后打开",
+    "countdown": 20
+  },
+  "**door open in 50sec**": {
+    "translation": "大门将在50秒后打开",
+    "countdown": 50
+  },
+  "**door open in 40sec**": {
+    "translation": "大门将在40秒后打开",
+    "countdown": 40
+  },
+  "**AFK teleport 10sec**": {
+    "translation": "挂机玩家将在10秒后传送",
+    "countdown": 10
+  },
+  "**road open in 5sec**": {
+    "translation": "道路将在5秒后开放",
+    "countdown": 5
+  },
+  "**teleport open 10sec**": {
+    "translation": "传送将在10秒后开启",
+    "countdown": 10
+  },
+  "**player pickup yinpin**": {
+    "translation": "有玩家拾取了音频枪"
+  },
+  "**player pickup music gun**": {
+    "translation": "有玩家拾取了音乐枪"
+  },
+  "helicopter take off in 35sec": {
+    "translation": "直升机将在35秒后起飞",
+    "countdown": 35
+  },
+  "goliath need 50sec": {
+    "translation": "歌利亚将在50秒后出发",
+    "countdown": 50
+  },
+  "boat 40sec": {
+    "translation": "船将在40秒后出发",
+    "countdown": 40
+  },
+  "hold,we need 30sec": {
+    "translation": "守住,还需要30秒",
+    "countdown": 30
+  },
+  "defend 40sec": {
+    "translation": "防守40秒",
+    "countdown": 40
+  },
+  "we need defend 35sec": {
+    "translation": "我们需要防守35秒",
+    "countdown": 35
+  },
+  "**nuke in 90sec**": {
+    "translation": "90秒后核爆",
+    "countdown": 90
+  },
+  "**hold off the zombie ainal attack**": {
+    "translation": "挡住僵尸的最后一波进攻"
+  }
+}
