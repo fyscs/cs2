@@ -45,5 +45,54 @@
   "门开10秒传送": {
     "translation": "门开10秒传送",
     "countdown": 10
+  },
+  "30秒后关门": {
+    "translation": "30秒后关门",
+    "countdown": 30
+  },
+  "橘光 看来我们马上就能出去了。": {
+    "translation": "橘光:看来我们马上就能出去了."
+  },
+  "橘望 看来我们还是继续前进。": {
+    "translation": "橘望:看来我们还是继续前进."
+  },
+  "30秒门开": {
+    "translation": "30秒后门开",
+    "countdown": 30
+  },
+  "橘光 熟悉的地方好像来过一样。": {
+    "translation": "橘光:这个地方很熟悉,好像来过一样."
+  },
+  "橘望 是的": {
+    "translation": "橘望:是的."
+  },
+  "5秒后僵尸传送": {
+    "translation": "5秒后僵尸传送",
+    "countdown": 5
+  },
+  "20秒门开": {
+    "translation": "20秒后门开",
+    "countdown": 20
+  },
+  "10僵尸传送": {
+    "translation": "10秒后僵尸传送",
+    "countdown": 10
+  },
+  "40秒门开": {
+    "translation": "40秒后门开",
+    "countdown": 40
+  },
+  "50秒后核爆": {
+    "translation": "50秒后核爆",
+    "countdown": 50
+  },
+  "橘光 看来我们还是走不了。": {
+    "translation": "橘光:看来我们还是走不了."
+  },
+  "第一关": {
+    "translation": "第一关"
+  },
+  "第二关": {
+    "translation": "第二关"
   }
 }
