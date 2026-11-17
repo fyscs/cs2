@@ -4734,9 +4734,9 @@
     "requiredPlayers": 30
   },
   "ze_reaper_tower": {
-    "admin": true,
+    "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
-    "cooldown": 100,
+    "cooldown": 30,
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
