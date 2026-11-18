@@ -23,35 +23,35 @@
 {
   "Counters": [
     {
-      "iterator": "[PR#]S0_Hogg_Hp_Counter",
-      "hitbox": "[PR#]S0_Hogg_Hitbox",
+      "iterator": "S0_Hogg_Hp_Counter",
+      "hitbox": "S0_Hogg_Hitbox",
       "display": "霍格"
     },
     {
-      "iterator": "[PR#]Kaleda_HP_Counter_2",
-      "counter": "[PR#]Counter_Boss_HP_1",
-      "backup": "[PR#]Kaleda_HP_Counter_1",
-      "hitbox": "[PR#]Kaleda_Hitbox",
+      "iterator": "Kaleda_HP_Counter_2",
+      "counter": "Counter_Boss_HP_1",
+      "backup": "Kaleda_HP_Counter_1",
+      "hitbox": "Kaleda_Hitbox",
       "display": "卡莱达"
     },
     {
-      "iterator": "[PR#]Diablo_HP_Counter_2",
-      "counter": "[PR#]Counter_Boss_HP_1",
-      "backup": "[PR#]Diablo_HP_Counter_1",
-      "hitbox": "[PR#]Diablo_Hitbox",
+      "iterator": "Diablo_HP_Counter_2",
+      "counter": "Counter_Boss_HP_1",
+      "backup": "Diablo_HP_Counter_1",
+      "hitbox": "Diablo_Hitbox",
       "display": "暗黑破坏神"
     },
     {
-      "iterator": "[PR#]Hogg_Hp_Counter_2",
-      "counter": "[PR#]Counter_Boss_HP_1",
-      "backup": "[PR#]Hogg_Hp_Counter_3",
-      "hitbox": "[PR#]Hogg_Hitbox",
+      "iterator": "Hogg_Hp_Counter_2",
+      "counter": "Counter_Boss_HP_1",
+      "backup": "Hogg_Hp_Counter_3",
+      "hitbox": "Hogg_Hitbox",
       "display": "霍格"
     }
   ],
   "Breakables": [
     {
-      "target": "[PR#]S1_Diablo_Box",
+      "target": "S1_Diablo_Box",
       "display": "暗黑破坏神"
     }
   ],
