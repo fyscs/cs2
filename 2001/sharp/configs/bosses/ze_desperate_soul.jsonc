@@ -14,7 +14,7 @@
   // backup     (string)   -> 后备计数器 (MathCounter only)
   // mass       (int)      -> 后备算法参数 (MathCounter only)
   // counter    (string)   -> 血条计数器 (MathCounter only)
-  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only)
   // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
   // [Npc (Monsters)]
   // display    (string)   -> 显示的名称
@@ -26,6 +26,27 @@
       "iterator": "S0_Hogg_Hp_Counter",
       "hitbox": "S0_Hogg_Hitbox",
       "display": "霍格"
+    },
+    {
+      "iterator": "Kaleda_HP_Counter_2",
+      "counter": "Counter_Boss_HP_1",
+      "backup": "Kaleda_HP_Counter_1",
+      "hitbox": "Kaleda_Hitbox",
+      "display": "卡莱达"
+    },
+    {
+      "iterator": "Diablo_HP_Counter_2",
+      "counter": "Counter_Boss_HP_1",
+      "backup": "Diablo_HP_Counter_1",
+      "hitbox": "Diablo_Hitbox",
+      "display": "暗黑破坏神"
+    },
+    {
+      "iterator": "Hogg_Hp_Counter_2",
+      "counter": "Counter_Boss_HP_1",
+      "backup": "Hogg_Hp_Counter_3",
+      "hitbox": "Hogg_Hitbox",
+      "display": "霍格"
     }
   ],
   "Breakables": [
@@ -35,18 +56,6 @@
     }
   ],
   "Monsters": [
-    {
-      "identity": "8554",
-      "display": "卡莱达"
-    },
-    {
-      "identity": "4792",
-      "display": "暗黑破坏神"
-    },
-    {
-      "identity": "3326",
-      "display": "霍格"
-    },
     {
       "identity": "4782",
       "display": "Ronka"
