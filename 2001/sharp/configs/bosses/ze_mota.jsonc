@@ -14,7 +14,7 @@
   // backup     (string)   -> 后备计数器 (MathCounter only)
   // mass       (int)      -> 后备算法参数 (MathCounter only)
   // counter    (string)   -> 血条计数器 (MathCounter only)
-  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only)
   // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
   // [Npc (Monsters)]
   // display    (string)   -> 显示的名称
@@ -24,40 +24,33 @@
   "Counters": [
     {
       "iterator": "boss1_hp",
-      "display": "Boss"
+      "display": "Boss",
+      "hitbox": "boss1"
     }
   ],
   "Monsters": [
     {
-      "identity": "1384",
+      "identity": "1165",
       "display": "npc"
     },
     {
-      "identity": "1559",
+      "identity": "1166",
       "display": "npc"
     },
     {
-      "identity": "3914",
+      "identity": "1546",
       "display": "npc"
     },
     {
-      "identity": "3934",
+      "identity": "1560",
       "display": "npc"
     },
     {
-      "identity": "4017",
+      "identity": "3913",
       "display": "npc"
     },
     {
-      "identity": "4147",
-      "display": "npc"
-    },
-    {
-      "identity": "4165",
-      "display": "npc"
-    },
-    {
-      "identity": "193",
+      "identity": "3923",
       "display": "npc"
     }
   ]
