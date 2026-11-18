@@ -14,7 +14,7 @@
   // backup     (string)   -> 后备计数器 (MathCounter only)
   // mass       (int)      -> 后备算法参数 (MathCounter only)
   // counter    (string)   -> 血条计数器 (MathCounter only)
-  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only) 
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only)
   // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
   // [Npc (Monsters)]
   // display    (string)   -> 显示的名称
@@ -25,6 +25,7 @@
     {
       "iterator": "Stage2_Boss_Hp_Counter",
       "counter": "Stage2_Boss_Hp_Counter_Bar",
+      "reverse": true,
       "mass": 50,
       "hitbox": "Stage2_Boss_Physbox",
       "display": "Duck"
