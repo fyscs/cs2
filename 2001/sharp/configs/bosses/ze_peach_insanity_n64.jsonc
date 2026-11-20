@@ -53,11 +53,9 @@
     {
       "target": "left_eyerok_break",
       "display": "黄金左手"
-    }
-  ],
-  "Monsters": [
+    },
     {
-      "identity": "13686",
+      "target": "lava_pulley",
       "display": "铃铛"
     }
   ]
