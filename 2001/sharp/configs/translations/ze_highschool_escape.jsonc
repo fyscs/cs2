@@ -1,0 +1,91 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  ">>>邪恶女教师的课堂即将开始 20 seconds<<<": {
+    "translation": "邪恶女教师的课堂将在20秒后开始!",
+    "countdown": 20
+  },
+  ">>>存活30秒<<<": {
+    "translation": "撑过30秒!",
+    "countdown": 30
+  },
+  ">>>胜利<<<": {
+    "translation": "胜利!"
+  },
+  ">>>door open in 20 seconds<<<": {
+    "translation": "门将在20秒后打开!",
+    "countdown": 20
+  },
+  ">>僵尸即将传送， 5 seconds<<<": {
+    "translation": "僵尸将在5秒后传送!",
+    "countdown": 5
+  },
+  ">>>需要找到钥匙，才能开门<<<": {
+    "translation": "找到钥匙才能开门!"
+  },
+  ">>>钥匙已找到，即将开门 5 seconds<<<": {
+    "translation": "已找到钥匙,门将在5秒后解锁!",
+    "countdown": 5
+  },
+  ">>僵尸即将传送， 3 seconds<<<": {
+    "translation": "僵尸将在3秒后传送!",
+    "countdown": 3
+  },
+  ">>door open in 10 seconds<<<": {
+    "translation": "门将在10秒后打开!",
+    "countdown": 10
+  },
+  ">>>钥匙已找到，即将开门 10 seconds<<<": {
+    "translation": "已找到钥匙,门将在10秒后解锁!",
+    "countdown": 10
+  },
+  ">>>僵尸即将传送 3 seconds<<<": {
+    "translation": "僵尸将在3秒后传送!",
+    "countdown": 3
+  },
+  ">>>door open in 10 seconds<<<": {
+    "translation": "门将在10秒后打开!",
+    "countdown": 10
+  },
+  ">>>前往1楼的安全屋！<<<": {
+    "translation": "前往1楼的安全屋!"
+  },
+  ">>>呆在安全屋，即将核爆 30 seconds<<<": {
+    "translation": "待在安全屋,核爆将在30秒后发生!",
+    "countdown": 30
+  },
+  ">>地图作者：ze探险家<<<": {
+    "translation": "地图作者:探险家"
+  },
+  ">>>僵尸即将传送 5 seconds<<<": {
+    "translation": "僵尸将在5秒后传送!",
+    "countdown": 5
+  },
+  ">>>小心汽车<<<": {
+    "translation": "小心汽车!"
+  },
+  ">>>door open in 30 seconds<<<": {
+    "translation": "门将在30秒后打开!",
+    "countdown": 30
+  },
+  ">>>僵尸即将传送 10 seconds<<<": {
+    "translation": "僵尸将在10秒后传送!",
+    "countdown": 10
+  },
+  ">>>door open in 40 seconds<<<": {
+    "translation": "门将在40秒后打开!",
+    "countdown": 40
+  },
+  ">>> ZM <<<": {
+    "translation": "[僵尸生存关]"
+  }
+}
