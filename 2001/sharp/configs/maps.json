@@ -2447,6 +2447,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 30
   },
+  "ze_highschool_escape": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 30,
+    "nomination": true,
+    "price": 400,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ze_hlc_tsunami_v1": {
     "admin": true,
     "certainTimes": [-1],
