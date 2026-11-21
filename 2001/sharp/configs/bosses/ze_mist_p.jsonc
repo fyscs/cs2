@@ -28,14 +28,10 @@
       "display": "复活の死灵龙"
     },
     {
-      "iterator": "counter_dragon",
+      "iterator": "fys_mist_dragon_hp",
+      "counter": "counter_dragon",
+      "backup": "fys_mist_dragon_hp_backup",
       "hitbox": "pbox_dragon",
-      "display": "死灵龙血条"
-    }
-  ],
-  "Breakables": [
-    {
-      "target": "pbox_dragon",
       "display": "死灵龙"
     }
   ]
