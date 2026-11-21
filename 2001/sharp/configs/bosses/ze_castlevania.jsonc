@@ -21,7 +21,15 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Proxy": true,
+  "Counters": [
+    {
+      "iterator": "boss_counter",
+      "counter": "boss_hpbar_overlaycounter",
+      "backup": "boss_hpbar_counter_2",
+      "hitbox": "boss_phys",
+      "display": "Boss"
+    }
+  ],
   "Monsters": [
     {
       "identity": "3111",
