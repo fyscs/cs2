@@ -119,7 +119,8 @@
     "translation": "快跑!!"
   },
   "Wait for power off": {
-    "translation": "等待电源关闭.."
+    "translation": "水池断电还剩25秒",
+    "countdown": 25
   },
   "GET ON THE HELICOPTER": {
     "translation": "快上飞机!"
@@ -252,5 +253,145 @@
   },
   "HEALTHCHARGET RUN OUTS": {
     "translation": "已消耗完所有医疗站的电量!"
+  },
+  "还剩3秒": {
+    "translation": "还剩3秒",
+    "countdown": 3
+  },
+  "还剩5秒": {
+    "translation": "还剩5秒",
+    "countdown": 5
+  },
+  "还剩6秒": {
+    "translation": "还剩6秒",
+    "countdown": 6
+  },
+  "还剩7秒": {
+    "translation": "还剩7秒",
+    "countdown": 7
+  },
+  "还剩8秒": {
+    "translation": "还剩8秒",
+    "countdown": 8
+  },
+  "还剩9秒": {
+    "translation": "还剩9秒",
+    "countdown": 9
+  },
+  "还剩10秒": {
+    "translation": "还剩10秒",
+    "countdown": 10
+  },
+  "还剩12秒": {
+    "translation": "还剩12秒",
+    "countdown": 12
+  },
+  "还剩14秒": {
+    "translation": "还剩14秒",
+    "countdown": 14
+  },
+  "还剩15秒": {
+    "translation": "还剩15秒",
+    "countdown": 15
+  },
+  "还剩20秒": {
+    "translation": "还剩20秒",
+    "countdown": 20
+  },
+  "还剩24秒": {
+    "translation": "还剩24秒",
+    "countdown": 24
+  },
+  "还剩25秒": {
+    "translation": "还剩25秒",
+    "countdown": 25
+  },
+  "还剩30秒": {
+    "translation": "还剩30秒",
+    "countdown": 30
+  },
+  "还剩33秒": {
+    "translation": "还剩33秒",
+    "countdown": 33
+  },
+  "还剩35秒": {
+    "translation": "还剩35秒",
+    "countdown": 35
+  },
+  "还剩40秒": {
+    "translation": "还剩40秒",
+    "countdown": 40
+  },
+  "还剩41秒": {
+    "translation": "还剩41秒",
+    "countdown": 41
+  },
+  "还剩45秒": {
+    "translation": "还剩45秒",
+    "countdown": 45
+  },
+  "还剩48秒": {
+    "translation": "还剩48秒",
+    "countdown": 48
+  },
+  "还剩60秒": {
+    "translation": "还剩60秒",
+    "countdown": 60
+  },
+  "门开还有41秒": {
+    "translation": "门开还有41秒",
+    "countdown": 41
+  },
+  "卷帘门开还有48秒": {
+    "translation": "卷帘门开还有48秒",
+    "countdown": 48
+  },
+  "第一道门还剩25秒": {
+    "translation": "第一道门还剩25秒",
+    "countdown": 25
+  },
+  "第二道门还剩25秒": {
+    "translation": "第二道门还剩25秒",
+    "countdown": 25
+  },
+  "卷帘门还有25秒": {
+    "translation": "卷帘门还有25秒",
+    "countdown": 25
+  },
+  "木门开还有40秒": {
+    "translation": "木门开还有40秒",
+    "countdown": 40
+  },
+  "卷帘门开还剩45秒": {
+    "translation": "卷帘门开还剩45秒",
+    "countdown": 45
+  },
+  "卷帘大门还有24秒": {
+    "translation": "卷帘大门还有24秒",
+    "countdown": 24
+  },
+  "20秒后随机选择路线..": {
+    "translation": "20秒后随机选择路线..",
+    "countdown": 20
+  },
+  "铁网门还剩12秒打开": {
+    "translation": "铁网门还剩12秒打开",
+    "countdown": 12
+  },
+  "双门打开还有20秒": {
+    "translation": "双门打开还有20秒",
+    "countdown": 20
+  },
+  "安放c4房的门还剩35秒": {
+    "translation": "安放c4房的门还剩35秒",
+    "countdown": 35
+  },
+  "小门门开还有25秒": {
+    "translation": "小门门开还有25秒",
+    "countdown": 25
+  },
+  "电梯门开还剩20秒": {
+    "translation": "电梯门开还剩20秒",
+    "countdown": 20
   }
 }
