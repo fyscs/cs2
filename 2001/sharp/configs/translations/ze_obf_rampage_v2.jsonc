@@ -274,10 +274,6 @@
     "translation": "还剩8秒",
     "countdown": 8
   },
-  "还剩9秒": {
-    "translation": "还剩9秒",
-    "countdown": 9
-  },
   "还剩10秒": {
     "translation": "还剩10秒",
     "countdown": 10
@@ -366,6 +362,10 @@
     "translation": "卷帘门开还剩45秒",
     "countdown": 45
   },
+  "上升推力还剩20秒": {
+    "translation": "上升推力还剩20秒",
+    "countdown": 20
+  },
   "卷帘大门还有24秒": {
     "translation": "卷帘大门还有24秒",
     "countdown": 24
@@ -393,5 +393,17 @@
   "电梯门开还剩20秒": {
     "translation": "电梯门开还剩20秒",
     "countdown": 20
+  },
+  "2楼栅栏破碎还剩13秒": {
+    "translation": "2楼栅栏破碎还剩13秒",
+    "countdown": 13
+  },
+  "风扇启动还有35秒": {
+    "translation": "风扇启动还有35秒",
+    "countdown": 35
+  },
+  "直升机抵达还有55秒": {
+    "translation": "直升机抵达还有55秒",
+    "countdown": 55
   }
 }
