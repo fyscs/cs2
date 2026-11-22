@@ -4997,9 +4997,9 @@
   "ze_screaming_bells": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 80,
+    "cooldown": 100,
     "nomination": true,
-    "price": 400,
+    "price": 500,
     "requiredOnline": -1,
     "requiredPlayers": 35
   },
