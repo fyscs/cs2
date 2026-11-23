@@ -1,0 +1,220 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "***PLAYER PICKED UP LASER GUN ***": {
+    "translation": "玩家拾取了激光枪"
+  },
+  "***PLAYER PICKED UP PLASMA CANNON ***": {
+    "translation": "玩家拾取了等离子炮"
+  },
+  "***PLAYER PICKED UP MEDKIT ***": {
+    "translation": "玩家拾取了医疗包"
+  },
+  "*** INTERCEPTOR INCOMING ***": {
+    "translation": "拦截机即将抵达"
+  },
+  "*** DO NOT LET ZOMBIES ESCAPE ***": {
+    "translation": "不要让僵尸逃走"
+  },
+  "*** BOMB PLANTED ***": {
+    "translation": "炸弹已安放"
+  },
+  "*** 35 SECONDS LEFT ***": {
+    "translation": "剩余35秒"
+  },
+  "*** 15 SECONDS LEFT ***": {
+    "translation": "剩余15秒"
+  },
+  "*** 5 SECONDS LEFT ***": {
+    "translation": "剩余5秒"
+  },
+  "*** GALAXY NIGHT CLUB DOOR OPENS IN 20 SECONDS ***": {
+    "translation": "银河夜总会大门20秒后开启"
+  },
+  "*** FIND BUNKER BUTTON ***": {
+    "translation": "寻找地堡按钮"
+  },
+  "*** DOOR OPENS IN 15 SECONDS ***": {
+    "translation": "大门15秒后开启"
+  },
+  "*** BUNKER WILL OPEN IN 15 SECONDS ***": {
+    "translation": "地堡15秒后开启"
+  },
+  "*** YOU NEED TO ESCAPE CYBERIA NOW ***": {
+    "translation": "立即逃离赛博利亚"
+  },
+  "*** INTERCEPTOR COMING IN 45 SECONDS ***": {
+    "translation": "拦截机45秒后抵达"
+  },
+  "*** INTERCEPTOR COMING IN 20 SECONDS ***": {
+    "translation": "拦截机20秒后抵达"
+  },
+  "*** INTERCEPTOR COMING IN 10 SECONDS ***": {
+    "translation": "拦截机10秒后抵达"
+  },
+  "*** ZOMBIE TELEPORT IN THE DUMPSTER IN 10 SECONDS ***": {
+    "translation": "僵尸10秒后传送至垃圾箱"
+  },
+  "*** SECURITY LOCKED THE DOOR ***": {
+    "translation": "安保已锁死大门"
+  },
+  "*** FIND THE BOMB ***": {
+    "translation": "寻找炸弹"
+  },
+  "*** GRAND HALL DOOR OPENS IN 20 SECONDS ***": {
+    "translation": "大厅大门20秒后开启"
+  },
+  "*** GET TO THE ROOM UNDER THE GRAND HALL TO SURVIVE ***": {
+    "translation": "前往大厅下方的房间求生"
+  },
+  "*** BOTH DOORS OPENS IN 25 SECONDS ***": {
+    "translation": "两道门25秒后开启"
+  },
+  "*** BUTTON PRESSED ***": {
+    "translation": "按钮已按下"
+  },
+  "*** 10 SECONDS LEFT ***": {
+    "translation": "剩余10秒"
+  },
+  "*** FIND THE CONSOLE IN THE CONTROL ROOM ***": {
+    "translation": "在控制室寻找控制台"
+  },
+  "***PLAYER PICKED UP CAT CANON ***": {
+    "translation": "玩家拾取了猫猫炮"
+  },
+  "*** MISSION FAILED ***": {
+    "translation": "任务失败"
+  },
+  "*** MISSION PASSED ***": {
+    "translation": "任务完成"
+  },
+  "*** ALL BUTTON PRESSED ***": {
+    "translation": "所有按钮已按下"
+  },
+  "*** DEFEND UNTIL YOU CAN ACTIVATE NUCLEAR CONSOLE  ***": {
+    "translation": "守住直到可激活核弹控制台"
+  },
+  "*** FIND THE BOMB TO EXIT THE SEWER ***": {
+    "translation": "寻找炸弹离开下水道"
+  },
+  "*** PRESS THE RED CONSOLE NEAR THE CLUB ***": {
+    "translation": "按下夜总会附近的红色控制台"
+  },
+  "*** KEEP DEFENDING THE STAIRS UNTIL BOTH DOORS OPENS ***": {
+    "translation": "守住楼梯直到两道门开启"
+  },
+  "*** GALAXY NIGHT CLUB DOOR OPENS IN 15 SECONDS ***": {
+    "translation": "银河夜总会大门15秒后开启"
+  },
+  "*** GALAXY NIGHT CLUB ENTRANCE OPENS IN 20 SECONDS ***": {
+    "translation": "银河夜总会入口20秒后开启"
+  },
+  "*** LASERS TURN OFF IN 15 SECONDS  ***": {
+    "translation": "激光15秒后关闭"
+  },
+  "*** DOOR OPENS IN 30 SECONDS ***": {
+    "translation": "大门30秒后开启"
+  },
+  "*** OBJECTIVE IS NEAR ***": {
+    "translation": "目标就在附近"
+  },
+  "*** FIND THE CONSOLE TO TURN OFF LASERS ***": {
+    "translation": "寻找控制台关闭激光"
+  },
+  "*** GET BACK TO THE CITY AREA AND GET INSIDE THE BUNKER ***": {
+    "translation": "返回城区并进入地堡"
+  },
+  "*** MAXIMUM SECURITY LEVEL ***": {
+    "translation": "最高安保等级"
+  },
+  "*** FIND THE TWO CONSOLES ***": {
+    "translation": "寻找两个控制台"
+  },
+  "*** BOTH DOORS OPENS IN 20 SECONDS ***": {
+    "translation": "两道门20秒后开启"
+  },
+  "*** WE NEED TO TAKE THE ELEVATOR ***": {
+    "translation": "我们需要乘坐电梯"
+  },
+  "*** ACCESS TO THE CONSOLE THROUGH VENT ***": {
+    "translation": "通过通风管前往控制台"
+  },
+  "*** ELEVATOR MOVING ***": {
+    "translation": "电梯已启动"
+  },
+  "*** GET IN NOW ***": {
+    "translation": "快进去"
+  },
+  "*** ELEVATOR MOVING IN 10 SECONDS ***": {
+    "translation": "电梯10秒后启动"
+  },
+  "*** SEWER GRATE BREAKS IN 20 SECONDS LEFT ***": {
+    "translation": "下水道格栅20秒后破碎"
+  },
+  "*** ONE OF THE CONSOLE MIGHT OPEN THE NEXT DOOR ***": {
+    "translation": "其中一个控制台可打开下一道门"
+  },
+  "*** DOOR OPENS IN 10 SECONDS ***": {
+    "translation": "大门10秒后开启"
+  },
+  "*** CRACKING THE DOOR ***": {
+    "translation": "正在破解大门"
+  },
+  "*** DEFEND FOR 20 SECONDS ***": {
+    "translation": "守住20秒"
+  },
+  "*** FIND THE CONSOLE TO OPEN BOTH DOORS ***": {
+    "translation": "寻找控制台打开两道门"
+  },
+  "*** LOOKS LIKE WE CAN ACCESS TO IT WITH THIS VENT ***": {
+    "translation": "似乎可通过此通风管进入"
+  },
+  "*** CONSOLE FOUND ***": {
+    "translation": "已找到控制台"
+  },
+  "*** BOTH DOORS WILL OPENS IN 15 SECONDS ***": {
+    "translation": "两道门15秒后开启"
+  },
+  "*** WE GOT IT ***": {
+    "translation": "搞定了"
+  },
+  "*** SECURITY DOOR WILL OPEN SOON ***": {
+    "translation": "安保门即将开启"
+  },
+  "*** ITS OPENING GET IN AND DEFEND ***": {
+    "translation": "门开了快进去防守"
+  },
+  "*** CYBERIA SECURITY IS ON US ***": {
+    "translation": "赛博利亚安保盯上我们了"
+  },
+  "*** GET BACK TO THE GRAND HALL BEFORE POISON SPREAD IN THE AREA ***": {
+    "translation": "毒气扩散前返回大厅"
+  },
+  "*** POISON RELEASE IN 120 SECONDS ***": {
+    "translation": "毒气120秒后释放"
+  },
+  "*** POISON RELEASE IN 60 SECONDS ***": {
+    "translation": "毒气60秒后释放"
+  },
+  "*** POISON RELEASE IN 30 SECONDS ***": {
+    "translation": "毒气30秒后释放"
+  },
+  "*** POISON RELEASE IN 10 SECONDS ***": {
+    "translation": "毒气10秒后释放"
+  },
+  "*** FINAL DOOR CLOSING IN 5 SECONDS ***": {
+    "translation": "最终大门5秒后关闭"
+  },
+  "*** SECURITY TROOPERS RELEASED ***": {
+    "translation": "安保士兵已出动"
+  }
+}
