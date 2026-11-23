@@ -2987,6 +2987,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ze_lifeforms": {
+    "admin": false,
+    "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 700,
+    "requiredOnline": -1,
+    "requiredPlayers": 30
+  },
   "ze_light_911": {
     "admin": false,
     "certainTimes": [-1],
