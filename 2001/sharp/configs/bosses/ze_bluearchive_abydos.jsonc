@@ -28,21 +28,21 @@
       "counter": "binah_lv1_healthgauge_math",
       "backup": "binah_lv1_healthsave_math",
       "hitbox": "binah_boss_health",
-      "display": "Binah Phase 1"
+      "display": "Binah(阶段1)"
     },
     {
       "iterator": "binah_lv2_health_math",
       "counter": "binah_lv2_healthgauge_math",
       "backup": "binah_lv2_healthsave_math",
       "hitbox": "binah_boss_health",
-      "display": "Binah Phase 2"
+      "display": "Binah(阶段2)"
     },
     {
       "iterator": "binah_lv3_health_math",
       "counter": "binah_lv3_healthgauge_math",
       "backup": "binah_lv3_healthsave_math",
       "hitbox": "binah_boss_health",
-      "display": "Binah Phase 3"
+      "display": "Binah(阶段3)"
     },
     {
       "iterator": "boss_chesed_health",
