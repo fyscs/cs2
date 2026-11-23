@@ -1,0 +1,80 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "大门还有30秒打开": {
+    "translation": "大门将在30秒后打开!",
+    "countdown": 30
+  },
+  "门开了": {
+    "translation": "门开了!"
+  },
+  "快进去门要关了": {
+    "translation": "快进去,门要关了!"
+  },
+  "还有10秒": {
+    "translation": "还剩10秒!"
+  },
+  "坚持40秒": {
+    "translation": "守住40秒!",
+    "countdown": 40
+  },
+  "还有10秒快点上来": {
+    "translation": "还剩10秒,快上来!",
+    "countdown": 10
+  },
+  "僵尸还有10秒到达": {
+    "translation": "僵尸将在10秒后到达!",
+    "countdown": 10
+  },
+  "电梯门还有20秒关闭": {
+    "translation": "电梯门将在20秒后关闭!",
+    "countdown": 20
+  },
+  "坚持20秒": {
+    "translation": "守住20秒!",
+    "countdown": 20
+  },
+  "僵尸还有10秒传送": {
+    "translation": "僵尸将在10秒后传送!",
+    "countdown": 10
+  },
+  "请选择一个": {
+    "translation": "请选择一个!"
+  },
+  "限时40秒": {
+    "translation": "限时40秒!",
+    "countdown": 40
+  },
+  "通关了！！": {
+    "translation": "通关了!!"
+  },
+  "核爆！！！！": {
+    "translation": "核爆!!!!"
+  },
+  "还有50秒": {
+    "translation": "还剩50秒!",
+    "countdown": 50
+  },
+  "快打碎前面的围墙os(有两万血）": {
+    "translation": "快打碎前面的围墙(20000血)!"
+  },
+  "坚持50秒": {
+    "translation": "守住50秒!",
+    "countdown": 50
+  },
+  "回头守住": {
+    "translation": "回头守住!"
+  },
+  "小心不要掉下去": {
+    "translation": "小心,别掉下去!"
+  }
+}
