@@ -1,0 +1,172 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "Created by Vynd": {
+    "translation": "地图作者: Vynd 文本:Zeyu1"
+  },
+  "*LOADING STAGE 1...*": {
+    "translation": "正在加载第1关..."
+  },
+  "*STAGE 1 LOADED*": {
+    "translation": "第1关已加载."
+  },
+  "*LOADING STAGE 2...*": {
+    "translation": "正在加载第2关..."
+  },
+  "*STAGE 2 LOADED*": {
+    "translation": "第2关已加载."
+  },
+  "*ZOMBIE TP IN 10 SECONDS*": {
+    "translation": "僵尸将在10秒后传送!",
+    "countdown": 10
+  },
+  "*GET ON THE WAYSTONE*": {
+    "translation": "快站到传送石上!"
+  },
+  "*WAYSTONE ACTIVATING*": {
+    "translation": "传送石正在启动!"
+  },
+  "*ZOMBIES MADE IT TO THE TRIGGER*": {
+    "translation": "僵尸已抵达触发点!"
+  },
+  "*THE GATEHOUSE DOORS ARE OPENING IN 30 SECONDS*": {
+    "translation": "门楼大门将在30秒后打开!",
+    "countdown": 30
+  },
+  "*THE GATEHOUSE DOORS ARE OPENING IN 10 SECONDS*": {
+    "translation": "门楼大门将在10秒后打开!"
+  },
+  "*THE GATEHOUSE DOORS ARE OPENING*": {
+    "translation": "门楼大门正在打开!"
+  },
+  "*THE CRANE IS STARTING TO MOVE*": {
+    "translation": "起重机正在启动!"
+  },
+  "*GATE OPENING IN 20 SECONDS*": {
+    "translation": "闸门将在20秒后打开!",
+    "countdown": 20
+  },
+  "*GATE OPENING*": {
+    "translation": "闸门正在打开!"
+  },
+  "*BOTH LEVERS HAVE BEEN PULLED*": {
+    "translation": "两根拉杆都已拉下!"
+  },
+  "*DOORS OPENING IN 30 SECONDS*": {
+    "translation": "大门将在30秒后打开!",
+    "countdown": 30
+  },
+  "*DOORS OPENING IN 10 SECONDS*": {
+    "translation": "大门将在10秒后打开!"
+  },
+  "*DOORS OPENING*": {
+    "translation": "大门正在打开!"
+  },
+  "*LEFT LEVER HAS BEEN PULLED*": {
+    "translation": "左侧拉杆已拉下!"
+  },
+  "*RIGHT LEVER HAS BEEN PULLED*": {
+    "translation": "右侧拉杆已拉下!"
+  },
+  "*GATE OPENING IN 30 SECONDS*": {
+    "translation": "闸门将在30秒后打开!",
+    "countdown": 30
+  },
+  "*GATE OPENING IN 10 SECONDS*": {
+    "translation": "闸门将在10秒后打开!"
+  },
+  "*DETONATOR ACTIVATED*": {
+    "translation": "起爆器已启动!"
+  },
+  "*THERE IS NO WAY TO OPEN THE GATEHOUSE*": {
+    "translation": "门楼大门打不开."
+  },
+  "*MAYBE WE CAN USE THAT CANNON*": {
+    "translation": "也许能用那门大炮."
+  },
+  "*CANNON ACTIVATED*": {
+    "translation": "大炮已启动!"
+  },
+  "*WE MADE IT TO THE BELL TOWER*": {
+    "translation": "我们到钟楼了!"
+  },
+  "*PLACE SOME TNT BARRELS NEAR THE SUPPORTS SO WE CAN BLOW THEM UP*": {
+    "translation": "把炸药桶放在支柱旁,炸掉支柱!"
+  },
+  "*FIRST TNT PLACED*": {
+    "translation": "第1桶炸药已放置!"
+  },
+  "*SECOND TNT PLACED*": {
+    "translation": "第2桶炸药已放置!"
+  },
+  "*FINAL TNT PLACED*": {
+    "translation": "最后一桶炸药已放置!"
+  },
+  "*PRESS THE DETONATOR*": {
+    "translation": "按下起爆器!"
+  },
+  "*WAYSTONE ACTIVATING IN 45 SECONDS*": {
+    "translation": "传送石将在45秒后启动!",
+    "countdown": 45
+  },
+  "*WAYSTONE ACTIVATING IN 30 SECONDS*": {
+    "translation": "传送石将在30秒后启动!"
+  },
+  "*WAYSTONE ACTIVATING IN 15 SECONDS*": {
+    "translation": "传送石将在15秒后启动!"
+  },
+  "*DEPARTING DOOMGLAVEN*": {
+    "translation": "正在离开杜姆格拉文."
+  },
+  "*...*": {
+    "translation": "..."
+  },
+  "*......*": {
+    "translation": "......"
+  },
+  "*MAP FINISHED*": {
+    "translation": "地图已通关!"
+  },
+  "*MORE STAGES TO COME SOON...*": {
+    "translation": "更多关卡即将推出..."
+  },
+  "*KILL THE REMAINING ZOMBIES*": {
+    "translation": "消灭剩余的僵尸!"
+  },
+  "*NO ONE SURVIVED...*": {
+    "translation": "无人幸存..."
+  },
+  "*ADMIN FORCED STAGE 1*": {
+    "translation": "管理员强制选择了第1关."
+  },
+  "*ADMIN FORCED STAGE 2*": {
+    "translation": "管理员强制选择了第2关."
+  },
+  "*ADMIN FORCED STAGE 3*": {
+    "translation": "管理员强制选择了第3关."
+  },
+  "*DODGE THE SORCERER'S QUAKE!*": {
+    "translation": "躲开巫师的地震攻击!"
+  },
+  "*DEFEND FROM THE ZOMBIES!*": {
+    "translation": "防守,挡住僵尸!"
+  },
+  "*SHOOT THE SORCERERS BALLS!*": {
+    "translation": "射击巫师的法球!"
+  },
+  "*GET AWAY FROM THE SORCERER!*": {
+    "translation": "远离巫师!"
+  },
+  "*ADMIN FORCED VOTE*": {
+    "translation": "管理员强制选择了路线."
+  }
+}
