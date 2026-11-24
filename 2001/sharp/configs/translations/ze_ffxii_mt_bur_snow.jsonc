@@ -40,9 +40,6 @@
   "**Type MAT_COLORCORRECTION 1 in console for better visuals**": {
     "translation": "建议开启色彩修正,以获得更好视觉效果"
   },
-  "**Map Status: No Stripper!**": {
-    "translation": "地图状态:未设置Stripper"
-  },
   "**[Balthier] We have to hold this area for 15 seconds! Get ready!**": {
     "translation": "准备好,在这里坚持15秒"
   },
@@ -218,8 +215,8 @@
   "**[SECURITY ALERT] Engine 01 has been stopped manually!**": {
     "translation": "警报: [引擎一号]已手动停止"
   },
-  "**Catwalk Gate will open in 20 seconds**": {
-    "translation": "小路的门20秒后打开"
+  "**Catwalk Gate will open in 5 seconds**": {
+    "translation": "小路的门5秒后打开"
   },
   "**[SECURITY ALERT] Engine 02 has been stopped manually!**": {
     "translation": "警报: [引擎二号]已手动停止"

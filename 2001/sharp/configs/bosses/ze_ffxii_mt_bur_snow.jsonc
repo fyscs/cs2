@@ -25,14 +25,14 @@
     {
       "iterator": "Bergan_boss1_attack_HP1",
       "counter": "Bergan_boss1_attack_HP2",
-      "mass": 175,
+      "mass": 158,
       "hitbox": "Bergan_boss1_Physbox",
       "display": "贝甘 (1/2)"
     },
     {
       "iterator": "Bergan_boss2_attack_HP1",
       "counter": "Bergan_boss2_attack_HP2",
-      "mass": 125,
+      "mass": 91,
       "hitbox": "bergan_boss2_physbox",
       "display": "贝甘 (2/2)"
     },
@@ -47,7 +47,7 @@
     {
       "iterator": "shadowkeeper_boss_attack_hp1",
       "counter": "shadowkeeper_boss_attack_hp2",
-      "mass": 180,
+      "mass": 225,
       "hitbox": "shadowkeeper_boss_func_physbox",
       "display": "暗影守卫 (1/2)"
     },
@@ -59,7 +59,7 @@
     {
       "iterator": "Gabranth_boss2_attack_HP1",
       "counter": "Gabranth_boss2_attack_HP2",
-      "mass": 189,
+      "mass": 179,
       "hitbox": "Gabranth_boss2_Hitbox",
       "display": "加布拉斯 (1/2)"
     },
