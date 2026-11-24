@@ -1,0 +1,116 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only)
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "Bergan_boss1_attack_HP1",
+      "counter": "Bergan_boss1_attack_HP2",
+      "mass": 175,
+      "hitbox": "Bergan_boss1_Physbox",
+      "display": "Bergan (1/2)"
+    },
+    {
+      "iterator": "Bergan_boss2_attack_HP1",
+      "counter": "Bergan_boss2_attack_HP2",
+      "mass": 125,
+      "hitbox": "bergan_boss2_physbox",
+      "display": "Bergan (2/2)"
+    },
+    // 实体沿用旧名, 实际Boss已改为铁巨人.
+    {
+      "iterator": "BehemothRed_Boss_Attack_HP1",
+      "counter": "BehemothRed_Boss_Attack_HP2",
+      "mass": 224,
+      "hitbox": "BehemothRed_Boss_Attack_Body",
+      "display": "Iron Giant"
+    },
+    {
+      "iterator": "shadowkeeper_boss_attack_hp1",
+      "counter": "shadowkeeper_boss_attack_hp2",
+      "mass": 180,
+      "hitbox": "shadowkeeper_boss_func_physbox",
+      "display": "Shadowkeeper (1/2)"
+    },
+    {
+      "iterator": "Ending_Shadowkeeper_counter",
+      "hitbox": "Ending_Shadowkeeper_physbox",
+      "display": "Shadowkeeper (2/2)"
+    },
+    {
+      "iterator": "Gabranth_boss2_attack_HP1",
+      "counter": "Gabranth_boss2_attack_HP2",
+      "mass": 189,
+      "hitbox": "Gabranth_boss2_Hitbox",
+      "display": "Gabranth (1/2)"
+    },
+    {
+      "iterator": "ending_boss2_laser_HP",
+      "hitbox": "ending_boss2_laser_break",
+      "display": "Gabranth (2/2)"
+    },
+    // Ending_boss1_laser_template未设spawnflags=2, 运行时实例名带&0000后缀.
+    {
+      "iterator": "Ending_boss1_laser_counter",
+      "hitbox": "Ending_boss1_laser_Physbox&0000",
+      "display": "Zargabaath"
+    },
+    {
+      "iterator": "Mojie_miniboss_counter",
+      "hitbox": "Mojie_miniboss_break",
+      "display": "Adrammelech"
+    },
+    {
+      "iterator": "Bergan_boss1_attack_moon_HP",
+      "hitbox": "bergan_boss1_attack_moon_breakable",
+      "display": "Moon"
+    },
+    {
+      "iterator": "Venat_mini_boss_HP",
+      "hitbox": "Venat_mini_boss_physbox",
+      "display": "Venat"
+    },
+    // King_bomb_ending_physbox与zodiark_ending_physbox二选一共用ending_hp, 不绑定单一hitbox.
+    {
+      "iterator": "ending_hp",
+      "display": "King Bomb | Zodiark"
+    }
+  ],
+  "Breakables": [
+    {
+      "target": "lvl1_crystal_ending_model",
+      "display": "水晶"
+    },
+    {
+      "target": "Shield_boss_laser_breakable",
+      "display": "盾牌"
+    },
+    {
+      "target": "Random_event_Cactus_physbox",
+      "display": "仙人掌"
+    },
+    {
+      "target": "Random_event_imperial_army_physbox",
+      "display": "Guard"
+    }
+  ]
+}
