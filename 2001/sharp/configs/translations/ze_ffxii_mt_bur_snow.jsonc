@@ -91,46 +91,46 @@
   "**[Bash] Kingdom and Empire both formed a pact to guarantee the holy city's independence": {
     "translation": "王国与帝国两方均保证了神都的独立"
   },
-  "OnPressed>cmd>Command>**[Tonberry] Hello my friends! I sell and buy rare items! Take a look through my assortment**>0>1": {
+  "**[Tonberry] Hello my friends! I sell and buy rare items! Take a look through my assortment**": {
     "translation": "朋友们!我在这里做做生意,进来看看"
   },
-  "OnPressed>cmd>Command>**[Tonberry] I lost my Workshop Keys could you help we find them?**>3>1": {
+  "**[Tonberry] I lost my Workshop Keys could you help we find them?**": {
     "translation": "我弄丢了工坊的钥匙,你们能帮忙找齐吗"
   },
-  "OnPressed>cmd>Command>**[Tonberry] Thanks as a gratitude I'll give you a small gift when you next time give back all Keys**>6>1": {
+  "**[Tonberry] Thanks as a gratitude I'll give you a small gift when you next time give back all Keys**": {
     "translation": "你们把钥匙找齐了后我会给你们点小奖励"
   },
-  "OnPressed>cmd>Command>**[Tonberry] Thanks for your help now I can go back to my own**>0>1": {
+  "**[Tonberry] Thanks for your help now I can go back to my own**": {
     "translation": "感谢你们的帮助,现在我可以回去了"
   },
-  "OnPressed>cmd>Command>**[Tonberry] Congratulations! There is your reward!**>3>1": {
+  "**[Tonberry] Congratulations! There is your reward!**": {
     "translation": "不错不错!这是你的奖励!"
   },
-  "OnPressed>cmd>Command>**[Tonberry] Still havent found all keys? You need to bring me 4 more keys**>0>1": {
+  "**[Tonberry] Still havent found all keys? You need to bring me 4 more keys**": {
     "translation": "还没找全吗?还需要四个"
   },
-  "OnPressed>cmd>Command>**[Tonberry] Still havent found all keys? You need to bring me 3 more keys**>0>1": {
+  "**[Tonberry] Still havent found all keys? You need to bring me 3 more keys**": {
     "translation": "还没找全吗?还需要三个"
   },
-  "OnPressed>cmd>Command>**[Tonberry] Still havent found all keys? You need to bring me 2 more keys**>0>1": {
+  "**[Tonberry] Still havent found all keys? You need to bring me 2 more keys**": {
     "translation": "还没找全吗?还需要两个"
   },
-  "OnPressed>cmd>Command>**[Tonberry] Still havent found all keys? You need to bring me 1 more keys**>0>1": {
+  "**[Tonberry] Still havent found all keys? You need to bring me 1 more keys**": {
     "translation": "还没找全吗?还需要一个"
   },
-  "OnPressed>cmd>Command>**[Tonberry] Still havent found all keys? You need to bring me 5 more keys**>0>1": {
+  "**[Tonberry] Still havent found all keys? You need to bring me 5 more keys**": {
     "translation": "还没找全吗?还需要五个"
   },
-  "OnPressed>cmd>Command>**[Tonberry] Still havent found all keys? You need to bring me 6 more keys**>0>1": {
+  "**[Tonberry] Still havent found all keys? You need to bring me 6 more keys**": {
     "translation": "还没找全吗?还需要六个"
   },
-  "OnPressed>cmd>Command>**[Tonberry] Still havent found all keys? You need to bring me 7 more keys**>0>1": {
+  "**[Tonberry] Still havent found all keys? You need to bring me 7 more keys**": {
     "translation": "还没找全吗?还需要七个"
   },
-  "OnPressed>cmd>Command>**[Tonberry] Still havent found all keys? You need to bring me 8 more keys**>0>1": {
+  "**[Tonberry] Still havent found all keys? You need to bring me 8 more keys**": {
     "translation": "还没找全吗?还需要八个"
   },
-  "OnPressed>cmd>Command>**[Tonberry] Still havent found all keys? You need to bring me 9 more keys**>0>1": {
+  "**[Tonberry] Still havent found all keys? You need to bring me 9 more keys**": {
     "translation": "还没找全吗?还需要九个"
   },
   "**[Balthier] Watch out! They are shooting us!**": {
@@ -206,58 +206,13 @@
   "**A player has picked up Dark Magick**": {
     "translation": "玩家已拾起 [引力魔法]"
   },
-  "OnTrigger>cmd>Command>**Beaten Ending - KING BOMB!**>2>1": {
+  "**Beaten Ending - KING BOMB!**": {
     "translation": "已达成结局 - [炸弹王]!"
   },
-  "OnTrigger>cmd>Command>**Beaten Ending - KING BOMB!**>3>1": {
-    "translation": "已达成结局 - [炸弹王]!"
-  },
-  "OnTrigger>cmd>Command>**Beaten Ending - KING BOMB!**>4>1": {
-    "translation": "已达成结局 - [炸弹王]!"
-  },
-  "OnTrigger>cmd>Command>**Beaten Ending - KING BOMB!**>5>1": {
-    "translation": "已达成结局 - [炸弹王]!"
-  },
-  "OnTrigger>cmd>Command>**Beaten Ending - KING BOMB!**>6>1": {
-    "translation": "已达成结局 - [炸弹王]!"
-  },
-  "OnTrigger>cmd>Command>**Beaten Ending - KING BOMB!**>7>1": {
-    "translation": "已达成结局 - [炸弹王]!"
-  },
-  "OnTrigger>cmd>Command>**Beaten Ending - ESPER ZODIARK!**>7>1": {
+  "**Beaten Ending - ESPER ZODIARK!**": {
     "translation": "已达成结局 - [戒律王]!"
   },
-  "OnTrigger>cmd>Command>**Beaten Ending - ESPER ZODIARK!**>6>1": {
-    "translation": "已达成结局 - [戒律王]!"
-  },
-  "OnTrigger>cmd>Command>**Beaten Ending - ESPER ZODIARK!**>5>1": {
-    "translation": "已达成结局 - [戒律王]!"
-  },
-  "OnTrigger>cmd>Command>**Beaten Ending - ESPER ZODIARK!**>4>1": {
-    "translation": "已达成结局 - [戒律王]!"
-  },
-  "OnTrigger>cmd>Command>**Beaten Ending - ESPER ZODIARK!**>3>1": {
-    "translation": "已达成结局 - [戒律王]!"
-  },
-  "OnTrigger>cmd>Command>**Beaten Ending - ESPER ZODIARK!**>2>1": {
-    "translation": "已达成结局 - [戒律王]!"
-  },
-  "OnTrigger>cmd>Command>**Beaten Ending - JUDGE DRACE!**>2>1": {
-    "translation": "已达成结局 - [多雷斯]!"
-  },
-  "OnTrigger>cmd>Command>**Beaten Ending - JUDGE DRACE!**>3>1": {
-    "translation": "已达成结局 - [多雷斯]!"
-  },
-  "OnTrigger>cmd>Command>**Beaten Ending - JUDGE DRACE!**>4>1": {
-    "translation": "已达成结局 - [多雷斯]!"
-  },
-  "OnTrigger>cmd>Command>**Beaten Ending - JUDGE DRACE!**>5>1": {
-    "translation": "已达成结局 - [多雷斯]!"
-  },
-  "OnTrigger>cmd>Command>**Beaten Ending - JUDGE DRACE!**>6>1": {
-    "translation": "已达成结局 - [多雷斯]!"
-  },
-  "OnTrigger>cmd>Command>**Beaten Ending - JUDGE DRACE!**>7>1": {
+  "**Beaten Ending - JUDGE DRACE!**": {
     "translation": "已达成结局 - [多雷斯]!"
   },
   "**[SECURITY ALERT] Engine 01 has been stopped manually!**": {
