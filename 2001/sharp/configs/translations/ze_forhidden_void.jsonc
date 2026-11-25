@@ -56,16 +56,16 @@
     "translation": "一位玩家获得了治疗魔法!"
   },
   "We have to take back our devices,Search the missing devices around the crash site!!!": {
-    "translation": "我们必须取回我们的设备,快在坠机地点周围搜寻丢失的设备!"
+    "translation": "快在坠机地点周围搜寻丢失的设备!"
   },
   "a locked gate, destroy it!": {
     "translation": "摧毁那扇上锁的门!"
   },
   "It seems like a altar,need something to active it": {
-    "translation": "它看起来像个祭坛,我们需要寻找一些东西来激活它"
+    "translation": "我们需要寻找一些东西来激活祭坛"
   },
   "Altar is now functioning,we need to defend until it's completed": {
-    "translation": "祭坛已开始运行,我们需要防守直到它完工"
+    "translation": "祭坛已开始运行,我们需要防守"
   },
   "The portal is open, get in now!!!": {
     "translation": "入口已打开,快进来!!"
@@ -77,7 +77,7 @@
     "translation": "祭坛散发出奇怪的能量,它在腐蚀我们!"
   },
   "We made it! Those sacrificial companions will be memorialized forever.We can't fail them.The portal is going to open,get in now!": {
-    "translation": "我们成功了 不能辜负他们,传送门就要打开了,现在就进去!"
+    "translation": "传送门就要打开了,现在就进去!"
   },
   "Wait for the path to open [20 sec]": {
     "translation": "道路20秒后打开!"
@@ -104,10 +104,10 @@
     "translation": "门5秒后打开!"
   },
   "Left Side": {
-    "translation": "左边!"
+    "translation": "面对僵尸的  <右边>!"
   },
   "Right Side": {
-    "translation": "右边!"
+    "translation": "面对僵尸的  <左边>!"
   },
   "Wait for the crystal to fall [23 sec]": {
     "translation": "水晶23秒后落下"
@@ -185,7 +185,7 @@
     "translation": "看样子某些事件等待30秒后才能知道"
   },
   "What's this place? Weird magic teleport us to here": {
-    "translation": "这是什么地方?奇怪的魔法把我们传送到这里"
+    "translation": "这是什么地方?"
   },
   "This is a corpse.What happened to the advanced team?": {
     "translation": "这是一具尸体?先锋小组怎么了!?"
@@ -197,7 +197,7 @@
     "translation": "我们需要18秒,保持防守"
   },
   "It seems to need a key,Maybe we should look around": {
-    "translation": "看来需要一把钥匙,也许我们应该四处看看"
+    "translation": "看来需要一把钥匙"
   },
   "hold on [24 sec]": {
     "translation": "守住24秒"
@@ -233,7 +233,8 @@
     "translation": "这座岛上怎么那么多魔龙??"
   },
   "According to radar before our helicopter crashed,There seems to be a huge building nearby,We need to take a look": {
-    "translation": "根据直升机坠毁前的雷达显示,附近似乎有一座巨大的建筑,我们需要去看看"
+    "translation": "根据直升机坠毁前的雷达显示,附近似乎有一座巨大的建筑,我们需要去看看",
+    "blocked": true
   },
   "The gate is opening [6 sec]": {
     "translation": "大门还有6秒打开"
@@ -263,7 +264,7 @@
     "translation": "道路已经畅通,是时候出发了"
   },
   "This corpse has a C4,Use it to destroy the stone below": {
-    "translation": "这具尸体上有一个 C4,用它摧毁下方的石头"
+    "translation": "我们需要用C4摧毁下方的石头"
   },
   "We need to spend some time to dismantle this iron gate [15 sec]": {
     "translation": "我们需要15秒拆除这扇铁门"
@@ -272,12 +273,94 @@
     "translation": "安装C4,摧毁这些岩石"
   },
   "s**t!We still need 5 pieces,altar is devouring all of us,it wants our lives to fill its gaps": {
-    "translation": "我们还需要 ⑤ 块,祭坛正在吞噬我们所有人,它想要我们的生命来填补它的空缺"
+    "translation": "我们还需要 5 块"
   },
   "We don't have enough items to active this altar! [40 sec]": {
     "translation": "等待40秒启动这个祭坛"
   },
   "defend until entrance opens [50 sec]": {
     "translation": "门在50秒后打开!"
+  },
+  "<< Warm Up Time >>": {
+    "translation": "热身时间"
+  },
+  "The slate is opening [12 sec]": {
+    "translation": "石板将在12秒后打开",
+    "countdown": 12
+  },
+  "Get in now! The slate is going to close!": {
+    "translation": "快进去!石板就要合上了!"
+  },
+  "need time to open this gate  [35 sec]": {
+    "translation": "大门将在35秒后打开",
+    "countdown": 35
+  },
+  "It seems like we have to split up": {
+    "translation": "看来我们得分头行动"
+  },
+  "need time to open this gate [20 sec]": {
+    "translation": "大门将在20秒后打开",
+    "countdown": 20
+  },
+  "need time to open this gate [24 sec]": {
+    "translation": "大门将在24秒后打开",
+    "countdown": 24
+  },
+  "Wait for the gate to open [23 sec]": {
+    "translation": "等待大门打开,还有23秒",
+    "countdown": 23
+  },
+  "a locked gate, destroy it !": {
+    "translation": "摧毁那扇上锁的门!"
+  },
+  "Find the mechanism to open the slate below": {
+    "translation": "找到打开下方石板的机关"
+  },
+  "Zombies Escape!!!!": {
+    "translation": "僵尸逃出来了!"
+  },
+  "Altar is now functioning,we need to defend until it's completed [40 sec]": {
+    "translation": "祭坛已开始运行,守住40秒",
+    "countdown": 40
+  },
+  "The portal is open, get in now [10 sec]!!!": {
+    "translation": "传送门将在10秒后打开!",
+    "countdown": 10
+  },
+  "s**t!We still need 1 pieces,altar is devouring all of us,it wants our lives to fill its gaps": {
+    "translation": "还缺1块"
+  },
+  "s**t!We still need 2 pieces,altar is devouring all of us,it wants our lives to fill its gaps": {
+    "translation": "还缺2块"
+  },
+  "s**t!We still need 3 pieces,altar is devouring all of us,it wants our lives to fill its gaps": {
+    "translation": "还缺3块"
+  },
+  "s**t!We still need 4 pieces,altar is devouring all of us,it wants our lives to fill its gaps": {
+    "translation": "还缺4块"
+  },
+  "s**t!We still need 6 pieces,altar is devouring all of us,it wants our lives to fill its gaps": {
+    "translation": "还缺6块"
+  },
+  "She disappeared, we need to leave this place now [37 sec]!!!": {
+    "translation": "还有37秒!",
+    "countdown": 37
+  },
+  "This is the end,Get in and leave this s**t place [19 sec]!!!": {
+    "translation": "还有19秒!",
+    "countdown": 19
+  },
+  "Acheron Arrive!": {
+    "translation": "黄泉已到场!"
+  },
+  "Hoshimi Miyabi Arrive!": {
+    "translation": "星见雅已到场!"
+  },
+  "According to ancient record, five demons were sealed by powerful warriors at this land. After 200 years, the sealed demons will awake and bring endless wars and chaos again.": {
+    "translation": "古籍记载,五只恶魔曾被强大的战士封印在这片土地上.两百年后,它们将苏醒,再次带来无尽的战争与混乱.",
+    "blocked": true
+  },
+  "Slicco": {
+    "translation": "斯利科"
   }
 }
