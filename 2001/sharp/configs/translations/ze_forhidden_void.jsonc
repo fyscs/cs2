@@ -65,7 +65,7 @@
     "translation": "我们需要寻找一些东西来激活祭坛"
   },
   "Altar is now functioning,we need to defend until it's completed": {
-    "translation": "祭坛已开始运行,我们需要防守直到它完工"
+    "translation": "祭坛已开始运行,我们需要防守"
   },
   "The portal is open, get in now!!!": {
     "translation": "入口已打开,快进来!!"
@@ -185,7 +185,7 @@
     "translation": "看样子某些事件等待30秒后才能知道"
   },
   "What's this place? Weird magic teleport us to here": {
-    "translation": "这是什么地方?奇怪的魔法把我们传送到这里"
+    "translation": "这是什么地方?"
   },
   "This is a corpse.What happened to the advanced team?": {
     "translation": "这是一具尸体?先锋小组怎么了!?"
@@ -197,7 +197,7 @@
     "translation": "我们需要18秒,保持防守"
   },
   "It seems to need a key,Maybe we should look around": {
-    "translation": "看来需要一把钥匙,也许我们应该四处看看"
+    "translation": "看来需要一把钥匙"
   },
   "hold on [24 sec]": {
     "translation": "守住24秒"
@@ -264,7 +264,7 @@
     "translation": "道路已经畅通,是时候出发了"
   },
   "This corpse has a C4,Use it to destroy the stone below": {
-    "translation": "这具尸体上有一个 C4,用它摧毁下方的石头"
+    "translation": "我们需要用C4摧毁下方的石头"
   },
   "We need to spend some time to dismantle this iron gate [15 sec]": {
     "translation": "我们需要15秒拆除这扇铁门"
@@ -320,7 +320,7 @@
     "translation": "僵尸逃出来了!"
   },
   "Altar is now functioning,we need to defend until it's completed [40 sec]": {
-    "translation": "祭坛已开始运行,守住40秒直到仪式完成",
+    "translation": "祭坛已开始运行,守住40秒",
     "countdown": 40
   },
   "The portal is open, get in now [10 sec]!!!": {
