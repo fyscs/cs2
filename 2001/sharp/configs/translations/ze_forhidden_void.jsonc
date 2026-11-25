@@ -284,22 +284,14 @@
   "<< Warm Up Time >>": {
     "translation": "热身时间"
   },
-  "The gate is opening [6 sec] ": {
-    "translation": "大门将在6秒后打开",
-    "countdown": 6
-  },
-  "Wait for the church gate to open [50 sec] ": {
-    "translation": "守住50秒,等待教堂大门打开",
-    "countdown": 50
-  },
-  "The slate is opening [12 sec] ": {
+  "The slate is opening [12 sec]": {
     "translation": "石板将在12秒后打开",
     "countdown": 12
   },
   "Get in now! The slate is going to close!": {
     "translation": "快进去!石板就要合上了!"
   },
-  "need time to open this gate  [35 sec] ": {
+  "need time to open this gate  [35 sec]": {
     "translation": "大门将在35秒后打开",
     "countdown": 35
   },
