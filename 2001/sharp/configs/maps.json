@@ -149,8 +149,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 800,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ancient_wrath_p": {
     "admin": false,
@@ -1814,8 +1814,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffvii_cosmo_canyon_v2": {
     "admin": false,
@@ -1823,8 +1823,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
     "ze_ffvii_cosmo_canyon_v5_p": {
     "admin": false,
@@ -1832,8 +1832,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 600,
-    "requiredPlayers": 40
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffvii_fako_reactor": {
     "admin": true,
@@ -1841,8 +1841,8 @@
     "cooldown": 60,
     "nomination": true,
     "price": 300,
-    "requiredOnline": 600,
-    "requiredPlayers": 50
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffvii_mako_reactor_v5_3": {
     "admin": false,
@@ -1850,8 +1850,8 @@
     "cooldown": 30,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 600,
-    "requiredPlayers": 40
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffvii_mako_reactor_v6_p": {
     "admin": false,
@@ -1859,8 +1859,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffvii_malgo_reactor": {
     "admin": false,
@@ -1868,8 +1868,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 600,
-    "requiredPlayers": 40
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffvii_snow_cosmo": {
     "admin": false,
@@ -1877,8 +1877,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 800,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffvii_temple_ancient": {
     "admin": false,
@@ -1886,8 +1886,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 800,
-    "requiredOnline": 600,
-    "requiredPlayers": 50
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffxii_feywood_t": {
     "admin": false,
@@ -1895,8 +1895,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffxii_mt_bur_omisace_v5": {
     "admin": false,
@@ -1904,8 +1904,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 500,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffxii_mt_bur_omisace_v6": {
     "admin": false,
@@ -1913,8 +1913,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 500,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffxii_paramina_rift": {
     "admin": false,
@@ -1922,8 +1922,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 800,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffxii_ridorana_cataract": {
     "admin": false,
@@ -1931,8 +1931,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffxii_westersand_v7_t": {
     "admin": false,
@@ -1940,8 +1940,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffxii_westersand_v8": {
     "admin": false,
@@ -1949,8 +1949,8 @@
     "cooldown": 30,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffxiv_coil_of_bahamut": {
     "admin": false,
@@ -1958,8 +1958,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 500,
-    "requiredOnline": 600,
-    "requiredPlayers": 50
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffxiv_great_gubal_library": {
     "admin": false,
@@ -1967,8 +1967,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 500,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffxiv_pharos_sirius_night": {
     "admin": false,
@@ -1976,8 +1976,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 500,
-    "requiredOnline": 600,
-    "requiredPlayers": 40
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffxiv_reisen_temple": {
     "admin": false,
@@ -1985,8 +1985,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 500,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffxiv_the_orbonne_monastery": {
     "admin": false,
@@ -1994,8 +1994,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 800,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffxiv_wanderers_palace": {
     "admin": false,
@@ -2003,8 +2003,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 550,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffxiv_wanderers_palace_v5_2": {
     "admin": false,
@@ -2012,8 +2012,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 550,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_ffxiv_wanderers_palace_v6_2": {
     "admin": false,
@@ -2021,8 +2021,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 550,
-    "requiredOnline": 600,
-    "requiredPlayers": 40
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_fireboy_watergirl": {
     "admin": false,
@@ -4668,7 +4668,7 @@
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 35
   },
   "ze_raccoon_facility_p": {
     "admin": false,
@@ -5477,8 +5477,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 500,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_steyliff_grove_r": {
     "admin": false,
@@ -5486,8 +5486,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_steyliff_grove_yk": {
     "admin": false,
@@ -5495,8 +5495,8 @@
     "cooldown": 100,
     "nomination": true,
     "price": 700,
-    "requiredOnline": 600,
-    "requiredPlayers": 45
+    "requiredOnline": -1,
+    "requiredPlayers": 35
   },
   "ze_stilshrine_of_miriam": {
     "admin": false,
@@ -5505,7 +5505,7 @@
     "nomination": true,
     "price": 600,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 35
   },
   "ze_strange_escape_p": {
     "admin": false,
@@ -6477,7 +6477,7 @@
     "nomination": true,
     "price": 700,
     "requiredOnline": -1,
-    "requiredPlayers": 45
+    "requiredPlayers": 35
   },
   "ze_zk_fapescape_p": {
     "admin": false,
