@@ -22,26 +22,27 @@
 
 {
   "Counters": [
+    // Binah uses a separate set of counters for each phase.
     {
       "iterator": "binah_lv1_health_math",
       "counter": "binah_lv1_healthgauge_math",
       "backup": "binah_lv1_healthsave_math",
       "hitbox": "binah_boss_health",
-      "display": "Binah"
+      "display": "Binah(阶段1)"
     },
     {
       "iterator": "binah_lv2_health_math",
       "counter": "binah_lv2_healthgauge_math",
       "backup": "binah_lv2_healthsave_math",
       "hitbox": "binah_boss_health",
-      "display": "Binah"
+      "display": "Binah(阶段2)"
     },
     {
       "iterator": "binah_lv3_health_math",
       "counter": "binah_lv3_healthgauge_math",
       "backup": "binah_lv3_healthsave_math",
       "hitbox": "binah_boss_health",
-      "display": "Binah"
+      "display": "Binah(阶段3)"
     },
     {
       "iterator": "boss_chesed_health",
@@ -73,17 +74,18 @@
     {
       "iterator": "s2_raid_tower_health_math_04",
       "hitbox": "s2_raid_tower_04_health",
-      "display": "s204" 
+      "display": "s204"
     },
     {
       "iterator": "s2_raid_tower_health_math_03",
       "hitbox": "s2_raid_tower_health_03",
-      "display": "s203" 
-    },
+      "display": "s203"
+    }
+  ],
+  "Monsters": [
     {
-      "iterator": "S1_arapche_health_math",
-      "hitbox": "S1_arapche_health",
-      "display": "arapche" 
+      "identity": "7609",
+      "display": "Apache"
     }
   ]
 }
