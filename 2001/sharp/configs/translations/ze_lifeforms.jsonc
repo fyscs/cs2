@@ -11,19 +11,19 @@
 
 {
   "{ ADMIN FORCED STAGE THE PRESENCE }": {
-    "translation": "管理员已强制切换至第二章: 降临"
+    "translation": "管理员切换至第二章: 降临"
   },
   "{ ADMIN FORCED STAGE THE ASCENT }": {
-    "translation": "管理员已强制切换至第一章: 攀升"
+    "translation": "管理员切换至第一章: 攀升"
   },
   "{ ADMIN FORCED STAGE THE ORIGIN }": {
-    "translation": "管理员已强制切换至终章: 起源"
+    "translation": "管理员切换至终章: 起源"
   },
   "{ ADMIN FORCED STAGE THE FLOOD }": {
-    "translation": "管理员已强制切换至第三章: 洪流"
+    "translation": "管理员切换至第三章: 洪流"
   },
   "{ ADMIN SET THE STAGE SYSTEM BACK TO DEFAULT }": {
-    "translation": "管理员已恢复默认关卡顺序"
+    "translation": "管理员恢复默认关卡顺序"
   },
   "{ ZOMBIES HAVE REACHED THE OBJECTIVE }": {
     "translation": "僵尸已到达目标点"
@@ -59,7 +59,7 @@
     "translation": "僵尸可走两侧平台"
   },
   "{ ADMIN FORCED PRACTICE MOD }": {
-    "translation": "管理员已强制开启练习模式"
+    "translation": "管理员开启练习模式"
   },
   "{ PRACTICE MOD }": {
     "translation": "练习模式"
@@ -146,7 +146,7 @@
     "translation": "水位上升加快"
   },
   "{ BREAK ALL PURPLE CRYSTALS AND KILL THE CIPHER TO DISABLE THE SHIELD }": {
-    "translation": "打碎所有紫水晶并击败密码体以解除护盾"
+    "translation": "打碎紫水晶并击败密码体破盾"
   },
   "{ LAST PLATFORM LEAVING SOON }": {
     "translation": "最终平台即将离开"
@@ -161,10 +161,10 @@
     "translation": "躲避光束"
   },
   "{ STAY IN THE MIDDLE PLATFORM AND DONT LET ANY ZOMBIES TOUCH IT }": {
-    "translation": "守住中央平台并阻止僵尸触碰"
+    "translation": "守住中央平台防僵尸触碰"
   },
   "{ ZOMBIES CAN NOW REACH THE BOSS PLATFORM }": {
-    "translation": "僵尸现在可以登上Boss平台"
+    "translation": "僵尸可登上Boss平台"
   },
   "{ 35 }": {
     "translation": "剩余35秒"
@@ -176,10 +176,10 @@
     "translation": "存活70秒"
   },
   "{ GET BACK TO THE MIDDLE TO ESCAPE THIS AREA }": {
-    "translation": "返回中央平台以撤离此区域"
+    "translation": "返回中央平台撤离"
   },
   "{ ZOMBIES WILL GET TELEPORTED FOR A WHILE }": {
-    "translation": "僵尸将被暂时传送一段时间"
+    "translation": "僵尸将被暂时传送"
   },
   "{ SWIM TO THE NEXT AREA }": {
     "translation": "游向下一区域"
