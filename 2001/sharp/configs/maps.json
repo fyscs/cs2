@@ -686,7 +686,7 @@
   "ze_bluearchive_abydos": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 30,
+    "cooldown": 100,
     "nomination": true,
     "price": 300,
     "requiredOnline": 900,
@@ -1199,7 +1199,7 @@
   "ze_dark_sanctuary": {
     "admin": true,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 30,
+    "cooldown": 100,
     "nomination": true,
     "price": 600,
     "requiredOnline": 600,
@@ -2144,7 +2144,7 @@
   "ze_forhidden_slicoo_cn": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 30,
+    "cooldown": 100,
     "nomination": true,
     "price": 700,
     "requiredOnline": 600,
@@ -2513,7 +2513,7 @@
     "ze_hr_dark_carnival": {
     "admin": true,
     "certainTimes": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 30,
+    "cooldown": 80,
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
@@ -2927,7 +2927,7 @@
   "ze_last_man_standing": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 120,
+    "cooldown": 30,
     "nomination": true,
     "price": 700,
     "requiredOnline": -1,
@@ -3323,7 +3323,7 @@
   "ze_megastructure": {
     "admin": true,
     "certainTimes": [-1],
-    "cooldown": 30,
+    "cooldown": 80,
     "nomination": true,
     "price": 400,
     "requiredOnline": -1,
@@ -3548,7 +3548,7 @@
   "ze_mission_escape_cs2": {
     "admin": false,
     "certainTimes": [-1],
-    "cooldown": 60,
+    "cooldown": 30,
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
@@ -4943,7 +4943,7 @@
   "ze_ruin_of_black_stone": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 30,
+    "cooldown": 100,
     "nomination": true,
     "price": 500,
     "requiredOnline": 600,
@@ -5204,7 +5204,7 @@
   "ze_silent_hill_2_rengurn": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 100,
+    "cooldown": 30,
     "nomination": true,
     "price": 500,
     "requiredOnline": 600,
@@ -5528,7 +5528,7 @@
   "ze_sun_kingdom": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 100,
+    "cooldown": 30,
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
@@ -5591,7 +5591,7 @@
   "ze_surf_easy": {
     "admin": false,
     "certainTimes": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
-    "cooldown": 30,
+    "cooldown": 100,
     "nomination": true,
     "price": 300,
     "requiredOnline": -1,
@@ -6212,7 +6212,7 @@
   "ze_unfulfilled_ambition": {
     "admin": false,
     "certainTimes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
-    "cooldown": 100,
+    "cooldown": 30,
     "nomination": true,
     "price": 500,
     "requiredOnline": -1,
