@@ -1,0 +1,772 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**GIM52A vanquished! keep running!**": {
+    "translation": "**GIM52A被击败!继续跑!**"
+  },
+  "**Defend until the gates will open!**": {
+    "translation": "**守住直到大门打开!**"
+  },
+  "**We are trapped! Defend until somethings happen!**": {
+    "translation": "**我们被困住了!守住,直到有事发生!**"
+  },
+  "**Chaos vanquished! we can leave!**": {
+    "translation": "**混沌被征服!我们可以离开了!**"
+  },
+  "**Chaos has casted Dark Magick**": {
+    "translation": "**混沌施展了黑魔法**"
+  },
+  "**Chaos has casted Ultimate Electric Explosion**": {
+    "translation": "**混沌施放了究极电爆**"
+  },
+  "**Chaos has casted Scathe Attack**": {
+    "translation": "**混沌施放了\"割伤攻击\"**"
+  },
+  "**Chaos has summoned Thunder Field**": {
+    "translation": "**混沌召唤了雷霆之场**"
+  },
+  "**Chaos has casted Annihilation**": {
+    "translation": "**混沌施展了灭绝咒**"
+  },
+  "**Chaos has casted Strong Energy Strike**": {
+    "translation": "**混沌施放了强力能量打击**"
+  },
+  "**Chaos has summoned Fire Meteor**": {
+    "translation": "**混沌召唤了火陨石**"
+  },
+  "**Chaos has casted Holy Flash**": {
+    "translation": "**混沌施放了圣闪电侠**"
+  },
+  "**Chaos has casted Ultimate Ice Strike**": {
+    "translation": "**混沌施放了终极冰击**"
+  },
+  "**Chaos has casted Ultimate Attack**": {
+    "translation": "**混沌施放了终极攻击**"
+  },
+  "**Chaos has casted Aging of Metal, Watch your feet!**": {
+    "translation": "**混沌施放了金属老化,小心脚步!**"
+  },
+  "**Nades do more damage!**": {
+    "translation": "**手雷伤害更高!**"
+  },
+  "**Defend until something happen!**": {
+    "translation": "**防守直到发生变化!**"
+  },
+  "**Wait, bridge has been destroyed, we must find another way to get out!": {
+    "translation": "**等等,桥被毁了,我们得找别的办法逃出去!"
+  },
+  "**Level has been changed on Normal Mode**": {
+    "translation": "**关卡已切换至普通模式**"
+  },
+  "**Level has been changed on Extreme Mode**": {
+    "translation": "**极限模式的等级已更改**"
+  },
+  "**Level has been changed on God Mode**": {
+    "translation": "**God 模式的等级已更改**"
+  },
+  "**Level has been changed on Legend Mode**": {
+    "translation": "**传奇模式的等级已更改**"
+  },
+  "**Level has been changed on Insane Mode**": {
+    "translation": "**关卡已切换至疯狂模式**"
+  },
+  "**Too slow!**": {
+    "translation": "**太慢了!**"
+  },
+  "**Judge Bergan vanquished, keep running!**": {
+    "translation": "**伯根法官被击败,继续奔跑!**"
+  },
+  "**The teleporter will active in 10 seconds**": {
+    "translation": "**传送器将在10秒后激活**"
+  },
+  "**Defend here until way is open!**": {
+    "translation": "**在这里防守,直到路开!**"
+  },
+  "**GO GO GO!**": {
+    "translation": "**加油加油!**"
+  },
+  "**Bergan blocking teleporter, we need to defeat him!**": {
+    "translation": "**伯根阻挡传送门,我们必须击败他!**"
+  },
+  "**We can't let him get away!**": {
+    "translation": "**我们不能让他逃掉!**"
+  },
+  "**Cross the bridge, we must get out of here!**": {
+    "translation": "**过桥,我们必须离开这里!**"
+  },
+  "**Hold this area until fence is open!**": {
+    "translation": "**守住此区域直到围栏打开!**"
+  },
+  "**Hold this area for 10 seconds!**": {
+    "translation": "**保持此区域10秒!**"
+  },
+  "**A player has picked up Haste Magick | Speed - level 1 |**": {
+    "translation": "**一名玩家已获得加速魔法 |速度 - 1级 |**"
+  },
+  "**A player has picked up Hastera Magick | Speed - level 2 |**": {
+    "translation": "**玩家已掌握哈斯特拉魔法 |速度 - 2级 |**"
+  },
+  "**A player has picked up Hastega Magick | Speed - level 3 |**": {
+    "translation": "**一名玩家已获得速攻魔法 |速度 - 3级 |**"
+  },
+  "**A zombie has picked up Confuse Magick | level 1 |**": {
+    "translation": "**一只僵尸已经学会了迷惑魔法 |1级 |**"
+  },
+  "**A zombie has picked up Confuse Magick | level 2 |**": {
+    "translation": "**一只僵尸已经学会了迷惑魔法 |2级 |**"
+  },
+  "**A zombie has picked up Confuse Magick | level 3 |**": {
+    "translation": "**僵尸已经学会了迷惑魔法 |3级 |**"
+  },
+  "**A player has picked up Limit Breaks Magick | Ultima - level 1 |**": {
+    "translation": "**玩家已掌握极限技魔法 |<终极传说>- 1级 |**"
+  },
+  "**A player has picked up Limit Breaks Magick | Ultima - level 2 |**": {
+    "translation": "**玩家已拾取极限技魔法 |Ultima-2级 |**"
+  },
+  "**A player has picked up Limit Breaks Magick | Ultima - level 3 |**": {
+    "translation": "**玩家已拾取极限技魔法 |终极传奇 - 3级 |**"
+  },
+  "**A player has picked up Sand Magick | Sandstorm - level 1 |**": {
+    "translation": "**玩家已学会沙魔法 |沙尘暴 - 1级 |**"
+  },
+  "**A player has picked up Sandra Magick | Sandstorm - level 2 |**": {
+    "translation": "**有玩家已经捡起了Sandra Magick |沙尘暴 - 2级 |**"
+  },
+  "**A player has picked up Sandaga Magick | Sandstorm - level 3 |**": {
+    "translation": "**有玩家已拾取桑达加魔法 |沙暴 - 3级 |**"
+  },
+  "**Zombie has picked up Dark Magick | Dark - level 1 |**": {
+    "translation": "**僵尸已经学会了黑魔法 |黑暗 - 1级 |**"
+  },
+  "**Zombie has picked up Darkra Magick | Dark - level 2 |**": {
+    "translation": "**僵尸已经掌握了达克拉魔法 |黑暗 - 2级 |**"
+  },
+  "**Zombie has picked up Darkga Magick | Dark - level 3 |**": {
+    "translation": "**僵尸已掌握达克加魔法 |暗黑 - 3级 |**"
+  },
+  "**A zombie has picked up Protect Magick | level 1 |**": {
+    "translation": "**一只僵尸已经捡起了魔法保护 |1级 |**"
+  },
+  "**A zombie has picked up Protectra Magick | level 2 |**": {
+    "translation": "**一只僵尸已经拿到了Protectra Magick |2级 |**"
+  },
+  "**A zombie has picked up Protectga Magick | level 3 |**": {
+    "translation": "**一只僵尸已经拿到了Protectga魔法 |3级 |**"
+  },
+  "**A player has picked up Poisona Magick | Poison - level 1 |**": {
+    "translation": "**玩家已获得毒药魔法 |毒 - 1级 |**"
+  },
+  "**A player has picked up Poison Magick | Poison - level 2 |**": {
+    "translation": "**一名玩家已获得毒魔法 |毒药 - 2级 |**"
+  },
+  "**A player has picked up Toxify Magick | Poison - level 3 |**": {
+    "translation": "**玩家已拾取毒素魔法 |毒药 - 3级 |**"
+  },
+  "**A zombie has picked up Warp Magick | level 1 |**": {
+    "translation": "**一只僵尸已经学会了传送魔法 |1级 |**"
+  },
+  "**A zombie has picked up Warp Magick | level 2 |**": {
+    "translation": "**一只僵尸已经学会了扭曲魔法 |2级 |**"
+  },
+  "**A zombie has picked up Warp Magick | level 3 |**": {
+    "translation": "**一只僵尸已经学会了扭曲魔法 |3级 |**"
+  },
+  "**A zombie has picked up Invisible Magick | level 1 |**": {
+    "translation": "**僵尸已经学会了隐形魔法 |1级 |**"
+  },
+  "**A zombie has picked up Invisible Magick | level 2 |**": {
+    "translation": "**一只僵尸已经学会了隐形魔法 |第二关 |**"
+  },
+  "**A zombie has picked up Invisible Magick | level 3 |**": {
+    "translation": "**僵尸已经学会了隐形魔法 |3级 |**"
+  },
+  "**A player has picked up Dark Magick | Gravity- level 1 |**": {
+    "translation": "**一名玩家已获得黑魔法 |重力-1级 |**"
+  },
+  "**A player has picked up Darkra Magick | Gravity - level 2 |**": {
+    "translation": "**玩家已拾取达克拉魔法 |重力 - 2级 |**"
+  },
+  "**A player has picked up Dark Magick | Gravity - level 3 |**": {
+    "translation": "**玩家已掌握黑魔法 |重力 - 3级 |**"
+  },
+  "**A player has picked up Darkga Magick | Gravity - level 3 |**": {
+    "translation": "**一名玩家已拾取Darkga魔法 |重力 - 3级 |**"
+  },
+  "**A player has picked up Fire Magick | Fire - level 1 |**": {
+    "translation": "**玩家已掌握火焰魔法 |火焰 - 1级 |**"
+  },
+  "**A player has picked up Fira Magick | Fire - level 2 |**": {
+    "translation": "**玩家已掌握Fira Magick |火焰 - 2级 |**"
+  },
+  "**A player has picked up Firaga Magick | Fire - level 3 |**": {
+    "translation": "**有玩家已掌握Firaga魔法 |火焰 - 3级 |**"
+  },
+  "**A player has picked up Oil Magick | Oil - level 1 |**": {
+    "translation": "**玩家已学会油魔法 |油 - 1级 |**"
+  },
+  "**A player has picked up Oil Magick | Oil - level 2 |**": {
+    "translation": "**一名玩家已学会油魔法 |油 - 2级 |**"
+  },
+  "**A player has picked up Oil Magick | Oil - level 3 |**": {
+    "translation": "**玩家已学会油魔法 |油 - 3级 |**"
+  },
+  "**A player has picked up Oile Magick | Oil - level 3 |**": {
+    "translation": "**玩家已学会Oile魔法 |油 - 3级 |**"
+  },
+  "**A player has picked up Oilga Magick | Oil - level 3 |**": {
+    "translation": "**一名玩家已拾取油加魔法 |油 - 3级 |**"
+  },
+  "**A player has picked up Cura Magick | Heal - level 1 |**": {
+    "translation": "**玩家已学会Cura魔法 |治疗 - 1级 |**"
+  },
+  "**A player has picked up Curaja Magick | Heal - level 2 |**": {
+    "translation": "**一名玩家已学会库拉贾魔法 |治疗 - 2级 |**"
+  },
+  "**A player has picked up Curaga Magick | Heal - level 3 |**": {
+    "translation": "**一名玩家已掌握Curaga魔法 |治疗 - 3级 |**"
+  },
+  "**A player has picked up Frozen Starlight | Ice - level 1 |**": {
+    "translation": "**玩家已拾取<冰雪奇缘:星光>|冰 - 1级 |**"
+  },
+  "**A player has picked up Frozen Starlight | Ice - level 2 |**": {
+    "translation": "**一位玩家已拾取<冰雪奇缘星光> |冰 - 2级 |**"
+  },
+  "**A player has picked up Frozen Starlight | Ice - level 3 |**": {
+    "translation": "**有玩家已拾取<冰雪奇缘:星光> |冰 - 3级 |**"
+  },
+  "**A player has picked up Thunder Magick | Electro - level 1 |**": {
+    "translation": "**玩家已拾取雷电魔法 |雷元素 - 1级 |**"
+  },
+  "**A player has picked up Thundara Magick | Electro - level 2 |**": {
+    "translation": "**有玩家已拾取Thundara魔法 |雷元素 - 2级 |**"
+  },
+  "**A player has picked up Thundaga Magick | Electro - level 3 |**": {
+    "translation": "**一名玩家已拾取Thundaga魔法 |雷元素 - 3级 |**"
+  },
+  "**You destroyed Leviathan and you won the map, amazing! **": {
+    "translation": "**你摧毁了利维坦,还赢得了地图,太棒了!**"
+  },
+  "**Try your destiny on the final secret level!**": {
+    "translation": "**在最终秘密关卡上试试你的命运!**"
+  },
+  "**Zombie detected, you lose!**": {
+    "translation": "**发现僵尸,你输了!**"
+  },
+  "**You have beaten Mt Bur Omisace!! Congratulations !! **": {
+    "translation": "**你已经击败了布尔奥米萨克山!!恭喜!!**"
+  },
+  "**Gates will open in 15 seconds!**": {
+    "translation": "**大门将在15秒后打开!**"
+  },
+  "**Judge Gabranth vanquished!**": {
+    "translation": "**加布兰斯法官败北!**"
+  },
+  "**Gabranth has casted Blizzaga Magick!**": {
+    "translation": "**Gabranth 已经施放了 Blizzaga 魔法!**"
+  },
+  "**Judge Bergan vanquished!**": {
+    "translation": "**伯根法官战败!**"
+  },
+  "**Bergan has casted Firaga Magick!**": {
+    "translation": "**伯根施展了菲拉加魔法!**"
+  },
+  "**Zargabaath is dead, run!**": {
+    "translation": "**扎尔加巴斯死了,快跑!**"
+  },
+  "**Nades do more damage**": {
+    "translation": "**手榴弹造成更多伤害**"
+  },
+  "**Gates will open in 23 seconds!**": {
+    "translation": "**大门将在23秒后打开!**"
+  },
+  "**It's old Airship, we can use him to escape!**": {
+    "translation": "**这是老飞艇,我们可以利用他逃跑!**"
+  },
+  "**Something incoming, prepare to fight!**": {
+    "translation": "**有东西来袭,准备战斗!**"
+  },
+  "**Gates will close in 5 seconds!**": {
+    "translation": "**大门将在5秒后关闭!**"
+  },
+  "**Metal doors will open in 10 seconds!**": {
+    "translation": "**金属门将在10秒后打开!**"
+  },
+  "**Defend here until teleport will enable!**": {
+    "translation": "**在这里防守,直到传送开启!**"
+  },
+  "**Insane mode was beaten. Unlocking Legend mode**": {
+    "translation": "**疯狂模式已通关.解锁传奇模式**"
+  },
+  "**We escaped with look...**": {
+    "translation": "**我们带着一丝目光逃脱......**"
+  },
+  "**Imperial Army sends the most dangerous Airship**": {
+    "translation": "**帝国陆军派出最危险的飞艇**"
+  },
+  "**Dreadnought Leviathan!?**": {
+    "translation": "**无畏舰利维坦!?**"
+  },
+  "**We have to destroy the airship before they manage to land**": {
+    "translation": "**我们必须在他们降落之前摧毁飞艇**"
+  },
+  "**Hold this area for 15 seconds!**": {
+    "translation": "**保持此区域15秒!**"
+  },
+  "OnTrigger>cmd>Command>**Defend here until random gatest will open!**>20.00>1": {
+    "translation": "OnTrigger>cmd>Command>**在此防守,直到随机 gatest 打开!**>20.00>1"
+  },
+  "**Dreadnought Leviathan is nearby Kiltian Temple**": {
+    "translation": "**无畏巨兽就在基尔提安神庙附近**"
+  },
+  "**There is a chance that the teleport in the temple may connect to the airship**": {
+    "translation": "**神殿里的传送器有可能与飞船相连**"
+  },
+  "**Run, don't get killed, the further fate of this place depends on you, you can't lose!**": {
+    "translation": "**快跑,别被杀,这个地方的未来命运取决于你,你不能输!**"
+  },
+  "**The alarm should cease after a time, but it's better to avoid drawing unnecessary attention**": {
+    "translation": "**闹钟过一段时间后应该停止,但最好避免引起不必要的注意**"
+  },
+  "**Break one of those beams and an alarm will sound, summoning the guard**": {
+    "translation": "**打断其中一根光束报警器会响,召唤守卫**"
+  },
+  "**It is a mechanism to detect intruder within the ship**": {
+    "translation": "**这是监测船内入侵者的机制**"
+  },
+  "**See that red web of light spanning the passage way?**": {
+    "translation": "**看到横跨通道的红色光网了吗?**"
+  },
+  "**Wait. A word of caution before we set out**": {
+    "translation": "**等等.在出发前先提醒一句**"
+  },
+  "**Elevator is disabled, we must turn on power manually**": {
+    "translation": "**电梯已停用,我们必须手动开启电源**"
+  },
+  "**Find switch and defend until elevator starts moving**": {
+    "translation": "**找到开关并防守,直到电梯开始移动**"
+  },
+  "**The Elevator will start in 12 seconds": {
+    "translation": "**电梯将在12秒后启动**"
+  },
+  "**We got the power. The elevator is enable!**": {
+    "translation": "**我们已接通电源,电梯已启用!**"
+  },
+  "**GIM52A has been summoned to judge us!*": {
+    "translation": "**GIM52A已被召唤来审判我们!**"
+  },
+  "**Defeat him before he kills us!**": {
+    "translation": "**在他杀了我们之前击败他!**"
+  },
+  "**Hold here for 10 seconds!**": {
+    "translation": "**在这里坚持10秒!**"
+  },
+  "**Defend until the gates is open!**": {
+    "translation": "**防守直到大门打开!**"
+  },
+  "Gates will open in 30 seconds!": {
+    "translation": "大门将在30秒后打开!"
+  },
+  "**Bergan has casted Cure Magick**": {
+    "translation": "**Bergan施放了治愈魔法**"
+  },
+  "**Bergan has casted Water Magick**": {
+    "translation": "**Bergan施放了水系魔法**"
+  },
+  "**Bergan has casted Beam Ability**": {
+    "translation": "**Bergan施放了光束技能**"
+  },
+  "**Bergan has casted Firaga Magick**": {
+    "translation": "**Bergan施放了烈焰魔法**"
+  },
+  "**Bergan has casted Gravity Magick**": {
+    "translation": "**Bergan施放了重力魔法**"
+  },
+  "**Run away from Bergan!**": {
+    "translation": "**远离Bergan!**"
+  },
+  "**remember this place is not real, but his attacks are!**": {
+    "translation": "**记住这个地方不真实,但他的攻击是真的!**"
+  },
+  "**Judge Berganteleported us to his dimension!": {
+    "translation": "**审判者Bergan将我们传送到他的空间!**"
+  },
+  "**Some of the items can affect him. Use them!**": {
+    "translation": "**一些道具可以影响他.使用它们!**"
+  },
+  "**Defend until the path is clear!**": {
+    "translation": "**防守直到道路清空!**"
+  },
+  "**Defend here until doors will close!**": {
+    "translation": "**在这里防守直到门关闭!**"
+  },
+  "**Hard mode was beaten. Unlocking Extreme mode **": {
+    "translation": "**困难模式已通关.解锁极限模式**"
+  },
+  "**Look at his Gates, we should be able to open them**": {
+    "translation": "**看他的门,我们应该能打开它们**"
+  },
+  "**Hold this area for 35 seconds!**": {
+    "translation": "**把这一片区域守住35秒!**"
+  },
+  "**It's not shortcut but ancient gem room!**": {
+    "translation": "**这不是捷径,而是远古宝石房!**"
+  },
+  "**Snow Dragon has casted Ice Tornado!**": {
+    "translation": "**雪龙施放了冰旋风!**"
+  },
+  "**Snow Dragon begins to channel DEATH AND DOOM into the area! DON'T STAY ON THE MIDDLE!**": {
+    "translation": "**雪龙开始向该区域引导死亡与毁灭!不要呆在中间!**"
+  },
+  "**Snow Dragon has casted Fire Beam**": {
+    "translation": "**雪龙施放了火焰光束**"
+  },
+  "**Snow Dragon has casted Ice Shield, Stop shooting, you only healing him!**": {
+    "translation": "**雪龙施放了冰盾,停止射击,你只会治疗他!**"
+  },
+  "**Snow Dragon has casted Cure Magick!**": {
+    "translation": "**雪龙施放了治愈魔法!**"
+  },
+  "**Snow Dragon has casted Ice Missile!**": {
+    "translation": "**雪龙施放了冰导弹!**"
+  },
+  "**Snow Dragon has casted Poison Explosion!**": {
+    "translation": "**雪龙施放了毒爆!**"
+  },
+  "**Snow Dragon has casted Flame Breath Explosion!**": {
+    "translation": "**雪龙施放了烈焰吐息爆炸!**"
+  },
+  "**Snow Dragon has been defeated!**": {
+    "translation": "**雪龙已被击败!**"
+  },
+  "**Take Blue Crystal, his power can help us in future!**": {
+    "translation": "**拿起蓝色水晶,他的力量将来会帮助我们!**"
+  },
+  "**The Fence will open in 10 seconds**": {
+    "translation": "**围栏将在10秒后打开**"
+  },
+  "**Wait until something happens**": {
+    "translation": "**等待事件发生**"
+  },
+  "**Gates will open in 20 seconds!**": {
+    "translation": "**传送门将在20秒后打开!**"
+  },
+  "**Map by Ma/l/go**": {
+    "translation": "**地图制作:Ma/l/go**"
+  },
+  "**Welcome to Mt Bur Omisace**": {
+    "translation": "**欢迎来到布尔.奥米萨斯山**"
+  },
+  "**Extreme mode was beaten. Unlocking Insane mode**": {
+    "translation": "**极限模式已通关.正在解锁疯狂模式**"
+  },
+  "**Shadow blocking the way, we must defeat him! shoot**": {
+    "translation": "**阴影挡住了路,我们必须打败它!开火**"
+  },
+  "**That Shadow!**": {
+    "translation": "**那个阴影!**"
+  },
+  "**The Armory room will open in 8 seconds!**": {
+    "translation": "**兵器库将在8秒钟后打开!**"
+  },
+  "**Judge Ghis couldn't have gone far, most likely running to the hangar**": {
+    "translation": "**吉斯法官不会走得太远,很可能跑向机库**"
+  },
+  "**We have to get out of here as soon as possible!**": {
+    "translation": "**我们必须尽快离开这里!**"
+  },
+  "**Zargabaath wants to destroy leviathan with us**": {
+    "translation": "**扎加巴斯想和我们一起摧毁利维坦**"
+  },
+  "**One of the engines gonna explode!?**": {
+    "translation": "**其中一个引擎要爆炸了!?**"
+  },
+  "**Zargabaath vanquished, keep running!**": {
+    "translation": "**扎加巴斯被击败,继续跑!**"
+  },
+  "**Defend until something gonna happen!!**": {
+    "translation": "**防守直到有事情发生!**"
+  },
+  "**Defend until teleport is enable!**": {
+    "translation": "**防守直到传送可用!**"
+  },
+  "**Zargabaath has casted Tornado Magick**": {
+    "translation": "**扎加巴斯施放了龙卷风魔法**"
+  },
+  "**Zargabaath has casted Protect Magick**": {
+    "translation": "**扎加巴斯施放了防护魔法**"
+  },
+  "**Don't stay on the middle!**": {
+    "translation": "**不要站在中间!**"
+  },
+  "**Zargabaath has casted Fire Attack**": {
+    "translation": "**扎加巴斯施放了火焰攻击**"
+  },
+  "**Zargabaath has casted Cure Magick**": {
+    "translation": "**扎加巴斯施放了治疗魔法**"
+  },
+  "**Zargabaath has casted Vampire Ability**": {
+    "translation": "**扎加巴斯施放了吸血鬼技能**"
+  },
+  "**Zargabaath has casted Ultimate Attack**": {
+    "translation": "**扎加巴斯施放了终极攻击**"
+  },
+  "**Zargabaath is using Dark Magick**": {
+    "translation": "**扎加巴斯正在使用黑暗魔法**"
+  },
+  "**Zargabaath has casted Damage Attack**": {
+    "translation": "**扎加巴斯施放了伤害攻击**"
+  },
+  "**Zargabaath has casted Thunder Ability**": {
+    "translation": "**扎加巴斯施放了雷电技能**"
+  },
+  "**Gates will open in 20 seconds**": {
+    "translation": "**大门将在20秒后打开**"
+  },
+  "**Gates are closed, we need to find another way!**": {
+    "translation": "**大门关闭了,我们需要找另一条路!**"
+  },
+  "**Gates will open in 35 seconds!**": {
+    "translation": "**大门将在35秒后打开!**"
+  },
+  "**Airship going to explode, we must get out of here, run!**": {
+    "translation": "**飞船要爆炸了,我们必须离开这里,快跑!**"
+  },
+  "**Jude Zargabaath escape, we have to catch him!**": {
+    "translation": "**裘德.扎加巴斯逃走了,我们必须抓住他!**"
+  },
+  "**Some of the items can affect Zargabaath. Use them!**": {
+    "translation": "**一些道具可以影响扎加巴斯.使用它们!**"
+  },
+  "**Random way will unlock in 10 seconds!**": {
+    "translation": "**随机通道将在10秒后解锁!**"
+  },
+  "**Way has been unlock, keep running!**": {
+    "translation": "**通道已解锁,继续跑!**"
+  },
+  "**Defend here until gates will open!**": {
+    "translation": "**在这里防守直到大门打开!**"
+  },
+  "**Gates are open!**": {
+    "translation": "**大门已打开!**"
+  },
+  "**Engine room will open in 15 seconds!**": {
+    "translation": "**引擎室将在15秒后打开!**"
+  },
+  "**Defent until way will open!**": {
+    "translation": "**防守直到通道打开!**"
+  },
+  "**Elevator will enable in 14 seconds!**": {
+    "translation": "**电梯将在14秒后启动!**"
+  },
+  "**Gates will open in 30 seconds!**": {
+    "translation": "**大门将在30秒后打开!**"
+  },
+  "**Gates will close in 15 seconds!**": {
+    "translation": "**大门将在15秒后关闭!**"
+  },
+  "**Hard mode was beaten. Unlocking extreme mode**": {
+    "translation": "**困难模式已通关.解锁极限模式**"
+  },
+  "**Wait 5 seconds more!**": {
+    "translation": "**再等5秒!**"
+  },
+  "**Nobody has been in these ruins for a long time**": {
+    "translation": "**很久没人踏入这些废墟**"
+  },
+  "**Find an unlocked door, maybe you can open it!**": {
+    "translation": "**找到一扇未上锁的门,也许你能打开它!**"
+  },
+  "**First let's try to go left, better go down!**": {
+    "translation": "**先尝试向左走,最好向下!**"
+  },
+  "**Bridge exploded, hurry find another way!**": {
+    "translation": "**桥梁爆炸了,快找另一条路!**"
+  },
+  "**GO GO GO!!**": {
+    "translation": "**快,快,快!!**"
+  },
+  "**Defend this place for 20 seconds**": {
+    "translation": "**防守这个地方20秒**"
+  },
+  "**We can run away from this empty tower**": {
+    "translation": "**我们可以从这座空塔逃走**"
+  },
+  "**Hopefully Gran Kiltias Anastasis is safe**": {
+    "translation": "**希望大祭司安纳斯塔西斯安全**"
+  },
+  "**Judge Bergan should be dead but with them you never know, let's hope we never meet him again**": {
+    "translation": "**Bergan法官应该已经死了,但有他们在你永远不知道,希望我们再也不要遇到他**"
+  },
+  "**Judge Bergan vanquished**": {
+    "translation": "**Bergan法官已被击败**"
+  },
+  "**Bergan has casted Ultima Magick**": {
+    "translation": "**Bergan施放了终极魔法**"
+  },
+  "**Get away from Bergan!**": {
+    "translation": "**离Bergan远点!**"
+  },
+  "**Bergan has casted Fire Ability**": {
+    "translation": "**Bergan施放了火焰能力**"
+  },
+  "**Stay away from Bergan!**": {
+    "translation": "**远离Bergan!**"
+  },
+  "**Bergan has casted Blizzard Magick**": {
+    "translation": "**Bergan施放了暴风雪魔法**"
+  },
+  "**Bergan has casted Energy Ability**": {
+    "translation": "**Bergan施放了能量能力**"
+  },
+  "**When we were in the Stilshrine of Miriam we could see smoke coming from that area**": {
+    "translation": "**当我们在米利安神殿时,我们可以看到那片地区冒出烟雾**"
+  },
+  "**We have to check it out, we'll meet with Gran Kiltias Anastasis**": {
+    "translation": "**我们必须去检查一下,我们将与大祭司Anastasis会面**"
+  },
+  "**Anyway, we need to meet him!**": {
+    "translation": "**无论如何,我们需要见他!**"
+  },
+  "**We need to get to him asap, we won't move on without his help**": {
+    "translation": "**我们必须尽快找到他,没有他的帮助我们无法继续**"
+  },
+  "**Find way to main temple and talk with Gran Kiltias Anastasis**": {
+    "translation": "**找到通往主神殿的路并与大祭司 Anastasis 交谈**"
+  },
+  "OnTrigger>cmd>Command>**Don't let them escape!**>7.00>1": {
+    "translation": "**不要让他们逃跑!**"
+  },
+  "OnTrigger>cmd>Command>**Impasible Judge Bergan and Gabranth we must stop them!**>5.00>1": {
+    "translation": "不可阻挡的Bergan和Gabranth,我们必须阻止他们!**"
+  },
+  "OnTrigger>cmd>Command>**Wait what's that?**>3.00>1": {
+    "translation": "**等等,那是什么?**"
+  },
+  "OnTrigger>cmd>Command>**The left gate is closed! We must open nearby one**>17.00>1": {
+    "translation": "**左门关闭了!我们必须打开附近的门**"
+  },
+  "OnTrigger>cmd>Command>**Hold this area until gate open!**>19.00>1": {
+    "translation": "**守住这个区域直到门打开!**"
+  },
+  "OnTrigger>cmd>Command>**No matter how strong he is we have to beat him or else mt bur-omisace will be destroyed!**>13.00>1": {
+    "translation": "**不管他有多强,我们必须击败他,否则我的山-奥米萨斯将被毁!**"
+  },
+  "OnTrigger>cmd>Command>**This may be our only opportunity to fight him**>10.00>1": {
+    "translation": "**这可能是我们唯一的机会去对抗他**"
+  },
+  "OnTrigger>cmd>Command>**That's why he's so powerful some he has several that's why he is so dangerous**>7.00>1": {
+    "translation": "**这就是他如此强大的原因,他有好几个力量,这也是他如此危险的原因**"
+  },
+  "OnTrigger>cmd>Command>**Supposedly he have a limit breaker!**>5.00>1": {
+    "translation": "**据说他有极限突破!**"
+  },
+  "OnTrigger>cmd>Command>**Apparently Judge Gabranth is hiding in this part of the tower!**>3.00>1": {
+    "translation": "**显然Gabranth法官隐藏在塔的这一部分!**"
+  },
+  "**Judge Bergan probably went to the room where Gran Kiltias Anastasis is staying!**": {
+    "translation": "**Bergan 法官可能去了大祭司 Anastasis 所在的房间!**"
+  },
+  "**Don't let him hurt Anastasis, you need to hurry up!**": {
+    "translation": "**不要让他伤害Anastasis,你需要快点!**"
+  },
+  "**I hope the soldiers of the empire will not disturb us**": {
+    "translation": "**希望帝国的士兵不会打扰我们**"
+  },
+  "**Cover here for 15 seconds before we clear this obstacle**": {
+    "translation": "**在我们清除这个障碍之前,在这里防守15秒**"
+  },
+  "**Hold here for 13 seconds!**": {
+    "translation": "**在这里坚持13秒!**"
+  },
+  "**Gates will open in 25 seconds!**": {
+    "translation": "**大门将在 25 秒后开启!**"
+  },
+  "**Gabranth has casted Meteor Magick**": {
+    "translation": "**Gabranth施放了陨石魔法**"
+  },
+  "**Keep moving!**": {
+    "translation": "**继续前进!**"
+  },
+  "**Gabranth has casted Protect Magick**": {
+    "translation": "**Gabranth施放了保护魔法**"
+  },
+  "**Gabranth has casted Cure Magick**": {
+    "translation": "**Gabranth施放了治疗魔法**"
+  },
+  "**Gabranth has casted Blizzard Magick**": {
+    "translation": "**Gabranth施放了暴风雪魔法**"
+  },
+  "**Gabranth has casted Shine Magick**": {
+    "translation": "**Gabranth施放了闪耀魔法**"
+  },
+  "**Gabranth has casted Wave of Fear**": {
+    "translation": "**Gabranth施放了恐惧波**"
+  },
+  "**Gabranth has casted Double Damage**": {
+    "translation": "**Gabranth施放了双倍伤害**"
+  },
+  "**Stay away from Gabranth!**": {
+    "translation": "**远离加布兰特!**"
+  },
+  "**Gabranth has casted Vampire Ability**": {
+    "translation": "**加布兰特施放了吸血鬼技能**"
+  },
+  "**Stop shooting!**": {
+    "translation": "**停止射击!**"
+  },
+  "**Gabranth has casted Slow Magick**": {
+    "translation": "**加布兰特施放了减速魔法**"
+  },
+  "**Gabranth has casted Ultima Magick**": {
+    "translation": "**加布兰特施放了终极魔法**"
+  },
+  "**Get away from Gabranth!**": {
+    "translation": "**离开加布兰特!**"
+  },
+  "**Gabranth has casted Vulcan Magick**": {
+    "translation": "**加布兰特施放了火山魔法**"
+  },
+  "**Gabranth has casted Energy Ability**": {
+    "translation": "**加布兰特施放了能量技能**"
+  },
+  "**Stay in the middle!**": {
+    "translation": "**待在中间!**"
+  },
+  "**Gabranth has casted Thunder Ability**": {
+    "translation": "**加布兰特施放了雷电技能**"
+  },
+  "**Gabranth has casted Gravity Magick**": {
+    "translation": "**加布兰特施放了重力魔法**"
+  },
+  "**Run away from Gabranth!**": {
+    "translation": "**从加布兰特那里跑开!**"
+  },
+  "**Judge Gabranth vanquished, keep running!**": {
+    "translation": "**审判官加布兰特被击败,继续奔跑!**"
+  },
+  "**We took control of the stone, it may be useful later**": {
+    "translation": "**我们控制了石头,它以后可能有用**"
+  },
+  "**We have to get to the exit, we can't go back, so keep running**": {
+    "translation": "**我们必须到出口,不能回头,所以继续跑**"
+  },
+  "**Hold here for 20 seconds!**": {
+    "translation": "**在这里坚持20秒!**"
+  },
+  "Map By Ma/l/go": {
+    "translation": "地图作者:Ma/l/go"
+  },
+  "ze_ffxii_Mt_Bur_Omisace": {
+    "translation": "ze_ffxii_Mt_Bur_Omisace"
+  }
+}

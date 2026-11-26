@@ -1,0 +1,103 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only)
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Counters": [
+    {
+      "iterator": "stage4_minibosscounter",
+      "hitbox": "stage4_minibossbreak",
+      "display": "S4_Mini"
+    },
+    {
+      "iterator": "stage6_chaosminibossgethp",
+      "hitbox": "stage6_chaosminiboss_physbox",
+      "backup": "stage6_chaosminibossbackhp",
+      "counter": "stage6_chaosminiboss_diehp",
+      "display": "S6_Chaos"
+    },
+    {
+      "iterator": "stage4_berganending_counter",
+      "hitbox": "stage4_berganendingbossphysbox",
+      "display": "S4_Lasers"
+    },
+    {
+      "iterator": "stage5_bossroom_judge_gabranth_hp",
+      "hitbox": "stage5_bossroom_judge_gabranth_func",
+      "display": "S5_Gabranth"
+    },
+    {
+      "iterator": "stage5_bossroom_judge_bergan_hp",
+      "hitbox": "stage5_bossroom_judge_bergan_func",
+      "display": "S5_Bergan"
+    },
+    {
+      "iterator": "bergan1_hp",
+      "hitbox": "lvl4_bergan1_func",
+      "backup": "bergan1counterbackup",
+      "counter": "bergan1_endhp",
+      "display": "S4_Bergan"
+    },
+    {
+      "iterator": "ghisgethp",
+      "hitbox": "frog2_hitbox",
+      "backup": "ghisbackhp",
+      "counter": "ghis_diehp",
+      "display": "Frog"
+    },
+    {
+      "iterator": "bergan2gethp",
+      "hitbox": "ifrit_phys_body",
+      "backup": "bergan2backhp",
+      "counter": "bergan2_diehp",
+      "display": "Bergan"
+    },
+    {
+      "iterator": "gabranthgethp",
+      "hitbox": "solid_paper_hitbox",
+      "backup": "gabranthbackhp",
+      "counter": "gabranth_diehp",
+      "display": "Gabranth"
+    },
+    {
+      "iterator": "stage6_laser_hp_counter",
+      "hitbox": "stage6_ghis_func",
+      "display": "S6_Lasers"
+    },
+    {
+      "iterator": "dragongethp",
+      "hitbox": "dragon_breakable",
+      "backup": "dragonbackhp",
+      "counter": "dragon_diehp",
+      "display": "Dragon"
+    },
+    {
+      "iterator": "stage3_venat_hp_counter",
+      "hitbox": "stage3_venat_hp_breakable",
+      "display": "Venat"
+    },
+    {
+      "iterator": "stage5_end_ghis_hp",
+      "hitbox": "end_ghis_func",
+      "display": "S5_End"
+    }
+  ]
+}
