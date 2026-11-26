@@ -1,0 +1,96 @@
+// BossHP configuration file generator.
+// Boss Version v23
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // [Boss (Breakables/Counters)]
+  // display    (string)   -> 显示的名称
+  // hitbox     (string)   -> 打击框
+  // stages     (int)      -> 阶段数
+  // target     (string)   -> 目标名称 (Breakable only)
+  // count      (int)      -> 血条格数 (Breakable only)
+  // iterator   (string)   -> 计数器 (MathCounter only)
+  // backup     (string)   -> 后备计数器 (MathCounter only)
+  // mass       (int)      -> 后备算法参数 (MathCounter only)
+  // counter    (string)   -> 血条计数器 (MathCounter only)
+  // increase   (bool)     -> iterator是OnHitMax模式 (MathCounter only)
+  // reverse    (bool)     -> counter是OnHitMax模式 (MathCounter only)
+  // [Npc (Monsters)]
+  // display    (string)   -> 显示的名称
+  // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
+
+{
+  "Breakables": [
+    {
+      "target": "cipher_hitbox",
+      "display": "护盾密码体"
+    }
+  ],
+  "Counters": [
+    {
+      "iterator": "x_boss_s2_health",
+      "counter": "x_boss_s2_segment",
+      "mass": 40,
+      "hitbox": "x_s2_boss_physbox",
+      "display": "降临之眼"
+    },
+    {
+      "iterator": "st3_cipher_health_counter",
+      "hitbox": "st3_cipher_hitbox",
+      "display": "密码体"
+    },
+    {
+      "iterator": "s3_cipher_laser_boss_health",
+      "hitbox": "s3_cipher_hitbox",
+      "display": "终焉密码体"
+    },
+    {
+      "iterator": "lifeform_health",
+      "counter": "lifeform_segment",
+      "mass": 70,
+      "hitbox": "lifeform_hitbox",
+      "display": "生命体"
+    },
+    {
+      "iterator": "h_d_x_counter",
+      "hitbox": "h_d_x_hitbox",
+      "display": "终焉生命体"
+    }
+  ],
+  // NPC 与护盾水晶只显示受击剩余血量, 不刷 Boss 结算榜.
+  "Monsters": [
+    {
+      "identity": "236",
+      "display": "经典猎头蟹"
+    },
+    {
+      "identity": "247",
+      "display": "猎头蟹"
+    },
+    {
+      "identity": "389",
+      "display": "孢子球"
+    },
+    {
+      "identity": "5091",
+      "display": "紫水晶1"
+    },
+    {
+      "identity": "5094",
+      "display": "紫水晶2"
+    },
+    {
+      "identity": "5098",
+      "display": "紫水晶3"
+    },
+    {
+      "identity": "5101",
+      "display": "紫水晶4"
+    },
+    {
+      "identity": "5104",
+      "display": "紫水晶5"
+    }
+  ]
+}

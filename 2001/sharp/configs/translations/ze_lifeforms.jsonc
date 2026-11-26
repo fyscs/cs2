@@ -1,0 +1,202 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "{ ADMIN FORCED STAGE THE PRESENCE }": {
+    "translation": "管理员切换至第二章: 降临"
+  },
+  "{ ADMIN FORCED STAGE THE ASCENT }": {
+    "translation": "管理员切换至第一章: 攀升"
+  },
+  "{ ADMIN FORCED STAGE THE ORIGIN }": {
+    "translation": "管理员切换至终章: 起源"
+  },
+  "{ ADMIN FORCED STAGE THE FLOOD }": {
+    "translation": "管理员切换至第三章: 洪流"
+  },
+  "{ ADMIN SET THE STAGE SYSTEM BACK TO DEFAULT }": {
+    "translation": "管理员恢复默认关卡顺序"
+  },
+  "{ ZOMBIES HAVE REACHED THE OBJECTIVE }": {
+    "translation": "僵尸已到达目标点"
+  },
+  "THE ORIGIN": {
+    "translation": "终章: 起源"
+  },
+  "THE FLOOD": {
+    "translation": "第三章: 洪流"
+  },
+  "{ GRATE OPENS IN 15 SECONDS }": {
+    "translation": "格栅将在15秒后打开"
+  },
+  "THE PRESENCE": {
+    "translation": "第二章: 降临"
+  },
+  "{ GRATE BREAKING IN 15 SECONDS }": {
+    "translation": "格栅将在15秒后破碎"
+  },
+  "THE ASCENT": {
+    "translation": "第一章: 攀升"
+  },
+  "{ GRATE BREAKING IN 20 SECONDS }": {
+    "translation": "格栅将在20秒后破碎"
+  },
+  "{ BIOMASS DRAIN }": {
+    "translation": "生物质汲取"
+  },
+  "{ REFLECTION }": {
+    "translation": "伤害反射"
+  },
+  "{ ZOMBIES CAN TAKE THE SIDE PLATFORMS }": {
+    "translation": "僵尸可走两侧平台"
+  },
+  "{ ADMIN FORCED PRACTICE MOD }": {
+    "translation": "管理员开启练习模式"
+  },
+  "{ PRACTICE MOD }": {
+    "translation": "练习模式"
+  },
+  "{ WARMUP ROUND }": {
+    "translation": "热身回合"
+  },
+  "{ MAP WILL START IN 15 SECONDS }": {
+    "translation": "地图将在15秒后开始"
+  },
+  "{ PLAYER PICKED UP HEAL }": {
+    "translation": "玩家拾取了治疗"
+  },
+  "{ ZOMBIE PICKED UP SHIELD }": {
+    "translation": "僵尸拾取了护盾"
+  },
+  "{ ZOMBIE PICKED UP POISON BOMB }": {
+    "translation": "僵尸拾取了毒气弹"
+  },
+  "{ ZOMBIE PICKED UP BOMB }": {
+    "translation": "僵尸拾取了炸弹"
+  },
+  "{ PLAYER PICKED UP FLAMETHROWER }": {
+    "translation": "玩家拾取了喷火器"
+  },
+  "{ PLAYER PICKED UP GRAVITY BALL }": {
+    "translation": "玩家拾取了黑洞"
+  },
+  "{ PLAYER PICKED UP MINE }": {
+    "translation": "玩家拾取了地雷"
+  },
+  "{ ALL MINES USED }": {
+    "translation": "地雷已用尽"
+  },
+  "{ PLAYER PICKED UP SHIELD }": {
+    "translation": "玩家拾取了护盾"
+  },
+  "{ STAY ON THE YELLOW }": {
+    "translation": "站在黄色区域上"
+  },
+  "{ THIS IS TAKING TO LONG }": {
+    "translation": "耗时太久了"
+  },
+  "{ 5 }": {
+    "translation": "剩余5秒"
+  },
+  "{ 10 }": {
+    "translation": "剩余10秒"
+  },
+  "{ 15 }": {
+    "translation": "剩余15秒"
+  },
+  "{ STAGE COMPLETED }": {
+    "translation": "关卡完成"
+  },
+  "{ ZOMBIES DETECTED }": {
+    "translation": "检测到僵尸"
+  },
+  "{ ZOMBIES TELEPORTING SOON }": {
+    "translation": "僵尸即将传送"
+  },
+  "{ LADDER SHORTCUT OPENED }": {
+    "translation": "梯子捷径已开启"
+  },
+  "{ KILL THE CIPHER }": {
+    "translation": "击败密码体"
+  },
+  "{ WATER MOVING UP }": {
+    "translation": "水位正在上升"
+  },
+  "{ THIS IS TAKING TO LONG.. }": {
+    "translation": "耗时太久了.."
+  },
+  "{ 25 }": {
+    "translation": "剩余25秒"
+  },
+  "{ 20 }": {
+    "translation": "剩余20秒"
+  },
+  "{ DO NOT LET ANY ZOMBIES INSIDE }": {
+    "translation": "不要让僵尸进入"
+  },
+  "{ WATER MOVING FASTER }": {
+    "translation": "水位上升加快"
+  },
+  "{ BREAK ALL PURPLE CRYSTALS AND KILL THE CIPHER TO DISABLE THE SHIELD }": {
+    "translation": "打碎紫水晶并击败密码体破盾"
+  },
+  "{ LAST PLATFORM LEAVING SOON }": {
+    "translation": "最终平台即将离开"
+  },
+  "{ THANK YOU FOR PLAYING }": {
+    "translation": "感谢游玩"
+  },
+  "{ ZOMBIE DETECTED }": {
+    "translation": "检测到僵尸"
+  },
+  "{ DODGE THE BEAMS }": {
+    "translation": "躲避光束"
+  },
+  "{ STAY IN THE MIDDLE PLATFORM AND DONT LET ANY ZOMBIES TOUCH IT }": {
+    "translation": "守住中央平台防僵尸触碰"
+  },
+  "{ ZOMBIES CAN NOW REACH THE BOSS PLATFORM }": {
+    "translation": "僵尸可登上Boss平台"
+  },
+  "{ 35 }": {
+    "translation": "剩余35秒"
+  },
+  "{ 30 }": {
+    "translation": "剩余30秒"
+  },
+  "{ SURVIVE FOR 70 SECONDS }": {
+    "translation": "存活70秒"
+  },
+  "{ GET BACK TO THE MIDDLE TO ESCAPE THIS AREA }": {
+    "translation": "返回中央平台撤离"
+  },
+  "{ ZOMBIES WILL GET TELEPORTED FOR A WHILE }": {
+    "translation": "僵尸将被暂时传送"
+  },
+  "{ SWIM TO THE NEXT AREA }": {
+    "translation": "游向下一区域"
+  },
+  "{ TO SLOW }": {
+    "translation": "太慢了"
+  },
+  "{ GET TO THE MIDDLE PLATFORM }": {
+    "translation": "前往中央平台"
+  },
+  "{ HEAL MODIFIED }": {
+    "translation": "治疗效果已调整"
+  },
+  "{ PLAYER PICKED UP BEAM CANNON }": {
+    "translation": "玩家拾取了光束炮"
+  },
+  "{ PLAYER PICKED UP CLOUD }": {
+    "translation": "玩家拾取了雷云"
+  }
+}
