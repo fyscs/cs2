@@ -1,0 +1,632 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "**[Bash] We need to hold this area for 15 seconds!**": {
+    "translation": "守住这里15秒"
+  },
+  "**[Bash] The exit is right in front of us! Get ready for the final battle**": {
+    "translation": "出口就在前方!准备决战"
+  },
+  "**[Setzer] We have finally arrived. Welcome to Mt Bur-Omisace**": {
+    "translation": "欢迎来到神都奥米尔赛斯"
+  },
+  "**[Setzer] You have to go the rest of the way on your own. Flying closer is prohibited!**": {
+    "translation": "前方禁飞,剩下的路靠自己了"
+  },
+  "**[Setzer] We meet soon after Ashe talk to Al-Cid Margrace of Rozarria!**": {
+    "translation": "等艾雪见过侯爵后再会"
+  },
+  "**[Setzer] Good luck!**": {
+    "translation": "祝你们好运"
+  },
+  "**[Setzer] The temple is being attacked by the guardians!**": {
+    "translation": "神殿正遭帝国军袭击!"
+  },
+  "**[Setzer] We hit! We hit! We have to fly! So far you're on your own! Good luck**": {
+    "translation": "飞船中弹!之后靠你们了!"
+  },
+  "**The gates will open in 30 seconds**": {
+    "translation": "大门30秒后开启"
+  },
+  "**Type MAT_COLORCORRECTION 1 in console for better visuals**": {
+    "translation": "建议开启色彩修正提升画质"
+  },
+  "**[Balthier] We have to hold this area for 15 seconds! Get ready!**": {
+    "translation": "准备好,守住这里15秒"
+  },
+  "**[Balthier] Don't let them get to the balcony!**": {
+    "translation": "别让僵尸上露台!"
+  },
+  "**Buttons in the admin room have been unlocked!**": {
+    "translation": "调关房按钮已解锁"
+  },
+  "**Level has been changed on Legend Mode**": {
+    "translation": "管理员已切至传说模式"
+  },
+  "**Level has been changed on Ultimate Mode**": {
+    "translation": "管理员已切至终极模式"
+  },
+  "**Level has been changed on Hard Mode**": {
+    "translation": "管理员已切至困难模式"
+  },
+  "**Admin set Maximum Tenberry quest**": {
+    "translation": "管理员对冬贝利用了黑魔法"
+  },
+  "**Level has been changed on Normal Mode**": {
+    "translation": "管理员已切至普通模式"
+  },
+  "**Defend here for 25 seconds until the gates open**": {
+    "translation": "大门25秒后开启"
+  },
+  "**Defend here for 30 seconds until the gates open**": {
+    "translation": "大门30秒后开启"
+  },
+  "**[Bash] There are accounts of the holy city here dating back to writings from the age of the Galtean Alliance**": {
+    "translation": "神都记载可追溯至加尔太联盟"
+  },
+  "**[Bash] They did it to mark the place where the founder of the Light of Kiltia began to spread the teachings**": {
+    "translation": "此地纪念基里迪亚斯传教之始"
+  },
+  "**[Bash] The temple was built here by believers**": {
+    "translation": "神殿由信徒在此建立"
+  },
+  "**[Bash] On the understanding that Kiltia's followers would exempt themselves from political dealings in other lands**": {
+    "translation": "信徒承诺不涉他国政治"
+  },
+  "**[Bash] In its long history Mt Bur-Omisace has never fallen under the control of any foreign power**": {
+    "translation": "神都从未被外敌侵占"
+  },
+  "**[Bash] Kingdom and Empire both formed a pact to guarantee the holy city's independence": {
+    "translation": "王国与帝国均保障神都独立"
+  },
+  "**[Tonberry] Hello my friends! I sell and buy rare items! Take a look through my assortment**": {
+    "translation": "朋友!来看看我的稀有货"
+  },
+  "**[Tonberry] I lost my Workshop Keys could you help we find them?**": {
+    "translation": "我丢了工坊钥匙,能帮找齐吗"
+  },
+  "**[Tonberry] Thanks as a gratitude I'll give you a small gift when you next time give back all Keys**": {
+    "translation": "找齐钥匙后有谢礼相赠"
+  },
+  "**[Tonberry] Thanks for your help now I can go back to my own**": {
+    "translation": "多谢帮忙,我可以回去了"
+  },
+  "**[Tonberry] Congratulations! There is your reward!**": {
+    "translation": "干得漂亮!收下奖励!"
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 4 more keys**": {
+    "translation": "还没找齐?还差四把钥匙"
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 3 more keys**": {
+    "translation": "还没找齐?还差三把钥匙"
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 2 more keys**": {
+    "translation": "还没找齐?还差两把钥匙"
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 1 more keys**": {
+    "translation": "还没找齐?还差一把钥匙"
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 5 more keys**": {
+    "translation": "还没找齐?还差五把钥匙"
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 6 more keys**": {
+    "translation": "还没找齐?还差六把钥匙"
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 7 more keys**": {
+    "translation": "还没找齐?还差七把钥匙"
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 8 more keys**": {
+    "translation": "还没找齐?还差八把钥匙"
+  },
+  "**[Tonberry] Still havent found all keys? You need to bring me 9 more keys**": {
+    "translation": "还没找齐?还差九把钥匙"
+  },
+  "**[Balthier] Watch out! They are shooting us!**": {
+    "translation": "当心!敌人在向我们开火!"
+  },
+  "**The Gates of Temple will open soon!**": {
+    "translation": "神殿大门32秒后开启",
+    "countdown": 32
+  },
+  "**[Setzer] Anyway find and talk with Gran Kiltias. Hope he acknowledge her as the rightful heir to the throne of Dalmasca!**": {
+    "translation": "去找大僧正承认王位继承权"
+  },
+  "**[Setzer] Dark clouds begin to gather over Temple Grounds. This is a bad sign**": {
+    "translation": "神殿乌云密布,兆头不妙"
+  },
+  "**[Bash] We do not know they set additional traps for us! Be vigilant! Hold here for 20 seconds!**": {
+    "translation": "小心陷阱,守住这里20秒"
+  },
+  "**[Bash] The gates are open. We have finally entered the temple**": {
+    "translation": "大门已开,终于进入神殿"
+  },
+  "**[Bash] Find the way to the Hall of The Light and talk with Gran Kiltias**": {
+    "translation": "前往光之大厅面见大僧正"
+  },
+  "**The Gates of Temple will open in 35 seconds!**": {
+    "translation": "神殿大门35秒后开启"
+  },
+  "**[Ruprecht] Hello buddy I'm santa's helper. Could you do me a little favor for this fat ass?": {
+    "translation": "我是圣诞老人的助手,能帮个忙吗?"
+  },
+  "**[Ruprecht] I need to collect letters from all mailboxes in the Mt Bur-Omisace**": {
+    "translation": "请帮我收集神都邮筒的信件"
+  },
+  "**[Ruprecht] If you can help me with them I will be very grateful!**": {
+    "translation": "若能集齐信件,感激不尽!"
+  },
+  "**[Ruprecht] All you have to do is go to the mailbox and click the E button**": {
+    "translation": "走到邮筒旁按E键即可"
+  },
+  "**Santa Claus SideQuest completed!**": {
+    "translation": "圣诞支线任务已完成!"
+  },
+  "**Judge Bergan summons Esper Famfirt!**": {
+    "translation": "[贝甘]<法姆弗里特> 小心四周推力"
+  },
+  "**Judge Bergan summons Esper Adrammelech!**": {
+    "translation": "[贝甘]<愤怒之灵帝> 躲脚底X闪电"
+  },
+  "**Judge Bergan summons Esper Zodiark!**": {
+    "translation": "[贝甘]<戒律王> 远离圆形特效!"
+  },
+  "**Judge Bergan summons Esper Shemhazai!**": {
+    "translation": "[贝甘]<密告者> 点名远离脚底!"
+  },
+  "**Judge Bergan has casted Wind Salvo!**": {
+    "translation": "[贝甘]<暴风齐流> 小心推力!"
+  },
+  "**[Vaan] Don't stand too close to the edge! Zombies can cross over to us through the platforms!**": {
+    "translation": "远离边缘!僵尸会从两侧跳来!"
+  },
+  "**[Bash] Juge Bergan has summoned Venat! Kill him before is too late**": {
+    "translation": "[贝甘]<维涅斯> 优先集火杀掉!"
+  },
+  "**Judge Bergan has casted Ceremony of the Nether!**": {
+    "translation": "[贝甘]<冥界圣典>"
+  },
+  "**[Balthier] King Bomb is coming! Shoot him before he kill us!**": {
+    "translation": "炸弹王来了!快集火射击!"
+  },
+  "**[Balthier] Esper Zodiark is coming! Shoot him before he kill us!**": {
+    "translation": "戒律王来了!快集火射击!"
+  },
+  "**A player has picked up Dark Magick**": {
+    "translation": "玩家拾取 [引力魔法]"
+  },
+  "**Beaten Ending - KING BOMB!**": {
+    "translation": "达成结局: 炸弹王!"
+  },
+  "**Beaten Ending - ESPER ZODIARK!**": {
+    "translation": "达成结局: 戒律王!"
+  },
+  "**Beaten Ending - JUDGE DRACE!**": {
+    "translation": "达成结局: 多雷斯!"
+  },
+  "**[SECURITY ALERT] Engine 01 has been stopped manually!**": {
+    "translation": "警报: 引擎一号已关闭"
+  },
+  "**Catwalk Gate will open in 5 seconds**": {
+    "translation": "小路的门5秒后打开"
+  },
+  "**[SECURITY ALERT] Engine 02 has been stopped manually!**": {
+    "translation": "警报: 引擎二号已关闭"
+  },
+  "**[SECURITY ALERT] Engine 03 has been stopped manually!**": {
+    "translation": "警报: 引擎三号已关闭"
+  },
+  "**[SECURITY ALERT] All engines shut down! The main gate will open in 25 second!**": {
+    "translation": "所有引擎已关!主门25秒后打开"
+  },
+  "**[Bash] Look out! The Imperial Army is attacking!!**": {
+    "translation": "当心!帝国军发起进攻!"
+  },
+  "**[Bash] To be sure that the Sky Fortress will blow up we have to block the power supply from the three engines**": {
+    "translation": "切断三处引擎供能以引爆堡垒"
+  },
+  "**[Bash] There should be a control panel next to each of them! Turn off the engines and run away as fast as possible!**": {
+    "translation": "用旁边的面板关引擎后快撤!"
+  },
+  "**The gates will open in 25 seconds!**": {
+    "translation": "大门25秒后开启"
+  },
+  "**[Bash] The goal is clear - destroy the airship and defeat Judge Gabranth!**": {
+    "translation": "目标明确!摧毁飞船击败加布拉斯"
+  },
+  "**[Bash] We finally made it! Welcome to the Sky Fortress Bahamut!**": {
+    "translation": "欢迎来到巴哈姆特空中堡垒"
+  },
+  "**The gates will open in 15 seconds**": {
+    "translation": "大门15秒后开启"
+  },
+  "**[Bash] Main engines could explode at any moment don't stay here too long!**": {
+    "translation": "主引擎随时爆炸,别久留!"
+  },
+  "**[Bash] It's last hold! Be ready to escape!**": {
+    "translation": "最后防守!准备撤离!"
+  },
+  "**The airship will take us to the Sky Fortress Bahamut in 35 seconds**": {
+    "translation": "飞船35秒后前往空中堡垒"
+  },
+  "**[Bash] We must hurry before they destroy the whole temple!**": {
+    "translation": "赶在神殿被毁前快走!"
+  },
+  "**[Balthier] Get on board. If we don't fly immediately they'll shoot us down!**": {
+    "translation": "快登船,再不走会被击落!"
+  },
+  "**[Vossler York Azelas] Break one of these beams and an alarm will sound summoning the guard**": {
+    "translation": "触碰光束会触发警报招来守卫"
+  },
+  "**[Vossler York Azelas] The alarm should cease after a time! But it's better to avoid drawing unnecessary attention!**": {
+    "translation": "警报会停,但尽量别惊动敌人"
+  },
+  "**[Vossler York Azelas] It is a mechanism to detect intruders within the ship**": {
+    "translation": "那是飞船内的入侵侦测机关"
+  },
+  "**[Vossler York Azelas] See that blurred gates**": {
+    "translation": "注意那道模糊的光门"
+  },
+  "**[Vossler York Azelas] Wait. A word of caution before we set out!**": {
+    "translation": "等等,出发前提醒一句"
+  },
+  "**Antechamber will open in 35 seconds**": {
+    "translation": "接待室35秒后打开"
+  },
+  "**A player has picked up Blizzard Magick**": {
+    "translation": "玩家拾取 [暴雪魔法]"
+  },
+  "**A player has picked up Invisible Magick**": {
+    "translation": "僵尸拾取 [隐身魔法]"
+  },
+  "**[Bash] Judge Bergan has casted his final attack! Kill him quickly!**": {
+    "translation": "[贝甘]<最终攻击> 快集火!"
+  },
+  "**[Bash] Some of your items can damage the boss**": {
+    "translation": "部分神器可对Boss造成伤害"
+  },
+  "**Nades do more damage**": {
+    "translation": "手雷可造成额外伤害!"
+  },
+  "**A player has picked up Thunder Magick**": {
+    "translation": "玩家拾取 [雷电魔法]"
+  },
+  "**A player has picked up Sand Magick**": {
+    "translation": "玩家拾取 [流沙魔法]"
+  },
+  "**A player has picked up Fear Magick**": {
+    "translation": "僵尸拾取 [恐惧魔法](减速)"
+  },
+  "**[Bash] Finally! Venat is dead! Now we can deal with Bergan!**": {
+    "translation": "维涅斯已死!继续打贝甘!"
+  },
+  "**A player has picked up Fire Magick**": {
+    "translation": "玩家拾取 [火焰魔法]"
+  },
+  "**A player has picked up Betelgeuse**": {
+    "translation": "玩家拾取 [参宿四](伤害)"
+  },
+  "**A player has picked up Crystal Shield**": {
+    "translation": "玩家拾取 [水晶之盾]"
+  },
+  "**A player has picked up Damage Magick**": {
+    "translation": "僵尸拾取 [伤害魔法]"
+  },
+  "**[Bash] Iron Golem has casted its final attack! Kill him quickly!**": {
+    "translation": "[铁巨人]<最终攻击> 快集火!"
+  },
+  "**[Bash] We shouldn't have come in here. Let's get out of here while we still can!**": {
+    "translation": "不该来这,趁现在快撤!"
+  },
+  "**The Iron Giant has vanquished!**": {
+    "translation": "铁巨人已被击败!"
+  },
+  "**A player has picked up Poison Magick**": {
+    "translation": "玩家拾取 [毒魔法]"
+  },
+  "[Bash] Judge is dead! Keep running!!**": {
+    "translation": "裁判长已死!继续跑!"
+  },
+  "**[Bash] Nades do more damage**": {
+    "translation": "手雷可造成额外伤害!"
+  },
+  "**[Setzer] Watch out! We clean them out!**": {
+    "translation": "当心!清理掉敌人!"
+  },
+  "**[Setzer] Hold on! They blocking the path!**": {
+    "translation": "等等!敌人堵住了路!"
+  },
+  "**[Bash] Adrammelech vanquished! Path is clear!**": {
+    "translation": "愤怒之灵帝已败!道路畅通!"
+  },
+  "**[Bash] Adrammelech blocked the path! Shoot him before is too late!**": {
+    "translation": "愤怒之灵帝挡路!快集火!"
+  },
+  "**[Bash] The crystal has been destroyed! It takes 15 seconds to fully activate!**": {
+    "translation": "水晶已碎!还需15秒激活"
+  },
+  "**[Bash] Get to the fountain! Fast!**": {
+    "translation": "快去喷泉那边!"
+  },
+  "**[Bash] The Guard of the gates. If we want to escape we have to defeat him!**": {
+    "translation": "击败守门卫兵才能撤离!"
+  },
+  "**[Balthier] It's a dead end!**": {
+    "translation": "前面是死路!"
+  },
+  "**[Bash] Destroy the activation crystal or we'll all stay here forever**": {
+    "translation": "打碎激活水晶,否则困死在这!"
+  },
+  "**The gates will open in 20 seconds**": {
+    "translation": "大门20秒后开启"
+  },
+  "**The gates will open in 10 seconds**": {
+    "translation": "大门10秒后开启"
+  },
+  "**Stage completed!**": {
+    "translation": "关卡完成"
+  },
+  "**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**": {
+    "translation": "消灭所有僵尸才能通关!"
+  },
+  "**[Bash] Imperial Army trying to block the temple!**": {
+    "translation": "帝国军正在封锁神殿!"
+  },
+  "**[Vaan] Look! There is clean path! Keep running!**": {
+    "translation": "前面有通路!继续跑!"
+  },
+  "**[Vaan] We have to get out of here before the main gates collapses!**": {
+    "translation": "赶在主门坍塌前撤离!"
+  },
+  "**[Bash] The Imperial Army set fire to the temples!**": {
+    "translation": "帝国军纵火焚烧了神殿!"
+  },
+  "**[Bash] Gabranth is defeated - Escape!**": {
+    "translation": "加布拉斯已败!快撤离!"
+  },
+  "**[Balthier] We need to get to the engines on the left and right side**": {
+    "translation": "前往左右两侧的引擎室"
+  },
+  "**[Balthier] Don't let the zombies get through the main gate! **": {
+    "translation": "别让僵尸突破主大门!"
+  },
+  "**[Balthier] When all engines are stopped the exit gate will be automatically opened!**": {
+    "translation": "引擎全停后出口将自动开启"
+  },
+  "**[Vaan] Judge Gabranth has casted his final attack! Kill him quickly!**": {
+    "translation": "[加布拉斯]<最终攻击> 快集火!"
+  },
+  "**[Bash] Defeat Gabrath before reinforcements come!**": {
+    "translation": "增援赶到前击败加布拉斯!"
+  },
+  "**A player has picked up Aero Magick**": {
+    "translation": "玩家拾取 [风暴魔法]"
+  },
+  "**[Bash] Well done! Hold this area for 35 seconds until the gates open!**": {
+    "translation": "干得好!大门35秒后开启"
+  },
+  "**[Panelo] Nobody has visited this place in a long time!**": {
+    "translation": "这里很久没人来过了!"
+  },
+  "**[Panelo] We should be able to open the gates 10 seconds!**": {
+    "translation": "大门10秒后就能打开!"
+  },
+  "**[Bash] Well done! Hold this area for 25 seconds until the gates open!**": {
+    "translation": "干得好!大门25秒后开启"
+  },
+  "**[Balthier] There is no other option, we have to go even lower**": {
+    "translation": "没别的选择,继续往下走"
+  },
+  "**[Balthier] No matter what, we can't stop! remember not to separate**": {
+    "translation": "别停下!千万不要走散"
+  },
+  "**[Bash] The Guard has vanquished! Keep runing!**": {
+    "translation": "守卫已击败!继续前进"
+  },
+  "**A player has picked up Excalibur**": {
+    "translation": "玩家拾取 [王者之剑](击退)"
+  },
+  "**A player has picked up Stone Blade**": {
+    "translation": "玩家拾取 [岩石剑](伤害)"
+  },
+  "**A player has picked up Protection Magick**": {
+    "translation": "僵尸拾取 [守护魔法](免终极)"
+  },
+  "**A player has picked up Judge Zargabaath**": {
+    "translation": "僵尸拾取 [扎尔伽巴斯]"
+  },
+  "**[Vaan] Iron Giant gonna attack! Look out!**": {
+    "translation": "当心!铁巨人要攻击了!"
+  },
+  "**A player has picked up Treaty-Blade**": {
+    "translation": "玩家拾取 [契约之剑](弹药)"
+  },
+  "**A player has picked up Dragon Whisker**": {
+    "translation": "玩家拾取 [龙须](火球)"
+  },
+  "**A player has picked up Storm Spear**": {
+    "translation": "玩家拾取 [风暴之矛](陷阱)"
+  },
+  "**A player has picked up The Devileye**": {
+    "translation": "玩家拾取 [恶魔之眼]"
+  },
+  "**A player has picked up Cortahombres**": {
+    "translation": "玩家拾取 [斩男](减速)"
+  },
+  "**Shadowkeeper casted Dark Trinity Storm! Get out of middle!**": {
+    "translation": "[暗影守卫]<暗黑风暴> 离开中场!"
+  },
+  "**[Bash] Hurry up! Shadowkeeper power up his abilities!**": {
+    "translation": "暗影守卫强化了技能,快打!"
+  },
+  "**[Bash] Shadowkeeper has casted its final attack! Kill him quickly!**": {
+    "translation": "[暗影守卫]<最终攻击> 快集火!"
+  },
+  "**The Shadowkeeper has vanquished!**": {
+    "translation": "暗影守卫已被击败!"
+  },
+  "**[Bash] We need to get out of here! Use the same gate we came in through**": {
+    "translation": "快撤!从进来的门原路离开"
+  },
+  "**[Vaan] Is that who I think it is!?**": {
+    "translation": "难道是那家伙!?"
+  },
+  "**[Bash] Yes! It's the Shadowkeeper! Formidable lupine abomination! We must kill him before he kills us!**": {
+    "translation": "是魔狼暗影守卫!先手消灭它!"
+  },
+  "**[Bash] Prepare for battle! Do not get close or you will die immediately!**": {
+    "translation": "准备战斗!靠近会被秒杀!"
+  },
+  "**[Balthier] Keep your shit and shoot this beast!**": {
+    "translation": "稳住阵脚,集火这头野兽!"
+  },
+  "**[Bash] It's true form of Shadowkeeper! Oh no we doomed!**": {
+    "translation": "暗影守卫真身!情况不妙!"
+  },
+  "**[Fran] Dont enter the teleporter! It's unstable and could send you anywhere**": {
+    "translation": "传送还不稳定,先别进!"
+  },
+  "**[Fran] I think I managed to stabilize it! Get to the teleport!**": {
+    "translation": "传送已稳定!快进传送点!"
+  },
+  "**[Vaan] Wait!? We have nowhere to run?**": {
+    "translation": "等等!?已经无路可逃了吗?"
+  },
+  "**[Fran] Ill try to fix it but I dont know how long it?ll take**": {
+    "translation": "我来抢修传送,尽量拖住!"
+  },
+  "**[Vaan] What's that!? Cactus...**": {
+    "translation": "那是什么?!仙人掌.."
+  },
+  "**[Ashe] Not again... Shoot him because he will never leave us alone!**": {
+    "translation": "又是它,快开枪打掉仙人掌!"
+  },
+  "**Judge Bergan has casted Aura of Water!**": {
+    "translation": "[贝甘]<水华> 按W抵抗!"
+  },
+  "**Judge Bergan has casted 1000 Needles!**": {
+    "translation": "[贝甘]<千针刺> 蹲下!"
+  },
+  "**Judge Bergan is going to throw his blade! Do not stay together!**": {
+    "translation": "[贝甘]掷剑攻击,分散站位!"
+  },
+  "**Judge Bergan has cased Flash of Burning Souls!**": {
+    "translation": "[贝甘]<燃烧之魂> 远离中场火!"
+  },
+  "**Judge Bergan has casted Dedication Aura!**": {
+    "translation": "[贝甘]<献祭之光> 停火!"
+  },
+  "**Judge Bergan has casted Rage of Magic!**": {
+    "translation": "[贝甘]<魔力爆散> 下招秒杀中场!"
+  },
+  "**Judge Bergan has casted Flash of Shattering!**": {
+    "translation": "[贝甘]<闪耀破碎>"
+  },
+  "**All Bergan attacks do double damage!**": {
+    "translation": "[贝甘]<双倍伤害>!"
+  },
+  "**Judge Bergan has casted Frost Fury!**": {
+    "translation": "[贝甘]<霜寒爆裂>"
+  },
+  "**Judge Bergan has casted Soul Siphon!**": {
+    "translation": "[贝甘]<灵魂虹吸> 远离头顶火球"
+  },
+  "**[Bash] Well done! You interrupted the attack and now you may attack Judge Berga**": {
+    "translation": "攻击已打断,继续输出贝甘!"
+  },
+  "**Judge Bergan has casted Moon Blast!**": {
+    "translation": "[贝甘]<月爆>"
+  },
+  "**[Bash] You can't do any harm to Judge Bergan until you destroy the moonlight!**": {
+    "translation": "先打碎月爆才能伤到贝甘!"
+  },
+  "**Judge Bergan has casted Gift of Plagues!**": {
+    "translation": "[贝甘]<瘟疫蔓延> 站中场!"
+  },
+  "**Judge Bergan has casted Tranquility Wave!**": {
+    "translation": "[贝甘]<静爆> 按S抵抗!"
+  },
+  "**The way is open! Keep running!**": {
+    "translation": "道路已开!快跑!"
+  },
+  "**A player has picked up Zombie Dark Magick**": {
+    "translation": "僵尸拾取 [黑洞魔法]"
+  },
+  "**A player has picked up Judge Drace**": {
+    "translation": "僵尸拾取 [多雷斯]"
+  },
+  "**[Bash] The Imperial Army has blocked the entrance! We must defeat them before it is too late!**": {
+    "translation": "帝国军堵住入口!尽快击败!"
+  },
+  "**[Bash] Well done! The Path is clear! RUN!**": {
+    "translation": "道路已通,快跑!"
+  },
+  "**A player has picked up Cure Magick**": {
+    "translation": "玩家拾取 [治疗魔法]"
+  },
+  "**Hold this area for 17 seconds!**": {
+    "translation": "守住这里17秒!"
+  },
+  "**A player has picked up Limit Break Magick**": {
+    "translation": "玩家拾取 [超越极限]"
+  },
+  "**Hold here! Gates will open in 15 seconds!**": {
+    "translation": "大门15秒后开启!"
+  },
+  "**Judge Bergan has casted Spell of Demon Fire!**": {
+    "translation": "[贝甘]<恶魔之火> 远离中场火环!"
+  },
+  "**Judge Bergan has casted Illusion of Souls!**": {
+    "translation": "[贝甘]<灵魂幻影>"
+  },
+  "**Judge Bergan has casted Frost Bolt!**": {
+    "translation": "[贝甘]<霜寒闪电>"
+  },
+  "**Judge Bergan has casted Blazing Surge!**": {
+    "translation": "[贝甘]<炽流奔涌> 小心周身火!"
+  },
+  "**Judge Bergan has casted Emberwrought Aegis!**": {
+    "translation": "[贝甘]<余烬神盾> 远离四周火圈!"
+  },
+  "**[Bash] Remember trust no one!**": {
+    "translation": "记住,别相信任何人!"
+  },
+  "**[Balthier] Anyway we need to get out of here! Imperial reinforcements incoming!**": {
+    "translation": "帝国增援将至,快撤离!"
+  },
+  "**[Balthier] He set his very bones about with manufacted nethicite**": {
+    "translation": "他将全身骨骼嵌满了人造破魔石"
+  },
+  "**[Bash] Judge Bergan used Magicite! We have to kill him!**": {
+    "translation": "贝甘吸收了魔石!必须击败他!"
+  },
+  "**Judge Bergan summons Esper Chaos!**": {
+    "translation": "[贝甘]<轮回王> 小心落雷!"
+  },
+  "**Judge Bergan summons Esper Ultima!**": {
+    "translation": "[贝甘]<圣天使> 全员100血!"
+  },
+  "**You are too slow**": {
+    "translation": "你们太慢了..."
+  },
+  "**[Bash] Main engines are about to explode! Warning grab something!**": {
+    "translation": "主引擎即将爆炸!抓稳了!"
+  },
+  "**You have beaten Mt Bur Omisace! Congratulations!**": {
+    "translation": "恭喜通关神都奥米尔赛斯!"
+  },
+  "**[Gabranth] Ha Defend?! You!?**": {
+    "translation": "[加布拉斯] 凭你们也配抵抗?!"
+  },
+  "**A player has picked up Ultimate Blade**": {
+    "translation": "玩家拾取 [终极之剑]"
+  }
+}
