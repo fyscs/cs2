@@ -1,0 +1,280 @@
+// Console SayText i18n file generator.
+// i18n Version v21
+// Copyright 2026 Kyle 'Kxnrl' Frankiss.
+// https://github.com/Kxnrl
+
+  // 可用字段:
+  // blocked    (bool) -> 屏蔽本句输出
+  // clearText  (bool) -> 清除所有HUD文本
+  // clearTimer (bool) -> 清除所有倒计时
+  // countdown  (int)  -> 添加特殊的独立的倒计时
+
+{
+  "< Golem Ahglan >": {
+    "translation": "< 安哥拉傀儡 >"
+  },
+  "*** Admin Selected SoulMode ***": {
+    "translation": "*** 管理员选择了灵魂模式 ***"
+  },
+  "[Zombies Mode]": {
+    "translation": "[ZM模式]"
+  },
+  "*** The vents are going to open ***": {
+    "translation": "*** 通风口即将打开 ***"
+  },
+  "< Golem Ahglan has deafeted >": {
+    "translation": "< 安哥拉傀儡已被击败 >"
+  },
+  "< Defend here for 5 seconds >": {
+    "translation": "< 在此防守5秒 >"
+  },
+  "< Break the zombie cage in 5 seconds >": {
+    "translation": "< 僵尸牢笼5秒后破碎 >"
+  },
+  "< The gate opens in 50 seconds >": {
+    "translation": "< 大门50秒后开启 >"
+  },
+  "< Defend last gate for 25 seconds >": {
+    "translation": "< 防守最后的大门25秒 >"
+  },
+  "< Earth Quake >": {
+    "translation": "< 地震 >"
+  },
+  "[TheLast Mode]": {
+    "translation": "[终焉模式]"
+  },
+  "*** Admin Selected NormalMode ***": {
+    "translation": "*** 管理员选择了普通模式 ***"
+  },
+  "*** Admin Selected Terminal ***": {
+    "translation": "*** 管理员选择了终焉模式 ***"
+  },
+  "< Sandstorm >": {
+    "translation": "< 沙暴 >"
+  },
+  "*** Admin Selected HardMode ***": {
+    "translation": "*** 管理员选择了困难模式 ***"
+  },
+  "*** Admin Selected Ragnarok ***": {
+    "translation": "*** 管理员选择了诸神黄昏 ***"
+  },
+  "< Gravity >": {
+    "translation": "< 重力 >"
+  },
+  "< Soul >": {
+    "translation": "< 灵魂 >"
+  },
+  "*** Golem Ahglan Defeated ***": {
+    "translation": "*** 安哥拉傀儡已被击败 ***"
+  },
+  "< Cichol >": {
+    "translation": "< 锡古 >"
+  },
+  "< Wind has been acquired >": {
+    "translation": "< 风已被拾取 >"
+  },
+  "< Heal light has been acquired >": {
+    "translation": "< 治疗已被拾取 >"
+  },
+  "< The Soul has been defeated >": {
+    "translation": "< 灵魂已被击败 >"
+  },
+  "< A zombie picked up Frozen Crystal  >": {
+    "translation": "< 僵尸拾取了冰晶 >"
+  },
+  "< Thunder has been acquired >": {
+    "translation": "< 雷电已被拾取 >"
+  },
+  "< A zombie picked up Accelration  >": {
+    "translation": "< 僵尸拾取了加速 >"
+  },
+  "< Release is almost upon us >": {
+    "translation": "< 圣光即将释放 >"
+  },
+  "< Earth has been acquired >": {
+    "translation": "< 土已被拾取 >"
+  },
+  "< Time Piercing Sword has been acquired >": {
+    "translation": "< 剑已被拾取 >"
+  },
+  "< FlameShadow has been acquired >": {
+    "translation": "< 火已被拾取 >"
+  },
+  "< Purifying Javelin has been acquired >": {
+    "translation": "< 标枪已被拾取 >"
+  },
+  "< A zombie picked up Poison Nova  >": {
+    "translation": "< 僵尸拾取了剧毒 >"
+  },
+  "< A zombie picked up Devastation  >": {
+    "translation": "< 僵尸拾取了秒杀 >"
+  },
+  "< Singurality has been acquired >": {
+    "translation": "< 黑洞已被拾取 >"
+  },
+  "< A zombie picked up Dark Magick >": {
+    "translation": "< 僵尸拾取了黑魔法 >"
+  },
+  "< Frost Nova has been acquired >": {
+    "translation": "< 冰已被拾取 >"
+  },
+  "< A zombie picked up Fortress Magic  >": {
+    "translation": "< 僵尸拾取了护盾 >"
+  },
+  "*** A radiant gale is gathering—brace for the knockback! ***": {
+    "translation": "*** 耀眼狂风正在聚集 - 注意防击退! ***"
+  },
+  "*** Defend here for 10 seconds ***": {
+    "translation": "*** 在此防守10秒 ***"
+  },
+  "*** Entrance gate opens in 20 seconds ***": {
+    "translation": "*** 入口大门20秒后开启 ***"
+  },
+  "*** Entrance gate opens in 25 seconds ***": {
+    "translation": "*** 入口大门25秒后开启 ***"
+  },
+  "*** Entrance gate opens in 30 seconds ***": {
+    "translation": "*** 入口大门30秒后开启 ***"
+  },
+  "*** Final defend for 20 seconds ***": {
+    "translation": "*** 最后防守20秒 ***"
+  },
+  "*** Go ***": {
+    "translation": "*** 前进 ***"
+  },
+  "*** HUMANS WIN ***": {
+    "translation": "*** 人类获胜 ***"
+  },
+  "*** Holy - Go to side!!! ***": {
+    "translation": "*** 神圣冲击 - 快去两侧!!! ***"
+  },
+  "*** Kill all zombies in 11 seconds ***": {
+    "translation": "*** 在11秒内消灭所有僵尸 ***"
+  },
+  "*** Left gate opens in 25 seconds ***": {
+    "translation": "*** 左侧大门25秒后开启 ***"
+  },
+  "*** Map by Pohmian/Mochi and Azure***": {
+    "translation": "*** 地图作者: Pohmian, Mochi, Azure ***"
+  },
+  "*** Moving to NORMAL mode ***": {
+    "translation": "*** 正在进入普通模式 ***"
+  },
+  "*** POSSESSION-SERVER, ZEDDY-GAMING and All Testing Players ***": {
+    "translation": "*** POSSESSION-SERVER, ZEDDY-GAMING 以及所有测试玩家 ***"
+  },
+  "*** Radiant energy floods the area! ***": {
+    "translation": "*** 耀眼能量席卷全场! ***"
+  },
+  "*** Right gate opens in 30 seconds ***": {
+    "translation": "*** 右侧大门30秒后开启 ***"
+  },
+  "*** Round Failed ***": {
+    "translation": "*** 回合失败 ***"
+  },
+  "*** SHUFEN, kawagoe, Raio, uru ***": {
+    "translation": "*** SHUFEN, kawagoe, Raio, uru ***"
+  },
+  "*** Special Thanks to...... ***": {
+    "translation": "*** 特别鸣谢...... ***"
+  },
+  "*** The doors break in 20 seconds ***": {
+    "translation": "*** 大门20秒后破碎 ***"
+  },
+  "*** The gate opens in 10 seconds ***": {
+    "translation": "*** 大门10秒后开启 ***"
+  },
+  "*** The gate opens in 15 seconds ***": {
+    "translation": "*** 大门15秒后开启 ***"
+  },
+  "*** The gate opens in 20 seconds ***": {
+    "translation": "*** 大门20秒后开启 ***"
+  },
+  "*** The gate opens in 25 seconds ***": {
+    "translation": "*** 大门25秒后开启 ***"
+  },
+  "*** The gate opens in 30 seconds ***": {
+    "translation": "*** 大门30秒后开启 ***"
+  },
+  "*** The gates open in 10 seconds ***": {
+    "translation": "*** 大门10秒后开启 ***"
+  },
+  "*** The gates open in 20 seconds ***": {
+    "translation": "*** 大门20秒后开启 ***"
+  },
+  "*** The metal gate breaks in 5 seconds ***": {
+    "translation": "*** 铁门5秒后破碎 ***"
+  },
+  "*** The middle-gate opens in 15 seconds ***": {
+    "translation": "*** 中门15秒后开启 ***"
+  },
+  "*** The side-gates open in 10 seconds ***": {
+    "translation": "*** 侧门10秒后开启 ***"
+  },
+  "*** Two gates open in 30 seconds ***": {
+    "translation": "*** 两扇大门30秒后开启 ***"
+  },
+  "*** Two gates open in 35 seconds ***": {
+    "translation": "*** 两扇大门35秒后开启 ***"
+  },
+  "*** Welcome to Genso ***": {
+    "translation": "*** 欢迎来到幻想乡 ***"
+  },
+  "*** ZM-Items are restricted!!! ***": {
+    "translation": "*** 僵尸神器已禁用!!! ***"
+  },
+  "*** ZOMBIES ARE DETECTED ***": {
+    "translation": "*** 检测到区域内有僵尸 ***"
+  },
+  "*** ze_genso_of_last_v4 ***": {
+    "translation": "*** ze_genso_of_last_v4 ***"
+  },
+  "***now, timertick are changed ***": {
+    "translation": "*** 计时频率已变更 ***"
+  },
+  "< Break all water columns at the corners. >": {
+    "translation": "< 打碎四角的所有水柱 >"
+  },
+  "< CrossCut - Get out of the corners. >": {
+    "translation": "< 十字斩 - 离开四个角落 >"
+  },
+  "< Get in the circles for obtaining immunity. >": {
+    "translation": "< 进入光圈以获得无敌免疫 >"
+  },
+  "< Grenades do more damage >": {
+    "translation": "< 手雷可造成更高伤害 >"
+  },
+  "< Grim Reaper is catching you >": {
+    "translation": "< 死神正在追捕你们 >"
+  },
+  "< Grim Reaper retreated!! >": {
+    "translation": "< 死神撤退了!! >"
+  },
+  "< Mercury Strike - Go to side. >": {
+    "translation": "< 水银冲击 - 快去两侧 >"
+  },
+  "< Meteor >": {
+    "translation": "< 陨石 >"
+  },
+  "< Shock Wave >": {
+    "translation": "< 冲击波 >"
+  },
+  "< The Soul fizzled out. >": {
+    "translation": "< 灵魂已彻底消散 >"
+  },
+  "< Tornado >": {
+    "translation": "< 龙卷风 >"
+  },
+  "Attack System got any error!!": {
+    "translation": "攻击系统发生错误!!"
+  },
+  "[Hard Mode]": {
+    "translation": "[困难模式]"
+  },
+  "[Normal Mode]": {
+    "translation": "[普通模式]"
+  },
+  "[Soul-Mode]": {
+    "translation": "[灵魂模式]"
+  }
+}

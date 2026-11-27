@@ -21,5 +21,52 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
-  "Proxy": true
+  "Proxy": true,
+  "Counters": [
+    {
+      "iterator": "st3_boss_counter",
+      "hitbox": "st3_boss_breakable",
+      "display": "灵魂"
+    },
+    {
+      "iterator": "st3_boss2_counter",
+      "hitbox": "st3_boss2_breakable",
+      "display": "安哥拉傀儡"
+    }
+  ],
+  // 机制物与护盾水晶只提示剩余血量, 不刷 Boss 结算榜.
+  "Monsters": [
+    {
+      "identity": "591",
+      "display": "圣光水晶"
+    },
+    {
+      "identity": "4100",
+      "display": "水柱1"
+    },
+    {
+      "identity": "4240",
+      "display": "水柱2"
+    },
+    {
+      "identity": "4469",
+      "display": "水柱3"
+    },
+    {
+      "identity": "4471",
+      "display": "水柱4"
+    },
+    {
+      "identity": "13898",
+      "display": "龙卷风"
+    },
+    {
+      "identity": "456",
+      "display": "堡垒护盾"
+    },
+    {
+      "identity": "1727",
+      "display": "寒冰水晶"
+    }
+  ]
 }
