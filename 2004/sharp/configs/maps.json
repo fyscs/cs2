@@ -242,19 +242,19 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
-  "mg_skeet_multigames_v7": {
-    "admin": false,
+  "mg_shouwangzhe_v1": {
+    "admin": true,
     "certainTimes": [-1],
-    "cooldown": 10,
+    "cooldown": 12,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
-  "mg_shouwangzhe_v1": {
-    "admin": true,
+  "mg_skeet_multigames_v7": {
+    "admin": false,
     "certainTimes": [-1],
-    "cooldown": 12,
+    "cooldown": 10,
     "nomination": false,
     "price": 300,
     "requiredOnline": -1,

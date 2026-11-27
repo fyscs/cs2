@@ -215,6 +215,15 @@
     "requiredOnline": -1,
     "requiredPlayers": -1
   },
+  "ttt_cs2_minecraft_village_city": {
+    "admin": false,
+    "certainTimes": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+    "cooldown": 10,
+    "nomination": false,
+    "price": 250,
+    "requiredOnline": -1,
+    "requiredPlayers": -1
+  },
   "ttt_cs2_moonjam": {
     "admin": false,
     "certainTimes": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
@@ -340,15 +349,6 @@
     "price": 350,
     "requiredOnline": -1,
     "requiredPlayers": 10
-  },
-  "ttt_cs2_minecraft_village_city": {
-    "admin": false,
-    "certainTimes": [0, 1, 2, 3, 4, 5, 6, 7, 8],
-    "cooldown": 10,
-    "nomination": false,
-    "price": 250,
-    "requiredOnline": -1,
-    "requiredPlayers": -1
   },
   "ttt_damons_canyon_cs2": {
     "admin": false,
